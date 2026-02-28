@@ -90,7 +90,7 @@
     <v dropGroupIDs="107" minLevel="50" dropCount="0,1" dropCountProbability="0,10000" reference1="크리스탈 파편 드롭" />
     <!-- <v dropGroupIDs="2" dropCount="1" dropCountProbability="10000" locale="KR" reference1="글로벌 장비 드롭" /> -->
     <!-- 新增 add -->
-  	<v dropGroupIDs="2" dropCount="0,1" dropCountProbability="7500,2500" locale="KR" reference1="글로벌 장비 드롭" /> 
+  	<v dropGroupIDs="2" dropCount="0,1" dropCountProbability="7500,2500" locale="KR" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="2" dropCount="0,1" dropCountProbability="7500,2500" locale="CN" reference1="글로벌 장비 드롭" />
   </dropBox>
   <dropBox dropBoxID="5" comment="쉐도우월드 필드 몬스터">
@@ -160,11 +160,23 @@
     <v dropGroupIDs="107" minLevel="41" maxLevel="49" dropCount="0,1" dropCountProbability="3600,6400" reference1="크리스탈 파편 드롭" />
     <v dropGroupIDs="107" minLevel="50" dropCount="0,1" dropCountProbability="0,10000" reference1="크리스탈 파편 드롭" />
   </dropBox>
-  <dropBox dropBoxID="31" comment="젬스톤확정이후 던전[어려움] 클리어 보상젬스톤 더스트 선택상자">
-    <!-- <v dropGroupIDs="614" minLevel="50" dropCount="1" dropCountProbability="10000" /> -->
+  <dropBox dropBoxID="31" comment="Gemstone Box After Dungeon/Raid">
+    <v dropGroupIDs="614" minLevel="50" dropCount="1" dropCountProbability="10000" />
   </dropBox>
-  <dropBox dropBoxID="32" comment="카오스[일반] 붉은별 보상_NAJP이후붉은 별">
+  <dropBox dropBoxID="32" comment="Chaos Red Star Reward">
     <v dropGroupIDs="609" dropCount="1" dropCountProbability="10000" />
+  </dropBox>
+  <dropBox dropBoxID="33" comment="Dungeon Red Star Reward">
+    <v dropGroupIDs="609" dropCount="1" dropCountProbability="10000" />
+  </dropBox>
+  <dropBox dropBoxID="34" comment="Special Red Potion">
+    <v dropGroupIDs="610" dropCount="1" dropCountProbability="10000" />
+  </dropBox>
+  <dropBox dropBoxID="35" comment="Special Orange Potion">
+    <v dropGroupIDs="611" dropCount="1" dropCountProbability="10000" />
+  </dropBox>
+  <dropBox dropBoxID="36" comment="Special White Potion">
+    <v dropGroupIDs="612" dropCount="1" dropCountProbability="10000" />
   </dropBox>
   <dropBox dropBoxID="74" comment="던전 몬스터 공통칠흑의 정수">
     <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" /> -->
