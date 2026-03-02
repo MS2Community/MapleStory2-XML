@@ -921,4 +921,111 @@
 	<v key="TencentCharacterCreateShutdownLeft" value="https://mxd2.qq.com/webplat/info/news_version3/22354/22355/22356/22357/m14455/202207/918694.shtml" locale="CN" />
 	<v key="TencentCharacterCreateShutdownRight" value="https://change.qq.com/cp/aoX85z7/index.html" locale="CN" />
 	<v key="LeadSkillMaxSlot" value="1" />
+    <v key="NPCCliffHeight" value="50.0" />
+    <v key="CustomizingRotationSpeed" value="75.0" />
+    <v key="AllowComboAtComboPoint" value="1" />
+    <v key="AttackRotationSpeed" value="90" />
+    <v key="ChaosModeTime" value="20" />
+    <v key="ChaosPointPerBlock" value="20" />
+    <v key="ChaosPointMaxBlock" value="1" />
+    <v key="ChaosPointGetLevel0" value="1" />
+    <v key="ChaosPointGetPoint0" value="120" />
+    <v key="ChaosActionGetLevel0" value="15" />
+    <v key="ChaosActionGetLevel1" value="25" />
+    <v key="ChaosActionGetLevel2" value="55" />
+    <v key="ChaosActionGetLevel3" value="95" />
+    <v key="ChaosActionGetLevel4" value="145" />
+    <v key="OnEnterTriggerClientSideOnlyTick" value="100" />
+    <v key="OnEnterTriggerDefaultTick" value="1000" />
+    <v key="TalkTimeover" value="60000" />
+    <v key="DropIconVisibleDistance" value="400" />
+    <v key="DropMoneyActiveProbability" value="0" />
+    <v key="DropMoneyProbability" value="0" />
+    <v key="OffsetPcMissionIndicator" value="20" />
+    <v key="questHideTime" value="30" />
+    <v key="questIntervalTime" value="60" />
+    <v key="ShopResetChance" value="10" />
+    <v key="DashKeyInputDelay" value="500" />
+    <v key="DashSwimConsumeSP" value="20" />
+    <v key="DashSwimMoveVel" value="2" />
+    <v key="Glide_Gravity" value="0.0" />
+    <v key="Glide_Height_Limit" value="0.0" />
+    <v key="Glide_Horizontal_Accelerate" value="0.0" />
+    <v key="Glide_Horizontal_Velocity" value="500" />
+    <v key="Glide_Vertical_Accelerate" value="0.0" />
+    <v key="Glide_Vertical_Velocity" value="150" />
+    <v key="Glide_Vertical_Vibrate_Amplitude" value="300" />
+    <v key="Glide_Vertical_Vibrate_Frequency" value="1500.0" />
+    <v key="Glide_Effect" value="1" />
+    <v key="Glide_Effect_Run" value="CH/Common/Eff_Fly_Balloon_Run.xml" />
+    <v key="Glide_Effect_Idle" value="CH/Common/Eff_Fly_Balloon_Idle.xml" />
+    <v key="Glide_Ani_Idle" value="Fly_Idle_A" />
+    <v key="Glide_Ani_Left" value="Gliding_Left_A" />
+    <v key="Glide_Ani_Right" value="Gliding_Right_A" />
+    <v key="Glide_Ani_Run" value="Fly_Run_A" />
+    <v key="ConsumeCritical" value="5" />
+    <v key="DayToNightTime" value="10000" />
+    <v key="myPCdayTiming" value="0.5" />
+    <v key="myPCNightTiming" value="0.5" />
+    <v key="BGMTiming" value="0.5" />
+    <v key="dayBaseMinute" value="1" />
+    <v key="dayMinute" value="1439" />
+    <v key="nightMinute" value="1" />
+    <v key="QuestRewardSkillSlotQuestID1" value="1010002" />
+    <v key="QuestRewardSkillSlotQuestID2" value="1010003" />
+    <v key="QuestRewardSkillSlotQuestID3" value="1010004" />
+    <v key="QuestRewardSkillSlotQuestID4" value="1010005" />
+    <v key="QuestRewardSkillSlotQuestID5" value="1010010" />
+    <v key="QuestRewardSkillSlotItemID1" value="40000000" />
+    <v key="QuestRewardSkillSlotItemID2" value="40200001" />
+    <v key="QuestRewardSkillSlotItemID3" value="20000001" />
+    <v key="QuestRewardSkillSlotItemID4" value="40000055" />
+    <v key="QuestRewardSkillSlotItemID5" value="40000056" />
+    <v key="autoTargetingMaxDegree" value="210" />
+    <v key="BossHitVibrateFreq" value="10.0" />
+    <v key="BossHitVibrateAmp" value="5.5" />
+    <v key="BossHitVibrateDamping" value="0.7" />
+    <v key="BossHitVibrateDuration" value="0.1" />
+    <v key="OneTimeWeaponItemID" value="15000001" />
+    <v key="ModelHouse" value="62000027" />
+    <v key="UsingNoPhysXModelUserCount" value="10" />
+    <v key="UsingNoPhysXModelActorCount" value="10" />
+    <v key="UsingNoPhysXModelJointCount" value="10" />
+    <v key="guildFundMax" value="20000" />
+    <v key="EnableSoundMute" value="1" />
+    <v key="BossKillSoundRange" value="1500" />
+    <v key="monsterPeakTimeNotifyDuration" value="300" />
+    <v key="AirTaxiItemID" value="20300003" />
+    <v key="ShowNameTagSellerTitle" value="10000153" />
+    <v key="ShowNameTagChampionTitle" value="10000152" />
+    <v key="ShowNameTagTrophy1000Title" value="10000170" />
+    <v key="ShowNameTagTrophy2000Title" value="10000171" />
+    <v key="ShowNameTagTrophy3000Title" value="10000172" />
+    <v key="ShowNameTagArchitectTitle" value="10000158" />
+    <v key="characterMaxLevel" value="99" />
+    <v key="characterMaxLevel" value="99" locale="KR" />
+    <v key="characterMaxLevel" value="70" locale="CN" />
+    <v key="characterMaxLevel" value="60" locale="NA" />
+    <v key="characterMaxLevel" value="60" locale="JP" />
+    <v key="characterMaxLevel" value="50" locale="TH" />
+    <v key="characterMaxLevel" value="50" locale="TW" />
+    <v key="MesoMarketTokenDetailUrl" value="http://maplestory2.nexon.net/en/news/article/45213" feature="MesoMarketNA" locale="NA" />
+    <v key="OneShotSkillID" value="19900061" />
+    <v key="bagSlotTabPetEquipCount" value="48, 48" feature="BagRenewal01" />
+    <v key="MeratAirTaxiPrice" value="90" feature="MeratAirTaxi" />
+    <v key="MeratAirTaxiPrice" value="15" feature="MeratAirTaxi" locale="NA" />
+    <v key="MeratAirTaxiPrice" value="10" feature="MeratAirTaxi" locale="JP" />
+    <v key="FindDungeonHelpEasyDungeonLevel" value="50" />
+    <v key="FameContentsRequireQuestID" value="91000013" feature="FameContents" />
+    <v key="FameExpedContentsRequireQuestID" value="50101050" feature="Kritias_2018_12" />
+    <v key="SurvivalScanAdditionalID" value="71000052" />
+    <v key="MapleSurvivalTopNRanking" value="5" />
+    <v key="MapleSurvivalSeasonRewardUrl" value="http://maplestory2.nexon.com/News/DetailView?tp=media&s=620169" />
+    <v key="MapleSurvivalSeasonRewardUrl" value="http://mxd2.qq.com/cp/a20180503ver/gudao.shtml" locale="CN" />
+    <v key="MapleSurvivalSeasonRewardUrl" value="http://maplestory2.nexon.net/en/news/article/32249/mushking-royale-championship-rewards" locale="NA" />
+    <v key="MapleSurvivalSeasonRewardUrl" value="http://maplestory2.nexon.net/en/news/article/32249/mushking-royale-championship-rewards" locale="JP" />
+    <v key="MapleSurvivalSeasonRewardUrl" value="http://maplestory2.nexon.net/en/news/article/32249/mushking-royale-championship-rewards" locale="TH" />
+    <v key="MapleSurvivalSeasonRewardUrl" value="http://maplestory2.nexon.net/en/news/article/32249/mushking-royale-championship-rewards" locale="TW" />
+    <v key="HoldAttackSkillID" value="10700252" feature="HoldAttack" />
+    <v key="DiscordAppID" value="555204064091045904" feature="Discord" locale="NA" />
 </ms2>
