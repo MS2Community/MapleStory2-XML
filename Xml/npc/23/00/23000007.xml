@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/DevilHugeBlue/AI_DevilHugeBlue.xml" />
+		<aiInfo path="BossDungeon/DevilHugeBlue/AI_DevilHugeBlue.xml" summonNpcIDs="21404189,21403189" />
 		<collision shape="box" width="450" height="400" depth="375" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="600" height="150" depth="380" added="220" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="345" />
 		<capsule radius="170" height="450" ignore="0" />

@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Pinkbean/Chaos/AI_StatueHuman02.xml" />
+		<aiInfo path="BossDungeon/Pinkbean/Chaos/AI_StatueHuman02.xml" summonNpcIDs="21500841" />
 		<collision shape="box" width="180" height="450" depth="180" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<nodeCollisions>
 			<collision targetNode="Bip01 Head" volume="200.000000, 150.000000, 150.000000" offset="5.000000, 0.000000, -75.000000" />

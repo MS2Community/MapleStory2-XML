@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Papulatus_Chaos/AI_Papulatus_ChaosNormalJP.xml" />
+		<aiInfo path="BossDungeon/Papulatus_Chaos/AI_Papulatus_ChaosNormalJP.xml" summonNpcIDs="21403410,21404410,21406410,21407410,21400242,21401242,21405410" />
 		<collision shape="box" width="330" height="350" depth="230" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="300" height="150" depth="1" added="950" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="0" />
 		<capsule radius="170" height="320" ignore="0" />

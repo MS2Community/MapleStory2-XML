@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="75" assistType2SkillCount="40" assistType2CheckTick="250000" />
-		<aiInfo path="AI_UreusBoss.xml" />
+		<aiInfo path="AI_UreusBoss.xml" summonNpcIDs="21400006,21400007,21400008" />
 		<collision shape="box" width="180" height="180" depth="180" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="350" height="200" depth="770" added="0" offsetNametag="-200" corpseEffect="" hitAble="1" rotation="0" />
 		<capsule radius="110" height="150" ignore="0" />

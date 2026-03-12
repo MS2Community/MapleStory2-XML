@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Balrog/AI_Balrog_Kritias.xml" />
+		<aiInfo path="BossDungeon/Balrog/AI_Balrog_Kritias.xml" summonNpcIDs="21501280,21501290,21810090,21810091,21810092,21810093,21810096,21501283,21501284,21501291,21501295,21810095,21501293,21501285,21501296,21501281,21501282,21501294,21501292" />
 		<collision shape="box" width="600" height="550" depth="500" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="1000" height="300" depth="300" added="350" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="0" />
 		<capsule radius="250" height="550" ignore="0" />

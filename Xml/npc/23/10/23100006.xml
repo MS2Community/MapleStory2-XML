@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/SandstoneGiantBlueShine/AI_SandstoneGiantBlueShine.xml" />
+		<aiInfo path="BossDungeon/SandstoneGiantBlueShine/AI_SandstoneGiantBlueShine.xml" summonNpcIDs="21400003,21400004" />
 		<collision shape="box" width="152.174" height="217.391" depth="152.174" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="700" height="150" depth="330" added="170" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="345" />
 		<capsule radius="170" height="600" ignore="0" />

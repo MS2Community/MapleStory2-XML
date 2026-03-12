@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/KanduraBigBurster/AI_KanduraBigBurster.xml" />
+		<aiInfo path="BossDungeon/KanduraBigBurster/AI_KanduraBigBurster.xml" summonNpcIDs="21410003,21410002,21410001,21402098,21410004,21410005,21410006,21410007,21410009,21410010,21410008,21410011,21410012,21410040,21410041,21410030,21410031,21410032,21410013,21410014,21410015,21410016,21410017,21410023,21410018,21410019,21410020,21410033,21410021,21410034,21410022,21410035,21410036,21410037" />
 		<collision shape="box" width="350" height="630" depth="270" widthOffset="0" depthOffset="-40" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="50" height="320" ignore="0" />

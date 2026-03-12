@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/DevilHugeBlue/AI_SummonerCrossbow_TypeB.xml" />
+		<aiInfo path="BossDungeon/DevilHugeBlue/AI_SummonerCrossbow_TypeB.xml" summonNpcIDs="21800902" />
 		<collision shape="box" width="80" height="110" depth="80" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="60" height="150" ignore="0" />

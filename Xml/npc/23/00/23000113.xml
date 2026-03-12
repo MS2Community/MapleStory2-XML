@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/IshuraRbladerDark/AI_IshuraRbladerDark.xml" />
+		<aiInfo path="BossDungeon/IshuraRbladerDark/AI_IshuraRbladerDark.xml" summonNpcIDs="21501249,21501070,21501071,21501080,21501072,21501073,21501074,21501075,21501090,21501091,21501100,21501092,21501093,21501094,21501095,21501096,21501130,21501131,21501140,21501240,21501241,21501150,21501151,21501230,21501200,21501160,21501161,21501162,21501180,21501181,21501170,21501220,21501201,21501110,21501111,21501120,21501121,21501101,21501190,21501210,21501211" />
 		<collision shape="box" width="110" height="190" depth="110" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="30" height="400" ignore="1" />

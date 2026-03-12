@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/SnowKing_Normal/AI_SnowKing_Chaos.xml" />
+		<aiInfo path="BossDungeon/SnowKing_Normal/AI_SnowKing_Chaos.xml" summonNpcIDs="21502108,21502111,23502012,23502013,23502014,21502159,21502113,21502102,21502101,21502103,21502104,21502105,21502117,21502115,21502114,21502116,21502128,21502129,21502121,21502118,21502120,21502119,21502132,21502131,21502106,21502133,21502140,21502107,21502112,21502109,21502110,21502145,21502146,21502147,21502148,21502135,21502136,21502124,21502122,21502134,21502143,21502141,21502138,21502139,21502127,21502125,21502137,21502144" />
 		<collision shape="box" width="120" height="200" depth="100" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="50" height="200" ignore="0" />

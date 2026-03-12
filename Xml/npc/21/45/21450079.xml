@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/BlackOnyx/AI_SignalSummon.xml" />
+		<aiInfo path="BossDungeon/BlackOnyx/AI_SignalSummon.xml" summonNpcIDs="21450071,21450072,21450055,21450052,21450053,21450056" />
 		<collision shape="box" width="1" height="1" depth="1" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="30" height="150" ignore="0" />

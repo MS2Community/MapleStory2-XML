@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/BalrogMagicBurster/ChaosNormalKritias/AI_BalrogMagicBurster_Kritias.xml" />
+		<aiInfo path="BossDungeon/BalrogMagicBurster/ChaosNormalKritias/AI_BalrogMagicBurster_Kritias.xml" summonNpcIDs="21501306,21501314,21501313,21501316,21501315" />
 		<collision shape="box" width="480" height="450" depth="300" widthOffset="0" depthOffset="100" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="10" height="10" ignore="1" />

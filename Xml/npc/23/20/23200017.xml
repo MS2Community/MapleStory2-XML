@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="AI_CaptainHookFish01_Chaos.xml" />
+		<aiInfo path="AI_CaptainHookFish01_Chaos.xml" summonNpcIDs="21401230,21403229,21406229,21800910,21404229,21405229,21407229,21403228,21800903" />
 		<collision shape="box" width="140" height="170" depth="125" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="350" height="150" depth="300" added="0" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="0" />
 		<capsule radius="150" height="320" ignore="0" />
