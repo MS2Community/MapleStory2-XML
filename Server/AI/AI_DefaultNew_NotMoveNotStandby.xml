@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npcAi>
+	<!--전투 (no move, no standby between attacks)-->
+	<battle startAni="Up_A" endAni="Down_A">
+		<node name="select" useNpcProb="1">
+			<node name="conditions">
+				<condition name="skillRange" skillIdx="1">
+					<node name="select" prob="70,0">
+						<node name="skill" idx="1" />
+						<node name="standby" limit="100" faceTarget="1" />
+					</node>
+				</condition>
+				<condition name="true">
+					<node name="standby" limit="100" faceTarget="1" />
+				</condition>
+			</node>
+			<node name="conditions">
+				<condition name="skillRange" skillIdx="2">
+					<node name="select" prob="70,0">
+						<node name="skill" idx="2" />
+						<node name="standby" limit="100" faceTarget="1" />
+					</node>
+				</condition>
+				<condition name="true">
+					<node name="standby" limit="100" faceTarget="1" />
+				</condition>
+			</node>
+			<node name="conditions">
+				<condition name="skillRange" skillIdx="3">
+					<node name="select" prob="70,0">
+						<node name="skill" idx="3" />
+						<node name="standby" limit="100" faceTarget="1" />
+					</node>
+				</condition>
+				<condition name="true">
+					<node name="standby" limit="100" faceTarget="1" />
+				</condition>
+			</node>
+		</node>
+	</battle>
+</npcAi>
