@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Balrog/AI_Tristan_Chaos.xml" />
+		<aiInfo path="BossDungeon/Balrog/AI_Tristan_Chaos.xml" summonNpcIDs="21400236" />
 		<collision shape="box" width="100" height="220" depth="100" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="40" height="150" ignore="0" />

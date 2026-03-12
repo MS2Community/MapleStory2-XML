@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="EventDoungeon/MushroomRichKing/AI_MushroomRichKing.xml" />
+		<aiInfo path="EventDoungeon/MushroomRichKing/AI_MushroomRichKing.xml" summonNpcIDs="23000104,21410101,21410102,21410100" />
 		<collision shape="box" width="320" height="210" depth="350" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="85" height="280" ignore="0" />

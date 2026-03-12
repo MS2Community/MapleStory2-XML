@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="true" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Colosseum/AI_ArcaneBlader_Colosseum_Test_2.xml" />
+		<aiInfo path="BossDungeon/Colosseum/AI_ArcaneBlader_Colosseum_Test_2.xml" summonNpcIDs="60000306" />
 		<collision shape="box" width="120" height="200" depth="120" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="50" height="200" ignore="0" />

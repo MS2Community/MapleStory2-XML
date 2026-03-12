@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="75" assistType2SkillCount="40" assistType2CheckTick="120000" />
-		<aiInfo path="AI_CerberosThreeHeadGreen.xml" />
+		<aiInfo path="AI_CerberosThreeHeadGreen.xml" summonNpcIDs="21400746,21402746,21401746" />
 		<collision shape="box" width="230" height="310" depth="400" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="500" height="150" depth="350" added="120" offsetNametag="-200" corpseEffect="" hitAble="1" rotation="345" />
 		<capsule radius="200" height="300" ignore="0" />

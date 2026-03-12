@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/ZakumBrown/Chaos/Normal/AI_ZakumBrown.xml" />
+		<aiInfo path="BossDungeon/ZakumBrown/Chaos/Normal/AI_ZakumBrown.xml" summonNpcIDs="23407017,23407018,23407019,23407020,21410122,21410123,21410121,21410120,21410124,21410110,21410112,21410111,21410125" />
 		<collision shape="box" width="550" height="1000" depth="550" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<nodeCollisions>
 			<collision targetNode="Dummy01" volume="520.000000, 520.000000, 225.000000" offset="0.000000, 0.000000, 500.000000" />

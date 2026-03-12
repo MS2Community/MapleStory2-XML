@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Balrog/AI_Balrog.xml" />
+		<aiInfo path="BossDungeon/Balrog/AI_Balrog.xml" summonNpcIDs="21400036,21800144" />
 		<collision shape="box" width="600" height="550" depth="500" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="1000" height="300" depth="300" added="350" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="0" />
 		<capsule radius="250" height="550" ignore="0" />

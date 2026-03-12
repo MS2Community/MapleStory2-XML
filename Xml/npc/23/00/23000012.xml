@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="75" assistType2SkillCount="40" assistType2CheckTick="250000" />
-		<aiInfo path="AI_LizardDragonIce.xml" />
+		<aiInfo path="AI_LizardDragonIce.xml" summonNpcIDs="21800407,21801407,21802407,21803407" />
 		<collision shape="box" width="250" height="210" depth="330" widthOffset="0" depthOffset="180" heightOffset="0" />
 		<corpse width="350" height="200" depth="770" added="0" offsetNametag="-200" corpseEffect="" hitAble="1" rotation="0" />
 		<capsule radius="140" height="300" ignore="0" />

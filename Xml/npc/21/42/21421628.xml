@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/ChangeLion/AI_ChangeLionBlue_Epic.xml" />
+		<aiInfo path="BossDungeon/ChangeLion/AI_ChangeLionBlue_Epic.xml" summonNpcIDs="24003312" />
 		<collision shape="box" width="160" height="180" depth="220" widthOffset="0" depthOffset="30" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="100" height="200" ignore="0" />

@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/BarkhantBlue/Chaos/AI_BarkhantBlue_Chaos.xml" />
+		<aiInfo path="BossDungeon/BarkhantBlue/Chaos/AI_BarkhantBlue_Chaos.xml" summonNpcIDs="21403169,21403170,21500801,21500802,21500803,21500701,21500680,21500681,21500690,21500700,21500800" />
 		<collision shape="box" width="170" height="400" depth="170" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="30" height="400" ignore="1" />

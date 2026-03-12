@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="AI_LizardDragonFire.xml" />
+		<aiInfo path="AI_LizardDragonFire.xml" summonNpcIDs="21802409" />
 		<collision shape="box" width="250" height="210" depth="330" widthOffset="0" depthOffset="180" heightOffset="0" />
 		<corpse width="350" height="200" depth="770" added="0" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="0" />
 		<capsule radius="140" height="300" ignore="0" />

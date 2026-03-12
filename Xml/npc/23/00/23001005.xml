@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="AI_GigantikaTail_phase_5.xml" />
+		<aiInfo path="AI_GigantikaTail_phase_5.xml" summonNpcIDs="23001006" />
 		<collision shape="box" width="1650" height="2400" depth="4500" widthOffset="0" depthOffset="800" heightOffset="-500" />
 		<nodeCollisions>
 			<collision targetNode="b_taill09" volume="600.000000, 300.000000, 500.000000" offset="70.000000, 0.000000, -270.000000" />

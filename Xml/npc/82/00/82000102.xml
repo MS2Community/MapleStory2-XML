@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="AI_GigantikaHead_test_1.xml" />
+		<aiInfo path="AI_GigantikaHead_test_1.xml" summonNpcIDs="23001011" />
 		<collision shape="box" width="1650" height="2400" depth="4500" widthOffset="0" depthOffset="800" heightOffset="-500" />
 		<nodeCollisions>
 			<collision targetNode="b_Head" volume="600.000000, 600.000000, 800.000000" offset="0.000000, 0.000000, -330.000000" />

@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Madria/AI_BigWingChimera_Quest.xml" />
+		<aiInfo path="BossDungeon/Madria/AI_BigWingChimera_Quest.xml" summonNpcIDs="21500629" />
 		<collision shape="box" width="160" height="160" depth="270" widthOffset="0" depthOffset="230" heightOffset="0" />
 		<corpse width="300" height="160" depth="600" added="0" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="-90" />
 		<capsule radius="180" height="300" ignore="1" />

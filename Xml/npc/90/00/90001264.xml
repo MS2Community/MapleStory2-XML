@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/CaptainHookFish01/AI_CaptainHookFish01.xml" />
+		<aiInfo path="BossDungeon/CaptainHookFish01/AI_CaptainHookFish01.xml" summonNpcIDs="21400230,21400229,21800910,21401229,21402229" />
 		<collision shape="box" width="140" height="200" depth="125" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="350" height="150" depth="300" added="0" offsetNametag="-200" corpseEffect="" hitAble="0" rotation="0" />
 		<capsule radius="150" height="320" ignore="0" />

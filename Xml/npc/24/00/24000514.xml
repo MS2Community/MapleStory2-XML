@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="999999" impossibleCombatAbandonTick="999999" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="AI_PartyDungeon_PuppetBunnySummoner.xml" />
+		<aiInfo path="AI_PartyDungeon_PuppetBunnySummoner.xml" summonNpcIDs="24000519,24000520" />
 		<collision shape="box" width="113.043" height="173.913" depth="113.043" widthOffset="0" depthOffset="0" heightOffset="0" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="90" height="180" ignore="0" />

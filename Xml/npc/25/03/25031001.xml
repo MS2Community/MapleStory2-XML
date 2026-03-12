@@ -12,7 +12,7 @@
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
 		<assist assistType1SkillCount="0" assistType2SkillCount="0" assistType2CheckTick="0" />
-		<aiInfo path="BossDungeon/Timaion/Quest/AI_Timaion.xml" />
+		<aiInfo path="BossDungeon/Timaion/Quest/AI_Timaion.xml" summonNpcIDs="25031002,25031003" />
 		<collision shape="box" width="1050" height="1000" depth="300" widthOffset="0" depthOffset="0" heightOffset="-300" />
 		<corpse width="0" height="0" depth="0" added="0" offsetNametag="0" corpseEffect="" hitAble="0" rotation="" />
 		<capsule radius="300" height="600" ignore="0" />
