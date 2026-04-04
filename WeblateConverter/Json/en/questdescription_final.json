@@ -46652,5 +46652,71 @@
   },
   "89010147--": {
     "name": "Create a UGC item"
+  },
+  "30000351-Event-JP": {
+    "manual": "Go to $map:63000066$ and find the cause of the ghost rumors",
+    "desc": "$npcName:11004290$'s real reason for sending the Halloween party invitation was to ask for help investigating the strange occurrences happening at the hotel.\n\nLet's find out what is going on at the Bloody Monshushu Hotel, which has been plagued by ghost stories lately.\n\nTake the portal at the end of the 2nd floor hallway in $map:63000065$ to go to $map:63000066$. "
+  },
+  "30000350-Event-JP": {
+    "desc": "This is a Halloween party invitation from $npc:11004290$.\n\nWe are planning to hold a grand party in your honor to celebrate Halloween.\nWe sincerely hope you will attend and brighten the occasion.\nSpeak with me, Hotel Manager $npc:11004290$, at any time to participate in the event.\n\nLet's meet $npc:11004290$ at $map:63000065$.\nTake the $map:63000065$ portal located in $map:02000064$. ",
+    "complete": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$",
+    "manual": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$"
+  },
+  "30000352-Event-JP": {
+    "desc": "$npcName:11004290$ said that when Count Monchu was ill, he asked her to take good care of his daughter Marien by adopting her.\n\nThe manager raised Marien well as per Count Monchu's last wish, but one day Marien suddenly disappeared.\n\nLet's go to Marien's quarters, now known as $map:63000067$, and look for anything that might serve as a clue.",
+    "manual": "Go to $map:63000067$ and find clues about the incident"
+  },
+  "30000353-Event-JP": {
+    "desc": "$npcName:11004290$ told us about a man who went missing after Marien.\n\nHe appeared late one very cold night, introduced himself as an acquaintance of Count Monchu, and said he had something to tell $npcName:11004290$.\n\n$npcName:11004290$ gave him $map:63000069$ for the night and suggested they talk in the morning, but the man disappeared that very night.\n\nTo search $map:63000069$ where the man went missing, we need a key—and only $npcName:11004289$ has it. We should go meet her."
+  },
+  "30000354-Event-JP": {
+    "manual": "Go to $map:63000068$ and get the key",
+    "desc": "While trying to investigate $map:63000069$ to learn more about the man who recently vanished there, we discovered that $npcName:11004289$ holds the key to the room.\n\n$npcName:11004289$ is Count Monchu's cousin, here as the hotel's heir.\n\nWe asked $npcName:11004289$ for the key to $map:63000069$, but she didn't seem pleased.\n\nShe told us the key is in $map:63000068$, so we should go retrieve it."
+  },
+  "30000357-Event-JP": {
+    "manual": "Speak with Plutino to go to $map:63000070$ and retrieve the will",
+    "desc": "$npcName:11004290$ studied the evidence found in $map:63000069$ in silence for a long moment, then spoke gravely.\n\nCount Monchu's cousin, $npcName:11004289$, had deliberately locked Marien—who ranked higher in the inheritance order—in the room, and had even made the estate executor disappear, all to claim the hotel for herself.\n\nLearning the full truth, $npcName:11004290$ is furious and wants to punish $npcName:11004289$—but without the original will, the inheritance cannot be executed.\n\n$npcName:11004290$ suspects that if the will exists anywhere, it would be in $map:63000070$.\n\nLet's go to $map:63000070$ without $npcName:11004289$ knowing and search for the original will.\n\nSpeak with $npcName:11004290$ whenever you want to travel to $map:63000070$."
+  },
+  "30000356-Event-JP": {
+    "desc": "We can now investigate $map:63000069$.\n\n$npcName:11004291$ is surprised to find the key to $map:63000069$ suddenly in his pocket, but he quickly offers to escort us there.\n\nLet's go to $map:63000069$ without $npcName:11004289$ noticing and find the evidence needed to uncover the truth.",
+    "manual": "Discover the missing man's identity|Find out the man's purpose for visiting the hotel|Find evidence of those involved in the crime|Discover the motive behind the crime"
+  },
+  "30000355-Event-JP": {
+    "desc": "It appears someone deliberately locked $npcName:11004311$ in the guest room.\n\n$npcName:11004311$, who was cold and hungry alone in the dark, said she wants to punish whoever did this to her.\n\nShe says the key to $map:63000069$ was secretly slipped into $npcName:11004291$'s pocket, so we should speak to $npcName:11004291$ and make our way to $map:63000069$."
+  },
+  "30000358-Event-JP": {
+    "desc": "$npcName:11004311$ says that now all the truth has been revealed, she too must go where she belongs.\n\nBut she seems worried about her father in $map:63000071$.\n\nAccording to $npcName:11004311$, Count Monchu appears to have become a vengeful spirit consumed by rage.\n\nLet's go to $map:63000071$ and meet her father.\n\nSpeak with Marien, who is staying briefly in $map:63000065$, to travel to $map:63000071$.",
+    "manual": "Speak with $npcName:11004311$ in the hotel lobby to go to $map:63000071$ and put $npcName:11004309$ to rest"
+  },
+  "30000360-Event-JP": {
+    "desc": "$npc:11004290$ said that if Count Monchu were still alive, he would surely say the hotel was running low on $item:30001214$.\n\nYou can obtain $item:30001214$ by defeating the ghosts in $map:63000067$, and she promised to reward you for bringing them.\n\n$npc:11004290$, fixated on $item:30001214$, gazes with a lonely look—as if she misses Count Monchu and Marien dearly."
+  },
+  "30000359-Event-JP": {
+    "manual": "Defeat the ghosts filling $map:63000068$"
+  },
+  "30000370-Event-JP": {
+    "name": "Please Be My Santa",
+    "manual": "Listen to $npcName:11004345$'s story until the end\n<font color=\"#909090\">Accessible via the Event Map Shortcut button</font>",
+    "desc": "$npcName:11004777$. It contained a message asking you to help $npcName:11004345$—a girl facing the greatest crisis of her 16 years of life—at $map:63000072$.\nLet's head to $map:63000072$ and meet $npcName:11004345$.\n\n* Accessible via the Event Map Shortcut button"
+  },
+  "30000373-Event-JP": {
+    "desc": "$npcName:11004346$ doesn't seem to remember much about the white furry creature that attacked him. But $npcName:11004345$ seems to have some idea, saying it would be best to go home and investigate.\nLet's meet the siblings again at their home in the northwest of $map:63000072$.\nInside their home at $map:63000074$, let's meet $npcName:11004360$."
+  },
+  "30000371-Event-JP": {
+    "desc": "$npcName:11004345$ woke up to find the house in shambles and her entire family gone. Let's help her find them.\nAsk the villagers in $map:63000072$ about the whereabouts of $npcName:11004345$'s family."
+  },
+  "30000372-Event-JP": {
+    "desc": "We heard a witness say that $npcName:11004345$'s brother, $npc:11004346$, headed toward $map:63000073$. When we told $npcName:11004345$, she said she wants to find their parents together and asked us to bring her brother back from there...\nLet's go to $map:63000073$ and find $npcName:11004346$."
+  },
+  "30000374-Event-JP": {
+    "manual": "Find clues to locate the missing family in $map:63000074$",
+    "desc": "$npcName:11004345$ makes the rather outlandish claim that 'Future Rudolph' took her parents away. It's hard to make sense of, but it's better than doing nothing. She says there should be clues to finding her parents somewhere inside the house...\nLet's investigate $map:63000074$ and look for clues.",
+    "name": "Someone's Diary"
+  },
+  "30000375-Event-JP": {
+    "desc": "$npcName:11004346$ teases $npcName:11004345$, who angrily confronts him about reading her diary. The siblings are so caught up arguing that they've forgotten to look for the next clue. If the 'cake' mentioned in $item:30001260$ points to somewhere in the house, the dining room seems the most likely place to check.\nLet's look for traces of the siblings' mother, $npcName:11004347$, in $map:63000076$."
+  },
+  "30000377-Event-JP": {
+    "desc": "The family is now convinced that dad might be in the garden. But there's no telling what the culprit behind this chaos—the 'white furry thing'—might do next. The siblings' mother, $npcName:11004347$, would like to ask us to investigate the garden...\nAs adventurers accustomed to battle, this is a request worth accepting.\nHead out to $map:63000077$ and search for the whereabouts of the siblings' father, $npcName:11004348$."
   }
 }
