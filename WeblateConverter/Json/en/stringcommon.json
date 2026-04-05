@@ -2751,7 +2751,7 @@
     "value": "Ch. {0}"
   },
   "s_party_ch_dungeon--": {
-    "value": ""
+    "value": "Party Channel Dungeon"
   },
   "s_party_err_code--": {
     "value": "System Error: Party, code = {0}, {1}"
@@ -5959,67 +5959,67 @@
     "value": "Reduces enemy damage by {0:0.1f}% of max health"
   },
   "s_item_opt_sa_reduce_meso_revival_fee--": {
-    "value": ""
+    "value": "Meso Revival Fee Reduction"
   },
   "s_item_opt_sa_reduce_meso_revival_fee_v--": {
-    "value": ""
+    "value": "Meso Revival Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_meso_revival_fee_r--": {
-    "value": ""
+    "value": "Meso Revival Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_riding_run_speed--": {
-    "value": ""
+    "value": "Mount Run Speed"
   },
   "s_item_opt_sa_improve_riding_run_speed_v--": {
-    "value": ""
+    "value": "Mount Run Speed +{0:d}"
   },
   "s_item_opt_sa_improve_riding_run_speed_r--": {
-    "value": ""
+    "value": "Mount Run Speed +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_dungeon_reward_meso--": {
-    "value": ""
+    "value": "Dungeon Reward Meso"
   },
   "s_item_opt_sa_improve_dungeon_reward_meso_v--": {
-    "value": ""
+    "value": "Dungeon Reward Meso +{0:d}"
   },
   "s_item_opt_sa_improve_dungeon_reward_meso_r--": {
-    "value": ""
+    "value": "Dungeon Reward Meso +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_shop_buying_meso--": {
-    "value": ""
+    "value": "Shop Purchase Meso Discount"
   },
   "s_item_opt_sa_improve_shop_buying_meso_v--": {
-    "value": ""
+    "value": "Shop Purchase Meso Discount +{0:d}"
   },
   "s_item_opt_sa_improve_shop_buying_meso_r--": {
-    "value": ""
+    "value": "Shop Purchase Meso Discount +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_itembox_reward_meso--": {
-    "value": ""
+    "value": "Item Box Reward Meso"
   },
   "s_item_opt_sa_improve_itembox_reward_meso_v--": {
-    "value": ""
+    "value": "Item Box Reward Meso +{0:d}"
   },
   "s_item_opt_sa_improve_itembox_reward_meso_r--": {
-    "value": ""
+    "value": "Item Box Reward Meso +{0:0.1f}%"
   },
   "s_item_opt_sa_reduce_remakeoption_fee--": {
-    "value": ""
+    "value": "Bonus Stats Reroll Fee Reduction"
   },
   "s_item_opt_sa_reduce_remakeoption_fee_v--": {
-    "value": ""
+    "value": "Bonus Stats Reroll Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_remakeoption_fee_r--": {
-    "value": ""
+    "value": "Bonus Stats Reroll Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_reduce_airtaxi_fee--": {
-    "value": ""
+    "value": "Air Taxi Fee Reduction"
   },
   "s_item_opt_sa_reduce_airtaxi_fee_v--": {
-    "value": ""
+    "value": "Air Taxi Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_airtaxi_fee_r--": {
-    "value": ""
+    "value": "Air Taxi Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_socket_unlock_probability--": {
     "value": ""
@@ -6031,25 +6031,25 @@
     "value": ""
   },
   "s_item_opt_sa_reduce_gemstone_upgrade_fee--": {
-    "value": ""
+    "value": "Gemstone Upgrade Fee Reduction"
   },
   "s_item_opt_sa_reduce_gemstone_upgrade_fee_v--": {
-    "value": ""
+    "value": "Gemstone Upgrade Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_gemstone_upgrade_fee_r--": {
-    "value": ""
+    "value": "Gemstone Upgrade Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_reduce_pet_remakeoption_fee--": {
-    "value": ""
+    "value": "Pet Bonus Stats Reroll Fee Reduction"
   },
   "s_item_opt_sa_reduce_pet_remakeoption_fee_v--": {
-    "value": ""
+    "value": "Pet Bonus Stats Reroll Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_pet_remakeoption_fee_r--": {
-    "value": ""
+    "value": "Pet Bonus Stats Reroll Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_riding_speed--": {
-    "value": ""
+    "value": "Mount Speed"
   },
   "s_item_opt_sa_improve_riding_speed_v--": {
     "value": ""
@@ -19472,5 +19472,192 @@
   },
   "s_char_info_codi_tab_period_fmt-Skin2tab-": {
     "value": "Available Period: {0}"
+  },
+  "s_msg_rclick_puton_leadskill--": {
+    "value": "<FONT color='#FFFFFF'>Right-<FONT color='#FFD200'>click</FONT><FONT color='#FFFFFF'> to equip a Lead Skill.</FONT>"
+  },
+  "s_buddy_format_homeblock_count--": {
+    "value": "Players blocked from your home: {0}"
+  },
+  "s_msg_rclick_puton_equip_to_skintab-Skin2tab-": {
+    "value": "<FONT color='#FFFFFF'>Right-<FONT color='#FFD200'>click</FONT><FONT color='#FFFFFF'> to equip an item to the Skin tab.</FONT>"
+  },
+  "s_msg_rclick_puton_equip_to_skintab_with_key-Skin2tab-": {
+    "value": "<FONT color='#FFD200'>[{0}]</FONT> + <FONT color='#FFFFFF'>Mouse <FONT color='#FFD200'>right-click</FONT> to equip to the Skin tab.</FONT>"
+  },
+  "s_msg_rclick_puton_equip_to_coditab-Skin2tab-": {
+    "value": "<FONT color='#FFFFFF'>Right-<FONT color='#FFD200'>click</FONT><FONT color='#FFFFFF'> to equip an item to the Coord tab.</FONT>"
+  },
+  "s_home_block_somebody--": {
+    "value": "{0} has been blocked from your home."
+  },
+  "s_home_block_memo_complete--": {
+    "value": "Block note for {0} has been updated."
+  },
+  "s_home_block_err_unknown--": {
+    "value": "Unable to process the request."
+  },
+  "s_home_block_err_no_user--": {
+    "value": "Invalid target."
+  },
+  "s_home_block_del_somebody_from_banlist--": {
+    "value": "{0} has been removed from your home block list."
+  },
+  "s_home_block_err_max_block--": {
+    "value": "You cannot block any more players."
+  },
+  "s_home_block_err_self_block--": {
+    "value": "You cannot block yourself."
+  },
+  "s_home_block_err_already_block--": {
+    "value": "This player is already blocked."
+  },
+  "s_home_block_err_enterance_block--": {
+    "value": "You cannot enter because you have been added to this player's home block list."
+  },
+  "s_meratmarket_error_random_create_fail--": {
+    "value": "Failed to grant the bonus benefit."
+  },
+  "s_tooltip_gamemenu_pssbshop--JP": {
+    "value": "<FONT color='#FFD200' size='15' >Avatar Coin Shop {0}</FONT>\n<FONT size='3'> </FONT>\nYou can purchase items using Avatar Coins.\nAvatar Coins can be obtained by disassembling items from Avatar Random Boxes."
+  },
+  "s_meratmarket_error_random_expired--": {
+    "value": "The bonus benefit has expired."
+  },
+  "s_dungeonRoom_findHelper_button_tooltip--": {
+    "value": "<FONT color='#FFD200' size='15' >Request Help</FONT>\n<FONT size='3'> </FONT>\nYou can request help from experienced adventurers familiar with this dungeon.\nClick the button to find an experienced adventurer to play with!\n\n<FONT color='#FFD200' size='15' >Novice Adventurer</FONT>\n<FONT size='3'> </FONT>\nYou are not yet familiar with this dungeon.\nYou can become an experienced adventurer once you have cleared this dungeon a certain number of times.\n<FONT color='#00AAEF'>- {0} or more times"
+  },
+  "s_meratmarket_error_random_already_exist--": {
+    "value": "A bonus benefit already exists."
+  },
+  "s_meratmarket_limited_date_second--": {
+    "value": "{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}:{5:02d}",
+    "comment": "{0}:year, {1}:month, {2}:day, {3}:hour {4}:minute {5}:second"
+  },
+  "s_meratmarket_random_sale--": {
+    "value": "Secret Deal! {0}% Off"
+  },
+  "s_meratmarket_error_random_payback_not_exist--": {
+    "value": "Payback bonus not found."
+  },
+  "s_meratmarket_error_random_coupon_not_exist--": {
+    "value": "Discount benefit not found."
+  },
+  "s_meratmarket_random_payback--": {
+    "value": "Payback Bonus {0}"
+  },
+  "s_cashshop_gift_comfirm--KR": {
+    "value": "Are you sure you want to gift to <FONT color='#FFD200'>{0}</FONT>?"
+  },
+  "s_weddingchat_use_coupon-Wedding-": {
+    "value": "{0} has been used."
+  },
+  "s_meratmarket_limited_limitless--": {
+    "value": "Remaining: Unlimited"
+  },
+  "s_meratmarket_limited_desc_end--": {
+    "value": "Sale Ends: {0}"
+  },
+  "s_pcbang_play_time2-PCBang-": {
+    "value": "Connected for {0}m"
+  },
+  "s_pcbang_play_time1-PCBang-": {
+    "value": "Connected for {0}h {1}m"
+  },
+  "s_pcbang_get_play_item-PCBang-": {
+    "value": "{0}\n<font color='#FFD200'>A PC Bang timed event gift has arrived in your mailbox.</font>"
+  },
+  "s_pcbang_get_gift_item-PCBang-": {
+    "value": "PC Bang exclusive item received."
+  },
+  "s_pcbang_cant_tutorial_field-PCBang-": {
+    "value": "Available after completing the tutorial."
+  },
+  "s_pcbang_msg_reset_bonus-PCBang-": {
+    "value": "PC Bang benefits have been reset."
+  },
+  "s_enum_dungeon_group_item--JP": {
+    "value": "Daily"
+  },
+  "s_enum_dungeon_group_worldBoss-WorldBossDungeon-": {
+    "value": "World Invasion"
+  },
+  "s_tooltip_itemmerge_option_range--": {
+    "value": "<font color='#ffffff'>{0} {1}~{2}</font>"
+  },
+  "s_enum_dungeon_group_turka-TurkaDungeon-": {
+    "value": "Dark Sanctum"
+  },
+  "s_massive_event_name_event_dungeon-EventMassiveDungeon-": {
+    "value": "Mad Doctor's Lab (Level 50+)"
+  },
+  "s_massive_event_name_pvp_dollshouse-MassivePVPDollshouse-": {
+    "value": "Doll's Mansion (PvP)"
+  },
+  "s_itemremake_error_prev_option_item_not_exist--": {
+    "value": "Cannot find an item without a selected option change result.\nIf you continue, the available option information will be deleted.\nItem Name: {0}"
+  },
+  "s_play_instrument_instrument_category_name_36--": {
+    "value": "Marimba"
+  },
+  "s_play_instrument_instrument_category_name_35--": {
+    "value": "Fretless Bass Guitar"
+  },
+  "s_itemsocketsystem_socketunlock_msg_ask_unlock_skin_first-SkinSocket-": {
+    "value": "Expanding the skin socket on this item will\n<FONT color='#FF4040'>change it to a character-bound state.</FONT>\nDo you want to expand the skin socket?"
+  },
+  "s_itemsocketsystem_socketunlock_msg_ask_transfer_skin_first-ItemSocketTransfer01-": {
+    "value": "Transferring the socket will change the received skin item\n<FONT color='#FF4040'>to a character-bound state.</FONT>\nDo you want to transfer the socket?"
+  },
+  "s_character_ability_character_category_name-CharacterAbility-": {
+    "value": "Character"
+  },
+  "s_character_ability_play_and_feature_category_name-CharacterAbility-": {
+    "value": "Adventure"
+  },
+  "s_character_ability_quest_and_grow_category_name-CharacterAbility-": {
+    "value": "Quest"
+  },
+  "s_character_ability_monster_and_dungeon_category_name-CharacterAbility-": {
+    "value": "Combat"
+  },
+  "s_character_ability_character_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Character</FONT>\n<FONT size='3'> </FONT>\nEnhance your character's unique abilities."
+  },
+  "s_character_ability_content_category_name-CharacterAbility-": {
+    "value": "Life Skills"
+  },
+  "s_character_ability_quest_and_grow_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Quest</FONT>\n<FONT size='3'> </FONT>\nGain additional bonuses when completing quests."
+  },
+  "s_character_ability_monster_and_dungeon_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Combat</FONT>\n<FONT size='3'> </FONT>\nLearn skills useful for dungeon play or combat against monsters."
+  },
+  "s_character_ability_play_and_feature_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Adventure</FONT>\n<FONT size='3'> </FONT>\nGain bonuses for adventuring and various activities."
+  },
+  "s_character_ability_err_no_meso-CharacterAbility-": {
+    "value": "Not enough Mesos."
+  },
+  "s_character_ability_err_no_merat-CharacterAbility-": {
+    "value": "Not enough Merets."
+  },
+  "s_character_ability_err_no_abilitypoint-CharacterAbility-": {
+    "value": "Not enough trait points."
+  },
+  "s_character_ability_meso_reset_desc-CharacterAbility-": {
+    "value": "Pay the cost to reset your traits.\n<FONT color='#FFA200'>{1}</FONT><Img Src='export_common_icon_meso' vspace='-4'/>\nReset your traits?\n<FONT color='#C0C0C0'>(Note: After resetting with Mesos, you must wait {0} days\nbefore you can reset again.)</font>"
+  },
+  "s_character_ability_content_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Life Skills</FONT>\n<FONT size='3'> </FONT>\nGain bonuses when using Life Skill content."
+  },
+  "s_character_ability_merat_reset_desc-CharacterAbility-": {
+    "value": "<font color='#FF5F5F'>The trait reset cooldown has not expired.\nYou cannot reset your traits yet.</FONT>\nPlease try again after the cooldown ends."
+  },
+  "s_character_ability_meso_reset_button-CharacterAbility-": {
+    "value": "Reset"
+  },
+  "s_character_ability_merat_reset_button-CharacterAbility-": {
+    "value": " Reset"
   }
 }
