@@ -46655,19 +46655,23 @@
   },
   "30000351-Event-JP": {
     "manual": "Go to $map:63000066$ and find the cause of the ghost rumors",
-    "desc": "$npcName:11004290$'s real reason for sending the Halloween party invitation was to ask for help investigating the strange occurrences happening at the hotel.\n\nLet's find out what is going on at the Bloody Monshushu Hotel, which has been plagued by ghost stories lately.\n\nTake the portal at the end of the 2nd floor hallway in $map:63000065$ to go to $map:63000066$. "
+    "desc": "$npcName:11004290$'s real reason for sending the Halloween party invitation was to ask for help investigating the strange occurrences happening at the hotel.\n\nLet's find out what is going on at the Bloody Monshushu Hotel, which has been plagued by ghost stories lately.\n\nTake the portal at the end of the 2nd floor hallway in $map:63000065$ to go to $map:63000066$. ",
+    "name": "The Ghost-Haunted Terrace"
   },
   "30000350-Event-JP": {
     "desc": "This is a Halloween party invitation from $npc:11004290$.\n\nWe are planning to hold a grand party in your honor to celebrate Halloween.\nWe sincerely hope you will attend and brighten the occasion.\nSpeak with me, Hotel Manager $npc:11004290$, at any time to participate in the event.\n\nLet's meet $npc:11004290$ at $map:63000065$.\nTake the $map:63000065$ portal located in $map:02000064$. ",
     "complete": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$",
-    "manual": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$"
+    "manual": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$",
+    "name": "A Halloween Party Invitation"
   },
   "30000352-Event-JP": {
     "desc": "$npcName:11004290$ said that when Count Monchu was ill, he asked her to take good care of his daughter Marien by adopting her.\n\nThe manager raised Marien well as per Count Monchu's last wish, but one day Marien suddenly disappeared.\n\nLet's go to Marien's quarters, now known as $map:63000067$, and look for anything that might serve as a clue.",
-    "manual": "Go to $map:63000067$ and find clues about the incident"
+    "manual": "Go to $map:63000067$ and find clues about the incident",
+    "name": "Plutino's Adopted Daughter"
   },
   "30000353-Event-JP": {
-    "desc": "$npcName:11004290$ told us about a man who went missing after Marien.\n\nHe appeared late one very cold night, introduced himself as an acquaintance of Count Monchu, and said he had something to tell $npcName:11004290$.\n\n$npcName:11004290$ gave him $map:63000069$ for the night and suggested they talk in the morning, but the man disappeared that very night.\n\nTo search $map:63000069$ where the man went missing, we need a key—and only $npcName:11004289$ has it. We should go meet her."
+    "desc": "$npcName:11004290$ told us about a man who went missing after Marien.\n\nHe appeared late one very cold night, introduced himself as an acquaintance of Count Monchu, and said he had something to tell $npcName:11004290$.\n\n$npcName:11004290$ gave him $map:63000069$ for the night and suggested they talk in the morning, but the man disappeared that very night.\n\nTo search $map:63000069$ where the man went missing, we need a key—and only $npcName:11004289$ has it. We should go meet her.",
+    "name": "The Visitor That Winter"
   },
   "30000354-Event-JP": {
     "manual": "Go to $map:63000068$ and get the key",
@@ -46675,18 +46679,22 @@
   },
   "30000357-Event-JP": {
     "manual": "Speak with Plutino to go to $map:63000070$ and retrieve the will",
-    "desc": "$npcName:11004290$ studied the evidence found in $map:63000069$ in silence for a long moment, then spoke gravely.\n\nCount Monchu's cousin, $npcName:11004289$, had deliberately locked Marien—who ranked higher in the inheritance order—in the room, and had even made the estate executor disappear, all to claim the hotel for herself.\n\nLearning the full truth, $npcName:11004290$ is furious and wants to punish $npcName:11004289$—but without the original will, the inheritance cannot be executed.\n\n$npcName:11004290$ suspects that if the will exists anywhere, it would be in $map:63000070$.\n\nLet's go to $map:63000070$ without $npcName:11004289$ knowing and search for the original will.\n\nSpeak with $npcName:11004290$ whenever you want to travel to $map:63000070$."
+    "desc": "$npcName:11004290$ studied the evidence found in $map:63000069$ in silence for a long moment, then spoke gravely.\n\nCount Monchu's cousin, $npcName:11004289$, had deliberately locked Marien—who ranked higher in the inheritance order—in the room, and had even made the estate executor disappear, all to claim the hotel for herself.\n\nLearning the full truth, $npcName:11004290$ is furious and wants to punish $npcName:11004289$—but without the original will, the inheritance cannot be executed.\n\n$npcName:11004290$ suspects that if the will exists anywhere, it would be in $map:63000070$.\n\nLet's go to $map:63000070$ without $npcName:11004289$ knowing and search for the original will.\n\nSpeak with $npcName:11004290$ whenever you want to travel to $map:63000070$.",
+    "name": "The True Heir of Mon Chou Chou Hotel"
   },
   "30000356-Event-JP": {
     "desc": "We can now investigate $map:63000069$.\n\n$npcName:11004291$ is surprised to find the key to $map:63000069$ suddenly in his pocket, but he quickly offers to escort us there.\n\nLet's go to $map:63000069$ without $npcName:11004289$ noticing and find the evidence needed to uncover the truth.",
-    "manual": "Discover the missing man's identity|Find out the man's purpose for visiting the hotel|Find evidence of those involved in the crime|Discover the motive behind the crime"
+    "manual": "Discover the missing man's identity|Find out the man's purpose for visiting the hotel|Find evidence of those involved in the crime|Discover the motive behind the crime",
+    "name": "A Clue in the Suite Room"
   },
   "30000355-Event-JP": {
-    "desc": "It appears someone deliberately locked $npcName:11004311$ in the guest room.\n\n$npcName:11004311$, who was cold and hungry alone in the dark, said she wants to punish whoever did this to her.\n\nShe says the key to $map:63000069$ was secretly slipped into $npcName:11004291$'s pocket, so we should speak to $npcName:11004291$ and make our way to $map:63000069$."
+    "desc": "It appears someone deliberately locked $npcName:11004311$ in the guest room.\n\n$npcName:11004311$, who was cold and hungry alone in the dark, said she wants to punish whoever did this to her.\n\nShe says the key to $map:63000069$ was secretly slipped into $npcName:11004291$'s pocket, so we should speak to $npcName:11004291$ and make our way to $map:63000069$.",
+    "name": "Bellboy Averton"
   },
   "30000358-Event-JP": {
     "desc": "$npcName:11004311$ says that now all the truth has been revealed, she too must go where she belongs.\n\nBut she seems worried about her father in $map:63000071$.\n\nAccording to $npcName:11004311$, Count Monchu appears to have become a vengeful spirit consumed by rage.\n\nLet's go to $map:63000071$ and meet her father.\n\nSpeak with Marien, who is staying briefly in $map:63000065$, to travel to $map:63000071$.",
-    "manual": "Speak with $npcName:11004311$ in the hotel lobby to go to $map:63000071$ and put $npcName:11004309$ to rest"
+    "manual": "Speak with $npcName:11004311$ in the hotel lobby to go to $map:63000071$ and put $npcName:11004309$ to rest",
+    "name": "The Ghost of Count Mon Chou"
   },
   "30000360-Event-JP": {
     "desc": "$npc:11004290$ said that if Count Monchu were still alive, he would surely say the hotel was running low on $item:30001214$.\n\nYou can obtain $item:30001214$ by defeating the ghosts in $map:63000067$, and she promised to reward you for bringing them.\n\n$npc:11004290$, fixated on $item:30001214$, gazes with a lonely look—as if she misses Count Monchu and Marien dearly."
@@ -46701,13 +46709,17 @@
     "desc": "$npcName:11004777$. It contained a message asking you to help $npcName:11004345$—a girl facing the greatest crisis of her 16 years of life—at $map:63000072$.\nLet's head to $map:63000072$ and meet $npcName:11004345$.\n\n* Accessible via the Event Map Shortcut button"
   },
   "30000373-Event-JP": {
-    "desc": "$npcName:11004346$ doesn't seem to remember much about the white furry creature that attacked him. But $npcName:11004345$ seems to have some idea, saying it would be best to go home and investigate.\nLet's meet the siblings again at their home in the northwest of $map:63000072$.\nInside their home at $map:63000074$, let's meet $npcName:11004360$."
+    "desc": "$npcName:11004346$ doesn't seem to remember much about the white furry creature that attacked him. But $npcName:11004345$ seems to have some idea, saying it would be best to go home and investigate.\nLet's meet the siblings again at their home in the northwest of $map:63000072$.\nInside their home at $map:63000074$, let's meet $npcName:11004360$.",
+    "name": "Identity of the Attacker",
+    "complete": "Talk to $npcName:11004360$ inside the siblings' home, $map:63000074$, northwest of $map:63000072$"
   },
   "30000371-Event-JP": {
-    "desc": "$npcName:11004345$ woke up to find the house in shambles and her entire family gone. Let's help her find them.\nAsk the villagers in $map:63000072$ about the whereabouts of $npcName:11004345$'s family."
+    "desc": "$npcName:11004345$ woke up to find the house in shambles and her entire family gone. Let's help her find them.\nAsk the villagers in $map:63000072$ about the whereabouts of $npcName:11004345$'s family.",
+    "manual": "Find $npcName:11004345$'s mother, $npcName:11004347$, in $map:63000072$|Find $npcName:11004345$'s father, $npcName:11004348$, in $map:63000072$|Find $npcName:11004345$'s brother, $npcName:11004346$, in $map:63000072$"
   },
   "30000372-Event-JP": {
-    "desc": "We heard a witness say that $npcName:11004345$'s brother, $npc:11004346$, headed toward $map:63000073$. When we told $npcName:11004345$, she said she wants to find their parents together and asked us to bring her brother back from there...\nLet's go to $map:63000073$ and find $npcName:11004346$."
+    "desc": "We heard a witness say that $npcName:11004345$'s brother, $npc:11004346$, headed toward $map:63000073$. When we told $npcName:11004345$, she said she wants to find their parents together and asked us to bring her brother back from there...\nLet's go to $map:63000073$ and find $npcName:11004346$.",
+    "manual": "Find clues about the missing brother and attacker in $map:63000073$, north of $map:63000072$"
   },
   "30000374-Event-JP": {
     "manual": "Find clues to locate the missing family in $map:63000074$",
@@ -46715,16 +46727,21 @@
     "name": "Someone's Diary"
   },
   "30000375-Event-JP": {
-    "desc": "$npcName:11004346$ teases $npcName:11004345$, who angrily confronts him about reading her diary. The siblings are so caught up arguing that they've forgotten to look for the next clue. If the 'cake' mentioned in $item:30001260$ points to somewhere in the house, the dining room seems the most likely place to check.\nLet's look for traces of the siblings' mother, $npcName:11004347$, in $map:63000076$."
+    "desc": "$npcName:11004346$ teases $npcName:11004345$, who angrily confronts him about reading her diary. The siblings are so caught up arguing that they've forgotten to look for the next clue. If the 'cake' mentioned in $item:30001260$ points to somewhere in the house, the dining room seems the most likely place to check.\nLet's look for traces of the siblings' mother, $npcName:11004347$, in $map:63000076$.",
+    "manual": "Search the dresser in $map:63000076$ for traces of $npcName:11004347$|Search under the table for traces of $npcName:11004347$|Search behind the sofa for traces of $npcName:11004347$|Inspect the audio player for traces of $npcName:11004347$",
+    "name": "An Enormous Cake"
   },
   "30000377-Event-JP": {
-    "desc": "The family is now convinced that dad might be in the garden. But there's no telling what the culprit behind this chaos—the 'white furry thing'—might do next. The siblings' mother, $npcName:11004347$, would like to ask us to investigate the garden...\nAs adventurers accustomed to battle, this is a request worth accepting.\nHead out to $map:63000077$ and search for the whereabouts of the siblings' father, $npcName:11004348$."
+    "desc": "The family is now convinced that dad might be in the garden. But there's no telling what the culprit behind this chaos—the 'white furry thing'—might do next. The siblings' mother, $npcName:11004347$, would like to ask us to investigate the garden...\nAs adventurers accustomed to battle, this is a request worth accepting.\nHead out to $map:63000077$ and search for the whereabouts of the siblings' father, $npcName:11004348$.",
+    "manual": "Subdue the unreasonable $npc:27000100$ in $map:63000077$"
   },
   "30000378-Event-JP": {
-    "desc": "The freed $npcName:11004348$ doesn't resent $npcName:11004349$ for the imprisonment—in fact, defends the kid as a good soul. It turns out $npcName:11004349$, who had met $npcName:11004345$ as a child, dreamed of becoming a \"Rudolf\" and wanted to grant $npcName:11004345$'s wish to make her happy and earn Santa's recognition. But $npcName:11004349$ mistook a complaint $npcName:11004345$ had written in her diary for a real wish—causing the entire commotion.\n\nUpon learning this belatedly, $npcName:11004345$ says her real Christmas wish is something else entirely…\nListen to the whole family's story in $map:63000077$."
+    "desc": "The freed $npcName:11004348$ doesn't resent $npcName:11004349$ for the imprisonment—in fact, defends the kid as a good soul. It turns out $npcName:11004349$, who had met $npcName:11004345$ as a child, dreamed of becoming a \"Rudolf\" and wanted to grant $npcName:11004345$'s wish to make her happy and earn Santa's recognition. But $npcName:11004349$ mistook a complaint $npcName:11004345$ had written in her diary for a real wish—causing the entire commotion.\n\nUpon learning this belatedly, $npcName:11004345$ says her real Christmas wish is something else entirely…\nListen to the whole family's story in $map:63000077$.",
+    "manual": "Listen to the full story of $npcName:11004348$, $npcName:11004345$, and $npc:27000100$ in $map:63000077$"
   },
   "30000380-Event-JP": {
-    "desc": "$npcName:11004349$ has become a trainee Rudolf. His determination to become a great Rudolf shines through his glowing red nose—but the task Santa has given him is no easy feat…\n\n$npcName:11004349$ is afraid of the dark. Defeat the monsters in $map:63000073$ that are threatening to stop him from reading his books."
+    "desc": "$npcName:11004349$ has become a trainee Rudolf. His determination to become a great Rudolf shines through his glowing red nose—but the task Santa has given him is no easy feat…\n\n$npcName:11004349$ is afraid of the dark. Defeat the monsters in $map:63000073$ that are threatening to stop him from reading his books.",
+    "name": "Apprentice Rudolf Hates the Dark"
   },
   "30000379-Event-JP": {
     "desc": "With all misunderstandings cleared up, $npcName:11004345$, $npcName:11004346$, $npcName:11004347$, and $npcName:11004348$ throw a joyful Christmas party—and their new friend $npcName:11004349$ is invited too. $npcName:11004345$ thanks you for being the true Santa Claus of this Christmas. Enjoy the happy celebration with her, her family, and $npcName:11004349$.\n\nNow $npcName:11004349$, who has a new announcement, is waiting in $map:63000072$…\nGo meet $npcName:11004349$ in $map:63000072$."
@@ -46736,7 +46753,8 @@
     "desc": "$npc:11001002$ shares news of a very special dance party prepared for Christmas and invites you to join.\nParticipate in $map:61000022$ three times a week and receive a surprise gift prepared by $npc:11001002$.\n\n* $map:61000022$ opens at 15 and 45 minutes past every hour"
   },
   "30000381-Event-JP": {
-    "desc": "Trainee Rudolf $npcName:11004349$ is a kind soul who loves Christmas dearly. He has a deep fondness for Christmas trees, but all the $item:30001258$ he had carefully collected have gone missing, leaving him heartbroken.\nFor the sake of the pure-hearted $npcName:11004349$, defeat monsters in $map:63000077$ and bring him $item:30001258$."
+    "desc": "Trainee Rudolf $npcName:11004349$ is a kind soul who loves Christmas dearly. He has a deep fondness for Christmas trees, but all the $item:30001258$ he had carefully collected have gone missing, leaving him heartbroken.\nFor the sake of the pure-hearted $npcName:11004349$, defeat monsters in $map:63000077$ and bring him $item:30001258$.",
+    "manual": "Defeat monsters in $map:63000077$ to collect $item:30001258$"
   },
   "91000074-FameContents_EP1_02-JP": {
     "desc": "$dungeonTitle:24090004$\nA solo dungeon accessible only while the quest is active.\nEntry is only possible via the [Enter Dungeon Alone] button.\n\nYou've been deployed on a mission to draw attention and push back $npc:11003795$ while the ultra-high-density particle accelerator is stabilized. Hold the defensive line with a sense of weighty responsibility.",
@@ -46744,27 +46762,40 @@
   },
   "94000240-FameContents_EP1_01-JP": {
     "desc": "An unidentified aircraft is hovering near the Sky Fortress.\n\n$npcName:11003536$ seems determined to analyze it.\nIn this situation, there's only one thing $npcName:11003536$ needs!\n\nThat is the help of $MyPCName$.",
-    "descFameUI": "An unidentified aircraft is hovering near the Sky Fortress.\nTo analyze it, get in there and face it head-on!"
+    "descFameUI": "An unidentified aircraft is hovering near the Sky Fortress.\nTo analyze it, get in there and face it head-on!",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003536$",
+    "name": "Unidentified Flying Object"
   },
   "94000241-FameChallengeDungeon-JP": {
     "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top.\n\nIn Fortress Rumble, you can spar with Captain Blieze\nat [Sky Fortress Bridge Upper Deck].\n",
-    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top."
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top.",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003533$",
+    "manual": "Fortress Rumble,\n[Sky Fortress Bridge Upper Deck]\nClear",
+    "name": "Battle in the Skies"
   },
   "94000242-FameChallengeDungeon-JP": {
     "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing.\n\nIn Fortress Rumble, you can spar with $npcName:11003584$\nat [Shadow Wind Secret Training Facility].\n",
-    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing."
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing.",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003535$",
+    "name": "Schaten's Secret Lesson"
   },
   "94000245-FameChallengeDungeon-JP": {
     "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life.\n\nIn Fortress Rumble, you can spar with $npcName:11003583$\nat [Royal Guard Training Grounds].\n",
-    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life."
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life.",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003534$"
   },
   "94000244-FameChallengeDungeon-JP": {
     "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation,\nyour battle data is required.\n\nIn Fortress Rumble, you can participate in $npcName:11003585$'s virtual combat training\nat [Nairin's Combat Simulator].\n",
-    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation, your battle data is required."
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation, your battle data is required.",
+    "manual": "Fortress Rumble,\n[Neilin's Battle Simulator]\nClear",
+    "name": "For the Perfect Simulation!",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003536$"
   },
   "94000243-FameChallengeDungeon-JP": {
     "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny. The possibilities are in motion.",
-    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny.\nThe possibilities are in motion.\n\nIn Fortress Rumble, you can spar with $npcName:11003537$\nat [Knights' High Command Reception Area].\n"
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny.\nThe possibilities are in motion.\n\nIn Fortress Rumble, you can spar with $npcName:11003537$\nat [Knights' High Command Reception Area].\n",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003537$",
+    "name": "Destiny of Possibility"
   },
   "80010370-Event-CN": {
     "desc": "Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day."
@@ -46792,5 +46823,119 @@
   },
   "80010401-Event-CN": {
     "desc": "The other-dimensional space created by the time rift has become wildly popular among adventurers. Now $npc:23000077$ plans to create even more dimensional spaces...\nIf the rift lasts too long and grows larger, unforeseen dangers may follow. Head to $dungeonTitle:29006001$ and face $npc:23000077$."
+  },
+  "74000017-Mentoring-JP": {
+    "manual": "Destroy 5 Unwanted Items",
+    "desc": "Destroy 5 Unwanted Items",
+    "name": "Destroy 5 Unwanted Items"
+  },
+  "80010341-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a player of the opposite gender wearing a 'Lovely Heart Ribbon' (at least Level 10) in Maple World"
+  },
+  "80010343-Event-CN": {
+    "manual": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt LO' (at least Level 10) in Maple World",
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010342-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a player of the opposite gender wearing a 'Lovely Heart Bag' (at least Level 10) in Maple World"
+  },
+  "80010344-Event-CN": {
+    "manual": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt VE' (at least Level 10) in Maple World",
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010345-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a player of the opposite gender wearing 'Love in Droplets' (at least Level 10) in Maple World"
+  },
+  "80010346-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "72000499-KarkarIsland-JP": {
+    "manual": "Check on $npcName:11004264$ in $map:02010002$",
+    "name": "Check on $npcName:11004264$ in $map:02010002$"
+  },
+  "72000503-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11004265$ in $map:02010058$",
+    "name": "Talk to $npc:11004265$ in $map:02010058$"
+  },
+  "72000511-KarkarIsland-JP": {
+    "name": "Talk to $npc:11004267$ in $map:02010012$",
+    "manual": "Talk to $npc:11004267$ in $map:02010012$"
+  },
+  "72000527-KarkarIsland-JP": {
+    "manual": "Defeat monsters in $map:02010022$",
+    "name": "Defeat monsters in $map:02010022$"
+  },
+  "72000520-KarkarIsland-JP": {
+    "manual": "Talk to $npcName:11001350$ in $map:02010056$",
+    "name": "Talk to $npcName:11001350$ in $map:02010056$"
+  },
+  "72000535-KarkarIsland-JP": {
+    "manual": "Check on $npc:11004276$ in $map:02010027$",
+    "name": "Check on $npc:11004276$ in $map:02010027$"
+  },
+  "72000539-KarkarIsland-JP": {
+    "manual": "Check on $npc:11004278$ in $map:02010028$",
+    "name": "Check on $npc:11004278$ in $map:02010028$"
+  },
+  "72000548-KarkarIsland-JP": {
+    "name": "Talk to $npc:11004274$ in $map:02010006$"
+  },
+  "80010551-Event-CN": {
+    "name": "Looking Good, Even to Myself",
+    "desc": "$npc:11000158$ says that the second training exercise is to run on $item:50400096$ and clear your mind.\nI'm not sure what the point of this is, but since there are rewards on offer, I might as well follow along.\nUse $item:50400096$ in your home or someone else's home, then find $npc:11000157$ in $map:02000118$."
+  },
+  "80010542-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+  },
+  "80010540-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+  },
+  "80010530-Event-CN": {
+    "desc": "I heard that $npc:11001899$ is hosting a new event.\nIt's a hide-and-seek type game...\nThey say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in."
+  },
+  "80010541-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+  },
+  "80010520-Event-CN": {
+    "desc": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?"
+  },
+  "80010543-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+  },
+  "80010550-Event-CN": {
+    "desc": "$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.\nI'm not quite sure why I should do this, but since there are rewards on offer, let's take part.\nFirst, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.\n\nField Bosses in Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' "
+  },
+  "80010552-Event-CN": {
+    "desc": "$npc:11000157$ says that true romance means enjoying solitude and exploring yourself, and asks you to play a song with any sheet music.\nApparently, immersing yourself in a world where only music and you exist is the third training exercise... I have no idea what that means, but since it's the third one, I might as well keep going.\nPlay any sheet music, then find $npc:11000617$ in $map:02000118$."
+  },
+  "80010553-Event-CN": {
+    "desc": "$npc:11000617$ says that eating $item:20001693$ is the final training exercise, and even explained its significance.\nSince there's a gift waiting after this last exercise, I might as well just go ahead and do as I'm told.\nEat the $item:20001693$ received as training rewards, then claim your souvenir.\n(If you don't have any $item:20001693$, speak to $npc:11000617$ to receive some again.)"
+  },
+  "89010373-Event-CN": {
+    "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times",
+    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times"
+  },
+  "80010570-Event-CN": {
+    "desc": "$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.\nParticipate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared."
+  },
+  "80010600-Event-CN": {
+    "desc": "Find the Black Bean-shaped balloons appearing throughout the fields and send them flying.\n\n* Black Bean-shaped balloons appear across all fields every 10 minutes and last for 5 minutes."
+  },
+  "80010590-Event-CN": {
+    "desc": "Find the Borabora heart balloons appearing throughout the fields and send them flying.\n\n* Borabora heart balloons appear across all fields every 10 minutes and last for 5 minutes."
+  },
+  "80010560-Event-CN": {
+    "desc": "If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.\nCollect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$."
+  },
+  "89010375-Event-CN": {
+    "manual": "* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.\n* Daily guild quests can only be accepted after you have been in the guild for one day.\n* Weekly guild quests can only be accepted after you have been in the guild for one week.\n* Both daily and weekly quests count toward the quest objective completion count.\n\nComplete 3 guild quests",
+    "complete": "* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.\n* Daily guild quests can only be accepted after you have been in the guild for one day.\n* Weekly guild quests can only be accepted after you have been in the guild for one week.\n* Both daily and weekly quests count toward the quest objective completion count.\n\nComplete 3 guild quests"
+  },
+  "89010374-Event-CN": {
+    "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times",
+    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times"
   }
 }
