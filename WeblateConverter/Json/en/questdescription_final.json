@@ -46692,7 +46692,8 @@
     "desc": "$npc:11004290$ said that if Count Monchu were still alive, he would surely say the hotel was running low on $item:30001214$.\n\nYou can obtain $item:30001214$ by defeating the ghosts in $map:63000067$, and she promised to reward you for bringing them.\n\n$npc:11004290$, fixated on $item:30001214$, gazes with a lonely look—as if she misses Count Monchu and Marien dearly."
   },
   "30000359-Event-JP": {
-    "manual": "Defeat the ghosts filling $map:63000068$"
+    "manual": "Defeat the ghosts filling $map:63000068$",
+    "desc": "$npc:11004290$ lamented that $map:63000068$ had become a place for ghosts rather than guests.\n\n$npc:11004290$ wants to drive out the ghosts haunting $map:63000068$, but is too old and frail to do so. Defeat the ghosts on their behalf. "
   },
   "30000370-Event-JP": {
     "name": "Please Be My Santa",
@@ -46718,5 +46719,78 @@
   },
   "30000377-Event-JP": {
     "desc": "The family is now convinced that dad might be in the garden. But there's no telling what the culprit behind this chaos—the 'white furry thing'—might do next. The siblings' mother, $npcName:11004347$, would like to ask us to investigate the garden...\nAs adventurers accustomed to battle, this is a request worth accepting.\nHead out to $map:63000077$ and search for the whereabouts of the siblings' father, $npcName:11004348$."
+  },
+  "30000378-Event-JP": {
+    "desc": "The freed $npcName:11004348$ doesn't resent $npcName:11004349$ for the imprisonment—in fact, defends the kid as a good soul. It turns out $npcName:11004349$, who had met $npcName:11004345$ as a child, dreamed of becoming a \"Rudolf\" and wanted to grant $npcName:11004345$'s wish to make her happy and earn Santa's recognition. But $npcName:11004349$ mistook a complaint $npcName:11004345$ had written in her diary for a real wish—causing the entire commotion.\n\nUpon learning this belatedly, $npcName:11004345$ says her real Christmas wish is something else entirely…\nListen to the whole family's story in $map:63000077$."
+  },
+  "30000380-Event-JP": {
+    "desc": "$npcName:11004349$ has become a trainee Rudolf. His determination to become a great Rudolf shines through his glowing red nose—but the task Santa has given him is no easy feat…\n\n$npcName:11004349$ is afraid of the dark. Defeat the monsters in $map:63000073$ that are threatening to stop him from reading his books."
+  },
+  "30000379-Event-JP": {
+    "desc": "With all misunderstandings cleared up, $npcName:11004345$, $npcName:11004346$, $npcName:11004347$, and $npcName:11004348$ throw a joyful Christmas party—and their new friend $npcName:11004349$ is invited too. $npcName:11004345$ thanks you for being the true Santa Claus of this Christmas. Enjoy the happy celebration with her, her family, and $npcName:11004349$.\n\nNow $npcName:11004349$, who has a new announcement, is waiting in $map:63000072$…\nGo meet $npcName:11004349$ in $map:63000072$."
+  },
+  "30000376-Event-JP": {
+    "desc": "The mother, reunited with her children, says she must now search for the father's whereabouts. $npcName:11004345$ is uneasy that events are unfolding exactly as her diary described, yet she can't remember what she wrote. Comfort her and look for the next clue.\nTalk to $npcName:11004345$ in $map:63000074$."
+  },
+  "30000382-Event-JP": {
+    "desc": "$npc:11001002$ shares news of a very special dance party prepared for Christmas and invites you to join.\nParticipate in $map:61000022$ three times a week and receive a surprise gift prepared by $npc:11001002$.\n\n* $map:61000022$ opens at 15 and 45 minutes past every hour"
+  },
+  "30000381-Event-JP": {
+    "desc": "Trainee Rudolf $npcName:11004349$ is a kind soul who loves Christmas dearly. He has a deep fondness for Christmas trees, but all the $item:30001258$ he had carefully collected have gone missing, leaving him heartbroken.\nFor the sake of the pure-hearted $npcName:11004349$, defeat monsters in $map:63000077$ and bring him $item:30001258$."
+  },
+  "91000074-FameContents_EP1_02-JP": {
+    "desc": "$dungeonTitle:24090004$\nA solo dungeon accessible only while the quest is active.\nEntry is only possible via the [Enter Dungeon Alone] button.\n\nYou've been deployed on a mission to draw attention and push back $npc:11003795$ while the ultra-high-density particle accelerator is stabilized. Hold the defensive line with a sense of weighty responsibility.",
+    "name": "Securing the Skies, but..."
+  },
+  "94000240-FameContents_EP1_01-JP": {
+    "desc": "An unidentified aircraft is hovering near the Sky Fortress.\n\n$npcName:11003536$ seems determined to analyze it.\nIn this situation, there's only one thing $npcName:11003536$ needs!\n\nThat is the help of $MyPCName$.",
+    "descFameUI": "An unidentified aircraft is hovering near the Sky Fortress.\nTo analyze it, get in there and face it head-on!"
+  },
+  "94000241-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top.\n\nIn Fortress Rumble, you can spar with Captain Blieze\nat [Sky Fortress Bridge Upper Deck].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top."
+  },
+  "94000242-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing.\n\nIn Fortress Rumble, you can spar with $npcName:11003584$\nat [Shadow Wind Secret Training Facility].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing."
+  },
+  "94000245-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life.\n\nIn Fortress Rumble, you can spar with $npcName:11003583$\nat [Royal Guard Training Grounds].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life."
+  },
+  "94000244-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation,\nyour battle data is required.\n\nIn Fortress Rumble, you can participate in $npcName:11003585$'s virtual combat training\nat [Nairin's Combat Simulator].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation, your battle data is required."
+  },
+  "94000243-FameChallengeDungeon-JP": {
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny. The possibilities are in motion.",
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny.\nThe possibilities are in motion.\n\nIn Fortress Rumble, you can spar with $npcName:11003537$\nat [Knights' High Command Reception Area].\n"
+  },
+  "80010370-Event-CN": {
+    "desc": "Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day."
+  },
+  "80010350-Event-CN": {
+    "desc": "An April Fools' surprise event, available only until April 2, 2019!\n\nIt's April Fools' Day!\nThat urge to trick or prank someone? $npcName:11001002$ totally gets it~!\n\nEat the $item:20000674$ received in the mail and give your friends a big surprise.\nAdventurers who complete the quest will receive a gift perfectly suited for April Fools'!"
+  },
+  "80010390-Event-CN": {
+    "desc": "$npc:11001003$ tells you about a special dungeon open during the event and explains that you can level up quickly through it.\nClear $dungeonTitle:29007001$ and $dungeonTitle:29007002$ a combined 30 times in one week to receive items for rapid growth.\nNote that the daily/weekly reward limit for both dungeons is shared at the account level."
+  },
+  "80010360-Event-CN": {
+    "desc": "If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.\n\nThe gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!"
+  },
+  "80010500-Event-CN": {
+    "desc": "Use [Go to Event Map] to travel to $map:63000089$ and try playing music together with other adventurers."
+  },
+  "80010510-Event-CN": {
+    "desc": "Listen to the fascinating rumors that $npcName:11001002$ has to share."
+  },
+  "80010400-Event-CN": {
+    "desc": "A rift in time has opened a gateway to a dimension from another world. It all traces back to $map:02000420$...\nIf the rift persists for long, who knows what dangers may arise. Head to $dungeonTitle:29006001$ and face $npc:23000077$."
+  },
+  "80010402-Event-CN": {
+    "desc": "Apparently, $npc:23000077$'s true plan is to trap adventurers inside the other-dimensional space created by the time rift.\nBefore adventurers fall into danger, head to $dungeonTitle:29006001$ and face $npc:23000077$."
+  },
+  "80010401-Event-CN": {
+    "desc": "The other-dimensional space created by the time rift has become wildly popular among adventurers. Now $npc:23000077$ plans to create even more dimensional spaces...\nIf the rift lasts too long and grows larger, unforeseen dangers may follow. Head to $dungeonTitle:29006001$ and face $npc:23000077$."
   }
 }
