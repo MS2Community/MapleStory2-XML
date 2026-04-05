@@ -24934,42 +24934,182 @@
   },
   "40005011--": {
     "name": "Poison Powder",
-    "tooltipDescription": "Inhaled a strange powder and got poisoned!\nContinuously takes poison damage"
+    "tooltipDescription": "Inhaled a strange powder and got poisoned!\nContinuously takes poison damage",
+    "level": "1"
   },
   "40006011--": {
     "name": "Confusion Powder",
-    "tooltipDescription": "Inhaled a strange powder, mind falling into a stupor!\nStunned, unable to move"
+    "tooltipDescription": "Inhaled a strange powder, mind falling into a stupor!\nStunned, unable to move",
+    "level": "1"
   },
   "40007011--": {
     "name": "Paralysis Powder",
-    "tooltipDescription": "Inhaled a strange powder, legs feel weak!\nMovement Speed -40%\nContinuously takes poison damage"
+    "tooltipDescription": "Inhaled a strange powder, legs feel weak!\nMovement Speed -40%\nContinuously takes poison damage",
+    "level": "1"
   },
   "40010001--": {
     "name": "Vine Snare",
-    "tooltipDescription": "Feet caught in vines!\nMovement Speed -30%"
+    "tooltipDescription": "Feet caught in vines!\nMovement Speed -30%",
+    "level": "1"
   },
   "40046011--": {
     "name": "Lethal Poison",
-    "tooltipDescription": "Hit by lethal poison, body grows weak...\nMovement Speed -40%\nContinuously takes poison damage"
+    "tooltipDescription": "Hit by lethal poison, body grows weak...\nMovement Speed -40%\nContinuously takes poison damage",
+    "level": "1"
   },
   "40196002--": {
     "name": "Choking Smoke",
-    "tooltipDescription": "Blinded by choking smoke!\nAccuracy -30%"
+    "tooltipDescription": "Blinded by choking smoke!\nAccuracy -30%",
+    "level": "1"
   },
   "40106011--": {
     "name": "Piercing Laser",
-    "tooltipDescription": "Hit by a laser, unable to move freely!\nMovement Speed -30%"
+    "tooltipDescription": "Hit by a laser, unable to move freely!\nMovement Speed -30%",
+    "level": "1"
   },
   "40230011--": {
     "name": "Frost Spit",
-    "tooltipDescription": "Hit by frost spit, body stiffens!\nMovement Speed -40%"
+    "tooltipDescription": "Hit by frost spit, body stiffens!\nMovement Speed -40%",
+    "level": "1"
   },
   "40234001--": {
     "name": "Icy Paw Strike",
-    "tooltipDescription": "Hit by an ice-cold paw attack, body stiffens!\nMovement Speed -40%"
+    "tooltipDescription": "Hit by an ice-cold paw attack, body stiffens!\nMovement Speed -40%",
+    "level": "1"
   },
   "40231011--": {
     "name": "Scorpion Venom",
-    "tooltipDescription": "Afflicted by scorpion venom!\nContinuously takes poison damage"
+    "tooltipDescription": "Afflicted by scorpion venom!\nContinuously takes poison damage",
+    "level": "1"
+  },
+  "40339011--": {
+    "name": "Silence",
+    "tooltipDescription": "Unable to use skills.",
+    "level": "1"
+  },
+  "40319001--": {
+    "name": "Fireball Attack",
+    "tooltipDescription": "Engulfed in flames!\nTaking continuous fire damage.",
+    "level": "1"
+  },
+  "40361102-GuildRaid01-": {
+    "name": "Poison",
+    "tooltipDescription": "Deals poison damage per second.\nMovement speed reduced by 50%.",
+    "level": "1"
+  },
+  "40442001-PirateOcean-": {
+    "name": "Water in Ears",
+    "tooltipDescription": "Water got into your ears.\nYou can no longer hear the sound of the harp.",
+    "level": "1"
+  },
+  "40442002-PirateOcean-": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "40442003-PirateOcean-": {
+    "name": "Enrage",
+    "tooltipDescription": "Filled with rage upon seeing a fallen companion.\nAttack power increased by 100%.",
+    "level": "1"
+  },
+  "40442042-PirateOcean-": {
+    "name": "Sleep",
+    "tooltipDescription": "Temporarily unable to act.",
+    "level": "1"
+  },
+  "40442043-PirateOcean-": {
+    "name": "Confusion",
+    "tooltipDescription": "Confused and may attack allies.\nPhysical and magic attack power reduced.",
+    "level": "1"
+  },
+  "40500003-PirateOcean-": {
+    "name": "Movement Speed Reduced",
+    "tooltipDescription": "Movement speed reduced by 45%.",
+    "level": "1"
+  },
+  "40500010-PirateOcean-": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to act.",
+    "level": "1"
+  },
+  "40500011-PirateOcean-": {
+    "name": "Rage",
+    "tooltipDescription": "In a rage state.\nAttack power is increased in this state.",
+    "level": "1"
+  },
+  "40500013-PirateOcean-": {
+    "name": "Sleep",
+    "tooltipDescription": "Unable to act while sleeping.",
+    "level": "1"
+  },
+  "40500014-PirateOcean-": {
+    "name": "Confusion",
+    "tooltipDescription": "Confused and may attack allies.\nPhysical and magical attack power reduced.",
+    "level": "1"
+  },
+  "40500045-SnowKingdom-": {
+    "name": "Defense Up",
+    "tooltipDescription": "Gains a shield defense effect.\nDefense greatly increased.",
+    "level": "1"
+  },
+  "40500049--": {
+    "level": "1",
+    "name": "Bitter Frost",
+    "tooltipDescription": "Enveloped in cold as sharp as a blade.\nMovement speed reduced.\nAfter stacking 3 times, the cold will explode."
+  },
+  "40500050--": {
+    "level": "1",
+    "name": "Frost Explosion",
+    "tooltipDescription": "The frost explodes, causing loss of consciousness."
+  },
+  "40501002-PirateOcean-": {
+    "level": "1",
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power is increased by the Aura."
+  },
+  "40501001-PirateOcean-": {
+    "level": "1",
+    "name": "Aura of Attack Power Boost",
+    "tooltipDescription": "Activates the Aura of Attack Power Boost, increasing the attack power of nearby allies."
+  },
+  "40501003-PirateOcean-": {
+    "level": "1",
+    "name": "Aura of HP Regeneration",
+    "tooltipDescription": "Activates the Aura of HP Regeneration, continuously restoring the HP of nearby allies."
+  },
+  "40501004-PirateOcean-": {
+    "level": "1",
+    "name": "HP Regeneration",
+    "tooltipDescription": "HP is continuously restored by the Aura."
+  },
+  "40501006-PirateOcean-": {
+    "level": "1",
+    "name": "Aura of Stats Boost",
+    "tooltipDescription": "Activates the Aura of Stats Boost, increasing the attack power and attack speed of nearby allies while continuously restoring their HP."
+  },
+  "40501011-PirateOcean-": {
+    "level": "1",
+    "name": "Flame Explosion Incoming",
+    "tooltipDescription": "A massive explosion is about to occur, dealing damage."
+  },
+  "40501007-PirateOcean-": {
+    "level": "1",
+    "name": "Attack Power, Attack Speed & HP Regen",
+    "tooltipDescription": "Attack power and attack speed are increased by the Aura, with HP continuously restored."
+  },
+  "40501013-PirateOcean-": {
+    "level": "1",
+    "name": "Bind Incoming",
+    "tooltipDescription": "Massive damage is incoming, followed by a bind."
+  },
+  "40501012-PirateOcean-": {
+    "level": "1",
+    "name": "Stunned",
+    "tooltipDescription": "The Flame Explosion inflicts 3 seconds of stun."
+  },
+  "40501014-PirateOcean-": {
+    "level": "1",
+    "name": "Bound",
+    "tooltipDescription": "Bound and unable to move."
   }
 }
