@@ -19804,5 +19804,79 @@
   },
   "s_item_merge_option_new_option--": {
     "value": "<FONT color='#FFFFFF'>New Option</FONT>\n<FONT color='#FFD200'>{0}</FONT>"
+  },
+  "s_alliance_quest_completion_ticket_use-FameCompletionTicket-": {
+    "commend": "{0}: Instant Complete Ticket item, {1}: Required item quantity",
+    "value": "{0} ({1}) will be consumed. Would you like to use it?"
+  },
+  "s_alliance_quest_completion_ticket_lack-FameCompletionTicket-": {
+    "commend": "{0}: Instant Complete Ticket item",
+    "value": "You don't have enough {0}. Would you like to purchase it from the Meret Market?"
+  },
+  "s_alliance_quest_completion_ticket_error-FameCompletionTicket-": {
+    "value": "Failed to use {0}.",
+    "commend": "{0}: Instant Complete Ticket item"
+  },
+  "s_gallery_desc_end_date--": {
+    "value": "Until maintenance on {1}/{2}/{0}!"
+  },
+  "s_world_champion_reward_title-WorldChampionMushroom-": {
+    "value": "Cumulative Rewards for Defeating Mushking Up to Level {0}"
+  },
+  "s_world_champion_step_button-WorldChampionMushroom-": {
+    "value": "Level {0}"
+  },
+  "s_world_champion_clear_title-WorldChampionMushroom-": {
+    "value": "All Levels of Mushking Defeated"
+  },
+  "s_world_champion_msg_current_field-WorldChampionMushroom-": {
+    "value": "You are already at the Mushking spawn location."
+  },
+  "s_world_champion_season_info-WorldChampionMushroom-": {
+    "value": "<FONT color='#ffd200'>Current Season</FONT>: Season {0} ({1} ~ {2})"
+  },
+  "s_world_champion_msg_move_field-WorldChampionMushroom-": {
+    "value": "Would you like to move to [{0}]?"
+  },
+  "s_world_champion_msg_not_found_season-WorldChampionMushroom-": {
+    "value": "There are currently no active World Raids.\nPlease wait for a new World Raid!"
+  },
+  "s_world_champion_msg_next_season-WorldChampionMushroom-": {
+    "value": "The next season starts on {0}."
+  },
+  "s_lapenshard_open_newbie_quest_message-Lapenshard01-": {
+    "comment": "{0}:Quest Name",
+    "value": "You must complete the <font color='#FFD200'>{0} Quest</FONT> to use the Lapenshard."
+  },
+  "s_burning_levelup_event_set_character_popup--KR": {
+    "value": "<FONT color='#FFD200' size='18' >[Burning Character Designation]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Burning Event with character {0}?</FONT>\n\n• From level 9 to 70, gain +2 additional levels per level-up. \n• Only 1 Burning Character can be designated per account. \n• Once designated, the Burning Character cannot be changed until the character is deleted.\n• After developing a Burning Character to level 70, you cannot designate an additional Burning Character even if the current one is deleted.\n• The Burning Event runs from after the Aug 11, 2022 maintenance until before the Oct 13, 2022 maintenance.\n\n<FONT color='#FFD200' size='18' >[Level 70 Achievement Reward Guide]</FONT>",
+    "comment": "{0}:Character Name"
+  },
+  "s_burning_levelup_event_set_character_popup--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[Jumping + Burning Character Designation]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Jumping Burning Event with character {0}?</FONT>\n\n• A potion to jump to level 50 will be provided. \n• From level 50 to 80, gain +2 additional levels per level-up. \n• Only 1 Burning Character can be designated per account. \n• Once designated, the Burning Character cannot be changed until the character is deleted.\n• After using the Level-Up Potion, you cannot designate a Burning Character even if the current one is deleted.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Guide]</FONT>"
+  },
+  "s_buring_levelup_envent_desc_popup--KR": {
+    "value": "<FONT color='#FFD200' size='18' >[What is Burning?]</FONT>\n\n• You gain +2 additional levels with each level up. \n• The effect applies from level 9 to 70. \n• Only 1 Burning character can be designated per account. \n• A designated Burning character cannot be changed until the character is deleted.\n• After leveling your Burning character to 70, you cannot designate another Burning character even if you delete it.\n• The Burning Event runs until the maintenance on October 13, 2022.\n\n<FONT color='#FFD200' size='18' >[Level 70 Achievement Reward Info]</FONT>"
+  },
+  "s_burning_levelup_event_jumping_item_notify--CN": {
+    "value": "Check your inventory now! \n You've received a <FONT color='#FFD200' size='18' >[Level 50 Level-Up Potion]</FONT>. \nUse the item to jump to level 50! \n After jumping, you can burn all the way to level 80."
+  },
+  "s_burning_levelup_event_jumping_item_desc_popup--CN": {
+    "value": "• This is a level 50 jumping potion provided upon completing the tutorial. \n• Once used, you cannot designate a Burning character even if you delete your character.\n\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>"
+  },
+  "s_burning_levelup_event_set_character_popup_bottom--KR": {
+    "value": "After reading the Burning Event details, if you would like to designate {0} as your Burning character, <FONT size='3'> </FONT>\nplease click <FONT color='#FFD200'>'OK'</FONT>."
+  },
+  "s_buring_levelup_envent_desc_popup--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[What is Jumping+Burning?]</FONT>\n\n• A potion that lets you jump to level 50 will be provided. \n• From level 50 to 80, you gain +2 additional levels with each level up. \n• Only 1 Burning character can be designated per account. \n• A designated Burning character cannot be changed until the character is deleted.\n• After using the level-up potion, you cannot designate a Burning character even if you delete your character.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Info]</FONT>"
+  },
+  "s_payback_dialog_period-Payback-": {
+    "value": "Period: {0}/{1}/{2} ~ {3}/{4}/{5}"
+  },
+  "s_lms_checknetcafe_user_count_limit_exceeded--JP": {
+    "value": "Unable to log in because the PC café connection limit has been exceeded."
+  },
+  "s_burning_levelup_event_jumping_complete--CN": {
+    "value": "You have used the <FONT color='#FFD200' size='18' >[Level 50 Level-Up Potion]</FONT>! \n\n • You can no longer designate a Burning character, even if you delete your character.\n • Please complete your job change quest for a smoother experience.\n • From now until level 80, the 1+2 Burning level-up bonus is active.\n\n<FONT color='#FFD200' size='18' >[Level 80 Final Reward]</FONT> "
   }
 }
