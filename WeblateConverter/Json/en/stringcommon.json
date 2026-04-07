@@ -20006,5 +20006,71 @@
   },
   "s_delete_account_cancel_login_success--": {
     "value": "Your account deletion request has been automatically canceled because you logged in during the lock period."
+  },
+  "s_delete_account_check_certid_fail_invalid_certnameid--": {
+    "value": "Account deletion request failed.\nThe name and ID number for verification are invalid."
+  },
+  "s_delete_account_check_user_cert_id_query_fail--": {
+    "value": "Account deletion request failed.\nIdentity verification request failed. "
+  },
+  "s_delete_account_cancel_login_fail--": {
+    "value": "An error occurred while canceling account deletion."
+  },
+  "s_delete_account_check_session_key_fail--": {
+    "value": "Account deletion request failed.\nUnable to retrieve user information."
+  },
+  "s_delete_account_check_user_cert_id_verify_fail--": {
+    "value": "Account deletion request failed.\nIdentity verification result is invalid."
+  },
+  "s_quest_start_err_has_quest--": {
+    "value": "You already have this quest."
+  },
+  "s_quest_start_err_level--": {
+    "value": "Your level is too low."
+  },
+  "s_quest_start_err_completed--": {
+    "value": "This quest has already been completed."
+  },
+  "s_delete_account_check_certid_fail_invalid_skey--": {
+    "value": "Account deletion request failed.\nThe session key is invalid."
+  },
+  "s_delete_account_check_certid_fail_invalid_platformsn--": {
+    "value": "Account deletion request failed.\nThe verification information is invalid."
+  },
+  "s_quest_start_err_invalid--": {
+    "value": "Unable to accept the quest."
+  },
+  "s_quest_start_success--": {
+    "value": "Quest accepted."
+  },
+  "s_quest_start_msg--": {
+    "value": "{0}\nRegister quest.\n\nOnce registered, the quest cannot be converted back to an item.\n\nWould you like to register it?"
+  },
+  "s_personal_infomaion_agreement_title--": {
+    "value": "Notice"
+  },
+  "s_personal_infomaion_agreement_sendlog_content--": {
+    "value": "Your account information will be sent to an overseas developer for analysis to provide quality game services and ensure account security. This information will only be used for improving game performance and troubleshooting."
+  },
+  "s_quest_start_title--": {
+    "value": "Quest Start Item"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_deny--": {
+    "value": "Deny"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_allowed--": {
+    "value": "Allow"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_public--": {
+    "value": "Public"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_content--": {
+    "value": "Please select whether to consent to sharing your personal information for a better game experience.\n(Can also be changed in the game settings page)\nUser Info - My Home Info\nCan be set to share with everyone, partially, or not at all"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_detail--": {
+    "value": "View Details"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_password--": {
+    "value": "Enter Password"
   }
 }
