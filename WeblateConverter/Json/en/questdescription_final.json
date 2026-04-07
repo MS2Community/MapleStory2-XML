@@ -6146,7 +6146,7 @@
     "name": "I want to know that",
     "desc": "$npc:11000003$ has traveled far over mountains and rivers to reach Tria, and seems very upset about the audience ceremony being canceled. Hearing $npc:11000003$'s story, the sudden cancellation feels suspicious. Could there be another reason? Maybe I should discreetly ask the armory guard at $map:02000001$ that $npc:11000003$ pointed out. ",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001003_COMPLETE",
+    "complete": "Find out the reason the audience was canceled in $map:02000001$",
     "count": "",
     "locking": "1"
   },
@@ -6247,9 +6247,9 @@
     "locking": "1"
   },
   "10001030--": {
-    "name": "QUESTDESCRIPTION_10001030_NAME",
+    "name": "Monkey Trouble",
     "desc": "At $map:02000064$, it seems $npc:21000055$ that wander over from $map:02000017$ sometimes cause trouble by stealing residents' belongings and ransacking homes. $npc:11000172$'s $item:30000019$ was likely stolen by $npc:21000055$ from $map:02000017$ as well. Apparently they hide inedible objects in tree branches in the forest, so let's shake the trees in $map:02000017$ to find the $item:30000019$!",
-    "manual": "QUESTDESCRIPTION_10001030_MANUAL",
+    "manual": "Find $item:30000019$ among the branches in $map:02000017$",
     "complete": "QUESTDESCRIPTION_10001030_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -6271,9 +6271,9 @@
     "locking": "1"
   },
   "10001060--": {
-    "name": "QUESTDESCRIPTION_10001060_NAME",
+    "name": "Tires for Cash",
     "desc": "$npc:11000395$ is a resident of the slums at $map:02000084$, living hand to mouth day by day. He barely has the strength to stand from hauling heavy scrap tires every day, and it would weigh on me to just walk past. Let's move the scrap tires piled around $npc:11000395$ at $map:02000084$ to the junk yard area where $npc:11000171$ and the helpers are working. ",
-    "manual": "QUESTDESCRIPTION_10001060_MANUAL",
+    "manual": "Move scrap tires to the junkyard in $map:02000084$",
     "complete": "QUESTDESCRIPTION_10001060_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -6281,7 +6281,7 @@
   "10001080--": {
     "name": "QUESTDESCRIPTION_10001080_NAME",
     "desc": "It was odd enough to find frozen ground and ice chunks in the middle of a green meadow — but to think those ice chunks were actually people frozen solid... Among the frozen figures on the ice at the center of $map:02000085$, let's find $npc:11000186$'s older sister $npc:11000188$ and thaw her with the warmth of $item:30000028$. First, let's break a branch from the red maple tree next to $npc:11000186$ and head down toward the ice.",
-    "manual": "QUESTDESCRIPTION_10001080_MANUAL",
+    "manual": "Pluck $item:30000028$ next to $npc:11000186$|Find $npc:11000188$ among the frozen victims in the center of $map:02000085$ and thaw them ",
     "complete": "QUESTDESCRIPTION_10001080_COMPLETE",
     "count": "1|0",
     "locking": "1"
@@ -6295,7 +6295,7 @@
     "locking": "1"
   },
   "10001150--": {
-    "name": "QUESTDESCRIPTION_10001150_NAME",
+    "name": "Garbage Is Money Too",
     "desc": "The slum resident $npc:11000396$ at $map:02000084$ looks like they haven't eaten in days and can barely stand. Let's gather the scattered $item:30000120$ around $map:02000084$ and bring them over.",
     "manual": "QUESTDESCRIPTION_10001150_MANUAL",
     "complete": "QUESTDESCRIPTION_10001150_COMPLETE",
@@ -6304,7 +6304,7 @@
   },
   "10001160--": {
     "name": "QUESTDESCRIPTION_10001160_NAME",
-    "desc": "QUESTDESCRIPTION_10001160_DESC",
+    "desc": "A notebook bearing the Barota Trading Company logo was found in a bag near the deceased $npc:11000492$...\nCan this help unravel the mysteries surrounding $npc:11000492$'s death?\nFor now, let's head to $map:02000139$, where Barota Trading Company's headquarters is located.",
     "manual": "QUESTDESCRIPTION_10001160_MANUAL",
     "complete": "QUESTDESCRIPTION_10001160_COMPLETE",
     "count": "1",
@@ -6312,7 +6312,7 @@
   },
   "10001170--": {
     "name": "QUESTDESCRIPTION_10001170_NAME",
-    "desc": "QUESTDESCRIPTION_10001170_DESC",
+    "desc": "$npc:11000097$, who was certain it was the notebook of Barota Trading Company leader Layman, checked the contents and dropped it in a panic.\nJust what was written in that notebook?",
     "manual": "QUESTDESCRIPTION_10001170_MANUAL",
     "complete": "QUESTDESCRIPTION_10001170_COMPLETE",
     "count": "1",
@@ -6320,7 +6320,7 @@
   },
   "10001171--": {
     "name": "QUESTDESCRIPTION_10001171_NAME",
-    "desc": "QUESTDESCRIPTION_10001171_DESC",
+    "desc": "Could $item:20000046$ really be among the goods stored by Barota Trading Company?\nI should find the Barota Trading Company warehouse in $map:02000139$ and check the items stored there.\nThe warehouse is at the end of the road just in front of $npc:11000208$.",
     "manual": "QUESTDESCRIPTION_10001171_MANUAL",
     "complete": "QUESTDESCRIPTION_10001171_COMPLETE",
     "count": "1",
@@ -6328,15 +6328,15 @@
   },
   "10001172--": {
     "name": "QUESTDESCRIPTION_10001172_NAME",
-    "desc": "QUESTDESCRIPTION_10001172_DESC",
+    "desc": "Layman has been missing for several days... What kind of relationship did he have with Nelf?\nLet's head to $map:02000152$ in $map:02000100$ and meet Dark Wind captain $npc:11000044$.",
     "manual": "QUESTDESCRIPTION_10001172_MANUAL",
     "complete": "QUESTDESCRIPTION_10001172_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001180--": {
-    "name": "QUESTDESCRIPTION_10001180_NAME",
-    "desc": "QUESTDESCRIPTION_10001180_DESC",
+    "name": "Backbreaking Work",
+    "desc": "Moving $item:30000048$ off a ship is dangerous work, even for a seasoned dockworker who's been at $map:02000139$ for years — one moment of carelessness could mean a back injury.\nBut I can't ignore the request of someone who's sick... I'll help move the red container $item:30000048$ to the dock.\nFrom the stacked containers at the dock, let's move the cargo box that $npc:11000207$ requested to where the red containers are!",
     "manual": "QUESTDESCRIPTION_10001180_MANUAL",
     "complete": "QUESTDESCRIPTION_10001180_COMPLETE",
     "count": "1",
@@ -6344,8 +6344,8 @@
   },
   "10001190--": {
     "name": "QUESTDESCRIPTION_10001190_NAME",
-    "desc": "QUESTDESCRIPTION_10001190_DESC",
-    "manual": "QUESTDESCRIPTION_10001190_MANUAL",
+    "desc": "Oil seems to be a crucial resource throughout daily life in Kerning City.\nBefore the problem gets worse, I should hurry to $map:02000148$ and remove the rust from the corroded pipes and repair them.",
+    "manual": "Repair the rusted pipes in $map:02000148$",
     "complete": "QUESTDESCRIPTION_10001190_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -47043,5 +47043,30 @@
     "manual": "Clear Cash Mart Part-Time Job",
     "complete": "Clear Cash Mart Part-Time Job 2 Times",
     "name": "Clear Cash Mart Part-Time Job 2 Times"
+  },
+  "89010418-Event-CN": {
+    "manual": "Disassemble an Item",
+    "complete": "Disassembled 1 Item",
+    "name": "Disassemble 1 Item"
+  },
+  "89010419-Event-CN": {
+    "manual": "Participate in MC Kay Event",
+    "name": "Participate in MC Kay Event Once",
+    "complete": "Participated in MC Kay Event Once"
+  },
+  "89010422-Event-CN": {
+    "complete": "Participated in Maple Arcade Once",
+    "manual": "Participate in Maple Arcade",
+    "name": "Participate in Maple Arcade"
+  },
+  "89010423-Event-CN": {
+    "name": "Attempt Gemstone Upgrade Once",
+    "manual": "Attempt a Gemstone Upgrade",
+    "complete": "Attempted Gemstone Upgrade Once"
+  },
+  "89010426-Event-CN": {
+    "manual": "Clear the Cash Mart Part-Time Job",
+    "complete": "Cleared Cash Mart Part-Time Job Once",
+    "name": "Clear Cash Mart Part-Time Job Once"
   }
 }
