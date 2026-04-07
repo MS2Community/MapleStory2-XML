@@ -46801,13 +46801,16 @@
     "desc": "Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day."
   },
   "80010350-Event-CN": {
-    "desc": "An April Fools' surprise event, available only until April 2, 2019!\n\nIt's April Fools' Day!\nThat urge to trick or prank someone? $npcName:11001002$ totally gets it~!\n\nEat the $item:20000674$ received in the mail and give your friends a big surprise.\nAdventurers who complete the quest will receive a gift perfectly suited for April Fools'!"
+    "desc": "An April Fools' surprise event, available only until April 2, 2019!\n\nIt's April Fools' Day!\nThat urge to trick or prank someone? $npcName:11001002$ totally gets it~!\n\nEat the $item:20000674$ received in the mail and give your friends a big surprise.\nAdventurers who complete the quest will receive a gift perfectly suited for April Fools'!",
+    "manual": "Use $item:20000674$ in Maple World"
   },
   "80010390-Event-CN": {
-    "desc": "$npc:11001003$ tells you about a special dungeon open during the event and explains that you can level up quickly through it.\nClear $dungeonTitle:29007001$ and $dungeonTitle:29007002$ a combined 30 times in one week to receive items for rapid growth.\nNote that the daily/weekly reward limit for both dungeons is shared at the account level."
+    "desc": "$npc:11001003$ tells you about a special dungeon open during the event and explains that you can level up quickly through it.\nClear $dungeonTitle:29007001$ and $dungeonTitle:29007002$ a combined 30 times in one week to receive items for rapid growth.\nNote that the daily/weekly reward limit for both dungeons is shared at the account level.",
+    "complete": "Talk to $npc:11001003$ at $map:63000079$, $map:02000064$, or $map:02020041$"
   },
   "80010360-Event-CN": {
-    "desc": "If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.\n\nThe gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!"
+    "desc": "If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.\n\nThe gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!",
+    "name": "Defeat Mint!"
   },
   "80010500-Event-CN": {
     "desc": "Use [Go to Event Map] to travel to $map:63000089$ and try playing music together with other adventurers."
@@ -46816,13 +46819,16 @@
     "desc": "Listen to the fascinating rumors that $npcName:11001002$ has to share."
   },
   "80010400-Event-CN": {
-    "desc": "A rift in time has opened a gateway to a dimension from another world. It all traces back to $map:02000420$...\nIf the rift persists for long, who knows what dangers may arise. Head to $dungeonTitle:29006001$ and face $npc:23000077$."
+    "desc": "A rift in time has opened a gateway to a dimension from another world. It all traces back to $map:02000420$...\nIf the rift persists for long, who knows what dangers may arise. Head to $dungeonTitle:29006001$ and face $npc:23000077$.",
+    "manual": "Clear the event dungeon '$dungeonTitle:29006001$' 3 times"
   },
   "80010402-Event-CN": {
-    "desc": "Apparently, $npc:23000077$'s true plan is to trap adventurers inside the other-dimensional space created by the time rift.\nBefore adventurers fall into danger, head to $dungeonTitle:29006001$ and face $npc:23000077$."
+    "desc": "Apparently, $npc:23000077$'s true plan is to trap adventurers inside the other-dimensional space created by the time rift.\nBefore adventurers fall into danger, head to $dungeonTitle:29006001$ and face $npc:23000077$.",
+    "manual": "Clear the event dungeon '$dungeonTitle:29006001$' 18 times"
   },
   "80010401-Event-CN": {
-    "desc": "The other-dimensional space created by the time rift has become wildly popular among adventurers. Now $npc:23000077$ plans to create even more dimensional spaces...\nIf the rift lasts too long and grows larger, unforeseen dangers may follow. Head to $dungeonTitle:29006001$ and face $npc:23000077$."
+    "desc": "The other-dimensional space created by the time rift has become wildly popular among adventurers. Now $npc:23000077$ plans to create even more dimensional spaces...\nIf the rift lasts too long and grows larger, unforeseen dangers may follow. Head to $dungeonTitle:29006001$ and face $npc:23000077$.",
+    "manual": "Clear the event dungeon '$dungeonTitle:29006001$' 6 times"
   },
   "74000017-Mentoring-JP": {
     "manual": "Destroy 5 Unwanted Items",
@@ -46850,7 +46856,8 @@
     "manual": "Find a player of the opposite gender wearing 'Love in Droplets' (at least Level 10) in Maple World"
   },
   "80010346-Event-CN": {
-    "desc": "Find today's partner in Maple World and complete the tag mission!"
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a friend of the opposite gender wearing a 'Dancing Flower' (Lv. 10+) in Maple World"
   },
   "72000499-KarkarIsland-JP": {
     "manual": "Check on $npcName:11004264$ in $map:02010002$",
@@ -46885,25 +46892,32 @@
   },
   "80010551-Event-CN": {
     "name": "Looking Good, Even to Myself",
-    "desc": "$npc:11000158$ says that the second training exercise is to run on $item:50400096$ and clear your mind.\nI'm not sure what the point of this is, but since there are rewards on offer, I might as well follow along.\nUse $item:50400096$ in your home or someone else's home, then find $npc:11000157$ in $map:02000118$."
+    "desc": "$npc:11000158$ says that the second training exercise is to run on $item:50400096$ and clear your mind.\nI'm not sure what the point of this is, but since there are rewards on offer, I might as well follow along.\nUse $item:50400096$ in your home or someone else's home, then find $npc:11000157$ in $map:02000118$.",
+    "manual": "Use $item:50400096$ at your house or someone else's house"
   },
   "80010542-Event-CN": {
-    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
   },
   "80010540-Event-CN": {
-    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
+    "name": "More Fun When You Win!"
   },
   "80010530-Event-CN": {
-    "desc": "I heard that $npc:11001899$ is hosting a new event.\nIt's a hide-and-seek type game...\nThey say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in."
+    "desc": "I heard that $npc:11001899$ is hosting a new event.\nIt's a hide-and-seek type game...\nThey say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event"
   },
   "80010541-Event-CN": {
-    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
   },
   "80010520-Event-CN": {
     "desc": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?"
   },
   "80010543-Event-CN": {
-    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team."
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
   },
   "80010550-Event-CN": {
     "desc": "$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.\nI'm not quite sure why I should do this, but since there are rewards on offer, let's take part.\nFirst, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.\n\nField Bosses in Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' "
@@ -46916,7 +46930,8 @@
   },
   "89010373-Event-CN": {
     "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times",
-    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times"
+    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times",
+    "name": "Participate in MC Kay Event 5 Times"
   },
   "80010570-Event-CN": {
     "desc": "$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.\nParticipate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared."
@@ -46928,7 +46943,8 @@
     "desc": "Find the Borabora heart balloons appearing throughout the fields and send them flying.\n\n* Borabora heart balloons appear across all fields every 10 minutes and last for 5 minutes."
   },
   "80010560-Event-CN": {
-    "desc": "If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.\nCollect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$."
+    "desc": "If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.\nCollect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$.",
+    "name": "Lucky Cupcake Delivery"
   },
   "89010375-Event-CN": {
     "manual": "* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.\n* Daily guild quests can only be accepted after you have been in the guild for one day.\n* Weekly guild quests can only be accepted after you have been in the guild for one week.\n* Both daily and weekly quests count toward the quest objective completion count.\n\nComplete 3 guild quests",
@@ -46936,6 +46952,96 @@
   },
   "89010374-Event-CN": {
     "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times",
-    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times"
+    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times",
+    "name": "Participate in MC Kay Event 10 Times"
+  },
+  "80010347-Event-CN": {
+    "manual": "Find a friend of the opposite gender wearing a 'Fanfare Baby Angel' (Lv. 10+) in Maple World",
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010380-Event-CN": {
+    "desc": "Complete the quest from $npc:11001002$ and collect 20 $item:30001389$!"
+  },
+  "80010580-Event-CN": {
+    "desc": "Defeat the bosses listed below or win $npcName:11001899$'s event to collect all the '冒险岛喜迎新春' characters!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+  },
+  "80010610-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010612-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010615-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010613-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010611-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010614-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010617-Event-CN": {
+    "manual": "Find a Priest partner at Lv. 50 or higher",
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010616-Event-CN": {
+    "manual": "Find a Knight partner at Lv. 50 or higher",
+    "desc": "Find today's partner in Maple World and complete the tag mission!"
+  },
+  "80010618-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a Ranger buddy Lv. 50 or higher"
+  },
+  "80010619-Event-CN": {
+    "manual": "Find a Thief buddy Lv. 50 or higher",
+    "desc": "Find today's buddy in Maple World and complete the tag mission!"
+  },
+  "80010621-Event-CN": {
+    "desc": "Find today's buddy in Maple World and complete the tag mission!"
+  },
+  "80010620-Event-CN": {
+    "desc": "Find today's buddy in Maple World and complete the tag mission!"
+  },
+  "89010376-Event-CN": {
+    "manual": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times",
+    "complete": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times"
+  },
+  "89010379-Event-CN": {
+    "name": "Obtain 10 Adventure [Normal/Raid] Bonus Boxes",
+    "manual": "Obtain Adventure [Normal/Raid] Bonus",
+    "complete": "Obtain Adventure [Normal/Raid] Bonus"
+  },
+  "89010381-Event-CN": {
+    "complete": "Dismantle 30 items",
+    "manual": "Dismantle 30 items",
+    "name": "Dismantle 30 Items"
+  },
+  "89010398-Event-CN": {
+    "complete": "Dismantle 5 items",
+    "manual": "Dismantle items",
+    "name": "Dismantle 5 Items"
+  },
+  "89010399-Event-CN": {
+    "manual": "Participate in MC Kay Event",
+    "name": "Participate in MC Kay Event 3 Times",
+    "complete": "Participate in MC Kay Event 3 Times"
+  },
+  "89010402-Event-CN": {
+    "manual": "Participate in Maple Arcade",
+    "complete": "Participate in Maple Arcade 2 Times",
+    "name": "Participate in Maple Arcade"
+  },
+  "89010403-Event-CN": {
+    "name": "Attempt Gemstone Upgrade Once",
+    "manual": "Attempt a Gemstone Upgrade",
+    "complete": "Attempt Gemstone Upgrade Once"
+  },
+  "89010406-Event-CN": {
+    "manual": "Clear Cash Mart Part-Time Job",
+    "complete": "Clear Cash Mart Part-Time Job 2 Times",
+    "name": "Clear Cash Mart Part-Time Job 2 Times"
   }
 }
