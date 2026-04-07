@@ -25114,43 +25114,53 @@
   },
   "40600010-PirateOcean-": {
     "name": "Stun",
-    "tooltipDescription": "Stunned, unable to move."
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
   },
   "40600101-Season1-": {
     "name": "Enrage",
-    "tooltipDescription": "In a state of fury.\nReduces damage taken by 50% and increases attack speed."
+    "tooltipDescription": "In a state of fury.\nReduces damage taken by 50% and increases attack speed.",
+    "level": "1"
   },
   "40600013-PirateOcean-": {
     "name": "Sleep",
-    "tooltipDescription": "Unable to move while asleep."
+    "tooltipDescription": "Unable to move while asleep.",
+    "level": "1"
   },
   "40600014-PirateOcean-": {
     "name": "Confusion",
-    "tooltipDescription": "Confused, may attack allies.\nPhysical and magic attack power reduced."
+    "tooltipDescription": "Confused, may attack allies.\nPhysical and magic attack power reduced.",
+    "level": "1"
   },
   "40600045-PirateOcean-": {
     "tooltipDescription": "Gaining a shield defense effect,\ndefense power greatly increased.",
-    "name": "Defense Up"
+    "name": "Defense Up",
+    "level": "1"
   },
   "42030121-Fieldwar01-": {
     "name": "Confusion",
-    "tooltipDescription": "Movement direction reversed."
+    "tooltipDescription": "Movement direction reversed.",
+    "level": "1"
   },
   "42030101-Fieldwar01-": {
     "name": "Slow",
-    "tooltipDescription": "Movement speed reduced."
+    "tooltipDescription": "Movement speed reduced.",
+    "level": "1"
   },
   "42030111-Fieldwar01-": {
     "name": "Slow",
-    "tooltipDescription": "Movement speed reduced."
+    "tooltipDescription": "Movement speed reduced.",
+    "level": "1"
   },
   "42030263-Kritias_Paika01-": {
     "name": "Electrocution",
-    "tooltipDescription": "Struck by electrical current, entering an electrocuted state."
+    "tooltipDescription": "Struck by electrical current, entering an electrocuted state.",
+    "level": "1"
   },
   "42030261-Kritias_Paika01-": {
     "name": "Stun",
-    "tooltipDescription": "Shocked by electricity, temporarily incapacitated.\nCan be hit harder."
+    "tooltipDescription": "Shocked by electricity, temporarily incapacitated.\nCan be hit harder.",
+    "level": "1"
   },
   "50200001--": {
     "tooltipDescription": "Deals damage over time and reduces healing received."
@@ -25236,29 +25246,279 @@
   },
   "49018001--": {
     "name": "Wind of Curses",
-    "tooltipDescription": "Afflicted by a curse, unable to exert full strength. Movement speed reduced. After stacking 5 times, triggers the Ultimate Curse."
+    "tooltipDescription": "Afflicted by a curse, unable to exert full strength. Movement speed reduced. After stacking 5 times, triggers the Ultimate Curse.",
+    "level": "1"
   },
   "49016011--": {
     "name": "Thunder Aegis",
-    "tooltipDescription": "Become invincible for a period of time."
+    "tooltipDescription": "Become invincible for a period of time.",
+    "level": "1"
   },
   "49016001--": {
     "name": "Amplified Thunder",
-    "tooltipDescription": "Warlock Uss grows more powerful. After stacking 5 times, activates Thunder Aegis."
+    "tooltipDescription": "Warlock Uss grows more powerful. After stacking 5 times, activates Thunder Aegis.",
+    "level": "1"
   },
   "49021011--": {
     "name": "Dark Binding",
-    "tooltipDescription": "Bound and unable to move."
+    "tooltipDescription": "Bound and unable to move.",
+    "level": "1"
   },
   "49018002--": {
     "name": "Ultimate Curse",
-    "tooltipDescription": "Unable to use skills or items."
+    "tooltipDescription": "Unable to use skills or items.",
+    "level": "1"
   },
   "49025011--": {
-    "name": "Rabbit's Curse"
+    "name": "Rabbit's Curse",
+    "level": "1",
+    "tooltipDescription": "The rabbit's magic has shrunk your body!\nBody size reduced by 50%\nPhysical ATK and Magic ATK reduced by 99%\nDEF reduced by 40%"
   },
   "49022011--": {
     "name": "Impact",
-    "tooltipDescription": "Stunned and unable to move."
+    "tooltipDescription": "Stunned and unable to move.",
+    "level": "1"
+  },
+  "49093002--": {
+    "level": "1",
+    "name": "Frozen",
+    "tooltipDescription": "Freezes the enemy solid."
+  },
+  "49093001--": {
+    "level": "1",
+    "name": "Deep Freeze",
+    "tooltipDescription": "Stacks 3 times to freeze enemies.\nCan be dispelled with fiery breath."
+  },
+  "49042001--": {
+    "level": "1",
+    "name": "Rapid Strike",
+    "tooltipDescription": "Movement Speed reduced by 50%"
+  },
+  "49095001--": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned and unable to act."
+  },
+  "49104001--": {
+    "name": "Water Orb Attack",
+    "tooltipDescription": "If water orbs of the same color stack twice, the enemy is inflicted with Stun.",
+    "level": "1"
+  },
+  "49104003--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "49104002--": {
+    "name": "Water Orb Attack",
+    "tooltipDescription": "If water orbs of the same color stack twice, the enemy is inflicted with Stun.",
+    "level": "1"
+  },
+  "49104004--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "49105001--": {
+    "name": "Confusion",
+    "tooltipDescription": "Can't concentrate!\nDirectional controls are reversed.",
+    "level": "1"
+  },
+  "49107011--": {
+    "name": "Silence",
+    "tooltipDescription": "Silenced, unable to use skills.\nNormal attacks can still be used.",
+    "level": "1"
+  },
+  "49111002--": {
+    "name": "Enlarge",
+    "tooltipDescription": "Enlarges the enemy. Think they can still dodge these massive fists of mine?",
+    "level": "1"
+  },
+  "49111003--": {
+    "name": "Enlarge",
+    "tooltipDescription": "Grows in size, enabling the release of multiple projectiles. Movement speed is also reduced.",
+    "level": "1"
+  },
+  "49113011--": {
+    "name": "Revival Heal",
+    "tooltipDescription": "Automatically recovers HP.",
+    "level": "1"
+  },
+  "49113001--": {
+    "name": "Reduced Recovery",
+    "tooltipDescription": "Reduces HP recovery from items and skills.",
+    "level": "1"
+  },
+  "49125001--": {
+    "name": "Water Spirit Explosion",
+    "tooltipDescription": "When a Water Spirit is defeated, its body explodes.",
+    "level": "1"
+  },
+  "49116001--": {
+    "name": "Harpy Poison Intake",
+    "tooltipDescription": "The affected monster spreads Harpy Poison and is defeated.",
+    "level": "1"
+  },
+  "49116002--": {
+    "name": "Harpy Poison Infection",
+    "tooltipDescription": "Physical Attack and Magic Attack become 2x.\nHP decreases when using normal attacks or skills.",
+    "level": "1"
+  },
+  "49149021--": {
+    "name": "Slow",
+    "tooltipDescription": "Movement Speed is reduced for a set duration.",
+    "level": "1"
+  },
+  "49148021--": {
+    "tooltipDescription": "Movement Speed is reduced for a set duration and Stamina becomes 0.",
+    "name": "Terror of the Ancient God",
+    "level": "1"
+  },
+  "49161002--": {
+    "name": "Crystal Shackles",
+    "tooltipDescription": "Frozen solid in ice, unable to move for a period of time.",
+    "level": "1"
+  },
+  "49161001--": {
+    "name": "Sanctuary's Bitter Cold",
+    "tooltipDescription": "Movement Speed is reduced for a set duration.\nWhen hit by Crystal-type projectiles, you are frozen in ice.",
+    "level": "1"
+  },
+  "49165001--": {
+    "name": "Mind Control",
+    "tooltipDescription": "Can attack teammates under evil control.\nPhysical and magical attack power reduced.",
+    "level": "1"
+  },
+  "49164011--": {
+    "tooltipDescription": "Can't think straight!\nUp/down/left/right controls are reversed.",
+    "name": "Confusion",
+    "level": "1"
+  },
+  "49175001--": {
+    "name": "Slow",
+    "tooltipDescription": "Movement speed reduced for a period of time.",
+    "level": "1"
+  },
+  "49165002--": {
+    "name": "Mind Control",
+    "tooltipDescription": "Will be able to attack teammates shortly.",
+    "level": "1"
+  },
+  "49176011--": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "49175091--": {
+    "level": "1",
+    "name": "Confusion",
+    "tooltipDescription": "Can't focus! Movement directions are reversed."
+  },
+  "49179051--": {
+    "level": "1",
+    "name": "Blur Block: Agility",
+    "tooltipDescription": "Increases movement speed for a duration."
+  },
+  "49179061--": {
+    "level": "1",
+    "name": "Blurry Block: Slow",
+    "tooltipDescription": "Reduces movement speed for a duration."
+  },
+  "49179071--": {
+    "level": "1",
+    "name": "Blurry Block: Confusion",
+    "tooltipDescription": "Can't focus!\nMovement controls are reversed."
+  },
+  "49179081--": {
+    "level": "1",
+    "name": "Blurry Block: Shrink",
+    "tooltipDescription": "Shrinks to a very small size for a duration."
+  },
+  "49179091--": {
+    "level": "1",
+    "name": "Recovery",
+    "tooltipDescription": "HP Recovery"
+  },
+  "49200001-PirateOcean-": {
+    "level": "1",
+    "name": "Rage",
+    "tooltipDescription": "State of extreme rage.\nIncreases Attack Speed, Movement Speed, Attack, and Defense."
+  },
+  "49218001--": {
+    "level": "1",
+    "name": "Attack Boost",
+    "tooltipDescription": "Increases Attack by 15%."
+  },
+  "49200002-PirateOcean-": {
+    "level": "1",
+    "name": "Suffocation",
+    "tooltipDescription": "Barely holding breath underwater.\nEvery 2 stacks, takes 1% HP damage every 2 seconds."
+  },
+  "49218002--": {
+    "level": "1",
+    "name": "Attack Boost",
+    "tooltipDescription": "Increases Attack by 100%."
+  },
+  "49219001--": {
+    "level": "1",
+    "name": "Extra Boost",
+    "tooltipDescription": "Increases Attack by 120%.\nIncreases Defense by 120%."
+  },
+  "49287001--": {
+    "level": "1",
+    "name": "Grievous Wound",
+    "tooltipDescription": "Deals continuous bleed damage.\nReduces Defense by 10%.\nExplodes at 4 stacks."
+  },
+  "49287002--": {
+    "level": "1",
+    "name": "Knockdown",
+    "tooltipDescription": "Stunned, unable to act."
+  },
+  "49287003--": {
+    "level": "1",
+    "name": "Festering Wound"
+  },
+  "49287005--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Bruche has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49287006--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Yewu has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49287008--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Mason has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49287007--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Kondal has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49288001-Gigantica01-": {
+    "level": "1",
+    "name": "Burrow",
+    "tooltipDescription": "Gigantica burrows into the ground."
+  },
+  "49288003-Gigantica01-": {
+    "level": "1",
+    "name": "Tail Poison",
+    "tooltipDescription": "Tail Poison"
+  },
+  "49288002-Gigantica01-": {
+    "name": "Slow",
+    "level": "1",
+    "tooltipDescription": "Gigantica burrows into the ground, kicking up a whirlwind.\nMovement speed reduced."
+  },
+  "49288005-Gigantica01-": {
+    "level": "1"
+  },
+  "49288004-Gigantica01-": {
+    "level": "1",
+    "name": "Slow",
+    "tooltipDescription": "Gigantica burrows into the ground, kicking up a whirlwind.\nMovement speed reduced."
   }
 }
