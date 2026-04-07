@@ -19853,7 +19853,8 @@
     "comment": "{0}:Character Name"
   },
   "s_burning_levelup_event_set_character_popup--CN": {
-    "value": "<FONT color='#FFD200' size='18' >[Jumping + Burning Character Designation]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Jumping Burning Event with character {0}?</FONT>\n\n• A potion to jump to level 50 will be provided. \n• From level 50 to 80, gain +2 additional levels per level-up. \n• Only 1 Burning Character can be designated per account. \n• Once designated, the Burning Character cannot be changed until the character is deleted.\n• After using the Level-Up Potion, you cannot designate a Burning Character even if the current one is deleted.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Guide]</FONT>"
+    "value": "<FONT color='#FFD200' size='18' >[Jumping + Burning Character Designation]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Jumping Burning Event with character {0}?</FONT>\n\n• A potion to jump to level 50 will be provided. \n• From level 50 to 80, gain +2 additional levels per level-up. \n• Only 1 Burning Character can be designated per account. \n• Once designated, the Burning Character cannot be changed until the character is deleted.\n• After using the Level-Up Potion, you cannot designate a Burning Character even if the current one is deleted.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Guide]</FONT>",
+    "comment": "{0}: Character Name"
   },
   "s_buring_levelup_envent_desc_popup--KR": {
     "value": "<FONT color='#FFD200' size='18' >[What is Burning?]</FONT>\n\n• You gain +2 additional levels with each level up. \n• The effect applies from level 9 to 70. \n• Only 1 Burning character can be designated per account. \n• A designated Burning character cannot be changed until the character is deleted.\n• After leveling your Burning character to 70, you cannot designate another Burning character even if you delete it.\n• The Burning Event runs until the maintenance on October 13, 2022.\n\n<FONT color='#FFD200' size='18' >[Level 70 Achievement Reward Info]</FONT>"
@@ -19865,7 +19866,8 @@
     "value": "• This is a level 50 jumping potion provided upon completing the tutorial. \n• Once used, you cannot designate a Burning character even if you delete your character.\n\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>"
   },
   "s_burning_levelup_event_set_character_popup_bottom--KR": {
-    "value": "After reading the Burning Event details, if you would like to designate {0} as your Burning character, <FONT size='3'> </FONT>\nplease click <FONT color='#FFD200'>'OK'</FONT>."
+    "value": "After reading the Burning Event details, if you would like to designate {0} as your Burning character, <FONT size='3'> </FONT>\nplease click <FONT color='#FFD200'>'OK'</FONT>.",
+    "comment": "{0}: Character Name"
   },
   "s_buring_levelup_envent_desc_popup--CN": {
     "value": "<FONT color='#FFD200' size='18' >[What is Jumping+Burning?]</FONT>\n\n• A potion that lets you jump to level 50 will be provided. \n• From level 50 to 80, you gain +2 additional levels with each level up. \n• Only 1 Burning character can be designated per account. \n• A designated Burning character cannot be changed until the character is deleted.\n• After using the level-up potion, you cannot designate a Burning character even if you delete your character.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Info]</FONT>"
@@ -19878,5 +19880,131 @@
   },
   "s_burning_levelup_event_jumping_complete--CN": {
     "value": "You have used the <FONT color='#FFD200' size='18' >[Level 50 Level-Up Potion]</FONT>! \n\n • You can no longer designate a Burning character, even if you delete your character.\n • Please complete your job change quest for a smoother experience.\n • From now until level 80, the 1+2 Burning level-up bonus is active.\n\n<FONT color='#FFD200' size='18' >[Level 80 Final Reward]</FONT> "
+  },
+  "s_payback_bill_bottom_button_text-Payback-": {
+    "value": "Details"
+  },
+  "s_payback_dialog_status_percent-Payback-": {
+    "value": "{0}% Payback"
+  },
+  "s_payback_dialog_status_level-Payback-": {
+    "value": "{0} Level"
+  },
+  "s_payback_bill_bottom_detail_text-Payback-": {
+    "value": "※ Payback Event in Progress!"
+  },
+  "s_payback_error_reward_time-Payback-": {
+    "value": "Payback settlement is in progress.\n\n[Settlement Time] 00:00 ~ 00:05 "
+  },
+  "s_payback_dialog_maret-Payback-": {
+    "value": "{0} <Img Src='export_common_icon_bluemerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>"
+  },
+  "s_tooltip_gamemenu_payback-Payback-": {
+    "value": "<FONT color='#FFD200' size='15' >Payback{0}</FONT>\n<FONT size='3'> </FONT>\nYou can receive a payback of a portion of the Merets\nspent on Orange Mushroom's Power-Up Draw."
+  },
+  "s_payback_dialog_merat_text_red_merat-Payback-": {
+    "value": "<font color='#ED442A'>{0} </font><Img Src='export_common_icon_redmerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>"
+  },
+  "s_alliance_quest_limit_alliance_delimeter--CN": {
+    "value": ","
+  },
+  "s_payback_error_uiopen_end_time-Payback-": {
+    "value": "The Payback Event has ended."
+  },
+  "s_longtermattendgift_dialog_point--": {
+    "value": "x {0}"
+  },
+  "s_longtermattendgift_dialog_desc--": {
+    "value": "Unused Duckyball: Log in after 00:00 every day to receive one Duckyball.\nOpen Slot: Regardless of login status, one slot opens each day from the event start date until its end date.\nPlace Duckyball: Click the button to use 1 unused Duckyball and fill 1 open slot, and receive rewards based on the number of Duckyballs placed.\n\n<FONT color='#FFD200' >If all Duckyballs have been placed but open slots remain,</FONT><FONT color='#1E90FF' size='15' >250 Merets</FONT><FONT color='#FFD200' > can be spent to fill the remaining open slots.</FONT><"
+  },
+  "s_longtermattendgift_dialog_title--": {
+    "value": "Wake Up! Golden Duckyball! Event ({0} after maintenance ~ {1})"
+  },
+  "s_longtermattendgift_dialog_desc--CN": {
+    "value": "Unused Duckyball: Log in after 00:00 every day to receive one Duckyball.\nOpen Slot: Regardless of login status, one slot opens each day from the event start date until its end date.\nPlace Duckyball: Click the button to use 1 unused Duckyball and fill 1 open slot, and receive rewards based on the number of Duckyballs placed.\n\n<FONT color='#FFD200' >If all Duckyballs have been placed but open slots remain,</FONT><FONT color='#1E90FF' size='15' >1500 Merets</FONT><FONT color='#FFD200' > can be spent to fill the remaining open slots.</FONT><"
+  },
+  "s_adventure_protect_err--": {
+    "value": "The Adventurer Protection Program is active."
+  },
+  "s_longtermattendgift_dialog_use_merat--": {
+    "value": "{0}<Img Src='export_common_icon_merat' vspace='-4'></Img> will be spent to fill the open slots.\nDo you wish to continue?"
+  },
+  "s_longtermattendgift_dialog_err_msg_attendance_full--": {
+    "value": "There are no open slots.\nIf you have remaining attendance days, please try again tomorrow."
+  },
+  "s_longtermattendgift_dialog_err_msg_empty_point--": {
+    "value": "There are no open slots.\nIf you have remaining attendance days, please try again tomorrow. "
+  },
+  "s_longtermattendgift_dialog_invalid_event--": {
+    "value": "This event cannot be started."
+  },
+  "s_delete_account_check_msg_step_1--": {
+    "value": "I confirm that I have met the above account deletion requirements."
+  },
+  "s_delete_account_terms_step_2--": {
+    "value": "Dear User, before officially starting the game account deletion process, please carefully read and agree to the Game Account Deletion Agreement (hereinafter referred to as 'this Agreement'). By initiating the deletion process in accordance with our procedures, or by selecting this agreement and clicking Next, you are deemed to have agreed to and accepted all contents of this Agreement. We would like to especially remind you that after deleting your game account on this platform, except as otherwise required by law or this Agreement, your personal information under the game account will be deleted or anonymized, and you will no longer be able to search, access, obtain, continue to use, or retrieve it. Personal information includes but is not limited to the nickname, equipment, achievements, currencies and other virtual items, posts, and items of each character under the account, and you will not have the right to recover such personal information."
+  },
+  "s_delete_account_terms_step_1--": {
+    "value": "Dear Player,\n\nDominica deeply regrets your decision to close your account. To protect the security of your account and assets, please ensure the following conditions are met before your request takes effect. The MapleStory 2 operations team may also review and verify the situation:\n1. Your account is secure and in normal status: No sensitive operations (such as enabling two-step password verification or removing security exemptions) were performed in the 2 weeks prior to your request, and the account has not been suspended for any violations.\n2. Game earnings have been settled or properly handled: Including but not limited to Blue Mushroom currency, Red Mushroom currency, Gold, Tools, Membership benefits, etc. If left unhandled, they will be treated as voluntarily forfeited.\n3. No incomplete transactions: Including Blue Chip recharges and Shop item purchases or consumptions.\n4. No account disputes: Including filed reports, complaints, mediation requests, lawsuits, or other disputes."
+  },
+  "s_delete_account_check_msg_step_2--": {
+    "value": "I have read the terms and conditions in detail and agree."
+  },
+  "s_delete_account_hyperlink_msg--": {
+    "value": "Game Account Deletion Agreement"
+  },
+  "s_delete_account_terms_step_3--": {
+    "value": "To prevent any errors, please confirm once more whether you wish to delete your account and review the consequences after deletion. These consequences include (but are not limited to, please refer to the 'Game Account Deletion Agreement'):\n1. Once this account is deleted, it cannot be logged into, used, or recovered. Except as required by law or the Game Account Deletion Agreement, personal information contained in your game account will be deleted or anonymized, and you will not be able to retrieve your personal information or file any claims with us.\n2. This account will lose all earnings or rights that have accrued or may accrue in the future during the use of this game. Please ensure your game earnings and rights have been properly handled before deleting your account. Otherwise, after the account is deleted, we reserve the right to remove all earnings or rights associated with this account, and the resulting consequences shall be your sole responsibility. The aforementioned game earnings or rights include but are not limited to all remaining virtual items, virtual currencies, other virtual goods, and value-added services in the account."
+  },
+  "s_delete_account_terms_step_4--": {
+    "value": "Dear User, please provide your actual information to verify your account deletion and ensure account security. This information will only be used for this verification."
+  },
+  "s_delete_account_terms_step_end--": {
+    "value": "Please note that this account will have a 60-day lock period. Except as required by law or the deletion agreement, your personal information will be deleted or anonymized after the lock period expires. During this period, please do not log in or use this account to ensure the deletion proceeds correctly. Otherwise, the deletion will be considered canceled."
+  },
+  "s_delete_account_terms_step_end_title--": {
+    "value": "Your account deletion request has been successfully submitted."
+  },
+  "s_delete_account_terms_step_4_label1--": {
+    "value": "Full Name"
+  },
+  "s_delete_account_terms_step_end_game_button--": {
+    "value": "Exit Game"
+  },
+  "s_delete_account_terms_step_4_label2--": {
+    "value": "ID Number"
+  },
+  "s_delete_account_result_check_fail_err_db_guild--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> is a member of a guild."
+  },
+  "s_delete_account_result_check_fail_err_db_blcakmarket--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has items listed on the Black Market."
+  },
+  "s_delete_account_result_check_fail_err_db_ugcmarket--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has items listed in the Designer's Shop."
+  },
+  "s_delete_account_result_check_fail_err_select_character--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> is currently selected."
+  },
+  "s_delete_account_result_check_fail_err_characterpending--": {
+    "value": "Account deletion request has failed.\n<FONT color='#FF5F5F'>{0}</FONT> is currently being deleted."
+  },
+  "s_delete_account_result_unknown--": {
+    "value": "Account deletion request has failed.\nAn unknown error has occurred."
+  },
+  "s_delete_account_result_check_fail_err_db_norow--": {
+    "value": "Account deletion request has failed.\nThe account to be deleted is invalid."
+  },
+  "s_delete_account_result_check_fail_err_db_wedding--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> is currently in the middle of an engagement, marriage, or divorce process."
+  },
+  "s_delete_account_result_check_fail_err_db_mail--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has unread mail."
+  },
+  "s_delete_account_result_check_fail_err_db_mesomarket--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has Mesos listed on the Black Market."
+  },
+  "s_delete_account_cancel_login_success--": {
+    "value": "Your account deletion request has been automatically canceled because you logged in during the lock period."
   }
 }
