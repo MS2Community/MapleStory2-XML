@@ -25633,41 +25633,188 @@
   },
   "49288028-Gigantica01-": {
     "name": "Movement Speed Reduction",
-    "tooltipDescription": "Movement speed is reduced."
+    "tooltipDescription": "Movement speed is reduced.",
+    "level": "1"
   },
   "49288027-Gigantica01-": {
     "tooltipDescription": "Removes the debuff inflicted by Gigantica's attacks.",
-    "name": "Dispel Gigantica Debuff"
+    "name": "Dispel Gigantica Debuff",
+    "level": "1"
   },
   "49289011-Colosseum01-": {
     "name": "Invincible",
-    "tooltipDescription": "Cannot be damaged."
+    "tooltipDescription": "Cannot be damaged.",
+    "level": "1"
   },
   "49289001-Colosseum01-": {
     "name": "Knight's Battle Cry",
-    "tooltipDescription": "Attack power increases."
+    "tooltipDescription": "Attack power increases.",
+    "level": "1"
   },
   "49289002-Colosseum01-": {
     "name": "Movement Speed Reduction",
-    "tooltipDescription": "Movement speed is reduced."
+    "tooltipDescription": "Movement speed is reduced.",
+    "level": "1"
   },
   "49289012-Colosseum01-": {
     "name": "HP Drain (All)",
-    "tooltipDescription": "Reduces all members' HP by 40%."
+    "tooltipDescription": "Reduces all members' HP by 40%.",
+    "level": "1"
   },
   "49289021-Colosseum01-": {
     "name": "Bleed",
-    "tooltipDescription": "You are now bleeding."
+    "tooltipDescription": "You are now bleeding.",
+    "level": "1"
   },
   "49289041-Colosseum01-": {
     "name": "Attack Power Up",
-    "tooltipDescription": "Attack power increases."
+    "tooltipDescription": "Attack power increases.",
+    "level": "1"
   },
   "49289051-Colosseum01-": {
-    "name": "Attempting Enhancement"
+    "name": "Attempting Enhancement",
+    "level": "1",
+    "tooltipDescription": "Damage taken is reduced during enhancement."
   },
   "49289033-Colosseum01-": {
     "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement speed is reduced.",
+    "level": "1"
+  },
+  "49289053-Colosseum01-": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "49289052-Colosseum01-": {
+    "level": "1",
+    "name": "Enhancement Success",
+    "tooltipDescription": "Attack power is increased."
+  },
+  "49289061-Colosseum01-": {
+    "level": "1",
+    "name": "Armor Melt",
+    "tooltipDescription": "Defense is reduced."
+  },
+  "49289063-Colosseum01-": {
+    "level": "1",
+    "name": "Deep Focus",
+    "tooltipDescription": "By deeply focusing the mind, greatly increases defense."
+  },
+  "49289062-Colosseum01-": {
+    "level": "1",
+    "name": "Movement Speed Reduction",
     "tooltipDescription": "Movement speed is reduced."
+  },
+  "49990001--": {
+    "level": "1",
+    "name": "Cannot Perform Sensitive Actions",
+    "tooltipDescription": "Cannot Perform Sensitive Actions"
+  },
+  "49289064-Colosseum01-": {
+    "level": "1",
+    "name": "Deep Focus",
+    "tooltipDescription": "By deeply focusing the mind, greatly increases defense for a few seconds."
+  },
+  "49907031--": {
+    "level": "1",
+    "name": "Bleeding",
+    "tooltipDescription": "Struck by a powerful attack, causing bleeding.\nReduces HP by 3% per second."
+  },
+  "49908211--": {
+    "level": "1",
+    "name": "Confusion",
+    "tooltipDescription": "Dizzying!\nUp/Down/Left/Right directions are reversed."
+  },
+  "49908001--": {
+    "level": "1",
+    "name": "Speed Reduction",
+    "tooltipDescription": "Movement Speed and Attack Speed reduced by 20%.\nStacks up to 2 times."
+  },
+  "49908451--": {
+    "level": "1",
+    "name": "Poison",
+    "tooltipDescription": "Poisoned!\nReduces max HP by 5% per second.\nStacks up to 2 times."
+  },
+  "49908461--": {
+    "level": "1",
+    "name": "Speed Reduction",
+    "tooltipDescription": "Movement Speed and Attack Speed reduced by 50%.\nStacks up to 2 times."
+  },
+  "49908511--": {
+    "level": "1",
+    "name": "Knocked Down",
+    "tooltipDescription": "Struck by a powerful attack, losing consciousness."
+  },
+  "49908561--": {
+    "level": "1",
+    "name": "Poison",
+    "tooltipDescription": "Poisoned!\nReduces max HP by 5% per second.\nStacks up to 2 times."
+  },
+  "49908601--": {
+    "level": "1",
+    "name": "Attack Power Reduced",
+    "tooltipDescription": "Physical Attack and Magic Attack reduced by 50%."
+  },
+  "49908611--": {
+    "level": "1",
+    "name": "Defense Reduced",
+    "tooltipDescription": "Physical Defense and Magic Defense reduced by 50%."
+  },
+  "49908641--": {
+    "level": "1",
+    "name": "Burn",
+    "tooltipDescription": "Scorched by intense flames.\nTakes 3% damage every 3 seconds."
+  },
+  "90001154-Event-JP": {
+    "name": "Perforated Silver Pot"
+  },
+  "49908651--": {
+    "level": "1",
+    "name": "Frost",
+    "tooltipDescription": "Your body is surrounded by cold air.\nMovement Speed and Attack Speed reduced by 50%."
+  },
+  "49908661--": {
+    "level": "1",
+    "name": "Electrocution",
+    "tooltipDescription": "Your body is electrocuted, electricity surging through you.\nTakes 3% damage every 3 seconds.\nMagic Resistance reduced by 85%."
+  },
+  "49908671--": {
+    "level": "1",
+    "name": "Dark Whisper",
+    "tooltipDescription": "Dark aura obstructs vision for 5 seconds."
+  },
+  "49999992--": {
+    "level": "1",
+    "name": "Soul's Aid",
+    "tooltipDescription": "Movement Speed and Attack Speed increased by 20%."
+  },
+  "50000001--": {
+    "level": "1",
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage."
+  },
+  "50000002--": {
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage.",
+    "level": "1"
+  },
+  "50000003--": {
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage.",
+    "level": "1"
+  },
+  "50000005--": {
+    "name": "Poison",
+    "level": "1",
+    "tooltipDescription": "Continuously takes poison damage."
+  },
+  "50000006--": {
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage.\nCan stack up to 3 times.\nEntering water removes this effect.",
+    "level": "1"
+  },
+  "50000007--": {
+    "level": "1"
   }
 }
