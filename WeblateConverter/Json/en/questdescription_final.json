@@ -6351,8 +6351,8 @@
     "locking": "1"
   },
   "10001200--": {
-    "name": "QUESTDESCRIPTION_10001200_NAME",
-    "desc": "QUESTDESCRIPTION_10001200_DESC",
+    "name": "Where Did Raymond Go?",
+    "desc": "$npc:11000044$ has given me a mission to secretly infiltrate the Shadow Commission and find out if they know the whereabouts of $npc:11000526$.\nA covert mission that Dark Wind cannot officially be involved in...\nWill I be able to succeed?\nFor now, let's head to $map:02000138$ and find out where the Shadow Commission's hideout is.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001200_COMPLETE",
     "count": "",
@@ -6360,7 +6360,7 @@
   },
   "10001201--": {
     "name": "QUESTDESCRIPTION_10001201_NAME",
-    "desc": "QUESTDESCRIPTION_10001201_DESC",
+    "desc": "$map:02000149$?\nSo this is the secret arcade the Shadow Commission has been quietly running...\nLet's go find $map:02000149$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001201_COMPLETE",
     "count": "",
@@ -6368,7 +6368,7 @@
   },
   "10001202--": {
     "name": "QUESTDESCRIPTION_10001202_NAME",
-    "desc": "QUESTDESCRIPTION_10001202_DESC",
+    "desc": "To get $npc:11000212$ to talk — who keeps yelling that we're ruining his business — it seems the only option is to disrupt his arcade operations.\nLet's drive out all the customers inside the arcade until $npc:11000212$ confesses!",
     "manual": "QUESTDESCRIPTION_10001202_MANUAL",
     "complete": "QUESTDESCRIPTION_10001202_COMPLETE",
     "count": "1",
@@ -6376,7 +6376,7 @@
   },
   "10001203--": {
     "name": "QUESTDESCRIPTION_10001203_NAME",
-    "desc": "QUESTDESCRIPTION_10001203_DESC",
+    "desc": "The manager of $map:02000149$, $npc:11000212$, told me how to get from $map:02000149$ to $map:02000156$, along with the Shadow Commission recruitment code: \"Code Black 365.\"\nFrom $map:02000149$, move ten squares to the southeast, then eleven squares to the northeast — the small iron gate I'll encounter is the entrance to $map:02000156$...\nFor now, let's look for $map:02000156$ from $map:02000138$.",
     "manual": "QUESTDESCRIPTION_10001203_MANUAL",
     "complete": "QUESTDESCRIPTION_10001203_COMPLETE",
     "count": "0",
@@ -6384,7 +6384,7 @@
   },
   "10001210--": {
     "name": "QUESTDESCRIPTION_10001210_NAME",
-    "desc": "QUESTDESCRIPTION_10001210_DESC",
+    "desc": "What is $item:20000015$ anyway...\nIf \"an eye for an eye\" is the rule of this alley, then I have no choice but to play along...\nLet's defeat the monsters in the alleys of $map:02000138$ and find $item:20000015$.",
     "manual": "QUESTDESCRIPTION_10001210_MANUAL",
     "complete": "QUESTDESCRIPTION_10001210_COMPLETE",
     "count": "1",
@@ -6400,7 +6400,7 @@
   },
   "10001221--": {
     "name": "QUESTDESCRIPTION_10001221_NAME",
-    "desc": "QUESTDESCRIPTION_10001221_DESC",
+    "desc": "$npc:11000215$ from $map:02000153$ asked me to help post $npc:11000064$'s wanted posters on the bulletin boards in each district. ",
     "manual": "QUESTDESCRIPTION_10001221_MANUAL",
     "complete": "QUESTDESCRIPTION_10001221_COMPLETE",
     "count": "1",
@@ -6408,39 +6408,39 @@
   },
   "10001222--": {
     "name": "QUESTDESCRIPTION_10001222_NAME",
-    "desc": "QUESTDESCRIPTION_10001222_DESC",
-    "manual": "QUESTDESCRIPTION_10001222_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000138$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000138$",
     "complete": "QUESTDESCRIPTION_10001222_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001223--": {
     "name": "QUESTDESCRIPTION_10001223_NAME",
-    "desc": "QUESTDESCRIPTION_10001223_DESC",
-    "manual": "QUESTDESCRIPTION_10001223_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000137$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000137$",
     "complete": "QUESTDESCRIPTION_10001223_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001224--": {
     "name": "QUESTDESCRIPTION_10001224_NAME",
-    "desc": "QUESTDESCRIPTION_10001224_DESC",
-    "manual": "QUESTDESCRIPTION_10001224_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000135$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000135$",
     "complete": "QUESTDESCRIPTION_10001224_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001225--": {
     "name": "QUESTDESCRIPTION_10001225_NAME",
-    "desc": "QUESTDESCRIPTION_10001225_DESC",
-    "manual": "QUESTDESCRIPTION_10001225_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000146$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000146$",
     "complete": "QUESTDESCRIPTION_10001225_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001260--": {
     "name": "QUESTDESCRIPTION_10001260_NAME",
-    "desc": "QUESTDESCRIPTION_10001260_DESC",
+    "desc": "$npc:11000311$ from $map:02000166$ says they will tell me everything they saw, if I go to $map:02000136$ and bring back a large order of materials needed for the construction of Rockefeller Tower from $npc:11000220$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001260_COMPLETE",
     "count": "",
@@ -6456,7 +6456,7 @@
   },
   "10001270--": {
     "name": "QUESTDESCRIPTION_10001270_NAME",
-    "desc": "QUESTDESCRIPTION_10001270_DESC",
+    "desc": "Construction blueprints are an essential item for building Rockefeller Tower, the largest skyscraper in Maple World.\nLet's defeat the monsters that attacked $map:02000136$ and retrieve $item:30000043$.",
     "manual": "QUESTDESCRIPTION_10001270_MANUAL",
     "complete": "QUESTDESCRIPTION_10001270_COMPLETE",
     "count": "1",
@@ -6464,7 +6464,7 @@
   },
   "10001280--": {
     "name": "QUESTDESCRIPTION_10001280_NAME",
-    "desc": "QUESTDESCRIPTION_10001280_DESC",
+    "desc": "I can't just ignore the request of $npc:11000221$, a shy girl with round eyes.\nIt's not a difficult favor, so let's find $npc:11000222$ in $map:02000136$ and deliver the lunchbox.",
     "manual": "QUESTDESCRIPTION_10001280_MANUAL",
     "complete": "QUESTDESCRIPTION_10001280_COMPLETE",
     "count": "1",
@@ -6472,7 +6472,7 @@
   },
   "10001360--": {
     "name": "QUESTDESCRIPTION_10001360_NAME",
-    "desc": "QUESTDESCRIPTION_10001360_DESC",
+    "desc": "$npc:11000260$ expressed resentment toward $npc:11000064$ and lamented the hardships of being a Shadow Gate guardian.\nLet's help the guardians by defeating the monsters that have crossed over from the Dark Land near the Shadow Gate in $map:02000146$.",
     "manual": "QUESTDESCRIPTION_10001360_MANUAL",
     "complete": "QUESTDESCRIPTION_10001360_COMPLETE",
     "count": "1",
@@ -6480,7 +6480,7 @@
   },
   "10001370--": {
     "name": "QUESTDESCRIPTION_10001370_NAME",
-    "desc": "QUESTDESCRIPTION_10001370_DESC",
+    "desc": "It's an emergency!\nLet's head to $map:02000026$ in $map:02000146$ and meet $npc:11000122$!",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001370_COMPLETE",
     "count": "",
@@ -6488,7 +6488,7 @@
   },
   "10001371--": {
     "name": "QUESTDESCRIPTION_10001371_NAME",
-    "desc": "QUESTDESCRIPTION_10001371_DESC",
+    "desc": "The mushroom fields near the laboratory have become completely tainted with shadow energy, as the power of the Dark Land grows ever stronger.\nCan I really find $item:20000045$ that's still good enough to use as medicine ingredients?\nWhile watching out for shadow poison that spreads from the shadow-tainted ground, let's search not only the mushroom fields near the laboratory but all throughout $map:02000146$ for $item:20000045$!",
     "manual": "QUESTDESCRIPTION_10001371_MANUAL",
     "complete": "QUESTDESCRIPTION_10001371_COMPLETE",
     "count": "1",
@@ -6511,24 +6511,24 @@
     "locking": "1"
   },
   "10001390--": {
-    "name": "QUESTDESCRIPTION_10001390_NAME",
-    "desc": "QUESTDESCRIPTION_10001390_DESC",
-    "manual": "QUESTDESCRIPTION_10001390_MANUAL",
+    "name": "Find the Spy",
+    "desc": "So if I gather every last fragment of the shattered Blue Lapenta, it can be restored... Perhaps a way to bring peace back to this world hasn't completely vanished after all.\nLet's find the spy $npc:21000178$, disguised as a Dark Wind agent near the Shadow Gate in $map:02000146$, and recover $item:30000058$!",
+    "manual": "Find the spy disguised as a Dark Wind agent in $map:02000146$ and recover $item:30000058$",
     "complete": "QUESTDESCRIPTION_10001390_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001391--": {
     "name": "QUESTDESCRIPTION_10001391_NAME",
-    "desc": "QUESTDESCRIPTION_10001391_DESC",
+    "desc": "$npc:11000076$'s letter of recommendation!\nThis is practically a certificate that grants access to $map:02000025$ and the right to have an audience with $npc:11000075$.\nLet's go to $map:02000001$ and show the letter of recommendation to $npc:11000119$ to receive permission to enter $map:02000025$.",
     "manual": "QUESTDESCRIPTION_10001391_MANUAL",
     "complete": "QUESTDESCRIPTION_10001391_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001392--": {
-    "name": "QUESTDESCRIPTION_10001392_NAME",
-    "desc": "QUESTDESCRIPTION_10001392_DESC",
+    "name": "To the Royal Palace of Tria!",
+    "desc": "Am I finally going to meet $npc:11000075$? My heart is pounding.\nLet's quickly head into $map:02000025$!",
     "manual": "QUESTDESCRIPTION_10001392_MANUAL",
     "complete": "QUESTDESCRIPTION_10001392_COMPLETE",
     "count": "1",
@@ -6536,7 +6536,7 @@
   },
   "10001393--": {
     "name": "QUESTDESCRIPTION_10001393_NAME",
-    "desc": "QUESTDESCRIPTION_10001393_DESC",
+    "desc": "The path I took, driven by the sole desire to meet $npc:11000075$, leaving $map:63000001$ and coming to Victoria Island... and the news of the canceled audience that made it all feel so futile... Now, standing face to face with $npc:11000075$, all those memories flash before my eyes, and I'm filled with deep emotion.\n\n$npc:11000075$ said something I don't think I'll ever forget:\n\"Please lend your strength to this world going forward. I ask this in the name of the Empress.\"",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001393_COMPLETE",
     "count": "0",
@@ -6576,7 +6576,7 @@
   },
   "10001403--": {
     "name": "Unfortunate Truth",
-    "desc": "QUESTDESCRIPTION_10001403_DESC",
+    "desc": "The mysterious red-cloaked figure threatening the world with the Devlin at the vanguard!\nTheir true identity is Bella Vidblain...\nDaughter of Royal Prime Minister $npc:11000074$, and twin sister of $npc:11000058$... and now... she has returned as a servant of evil, under the dominion of shadow energy.\nThis is the moment that a painful memory — one no one wished to see revived, as though it were taboo — has descended upon $map:02000001$!\n",
     "manual": "Receive $item:30000033$ from $npc:11000074$",
     "complete": "Meet $npc:11000075$ at $map:02000025$",
     "count": "1",
