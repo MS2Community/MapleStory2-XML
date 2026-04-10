@@ -6178,7 +6178,7 @@
     "name": "QUESTDESCRIPTION_10001021_NAME",
     "desc": "In the end, $npc:11000170$ confessed to having bought iron ore from $npc:11000173$. Even if the iron ore $npcName:11000170$ dealt in has nothing to do with the armory theft... the notorious fence $npcName:11000173$ might know something about the stolen weapons. Let's take the iron ore sales flyer $npc:11000170$ gave me and head to $map:02000083$, where the entrance to $map:02000141$ is said to be!",
     "manual": "QUESTDESCRIPTION_10001021_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001021_COMPLETE",
+    "complete": "Go to $map:02000083$",
     "count": "1",
     "locking": "1"
   },
@@ -6210,7 +6210,7 @@
     "name": "QUESTDESCRIPTION_10001025_NAME",
     "desc": "A suspicious ledger found in $map:02000020$... It looks like records of transactions involving royal goods... For now, let's take the ledger and return to $map:02000001$ to meet $npc:11000169$.",
     "manual": "QUESTDESCRIPTION_10001025_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001025_COMPLETE",
+    "complete": "Return to $npc:11000169$ in $map:02000001$",
     "count": "1",
     "locking": "1"
   },
@@ -6218,7 +6218,7 @@
     "name": "QUESTDESCRIPTION_10001026_NAME",
     "desc": "The home address for $npc:11000492$ that $npc:11000012$ found in the address book was 674 Flower Park, $map:02000119$. Let's find the house with the red roof in the Flower Park district. ",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001026_COMPLETE",
+    "complete": "Find and enter $map:02000122$ from $map:02000119$",
     "count": "",
     "locking": "1"
   },
@@ -6226,12 +6226,12 @@
     "name": "QUESTDESCRIPTION_10001027_NAME",
     "desc": "Will I really be able to find clues to track Nelf's whereabouts inside $map:02000122$? Let's thoroughly search every corner of $map:02000122$, located in $map:02000119$, and find a lead on Nelf's whereabouts.",
     "manual": "QUESTDESCRIPTION_10001027_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001027_COMPLETE",
+    "complete": "Find $map:52000037$ in $map:02000043$ as noted",
     "count": "1",
     "locking": "1"
   },
   "10001028--": {
-    "name": "QUESTDESCRIPTION_10001028_NAME",
+    "name": "What Nelf Left Behind",
     "desc": "I came all the way to $map:52000037$ in $map:02000043$ marked on the crumpled memo, but... unfortunately, $npc:11000492$ was already dead. And a mysterious figure appeared at just the right moment, opened a secret door in the cave, and vanished. If I follow that person, maybe I can find a clue to unravel everything. Steady myself and follow the mysterious figure deeper into the cave.",
     "manual": "QUESTDESCRIPTION_10001028_MANUAL",
     "complete": "QUESTDESCRIPTION_10001028_COMPLETE",
@@ -6257,7 +6257,7 @@
   "10001031--": {
     "name": "QUESTDESCRIPTION_10001031_NAME",
     "desc": "$npc:11000172$ of $map:02000064$ reluctantly agreed to open the door to $map:02000020$. I should quickly look around $map:02000020$ and come back out.",
-    "manual": "QUESTDESCRIPTION_10001031_MANUAL",
+    "manual": "Enter $map:02000020$ from $map:02000064$",
     "complete": "QUESTDESCRIPTION_10001031_COMPLETE",
     "count": "0",
     "locking": "1"
@@ -6279,7 +6279,7 @@
     "locking": "1"
   },
   "10001080--": {
-    "name": "QUESTDESCRIPTION_10001080_NAME",
+    "name": "A Family in Misfortune",
     "desc": "It was odd enough to find frozen ground and ice chunks in the middle of a green meadow — but to think those ice chunks were actually people frozen solid... Among the frozen figures on the ice at the center of $map:02000085$, let's find $npc:11000186$'s older sister $npc:11000188$ and thaw her with the warmth of $item:30000028$. First, let's break a branch from the red maple tree next to $npc:11000186$ and head down toward the ice.",
     "manual": "Pluck $item:30000028$ next to $npc:11000186$|Find $npc:11000188$ among the frozen victims in the center of $map:02000085$ and thaw them ",
     "complete": "QUESTDESCRIPTION_10001080_COMPLETE",
@@ -6287,7 +6287,7 @@
     "locking": "1"
   },
   "10001081--": {
-    "name": "QUESTDESCRIPTION_10001081_NAME",
+    "name": "Big Sister is Back",
     "desc": "Thinking about how long $npc:11000188$ was frozen, her coming back to life truly feels like a miracle. I should go meet $npc:11000188$ and warmly take her hand. Let's head inside $map:02000150$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001081_COMPLETE",
@@ -6306,7 +6306,7 @@
     "name": "QUESTDESCRIPTION_10001160_NAME",
     "desc": "A notebook bearing the Barota Trading Company logo was found in a bag near the deceased $npc:11000492$...\nCan this help unravel the mysteries surrounding $npc:11000492$'s death?\nFor now, let's head to $map:02000139$, where Barota Trading Company's headquarters is located.",
     "manual": "QUESTDESCRIPTION_10001160_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001160_COMPLETE",
+    "complete": "Find the Barota Trade Company Headquarters in $map:02000139$",
     "count": "1",
     "locking": "1"
   },
@@ -6322,7 +6322,7 @@
     "name": "QUESTDESCRIPTION_10001171_NAME",
     "desc": "Could $item:20000046$ really be among the goods stored by Barota Trading Company?\nI should find the Barota Trading Company warehouse in $map:02000139$ and check the items stored there.\nThe warehouse is at the end of the road just in front of $npc:11000208$.",
     "manual": "QUESTDESCRIPTION_10001171_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001171_COMPLETE",
+    "complete": "Return to $npc:11000208$ in $map:02000139$",
     "count": "1",
     "locking": "1"
   },
@@ -6362,12 +6362,12 @@
     "name": "QUESTDESCRIPTION_10001201_NAME",
     "desc": "$map:02000149$?\nSo this is the secret arcade the Shadow Commission has been quietly running...\nLet's go find $map:02000149$.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001201_COMPLETE",
+    "complete": "Head to $map:02000149$ from $map:02000138$",
     "count": "",
     "locking": "1"
   },
   "10001202--": {
-    "name": "QUESTDESCRIPTION_10001202_NAME",
+    "name": "Everything You Know",
     "desc": "To get $npc:11000212$ to talk — who keeps yelling that we're ruining his business — it seems the only option is to disrupt his arcade operations.\nLet's drive out all the customers inside the arcade until $npc:11000212$ confesses!",
     "manual": "QUESTDESCRIPTION_10001202_MANUAL",
     "complete": "QUESTDESCRIPTION_10001202_COMPLETE",
@@ -6448,7 +6448,7 @@
   },
   "10001261--": {
     "name": "QUESTDESCRIPTION_10001261_NAME",
-    "desc": "QUESTDESCRIPTION_10001261_DESC",
+    "desc": "$npc:11000220$ in $map:02000136$ handed over an order form listing the construction materials needed to build the Rockefeller Tower.\nHead back to $npc:11000311$ in $map:02000166$!",
     "manual": "QUESTDESCRIPTION_10001261_MANUAL",
     "complete": "QUESTDESCRIPTION_10001261_COMPLETE",
     "count": "1",
@@ -6482,7 +6482,7 @@
     "name": "QUESTDESCRIPTION_10001370_NAME",
     "desc": "It's an emergency!\nLet's head to $map:02000026$ in $map:02000146$ and meet $npc:11000122$!",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001370_COMPLETE",
+    "complete": "Find $npc:11000122$ in $map:02000026$",
     "count": "",
     "locking": "1"
   },
@@ -6490,7 +6490,7 @@
     "name": "QUESTDESCRIPTION_10001371_NAME",
     "desc": "The mushroom fields near the laboratory have become completely tainted with shadow energy, as the power of the Dark Land grows ever stronger.\nCan I really find $item:20000045$ that's still good enough to use as medicine ingredients?\nWhile watching out for shadow poison that spreads from the shadow-tainted ground, let's search not only the mushroom fields near the laboratory but all throughout $map:02000146$ for $item:20000045$!",
     "manual": "QUESTDESCRIPTION_10001371_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001371_COMPLETE",
+    "complete": "Return to $npc:11000122$ in $map:02000026$",
     "count": "1",
     "locking": "1"
   },
@@ -6504,7 +6504,7 @@
   },
   "10001380--": {
     "name": "QUESTDESCRIPTION_10001380_NAME",
-    "desc": "QUESTDESCRIPTION_10001380_DESC",
+    "desc": "$npc:11000121$ says that together with $npc:11000122$, they plan to breach the barrier sealing the shadow gate in $map:02000146$ and study the DNA of monsters that crossed over from the Dark Land, in order to uncover the source of the shadow energy.\nDefeat the monsters near the shadow gate in $map:02000146$, collect $item:20000047$, and bring them to $npc:11000121$!",
     "manual": "QUESTDESCRIPTION_10001380_MANUAL",
     "complete": "QUESTDESCRIPTION_10001380_COMPLETE",
     "count": "1",
@@ -6664,7 +6664,7 @@
   },
   "10001502--": {
     "name": "QUESTDESCRIPTION_10001502_NAME",
-    "desc": "QUESTDESCRIPTION_10001502_DESC",
+    "desc": "$npc:11000426$ handed over $item:30000256$ as promised. Thinking of $npc:11000097$ anxiously waiting, I should head back to $map:02000139$ quickly.",
     "manual": "QUESTDESCRIPTION_10001502_MANUAL",
     "complete": "QUESTDESCRIPTION_10001502_COMPLETE",
     "count": "1",
@@ -6704,7 +6704,7 @@
   },
   "10001660--": {
     "name": "QUESTDESCRIPTION_10001660_NAME",
-    "desc": "QUESTDESCRIPTION_10001660_DESC",
+    "desc": "$npc:11000004$ said the reason for rushing to buy iron ore from $npc:11000170$ without thinking it through was that iron ore has been hard to come by lately.\nWhere did $npcName:11000170$ get iron ore — something so hard to find — that they could sell it to a merchant so cheaply?\nCould it be iron ore smelted from manufactured weapons, as $npc:11000004$ suggested?\nIf so, could the stolen weapons have also been melted down into raw iron ore?\nFor now, let's go to $map:02000140$ and find out about $npc:11000170$'s whereabouts.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001660_COMPLETE",
     "count": "0",
@@ -6714,13 +6714,13 @@
     "name": "QUESTDESCRIPTION_10001661_NAME",
     "desc": "QUESTDESCRIPTION_10001661_DESC",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001661_COMPLETE",
+    "complete": "Find and enter the entrance to $map:02000141$ at the northeast end of $map:02000083$, then meet $npc:11000173$",
     "count": "",
     "locking": "1"
   },
   "10001662--": {
     "name": "QUESTDESCRIPTION_10001662_NAME",
-    "desc": "QUESTDESCRIPTION_10001662_DESC",
+    "desc": "There's not much more to gain from pressing $npc:11000173$ further.\nIn times like this, it may be best to boldly search every corner of $map:02000141$. Along the way, I might find a useful clue or even someone willing to help.\nDefeat $npc:11000173$'s subordinates while exploring $map:02000141$.\n$map:02000141$ is located in $map:02000083$.",
     "manual": "QUESTDESCRIPTION_10001662_MANUAL",
     "complete": "QUESTDESCRIPTION_10001662_COMPLETE",
     "count": "1",
@@ -6728,7 +6728,7 @@
   },
   "10001663--": {
     "name": "QUESTDESCRIPTION_10001663_NAME",
-    "desc": "QUESTDESCRIPTION_10001663_DESC",
+    "desc": "Tired of living on the run from $npc:11000173$, $npc:11000365$ plans to steal $npc:11000173$'s stolen goods ledger and hand it over to the Royal Guard or the Dark Wind in exchange for safety.\nThe full details are unclear, but among the $item:30000018$ that $npcName:11000365$ asked me to find, there should be transaction records revealing who sold the iron ore to whom.\nOpen the safes on the walls of each room in $map:02000141$, find the $item:30000018$, and bring them to $npc:11000365$.\n$map:02000141$ is located in $map:02000083$.",
     "manual": "QUESTDESCRIPTION_10001663_MANUAL",
     "complete": "QUESTDESCRIPTION_10001663_COMPLETE",
     "count": "1",
@@ -6736,7 +6736,7 @@
   },
   "10001710--": {
     "name": "QUESTDESCRIPTION_10001710_NAME",
-    "desc": "QUESTDESCRIPTION_10001710_DESC",
+    "desc": "$npc:11000393$ in the $map:02000083$ district came to perform routine water tank maintenance but has been unable to move a single step due to the monsters' rampage — now on their 251st deep breath.\nIn place of $npc:11000393$, inspect the water tanks on the rooftops of the buildings in $map:02000083$ and collect $item:30000117$.",
     "manual": "QUESTDESCRIPTION_10001710_MANUAL",
     "complete": "QUESTDESCRIPTION_10001710_COMPLETE",
     "count": "1",
@@ -6744,7 +6744,7 @@
   },
   "10001720--": {
     "name": "QUESTDESCRIPTION_10001720_NAME",
-    "desc": "QUESTDESCRIPTION_10001720_DESC",
+    "desc": "The monsters roaming $map:02000083$ have turned to robbery and attacked $map:02000121$. The staff barely escaped with their lives, but if the register cash is completely cleaned out, they'll inevitably be suspected by the store owner of being in on it.\nHead to $map:02000121$ and recover all the cash stolen from the registers so the innocent employees don't suffer unjustly!",
     "manual": "QUESTDESCRIPTION_10001720_MANUAL",
     "complete": "QUESTDESCRIPTION_10001720_COMPLETE",
     "count": "1",
@@ -6752,7 +6752,7 @@
   },
   "10001740--": {
     "name": "QUESTDESCRIPTION_10001740_NAME",
-    "desc": "QUESTDESCRIPTION_10001740_DESC",
+    "desc": "$npc:11000399$, who came to $map:02000092$ to investigate the cause of the petrifying water, is suffering from a piercing stench.\nThe source of the odor appears to be the Large Vine Moss and $npc:21000387$ spawned by wastewater believed to have flowed in from $map:02000084$!\nFind and remove the Large Vine Moss growing near the wastewater inlet in $map:02000092$, and defeat $npc:21000387$!",
     "manual": "QUESTDESCRIPTION_10001740_MANUAL",
     "complete": "QUESTDESCRIPTION_10001740_COMPLETE",
     "count": "1|1",
@@ -6760,15 +6760,15 @@
   },
   "10001741--": {
     "name": "QUESTDESCRIPTION_10001741_NAME",
-    "desc": "QUESTDESCRIPTION_10001741_DESC",
+    "desc": "$npc:11000174$ is worried that her father, who manages $map:02000092$, hasn't come home for several days.\nGo find $npc:11000174$'s father, $npc:11000400$, and tell him that his daughter is worried and he should come home. ",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001741_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001742--": {
-    "name": "QUESTDESCRIPTION_10001742_NAME",
-    "desc": "QUESTDESCRIPTION_10001742_DESC",
+    "name": "Petrifying Water",
+    "desc": "There was a reason $npc:11000400$ hasn't been able to come home for days.\nThe water upstream in $map:02000092$ has been gradually hardening from the center outward! A field investigation is needed to find the cause, but the constantly spawning monsters make it impossible to even get close.\nEliminate the monsters rampaging on the hardened water upstream in $map:02000092$.",
     "manual": "QUESTDESCRIPTION_10001742_MANUAL",
     "complete": "QUESTDESCRIPTION_10001742_COMPLETE",
     "count": "1",
@@ -6776,7 +6776,7 @@
   },
   "10001750--": {
     "name": "Power of Poison",
-    "desc": "QUESTDESCRIPTION_10001750_DESC",
+    "desc": "$npc:11000402$ and $npc:11000403$ have been poisoned by toxins seeping out of $map:02000043$!\nThey need $item:20000060$ from $npc:21000078$ to neutralize the poison.\nDefeat $npc:21000078$ that occasionally appear in the plains of $map:02000043$ and collect $item:20000060$.",
     "manual": "Gather $npc:21000078$'s $item:20000060$ in $map:02000043$",
     "complete": "Meet $npc:11000402$ at $map:02000043$",
     "count": "1",
@@ -6784,7 +6784,7 @@
   },
   "10001810--": {
     "name": "QUESTDESCRIPTION_10001810_NAME",
-    "desc": "QUESTDESCRIPTION_10001810_DESC",
+    "desc": "$npc:11000419$, a doctor at the hospital in $map:02000100$, handed over a photo of $npc:11000424$'s granddaughter — who went missing shortly after leaving the hospital — and asked me to deliver it.\nFor $npc:11000424$, who spends every day in tears missing the beloved granddaughter who vanished without a trace, this photo must be more precious than anything.\nFind $npc:11000424$ in $map:02000100$ and deliver the granddaughter's photo.",
     "manual": "QUESTDESCRIPTION_10001810_MANUAL",
     "complete": "QUESTDESCRIPTION_10001810_COMPLETE",
     "count": "1",
