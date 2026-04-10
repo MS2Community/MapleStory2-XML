@@ -46893,7 +46893,8 @@
   "80010551-Event-CN": {
     "name": "Looking Good, Even to Myself",
     "desc": "$npc:11000158$ says that the second training exercise is to run on $item:50400096$ and clear your mind.\nI'm not sure what the point of this is, but since there are rewards on offer, I might as well follow along.\nUse $item:50400096$ in your home or someone else's home, then find $npc:11000157$ in $map:02000118$.",
-    "manual": "Use $item:50400096$ at your house or someone else's house"
+    "manual": "Use $item:50400096$ at your house or someone else's house",
+    "complete": "Visit $npc:11000157$ in $map:02000118$"
   },
   "80010542-Event-CN": {
     "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
@@ -46913,20 +46914,26 @@
     "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
   },
   "80010520-Event-CN": {
-    "desc": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?"
+    "desc": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?",
+    "manual": "Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$",
+    "complete": "Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$"
   },
   "80010543-Event-CN": {
     "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
     "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
   },
   "80010550-Event-CN": {
-    "desc": "$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.\nI'm not quite sure why I should do this, but since there are rewards on offer, let's take part.\nFirst, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.\n\nField Bosses in Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' "
+    "desc": "$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.\nI'm not quite sure why I should do this, but since there are rewards on offer, let's take part.\nFirst, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.\n\nField Bosses in Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' ",
+    "complete": "Visit $npc:11000158$ in $map:02000118$"
   },
   "80010552-Event-CN": {
-    "desc": "$npc:11000157$ says that true romance means enjoying solitude and exploring yourself, and asks you to play a song with any sheet music.\nApparently, immersing yourself in a world where only music and you exist is the third training exercise... I have no idea what that means, but since it's the third one, I might as well keep going.\nPlay any sheet music, then find $npc:11000617$ in $map:02000118$."
+    "desc": "$npc:11000157$ says that true romance means enjoying solitude and exploring yourself, and asks you to play a song with any sheet music.\nApparently, immersing yourself in a world where only music and you exist is the third training exercise... I have no idea what that means, but since it's the third one, I might as well keep going.\nPlay any sheet music, then find $npc:11000617$ in $map:02000118$.",
+    "manual": "Play any sheet music",
+    "complete": "Visit $npc:11000617$ in $map:02000118$"
   },
   "80010553-Event-CN": {
-    "desc": "$npc:11000617$ says that eating $item:20001693$ is the final training exercise, and even explained its significance.\nSince there's a gift waiting after this last exercise, I might as well just go ahead and do as I'm told.\nEat the $item:20001693$ received as training rewards, then claim your souvenir.\n(If you don't have any $item:20001693$, speak to $npc:11000617$ to receive some again.)"
+    "desc": "$npc:11000617$ says that eating $item:20001693$ is the final training exercise, and even explained its significance.\nSince there's a gift waiting after this last exercise, I might as well just go ahead and do as I'm told.\nEat the $item:20001693$ received as training rewards, then claim your souvenir.\n(If you don't have any $item:20001693$, speak to $npc:11000617$ to receive some again.)",
+    "manual": "Eat $item:20001693$"
   },
   "89010373-Event-CN": {
     "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times",
@@ -47068,5 +47075,52 @@
     "manual": "Clear the Cash Mart Part-Time Job",
     "complete": "Cleared Cash Mart Part-Time Job Once",
     "name": "Clear Cash Mart Part-Time Job Once"
+  },
+  "72000529-KarkarIsland-JP": {
+    "manual": "Examine the $npcName:11004271$ Blooming in $map:02010023$",
+    "name": "Examine the $npcName:11004271$ Blooming in $map:02010023$"
+  },
+  "72000541-KarkarIsland-JP": {
+    "manual": "Examine $npc:11004282$",
+    "name": "Examine $npc:11004282$"
+  },
+  "72000542-KarkarIsland-JP": {
+    "name": "Examine $npc:11004281$",
+    "manual": "Examine $npc:11004281$"
+  },
+  "72000549-KarkarIsland-JP": {
+    "manual": "Examine $npc:11004279$",
+    "name": "Examine $npc:11004279$"
+  },
+  "72000551-KarkarIsland-JP": {
+    "manual": "Examine $npc:11004280$ in $map:02010034$",
+    "name": "Examine $npc:11004280$ in $map:02010034$"
+  },
+  "72000559-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004268$",
+    "name": "Examine $npcName:11004268$"
+  },
+  "72000556-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004269$",
+    "name": "Examine $npcName:11004269$"
+  },
+  "72000562-KarkarIsland-JP": {
+    "name": "Examine the $npcName:11004263$ That Crash-Landed in $map:02010043$",
+    "manual": "Examine the $npcName:11004263$ That Crash-Landed in $map:02010043$"
+  },
+  "72000568-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004261$",
+    "name": "Examine $npcName:11004261$"
+  },
+  "72000577-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004262$",
+    "name": "Examine $npcName:11004262$"
+  },
+  "10003058-DoubleImpactStory-": {
+    "manual": "Find and examine the glowing stone in $map:52000050$ in $map:02000101$",
+    "complete": "Examine the Animar energy in $map:52000050$ in $map:02000101$"
+  },
+  "10003052-DoubleImpactStory-": {
+    "complete": "Examine $npcName:11001759$ in $map:52000040$\n"
   }
 }
