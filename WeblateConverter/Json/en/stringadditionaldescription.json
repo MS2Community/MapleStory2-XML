@@ -26105,64 +26105,83 @@
   },
   "50000153--": {
     "name": "Attack Down",
-    "tooltipDescription": "Attack Power reduced by 10%\nCan stack up to 5 times"
+    "tooltipDescription": "Attack Power reduced by 10%\nCan stack up to 5 times",
+    "level": "1"
   },
   "50000152--": {
     "name": "Attack Down",
-    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 5 times"
+    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 5 times",
+    "level": "1"
   },
   "50000154-LapentaDungeon-": {
     "name": "Attack Down",
-    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 3 times"
+    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 3 times",
+    "level": "1"
   },
   "50000158--": {
     "name": "Speed Down",
-    "tooltipDescription": "Movement Speed reduced by 30%"
+    "tooltipDescription": "Movement Speed reduced by 30%",
+    "level": "1"
   },
   "50000172--": {
     "name": "Water Prison",
-    "tooltipDescription": "Imprisoned in a water prison, unable to move"
+    "tooltipDescription": "Imprisoned in a water prison, unable to move",
+    "level": "1"
   },
   "50000170--": {
     "name": "Water Prison",
-    "tooltipDescription": "Imprisoned in a water prison, unable to move"
+    "tooltipDescription": "Imprisoned in a water prison, unable to move",
+    "level": "1"
   },
   "50000171--": {
     "name": "Water Prison",
-    "tooltipDescription": "Imprisoned in a water prison, unable to move"
+    "tooltipDescription": "Imprisoned in a water prison, unable to move",
+    "level": "1"
   },
   "50000190--": {
     "name": "Fear",
-    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 99%\nMovement Speed reduced by 30%"
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 99%\nMovement Speed reduced by 30%",
+    "level": "4"
   },
   "50000193--": {
     "name": "Fear",
-    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%"
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%",
+    "level": "1"
   },
   "50000194--": {
     "name": "Fear",
-    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%"
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%",
+    "level": "1"
   },
   "50000195--": {
     "name": "Fear",
-    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%"
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%",
+    "level": "1"
   },
   "50000192--": {
     "name": "Vicious Curse",
-    "tooltipDescription": "Continuously taking poison damage\nMovement Speed reduced by 40%\nAccuracy reduced by 60%"
+    "tooltipDescription": "Continuously taking poison damage\nMovement Speed reduced by 40%\nAccuracy reduced by 60%",
+    "level": "1"
   },
   "50000191--": {
     "name": "Demoralized",
-    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%"
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%",
+    "level": "1"
   },
   "50000206--": {
-    "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 50%"
+    "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 50%",
+    "name": "Severe Lethargy",
+    "level": "1"
   },
   "50000220--": {
-    "tooltipDescription": "Movement Speed reduced by 45%"
+    "tooltipDescription": "Movement Speed reduced by 45%",
+    "name": "Speed Down",
+    "level": "1"
   },
   "50000203--": {
-    "tooltipDescription": "Max HP reduced while near Pamors.\nMax HP reduced by 5%.\nEffect increases after stacking 5 times."
+    "tooltipDescription": "Max HP reduced while near Pamors.\nMax HP reduced by 5%.\nEffect increases after stacking 5 times.",
+    "name": "Lethargy",
+    "level": "1"
   },
   "50000312--": {
     "tooltipDescription": "All damage received from enemies reduced by 80%"
@@ -26174,7 +26193,9 @@
     "tooltipDescription": "All damage received from enemies reduced by 99%"
   },
   "50000231--": {
-    "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 70%"
+    "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 70%",
+    "level": "1",
+    "name": "Heavy Slow"
   },
   "50000292-Kritias_Balrog01-": {
     "tooltipDescription": "Attack Power increased by 30%\nEnemy damage reduced by 50%"
@@ -26239,6 +26260,105 @@
   },
   "50000197--": {
     "name": "Surge of Power",
-    "tooltipDescription": "As long as you are with Haimos, your body fills with power.\nAttack Power increased by 50%, Movement Speed and Attack Speed increased by 100%, continuously restores HP"
+    "tooltipDescription": "As long as you are with Haimos, your body fills with power.\nAttack Power increased by 50%, Movement Speed and Attack Speed increased by 100%, continuously restores HP",
+    "level": "1"
+  },
+  "50000199--": {
+    "name": "Surge of Power",
+    "tooltipDescription": "Your power surges when together with Pamos.\nAttack Power +50%, Movement Speed and Attack Speed +100%, continuously recover HP",
+    "level": "1"
+  },
+  "50000201--": {
+    "name": "Chill",
+    "tooltipDescription": "Stats are continuously reduced while near Hemos.\nMovement Speed and Attack Speed -10%\nAt 5 stacks, become Frozen and unable to act.",
+    "level": "1"
+  },
+  "50000207--": {
+    "name": "Knockdown",
+    "tooltipDescription": "Entered Knockdown state.\nIf other targets are not defeated quickly, they will soon recover 50% HP and stand back up.",
+    "level": "1"
+  },
+  "50000205--": {
+    "name": "Frozen",
+    "tooltipDescription": "Chill has stacked 5 times, leaving you unable to act.",
+    "level": "1"
+  },
+  "50000208--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement Speed reduced by 45%.",
+    "level": "1"
+  },
+  "50000209--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement Speed reduced by 40%.",
+    "level": "1"
+  },
+  "50000210--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement Speed reduced by 40%.",
+    "level": "1"
+  },
+  "50000212--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Reduces Movement Speed by 45%",
+    "level": "1"
+  },
+  "50000211--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Reduces Movement Speed by 47%",
+    "level": "1"
+  },
+  "50000214--": {
+    "name": "Movement Speed Reduction",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased.\nStacks up to 10 times.\nEffect decreases with each stack."
+  },
+  "50000213--": {
+    "name": "Movement Speed Reduction",
+    "level": "1",
+    "tooltipDescription": "Movement Speed Reduced by 70%"
+  },
+  "50000215--": {
+    "name": "Speed Down",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased.\nStacks up to 3 times.\nEffect increases with each stack."
+  },
+  "50000219--": {
+    "level": "1",
+    "name": "Frozen",
+    "tooltipDescription": "When Chill reaches 5 stacks, you become immobilized."
+  },
+  "50000221--": {
+    "level": "1",
+    "name": "Snare",
+    "tooltipDescription": "Cannot move.\nContinuously deals extra damage."
+  },
+  "50000222--": {
+    "name": "Speed Down",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased by 50%."
+  },
+  "50000224--": {
+    "name": "Speed Halved",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased by half."
+  },
+  "50000223--": {
+    "name": "Speed ×2",
+    "level": "1",
+    "tooltipDescription": "Movement Speed increased by 2×."
+  },
+  "50000227--": {
+    "name": "Speed Down",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased by 45%."
+  },
+  "50000235--": {
+    "name": "Full Defense",
+    "level": "1",
+    "tooltipDescription": "Invincible."
+  },
+  "50000236--": {
+    "level": "1"
   }
 }
