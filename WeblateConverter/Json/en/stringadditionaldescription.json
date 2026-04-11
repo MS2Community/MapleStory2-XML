@@ -26024,7 +26024,9 @@
     "level": "2"
   },
   "50000126--": {
-    "name": "Melted Armor"
+    "name": "Melted Armor",
+    "level": "1",
+    "tooltipDescription": "Decreases defense by 20%. Stacks up to 5 times."
   },
   "50000124--": {
     "name": "Defense Down",
@@ -26032,85 +26034,126 @@
     "level": "1"
   },
   "50000125--": {
-    "name": "Defense Down"
+    "name": "Defense Down",
+    "level": "1",
+    "tooltipDescription": "Defense decreased by 17%\nStacks up to 3 times"
   },
   "50000127--": {
-    "name": "Defense Down"
+    "name": "Defense Down",
+    "level": "1",
+    "tooltipDescription": "Decreases defense by 15%. Stacks up to 5 times."
   },
   "50000144--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 25%. Stacks up to 3 times"
   },
   "50000143--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 25%. Stacks up to 3 times"
   },
   "50000140--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 99%."
   },
   "50000142--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "tooltipDescription": "Decreases attack by 80%.",
+    "level": "1"
   },
   "50000141--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 50%."
   },
   "50000148--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "2",
+    "tooltipDescription": "Decreases attack by 85%. Taking damage from Bjorn's attack."
   },
   "50000147--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 20%."
   },
   "50000145--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 60%."
   },
   "50000146--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 20%. Stacks up to 4 times"
   },
   "50000149-LapentaDungeon-": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "2",
+    "tooltipDescription": "Reduces attack by 80%. Under attack by statue knights."
   },
   "50000150--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Reduces attack by 50%. Taking damage from templars."
   },
   "50000151--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "level": "2",
+    "tooltipDescription": "Reduces attack by 99%."
   },
   "50000153--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "tooltipDescription": "Attack Power reduced by 10%\nCan stack up to 5 times"
   },
   "50000152--": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 5 times"
   },
   "50000154-LapentaDungeon-": {
-    "name": "Attack Down"
+    "name": "Attack Down",
+    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 3 times"
   },
   "50000158--": {
-    "name": "Speed Down"
+    "name": "Speed Down",
+    "tooltipDescription": "Movement Speed reduced by 30%"
   },
   "50000172--": {
-    "name": "Water Prison"
+    "name": "Water Prison",
+    "tooltipDescription": "Imprisoned in a water prison, unable to move"
   },
   "50000170--": {
-    "name": "Water Prison"
+    "name": "Water Prison",
+    "tooltipDescription": "Imprisoned in a water prison, unable to move"
   },
   "50000171--": {
-    "name": "Water Prison"
+    "name": "Water Prison",
+    "tooltipDescription": "Imprisoned in a water prison, unable to move"
   },
   "50000190--": {
-    "name": "Fear"
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 99%\nMovement Speed reduced by 30%"
   },
   "50000193--": {
-    "name": "Fear"
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%"
   },
   "50000194--": {
-    "name": "Fear"
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%"
   },
   "50000195--": {
-    "name": "Fear"
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%"
   },
   "50000192--": {
-    "name": "Vicious Curse"
+    "name": "Vicious Curse",
+    "tooltipDescription": "Continuously taking poison damage\nMovement Speed reduced by 40%\nAccuracy reduced by 60%"
   },
   "50000191--": {
-    "name": "Demoralized"
+    "name": "Demoralized",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%"
   },
   "50000206--": {
     "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 50%"
@@ -26193,5 +26236,9 @@
   },
   "50001502--": {
     "tooltipDescription": "All damage received from enemies reduced by 65%"
+  },
+  "50000197--": {
+    "name": "Surge of Power",
+    "tooltipDescription": "As long as you are with Haimos, your body fills with power.\nAttack Power increased by 50%, Movement Speed and Attack Speed increased by 100%, continuously restores HP"
   }
 }
