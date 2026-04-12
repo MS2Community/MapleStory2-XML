@@ -26184,13 +26184,19 @@
     "level": "1"
   },
   "50000312--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "level": "1",
+    "name": "Armor of Shadows"
   },
   "50000319--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "level": "1",
+    "name": "DEF Up"
   },
   "50000313--": {
-    "tooltipDescription": "All damage received from enemies reduced by 99%"
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "level": "1",
+    "name": "Armor of Shadows"
   },
   "50000231--": {
     "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 70%",
@@ -26199,35 +26205,49 @@
   },
   "50000292-Kritias_Balrog01-": {
     "tooltipDescription": "Attack Power increased by 30%\nEnemy damage reduced by 50%",
-    "name": "ATK & DEF Boost"
+    "name": "ATK & DEF Boost",
+    "level": "1"
   },
   "50000329--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "DEF Up",
+    "level": "1"
   },
   "50000322--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "DEF Up",
+    "level": "1"
   },
   "50000330--": {
-    "tooltipDescription": "All damage received from enemies reduced by 99%"
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "level": "1",
+    "name": "Defense Boost"
   },
   "50000324--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "level": "1",
+    "name": "DEF Up"
   },
   "50000321--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "DEF Up",
+    "level": "4"
   },
   "50000405--": {
     "name": "Defense Reduction",
     "tooltipDescription": "Reduces Defense by 40%"
   },
   "50000344--": {
-    "tooltipDescription": "All damage received from enemies reduced by 80%"
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "Defense Boost"
   },
   "50000336--": {
-    "tooltipDescription": "Reduces enemy damage by 70%\n\nEffect is removed when all of Balrog's clones are eliminated,\nor when struck by Balrog's clone"
+    "tooltipDescription": "Reduces enemy damage by 70%\n\nEffect is removed when all of Balrog's clones are eliminated,\nor when struck by Balrog's clone",
+    "name": "Defense Boost"
   },
   "50000349--": {
-    "tooltipDescription": "All damage dealt by enemies reduced by 80%"
+    "tooltipDescription": "All damage dealt by enemies reduced by 80%",
+    "name": "Defense Boost"
   },
   "50000553--": {
     "tooltipDescription": "A spark of blessing attaches itself, enhancing combat ability.\nPeriodically restores HP.\nEnergy consumption reduced by 50%.\nPower bestowed by the Temple Knights."
@@ -26446,65 +26466,271 @@
   },
   "50000294--": {
     "name": "Defense Up Lv. 2",
-    "tooltipDescription": "All damage received reduced by 60%\nLv. 1+2 stacked state"
+    "tooltipDescription": "All damage received reduced by 60%\nLv. 1+2 stacked state",
+    "level": "1"
   },
   "50000290-Kritias_Balrog01-": {
     "name": "Defense Boost",
-    "tooltipDescription": "Defense increased by 80%"
+    "tooltipDescription": "Defense increased by 80%",
+    "level": "1"
   },
   "50000296--": {
     "name": "Defense Up Lv. 3",
-    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state"
+    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state",
+    "level": "1"
   },
   "50000297--": {
     "name": "Defense Up Lv. 1",
-    "tooltipDescription": "All damage received reduced by 40%\nLv. 1 state"
+    "tooltipDescription": "All damage received reduced by 40%\nLv. 1 state",
+    "level": "1"
   },
   "50000295--": {
     "name": "Defense Up Lv. 3",
-    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state"
+    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state",
+    "level": "1"
   },
   "50000298--": {
     "name": "Defense Up Lv. 2",
-    "tooltipDescription": "All damage received reduced by 60%\nLv. 1+2 stacked state"
+    "tooltipDescription": "All damage received reduced by 60%\nLv. 1+2 stacked state",
+    "level": "1"
   },
   "50000299--": {
     "name": "Defense Up Lv. 3",
-    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state"
+    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state",
+    "level": "1"
   },
   "50000303--": {
     "name": "ATK Boost",
-    "tooltipDescription": "Physical ATK and Magic ATK increased by 35%"
+    "tooltipDescription": "Physical ATK and Magic ATK increased by 35%",
+    "level": "1"
   },
   "50000300--": {
     "name": "ATK Boost",
-    "tooltipDescription": "Physical ATK and Magic ATK increased by 50%"
+    "tooltipDescription": "Physical ATK and Magic ATK increased by 50%",
+    "level": "1"
   },
   "50000306--": {
     "name": "Magic Defense Up: Physical Defense Down",
-    "tooltipDescription": "Magic Defense increased by 60%.\nPhysical Defense decreased by 60%.\nEffect disappears once all Stone Golem Guards are eliminated."
+    "tooltipDescription": "Magic Defense increased by 60%.\nPhysical Defense decreased by 60%.\nEffect disappears once all Stone Golem Guards are eliminated.",
+    "level": "2"
   },
   "50000304--": {
     "name": "Attack Power Up",
-    "tooltipDescription": "Physical and Magic Attack Power increased by 50%.\nEffect is removed once all Stone Golem Guards are defeated."
+    "tooltipDescription": "Physical and Magic Attack Power increased by 50%.\nEffect is removed once all Stone Golem Guards are defeated.",
+    "level": "1"
   },
   "50000305--": {
     "name": "Physical Defense Up: Magic Defense Down",
-    "tooltipDescription": "Physical Defense increased by 60%.\nMagic Defense decreased by 60%.\nEffect is removed once all Stone Golem Guards are defeated."
+    "tooltipDescription": "Physical Defense increased by 60%.\nMagic Defense decreased by 60%.\nEffect is removed once all Stone Golem Guards are defeated.",
+    "level": "2"
   },
   "50000307--": {
     "name": "Attack Power Up",
-    "tooltipDescription": "Physical and Magic Attack Power increased by 50%."
+    "tooltipDescription": "Physical and Magic Attack Power increased by 50%.",
+    "level": "2"
   },
   "50000308--": {
     "name": "Attack Power Up",
-    "tooltipDescription": "Physical and Magic Attack Power increased by 40%."
+    "tooltipDescription": "Physical and Magic Attack Power increased by 40%.",
+    "level": "1"
   },
   "50000309--": {
     "name": "Attack & Defense Up",
-    "tooltipDescription": "Attack Power increased by 20%.\nDefense increased by 40%."
+    "tooltipDescription": "Attack Power increased by 20%.\nDefense increased by 40%.",
+    "level": "3"
   },
   "50000310--": {
-    "name": "Attack Power Up"
+    "name": "Attack Power Up",
+    "level": "1",
+    "tooltipDescription": "Physical attack power and magic attack power increased by {0}%"
+  },
+  "90050824--": {
+    "name": "Increases Holy Damage from Savage Holy Staff/Glorious Holy Staff proc effects by 7.2%."
+  },
+  "90050852--": {
+    "tooltipDescription": "Increases Weapon Attack while stationary for 1.5 seconds or more.",
+    "name": "If stationary for 1.5 seconds or more, increases Weapon Attack by 4.5%."
+  },
+  "90050821--": {
+    "name": "When attacking, has a chance to increase Holy Damage by 7.2% for 9 seconds."
+  },
+  "90050823--": {
+    "name": "Increases Holy Damage from Savage Holy Staff/Glorious Holy Staff proc effects by 14.4%."
+  },
+  "90050839--": {
+    "name": "After dodging an enemy attack, increases Physical Damage by 2.5% for 30 seconds.\nRequires Savage Chaos Dagger/Glorious Chaos Dagger equipped in both hands."
+  },
+  "90050819--": {
+    "name": "Increases the duration of Limit Soul Staff proc effects by 3.2 seconds."
+  },
+  "90050817--": {
+    "name": "When attacking, has a chance to use skills without consuming Spirit for 1.6 seconds."
+  },
+  "90050865--": {
+    "tooltipDescription": "Increases Weapon Attack while stationary for 1.5 seconds or more."
+  },
+  "90050855--": {
+    "name": "Increases Weapon Attack granted by Savage Cannon/Glorious Cannon proc effects by 4.5%."
+  },
+  "90050857--": {
+    "name": "When attacking, has a chance to increase Defense Penetration by 4.5% for 9 seconds."
+  },
+  "90050827--": {
+    "name": "Increases Magic Damage granted by Limit Holy Staff proc effects by 5.2%."
+  },
+  "90050825--": {
+    "name": "When Spirit is at 40% or above, increases Magic Damage by 2.6%."
+  },
+  "90050820--": {
+    "name": "Increases the duration of Limit Soul Staff proc effects by 1.6 seconds."
+  },
+  "90050829--": {
+    "name": "Increases Magic Damage granted by Limit Holy Staff proc effects by 2.6%."
+  },
+  "90050845--": {
+    "name": "When successfully landing 140 hits within 10 seconds, increases Attack Speed and Defense Penetration by 2.5% for 17 seconds.\nRequires Limit Assassination Star equipped in both hands."
+  },
+  "90050860--": {
+    "name": "Increases Defense Penetration granted by Limit Cannon proc effects by 4.5%."
+  },
+  "90051208--": {
+    "name": "Increases Healing Skill effect by 10.0%."
+  },
+  "90051014--": {
+    "name": "Increases Weapon Attack by 4.5%."
+  },
+  "90051015--": {
+    "name": "Increases Physical/Magic Attack by 4.5%."
+  },
+  "91000021--": {
+    "name": "While in Berserker's Soul state, recovers 1.0% HP per second."
+  },
+  "90051688-NAEquipmentBalance_01-NA": {
+    "tooltipDescription": "Increases bonus attack by 1000."
+  },
+  "90051670-NAEquipmentBalance_01-NA": {
+    "tooltipDescription": "Increases bonus attack by 1000."
+  },
+  "91000041--": {
+    "name": "When Burst Nova hits, deals 7.0% additional damage."
+  },
+  "90051310--": {
+    "name": "Increases Defense Penetration by 2.0%."
+  },
+  "91000061--": {
+    "name": "Stuns targets hit by Stun Arrow for 1.2 seconds.\n(This effect cannot trigger again within 5 seconds.)"
+  },
+  "91000071--": {
+    "name": "Stuns targets hit by Land Mine for 1.5 seconds."
+  },
+  "91000051--": {
+    "name": "When Burst Nova hits, deals 7.0% additional damage."
+  },
+  "95000015--": {
+    "tooltipDescription": "Reduces Attack by 0.60% for 3 seconds. (Cannot stack)"
+  },
+  "95000013--": {
+    "tooltipDescription": "Reduces Defense by 0.40% for 3 seconds. (Cannot stack)"
+  },
+  "50000311--": {
+    "level": "1",
+    "name": "Attack Power Up",
+    "tooltipDescription": "Physical attack power and magic attack power increased by {0}%"
+  },
+  "50000315--": {
+    "name": "Attack Power Up",
+    "level": "1",
+    "tooltipDescription": "Physical ATK, Magic ATK +30%\nCan stack up to 3 times"
+  },
+  "50000314--": {
+    "level": "2",
+    "name": "Defense Up",
+    "tooltipDescription": "All damage received reduced by {0}%\nCan stack up to {1} times"
+  },
+  "50000316--": {
+    "level": "1",
+    "name": "Physical DEF Up",
+    "tooltipDescription": "Physical damage received -99%"
+  },
+  "50000317--": {
+    "level": "1",
+    "name": "Magic DEF Up",
+    "tooltipDescription": "Magic damage received -99%"
+  },
+  "50000318--": {
+    "name": "ATK Up",
+    "level": "1",
+    "tooltipDescription": "Physical ATK, Magic ATK +75%"
+  },
+  "50000320--": {
+    "name": "ATK Up",
+    "tooltipDescription": "Physical ATK, Magic ATK +50%",
+    "level": "2"
+  },
+  "50000327--": {
+    "level": "2",
+    "name": "ATK Up",
+    "tooltipDescription": "ATK +50%"
+  },
+  "50000326--": {
+    "name": "ATK Up",
+    "level": "2",
+    "tooltipDescription": "ATK +95%"
+  },
+  "50000335--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power increased by 40%.\n\nEffect ends when all of Balkan's clones are defeated,\nor when hit by one of Balkan's clones."
+  },
+  "50000332--": {
+    "name": "Defense Increase",
+    "tooltipDescription": "All damage received reduced by 99%."
+  },
+  "50000338--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 50%.\nLevel 1 state."
+  },
+  "50000337--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 50%.\nLevel 1 state."
+  },
+  "50000339--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 50%.\nLevel 1 state."
+  },
+  "50000340--": {
+    "name": "Defense Up Lv. 2",
+    "tooltipDescription": "All damage received reduced by 80%.\nLevel 1 and Level 2 stacked state."
+  },
+  "50000341--": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Gain shield defense effect,\ngreatly increasing defense."
+  },
+  "50000342--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power increased by 120%."
+  },
+  "50000343--": {
+    "name": "Attack and Defense Boost",
+    "tooltipDescription": "Attack power increased by 50%.\nDefense increased by 100%.\nStacks up to 5 times.\nActivates each time one of Zakum's arms is destroyed."
+  },
+  "50000345--": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Increases defense by 100%."
+  },
+  "50000346-LapentaDungeon-": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Increases defense by 50%.\nEffect obtained from Ishura's clone."
+  },
+  "50000351--": {
+    "name": "HP Recovery",
+    "tooltipDescription": "Continuously restores HP."
+  },
+  "50000350--": {
+    "name": "HP Recovery",
+    "tooltipDescription": "Continuously restores HP."
+  },
+  "50000352--": {
+    "name": "HP Recovery",
+    "tooltipDescription": "Continuously restores HP."
   }
 }
