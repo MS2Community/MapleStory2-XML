@@ -462,7 +462,7 @@
     "value": "Upgrade the guild NPC."
   },
   "s_err_lack_achieve--": {
-    "value": "You must have the \"{0}\" trophy to do this."
+    "value": "You must earn the [{0}] trophy."
   },
   "s_err_lack_fame_alliance--": {
     "value": "You must be {1} by {0}."
@@ -3228,7 +3228,7 @@
     "value": "You created a new design!"
   },
   "s_msg_ugc_item_edit_complete_cube--": {
-    "value": "You created a new design!\\n\\nYou can view your new furnishing under the \"Design\" tab in furnishing mode while inside your home.\\n "
+    "value": "Item crafted successfully.\n\nThe crafted construction item can be found in Construction Mode in your home. "
   },
   "s_msg_ugc_item_upload_screenshot--": {
     "value": "Upload your appearance to the community after equipping the created item?"
@@ -3312,7 +3312,7 @@
     "value": "You cannot receive rewards while tombstoned."
   },
   "s_quest_error_field_enter_limit--": {
-    "value": "You need to complete the quest \"{0}\" to enter."
+    "value": "You must complete the {0} quest to enter."
   },
   "s_quest_not_selected_reward--": {
     "value": "Select a reward."
@@ -3327,7 +3327,7 @@
     "value": "\\n<FONT color='#FFD200'>You have a related quest: {0}</FONT>"
   },
   "s_quest_expired_auto_giveup--": {
-    "value": "The quest \"{0}\" has expired."
+    "value": "The {0} quest has been removed because the completion period has expired."
   },
   "s_quest_complete_ui_effect--": {
     "value": "Quest Completed: {0}"
