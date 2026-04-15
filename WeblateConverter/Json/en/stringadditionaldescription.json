@@ -26269,25 +26269,33 @@
     "level": "1"
   },
   "50001073--": {
-    "tooltipDescription": "All damage received from enemies reduced by 50%"
+    "tooltipDescription": "All damage received from enemies reduced by 50%",
+    "level": "1",
+    "name": "Defense Up"
   },
   "50001501--": {
-    "tooltipDescription": "All damage received from enemies reduced by 50%"
+    "tooltipDescription": "All damage received from enemies reduced by 50%",
+    "name": "Defense Up"
   },
   "50001503--": {
-    "tooltipDescription": "All damage received from enemies reduced by 85%"
+    "tooltipDescription": "All damage received from enemies reduced by 85%",
+    "name": "Defense Up"
   },
   "50001506--": {
-    "tooltipDescription": "All damage received from enemies reduced by 99%"
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "name": "Defense Up"
   },
   "50001505--": {
-    "tooltipDescription": "All damage received from enemies reduced by 85%"
+    "tooltipDescription": "All damage received from enemies reduced by 85%",
+    "name": "Defense Up"
   },
   "50001504--": {
-    "tooltipDescription": "All damage received from enemies reduced by 99%"
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "name": "Defense Up"
   },
   "50001502--": {
-    "tooltipDescription": "All damage received from enemies reduced by 65%"
+    "tooltipDescription": "All damage received from enemies reduced by 65%",
+    "name": "Defense Up"
   },
   "50000197--": {
     "name": "Surge of Power",
@@ -27276,5 +27284,119 @@
     "name": "Defense Up",
     "level": "1",
     "tooltipDescription": "Defense increased by 40%\nCan stack up to 2 times"
+  },
+  "50001056--": {
+    "name": "Magic Attack Up",
+    "level": "1",
+    "tooltipDescription": "Increases magic attack by 40%\nStacks up to 2 times"
+  },
+  "50001054--": {
+    "name": "Physical Attack Up",
+    "level": "1",
+    "tooltipDescription": "Increases physical attack by 40%\nStacks up to 2 times"
+  },
+  "50001060--": {
+    "name": "Defense Up",
+    "level": "2",
+    "tooltipDescription": "Increases defense by 70%. Affected by the Solomon or Rex Statue."
+  },
+  "50001061--": {
+    "level": "1",
+    "name": "Attack Down",
+    "tooltipDescription": "Decreases attack by 30%. Stacks up to 3 times. Taking damage from the Huigin or Mugin statue."
+  },
+  "50001064--": {
+    "level": "1",
+    "name": "Perfect Guard",
+    "tooltipDescription": "Invincible!"
+  },
+  "50001066--": {
+    "level": "1",
+    "name": "Enlarged",
+    "tooltipDescription": "Enlarged. Increases attack by 30%. Increases defense by 70%. Effect removed upon defeat of the Huigin and Mugin statue."
+  },
+  "50001401--": {
+    "name": "Nausea",
+    "level": "2",
+    "tooltipDescription": "Ready to vomit and create an area that inflicts damage."
+  },
+  "50001089-LapentaDungeon-": {
+    "level": "1",
+    "name": "Dark Damage",
+    "tooltipDescription": "Damaged by Ishura's dark domain."
+  },
+  "50001402--": {
+    "name": "Poison Explosion",
+    "level": "1",
+    "tooltipDescription": "Explode with poison. Removed when immersed in water."
+  },
+  "50001403--": {
+    "level": "1",
+    "name": "Flame Explosion",
+    "tooltipDescription": "Periodically triggers a Flame Explosion."
+  },
+  "50001405--": {
+    "name": "Ice Block",
+    "tooltipDescription": "Trapped inside an Ice Block, unable to move.\nWhile frozen, Defense is reduced."
+  },
+  "50001404--": {
+    "name": "Frost Explosion",
+    "tooltipDescription": "A Frost Explosion will occur shortly.\nIf the caster dies before it triggers,\nthe Frost Explosion will not occur."
+  },
+  "50001406--": {
+    "name": "Ice Block",
+    "tooltipDescription": "Trapped inside an Ice Block, unable to move.\nWhile frozen, Defense is reduced."
+  },
+  "50001407--": {
+    "name": "Flame Explosion",
+    "tooltipDescription": "Triggers a Flame Explosion after 3 seconds."
+  },
+  "50001409-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Generates a Plague Explosion every 5 seconds.\nYou and nearby party members take severe poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001408-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Generates a Plague Explosion every 5 seconds.\nYou and nearby party members take severe poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001410-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Generates a Plague Explosion every 5 seconds.\nYou and nearby party members take severe poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001411--": {
+    "name": "Ice Block",
+    "tooltipDescription": "Trapped inside an Ice Block, unable to move.\nWhile frozen, Defense is reduced."
+  },
+  "50001412-LapentaDungeon-": {
+    "name": "Curse Explosion",
+    "tooltipDescription": "Attacking the boss inflicts Silence.\nA Curse Explosion occurs every 5 seconds,\napplying an Energy Drain Curse to nearby party members."
+  },
+  "50001416-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Every 5 seconds, causes a plague explosion.\nYou and nearby party members take deadly poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001417-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Every 5 seconds, causes a plague explosion.\nYou and nearby party members take deadly poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001415-Kritias_Zakum01-": {
+    "tooltipDescription": "Every 5 seconds, causes a plague explosion.\nYou and nearby party members take deadly poison damage.\nParty members hit by the explosion spread the contagion.",
+    "name": "Plague Explosion"
+  },
+  "50001451--": {
+    "name": "Death Sentence",
+    "tooltipDescription": "Die instantly after a few seconds."
+  },
+  "50001450--": {
+    "name": "Death Sentence",
+    "tooltipDescription": "Die instantly after a few seconds."
+  },
+  "50001452--": {
+    "name": "Dark Sentence",
+    "tooltipDescription": "Near Death"
+  },
+  "50001550--": {
+    "name": "Shrink",
+    "tooltipDescription": "Body size reduced by 50%\nPhysical Attack and Magic Attack reduced by 80%\nDefense reduced by 50%"
   }
 }
