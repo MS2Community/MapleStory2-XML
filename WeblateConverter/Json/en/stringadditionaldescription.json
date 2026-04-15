@@ -27144,97 +27144,137 @@
   },
   "50000912--": {
     "name": "Evil Leopard's Attack Order",
-    "tooltipDescription": "STR, DEX, INT, and LUK increased by 20%\nDEF decreased by 40%"
+    "tooltipDescription": "STR, DEX, INT, and LUK increased by 20%\nDEF decreased by 40%",
+    "level": "1"
   },
   "50000910--": {
     "name": "Evil Leopard's Curse",
-    "tooltipDescription": "Continuously deals dark damage\nShadows seal Energy and inflict Fear"
+    "tooltipDescription": "Continuously deals dark damage\nShadows seal Energy and inflict Fear",
+    "level": "1"
   },
   "50000913--": {
     "name": "Music Bomb",
-    "tooltipDescription": "Periodically triggers internal music bursts\nForces nearby allies to dance"
+    "tooltipDescription": "Periodically triggers internal music bursts\nForces nearby allies to dance",
+    "level": "2"
   },
   "50000914--": {
     "name": "Dancing",
-    "tooltipDescription": "Forced to dance, unable to act"
+    "tooltipDescription": "Forced to dance, unable to act",
+    "level": "1"
   },
   "50000915--": {
     "name": "Dancing",
-    "tooltipDescription": "Forced to dance, unable to act"
+    "tooltipDescription": "Forced to dance, unable to act",
+    "level": "1"
   },
   "50000930--": {
     "name": "Shadow Toxin",
-    "tooltipDescription": "Continuously takes poison damage"
+    "tooltipDescription": "Continuously takes poison damage",
+    "level": "1"
   },
   "50000916--": {
     "name": "Dancing",
-    "tooltipDescription": "Forced into a dancing state, unable to act"
+    "tooltipDescription": "Forced into a dancing state, unable to act",
+    "level": "2"
   },
   "50000931--": {
     "name": "Shadow's Curse",
-    "tooltipDescription": "Continuously takes poison damage"
+    "tooltipDescription": "Continuously takes poison damage",
+    "level": "1"
   },
   "50000951--": {
     "name": "Fire Protection",
-    "tooltipDescription": "Continuously causes flame explosions on the body\nHeals frozen allies\nAttached to the boss, enabling attacks"
+    "tooltipDescription": "Continuously causes flame explosions on the body\nHeals frozen allies\nAttached to the boss, enabling attacks",
+    "level": "3"
   },
   "50000956--": {
     "name": "Faint",
-    "tooltipDescription": "Stunned, unable to move."
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "2"
   },
   "50001006--": {
     "name": "Laser Attack Mode",
-    "tooltipDescription": "Primarily engages in laser-based attacks.\nStuns the target for a duration."
+    "tooltipDescription": "Primarily engages in laser-based attacks.\nStuns the target for a duration.",
+    "level": "2"
   },
   "50001005--": {
     "name": "Physical Attack Mode",
-    "tooltipDescription": "Performs powerful barehanded physical attacks.\nReduces the target's energy to 0 for a duration."
+    "tooltipDescription": "Performs powerful barehanded physical attacks.\nReduces the target's energy to 0 for a duration.",
+    "level": "2"
   },
   "50001022--": {
     "name": "Flame Breath State",
-    "tooltipDescription": "Primarily uses fire attribute attacks."
+    "tooltipDescription": "Primarily uses fire attribute attacks.",
+    "level": "1"
   },
   "50001007--": {
     "tooltipDescription": "Movement speed increases with each attack.\nCan stack up to 4 times.",
-    "name": "Movement Speed Up"
+    "name": "Movement Speed Up",
+    "level": "1"
   },
   "50001024--": {
     "name": "Lightning Breath State",
-    "tooltipDescription": "Primarily uses lightning attribute attacks."
+    "tooltipDescription": "Primarily uses lightning attribute attacks.",
+    "level": "1"
   },
   "50001023--": {
     "name": "Ice Breath State",
-    "tooltipDescription": "Primarily uses ice attribute attacks."
+    "tooltipDescription": "Primarily uses ice attribute attacks.",
+    "level": "1"
   },
   "50001033--": {
     "name": "Soul Absorption Phase 3",
-    "tooltipDescription": "Soul Absorption Phase 3\nAbsorb the souls of 7 shadow creatures\nDefense +50%"
+    "tooltipDescription": "Soul Absorption Phase 3\nAbsorb the souls of 7 shadow creatures\nDefense +50%",
+    "level": "1"
   },
   "50001032--": {
     "name": "Soul Absorption Phase 2",
-    "tooltipDescription": "Soul Absorption Phase 2\nAbsorb the souls of 4 shadow creatures\nDefense +30%"
+    "tooltipDescription": "Soul Absorption Phase 2\nAbsorb the souls of 4 shadow creatures\nDefense +30%",
+    "level": "3"
   },
   "50001031--": {
     "name": "Soul Absorption Phase 1",
-    "tooltipDescription": "Soul Absorption Phase 1\nAbsorb the souls of 3 shadow creatures\nDefense +10%"
+    "tooltipDescription": "Soul Absorption Phase 1\nAbsorb the souls of 3 shadow creatures\nDefense +10%",
+    "level": "3"
   },
   "50001034--": {
     "name": "Life Form Absorption Phase 1",
-    "tooltipDescription": "State enhanced to Phase 1 after absorbing a life form\nDefense +10%"
+    "tooltipDescription": "State enhanced to Phase 1 after absorbing a life form\nDefense +10%",
+    "level": "1"
   },
   "50001035--": {
     "name": "Life Form Absorption Phase 2",
-    "tooltipDescription": "After killing an absorbed creature, enhances to Stage 2.\nDefense increased by 20%."
+    "tooltipDescription": "After killing an absorbed creature, enhances to Stage 2.\nDefense increased by 20%.",
+    "level": "1"
   },
   "50001037--": {
     "name": "Lethal Frenzy Strike",
-    "tooltipDescription": "Absorbs the soul of the shadow,\nlaunching a powerful attack."
+    "tooltipDescription": "Absorbs the soul of the shadow,\nlaunching a powerful attack.",
+    "level": "1"
   },
   "50001040--": {
     "name": "Absorption State",
-    "tooltipDescription": "State of being absorbed into the Shadow Leopard's body, unable to act."
+    "tooltipDescription": "State of being absorbed into the Shadow Leopard's body, unable to act.",
+    "level": "1"
   },
   "50001044--": {
-    "name": "Curse Attack"
+    "name": "Curse Attack",
+    "tooltipDescription": "Greatly reduces the ATK of the target.",
+    "level": "1"
+  },
+  "50001047--": {
+    "name": "Shadow Spark State",
+    "tooltipDescription": "Harnesses the power of Shadow Spark.\nDEF +80%\nATK +30%",
+    "level": "1"
+  },
+  "50001048--": {
+    "name": "Shadow Spark State",
+    "level": "1",
+    "tooltipDescription": "Gained the power of Shadow Spark\nInflicts Shadow Spark Burn on the target\nDefense increased by 75%"
+  },
+  "50001052--": {
+    "name": "Defense Up",
+    "level": "1",
+    "tooltipDescription": "Defense increased by 40%\nCan stack up to 2 times"
   }
 }
