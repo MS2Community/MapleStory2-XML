@@ -6151,7 +6151,7 @@
     "locking": "1"
   },
   "10001004--": {
-    "name": "QUESTDESCRIPTION_10001004_NAME",
+    "name": "Their Hidden Story",
     "desc": "The royal steward $npc:11000492$ of $map:02000140$... As the person who oversaw all the preparations for the audience ceremony, they might know more about why it was canceled. Let's head to $map:02000140$ first.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001004_COMPLETE",
@@ -6162,12 +6162,12 @@
     "name": "QUESTDESCRIPTION_10001005_NAME",
     "desc": "It seems $npc:11000179$'s high opinion of $npc:11000492$ goes beyond a simple business referral. Watching $npc:11000492$ smile for everyone even while repeating the same words dozens of times in the middle of a hectic day makes it easy to see why not just $npcName:11000179$, but most people, would remember him fondly. If I head to $map:02000033$ and handle the checkout $npcName:11000179$ asked me to do, could I be remembered as a good person too, just like $npc:11000492$?   ",
     "manual": "QUESTDESCRIPTION_10001005_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001005_COMPLETE",
+    "complete": "Meet $npc:11000390$ in $map:02000033$ in $map:02000001$",
     "count": "1",
     "locking": "1"
   },
   "10001020--": {
-    "name": "QUESTDESCRIPTION_10001020_NAME",
+    "name": "A Recruit's Troubles",
     "desc": "Guard trainee $npc:11000169$ is quietly troubled by weapons that have vanished without a trace from the armory he's been guarding. He's barely left his post, and the lock was still firmly in place — so who took them, and how? As $npc:11000169$ said, the stolen weapons could turn up on the black market, so I should visit equipment merchant $npc:11000004$ at $map:02000001$ to check if any stolen weapons have come through.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001020_COMPLETE",
@@ -6183,7 +6183,7 @@
     "locking": "1"
   },
   "10001022--": {
-    "name": "QUESTDESCRIPTION_10001022_NAME",
+    "name": "The Origin of the Iron Ore",
     "desc": "$npc:11000365$ found a transaction record among the $item:30000018$ I retrieved, showing that $npc:11000173$ purchased iron ore from $npcName:11000171$, and handed it to me. $npc:11000171$, who runs a junk shop at $map:02000084$ — where would a mere junk dealer get a large supply of iron ore? I should head to $map:02000084$ and meet $npc:11000171$ first.",
     "manual": "QUESTDESCRIPTION_10001022_MANUAL",
     "complete": "QUESTDESCRIPTION_10001022_COMPLETE",
@@ -6191,7 +6191,7 @@
     "locking": "1"
   },
   "10001023--": {
-    "name": "QUESTDESCRIPTION_10001023_NAME",
+    "name": "The Delivery Truck's Whereabouts",
     "desc": "$npc:11000171$ said the Goldus delivery truck carrying the iron ore came from $map:02000001$. If that's true, $npc:11000012$ at $map:02000001$ might know where it was headed. Let's go to $map:02000001$ and meet $npc:11000012$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001023_COMPLETE",
@@ -6199,7 +6199,7 @@
     "locking": "1"
   },
   "10001024--": {
-    "name": "QUESTDESCRIPTION_10001024_NAME",
+    "name": "Suspicious Delivery",
     "desc": "After rummaging through the shipping records for a while, $npc:11000012$ finally found the entry. The truck's destination: 125 Royal Road, $map:02000064$! Who received the iron ore delivery? Let's head to $map:02000064$!",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001024_COMPLETE",
@@ -6207,7 +6207,7 @@
     "locking": "1"
   },
   "10001025--": {
-    "name": "QUESTDESCRIPTION_10001025_NAME",
+    "name": "The Truth Behind the Armory Theft",
     "desc": "A suspicious ledger found in $map:02000020$... It looks like records of transactions involving royal goods... For now, let's take the ledger and return to $map:02000001$ to meet $npc:11000169$.",
     "manual": "QUESTDESCRIPTION_10001025_MANUAL",
     "complete": "Return to $npc:11000169$ in $map:02000001$",
@@ -6215,7 +6215,7 @@
     "locking": "1"
   },
   "10001026--": {
-    "name": "QUESTDESCRIPTION_10001026_NAME",
+    "name": "To Nelf's Home!",
     "desc": "The home address for $npc:11000492$ that $npc:11000012$ found in the address book was 674 Flower Park, $map:02000119$. Let's find the house with the red roof in the Flower Park district. ",
     "manual": "",
     "complete": "Find and enter $map:02000122$ from $map:02000119$",
@@ -6223,9 +6223,9 @@
     "locking": "1"
   },
   "10001027--": {
-    "name": "QUESTDESCRIPTION_10001027_NAME",
+    "name": "A Mysterious Note",
     "desc": "Will I really be able to find clues to track Nelf's whereabouts inside $map:02000122$? Let's thoroughly search every corner of $map:02000122$, located in $map:02000119$, and find a lead on Nelf's whereabouts.",
-    "manual": "QUESTDESCRIPTION_10001027_MANUAL",
+    "manual": "Find clues in $map:02000119$ $map:02000122$ to track down Nelf's whereabouts",
     "complete": "Find $map:52000037$ in $map:02000043$ as noted",
     "count": "1",
     "locking": "1"
@@ -6233,7 +6233,7 @@
   "10001028--": {
     "name": "What Nelf Left Behind",
     "desc": "I came all the way to $map:52000037$ in $map:02000043$ marked on the crumpled memo, but... unfortunately, $npc:11000492$ was already dead. And a mysterious figure appeared at just the right moment, opened a secret door in the cave, and vanished. If I follow that person, maybe I can find a clue to unravel everything. Steady myself and follow the mysterious figure deeper into the cave.",
-    "manual": "QUESTDESCRIPTION_10001028_MANUAL",
+    "manual": "Chase the mysterious stranger who disappeared through the secret door in $map:52000037$ and find clues",
     "complete": "QUESTDESCRIPTION_10001028_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -6241,7 +6241,7 @@
   "10001029--": {
     "name": "QUESTDESCRIPTION_10001029_NAME",
     "desc": "After hearing about $npc:11000492$'s death and the mysterious notebook found nearby, $npc:11000169$ asked me to report everything I've investigated directly to $npc:11000119$. Let's go meet $npcName:11000119$ at $map:02000001$. ",
-    "manual": "QUESTDESCRIPTION_10001029_MANUAL",
+    "manual": "Retrieve the mysterious notebook from $npc:11000169$ in $map:02000001$",
     "complete": "QUESTDESCRIPTION_10001029_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -6250,15 +6250,15 @@
     "name": "Monkey Trouble",
     "desc": "At $map:02000064$, it seems $npc:21000055$ that wander over from $map:02000017$ sometimes cause trouble by stealing residents' belongings and ransacking homes. $npc:11000172$'s $item:30000019$ was likely stolen by $npc:21000055$ from $map:02000017$ as well. Apparently they hide inedible objects in tree branches in the forest, so let's shake the trees in $map:02000017$ to find the $item:30000019$!",
     "manual": "Find $item:30000019$ among the branches in $map:02000017$",
-    "complete": "QUESTDESCRIPTION_10001030_COMPLETE",
+    "complete": "Return $item:30000019$ to $npc:11000172$ in $map:02000064$",
     "count": "1",
     "locking": "1"
   },
   "10001031--": {
-    "name": "QUESTDESCRIPTION_10001031_NAME",
+    "name": "A Secret Between Two",
     "desc": "$npc:11000172$ of $map:02000064$ reluctantly agreed to open the door to $map:02000020$. I should quickly look around $map:02000020$ and come back out.",
     "manual": "Enter $map:02000020$ from $map:02000064$",
-    "complete": "QUESTDESCRIPTION_10001031_COMPLETE",
+    "complete": "Meet $npc:11000172$ in $map:02000064$",
     "count": "0",
     "locking": "1"
   },
@@ -47034,10 +47034,12 @@
     "name": "Daily Mission: Today's Partner"
   },
   "80010621-Event-CN": {
-    "desc": "Find today's buddy in Maple World and complete the tag mission!"
+    "desc": "Find today's buddy in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
   },
   "80010620-Event-CN": {
-    "desc": "Find today's buddy in Maple World and complete the tag mission!"
+    "desc": "Find today's buddy in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
   },
   "89010376-Event-CN": {
     "manual": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times",
@@ -47158,5 +47160,28 @@
   },
   "80010340-Event-CN": {
     "desc": "Defeat the following bosses to collect the letters '$item:30001327$', '$item:30001328$', '$item:30001329$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+  },
+  "89010382-Event-CN": {
+    "manual": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 1 time\n\nComplete Babi's weekly quest 1 time",
+    "name": "Complete $npcName:11001003$'s Weekly Quest 1 Time",
+    "complete": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 1 time\n\nComplete Babi's weekly quest 1 time"
+  },
+  "89010378-Event-CN": {
+    "name": "Complete Arikari Merchant Guild Daily Quests 5 Times"
+  },
+  "89010383-Event-CN": {
+    "manual": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 3 times\n\nComplete Babi's weekly quest 3 times",
+    "complete": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 3 times\n\nComplete Babi's weekly quest 3 times",
+    "name": "Complete $npcName:11001003$'s Weekly Quest 3 Times"
+  },
+  "89010392-Event-CN": {
+    "name": "Complete Arikari Merchant Guild Daily Quests 2 Times",
+    "manual": "Complete Arikari Merchant Guild daily quests in $map:02000064$",
+    "complete": "Completed Arikari Merchant Guild daily quests 2 times in $map:02000064$"
+  },
+  "89010412-Event-CN": {
+    "manual": "Complete Arikari Merchant Guild daily quests in $map:02000064$",
+    "complete": "Completed Arikari Merchant Guild daily quests 1 time in $map:02000064$",
+    "name": "Complete Arikari Merchant Guild Daily Quests 1 Time"
   }
 }
