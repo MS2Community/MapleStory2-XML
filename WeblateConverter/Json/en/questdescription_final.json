@@ -8608,15 +8608,15 @@
   },
   "10002877--": {
     "name": "QUESTDESCRIPTION_10002877_NAME",
-    "desc": "QUESTDESCRIPTION_10002877_DESC",
+    "desc": "$npcName:11000508$ from $map:02000203$ is looking for me.\nLet's go meet her.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002877_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10002878--": {
-    "name": "QUESTDESCRIPTION_10002878_NAME",
-    "desc": "QUESTDESCRIPTION_10002878_DESC",
+    "name": "Good Tidings",
+    "desc": "$npc:11000119$ from $map:02000001$ is looking for me.\nLet's go meet him.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002878_COMPLETE",
     "count": "0",
@@ -8624,7 +8624,7 @@
   },
   "10002879--": {
     "name": "QUESTDESCRIPTION_10002879_NAME",
-    "desc": "QUESTDESCRIPTION_10002879_DESC",
+    "desc": "Dark Wind Captain $npcName:11000044$ is looking for me.\nLet's head to $map:02000152$ in $map:02000100$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002879_COMPLETE",
     "count": "0",
@@ -8640,7 +8640,7 @@
   },
   "10002881--": {
     "name": "QUESTDESCRIPTION_10002881_NAME",
-    "desc": "QUESTDESCRIPTION_10002881_DESC",
+    "desc": "$npc:11000076$ from $map:02000146$ is looking for me.\nLet's go meet him.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002881_COMPLETE",
     "count": "0",
@@ -8648,7 +8648,7 @@
   },
   "10002882--": {
     "name": "QUESTDESCRIPTION_10002882_NAME",
-    "desc": "QUESTDESCRIPTION_10002882_DESC",
+    "desc": "$npc:11000076$ from $map:02000146$ is looking for me.\nLet's go meet him.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002882_COMPLETE",
     "count": "0",
@@ -8664,7 +8664,7 @@
   },
   "10002884--": {
     "name": "QUESTDESCRIPTION_10002884_NAME",
-    "desc": "QUESTDESCRIPTION_10002884_DESC",
+    "desc": "Let's find $npcName:11000613$ at $map:03009022$ in the dark land $map:03000135$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002884_COMPLETE",
     "count": "0",
@@ -8856,7 +8856,7 @@
   },
   "10002908--": {
     "name": "QUESTDESCRIPTION_10002908_NAME",
-    "desc": "QUESTDESCRIPTION_10002908_DESC",
+    "desc": "Master $npcName:11001229$ is looking for me.\nLet's head to $map:52000018$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002908_COMPLETE",
     "count": "0",
@@ -8872,7 +8872,7 @@
   },
   "10002910--": {
     "name": "QUESTDESCRIPTION_10002910_NAME",
-    "desc": "QUESTDESCRIPTION_10002910_DESC",
+    "desc": "Master $npcName:11001229$ is looking for me.\nLet's head to $map:52000018$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002910_COMPLETE",
     "count": "0",
@@ -8880,7 +8880,7 @@
   },
   "10002911--": {
     "name": "QUESTDESCRIPTION_10002911_NAME",
-    "desc": "QUESTDESCRIPTION_10002911_DESC",
+    "desc": "$npc:11000005$ from $map:02000031$ is looking for me.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002911_COMPLETE",
     "count": "0",
@@ -8888,7 +8888,7 @@
   },
   "10002912--": {
     "name": "QUESTDESCRIPTION_10002912_NAME",
-    "desc": "QUESTDESCRIPTION_10002912_DESC",
+    "desc": "$npcName:11001280$, staying at $map:02000361$, is looking for me.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002912_COMPLETE",
     "count": "0",
@@ -8922,15 +8922,15 @@
     "name": "QUESTDESCRIPTION_10002920_NAME",
     "desc": "QUESTDESCRIPTION_10002920_DESC",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002920_COMPLETE",
+    "complete": "Go to $map:02000139$ and observe the Balota merchant guild's movements",
     "count": "0",
     "locking": "1"
   },
   "10002921--": {
     "name": "QUESTDESCRIPTION_10002921_NAME",
-    "desc": "QUESTDESCRIPTION_10002921_DESC",
+    "desc": "$npc:11000208$ says an urgent message has arrived asking me to return to $map:02000153$ right away.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002921_COMPLETE",
+    "complete": "Return to $map:02000153$",
     "count": "0",
     "locking": "1"
   },
@@ -9312,7 +9312,7 @@
   },
   "10003020-Striker-": {
     "name": "QUESTDESCRIPTION_10003020_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_10003020_DESC:[F]Striker",
+    "desc": "$npcName:11000515$ sensed something suspicious about the recent unrest in the back alleys. Upon investigating, they discovered that a secret gathering of faction leaders had taken place in $map:02000001$ by order of the Empress.\nLet's meet $npc:11000050$ at $map:02000188$ in $map:02000001$ to learn why the secret gathering was held.",
     "manual": "",
     "complete": "Meet $npc:11000050$ at $map:02000001$'s $map:02000188$",
     "count": "0",
@@ -9320,7 +9320,7 @@
   },
   "10003021-Striker-": {
     "name": "QUESTDESCRIPTION_10003021_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_10003021_DESC:[F]Striker",
+    "desc": "$npc:11000050$ tells me the story of how everyone joined forces to form the Starlight Expedition to stop the Rune Blader traitor $npcName:11001231$.\nThe place they'll pursue $npcName:11001231$ is the Rune Sanctuary, where the ancient $npc:23000078$ is said to slumber!\nLet's go to $map:02000112$ and find the entrance to the Rune Sanctuary.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10003021_COMPLETE:[F]Striker",
     "count": "0",
@@ -9328,15 +9328,15 @@
   },
   "10003030-SoulBinder-": {
     "name": "QUESTDESCRIPTION_10003030_NAME:[F]SoulBinder",
-    "desc": "QUESTDESCRIPTION_10003030_DESC:[F]SoulBinder",
+    "desc": "$npcName:11000003$ says there are rumors of a secret gathering of faction leaders in $map:02000001$.\nLet's meet $npc:11000119$ in $map:02000001$ to find out why the secret gathering was held.",
     "manual": "",
     "complete": "Meet $npc:11000119$ at $map:02000001$",
     "count": "0",
     "locking": "1"
   },
   "10003031-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_10003031_NAME:[F]SoulBinder",
-    "desc": "QUESTDESCRIPTION_10003031_DESC:[F]SoulBinder",
+    "name": "The Veiled Sanctuary",
+    "desc": "$npc:11000119$ tells me the story of how everyone joined forces to form the Starlight Expedition to stop the Rune Blader traitor $npcName:11001231$.\nThe place they'll pursue $npcName:11001231$ is the Rune Sanctuary, where the ancient $npc:23000078$ is said to slumber!\nLet's go to $map:02000112$ and find the entrance to the Rune Sanctuary.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10003031_COMPLETE:[F]SoulBinder",
     "count": "0",
@@ -9344,14 +9344,14 @@
   },
   "10003060--": {
     "name": "QUESTDESCRIPTION_10003060_NAME",
-    "desc": "QUESTDESCRIPTION_10003060_DESC",
+    "desc": "$npcName:11000424$ from $map:02000100$ says she keeps hearing what might be a hallucination — a young child crying from somewhere far away.\nCould it be because of her grief-stricken heart after losing her granddaughter?... Who is the one whose cries are reaching the old woman's ears?\nLet's follow wherever the sound of crying leads.",
     "manual": "QUESTDESCRIPTION_10003060_MANUAL",
     "complete": "QUESTDESCRIPTION_10003060_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10003061--": {
-    "name": "QUESTDESCRIPTION_10003061_NAME",
+    "name": "Returning to Nature",
     "desc": "QUESTDESCRIPTION_10003061_DESC",
     "manual": "QUESTDESCRIPTION_10003061_MANUAL",
     "complete": "QUESTDESCRIPTION_10003061_COMPLETE",
@@ -9360,7 +9360,7 @@
   },
   "10003062--": {
     "name": "QUESTDESCRIPTION_10003062_NAME",
-    "desc": "QUESTDESCRIPTION_10003062_DESC",
+    "desc": "$npc:11000623$, who runs a shop in $map:02000203$, says rampant stolen goods trading is disrupting the market. They ask me to go to $dungeonTitle:21005001$, a known hotspot for such trade, and find out if the rumors are true.",
     "manual": "QUESTDESCRIPTION_10003062_MANUAL",
     "complete": "QUESTDESCRIPTION_10003062_COMPLETE",
     "count": "0",
@@ -9368,7 +9368,7 @@
   },
   "10003063--": {
     "name": "QUESTDESCRIPTION_10003063_NAME",
-    "desc": "QUESTDESCRIPTION_10003063_DESC",
+    "desc": "$npc:11000007$, supporting the Guardian Force in $map:02000146$, looks troubled and explains that all the chickens at $npcName:11001835$'s poultry farm have gone missing. Unable to leave their post, they ask me to go to $map:02000087$ and help $npcName:11001835$ in their place.",
     "manual": "QUESTDESCRIPTION_10003063_MANUAL",
     "complete": "QUESTDESCRIPTION_10003063_COMPLETE",
     "count": "0",
@@ -9384,7 +9384,7 @@
   },
   "10003065--": {
     "name": "QUESTDESCRIPTION_10003065_NAME",
-    "desc": "QUESTDESCRIPTION_10003065_DESC",
+    "desc": "$npc:11000007$, supporting the Guardian Force in $map:02000146$, tells me that children who were playing in the $map:02000023$ forest haven't come home for over half a day. They ask me to go to $dungeonTitle:25004001$ and find the children to safely send them home.",
     "manual": "QUESTDESCRIPTION_10003065_MANUAL",
     "complete": "QUESTDESCRIPTION_10003065_COMPLETE",
     "count": "0",
@@ -9744,7 +9744,7 @@
   },
   "20001021--": {
     "name": "QUESTDESCRIPTION_20001021_NAME",
-    "desc": "QUESTDESCRIPTION_20001021_DESC",
+    "desc": "Based on what guard Steve from $map:02000147$ said, it seems $npc:99000039$ dug up the capsule and climbed up into the trees.",
     "manual": "QUESTDESCRIPTION_20001021_MANUAL",
     "complete": "",
     "count": "1",
@@ -9896,7 +9896,7 @@
   },
   "20001390--": {
     "name": "QUESTDESCRIPTION_20001390_NAME",
-    "desc": "QUESTDESCRIPTION_20001390_DESC",
+    "desc": "A mysterious letter of instructions found by chance.\nChecking the contents, it contains records of events occurring in $map:03000145$.\nLet's find $npc:11000910$ in $map:03000145$ to learn more about the incident.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001390_COMPLETE",
     "count": "",
@@ -9904,7 +9904,7 @@
   },
   "20001391--": {
     "name": "QUESTDESCRIPTION_20001391_NAME",
-    "desc": "QUESTDESCRIPTION_20001391_DESC",
+    "desc": "$npc:11000910$ tells me about a conspiracy unfolding inside $map:03000145$.\nTo stop Dr. Rokel's dangerous research, let's go to $npc:11000911$ in $map:03000145$ and ask for help.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001391_COMPLETE",
     "count": "",
