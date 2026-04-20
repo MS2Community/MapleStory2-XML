@@ -9961,7 +9961,7 @@
   "20001930--": {
     "name": "QUESTDESCRIPTION_20001930_NAME",
     "desc": "$npc:11001130$ found $item:30000385$, a rare herb that is nearly impossible to obtain, but the joy was short-lived. Apparently, they nearly died after entering $map:52000037$ to collect $item:30000385$ without knowing the danger.\nLet's enter $map:52000037$ on behalf of $npc:11001130$ and collect $item:30000385$.",
-    "manual": "QUESTDESCRIPTION_20001930_MANUAL",
+    "manual": "Go into $map:52000037$ and gather $item:30000385$",
     "complete": " Speak with $npc:11001130$ in $map:02000043$",
     "count": "1",
     "locking": "1"
@@ -9999,7 +9999,7 @@
     "locking": "1"
   },
   "20001960--": {
-    "name": "QUESTDESCRIPTION_20001960_NAME",
+    "name": "Rare Leather",
     "desc": "$npc:11001139$, who roams the country searching for rare hides, finally discovers a rare hide that is just perfect after a long dry spell. Lacking the confidence to face such ferocious monsters to tan the hide, $npc:11001139$ asks you to obtain $item:30000387$ from $npc:21000026$ and $item:30000388$ from $npc:21000067$ in $map:02000054$. ",
     "manual": "Hunt $npc:21000026$ in $map:02000054$ to obtain $item:30000387$|Hunt $npc:21000067$ in $map:02000054$ to obtain $item:30000388$",
     "complete": "QUESTDESCRIPTION_20001960_COMPLETE",
@@ -10025,7 +10025,7 @@
   "20002111--": {
     "name": "QUESTDESCRIPTION_20002111_NAME",
     "desc": "$npc:11001375$ readily hands over $item:30000481$, saying that with $item:30000480$, they can give you the car without any inspection or contract procedures. ",
-    "manual": "QUESTDESCRIPTION_20002111_MANUAL",
+    "manual": "Reassemble the limited edition sports car on display at the Special Booth and bring it back",
     "complete": "Speak with $npc:11001374$",
     "count": "0",
     "locking": "1"
@@ -10073,7 +10073,7 @@
   "20002230--": {
     "name": "QUESTDESCRIPTION_20002230_NAME",
     "desc": "$npcName:11001232$ brings news that $npcName:11001229$ is returning. $npcName:11001229$ urgently needs to find something and has gone to $map:52000021$, a place they visited before. Let's head to $map:52000021$ to meet $npcName:11001229$.",
-    "manual": "QUESTDESCRIPTION_20002230_MANUAL",
+    "manual": "Go to $map:52000021$ in $map:02000082$ at $map:02000059$ and meet $npcName:11001229$",
     "complete": "Return to $map:02000361$",
     "count": "0",
     "locking": "1"
@@ -10097,7 +10097,7 @@
   "20002233--": {
     "name": "QUESTDESCRIPTION_20002233_NAME",
     "desc": "$npcName:11000031$ hears that the Runebladers and expedition will arrive in $map:02000063$, and worries that pirates are rampant there and the group won't return safely. $npcName:11000031$ orders you to go to $map:02000063$, confirm the safety of the companions, and bring everyone back to $map:02000023$.\nLet's go to $map:02000063$ and check on the safety of the Runeblade companions.",
-    "manual": "QUESTDESCRIPTION_20002233_MANUAL",
+    "manual": "Go to $map:02000063$ and check on your companions' survival",
     "complete": "Speak with $npcName:11001229$ in $map:52000024$",
     "count": "0",
     "locking": "1"
@@ -10106,7 +10106,7 @@
     "name": "QUESTDESCRIPTION_20002234_NAME",
     "desc": "The ship that $npcName:11001230$ and the expedition arrived on was thrown into chaos by a pirate raid the moment it docked at $map:02000063$, with injured expedition members fallen everywhere.\n$npcName:11001232$ says to leave the injured $npcName:11001233$ and the wrecked ship to them, and asks you to help $npcName:11001229$ eliminate the pirates' hideout and reclaim the stolen ancient tome and supplies.\nLet's find the pirates' hideout in the cave on the outskirts of Cheliska Coast!",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_20002234_COMPLETE",
+    "complete": "Find the pirate base near the cave on the outskirts of $map:02000063$",
     "count": "0",
     "locking": "1"
   },
@@ -10184,7 +10184,7 @@
   },
   "20002244--": {
     "name": "A Promise Full of Hope",
-    "desc": "QUESTDESCRIPTION_20002244_DESC",
+    "desc": "$npcName:11000006$ promises to select the finest Assassins and send them to $map:02000023$ to join the Starlight Expedition, as a reward for safely rescuing the Humplus members.\nReturn to $npcName:11001229$, your mentor, at $map:02000179$ in $map:02000023$ and report the news.",
     "manual": "",
     "complete": "Speak with $npcName:11001229$ at $map:02000023$ $map:02000179$",
     "count": "0",
@@ -10192,7 +10192,7 @@
   },
   "20002245--": {
     "name": "QUESTDESCRIPTION_20002245_NAME",
-    "desc": "QUESTDESCRIPTION_20002245_DESC",
+    "desc": "$npcName:11000031$ says they have finished decoding one of the ancient texts brought from Kaliv Island. They say they found the location where clues about the true nature of the 'Ultimate Transcendence' are stored, and that the coordinates in the book point to $map:02000129$.\nGo to $map:02000129$ and look for any clues left by the ancient Runeblader ancestors, then return to $map:52000028$.",
     "manual": "Search for clues in $map:02000129$ to find out the truth behind the Ultimate Transcendence",
     "complete": "Speak with $npcName:11000031$ in $map:52000028$",
     "count": "1",
@@ -10208,8 +10208,8 @@
   },
   "20002251--": {
     "name": "QUESTDESCRIPTION_20002251_NAME",
-    "desc": "QUESTDESCRIPTION_20002251_DESC",
-    "manual": "QUESTDESCRIPTION_20002251_MANUAL",
+    "desc": "$npcName:11001230$ asks you to follow $npcName:11001229$, who is departing with the advance team, and look after them well, as they will gather the expedition and join as the rear guard after a final check.\nFollow $npcName:11001229$ to $map:02000112$ and find the entrance to $map:52000029$.",
+    "manual": "Go to $map:02000112$ and find the entrance to $map:52000029$",
     "complete": "Speak with $npcName:11000032$ at $map:02000023$ $map:02000179$",
     "count": "0",
     "locking": "1"
@@ -10224,7 +10224,7 @@
   },
   "20002261--": {
     "name": "QUESTDESCRIPTION_20002261_NAME",
-    "desc": "QUESTDESCRIPTION_20002261_DESC",
+    "desc": "$npcName:11001232$ tells you that since returning from the Dark Lands, $npcName:11001229$ had been quietly preparing a gift for their student.\nFind and open the box neatly placed under the tree in $map:02000179$.",
     "manual": "QUESTDESCRIPTION_20002261_MANUAL",
     "complete": "Speak with $npcName:11000031$ at $map:02000023$ $map:02000179$",
     "count": "1",
@@ -10233,7 +10233,7 @@
   "20002262--": {
     "name": "QUESTDESCRIPTION_20002262_NAME",
     "desc": "QUESTDESCRIPTION_20002262_DESC",
-    "manual": "QUESTDESCRIPTION_20002262_MANUAL",
+    "manual": "Complete all Kerning City defense missions\n<font color=\"#909090\">Can re-enter via quest dialogue during the quest</font>",
     "complete": "QUESTDESCRIPTION_20002262_COMPLETE",
     "count": "0",
     "locking": "1"
@@ -11272,7 +11272,7 @@
   },
   "40001060--": {
     "name": "Misplaced Book",
-    "desc": "QUESTDESCRIPTION_40001060_DESC",
+    "desc": "It seems someone placed a book they were reading on the wrong shelf. $npc:11000670$ appears displeased with its new home.\nTake $item:30000082$ from the bookshelf at the library entrance and move it to its original shelf. The original shelf is locked, so you'll need to take the key from $npc:21000216$.\nCould it be that whoever was reading the book shelved it just anywhere because the proper shelf was locked?",
     "manual": "QUESTDESCRIPTION_40001060_MANUAL",
     "complete": "QUESTDESCRIPTION_40001060_COMPLETE",
     "count": "1|1",
@@ -11280,7 +11280,7 @@
   },
   "40001130--": {
     "name": "QUESTDESCRIPTION_40001130_NAME",
-    "desc": "QUESTDESCRIPTION_40001130_DESC",
+    "desc": "For some reason, the royal guard dispatched to $map:02000118$ is experiencing a food shortage. They've even asked $npc:11000546$ to bring food...\n$npcName:11000546$, who doesn't normally deal in food, says they'll need to stop by town to find supplies and will arrive at the guard base later than planned. Report this news to $npc:11000157$.\nAlso, defeat the monsters in $map:02000118$ so $npcName:11000546$ can get to the guard base a little faster.",
     "manual": "QUESTDESCRIPTION_40001130_MANUAL",
     "complete": "Meet $npc:11000157$ at $map:02000118$",
     "count": "1",
@@ -11288,9 +11288,9 @@
   },
   "40001150--": {
     "name": "QUESTDESCRIPTION_40001150_NAME",
-    "desc": "QUESTDESCRIPTION_40001150_DESC",
+    "desc": "$npc:11000795$ is worried that their stock of $item:30000244$ has decreased even though none have been sold.\nThey fear they may have to cover the shortage out of pocket.\nSomeone reportedly saw $npc:21000013$ stealing $item:30000244$, so let's retrieve $item:30000244$ from $npc:21000013$ and bring it back to $npc:11000795$.",
     "manual": "QUESTDESCRIPTION_40001150_MANUAL",
-    "complete": "QUESTDESCRIPTION_40001150_COMPLETE",
+    "complete": "Bring $item:30000244$ to $npc:11000795$ in $map:02000209$",
     "count": "1",
     "locking": "1"
   },
@@ -11312,7 +11312,7 @@
   },
   "40001170--": {
     "name": "QUESTDESCRIPTION_40001170_NAME",
-    "desc": "QUESTDESCRIPTION_40001170_DESC",
+    "desc": "The fruit shop in $map:02000138$ is crawling with flies instead of customers. The swarm buzzing around the fruit is even driving away passersby.\nThe fruit seller $npc:11000867$ is distraught, certain the flies have built a nest under the drain.\nReceive $item:30000246$ from $npc:11000867$ and sprinkle it under the drain cover to drive the flies away.",
     "manual": "QUESTDESCRIPTION_40001170_MANUAL",
     "complete": "QUESTDESCRIPTION_40001170_COMPLETE",
     "count": "1|1",
@@ -11320,7 +11320,7 @@
   },
   "40001180--": {
     "name": "QUESTDESCRIPTION_40001180_NAME",
-    "desc": "QUESTDESCRIPTION_40001180_DESC",
+    "desc": "$npc:11000211$ says they readily agreed when a stranger asked them to hide an unidentified bag — they couldn't refuse the promise of a large Meso reward.\nBut after agreeing, they feel uneasy for some reason. Worse, some monsters apparently witnessed $npc:11000211$ hiding the bag. $npc:11000211$ asks you to silence the monsters before word gets out!\nLet's reluctantly grant the request for the anxious $npc:11000211$.",
     "manual": "QUESTDESCRIPTION_40001180_MANUAL",
     "complete": "QUESTDESCRIPTION_40001180_COMPLETE",
     "count": "1",
@@ -11328,7 +11328,7 @@
   },
   "40001181--": {
     "name": "QUESTDESCRIPTION_40001181_NAME",
-    "desc": "QUESTDESCRIPTION_40001181_DESC",
+    "desc": "Has the worry become reality? $npc:11000211$ says they were badly beaten after lying to the Black Star Guild, who suddenly demanded to know the bag's whereabouts.\n$npc:11000867$ supposedly has a good remedy for bruises, so let's go meet $npc:11000867$ for the sake of the aching $npc:11000211$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40001181_COMPLETE",
     "count": "",
@@ -11336,17 +11336,17 @@
   },
   "40001182--": {
     "name": "QUESTDESCRIPTION_40001182_NAME",
-    "desc": "QUESTDESCRIPTION_40001182_DESC",
+    "desc": "$npc:11000867$ says they need to make the medicine from scratch and asks you to gather the necessary ingredients.\nThe ingredient they need is none other than $npc:21000161$'s hair ornament!\nObtain $item:30000247$ from $npc:21000161$ in $map:02000138$ and bring it to $npc:11000867$.",
     "manual": "QUESTDESCRIPTION_40001182_MANUAL",
-    "complete": "QUESTDESCRIPTION_40001182_COMPLETE",
+    "complete": "Bring $item:30000247$ to $npc:11000867$ in $map:02000138$",
     "count": "1",
     "locking": "1"
   },
   "40001183--": {
     "name": "QUESTDESCRIPTION_40001183_NAME",
-    "desc": "QUESTDESCRIPTION_40001183_DESC",
+    "desc": "Another ingredient needed to make $npc:11000867$'s special remedy is $item:30000248$!\n$npc:11000867$ says they threw away unsold $item:30000248$ in the trash, and rummaging through it should yield enough to make the medicine.\nReluctantly, search through the trash in $map:02000138$ to obtain $item:30000248$, then bring it to $npc:11000867$.",
     "manual": "QUESTDESCRIPTION_40001183_MANUAL",
-    "complete": "QUESTDESCRIPTION_40001183_COMPLETE",
+    "complete": "Bring $item:30000248$ to $npc:11000867$ in $map:02000138$",
     "count": "1",
     "locking": "1"
   },
