@@ -24931,5 +24931,2619 @@
   "10900284|12-JobChange_02-": {
     "name": "Amplified Storm",
     "tooltipDescription": "The flow of electric magic intensifies! Increases electric damage by 96%."
+  },
+  "40005011--": {
+    "name": "Poison Powder",
+    "tooltipDescription": "Inhaled a strange powder and got poisoned!\nContinuously takes poison damage",
+    "level": "1"
+  },
+  "40006011--": {
+    "name": "Confusion Powder",
+    "tooltipDescription": "Inhaled a strange powder, mind falling into a stupor!\nStunned, unable to move",
+    "level": "1"
+  },
+  "40007011--": {
+    "name": "Paralysis Powder",
+    "tooltipDescription": "Inhaled a strange powder, legs feel weak!\nMovement Speed -40%\nContinuously takes poison damage",
+    "level": "1"
+  },
+  "40010001--": {
+    "name": "Vine Snare",
+    "tooltipDescription": "Feet caught in vines!\nMovement Speed -30%",
+    "level": "1"
+  },
+  "40046011--": {
+    "name": "Lethal Poison",
+    "tooltipDescription": "Hit by lethal poison, body grows weak...\nMovement Speed -40%\nContinuously takes poison damage",
+    "level": "1"
+  },
+  "40196002--": {
+    "name": "Choking Smoke",
+    "tooltipDescription": "Blinded by choking smoke!\nAccuracy -30%",
+    "level": "1"
+  },
+  "40106011--": {
+    "name": "Piercing Laser",
+    "tooltipDescription": "Hit by a laser, unable to move freely!\nMovement Speed -30%",
+    "level": "1"
+  },
+  "40230011--": {
+    "name": "Frost Spit",
+    "tooltipDescription": "Hit by frost spit, body stiffens!\nMovement Speed -40%",
+    "level": "1"
+  },
+  "40234001--": {
+    "name": "Icy Paw Strike",
+    "tooltipDescription": "Hit by an ice-cold paw attack, body stiffens!\nMovement Speed -40%",
+    "level": "1"
+  },
+  "40231011--": {
+    "name": "Scorpion Venom",
+    "tooltipDescription": "Afflicted by scorpion venom!\nContinuously takes poison damage",
+    "level": "1"
+  },
+  "40339011--": {
+    "name": "Silence",
+    "tooltipDescription": "Unable to use skills.",
+    "level": "1"
+  },
+  "40319001--": {
+    "name": "Fireball Attack",
+    "tooltipDescription": "Engulfed in flames!\nTaking continuous fire damage.",
+    "level": "1"
+  },
+  "40361102-GuildRaid01-": {
+    "name": "Poison",
+    "tooltipDescription": "Deals poison damage per second.\nMovement speed reduced by 50%.",
+    "level": "1"
+  },
+  "40442001-PirateOcean-": {
+    "name": "Water in Ears",
+    "tooltipDescription": "Water got into your ears.\nYou can no longer hear the sound of the harp.",
+    "level": "1"
+  },
+  "40442002-PirateOcean-": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "40442003-PirateOcean-": {
+    "name": "Enrage",
+    "tooltipDescription": "Filled with rage upon seeing a fallen companion.\nAttack power increased by 100%.",
+    "level": "1"
+  },
+  "40442042-PirateOcean-": {
+    "name": "Sleep",
+    "tooltipDescription": "Temporarily unable to act.",
+    "level": "1"
+  },
+  "40442043-PirateOcean-": {
+    "name": "Confusion",
+    "tooltipDescription": "Confused and may attack allies.\nPhysical and magic attack power reduced.",
+    "level": "1"
+  },
+  "40500003-PirateOcean-": {
+    "name": "Movement Speed Reduced",
+    "tooltipDescription": "Movement speed reduced by 45%.",
+    "level": "1"
+  },
+  "40500010-PirateOcean-": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to act.",
+    "level": "1"
+  },
+  "40500011-PirateOcean-": {
+    "name": "Rage",
+    "tooltipDescription": "In a rage state.\nAttack power is increased in this state.",
+    "level": "1"
+  },
+  "40500013-PirateOcean-": {
+    "name": "Sleep",
+    "tooltipDescription": "Unable to act while sleeping.",
+    "level": "1"
+  },
+  "40500014-PirateOcean-": {
+    "name": "Confusion",
+    "tooltipDescription": "Confused and may attack allies.\nPhysical and magical attack power reduced.",
+    "level": "1"
+  },
+  "40500045-SnowKingdom-": {
+    "name": "Defense Up",
+    "tooltipDescription": "Gains a shield defense effect.\nDefense greatly increased.",
+    "level": "1"
+  },
+  "40500049--": {
+    "level": "1",
+    "name": "Bitter Frost",
+    "tooltipDescription": "Enveloped in cold as sharp as a blade.\nMovement speed reduced.\nAfter stacking 3 times, the cold will explode."
+  },
+  "40500050--": {
+    "level": "1",
+    "name": "Frost Explosion",
+    "tooltipDescription": "The frost explodes, causing loss of consciousness."
+  },
+  "40501002-PirateOcean-": {
+    "level": "1",
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power is increased by the Aura."
+  },
+  "40501001-PirateOcean-": {
+    "level": "1",
+    "name": "Aura of Attack Power Boost",
+    "tooltipDescription": "Activates the Aura of Attack Power Boost, increasing the attack power of nearby allies."
+  },
+  "40501003-PirateOcean-": {
+    "level": "1",
+    "name": "Aura of HP Regeneration",
+    "tooltipDescription": "Activates the Aura of HP Regeneration, continuously restoring the HP of nearby allies."
+  },
+  "40501004-PirateOcean-": {
+    "level": "1",
+    "name": "HP Regeneration",
+    "tooltipDescription": "HP is continuously restored by the Aura."
+  },
+  "40501006-PirateOcean-": {
+    "level": "1",
+    "name": "Aura of Stats Boost",
+    "tooltipDescription": "Activates the Aura of Stats Boost, increasing the attack power and attack speed of nearby allies while continuously restoring their HP."
+  },
+  "40501011-PirateOcean-": {
+    "level": "1",
+    "name": "Flame Explosion Incoming",
+    "tooltipDescription": "A massive explosion is about to occur, dealing damage."
+  },
+  "40501007-PirateOcean-": {
+    "level": "1",
+    "name": "Attack Power, Attack Speed & HP Regen",
+    "tooltipDescription": "Attack power and attack speed are increased by the Aura, with HP continuously restored."
+  },
+  "40501013-PirateOcean-": {
+    "level": "1",
+    "name": "Bind Incoming",
+    "tooltipDescription": "Massive damage is incoming, followed by a bind."
+  },
+  "40501012-PirateOcean-": {
+    "level": "1",
+    "name": "Stunned",
+    "tooltipDescription": "The Flame Explosion inflicts 3 seconds of stun."
+  },
+  "40501014-PirateOcean-": {
+    "level": "1",
+    "name": "Bound",
+    "tooltipDescription": "Bound and unable to move."
+  },
+  "40600010-PirateOcean-": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "40600101-Season1-": {
+    "name": "Enrage",
+    "tooltipDescription": "In a state of fury.\nReduces damage taken by 50% and increases attack speed.",
+    "level": "1"
+  },
+  "40600013-PirateOcean-": {
+    "name": "Sleep",
+    "tooltipDescription": "Unable to move while asleep.",
+    "level": "1"
+  },
+  "40600014-PirateOcean-": {
+    "name": "Confusion",
+    "tooltipDescription": "Confused, may attack allies.\nPhysical and magic attack power reduced.",
+    "level": "1"
+  },
+  "40600045-PirateOcean-": {
+    "tooltipDescription": "Gaining a shield defense effect,\ndefense power greatly increased.",
+    "name": "Defense Up",
+    "level": "1"
+  },
+  "42030121-Fieldwar01-": {
+    "name": "Confusion",
+    "tooltipDescription": "Movement direction reversed.",
+    "level": "1"
+  },
+  "42030101-Fieldwar01-": {
+    "name": "Slow",
+    "tooltipDescription": "Movement speed reduced.",
+    "level": "1"
+  },
+  "42030111-Fieldwar01-": {
+    "name": "Slow",
+    "tooltipDescription": "Movement speed reduced.",
+    "level": "1"
+  },
+  "42030263-Kritias_Paika01-": {
+    "name": "Electrocution",
+    "tooltipDescription": "Struck by electrical current, entering an electrocuted state.",
+    "level": "1"
+  },
+  "42030261-Kritias_Paika01-": {
+    "name": "Stun",
+    "tooltipDescription": "Shocked by electricity, temporarily incapacitated.\nCan be hit harder.",
+    "level": "1"
+  },
+  "50200001--": {
+    "tooltipDescription": "Deals damage over time and reduces healing received."
+  },
+  "61100111--": {
+    "tooltipDescription": "Defense decreased by 0.3%\nCan stack up to 10 times"
+  },
+  "62100012-LapentaDungeon-": {
+    "tooltipDescription": "Inflicted with bleeding from a piercing strike.\nTakes 0.5% damage every second."
+  },
+  "70000151--": {
+    "tooltipDescription": "Your body is frozen stiff by the cold!\nMovement Speed reduced by 25% every 0.5 sec."
+  },
+  "70000018--": {
+    "tooltipDescription": "Restores 3% of max HP every 0.5 sec."
+  },
+  "90000080--": {
+    "name": "Premium EXP 1.5x Coupon",
+    "tooltipDescription": "EXP earned from hunting/fishing/performing is increased by 1.5x."
+  },
+  "90000079--": {
+    "name": "EXP 1.5x Coupon",
+    "tooltipDescription": "EXP earned from hunting/fishing/performing is increased by 1.5x."
+  },
+  "90000242--": {
+    "tooltipDescription": "Physical Resistance Penetration increased by 4.3%."
+  },
+  "90000330--": {
+    "name": "EXP 1.5x Coupon",
+    "tooltipDescription": "Gain 1.5x EXP from hunting/performing/fishing."
+  },
+  "90000449-MasterySecond-": {
+    "tooltipDescription": "Gain 1.5x EXP from hunting/performing/fishing."
+  },
+  "90000322--": {
+    "tooltipDescription": "Gain 1.5x EXP and mesos from hunting/performing/fishing.\nPhysical and Magic Attack increased by 3%.\nBuff effects are disabled in Battle Arenas."
+  },
+  "90000243--": {
+    "tooltipDescription": "Magic Resistance Penetration increased by 4.3%."
+  },
+  "90000919--": {
+    "tooltipDescription": "Gain 1.5x EXP from hunting/performing/fishing.\n<font color='#9FC93C'>Leaves behind the sweet fragrance of fruit.</font>"
+  },
+  "90000476--": {
+    "tooltipDescription": "Gain 2x EXP from hunting/performing/fishing.\nGain 1.5x mesos from hunting.\nPhysical and Magic Attack increased by 3%.\nBuff effects are disabled in Battle Arenas."
+  },
+  "90000836--NA": {
+    "tooltipDescription": "A special magnetic lure that can only be used at the $map:63000060$. You may obtain a $item:30001344$ while fishing at the $map:63000060$."
+  },
+  "90000838-Event-NA": {
+    "tooltipDescription": "Gain 2 extra levels for every level you gain from Lv. 9 until Lv. 60."
+  },
+  "90001183-Event-NA": {
+    "tooltipDescription": "Restores 280 health every sec."
+  },
+  "90050995--": {
+    "name": "On attack, there is a chance to increase Physical/Magic Attack by 13.5% for 10 sec.",
+    "tooltipDescription": "On attack, there is a chance to increase Physical/Magic Attack by 13.5% for 10 sec."
+  },
+  "90030588--": {
+    "name": "On attack, there is a chance to increase Physical/Magic Damage by 11.5% for 8 sec."
+  },
+  "90030589--": {
+    "tooltipDescription": "Physical/Magic Damage increased by 11.5%."
+  },
+  "90001193-Event-NA": {
+    "tooltipDescription": "Restores 221 health every sec."
+  },
+  "90001194-Event-NA": {
+    "tooltipDescription": "Restores 30% health."
+  },
+  "90050803--": {
+    "name": "Increases the duration of Fierce Combat/Glory Combat effects by 3.5 sec."
+  },
+  "90050773--": {
+    "tooltipDescription": "Weapon Attack increased by 2.6%, Combat Power increased by 115, Defense Penetration increased by 2.4%."
+  },
+  "90050801--": {
+    "name": "On attack, there is a chance to restore 15 Spirit every 1 sec for 3.5 sec."
+  },
+  "90050996--": {
+    "tooltipDescription": "Physical/Magic Attack increased by 13.5%."
+  },
+  "49018001--": {
+    "name": "Wind of Curses",
+    "tooltipDescription": "Afflicted by a curse, unable to exert full strength. Movement speed reduced. After stacking 5 times, triggers the Ultimate Curse.",
+    "level": "1"
+  },
+  "49016011--": {
+    "name": "Thunder Aegis",
+    "tooltipDescription": "Become invincible for a period of time.",
+    "level": "1"
+  },
+  "49016001--": {
+    "name": "Amplified Thunder",
+    "tooltipDescription": "Warlock Uss grows more powerful. After stacking 5 times, activates Thunder Aegis.",
+    "level": "1"
+  },
+  "49021011--": {
+    "name": "Dark Binding",
+    "tooltipDescription": "Bound and unable to move.",
+    "level": "1"
+  },
+  "49018002--": {
+    "name": "Ultimate Curse",
+    "tooltipDescription": "Unable to use skills or items.",
+    "level": "1"
+  },
+  "49025011--": {
+    "name": "Rabbit's Curse",
+    "level": "1",
+    "tooltipDescription": "The rabbit's magic has shrunk your body!\nBody size reduced by 50%\nPhysical ATK and Magic ATK reduced by 99%\nDEF reduced by 40%"
+  },
+  "49022011--": {
+    "name": "Impact",
+    "tooltipDescription": "Stunned and unable to move.",
+    "level": "1"
+  },
+  "49093002--": {
+    "level": "1",
+    "name": "Frozen",
+    "tooltipDescription": "Freezes the enemy solid."
+  },
+  "49093001--": {
+    "level": "1",
+    "name": "Deep Freeze",
+    "tooltipDescription": "Stacks 3 times to freeze enemies.\nCan be dispelled with fiery breath."
+  },
+  "49042001--": {
+    "level": "1",
+    "name": "Rapid Strike",
+    "tooltipDescription": "Movement Speed reduced by 50%"
+  },
+  "49095001--": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned and unable to act."
+  },
+  "49104001--": {
+    "name": "Water Orb Attack",
+    "tooltipDescription": "If water orbs of the same color stack twice, the enemy is inflicted with Stun.",
+    "level": "1"
+  },
+  "49104003--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "49104002--": {
+    "name": "Water Orb Attack",
+    "tooltipDescription": "If water orbs of the same color stack twice, the enemy is inflicted with Stun.",
+    "level": "1"
+  },
+  "49104004--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "49105001--": {
+    "name": "Confusion",
+    "tooltipDescription": "Can't concentrate!\nDirectional controls are reversed.",
+    "level": "1"
+  },
+  "49107011--": {
+    "name": "Silence",
+    "tooltipDescription": "Silenced, unable to use skills.\nNormal attacks can still be used.",
+    "level": "1"
+  },
+  "49111002--": {
+    "name": "Enlarge",
+    "tooltipDescription": "Enlarges the enemy. Think they can still dodge these massive fists of mine?",
+    "level": "1"
+  },
+  "49111003--": {
+    "name": "Enlarge",
+    "tooltipDescription": "Grows in size, enabling the release of multiple projectiles. Movement speed is also reduced.",
+    "level": "1"
+  },
+  "49113011--": {
+    "name": "Revival Heal",
+    "tooltipDescription": "Automatically recovers HP.",
+    "level": "1"
+  },
+  "49113001--": {
+    "name": "Reduced Recovery",
+    "tooltipDescription": "Reduces HP recovery from items and skills.",
+    "level": "1"
+  },
+  "49125001--": {
+    "name": "Water Spirit Explosion",
+    "tooltipDescription": "When a Water Spirit is defeated, its body explodes.",
+    "level": "1"
+  },
+  "49116001--": {
+    "name": "Harpy Poison Intake",
+    "tooltipDescription": "The affected monster spreads Harpy Poison and is defeated.",
+    "level": "1"
+  },
+  "49116002--": {
+    "name": "Harpy Poison Infection",
+    "tooltipDescription": "Physical Attack and Magic Attack become 2x.\nHP decreases when using normal attacks or skills.",
+    "level": "1"
+  },
+  "49149021--": {
+    "name": "Slow",
+    "tooltipDescription": "Movement Speed is reduced for a set duration.",
+    "level": "1"
+  },
+  "49148021--": {
+    "tooltipDescription": "Movement Speed is reduced for a set duration and Stamina becomes 0.",
+    "name": "Terror of the Ancient God",
+    "level": "1"
+  },
+  "49161002--": {
+    "name": "Crystal Shackles",
+    "tooltipDescription": "Frozen solid in ice, unable to move for a period of time.",
+    "level": "1"
+  },
+  "49161001--": {
+    "name": "Sanctuary's Bitter Cold",
+    "tooltipDescription": "Movement Speed is reduced for a set duration.\nWhen hit by Crystal-type projectiles, you are frozen in ice.",
+    "level": "1"
+  },
+  "49165001--": {
+    "name": "Mind Control",
+    "tooltipDescription": "Can attack teammates under evil control.\nPhysical and magical attack power reduced.",
+    "level": "1"
+  },
+  "49164011--": {
+    "tooltipDescription": "Can't think straight!\nUp/down/left/right controls are reversed.",
+    "name": "Confusion",
+    "level": "1"
+  },
+  "49175001--": {
+    "name": "Slow",
+    "tooltipDescription": "Movement speed reduced for a period of time.",
+    "level": "1"
+  },
+  "49165002--": {
+    "name": "Mind Control",
+    "tooltipDescription": "Will be able to attack teammates shortly.",
+    "level": "1"
+  },
+  "49176011--": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "49175091--": {
+    "level": "1",
+    "name": "Confusion",
+    "tooltipDescription": "Can't focus! Movement directions are reversed."
+  },
+  "49179051--": {
+    "level": "1",
+    "name": "Blur Block: Agility",
+    "tooltipDescription": "Increases movement speed for a duration."
+  },
+  "49179061--": {
+    "level": "1",
+    "name": "Blurry Block: Slow",
+    "tooltipDescription": "Reduces movement speed for a duration."
+  },
+  "49179071--": {
+    "level": "1",
+    "name": "Blurry Block: Confusion",
+    "tooltipDescription": "Can't focus!\nMovement controls are reversed."
+  },
+  "49179081--": {
+    "level": "1",
+    "name": "Blurry Block: Shrink",
+    "tooltipDescription": "Shrinks to a very small size for a duration."
+  },
+  "49179091--": {
+    "level": "1",
+    "name": "Recovery",
+    "tooltipDescription": "HP Recovery"
+  },
+  "49200001-PirateOcean-": {
+    "level": "1",
+    "name": "Rage",
+    "tooltipDescription": "State of extreme rage.\nIncreases Attack Speed, Movement Speed, Attack, and Defense."
+  },
+  "49218001--": {
+    "level": "1",
+    "name": "Attack Boost",
+    "tooltipDescription": "Increases Attack by 15%."
+  },
+  "49200002-PirateOcean-": {
+    "level": "1",
+    "name": "Suffocation",
+    "tooltipDescription": "Barely holding breath underwater.\nEvery 2 stacks, takes 1% HP damage every 2 seconds."
+  },
+  "49218002--": {
+    "level": "1",
+    "name": "Attack Boost",
+    "tooltipDescription": "Increases Attack by 100%."
+  },
+  "49219001--": {
+    "level": "1",
+    "name": "Extra Boost",
+    "tooltipDescription": "Increases Attack by 120%.\nIncreases Defense by 120%."
+  },
+  "49287001--": {
+    "level": "1",
+    "name": "Grievous Wound",
+    "tooltipDescription": "Deals continuous bleed damage.\nReduces Defense by 10%.\nExplodes at 4 stacks."
+  },
+  "49287002--": {
+    "level": "1",
+    "name": "Knockdown",
+    "tooltipDescription": "Stunned, unable to act."
+  },
+  "49287003--": {
+    "level": "1",
+    "name": "Festering Wound"
+  },
+  "49287005--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Bruche has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49287006--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Yewu has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49287008--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Mason has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49287007--": {
+    "level": "2",
+    "name": "Awakening",
+    "tooltipDescription": "Kondal has awakened.\nWith the power of awakening, damage increases by 200%."
+  },
+  "49288001-Gigantica01-": {
+    "level": "1",
+    "name": "Burrow",
+    "tooltipDescription": "Gigantica burrows into the ground."
+  },
+  "49288003-Gigantica01-": {
+    "level": "1",
+    "name": "Tail Poison",
+    "tooltipDescription": "Tail Poison"
+  },
+  "49288002-Gigantica01-": {
+    "name": "Slow",
+    "level": "1",
+    "tooltipDescription": "Gigantica burrows into the ground, kicking up a whirlwind.\nMovement speed reduced."
+  },
+  "49288005-Gigantica01-": {
+    "level": "1",
+    "name": "Electrocution",
+    "tooltipDescription": "Under Gigantica's attack, you become Electrocuted, reducing your Defense.\nAfter 10 stacks, you explode and affect nearby allies.\nDefeat nearby monsters to obtain an antidote."
+  },
+  "49288004-Gigantica01-": {
+    "level": "1",
+    "name": "Slow",
+    "tooltipDescription": "Gigantica burrows into the ground, kicking up a whirlwind.\nMovement speed reduced."
+  },
+  "49288006-Gigantica01-": {
+    "name": "Electro-Blast",
+    "tooltipDescription": "Detonates immediately, dealing severe damage.",
+    "level": "1"
+  },
+  "49288007-Gigantica01-": {
+    "name": "Poisoned",
+    "tooltipDescription": "Under Gigantica's attack, you become Poisoned, taking continuous damage.\nAfter 10 stacks, a poison aura is generated that affects nearby allies.\nDefeat nearby monsters to obtain an antidote.",
+    "level": "1"
+  },
+  "49288009-Gigantica01-": {
+    "tooltipDescription": "A state of taking damage caused by the Venom Host.",
+    "name": "Intense Agony",
+    "level": "1"
+  },
+  "49288008-Gigantica01-": {
+    "name": "Venom Host",
+    "tooltipDescription": "Generates a damaging poison aura that affects nearby allies.",
+    "level": "1"
+  },
+  "49288011-Gigantica01-": {
+    "name": "Poison Removed",
+    "tooltipDescription": "Poison Removed",
+    "level": "1"
+  },
+  "49288010-Gigantica01-": {
+    "name": "Electrocution Removed",
+    "tooltipDescription": "Electrocution Removed",
+    "level": "1"
+  },
+  "49288012-Gigantica01-": {
+    "name": "Adaptability",
+    "tooltipDescription": "The longer the battle, the higher Gigantica's Defense and Attack become.\nDefeat nearby Phantom Destroyers and ride them to reset this buff.",
+    "level": "1"
+  },
+  "49288013-Gigantica01-": {
+    "name": "Adaptability",
+    "tooltipDescription": "Adaptability",
+    "level": "1"
+  },
+  "49288014-Gigantica01-": {
+    "name": "Adaptability",
+    "tooltipDescription": "Adaptability",
+    "level": "1"
+  },
+  "49288015-Gigantica01-": {
+    "name": "Remove Adaptability",
+    "tooltipDescription": "Remove Adaptability",
+    "level": "1"
+  },
+  "49288016-Gigantica01-": {
+    "name": "Apply Adaptability",
+    "tooltipDescription": "Apply Adaptability",
+    "level": "1"
+  },
+  "49288017-Gigantica01-": {
+    "name": "Gigantica Normal Monster Identifier",
+    "tooltipDescription": "Gigantica Normal Monster Identifier",
+    "level": "1"
+  },
+  "49288019-Gigantica01-": {
+    "name": "Identify Drill Attack on Normal Monster",
+    "tooltipDescription": "Apply Adaptability",
+    "level": "1"
+  },
+  "49288018-Gigantica01-": {
+    "tooltipDescription": "Gigantica Normal Monster Drill Bonus Damage",
+    "name": "Gigantica Normal Monster Drill Bonus Damage",
+    "level": "1"
+  },
+  "49288021-Gigantica01-": {
+    "name": "Phantom Destroyer HP Reduction",
+    "tooltipDescription": "When using specific attacks, own HP decreases.",
+    "level": "1"
+  },
+  "49288020-Gigantica01-": {
+    "name": "Apply Adaptability 2",
+    "tooltipDescription": "Identify Drill Attack on Normal Monster",
+    "level": "1"
+  },
+  "90000873--": {
+    "tooltipDescription": "Accuracy +5\nPhysical/Magic Damage +3%\n<font color='#00aaef'>Not applied in Battlefield and Arena</font>",
+    "name": "Full Moon's Energy"
+  },
+  "49288023-Gigantica01-": {
+    "level": "1",
+    "name": "Adaptability 2",
+    "tooltipDescription": "Detects drill attacks against normal monsters."
+  },
+  "49288022-Gigantica01-": {
+    "level": "1",
+    "name": "Adaptability 2",
+    "tooltipDescription": "Detects drill attacks against normal monsters."
+  },
+  "49288024-Gigantica01-": {
+    "level": "1",
+    "name": "Adaptability 2",
+    "tooltipDescription": "Detects drill attacks against normal monsters."
+  },
+  "49288026-Gigantica01-": {
+    "level": "1",
+    "name": "Adaptability 2",
+    "tooltipDescription": "Identifies drill attacks against normal monsters."
+  },
+  "49288025-Gigantica01-": {
+    "name": "Adaptability 2",
+    "level": "1",
+    "tooltipDescription": "Detects drill attacks against normal monsters."
+  },
+  "49288028-Gigantica01-": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement speed is reduced.",
+    "level": "1"
+  },
+  "49288027-Gigantica01-": {
+    "tooltipDescription": "Removes the debuff inflicted by Gigantica's attacks.",
+    "name": "Dispel Gigantica Debuff",
+    "level": "1"
+  },
+  "49289011-Colosseum01-": {
+    "name": "Invincible",
+    "tooltipDescription": "Cannot be damaged.",
+    "level": "1"
+  },
+  "49289001-Colosseum01-": {
+    "name": "Knight's Battle Cry",
+    "tooltipDescription": "Attack power increases.",
+    "level": "1"
+  },
+  "49289002-Colosseum01-": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement speed is reduced.",
+    "level": "1"
+  },
+  "49289012-Colosseum01-": {
+    "name": "HP Drain (All)",
+    "tooltipDescription": "Reduces all members' HP by 40%.",
+    "level": "1"
+  },
+  "49289021-Colosseum01-": {
+    "name": "Bleed",
+    "tooltipDescription": "You are now bleeding.",
+    "level": "1"
+  },
+  "49289041-Colosseum01-": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power increases.",
+    "level": "1"
+  },
+  "49289051-Colosseum01-": {
+    "name": "Attempting Enhancement",
+    "level": "1",
+    "tooltipDescription": "Damage taken is reduced during enhancement."
+  },
+  "49289033-Colosseum01-": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement speed is reduced.",
+    "level": "1"
+  },
+  "49289053-Colosseum01-": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "49289052-Colosseum01-": {
+    "level": "1",
+    "name": "Enhancement Success",
+    "tooltipDescription": "Attack power is increased."
+  },
+  "49289061-Colosseum01-": {
+    "level": "1",
+    "name": "Armor Melt",
+    "tooltipDescription": "Defense is reduced."
+  },
+  "49289063-Colosseum01-": {
+    "level": "1",
+    "name": "Deep Focus",
+    "tooltipDescription": "By deeply focusing the mind, greatly increases defense."
+  },
+  "49289062-Colosseum01-": {
+    "level": "1",
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement speed is reduced."
+  },
+  "49990001--": {
+    "level": "1",
+    "name": "Cannot Perform Sensitive Actions",
+    "tooltipDescription": "Cannot Perform Sensitive Actions"
+  },
+  "49289064-Colosseum01-": {
+    "level": "1",
+    "name": "Deep Focus",
+    "tooltipDescription": "By deeply focusing the mind, greatly increases defense for a few seconds."
+  },
+  "49907031--": {
+    "level": "1",
+    "name": "Bleeding",
+    "tooltipDescription": "Struck by a powerful attack, causing bleeding.\nReduces HP by 3% per second."
+  },
+  "49908211--": {
+    "level": "1",
+    "name": "Confusion",
+    "tooltipDescription": "Dizzying!\nUp/Down/Left/Right directions are reversed."
+  },
+  "49908001--": {
+    "level": "1",
+    "name": "Speed Reduction",
+    "tooltipDescription": "Movement Speed and Attack Speed reduced by 20%.\nStacks up to 2 times."
+  },
+  "49908451--": {
+    "level": "1",
+    "name": "Poison",
+    "tooltipDescription": "Poisoned!\nReduces max HP by 5% per second.\nStacks up to 2 times."
+  },
+  "49908461--": {
+    "level": "1",
+    "name": "Speed Reduction",
+    "tooltipDescription": "Movement Speed and Attack Speed reduced by 50%.\nStacks up to 2 times."
+  },
+  "49908511--": {
+    "level": "1",
+    "name": "Knocked Down",
+    "tooltipDescription": "Struck by a powerful attack, losing consciousness."
+  },
+  "49908561--": {
+    "level": "1",
+    "name": "Poison",
+    "tooltipDescription": "Poisoned!\nReduces max HP by 5% per second.\nStacks up to 2 times."
+  },
+  "49908601--": {
+    "level": "1",
+    "name": "Attack Power Reduced",
+    "tooltipDescription": "Physical Attack and Magic Attack reduced by 50%."
+  },
+  "49908611--": {
+    "level": "1",
+    "name": "Defense Reduced",
+    "tooltipDescription": "Physical Defense and Magic Defense reduced by 50%."
+  },
+  "49908641--": {
+    "level": "1",
+    "name": "Burn",
+    "tooltipDescription": "Scorched by intense flames.\nTakes 3% damage every 3 seconds."
+  },
+  "90001154-Event-JP": {
+    "name": "Perforated Silver Pot"
+  },
+  "49908651--": {
+    "level": "1",
+    "name": "Frost",
+    "tooltipDescription": "Your body is surrounded by cold air.\nMovement Speed and Attack Speed reduced by 50%."
+  },
+  "49908661--": {
+    "level": "1",
+    "name": "Electrocution",
+    "tooltipDescription": "Your body is electrocuted, electricity surging through you.\nTakes 3% damage every 3 seconds.\nMagic Resistance reduced by 85%."
+  },
+  "49908671--": {
+    "level": "1",
+    "name": "Dark Whisper",
+    "tooltipDescription": "Dark aura obstructs vision for 5 seconds."
+  },
+  "49999992--": {
+    "level": "1",
+    "name": "Soul's Aid",
+    "tooltipDescription": "Movement Speed and Attack Speed increased by 20%."
+  },
+  "50000001--": {
+    "level": "1",
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage."
+  },
+  "50000002--": {
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage.",
+    "level": "1"
+  },
+  "50000003--": {
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage.",
+    "level": "1"
+  },
+  "50000005--": {
+    "name": "Poison",
+    "level": "1",
+    "tooltipDescription": "Continuously takes poison damage."
+  },
+  "50000006--": {
+    "name": "Poison",
+    "tooltipDescription": "Continuously takes poison damage.\nCan stack up to 3 times.\nEntering water removes this effect.",
+    "level": "1"
+  },
+  "50000007--": {
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move.",
+    "name": "Stun"
+  },
+  "50000008--": {
+    "name": "Stun",
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000009--": {
+    "name": "Stun",
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000010--": {
+    "name": "Stun",
+    "level": "4",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000011--": {
+    "name": "Stun",
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000012--": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000013--": {
+    "name": "Stun",
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000015--": {
+    "name": "Stun",
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000014--": {
+    "level": "1",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000016--": {
+    "name": "Stun",
+    "level": "1",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000017--": {
+    "level": "3",
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move."
+  },
+  "50000019--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000020--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000022--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.\nRemoves the Ice Attribute Shield.",
+    "level": "1"
+  },
+  "50000021--": {
+    "tooltipDescription": "Hit by EMP Bomb\nStunned, unable to move.",
+    "name": "Stun",
+    "level": "2"
+  },
+  "50000025--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000023--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000024--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "2"
+  },
+  "50000030--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000046--": {
+    "name": "Stun",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000080--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuously takes fire damage.",
+    "level": "1"
+  },
+  "50000060--": {
+    "name": "Curse of Horus",
+    "tooltipDescription": "Inflicted with Horus's Curse!\nPhysical and Magic Attack reduced by 25%\nMovement Speed reduced by 30%",
+    "level": "3"
+  },
+  "50000052--": {
+    "name": "Move Speed Down",
+    "tooltipDescription": "Movement speed reduced.",
+    "level": "1"
+  },
+  "50000082--": {
+    "name": "Shadow Spark Burn",
+    "tooltipDescription": "Continuously takes fire damage.\nMax spirit reduced by 50%.",
+    "level": "1"
+  },
+  "50000081--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuously takes fire damage.",
+    "level": "1"
+  },
+  "50000084--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuously deals fire damage.\nStacks up to 5 times.\nDamage increases with each stack.",
+    "level": "1"
+  },
+  "50000083--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuously takes fire damage.\nStacks up to 10 times.\nDamage increases with each stack.",
+    "level": "1"
+  },
+  "50000086--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuous fire damage\nRemoves ice attribute shield",
+    "level": "1"
+  },
+  "50000087--": {
+    "name": "Shadow Spark Burn",
+    "tooltipDescription": "Continuously takes fire damage\nHit rate reduced by 18%\nCan stack up to 5 times",
+    "level": "1"
+  },
+  "50000085--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuously takes fire damage\nCan stack up to 10 times\nDamage increases with each stack",
+    "level": "1"
+  },
+  "50000088--": {
+    "name": "Burn",
+    "tooltipDescription": "Continuously takes fire damage\nCan stack up to 7 times\nDamage increases with each stack",
+    "level": "1"
+  },
+  "50000100--": {
+    "name": "Bleed",
+    "tooltipDescription": "Continuously takes physical damage.",
+    "level": "1"
+  },
+  "50000102--": {
+    "name": "Bleed",
+    "tooltipDescription": "Continuously deals physical damage.\nMax stacks: 5",
+    "level": "1"
+  },
+  "50000101--": {
+    "name": "Bleed",
+    "tooltipDescription": "Continuously takes physical damage.",
+    "level": "1"
+  },
+  "50000103-CrimsonBalrog01-": {
+    "name": "Bleed",
+    "tooltipDescription": "Continuously deals physical damage\nStacks up to 5 times",
+    "level": "2"
+  },
+  "50000107--": {
+    "name": "Faint",
+    "tooltipDescription": "Stunned, unable to move",
+    "level": "1"
+  },
+  "50000120--": {
+    "name": "Defense Down",
+    "tooltipDescription": "Defense -35%",
+    "level": "1"
+  },
+  "50000121--": {
+    "name": "Stone Giant Attack Order",
+    "tooltipDescription": "STR, DEX, INT, LUK +50%\nDEF -50%",
+    "level": "2"
+  },
+  "50000122--": {
+    "name": "Stone Giant Defense Command",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nDEF increased by 80%",
+    "level": "2"
+  },
+  "90001202-Event-CN": {
+    "name": "Black Bean"
+  },
+  "90001204-Event-CN": {
+    "name": "Rainbow Magnetic Fishing Bait"
+  },
+  "90001150-Event-CN": {
+    "name": "Rainbow Magnetic Fishing Bait"
+  },
+  "50000123--": {
+    "name": "Melted Armor",
+    "tooltipDescription": "Reduces Defense by 10%\nContinuous Fire Damage\nCan stack up to 9 times",
+    "level": "2"
+  },
+  "50000126--": {
+    "name": "Melted Armor",
+    "level": "1",
+    "tooltipDescription": "Decreases defense by 20%. Stacks up to 5 times."
+  },
+  "50000124--": {
+    "name": "Defense Down",
+    "tooltipDescription": "Reduces Defense by 50%",
+    "level": "1"
+  },
+  "50000125--": {
+    "name": "Defense Down",
+    "level": "1",
+    "tooltipDescription": "Defense decreased by 17%\nStacks up to 3 times"
+  },
+  "50000127--": {
+    "name": "Defense Down",
+    "level": "1",
+    "tooltipDescription": "Decreases defense by 15%. Stacks up to 5 times."
+  },
+  "50000144--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 25%. Stacks up to 3 times"
+  },
+  "50000143--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 25%. Stacks up to 3 times"
+  },
+  "50000140--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 99%."
+  },
+  "50000142--": {
+    "name": "Attack Down",
+    "tooltipDescription": "Decreases attack by 80%.",
+    "level": "1"
+  },
+  "50000141--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 50%."
+  },
+  "50000148--": {
+    "name": "Attack Down",
+    "level": "2",
+    "tooltipDescription": "Decreases attack by 85%. Taking damage from Bjorn's attack."
+  },
+  "50000147--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 20%."
+  },
+  "50000145--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 60%."
+  },
+  "50000146--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Decreases attack by 20%. Stacks up to 4 times"
+  },
+  "50000149-LapentaDungeon-": {
+    "name": "Attack Down",
+    "level": "2",
+    "tooltipDescription": "Reduces attack by 80%. Under attack by statue knights."
+  },
+  "50000150--": {
+    "name": "Attack Down",
+    "level": "1",
+    "tooltipDescription": "Reduces attack by 50%. Taking damage from templars."
+  },
+  "50000151--": {
+    "name": "Attack Down",
+    "level": "2",
+    "tooltipDescription": "Reduces attack by 99%."
+  },
+  "50000153--": {
+    "name": "Attack Down",
+    "tooltipDescription": "Attack Power reduced by 10%\nCan stack up to 5 times",
+    "level": "1"
+  },
+  "50000152--": {
+    "name": "Attack Down",
+    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 5 times",
+    "level": "1"
+  },
+  "50000154-LapentaDungeon-": {
+    "name": "Attack Down",
+    "tooltipDescription": "Attack Power reduced by 20%\nCan stack up to 3 times",
+    "level": "1"
+  },
+  "50000158--": {
+    "name": "Speed Down",
+    "tooltipDescription": "Movement Speed reduced by 30%",
+    "level": "1"
+  },
+  "50000172--": {
+    "name": "Water Prison",
+    "tooltipDescription": "Imprisoned in a water prison, unable to move",
+    "level": "1"
+  },
+  "50000170--": {
+    "name": "Water Prison",
+    "tooltipDescription": "Imprisoned in a water prison, unable to move",
+    "level": "1"
+  },
+  "50000171--": {
+    "name": "Water Prison",
+    "tooltipDescription": "Imprisoned in a water prison, unable to move",
+    "level": "1"
+  },
+  "50000190--": {
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 99%\nMovement Speed reduced by 30%",
+    "level": "4"
+  },
+  "50000193--": {
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%",
+    "level": "1"
+  },
+  "50000194--": {
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%",
+    "level": "1"
+  },
+  "50000195--": {
+    "name": "Fear",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nAccuracy reduced by 60%",
+    "level": "1"
+  },
+  "50000192--": {
+    "name": "Vicious Curse",
+    "tooltipDescription": "Continuously taking poison damage\nMovement Speed reduced by 40%\nAccuracy reduced by 60%",
+    "level": "1"
+  },
+  "50000191--": {
+    "name": "Demoralized",
+    "tooltipDescription": "STR, DEX, INT, and LUK reduced by 50%\nMovement Speed reduced by 40%",
+    "level": "1"
+  },
+  "50000206--": {
+    "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 50%",
+    "name": "Severe Lethargy",
+    "level": "1"
+  },
+  "50000220--": {
+    "tooltipDescription": "Movement Speed reduced by 45%",
+    "name": "Speed Down",
+    "level": "1"
+  },
+  "50000203--": {
+    "tooltipDescription": "Max HP reduced while near Pamors.\nMax HP reduced by 5%.\nEffect increases after stacking 5 times.",
+    "name": "Lethargy",
+    "level": "1"
+  },
+  "50000312--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "level": "1",
+    "name": "Armor of Shadows"
+  },
+  "50000319--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "level": "1",
+    "name": "DEF Up"
+  },
+  "50000313--": {
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "level": "1",
+    "name": "Armor of Shadows"
+  },
+  "50000231--": {
+    "tooltipDescription": "Weakness stacks 5 times, worsening the condition.\nMax HP reduced by 70%",
+    "level": "1",
+    "name": "Heavy Slow"
+  },
+  "50000292-Kritias_Balrog01-": {
+    "tooltipDescription": "Attack Power increased by 30%\nEnemy damage reduced by 50%",
+    "name": "ATK & DEF Boost",
+    "level": "1"
+  },
+  "50000329--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "DEF Up",
+    "level": "1"
+  },
+  "50000322--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "DEF Up",
+    "level": "1"
+  },
+  "50000330--": {
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "level": "1",
+    "name": "Defense Boost"
+  },
+  "50000324--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "level": "1",
+    "name": "DEF Up"
+  },
+  "50000321--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "DEF Up",
+    "level": "4"
+  },
+  "50000405--": {
+    "name": "Defense Reduction",
+    "tooltipDescription": "Reduces Defense by 40%",
+    "level": "1"
+  },
+  "50000344--": {
+    "tooltipDescription": "All damage received from enemies reduced by 80%",
+    "name": "Defense Boost",
+    "level": "2"
+  },
+  "50000336--": {
+    "tooltipDescription": "Reduces enemy damage by 70%\n\nEffect is removed when all of Balrog's clones are eliminated,\nor when struck by Balrog's clone",
+    "name": "Defense Boost",
+    "level": "1"
+  },
+  "50000349--": {
+    "tooltipDescription": "All damage dealt by enemies reduced by 80%",
+    "name": "Defense Boost",
+    "level": "1"
+  },
+  "50000553--": {
+    "tooltipDescription": "A spark of blessing attaches itself, enhancing combat ability.\nPeriodically restores HP.\nEnergy consumption reduced by 50%.\nPower bestowed by the Temple Knights.",
+    "name": "Spark of Blessing",
+    "level": "1"
+  },
+  "50000550--": {
+    "tooltipDescription": "A spark of blessing attaches itself, enhancing combat ability.\nPeriodically restores HP.\nEnergy consumption reduced by 50%",
+    "name": "Spark of Blessing",
+    "level": "2"
+  },
+  "50000552--": {
+    "tooltipDescription": "A spark of blessing attaches itself, enhancing combat ability.\nPeriodically restores HP.\nEnergy consumption reduced by 50%",
+    "name": "Spark of Blessing",
+    "level": "1"
+  },
+  "50001073--": {
+    "tooltipDescription": "All damage received from enemies reduced by 50%",
+    "level": "1",
+    "name": "Defense Up"
+  },
+  "50001501--": {
+    "tooltipDescription": "All damage received from enemies reduced by 50%",
+    "name": "Defense Up"
+  },
+  "50001503--": {
+    "tooltipDescription": "All damage received from enemies reduced by 85%",
+    "name": "Defense Up"
+  },
+  "50001506--": {
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "name": "Defense Up"
+  },
+  "50001505--": {
+    "tooltipDescription": "All damage received from enemies reduced by 85%",
+    "name": "Defense Up"
+  },
+  "50001504--": {
+    "tooltipDescription": "All damage received from enemies reduced by 99%",
+    "name": "Defense Up"
+  },
+  "50001502--": {
+    "tooltipDescription": "All damage received from enemies reduced by 65%",
+    "name": "Defense Up"
+  },
+  "50000197--": {
+    "name": "Surge of Power",
+    "tooltipDescription": "As long as you are with Haimos, your body fills with power.\nAttack Power increased by 50%, Movement Speed and Attack Speed increased by 100%, continuously restores HP",
+    "level": "1"
+  },
+  "50000199--": {
+    "name": "Surge of Power",
+    "tooltipDescription": "Your power surges when together with Pamos.\nAttack Power +50%, Movement Speed and Attack Speed +100%, continuously recover HP",
+    "level": "1"
+  },
+  "50000201--": {
+    "name": "Chill",
+    "tooltipDescription": "Stats are continuously reduced while near Hemos.\nMovement Speed and Attack Speed -10%\nAt 5 stacks, become Frozen and unable to act.",
+    "level": "1"
+  },
+  "50000207--": {
+    "name": "Knockdown",
+    "tooltipDescription": "Entered Knockdown state.\nIf other targets are not defeated quickly, they will soon recover 50% HP and stand back up.",
+    "level": "1"
+  },
+  "50000205--": {
+    "name": "Frozen",
+    "tooltipDescription": "Chill has stacked 5 times, leaving you unable to act.",
+    "level": "1"
+  },
+  "50000208--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement Speed reduced by 45%.",
+    "level": "1"
+  },
+  "50000209--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement Speed reduced by 40%.",
+    "level": "1"
+  },
+  "50000210--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Movement Speed reduced by 40%.",
+    "level": "1"
+  },
+  "50000212--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Reduces Movement Speed by 45%",
+    "level": "1"
+  },
+  "50000211--": {
+    "name": "Movement Speed Reduction",
+    "tooltipDescription": "Reduces Movement Speed by 47%",
+    "level": "1"
+  },
+  "50000214--": {
+    "name": "Movement Speed Reduction",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased.\nStacks up to 10 times.\nEffect decreases with each stack."
+  },
+  "50000213--": {
+    "name": "Movement Speed Reduction",
+    "level": "1",
+    "tooltipDescription": "Movement Speed Reduced by 70%"
+  },
+  "50000215--": {
+    "name": "Speed Down",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased.\nStacks up to 3 times.\nEffect increases with each stack."
+  },
+  "50000219--": {
+    "level": "1",
+    "name": "Frozen",
+    "tooltipDescription": "When Chill reaches 5 stacks, you become immobilized."
+  },
+  "50000221--": {
+    "level": "1",
+    "name": "Snare",
+    "tooltipDescription": "Cannot move.\nContinuously deals extra damage."
+  },
+  "50000222--": {
+    "name": "Speed Down",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased by 50%."
+  },
+  "50000224--": {
+    "name": "Speed Halved",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased by half."
+  },
+  "50000223--": {
+    "name": "Speed ×2",
+    "level": "1",
+    "tooltipDescription": "Movement Speed increased by 2×."
+  },
+  "50000227--": {
+    "name": "Speed Down",
+    "level": "1",
+    "tooltipDescription": "Movement Speed decreased by 45%."
+  },
+  "50000235--": {
+    "name": "Full Defense",
+    "level": "1",
+    "tooltipDescription": "Invincible."
+  },
+  "50000236--": {
+    "level": "1",
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000237--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000238--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "2"
+  },
+  "50000239--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000240--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000243--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000244--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000241--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000248--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000247--": {
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State",
+    "level": "1"
+  },
+  "50000249--": {
+    "level": "1",
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000255--": {
+    "name": "Perfect Defense",
+    "level": "1",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000259--": {
+    "name": "Perfect Defense",
+    "level": "1",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000258--": {
+    "name": "Perfect Defense",
+    "level": "1",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000262--": {
+    "name": "Perfect Defense",
+    "level": "1",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000264-LapentaDungeon-": {
+    "level": "3",
+    "name": "Perfect Defense",
+    "tooltipDescription": "Invincible State"
+  },
+  "50000265-Kritias_Zakum01-": {
+    "level": "1",
+    "name": "Perfect Defense",
+    "tooltipDescription": "Maintains Invincible State"
+  },
+  "50000294--": {
+    "name": "Defense Up Lv. 2",
+    "tooltipDescription": "All damage received reduced by 60%\nLv. 1+2 stacked state",
+    "level": "1"
+  },
+  "50000290-Kritias_Balrog01-": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Defense increased by 80%",
+    "level": "1"
+  },
+  "50000296--": {
+    "name": "Defense Up Lv. 3",
+    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state",
+    "level": "1"
+  },
+  "50000297--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 40%\nLv. 1 state",
+    "level": "1"
+  },
+  "50000295--": {
+    "name": "Defense Up Lv. 3",
+    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state",
+    "level": "1"
+  },
+  "50000298--": {
+    "name": "Defense Up Lv. 2",
+    "tooltipDescription": "All damage received reduced by 60%\nLv. 1+2 stacked state",
+    "level": "1"
+  },
+  "50000299--": {
+    "name": "Defense Up Lv. 3",
+    "tooltipDescription": "All damage received reduced by 80%\nLv. 1+2+3 stacked state",
+    "level": "1"
+  },
+  "50000303--": {
+    "name": "ATK Boost",
+    "tooltipDescription": "Physical ATK and Magic ATK increased by 35%",
+    "level": "1"
+  },
+  "50000300--": {
+    "name": "ATK Boost",
+    "tooltipDescription": "Physical ATK and Magic ATK increased by 50%",
+    "level": "1"
+  },
+  "50000306--": {
+    "name": "Magic Defense Up: Physical Defense Down",
+    "tooltipDescription": "Magic Defense increased by 60%.\nPhysical Defense decreased by 60%.\nEffect disappears once all Stone Golem Guards are eliminated.",
+    "level": "2"
+  },
+  "50000304--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Physical and Magic Attack Power increased by 50%.\nEffect is removed once all Stone Golem Guards are defeated.",
+    "level": "1"
+  },
+  "50000305--": {
+    "name": "Physical Defense Up: Magic Defense Down",
+    "tooltipDescription": "Physical Defense increased by 60%.\nMagic Defense decreased by 60%.\nEffect is removed once all Stone Golem Guards are defeated.",
+    "level": "2"
+  },
+  "50000307--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Physical and Magic Attack Power increased by 50%.",
+    "level": "2"
+  },
+  "50000308--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Physical and Magic Attack Power increased by 40%.",
+    "level": "1"
+  },
+  "50000309--": {
+    "name": "Attack & Defense Up",
+    "tooltipDescription": "Attack Power increased by 20%.\nDefense increased by 40%.",
+    "level": "3"
+  },
+  "50000310--": {
+    "name": "Attack Power Up",
+    "level": "1",
+    "tooltipDescription": "Physical attack power and magic attack power increased by {0}%"
+  },
+  "90050824--": {
+    "name": "Increases Holy Damage from Savage Holy Staff/Glorious Holy Staff proc effects by 7.2%."
+  },
+  "90050852--": {
+    "tooltipDescription": "Increases Weapon Attack while stationary for 1.5 seconds or more.",
+    "name": "If stationary for 1.5 seconds or more, increases Weapon Attack by 4.5%."
+  },
+  "90050821--": {
+    "name": "When attacking, has a chance to increase Holy Damage by 7.2% for 9 seconds."
+  },
+  "90050823--": {
+    "name": "Increases Holy Damage from Savage Holy Staff/Glorious Holy Staff proc effects by 14.4%."
+  },
+  "90050839--": {
+    "name": "After dodging an enemy attack, increases Physical Damage by 2.5% for 30 seconds.\nRequires Savage Chaos Dagger/Glorious Chaos Dagger equipped in both hands."
+  },
+  "90050819--": {
+    "name": "Increases the duration of Limit Soul Staff proc effects by 3.2 seconds."
+  },
+  "90050817--": {
+    "name": "When attacking, has a chance to use skills without consuming Spirit for 1.6 seconds."
+  },
+  "90050865--": {
+    "tooltipDescription": "Increases Weapon Attack while stationary for 1.5 seconds or more."
+  },
+  "90050855--": {
+    "name": "Increases Weapon Attack granted by Savage Cannon/Glorious Cannon proc effects by 4.5%."
+  },
+  "90050857--": {
+    "name": "When attacking, has a chance to increase Defense Penetration by 4.5% for 9 seconds."
+  },
+  "90050827--": {
+    "name": "Increases Magic Damage granted by Limit Holy Staff proc effects by 5.2%."
+  },
+  "90050825--": {
+    "name": "When Spirit is at 40% or above, increases Magic Damage by 2.6%."
+  },
+  "90050820--": {
+    "name": "Increases the duration of Limit Soul Staff proc effects by 1.6 seconds."
+  },
+  "90050829--": {
+    "name": "Increases Magic Damage granted by Limit Holy Staff proc effects by 2.6%."
+  },
+  "90050845--": {
+    "name": "When successfully landing 140 hits within 10 seconds, increases Attack Speed and Defense Penetration by 2.5% for 17 seconds.\nRequires Limit Assassination Star equipped in both hands."
+  },
+  "90050860--": {
+    "name": "Increases Defense Penetration granted by Limit Cannon proc effects by 4.5%."
+  },
+  "90051208--": {
+    "name": "Increases Healing Skill effect by 10.0%."
+  },
+  "90051014--": {
+    "name": "Increases Weapon Attack by 4.5%."
+  },
+  "90051015--": {
+    "name": "Increases Physical/Magic Attack by 4.5%."
+  },
+  "91000021--": {
+    "name": "While in Berserker's Soul state, recovers 1.0% HP per second."
+  },
+  "90051688-NAEquipmentBalance_01-NA": {
+    "tooltipDescription": "Increases bonus attack by 1000."
+  },
+  "90051670-NAEquipmentBalance_01-NA": {
+    "tooltipDescription": "Increases bonus attack by 1000."
+  },
+  "91000041--": {
+    "name": "When Burst Nova hits, deals 7.0% additional damage."
+  },
+  "90051310--": {
+    "name": "Increases Defense Penetration by 2.0%."
+  },
+  "91000061--": {
+    "name": "Stuns targets hit by Stun Arrow for 1.2 seconds.\n(This effect cannot trigger again within 5 seconds.)"
+  },
+  "91000071--": {
+    "name": "Stuns targets hit by Land Mine for 1.5 seconds."
+  },
+  "91000051--": {
+    "name": "When Burst Nova hits, deals 7.0% additional damage."
+  },
+  "95000015--": {
+    "tooltipDescription": "Reduces Attack by 0.60% for 3 seconds. (Cannot stack)"
+  },
+  "95000013--": {
+    "tooltipDescription": "Reduces Defense by 0.40% for 3 seconds. (Cannot stack)"
+  },
+  "50000311--": {
+    "level": "1",
+    "name": "Attack Power Up",
+    "tooltipDescription": "Physical attack power and magic attack power increased by {0}%"
+  },
+  "50000315--": {
+    "name": "Attack Power Up",
+    "level": "1",
+    "tooltipDescription": "Physical ATK, Magic ATK +30%\nCan stack up to 3 times"
+  },
+  "50000314--": {
+    "level": "2",
+    "name": "Defense Up",
+    "tooltipDescription": "All damage received reduced by {0}%\nCan stack up to {1} times"
+  },
+  "50000316--": {
+    "level": "1",
+    "name": "Physical DEF Up",
+    "tooltipDescription": "Physical damage received -99%"
+  },
+  "50000317--": {
+    "level": "1",
+    "name": "Magic DEF Up",
+    "tooltipDescription": "Magic damage received -99%"
+  },
+  "50000318--": {
+    "name": "ATK Up",
+    "level": "1",
+    "tooltipDescription": "Physical ATK, Magic ATK +75%"
+  },
+  "50000320--": {
+    "name": "ATK Up",
+    "tooltipDescription": "Physical ATK, Magic ATK +50%",
+    "level": "2"
+  },
+  "50000327--": {
+    "level": "2",
+    "name": "ATK Up",
+    "tooltipDescription": "ATK +50%"
+  },
+  "50000326--": {
+    "name": "ATK Up",
+    "level": "2",
+    "tooltipDescription": "ATK +95%"
+  },
+  "50000335--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power increased by 40%.\n\nEffect ends when all of Balkan's clones are defeated,\nor when hit by one of Balkan's clones.",
+    "level": "1"
+  },
+  "50000332--": {
+    "name": "Defense Increase",
+    "tooltipDescription": "All damage received reduced by 99%.",
+    "level": "1"
+  },
+  "50000338--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 50%.\nLevel 1 state.",
+    "level": "1"
+  },
+  "50000337--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 50%.\nLevel 1 state.",
+    "level": "1"
+  },
+  "50000339--": {
+    "name": "Defense Up Lv. 1",
+    "tooltipDescription": "All damage received reduced by 50%.\nLevel 1 state.",
+    "level": "1"
+  },
+  "50000340--": {
+    "name": "Defense Up Lv. 2",
+    "tooltipDescription": "All damage received reduced by 80%.\nLevel 1 and Level 2 stacked state.",
+    "level": "1"
+  },
+  "50000341--": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Gain shield defense effect,\ngreatly increasing defense.",
+    "level": "1"
+  },
+  "50000342--": {
+    "name": "Attack Power Up",
+    "tooltipDescription": "Attack power increased by 120%.",
+    "level": "1"
+  },
+  "50000343--": {
+    "name": "Attack and Defense Boost",
+    "tooltipDescription": "Attack power increased by 50%.\nDefense increased by 100%.\nStacks up to 5 times.\nActivates each time one of Zakum's arms is destroyed.",
+    "level": "1"
+  },
+  "50000345--": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Increases defense by 100%.",
+    "level": "1"
+  },
+  "50000346-LapentaDungeon-": {
+    "name": "Defense Boost",
+    "tooltipDescription": "Increases defense by 50%.\nEffect obtained from Ishura's clone.",
+    "level": "1"
+  },
+  "50000351--": {
+    "name": "HP Recovery",
+    "tooltipDescription": "Continuously restores HP.",
+    "level": "2"
+  },
+  "50000350--": {
+    "name": "HP Recovery",
+    "tooltipDescription": "Continuously restores HP.",
+    "level": "1"
+  },
+  "50000352--": {
+    "name": "HP Recovery",
+    "tooltipDescription": "Continuously restores HP.",
+    "level": "1"
+  },
+  "50000353--": {
+    "name": "Recover Stamina",
+    "tooltipDescription": "Continuously restores HP",
+    "level": "1"
+  },
+  "50000354--": {
+    "name": "Recover Stamina",
+    "tooltipDescription": "Continuously restores HP",
+    "level": "1"
+  },
+  "50000355--": {
+    "name": "Recover Stamina",
+    "tooltipDescription": "Continuously restores HP",
+    "level": "1"
+  },
+  "50000356--": {
+    "name": "Recover Stamina",
+    "tooltipDescription": "Continuously restores HP",
+    "level": "1"
+  },
+  "50000357--": {
+    "name": "Restore Stamina",
+    "tooltipDescription": "Continuously restores HP.",
+    "level": "1"
+  },
+  "50000361--": {
+    "name": "Restore Stamina",
+    "tooltipDescription": "Continuously restores HP.",
+    "level": "1"
+  },
+  "50000358--": {
+    "name": "Restore Stamina",
+    "tooltipDescription": "Continuously restores HP.\nCan restore up to 72%.",
+    "level": "1"
+  },
+  "100000036--": {
+    "tooltipDescription": "First obtained at level 45.\nThe Air Taxi fee is discounted by <font color='#ffde00'>7.5%</font> when first obtained, then by <font color='#ffde00'>2.5%</font> every <font color='#ffde00'>50 levels</font>, up to a maximum discount of <font color='#ffde00'>55%</font>."
+  },
+  "100000031--": {
+    "tooltipDescription": "First obtained at level 20.\nGold earned from clearing dungeons increases by <font color='#ffde00'>1.5%</font> when first obtained, then increases by <font color='#ffde00'>1.5%</font> every <font color='#ffde00'>50 levels</font>, up to a maximum of <font color='#ffde00'>30%</font>."
+  },
+  "110000118--": {
+    "tooltipDescription": "Max HP increased by 4.8%"
+  },
+  "100000029--": {
+    "tooltipDescription": "First obtained at level 10.\nSwimming speed increases by <font color='#ffde00'>7.5%</font> when first obtained, then increases by <font color='#ffde00'>2.5%</font> every <font color='#ffde00'>50 levels</font>, up to a maximum of <font color='#ffde00'>55%</font>."
+  },
+  "110000121--": {
+    "tooltipDescription": "Physical/Magic Resistance Penetration increased by 4.8%"
+  },
+  "100000037--": {
+    "tooltipDescription": "First obtained at level 50.\nLand mount movement speed increases by <font color='#ffde00'>1.5%</font> when first obtained, then by <font color='#ffde00'>0.5%</font> every <font color='#ffde00'>50 levels</font>, up to a maximum of <font color='#ffde00'>11%</font>."
+  },
+  "100000055-ItemSocketSystem-": {
+    "tooltipDescription": "First obtained at level 60.\nThe number of Crystal Fragments required to expand sockets is reduced by <font color='#ffde00'>5.0%</font> when first obtained, then by <font color='#ffde00'>1.5%</font> every <font color='#ffde00'>30 levels</font>, up to a maximum reduction of <font color='#ffde00'>20%</font>."
+  },
+  "100000039-ItemSocketSystem-": {
+    "tooltipDescription": "First obtained at level 90.\nMaterials required for gem synthesis are reduced by <font color='#ffde00'>4.5%</font> when first obtained, then by <font color='#ffde00'>1.5%</font> every <font color='#ffde00'>40 levels</font>, up to a maximum reduction of <font color='#ffde00'>18%</font>."
+  },
+  "100000038-ItemSocketSystem-": {
+    "tooltipDescription": "First obtained at level 60.\nSocket expansion success rate increases by <font color='#ffde00'>1.5%</font> when first obtained, then by <font color='#ffde00'>0.5%</font> every <font color='#ffde00'>30 levels</font>, up to a maximum of <font color='#ffde00'>11%</font>."
+  },
+  "120030008-Lapenshard01-": {
+    "tooltipDescription": "Stamina reduced by 1.5% per second"
+  },
+  "19900031--": {
+    "tooltipDescription": "Critical Hit +76, Critical Damage +200\nPhysical/Magic Attack increased by 4.6%\nCannot be stacked with Sharp Eyes, Magic Matrix, or Rune Matrix"
+  },
+  "11000153-Striker-": {
+    "tooltipDescription": "Drawing on great inner strength to unleash more powerful force.\nAttack Damage increased by 2.8%\nMovement Speed increased by 2%"
+  },
+  "10100061--": {
+    "tooltipDescription": "Entered defensive stance!\nRestores 4 Spirit every 0.3 seconds\nPhysical/Magic Attack reduced by 25%\nIncoming damage reduced by 10%"
+  },
+  "10100071--": {
+    "tooltipDescription": "Combat stance broken by a powerful blow!\nDefense reduced by 7.6%"
+  },
+  "11000152-Striker-": {
+    "tooltipDescription": "Drawing on great inner strength to unleash more powerful force.\nAttack Damage increased by 8.4%\nMovement Speed increased by 6%"
+  },
+  "11100221-JobChange_01-": {
+    "tooltipDescription": "Feeling completely drained.\nDefense reduced by 7.8%, Movement Speed reduced by 7.8%.\nCan stack up to 5 times."
+  },
+  "10200032-JobChange_01-": {
+    "tooltipDescription": "Restores 1.2 Spirit per second"
+  },
+  "10200212-JobChange_01-": {
+    "tooltipDescription": "Physical Attack increased by 31.5%\nBlood Thirst damage increased by 336%\nUsing Blood Thirst has a 30% chance to trigger No Mercy"
+  },
+  "10200265-JobChange_02-": {
+    "tooltipDescription": "Defense increased by 10%, Physical Attack increased by 17.5%"
+  },
+  "11100091-SoulBinder-": {
+    "tooltipDescription": "The energy within is going berserk!\nAutomatically generates a Spirit Core every 0.5 seconds"
+  },
+  "10400231-JobChange_01-": {
+    "tooltipDescription": "Restores HP equal to 100% of Magic Attack every 0.5 seconds"
+  },
+  "10400091--": {
+    "tooltipDescription": "Received an angel's blessing.\nPhysical and Magic Attack increased by 7.6%\nPhysical and Magic Resistance increased by 230"
+  },
+  "10300091--": {
+    "tooltipDescription": "Absorbed magical energy from the magic circle.\nPhysical and Magic Attack increased by 5.4%\nCaster receives an additional 2.7%"
+  },
+  "10400122--": {
+    "tooltipDescription": "Exposed to a brilliant light!\nAll damage taken increased by 7.6%"
+  },
+  "10300275-JobChange_02-": {
+    "tooltipDescription": "Deals 806% damage every 0.5 seconds"
+  },
+  "92002029-ShadowExpedition-": {
+    "tooltipDescription": "Restores HP every 0.25 seconds"
+  },
+  "92003012-ShadowExpedition-": {
+    "tooltipDescription": "Movement Speed increased\nAll damage received reduced\nDeals fire damage to up to 8 targets within 3 meters every 0.2 seconds\nRestores Spirit every 0.2 seconds"
+  },
+  "10700162--": {
+    "tooltipDescription": "Blocking attacks with gold to reinforce the weapon.\nIncoming damage reduced by 9.2%\nPhysical Attack increased by 44%"
+  },
+  "10500072--": {
+    "tooltipDescription": "Aided by the Golden Eagle.\nDexterity increased by 7.7%"
+  },
+  "10500272-JobChange_02-": {
+    "tooltipDescription": "Receiving combat support from the Phoenix.\nCritical Hit +120\nPhysical Damage increased by 29%\nDexterity increased by 19.5%"
+  },
+  "50000362--": {
+    "level": "1",
+    "name": "Health Regen",
+    "tooltipDescription": "Continuously regenerates health."
+  },
+  "50000364--": {
+    "name": "Health Regen",
+    "level": "1",
+    "tooltipDescription": "Continuously regenerates health."
+  },
+  "50000365--": {
+    "name": "Recover HP",
+    "tooltipDescription": "Continuously restores HP.\nRestores up to 45%.",
+    "level": "1"
+  },
+  "50000366--": {
+    "name": "Recover HP",
+    "tooltipDescription": "Continuously restores HP.\nRestores up to 18%.",
+    "level": "1"
+  },
+  "50000367-LapentaDungeon-": {
+    "name": "Recover HP",
+    "tooltipDescription": "Continuously restores HP.\nRestores up to 75%.\nInvincible state.",
+    "level": "1"
+  },
+  "50000368-LapentaDungeon-": {
+    "name": "Recover HP",
+    "tooltipDescription": "Continuously restores HP.\nEffect granted by Felria.",
+    "level": "1"
+  },
+  "50000369-LapentaDungeon-": {
+    "name": "Recover HP",
+    "tooltipDescription": "Continuously restores HP.\nEffect granted by Felria.",
+    "level": "1"
+  },
+  "50000403--": {
+    "name": "Attack Power Reduced",
+    "tooltipDescription": "Physical and Magic Attack reduced by 60%.",
+    "level": "1"
+  },
+  "50000404--": {
+    "name": "Fatal Wound",
+    "tooltipDescription": "Continuously takes physical damage.",
+    "level": "1"
+  },
+  "50000402--": {
+    "name": "Movement Speed Reduced",
+    "tooltipDescription": "Movement speed reduced by 30%.",
+    "level": "1"
+  },
+  "50000408--": {
+    "name": "Sewage Backflow",
+    "tooltipDescription": "Continuously takes physical damage.",
+    "level": "1"
+  },
+  "50000406--": {
+    "name": "Throw Money",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000409--": {
+    "name": "Stunned",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000410--": {
+    "name": "Weakened",
+    "tooltipDescription": "Physical and Magic Attack reduced by 60%.\nMovement speed reduced by 30%.",
+    "level": "1"
+  },
+  "50000413--": {
+    "name": "Stunned",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "1"
+  },
+  "50000412--": {
+    "name": "Movement Speed Reduced",
+    "tooltipDescription": "Movement speed reduced by 30%.",
+    "level": "1"
+  },
+  "50000411--": {
+    "name": "Vomit",
+    "tooltipDescription": "Hit by a ghost's vomit attack, movement speed reduced.\nGhost's normal attacks deal additional damage.",
+    "level": "1"
+  },
+  "50000417--": {
+    "name": "Infected",
+    "tooltipDescription": "Continuously takes physical damage.",
+    "level": "1"
+  },
+  "50000422--": {
+    "name": "Deadly Poison",
+    "tooltipDescription": "Continuously takes poison damage.",
+    "level": "1"
+  },
+  "50000424--": {
+    "name": "Deadly Poison",
+    "tooltipDescription": "Takes poison damage per second.\nMovement speed reduced by 40%.",
+    "level": "1"
+  },
+  "50000425--": {
+    "name": "Deadly Poison",
+    "tooltipDescription": "Takes poison damage per second.\nPhysical and Magic Attack reduced by 40%.",
+    "level": "1"
+  },
+  "50000429--": {
+    "name": "Block Prison",
+    "tooltipDescription": "Unable to move.",
+    "level": "1"
+  },
+  "50000438--": {
+    "name": "Poison Cloud",
+    "tooltipDescription": "Continuously inflicts dark damage.",
+    "level": "1"
+  },
+  "50000434--": {
+    "name": "Attack Power Reduced",
+    "tooltipDescription": "Physical and Magic Attack reduced by 60%.",
+    "level": "1"
+  },
+  "50000431--": {
+    "name": "Sand Attack",
+    "tooltipDescription": "Accuracy reduced by 20%.",
+    "level": "1"
+  },
+  "50000440--": {
+    "level": "1",
+    "name": "Shrink",
+    "tooltipDescription": "Body size reduced by 50%\nPhysical ATK and Magic ATK decreased by 99%\nDEF decreased by 40%"
+  },
+  "50000442--": {
+    "name": "Spore Toxin",
+    "level": "1",
+    "tooltipDescription": "Take toxin damage every second\nMovement Speed decreased by 30%"
+  },
+  "50000444--": {
+    "name": "Slow",
+    "level": "1",
+    "tooltipDescription": "Decreases movement speed by 40%."
+  },
+  "50000447--": {
+    "level": "1",
+    "name": "Toxic",
+    "tooltipDescription": "Inflicts poison damage every sec. Decreases movement speed by 50%."
+  },
+  "50000449--": {
+    "name": "Toxic",
+    "level": "1",
+    "tooltipDescription": "Inflicts poison damage every sec. Damages nearby allies."
+  },
+  "50000452--": {
+    "level": "1",
+    "name": "Trapped",
+    "tooltipDescription": "Unable to move. Causes an area explosion."
+  },
+  "50000500--": {
+    "name": "Soul Harvest",
+    "level": "1",
+    "tooltipDescription": "Increases spirit costs by 50%."
+  },
+  "50000505--": {
+    "name": "Spirit Seal",
+    "level": "1",
+    "tooltipDescription": "Unable to use spirit."
+  },
+  "50000504--": {
+    "name": "Spirit Seal",
+    "level": "1",
+    "tooltipDescription": "Unable to use spirit."
+  },
+  "50000506--": {
+    "name": "Spirit Seal",
+    "level": "1",
+    "tooltipDescription": "Unable to use spirit."
+  },
+  "50000507--": {
+    "level": "1",
+    "name": "Spirit Seal",
+    "tooltipDescription": "Unable to use spirit."
+  },
+  "50000508--": {
+    "name": "Spirit Seal",
+    "level": "1",
+    "tooltipDescription": "Unable to use spirit."
+  },
+  "50000509--": {
+    "name": "Energy Seal",
+    "tooltipDescription": "Cannot use Energy",
+    "level": "1"
+  },
+  "50000510--": {
+    "name": "Energy Seal",
+    "tooltipDescription": "Cannot use Energy",
+    "level": "1"
+  },
+  "50000511--": {
+    "name": "Low Stamina",
+    "tooltipDescription": "Energy consumption increased by 80%",
+    "level": "1"
+  },
+  "50000512--": {
+    "name": "Energy Seal",
+    "tooltipDescription": "Cannot use Energy",
+    "level": "1"
+  },
+  "50000560--": {
+    "name": "Movement Seal",
+    "tooltipDescription": "Cannot use Quick Move\nMovement Speed reduced by 50%",
+    "level": "1"
+  },
+  "50000900--": {
+    "name": "Cold-Blooded Soul",
+    "tooltipDescription": "Inflicts the Cold-Blooded Soul status on the target",
+    "level": "3"
+  },
+  "50000902--": {
+    "name": "Baphomet's Wrathful Soul",
+    "tooltipDescription": "Take Dark damage every second\nCan stack up to 3 times",
+    "level": "1"
+  },
+  "50000901--": {
+    "name": "Baphomet's Shadow Poison",
+    "tooltipDescription": "Defense reduced for a duration\nTake Poison damage every second",
+    "level": "1"
+  },
+  "50000903--": {
+    "name": "Baphomet's Soul of Chaos",
+    "level": "1",
+    "tooltipDescription": "Takes dark damage every second.\nStacks up to 3 times."
+  },
+  "50000904--": {
+    "level": "1",
+    "name": "Baphomet's Bloodless Soul",
+    "tooltipDescription": "Takes dark damage every second.\nMovement Speed reduced by 13%.\nStacks up to 3 times."
+  },
+  "50000905--": {
+    "name": "Electrocution Mode",
+    "level": "3",
+    "tooltipDescription": "Inflicts Electrocution on the target."
+  },
+  "50000907--": {
+    "name": "Relnos's Curse",
+    "level": "1",
+    "tooltipDescription": "Continuously takes poison damage.\nStunned by Mamamosi's attack.\nDeals poison damage to nearby allies."
+  },
+  "50000906--": {
+    "name": "Electrocuted",
+    "level": "2",
+    "tooltipDescription": "Electrocuted! Electricity courses through your body!\nDefense against laser attacks reduced.\nStacks up to 2 times."
+  },
+  "50000908--": {
+    "name": "Fikanoss's Curse",
+    "level": "1",
+    "tooltipDescription": "Continuously takes curse damage.\nStunned by Ganushe's attack."
+  },
+  "50000909--": {
+    "level": "1",
+    "name": "Mamaxi's Curse",
+    "tooltipDescription": "Continuously takes curse damage\nReinoss' attacks reduce Energy to 0\nNearby allies' Energy is reduced"
+  },
+  "50000912--": {
+    "name": "Evil Leopard's Attack Order",
+    "tooltipDescription": "STR, DEX, INT, and LUK increased by 20%\nDEF decreased by 40%",
+    "level": "1"
+  },
+  "50000910--": {
+    "name": "Evil Leopard's Curse",
+    "tooltipDescription": "Continuously deals dark damage\nShadows seal Energy and inflict Fear",
+    "level": "1"
+  },
+  "50000913--": {
+    "name": "Music Bomb",
+    "tooltipDescription": "Periodically triggers internal music bursts\nForces nearby allies to dance",
+    "level": "2"
+  },
+  "50000914--": {
+    "name": "Dancing",
+    "tooltipDescription": "Forced to dance, unable to act",
+    "level": "1"
+  },
+  "50000915--": {
+    "name": "Dancing",
+    "tooltipDescription": "Forced to dance, unable to act",
+    "level": "1"
+  },
+  "50000930--": {
+    "name": "Shadow Toxin",
+    "tooltipDescription": "Continuously takes poison damage",
+    "level": "1"
+  },
+  "50000916--": {
+    "name": "Dancing",
+    "tooltipDescription": "Forced into a dancing state, unable to act",
+    "level": "2"
+  },
+  "50000931--": {
+    "name": "Shadow's Curse",
+    "tooltipDescription": "Continuously takes poison damage",
+    "level": "1"
+  },
+  "50000951--": {
+    "name": "Fire Protection",
+    "tooltipDescription": "Continuously causes flame explosions on the body\nHeals frozen allies\nAttached to the boss, enabling attacks",
+    "level": "3"
+  },
+  "50000956--": {
+    "name": "Faint",
+    "tooltipDescription": "Stunned, unable to move.",
+    "level": "2"
+  },
+  "50001006--": {
+    "name": "Laser Attack Mode",
+    "tooltipDescription": "Primarily engages in laser-based attacks.\nStuns the target for a duration.",
+    "level": "2"
+  },
+  "50001005--": {
+    "name": "Physical Attack Mode",
+    "tooltipDescription": "Performs powerful barehanded physical attacks.\nReduces the target's energy to 0 for a duration.",
+    "level": "2"
+  },
+  "50001022--": {
+    "name": "Flame Breath State",
+    "tooltipDescription": "Primarily uses fire attribute attacks.",
+    "level": "1"
+  },
+  "50001007--": {
+    "tooltipDescription": "Movement speed increases with each attack.\nCan stack up to 4 times.",
+    "name": "Movement Speed Up",
+    "level": "1"
+  },
+  "50001024--": {
+    "name": "Lightning Breath State",
+    "tooltipDescription": "Primarily uses lightning attribute attacks.",
+    "level": "1"
+  },
+  "50001023--": {
+    "name": "Ice Breath State",
+    "tooltipDescription": "Primarily uses ice attribute attacks.",
+    "level": "1"
+  },
+  "50001033--": {
+    "name": "Soul Absorption Phase 3",
+    "tooltipDescription": "Soul Absorption Phase 3\nAbsorb the souls of 7 shadow creatures\nDefense +50%",
+    "level": "1"
+  },
+  "50001032--": {
+    "name": "Soul Absorption Phase 2",
+    "tooltipDescription": "Soul Absorption Phase 2\nAbsorb the souls of 4 shadow creatures\nDefense +30%",
+    "level": "3"
+  },
+  "50001031--": {
+    "name": "Soul Absorption Phase 1",
+    "tooltipDescription": "Soul Absorption Phase 1\nAbsorb the souls of 3 shadow creatures\nDefense +10%",
+    "level": "3"
+  },
+  "50001034--": {
+    "name": "Life Form Absorption Phase 1",
+    "tooltipDescription": "State enhanced to Phase 1 after absorbing a life form\nDefense +10%",
+    "level": "1"
+  },
+  "50001035--": {
+    "name": "Life Form Absorption Phase 2",
+    "tooltipDescription": "After killing an absorbed creature, enhances to Stage 2.\nDefense increased by 20%.",
+    "level": "1"
+  },
+  "50001037--": {
+    "name": "Lethal Frenzy Strike",
+    "tooltipDescription": "Absorbs the soul of the shadow,\nlaunching a powerful attack.",
+    "level": "1"
+  },
+  "50001040--": {
+    "name": "Absorption State",
+    "tooltipDescription": "State of being absorbed into the Shadow Leopard's body, unable to act.",
+    "level": "1"
+  },
+  "50001044--": {
+    "name": "Curse Attack",
+    "tooltipDescription": "Greatly reduces the ATK of the target.",
+    "level": "1"
+  },
+  "50001047--": {
+    "name": "Shadow Spark State",
+    "tooltipDescription": "Harnesses the power of Shadow Spark.\nDEF +80%\nATK +30%",
+    "level": "1"
+  },
+  "50001048--": {
+    "name": "Shadow Spark State",
+    "level": "1",
+    "tooltipDescription": "Gained the power of Shadow Spark\nInflicts Shadow Spark Burn on the target\nDefense increased by 75%"
+  },
+  "50001052--": {
+    "name": "Defense Up",
+    "level": "1",
+    "tooltipDescription": "Defense increased by 40%\nCan stack up to 2 times"
+  },
+  "50001056--": {
+    "name": "Magic Attack Up",
+    "level": "1",
+    "tooltipDescription": "Increases magic attack by 40%\nStacks up to 2 times"
+  },
+  "50001054--": {
+    "name": "Physical Attack Up",
+    "level": "1",
+    "tooltipDescription": "Increases physical attack by 40%\nStacks up to 2 times"
+  },
+  "50001060--": {
+    "name": "Defense Up",
+    "level": "2",
+    "tooltipDescription": "Increases defense by 70%. Affected by the Solomon or Rex Statue."
+  },
+  "50001061--": {
+    "level": "1",
+    "name": "Attack Down",
+    "tooltipDescription": "Decreases attack by 30%. Stacks up to 3 times. Taking damage from the Huigin or Mugin statue."
+  },
+  "50001064--": {
+    "level": "1",
+    "name": "Perfect Guard",
+    "tooltipDescription": "Invincible!"
+  },
+  "50001066--": {
+    "level": "1",
+    "name": "Enlarged",
+    "tooltipDescription": "Enlarged. Increases attack by 30%. Increases defense by 70%. Effect removed upon defeat of the Huigin and Mugin statue."
+  },
+  "50001401--": {
+    "name": "Nausea",
+    "level": "2",
+    "tooltipDescription": "Ready to vomit and create an area that inflicts damage."
+  },
+  "50001089-LapentaDungeon-": {
+    "level": "1",
+    "name": "Dark Damage",
+    "tooltipDescription": "Damaged by Ishura's dark domain."
+  },
+  "50001402--": {
+    "name": "Poison Explosion",
+    "level": "1",
+    "tooltipDescription": "Explode with poison. Removed when immersed in water."
+  },
+  "50001403--": {
+    "level": "1",
+    "name": "Flame Explosion",
+    "tooltipDescription": "Periodically triggers a Flame Explosion."
+  },
+  "50001405--": {
+    "name": "Ice Block",
+    "tooltipDescription": "Trapped inside an Ice Block, unable to move.\nWhile frozen, Defense is reduced."
+  },
+  "50001404--": {
+    "name": "Frost Explosion",
+    "tooltipDescription": "A Frost Explosion will occur shortly.\nIf the caster dies before it triggers,\nthe Frost Explosion will not occur."
+  },
+  "50001406--": {
+    "name": "Ice Block",
+    "tooltipDescription": "Trapped inside an Ice Block, unable to move.\nWhile frozen, Defense is reduced."
+  },
+  "50001407--": {
+    "name": "Flame Explosion",
+    "tooltipDescription": "Triggers a Flame Explosion after 3 seconds."
+  },
+  "50001409-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Generates a Plague Explosion every 5 seconds.\nYou and nearby party members take severe poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001408-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Generates a Plague Explosion every 5 seconds.\nYou and nearby party members take severe poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001410-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Generates a Plague Explosion every 5 seconds.\nYou and nearby party members take severe poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001411--": {
+    "name": "Ice Block",
+    "tooltipDescription": "Trapped inside an Ice Block, unable to move.\nWhile frozen, Defense is reduced."
+  },
+  "50001412-LapentaDungeon-": {
+    "name": "Curse Explosion",
+    "tooltipDescription": "Attacking the boss inflicts Silence.\nA Curse Explosion occurs every 5 seconds,\napplying an Energy Drain Curse to nearby party members."
+  },
+  "50001416-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Every 5 seconds, causes a plague explosion.\nYou and nearby party members take deadly poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001417-Kritias_Zakum01-": {
+    "name": "Plague Explosion",
+    "tooltipDescription": "Every 5 seconds, causes a plague explosion.\nYou and nearby party members take deadly poison damage.\nParty members hit by the explosion spread the contagion."
+  },
+  "50001415-Kritias_Zakum01-": {
+    "tooltipDescription": "Every 5 seconds, causes a plague explosion.\nYou and nearby party members take deadly poison damage.\nParty members hit by the explosion spread the contagion.",
+    "name": "Plague Explosion"
+  },
+  "50001451--": {
+    "name": "Death Sentence",
+    "tooltipDescription": "Die instantly after a few seconds."
+  },
+  "50001450--": {
+    "name": "Death Sentence",
+    "tooltipDescription": "Die instantly after a few seconds."
+  },
+  "50001452--": {
+    "name": "Dark Sentence",
+    "tooltipDescription": "Near Death"
+  },
+  "50001550--": {
+    "name": "Shrink",
+    "tooltipDescription": "Body size reduced by 50%\nPhysical Attack and Magic Attack reduced by 80%\nDefense reduced by 50%"
+  },
+  "50001651--": {
+    "name": "Accuracy Reduced",
+    "tooltipDescription": "Accuracy reduced by 75%"
+  },
+  "50001650--": {
+    "name": "Accuracy Reduced",
+    "tooltipDescription": "Accuracy reduced by 60%"
+  },
+  "50001553-LapentaDungeon-": {
+    "name": "Shrink",
+    "tooltipDescription": "Body size reduced by 50%\nPhysical and magic attack reduced by 80%\nDefense reduced by 50%"
+  },
+  "50001652--": {
+    "name": "Accuracy Reduction",
+    "tooltipDescription": "Accuracy reduced by 30%\nMax 3 stacks"
+  },
+  "50001654-LapentaDungeon-": {
+    "name": "Accuracy Reduced",
+    "tooltipDescription": "Accuracy reduced by 18%\nCan stack up to 5 times"
+  },
+  "50001653--": {
+    "tooltipDescription": "Accuracy reduced by 10%\nCan stack up to 7 times",
+    "name": "Accuracy Reduced"
+  },
+  "50001656-CrimsonBalrog01-": {
+    "name": "Accuracy Reduced",
+    "tooltipDescription": "Hit rate reduced by 70%."
+  },
+  "50001657-Kritias_Inferno01-": {
+    "name": "Accuracy Reduced",
+    "tooltipDescription": "Accuracy reduced by 25%\nCan stack up to 3 times"
+  },
+  "50001655-LapentaDungeon-": {
+    "name": "Accuracy Reduced",
+    "tooltipDescription": "Accuracy reduced by 85%"
+  },
+  "50002000--": {
+    "name": "Max HP Reduced",
+    "tooltipDescription": "Maximum HP reduced by 10%\nCan stack up to 5 times"
+  },
+  "50002102--": {
+    "name": "Healing Potion Effect Reduced",
+    "tooltipDescription": "Recovery effect of healing potions\nreduced by 50%\nContinuously inflicts curse damage"
+  },
+  "50003017--": {
+    "tooltipDescription": "Attack power reduced by 20%"
+  },
+  "50004800--": {
+    "name": "Healing Potion Effect Reduced",
+    "tooltipDescription": "Recovery effect of healing potions\nreduced by 95%\nContinuously inflicts curse damage"
+  },
+  "50004801--": {
+    "name": "Healing Potion Effect Reduced",
+    "tooltipDescription": "Recovery effect of healing potions\nreduced by 40%\nContinuously inflicts curse damage"
+  },
+  "50003100--": {
+    "name": "Movement Speed Reduced",
+    "tooltipDescription": "Movement speed reduced by 48%"
+  },
+  "50004803--": {
+    "name": "Healing Potion Effect Reduced"
+  },
+  "50004802--": {
+    "name": "Healing Potion Effect Reduced"
+  },
+  "50004804-CrimsonBalrog01-": {
+    "name": "Healing Potion Effect Reduced",
+    "tooltipDescription": "Recovery effect from healing potion items\nreduced by 33%\nContinuously inflicts curse damage\nCan stack up to 3 times"
+  },
+  "50170001-SnowKingdom-": {
+    "name": "Attack Power Reduced",
+    "tooltipDescription": "Attack power reduced by 99%\nDamage caused by Faelen's Shield of Light"
+  },
+  "50005300-Kritias_Zakum01-": {
+    "tooltipDescription": "When attacking Zakum, attack power and accuracy are reduced\nEffect disappears after destroying all Contract Totems"
+  },
+  "50005301-Kritias_Zakum01-": {
+    "tooltipDescription": "When attacking Contract Totems, attack power and accuracy are reduced\nEffect disappears after destroying all Contract Totems"
+  },
+  "50005013--": {
+    "tooltipDescription": "Continuously takes lightning damage\nAccuracy reduced by 18%\nCan stack up to 5 times"
+  },
+  "50170002-SnowKingdom-": {
+    "tooltipDescription": "Trapped inside an ice block, unable to move\nDefense is reduced while in the frozen state"
+  },
+  "50001658-Wedding-": {
+    "name": "Dancing at the Wedding",
+    "tooltipDescription": "Forced to dance, unable to act."
+  },
+  "50001659-Wedding-": {
+    "tooltipDescription": "Forced to dance, unable to act.",
+    "name": "Dancing at the Wedding"
+  },
+  "50001661-Wedding-": {
+    "name": "Turned Tiny"
+  },
+  "50001660-Wedding-": {
+    "name": "Dancing at the Wedding",
+    "tooltipDescription": "Forced to dance, unable to act."
+  },
+  "50002100--": {
+    "name": "Silence",
+    "tooltipDescription": "Silenced, unable to use skills.\nBasic attacks still available."
+  },
+  "50002104--": {
+    "name": "Physical Weakness",
+    "tooltipDescription": "Energy consumption increased by 80%."
+  },
+  "50002103--": {
+    "name": "Defense Reduction"
+  },
+  "50002101--": {
+    "name": "Confusion",
+    "tooltipDescription": "Confused!\nUp/Down/Left/Right directions reversed."
+  },
+  "50002106--": {
+    "name": "Confusion",
+    "tooltipDescription": "Can't stay alert!\nUp/Down and Left/Right directions reversed."
+  },
+  "50002105--": {
+    "name": "Confusion",
+    "tooltipDescription": "Can't stay alert!\nUp/Down and Left/Right directions reversed."
+  },
+  "50002107--": {
+    "name": "Confusion",
+    "tooltipDescription": "Can't get focused!\nAll directions reversed."
+  },
+  "50002109-LapentaDungeon-": {
+    "name": "Silence",
+    "tooltipDescription": "Silenced, unable to use skills.\nBasic attacks still available."
+  },
+  "50002108-LapentaDungeon-": {
+    "name": "Silence",
+    "tooltipDescription": "Silenced, unable to use skills.\nBasic attacks still available."
+  },
+  "50003000--": {
+    "name": "Physical Shield",
+    "tooltipDescription": "Protects against status effects from Papulatus' fist attacks."
+  },
+  "50003006--": {
+    "name": "Cold Protection"
+  },
+  "50003001--": {
+    "name": "Laser Shield",
+    "tooltipDescription": "Protects against status effects from Papulatus' laser attacks."
   }
 }

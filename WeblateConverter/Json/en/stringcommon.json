@@ -1,6 +1,6 @@
 {
   "s_empty_string--": {
-    "value": ""
+    "value": " "
   },
   "s_raw_ngs_init_error--": {
     "value": "An error occurred while executing NGS. ({0:08X})"
@@ -462,7 +462,7 @@
     "value": "Upgrade the guild NPC."
   },
   "s_err_lack_achieve--": {
-    "value": "You must have the \"{0}\" trophy to do this."
+    "value": "You must earn the [{0}] trophy."
   },
   "s_err_lack_fame_alliance--": {
     "value": "You must be {1} by {0}."
@@ -2751,7 +2751,7 @@
     "value": "Ch. {0}"
   },
   "s_party_ch_dungeon--": {
-    "value": ""
+    "value": "Party Channel Dungeon"
   },
   "s_party_err_code--": {
     "value": "System Error: Party, code = {0}, {1}"
@@ -3228,7 +3228,7 @@
     "value": "You created a new design!"
   },
   "s_msg_ugc_item_edit_complete_cube--": {
-    "value": "You created a new design!\\n\\nYou can view your new furnishing under the \"Design\" tab in furnishing mode while inside your home.\\n "
+    "value": "Item crafted successfully.\n\nThe crafted construction item can be found in Construction Mode in your home. "
   },
   "s_msg_ugc_item_upload_screenshot--": {
     "value": "Upload your appearance to the community after equipping the created item?"
@@ -3312,7 +3312,7 @@
     "value": "You cannot receive rewards while tombstoned."
   },
   "s_quest_error_field_enter_limit--": {
-    "value": "You need to complete the quest \"{0}\" to enter."
+    "value": "You must complete the {0} quest to enter."
   },
   "s_quest_not_selected_reward--": {
     "value": "Select a reward."
@@ -3327,7 +3327,7 @@
     "value": "\\n<FONT color='#FFD200'>You have a related quest: {0}</FONT>"
   },
   "s_quest_expired_auto_giveup--": {
-    "value": "The quest \"{0}\" has expired."
+    "value": "The {0} quest has been removed because the completion period has expired."
   },
   "s_quest_complete_ui_effect--": {
     "value": "Quest Completed: {0}"
@@ -5959,67 +5959,67 @@
     "value": "Reduces enemy damage by {0:0.1f}% of max health"
   },
   "s_item_opt_sa_reduce_meso_revival_fee--": {
-    "value": ""
+    "value": "Meso Revival Fee Reduction"
   },
   "s_item_opt_sa_reduce_meso_revival_fee_v--": {
-    "value": ""
+    "value": "Meso Revival Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_meso_revival_fee_r--": {
-    "value": ""
+    "value": "Meso Revival Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_riding_run_speed--": {
-    "value": ""
+    "value": "Mount Run Speed"
   },
   "s_item_opt_sa_improve_riding_run_speed_v--": {
-    "value": ""
+    "value": "Mount Run Speed +{0:d}"
   },
   "s_item_opt_sa_improve_riding_run_speed_r--": {
-    "value": ""
+    "value": "Mount Run Speed +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_dungeon_reward_meso--": {
-    "value": ""
+    "value": "Dungeon Reward Meso"
   },
   "s_item_opt_sa_improve_dungeon_reward_meso_v--": {
-    "value": ""
+    "value": "Dungeon Reward Meso +{0:d}"
   },
   "s_item_opt_sa_improve_dungeon_reward_meso_r--": {
-    "value": ""
+    "value": "Dungeon Reward Meso +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_shop_buying_meso--": {
-    "value": ""
+    "value": "Shop Purchase Meso Discount"
   },
   "s_item_opt_sa_improve_shop_buying_meso_v--": {
-    "value": ""
+    "value": "Shop Purchase Meso Discount +{0:d}"
   },
   "s_item_opt_sa_improve_shop_buying_meso_r--": {
-    "value": ""
+    "value": "Shop Purchase Meso Discount +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_itembox_reward_meso--": {
-    "value": ""
+    "value": "Item Box Reward Meso"
   },
   "s_item_opt_sa_improve_itembox_reward_meso_v--": {
-    "value": ""
+    "value": "Item Box Reward Meso +{0:d}"
   },
   "s_item_opt_sa_improve_itembox_reward_meso_r--": {
-    "value": ""
+    "value": "Item Box Reward Meso +{0:0.1f}%"
   },
   "s_item_opt_sa_reduce_remakeoption_fee--": {
-    "value": ""
+    "value": "Bonus Stats Reroll Fee Reduction"
   },
   "s_item_opt_sa_reduce_remakeoption_fee_v--": {
-    "value": ""
+    "value": "Bonus Stats Reroll Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_remakeoption_fee_r--": {
-    "value": ""
+    "value": "Bonus Stats Reroll Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_reduce_airtaxi_fee--": {
-    "value": ""
+    "value": "Air Taxi Fee Reduction"
   },
   "s_item_opt_sa_reduce_airtaxi_fee_v--": {
-    "value": ""
+    "value": "Air Taxi Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_airtaxi_fee_r--": {
-    "value": ""
+    "value": "Air Taxi Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_socket_unlock_probability--": {
     "value": ""
@@ -6031,28 +6031,28 @@
     "value": ""
   },
   "s_item_opt_sa_reduce_gemstone_upgrade_fee--": {
-    "value": ""
+    "value": "Gemstone Upgrade Fee Reduction"
   },
   "s_item_opt_sa_reduce_gemstone_upgrade_fee_v--": {
-    "value": ""
+    "value": "Gemstone Upgrade Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_gemstone_upgrade_fee_r--": {
-    "value": ""
+    "value": "Gemstone Upgrade Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_reduce_pet_remakeoption_fee--": {
-    "value": ""
+    "value": "Pet Bonus Stats Reroll Fee Reduction"
   },
   "s_item_opt_sa_reduce_pet_remakeoption_fee_v--": {
-    "value": ""
+    "value": "Pet Bonus Stats Reroll Fee Reduction +{0:d}"
   },
   "s_item_opt_sa_reduce_pet_remakeoption_fee_r--": {
-    "value": ""
+    "value": "Pet Bonus Stats Reroll Fee Reduction +{0:0.1f}%"
   },
   "s_item_opt_sa_improve_riding_speed--": {
-    "value": ""
+    "value": "Mount Speed"
   },
   "s_item_opt_sa_improve_riding_speed_v--": {
-    "value": ""
+    "value": " "
   },
   "s_item_opt_sa_improve_riding_speed_r--": {
     "value": ""
@@ -8199,7 +8199,7 @@
     "value": "Quest Reward"
   },
   "s_quest_state_init--": {
-    "value": ""
+    "value": " "
   },
   "s_quest_state_beginAble--": {
     "value": "Available"
@@ -19334,5 +19334,793 @@
   },
   "s_err_not_allow_pvpField--": {
     "value": "You cannot use skills in the battlefield."
+  },
+  "s_treewatering_watering-Event-JP": {
+    "value": "Throw Pumpkin in Cauldron"
+  },
+  "s_treewatering_watering_casting-Event-JP": {
+    "value": "Cauldron Boiling..."
+  },
+  "s_treewatering_emotion-Event-JP": {
+    "value": "Admire the Cauldron"
+  },
+  "s_dungeonRoom_findMember_button_tooltip-FindDungeonHelp-CN": {
+    "value": "<FONT color='#FFD200' size='15' >Recruit Party Members</FONT>\n<FONT size='3'> </FONT>\nClick the button to recruit party members to adventure with you in the dungeon.\nIf you clear a dungeon with a novice adventurer, you can obtain {0} additional Chivalrous Knight Boxes per day."
+  },
+  "s_treewatering_emotion_casting-Event-JP": {
+    "value": "Admiring the Cauldron..."
+  },
+  "s_treewatering_no_waterpot-Event-JP": {
+    "value": "You have no rotten pumpkins."
+  },
+  "s_treewatering_emotionreward-Event-JP": {
+    "value": "Admired the cauldron. ({0}/{1})"
+  },
+  "s_treewatering_nomore_emotion_reward-Event-JP": {
+    "value": "You've received all daily rewards."
+  },
+  "s_treewatering_wateringreward-Event-JP": {
+    "value": "Threw a pumpkin in the cauldron. ({0}/{1})"
+  },
+  "s_treewatering_nomore_watering_reward-Event-JP": {
+    "value": "You've received all daily rewards."
+  },
+  "s_treewatering_watering-Event-CN": {
+    "value": "Water the Cherry Blossom Tree"
+  },
+  "s_treewatering_emotion-Event-CN": {
+    "value": "Bond with the Cherry Blossom Tree"
+  },
+  "s_treewatering_watering_casting-Event-CN": {
+    "value": "Watering the Cherry Blossom Tree..."
+  },
+  "s_treewatering_wateringreward-Event-CN": {
+    "value": "Watered the cherry blossom tree. ({0}/{1})"
+  },
+  "s_treewatering_emotion_casting-Event-CN": {
+    "value": "Bonding with the Cherry Blossom Tree..."
+  },
+  "s_treewatering_emotionreward-Event-CN": {
+    "value": "Bonded with the cherry blossom tree. ({0}/{1})"
+  },
+  "s_treewatering_no_waterpot-Event-CN": {
+    "value": "You have no watering can."
+  },
+  "s_treewatering_nomore_watering_reward-Event-CN": {
+    "value": "You've received all daily rewards."
+  },
+  "s_treewatering_nomore_emotion_reward-Event-CN": {
+    "value": "You've received all daily rewards."
+  },
+  "s_maple_survival_ui_season_period-SurvivalContents01-KR": {
+    "value": "{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} {8:02d}:{9:02d}"
+  },
+  "s_notify_currency_overflow_period--": {
+    "value": "You have exceeded the weekly acquisition limit for {0}. The excess {1} {0} will not be acquired and will disappear."
+  },
+  "s_msg_item_active_codi_tab_max-Skin2tab-": {
+    "value": "Cannot be used for more than {0} days."
+  },
+  "s_msg_item_active_codi_tab_limitless-Skin2tab-": {
+    "value": "You can use this costume item without limit.\nWould you like to use the item? "
+  },
+  "s_msg_item_active_codi_tab_complete_period-Skin2tab-": {
+    "value": "{0} days have been added to your costume item's usage period."
+  },
+  "s_msg_item_active_codi_tab_complete_limitless-Skin2tab-": {
+    "value": "You can now use this costume item without limit."
+  },
+  "s_guild_ui_info_guild_exp_event--": {
+    "value": "EXP Gain <FONT color='#FF4040'>x{0}</FONT>\nGuild EXP {1} / {2}"
+  },
+  "s_guild_ui_skill_use_skill_event--": {
+    "value": "<p align='center'>Would you like to spend <FONT color='#FFA200'>{0}</FONT><Img Src='export_common_icon_item_90000026' vspace='-4'></Img> to use the <FONT color='#FFA200'>{1}</FONT> skill?\n\n※ Please check the guild fund amount and buff type.</p>"
+  },
+  "s_msg_chatting_welcome_pubtest1--CN": {
+    "value": "Welcome to the test server. \nThe test server may be somewhat unstable,\nand the content here may differ from what will be applied to the official server."
+  },
+  "s_msg_chatting_welcome_pubtest2--CN": {
+    "value": "Welcome to the test server. \nThe test server may be somewhat unstable,\nand the content here may differ from what will be applied to the official server."
+  },
+  "s_admin_block_cash_out--": {
+    "value": "Hang on! Unusual activity has been detected.\nTo protect your valuable items, gifting and item trading have been temporarily disabled.\nYou will be able to use them again from {0:02d}/{1:02d}."
+  },
+  "s_item_err_Invalid_slot_codi-Skin2tab-": {
+    "value": "Only skin items can be equipped in the Outfit tab."
+  },
+  "s_guild_ui_event_skill_upgrade_popup--": {
+    "value": "Use <FONT color='#FFA200'>{0}</FONT><Img Src='export_common_icon_item_90000026' vspace='-4'></Img> to upgrade\n<FONT color='#FFA200'>{1}</FONT> skill to <FONT color='#FFA200'>Level {2}</FONT>?\nDo you wish to proceed?"
+  },
+  "s_guild_err_not_enough_guild_event_fund--": {
+    "value": "Not enough Guild Event Funds."
+  },
+  "s_item_err_codi_slot-Skin2tab-": {
+    "value": "Please remove the skin weapon equipped in the Outfit tab\nand try again."
+  },
+  "s_char_err_wedding-Wedding-": {
+    "value": "Characters currently in engagement, marriage, or divorce proceedings cannot be deleted."
+  },
+  "s_beauty_msg_error_product_expired--": {
+    "value": "The sale item has changed.\nPlease try again."
+  },
+  "s_change_gender_err_wedding-Wedding-": {
+    "value": "Characters currently in engagement, marriage, or divorce proceedings cannot use a Gender Change Coupon."
+  },
+  "s_beauty_msg_by_expired_codi-Skin2tab-": {
+    "value": "The Outfit tab period has expired."
+  },
+  "s_char_err_shutdown--CN": {
+    "value": "Dear User:\nWe apologize. Due to the game's end of service, new character creation is no longer available in order to protect your rights.\nWe ask for your kind understanding."
+  },
+  "s_beauty_msg_exit_by_expired_codi-Skin2tab-": {
+    "value": "The Outfit tab period has expired. Exiting the editor."
+  },
+  "s_beauty_msg_wait_by_expired_codi-Skin2tab-": {
+    "value": "Please try again in a moment."
+  },
+  "s_char_info_changetab_not_active_codi_tab-Skin2tab-": {
+    "value": "The Outfit tab is not active."
+  },
+  "s_login_err_create_account_block--": {
+    "value": "Service shutdown is scheduled.\nNew accounts can no longer be created."
+  },
+  "s_beauty_msg_restart_by_expired_codi-Skin2tab-": {
+    "value": "The Outfit tab period has expired. Restarting."
+  },
+  "s_char_info_codi_tab_expired-Skin2tab-": {
+    "value": "Period Expired"
+  },
+  "s_char_info_codi_tab_period_fmt-Skin2tab-": {
+    "value": "Available Period: {0}"
+  },
+  "s_msg_rclick_puton_leadskill--": {
+    "value": "<FONT color='#FFFFFF'>Right-<FONT color='#FFD200'>click</FONT><FONT color='#FFFFFF'> to equip a Lead Skill.</FONT>"
+  },
+  "s_buddy_format_homeblock_count--": {
+    "value": "Players blocked from your home: {0}"
+  },
+  "s_msg_rclick_puton_equip_to_skintab-Skin2tab-": {
+    "value": "<FONT color='#FFFFFF'>Right-<FONT color='#FFD200'>click</FONT><FONT color='#FFFFFF'> to equip an item to the Skin tab.</FONT>"
+  },
+  "s_msg_rclick_puton_equip_to_skintab_with_key-Skin2tab-": {
+    "value": "<FONT color='#FFD200'>[{0}]</FONT> + <FONT color='#FFFFFF'>Mouse <FONT color='#FFD200'>right-click</FONT> to equip to the Skin tab.</FONT>"
+  },
+  "s_msg_rclick_puton_equip_to_coditab-Skin2tab-": {
+    "value": "<FONT color='#FFFFFF'>Right-<FONT color='#FFD200'>click</FONT><FONT color='#FFFFFF'> to equip an item to the Coord tab.</FONT>"
+  },
+  "s_home_block_somebody--": {
+    "value": "{0} has been blocked from your home."
+  },
+  "s_home_block_memo_complete--": {
+    "value": "Block note for {0} has been updated."
+  },
+  "s_home_block_err_unknown--": {
+    "value": "Unable to process the request."
+  },
+  "s_home_block_err_no_user--": {
+    "value": "Invalid target."
+  },
+  "s_home_block_del_somebody_from_banlist--": {
+    "value": "{0} has been removed from your home block list."
+  },
+  "s_home_block_err_max_block--": {
+    "value": "You cannot block any more players."
+  },
+  "s_home_block_err_self_block--": {
+    "value": "You cannot block yourself."
+  },
+  "s_home_block_err_already_block--": {
+    "value": "This player is already blocked."
+  },
+  "s_home_block_err_enterance_block--": {
+    "value": "You cannot enter because you have been added to this player's home block list."
+  },
+  "s_meratmarket_error_random_create_fail--": {
+    "value": "Failed to grant the bonus benefit."
+  },
+  "s_tooltip_gamemenu_pssbshop--JP": {
+    "value": "<FONT color='#FFD200' size='15' >Avatar Coin Shop {0}</FONT>\n<FONT size='3'> </FONT>\nYou can purchase items using Avatar Coins.\nAvatar Coins can be obtained by disassembling items from Avatar Random Boxes."
+  },
+  "s_meratmarket_error_random_expired--": {
+    "value": "The bonus benefit has expired."
+  },
+  "s_dungeonRoom_findHelper_button_tooltip--": {
+    "value": "<FONT color='#FFD200' size='15' >Request Help</FONT>\n<FONT size='3'> </FONT>\nYou can request help from experienced adventurers familiar with this dungeon.\nClick the button to find an experienced adventurer to play with!\n\n<FONT color='#FFD200' size='15' >Novice Adventurer</FONT>\n<FONT size='3'> </FONT>\nYou are not yet familiar with this dungeon.\nYou can become an experienced adventurer once you have cleared this dungeon a certain number of times.\n<FONT color='#00AAEF'>- {0} or more times"
+  },
+  "s_meratmarket_error_random_already_exist--": {
+    "value": "A bonus benefit already exists."
+  },
+  "s_meratmarket_limited_date_second--": {
+    "value": "{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}:{5:02d}",
+    "comment": "{0}:year, {1}:month, {2}:day, {3}:hour {4}:minute {5}:second"
+  },
+  "s_meratmarket_random_sale--": {
+    "value": "Secret Deal! {0}% Off"
+  },
+  "s_meratmarket_error_random_payback_not_exist--": {
+    "value": "Payback bonus not found."
+  },
+  "s_meratmarket_error_random_coupon_not_exist--": {
+    "value": "Discount benefit not found."
+  },
+  "s_meratmarket_random_payback--": {
+    "value": "Payback Bonus {0}"
+  },
+  "s_cashshop_gift_comfirm--KR": {
+    "value": "Are you sure you want to gift to <FONT color='#FFD200'>{0}</FONT>?"
+  },
+  "s_weddingchat_use_coupon-Wedding-": {
+    "value": "{0} has been used."
+  },
+  "s_meratmarket_limited_limitless--": {
+    "value": "Remaining: Unlimited"
+  },
+  "s_meratmarket_limited_desc_end--": {
+    "value": "Sale Ends: {0}"
+  },
+  "s_pcbang_play_time2-PCBang-": {
+    "value": "Connected for {0}m"
+  },
+  "s_pcbang_play_time1-PCBang-": {
+    "value": "Connected for {0}h {1}m"
+  },
+  "s_pcbang_get_play_item-PCBang-": {
+    "value": "{0}\n<font color='#FFD200'>A PC Bang timed event gift has arrived in your mailbox.</font>"
+  },
+  "s_pcbang_get_gift_item-PCBang-": {
+    "value": "PC Bang exclusive item received."
+  },
+  "s_pcbang_cant_tutorial_field-PCBang-": {
+    "value": "Available after completing the tutorial."
+  },
+  "s_pcbang_msg_reset_bonus-PCBang-": {
+    "value": "PC Bang benefits have been reset."
+  },
+  "s_enum_dungeon_group_item--JP": {
+    "value": "Daily"
+  },
+  "s_enum_dungeon_group_worldBoss-WorldBossDungeon-": {
+    "value": "World Invasion"
+  },
+  "s_tooltip_itemmerge_option_range--": {
+    "value": "<font color='#ffffff'>{0} {1}~{2}</font>"
+  },
+  "s_enum_dungeon_group_turka-TurkaDungeon-": {
+    "value": "Dark Sanctum"
+  },
+  "s_massive_event_name_event_dungeon-EventMassiveDungeon-": {
+    "value": "Mad Doctor's Lab (Level 50+)"
+  },
+  "s_massive_event_name_pvp_dollshouse-MassivePVPDollshouse-": {
+    "value": "Doll's Mansion (PvP)"
+  },
+  "s_itemremake_error_prev_option_item_not_exist--": {
+    "value": "Cannot find an item without a selected option change result.\nIf you continue, the available option information will be deleted.\nItem Name: {0}"
+  },
+  "s_play_instrument_instrument_category_name_36--": {
+    "value": "Marimba"
+  },
+  "s_play_instrument_instrument_category_name_35--": {
+    "value": "Fretless Bass Guitar"
+  },
+  "s_itemsocketsystem_socketunlock_msg_ask_unlock_skin_first-SkinSocket-": {
+    "value": "Expanding the skin socket on this item will\n<FONT color='#FF4040'>change it to a character-bound state.</FONT>\nDo you want to expand the skin socket?"
+  },
+  "s_itemsocketsystem_socketunlock_msg_ask_transfer_skin_first-ItemSocketTransfer01-": {
+    "value": "Transferring the socket will change the received skin item\n<FONT color='#FF4040'>to a character-bound state.</FONT>\nDo you want to transfer the socket?"
+  },
+  "s_character_ability_character_category_name-CharacterAbility-": {
+    "value": "Character"
+  },
+  "s_character_ability_play_and_feature_category_name-CharacterAbility-": {
+    "value": "Adventure"
+  },
+  "s_character_ability_quest_and_grow_category_name-CharacterAbility-": {
+    "value": "Quest"
+  },
+  "s_character_ability_monster_and_dungeon_category_name-CharacterAbility-": {
+    "value": "Combat"
+  },
+  "s_character_ability_character_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Character</FONT>\n<FONT size='3'> </FONT>\nEnhance your character's unique abilities."
+  },
+  "s_character_ability_content_category_name-CharacterAbility-": {
+    "value": "Life Skills"
+  },
+  "s_character_ability_quest_and_grow_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Quest</FONT>\n<FONT size='3'> </FONT>\nGain additional bonuses when completing quests."
+  },
+  "s_character_ability_monster_and_dungeon_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Combat</FONT>\n<FONT size='3'> </FONT>\nLearn skills useful for dungeon play or combat against monsters."
+  },
+  "s_character_ability_play_and_feature_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Adventure</FONT>\n<FONT size='3'> </FONT>\nGain bonuses for adventuring and various activities."
+  },
+  "s_character_ability_err_no_meso-CharacterAbility-": {
+    "value": "Not enough Mesos."
+  },
+  "s_character_ability_err_no_merat-CharacterAbility-": {
+    "value": "Not enough Merets."
+  },
+  "s_character_ability_err_no_abilitypoint-CharacterAbility-": {
+    "value": "Not enough trait points."
+  },
+  "s_character_ability_meso_reset_desc-CharacterAbility-": {
+    "value": "Pay the cost to reset your traits.\n<FONT color='#FFA200'>{1}</FONT><Img Src='export_common_icon_meso' vspace='-4'/>\nReset your traits?\n<FONT color='#C0C0C0'>(Note: After resetting with Mesos, you must wait {0} days\nbefore you can reset again.)</font>"
+  },
+  "s_character_ability_content_category_tooltip-CharacterAbility-": {
+    "value": "<FONT color='#FFD200' size='15' >Life Skills</FONT>\n<FONT size='3'> </FONT>\nGain bonuses when using Life Skill content."
+  },
+  "s_character_ability_merat_reset_desc-CharacterAbility-": {
+    "value": "<font color='#FF5F5F'>The trait reset cooldown has not expired.\nYou cannot reset your traits yet.</FONT>\nPlease try again after the cooldown ends."
+  },
+  "s_character_ability_meso_reset_button-CharacterAbility-": {
+    "value": "Reset"
+  },
+  "s_character_ability_merat_reset_button-CharacterAbility-": {
+    "value": " Reset"
+  },
+  "s_character_ability_reset_cooltime_request-CharacterAbility-": {
+    "value": "Would you like to start the trait reset recharge?"
+  },
+  "s_character_ability_disabled_quest_desc-CharacterAbility-": {
+    "value": "You must complete the <font color='#FFD200'>{0} (Level {1}) quest</FONT> in <font color='#FFD200'>[{2}] {3}</FONT> to use traits."
+  },
+  "s_character_ability_err_reset_cooltime-CharacterAbility-": {
+    "value": "Trait reset recharge is already complete."
+  },
+  "s_character_ability_err_level_reset_cooltime-CharacterAbility-": {
+    "value": "Not available yet."
+  },
+  "s_character_ability_reset_cooltime-CharacterAbility-": {
+    "value": "Trait reset recharge is complete."
+  },
+  "s_additionalEffect_Special_110001021-CharacterAbility-": {
+    "value": "Trait effect: gained bonus EXP."
+  },
+  "s_additionalEffect_Special_110001020-CharacterAbility-": {
+    "value": "Trait effect: found extra Mesos in a Wooden Treasure Chest."
+  },
+  "s_additionalEffect_Special_110001019-CharacterAbility-": {
+    "value": "Trait effect: found extra Onyx Crystals in a Golden Treasure Chest."
+  },
+  "s_additionalEffect_Special_110001014-CharacterAbility-": {
+    "value": "Trait effect: obtained bonus rewards from a monster."
+  },
+  "s_additionalEffect_Special_110001015-CharacterAbility-": {
+    "value": "Trait effect: obtained an extra Token of Valor."
+  },
+  "s_additionalEffect_Special_110001023-CharacterAbility-": {
+    "value": "Trait effect: gained bonus Rue."
+  },
+  "s_additionalEffect_Special_110001024-CharacterAbility-": {
+    "value": "Trait effect: opened an Adventure Level-Up Box an extra time."
+  },
+  "s_additionalEffect_Special_110001022-CharacterAbility-": {
+    "value": "Trait effect: gained bonus Mesos."
+  },
+  "s_additionalEffect_Special_110001027-CharacterAbility-": {
+    "value": "Gained bonus EXP and Mastery from a trait effect."
+  },
+  "s_additionalEffect_Special_110001025-CharacterAbility-": {
+    "value": "Gained bonus EXP from a trait effect."
+  },
+  "s_itemsocket_scroll_limit_usepart-SkinSocket-": {
+    "value": "Usable on {0} equipment"
+  },
+  "s_additionalEffect_Special_110001029-CharacterAbility-": {
+    "value": "Gained an extra crafting product from a trait effect."
+  },
+  "s_additionalEffect_Special_110001028-CharacterAbility-": {
+    "value": "Gained bonus Fractal Crystals from a trait effect."
+  },
+  "s_magicscroll_craft_messagebox_title-MagicScroll01-": {
+    "value": "Enchant"
+  },
+  "s_mastery_magicscroll_progress-MagicScroll01-": {
+    "value": "Enchanting {0}/{1}"
+  },
+  "s_mastery_magicscroll_no_recipe-MagicScroll01-": {
+    "value": "No recipe exists for that slot and grade."
+  },
+  "s_magicscroll_craft_messagebox_desc-MagicScroll01-": {
+    "value": "How many would you like to enchant?"
+  },
+  "s_magicscroll_word_craft-MagicScroll01-": {
+    "value": "Enchant"
+  },
+  "s_mastery_magicscroll_fracto_scroll_tab-MagicScroll01-": {
+    "value": "Fractal Rune"
+  },
+  "s_mastery_magicscroll_restore_scroll_tab-MagicScroll01-": {
+    "value": "Stabilization Rune"
+  },
+  "s_mastery_magicscroll_enchant_scroll_tab-MagicScroll01-": {
+    "value": "Enchant Rune"
+  },
+  "s_mastery_myhome-MagicScroll01-": {
+    "value": "(My Home)"
+  },
+  "s_mastery_autogatheringbuff_button-AutoMastery01-": {
+    "value": "Auto Gathering Buff"
+  },
+  "s_mastery_magicscroll_protected_scroll_tab-MagicScroll01-": {
+    "value": "Protection Rune"
+  },
+  "s_mastery_otherhome-MagicScroll01-": {
+    "value": "(Someone Else's Home)"
+  },
+  "s_mastery_magicscroll_list_state-MagicScroll01-": {
+    "value": "Use on equipment level {0} or below"
+  },
+  "s_mastery_autobreedingbuff_button-AutoMastery01-": {
+    "value": "Auto Ranching Buff"
+  },
+  "s_mastery_autominingbuff_button-AutoMastery01-": {
+    "value": "Auto Mining Buff"
+  },
+  "s_mastery_autofarmingbuff_button-AutoMastery01-": {
+    "value": "Auto Farming Buff"
+  },
+  "s_mastery_autointeraction_buff_use-AutoMastery01-": {
+    "value": "Would you like to use {0}?"
+  },
+  "s_mastery_autointeraction_lack_buff_item-AutoMastery01-": {
+    "value": "You don't have any {0}."
+  },
+  "s_ugcHousingPoint_Reward_Desc1--KR": {
+    "value": "<FONT color='#FFD200' size='15' >Tier 1 Decoration Gift\n<FONT size='3'> </FONT>\n<FONT color='#909090'>Press [Receive] to claim your decoration gift.\n\n<FONT color='#FFFFFF' >Tier 1 Gift List</FONT>\n<FONT size='3'> </FONT><FONT color='#909090'>: You can obtain 1 of the following items.</FONT><FONT color='#00A2ED'>\n   - Free Channel Chat Coupon\n   - Beginner's Golden Bait (1 Hour)\n   - Double EXP Coupon\n   - Interior Cube Box\n   - Red Herb\n</FONT>"
+  },
+  "s_ugcHousingPoint_Reward_Desc2--KR": {
+    "value": "<FONT color='#FFD200' size='15' >Tier 2 Decoration Gift\n<FONT size='3'> </FONT>\n<FONT color='#909090'>Press [Receive] to claim your decoration gift.\n\n<FONT color='#FFFFFF' >Tier 2 Gift List</FONT>\n<FONT size='3'> </FONT><FONT color='#909090'>: You can obtain 1 of the following items.</FONT><FONT color='#00A2ED'>\n   - Free Channel Chat Coupon\n   - Beginner's Golden Bait (1 Hour)\n   - Double EXP Coupon\n   - Interior Cube Box\n   - Orange Herb\n</FONT>"
+  },
+  "s_ugcHousingPoint_Reward_Desc3--KR": {
+    "value": "<FONT color='#FFD200' size='15' >Tier 3 Decoration Gift\n<FONT size='3'> </FONT>\n<FONT color='#909090'>Press [Receive] to claim your decoration gift.\n\n<FONT color='#FFFFFF' >Tier 3 Gift List</FONT>\n<FONT size='3'> </FONT><FONT color='#909090'>: You can obtain 1 of the following items.</FONT><FONT color='#00A2ED'>\n   - Free Channel Chat Coupon\n   - Free Lotus Walkie-Talkie\n   - Beginner's Golden Bait (1 Hour)\n   - Double EXP Coupon\n   - Interior Cube Box\n   - White Herb\n</FONT>"
+  },
+  "s_lullu_key_showwindow_title_codi_box--CN": {
+    "value": "You can obtain 1 of the following items."
+  },
+  "s_ugcHousingPoint_Reward_Desc5--KR": {
+    "value": "<FONT color='#FFD200' size='15' >Stage 5 Interior Skill Gift\n<FONT size='3'> </FONT>\n<FONT color='#909090'>Press [Receive] to claim your Interior Skill Gift.\n\n<FONT color='#FFFFFF' >Stage 5 Gift List</FONT>\n<FONT size='3'> </FONT><FONT color='#909090'>: You can obtain 1 of the following items.</FONT><FONT color='#00A2ED'>\n   - Free Channel Chat Coupon\n   - Free Lotus Walkie-Talkie\n   - Beginner's Golden Bait (1 Hour)\n   - 2x EXP Coupon\n   - Interior Cube Box\n   - Free World Chat Coupon\n   - Premium Red Herb\n\n<FONT color='#FFFFFF' >Stage 5 Bonus Gift</FONT>\n </FONT><FONT color='#909090'>: You will additionally obtain 1 of the following items.</FONT> </FONT></FONT><FONT color='#00A2ED'>\n   - Disassembled Cube Fragment\n</FONT>"
+  },
+  "s_item_merge_option_old_option--": {
+    "value": "<FONT color='#FFFFFF'>Previous Option</FONT>\n<FONT color='#FFD200'>{0}</FONT>"
+  },
+  "s_item_merge_option_error_prev_option_item_not_exist--": {
+    "value": "Cannot find any items where the most recent Transcendence Option Change result was not selected.\nIf you proceed, the selectable option information will be deleted.\nItem Name: {0}"
+  },
+  "s_ugcHousingPoint_Reward_Desc4--KR": {
+    "value": "<FONT color='#FFD200' size='15' >Stage 4 Interior Skill Gift\n<FONT size='3'> </FONT>\n<FONT color='#909090'>Press [Receive] to claim your Interior Skill Gift.\n\n<FONT color='#FFFFFF' >Stage 4 Gift List</FONT>\n<FONT size='3'> </FONT><FONT color='#909090'>: You can obtain 1 of the following items.</FONT><FONT color='#00A2ED'>\n   - Free Channel Chat Coupon\n   - Free Lotus Walkie-Talkie\n   - Beginner's Golden Bait (1 Hour)\n   - 2x EXP Coupon\n   - Interior Cube Box\n   - White Herb\n</FONT>"
+  },
+  "s_quest_alliance_georg-Fame_Geo01-": {
+    "value": "Georg"
+  },
+  "s_pet_remake_notice_disable_lock_item_option-PetRemakeBlock02-": {
+    "value": "<p align='left'>The selected material for locking pet bonus abilities is missing, so the bonus ability lock feature cannot be used.\n\n- $item:30000923$\n- $item:30001345$</p>"
+  },
+  "s_alliance_quest_completion_ticket_count-FameCompletionTicket-": {
+    "comment": "{0}: Number of Instant Completion Items Required",
+    "value": "Instant Complete x{0}"
+  },
+  "s_item_merge_option_new_option--": {
+    "value": "<FONT color='#FFFFFF'>New Option</FONT>\n<FONT color='#FFD200'>{0}</FONT>"
+  },
+  "s_alliance_quest_completion_ticket_use-FameCompletionTicket-": {
+    "commend": "{0}: Instant Complete Ticket item, {1}: Required item quantity",
+    "value": "{0} ({1}) will be consumed. Would you like to use it?"
+  },
+  "s_alliance_quest_completion_ticket_lack-FameCompletionTicket-": {
+    "commend": "{0}: Instant Complete Ticket item",
+    "value": "You don't have enough {0}. Would you like to purchase it from the Meret Market?"
+  },
+  "s_alliance_quest_completion_ticket_error-FameCompletionTicket-": {
+    "value": "Failed to use {0}.",
+    "commend": "{0}: Instant Complete Ticket item"
+  },
+  "s_gallery_desc_end_date--": {
+    "value": "Until maintenance on {1}/{2}/{0}!"
+  },
+  "s_world_champion_reward_title-WorldChampionMushroom-": {
+    "value": "Cumulative Rewards for Defeating Mushking Up to Level {0}"
+  },
+  "s_world_champion_step_button-WorldChampionMushroom-": {
+    "value": "Level {0}"
+  },
+  "s_world_champion_clear_title-WorldChampionMushroom-": {
+    "value": "All Levels of Mushking Defeated"
+  },
+  "s_world_champion_msg_current_field-WorldChampionMushroom-": {
+    "value": "You are already at the Mushking spawn location."
+  },
+  "s_world_champion_season_info-WorldChampionMushroom-": {
+    "value": "<FONT color='#ffd200'>Current Season</FONT>: Season {0} ({1} ~ {2})"
+  },
+  "s_world_champion_msg_move_field-WorldChampionMushroom-": {
+    "value": "Would you like to move to [{0}]?"
+  },
+  "s_world_champion_msg_not_found_season-WorldChampionMushroom-": {
+    "value": "There are currently no active World Raids.\nPlease wait for a new World Raid!"
+  },
+  "s_world_champion_msg_next_season-WorldChampionMushroom-": {
+    "value": "The next season starts on {0}."
+  },
+  "s_lapenshard_open_newbie_quest_message-Lapenshard01-": {
+    "comment": "{0}:Quest Name",
+    "value": "You must complete the <font color='#FFD200'>{0} Quest</FONT> to use the Lapenshard."
+  },
+  "s_burning_levelup_event_set_character_popup--KR": {
+    "value": "<FONT color='#FFD200' size='18' >[Burning Character Designation]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Burning Event with character {0}?</FONT>\n\n• From level 9 to 70, gain +2 additional levels per level-up. \n• Only 1 Burning Character can be designated per account. \n• Once designated, the Burning Character cannot be changed until the character is deleted.\n• After developing a Burning Character to level 70, you cannot designate an additional Burning Character even if the current one is deleted.\n• The Burning Event runs from after the Aug 11, 2022 maintenance until before the Oct 13, 2022 maintenance.\n\n<FONT color='#FFD200' size='18' >[Level 70 Achievement Reward Guide]</FONT>",
+    "comment": "{0}:Character Name"
+  },
+  "s_burning_levelup_event_set_character_popup--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[Jumping + Burning Character Designation]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Jumping Burning Event with character {0}?</FONT>\n\n• A potion to jump to level 50 will be provided. \n• From level 50 to 80, gain +2 additional levels per level-up. \n• Only 1 Burning Character can be designated per account. \n• Once designated, the Burning Character cannot be changed until the character is deleted.\n• After using the Level-Up Potion, you cannot designate a Burning Character even if the current one is deleted.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Guide]</FONT>",
+    "comment": "{0}: Character Name"
+  },
+  "s_buring_levelup_envent_desc_popup--KR": {
+    "value": "<FONT color='#FFD200' size='18' >[What is Burning?]</FONT>\n\n• You gain +2 additional levels with each level up. \n• The effect applies from level 9 to 70. \n• Only 1 Burning character can be designated per account. \n• A designated Burning character cannot be changed until the character is deleted.\n• After leveling your Burning character to 70, you cannot designate another Burning character even if you delete it.\n• The Burning Event runs until the maintenance on October 13, 2022.\n\n<FONT color='#FFD200' size='18' >[Level 70 Achievement Reward Info]</FONT>"
+  },
+  "s_burning_levelup_event_jumping_item_notify--CN": {
+    "value": "Check your inventory now! \n You've received a <FONT color='#FFD200' size='18' >[Level 50 Level-Up Potion]</FONT>. \nUse the item to jump to level 50! \n After jumping, you can burn all the way to level 80."
+  },
+  "s_burning_levelup_event_jumping_item_desc_popup--CN": {
+    "value": "• This is a level 50 jumping potion provided upon completing the tutorial. \n• Once used, you cannot designate a Burning character even if you delete your character.\n\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>"
+  },
+  "s_burning_levelup_event_set_character_popup_bottom--KR": {
+    "value": "After reading the Burning Event details, if you would like to designate {0} as your Burning character, <FONT size='3'> </FONT>\nplease click <FONT color='#FFD200'>'OK'</FONT>.",
+    "comment": "{0}: Character Name"
+  },
+  "s_buring_levelup_envent_desc_popup--CN": {
+    "value": "<FONT color='#FFD200' size='18' >[What is Jumping+Burning?]</FONT>\n\n• A potion that lets you jump to level 50 will be provided. \n• From level 50 to 80, you gain +2 additional levels with each level up. \n• Only 1 Burning character can be designated per account. \n• A designated Burning character cannot be changed until the character is deleted.\n• After using the level-up potion, you cannot designate a Burning character even if you delete your character.\n\n<FONT color='#FFD200' size='18' >[Jumping Potion Info]</FONT>"
+  },
+  "s_payback_dialog_period-Payback-": {
+    "value": "Period: {0}/{1}/{2} ~ {3}/{4}/{5}"
+  },
+  "s_lms_checknetcafe_user_count_limit_exceeded--JP": {
+    "value": "Unable to log in because the PC café connection limit has been exceeded."
+  },
+  "s_burning_levelup_event_jumping_complete--CN": {
+    "value": "You have used the <FONT color='#FFD200' size='18' >[Level 50 Level-Up Potion]</FONT>! \n\n • You can no longer designate a Burning character, even if you delete your character.\n • Please complete your job change quest for a smoother experience.\n • From now until level 80, the 1+2 Burning level-up bonus is active.\n\n<FONT color='#FFD200' size='18' >[Level 80 Final Reward]</FONT> "
+  },
+  "s_payback_bill_bottom_button_text-Payback-": {
+    "value": "Details"
+  },
+  "s_payback_dialog_status_percent-Payback-": {
+    "value": "{0}% Payback"
+  },
+  "s_payback_dialog_status_level-Payback-": {
+    "value": "{0} Level"
+  },
+  "s_payback_bill_bottom_detail_text-Payback-": {
+    "value": "※ Payback Event in Progress!"
+  },
+  "s_payback_error_reward_time-Payback-": {
+    "value": "Payback settlement is in progress.\n\n[Settlement Time] 00:00 ~ 00:05 "
+  },
+  "s_payback_dialog_maret-Payback-": {
+    "value": "{0} <Img Src='export_common_icon_bluemerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>"
+  },
+  "s_tooltip_gamemenu_payback-Payback-": {
+    "value": "<FONT color='#FFD200' size='15' >Payback{0}</FONT>\n<FONT size='3'> </FONT>\nYou can receive a payback of a portion of the Merets\nspent on Orange Mushroom's Power-Up Draw."
+  },
+  "s_payback_dialog_merat_text_red_merat-Payback-": {
+    "value": "<font color='#ED442A'>{0} </font><Img Src='export_common_icon_redmerat_large' vspace='-5'/><font size='20' color='#a0a0a0'> / {1}</font>"
+  },
+  "s_alliance_quest_limit_alliance_delimeter--CN": {
+    "value": ","
+  },
+  "s_payback_error_uiopen_end_time-Payback-": {
+    "value": "The Payback Event has ended."
+  },
+  "s_longtermattendgift_dialog_point--": {
+    "value": "x {0}"
+  },
+  "s_longtermattendgift_dialog_desc--": {
+    "value": "Unused Duckyball: Log in after 00:00 every day to receive one Duckyball.\nOpen Slot: Regardless of login status, one slot opens each day from the event start date until its end date.\nPlace Duckyball: Click the button to use 1 unused Duckyball and fill 1 open slot, and receive rewards based on the number of Duckyballs placed.\n\n<FONT color='#FFD200' >If all Duckyballs have been placed but open slots remain,</FONT><FONT color='#1E90FF' size='15' >250 Merets</FONT><FONT color='#FFD200' > can be spent to fill the remaining open slots.</FONT><"
+  },
+  "s_longtermattendgift_dialog_title--": {
+    "value": "Wake Up! Golden Duckyball! Event ({0} after maintenance ~ {1})"
+  },
+  "s_longtermattendgift_dialog_desc--CN": {
+    "value": "Unused Duckyball: Log in after 00:00 every day to receive one Duckyball.\nOpen Slot: Regardless of login status, one slot opens each day from the event start date until its end date.\nPlace Duckyball: Click the button to use 1 unused Duckyball and fill 1 open slot, and receive rewards based on the number of Duckyballs placed.\n\n<FONT color='#FFD200' >If all Duckyballs have been placed but open slots remain,</FONT><FONT color='#1E90FF' size='15' >1500 Merets</FONT><FONT color='#FFD200' > can be spent to fill the remaining open slots.</FONT><"
+  },
+  "s_adventure_protect_err--": {
+    "value": "The Adventurer Protection Program is active."
+  },
+  "s_longtermattendgift_dialog_use_merat--": {
+    "value": "{0}<Img Src='export_common_icon_merat' vspace='-4'></Img> will be spent to fill the open slots.\nDo you wish to continue?"
+  },
+  "s_longtermattendgift_dialog_err_msg_attendance_full--": {
+    "value": "There are no open slots.\nIf you have remaining attendance days, please try again tomorrow."
+  },
+  "s_longtermattendgift_dialog_err_msg_empty_point--": {
+    "value": "There are no open slots.\nIf you have remaining attendance days, please try again tomorrow. "
+  },
+  "s_longtermattendgift_dialog_invalid_event--": {
+    "value": "This event cannot be started."
+  },
+  "s_delete_account_check_msg_step_1--": {
+    "value": "I confirm that I have met the above account deletion requirements."
+  },
+  "s_delete_account_terms_step_2--": {
+    "value": "Dear User, before officially starting the game account deletion process, please carefully read and agree to the Game Account Deletion Agreement (hereinafter referred to as 'this Agreement'). By initiating the deletion process in accordance with our procedures, or by selecting this agreement and clicking Next, you are deemed to have agreed to and accepted all contents of this Agreement. We would like to especially remind you that after deleting your game account on this platform, except as otherwise required by law or this Agreement, your personal information under the game account will be deleted or anonymized, and you will no longer be able to search, access, obtain, continue to use, or retrieve it. Personal information includes but is not limited to the nickname, equipment, achievements, currencies and other virtual items, posts, and items of each character under the account, and you will not have the right to recover such personal information."
+  },
+  "s_delete_account_terms_step_1--": {
+    "value": "Dear Player,\n\nDominica deeply regrets your decision to close your account. To protect the security of your account and assets, please ensure the following conditions are met before your request takes effect. The MapleStory 2 operations team may also review and verify the situation:\n1. Your account is secure and in normal status: No sensitive operations (such as enabling two-step password verification or removing security exemptions) were performed in the 2 weeks prior to your request, and the account has not been suspended for any violations.\n2. Game earnings have been settled or properly handled: Including but not limited to Blue Mushroom currency, Red Mushroom currency, Gold, Tools, Membership benefits, etc. If left unhandled, they will be treated as voluntarily forfeited.\n3. No incomplete transactions: Including Blue Chip recharges and Shop item purchases or consumptions.\n4. No account disputes: Including filed reports, complaints, mediation requests, lawsuits, or other disputes."
+  },
+  "s_delete_account_check_msg_step_2--": {
+    "value": "I have read the terms and conditions in detail and agree."
+  },
+  "s_delete_account_hyperlink_msg--": {
+    "value": "Game Account Deletion Agreement"
+  },
+  "s_delete_account_terms_step_3--": {
+    "value": "To prevent any errors, please confirm once more whether you wish to delete your account and review the consequences after deletion. These consequences include (but are not limited to, please refer to the 'Game Account Deletion Agreement'):\n1. Once this account is deleted, it cannot be logged into, used, or recovered. Except as required by law or the Game Account Deletion Agreement, personal information contained in your game account will be deleted or anonymized, and you will not be able to retrieve your personal information or file any claims with us.\n2. This account will lose all earnings or rights that have accrued or may accrue in the future during the use of this game. Please ensure your game earnings and rights have been properly handled before deleting your account. Otherwise, after the account is deleted, we reserve the right to remove all earnings or rights associated with this account, and the resulting consequences shall be your sole responsibility. The aforementioned game earnings or rights include but are not limited to all remaining virtual items, virtual currencies, other virtual goods, and value-added services in the account."
+  },
+  "s_delete_account_terms_step_4--": {
+    "value": "Dear User, please provide your actual information to verify your account deletion and ensure account security. This information will only be used for this verification."
+  },
+  "s_delete_account_terms_step_end--": {
+    "value": "Please note that this account will have a 60-day lock period. Except as required by law or the deletion agreement, your personal information will be deleted or anonymized after the lock period expires. During this period, please do not log in or use this account to ensure the deletion proceeds correctly. Otherwise, the deletion will be considered canceled."
+  },
+  "s_delete_account_terms_step_end_title--": {
+    "value": "Your account deletion request has been successfully submitted."
+  },
+  "s_delete_account_terms_step_4_label1--": {
+    "value": "Full Name"
+  },
+  "s_delete_account_terms_step_end_game_button--": {
+    "value": "Exit Game"
+  },
+  "s_delete_account_terms_step_4_label2--": {
+    "value": "ID Number"
+  },
+  "s_delete_account_result_check_fail_err_db_guild--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> is a member of a guild."
+  },
+  "s_delete_account_result_check_fail_err_db_blcakmarket--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has items listed on the Black Market."
+  },
+  "s_delete_account_result_check_fail_err_db_ugcmarket--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has items listed in the Designer's Shop."
+  },
+  "s_delete_account_result_check_fail_err_select_character--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> is currently selected."
+  },
+  "s_delete_account_result_check_fail_err_characterpending--": {
+    "value": "Account deletion request has failed.\n<FONT color='#FF5F5F'>{0}</FONT> is currently being deleted."
+  },
+  "s_delete_account_result_unknown--": {
+    "value": "Account deletion request has failed.\nAn unknown error has occurred."
+  },
+  "s_delete_account_result_check_fail_err_db_norow--": {
+    "value": "Account deletion request has failed.\nThe account to be deleted is invalid."
+  },
+  "s_delete_account_result_check_fail_err_db_wedding--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> is currently in the middle of an engagement, marriage, or divorce process."
+  },
+  "s_delete_account_result_check_fail_err_db_mail--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has unread mail."
+  },
+  "s_delete_account_result_check_fail_err_db_mesomarket--": {
+    "value": "Account deletion request has failed.\nThe character <FONT color='#FF5F5F'>{0}</FONT> has Mesos listed on the Black Market."
+  },
+  "s_delete_account_cancel_login_success--": {
+    "value": "Your account deletion request has been automatically canceled because you logged in during the lock period."
+  },
+  "s_delete_account_check_certid_fail_invalid_certnameid--": {
+    "value": "Account deletion request failed.\nThe name and ID number for verification are invalid."
+  },
+  "s_delete_account_check_user_cert_id_query_fail--": {
+    "value": "Account deletion request failed.\nIdentity verification request failed. "
+  },
+  "s_delete_account_cancel_login_fail--": {
+    "value": "An error occurred while canceling account deletion."
+  },
+  "s_delete_account_check_session_key_fail--": {
+    "value": "Account deletion request failed.\nUnable to retrieve user information."
+  },
+  "s_delete_account_check_user_cert_id_verify_fail--": {
+    "value": "Account deletion request failed.\nIdentity verification result is invalid."
+  },
+  "s_quest_start_err_has_quest--": {
+    "value": "You already have this quest."
+  },
+  "s_quest_start_err_level--": {
+    "value": "Your level is too low."
+  },
+  "s_quest_start_err_completed--": {
+    "value": "This quest has already been completed."
+  },
+  "s_delete_account_check_certid_fail_invalid_skey--": {
+    "value": "Account deletion request failed.\nThe session key is invalid."
+  },
+  "s_delete_account_check_certid_fail_invalid_platformsn--": {
+    "value": "Account deletion request failed.\nThe verification information is invalid."
+  },
+  "s_quest_start_err_invalid--": {
+    "value": "Unable to accept the quest."
+  },
+  "s_quest_start_success--": {
+    "value": "Quest accepted."
+  },
+  "s_quest_start_msg--": {
+    "value": "{0}\nRegister quest.\n\nOnce registered, the quest cannot be converted back to an item.\n\nWould you like to register it?"
+  },
+  "s_personal_infomaion_agreement_title--": {
+    "value": "Notice"
+  },
+  "s_personal_infomaion_agreement_sendlog_content--": {
+    "value": "Your account information will be sent to an overseas developer for analysis to provide quality game services and ensure account security. This information will only be used for improving game performance and troubleshooting."
+  },
+  "s_quest_start_title--": {
+    "value": "Quest Start Item"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_deny--": {
+    "value": "Deny"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_allowed--": {
+    "value": "Allow"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_public--": {
+    "value": "Public"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_content--": {
+    "value": "Please select whether to consent to sharing your personal information for a better game experience.\n(Can also be changed in the game settings page)\nUser Info - My Home Info\nCan be set to share with everyone, partially, or not at all"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_detail--": {
+    "value": "View Details"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_password--": {
+    "value": "Enter Password"
+  },
+  "s_lead_skill_require--": {
+    "value": "{0} class character's equipped weapon at Limit Break level {1} or higher "
+  },
+  "s_lead_skill_from_char--": {
+    "value": "<FONT color='#E26741' >Lead Character: {0}</FONT>"
+  },
+  "s_pc_info_name_shield--": {
+    "value": "Shield"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_input_password--": {
+    "value": "Enter the home access password.\n(6 digits only.)"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_private--": {
+    "value": "Private"
+  },
+  "s_lead_skill_from_unlimited_level--": {
+    "value": "<FONT color='#E26741' >Lead Character Limit Break Level {0}</FONT>"
+  },
+  "s_item_repacking_limit_count-ItemRePackingHide-": {
+    "value": "<FONT color='#FFD200'>Can be repackaged {0} time(s) (Merchant's Ribbon required to repack)</FONT>"
+  },
+  "s_lead_skill_check_fail_cooltime--": {
+    "value": "Cannot switch skills while a skill is on cooldown."
+  },
+  "s_upper_hud_version-WaterMark-": {
+    "value": "Beta Build"
+  },
+  "s_meratmarket_buy_fail_music_score_by_merat_grade-UGCMarketMusicScore-": {
+    "value": "Cannot purchase sheet music with Merets."
+  },
+  "s_burning_levelup_event_set_character_popup--JP": {
+    "value": "<FONT color='#FFD200' size='18' >[Burning Character Selection]</FONT>\n<FONT size='3'> </FONT>\n<FONT color='#FF5F5F'>Would you like to participate in the Burning Event with the character {0}?</FONT>\n\n• Gain an additional +2 levels with each level-up. \n• Effect applies from level 9 to 60. \n• Only 1 Burning Character can be designated per account. \n• The designated Burning Character cannot be changed until the character is deleted.\n\n• After raising your Burning Character to level 60, you cannot designate an additional Burning Character even if you delete the current one.\n• The Burning Event runs until the December 11 maintenance.\n\n<FONT color='#FFD200' size='18' >[Burning Final Reward]</FONT>",
+    "comment": "{0}: Character Name"
+  },
+  "s_meratmarket_error_add_basket_by_music_score-UGCMarketMusicScore-": {
+    "value": "Sheet music can only be purchased directly."
+  },
+  "s_buring_levelup_envent_desc_popup--JP": {
+    "value": "<font color='#FFD200' size='18' >[What is Burning?]</FONT>\n\n・Gain an additional +2 levels with each level-up.\n・Effect applies from level 9 to 60.\n・Only 1 Burning Character can be designated per account.\n・The designated Burning Character cannot be changed until the character is deleted.\n\n・After raising your Burning Character to level 60, you cannot designate an additional Burning Character even if you delete the current one.\n・The Burning Event runs until the December 11 maintenance."
+  },
+  "s_burning_levelup_event_set_character_popup_bottom--JP": {
+    "comment": "{0}: Character Name",
+    "value": "If you have read and understood the Burning Event details and wish to designate {0} as your Burning Character, press <FONT size='3'> </FONT>\n<FONT color='#FFD200'>'Confirm'</FONT>."
+  },
+  "s_wedding_result_err_wedding_block_age_to-WeddingBlockAge-": {
+    "value": "Only characters in adult accounts can use the marriage system"
+  },
+  "s_wedding_result_err_wedding_block_age_from-WeddingBlockAge-": {
+    "value": "The marriage system can only be used with characters in adult accounts."
   }
 }

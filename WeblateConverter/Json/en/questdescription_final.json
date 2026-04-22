@@ -6144,215 +6144,215 @@
   },
   "10001003--": {
     "name": "I want to know that",
-    "desc": "QUESTDESCRIPTION_10001003_DESC",
+    "desc": "$npc:11000003$ has traveled far over mountains and rivers to reach Tria, and seems very upset about the audience ceremony being canceled. Hearing $npc:11000003$'s story, the sudden cancellation feels suspicious. Could there be another reason? Maybe I should discreetly ask the armory guard at $map:02000001$ that $npc:11000003$ pointed out. ",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001003_COMPLETE",
+    "complete": "Find out the reason the audience was canceled in $map:02000001$",
     "count": "",
     "locking": "1"
   },
   "10001004--": {
-    "name": "QUESTDESCRIPTION_10001004_NAME",
-    "desc": "QUESTDESCRIPTION_10001004_DESC",
+    "name": "Their Hidden Story",
+    "desc": "The royal steward $npc:11000492$ of $map:02000140$... As the person who oversaw all the preparations for the audience ceremony, they might know more about why it was canceled. Let's head to $map:02000140$ first.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001004_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001005--": {
-    "name": "QUESTDESCRIPTION_10001005_NAME",
-    "desc": "QUESTDESCRIPTION_10001005_DESC",
+    "name": "Those Who Leave",
+    "desc": "It seems $npc:11000179$'s high opinion of $npc:11000492$ goes beyond a simple business referral. Watching $npc:11000492$ smile for everyone even while repeating the same words dozens of times in the middle of a hectic day makes it easy to see why not just $npcName:11000179$, but most people, would remember him fondly. If I head to $map:02000033$ and handle the checkout $npcName:11000179$ asked me to do, could I be remembered as a good person too, just like $npc:11000492$?   ",
     "manual": "QUESTDESCRIPTION_10001005_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001005_COMPLETE",
+    "complete": "Meet $npc:11000390$ in $map:02000033$ in $map:02000001$",
     "count": "1",
     "locking": "1"
   },
   "10001020--": {
-    "name": "QUESTDESCRIPTION_10001020_NAME",
-    "desc": "QUESTDESCRIPTION_10001020_DESC",
+    "name": "A Recruit's Troubles",
+    "desc": "Guard trainee $npc:11000169$ is quietly troubled by weapons that have vanished without a trace from the armory he's been guarding. He's barely left his post, and the lock was still firmly in place — so who took them, and how? As $npc:11000169$ said, the stolen weapons could turn up on the black market, so I should visit equipment merchant $npc:11000004$ at $map:02000001$ to check if any stolen weapons have come through.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001020_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001021--": {
-    "name": "QUESTDESCRIPTION_10001021_NAME",
-    "desc": "QUESTDESCRIPTION_10001021_DESC",
+    "name": "Toward the Golden Tower",
+    "desc": "In the end, $npc:11000170$ confessed to having bought iron ore from $npc:11000173$. Even if the iron ore $npcName:11000170$ dealt in has nothing to do with the armory theft... the notorious fence $npcName:11000173$ might know something about the stolen weapons. Let's take the iron ore sales flyer $npc:11000170$ gave me and head to $map:02000083$, where the entrance to $map:02000141$ is said to be!",
     "manual": "QUESTDESCRIPTION_10001021_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001021_COMPLETE",
+    "complete": "Go to $map:02000083$",
     "count": "1",
     "locking": "1"
   },
   "10001022--": {
-    "name": "QUESTDESCRIPTION_10001022_NAME",
-    "desc": "QUESTDESCRIPTION_10001022_DESC",
+    "name": "The Origin of the Iron Ore",
+    "desc": "$npc:11000365$ found a transaction record among the $item:30000018$ I retrieved, showing that $npc:11000173$ purchased iron ore from $npcName:11000171$, and handed it to me. $npc:11000171$, who runs a junk shop at $map:02000084$ — where would a mere junk dealer get a large supply of iron ore? I should head to $map:02000084$ and meet $npc:11000171$ first.",
     "manual": "QUESTDESCRIPTION_10001022_MANUAL",
     "complete": "QUESTDESCRIPTION_10001022_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001023--": {
-    "name": "QUESTDESCRIPTION_10001023_NAME",
-    "desc": "QUESTDESCRIPTION_10001023_DESC",
+    "name": "The Delivery Truck's Whereabouts",
+    "desc": "$npc:11000171$ said the Goldus delivery truck carrying the iron ore came from $map:02000001$. If that's true, $npc:11000012$ at $map:02000001$ might know where it was headed. Let's go to $map:02000001$ and meet $npc:11000012$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001023_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001024--": {
-    "name": "QUESTDESCRIPTION_10001024_NAME",
-    "desc": "QUESTDESCRIPTION_10001024_DESC",
+    "name": "Suspicious Delivery",
+    "desc": "After rummaging through the shipping records for a while, $npc:11000012$ finally found the entry. The truck's destination: 125 Royal Road, $map:02000064$! Who received the iron ore delivery? Let's head to $map:02000064$!",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001024_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001025--": {
-    "name": "QUESTDESCRIPTION_10001025_NAME",
-    "desc": "QUESTDESCRIPTION_10001025_DESC",
-    "manual": "QUESTDESCRIPTION_10001025_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001025_COMPLETE",
+    "name": "The Truth Behind the Armory Theft",
+    "desc": "A suspicious ledger found in $map:02000020$... It looks like records of transactions involving royal goods... For now, let's take the ledger and return to $map:02000001$ to meet $npc:11000169$.",
+    "manual": "Pick up the suspicious ledger on the desk in $map:02000020$",
+    "complete": "Return to $npc:11000169$ in $map:02000001$",
     "count": "1",
     "locking": "1"
   },
   "10001026--": {
-    "name": "QUESTDESCRIPTION_10001026_NAME",
-    "desc": "QUESTDESCRIPTION_10001026_DESC",
+    "name": "To Nelf's Home!",
+    "desc": "The home address for $npc:11000492$ that $npc:11000012$ found in the address book was 674 Flower Park, $map:02000119$. Let's find the house with the red roof in the Flower Park district. ",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001026_COMPLETE",
+    "complete": "Find and enter $map:02000122$ from $map:02000119$",
     "count": "",
     "locking": "1"
   },
   "10001027--": {
-    "name": "QUESTDESCRIPTION_10001027_NAME",
-    "desc": "QUESTDESCRIPTION_10001027_DESC",
-    "manual": "QUESTDESCRIPTION_10001027_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001027_COMPLETE",
+    "name": "A Mysterious Note",
+    "desc": "Will I really be able to find clues to track Nelf's whereabouts inside $map:02000122$? Let's thoroughly search every corner of $map:02000122$, located in $map:02000119$, and find a lead on Nelf's whereabouts.",
+    "manual": "Find clues in $map:02000119$ $map:02000122$ to track down Nelf's whereabouts",
+    "complete": "Find $map:52000037$ in $map:02000043$ as noted",
     "count": "1",
     "locking": "1"
   },
   "10001028--": {
-    "name": "QUESTDESCRIPTION_10001028_NAME",
-    "desc": "QUESTDESCRIPTION_10001028_DESC",
-    "manual": "QUESTDESCRIPTION_10001028_MANUAL",
+    "name": "What Nelf Left Behind",
+    "desc": "I came all the way to $map:52000037$ in $map:02000043$ marked on the crumpled memo, but... unfortunately, $npc:11000492$ was already dead. And a mysterious figure appeared at just the right moment, opened a secret door in the cave, and vanished. If I follow that person, maybe I can find a clue to unravel everything. Steady myself and follow the mysterious figure deeper into the cave.",
+    "manual": "Chase the mysterious stranger who disappeared through the secret door in $map:52000037$ and find clues",
     "complete": "QUESTDESCRIPTION_10001028_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001029--": {
     "name": "QUESTDESCRIPTION_10001029_NAME",
-    "desc": "QUESTDESCRIPTION_10001029_DESC",
-    "manual": "QUESTDESCRIPTION_10001029_MANUAL",
+    "desc": "After hearing about $npc:11000492$'s death and the mysterious notebook found nearby, $npc:11000169$ asked me to report everything I've investigated directly to $npc:11000119$. Let's go meet $npcName:11000119$ at $map:02000001$. ",
+    "manual": "Retrieve the mysterious notebook from $npc:11000169$ in $map:02000001$",
     "complete": "QUESTDESCRIPTION_10001029_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001030--": {
-    "name": "QUESTDESCRIPTION_10001030_NAME",
-    "desc": "QUESTDESCRIPTION_10001030_DESC",
-    "manual": "QUESTDESCRIPTION_10001030_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001030_COMPLETE",
+    "name": "Monkey Trouble",
+    "desc": "At $map:02000064$, it seems $npc:21000055$ that wander over from $map:02000017$ sometimes cause trouble by stealing residents' belongings and ransacking homes. $npc:11000172$'s $item:30000019$ was likely stolen by $npc:21000055$ from $map:02000017$ as well. Apparently they hide inedible objects in tree branches in the forest, so let's shake the trees in $map:02000017$ to find the $item:30000019$!",
+    "manual": "Find $item:30000019$ among the branches in $map:02000017$",
+    "complete": "Return $item:30000019$ to $npc:11000172$ in $map:02000064$",
     "count": "1",
     "locking": "1"
   },
   "10001031--": {
-    "name": "QUESTDESCRIPTION_10001031_NAME",
-    "desc": "QUESTDESCRIPTION_10001031_DESC",
-    "manual": "QUESTDESCRIPTION_10001031_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001031_COMPLETE",
+    "name": "A Secret Between Two",
+    "desc": "$npc:11000172$ of $map:02000064$ reluctantly agreed to open the door to $map:02000020$. I should quickly look around $map:02000020$ and come back out.",
+    "manual": "Enter $map:02000020$ from $map:02000064$",
+    "complete": "Meet $npc:11000172$ in $map:02000064$",
     "count": "0",
     "locking": "1"
   },
   "10001040--": {
     "name": "QUESTDESCRIPTION_10001040_NAME",
-    "desc": "QUESTDESCRIPTION_10001040_DESC",
+    "desc": "Hearing $npc:11000012$'s words, I faintly recall how $npc:11000492$ always looked after his mother so carefully. A final letter from a son to his mother... I'm not sure I can face $npc:11000492$'s mother, who will receive a letter from a son she can never meet again. But thinking of a mother still waiting for her child, I feel I should get there as soon as possible. Let's take the $item:30000025$ from $npc:11000012$ and head to $map:02000076$ to meet $npc:11000178$.",
     "manual": "QUESTDESCRIPTION_10001040_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001040_COMPLETE",
+    "complete": "Deliver a letter to $npc:11000178$ in $map:02000076$",
     "count": "1",
     "locking": "1"
   },
   "10001060--": {
-    "name": "QUESTDESCRIPTION_10001060_NAME",
-    "desc": "QUESTDESCRIPTION_10001060_DESC",
-    "manual": "QUESTDESCRIPTION_10001060_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001060_COMPLETE",
+    "name": "Tires for Cash",
+    "desc": "$npc:11000395$ is a resident of the slums at $map:02000084$, living hand to mouth day by day. He barely has the strength to stand from hauling heavy scrap tires every day, and it would weigh on me to just walk past. Let's move the scrap tires piled around $npc:11000395$ at $map:02000084$ to the junk yard area where $npc:11000171$ and the helpers are working. ",
+    "manual": "Move scrap tires to the junkyard in $map:02000084$",
+    "complete": "Meet $npc:11000180$ in $map:02000084$",
     "count": "1",
     "locking": "1"
   },
   "10001080--": {
-    "name": "QUESTDESCRIPTION_10001080_NAME",
-    "desc": "QUESTDESCRIPTION_10001080_DESC",
-    "manual": "QUESTDESCRIPTION_10001080_MANUAL",
+    "name": "A Family in Misfortune",
+    "desc": "It was odd enough to find frozen ground and ice chunks in the middle of a green meadow — but to think those ice chunks were actually people frozen solid... Among the frozen figures on the ice at the center of $map:02000085$, let's find $npc:11000186$'s older sister $npc:11000188$ and thaw her with the warmth of $item:30000028$. First, let's break a branch from the red maple tree next to $npc:11000186$ and head down toward the ice.",
+    "manual": "Pluck $item:30000028$ next to $npc:11000186$|Find $npc:11000188$ among the frozen victims in the center of $map:02000085$ and thaw them ",
     "complete": "QUESTDESCRIPTION_10001080_COMPLETE",
     "count": "1|0",
     "locking": "1"
   },
   "10001081--": {
-    "name": "QUESTDESCRIPTION_10001081_NAME",
-    "desc": "QUESTDESCRIPTION_10001081_DESC",
+    "name": "Big Sister is Back",
+    "desc": "Thinking about how long $npc:11000188$ was frozen, her coming back to life truly feels like a miracle. I should go meet $npc:11000188$ and warmly take her hand. Let's head inside $map:02000150$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001081_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001150--": {
-    "name": "QUESTDESCRIPTION_10001150_NAME",
-    "desc": "QUESTDESCRIPTION_10001150_DESC",
+    "name": "Garbage Is Money Too",
+    "desc": "The slum resident $npc:11000396$ at $map:02000084$ looks like they haven't eaten in days and can barely stand. Let's gather the scattered $item:30000120$ around $map:02000084$ and bring them over.",
     "manual": "QUESTDESCRIPTION_10001150_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001150_COMPLETE",
+    "complete": "Meet $npc:11000396$ in $map:02000084$",
     "count": "1",
     "locking": "1"
   },
   "10001160--": {
-    "name": "QUESTDESCRIPTION_10001160_NAME",
-    "desc": "QUESTDESCRIPTION_10001160_DESC",
+    "name": "Who Owns the Notebook?",
+    "desc": "A notebook bearing the Barota Trading Company logo was found in a bag near the deceased $npc:11000492$...\nCan this help unravel the mysteries surrounding $npc:11000492$'s death?\nFor now, let's head to $map:02000139$, where Barota Trading Company's headquarters is located.",
     "manual": "QUESTDESCRIPTION_10001160_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001160_COMPLETE",
+    "complete": "Find the Barota Trade Company Headquarters in $map:02000139$",
     "count": "1",
     "locking": "1"
   },
   "10001170--": {
-    "name": "QUESTDESCRIPTION_10001170_NAME",
-    "desc": "QUESTDESCRIPTION_10001170_DESC",
+    "name": "The Notebook's Secret",
+    "desc": "$npc:11000097$, who was certain it was the notebook of Barota Trading Company leader Layman, checked the contents and dropped it in a panic.\nJust what was written in that notebook?",
     "manual": "QUESTDESCRIPTION_10001170_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001170_COMPLETE",
+    "complete": "Talk to $npc:11000208$ in $map:02000139$",
     "count": "1",
     "locking": "1"
   },
   "10001171--": {
     "name": "QUESTDESCRIPTION_10001171_NAME",
-    "desc": "QUESTDESCRIPTION_10001171_DESC",
-    "manual": "QUESTDESCRIPTION_10001171_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001171_COMPLETE",
+    "desc": "Could $item:20000046$ really be among the goods stored by Barota Trading Company?\nI should find the Barota Trading Company warehouse in $map:02000139$ and check the items stored there.\nThe warehouse is at the end of the road just in front of $npc:11000208$.",
+    "manual": "Search for $item:20000046$ near the Barota Merchant Guild warehouse in $map:02000139$",
+    "complete": "Return to $npc:11000208$ in $map:02000139$",
     "count": "1",
     "locking": "1"
   },
   "10001172--": {
     "name": "QUESTDESCRIPTION_10001172_NAME",
-    "desc": "QUESTDESCRIPTION_10001172_DESC",
+    "desc": "Layman has been missing for several days... What kind of relationship did he have with Nelf?\nLet's head to $map:02000152$ in $map:02000100$ and meet Dark Wind captain $npc:11000044$.",
     "manual": "QUESTDESCRIPTION_10001172_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001172_COMPLETE",
+    "complete": "Meet $npc:11000044$ at $map:02000152$ in $map:02000100$",
     "count": "1",
     "locking": "1"
   },
   "10001180--": {
-    "name": "QUESTDESCRIPTION_10001180_NAME",
-    "desc": "QUESTDESCRIPTION_10001180_DESC",
-    "manual": "QUESTDESCRIPTION_10001180_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001180_COMPLETE",
+    "name": "Backbreaking Work",
+    "desc": "Moving $item:30000048$ off a ship is dangerous work, even for a seasoned dockworker who's been at $map:02000139$ for years — one moment of carelessness could mean a back injury.\nBut I can't ignore the request of someone who's sick... I'll help move the red container $item:30000048$ to the dock.\nFrom the stacked containers at the dock, let's move the cargo box that $npc:11000207$ requested to where the red containers are!",
+    "manual": "Move $item:30000048$ from the ship docked at $map:02000139$ to the pier",
+    "complete": "Meet $npc:11000207$ in $map:02000139$",
     "count": "1",
     "locking": "1"
   },
   "10001190--": {
     "name": "QUESTDESCRIPTION_10001190_NAME",
-    "desc": "QUESTDESCRIPTION_10001190_DESC",
-    "manual": "QUESTDESCRIPTION_10001190_MANUAL",
+    "desc": "Oil seems to be a crucial resource throughout daily life in Kerning City.\nBefore the problem gets worse, I should hurry to $map:02000148$ and remove the rust from the corroded pipes and repair them.",
+    "manual": "Repair the rusted pipes in $map:02000148$",
     "complete": "QUESTDESCRIPTION_10001190_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001200--": {
-    "name": "QUESTDESCRIPTION_10001200_NAME",
-    "desc": "QUESTDESCRIPTION_10001200_DESC",
+    "name": "Where Did Raymond Go?",
+    "desc": "$npc:11000044$ has given me a mission to secretly infiltrate the Shadow Commission and find out if they know the whereabouts of $npc:11000526$.\nA covert mission that Dark Wind cannot officially be involved in...\nWill I be able to succeed?\nFor now, let's head to $map:02000138$ and find out where the Shadow Commission's hideout is.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001200_COMPLETE",
     "count": "",
@@ -6360,39 +6360,39 @@
   },
   "10001201--": {
     "name": "QUESTDESCRIPTION_10001201_NAME",
-    "desc": "QUESTDESCRIPTION_10001201_DESC",
+    "desc": "$map:02000149$?\nSo this is the secret arcade the Shadow Commission has been quietly running...\nLet's go find $map:02000149$.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001201_COMPLETE",
+    "complete": "Head to $map:02000149$ from $map:02000138$",
     "count": "",
     "locking": "1"
   },
   "10001202--": {
-    "name": "QUESTDESCRIPTION_10001202_NAME",
-    "desc": "QUESTDESCRIPTION_10001202_DESC",
-    "manual": "QUESTDESCRIPTION_10001202_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001202_COMPLETE",
+    "name": "Everything You Know",
+    "desc": "To get $npc:11000212$ to talk — who keeps yelling that we're ruining his business — it seems the only option is to disrupt his arcade operations.\nLet's drive out all the customers inside the arcade until $npc:11000212$ confesses!",
+    "manual": "Drive out the customers inside $map:02000149$",
+    "complete": "Talk to $npc:11000212$ in $map:02000149$",
     "count": "1",
     "locking": "1"
   },
   "10001203--": {
     "name": "QUESTDESCRIPTION_10001203_NAME",
-    "desc": "QUESTDESCRIPTION_10001203_DESC",
+    "desc": "The manager of $map:02000149$, $npc:11000212$, told me how to get from $map:02000149$ to $map:02000156$, along with the Shadow Commission recruitment code: \"Code Black 365.\"\nFrom $map:02000149$, move ten squares to the southeast, then eleven squares to the northeast — the small iron gate I'll encounter is the entrance to $map:02000156$...\nFor now, let's look for $map:02000156$ from $map:02000138$.",
     "manual": "QUESTDESCRIPTION_10001203_MANUAL",
     "complete": "QUESTDESCRIPTION_10001203_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10001210--": {
-    "name": "QUESTDESCRIPTION_10001210_NAME",
-    "desc": "QUESTDESCRIPTION_10001210_DESC",
-    "manual": "QUESTDESCRIPTION_10001210_MANUAL",
+    "name": "Nothing Is Free",
+    "desc": "What is $item:20000015$ anyway...\nIf \"an eye for an eye\" is the rule of this alley, then I have no choice but to play along...\nLet's defeat the monsters in the alleys of $map:02000138$ and find $item:20000015$.",
+    "manual": "Defeat monsters in the alleys of $map:02000138$ and find $item:20000015$",
     "complete": "QUESTDESCRIPTION_10001210_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001220--": {
     "name": "QUESTDESCRIPTION_10001220_NAME",
-    "desc": "QUESTDESCRIPTION_10001220_DESC",
+    "desc": "$npc:11000044$ told me to relay orders to $npc:11000215$ to reinforce the wanted order for $npc:11000064$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001220_COMPLETE",
     "count": "",
@@ -6400,7 +6400,7 @@
   },
   "10001221--": {
     "name": "QUESTDESCRIPTION_10001221_NAME",
-    "desc": "QUESTDESCRIPTION_10001221_DESC",
+    "desc": "$npc:11000215$ from $map:02000153$ asked me to help post $npc:11000064$'s wanted posters on the bulletin boards in each district. ",
     "manual": "QUESTDESCRIPTION_10001221_MANUAL",
     "complete": "QUESTDESCRIPTION_10001221_COMPLETE",
     "count": "1",
@@ -6408,39 +6408,39 @@
   },
   "10001222--": {
     "name": "QUESTDESCRIPTION_10001222_NAME",
-    "desc": "QUESTDESCRIPTION_10001222_DESC",
-    "manual": "QUESTDESCRIPTION_10001222_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000138$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000138$",
     "complete": "QUESTDESCRIPTION_10001222_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001223--": {
     "name": "QUESTDESCRIPTION_10001223_NAME",
-    "desc": "QUESTDESCRIPTION_10001223_DESC",
-    "manual": "QUESTDESCRIPTION_10001223_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000137$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000137$",
     "complete": "QUESTDESCRIPTION_10001223_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001224--": {
     "name": "QUESTDESCRIPTION_10001224_NAME",
-    "desc": "QUESTDESCRIPTION_10001224_DESC",
-    "manual": "QUESTDESCRIPTION_10001224_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000135$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000135$",
     "complete": "QUESTDESCRIPTION_10001224_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001225--": {
     "name": "QUESTDESCRIPTION_10001225_NAME",
-    "desc": "QUESTDESCRIPTION_10001225_DESC",
-    "manual": "QUESTDESCRIPTION_10001225_MANUAL",
+    "desc": "Let's post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000146$.\nIf $item:30000038$ has been lost, go back to $npc:11000215$ in $map:02000153$ and ask.",
+    "manual": "Prepare $npc:11000064$'s wanted poster|Post $npc:11000064$'s wanted poster on the bulletin board $npc:11000343$ in $map:02000146$",
     "complete": "QUESTDESCRIPTION_10001225_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001260--": {
-    "name": "QUESTDESCRIPTION_10001260_NAME",
-    "desc": "QUESTDESCRIPTION_10001260_DESC",
+    "name": "God of Business",
+    "desc": "$npc:11000311$ from $map:02000166$ says they will tell me everything they saw, if I go to $map:02000136$ and bring back a large order of materials needed for the construction of Rockefeller Tower from $npc:11000220$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001260_COMPLETE",
     "count": "",
@@ -6448,31 +6448,31 @@
   },
   "10001261--": {
     "name": "QUESTDESCRIPTION_10001261_NAME",
-    "desc": "QUESTDESCRIPTION_10001261_DESC",
+    "desc": "$npc:11000220$ in $map:02000136$ handed over an order form listing the construction materials needed to build the Rockefeller Tower.\nHead back to $npc:11000311$ in $map:02000166$!",
     "manual": "QUESTDESCRIPTION_10001261_MANUAL",
     "complete": "QUESTDESCRIPTION_10001261_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001270--": {
-    "name": "QUESTDESCRIPTION_10001270_NAME",
-    "desc": "QUESTDESCRIPTION_10001270_DESC",
-    "manual": "QUESTDESCRIPTION_10001270_MANUAL",
+    "name": "Indomitable Will",
+    "desc": "Construction blueprints are an essential item for building Rockefeller Tower, the largest skyscraper in Maple World.\nLet's defeat the monsters that attacked $map:02000136$ and retrieve $item:30000043$.",
+    "manual": "Defeat monsters in $map:02000136$ and find $item:30000043$",
     "complete": "QUESTDESCRIPTION_10001270_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001280--": {
     "name": "QUESTDESCRIPTION_10001280_NAME",
-    "desc": "QUESTDESCRIPTION_10001280_DESC",
+    "desc": "I can't just ignore the request of $npc:11000221$, a shy girl with round eyes.\nIt's not a difficult favor, so let's find $npc:11000222$ in $map:02000136$ and deliver the lunchbox.",
     "manual": "QUESTDESCRIPTION_10001280_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001280_COMPLETE",
+    "complete": "Deliver a lunchbox to $npc:11000222$ in $map:02000136$",
     "count": "1",
     "locking": "1"
   },
   "10001360--": {
-    "name": "QUESTDESCRIPTION_10001360_NAME",
-    "desc": "QUESTDESCRIPTION_10001360_DESC",
+    "name": "For a Comrade",
+    "desc": "$npc:11000260$ expressed resentment toward $npc:11000064$ and lamented the hardships of being a Shadow Gate guardian.\nLet's help the guardians by defeating the monsters that have crossed over from the Dark Land near the Shadow Gate in $map:02000146$.",
     "manual": "QUESTDESCRIPTION_10001360_MANUAL",
     "complete": "QUESTDESCRIPTION_10001360_COMPLETE",
     "count": "1",
@@ -6480,63 +6480,63 @@
   },
   "10001370--": {
     "name": "QUESTDESCRIPTION_10001370_NAME",
-    "desc": "QUESTDESCRIPTION_10001370_DESC",
+    "desc": "It's an emergency!\nLet's head to $map:02000026$ in $map:02000146$ and meet $npc:11000122$!",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001370_COMPLETE",
+    "complete": "Find $npc:11000122$ in $map:02000026$",
     "count": "",
     "locking": "1"
   },
   "10001371--": {
     "name": "QUESTDESCRIPTION_10001371_NAME",
-    "desc": "QUESTDESCRIPTION_10001371_DESC",
+    "desc": "The mushroom fields near the laboratory have become completely tainted with shadow energy, as the power of the Dark Land grows ever stronger.\nCan I really find $item:20000045$ that's still good enough to use as medicine ingredients?\nWhile watching out for shadow poison that spreads from the shadow-tainted ground, let's search not only the mushroom fields near the laboratory but all throughout $map:02000146$ for $item:20000045$!",
     "manual": "QUESTDESCRIPTION_10001371_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001371_COMPLETE",
+    "complete": "Return to $npc:11000122$ in $map:02000026$",
     "count": "1",
     "locking": "1"
   },
   "10001372--": {
-    "name": "QUESTDESCRIPTION_10001372_NAME",
-    "desc": "QUESTDESCRIPTION_10001372_DESC",
-    "manual": "QUESTDESCRIPTION_10001372_MANUAL",
+    "name": "Miracle Medicine",
+    "desc": "Insert $item:20000045$ into the mixer at $map:02000026$ in $map:02000146$ and activate it to craft $item:20000016$.",
+    "manual": "Use the mixing machine in $map:02000026$ to craft $item:20000016$",
     "complete": "QUESTDESCRIPTION_10001372_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001380--": {
-    "name": "QUESTDESCRIPTION_10001380_NAME",
-    "desc": "QUESTDESCRIPTION_10001380_DESC",
-    "manual": "QUESTDESCRIPTION_10001380_MANUAL",
+    "name": "The Trainer's Mission",
+    "desc": "$npc:11000121$ says that together with $npc:11000122$, they plan to breach the barrier sealing the shadow gate in $map:02000146$ and study the DNA of monsters that crossed over from the Dark Land, in order to uncover the source of the shadow energy.\nDefeat the monsters near the shadow gate in $map:02000146$, collect $item:20000047$, and bring them to $npc:11000121$!",
+    "manual": "Defeat monsters near the Shadow Gate in $map:02000146$ and collect $item:20000047$",
     "complete": "QUESTDESCRIPTION_10001380_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001390--": {
-    "name": "QUESTDESCRIPTION_10001390_NAME",
-    "desc": "QUESTDESCRIPTION_10001390_DESC",
-    "manual": "QUESTDESCRIPTION_10001390_MANUAL",
+    "name": "Find the Spy",
+    "desc": "So if I gather every last fragment of the shattered Blue Lapenta, it can be restored... Perhaps a way to bring peace back to this world hasn't completely vanished after all.\nLet's find the spy $npc:21000178$, disguised as a Dark Wind agent near the Shadow Gate in $map:02000146$, and recover $item:30000058$!",
+    "manual": "Find the spy disguised as a Dark Wind agent in $map:02000146$ and recover $item:30000058$",
     "complete": "QUESTDESCRIPTION_10001390_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001391--": {
-    "name": "QUESTDESCRIPTION_10001391_NAME",
-    "desc": "QUESTDESCRIPTION_10001391_DESC",
+    "name": "Qualification for Audience",
+    "desc": "$npc:11000076$'s letter of recommendation!\nThis is practically a certificate that grants access to $map:02000025$ and the right to have an audience with $npc:11000075$.\nLet's go to $map:02000001$ and show the letter of recommendation to $npc:11000119$ to receive permission to enter $map:02000025$.",
     "manual": "QUESTDESCRIPTION_10001391_MANUAL",
     "complete": "QUESTDESCRIPTION_10001391_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001392--": {
-    "name": "QUESTDESCRIPTION_10001392_NAME",
-    "desc": "QUESTDESCRIPTION_10001392_DESC",
+    "name": "To the Royal Palace of Tria!",
+    "desc": "Am I finally going to meet $npc:11000075$? My heart is pounding.\nLet's quickly head into $map:02000025$!",
     "manual": "QUESTDESCRIPTION_10001392_MANUAL",
     "complete": "QUESTDESCRIPTION_10001392_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001393--": {
-    "name": "QUESTDESCRIPTION_10001393_NAME",
-    "desc": "QUESTDESCRIPTION_10001393_DESC",
+    "name": "Light of Blue Hope",
+    "desc": "The path I took, driven by the sole desire to meet $npc:11000075$, leaving $map:63000001$ and coming to Victoria Island... and the news of the canceled audience that made it all feel so futile... Now, standing face to face with $npc:11000075$, all those memories flash before my eyes, and I'm filled with deep emotion.\n\n$npc:11000075$ said something I don't think I'll ever forget:\n\"Please lend your strength to this world going forward. I ask this in the name of the Empress.\"",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001393_COMPLETE",
     "count": "0",
@@ -6576,7 +6576,7 @@
   },
   "10001403--": {
     "name": "Unfortunate Truth",
-    "desc": "QUESTDESCRIPTION_10001403_DESC",
+    "desc": "The mysterious red-cloaked figure threatening the world with the Devlin at the vanguard!\nTheir true identity is Bella Vidblain...\nDaughter of Royal Prime Minister $npc:11000074$, and twin sister of $npc:11000058$... and now... she has returned as a servant of evil, under the dominion of shadow energy.\nThis is the moment that a painful memory — one no one wished to see revived, as though it were taboo — has descended upon $map:02000001$!\n",
     "manual": "Receive $item:30000033$ from $npc:11000074$",
     "complete": "Meet $npc:11000075$ at $map:02000025$",
     "count": "1",
@@ -6647,8 +6647,8 @@
     "locking": "1"
   },
   "10001500--": {
-    "name": "QUESTDESCRIPTION_10001500_NAME",
-    "desc": "QUESTDESCRIPTION_10001500_DESC",
+    "name": "Steadfast and Unchanging",
+    "desc": "$npc:11000097$ appears to be fighting hard to protect the Barota Trading Company, left in ruins by its leader $npc:11000526$'s corruption.\n$npcName:11000097$ has asked for my help — the least I can do is lend a hand.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001500_COMPLETE",
     "count": "",
@@ -6656,16 +6656,16 @@
   },
   "10001501--": {
     "name": "QUESTDESCRIPTION_10001501_NAME",
-    "desc": "QUESTDESCRIPTION_10001501_DESC",
-    "manual": "QUESTDESCRIPTION_10001501_MANUAL",
+    "desc": "$npc:11000426$ refused to hand over $item:30000072$ without a trade — they've asked me to hunt down all the wolves in $map:02000085$ that have been terrorizing them.",
+    "manual": "Defeat $npc:21000063$ in $map:02000085$",
     "complete": "QUESTDESCRIPTION_10001501_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001502--": {
     "name": "QUESTDESCRIPTION_10001502_NAME",
-    "desc": "QUESTDESCRIPTION_10001502_DESC",
-    "manual": "QUESTDESCRIPTION_10001502_MANUAL",
+    "desc": "$npc:11000426$ handed over $item:30000256$ as promised. Thinking of $npc:11000097$ anxiously waiting, I should head back to $map:02000139$ quickly.",
+    "manual": "Receive $item:30000256$ from $npc:11000426$ in $map:02000085$",
     "complete": "QUESTDESCRIPTION_10001502_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -6695,80 +6695,80 @@
     "locking": "1"
   },
   "10001640--": {
-    "name": "QUESTDESCRIPTION_10001640_NAME",
-    "desc": "QUESTDESCRIPTION_10001640_DESC",
-    "manual": "QUESTDESCRIPTION_10001640_MANUAL",
+    "name": "Harbor Scoundrel",
+    "desc": "$npc:11000207$ of $map:02000139$ has asked me to deal with the monsters rampaging through the harbor and destroying the cargo.\nIt would be too heartless to abandon someone I've already helped once.\nLet's take care of $npcName:11000207$'s request!",
+    "manual": "Defeat monsters in $map:02000139$",
     "complete": "QUESTDESCRIPTION_10001640_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001660--": {
     "name": "QUESTDESCRIPTION_10001660_NAME",
-    "desc": "QUESTDESCRIPTION_10001660_DESC",
+    "desc": "$npc:11000004$ said the reason for rushing to buy iron ore from $npc:11000170$ without thinking it through was that iron ore has been hard to come by lately.\nWhere did $npcName:11000170$ get iron ore — something so hard to find — that they could sell it to a merchant so cheaply?\nCould it be iron ore smelted from manufactured weapons, as $npc:11000004$ suggested?\nIf so, could the stolen weapons have also been melted down into raw iron ore?\nFor now, let's go to $map:02000140$ and find out about $npc:11000170$'s whereabouts.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001660_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10001661--": {
-    "name": "QUESTDESCRIPTION_10001661_NAME",
-    "desc": "QUESTDESCRIPTION_10001661_DESC",
+    "name": "Find Broker Ralph!",
+    "desc": "The hip-hop boys I encountered in $map:02000083$ warned me with a beat that $map:02000141$ lies to the northeast of $map:02000083$.\nJust how dangerous can this place be for them to make such a fuss?\nLet's find the entrance to $map:02000141$ at the far northeast end of $map:02000083$!",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001661_COMPLETE",
+    "complete": "Find and enter the entrance to $map:02000141$ at the northeast end of $map:02000083$, then meet $npc:11000173$",
     "count": "",
     "locking": "1"
   },
   "10001662--": {
-    "name": "QUESTDESCRIPTION_10001662_NAME",
-    "desc": "QUESTDESCRIPTION_10001662_DESC",
-    "manual": "QUESTDESCRIPTION_10001662_MANUAL",
-    "complete": "QUESTDESCRIPTION_10001662_COMPLETE",
+    "name": "Ralph's Provocation",
+    "desc": "There's not much more to gain from pressing $npc:11000173$ further.\nIn times like this, it may be best to boldly search every corner of $map:02000141$. Along the way, I might find a useful clue or even someone willing to help.\nDefeat $npc:11000173$'s subordinates while exploring $map:02000141$.\n$map:02000141$ is located in $map:02000083$.",
+    "manual": "Defeat $npc:11000173$'s subordinates in $map:02000141$",
+    "complete": "Talk to the person hiding in the sewer of $map:02000141$",
     "count": "1",
     "locking": "1"
   },
   "10001663--": {
-    "name": "QUESTDESCRIPTION_10001663_NAME",
-    "desc": "QUESTDESCRIPTION_10001663_DESC",
-    "manual": "QUESTDESCRIPTION_10001663_MANUAL",
+    "name": "Traces of Stolen Goods",
+    "desc": "Tired of living on the run from $npc:11000173$, $npc:11000365$ plans to steal $npc:11000173$'s stolen goods ledger and hand it over to the Royal Guard or the Dark Wind in exchange for safety.\nThe full details are unclear, but among the $item:30000018$ that $npcName:11000365$ asked me to find, there should be transaction records revealing who sold the iron ore to whom.\nOpen the safes on the walls of each room in $map:02000141$, find the $item:30000018$, and bring them to $npc:11000365$.\n$map:02000141$ is located in $map:02000083$.",
+    "manual": "Open Ralph's secret vault in $map:02000141$ and find $item:30000018$",
     "complete": "QUESTDESCRIPTION_10001663_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001710--": {
     "name": "QUESTDESCRIPTION_10001710_NAME",
-    "desc": "QUESTDESCRIPTION_10001710_DESC",
-    "manual": "QUESTDESCRIPTION_10001710_MANUAL",
+    "desc": "$npc:11000393$ in the $map:02000083$ district came to perform routine water tank maintenance but has been unable to move a single step due to the monsters' rampage — now on their 251st deep breath.\nIn place of $npc:11000393$, inspect the water tanks on the rooftops of the buildings in $map:02000083$ and collect $item:30000117$.",
+    "manual": "Inspect the water tanks in $map:02000083$ and collect $item:30000117$",
     "complete": "QUESTDESCRIPTION_10001710_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001720--": {
     "name": "QUESTDESCRIPTION_10001720_NAME",
-    "desc": "QUESTDESCRIPTION_10001720_DESC",
+    "desc": "The monsters roaming $map:02000083$ have turned to robbery and attacked $map:02000121$. The staff barely escaped with their lives, but if the register cash is completely cleaned out, they'll inevitably be suspected by the store owner of being in on it.\nHead to $map:02000121$ and recover all the cash stolen from the registers so the innocent employees don't suffer unjustly!",
     "manual": "QUESTDESCRIPTION_10001720_MANUAL",
     "complete": "QUESTDESCRIPTION_10001720_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10001740--": {
-    "name": "QUESTDESCRIPTION_10001740_NAME",
-    "desc": "QUESTDESCRIPTION_10001740_DESC",
-    "manual": "QUESTDESCRIPTION_10001740_MANUAL",
+    "name": "Source of the Stench",
+    "desc": "$npc:11000399$, who came to $map:02000092$ to investigate the cause of the petrifying water, is suffering from a piercing stench.\nThe source of the odor appears to be the Large Vine Moss and $npc:21000387$ spawned by wastewater believed to have flowed in from $map:02000084$!\nFind and remove the Large Vine Moss growing near the wastewater inlet in $map:02000092$, and defeat $npc:21000387$!",
+    "manual": "Defeat $npc:21000387$ near the contaminated area in $map:02000092$|Remove the Large Vine Moss near the contaminated area in $map:02000092$",
     "complete": "QUESTDESCRIPTION_10001740_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10001741--": {
-    "name": "QUESTDESCRIPTION_10001741_NAME",
-    "desc": "QUESTDESCRIPTION_10001741_DESC",
+    "name": "Dad Is the Maintenance Chief",
+    "desc": "$npc:11000174$ is worried that her father, who manages $map:02000092$, hasn't come home for several days.\nGo find $npc:11000174$'s father, $npc:11000400$, and tell him that his daughter is worried and he should come home. ",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001741_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001742--": {
-    "name": "QUESTDESCRIPTION_10001742_NAME",
-    "desc": "QUESTDESCRIPTION_10001742_DESC",
+    "name": "Petrifying Water",
+    "desc": "There was a reason $npc:11000400$ hasn't been able to come home for days.\nThe water upstream in $map:02000092$ has been gradually hardening from the center outward! A field investigation is needed to find the cause, but the constantly spawning monsters make it impossible to even get close.\nEliminate the monsters rampaging on the hardened water upstream in $map:02000092$.",
     "manual": "QUESTDESCRIPTION_10001742_MANUAL",
     "complete": "QUESTDESCRIPTION_10001742_COMPLETE",
     "count": "1",
@@ -6776,15 +6776,15 @@
   },
   "10001750--": {
     "name": "Power of Poison",
-    "desc": "QUESTDESCRIPTION_10001750_DESC",
+    "desc": "$npc:11000402$ and $npc:11000403$ have been poisoned by toxins seeping out of $map:02000043$!\nThey need $item:20000060$ from $npc:21000078$ to neutralize the poison.\nDefeat $npc:21000078$ that occasionally appear in the plains of $map:02000043$ and collect $item:20000060$.",
     "manual": "Gather $npc:21000078$'s $item:20000060$ in $map:02000043$",
     "complete": "Meet $npc:11000402$ at $map:02000043$",
     "count": "1",
     "locking": "1"
   },
   "10001810--": {
-    "name": "QUESTDESCRIPTION_10001810_NAME",
-    "desc": "QUESTDESCRIPTION_10001810_DESC",
+    "name": "Longing for a Granddaughter",
+    "desc": "$npc:11000419$, a doctor at the hospital in $map:02000100$, handed over a photo of $npc:11000424$'s granddaughter — who went missing shortly after leaving the hospital — and asked me to deliver it.\nFor $npc:11000424$, who spends every day in tears missing the beloved granddaughter who vanished without a trace, this photo must be more precious than anything.\nFind $npc:11000424$ in $map:02000100$ and deliver the granddaughter's photo.",
     "manual": "QUESTDESCRIPTION_10001810_MANUAL",
     "complete": "QUESTDESCRIPTION_10001810_COMPLETE",
     "count": "1",
@@ -6792,8 +6792,8 @@
   },
   "10001811--": {
     "name": "QUESTDESCRIPTION_10001811_NAME",
-    "desc": "QUESTDESCRIPTION_10001811_DESC",
-    "manual": "QUESTDESCRIPTION_10001811_MANUAL",
+    "desc": "$npc:11000424$ cautiously asked me to check whether the mysterious monster-girl who occasionally appears in $map:02000147$ might be their granddaughter's doll come to life.\nApparently a single item from $npc:22090165$ would be enough to know for certain — let's retrieve something from $npc:22090165$ and show it to $npc:11000424$.",
+    "manual": "(Elite) Retrieve $npc:22090165$'s Items",
     "complete": "QUESTDESCRIPTION_10001811_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -6824,7 +6824,7 @@
   },
   "10001870--": {
     "name": "QUESTDESCRIPTION_10001870_NAME",
-    "desc": "QUESTDESCRIPTION_10001870_DESC",
+    "desc": "$npc:11000492$ recalled an address written in $npc:11000170$'s peddler's notebook and told me to head to $map:02000092$ to search for $npc:11000170$.\nNothing to lose by trying.\nFor now, let's head to $map:02000092$ and look for $npc:11000170$!",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001870_COMPLETE",
     "count": "",
@@ -6832,7 +6832,7 @@
   },
   "10001880--": {
     "name": "QUESTDESCRIPTION_10001880_NAME",
-    "desc": "QUESTDESCRIPTION_10001880_DESC",
+    "desc": "While $npc:11000012$ reviews the shipping logbook, they asked me to deliver some mail to $npc:11000492$ at $map:02000140$.\nIf it helps me find the missing delivery truck any sooner, a small errand is nothing.\nLet's head to $map:02000140$ with the mail from $npc:11000012$.",
     "manual": "QUESTDESCRIPTION_10001880_MANUAL",
     "complete": "QUESTDESCRIPTION_10001880_COMPLETE",
     "count": "1",
@@ -6840,7 +6840,7 @@
   },
   "10001881--": {
     "name": "QUESTDESCRIPTION_10001881_NAME",
-    "desc": "QUESTDESCRIPTION_10001881_DESC",
+    "desc": "$npc:11000492$ didn't forget to thank $npc:11000012$ as well.\nBeing grateful for small things and showing consideration for others — that kind of attitude has a way of moving people's hearts.\nLet's head to $npc:11000012$ at $map:02000001$ and pass along $npc:11000492$'s regards.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001881_COMPLETE",
     "count": "",
@@ -6848,15 +6848,15 @@
   },
   "10001890--": {
     "name": "QUESTDESCRIPTION_10001890_NAME",
-    "desc": "QUESTDESCRIPTION_10001890_DESC",
+    "desc": "$npc:11000169$ asked me to keep an eye on $npc:11000492$ to prevent him from fleeing while they report to $npc:11000119$ about the weapons depot theft and $npc:11000492$'s corruption.\nHead to $map:02000140$ and keep watch on $npc:11000492$'s movements.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10001890_COMPLETE",
+    "complete": "Go to $map:02000140$",
     "count": "",
     "locking": "1"
   },
   "10001891--": {
-    "name": "QUESTDESCRIPTION_10001891_NAME",
-    "desc": "QUESTDESCRIPTION_10001891_DESC",
+    "name": "Growing Suspicions",
+    "desc": "The door of $map:02000140$, where $npc:11000492$ always greeted visitors with a bright smile, was firmly shut.\nWhere could $npc:11000492$ have gone...?\n$npc:11000373$, a part-timer who's always handing out flyers at the taxi stop right in front of $map:02000140$, might have seen something.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001891_COMPLETE",
     "count": "",
@@ -6864,7 +6864,7 @@
   },
   "10001892--": {
     "name": "QUESTDESCRIPTION_10001892_NAME",
-    "desc": "QUESTDESCRIPTION_10001892_DESC",
+    "desc": "$npc:11000373$ says they saw $npc:11000492$, who rarely leaves $map:02000140$, heading home for some business.\nAsk $npc:11000012$ for $npc:11000492$'s home address.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001892_COMPLETE",
     "count": "",
@@ -6872,15 +6872,15 @@
   },
   "10001900--": {
     "name": "QUESTDESCRIPTION_10001900_NAME",
-    "desc": "QUESTDESCRIPTION_10001900_DESC",
+    "desc": "While $npc:11000044$ gathers Dark Wind members to form a search team to find evidence of $npc:11000526$'s corruption, they've asked me to head to $map:02000157$ and obtain a search warrant for the Barota Trading Company from $npc:11000065$.\nEvery great task starts with the first step!\nReport everything to $npc:11000065$ and secure the Barota Trading Company search warrant.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001900_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10001901--": {
-    "name": "QUESTDESCRIPTION_10001901_NAME",
-    "desc": "QUESTDESCRIPTION_10001901_DESC",
+    "name": "Search Permit",
+    "desc": "$npc:11000065$ issued $item:30000165$, asking that this matter be concluded by exposing $npc:11000526$'s personal corruption alone, so the entire Barota Trading Company doesn't come crumbling down.\nHead back to $map:02000152$ and meet with $npc:11000044$.",
     "manual": "QUESTDESCRIPTION_10001901_MANUAL",
     "complete": "QUESTDESCRIPTION_10001901_COMPLETE",
     "count": "1",
@@ -6888,7 +6888,7 @@
   },
   "10001902--": {
     "name": "QUESTDESCRIPTION_10001902_NAME",
-    "desc": "QUESTDESCRIPTION_10001902_DESC",
+    "desc": "$npc:11000044$ received a tip that $item:20000015$, a banned food product, is being sold alongside $item:20000046$ at $map:02000209$, and ordered me to trace the distribution route.\nIf $npc:11000526$ is involved in distributing $item:20000015$ as $npc:11000044$ suspects, we might uncover an unexpected lead on his whereabouts.\nFind $item:20000015$ at $map:02000209$ in $map:02000147$, then meet with $npc:11000491$.",
     "manual": "QUESTDESCRIPTION_10001902_MANUAL",
     "complete": "QUESTDESCRIPTION_10001902_COMPLETE",
     "count": "1|1",
@@ -6896,7 +6896,7 @@
   },
   "10001903--": {
     "name": "QUESTDESCRIPTION_10001903_NAME",
-    "desc": "QUESTDESCRIPTION_10001903_DESC",
+    "desc": "As promised, $npc:11000491$ revealed the distribution route for $item:20000015$ and mentioned the possibility that the Black Star Society was involved in helping $npc:11000526$ disappear.\nIt's just speculation from $npc:11000491$ with no evidence yet, but it could turn out to be the decisive clue to finding $npc:11000526$.\nFor now, head back to $map:02000152$ and meet with $npc:11000044$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10001903_COMPLETE",
     "count": "",
@@ -6904,7 +6904,7 @@
   },
   "10002000--": {
     "name": "QUESTDESCRIPTION_10002000_NAME",
-    "desc": "QUESTDESCRIPTION_10002000_DESC",
+    "desc": "$npc:11000491$ says that securing $npc:11000245$'s support is necessary to win the oil development rights in $map:02000148$.\n$npc:11000245$ is not the type to open up easily... How do we get a recommender's signature on $item:30000166$?\nFor now, head to $map:02000148$ and meet with $npc:11000245$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002000_COMPLETE",
     "count": "",
@@ -6912,15 +6912,15 @@
   },
   "10002001--": {
     "name": "QUESTDESCRIPTION_10002001_NAME",
-    "desc": "QUESTDESCRIPTION_10002001_DESC",
-    "manual": "QUESTDESCRIPTION_10002001_MANUAL",
+    "desc": "$npc:11000245$ of $map:02000148$ advised that to earn a recommendation for the business rights, I should first win over the workers at $map:02000148$.\nHelp out $npc:11000353$, $npc:11000533$, and $npc:11000543$—the workers of $map:02000148$ who toil under the blazing sun all day—and build a rapport with them.",
+    "manual": "Help $npc:11000543$ with [Hazardous Oil Pipe]|Help $npc:11000353$ with [The Cobras Are Furious]|Help $npc:11000533$ with [The Wretched Arsonist]",
     "complete": "QUESTDESCRIPTION_10002001_COMPLETE",
     "count": "0|0|0",
     "locking": "1"
   },
   "10002002--": {
     "name": "QUESTDESCRIPTION_10002002_NAME",
-    "desc": "QUESTDESCRIPTION_10002002_DESC",
+    "desc": "$npc:11000245$ signed the recommender field and returned $item:30000167$.\nDeliver $item:30000167$ to $npc:11000491$ at $map:02000209$.",
     "manual": "QUESTDESCRIPTION_10002002_MANUAL",
     "complete": "QUESTDESCRIPTION_10002002_COMPLETE",
     "count": "1",
@@ -6928,15 +6928,15 @@
   },
   "10002010--": {
     "name": "QUESTDESCRIPTION_10002010_NAME",
-    "desc": "QUESTDESCRIPTION_10002010_DESC",
+    "desc": "$npc:11000533$ of $map:02000148$ is at their wit's end because of monsters that pierce through oil pipes and set them ablaze.\nEven a slight reduction in their numbers would make things much easier for $npc:11000533$ and the workers here, so let's take down the troublemaking monsters of $map:02000148$. ",
     "manual": "QUESTDESCRIPTION_10002010_MANUAL",
     "complete": "QUESTDESCRIPTION_10002010_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10002020--": {
-    "name": "QUESTDESCRIPTION_10002020_NAME",
-    "desc": "QUESTDESCRIPTION_10002020_DESC",
+    "name": "Find the Gold Bars!",
+    "desc": "The Black Star Society boss $npc:11000251$ said that if I retrieve all the gold bars that a traitor stole from the organization, they will accept me as a member.\nI must quickly find the hidden gold bar bags scattered throughout $map:02000138$, or defeat the monsters that made off with the gold and seize $item:30000168$ from them.\nTo find $npc:11000526$, I must earn the trust and recognition of the Black Star Society.\nLet's move quickly.",
     "manual": "QUESTDESCRIPTION_10002020_MANUAL",
     "complete": "QUESTDESCRIPTION_10002020_COMPLETE",
     "count": "1",
@@ -6944,15 +6944,15 @@
   },
   "10002021--": {
     "name": "QUESTDESCRIPTION_10002021_NAME",
-    "desc": "QUESTDESCRIPTION_10002021_DESC",
+    "desc": "$npc:11000251$ ordered me to find out what happened at $map:02000144$.\nHead to $map:02000144$.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002021_COMPLETE",
+    "complete": "Visit $map:02000144$",
     "count": "",
     "locking": "1"
   },
   "10002022--": {
-    "name": "QUESTDESCRIPTION_10002022_NAME",
-    "desc": "QUESTDESCRIPTION_10002022_DESC",
+    "name": "Working the Field",
+    "desc": "$npc:11000213$, met at the entrance of $map:02000144$, kept repeating that it was \"horrible\" and told me to ask $npc:11000534$ for the details of the incident.\nMeet with $npc:11000534$, who is conducting an on-site investigation at $map:02000144$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002022_COMPLETE",
     "count": "",
@@ -6960,15 +6960,15 @@
   },
   "10002023--": {
     "name": "QUESTDESCRIPTION_10002023_NAME",
-    "desc": "QUESTDESCRIPTION_10002023_DESC",
+    "desc": "$npc:11000534$ said that the ID found near the body bore the name $npc:11000526$.\n$npc:11000526$...? Did I hear that right...?\nDoes that mean $npc:11000526$ died here at $map:02000144$...?\nIt's hard to believe, but I should report what I've learned at $map:02000144$ to $npc:11000251$.\nHead back to $map:02000156$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002023_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002030--": {
-    "name": "QUESTDESCRIPTION_10002030_NAME",
-    "desc": "QUESTDESCRIPTION_10002030_DESC",
+    "name": "The Death of Raymon",
+    "desc": "I ran into $npc:11000524$ again at $map:02000144$—the same person I'd met in $map:02000139$.\nIt seems they had been privately tracking $npc:11000526$'s whereabouts after the Barota Trading Company search concluded, hoping to boost their record as a Dark Wind member.\nThey happened to stumble upon the scene at $map:02000144$ by chance... Whether fortune truly favors them as they say, I can't be sure, but what matters now is that all evidence strongly points to the person who died alone in this secluded alley being $npc:11000526$.\nTake $item:30000036$ received from $npc:11000524$ and deliver it to $npc:11000044$ at $map:02000153$.",
     "manual": "QUESTDESCRIPTION_10002030_MANUAL",
     "complete": "QUESTDESCRIPTION_10002030_COMPLETE",
     "count": "1",
@@ -6976,7 +6976,7 @@
   },
   "10002031--": {
     "name": "QUESTDESCRIPTION_10002031_NAME",
-    "desc": "QUESTDESCRIPTION_10002031_DESC",
+    "desc": "After much deliberation, $npc:11000044$ declared that with $npc:11000526$'s death, they would close the investigation—from the weapons depot theft to the cases surrounding $npc:11000492$'s corruption and death.\nHead back to $map:02000001$ and report the conclusion of the investigation to $npc:11000119$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002031_COMPLETE",
     "count": "",
@@ -6984,31 +6984,31 @@
   },
   "10002040--": {
     "name": "QUESTDESCRIPTION_10002040_NAME",
-    "desc": "QUESTDESCRIPTION_10002040_DESC",
+    "desc": "$npc:11000119$ said that an urgent support request came in from the $map:02000076$ vigilante corps, and asked me to depart ahead of the royal guard reinforcements to assess the situation and assist $npc:11000015$.\nHead out to $map:02000076$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002040_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002041--": {
-    "name": "QUESTDESCRIPTION_10002041_NAME",
-    "desc": "QUESTDESCRIPTION_10002041_DESC",
+    "name": "Save the Northeast Outpost!",
+    "desc": "$npc:11000015$ says the vigilante corps' northeast outpost at $map:02000054$ was ambushed by mysterious monsters, and asks me to defend the outpost alongside the vigilantes.\nHead to $map:02000054$, defeat the demon-winged bats that attacked the northeast outpost, and help the vigilante corps!",
     "manual": "QUESTDESCRIPTION_10002041_MANUAL",
     "complete": "QUESTDESCRIPTION_10002041_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10002042--": {
-    "name": "QUESTDESCRIPTION_10002042_NAME",
-    "desc": "QUESTDESCRIPTION_10002042_DESC",
+    "name": "An Unfamiliar Object",
+    "desc": "$npc:11000547$ at the northeast outpost of $map:02000054$ asks me to deliver $item:30000172$, seized after a fierce battle against the ringleader who led the $npc:21000191$ attack, to $npc:11000015$.\nHead back to $map:02000076$!",
     "manual": "QUESTDESCRIPTION_10002042_MANUAL",
     "complete": "QUESTDESCRIPTION_10002042_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10002043--": {
-    "name": "QUESTDESCRIPTION_10002043_NAME",
-    "desc": "QUESTDESCRIPTION_10002043_DESC",
+    "name": "Nermann the Blacksmith",
+    "desc": "$npc:11000015$ asked me to deliver $item:30000172$, passed along by $npc:11000547$, to the blacksmith $npc:11000508$ at $map:02000203$. Head to $map:02000203$.",
     "manual": "QUESTDESCRIPTION_10002043_MANUAL",
     "complete": "QUESTDESCRIPTION_10002043_COMPLETE",
     "count": "1",
@@ -7016,7 +7016,7 @@
   },
   "10002050--": {
     "name": "QUESTDESCRIPTION_10002050_NAME",
-    "desc": "QUESTDESCRIPTION_10002050_DESC",
+    "desc": "$npc:11000508$ at $map:02000203$ asked me to deliver $item:30000173$ to $npc:11000015$.",
     "manual": "QUESTDESCRIPTION_10002050_MANUAL",
     "complete": "QUESTDESCRIPTION_10002050_COMPLETE",
     "count": "1",
@@ -7024,7 +7024,7 @@
   },
   "10002051--": {
     "name": "QUESTDESCRIPTION_10002051_NAME",
-    "desc": "QUESTDESCRIPTION_10002051_DESC",
+    "desc": "$npc:11000015$ asked me to deliver $item:30000173$, given by $npc:11000508$, to $npc:11000119$ at $map:02000001$. Head back to $map:02000001$.",
     "manual": "QUESTDESCRIPTION_10002051_MANUAL",
     "complete": "QUESTDESCRIPTION_10002051_COMPLETE",
     "count": "1",
@@ -7032,16 +7032,16 @@
   },
   "10002052--": {
     "name": "QUESTDESCRIPTION_10002052_NAME",
-    "desc": "QUESTDESCRIPTION_10002052_DESC",
+    "desc": "$npc:11000119$ brought both welcome news—that the vigilante corps stationed at $map:02000115$ outpost, cut off after an earthquake split the land, have finally made contact—and grim news that the fearsome $npc:23000001$ has appeared there.\nWhile it's wonderful that the members $npc:11000015$ has been worried about are safe, the emergence of a terrifying presence threatening $map:02000001$'s safety is far from welcome.\nDeliver $item:30000173$ to the vigilantes at $map:02000115$ outpost. Find the narrowest gap in the broken terrain of $map:02000115$ and fly across.",
     "manual": "QUESTDESCRIPTION_10002052_MANUAL",
     "complete": "QUESTDESCRIPTION_10002052_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10002053--": {
-    "name": "QUESTDESCRIPTION_10002053_NAME",
-    "desc": "QUESTDESCRIPTION_10002053_DESC",
-    "manual": "QUESTDESCRIPTION_10002053_MANUAL",
+    "name": "For Victory",
+    "desc": "$npc:11000548$ at $map:02000115$ outpost asked me to use $item:30000173$ to repair the broken crossbows.",
+    "manual": "Obtain $item:30000173$ from $npc:11000548$|Repair the Broken Crossbow in the Severed Land of $map:02000115$",
     "complete": "QUESTDESCRIPTION_10002053_COMPLETE",
     "count": "1|1",
     "locking": "1"
@@ -7080,7 +7080,7 @@
   },
   "10002064--": {
     "name": "Emergency Dispatch",
-    "desc": "QUESTDESCRIPTION_10002064_DESC",
+    "desc": "$npc:11000551$ at $map:02000238$ asked me to return to $map:02000001$ and deliver $item:30000174$ to $npc:11000119$, along with a request for reinforcements.",
     "manual": "Receive $item:30000174$ from $npc:11000551$ at $map:02000117$ $map:02000238$",
     "complete": "Meet $npc:11000119$ at $map:02000001$",
     "count": "1",
@@ -7088,7 +7088,7 @@
   },
   "10002070--": {
     "name": "QUESTDESCRIPTION_10002070_NAME",
-    "desc": "QUESTDESCRIPTION_10002070_DESC",
+    "desc": "$npc:11000119$ received word from $npc:11000044$ that they have found evidence linking $npc:11000529$ of $map:02000100$ to the theft of items from the royal audience ceremony, and asked me to assist with the investigation.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002070_COMPLETE",
     "count": "",
@@ -7096,7 +7096,7 @@
   },
   "10002071--": {
     "name": "QUESTDESCRIPTION_10002071_NAME",
-    "desc": "QUESTDESCRIPTION_10002071_DESC",
+    "desc": "$npc:11000044$ told me to question the residents of $map:02000100$ and look for anyone who has seen the Humples or knows something about them, in order to find their hideout.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002071_COMPLETE",
     "count": "",
@@ -7104,7 +7104,7 @@
   },
   "10002072--": {
     "name": "QUESTDESCRIPTION_10002072_NAME",
-    "desc": "QUESTDESCRIPTION_10002072_DESC",
+    "desc": "$npc:11000232$, a resident of $map:02000100$, shares what they've heard about the Humples and mentions that $npc:11000233$ would know more.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002072_COMPLETE",
     "count": "",
@@ -7112,7 +7112,7 @@
   },
   "10002073--": {
     "name": "QUESTDESCRIPTION_10002073_NAME",
-    "desc": "QUESTDESCRIPTION_10002073_DESC",
+    "desc": "$npc:11000233$, a resident of $map:02000100$, says their twin sister who works as a maid in $map:02000137$ personally witnessed Humples bullying students in school uniforms.\nHead to $map:02000137$ and continue investigating Humples.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002073_COMPLETE",
     "count": "",
@@ -7120,7 +7120,7 @@
   },
   "10002074--": {
     "name": "QUESTDESCRIPTION_10002074_NAME",
-    "desc": "QUESTDESCRIPTION_10002074_DESC",
+    "desc": "I met students in $map:02000137$ who had been victimized by Humples. Seeing how scared and intimidated they were, Humples seem far worse than expected.\nSince they said they'd come back to see $npc:11000219$, they might still be around here somewhere.\nSearch $map:02000137$ and track down Humples.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002074_COMPLETE",
     "count": "",
@@ -7128,7 +7128,7 @@
   },
   "10002075--": {
     "name": "QUESTDESCRIPTION_10002075_NAME",
-    "desc": "QUESTDESCRIPTION_10002075_DESC",
+    "desc": "While searching for Humples in $map:02000137$, I came across $npc:11000218$, who told me a completely different story. It turns out the students being punished at the railroad tracks were actually delinquents who had been bullying $npc:11000218$, and Humples were in fact champions of justice who came to $npc:11000218$'s defense...!!\nLuckily, a slip by $npc:11000218$ revealed that $map:02000208$ is somewhere in an abandoned building in $map:02000166$.\nHead to $map:02000166$ and find the condemned building. ",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002075_COMPLETE",
     "count": "",
@@ -7136,7 +7136,7 @@
   },
   "10002076--": {
     "name": "QUESTDESCRIPTION_10002076_NAME",
-    "desc": "QUESTDESCRIPTION_10002076_DESC",
+    "desc": "$npc:11000529$, whom I met at $map:02000208$, shared the story behind why they left the Dark Wind and recounted past memories involving $npc:11000044$.\n$npc:11000064$, whom $npc:11000529$ firmly believes in...\nWhat is the truth about them?\nHead to $map:02000152$ and report the findings to $npc:11000044$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002076_COMPLETE",
     "count": "",
@@ -7144,7 +7144,7 @@
   },
   "10002080--": {
     "name": "QUESTDESCRIPTION_10002080_NAME",
-    "desc": "QUESTDESCRIPTION_10002080_DESC",
+    "desc": "$npc:11000529$, whom I met at $map:02000208$, advises that if I truly want to uncover the truth, it would be better to first trace the origin of the box rather than heading straight to $npc:11000044$.\nBefore acting hastily, it might be wise to look into whether anyone suspicious was seen recently in $map:02000166$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002080_COMPLETE",
     "count": "",
@@ -7152,15 +7152,15 @@
   },
   "10002081--": {
     "name": "QUESTDESCRIPTION_10002081_NAME",
-    "desc": "QUESTDESCRIPTION_10002081_DESC",
+    "desc": "Could $npc:11000529$ have been right — that everything was a conspiracy and a trap?\n$npc:11000311$, a merchant in $map:02000166$, passed along a story about suspicious figures whispering near an abandoned building shrouded in darkness.\nHead to $map:02000208$ in $map:02000166$ and inform $npc:11000529$ of this.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002081_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002090--": {
-    "name": "QUESTDESCRIPTION_10002090_NAME",
-    "desc": "QUESTDESCRIPTION_10002090_DESC",
+    "name": "Between Surveillance and Protection",
+    "desc": "$npc:11000044$ says they are afraid of losing $npc:11000069$, the only daughter of Wren Stilton, at the hands of $npc:11000064$.\nThe terrible memory they once witnessed seems to have left an indelible trauma.\nHead to $map:02000147$ and find the Dark Wind member guarding $map:02000205$ to check that $npc:11000069$'s daily life is undisturbed.",
     "manual": "QUESTDESCRIPTION_10002090_MANUAL",
     "complete": "QUESTDESCRIPTION_10002090_COMPLETE",
     "count": "1",
@@ -7168,15 +7168,15 @@
   },
   "10002091--": {
     "name": "QUESTDESCRIPTION_10002091_NAME",
-    "desc": "QUESTDESCRIPTION_10002091_DESC",
+    "desc": "$npc:11000258$ asked me to check whether $npc:11000069$, who hasn't been going outside, is doing alright.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002091_COMPLETE",
+    "complete": "Visit $map:02000205$ in $map:02000147$",
     "count": "",
     "locking": "1"
   },
   "10002092--": {
-    "name": "QUESTDESCRIPTION_10002092_NAME",
-    "desc": "QUESTDESCRIPTION_10002092_DESC",
+    "name": "The Invisible Truth",
+    "desc": "$npc:11000069$ seemed wary of strangers visiting and appeared to want to live quietly.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002092_COMPLETE",
     "count": "",
@@ -7536,7 +7536,7 @@
   },
   "10002220--": {
     "name": "QUESTDESCRIPTION_10002220_NAME",
-    "desc": "QUESTDESCRIPTION_10002220_DESC",
+    "desc": "I received word that somewhere in $map:02000146$, there is likely an entrance to $map:02000213$ — a kind of summoning ground where $npc:23000007$ endlessly calls forth Shadow Legion members and strengthens them with the power of darkness.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002220_COMPLETE",
     "count": "",
@@ -7544,15 +7544,15 @@
   },
   "10002221--": {
     "name": "QUESTDESCRIPTION_10002221_NAME",
-    "desc": "QUESTDESCRIPTION_10002221_DESC",
+    "desc": "$npc:11000076$ believes the mysterious door discovered by a Guardian scouting party is the entrance to $map:02000213$, and tells me to go ahead and observe the situation while the elite troops prepare.",
     "manual": "QUESTDESCRIPTION_10002221_MANUAL",
     "complete": "QUESTDESCRIPTION_10002221_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10002250--": {
-    "name": "QUESTDESCRIPTION_10002250_NAME",
-    "desc": "QUESTDESCRIPTION_10002250_DESC",
+    "name": "Longing for Mother",
+    "desc": "$npc:11000221$ of $map:02000136$ asked me to go find $npc:11000242$ of $map:02000135$ and get more details, as $npc:11000242$ had mentioned that $npc:11000221$'s mother might still be alive in the Land of Darkness.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002250_COMPLETE",
     "count": "",
@@ -7560,15 +7560,15 @@
   },
   "10002251--": {
     "name": "QUESTDESCRIPTION_10002251_NAME",
-    "desc": "QUESTDESCRIPTION_10002251_DESC",
+    "desc": "$npc:11000242$ of $map:02000135$ mentioned that a regular customer, $npc:11000384$, had come across $item:39000010$ by chance, and suggested I go meet them.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002251_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002252--": {
-    "name": "QUESTDESCRIPTION_10002252_NAME",
-    "desc": "QUESTDESCRIPTION_10002252_DESC",
+    "name": "In Search of the Shadow Gate",
+    "desc": "$npc:11000384$ of $map:02000135$ said they sold $item:39000010$ to $npc:11000609$ and told me to head to $map:02000146$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002252_COMPLETE",
     "count": "",
@@ -7584,7 +7584,7 @@
   },
   "10002271--": {
     "name": "Underground Tunnel",
-    "desc": "QUESTDESCRIPTION_10002271_DESC",
+    "desc": "$npc:11000064$ anticipates that $npc:11000044$ will slip into the Land of Darkness through a hidden passage in $map:02000146$, and asks me to search $map:02000308$.",
     "manual": "Take out the monsters of $map:02000308$",
     "complete": "Meet $npc:11000069$ at $map:02000308$",
     "count": "1",
@@ -7600,7 +7600,7 @@
   },
   "10002273--": {
     "name": "Survivor's Duty",
-    "desc": "QUESTDESCRIPTION_10002273_DESC",
+    "desc": "$npc:11000064$ anticipates that $npc:11000044$ will return someday, stronger than before, and tells me to inform the Guardian troops that $npc:11000044$ has completely vanished into the Land of Darkness.",
     "manual": "",
     "complete": "Meet $npc:11000076$ at $map:02000146$",
     "count": "",
@@ -7608,7 +7608,7 @@
   },
   "10002274--": {
     "name": "False Ending",
-    "desc": "QUESTDESCRIPTION_10002274_DESC",
+    "desc": "$npc:11000076$ tells me to report to $npc:11000075$ that $npc:11000044$ has completely vanished into the Land of Darkness.",
     "manual": "",
     "complete": "Meet $npc:11000075$ at $map:02000025$",
     "count": "",
@@ -7616,7 +7616,7 @@
   },
   "10002290--": {
     "name": "QUESTDESCRIPTION_10002290_NAME",
-    "desc": "QUESTDESCRIPTION_10002290_DESC",
+    "desc": "$npc:11000076$ revealed that special agents of the Secret Order are carrying out covert missions in the Land of Darkness, and invited me to join.\nA dangerous but meaningful life suits me far better than a safe but purposeless one — especially for someone who wants to become a hero.\nThe Land of Darkness, where a great evil threatening this world lies dormant...! However dangerous it may be, there's no point in being afraid before I've even set foot there!",
     "manual": "QUESTDESCRIPTION_10002290_MANUAL",
     "complete": "QUESTDESCRIPTION_10002290_COMPLETE",
     "count": "0",
@@ -7624,7 +7624,7 @@
   },
   "10002291--": {
     "name": "QUESTDESCRIPTION_10002291_NAME",
-    "desc": "QUESTDESCRIPTION_10002291_DESC",
+    "desc": "$npc:11000804$ challenged me, on my honor, to step outside $map:03009001$ and defeat $npc:40000024$.\nI'm not sure why I need to prove myself like this... but if I walk away now, I'll be branded a coward.\nLet's defeat $npc:40000024$ with dignity and hold my head high!",
     "manual": "QUESTDESCRIPTION_10002291_MANUAL",
     "complete": "QUESTDESCRIPTION_10002291_COMPLETE",
     "count": "1",
@@ -7632,7 +7632,7 @@
   },
   "10002292--": {
     "name": "QUESTDESCRIPTION_10002292_NAME",
-    "desc": "QUESTDESCRIPTION_10002292_DESC",
+    "desc": "I went through all that trouble defeating $npc:40000024$ and came back, only to hear them grumbling about skill levels...?\nI don't know how talented $npc:11000804$ really is, but I'm determined to one day make them apologize for looking down on me.\nBusiness is business!\nFor now, let's just take care of the mission at hand.",
     "manual": "QUESTDESCRIPTION_10002292_MANUAL",
     "complete": "QUESTDESCRIPTION_10002292_COMPLETE",
     "count": "0",
@@ -7640,7 +7640,7 @@
   },
   "10002300--": {
     "name": "QUESTDESCRIPTION_10002300_NAME",
-    "desc": "QUESTDESCRIPTION_10002300_DESC",
+    "desc": "$npc:11000076$ of $map:02000146$ says a new mission in the Land of Darkness has come up, and tells me to head to $map:03009001$ to meet $npc:11000804$. ",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002300_COMPLETE",
     "count": "",
@@ -7648,7 +7648,7 @@
   },
   "10002301--": {
     "name": "QUESTDESCRIPTION_10002301_NAME",
-    "desc": "QUESTDESCRIPTION_10002301_DESC",
+    "desc": "$npc:11000804$ of $map:03009001$ says we need to use $npc:11000070$ to find out where and how $item:20000046$ is being produced and distributed. They give me a mission to approach $npc:11000070$ under the pretense of buying $item:20000046$ and determine its source and distribution route.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002301_COMPLETE",
     "count": "",
@@ -7656,23 +7656,23 @@
   },
   "10002302--": {
     "name": "QUESTDESCRIPTION_10002302_NAME",
-    "desc": "QUESTDESCRIPTION_10002302_DESC",
-    "manual": "QUESTDESCRIPTION_10002302_MANUAL",
+    "desc": "$npc:11000070$ demanded $item:30000194$ in exchange for $item:20000046$.\nUnlike Karma, $item:30000194$ is nothing but worthless stone fragments — what could they possibly want them for...? For now, let's hunt monsters roaming the Land of Darkness, as they are known to occasionally drop $item:30000194$.",
+    "manual": "Defeat monsters in the Dark Land and obtain $item:30000194$",
     "complete": "QUESTDESCRIPTION_10002302_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10002303--": {
     "name": "QUESTDESCRIPTION_10002303_NAME",
-    "desc": "QUESTDESCRIPTION_10002303_DESC",
+    "desc": "$npc:11000070$ introduced me to $npc:11000610$, who supplies $item:20000046$, and said they'd take $item:30000194$ as a referral fee.\nI feel like I've been had, but I'll have to swallow my pride just this once to gather more information.\nLet's head outside the shelter and meet $npc:11000610$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002303_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002304--": {
-    "name": "QUESTDESCRIPTION_10002304_NAME",
-    "desc": "QUESTDESCRIPTION_10002304_DESC",
+    "name": "Finding the Scene!",
+    "desc": "$npc:11000610$ said that if I want to obtain $item:20000046$, I should go to $map:03000134$ and meet $npc:11000806$, who first developed $item:20000046$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002304_COMPLETE",
     "count": "",
@@ -7680,7 +7680,7 @@
   },
   "10002305--": {
     "name": "QUESTDESCRIPTION_10002305_NAME",
-    "desc": "QUESTDESCRIPTION_10002305_DESC",
+    "desc": "$npc:11000806$, stressed by the $npc:40000023$s' tyranny, gave what seemed like a reluctant agreement to deal with them.\nTheir thoroughness in always having an escape plan, even when things go wrong, seems to be the source of strength that allows them to adapt and survive here.  ",
     "manual": "QUESTDESCRIPTION_10002305_MANUAL",
     "complete": "QUESTDESCRIPTION_10002305_COMPLETE",
     "count": "1",
@@ -7688,15 +7688,15 @@
   },
   "10002306--": {
     "name": "QUESTDESCRIPTION_10002306_NAME",
-    "desc": "QUESTDESCRIPTION_10002306_DESC",
+    "desc": "$npc:11000806$ in $map:03000134$ seems to take great pride in having been the first to develop $item:20000046$. However... for the safety and peace of the Maple World, it would have been far better if he had stayed in the corner of the Goldus Pharmaceutical Factory making antacids.\nDrastic measures must be taken to ensure that $npc:11000806$'s grand and wicked dream of using his own drugs to control and manipulate people never becomes reality.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002306_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002307--": {
-    "name": "QUESTDESCRIPTION_10002307_NAME",
-    "desc": "QUESTDESCRIPTION_10002307_DESC",
+    "name": "Papagaru Manufacturing Site",
+    "desc": "$npc:11000804$ said the illegal distribution of $item:20000046$ must be stamped out at its root, and gave me a mission to clear out $map:03009021$ and return.\nLet's find $map:03009021$ underground in $map:03000134$, defeat the guards protecting it, and collect all of $item:30000216$, the raw material used to produce $item:20000046$.",
     "manual": "QUESTDESCRIPTION_10002307_MANUAL",
     "complete": "QUESTDESCRIPTION_10002307_COMPLETE",
     "count": "1|1",
@@ -7704,7 +7704,7 @@
   },
   "10002308--": {
     "name": "QUESTDESCRIPTION_10002308_NAME",
-    "desc": "QUESTDESCRIPTION_10002308_DESC",
+    "desc": "$npc:11000805$, whom I met in $map:03009021$, acted as though they wanted nothing to do with anyone outside the Lumina Liberation Army.\nWho are the Lumina Liberation Army...? Why is $npc:11000805$ acting this way...?\nFor now, let's return to $map:03009001$ and give $npc:11000804$ a detailed report on what happened in $map:03009021$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002308_COMPLETE",
     "count": "",
@@ -7712,15 +7712,15 @@
   },
   "10002310--": {
     "name": "QUESTDESCRIPTION_10002310_NAME",
-    "desc": "QUESTDESCRIPTION_10002310_DESC",
+    "desc": "$npc:11000804$ told me that $npc:11000564$ of $map:03009001$ is known as the Dark Land's information broker, and asked me to find out if they know anything about the Lumina Liberation Army.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002310_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002311--": {
-    "name": "QUESTDESCRIPTION_10002311_NAME",
-    "desc": "QUESTDESCRIPTION_10002311_DESC",
+    "name": "Find the Password",
+    "desc": "$npc:11000564$ shared that the Lumina Liberation Army's last gathering point was the Solar Energy Research Center in $map:03000134$.\nThe Solar Energy Research Center... that would be the building with solar panels on its roof, along the road from $map:03000134$ toward $map:03000092$.\nLet's head there and look for any clues or traces we can use to track down the Lumina Liberation Army.",
     "manual": "QUESTDESCRIPTION_10002311_MANUAL",
     "complete": "QUESTDESCRIPTION_10002311_COMPLETE",
     "count": "1",
@@ -7728,15 +7728,15 @@
   },
   "10002312--": {
     "name": "QUESTDESCRIPTION_10002312_NAME",
-    "desc": "QUESTDESCRIPTION_10002312_DESC",
+    "desc": "$npc:11000613$ in the Dark Land of $map:03009022$ offers me a chance to aid the Liberation Army's activities, and asks me to go meet $npc:11000615$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002312_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002313--": {
-    "name": "QUESTDESCRIPTION_10002313_NAME",
-    "desc": "QUESTDESCRIPTION_10002313_DESC",
+    "name": "A Heartbreaking Farewell",
+    "desc": "$npc:11000615$ of $map:03009022$ in the Dark Land asks me to go find $npc:11000614$, who is reportedly searching day and night for their separated younger sister, and lend them some help.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002313_COMPLETE",
     "count": "",
@@ -7744,15 +7744,15 @@
   },
   "10002314--": {
     "name": "QUESTDESCRIPTION_10002314_NAME",
-    "desc": "QUESTDESCRIPTION_10002314_DESC",
-    "manual": "QUESTDESCRIPTION_10002314_MANUAL",
+    "desc": "$npc:11000614$ of $map:03000135$ in the Dark Land says that obtaining and examining $item:30000211$ held by the clock rabbit $npc:40000022$s — who lured them and their younger sister into the Dark Land and kidnapped them — might yield clues to finding their sister.\nLet's defeat the $npc:40000022$s and get our hands on $item:30000211$!",
+    "manual": "Defeat the $npc:40000022$s in $map:03000135$ and obtain $item:30000211$",
     "complete": "QUESTDESCRIPTION_10002314_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "10002315--": {
     "name": "QUESTDESCRIPTION_10002315_NAME",
-    "desc": "QUESTDESCRIPTION_10002315_DESC",
+    "desc": "$npc:11000614$ of $map:03000135$ in the Dark Land told me about what happened in the Tower of Slaves and shared how they first came to meet $npc:11000064$.\n$npc:11000064$ was trapped in the Tower of Slaves... what could have happened to them?\nLet's go to $map:03009001$ and report to $npc:11000804$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002315_COMPLETE",
     "count": "",
@@ -7760,15 +7760,15 @@
   },
   "10002316--": {
     "name": "QUESTDESCRIPTION_10002316_NAME",
-    "desc": "QUESTDESCRIPTION_10002316_DESC",
+    "desc": "$npc:11000804$ of $map:03009001$ in the Dark Land tells me to return to Maple World and report everything to $npc:11000076$ of $map:02000146$, including news about the Lumina Liberation Army and $npc:11000064$.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002316_COMPLETE",
+    "complete": "Meet $npc:11000076$ in $map:02000146$ of Maple World",
     "count": "",
     "locking": "1"
   },
   "10002320--": {
     "name": "QUESTDESCRIPTION_10002320_NAME",
-    "desc": "QUESTDESCRIPTION_10002320_DESC",
+    "desc": "$npc:11000613$ says they used $item:30000211$ recovered from the $npc:40000022$s to discover that $npc:11000614$'s younger sister is imprisoned in $map:03009023$, and has devised what they call the '$map:03009023$ Rescue Operation'.",
     "manual": "QUESTDESCRIPTION_10002320_MANUAL",
     "complete": "QUESTDESCRIPTION_10002320_COMPLETE",
     "count": "0",
@@ -7776,7 +7776,7 @@
   },
   "10002321--": {
     "name": "QUESTDESCRIPTION_10002321_NAME",
-    "desc": "QUESTDESCRIPTION_10002321_DESC",
+    "desc": "$npc:11000614$ confirms the orders given, and asks me to deliver $item:30000213$ to $npc:11000616$ in $map:03000136$.",
     "manual": "QUESTDESCRIPTION_10002321_MANUAL",
     "complete": "QUESTDESCRIPTION_10002321_COMPLETE",
     "count": "0",
@@ -7784,15 +7784,15 @@
   },
   "10002322--": {
     "name": "QUESTDESCRIPTION_10002322_NAME",
-    "desc": "QUESTDESCRIPTION_10002322_DESC",
-    "manual": "QUESTDESCRIPTION_10002322_MANUAL",
+    "desc": "$npc:11000616$ in $map:03000136$ asks me to obtain $item:30000214$ and $item:30000215$ needed to prepare the rescue operation for $map:03009023$.\n$item:30000214$ can be taken from $npc:40000020$s roaming around $map:03000136$, and $item:30000215$ can be found in the yellow drums scattered throughout $map:03000136$.",
+    "manual": "Defeat $npc:40000020$ and obtain $item:30000214$|Find Buatan Oil in the yellow drums of $map:03000136$",
     "complete": "QUESTDESCRIPTION_10002322_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "10002323--": {
-    "name": "QUESTDESCRIPTION_10002323_NAME",
-    "desc": "QUESTDESCRIPTION_10002323_DESC",
+    "name": "If We Could Block That Path",
+    "desc": "$npc:11000616$ of $map:03000136$ asks me, as part of the $map:03009023$ Rescue Operation, to take $item:30000214$ and install it at the junction in $map:03000146$ that connects to other regions.",
     "manual": "QUESTDESCRIPTION_10002323_MANUAL",
     "complete": "QUESTDESCRIPTION_10002323_COMPLETE",
     "count": "1|1",
@@ -7800,7 +7800,7 @@
   },
   "10002324--": {
     "name": "QUESTDESCRIPTION_10002324_NAME",
-    "desc": "QUESTDESCRIPTION_10002324_DESC",
+    "desc": "$npc:11000616$ of $map:03000136$ tells me to return to $map:03009022$ and inform $npc:11000613$ that the operation preparations are complete.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002324_COMPLETE",
     "count": "",
@@ -7808,15 +7808,15 @@
   },
   "10002325--": {
     "name": "QUESTDESCRIPTION_10002325_NAME",
-    "desc": "QUESTDESCRIPTION_10002325_DESC",
-    "manual": "QUESTDESCRIPTION_10002325_MANUAL",
+    "desc": "$npc:11000613$ tells me to go to $map:03009023$ and, together with the Lumina Liberation Army, rescue the people unjustly imprisoned there.",
+    "manual": "Find $item:30000251$ in $map:03009023$ and free the imprisoned people|Rescue $npc:11000807$ in $map:03009023$|Eliminate monsters in $map:03009023$",
     "complete": "QUESTDESCRIPTION_10002325_COMPLETE",
     "count": "1|0|1",
     "locking": "1"
   },
   "10002326--": {
-    "name": "QUESTDESCRIPTION_10002326_NAME",
-    "desc": "QUESTDESCRIPTION_10002326_DESC",
+    "name": "My Little Sibling Has Returned",
+    "desc": "$npc:11000614$ of $map:03000135$ is overjoyed, saying they safely rescued their long-awaited younger sister $npc:11000807$.\nLet's meet $npc:11000807$ before she returns to Maple World.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002326_COMPLETE",
     "count": "",
@@ -7824,7 +7824,7 @@
   },
   "10002327--": {
     "name": "QUESTDESCRIPTION_10002327_NAME",
-    "desc": "QUESTDESCRIPTION_10002327_DESC",
+    "desc": "$npc:11000807$ told me about the terrible things she endured in the Tower of Slaves before being rescued.\nThe yellow hair lingering in her memory... worn goggles... a tattered red cloak... The description brings $npc:11000064$ to mind — the one said to have been dragged to $map:02000213$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002327_COMPLETE",
     "count": "",
@@ -7832,15 +7832,15 @@
   },
   "10002328--": {
     "name": "QUESTDESCRIPTION_10002328_NAME",
-    "desc": "QUESTDESCRIPTION_10002328_DESC",
+    "desc": "$npc:11000613$ says that as long as it is for the benefit of the good, ordinary citizens of Maple World and does not require anyone's sacrifice, the Lumina Liberation Army will assist the Guardians.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002328_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "10002329--": {
-    "name": "QUESTDESCRIPTION_10002329_NAME",
-    "desc": "QUESTDESCRIPTION_10002329_DESC",
+    "name": "Joining Hands",
+    "desc": "$npcName:11000804$ tells me to return to $map:02000146$ and request that $npc:11000076$ have the Guardian Corps support the survivors rescued in the $map:03009023$ Rescue Operation so they can return to their normal lives.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002329_COMPLETE",
     "count": "",
@@ -7848,15 +7848,15 @@
   },
   "10002330--": {
     "name": "QUESTDESCRIPTION_10002330_NAME",
-    "desc": "QUESTDESCRIPTION_10002330_DESC",
-    "manual": "QUESTDESCRIPTION_10002330_MANUAL",
+    "desc": "$npc:11000872$ says that investigating the toxic liquid flowing through the Dark Land will reveal many things, and plans to thoroughly explore the Poison Cave found in $map:03000014$.\n$npc:11000872$ said we can't predict what we'll encounter inside Poison Cave, so let's explore it to the end without letting our guard down for a moment.\nDon't forget to prepare $item:20000060$ in case of emergencies.",
+    "manual": "Explore Poison Cave to the very end",
     "complete": "QUESTDESCRIPTION_10002330_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10002331--": {
     "name": "QUESTDESCRIPTION_10002331_NAME",
-    "desc": "QUESTDESCRIPTION_10002331_DESC",
+    "desc": "$npc:11000804$ is worried, saying that $npc:11000872$, who has been carrying out a secret mission in the Dark Land alongside them, set out long ago and has yet to return.\nLet's look for $npc:11000872$ in $map:03000014$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002331_COMPLETE",
     "count": "",
@@ -7888,7 +7888,7 @@
   },
   "10002353--": {
     "name": "Unauthorized",
-    "desc": "QUESTDESCRIPTION_10002353_DESC",
+    "desc": "$npc:11000869$ warns that while returning to the past is not impossible, doing so could disrupt the order of time and open a world even more terrifying than the Dark Land.",
     "manual": "",
     "complete": "Meet $npc:11000058$ at $map:02000190$ of $map:02000119$",
     "count": "",
@@ -7896,7 +7896,7 @@
   },
   "10002354--": {
     "name": "QUESTDESCRIPTION_10002354_NAME",
-    "desc": "QUESTDESCRIPTION_10002354_DESC",
+    "desc": "$npc:11000058$ seems curious about what would happen if the order of time collapsed. What thoughts might be lurking behind that question?",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002354_COMPLETE",
     "count": "",
@@ -8551,8 +8551,8 @@
     "locking": "1"
   },
   "10002870--": {
-    "name": "QUESTDESCRIPTION_10002870_NAME",
-    "desc": "QUESTDESCRIPTION_10002870_DESC",
+    "name": "The Raging Tiger",
+    "desc": "$npc:11000160$ of $map:02000001$ has asked me to soothe the sulking $npcName:11000003$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002870_COMPLETE",
     "count": "0",
@@ -8560,7 +8560,7 @@
   },
   "10002871--": {
     "name": "QUESTDESCRIPTION_10002871_NAME",
-    "desc": "QUESTDESCRIPTION_10002871_DESC",
+    "desc": "Let's go meet $npc:11000169$ in $map:02000001$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002871_COMPLETE",
     "count": "0",
@@ -8568,7 +8568,7 @@
   },
   "10002872--": {
     "name": "QUESTDESCRIPTION_10002872_NAME",
-    "desc": "QUESTDESCRIPTION_10002872_DESC",
+    "desc": "I've heard that $npc:11000169$ of $map:02000001$ is looking for me.\nLet's go meet them.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002872_COMPLETE",
     "count": "0",
@@ -8576,7 +8576,7 @@
   },
   "10002873--": {
     "name": "QUESTDESCRIPTION_10002873_NAME",
-    "desc": "QUESTDESCRIPTION_10002873_DESC",
+    "desc": "I've heard that $npc:11000119$ of $map:02000001$ is looking for me.\nLet's go meet them.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002873_COMPLETE",
     "count": "0",
@@ -8584,7 +8584,7 @@
   },
   "10002874--": {
     "name": "QUESTDESCRIPTION_10002874_NAME",
-    "desc": "QUESTDESCRIPTION_10002874_DESC",
+    "desc": "I've heard that Dark Wind commander $npcName:11000044$ is looking for me.\nLet's head to $map:02000100$ $map:02000152$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002874_COMPLETE",
     "count": "0",
@@ -8592,7 +8592,7 @@
   },
   "10002875--": {
     "name": "QUESTDESCRIPTION_10002875_NAME",
-    "desc": "QUESTDESCRIPTION_10002875_DESC",
+    "desc": "I've heard that Dark Wind commander $npcName:11000044$ is looking for me.\nLet's head to $map:02000100$ $map:02000152$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002875_COMPLETE",
     "count": "0",
@@ -8600,7 +8600,7 @@
   },
   "10002876--": {
     "name": "QUESTDESCRIPTION_10002876_NAME",
-    "desc": "QUESTDESCRIPTION_10002876_DESC",
+    "desc": "I've heard that $npc:11000119$ of $map:02000001$ is looking for me.\nLet's go meet them.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002876_COMPLETE",
     "count": "0",
@@ -8608,15 +8608,15 @@
   },
   "10002877--": {
     "name": "QUESTDESCRIPTION_10002877_NAME",
-    "desc": "QUESTDESCRIPTION_10002877_DESC",
+    "desc": "$npcName:11000508$ from $map:02000203$ is looking for me.\nLet's go meet her.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002877_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10002878--": {
-    "name": "QUESTDESCRIPTION_10002878_NAME",
-    "desc": "QUESTDESCRIPTION_10002878_DESC",
+    "name": "Good Tidings",
+    "desc": "$npc:11000119$ from $map:02000001$ is looking for me.\nLet's go meet him.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002878_COMPLETE",
     "count": "0",
@@ -8624,7 +8624,7 @@
   },
   "10002879--": {
     "name": "QUESTDESCRIPTION_10002879_NAME",
-    "desc": "QUESTDESCRIPTION_10002879_DESC",
+    "desc": "Dark Wind Captain $npcName:11000044$ is looking for me.\nLet's head to $map:02000152$ in $map:02000100$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002879_COMPLETE",
     "count": "0",
@@ -8632,7 +8632,7 @@
   },
   "10002880--": {
     "name": "QUESTDESCRIPTION_10002880_NAME",
-    "desc": "QUESTDESCRIPTION_10002880_DESC",
+    "desc": "Let's go meet $npc:11000260$ in $map:02000146$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002880_COMPLETE",
     "count": "0",
@@ -8640,7 +8640,7 @@
   },
   "10002881--": {
     "name": "QUESTDESCRIPTION_10002881_NAME",
-    "desc": "QUESTDESCRIPTION_10002881_DESC",
+    "desc": "$npc:11000076$ from $map:02000146$ is looking for me.\nLet's go meet him.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002881_COMPLETE",
     "count": "0",
@@ -8648,7 +8648,7 @@
   },
   "10002882--": {
     "name": "QUESTDESCRIPTION_10002882_NAME",
-    "desc": "QUESTDESCRIPTION_10002882_DESC",
+    "desc": "$npc:11000076$ from $map:02000146$ is looking for me.\nLet's go meet him.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002882_COMPLETE",
     "count": "0",
@@ -8656,7 +8656,7 @@
   },
   "10002883--": {
     "name": "QUESTDESCRIPTION_10002883_NAME",
-    "desc": "QUESTDESCRIPTION_10002883_DESC",
+    "desc": "Let's go meet $npcName:11000804$ in the Dark Land's $map:03009001$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002883_COMPLETE",
     "count": "0",
@@ -8664,7 +8664,7 @@
   },
   "10002884--": {
     "name": "QUESTDESCRIPTION_10002884_NAME",
-    "desc": "QUESTDESCRIPTION_10002884_DESC",
+    "desc": "Let's find $npcName:11000613$ at $map:03009022$ in the dark land $map:03000135$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002884_COMPLETE",
     "count": "0",
@@ -8856,7 +8856,7 @@
   },
   "10002908--": {
     "name": "QUESTDESCRIPTION_10002908_NAME",
-    "desc": "QUESTDESCRIPTION_10002908_DESC",
+    "desc": "Master $npcName:11001229$ is looking for me.\nLet's head to $map:52000018$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002908_COMPLETE",
     "count": "0",
@@ -8872,7 +8872,7 @@
   },
   "10002910--": {
     "name": "QUESTDESCRIPTION_10002910_NAME",
-    "desc": "QUESTDESCRIPTION_10002910_DESC",
+    "desc": "Master $npcName:11001229$ is looking for me.\nLet's head to $map:52000018$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002910_COMPLETE",
     "count": "0",
@@ -8880,7 +8880,7 @@
   },
   "10002911--": {
     "name": "QUESTDESCRIPTION_10002911_NAME",
-    "desc": "QUESTDESCRIPTION_10002911_DESC",
+    "desc": "$npc:11000005$ from $map:02000031$ is looking for me.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002911_COMPLETE",
     "count": "0",
@@ -8888,7 +8888,7 @@
   },
   "10002912--": {
     "name": "QUESTDESCRIPTION_10002912_NAME",
-    "desc": "QUESTDESCRIPTION_10002912_DESC",
+    "desc": "$npcName:11001280$, staying at $map:02000361$, is looking for me.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10002912_COMPLETE",
     "count": "0",
@@ -8920,17 +8920,17 @@
   },
   "10002920--": {
     "name": "QUESTDESCRIPTION_10002920_NAME",
-    "desc": "QUESTDESCRIPTION_10002920_DESC",
+    "desc": "Darkwind operative $npc:11000215$ has ordered you to keep watch on the movements of the Barrota Trading Company in $map:02000139$.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002920_COMPLETE",
+    "complete": "Go to $map:02000139$ and observe the Balota merchant guild's movements",
     "count": "0",
     "locking": "1"
   },
   "10002921--": {
     "name": "QUESTDESCRIPTION_10002921_NAME",
-    "desc": "QUESTDESCRIPTION_10002921_DESC",
+    "desc": "$npc:11000208$ says an urgent message has arrived asking me to return to $map:02000153$ right away.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_10002921_COMPLETE",
+    "complete": "Return to $map:02000153$",
     "count": "0",
     "locking": "1"
   },
@@ -9199,7 +9199,7 @@
     "locking": "1"
   },
   "10002990--": {
-    "name": "QUESTDESCRIPTION_10002990_NAME",
+    "name": "You Used to Be So Fearless!",
     "desc": "$npcName:11000046$ is expressing the injustice of how the pirates at $map:02000063$ have struck the Heavy Gunners.\n$npcName:11000046$ says to go defeat the pirates at their base in Cheliska Bay.",
     "manual": "",
     "complete": "Go to $map:02000063$ and defeat the pirates inside $map:52000025$ by the water in the $map:02000067$.",
@@ -9311,8 +9311,8 @@
     "locking": "1"
   },
   "10003020-Striker-": {
-    "name": "QUESTDESCRIPTION_10003020_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_10003020_DESC:[F]Striker",
+    "name": "Rumors Spreading Through the Back Alleys",
+    "desc": "$npcName:11000515$ sensed something suspicious about the recent unrest in the back alleys. Upon investigating, they discovered that a secret gathering of faction leaders had taken place in $map:02000001$ by order of the Empress.\nLet's meet $npc:11000050$ at $map:02000188$ in $map:02000001$ to learn why the secret gathering was held.",
     "manual": "",
     "complete": "Meet $npc:11000050$ at $map:02000001$'s $map:02000188$",
     "count": "0",
@@ -9320,7 +9320,7 @@
   },
   "10003021-Striker-": {
     "name": "QUESTDESCRIPTION_10003021_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_10003021_DESC:[F]Striker",
+    "desc": "$npc:11000050$ tells me the story of how everyone joined forces to form the Starlight Expedition to stop the Rune Blader traitor $npcName:11001231$.\nThe place they'll pursue $npcName:11001231$ is the Rune Sanctuary, where the ancient $npc:23000078$ is said to slumber!\nLet's go to $map:02000112$ and find the entrance to the Rune Sanctuary.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10003021_COMPLETE:[F]Striker",
     "count": "0",
@@ -9328,15 +9328,15 @@
   },
   "10003030-SoulBinder-": {
     "name": "QUESTDESCRIPTION_10003030_NAME:[F]SoulBinder",
-    "desc": "QUESTDESCRIPTION_10003030_DESC:[F]SoulBinder",
+    "desc": "$npcName:11000003$ says there are rumors of a secret gathering of faction leaders in $map:02000001$.\nLet's meet $npc:11000119$ in $map:02000001$ to find out why the secret gathering was held.",
     "manual": "",
     "complete": "Meet $npc:11000119$ at $map:02000001$",
     "count": "0",
     "locking": "1"
   },
   "10003031-SoulBinder-": {
-    "name": "QUESTDESCRIPTION_10003031_NAME:[F]SoulBinder",
-    "desc": "QUESTDESCRIPTION_10003031_DESC:[F]SoulBinder",
+    "name": "The Veiled Sanctuary",
+    "desc": "$npc:11000119$ tells me the story of how everyone joined forces to form the Starlight Expedition to stop the Rune Blader traitor $npcName:11001231$.\nThe place they'll pursue $npcName:11001231$ is the Rune Sanctuary, where the ancient $npc:23000078$ is said to slumber!\nLet's go to $map:02000112$ and find the entrance to the Rune Sanctuary.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_10003031_COMPLETE:[F]SoulBinder",
     "count": "0",
@@ -9344,15 +9344,15 @@
   },
   "10003060--": {
     "name": "QUESTDESCRIPTION_10003060_NAME",
-    "desc": "QUESTDESCRIPTION_10003060_DESC",
+    "desc": "$npcName:11000424$ from $map:02000100$ says she keeps hearing what might be a hallucination — a young child crying from somewhere far away.\nCould it be because of her grief-stricken heart after losing her granddaughter?... Who is the one whose cries are reaching the old woman's ears?\nLet's follow wherever the sound of crying leads.",
     "manual": "QUESTDESCRIPTION_10003060_MANUAL",
     "complete": "QUESTDESCRIPTION_10003060_COMPLETE",
     "count": "0",
     "locking": "1"
   },
   "10003061--": {
-    "name": "QUESTDESCRIPTION_10003061_NAME",
-    "desc": "QUESTDESCRIPTION_10003061_DESC",
+    "name": "Returning to Nature",
+    "desc": "$npcName:11000233$ in $map:02000100$ grimaces at the foul smell emanating from $dungeonTitle:25001001$ in $map:02000167$.\nWhat on earth has happened to the once-beautiful garden?",
     "manual": "QUESTDESCRIPTION_10003061_MANUAL",
     "complete": "QUESTDESCRIPTION_10003061_COMPLETE",
     "count": "0",
@@ -9360,7 +9360,7 @@
   },
   "10003062--": {
     "name": "QUESTDESCRIPTION_10003062_NAME",
-    "desc": "QUESTDESCRIPTION_10003062_DESC",
+    "desc": "$npc:11000623$, who runs a shop in $map:02000203$, says rampant stolen goods trading is disrupting the market. They ask me to go to $dungeonTitle:21005001$, a known hotspot for such trade, and find out if the rumors are true.",
     "manual": "QUESTDESCRIPTION_10003062_MANUAL",
     "complete": "QUESTDESCRIPTION_10003062_COMPLETE",
     "count": "0",
@@ -9368,7 +9368,7 @@
   },
   "10003063--": {
     "name": "QUESTDESCRIPTION_10003063_NAME",
-    "desc": "QUESTDESCRIPTION_10003063_DESC",
+    "desc": "$npc:11000007$, supporting the Guardian Force in $map:02000146$, looks troubled and explains that all the chickens at $npcName:11001835$'s poultry farm have gone missing. Unable to leave their post, they ask me to go to $map:02000087$ and help $npcName:11001835$ in their place.",
     "manual": "QUESTDESCRIPTION_10003063_MANUAL",
     "complete": "QUESTDESCRIPTION_10003063_COMPLETE",
     "count": "0",
@@ -9376,7 +9376,7 @@
   },
   "10003064--": {
     "name": "QUESTDESCRIPTION_10003064_NAME",
-    "desc": "QUESTDESCRIPTION_10003064_DESC",
+    "desc": "$npcName:11000009$, a Guardian operative in $map:02000146$, shares disturbing rumors coming from $map:02000023$ and urges you to defeat the brutal guard $npc:23000039$ terrorizing the fairies of $map:02000023$.",
     "manual": "QUESTDESCRIPTION_10003064_MANUAL",
     "complete": "QUESTDESCRIPTION_10003064_COMPLETE",
     "count": "0",
@@ -9384,7 +9384,7 @@
   },
   "10003065--": {
     "name": "QUESTDESCRIPTION_10003065_NAME",
-    "desc": "QUESTDESCRIPTION_10003065_DESC",
+    "desc": "$npc:11000007$, supporting the Guardian Force in $map:02000146$, tells me that children who were playing in the $map:02000023$ forest haven't come home for over half a day. They ask me to go to $dungeonTitle:25004001$ and find the children to safely send them home.",
     "manual": "QUESTDESCRIPTION_10003065_MANUAL",
     "complete": "QUESTDESCRIPTION_10003065_COMPLETE",
     "count": "0",
@@ -9727,8 +9727,8 @@
     "locking": "0"
   },
   "20001010--": {
-    "name": "QUESTDESCRIPTION_20001010_NAME",
-    "desc": "QUESTDESCRIPTION_20001010_DESC",
+    "name": "The Cobras Are Furious",
+    "desc": "Pull the levers around $npc:11000353$ in $map:02000148$ to take care of the $npc:99000038$s that appear!",
     "manual": "QUESTDESCRIPTION_20001010_MANUAL",
     "complete": "",
     "count": "1",
@@ -9736,16 +9736,16 @@
   },
   "20001020--": {
     "name": "QUESTDESCRIPTION_20001020_NAME",
-    "desc": "QUESTDESCRIPTION_20001020_DESC",
+    "desc": "For $npc:11000225$ in $map:02000147$, let's dig around the cherry blossom trees to find $item:30000095$.",
     "manual": "QUESTDESCRIPTION_20001020_MANUAL",
     "complete": "",
     "count": "1",
     "locking": "1"
   },
   "20001021--": {
-    "name": "QUESTDESCRIPTION_20001021_NAME",
-    "desc": "QUESTDESCRIPTION_20001021_DESC",
-    "manual": "QUESTDESCRIPTION_20001021_MANUAL",
+    "name": "Monkeys Love Capsules",
+    "desc": "Based on what guard Steve from $map:02000147$ said, it seems $npc:99000039$ dug up the capsule and climbed up into the trees.",
+    "manual": "Take the time capsule from $npc:99000039$ that escaped up the cherry blossom tree",
     "complete": "",
     "count": "1",
     "locking": "1"
@@ -9896,7 +9896,7 @@
   },
   "20001390--": {
     "name": "QUESTDESCRIPTION_20001390_NAME",
-    "desc": "QUESTDESCRIPTION_20001390_DESC",
+    "desc": "A mysterious letter of instructions found by chance.\nChecking the contents, it contains records of events occurring in $map:03000145$.\nLet's find $npc:11000910$ in $map:03000145$ to learn more about the incident.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001390_COMPLETE",
     "count": "",
@@ -9904,7 +9904,7 @@
   },
   "20001391--": {
     "name": "QUESTDESCRIPTION_20001391_NAME",
-    "desc": "QUESTDESCRIPTION_20001391_DESC",
+    "desc": "$npc:11000910$ tells me about a conspiracy unfolding inside $map:03000145$.\nTo stop Dr. Rokel's dangerous research, let's go to $npc:11000911$ in $map:03000145$ and ask for help.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001391_COMPLETE",
     "count": "",
@@ -9912,7 +9912,7 @@
   },
   "20001400--": {
     "name": "QUESTDESCRIPTION_20001400_NAME",
-    "desc": "QUESTDESCRIPTION_20001400_DESC",
+    "desc": "$npc:11000911$ says we must shut down the incubators producing Shadow Cells.\nLet's hurry and shut down the Shadow Cell incubators before Dr. Rokel can collect the cultivated cells. ",
     "manual": "QUESTDESCRIPTION_20001400_MANUAL",
     "complete": "QUESTDESCRIPTION_20001400_COMPLETE",
     "count": "1",
@@ -9920,16 +9920,16 @@
   },
   "20001401--": {
     "name": "QUESTDESCRIPTION_20001401_NAME",
-    "desc": "QUESTDESCRIPTION_20001401_DESC",
-    "manual": "QUESTDESCRIPTION_20001401_MANUAL",
+    "desc": "$npc:11000911$ says the cell incubators were barely shut down, but we can't relax yet. Let's hunt the mutant monsters in $map:03000145$ that have already been exposed to the Shadow Cell virus. ",
+    "manual": "Hunt mutant monsters infected with the virus",
     "complete": "QUESTDESCRIPTION_20001401_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "20001410--": {
     "name": "QUESTDESCRIPTION_20001410_NAME",
-    "desc": "QUESTDESCRIPTION_20001410_DESC",
-    "manual": "QUESTDESCRIPTION_20001410_MANUAL",
+    "desc": "$npc:11000912$ says the health of the slaves captured and brainwashed in $map:03000145$ is deteriorating.\nSearching the $npc:40000019$s guarding the cage will yield $item:30000264$, so let's obtain $item:30000264$ and rescue the slaves trapped in the iron cages. ",
+    "manual": "Obtain $item:30000264$, open the iron cage door, and rescue the trapped slaves",
     "complete": "QUESTDESCRIPTION_20001410_COMPLETE",
     "count": "1",
     "locking": "1"
@@ -9952,7 +9952,7 @@
   },
   "20001920--": {
     "name": "QUESTDESCRIPTION_20001920_NAME",
-    "desc": "QUESTDESCRIPTION_20001920_DESC",
+    "desc": "$npc:11001129$ is furious at people who feel no sense of responsibility for environmental pollution. Though a little cooperation would do the trick, $map:02000139$ is reportedly becoming more and more like a dumping ground due to reckless littering.\nLet's clean up the trash scattered around $map:02000139$.",
     "manual": "QUESTDESCRIPTION_20001920_MANUAL",
     "complete": "QUESTDESCRIPTION_20001920_COMPLETE",
     "count": "1",
@@ -9960,15 +9960,15 @@
   },
   "20001930--": {
     "name": "QUESTDESCRIPTION_20001930_NAME",
-    "desc": "QUESTDESCRIPTION_20001930_DESC",
-    "manual": "QUESTDESCRIPTION_20001930_MANUAL",
+    "desc": "$npc:11001130$ found $item:30000385$, a rare herb that is nearly impossible to obtain, but the joy was short-lived. Apparently, they nearly died after entering $map:52000037$ to collect $item:30000385$ without knowing the danger.\nLet's enter $map:52000037$ on behalf of $npc:11001130$ and collect $item:30000385$.",
+    "manual": "Go into $map:52000037$ and gather $item:30000385$",
     "complete": " Speak with $npc:11001130$ in $map:02000043$",
     "count": "1",
     "locking": "1"
   },
   "20001940--": {
     "name": "QUESTDESCRIPTION_20001940_NAME",
-    "desc": "QUESTDESCRIPTION_20001940_DESC",
+    "desc": "$npc:11001131$ was dispatched to investigate $map:02000085$, where abnormal weather has caused certain areas to develop ice that never melts. After surveying the surroundings for a long time, $npc:11001131$ determined that the cold air emitted by $npc:21099190$ is the culprit behind the unmelting ice, and asks you to defeat $npc:21099190$. ",
     "manual": "QUESTDESCRIPTION_20001940_MANUAL",
     "complete": "QUESTDESCRIPTION_20001940_COMPLETE",
     "count": "1",
@@ -9976,7 +9976,7 @@
   },
   "20001950--": {
     "name": "QUESTDESCRIPTION_20001950_NAME",
-    "desc": "QUESTDESCRIPTION_20001950_DESC",
+    "desc": "A woman's voice rings out from the middle of $map:02000085$. Going near the source reveals a cry for help from inside $map:02000330$.\n$npc:11001138$, isolated inside the warehouse, says the door was locked from the outside, trapping everyone inside. $npc:11001138$ asks you to find $npc:11001133$, who has the key to the locked door.\nLet's find $npc:11001133$ in $map:02000085$. \n",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001950_COMPLETE",
     "count": "",
@@ -9984,39 +9984,39 @@
   },
   "20001951--": {
     "name": "QUESTDESCRIPTION_20001951_NAME",
-    "desc": "QUESTDESCRIPTION_20001951_DESC",
-    "manual": "QUESTDESCRIPTION_20001951_MANUAL",
+    "desc": "$npc:11001133$ says that on the way back to find the key to open the locked warehouse door, they were suddenly attacked by monsters and lost $item:30000386$. Let's hunt $npc:21000063$, $npc:21000302$, $npc:21000016$, and $npc:21099190$ in $map:02000085$ to recover the lost $item:30000386$.",
+    "manual": "Hunt monsters in $map:02000085$ to find $item:30000386$",
     "complete": "QUESTDESCRIPTION_20001951_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "20001952--": {
     "name": "QUESTDESCRIPTION_20001952_NAME",
-    "desc": "QUESTDESCRIPTION_20001952_DESC",
+    "desc": "$npc:11001133$ says the situation is urgent, and asks you to hurry and use $item:30000386$ to open the locked door and rescue the people trapped inside.\nLet's enter $map:02000330$ and rescue the trapped people. ",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20001952_COMPLETE",
     "count": "",
     "locking": "1"
   },
   "20001960--": {
-    "name": "QUESTDESCRIPTION_20001960_NAME",
-    "desc": "QUESTDESCRIPTION_20001960_DESC",
-    "manual": "QUESTDESCRIPTION_20001960_MANUAL",
+    "name": "Rare Leather",
+    "desc": "$npc:11001139$, who roams the country searching for rare hides, finally discovers a rare hide that is just perfect after a long dry spell. Lacking the confidence to face such ferocious monsters to tan the hide, $npc:11001139$ asks you to obtain $item:30000387$ from $npc:21000026$ and $item:30000388$ from $npc:21000067$ in $map:02000054$. ",
+    "manual": "Hunt $npc:21000026$ in $map:02000054$ to obtain $item:30000387$|Hunt $npc:21000067$ in $map:02000054$ to obtain $item:30000388$",
     "complete": "QUESTDESCRIPTION_20001960_COMPLETE",
     "count": "1|1",
     "locking": "1"
   },
   "20001980--": {
     "name": "QUESTDESCRIPTION_20001980_NAME",
-    "desc": "QUESTDESCRIPTION_20001980_DESC",
-    "manual": "QUESTDESCRIPTION_20001980_MANUAL",
+    "desc": "$npc:11000220$ takes pride in knowing that once $map:02000136$ is completed, it will be the most magnificent landmark in the area. But that's only true once it's finished. Recently, violent monsters have taken over the Rockefeller Tower construction site, causing property damage and fires, slowing progress to a crawl.\nLet's defeat $npc:21000282$ and $npc:21099049$ occupying $map:02000136$ so construction can proceed smoothly!",
+    "manual": "Defeat the monsters occupying $map:02000136$",
     "complete": "QUESTDESCRIPTION_20001980_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "20002110--": {
     "name": "QUESTDESCRIPTION_20002110_NAME",
-    "desc": "QUESTDESCRIPTION_20002110_DESC",
+    "desc": "$npc:11001374$ was asked by Aliba to buy the latest limited-edition sports car, but doesn't have the courage to move because of the monsters occupying $map:02010016$. Let's take $item:30000480$ that $npc:11001374$ handed over and go find $npc:11001375$ in $map:02010016$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20002110_COMPLETE",
     "count": "",
@@ -10024,31 +10024,31 @@
   },
   "20002111--": {
     "name": "QUESTDESCRIPTION_20002111_NAME",
-    "desc": "QUESTDESCRIPTION_20002111_DESC",
-    "manual": "QUESTDESCRIPTION_20002111_MANUAL",
+    "desc": "$npc:11001375$ readily hands over $item:30000481$, saying that with $item:30000480$, they can give you the car without any inspection or contract procedures. ",
+    "manual": "Reassemble the limited edition sports car on display at the Special Booth and bring it back",
     "complete": "Speak with $npc:11001374$",
     "count": "0",
     "locking": "1"
   },
   "20002120--": {
-    "name": "QUESTDESCRIPTION_20002120_NAME",
-    "desc": "QUESTDESCRIPTION_20002120_DESC",
-    "manual": "QUESTDESCRIPTION_20002120_MANUAL",
+    "name": "Just Hit Me Instead!",
+    "desc": "$npc:11001375$ asks you to drive out all the monsters that raided $map:02010016$. Let's defeat $npc:21000525$, $npc:21000528$, and $npc:21000531$.",
+    "manual": "Drive out the monsters that raided $map:02010016$",
     "complete": "Speak with $npc:11001375$",
     "count": "1",
     "locking": "1"
   },
   "20002121--": {
     "name": "QUESTDESCRIPTION_20002121_NAME",
-    "desc": "QUESTDESCRIPTION_20002121_DESC",
-    "manual": "QUESTDESCRIPTION_20002121_MANUAL",
+    "desc": "$npcName:11001375$ values the displayed cars more than themselves. They ask you to hurry and safely store all the displayed cars inside container boxes before monsters raid $map:02010016$ again. ",
+    "manual": "Store the displayed cars in $map:02010016$ inside container boxes",
     "complete": "Speak with $npc:11001375$",
     "count": "1",
     "locking": "1"
   },
   "20002160--": {
     "name": "QUESTDESCRIPTION_20002160_NAME",
-    "desc": "QUESTDESCRIPTION_20002160_DESC",
+    "desc": "$npc:11001378$ in $map:02010020$ says monsters stole the glove with their name engraved on it — the only one of its kind in the world.\nLet's hunt $npc:21000419$ and $npc:21000420$ in $map:02010020$ to find $item:30000484$.",
     "manual": "QUESTDESCRIPTION_20002160_MANUAL",
     "complete": "Speak with $npc:11001378$",
     "count": "1",
@@ -10056,15 +10056,15 @@
   },
   "20002170--": {
     "name": "QUESTDESCRIPTION_20002170_NAME",
-    "desc": "QUESTDESCRIPTION_20002170_DESC",
-    "manual": "QUESTDESCRIPTION_20002170_MANUAL",
+    "desc": "$npc:11001379$ is troubled by the monsters that suddenly raided $map:02010020$. Let's help $npc:11001379$ by driving out $npc:21000419$ and $npc:21000420$.",
+    "manual": "Eliminate the monsters that raided $map:02010020$",
     "complete": "Speak with $npc:11001379$",
     "count": "1",
     "locking": "1"
   },
   "20002224--": {
     "name": "QUESTDESCRIPTION_20002224_NAME",
-    "desc": "QUESTDESCRIPTION_20002224_DESC",
+    "desc": "$npcName:11000001$ says $npcName:11001232$ is looking for you in $map:02000361$ and tells you to go meet her.",
     "manual": "",
     "complete": "Meet $npcName:11001232$ at $map:02000076$'s $map:02000361$",
     "count": "0",
@@ -10072,15 +10072,15 @@
   },
   "20002230--": {
     "name": "QUESTDESCRIPTION_20002230_NAME",
-    "desc": "QUESTDESCRIPTION_20002230_DESC",
-    "manual": "QUESTDESCRIPTION_20002230_MANUAL",
+    "desc": "$npcName:11001232$ brings news that $npcName:11001229$ is returning. $npcName:11001229$ urgently needs to find something and has gone to $map:52000021$, a place they visited before. Let's head to $map:52000021$ to meet $npcName:11001229$.",
+    "manual": "Go to $map:52000021$ in $map:02000082$ at $map:02000059$ and meet $npcName:11001229$",
     "complete": "Return to $map:02000361$",
     "count": "0",
     "locking": "1"
   },
   "20002231--": {
     "name": "QUESTDESCRIPTION_20002231_NAME",
-    "desc": "QUESTDESCRIPTION_20002231_DESC",
+    "desc": "$npcName:11001232$ brings news that $npcName:11001230$ has left for Ellinia to decipher an ancient tome. $npcName:11001230$ relayed that the ancient tome cannot be teleported using rune power and must travel by sea, with plans to head straight from $map:02000063$ to $map:02000023$. Let's continue hearing $npcName:11001229$'s next plan.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20002231_COMPLETE",
     "count": "0",
@@ -10088,31 +10088,31 @@
   },
   "20002232--": {
     "name": "QUESTDESCRIPTION_20002232_NAME",
-    "desc": "QUESTDESCRIPTION_20002232_DESC",
+    "desc": "$npcName:11001229$ instructs you to go to $map:02000023$ and meet $npcName:11000031$ while they and $npcName:11001232$ go to $map:02000063$ to greet $npcName:11001230$ and the expedition.\nFind $npcName:11000031$, deliver news about $npcName:11001231$'s situation and the 'Ultimate Technique,' ask for their understanding, and seek their help.",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_20002232_COMPLETE",
+    "complete": "Meet $npc:11000031$ in $map:02000023$ and ask for their help",
     "count": "0",
     "locking": "1"
   },
   "20002233--": {
     "name": "QUESTDESCRIPTION_20002233_NAME",
-    "desc": "QUESTDESCRIPTION_20002233_DESC",
-    "manual": "QUESTDESCRIPTION_20002233_MANUAL",
+    "desc": "$npcName:11000031$ hears that the Runebladers and expedition will arrive in $map:02000063$, and worries that pirates are rampant there and the group won't return safely. $npcName:11000031$ orders you to go to $map:02000063$, confirm the safety of the companions, and bring everyone back to $map:02000023$.\nLet's go to $map:02000063$ and check on the safety of the Runeblade companions.",
+    "manual": "Go to $map:02000063$ and check on your companions' survival",
     "complete": "Speak with $npcName:11001229$ in $map:52000024$",
     "count": "0",
     "locking": "1"
   },
   "20002234--": {
     "name": "QUESTDESCRIPTION_20002234_NAME",
-    "desc": "QUESTDESCRIPTION_20002234_DESC",
+    "desc": "The ship that $npcName:11001230$ and the expedition arrived on was thrown into chaos by a pirate raid the moment it docked at $map:02000063$, with injured expedition members fallen everywhere.\n$npcName:11001232$ says to leave the injured $npcName:11001233$ and the wrecked ship to them, and asks you to help $npcName:11001229$ eliminate the pirates' hideout and reclaim the stolen ancient tome and supplies.\nLet's find the pirates' hideout in the cave on the outskirts of Cheliska Coast!",
     "manual": "",
-    "complete": "QUESTDESCRIPTION_20002234_COMPLETE",
+    "complete": "Find the pirate base near the cave on the outskirts of $map:02000063$",
     "count": "0",
     "locking": "1"
   },
   "20002235--": {
     "name": "QUESTDESCRIPTION_20002235_NAME",
-    "desc": "QUESTDESCRIPTION_20002235_DESC",
+    "desc": "$npcName:11001230$ says that helping $npcName:11001229$ and the expedition fighting the nearby pirates is more urgent than tending to their own injuries.\nTogether with the expedition, let's eliminate all pirates in their hideout and reclaim the stolen ancient tome.",
     "manual": "QUESTDESCRIPTION_20002235_MANUAL",
     "complete": "QUESTDESCRIPTION_20002235_COMPLETE",
     "count": "0",
@@ -10120,7 +10120,7 @@
   },
   "20002236--": {
     "name": "QUESTDESCRIPTION_20002236_NAME",
-    "desc": "QUESTDESCRIPTION_20002236_DESC",
+    "desc": "$npcName:11001229$ instructs you to head straight to $map:02000023$, report the situation to $npc:11000031$, and ask for help. Let's hurry back to $map:02000023$ and meet $npcName:11000031$.",
     "manual": "",
     "complete": "Speak with $npcName:11000031$ in $map:02000023$",
     "count": "0",
@@ -10128,7 +10128,7 @@
   },
   "20002237--": {
     "name": "QUESTDESCRIPTION_20002237_NAME",
-    "desc": "QUESTDESCRIPTION_20002237_DESC",
+    "desc": "$npcName:11000031$ says you look very tired and tells you to rest and recover while the Runeblade companions and expedition return to $map:02000023$. Let's go find $npc:11000029$ in $map:02000023$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20002237_COMPLETE",
     "count": "0",
@@ -10136,7 +10136,7 @@
   },
   "20002238--": {
     "name": "QUESTDESCRIPTION_20002238_NAME",
-    "desc": "QUESTDESCRIPTION_20002238_DESC",
+    "desc": "Lari brings news that the injured Runebladers and expedition members have just arrived in $map:02000023$. $npcName:11000031$ and $npcName:11000032$ are personally treating the more seriously injured Runebladers at $map:02000179$. Let's head to $map:02000179$ to meet master $npcName:11001229$ and our companions.",
     "manual": "",
     "complete": "Speak with $npcName:11001229$ at $map:02000023$ $map:02000179$",
     "count": "0",
@@ -10144,7 +10144,7 @@
   },
   "20002239--": {
     "name": "QUESTDESCRIPTION_20002239_NAME",
-    "desc": "QUESTDESCRIPTION_20002239_DESC",
+    "desc": "$npcName:11000031$ says that to decipher the ancient tome and stop $npcName:11001231$, more forces will be needed.\nWhile companions rest and recover, $npcName:11000031$ tells you to meet $npc:11000075$ and request an emergency assembly order, but first you must find $npc:11000119$ to obtain royal palace entry permission.\nLet's go to $map:02000001$ and meet $npc:11000119$.",
     "manual": "",
     "complete": " Speak with $npc:11000119$ in $map:02000001$",
     "count": "0",
@@ -10152,7 +10152,7 @@
   },
   "20002240--": {
     "name": "Asimov's Command",
-    "desc": "QUESTDESCRIPTION_20002240_DESC",
+    "desc": "$npcName:11000119$, having heard that $npcName:11000031$'s orders must be delivered to $npc:11000075$, grants entry to the royal palace.\nLet's go inside $map:02000025$, meet $npcName:11000075$, and deliver $npcName:11000031$'s orders.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_20002240_COMPLETE",
     "count": "0",
@@ -10160,7 +10160,7 @@
   },
   "20002241--": {
     "name": "QUESTDESCRIPTION_20002241_NAME",
-    "desc": "QUESTDESCRIPTION_20002241_DESC",
+    "desc": "Upon confirming $npcName:11000031$'s message, $npc:11000075$ realizes the situation is more urgent than expected and says they will issue an assembly order to the representatives of each guardian faction. $npcName:11000075$ tells you to go to $map:52000026$ and wait until all the guardian representatives gather.\nNear the northwest entrance of $map:02000001$ toward $map:02000119$, you can find the entrance to $map:52000026$. Let's head there.",
     "manual": "Find and enter $map:52000026$ in $map:02000001$",
     "complete": "QUESTDESCRIPTION_20002241_COMPLETE",
     "count": "0",
@@ -10168,7 +10168,7 @@
   },
   "20002242--": {
     "name": "QUESTDESCRIPTION_20002242_NAME",
-    "desc": "QUESTDESCRIPTION_20002242_DESC",
+    "desc": "$npcName:11000601$ says it is important to persuade the Thieves and Assassins who were most opposed to joining the expedition, and that winning over $npcName:11000006$, who leads the Hampleist, will also bring the Assassins on board.\nFollowing Luana's advice, let's move to $map:02000208$ and meet $npcName:11000006$.",
     "manual": "",
     "complete": "Find and enter $map:02000208$ in $map:02000166$",
     "count": "0",
@@ -10176,15 +10176,15 @@
   },
   "20002243--": {
     "name": "QUESTDESCRIPTION_20002243_NAME",
-    "desc": "QUESTDESCRIPTION_20002243_DESC",
-    "manual": "QUESTDESCRIPTION_20002243_MANUAL",
+    "desc": "$npcName:11000006$ reveals that a Hampleist agent who secretly infiltrated the Black Citadel to uncover the collusion between $npc:11000065$ and $npcName:11000251$ is trapped in the underground sewer and in a dire situation.\nLet's go to $map:02000100$, find the entrance to $map:52000027$, and help $npc:11000051$ on their mission to rescue the isolated Hampleist operative.",
+    "manual": "Go from $map:02000100$ to $map:52000027$ and help $npc:11000051$ complete the mission",
     "complete": "QUESTDESCRIPTION_20002243_COMPLETE",
     "count": "1",
     "locking": "1"
   },
   "20002244--": {
-    "name": "QUESTDESCRIPTION_20002244_NAME",
-    "desc": "QUESTDESCRIPTION_20002244_DESC",
+    "name": "A Promise Full of Hope",
+    "desc": "$npcName:11000006$ promises to select the finest Assassins and send them to $map:02000023$ to join the Starlight Expedition, as a reward for safely rescuing the Humplus members.\nReturn to $npcName:11001229$, your mentor, at $map:02000179$ in $map:02000023$ and report the news.",
     "manual": "",
     "complete": "Speak with $npcName:11001229$ at $map:02000023$ $map:02000179$",
     "count": "0",
@@ -10192,7 +10192,7 @@
   },
   "20002245--": {
     "name": "QUESTDESCRIPTION_20002245_NAME",
-    "desc": "QUESTDESCRIPTION_20002245_DESC",
+    "desc": "$npcName:11000031$ says they have finished decoding one of the ancient texts brought from Kaliv Island. They say they found the location where clues about the true nature of the 'Ultimate Transcendence' are stored, and that the coordinates in the book point to $map:02000129$.\nGo to $map:02000129$ and look for any clues left by the ancient Runeblader ancestors, then return to $map:52000028$.",
     "manual": "Search for clues in $map:02000129$ to find out the truth behind the Ultimate Transcendence",
     "complete": "Speak with $npcName:11000031$ in $map:52000028$",
     "count": "1",
@@ -10208,8 +10208,8 @@
   },
   "20002251--": {
     "name": "QUESTDESCRIPTION_20002251_NAME",
-    "desc": "QUESTDESCRIPTION_20002251_DESC",
-    "manual": "QUESTDESCRIPTION_20002251_MANUAL",
+    "desc": "$npcName:11001230$ asks you to follow $npcName:11001229$, who is departing with the advance team, and look after them well, as they will gather the expedition and join as the rear guard after a final check.\nFollow $npcName:11001229$ to $map:02000112$ and find the entrance to $map:52000029$.",
+    "manual": "Go to $map:02000112$ and find the entrance to $map:52000029$",
     "complete": "Speak with $npcName:11000032$ at $map:02000023$ $map:02000179$",
     "count": "0",
     "locking": "1"
@@ -10224,7 +10224,7 @@
   },
   "20002261--": {
     "name": "QUESTDESCRIPTION_20002261_NAME",
-    "desc": "QUESTDESCRIPTION_20002261_DESC",
+    "desc": "$npcName:11001232$ tells you that since returning from the Dark Lands, $npcName:11001229$ had been quietly preparing a gift for their student.\nFind and open the box neatly placed under the tree in $map:02000179$.",
     "manual": "QUESTDESCRIPTION_20002261_MANUAL",
     "complete": "Speak with $npcName:11000031$ at $map:02000023$ $map:02000179$",
     "count": "1",
@@ -10233,7 +10233,7 @@
   "20002262--": {
     "name": "QUESTDESCRIPTION_20002262_NAME",
     "desc": "QUESTDESCRIPTION_20002262_DESC",
-    "manual": "QUESTDESCRIPTION_20002262_MANUAL",
+    "manual": "Complete all Kerning City defense missions\n<font color=\"#909090\">Can re-enter via quest dialogue during the quest</font>",
     "complete": "QUESTDESCRIPTION_20002262_COMPLETE",
     "count": "0",
     "locking": "1"
@@ -11272,7 +11272,7 @@
   },
   "40001060--": {
     "name": "Misplaced Book",
-    "desc": "QUESTDESCRIPTION_40001060_DESC",
+    "desc": "It seems someone placed a book they were reading on the wrong shelf. $npc:11000670$ appears displeased with its new home.\nTake $item:30000082$ from the bookshelf at the library entrance and move it to its original shelf. The original shelf is locked, so you'll need to take the key from $npc:21000216$.\nCould it be that whoever was reading the book shelved it just anywhere because the proper shelf was locked?",
     "manual": "QUESTDESCRIPTION_40001060_MANUAL",
     "complete": "QUESTDESCRIPTION_40001060_COMPLETE",
     "count": "1|1",
@@ -11280,7 +11280,7 @@
   },
   "40001130--": {
     "name": "QUESTDESCRIPTION_40001130_NAME",
-    "desc": "QUESTDESCRIPTION_40001130_DESC",
+    "desc": "For some reason, the royal guard dispatched to $map:02000118$ is experiencing a food shortage. They've even asked $npc:11000546$ to bring food...\n$npcName:11000546$, who doesn't normally deal in food, says they'll need to stop by town to find supplies and will arrive at the guard base later than planned. Report this news to $npc:11000157$.\nAlso, defeat the monsters in $map:02000118$ so $npcName:11000546$ can get to the guard base a little faster.",
     "manual": "QUESTDESCRIPTION_40001130_MANUAL",
     "complete": "Meet $npc:11000157$ at $map:02000118$",
     "count": "1",
@@ -11288,9 +11288,9 @@
   },
   "40001150--": {
     "name": "QUESTDESCRIPTION_40001150_NAME",
-    "desc": "QUESTDESCRIPTION_40001150_DESC",
+    "desc": "$npc:11000795$ is worried that their stock of $item:30000244$ has decreased even though none have been sold.\nThey fear they may have to cover the shortage out of pocket.\nSomeone reportedly saw $npc:21000013$ stealing $item:30000244$, so let's retrieve $item:30000244$ from $npc:21000013$ and bring it back to $npc:11000795$.",
     "manual": "QUESTDESCRIPTION_40001150_MANUAL",
-    "complete": "QUESTDESCRIPTION_40001150_COMPLETE",
+    "complete": "Bring $item:30000244$ to $npc:11000795$ in $map:02000209$",
     "count": "1",
     "locking": "1"
   },
@@ -11312,7 +11312,7 @@
   },
   "40001170--": {
     "name": "QUESTDESCRIPTION_40001170_NAME",
-    "desc": "QUESTDESCRIPTION_40001170_DESC",
+    "desc": "The fruit shop in $map:02000138$ is crawling with flies instead of customers. The swarm buzzing around the fruit is even driving away passersby.\nThe fruit seller $npc:11000867$ is distraught, certain the flies have built a nest under the drain.\nReceive $item:30000246$ from $npc:11000867$ and sprinkle it under the drain cover to drive the flies away.",
     "manual": "QUESTDESCRIPTION_40001170_MANUAL",
     "complete": "QUESTDESCRIPTION_40001170_COMPLETE",
     "count": "1|1",
@@ -11320,7 +11320,7 @@
   },
   "40001180--": {
     "name": "QUESTDESCRIPTION_40001180_NAME",
-    "desc": "QUESTDESCRIPTION_40001180_DESC",
+    "desc": "$npc:11000211$ says they readily agreed when a stranger asked them to hide an unidentified bag — they couldn't refuse the promise of a large Meso reward.\nBut after agreeing, they feel uneasy for some reason. Worse, some monsters apparently witnessed $npc:11000211$ hiding the bag. $npc:11000211$ asks you to silence the monsters before word gets out!\nLet's reluctantly grant the request for the anxious $npc:11000211$.",
     "manual": "QUESTDESCRIPTION_40001180_MANUAL",
     "complete": "QUESTDESCRIPTION_40001180_COMPLETE",
     "count": "1",
@@ -11328,7 +11328,7 @@
   },
   "40001181--": {
     "name": "QUESTDESCRIPTION_40001181_NAME",
-    "desc": "QUESTDESCRIPTION_40001181_DESC",
+    "desc": "Has the worry become reality? $npc:11000211$ says they were badly beaten after lying to the Black Star Guild, who suddenly demanded to know the bag's whereabouts.\n$npc:11000867$ supposedly has a good remedy for bruises, so let's go meet $npc:11000867$ for the sake of the aching $npc:11000211$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40001181_COMPLETE",
     "count": "",
@@ -11336,23 +11336,23 @@
   },
   "40001182--": {
     "name": "QUESTDESCRIPTION_40001182_NAME",
-    "desc": "QUESTDESCRIPTION_40001182_DESC",
+    "desc": "$npc:11000867$ says they need to make the medicine from scratch and asks you to gather the necessary ingredients.\nThe ingredient they need is none other than $npc:21000161$'s hair ornament!\nObtain $item:30000247$ from $npc:21000161$ in $map:02000138$ and bring it to $npc:11000867$.",
     "manual": "QUESTDESCRIPTION_40001182_MANUAL",
-    "complete": "QUESTDESCRIPTION_40001182_COMPLETE",
+    "complete": "Bring $item:30000247$ to $npc:11000867$ in $map:02000138$",
     "count": "1",
     "locking": "1"
   },
   "40001183--": {
     "name": "QUESTDESCRIPTION_40001183_NAME",
-    "desc": "QUESTDESCRIPTION_40001183_DESC",
+    "desc": "Another ingredient needed to make $npc:11000867$'s special remedy is $item:30000248$!\n$npc:11000867$ says they threw away unsold $item:30000248$ in the trash, and rummaging through it should yield enough to make the medicine.\nReluctantly, search through the trash in $map:02000138$ to obtain $item:30000248$, then bring it to $npc:11000867$.",
     "manual": "QUESTDESCRIPTION_40001183_MANUAL",
-    "complete": "QUESTDESCRIPTION_40001183_COMPLETE",
+    "complete": "Bring $item:30000248$ to $npc:11000867$ in $map:02000138$",
     "count": "1",
     "locking": "1"
   },
   "40001200--": {
     "name": "QUESTDESCRIPTION_40001200_NAME",
-    "desc": "QUESTDESCRIPTION_40001200_DESC",
+    "desc": "Despite gas tanks being scattered around $map:02000136$, $npc:21000282$ keeps throwing bombs everywhere.\n$npc:11000222$ is worried that $npc:21000282$ might cause a major fire or explosion.\nTo ease $npc:11000222$'s concerns, let's drive away $npc:21000282$ in the vicinity of $map:02000136$.",
     "manual": "QUESTDESCRIPTION_40001200_MANUAL",
     "complete": "QUESTDESCRIPTION_40001200_COMPLETE",
     "count": "1",
@@ -11416,7 +11416,7 @@
   },
   "40002570--": {
     "name": "QUESTDESCRIPTION_40002570_NAME",
-    "desc": "QUESTDESCRIPTION_40002570_DESC",
+    "desc": "$npcName:11000221$ is looking for someone to help them. Let's meet $npcName:11000221$ and ask what kind of help they need.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002570_COMPLETE",
     "count": "",
@@ -11424,7 +11424,7 @@
   },
   "40002580--": {
     "name": "QUESTDESCRIPTION_40002580_NAME",
-    "desc": "QUESTDESCRIPTION_40002580_DESC",
+    "desc": "A message has arrived to check a secret directive left on a rundown desk in $map:03000135$. Who sent it, and what does it say?",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002580_COMPLETE",
     "count": "",
@@ -11432,7 +11432,7 @@
   },
   "40002590--": {
     "name": "QUESTDESCRIPTION_40002590_NAME",
-    "desc": "QUESTDESCRIPTION_40002590_DESC",
+    "desc": "$npcName:11000614$ is said to be waiting in $map:03000135$. What mission awaits…",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002590_COMPLETE",
     "count": "",
@@ -11440,7 +11440,7 @@
   },
   "40002600-Striker-": {
     "name": "QUESTDESCRIPTION_40002600_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002600_DESC:[F]Striker",
+    "desc": "While everyone lamented the cancellation of the royal audience, one person was smiling — $npcName:11000251$.\nAccording to $npcName:11001690$, $npcName:11000251$ had bribed the royal officials to embezzle or purchase cheaply the items rendered useless by the cancellation.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002600_COMPLETE:[F]Striker",
     "count": "",
@@ -11448,7 +11448,7 @@
   },
   "40002601-Striker-": {
     "name": "QUESTDESCRIPTION_40002601_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002601_DESC:[F]Striker",
+    "desc": "Now that it's known $npcName:11000492$ was involved in the armory theft, embezzling royal audience items has become much harder. How should we appease $npcName:11000251$, who will be furious that the plan has fallen apart…",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002601_COMPLETE:[F]Striker",
     "count": "",
@@ -11456,7 +11456,7 @@
   },
   "40002602-Striker-": {
     "name": "QUESTDESCRIPTION_40002602_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002602_DESC:[F]Striker",
+    "desc": "Because of the armory theft caused by $npcName:11000492$, the Black Star's plan to embezzle the royal audience items has fallen through. Unless we capture $npcName:11000492$ and make them kneel before $npcName:11000251$, there's no telling where $npcName:11000251$'s wrath will turn. Let's quickly track down $npcName:11000492$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002602_COMPLETE:[F]Striker",
     "count": "",
@@ -11464,15 +11464,15 @@
   },
   "40002603-Striker-": {
     "name": "QUESTDESCRIPTION_40002603_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002603_DESC:[F]Striker",
+    "desc": "$npcName:11001677$ says it was very noisy during the construction of $map:52000034$, making guard duty difficult. For whatever reason, they say it's a relief that the construction has stopped. Let's head to the place $npcName:11001677$ told us about.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002603_COMPLETE:[F]Striker",
     "count": "",
     "locking": "1"
   },
   "40002604-Striker-": {
-    "name": "QUESTDESCRIPTION_40002604_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002604_DESC:[F]Striker",
+    "name": "What Nelf Left Behind",
+    "desc": "We followed the crumpled note to $map:52000037$ in $map:02000043$… but unfortunately, $npc:11000492$ was dead. Why would $npc:11000492$ be dead in a place like this? What could have happened to him?\nMight there be a clue nearby to unravel the mysteries surrounding his corruption and death?\nLet's collect ourselves and carefully search the area around $npc:11000492$.",
     "manual": "QUESTDESCRIPTION_40002604_MANUAL:[F]Striker",
     "complete": "QUESTDESCRIPTION_40002604_COMPLETE:[F]Striker",
     "count": "1",
@@ -11495,8 +11495,8 @@
     "locking": "1"
   },
   "40002610-Striker-": {
-    "name": "QUESTDESCRIPTION_40002610_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002610_DESC:[F]Striker",
+    "name": "A Thorn in the Eye",
+    "desc": "It's no secret in $map:02000100$ that the Black Star is distributing $item:20000046$ and $item:20000015$. Moreover, no one seems to be raising any objections. Only the Dark Wind finds it objectionable and keeps picking fights over it…",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002610_COMPLETE:[F]Striker",
     "count": "",
@@ -11520,7 +11520,7 @@
   },
   "40002613-Striker-": {
     "name": "QUESTDESCRIPTION_40002613_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002613_DESC:[F]Striker",
+    "desc": "I've been told Dark Wind Captain $npcName:11000044$ is looking for me.\nLet's head to $map:02000152$ in $map:02000100$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002613_COMPLETE:[F]Striker",
     "count": "",
@@ -11543,8 +11543,8 @@
     "locking": "1"
   },
   "40002621-Striker-": {
-    "name": "QUESTDESCRIPTION_40002621_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002621_DESC:[F]Striker",
+    "name": "What She Wants to Say",
+    "desc": "$npcName:11000515$ expresses doubt about Humples being named as the culprit in the theft of the royal audience items.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002621_COMPLETE:[F]Striker",
     "count": "",
@@ -11552,7 +11552,7 @@
   },
   "40002622-Striker-": {
     "name": "QUESTDESCRIPTION_40002622_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002622_DESC:[F]Striker",
+    "desc": "I've been told Dark Wind Captain $npcName:11000044$ is looking for me.\nLet's head to $map:02000152$ in $map:02000100$.",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002622_COMPLETE:[F]Striker",
     "count": "",
@@ -11561,14 +11561,14 @@
   "40002630-Striker-": {
     "name": "QUESTDESCRIPTION_40002630_NAME:[F]Striker",
     "desc": "QUESTDESCRIPTION_40002630_DESC:[F]Striker",
-    "manual": "QUESTDESCRIPTION_40002630_MANUAL:[F]Striker",
+    "manual": "Go to $map:52000038$ in $map:03000134$ and eliminate the threats",
     "complete": "QUESTDESCRIPTION_40002630_COMPLETE:[F]Striker",
     "count": "0",
     "locking": "1"
   },
   "40002631-Striker-": {
     "name": "QUESTDESCRIPTION_40002631_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002631_DESC:[F]Striker",
+    "desc": "$npcName:11001678$ finds it suspicious that an apparently abandoned warehouse has a well-equipped security system. What information can we obtain here? And what information is $npcName:11000251$ after?",
     "manual": "QUESTDESCRIPTION_40002631_MANUAL:[F]Striker",
     "complete": "QUESTDESCRIPTION_40002631_COMPLETE:[F]Striker",
     "count": "0",
@@ -11576,16 +11576,16 @@
   },
   "40002632-Striker-": {
     "name": "QUESTDESCRIPTION_40002632_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002632_DESC:[F]Striker",
+    "desc": "While examining the security robot parts in the warehouse, $npcName:11001678$ notices a familiar place name written on one of the components. Will going there yield what we're looking for?",
     "manual": "",
     "complete": "QUESTDESCRIPTION_40002632_COMPLETE:[F]Striker",
     "count": "",
     "locking": "1"
   },
   "40002633-Striker-": {
-    "name": "QUESTDESCRIPTION_40002633_NAME:[F]Striker",
-    "desc": "QUESTDESCRIPTION_40002633_DESC:[F]Striker",
-    "manual": "QUESTDESCRIPTION_40002633_MANUAL:[F]Striker",
+    "name": "In My Absence",
+    "desc": "It's said that orders have come down from the Black Star to investigate $map:52000039$. $npcName:11001679$ and $npcName:11001687$ have already left, so let's hurry to $map:52000039$.",
+    "manual": "Go to $map:52000039$ in $map:03000145$ and eliminate the threats",
     "complete": "QUESTDESCRIPTION_40002633_COMPLETE:[F]Striker",
     "count": "0",
     "locking": "1"
@@ -46652,5 +46652,642 @@
   },
   "89010147--": {
     "name": "Create a UGC item"
+  },
+  "30000351-Event-JP": {
+    "manual": "Go to $map:63000066$ and find the cause of the ghost rumors",
+    "desc": "$npcName:11004290$'s real reason for sending the Halloween party invitation was to ask for help investigating the strange occurrences happening at the hotel.\n\nLet's find out what is going on at the Bloody Monshushu Hotel, which has been plagued by ghost stories lately.\n\nTake the portal at the end of the 2nd floor hallway in $map:63000065$ to go to $map:63000066$. ",
+    "name": "The Ghost-Haunted Terrace",
+    "complete": "Talk to $npcName:11004290$ in $map:63000065$"
+  },
+  "30000350-Event-JP": {
+    "desc": "This is a Halloween party invitation from $npc:11004290$.\n\nWe are planning to hold a grand party in your honor to celebrate Halloween.\nWe sincerely hope you will attend and brighten the occasion.\nSpeak with me, Hotel Manager $npc:11004290$, at any time to participate in the event.\n\nLet's meet $npc:11004290$ at $map:63000065$.\nTake the $map:63000065$ portal located in $map:02000064$. ",
+    "complete": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$",
+    "manual": "Use the portal in $map:02000064$ to go to $map:63000065$ and speak with $npcName:11004290$",
+    "name": "A Halloween Party Invitation"
+  },
+  "30000352-Event-JP": {
+    "desc": "$npcName:11004290$ said that when Count Monchu was ill, he asked her to take good care of his daughter Marien by adopting her.\n\nThe manager raised Marien well as per Count Monchu's last wish, but one day Marien suddenly disappeared.\n\nLet's go to Marien's quarters, now known as $map:63000067$, and look for anything that might serve as a clue.",
+    "manual": "Go to $map:63000067$ and find clues about the incident",
+    "name": "Plutino's Adopted Daughter",
+    "complete": "Talk to $npcName:11004290$ in $map:63000065$"
+  },
+  "30000353-Event-JP": {
+    "desc": "$npcName:11004290$ told us about a man who went missing after Marien.\n\nHe appeared late one very cold night, introduced himself as an acquaintance of Count Monchu, and said he had something to tell $npcName:11004290$.\n\n$npcName:11004290$ gave him $map:63000069$ for the night and suggested they talk in the morning, but the man disappeared that very night.\n\nTo search $map:63000069$ where the man went missing, we need a key—and only $npcName:11004289$ has it. We should go meet her.",
+    "name": "The Visitor That Winter",
+    "complete": "Talk to $npcName:11004289$ in $map:63000065$"
+  },
+  "30000354-Event-JP": {
+    "manual": "Go to $map:63000068$ and get the key",
+    "desc": "While trying to investigate $map:63000069$ to learn more about the man who recently vanished there, we discovered that $npcName:11004289$ holds the key to the room.\n\n$npcName:11004289$ is Count Monchu's cousin, here as the hotel's heir.\n\nWe asked $npcName:11004289$ for the key to $map:63000069$, but she didn't seem pleased.\n\nShe told us the key is in $map:63000068$, so we should go retrieve it.",
+    "complete": "Talk to $npcName:11004311$ who appeared in $map:63000068$"
+  },
+  "30000357-Event-JP": {
+    "manual": "Speak with Plutino to go to $map:63000070$ and retrieve the will",
+    "desc": "$npcName:11004290$ studied the evidence found in $map:63000069$ in silence for a long moment, then spoke gravely.\n\nCount Monchu's cousin, $npcName:11004289$, had deliberately locked Marien—who ranked higher in the inheritance order—in the room, and had even made the estate executor disappear, all to claim the hotel for herself.\n\nLearning the full truth, $npcName:11004290$ is furious and wants to punish $npcName:11004289$—but without the original will, the inheritance cannot be executed.\n\n$npcName:11004290$ suspects that if the will exists anywhere, it would be in $map:63000070$.\n\nLet's go to $map:63000070$ without $npcName:11004289$ knowing and search for the original will.\n\nSpeak with $npcName:11004290$ whenever you want to travel to $map:63000070$.",
+    "name": "The True Heir of Mon Chou Chou Hotel",
+    "complete": "Talk to $npcName:11004311$ in $map:63000065$"
+  },
+  "30000356-Event-JP": {
+    "desc": "We can now investigate $map:63000069$.\n\n$npcName:11004291$ is surprised to find the key to $map:63000069$ suddenly in his pocket, but he quickly offers to escort us there.\n\nLet's go to $map:63000069$ without $npcName:11004289$ noticing and find the evidence needed to uncover the truth.",
+    "manual": "Discover the missing man's identity|Find out the man's purpose for visiting the hotel|Find evidence of those involved in the crime|Discover the motive behind the crime",
+    "name": "A Clue in the Suite Room",
+    "complete": "Talk to $npcName:11004290$ in $map:63000065$"
+  },
+  "30000355-Event-JP": {
+    "desc": "It appears someone deliberately locked $npcName:11004311$ in the guest room.\n\n$npcName:11004311$, who was cold and hungry alone in the dark, said she wants to punish whoever did this to her.\n\nShe says the key to $map:63000069$ was secretly slipped into $npcName:11004291$'s pocket, so we should speak to $npcName:11004291$ and make our way to $map:63000069$.",
+    "name": "Bellboy Averton",
+    "manual": "Talk to $npcName:11004291$ in $map:63000065$",
+    "complete": "Talk to $npcName:11004291$ in $map:63000065$"
+  },
+  "30000358-Event-JP": {
+    "desc": "$npcName:11004311$ says that now all the truth has been revealed, she too must go where she belongs.\n\nBut she seems worried about her father in $map:63000071$.\n\nAccording to $npcName:11004311$, Count Monchu appears to have become a vengeful spirit consumed by rage.\n\nLet's go to $map:63000071$ and meet her father.\n\nSpeak with Marien, who is staying briefly in $map:63000065$, to travel to $map:63000071$.",
+    "manual": "Speak with $npcName:11004311$ in the hotel lobby to go to $map:63000071$ and put $npcName:11004309$ to rest",
+    "name": "The Ghost of Count Mon Chou",
+    "complete": "Talk to $npcName:11004290$ in $map:63000065$"
+  },
+  "30000360-Event-JP": {
+    "desc": "$npc:11004290$ said that if Count Monchu were still alive, he would surely say the hotel was running low on $item:30001214$.\n\nYou can obtain $item:30001214$ by defeating the ghosts in $map:63000067$, and she promised to reward you for bringing them.\n\n$npc:11004290$, fixated on $item:30001214$, gazes with a lonely look—as if she misses Count Monchu and Marien dearly.",
+    "complete": "Talk to $npcName:11004290$ in $map:63000065$",
+    "manual": "Defeat ghosts in $map:63000067$ and obtain $item:30001214$ "
+  },
+  "30000359-Event-JP": {
+    "manual": "Defeat the ghosts filling $map:63000068$",
+    "desc": "$npc:11004290$ lamented that $map:63000068$ had become a place for ghosts rather than guests.\n\n$npc:11004290$ wants to drive out the ghosts haunting $map:63000068$, but is too old and frail to do so. Defeat the ghosts on their behalf. ",
+    "complete": "Talk to $npcName:11004290$ in $map:63000065$"
+  },
+  "30000370-Event-JP": {
+    "name": "Please Be My Santa",
+    "manual": "Listen to $npcName:11004345$'s story until the end\n<font color=\"#909090\">Accessible via the Event Map Shortcut button</font>",
+    "desc": "$npcName:11004777$. It contained a message asking you to help $npcName:11004345$—a girl facing the greatest crisis of her 16 years of life—at $map:63000072$.\nLet's head to $map:63000072$ and meet $npcName:11004345$.\n\n* Accessible via the Event Map Shortcut button",
+    "complete": "Talk to $npcName:11004345$ in $map:63000072$"
+  },
+  "30000373-Event-JP": {
+    "desc": "$npcName:11004346$ doesn't seem to remember much about the white furry creature that attacked him. But $npcName:11004345$ seems to have some idea, saying it would be best to go home and investigate.\nLet's meet the siblings again at their home in the northwest of $map:63000072$.\nInside their home at $map:63000074$, let's meet $npcName:11004360$.",
+    "name": "Identity of the Attacker",
+    "complete": "Talk to $npcName:11004360$ inside the siblings' home, $map:63000074$, northwest of $map:63000072$"
+  },
+  "30000371-Event-JP": {
+    "desc": "$npcName:11004345$ woke up to find the house in shambles and her entire family gone. Let's help her find them.\nAsk the villagers in $map:63000072$ about the whereabouts of $npcName:11004345$'s family.",
+    "manual": "Find $npcName:11004345$'s mother, $npcName:11004347$, in $map:63000072$|Find $npcName:11004345$'s father, $npcName:11004348$, in $map:63000072$|Find $npcName:11004345$'s brother, $npcName:11004346$, in $map:63000072$",
+    "complete": "Talk to $npcName:11004345$ in $map:63000072$"
+  },
+  "30000372-Event-JP": {
+    "desc": "We heard a witness say that $npcName:11004345$'s brother, $npc:11004346$, headed toward $map:63000073$. When we told $npcName:11004345$, she said she wants to find their parents together and asked us to bring her brother back from there...\nLet's go to $map:63000073$ and find $npcName:11004346$.",
+    "manual": "Find clues about the missing brother and attacker in $map:63000073$, north of $map:63000072$",
+    "complete": "Talk to $npcName:11004345$ in $map:63000072$"
+  },
+  "30000374-Event-JP": {
+    "manual": "Find clues to locate the missing family in $map:63000074$",
+    "desc": "$npcName:11004345$ makes the rather outlandish claim that 'Future Rudolph' took her parents away. It's hard to make sense of, but it's better than doing nothing. She says there should be clues to finding her parents somewhere inside the house...\nLet's investigate $map:63000074$ and look for clues.",
+    "name": "Someone's Diary",
+    "complete": "Talk to $npcName:11004355$ in $map:63000074$"
+  },
+  "30000375-Event-JP": {
+    "desc": "$npcName:11004346$ teases $npcName:11004345$, who angrily confronts him about reading her diary. The siblings are so caught up arguing that they've forgotten to look for the next clue. If the 'cake' mentioned in $item:30001260$ points to somewhere in the house, the dining room seems the most likely place to check.\nLet's look for traces of the siblings' mother, $npcName:11004347$, in $map:63000076$.",
+    "manual": "Search the dresser in $map:63000076$ for traces of $npcName:11004347$|Search under the table for traces of $npcName:11004347$|Search behind the sofa for traces of $npcName:11004347$|Inspect the audio player for traces of $npcName:11004347$",
+    "name": "An Enormous Cake",
+    "complete": "Talk to $npcName:11004347$ in $map:63000074$"
+  },
+  "30000377-Event-JP": {
+    "desc": "The family is now convinced that dad might be in the garden. But there's no telling what the culprit behind this chaos—the 'white furry thing'—might do next. The siblings' mother, $npcName:11004347$, would like to ask us to investigate the garden...\nAs adventurers accustomed to battle, this is a request worth accepting.\nHead out to $map:63000077$ and search for the whereabouts of the siblings' father, $npcName:11004348$.",
+    "manual": "Subdue the unreasonable $npc:27000100$ in $map:63000077$",
+    "complete": "Talk to $npcName:11004348$ in $map:63000077$"
+  },
+  "30000378-Event-JP": {
+    "desc": "The freed $npcName:11004348$ doesn't resent $npcName:11004349$ for the imprisonment—in fact, defends the kid as a good soul. It turns out $npcName:11004349$, who had met $npcName:11004345$ as a child, dreamed of becoming a \"Rudolf\" and wanted to grant $npcName:11004345$'s wish to make her happy and earn Santa's recognition. But $npcName:11004349$ mistook a complaint $npcName:11004345$ had written in her diary for a real wish—causing the entire commotion.\n\nUpon learning this belatedly, $npcName:11004345$ says her real Christmas wish is something else entirely…\nListen to the whole family's story in $map:63000077$.",
+    "manual": "Listen to the full story of $npcName:11004348$, $npcName:11004345$, and $npc:27000100$ in $map:63000077$",
+    "complete": "Talk to $npcName:11004357$ in $map:63000075$"
+  },
+  "30000380-Event-JP": {
+    "desc": "$npcName:11004349$ has become a trainee Rudolf. His determination to become a great Rudolf shines through his glowing red nose—but the task Santa has given him is no easy feat…\n\n$npcName:11004349$ is afraid of the dark. Defeat the monsters in $map:63000073$ that are threatening to stop him from reading his books.",
+    "name": "Apprentice Rudolf Hates the Dark",
+    "manual": "Defeat monsters wreaking havoc in $map:63000073$",
+    "complete": "Talk to $npcName:11004349$ in $map:63000072$"
+  },
+  "30000379-Event-JP": {
+    "desc": "With all misunderstandings cleared up, $npcName:11004345$, $npcName:11004346$, $npcName:11004347$, and $npcName:11004348$ throw a joyful Christmas party—and their new friend $npcName:11004349$ is invited too. $npcName:11004345$ thanks you for being the true Santa Claus of this Christmas. Enjoy the happy celebration with her, her family, and $npcName:11004349$.\n\nNow $npcName:11004349$, who has a new announcement, is waiting in $map:63000072$…\nGo meet $npcName:11004349$ in $map:63000072$.",
+    "name": "Let's Party Together!",
+    "complete": "Talk to $npcName:11004349$ in $map:63000072$"
+  },
+  "30000376-Event-JP": {
+    "desc": "The mother, reunited with her children, says she must now search for the father's whereabouts. $npcName:11004345$ is uneasy that events are unfolding exactly as her diary described, yet she can't remember what she wrote. Comfort her and look for the next clue.\nTalk to $npcName:11004345$ in $map:63000074$.",
+    "name": "Where Is Father?",
+    "complete": "Talk to $npcName:11004355$ in $map:63000074$"
+  },
+  "30000382-Event-JP": {
+    "desc": "$npc:11001002$ shares news of a very special dance party prepared for Christmas and invites you to join.\nParticipate in $map:61000022$ three times a week and receive a surprise gift prepared by $npc:11001002$.\n\n* $map:61000022$ opens at 15 and 45 minutes past every hour",
+    "complete": "Talk to $npcName:11001002$ in $map:02000064$ or $map:63000072$",
+    "name": "Dance for Christmas!",
+    "manual": "Participate in $map:61000022$"
+  },
+  "30000381-Event-JP": {
+    "desc": "Trainee Rudolf $npcName:11004349$ is a kind soul who loves Christmas dearly. He has a deep fondness for Christmas trees, but all the $item:30001258$ he had carefully collected have gone missing, leaving him heartbroken.\nFor the sake of the pure-hearted $npcName:11004349$, defeat monsters in $map:63000077$ and bring him $item:30001258$.",
+    "manual": "Defeat monsters in $map:63000077$ to collect $item:30001258$",
+    "name": "Decorate the Christmas Tree with Apprentice Rudolf",
+    "complete": "Talk to $npcName:11004349$ in $map:63000072$"
+  },
+  "91000074-FameContents_EP1_02-JP": {
+    "desc": "$dungeonTitle:24090004$\nA solo dungeon accessible only while the quest is active.\nEntry is only possible via the [Enter Dungeon Alone] button.\n\nYou've been deployed on a mission to draw attention and push back $npc:11003795$ while the ultra-high-density particle accelerator is stabilized. Hold the defensive line with a sense of weighty responsibility.",
+    "name": "Securing the Skies, but...",
+    "complete": "Talk to $npcName:11003533$ in $map:52010052$"
+  },
+  "94000240-FameContents_EP1_01-JP": {
+    "desc": "An unidentified aircraft is hovering near the Sky Fortress.\n\n$npcName:11003536$ seems determined to analyze it.\nIn this situation, there's only one thing $npcName:11003536$ needs!\n\nThat is the help of $MyPCName$.",
+    "descFameUI": "An unidentified aircraft is hovering near the Sky Fortress.\nTo analyze it, get in there and face it head-on!",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003536$",
+    "name": "Unidentified Flying Object"
+  },
+  "94000241-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top.\n\nIn Fortress Rumble, you can spar with Captain Blieze\nat [Sky Fortress Bridge Upper Deck].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nBecome Captain Blieze's sparring partner and rise to the top.",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003533$",
+    "manual": "Fortress Rumble,\n[Sky Fortress Bridge Upper Deck]\nClear",
+    "name": "Battle in the Skies"
+  },
+  "94000242-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing.\n\nIn Fortress Rumble, you can spar with $npcName:11003584$\nat [Shadow Wind Secret Training Facility].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nSchaten's special tutoring is training that feels just like the real thing.",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003535$",
+    "name": "Schaten's Secret Lesson",
+    "manual": "Clear Fortress Rumble,\n[Shadow Wind Secret Training Facility]"
+  },
+  "94000245-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life.\n\nIn Fortress Rumble, you can spar with $npcName:11003583$\nat [Royal Guard Training Grounds].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nRoyal Guard-style fitness training! Feel your combat skills grow and experience the camaraderie of military life.",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003534$",
+    "manual": "Clear Fortress Rumble,\n[Royal Guard Training Ground]"
+  },
+  "94000244-FameChallengeDungeon-JP": {
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation,\nyour battle data is required.\n\nIn Fortress Rumble, you can participate in $npcName:11003585$'s virtual combat training\nat [Nairin's Combat Simulator].\n",
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nFor the perfect combat simulation, your battle data is required.",
+    "manual": "Fortress Rumble,\n[Neilin's Battle Simulator]\nClear",
+    "name": "For the Perfect Simulation!",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003536$"
+  },
+  "94000243-FameChallengeDungeon-JP": {
+    "descFameUI": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny. The possibilities are in motion.",
+    "desc": "<font color=\"#00a2ed\">Fortress Rumble Mission</font>\nA duel with Mason to seize your destiny.\nThe possibilities are in motion.\n\nIn Fortress Rumble, you can spar with $npcName:11003537$\nat [Knights' High Command Reception Area].\n",
+    "complete": "Move to $map:02000422$ and speak with $npcName:11003537$",
+    "name": "Destiny of Possibility",
+    "manual": "Clear Fortress Rumble,\n[Knights Order High Command Reception Area]"
+  },
+  "80010370-Event-CN": {
+    "desc": "Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day.",
+    "name": "Pinwheel Materials"
+  },
+  "80010350-Event-CN": {
+    "desc": "An April Fools' surprise event, available only until April 2, 2019!\n\nIt's April Fools' Day!\nThat urge to trick or prank someone? $npcName:11001002$ totally gets it~!\n\nEat the $item:20000674$ received in the mail and give your friends a big surprise.\nAdventurers who complete the quest will receive a gift perfectly suited for April Fools'!",
+    "manual": "Use $item:20000674$ in Maple World",
+    "name": "I'm Going to Trick You!"
+  },
+  "80010390-Event-CN": {
+    "desc": "$npc:11001003$ tells you about a special dungeon open during the event and explains that you can level up quickly through it.\nClear $dungeonTitle:29007001$ and $dungeonTitle:29007002$ a combined 30 times in one week to receive items for rapid growth.\nNote that the daily/weekly reward limit for both dungeons is shared at the account level.",
+    "complete": "Talk to $npc:11001003$ at $map:63000079$, $map:02000064$, or $map:02020041$",
+    "manual": "Clear $dungeonTitle:29007001$ or $dungeonTitle:29007002$ 30 times"
+  },
+  "80010360-Event-CN": {
+    "desc": "If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.\n\nThe gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!",
+    "name": "Defeat Mint!"
+  },
+  "80010500-Event-CN": {
+    "desc": "Use [Go to Event Map] to travel to $map:63000089$ and try playing music together with other adventurers.",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
+  },
+  "80010510-Event-CN": {
+    "desc": "Listen to the fascinating rumors that $npcName:11001002$ has to share.",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$",
+    "manual": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
+  },
+  "80010400-Event-CN": {
+    "desc": "A rift in time has opened a gateway to a dimension from another world. It all traces back to $map:02000420$...\nIf the rift persists for long, who knows what dangers may arise. Head to $dungeonTitle:29006001$ and face $npc:23000077$.",
+    "manual": "Clear the event dungeon '$dungeonTitle:29006001$' 3 times",
+    "name": "Time Monster's Mischief",
+    "complete": "Talk to $npc:11001003$ in $map:02000064$ or $map:02020041$"
+  },
+  "80010402-Event-CN": {
+    "desc": "Apparently, $npc:23000077$'s true plan is to trap adventurers inside the other-dimensional space created by the time rift.\nBefore adventurers fall into danger, head to $dungeonTitle:29006001$ and face $npc:23000077$.",
+    "manual": "Clear the event dungeon '$dungeonTitle:29006001$' 18 times",
+    "name": "Time Monster's Conspiracy",
+    "complete": "Talk to $npc:11001003$ in $map:02000064$ or $map:02020041$"
+  },
+  "80010401-Event-CN": {
+    "desc": "The other-dimensional space created by the time rift has become wildly popular among adventurers. Now $npc:23000077$ plans to create even more dimensional spaces...\nIf the rift lasts too long and grows larger, unforeseen dangers may follow. Head to $dungeonTitle:29006001$ and face $npc:23000077$.",
+    "manual": "Clear the event dungeon '$dungeonTitle:29006001$' 6 times",
+    "name": "Time Monster's Plan",
+    "complete": "Talk to $npc:11001003$ in $map:02000064$ or $map:02020041$"
+  },
+  "74000017-Mentoring-JP": {
+    "manual": "Destroy 5 Unwanted Items",
+    "desc": "Destroy 5 Unwanted Items",
+    "name": "Destroy 5 Unwanted Items"
+  },
+  "80010341-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a player of the opposite gender wearing a 'Lovely Heart Ribbon' (at least Level 10) in Maple World",
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
+  },
+  "80010343-Event-CN": {
+    "manual": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt LO' (at least Level 10) in Maple World",
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010342-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a player of the opposite gender wearing a 'Lovely Heart Bag' (at least Level 10) in Maple World",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010344-Event-CN": {
+    "manual": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt VE' (at least Level 10) in Maple World",
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010345-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a player of the opposite gender wearing 'Love in Droplets' (at least Level 10) in Maple World",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010346-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a friend of the opposite gender wearing a 'Dancing Flower' (Lv. 10+) in Maple World",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "72000499-KarkarIsland-JP": {
+    "manual": "Check on $npcName:11004264$ in $map:02010002$",
+    "name": "Check on $npcName:11004264$ in $map:02010002$"
+  },
+  "72000503-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11004265$ in $map:02010058$",
+    "name": "Talk to $npc:11004265$ in $map:02010058$"
+  },
+  "72000511-KarkarIsland-JP": {
+    "name": "Talk to $npc:11004267$ in $map:02010012$",
+    "manual": "Talk to $npc:11004267$ in $map:02010012$"
+  },
+  "72000527-KarkarIsland-JP": {
+    "manual": "Defeat monsters in $map:02010022$",
+    "name": "Defeat monsters in $map:02010022$"
+  },
+  "72000520-KarkarIsland-JP": {
+    "manual": "Talk to $npcName:11001350$ in $map:02010056$",
+    "name": "Talk to $npcName:11001350$ in $map:02010056$"
+  },
+  "72000535-KarkarIsland-JP": {
+    "manual": "Check on $npc:11004276$ in $map:02010027$",
+    "name": "Check on $npc:11004276$ in $map:02010027$"
+  },
+  "72000539-KarkarIsland-JP": {
+    "manual": "Check on $npc:11004278$ in $map:02010028$",
+    "name": "Check on $npc:11004278$ in $map:02010028$"
+  },
+  "72000548-KarkarIsland-JP": {
+    "name": "Talk to $npc:11004274$ in $map:02010006$",
+    "manual": "Talk to $npc:11004274$ in $map:02010006$"
+  },
+  "80010551-Event-CN": {
+    "name": "Looking Good, Even to Myself",
+    "desc": "$npc:11000158$ says that the second training exercise is to run on $item:50400096$ and clear your mind.\nI'm not sure what the point of this is, but since there are rewards on offer, I might as well follow along.\nUse $item:50400096$ in your home or someone else's home, then find $npc:11000157$ in $map:02000118$.",
+    "manual": "Use $item:50400096$ at your house or someone else's house",
+    "complete": "Visit $npc:11000157$ in $map:02000118$"
+  },
+  "80010542-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
+    "name": "Hide-and-Seek Champion!"
+  },
+  "80010540-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
+    "name": "More Fun When You Win!"
+  },
+  "80010530-Event-CN": {
+    "desc": "I heard that $npc:11001899$ is hosting a new event.\nIt's a hide-and-seek type game...\nThey say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event"
+  },
+  "80010541-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
+  },
+  "80010520-Event-CN": {
+    "desc": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?",
+    "manual": "Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$",
+    "complete": "Ask $npc:11004717$ in $map:02000064$ about $npc:50400341$",
+    "name": "Witch's Gift"
+  },
+  "80010543-Event-CN": {
+    "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
+    "name": "Hide-and-Seek Master!"
+  },
+  "80010550-Event-CN": {
+    "desc": "$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.\nI'm not quite sure why I should do this, but since there are rewards on offer, let's take part.\nFirst, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.\n\nField Bosses in Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' ",
+    "complete": "Visit $npc:11000158$ in $map:02000118$"
+  },
+  "80010552-Event-CN": {
+    "desc": "$npc:11000157$ says that true romance means enjoying solitude and exploring yourself, and asks you to play a song with any sheet music.\nApparently, immersing yourself in a world where only music and you exist is the third training exercise... I have no idea what that means, but since it's the third one, I might as well keep going.\nPlay any sheet music, then find $npc:11000617$ in $map:02000118$.",
+    "manual": "Play any sheet music",
+    "complete": "Visit $npc:11000617$ in $map:02000118$"
+  },
+  "80010553-Event-CN": {
+    "desc": "$npc:11000617$ says that eating $item:20001693$ is the final training exercise, and even explained its significance.\nSince there's a gift waiting after this last exercise, I might as well just go ahead and do as I'm told.\nEat the $item:20001693$ received as training rewards, then claim your souvenir.\n(If you don't have any $item:20001693$, speak to $npc:11000617$ to receive some again.)",
+    "manual": "Eat $item:20001693$",
+    "complete": "Talk to $npc:11000617$ in $map:02000118$"
+  },
+  "89010373-Event-CN": {
+    "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times",
+    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 5 times",
+    "name": "Participate in MC Kay Event 5 Times"
+  },
+  "80010570-Event-CN": {
+    "desc": "$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.\nParticipate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared."
+  },
+  "80010600-Event-CN": {
+    "desc": "Find the Black Bean-shaped balloons appearing throughout the fields and send them flying.\n\n* Black Bean-shaped balloons appear across all fields every 10 minutes and last for 5 minutes.",
+    "manual": "Release the Black Bean Balloon",
+    "name": "Black Bean Balloon"
+  },
+  "80010590-Event-CN": {
+    "desc": "Find the Borabora heart balloons appearing throughout the fields and send them flying.\n\n* Borabora heart balloons appear across all fields every 10 minutes and last for 5 minutes.",
+    "name": "Send Off Hearts of Love"
+  },
+  "80010560-Event-CN": {
+    "desc": "If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.\nCollect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$.",
+    "name": "Lucky Cupcake Delivery"
+  },
+  "89010375-Event-CN": {
+    "manual": "* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.\n* Daily guild quests can only be accepted after you have been in the guild for one day.\n* Weekly guild quests can only be accepted after you have been in the guild for one week.\n* Both daily and weekly quests count toward the quest objective completion count.\n\nComplete 3 guild quests",
+    "complete": "* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.\n* Daily guild quests can only be accepted after you have been in the guild for one day.\n* Weekly guild quests can only be accepted after you have been in the guild for one week.\n* Both daily and weekly quests count toward the quest objective completion count.\n\nComplete 3 guild quests"
+  },
+  "89010374-Event-CN": {
+    "manual": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times",
+    "complete": "* The MC Kay event can be joined at 5 and 35 minutes past each hour.\n\nParticipate in the MC Kay event 10 times",
+    "name": "Participate in MC Kay Event 10 Times"
+  },
+  "80010347-Event-CN": {
+    "manual": "Find a friend of the opposite gender wearing a 'Fanfare Baby Angel' (Lv. 10+) in Maple World",
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010380-Event-CN": {
+    "desc": "Complete the quest from $npc:11001002$ and collect 20 $item:30001389$!"
+  },
+  "80010580-Event-CN": {
+    "desc": "Defeat the bosses listed below or win $npcName:11001899$'s event to collect all the '冒险岛喜迎新春' characters!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+  },
+  "80010610-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a partner wearing $item:11361396$"
+  },
+  "80010612-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a male partner wearing the \"Homebody\" title"
+  },
+  "80010615-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a partner wearing the \"Expert Angler\" title"
+  },
+  "80010613-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a partner wearing $item:11250042$"
+  },
+  "80010611-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a female partner wearing the \"Homebody\" title"
+  },
+  "80010614-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a partner wearing the \"Heartstealer\" title"
+  },
+  "80010617-Event-CN": {
+    "manual": "Find a Priest partner at Lv. 50 or higher",
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010616-Event-CN": {
+    "manual": "Find a Knight partner at Lv. 50 or higher",
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010618-Event-CN": {
+    "desc": "Find today's partner in Maple World and complete the tag mission!",
+    "manual": "Find a Ranger buddy Lv. 50 or higher",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010619-Event-CN": {
+    "manual": "Find a Thief buddy Lv. 50 or higher",
+    "desc": "Find today's buddy in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner"
+  },
+  "80010621-Event-CN": {
+    "desc": "Find today's buddy in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a partner wearing the \"White Cat\" title"
+  },
+  "80010620-Event-CN": {
+    "desc": "Find today's buddy in Maple World and complete the tag mission!",
+    "name": "Daily Mission: Today's Partner",
+    "manual": "Find a partner wearing the \"Black Cat\" title"
+  },
+  "89010376-Event-CN": {
+    "manual": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times",
+    "complete": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times"
+  },
+  "89010379-Event-CN": {
+    "name": "Obtain 10 Adventure [Normal/Raid] Bonus Boxes",
+    "manual": "Obtain Adventure [Normal/Raid] Bonus",
+    "complete": "Obtain Adventure [Normal/Raid] Bonus"
+  },
+  "89010381-Event-CN": {
+    "complete": "Dismantle 30 items",
+    "manual": "Dismantle 30 items",
+    "name": "Dismantle 30 Items"
+  },
+  "89010398-Event-CN": {
+    "complete": "Dismantle 5 items",
+    "manual": "Dismantle items",
+    "name": "Dismantle 5 Items"
+  },
+  "89010399-Event-CN": {
+    "manual": "Participate in MC Kay Event",
+    "name": "Participate in MC Kay Event 3 Times",
+    "complete": "Participate in MC Kay Event 3 Times"
+  },
+  "89010402-Event-CN": {
+    "manual": "Participate in Maple Arcade",
+    "complete": "Participate in Maple Arcade 2 Times",
+    "name": "Participate in Maple Arcade"
+  },
+  "89010403-Event-CN": {
+    "name": "Attempt Gemstone Upgrade Once",
+    "manual": "Attempt a Gemstone Upgrade",
+    "complete": "Attempt Gemstone Upgrade Once"
+  },
+  "89010406-Event-CN": {
+    "manual": "Clear Cash Mart Part-Time Job",
+    "complete": "Clear Cash Mart Part-Time Job 2 Times",
+    "name": "Clear Cash Mart Part-Time Job 2 Times"
+  },
+  "89010418-Event-CN": {
+    "manual": "Disassemble an Item",
+    "complete": "Disassembled 1 Item",
+    "name": "Disassemble 1 Item"
+  },
+  "89010419-Event-CN": {
+    "manual": "Participate in MC Kay Event",
+    "name": "Participate in MC Kay Event Once",
+    "complete": "Participated in MC Kay Event Once"
+  },
+  "89010422-Event-CN": {
+    "complete": "Participated in Maple Arcade Once",
+    "manual": "Participate in Maple Arcade",
+    "name": "Participate in Maple Arcade"
+  },
+  "89010423-Event-CN": {
+    "name": "Attempt Gemstone Upgrade Once",
+    "manual": "Attempt a Gemstone Upgrade",
+    "complete": "Attempted Gemstone Upgrade Once"
+  },
+  "89010426-Event-CN": {
+    "manual": "Clear the Cash Mart Part-Time Job",
+    "complete": "Cleared Cash Mart Part-Time Job Once",
+    "name": "Clear Cash Mart Part-Time Job Once"
+  },
+  "72000529-KarkarIsland-JP": {
+    "manual": "Examine the $npcName:11004271$ Blooming in $map:02010023$",
+    "name": "Examine the $npcName:11004271$ Blooming in $map:02010023$"
+  },
+  "72000541-KarkarIsland-JP": {
+    "manual": "Examine $npc:11004282$",
+    "name": "Examine $npc:11004282$"
+  },
+  "72000542-KarkarIsland-JP": {
+    "name": "Examine $npc:11004281$",
+    "manual": "Examine $npc:11004281$"
+  },
+  "72000549-KarkarIsland-JP": {
+    "manual": "Examine $npc:11004279$",
+    "name": "Examine $npc:11004279$"
+  },
+  "72000551-KarkarIsland-JP": {
+    "manual": "Examine $npc:11004280$ in $map:02010034$",
+    "name": "Examine $npc:11004280$ in $map:02010034$"
+  },
+  "72000559-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004268$",
+    "name": "Examine $npcName:11004268$"
+  },
+  "72000556-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004269$",
+    "name": "Examine $npcName:11004269$"
+  },
+  "72000562-KarkarIsland-JP": {
+    "name": "Examine the $npcName:11004263$ That Crash-Landed in $map:02010043$",
+    "manual": "Examine the $npcName:11004263$ That Crash-Landed in $map:02010043$"
+  },
+  "72000568-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004261$",
+    "name": "Examine $npcName:11004261$"
+  },
+  "72000577-KarkarIsland-JP": {
+    "manual": "Examine $npcName:11004262$",
+    "name": "Examine $npcName:11004262$"
+  },
+  "10003058-DoubleImpactStory-": {
+    "manual": "Find and examine the glowing stone in $map:52000050$ in $map:02000101$",
+    "complete": "Examine the Animar energy in $map:52000050$ in $map:02000101$"
+  },
+  "10003052-DoubleImpactStory-": {
+    "complete": "Examine $npcName:11001759$ in $map:52000040$\n"
+  },
+  "80010330-Event-CN": {
+    "desc": "Defeat the following bosses to collect the letters '$item:30001324$', '$item:30001325$', '$item:30001326$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+    "name": "Collect Characters to Complete 'Spring Welcome (迎春季)'!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$",
+    "manual": "Obtain character '$item:30001324$'|Obtain character '$item:30001325$'|Obtain character '$item:30001326$'"
+  },
+  "80010320-Event-CN": {
+    "desc": "Defeat the following bosses to collect the letters '$item:30001321$', '$item:30001322$', '$item:30001323$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+    "name": "Collect Characters to Complete 'Warm Winter Journey (暖冬行)'!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$",
+    "manual": "Obtain character '$item:30001321$'|Obtain character '$item:30001322$'|Obtain character '$item:30001323$'"
+  },
+  "80010340-Event-CN": {
+    "desc": "Defeat the following bosses to collect the letters '$item:30001327$', '$item:30001328$', '$item:30001329$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+    "name": "Collect Characters to Complete 'Romantic Time (浪漫时)'!",
+    "manual": "Obtain character '$item:30001327$'|Obtain character '$item:30001328$'|Obtain character '$item:30001329$'",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
+  },
+  "89010382-Event-CN": {
+    "manual": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 1 time\n\nComplete Babi's weekly quest 1 time",
+    "name": "Complete $npcName:11001003$'s Weekly Quest 1 Time",
+    "complete": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 1 time\n\nComplete Babi's weekly quest 1 time"
+  },
+  "89010378-Event-CN": {
+    "name": "Complete Arikari Merchant Guild Daily Quests 5 Times"
+  },
+  "89010383-Event-CN": {
+    "manual": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 3 times\n\nComplete Babi's weekly quest 3 times",
+    "complete": "* Weekly Mission: Complete the Rapid Growth Opportunity quest 3 times\n\nComplete Babi's weekly quest 3 times",
+    "name": "Complete $npcName:11001003$'s Weekly Quest 3 Times"
+  },
+  "89010392-Event-CN": {
+    "name": "Complete Arikari Merchant Guild Daily Quests 2 Times",
+    "manual": "Complete Arikari Merchant Guild daily quests in $map:02000064$",
+    "complete": "Completed Arikari Merchant Guild daily quests 2 times in $map:02000064$"
+  },
+  "89010412-Event-CN": {
+    "manual": "Complete Arikari Merchant Guild daily quests in $map:02000064$",
+    "complete": "Completed Arikari Merchant Guild daily quests 1 time in $map:02000064$",
+    "name": "Complete Arikari Merchant Guild Daily Quests 1 Time"
+  },
+  "72000508-KarkarIsland-JP": {
+    "name": "Talk to $npc:11004266$ Looking Out at the Sea",
+    "manual": "Talk to $npc:11004266$ Looking Out at the Sea"
+  },
+  "72000536-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11004277$ Who Lives in $map:02010027$",
+    "name": "Talk to $npc:11004277$ Who Lives in $map:02010027$"
+  },
+  "72000505-KarkarIsland-JP": {
+    "manual": "Help $npcName:11001333$",
+    "name": "Help $npcName:11001333$"
+  },
+  "72000497-KarkarIsland-JP": {
+    "manual": "Talk to $npcName:11004284$",
+    "name": "Talk to $npcName:11004284$"
+  },
+  "72000514-KarkarIsland-JP": {
+    "name": "Talk to $npcName:11004260$",
+    "manual": "Talk to $npcName:11004260$"
+  },
+  "72000526-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11004272$ vacationing at $map:02010022$",
+    "name": "Talk to $npc:11004272$ vacationing at $map:02010022$"
+  },
+  "72000521-KarkarIsland-JP": {
+    "manual": "Complete quest $quest:20002081$",
+    "name": "Complete quest $quest:20002081$"
+  },
+  "72000532-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11001434$",
+    "name": "Talk to $npc:11001434$"
+  },
+  "72000547-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11004273$ who came out to enjoy the moonlight",
+    "name": "Talk to $npc:11004273$ who came out to enjoy the moonlight"
+  },
+  "72000553-KarkarIsland-JP": {
+    "name": "Talk to $npc:11004270$",
+    "manual": "Talk to $npc:11004270$"
+  },
+  "72000566-KarkarIsland-JP": {
+    "manual": "Talk to $npc:11004275$ inside $map:02010007$",
+    "name": "Talk to $npc:11004275$ inside $map:02010007$"
   }
 }
