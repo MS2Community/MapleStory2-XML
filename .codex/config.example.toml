@@ -1,0 +1,4 @@
+[mcp_servers.weblate]
+command = "npx"
+args = ["-y", "@mmntm/weblate-mcp"]
+env = { NODE_ENV = "production", WEBLATE_API_URL = "https://translate.tadeucci.dev/api", WEBLATE_API_TOKEN = "your-weblate-api-token" }
