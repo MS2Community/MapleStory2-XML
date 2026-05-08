@@ -36,7 +36,7 @@
     "value": "{2}億{0}"
   },
   "s_number_string_0011--": {
-    "value": "{1}萬{0}"
+    "value": "{1}萬 {0}"
   },
   "s_number_string_1000--": {
     "value": "{3}兆"
@@ -45,31 +45,31 @@
     "value": "{2}億"
   },
   "s_number_string_0010--": {
-    "value": ""
+    "value": "{1}만"
   },
   "s_number_string_0001--": {
-    "value": ""
+    "value": "{0}"
   },
   "s_number_string_meso--": {
-    "value": ""
+    "value": "{0} 金幣"
   },
   "s_number_string_exp--": {
-    "value": ""
+    "value": "{0} EXP"
   },
   "s_err_system_title--": {
-    "value": ""
+    "value": "系統錯誤"
   },
   "s_err_system_check_graphic_driver--": {
-    "value": ""
+    "value": "顯卡驅動發生問題。\\n請重新安裝顯卡驅動。"
   },
   "s_err_system_graphic_error0--": {
-    "value": ""
+    "value": "渲染失敗。"
   },
   "s_err_system_graphic_error1--": {
-    "value": ""
+    "value": "DirectX9 初始化失敗。 (Creation failed : Could not initialize DirectX9)"
   },
   "s_err_system_graphic_error2--": {
-    "value": "不正確的適配器。（創建失敗，無效的適配器）"
+    "value": "不正確的適配器。 (Creation failed : Invalid Adapter)"
   },
   "s_err_system_graphic_error3--": {
     "value": "無效的3D設備。 （建立失敗：無效的3D設備類型）"
@@ -78,10 +78,10 @@
     "value": "無效的適配器。(創建失敗：無效的適配器)"
   },
   "s_err_system_graphic_error5--": {
-    "value": "無效的3D設備。 （建立失敗：無效的3D設備類型）"
+    "value": "無效的3D設備。 (Creation failed : Invalid 3D device type)"
   },
   "s_err_system_graphic_error6--": {
-    "value": "該設備無效。 (建立失敗：請求的裝置無效)"
+    "value": "設備無效。 (Creation failed : Requested device not valid)"
   },
   "s_err_system_graphic_error7--": {
     "value": "無法創建硬體設備。(Creation failed : Could not create hardware device.\\nD3DERR_DEVICELOST)"
@@ -96,13 +96,13 @@
     "value": "無法創建硬體設備。(Creation failed : Could not create hardware device.\\nD3DERR_OUTOFVIDEOMEMORY)"
   },
   "s_err_system_graphic_error11--": {
-    "value": "無法找到所需的幀緩衝格式。 (建立失敗：找不到所需的幀緩衝格式)"
+    "value": "無法找到所需的幀緩衝格式。 (Creation failed : Could not find desired framebuffer format)"
   },
   "s_err_system_graphic_error12--": {
-    "value": "無法找到所需的深度/模板格式。 (創建失敗：找不到所需的深度/模板格式)"
+    "value": "無法找到所需的深度/模板格式。 (Creation failed : Could not find desired depth/stencil format)"
   },
   "s_err_system_graphic_error13--": {
-    "value": "無法套用全螢幕模式。 (建立失敗：無法配對所需的全螢幕模式)"
+    "value": "無法套用全螢幕模式。 (Creation failed : Could not match desired fullscreen mode)"
   },
   "s_err_system_graphic_error14--": {
     "value": "無法加載設備性能。(創建失敗：無法查詢設備能力)"
@@ -117,37 +117,37 @@
     "value": "此顯示卡不受支援。 (Pixel shader version > 3.0)"
   },
   "s_err_system_graphic_error18--": {
-    "value": "此顯示卡不受支援。(Hardwareinstancing)"
+    "value": "此顯示卡不受支援。 (Hardwareinstancing)"
   },
   "s_msg_restriction_special_chatting_need_acc_char_level--": {
-    "value": ""
+    "value": "只有帳號內持有 {0} 級以上角色時，才能使用頻道/世界/超級世界聊天。"
   },
   "s_msg_restriction_special_chatting_need_acc_adv_level--": {
-    "value": ""
+    "value": "只有帳號內持有冒險等級 {0} 級以上的角色時，才能使用頻道/世界/超級世界聊天。"
   },
   "s_msg_restriction_special_chatting_over_daily_usage_limit--": {
-    "value": ""
+    "value": "超出每日可使用次數上限。"
   },
   "s_msg_restriction_mail_send_need_acc_char_level--": {
-    "value": ""
+    "value": "只有帳號內持有 {0} 級以上的角色時，才能發送郵件。"
   },
   "s_msg_restriction_mail_send_need_acc_adv_level--": {
-    "value": ""
+    "value": "只有帳號內持有冒險等級 {0} 級以上的角色時，才能發送郵件。"
   },
   "s_msg_restriction_mail_send_over_daily_usage_limit--": {
-    "value": ""
+    "value": "超出每日可發送郵件次數上限。"
   },
   "s_msg_restriction_whisper_chatting_need_acc_char_level--": {
-    "value": ""
+    "value": "帳號內持有 {0} 級以上的角色時，才能使用悄悄話。"
   },
   "s_msg_restriction_whisper_chatting_need_acc_adv_level--": {
-    "value": ""
+    "value": "帳號內持有冒險等級 {0} 級以上的角色時，才能使用悄悄話。"
   },
   "s_msg_restriction_group_chatting_need_acc_char_level--": {
-    "value": ""
+    "value": "帳號內持有等級 {0} 級的角色時，才能創建群組對話。"
   },
   "s_msg_restriction_group_chatting_need_acc_adv_level--": {
-    "value": ""
+    "value": "帳號內需要持有冒險等級 {0} 級以上的角色時，才能創建群組對話。"
   },
   "s_msg_restriction_ugc_banner_need_acc_char_level--": {
     "value": ""
