@@ -60,13 +60,13 @@
     "value": "系統錯誤"
   },
   "s_err_system_check_graphic_driver--": {
-    "value": "顯卡驅動發生問題。\\n請重新安裝顯卡驅動。"
+    "value": "發生圖形驅動程序問題。\\n請重新安裝圖形驅動程序。"
   },
   "s_err_system_graphic_error0--": {
-    "value": "渲染失敗。"
+    "value": "渲染器创建失败。"
   },
   "s_err_system_graphic_error1--": {
-    "value": "DirectX9 初始化失敗。 (Creation failed : Could not initialize DirectX9)"
+    "value": "無法初始化DirectX9。(Creation failed : Could not initialize DirectX9)"
   },
   "s_err_system_graphic_error2--": {
     "value": "不正確的適配器。 (Creation failed : Invalid Adapter)"
@@ -120,7 +120,7 @@
     "value": "此顯示卡不受支援。 (Hardwareinstancing)"
   },
   "s_msg_restriction_special_chatting_need_acc_char_level--": {
-    "value": "只有帳號內持有 {0} 級以上角色時，才能使用頻道/世界/超級世界聊天。"
+    "value": "只有擁有帳號內等級 {0} 以上的角色才能使用頻道/世界/超世界聊天。"
   },
   "s_msg_restriction_special_chatting_need_acc_adv_level--": {
     "value": "只有帳號內持有冒險等級 {0} 級以上的角色時，才能使用頻道/世界/超級世界聊天。"
