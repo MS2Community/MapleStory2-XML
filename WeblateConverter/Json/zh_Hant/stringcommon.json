@@ -141,7 +141,7 @@
     "value": "帳號內持有 {0} 級以上的角色時，才能使用悄悄話。"
   },
   "s_msg_restriction_whisper_chatting_need_acc_adv_level--": {
-    "value": "帳號內持有冒險等級 {0} 級以上的角色時，才能使用悄悄話。"
+    "value": "帳號內持有冒險等級 {0} 級以上的角色時，才能使用私訊功能。"
   },
   "s_msg_restriction_group_chatting_need_acc_char_level--": {
     "value": "帳號內持有等級 {0} 級的角色時，才能創建群組對話。"
@@ -156,136 +156,136 @@
     "value": ""
   },
   "s_admin_character_name--": {
-    "value": ""
+    "value": "GM"
   },
   "s_err_inventory--": {
-    "value": ""
+    "value": "背包已滿，請整理背包。"
   },
   "s_err_warehouse--": {
-    "value": ""
+    "value": "建築保管箱已滿，請清空建築保管箱。"
   },
   "s_err_lack_price--": {
-    "value": ""
+    "value": "支付失敗。"
   },
   "s_err_not_enough_level--": {
-    "value": ""
+    "value": "等級未達到。"
   },
   "s_err_inventory_tab_full--": {
-    "value": ""
+    "value": "請清空背包裡面的 [{0}] 分頁。"
   },
   "s_err_dropitem_pickfail_ownership--": {
-    "value": ""
+    "value": "這道具不屬於你。"
   },
   "s_err_invalid_shortkey_code--": {
-    "value": ""
+    "value": "需要設置快捷鍵。"
   },
   "s_msg_item_upgrade_disabled--": {
-    "value": ""
+    "value": "這是無法強化的道具。"
   },
   "s_msg_item_remove_expired_item_in_inventory--": {
-    "value": ""
+    "value": "背包內持有已過期失效的道具。 \\n需要為該分頁的道具進行自動整頓，並且<FONT color='#FFA200'>刪除所有</FONT>已過期的道具嗎？"
   },
   "s_err_check_survival_with-SurvivalContents01-": {
-    "value": ""
+    "value": "目前 {0} 分頁無法存取。"
   },
   "s_err_gender--": {
-    "value": ""
+    "value": "不可以使用異性的道具。"
   },
   "s_word_item_notuse--": {
-    "value": ""
+    "value": "現在無法使用。"
   },
   "s_word_item_notuse_hpfull--": {
-    "value": ""
+    "value": "HP已滿。"
   },
   "s_word_item_notuse_spfull--": {
-    "value": ""
+    "value": "SP已滿。"
   },
   "s_word_item_notuse_epfull--": {
-    "value": ""
+    "value": "EP已滿。"
   },
   "s_item_invalid_function_item--": {
-    "value": ""
+    "value": "無法使用該道具。"
   },
   "s_item_invalid_do_not_have--": {
-    "value": ""
+    "value": "沒有可以使用的道具。"
   },
   "s_item_invalid_function_item_this_field--": {
-    "value": ""
+    "value": "該區域無法使用此道具。"
   },
   "s_item_invalid_function_item_event_not_start--": {
-    "value": ""
+    "value": "現在不是活動期間。"
   },
   "s_item_invalid_function_not_use_item--": {
-    "value": ""
+    "value": "目前無法使用。"
   },
   "s_word_item_change_name_samename--": {
-    "value": ""
+    "value": "無法修改為與當前一樣的名稱。"
   },
   "s_err_max_length_check--": {
-    "value": ""
+    "value": "(最多 {0}/{1} 字)"
   },
   "s_err_job--": {
-    "value": ""
+    "value": "非對應職業。"
   },
   "s_err_lack_coupon--": {
-    "value": ""
+    "value": "沒有持有足夠的券。"
   },
   "s_err_lack_super_coupon--": {
-    "value": ""
+    "value": "沒有持有足夠的超級世界聊天券。"
   },
   "s_err_lack_money--": {
-    "value": ""
+    "value": "沒有持有足夠的貨幣。"
   },
   "s_err_lack_meso--": {
-    "value": ""
+    "value": "沒有持有足夠的金幣。"
   },
   "s_err_lack_merat--": {
-    "value": ""
+    "value": "沒有持有足夠的蘑菇幣。"
   },
   "s_err_lack_merat_blue--": {
-    "value": ""
+    "value": "沒有持有足夠的藍蘑菇幣。"
   },
   "s_err_lack_merat_red--": {
-    "value": ""
+    "value": "沒有持有足夠的紅蘑菇幣。"
   },
   "s_err_lack_merat_ask--": {
-    "value": ""
+    "value": "沒有持有足夠的蘑菇幣。 \\n需要購買蘑菇幣嗎？"
   },
   "s_err_lack_payment_item--": {
-    "value": ""
+    "value": "沒有持有足夠的 $item:{0}$ 道具。"
   },
   "s_err_lack_honor_token--": {
-    "value": ""
+    "value": "沒有持有足夠的勇氣徽章。"
   },
   "s_err_lack_karma_token--": {
-    "value": ""
+    "value": "沒有持有足夠的暗影幣。"
   },
   "s_err_lack_lu_token--": {
-    "value": ""
+    "value": "沒有持有足夠的糊塗幣。"
   },
   "s_err_lack_habi_token--": {
-    "value": ""
+    "value": "沒有持有足夠的哈比果。"
   },
   "s_err_lack_redmerat--": {
-    "value": ""
+    "value": "沒有持有足夠的紅蘑菇幣。"
   },
   "s_err_lack_reverse_coin--": {
-    "value": ""
+    "value": "沒有持有足夠的重生幣。"
   },
   "s_err_lack_mentor_token--": {
-    "value": ""
+    "value": "沒有持有足夠的資深冒險家點數。"
   },
   "s_err_lack_mentee_token--": {
-    "value": ""
+    "value": "沒有持有足夠的回歸冒險家點數。"
   },
   "s_err_lack_star_point--": {
-    "value": ""
+    "value": "沒有持有足夠的星星點數。"
   },
   "s_err_lack_guild_event_fund--": {
-    "value": ""
+    "value": "公會沒有持有足夠的資金。"
   },
   "s_err_not_learn_skill--": {
-    "value": ""
+    "value": "你還沒學習該技能。"
   },
   "s_err_not_allow_pvpField--": {
     "value": ""
