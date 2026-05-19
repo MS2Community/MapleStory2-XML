@@ -47389,7 +47389,8 @@
     "desc": "After passing the interview, the next thing to do is meet $npc:11000252$ in person and sing the Goldus anthem. If you cannot remember the lyrics, check $npc:11000477$ hanging next to $npc:11000252$."
   },
   "20001260--JP": {
-    "desc": "$npc:11000542$ loves dancing so much that they personally raise $npc:21000069$, famous for their cute dance moves.\nBut $npc:11000542$'s $npc:21000069$ seem a bit gloomy compared to wild $npc:21000069$.\nTry hunting the $npc:21000069$ around $map:02000049$ first! "
+    "desc": "$npc:11000542$ loves dancing so much that they personally raise $npc:21000069$, famous for their cute dance moves.\nBut $npc:11000542$'s $npc:21000069$ seem a bit gloomy compared to wild $npc:21000069$.\nTry hunting the $npc:21000069$ around $map:02000049$ first! ",
+    "manual": "Hunt $npc:21000069$ to obtain $item:30000029$"
   },
   "20001081--JP": {
     "desc": "The cat $npc:11000367$ had run away for love. Tell $npc:11000366$ about it."
@@ -47405,7 +47406,8 @@
   "40002640-DoubleImpactStory-": {
     "desc": "You arrived at $map:63000038$, the place where the back-alley people were supposedly taken. You are worried whether they are alive, so hurry and rescue them.",
     "name": "The One Blocking the Way",
-    "complete": "Talk to $npcName:11001782$ in $map:63000038$"
+    "complete": "Talk to $npcName:11001782$ in $map:63000038$",
+    "manual": "Defeat $npcName:24002802$ in $map:63000038$"
   },
   "40002650-DoubleImpactStory-": {
     "desc": "To keep the Guidance out of danger, and to learn who you are, you can no longer turn away from Beyond Link and Kandura. Do not hesitate. Enter $map:63000038$.",
@@ -47453,7 +47455,8 @@
   },
   "10003130-Kritias_Epic02-": {
     "desc": "You felt awkward after everyone pointed to you as the ideal expedition member, but you decided to move beyond $map:02020036$ to meet their expectations.\n\n$npcName:11004582$ asks you to investigate $map:02020066$, discovered during the first expedition...\n\nHead out to investigate $map:02020066$ and defeat the obstructing Kerbes forces.",
-    "complete": "Talk to $npcName:11004571$ in $map:02020066$"
+    "complete": "Talk to $npcName:11004571$ in $map:02020066$",
+    "manual": "Defeat $npcName:25022205$, $npcName:25022207$, and $npcName:25022208$ in $map:02020066$"
   },
   "10003170-Kritias_Epic02-": {
     "desc": "As expected, $npcTitle:11004576$ knows everything!\n\nAfter a brief conversation, $npcTitle:11004576$ realizes that you are looking for $npcName:11004430$ and demands payment.\n\nWhen you look at them pitifully, $npc:11004576$ says they will accept an item instead of an information fee.\n\nBring the $item:30001349$ they want.",
@@ -47471,7 +47474,8 @@
   },
   "10003150-Kritias_Epic02-": {
     "desc": "You tried to meet the refugee leader and explain the situation, but after hearing the word Georg, $npcName:11004574$ shows strong hostility.\n\n$npcName:11004574$ asks what Georg ever did for them while the Black Legion appeared and trapped them. You argue that Georg also had difficulty fighting on two fronts, but $npcName:11004574$ will not listen.\n\nThis will not do.\nYou need to help the refugees to change $npcName:11004574$'s mind.",
-    "complete": "Talk to $npc:11004571$ in $map:02020066$"
+    "complete": "Talk to $npc:11004571$ in $map:02020066$",
+    "manual": "Defeat $npcName:25022202$ in $map:02020066$ and secure $item:30001348$"
   },
   "10003140-Kritias_Epic02-": {
     "desc": "$npcName:11004571$ is surprised to hear that you crossed $map:02020036$.\nThey are surprised again when you say you defeated Kerbes on the way.\n\nWhen you ask about this place, $npcName:11004571$ tells you to find the leader, $npcName:11004574$.\nBut they warn you not to mention Georg to $npcName:11004574$. Why would that be?\n\nFor now, meet $npcTitle:11004574$.",
@@ -47500,7 +47504,8 @@
     "desc": "$npcName:11004576$ says the facility is connected to the Tyren Kingdom's latest weapon, Archeon. $npcName:11004576$ says Archeon is extremely powerful and would be dangerous if it fell into $npcName:11004430$'s hands.\n\nWhen you try to rush there immediately, they say facing it bare-handed would be impossible and suggest another way.\n\n$npcName:11004576$ says that if you go to $map:02020035$ and secure the blueprint, you should be able to learn how to control Archeon.\n\nGo secure the blueprint right now."
   },
   "10003240-Kritias_Epic02-": {
-    "desc": "$npc:11004577$ says they discovered that $npcName:11004430$ is commanding the Black Legion from $map:02020071$, beyond $map:02020070$.\nHowever, an unidentified energy source was found at the gateway leading to $map:02020071$, making them hesitate to advance.\n\nFor everyone's sake, you need to see what that energy source is with your own eyes.\n\n$npcName:11004584$ wanted to come with you, but since they still do not seem to know much about Kritias, you asked $npcName:11004582$ to guide you.\n\n$npcName:11004582$ seemed very grateful, but why?\nYou are curious, but first you need to check the energy source and defeat the monsters in your way."
+    "desc": "$npc:11004577$ says they discovered that $npcName:11004430$ is commanding the Black Legion from $map:02020071$, beyond $map:02020070$.\nHowever, an unidentified energy source was found at the gateway leading to $map:02020071$, making them hesitate to advance.\n\nFor everyone's sake, you need to see what that energy source is with your own eyes.\n\n$npcName:11004584$ wanted to come with you, but since they still do not seem to know much about Kritias, you asked $npcName:11004582$ to guide you.\n\n$npcName:11004582$ seemed very grateful, but why?\nYou are curious, but first you need to check the energy source and defeat the monsters in your way.",
+    "manual": "Defeat $npcName:25022600$, $npcName:25022603$, and $npcName:25022605$ in $map:02020070$"
   },
   "10003260-Kritias_Epic02-": {
     "desc": "After seeing the photo taken in $map:02020070$, $npcName:11004582$ says the unidentified energy source is $npcName:11004684$, a weapon that once protected the Tyren Kingdom.\n\n$npcName:11004582$ explains that it was an excellent weapon guarding the front of the kingdom, but after repeated learning it developed a sense of self and was abandoned by $npcName:11004575$.\n\nListen to more of her story.",
@@ -47537,7 +47542,8 @@
   },
   "10003281-Kritias_Epic02-": {
     "desc": "$npcName:11004574$ says the refugees do not have the material, but the Tyren Kingdom soldiers in $map:02020066$ should have $item:30001350$.\n\nTeach the Tyren soldiers watching the refugees a lesson, and get the material while you are at it. ",
-    "complete": "Talk to $npc:11004582$ in $map:02020036$"
+    "complete": "Talk to $npc:11004582$ in $map:02020036$",
+    "manual": "Defeat $npcName:25022200$, $npcName:25022201$, and $npcName:25022204$ in $map:02020066$ and collect $item:30001350$ "
   },
   "10003290-Kritias_Epic02-": {
     "desc": "All right, everything is ready now.\n\nGo defeat $npcName:11004684$!",
@@ -47786,7 +47792,8 @@
   "94000334-Fame_Geo01-": {
     "desc": "The Maple Alliance and Georg succeeded in pushing the Black Legion all the way to northern Kidel.\nHowever, $map:02020071$ remains impregnable.\n\nDespite many sacrifices by Georg's regular army, they have been unable to break through the fortress entrance.\n$npcName:11004614$ worries that if there are any more losses, the operation will become impossible.\n\nNow it is time to step in yourself.\n\nLaunch a surprise attack on $map:02020071$ and defeat $npcName:25022702$, $npcName:25022704$, and $npcName:25022701$.\n\n",
     "descFameUI": "Go to $map:02020071$ and defeat $npcName:25022702$, $npcName:25022704$, and $npcName:25022701$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022702$ in $map:02020071$\n|Defeat $npcName:25022704$ in $map:02020071$\n|Defeat $npcName:25022701$ in $map:02020071$"
   },
   "94000333-Fame_Geo01-": {
     "desc": "Information has arrived that Poings exposed to Ener are attacking the Morang, causing heavy damage.\n$npcName:11004614$ feels guilty about the Poings' mutation because Ener belongs to their civilization.\n\nBefore the damage grows worse, meet $npcName:11004620$ and help the Morang in danger.\n\nYou must receive and complete the '$quest:40002798$' mission from $npc:11004620$.",
@@ -47844,7 +47851,8 @@
   "94000343-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the units deployed to $map:02020070$ have suffered heavy losses and are being reorganized.\n\n$map:02020070$ is the gateway to $map:02020071$, but its defenses are so strong that allied casualties only keep increasing.\n\nSuppress the Black Legion forces in $map:02020070$ to ease $npcName:11004614$'s worries.\n\nGo to $map:02020070$ and defeat $npcName:25022603$, $npcName:25022600$, and $npcName:25022605$.",
     "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022603$, $npcName:25022600$, and $npcName:25022605$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022603$ in $map:02020070$\n|Defeat $npcName:25022600$ in $map:02020070$\n|Defeat $npcName:25022605$ in $map:02020070$"
   },
   "94000342-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says $map:02020066$ and $map:02020067$ are being attacked by Kerbes at the same time.\n\nThis may be the beginning of Kerbes's full-scale offensive to capture $map:02020066$.\n\nGo to $map:02020066$, meet $npc:11004574$, and help the refugees in danger.\n\nYou must receive and complete the '$quest:40002803$' mission from $npc:11004574$.",
@@ -47866,7 +47874,8 @@
   "94000346-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the search party suffered heavy losses from beasts released by the Black Legion.\n\nThe search party was hit especially hard in $map:02020067$ and $map:02020068$.\n\nIf there are more wounded, Georg's operation will be affected.\nYou cannot just leave this alone.\n\nDefeat $npcName:25022302$ in $map:02020067$ and $npcName:25022401$ in $map:02020068$.\n\n\n\n",
     "descFameUI": "Defeat $npcName:25022302$ in $map:02020067$ and $npcName:25022401$ in $map:02020068$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022302$ in $map:02020067$\n|Defeat $npcName:25022401$ in $map:02020068$"
   },
   "94000347-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says signs of division have recently appeared among the Morang.\n\nAccording to the search party, the number of Morang moving in groups and committing violence has rapidly increased.\n\nThere is concern that $npc:11004620$, who protects peace, may have lost their leadership.\n\nGo to $map:02020069$, meet $npc:11004620$, and assess the situation.\n\nYou must receive and complete the '$quest:40002805$' mission from $npc:11004620$.",
@@ -47882,7 +47891,8 @@
   "94000349-Fame_Geo01-": {
     "desc": "Allied soldiers attacking $map:02020070$ and $map:02020071$ are said to be frightened.\n\n$npcName:11004614$ says it is because of a terrifying Black Legion monster that vanishes without a trace after attacking.\n\nRumors that it is a ghost are spreading among the soldiers, lowering morale.\n\nBefore the damage grows worse, you need to suppress them.\n\nGo to $map:02020070$ and defeat $npcName:25022601$, then go to $map:02020071$ and defeat $npcName:25022700$.",
     "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022601$, then go to $map:02020071$ and defeat $npcName:25022700$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022601$ in $map:02020070$\n|Defeat $npcName:25022700$ in $map:02020071$"
   },
   "94000351-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help solve the refugees' difficulties.",
@@ -47927,7 +47937,8 @@
   "94000358-Fame_Geo01-": {
     "desc": "$npcName:11004614$ and the Georg Research Institute are working to determine the principle behind blackening.\n\nBlackening is the dark power the Black Legion uses to turn the Tyren Kingdom's mechanical soldiers into its minions.\n\n$npcName:11004614$ says the research could progress if you obtain parts from blackened mechanical soldiers.\n\nGo to $map:02020071$, defeat $npcName:25022707$ and $npcName:25022708$, and recover $item:30001357$.",
     "descFameUI": "Go to $map:02020071$, defeat $npcName:25022707$ and $npcName:25022708$, and recover $item:30001357$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022707$ and $npcName:25022708$ in $map:02020071$, then recover $item:30001357$"
   },
   "94000357-Fame_Geo01-": {
     "desc": "According to $npcName:11004614$, information has arrived that the atmosphere in $map:02020069$ has become ominous.\n\n$npcName:11004614$ says fewer Morang are doing business, and some Morang no longer come out of their homes at all.\n\nShe says that since the Black Legion's movements are no different from before, something else must be happening.\n\nGo directly to $map:02020069$, meet $npc:11004620$, and assess the situation.\n\nYou must receive and complete the '$quest:40002812$' mission from $npc:11004620$.",
@@ -47937,17 +47948,20 @@
   "94000359-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says another offensive against $map:02020070$ failed because of the Black Legion's $npcName:25022601$.\n\nThey are said to watch soldiers from the air and attack at lightning speed.\n\nThe research team says if they can determine the principle behind that tremendous speed, they can reduce casualties among the soldiers.\n\n$npcName:11004614$ asks you to obtain $item:30001358$ for this purpose.\n\nGo to $map:02020070$, defeat $npcName:25022601$, and bring back $item:30001358$.",
     "descFameUI": "Go to $map:02020070$, defeat $npcName:25022601$, and bring back $item:30001358$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022601$ in $map:02020070$, then obtain $item:30001358$"
   },
   "94000360-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says Georg's military hospital is overflowing with patients.\nThey are all soldiers bitten by spider robots in $map:02020071$.\n\nBeing bitten by a spider robot supposedly paralyzes the entire body and leaves the victim unable to move.\n\n$npcName:11004614$ says even more soldiers have to be deployed to evacuate the paralyzed soldiers.\n\nYou cannot allow any more damage.\n\nGo to $map:02020071$ and defeat $npcName:25022705$.",
     "descFameUI": "Go to $map:02020071$ and defeat $npcName:25022705$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022705$ in $map:02020071$"
   },
   "94000361-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says another surprise attack on $map:02020071$ failed because of the Black Legion's one-horned monster.\n\nIts tactic of circling in the air and diving at lightning speed often scatters the soldiers' formation.\n\nHearing $npcName:11004614$'s story somehow stirs your competitive spirit.\n\nGo to $map:02020071$ and face $npcName:25022700$.",
     "descFameUI": "Go to $map:02020071$ and face $npcName:25022700$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022700$ in $map:02020071$"
   },
   "94000364-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the scout team discovered $map:52100116$ in $map:02020003$.\n\nAfter analyzing the footage, they determined this place is a warehouse where Kerbes stores food produced by forcing refugees into labor.\n\n$npcName:11004614$ says that if you raid $map:52100116$ and neutralize the guards, allied soldiers will be able to seize the food.\n\nGo to $map:52100116$ in $map:02020003$ and suppress $npcName:25023100$ and $npcName:25023101$.",
@@ -48001,7 +48015,8 @@
   "94000371-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020066$, defeat $npcName:25022202$, and secure $item:30001359$.",
     "desc": "$npcName:11004614$ asks what kind of person men in Maple World like.\nWhen you ask why she wants to know, she panics and says she was just asking.\n\nThen $npcName:11004614$ abruptly asks you to get $item:30001359$ from $npcName:25022202$'s tail.\n\nShe says it is to analyze the ore and understand $npcName:25022202$'s structure, but something feels suspicious.\n\nStill, go to $map:02020066$, defeat $npcName:25022202$, and secure $item:30001359$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022202$ in $map:02020066$, then secure $item:30001359$"
   },
   "94000374-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says rumors are spreading that $map:02020068$ has been gripped by fear.\n\nShe says an unidentified creature is wandering the forest and attacking Morang.\n\nIf this continues, the number of Morang victims will keep increasing.\n\nGo to $map:02020069$, meet $npc:11004620$, assess the situation, and look for a solution.\n\nYou must receive and complete the '$quest:40002816$' mission from $npc:11004620$.",
@@ -48042,12 +48057,14 @@
   "94000379-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the Georg Research Institute is studying blackening.\n\nBlackened mechanical soldiers turn black and then obey the Black Legion's control.\n\n$npcName:11004614$ says the research will progress if you can obtain parts from $npcName:25022708$.\n\nGo to $map:02020071$, defeat $npcName:25022708$, and secure $item:30001362$.",
     "descFameUI": "Go to $map:02020071$, defeat $npcName:25022708$, and secure $item:30001362$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022708$ in $map:02020071$, then secure $item:30001362$"
   },
   "94000378-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says $npcName:25022602$, consumed by black energy in $map:02020070$, is releasing pollen.\n\nShe says $npcName:25022602$'s contaminated pollen is staining northern Kidel with black energy.\n\nBefore the contamination spreads, go to $map:02020070$ and defeat $npcName:25022602$, which has been consumed by black energy.",
     "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022602$, which has been consumed by black energy.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022602$ in $map:02020070$"
   },
   "94000381-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the special forces deployed to $map:02020071$ suffered heavy damage from $npcName:25022701$.\n\nThey had many wounded from its terrifying strength and sharp horn, and had no choice but to retreat.\n\nDefeating Georg's elite unit... This is an opponent that stirs your competitive spirit.\n\nGo directly to $map:02020071$ and suppress $npcName:25022701$.",
@@ -48162,12 +48179,14 @@
   "94000401-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says allied rifle bullets cannot pierce the shield of $npcName:25022704$ stationed in $map:02020071$.\n\nShe says that to attack $map:02020071$, they need to analyze the shield's composition and find a way to penetrate it.\n\nGo to $map:02020071$, defeat $npcName:25022704$, and secure $item:30001368$.",
     "descFameUI": "Go to $map:02020071$, defeat $npcName:25022704$, and secure $item:30001368$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022704$ in $map:02020071$, then secure $item:30001368$"
   },
   "94000400-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020071$, defeat $npcName:25022702$, and secure $item:30001367$.",
     "desc": "$npcName:11004614$ says some of the Black Legion forces deployed in $map:02020071$ have terrifying combat power.\n\nIn particular, $npcName:25022702$ is said to possess immense combat power that cannot be explained by its physical structure.\n\nCiting the research team's opinion, $npcName:11004614$ says $item:30001367$ on $npcName:25022702$'s head is likely the source of its power.\n\nFor detailed research, go to $map:02020071$, defeat $npcName:25022702$, and secure $item:30001367$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022702$ in $map:02020071$, then secure $item:30001367$"
   },
   "94000403-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says they identified the location of weapons crates the Tyren Kingdom provided to Kerbes.\n\nThese weapons crates are said to be what Kerbes received in exchange for providing information to the Tyren Kingdom.\n\n$npcName:11004614$ says Kerbes received the weapons crates and transported them to $map:02020016$.\n\nIf you launch a surprise attack there, you should be able to find the weapons crates.\n\nGo to $map:02020016$ and seize the weapons crates.",
@@ -48220,7 +48239,8 @@
   "94000410-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says they found $map:52100114$, but are having trouble entering it.\n\nShe says it is because of $npcName:25022901$, who is guarding Tekin.\n\n$npcName:11004614$ says soldiers suffered heavy damage from its sharp horns.\n\nSince its body is covered in armor and it is extremely fast, it is not easy to suppress.\n\nBefore more soldiers get hurt, go to $map:52100114$ and suppress $npcName:25022901$.",
     "descFameUI": "Go to $map:52100114$ and suppress $npcName:25022901$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25022901$ in $map:52100114$"
   },
   "94000412-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says allied soldiers attacking $map:02020070$ and $map:02020071$ suffered heavy damage from the Black Legion's beasts.\n\nAfter slashing with sharp claws, they charge with the large horns on their backs, knocking even heavily armed special forces soldiers away in a single blow.\n\nIf these beasts cannot be suppressed, the attacks on $map:02020070$ and $map:02020071$ will not succeed.\n\nSuppress $npcName:25022606$ and $npcName:25022609$ in $map:02020070$, and $npcName:25022703$ and $npcName:25022709$ in $map:02020071$.",
@@ -48235,7 +48255,8 @@
   "94000413-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says northern Kidel was secured through a joint operation with the Maple Alliance, but attacks by Tyren mechanical soldiers are causing heavy losses.\n\nIn particular, $npcName:25023003$, $npcName:25023004$, and $npcName:25023303$ are said to be causing severe damage to soldiers with their powerful combat ability.\n\n$npcName:11004614$ says that if you suppress them, you may be able to gain the upper hand in the war against Tyren.\n\nDefeat $npcName:25023003$ and $npcName:25023004$ in $map:52100115$, connected to $map:02020013$, and $npcName:25023303$ in $map:52100118$, connected to $map:02020051$.",
     "descFameUI": "Defeat $npcName:25023003$ and $npcName:25023004$ in $map:52100115$, and $npcName:25023303$ in $map:52100118$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Defeat $npcName:25023003$ in $map:52100115$\n|Defeat $npcName:25023004$ in $map:52100115$\n|Defeat $npcName:25023303$ in $map:52100118$"
   },
   "90000798-Pet_Zakum-": {
     "desc": "Barkant, visitor from another world. Is the burning ember he holds truly different from the others? Defeat Barkant and find out.",
@@ -48288,7 +48309,8 @@
   },
   "10001451--JP": {
     "desc": "You cannot prove whether the fortune is true or not, but hearing it somehow leaves you uneasy.\nIt may be better to obtain $item:30000068$ and clear away that uneasy feeling.\nIf you meet $npc:23000020$ in $map:02000088$, do not back away. Charge bravely and defeat it. \n",
-    "complete": "Return to $npc:11000283$ in $map:02000088$"
+    "complete": "Return to $npc:11000283$ in $map:02000088$",
+    "manual": "Defeat (Boss) $npc:23000020$ in $map:02000088$ to obtain $item:30000068$"
   },
   "10001310--JP": {
     "desc": "Bad people tormenting a kind fairy...!\nDefeat the monsters in $map:02000041$ and find $item:30000050$."
@@ -48300,7 +48322,8 @@
     "desc": "What is the real reason $npc:11000223$'s girlfriend is angry?\nTake the cable car in $map:02000135$ up and meet $npc:11000224$ at the restaurant to ask."
   },
   "10001430--JP": {
-    "desc": "For $npc:11000292$, whose $item:30000065$ was stolen by $npc:22000002$, wait in $map:02000087$ until $npc:22000002$ appears, then defeat it.\nIf it is difficult to fight alone, gather companions to fight with you."
+    "desc": "For $npc:11000292$, whose $item:30000065$ was stolen by $npc:22000002$, wait in $map:02000087$ until $npc:22000002$ appears, then defeat it.\nIf it is difficult to fight alone, gather companions to fight with you.",
+    "manual": "Defeat (Elite) $npc:22000002$ in $map:02000087$ to obtain $item:30000065$"
   },
   "10001490--JP": {
     "desc": "Those nasty Domaguri are catching and sweeping up all the frogs around $map:02000022$.\nDefeat <font color=\"#ffd200\">$npc:21090175$</font>, <font color=\"#ffd200\">$npc:21090176$</font>, and <font color=\"#ffd200\">$npc:21090177$</font>, then find the captured <font color=\"#ffd200\">$item:30000071$</font> and release them onto the lotus leaves by the water. That should stop $npc:11000294$ from crying. ",
@@ -48346,13 +48369,15 @@
     "desc": "Did something happen to $npc:11000335$?\nGo to $map:02000163$ and find out what is going on."
   },
   "10001562--JP": {
-    "desc": "$npc:11000328$ told you the legend about $npc:21000425$ that they once heard from $npc:11000039$.\nFirst, you should obtain $item:30000088$, which can very rarely be obtained by hunting $npc:21000225$, and check whether the legend is true.\nGo to $map:02000056$ and look for $npc:21000225$, which often appears nearby."
+    "desc": "$npc:11000328$ told you the legend about $npc:21000425$ that they once heard from $npc:11000039$.\nFirst, you should obtain $item:30000088$, which can very rarely be obtained by hunting $npc:21000225$, and check whether the legend is true.\nGo to $map:02000056$ and look for $npc:21000225$, which often appears nearby.",
+    "manual": "Defeat $npc:21000225$ to obtain $item:30000088$"
   },
   "10001670--JP": {
     "desc": "The kind auntie $npc:11000002$ asked you to deliver freshly made pudding to $npc:11000350$, who is building a house in $map:02000017$. She said it is not far from $map:02000001$, so you should be able to find them quickly.\nGo to $map:02000017$ and look for $npc:11000350$."
   },
   "10001620--JP": {
-    "desc": "After receiving a report that $npc:22000011$ appeared in $map:02000082$ in $map:02000059$, $npc:11000015$ formed an elite scouting party and set out to find $npc:22000011$, but they are troubled after failing several times.\nIn the depths of $map:02000082$, where people have not set foot for a long time, $npc:22000011$ seems to appear and disappear repeatedly...\nAs $npcName:11000015$ said, for the safety of the residents and Maple World, if you meet $npc:22000011$ in $map:02000082$, it would be best to defeat it immediately and take away its dangerous axe."
+    "desc": "After receiving a report that $npc:22000011$ appeared in $map:02000082$ in $map:02000059$, $npc:11000015$ formed an elite scouting party and set out to find $npc:22000011$, but they are troubled after failing several times.\nIn the depths of $map:02000082$, where people have not set foot for a long time, $npc:22000011$ seems to appear and disappear repeatedly...\nAs $npcName:11000015$ said, for the safety of the residents and Maple World, if you meet $npc:22000011$ in $map:02000082$, it would be best to defeat it immediately and take away its dangerous axe.",
+    "manual": "Obtain $item:30000210$ in $map:02000082$ inside (Elite) $map:02000059$"
   },
   "10001591--JP": {
     "desc": "Seeing $npc:11000339$ try to avoid them, $npc:11000340$ seems like an excessively strict person.\nSince you can look around $map:02000178$ too, why not take the muffin $npcName:11000339$ gave you and meet $npc:11000340$? "
@@ -48392,7 +48417,8 @@
     "complete": "Grab onto the eagle in $map:02000085$ and fly to $npc:11000427$"
   },
   "10001802--JP": {
-    "desc": "$npc:11000327$ considers the possibility that $npc:22000003$ and $npc:22000004$ witnessed in $map:02000041$ may be real, and asks for help checking whether they truly have the ruby necklace and jewel box Alberto gave Roanna as tokens of love.\nGo to $map:02000041$ and check whether $npc:22000003$ and $npc:22000004$ really appear, and whether they have the ruby necklace and jewel box.\nTheir infamy is probably not baseless rumor, so it would be best to find companions who can join forces and fight together."
+    "desc": "$npc:11000327$ considers the possibility that $npc:22000003$ and $npc:22000004$ witnessed in $map:02000041$ may be real, and asks for help checking whether they truly have the ruby necklace and jewel box Alberto gave Roanna as tokens of love.\nGo to $map:02000041$ and check whether $npc:22000003$ and $npc:22000004$ really appear, and whether they have the ruby necklace and jewel box.\nTheir infamy is probably not baseless rumor, so it would be best to find companions who can join forces and fight together.",
+    "manual": "Defeat (Elite) $npc:22000003$ to obtain $item:30000131$|Defeat (Elite) $npc:22000004$ to obtain $item:30000132$"
   },
   "10001821--JP": {
     "desc": "$npc:11000427$ asks you to help defeat $npc:23000019$ together with others when it appears, so the eagle eggs in the highland plain of $map:02000085$ can hatch safely.\nCan you grab $npc:23000019$'s huge wings and fly too?\nWhen $npc:23000019$ appears in $map:02000085$, join forces with the people nearby and defeat it. "
@@ -48427,7 +48453,8 @@
     "desc": "Fortunately, $npc:11001054$ seems to have passed the first interview without trouble. But the final hurdle remains: \"singing the Goldus anthem in front of $npc:11000252$.\" They are upset because they cannot memorize the lyrics at all.\nTo help $npc:11001054$ comfortably memorize the Goldus anthem, deliver the pizza on the first floor of $map:52000004$ to the top floor in their place."
   },
   "10002450--JP": {
-    "desc": "$npc:11000266$ in $map:02000146$ says $npc:11000065$ from $map:02000100$ sent an official request for cooperation to help wipe out the giant monster robot that keeps appearing, destroying the city and threatening residents, and to reveal its identity.\nDefeat $npc:23000054$, which often appears in $map:02000145$, and bring $item:30000280$ to $npc:11000065$."
+    "desc": "$npc:11000266$ in $map:02000146$ says $npc:11000065$ from $map:02000100$ sent an official request for cooperation to help wipe out the giant monster robot that keeps appearing, destroying the city and threatening residents, and to reveal its identity.\nDefeat $npc:23000054$, which often appears in $map:02000145$, and bring $item:30000280$ to $npc:11000065$.",
+    "manual": "Defeat (Boss) $npc:23000054$|Obtain $item:30000280$"
   },
   "10002451--JP": {
     "desc": "$dungeonTitle:20009001$\n(Entrance Map: $map:02000164$)\nParty Recommended (4 players)\nThis quest can only be completed in Normal Mode.\n\n$npc:11000065$ in $map:02000100$ is worried because $npc:23100055$ appeared and went on a rampage in $map:02000099$ around $map:02000164$, where citizens live, and now even $map:02000100$ may lose power.\nEnter $map:02000314$ from $map:02000164$, defeat $npc:23100055$, and connect the power to the transmission tower.\n"
@@ -48559,10 +48586,12 @@
     "manual": "Take $item:20000064$ from the nutrition supplement box among the $npc:21099049$"
   },
   "20001330--JP": {
-    "desc": "$npc:11000372$'s desire for research is endless. Identify the source of the sound in $map:02000240$, found in $map:02000145$, then bring back evidence. $map:02000240$ is located below $npc:11000372$."
+    "desc": "$npc:11000372$'s desire for research is endless. Identify the source of the sound in $map:02000240$, found in $map:02000145$, then bring back evidence. $map:02000240$ is located below $npc:11000372$.",
+    "manual": "Defeat $npc:22090166$ in $map:02000240$ of (Elite) $map:02000145$, then obtain the evidence "
   },
   "20001340--JP": {
-    "desc": "$npc:11000541$ seems fed up with the Toomba tribe taking residents' homes. Obtain $item:30000198$ throughout $map:02000048$."
+    "desc": "$npc:11000541$ seems fed up with the Toomba tribe taking residents' homes. Obtain $item:30000198$ throughout $map:02000048$.",
+    "manual": "Obtain $item:30000198$ in $map:02000048$"
   },
   "20001300--JP": {
     "desc": "$npc:11000599$ lost their shoes inside a cave in $map:02000045$. Enter the blocked cave entrance visible behind $npc:11000599$ and retrieve $item:30000180$. "
@@ -49280,7 +49309,8 @@
     "manual": "It has already been one year since you began making memories in MapleStory 2. Remember the memories of the past year and exchange congratulations with $npc:11001002$."
   },
   "80010250--": {
-    "desc": "The Moon Bunny Mill was spending its busiest days making mooncakes for Chuseok. One day, more and more moon bunnies suddenly left the worksite, making it impossible to run the mill properly. $npc:11004248$, the bedridden work supervisor's daughter, came down to Maple World and is fiercely thinking of a way to supply mooncakes for adventurers...\n$npc:11003139$ says that if you refine $item:30001201$, which appears when investigating flower balloons scattered throughout Maple World, it may give off a scent similar to the Moon Bunny Mill's mugwort mooncakes. Nothing to lose! For the discouraged moon bunnies of the Moon Bunny Mill, collect 10 $item:30001201$ and bring them to $npc:11004248$ in $map:02000064$."
+    "desc": "The Moon Bunny Mill was spending its busiest days making mooncakes for Chuseok. One day, more and more moon bunnies suddenly left the worksite, making it impossible to run the mill properly. $npc:11004248$, the bedridden work supervisor's daughter, came down to Maple World and is fiercely thinking of a way to supply mooncakes for adventurers...\n$npc:11003139$ says that if you refine $item:30001201$, which appears when investigating flower balloons scattered throughout Maple World, it may give off a scent similar to the Moon Bunny Mill's mugwort mooncakes. Nothing to lose! For the discouraged moon bunnies of the Moon Bunny Mill, collect 10 $item:30001201$ and bring them to $npc:11004248$ in $map:02000064$.",
+    "manual": "Inspect flower balloons to obtain $item:30001201$"
   },
   "80010251--": {
     "desc": "$npc:11001002$ says the moon bunnies who suddenly left the mill are appearing throughout Maple World, stained by a strange energy, and that this strange energy seems to be coming from a secret space behind the full moon. What connection is there between the moon bunnies' change and that suspicious space? Use $item:20301895$ to enter $map:80000016$, observe what is happening there, and tell $npc:11004248$ in $map:02000064$.",
@@ -49293,7 +49323,8 @@
     "desc": "Try placing $item:50400309$ in your house!\nYou can find $item:50400309$ by opening the 'Start Building' menu and selecting the 'Pumpkin Demon Pumpky' tab on the left.\nIf it is already installed, remove it and install it again."
   },
   "80010270--": {
-    "desc": "For the Halloween season when ghosts run wild, $npc:11001002$ asks you to show courage that will not lose to the evil spirit energy filling the dungeons.\nThey say they will give a gift for Halloween heroes if you receive $item:20301427$, so clear dungeons until you have earned weekly rewards 30 times, receive $item:20301427$, and get the gift prepared by $npc:11001002$."
+    "desc": "For the Halloween season when ghosts run wild, $npc:11001002$ asks you to show courage that will not lose to the evil spirit energy filling the dungeons.\nThey say they will give a gift for Halloween heroes if you receive $item:20301427$, so clear dungeons until you have earned weekly rewards 30 times, receive $item:20301427$, and get the gift prepared by $npc:11001002$.",
+    "manual": "Clear dungeons until you have obtained weekly rewards 30 times, then receive $item:20301427$"
   },
   "80010252--": {
     "desc": "$npc:11004248$ says she heard about the strange large rabbits appearing throughout Maple World, and that they seem to be the companions who left the Full Moon Mill. According to a moon bunny tribe legend her mother once told her, long ago some moon bunnies were stained by a strange energy and wrecked the mill. Only after they were subdued and the energy was drained did some moon bunnies regain their senses. $npc:11004248$ is saddened, but wants to give her companions peace even if it must be done that way. In her place, suppress $npc:27000034$, which appears in $map:02000043$, and tell $npc:11004248$ the result.\n\n$npc:27000034$ appears in $map:02000043$ at 19:30, 20:30, 21:30, and 22:30."
@@ -49321,7 +49352,8 @@
   },
   "89010124--": {
     "manual": "* $item:20301082$ can be obtained by clearing a dungeon with an adventurer who needs help.\n\nObtain 5 $item:20301082$",
-    "complete": "* $item:20301082$ can be obtained by clearing a dungeon with an adventurer who needs help.\n\nObtain 5 $item:20301082$"
+    "complete": "* $item:20301082$ can be obtained by clearing a dungeon with an adventurer who needs help.\n\nObtain 5 $item:20301082$",
+    "name": "Obtain 5 $item:20301082$"
   },
   "89010129--": {
     "manual": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 10 times",
@@ -49329,7 +49361,8 @@
   },
   "89010123--": {
     "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
-    "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$"
+    "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "name": "Obtain 5 each of $item:30000869$ and $item:30000610$"
   },
   "89010135--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Lavender Herb 30 times",
@@ -49358,7 +49391,8 @@
   },
   "89010153--": {
     "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
-    "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$"
+    "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "name": "Obtain 2 each of $item:30000869$ and $item:30000610$"
   },
   "89010161--": {
     "manual": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 3 times",
@@ -49643,10 +49677,59 @@
   },
   "89010413-Event-CN": {
     "complete": "Defeat field bosses 5 times",
-    "manual": "Defeat a field boss"
+    "manual": "Defeat a field boss",
+    "name": "Defeat Field Bosses 5 Times"
   },
   "89010415-Event-CN": {
     "manual": "Defeat monsters",
-    "name": "Defeat 220 Monsters"
+    "name": "Defeat 220 Monsters",
+    "complete": "Defeat 220 monsters"
+  },
+  "72000025--JP": {
+    "manual": "Defeat the monsters causing trouble in $map:02000008$",
+    "name": "Defeat the monsters causing trouble in $map:02000008$"
+  },
+  "72000114--JP": {
+    "manual": "Defeat the monsters causing trouble in $map:02000054$",
+    "name": "Defeat the monsters causing trouble in $map:02000054$"
+  },
+  "89010384-Event-CN": {
+    "manual": "Obtain 3 $item:20302617$",
+    "complete": "Obtain 3 $item:20302617$",
+    "name": "Obtain 3 $item:20302617$"
+  },
+  "89010391-Event-CN": {
+    "manual": "Obtain an Adventure [Normal/Hard] Bonus Box",
+    "name": "Obtain 15 Adventure [Normal/Hard] Bonus Boxes",
+    "complete": "Obtain 15 Adventure [Normal/Hard] Bonus Boxes"
+  },
+  "89010411-Event-CN": {
+    "complete": "Obtain 3 Adventure [Normal/Hard] Bonus Boxes",
+    "manual": "Obtain an Adventure [Normal/Hard] Bonus Box",
+    "name": "Obtain 3 Adventure [Normal/Hard] Bonus Boxes"
+  },
+  "80010178--": {
+    "manual": "Obtain the letter '$item:30001170$'|Obtain the letter '$item:30001171$'|Obtain the letter '$item:30001172$'|Obtain the letter '$item:30001173$'"
+  },
+  "80010177--": {
+    "manual": "Obtain the letter '$item:30001166$'|Obtain the letter '$item:30001167$'|Obtain the letter '$item:30001168$'|Obtain the letter '$item:30001169$'"
+  },
+  "80010179--": {
+    "manual": "Obtain the letter '$item:30001174$'|Obtain the letter '$item:30001175$'|Obtain the letter '$item:30001176$'|Obtain the letter '$item:30001177$'"
+  },
+  "89010122--": {
+    "manual": "Obtain Adventure [Normal/Raid] rewards",
+    "name": "Obtain 15 Adventure [Normal/Raid] Bonus Boxes",
+    "complete": "Obtain Adventure [Normal/Raid] rewards"
+  },
+  "89010152--": {
+    "manual": "Obtain Adventure [Normal/Raid] bonuses",
+    "name": "Obtain 3 Adventure [Normal/Raid] Bonus Boxes",
+    "complete": "Obtain Adventure [Normal/Raid] bonuses"
+  },
+  "89010182--": {
+    "manual": "Obtain Adventure [Normal/Raid] bonuses",
+    "complete": "Obtain Adventure [Normal/Raid] bonuses",
+    "name": "Obtain 1 Adventure [Normal/Raid] Bonus Box"
   }
 }
