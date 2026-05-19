@@ -47205,7 +47205,8 @@
   },
   "10003052-DoubleImpactStory-": {
     "complete": "Examine $npcName:11001759$ in $map:52000040$\n",
-    "desc": "Whenever you lose consciousness, that mysterious person you met in a place you cannot tell is dream or reality seems to have pushed you out of Beyond Link.\nBut you cannot give up now. You have to find out who that person is, and who you are.\nGo back to $map:52000039$ in $map:03000145$.\n"
+    "desc": "Whenever you lose consciousness, that mysterious person you met in a place you cannot tell is dream or reality seems to have pushed you out of Beyond Link.\nBut you cannot give up now. You have to find out who that person is, and who you are.\nGo back to $map:52000039$ in $map:03000145$.\n",
+    "manual": "Return to $map:03000145$ and investigate the Beyond Link again"
   },
   "80010330-Event-CN": {
     "desc": "Defeat the following bosses to collect the letters '$item:30001324$', '$item:30001325$', '$item:30001326$'!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
@@ -47305,16 +47306,19 @@
     "desc": "A note that seems to have been sent by the mysterious friend who saved your life in $map:52000045$... Inside was a clue to the whereabouts of the back-alley people you had been searching for so desperately.\nGo to $map:02000275$ and investigate further."
   },
   "10003043-DoubleImpactStory-": {
-    "desc": "With a worried look, $npcName:11000779$ tells you about a secret passage that leads straight into $map:52000047$.\nLook around the entrance to $map:02000156$ from $map:02000138$ and find the door connected to the secret passage!"
+    "desc": "With a worried look, $npcName:11000779$ tells you about a secret passage that leads straight into $map:52000047$.\nLook around the entrance to $map:02000156$ from $map:02000138$ and find the door connected to the secret passage!",
+    "manual": "Find and enter $map:52000047$ from $map:02000138$ through the secret passage near the entrance to $map:02000156$"
   },
   "10003053-DoubleImpactStory-": {
-    "desc": "You caught a fleeting glimpse of $npc:11001556$ in $map:52000040$...\nFollow those traces and enter the Beyond Link capsule."
+    "desc": "You caught a fleeting glimpse of $npc:11001556$ in $map:52000040$...\nFollow those traces and enter the Beyond Link capsule.",
+    "manual": "Follow the truth through the Beyond Capsule in $map:52000040$"
   },
   "10003055-DoubleImpactStory-": {
     "desc": "You met $npcName:11001558$ again at the Guidance's newly prepared temporary hideout, $map:52000050$, in $map:02000101$!\nQuite some time has passed, but they have not changed. "
   },
   "10003051-DoubleImpactStory-": {
-    "desc": "$npcName:11000003$'s sharp advice seems to snap you back to your senses.\nNothing will be solved if you only avoid things because they hurt or scare you.\nReturn to $map:52000039$ in $map:03000145$ and face the real truth."
+    "desc": "$npcName:11000003$'s sharp advice seems to snap you back to your senses.\nNothing will be solved if you only avoid things because they hurt or scare you.\nReturn to $map:52000039$ in $map:03000145$ and face the real truth.",
+    "manual": "Return to $map:52000039$ in $map:03000145$ and confirm the truth"
   },
   "10003054-DoubleImpactStory-": {
     "desc": "When you met $npcName:11001557$ again in $map:52000049$, they said they would accept you back as a member of the Guidance.\nGo with $npcName:11001557$ to the Guidance's new hideout, $map:52000050$."
@@ -47323,10 +47327,12 @@
     "desc": "Through the birds that flew into $map:52000050$, you learned that the entrance to the final destination of the Munakra pilgrimage is located in $map:02000192$.\nThis is a chance to find the sacred relic and repay at least a little of the debt you owe the Guidance.\nFollow $npcName:11001557$ and $npcName:11001558$ to $map:02000192$."
   },
   "20001080--JP": {
-    "desc": "You met $npc:11000366$ in $map:02000139$.\n$npc:11000366$ is beside herself because she lost her cat, $npc:11000367$.\nClimb the crane behind $npc:11000366$ and check whether $npc:11000367$ is there."
+    "desc": "You met $npc:11000366$ in $map:02000139$.\n$npc:11000366$ is beside herself because she lost her cat, $npc:11000367$.\nClimb the crane behind $npc:11000366$ and check whether $npc:11000367$ is there.",
+    "complete": "Pull the lever, then climb up the crane and rescue $npc:11000367$"
   },
   "10003057-DoubleImpactStory-": {
-    "desc": "It looks like you found the entrance to the Guide's Sanctuary in $map:02000192$.\nYou think you can hear the voices of $npcName:11001558$ and $npcName:11001557$ from inside...\nGo in!"
+    "desc": "It looks like you found the entrance to the Guide's Sanctuary in $map:02000192$.\nYou think you can hear the voices of $npcName:11001558$ and $npcName:11001557$ from inside...\nGo in!",
+    "complete": "Talk to $npcName:11001556$ in $map:52000053$, located in the deepest part of the Guide's Sanctuary"
   },
   "10003059-DoubleImpactStory-": {
     "desc": "Before leaving for $map:02000275$ according to destiny's revelation, you should tell the mysterious stranger you met in $map:52000045$ what happened to the people taken away by $npcName:11001559$'s subordinates.\nAsk the birds chirping in $map:52000050$ for help."
@@ -47353,13 +47359,15 @@
     "desc": "According to $npcName:11001782$, the back-alley people are trapped in $map:63000039$. Hurry there and free them."
   },
   "40002640-DoubleImpactStory-": {
-    "desc": "You arrived at $map:63000038$, the place where the back-alley people were supposedly taken. You are worried whether they are alive, so hurry and rescue them."
+    "desc": "You arrived at $map:63000038$, the place where the back-alley people were supposedly taken. You are worried whether they are alive, so hurry and rescue them.",
+    "name": "The One Blocking the Way"
   },
   "40002650-DoubleImpactStory-": {
     "desc": "To keep the Guidance out of danger, and to learn who you are, you can no longer turn away from Beyond Link and Kandura. Do not hesitate. Enter $map:63000038$."
   },
   "40002652-DoubleImpactStory-": {
-    "desc": "$npcName:11001791$ says there is something they want to show you. Follow them to $map:63000040$."
+    "desc": "$npcName:11001791$ says there is something they want to show you. Follow them to $map:63000040$.",
+    "name": "A New Family"
   },
   "50001310-CharacterAbility-": {
     "desc": "$npc:11000601$ says that if you want to learn how to become stronger through those who gather mysterious power, you should visit them, and that they will be waiting in $map:02000025$."
@@ -47383,7 +47391,8 @@
     "desc": "$npc:11001700$, dispatched to the broken ground in $map:02000118$, says that to survive in the deep darkness, it is important to understand and use the rules and expedition-only attributes that apply only inside. With the real challenge now before you, they encourage you to do your best exploring the place. "
   },
   "50001380-ShadowExpedition-": {
-    "desc": "$npc:11000119$ says they have something to tell you and are looking for you. Meet them in $map:02000001$."
+    "desc": "$npc:11000119$ says they have something to tell you and are looking for you. Meet them in $map:02000001$.",
+    "complete": "Find $npc:11000119$ in $map:02000001$"
   },
   "10003120-Kritias_Epic02-": {
     "desc": "$npcName:11004577$ says you can finally explore beyond $map:02020036$.\n\nWhat lies beyond $map:02020036$?\n\nHurry to $map:02020036$ and find out."
@@ -47392,7 +47401,8 @@
     "desc": "You felt awkward after everyone pointed to you as the ideal expedition member, but you decided to move beyond $map:02020036$ to meet their expectations.\n\n$npcName:11004582$ asks you to investigate $map:02020066$, discovered during the first expedition...\n\nHead out to investigate $map:02020066$ and defeat the obstructing Kerbes forces."
   },
   "10003170-Kritias_Epic02-": {
-    "desc": "As expected, $npcTitle:11004576$ knows everything!\n\nAfter a brief conversation, $npcTitle:11004576$ realizes that you are looking for $npcName:11004430$ and demands payment.\n\nWhen you look at them pitifully, $npc:11004576$ says they will accept an item instead of an information fee.\n\nBring the $item:30001349$ they want."
+    "desc": "As expected, $npcTitle:11004576$ knows everything!\n\nAfter a brief conversation, $npcTitle:11004576$ realizes that you are looking for $npcName:11004430$ and demands payment.\n\nWhen you look at them pitifully, $npc:11004576$ says they will accept an item instead of an information fee.\n\nBring the $item:30001349$ they want.",
+    "name": "How to Pay the Price"
   },
   "10003180-Kritias_Epic02-": {
     "desc": "$npc:11004576$ says many materials have recently been transported to $map:02020067$.\n\nThey say their intuition tells them something is being built in $map:02020067$.\n\nTrust their instinct and go to $map:02020067$ to check whether anything suspicious is there."
@@ -47407,7 +47417,8 @@
     "desc": "$npcName:11004571$ is surprised to hear that you crossed $map:02020036$.\nThey are surprised again when you say you defeated Kerbes on the way.\n\nWhen you ask about this place, $npcName:11004571$ tells you to find the leader, $npcName:11004574$.\nBut they warn you not to mention Georg to $npcName:11004574$. Why would that be?\n\nFor now, meet $npcTitle:11004574$."
   },
   "10003190-Kritias_Epic02-": {
-    "desc": "The facility looks very suspicious, but you still do not know what it really is, so it is hard to respond.\n\nIf only you had more information...\n\nFor now, return to $npcTitle:11004576$ and ask if they know anything else."
+    "desc": "The facility looks very suspicious, but you still do not know what it really is, so it is hard to respond.\n\nIf only you had more information...\n\nFor now, return to $npcTitle:11004576$ and ask if they know anything else.",
+    "name": "A New Place, a Welcome Encounter"
   },
   "10003230-Kritias_Epic02-": {
     "desc": "You met $npcName:11004584$ and handed over the blueprint, but they stubbornly insisted they did not need it.\n\nBefore leaving to defeat Archeon, you suggested going together, but $npcName:11004584$ flatly refused.\nWhen you persuaded them again by saying they still do not know this place well, they finally changed their mind and promised to come along.\n\nAll that remains now is to defeat Archeon."
@@ -47416,7 +47427,8 @@
     "desc": "To secure the blueprint, you need to enter the factory, but the entrance seems to be hidden.\n\n$npcName:11004580$ and $npcName:11004579$ said hacking is the answer at times like this... Should you try it?"
   },
   "10003220-Kritias_Epic02-": {
-    "desc": "The guide robot inside the factory tells you that Archeon's blueprint can be found in the innermost area.\n\nHowever, it says that to move deeper inside, the security facility must be shut down...\n\nThere is no other obvious method for now, so head inside."
+    "desc": "The guide robot inside the factory tells you that Archeon's blueprint can be found in the innermost area.\n\nHowever, it says that to move deeper inside, the security facility must be shut down...\n\nThere is no other obvious method for now, so head inside.",
+    "name": "Security System Activated"
   },
   "10003200-Kritias_Epic02-": {
     "desc": "$npcName:11004576$ says the facility is connected to the Tyren Kingdom's latest weapon, Archeon. $npcName:11004576$ says Archeon is extremely powerful and would be dangerous if it fell into $npcName:11004430$'s hands.\n\nWhen you try to rush there immediately, they say facing it bare-handed would be impossible and suggest another way.\n\n$npcName:11004576$ says that if you go to $map:02020035$ and secure the blueprint, you should be able to learn how to control Archeon.\n\nGo secure the blueprint right now."
@@ -47482,7 +47494,9 @@
     "desc": "Fortunately, it does not seem to be anything serious.\n$npcName:11000169$ is a Royal Guard member standing watch in $map:02000001$, so what could possibly be so serious?\n\nAs $npcName:11004520$ said, you can just tell them not to worry and to go for it."
   },
   "10003405-EpicApocalypse01-": {
-    "desc": "You encountered dark matter.\nThe thing everyone was talking about truly existed in $map:02000001$.\n\nAll light comes from the Empress.\nSo what does this darkness appearing here, in the palace of the Empress of Light, mean?"
+    "desc": "You encountered dark matter.\nThe thing everyone was talking about truly existed in $map:02000001$.\n\nAll light comes from the Empress.\nSo what does this darkness appearing here, in the palace of the Empress of Light, mean?",
+    "manual": "Go to the front of the armory in $map:02000001$ where $npcName:11000169$ is",
+    "complete": "Go to the front of the armory in $map:02000001$ where $npcName:11000169$ is"
   },
   "10003404-EpicApocalypse01-": {
     "desc": "Something appeared?\nWhat could possibly appear in $map:02000001$?\nToo many people are talking about it to simply say $npc:11000607$ has lost their mind.\n\nThis time, you must see what it really is. "
@@ -47503,7 +47517,8 @@
     "desc": "$npc:11004778$ spoke of one who was once one of the Seven Heroes, but is now stained by darkness.\n\n$npc:11004744$, a companion of the great hero $npc:11001812$ and one of the Seven Heroes.\nThey said he is imprisoned in $map:52000189$.\n\nWhy is he imprisoned in a place meant to hold criminals and traitors?"
   },
   "10003411-EpicApocalypse01-": {
-    "desc": "You answered $npc:11004778$'s request by saying you would try for the sake of $map:02000001$, but you are still confused.\nIs it really right for you to execute $npcName:11004744$?\n\nSet your confusion aside, find the key, and go to $map:52000189$ in $map:02000001$.\nIf you meet $npc:11004744$, perhaps you can find a clue like a ray of light in this confusion.\nOr maybe it would be right to kill him according to $npc:11004778$'s order. "
+    "desc": "You answered $npc:11004778$'s request by saying you would try for the sake of $map:02000001$, but you are still confused.\nIs it really right for you to execute $npcName:11004744$?\n\nSet your confusion aside, find the key, and go to $map:52000189$ in $map:02000001$.\nIf you meet $npc:11004744$, perhaps you can find a clue like a ray of light in this confusion.\nOr maybe it would be right to kill him according to $npc:11004778$'s order. ",
+    "complete": "Find $npc:11004792$ on the lowest floor of $map:52000189$ in $map:02000001$"
   },
   "10003407-EpicApocalypse01-": {
     "desc": "Meanwhile, at the same time in $map:52000193$, $npc:11000075$ was also anxiously worrying about the dark blue light.\nAs the symbol of light and light itself, $npc:11000075$ could not help but feel uneasy about the strange being that appeared in $map:02000001$.\n\nEven if no one said it openly, the people of the royal court must at least have sensed that the strange form appearing in $map:02000001$ was connected to the safety of $npcName:11000075$ $npcTitle:11000075$, or perhaps the safety of Maple World."
@@ -47521,7 +47536,8 @@
     "desc": "$npcName:11004744$ is already radiating powerful energy here.\n$npc:11004778$ told you to kill him...\nPerhaps he overestimated you.\n\nCan you face him? "
   },
   "10003415-EpicApocalypse01-": {
-    "desc": "$npcName:11004744$: traitor, or loyal servant.\nSince you do not know the truth, you need to find any clue you can.\n\nHis instruction to go to the Gate of Light tells you that his truth lies in the past.\nThe truth may remain in the place he went to seal the darkness.\nGo to the former Gate of Light... the place now called $map:02000146$."
+    "desc": "$npcName:11004744$: traitor, or loyal servant.\nSince you do not know the truth, you need to find any clue you can.\n\nHis instruction to go to the Gate of Light tells you that his truth lies in the past.\nThe truth may remain in the place he went to seal the darkness.\nGo to the former Gate of Light... the place now called $map:02000146$.",
+    "manual": "Look closely at $npc:11004803$ in the center of $map:02000146$|Listen closely to $npc:11004803$ in the center of $map:02000146$|Touch $npc:11004803$ in the center of $map:02000146$"
   },
   "10003414-EpicApocalypse01-": {
     "desc": "A traitor who became intoxicated by darkness and tried to harm the Empress, and who is creating dark matter in $map:52000189$ to frame her.\nThat is the truth about $npcName:11004744$ that you heard from $npc:11004778$.\nBut $npcName:11004744$ tells a different story.\n\nA loyal servant who gave himself to end the war against darkness and went to the land of darkness to seal Lapenta.\nOr a traitor... What is the truth?\n"
@@ -47536,7 +47552,8 @@
     "desc": "This confusion, which began with dark matter, traces back to the distant past.\n\n$npc:11001812$ and $npcName:11003894$, who said they tried to seal Lapenta together with $npcName:11004744$, even at the cost of their lives.\n$npc:11004778$ says they are traitors who threaten the Empress's safety and are creating dark matter in $map:02000001$.\nBut the stories told by $npc:11001812$ and $npcName:11004744$ had a certain consistency, and their eyes showed a solemn determination that seemed to speak the truth.\n$npc:11004778$ is a loyal prime minister who has protected Empress Ereve's safety in the palace for many years.\n\nYou should tell $npc:11004778$ about the two truths.\n\n(If you leave the map, you can re-enter through $npcName:11004826$ in $map:52000189$ in $map:02000001$)\n"
   },
   "10003417-EpicApocalypse01-": {
-    "desc": "You can sense that you are nearing the truth.\nThe truth you heard from $npc:11004778$, or the truth you heard from $npcName:11004744$.\n\nAnd here is another person speaking about the truth.\n\n(If you leave the map, you can re-enter through $npcName:11004795$ in $map:02000146$)"
+    "desc": "You can sense that you are nearing the truth.\nThe truth you heard from $npc:11004778$, or the truth you heard from $npcName:11004744$.\n\nAnd here is another person speaking about the truth.\n\n(If you leave the map, you can re-enter through $npcName:11004795$ in $map:02000146$)",
+    "manual": "Listen to $npcName:11004798$'s story to the end in $map:52000199$\n<font color=\"#909090\">If you leave the map, you can re-enter through $npcName:11004795$ in $map:02000146$</font>"
   },
   "10003419-EpicApocalypse01-": {
     "desc": "You should have considered that when faced with two truths that cannot coexist, you may become buried beneath the shadow of lies.\n\nIf the stories of the two people whose claims about the past differed from $npc:11004778$, namely $npc:11004778$ and $npcName:11004744$, were true, then you should have suspected $npc:11004778$, who tried to have $npcName:11004744$ killed.\n\nWhen you told $npc:11004778$ what you had learned, fear flashed in his eyes.\n\nThen he trapped you here.\nYou have to escape.\n\n(If you leave the map, you can re-enter through $npcName:11004826$ in $map:52000189$)\n"
@@ -47551,7 +47568,8 @@
     "desc": "The flames are taking over the underground prison in an instant.\nYou have to escape!\n\nBut if you escape like this, $npcName:11004744$...\nYou cannot leave him behind."
   },
   "10003424-EpicApocalypse01-": {
-    "desc": "You barely escaped alive from the flames.\nThen $npc:11000075$ began questioning the conflicting truths.\nBut everyone wants the truth as much as the Empress does.\n\nThe Empress called together everyone connected to this matter.\nSoon, everyone who can speak about the truth of the past will gather in $map:52000193$. \n"
+    "desc": "You barely escaped alive from the flames.\nThen $npc:11000075$ began questioning the conflicting truths.\nBut everyone wants the truth as much as the Empress does.\n\nThe Empress called together everyone connected to this matter.\nSoon, everyone who can speak about the truth of the past will gather in $map:52000193$. \n",
+    "manual": "Search for clues $npc:11000074$ may have left behind in $map:02000190$ of $map:02000119$"
   },
   "10003426-EpicApocalypse01-": {
     "desc": "Between $npcName:11004780$, who insists on his loyalty, and $npcName:11004787$, who tells a different story, the truth seemed to fall into a maze.\n\nThe Empress may have wanted to give $npcName:11004780$ a chance to confess.\nBut that chance ended, and $npcName:11004780$ was driven into danger.\nTo think the words of the one who should have been more loyal to the royal family than anyone, and who should have protected it, were lies...\nWith what heart does $npcName:11004780$ intend to bear the many incidents and truths caused by those lies? "
@@ -47578,7 +47596,8 @@
     "desc": "$npcName:11003883$ told you to bring this substance to $map:52000196$, a space established separately to research it.\nIt seems the substance from beyond $npcName:11004801$ is anything but ordinary.\n\nThat was expected. What secret is hidden within this substance? "
   },
   "10003442-UnlimitedEnchant-": {
-    "desc": "$npcName:11004816$ in $map:52000196$ showed great interest in the substance brought back from $npcName:11004801$. They saw it as the perfect chance to prove the hypothesis they had developed.\n\nTo confirm the true nature of $item:40100055$'s power and the range it can influence, you must go beyond the rift again. To cover your whole body in that place's energy, soak yourself in the water at the center of $npcName:11004801$ and return."
+    "desc": "$npcName:11004816$ in $map:52000196$ showed great interest in the substance brought back from $npcName:11004801$. They saw it as the perfect chance to prove the hypothesis they had developed.\n\nTo confirm the true nature of $item:40100055$'s power and the range it can influence, you must go beyond the rift again. To cover your whole body in that place's energy, soak yourself in the water at the center of $npcName:11004801$ and return.",
+    "manual": "Soak yourself in the mysterious water of $map:02000554$ and absorb plenty of its energy"
   },
   "10003432-EpicApocalypse01-": {
     "desc": "After battling the beings you encountered beyond $npc:11004801$ and returning to report to $npcName:11004787$ and $npcName:11004783$, they said strange fragments were attached to your body.\n\nYou had not noticed during the battle. Unknown crystal-like fragments were attached all over your armor.\n\nWhat are these fragments from beyond the rift?\n$npcName:11004783$ said a chaotic wave of light was dancing within them.\nThey seem to be a substance with considerable energy."
@@ -47616,94 +47635,130 @@
   },
   "94000331-Fame_Geo01-": {
     "desc": "Georg created a special forces unit to strengthen its regular army.\nThe special forces carry out the most dangerous missions on the front line.\n\nTake on the special forces mission from $npcName:11004614$ and try to surpass your limits.",
-    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg"
+    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000330-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger.",
-    "desc": "The refugees in $map:02020066$ have been isolated after the Black Legion appeared and blocked the road...\nNow that the Maple Alliance has advanced into northern Kidel, $npcName:11004614$ wants to help the refugees.\n\nGo to $map:02020066$, meet $npc:11004574$, and help the refugees endangered by the harsh environment.\n\nYou must receive and complete the '$quest:40002797$' mission from $npc:11004574$."
+    "desc": "The refugees in $map:02020066$ have been isolated after the Black Legion appeared and blocked the road...\nNow that the Maple Alliance has advanced into northern Kidel, $npcName:11004614$ wants to help the refugees.\n\nGo to $map:02020066$, meet $npc:11004574$, and help the refugees endangered by the harsh environment.\n\nYou must receive and complete the '$quest:40002797$' mission from $npc:11004574$.",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "91001010-Fame_Geo01-": {
     "desc": "$npcName:11004401$ asks for help, saying the Kritias data and information you brought to the Maple Alliance are also essential for Georg.\n\nGeorg certainly seems to be in poor shape.\n\nWhen you say you will help them, $npcName:11004401$ thanks you.\nBut they say there is one problem...\n\nListen to everything $npcName:11004401$ has to say."
   },
   "94000334-Fame_Geo01-": {
     "desc": "The Maple Alliance and Georg succeeded in pushing the Black Legion all the way to northern Kidel.\nHowever, $map:02020071$ remains impregnable.\n\nDespite many sacrifices by Georg's regular army, they have been unable to break through the fortress entrance.\n$npcName:11004614$ worries that if there are any more losses, the operation will become impossible.\n\nNow it is time to step in yourself.\n\nLaunch a surprise attack on $map:02020071$ and defeat $npcName:25022702$, $npcName:25022704$, and $npcName:25022701$.\n\n",
-    "descFameUI": "Go to $map:02020071$ and defeat $npcName:25022702$, $npcName:25022704$, and $npcName:25022701$."
+    "descFameUI": "Go to $map:02020071$ and defeat $npcName:25022702$, $npcName:25022704$, and $npcName:25022701$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000333-Fame_Geo01-": {
     "desc": "Information has arrived that Poings exposed to Ener are attacking the Morang, causing heavy damage.\n$npcName:11004614$ feels guilty about the Poings' mutation because Ener belongs to their civilization.\n\nBefore the damage grows worse, meet $npcName:11004620$ and help the Morang in danger.\n\nYou must receive and complete the '$quest:40002798$' mission from $npc:11004620$.",
-    "descFameUI": "Go to $map:02020069$, meet $npcName:11004620$, and help the Morang in danger."
+    "descFameUI": "Go to $map:02020069$, meet $npcName:11004620$, and help the Morang in danger.",
+    "manual": "Go to $map:02020069$, meet $npcName:11004620$, and help the Morang tribe in danger",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000332-Fame_Geo01-": {
     "desc": "$npcName:11004614$ seems extremely excited.\nAfter the Georg Intelligence Department's tireless efforts, they finally found one of Kerbes's bases.\n\n$npcName:25022900$ is said to be staying there.\n\nGo to $map:52100114$, which is connected to $map:02020067$, and defeat $npcName:25022900$.",
-    "descFameUI": "Go to $map:52100114$ in $map:02020067$ and defeat $npcName:25022900$."
+    "descFameUI": "Go to $map:52100114$ in $map:02020067$ and defeat $npcName:25022900$.",
+    "manual": "Go to $map:52100114$ in $map:02020067$ and defeat $npcName:25022900$",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000335-Fame_Geo01-": {
     "desc": "Georg created a special forces unit to strengthen its regular army.\nThe special forces carry out the most dangerous missions on the front line.\n\nTake on the special forces mission from $npcName:11004614$ and try to surpass your limits.",
-    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg"
+    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000336-Fame_Geo01-": {
     "desc": "The places where $map:02020070$ and $map:02020071$ were built were originally farmlands operated by the Tyren Kingdom.\nThe farms were closed when the land became barren, but for some reason, two Tyren guard robots that protected the farms are now attacking living creatures...\n\nBecause of this, the assault on $map:02020070$ and $map:02020071$ is struggling.\n\nDestroy $npcName:25022800$ in $map:02020070$ and $npcName:25022810$ in $map:02020071$.",
-    "descFameUI": "Destroy $npcName:25022800$ in $map:02020070$ and $npcName:25022810$ in $map:02020071$."
+    "descFameUI": "Destroy $npcName:25022800$ in $map:02020070$ and $npcName:25022810$ in $map:02020071$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000338-Fame_Geo01-": {
     "desc": "Kerbes is said to be kidnapping refugees who went to $map:02020067$ to find food.\n$npcName:11004614$ asks for help, saying they can no longer stand by and watch Kerbes torment the refugees.\n\nGo to $map:02020066$, meet $npc:11004574$, understand the situation, and help the refugees.\n\nYou must receive and complete the '$quest:40002800$' mission from $npc:11004574$.",
-    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger."
+    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger.",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "name": "Refugees Being Captured"
   },
   "94000339-Fame_Geo01-": {
     "desc": "Georg created a special forces unit to strengthen its regular army.\nThe special forces carry out the most dangerous missions on the front line.\n\nTake on the special forces mission from $npcName:11004614$ and try to surpass your limits.",
-    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg"
+    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000337-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the Tyren Kingdom has begun attacking $map:02020066$.\n\n$npcName:11004614$ believes Tyren is acting this way to stop Georg from absorbing the refugees and growing stronger.\n\nGo to $map:02020066$, meet $npc:11004574$, understand the situation, and help the refugees.\n\nYou must receive and complete the '$quest:40002799$' mission from $npc:11004574$.\n",
-    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger."
+    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger.",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000340-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says they received information that the Black Legion is polluting the forest to steal the Morang's 'mysterious power.'\n$npcName:11004614$ says that if this power falls into the Black Legion's hands, it will become a major threat to Georg and the Maple Alliance.\n\nGo to $map:02020069$, meet $npcName:11004620$, and stop the mysterious power from falling into the Black Legion's hands.\n\nYou must receive and complete the '$quest:40002801$' mission from $npc:11004620$.",
-    "descFameUI": "Go to $map:02020069$, meet $npcName:11004620$, and stop the mysterious power from falling into the Black Legion's hands."
+    "descFameUI": "Go to $map:02020069$, meet $npcName:11004620$, and stop the mysterious power from falling into the Black Legion's hands.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Go to $map:02020069$, meet $npcName:11004620$, and stop the crisis facing the Morang tribe",
+    "name": "The Forest Turning Black"
   },
   "94000341-Fame_Geo01-": {
     "desc": "According to the Georg search party, creatures consumed by black energy are heading toward $map:02020069$.\n\n$npcName:11004614$ thinks the Black Legion is moving corrupted hosts to steal the 'mysterious power' passed down among the Morang.\n\nGo to $map:02020069$, meet $npcName:11004620$, and stop the mysterious power from falling into the Black Legion's hands.\n\nYou must receive and complete the '$quest:40002802$' mission from $npc:11004620$.",
-    "descFameUI": "Go to $map:02020069$, meet $npcName:11004620$, and stop the mysterious power from falling into the Black Legion's hands."
+    "descFameUI": "Go to $map:02020069$, meet $npcName:11004620$, and stop the mysterious power from falling into the Black Legion's hands.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Go to $map:02020069$, meet $npcName:11004620$, and stop the Morang tribe's crisis"
   },
   "94000343-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the units deployed to $map:02020070$ have suffered heavy losses and are being reorganized.\n\n$map:02020070$ is the gateway to $map:02020071$, but its defenses are so strong that allied casualties only keep increasing.\n\nSuppress the Black Legion forces in $map:02020070$ to ease $npcName:11004614$'s worries.\n\nGo to $map:02020070$ and defeat $npcName:25022603$, $npcName:25022600$, and $npcName:25022605$.",
-    "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022603$, $npcName:25022600$, and $npcName:25022605$."
+    "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022603$, $npcName:25022600$, and $npcName:25022605$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000342-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says $map:02020066$ and $map:02020067$ are being attacked by Kerbes at the same time.\n\nThis may be the beginning of Kerbes's full-scale offensive to capture $map:02020066$.\n\nGo to $map:02020066$, meet $npc:11004574$, and help the refugees in danger.\n\nYou must receive and complete the '$quest:40002803$' mission from $npc:11004574$.",
-    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger."
+    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger.",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and help the refugees in danger",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000344-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says hunting activity in $map:02020066$ has noticeably decreased.\n\nSince hunting is the refugees' main food source, something must have happened in $map:02020066$.\n\nGo to $map:02020066$, meet $npc:11004574$, and find out what happened.\n\nYou must receive and complete the '$quest:40002804$' mission from $npc:11004574$.",
-    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and find out what happened."
+    "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and find out what happened.",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and find out what happened",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000345-Fame_Geo01-": {
     "desc": "Georg created a special forces unit to strengthen its regular army.\nThe special forces carry out the most dangerous missions on the front line.\n\nTake on the special forces mission from $npcName:11004614$ and try to surpass your limits.",
-    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg"
+    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000346-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the search party suffered heavy losses from beasts released by the Black Legion.\n\nThe search party was hit especially hard in $map:02020067$ and $map:02020068$.\n\nIf there are more wounded, Georg's operation will be affected.\nYou cannot just leave this alone.\n\nDefeat $npcName:25022302$ in $map:02020067$ and $npcName:25022401$ in $map:02020068$.\n\n\n\n",
-    "descFameUI": "Defeat $npcName:25022302$ in $map:02020067$ and $npcName:25022401$ in $map:02020068$."
+    "descFameUI": "Defeat $npcName:25022302$ in $map:02020067$ and $npcName:25022401$ in $map:02020068$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000347-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says signs of division have recently appeared among the Morang.\n\nAccording to the search party, the number of Morang moving in groups and committing violence has rapidly increased.\n\nThere is concern that $npc:11004620$, who protects peace, may have lost their leadership.\n\nGo to $map:02020069$, meet $npc:11004620$, and assess the situation.\n\nYou must receive and complete the '$quest:40002805$' mission from $npc:11004620$.",
-    "descFameUI": "Go to $map:02020069$, meet $npc:11004620$, and help the Morang."
+    "descFameUI": "Go to $map:02020069$, meet $npc:11004620$, and help the Morang.",
+    "manual": "Go to $map:02020069$, meet $npc:11004620$, and help the Morang tribe",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000348-Fame_Geo01-": {
     "desc": "Georg created a special forces unit to strengthen its regular army.\nThe special forces carry out the most dangerous missions on the front line.\n\nTake on the special forces mission from $npcName:11004614$ and try to surpass your limits.",
-    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg"
+    "descFameUI": "You will be deployed on a high-difficulty Georg special forces mission.\nMission Theme: Georg",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000349-Fame_Geo01-": {
     "desc": "Allied soldiers attacking $map:02020070$ and $map:02020071$ are said to be frightened.\n\n$npcName:11004614$ says it is because of a terrifying Black Legion monster that vanishes without a trace after attacking.\n\nRumors that it is a ghost are spreading among the soldiers, lowering morale.\n\nBefore the damage grows worse, you need to suppress them.\n\nGo to $map:02020070$ and defeat $npcName:25022601$, then go to $map:02020071$ and defeat $npcName:25022700$.",
-    "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022601$, then go to $map:02020071$ and defeat $npcName:25022700$."
+    "descFameUI": "Go to $map:02020070$ and defeat $npcName:25022601$, then go to $map:02020071$ and defeat $npcName:25022700$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000351-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and help solve the refugees' difficulties.",
-    "desc": "$npcName:11004614$ asks you to go to $map:02020066$ without giving many details.\nShe says she is always worried about the refugees staying in that barren place.\n\nTo answer $npcName:11004614$'s compassion, you feel determined to help the refugees even more.\n\nGo to $map:02020066$, meet $npc:11004574$, and solve whatever difficulties they have.\n\nYou must receive and complete the '$quest:40002807$' mission from $npc:11004574$."
+    "desc": "$npcName:11004614$ asks you to go to $map:02020066$ without giving many details.\nShe says she is always worried about the refugees staying in that barren place.\n\nTo answer $npcName:11004614$'s compassion, you feel determined to help the refugees even more.\n\nGo to $map:02020066$, meet $npc:11004574$, and solve whatever difficulties they have.\n\nYou must receive and complete the '$quest:40002807$' mission from $npc:11004574$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and help solve the refugees' troubles"
   },
   "94000350-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020066$, meet $npc:11004574$, and find out why the number of drones has decreased.",
-    "desc": "$npcName:11004614$ says the number of surveillance drones in $map:02020066$ has recently dropped noticeably.\n\nIf the number of drones decreases, defending $map:02020066$ will be difficult, so it is unclear why their active count was reduced.\n\nGo directly to $map:02020066$, meet $npc:11004574$, and find out why the number of drones has decreased.\n\nYou must receive and complete the '$quest:40002806$' mission from $npc:11004574$."
+    "desc": "$npcName:11004614$ says the number of surveillance drones in $map:02020066$ has recently dropped noticeably.\n\nIf the number of drones decreases, defending $map:02020066$ will be difficult, so it is unclear why their active count was reduced.\n\nGo directly to $map:02020066$, meet $npc:11004574$, and find out why the number of drones has decreased.\n\nYou must receive and complete the '$quest:40002806$' mission from $npc:11004574$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Go to $map:02020066$, meet $npc:11004574$, and find out why the number of drones has decreased"
   },
   "94000353-Fame_Geo01-": {
     "desc": "During a search mission, $npc:11004393$ saw Kerbes forces tormenting refugees for fun.\n\nYou cannot let monsters like that get away with it.\n\nGo to $map:02020066$, meet $npc:11004574$, and repel the Kerbes forces.\n\nYou must receive and complete the '$quest:40002809$' mission from $npc:11004574$.",
