@@ -47997,7 +47997,9 @@
   },
   "94000396-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020069$, meet $npc:11004620$, and discuss ways to strengthen security.",
-    "desc": "$npcName:11004614$ says the Black Legion has not stopped trying to steal the Morang's 'mysterious power.'\n\nThey are said to be constantly sending creatures consumed by black energy to $map:02020069$.\n\n$npcName:11004614$ worries that the Morang's primitive weapons are not enough to stand against the Black Legion.\n\nGo to $map:02020069$, meet $npc:11004620$, and discuss ways to strengthen security.\n\nYou must receive and complete the '$quest:40002823$' mission from $npc:11004620$."
+    "desc": "$npcName:11004614$ says the Black Legion has not stopped trying to steal the Morang's 'mysterious power.'\n\nThey are said to be constantly sending creatures consumed by black energy to $map:02020069$.\n\n$npcName:11004614$ worries that the Morang's primitive weapons are not enough to stand against the Black Legion.\n\nGo to $map:02020069$, meet $npc:11004620$, and discuss ways to strengthen security.\n\nYou must receive and complete the '$quest:40002823$' mission from $npc:11004620$.",
+    "manual": "Go to $map:02020069$ and meet $npc:11004620$",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000395-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the Morang in $map:02020069$ are suffering from food shortages.\n\nFood shortages for Morang who lived abundantly thanks to plentiful tree fruit...\nSomething must have happened.\n\nGo to $map:02020069$, meet $npc:11004620$, and investigate the cause of the food shortage.\n\nYou must receive and complete the '$quest:40002826$' mission from $npc:11004620$.",
@@ -48007,75 +48009,96 @@
   },
   "94000399-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the attack operation against $map:02020070$ has run into a major obstacle.\n\nIt is because the Black Legion blackened $npcName:25022604$ and deployed it in $map:02020070$.\n\nShe says $npcName:25022604$ is causing heavy damage to allied forces with its sharp poisonous stinger.\n\nBefore there are more casualties, go to $map:02020070$ and suppress $npcName:25022604$.",
-    "descFameUI": "Go to $map:02020070$ and suppress $npcName:25022604$."
+    "descFameUI": "Go to $map:02020070$ and suppress $npcName:25022604$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000398-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020070$ and suppress $npcName:25022600$.",
-    "desc": "$npcName:11004614$ says a full-scale offensive against $map:02020070$ has begun.\n\nThe regular army and special forces will attack $map:02020070$ together.\n\n$map:02020070$ is heavily defended, so there will be many casualties.\n\nIf you suppress the main force, $npcName:25022600$, before the full offensive, you may be able to reduce the damage.\n\nGo to $map:02020070$ and suppress $npcName:25022600$."
+    "desc": "$npcName:11004614$ says a full-scale offensive against $map:02020070$ has begun.\n\nThe regular army and special forces will attack $map:02020070$ together.\n\n$map:02020070$ is heavily defended, so there will be many casualties.\n\nIf you suppress the main force, $npcName:25022600$, before the full offensive, you may be able to reduce the damage.\n\nGo to $map:02020070$ and suppress $npcName:25022600$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000397-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says activity among the residents of $map:02020069$ has noticeably increased.\n\nAccording to drone footage, it does not look like commercial activity. Morang are gathering and moving around a specific place.\n\nIt would be good if this is something positive... but if something bad has happened, you should help the Morang.\n\nGo to $map:02020069$, meet $npc:11004620$, and find out what happened.\n\nYou must receive and complete the '$quest:40002824$' mission from $npc:11004620$.",
-    "descFameUI": "Go to $map:02020069$, meet $npc:11004620$, and find out what happened."
+    "descFameUI": "Go to $map:02020069$, meet $npc:11004620$, and find out what happened.",
+    "manual": "Go to $map:02020069$ and meet $npc:11004620$",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000401-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says allied rifle bullets cannot pierce the shield of $npcName:25022704$ stationed in $map:02020071$.\n\nShe says that to attack $map:02020071$, they need to analyze the shield's composition and find a way to penetrate it.\n\nGo to $map:02020071$, defeat $npcName:25022704$, and secure $item:30001368$.",
-    "descFameUI": "Go to $map:02020071$, defeat $npcName:25022704$, and secure $item:30001368$."
+    "descFameUI": "Go to $map:02020071$, defeat $npcName:25022704$, and secure $item:30001368$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000400-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020071$, defeat $npcName:25022702$, and secure $item:30001367$.",
-    "desc": "$npcName:11004614$ says some of the Black Legion forces deployed in $map:02020071$ have terrifying combat power.\n\nIn particular, $npcName:25022702$ is said to possess immense combat power that cannot be explained by its physical structure.\n\nCiting the research team's opinion, $npcName:11004614$ says $item:30001367$ on $npcName:25022702$'s head is likely the source of its power.\n\nFor detailed research, go to $map:02020071$, defeat $npcName:25022702$, and secure $item:30001367$."
+    "desc": "$npcName:11004614$ says some of the Black Legion forces deployed in $map:02020071$ have terrifying combat power.\n\nIn particular, $npcName:25022702$ is said to possess immense combat power that cannot be explained by its physical structure.\n\nCiting the research team's opinion, $npcName:11004614$ says $item:30001367$ on $npcName:25022702$'s head is likely the source of its power.\n\nFor detailed research, go to $map:02020071$, defeat $npcName:25022702$, and secure $item:30001367$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000403-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says they identified the location of weapons crates the Tyren Kingdom provided to Kerbes.\n\nThese weapons crates are said to be what Kerbes received in exchange for providing information to the Tyren Kingdom.\n\n$npcName:11004614$ says Kerbes received the weapons crates and transported them to $map:02020016$.\n\nIf you launch a surprise attack there, you should be able to find the weapons crates.\n\nGo to $map:02020016$ and seize the weapons crates.",
-    "descFameUI": "Go to $map:02020016$ and seize the weapons crates."
+    "descFameUI": "Go to $map:02020016$ and seize the weapons crates.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000404-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the Poings in $map:02020013$ are obsessed with a certain fruit tree.\n\nIt is a fruit tree that bears blue fruit, and they attack fiercely whenever the scouting team even approaches it.\n\n$npcName:11004614$ says she cannot help but wonder why the Poings are so obsessed with the fruit tree.\n\nFor $npcName:11004614$, go to $map:02020013$ and pick blue fruit.",
-    "descFameUI": "Go to $map:02020013$ and pick blue fruit."
+    "descFameUI": "Go to $map:02020013$ and pick blue fruit.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000402-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the outskirts of $map:02020032$ have been occupied by the Black Legion.\n\nShe says allied forces withdrew in a hurry and left behind medium-range cannon.\n\n$npcName:11004614$ regrets that recovering even the parts would greatly help allied strength.\n\nTo strengthen Georg's forces, go to $map:02020032$ and recover medium-range cannon parts.",
-    "descFameUI": "Go to $map:02020032$ and recover medium-range cannon parts."
+    "descFameUI": "Go to $map:02020032$ and recover medium-range cannon parts.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000405-Fame_Geo01-": {
     "descFameUI": "Go to $map:02020033$ and destroy the long-range cannon.",
-    "desc": "$npcName:11004614$ says the Tyren Kingdom's long-range cannon has been deployed on the outskirts of $map:02020033$.\n\nThe long-range cannon called KG-42 is said to be a weapon with terrifying destructive power.\n\nShe worries that if the long-range cannon begins shelling, $map:02020033$ will suffer heavy damage.\n\nBefore the shelling begins, go to $map:02020033$ and destroy the long-range cannon."
+    "desc": "$npcName:11004614$ says the Tyren Kingdom's long-range cannon has been deployed on the outskirts of $map:02020033$.\n\nThe long-range cannon called KG-42 is said to be a weapon with terrifying destructive power.\n\nShe worries that if the long-range cannon begins shelling, $map:02020033$ will suffer heavy damage.\n\nBefore the shelling begins, go to $map:02020033$ and destroy the long-range cannon.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000406-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says $npc:11004618$ tried to contact allied forces through their adjutant, $npcName:11004619$.\n\n$npc:11004619$ supposedly offered to arrange a meeting with $npcName:11004618$ if you come to $map:02020051$ to meet them.\n\nIf you secure $npcName:11004618$, you may gain important information that can bring down Kerbes.\n\nMeet $npcName:11004619$ in $map:02020051$, determine $npc:11004618$'s location, and make contact with $npc:11004618$.",
-    "descFameUI": "Meet $npcName:11004619$ in $map:02020051$, determine $npc:11004618$'s location, and make contact with $npc:11004618$."
+    "descFameUI": "Meet $npcName:11004619$ in $map:02020051$, determine $npc:11004618$'s location, and make contact with $npc:11004618$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000407-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the Tyren Kingdom is testing a new mechanical soldier in $map:02020018$.\n\nThe test subject is said to be a latest model with blue paint, different from existing mechanical soldiers.\n\n$npcName:11004614$ says the scouting team discovered a weapons data measuring device installed in $map:02020018$.\n\n$npcName:11004614$ says it seems the new weapon's performance test is being conducted through the data measuring device in $map:02020018$.\n\nTo avoid losing the war against the Tyren Kingdom, you need to analyze data on the new weapon.\n\nGo to $map:02020018$ and secure the test data from the data measuring device.",
-    "descFameUI": "Go to $map:02020018$ and secure the test data from the data measuring device."
+    "descFameUI": "Go to $map:02020018$ and secure the test data from the data measuring device.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Go to $map:02020018$ and obtain test data from the data measuring device"
   },
   "94000409-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says $map:02020017$ is an ancient ruin of Kritias.\n\nShe says that now that northwestern Kidel has been secured, they plan to explore $map:02020017$ in earnest.\n\n$npcName:11004614$ says the first step of the expedition is securing an ancient relic of the Blue Hall.\n\nStudying the relic may reveal the origin of the Blue Hall.\n\nGo to $map:02020017$, secure an ancient relic of the Blue Hall, and return.",
-    "descFameUI": "Go to $map:02020017$ and secure an ancient relic of the Blue Hall."
+    "descFameUI": "Go to $map:02020017$ and secure an ancient relic of the Blue Hall.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Go to $map:02020017$ and secure the ancient relic of the Blue Temple"
   },
   "94000408-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the research team is studying black energy, the source of the Black Legion's contamination.\n\nShe says they are trying to analyze black energy scientifically.\n\nYou said black energy is not a scientific phenomenon, but $npcName:11004614$ counters that there is nothing science cannot explain.\n\nIt seems it would be faster for her to experience it directly and understand.\n\nGo to $map:02020036$ and collect black energy, then return.\n\n",
-    "descFameUI": "Go to $map:02020036$ and collect black energy."
+    "descFameUI": "Go to $map:02020036$ and collect black energy.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000411-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the special forces attacking $map:02020070$ suffered heavy damage from $npcName:25022607$ and $npcName:25022608$.\n\nBlack Legion Masters are said to have terrifying attack power unlike ordinary Black Legion groups.\n\n$npcName:11004614$ says the soldiers now freeze just from seeing their black cloaks.\n\nIf the Black Legion Masters cannot be suppressed, the attack on $map:02020070$ will not succeed.\n\nGo to $map:02020070$ and suppress $npcName:25022607$ and $npcName:25022608$.",
-    "descFameUI": "Go to $map:02020070$ and suppress $npcName:25022607$ and $npcName:25022608$."
+    "descFameUI": "Go to $map:02020070$ and suppress $npcName:25022607$ and $npcName:25022608$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000410-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says they found $map:52100114$, but are having trouble entering it.\n\nShe says it is because of $npcName:25022901$, who is guarding Tekin.\n\n$npcName:11004614$ says soldiers suffered heavy damage from its sharp horns.\n\nSince its body is covered in armor and it is extremely fast, it is not easy to suppress.\n\nBefore more soldiers get hurt, go to $map:52100114$ and suppress $npcName:25022901$.",
-    "descFameUI": "Go to $map:52100114$ and suppress $npcName:25022901$."
+    "descFameUI": "Go to $map:52100114$ and suppress $npcName:25022901$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000412-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says allied soldiers attacking $map:02020070$ and $map:02020071$ suffered heavy damage from the Black Legion's beasts.\n\nAfter slashing with sharp claws, they charge with the large horns on their backs, knocking even heavily armed special forces soldiers away in a single blow.\n\nIf these beasts cannot be suppressed, the attacks on $map:02020070$ and $map:02020071$ will not succeed.\n\nSuppress $npcName:25022606$ and $npcName:25022609$ in $map:02020070$, and $npcName:25022703$ and $npcName:25022709$ in $map:02020071$.",
-    "descFameUI": "Suppress $npcName:25022606$ and $npcName:25022609$ in $map:02020070$, and $npcName:25022703$ and $npcName:25022709$ in $map:02020071$."
+    "descFameUI": "Suppress $npcName:25022606$ and $npcName:25022609$ in $map:02020070$, and $npcName:25022703$ and $npcName:25022709$ in $map:02020071$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000414-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the special forces will soon launch surprise attacks on Kerbes bases $map:52100114$ and $map:52100116$.\n\nShe says if they proceed with the surprise operation as-is, they will suffer heavy damage from $npcName:25022902$, $npcName:25022903$, and $npcName:25023102$.\n\nThat is because combat simulations concluded that the unit members are vulnerable to those Kerbes forces.\n\nYou need to eliminate the factors that could cause the surprise operation to fail.\n\nSuppress $npcName:25022902$ and $npcName:25022903$ in $map:52100114$, connected to $map:02020067$, and $npcName:25023102$ in $map:52100116$, connected to $map:02020003$.",
-    "descFameUI": "Suppress $npcName:25022902$ and $npcName:25022903$ in $map:52100114$, and $npcName:25023102$ in $map:52100116$."
+    "descFameUI": "Suppress $npcName:25022902$ and $npcName:25022903$ in $map:52100114$, and $npcName:25023102$ in $map:52100116$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "94000413-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says northern Kidel was secured through a joint operation with the Maple Alliance, but attacks by Tyren mechanical soldiers are causing heavy losses.\n\nIn particular, $npcName:25023003$, $npcName:25023004$, and $npcName:25023303$ are said to be causing severe damage to soldiers with their powerful combat ability.\n\n$npcName:11004614$ says that if you suppress them, you may be able to gain the upper hand in the war against Tyren.\n\nDefeat $npcName:25023003$ and $npcName:25023004$ in $map:52100115$, connected to $map:02020013$, and $npcName:25023303$ in $map:52100118$, connected to $map:02020051$.",
-    "descFameUI": "Defeat $npcName:25023003$ and $npcName:25023004$ in $map:52100115$, and $npcName:25023303$ in $map:52100118$."
+    "descFameUI": "Defeat $npcName:25023003$ and $npcName:25023004$ in $map:52100115$, and $npcName:25023303$ in $map:52100118$.",
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "90000798-Pet_Zakum-": {
     "desc": "Barkant, visitor from another world. Is the burning ember he holds truly different from the others? Defeat Barkant and find out."
@@ -48096,19 +48119,22 @@
     "desc": "You thought it would be easy to get... but who knew meeting $npc:11000190$ would be this difficult...\nYou already promised $npc:11000187$ you would bring back the medicinal herbs, so you cannot give up now.\nFor now, take $item:30000026$ and go to $map:02000082$, said to be right below $npc:11000192$'s house in $map:02000059$, and look for $npc:11000190$."
   },
   "10001086--JP": {
-    "desc": "$npc:11000190$'s secret manual says $item:20000044$ has the effect of warming the body.\nLook for a golden apple tree in $map:02000059$."
+    "desc": "$npc:11000190$'s secret manual says $item:20000044$ has the effect of warming the body.\nLook for a golden apple tree in $map:02000059$.",
+    "complete": "Return to $map:02000150$ in $map:02000085$"
   },
   "10001083--JP": {
     "desc": "$npc:11000190$ seems like a very inattentive husband.\nFirst, find $npc:11000192$ and learn where $npcName:11000190$ is."
   },
   "10001082--JP": {
-    "desc": "$npc:11000187$'s love and concern for $npc:11000188$ comes through clearly.\nI should help so $npc:11000188$ can recover quickly. Go to $map:02000059$."
+    "desc": "$npc:11000187$'s love and concern for $npc:11000188$ comes through clearly.\nI should help so $npc:11000188$ can recover quickly. Go to $map:02000059$.",
+    "complete": "Find Herbalist Hoffman's house in $map:02000059$"
   },
   "10001290--JP": {
     "desc": "$map:02000145$ was in chaos after monsters suddenly stormed in and ran wild. Among the researchers collapsed from monster attacks, $npc:11000125$ was barely conscious and said the monsters had taken $item:20000049$, which was being used in experiments. They asked you to defeat the monsters and recover it before $item:20000049$ leaks outside the research center.\n$item:20000049$ could cause major chaos in the ecosystem if it leaks outside the laboratory!\nDefeat the monsters that attacked $map:02000145$, recover the $item:20000049$ they took, and prevent the leak!"
   },
   "10001100--JP": {
-    "desc": "$npc:11000190$ seems likely to keep gathering mushrooms in $map:02000082$.\nWhen the time comes, he will probably return home...\nOn your way out, relight the extinguished candle in $map:02000082$ for $npcName:11000190$, then meet $npc:11000191$ in $map:02000059$. "
+    "desc": "$npc:11000190$ seems likely to keep gathering mushrooms in $map:02000082$.\nWhen the time comes, he will probably return home...\nOn your way out, relight the extinguished candle in $map:02000082$ for $npcName:11000190$, then meet $npc:11000191$ in $map:02000059$. ",
+    "name": "The Head of the Household's Duty"
   },
   "10001250--JP": {
     "desc": "$npc:11000049$, the beloved cat of $npc:11000217$'s owner, is trapped in a gap in the cliff wall and cannot get out.\nUse wall climbing or balloon flight to enter the gap in the cliff wall and rescue $npc:11000049$. "
@@ -48120,7 +48146,8 @@
     "desc": "To cheer up his girlfriend, who suddenly got upset for unknown reasons, $npc:11000223$ is looking for $item:30000046$, which she threw into the grass.\nFor $npc:11000223$'s love, search the grass in $map:02000135$ and find $item:30000046$."
   },
   "10001451--JP": {
-    "desc": "You cannot prove whether the fortune is true or not, but hearing it somehow leaves you uneasy.\nIt may be better to obtain $item:30000068$ and clear away that uneasy feeling.\nIf you meet $npc:23000020$ in $map:02000088$, do not back away. Charge bravely and defeat it. \n"
+    "desc": "You cannot prove whether the fortune is true or not, but hearing it somehow leaves you uneasy.\nIt may be better to obtain $item:30000068$ and clear away that uneasy feeling.\nIf you meet $npc:23000020$ in $map:02000088$, do not back away. Charge bravely and defeat it. \n",
+    "complete": "Return to $npc:11000283$ in $map:02000088$"
   },
   "10001310--JP": {
     "desc": "Bad people tormenting a kind fairy...!\nDefeat the monsters in $map:02000041$ and find $item:30000050$."
@@ -48135,7 +48162,8 @@
     "desc": "For $npc:11000292$, whose $item:30000065$ was stolen by $npc:22000002$, wait in $map:02000087$ until $npc:22000002$ appears, then defeat it.\nIf it is difficult to fight alone, gather companions to fight with you."
   },
   "10001490--JP": {
-    "desc": "Those nasty Domaguri are catching and sweeping up all the frogs around $map:02000022$.\nDefeat <font color=\"#ffd200\">$npc:21090175$</font>, <font color=\"#ffd200\">$npc:21090176$</font>, and <font color=\"#ffd200\">$npc:21090177$</font>, then find the captured <font color=\"#ffd200\">$item:30000071$</font> and release them onto the lotus leaves by the water. That should stop $npc:11000294$ from crying. "
+    "desc": "Those nasty Domaguri are catching and sweeping up all the frogs around $map:02000022$.\nDefeat <font color=\"#ffd200\">$npc:21090175$</font>, <font color=\"#ffd200\">$npc:21090176$</font>, and <font color=\"#ffd200\">$npc:21090177$</font>, then find the captured <font color=\"#ffd200\">$item:30000071$</font> and release them onto the lotus leaves by the water. That should stop $npc:11000294$ from crying. ",
+    "manual": "Release $item:30000071$, captured by the Domaguri in $map:02000022$, onto the lotus leaves by the river"
   },
   "10001522--JP": {
     "desc": "You helped $npc:11000299$, but because of the monsters in $map:02000056$, the carrots may not grow safely.\nDefeat the monsters in $map:02000056$ before they ruin the carrots!"
@@ -48219,7 +48247,8 @@
     "desc": "$npc:22000003$ and $npc:22000004$ were thought to be only legends passed down in old storybooks...\nIf they really exist somewhere in this world, then that legendary story may be true...\nFind $npc:11000327$ in $map:02000001$ and ask whether they really appeared, and where."
   },
   "10001820--JP": {
-    "desc": "$npc:11000425$ in $map:02000085$ asks you to catch a flying wild eagle and deliver $item:30000141$ to $npc:11000427$ across the way.\nCatching a wild eagle... It sounds pretty fun.\nWait beside $npc:11000425$ until a wild eagle comes, then catch it and fly."
+    "desc": "$npc:11000425$ in $map:02000085$ asks you to catch a flying wild eagle and deliver $item:30000141$ to $npc:11000427$ across the way.\nCatching a wild eagle... It sounds pretty fun.\nWait beside $npc:11000425$ until a wild eagle comes, then catch it and fly.",
+    "complete": "Grab onto the eagle in $map:02000085$ and fly to $npc:11000427$"
   },
   "10001802--JP": {
     "desc": "$npc:11000327$ considers the possibility that $npc:22000003$ and $npc:22000004$ witnessed in $map:02000041$ may be real, and asks for help checking whether they truly have the ruby necklace and jewel box Alberto gave Roanna as tokens of love.\nGo to $map:02000041$ and check whether $npc:22000003$ and $npc:22000004$ really appear, and whether they have the ruby necklace and jewel box.\nTheir infamy is probably not baseless rumor, so it would be best to find companions who can join forces and fight together."
@@ -48234,7 +48263,8 @@
     "desc": "$npc:11000025$ in $map:02000062$ is anxiously worried, saying her older brother $npc:11000021$ went missing after leaving $map:63000001$ for $map:02000062$ and being caught in a storm that wrecked his ship.\nIt seems hard to coldly refuse her desperate request to go to $map:02000183$ and at least find out whether $npc:11000021$ is alive.\nIf you ask $npc:11000994$, who handles odd jobs at the docks in $map:02000062$, he can take you by boat to $map:02000183$ quickly, though it may be somewhat dangerous."
   },
   "10001842--JP": {
-    "desc": "$npc:11000021$ told you the miraculous story of leaving $map:63000001$ and escaping from the ghost pirate ship. The ghost pirate ship has finally been caught by the tail! Could this become the spark that reveals the truth behind the missing Victoria? "
+    "desc": "$npc:11000021$ told you the miraculous story of leaving $map:63000001$ and escaping from the ghost pirate ship. The ghost pirate ship has finally been caught by the tail! Could this become the spark that reveals the truth behind the missing Victoria? ",
+    "name": "What Santiago Experienced"
   },
   "10001841--JP": {
     "desc": "You happened to meet $npc:11000782$ in $map:02000183$!\nWhile listening to their adventure story about nearly dying after being captured by ghost pirates, you learned news about $npc:11000021$.\nFortunately, $npc:11000021$ is alive! You should be able to bring good news to $npc:11000025$.\nGo to $map:02000067$ and meet $npc:11000021$. "
@@ -48249,7 +48279,8 @@
     "desc": "In $map:02000173$, instead of the man in the brown satgat, you met someone named $npc:11000145$ with strange plastic over their eyes.\nAccording to them, the person who pushed them aside and fought when $npc:22000322$ nearly killed them was wearing $item:11300119$...\nWhat happened to the man who left only paper flowers for $npc:11000010$ before leaving...?\nIf you search for $npc:22000322$ in $map:02000173$, perhaps you can learn his whereabouts. "
   },
   "10002280--JP": {
-    "desc": "$npc:11000358$ in $map:02000110$ swore to leave the gangster world and never throw another punch for the rest of his life, and asks you to punish the $npc:21000281$ who are throwing dangerous bombs everywhere in his place."
+    "desc": "$npc:11000358$ in $map:02000110$ swore to leave the gangster world and never throw another punch for the rest of his life, and asks you to punish the $npc:21000281$ who are throwing dangerous bombs everywhere in his place.",
+    "name": "I'm Not Who I Used to Be!"
   },
   "10001852--JP": {
     "desc": "Fortunately, $npc:11001054$ seems to have passed the first interview without trouble. But the final hurdle remains: \"singing the Goldus anthem in front of $npc:11000252$.\" They are upset because they cannot memorize the lyrics at all.\nTo help $npc:11001054$ comfortably memorize the Goldus anthem, deliver the pizza on the first floor of $map:52000004$ to the top floor in their place."
@@ -48309,10 +48340,12 @@
     "desc": "Move ice to block the lava holes around $npc:11000360$'s house in $map:02000086$."
   },
   "20001060--JP": {
-    "desc": "For $npc:11000362$ in $map:02000111$, lure $npc:29000033$ into the trap on the coast.\nOpen the trap first, then lure $npc:29000033$ into the trap you opened!"
+    "desc": "For $npc:11000362$ in $map:02000111$, lure $npc:29000033$ into the trap on the coast.\nOpen the trap first, then lure $npc:29000033$ into the trap you opened!",
+    "manual": "Lure $npc:29000033$ into the trap I opened to obtain $item:20000056$"
   },
   "20001061--JP": {
-    "desc": "Promote $item:30000140$ to the tourists on the beach in front of the $map:02000085$ portal in $map:02000111$."
+    "desc": "Promote $item:30000140$ to the tourists on the beach in front of the $map:02000085$ portal in $map:02000111$.",
+    "manual": "Promote $item:30000140$ to tourists along the coast"
   },
   "20001100--JP": {
     "desc": "Read the data stored on A-NRL among the computers in $map:02000145$."
@@ -48324,25 +48357,31 @@
     "desc": "Read the data stored on B-NRL among the computers in $map:02000145$."
   },
   "20001090--JP": {
-    "desc": "For $npc:11000368$ in $map:02000017$, take out $item:30000104$ beside $npc:11000368$, then sprinkle $item:30000104$ on the saplings planted along the roadside in $map:02000017$."
+    "desc": "For $npc:11000368$ in $map:02000017$, take out $item:30000104$ beside $npc:11000368$, then sprinkle $item:30000104$ on the saplings planted along the roadside in $map:02000017$.",
+    "manual": "Take $item:30000104$ from $npc:11000368$'s basket in $map:02000017$|Sprinkle the potion on the saplings along the road in $map:02000017$"
   },
   "20001070--JP": {
-    "desc": "Where did this pig found in $map:02000088$ jump from? Climb the nearby tower."
+    "desc": "Where did this pig found in $map:02000088$ jump from? Climb the nearby tower.",
+    "complete": "Climb the tower in $map:02000088$ and read the pig's diary"
   },
   "20001110--JP": {
     "desc": "Find the heart messages installed by $npc:11000376$ in $map:02000087$ and check whether any lights have gone out."
   },
   "20001121--JP": {
-    "desc": "Talk to $npc:11000379$ at the top of $map:02000135$."
+    "desc": "Talk to $npc:11000379$ at the top of $map:02000135$.",
+    "name": "Membership Requirement 1"
   },
   "20001120--JP": {
-    "desc": "Talk to $npc:11000382$ at the top of $map:02000148$."
+    "desc": "Talk to $npc:11000382$ at the top of $map:02000148$.",
+    "name": "Membership Requirement 2"
   },
   "20001122--JP": {
-    "desc": "Talk to $npc:11000380$ at the top of $map:02000110$."
+    "desc": "Talk to $npc:11000380$ at the top of $map:02000110$.",
+    "name": "Membership Requirement 3"
   },
   "20001103--JP": {
-    "desc": "Deliver the information you read to $npc:11000372$."
+    "desc": "Deliver the information you read to $npc:11000372$.",
+    "manual": "Return to $npc:11000372$"
   },
   "20001200--JP": {
     "desc": "Try pulling out $item:20000061$, which grows in the lava of $map:02000086$. Do not be afraid, even if the burning lava is hot!"
@@ -48351,10 +48390,12 @@
     "desc": "Erase the mushroom graffiti found throughout $map:02000110$."
   },
   "20001150--JP": {
-    "desc": "For $npc:11000386$ in $map:02000041$, transplant the red trees south of $npc:11000386$."
+    "desc": "For $npc:11000386$ in $map:02000041$, transplant the red trees south of $npc:11000386$.",
+    "name": "Even Trees Need Friends"
   },
   "20001160--JP": {
-    "desc": "For the obsessed fan $npc:11000387$ you met in $map:02000137$, take a photo of $npc:11000406$.\nClimb the structure to the left of the performance hall and take the photo."
+    "desc": "For the obsessed fan $npc:11000387$ you met in $map:02000137$, take a photo of $npc:11000406$.\nClimb the structure to the left of the performance hall and take the photo.",
+    "manual": "Receive $item:30000109$ from $npc:11000387$|Climb onto the structure on the left side of the performance hall and take photos of $npc:11000406$ from multiple angles"
   },
   "20001191--JP": {
     "desc": "Swap the graffiti around $npc:11000412$'s hideout in $map:02000086$."
@@ -48366,7 +48407,8 @@
     "desc": "Strike the furnaces in $map:02000086$ to wake the $npc:21000086$, then take $item:30000142$ from them.\nCheck the minimap for the furnace locations."
   },
   "20001210--JP": {
-    "desc": "Move tubes in $map:02000111$ and block $npc:11000362$'s $npc:29000033$ trap."
+    "desc": "Move tubes in $map:02000111$ and block $npc:11000362$'s $npc:29000033$ trap.",
+    "manual": "Use tubes to fill the beachside $npc:29000033$ traps"
   },
   "20001230--JP": {
     "desc": "Enter the gap between the buildings behind $npc:11000472$ and catch the $npc:29000025$."
@@ -49134,5 +49176,21 @@
   "89010206--": {
     "manual": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$",
     "complete": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$"
+  },
+  "72000084--JP": {
+    "manual": "Defeat $npcName:21000078$, who is threatening adventurers in $map:02000043$",
+    "name": "Defeat $npcName:21000078$, who is threatening adventurers in $map:02000043$"
+  },
+  "72000810-Kritias02-": {
+    "manual": "Throw thorny vines",
+    "name": "Throw Thorny Vines"
+  },
+  "72000116--JP": {
+    "manual": "Go near the lower part of $map:02000056$ and inspect $npcName:11004259$",
+    "name": "Go near the lower part of $map:02000056$ and inspect $npcName:11004259$"
+  },
+  "20001000--JP": {
+    "manual": "Hunt $npc:21000029$ by the stream to obtain $item:20000055$",
+    "desc": "Hunt $npc:21000029$ gathered by the stream in $map:02000017$ to obtain $item:20000055$!"
   }
 }
