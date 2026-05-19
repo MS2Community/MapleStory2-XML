@@ -47135,7 +47135,8 @@
   },
   "89010376-Event-CN": {
     "manual": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times",
-    "complete": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times"
+    "complete": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times",
+    "name": "Defeat Field Bosses 20 Times"
   },
   "89010379-Event-CN": {
     "name": "Obtain 10 Adventure [Normal/Raid] Bonus Boxes",
@@ -47610,11 +47611,14 @@
     "complete": "Talk to $npc:11004782$ in $map:52000193$ of $map:02000001$"
   },
   "10003410-EpicApocalypse01-": {
-    "desc": "You were asked to execute $npcName:11004744$.\n$npc:11004778$ calls $npcName:11004744$ a traitor.\n\nBut it is hard to imagine executing a hero who was once called the Mage of Light and helped the Empress.\nEven if $npc:11004778$ asked you to…"
+    "desc": "You were asked to execute $npcName:11004744$.\n$npc:11004778$ calls $npcName:11004744$ a traitor.\n\nBut it is hard to imagine executing a hero who was once called the Mage of Light and helped the Empress.\nEven if $npc:11004778$ asked you to…",
+    "manual": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$",
+    "complete": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$"
   },
   "10003409-EpicApocalypse01-": {
     "desc": "$npc:11004778$ spoke of one who was once one of the Seven Heroes, but is now stained by darkness.\n\n$npc:11004744$, a companion of the great hero $npc:11001812$ and one of the Seven Heroes.\nThey said he is imprisoned in $map:52000189$.\n\nWhy is he imprisoned in a place meant to hold criminals and traitors?",
-    "manual": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$"
+    "manual": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$",
+    "complete": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$"
   },
   "10003411-EpicApocalypse01-": {
     "desc": "You answered $npc:11004778$'s request by saying you would try for the sake of $map:02000001$, but you are still confused.\nIs it really right for you to execute $npcName:11004744$?\n\nSet your confusion aside, find the key, and go to $map:52000189$ in $map:02000001$.\nIf you meet $npc:11004744$, perhaps you can find a clue like a ray of light in this confusion.\nOr maybe it would be right to kill him according to $npc:11004778$'s order. ",
@@ -47630,20 +47634,28 @@
     "complete": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$"
   },
   "10003416-EpicApocalypse01-": {
-    "desc": "The reason you need to know the truth is not simple curiosity.\nYou cannot execute $npcName:11004744$ just because $npc:11004778$ ordered it.\n\nTaking someone's life carries that much weight.\nYou must know the truth and choose. That is respect for death.\n\nYou must uncover the truth.\n\n(If you leave the map, you can re-enter through $npcName:11004795$ in $map:02000146$)\n"
+    "desc": "The reason you need to know the truth is not simple curiosity.\nYou cannot execute $npcName:11004744$ just because $npc:11004778$ ordered it.\n\nTaking someone's life carries that much weight.\nYou must know the truth and choose. That is respect for death.\n\nYou must uncover the truth.\n\n(If you leave the map, you can re-enter through $npcName:11004795$ in $map:02000146$)\n",
+    "manual": "Talk to $npcName:11004795$ in $map:52000199$",
+    "complete": "Talk to $npcName:11004795$ in $map:52000199$"
   },
   "10003413-EpicApocalypse01-": {
-    "desc": "Inside the powerful magical barrier, $npcName:11004744$ seems to have a lot to say.\nEven after long years of confinement, his eyes long for the truth.\n\nIf you must kill this person, bound and unable to do anything, it does not have to be right now.\nSomehow, you find yourself listening to his story. "
+    "desc": "Inside the powerful magical barrier, $npcName:11004744$ seems to have a lot to say.\nEven after long years of confinement, his eyes long for the truth.\n\nIf you must kill this person, bound and unable to do anything, it does not have to be right now.\nSomehow, you find yourself listening to his story. ",
+    "manual": "Calmly talk with $npc:11004793$, who is trapped in $map:52000191$ on the lowest floor of $map:52000189$ in $map:02000001$",
+    "complete": "Calmly talk with $npc:11004793$, who is trapped in $map:52000191$ on the lowest floor of $map:52000189$ in $map:02000001$"
   },
   "10003412-EpicApocalypse01-": {
-    "desc": "$npcName:11004744$ is already radiating powerful energy here.\n$npc:11004778$ told you to kill him...\nPerhaps he overestimated you.\n\nCan you face him? "
+    "desc": "$npcName:11004744$ is already radiating powerful energy here.\n$npc:11004778$ told you to kill him...\nPerhaps he overestimated you.\n\nCan you face him? ",
+    "complete": "Calmly talk with $npc:11004793$, who is trapped in $map:52000191$ on the lowest floor of $map:52000189$ in $map:02000001$"
   },
   "10003415-EpicApocalypse01-": {
     "desc": "$npcName:11004744$: traitor, or loyal servant.\nSince you do not know the truth, you need to find any clue you can.\n\nHis instruction to go to the Gate of Light tells you that his truth lies in the past.\nThe truth may remain in the place he went to seal the darkness.\nGo to the former Gate of Light... the place now called $map:02000146$.",
-    "manual": "Look closely at $npc:11004803$ in the center of $map:02000146$|Listen closely to $npc:11004803$ in the center of $map:02000146$|Touch $npc:11004803$ in the center of $map:02000146$"
+    "manual": "Look closely at $npc:11004803$ in the center of $map:02000146$|Listen closely to $npc:11004803$ in the center of $map:02000146$|Touch $npc:11004803$ in the center of $map:02000146$",
+    "complete": "Talk to $npcName:11004795$, who appeared in the center of $map:02000146$"
   },
   "10003414-EpicApocalypse01-": {
-    "desc": "A traitor who became intoxicated by darkness and tried to harm the Empress, and who is creating dark matter in $map:52000189$ to frame her.\nThat is the truth about $npcName:11004744$ that you heard from $npc:11004778$.\nBut $npcName:11004744$ tells a different story.\n\nA loyal servant who gave himself to end the war against darkness and went to the land of darkness to seal Lapenta.\nOr a traitor... What is the truth?\n"
+    "desc": "A traitor who became intoxicated by darkness and tried to harm the Empress, and who is creating dark matter in $map:52000189$ to frame her.\nThat is the truth about $npcName:11004744$ that you heard from $npc:11004778$.\nBut $npcName:11004744$ tells a different story.\n\nA loyal servant who gave himself to end the war against darkness and went to the land of darkness to seal Lapenta.\nOr a traitor... What is the truth?\n",
+    "manual": "Calmly talk with $npc:11004793$, who is trapped in $map:52000191$ on the lowest floor of $map:52000189$ in $map:02000001$",
+    "complete": "Calmly talk with $npc:11004793$, who is trapped in $map:52000191$ on the lowest floor of $map:52000189$ in $map:02000001$"
   },
   "10003421-EpicApocalypse01-": {
     "desc": "While you were trapped alone in $map:52000190$, you saw the faint silhouette of someone wearing a hood.\nAs the faint silhouette drew closer and removed the hood in front of you, you realized it was $npc:11000075$.\n\n$npc:11000074$ was reporting a distorted truth to $npc:11000075$.\n\n$npc:11000075$ had received a report that you were influenced by $npcName:11004788$, who had been consumed by the power of darkness, but she did not seem to fully believe it.\nShe may have come personally to $map:52000198$ because she found $npcName:11004778$'s report suspicious.\n\nWhile you were talking about what you had learned, smoke seemed to rise from somewhere, and soon flames began to surge.\n\n(If you leave the map, you can re-enter through $npcName:11004826$ in $map:52000189$)"
@@ -47662,35 +47674,48 @@
     "desc": "You should have considered that when faced with two truths that cannot coexist, you may become buried beneath the shadow of lies.\n\nIf the stories of the two people whose claims about the past differed from $npc:11004778$, namely $npc:11004778$ and $npcName:11004744$, were true, then you should have suspected $npc:11004778$, who tried to have $npcName:11004744$ killed.\n\nWhen you told $npc:11004778$ what you had learned, fear flashed in his eyes.\n\nThen he trapped you here.\nYou have to escape.\n\n(If you leave the map, you can re-enter through $npcName:11004826$ in $map:52000189$)\n"
   },
   "10003425-EpicApocalypse01-": {
-    "desc": "A battle over the truth began among $npcName:11004780$, $npcName:11004787$, and $npcName:11000075$, who gathered in $map:52000193$.\n$npcName:11004780$ is definitely hiding something.\nClaiming the current situation is due to his indecision and that he should have executed $npcName:11004787$ sooner does not add up. Did he not order him killed in the first place?\n\nThen the Empress said she knew $npc:11001812$ had completed Lapenta's seal at the cost of his life. She also knew that $npcName:11004744$, who was stained by darkness during the process, tried to harm the Empress. This is completely different from $npcName:11004787$'s claim. It all seems to have come from $npcName:11004780$.\n\n$npcName:11004780$ clearly does not know that you have a clue:\n$item:30001480$, found in his house.\n\nThe Empress said she had not doubted $npcName:11004780$'s loyalty, but she seemed to be questioning him.\nYet $npcName:11004780$ only spoke about his loyalty, and did not seem able to speak about the truth."
+    "desc": "A battle over the truth began among $npcName:11004780$, $npcName:11004787$, and $npcName:11000075$, who gathered in $map:52000193$.\n$npcName:11004780$ is definitely hiding something.\nClaiming the current situation is due to his indecision and that he should have executed $npcName:11004787$ sooner does not add up. Did he not order him killed in the first place?\n\nThen the Empress said she knew $npc:11001812$ had completed Lapenta's seal at the cost of his life. She also knew that $npcName:11004744$, who was stained by darkness during the process, tried to harm the Empress. This is completely different from $npcName:11004787$'s claim. It all seems to have come from $npcName:11004780$.\n\n$npcName:11004780$ clearly does not know that you have a clue:\n$item:30001480$, found in his house.\n\nThe Empress said she had not doubted $npcName:11004780$'s loyalty, but she seemed to be questioning him.\nYet $npcName:11004780$ only spoke about his loyalty, and did not seem able to speak about the truth.",
+    "manual": "Talk to $npc:11004786$ in $map:52000197$ of $map:02000001$",
+    "complete": "Talk to $npc:11004786$ in $map:52000197$ of $map:02000001$"
   },
   "10003423-EpicApocalypse01-": {
-    "desc": "When the flames had spread everywhere and you thought there was no longer any hope, $npc:11000075$ led you to $map:52000192$, said to be known only to the royal family.\nIt would not be an exaggeration to say that royals have lived under threats to their safety since ancient times.\nYou had heard that $map:52000192$ passages for escaping the palace had been built in various places, but to actually see one... "
+    "desc": "When the flames had spread everywhere and you thought there was no longer any hope, $npc:11000075$ led you to $map:52000192$, said to be known only to the royal family.\nIt would not be an exaggeration to say that royals have lived under threats to their safety since ancient times.\nYou had heard that $map:52000192$ passages for escaping the palace had been built in various places, but to actually see one... ",
+    "complete": "Talk to $npc:11004786$ in $map:02000119$"
   },
   "10003422-EpicApocalypse01-": {
-    "desc": "The flames are taking over the underground prison in an instant.\nYou have to escape!\n\nBut if you escape like this, $npcName:11004744$...\nYou cannot leave him behind."
+    "desc": "The flames are taking over the underground prison in an instant.\nYou have to escape!\n\nBut if you escape like this, $npcName:11004744$...\nYou cannot leave him behind.",
+    "complete": "Talk to $npcName:11004788$ in $map:52000198$ of $map:02000001$"
   },
   "10003424-EpicApocalypse01-": {
     "desc": "You barely escaped alive from the flames.\nThen $npc:11000075$ began questioning the conflicting truths.\nBut everyone wants the truth as much as the Empress does.\n\nThe Empress called together everyone connected to this matter.\nSoon, everyone who can speak about the truth of the past will gather in $map:52000193$. \n",
     "manual": "Search for clues $npc:11000074$ may have left behind in $map:02000190$ of $map:02000119$"
   },
   "10003426-EpicApocalypse01-": {
-    "desc": "Between $npcName:11004780$, who insists on his loyalty, and $npcName:11004787$, who tells a different story, the truth seemed to fall into a maze.\n\nThe Empress may have wanted to give $npcName:11004780$ a chance to confess.\nBut that chance ended, and $npcName:11004780$ was driven into danger.\nTo think the words of the one who should have been more loyal to the royal family than anyone, and who should have protected it, were lies...\nWith what heart does $npcName:11004780$ intend to bear the many incidents and truths caused by those lies? "
+    "desc": "Between $npcName:11004780$, who insists on his loyalty, and $npcName:11004787$, who tells a different story, the truth seemed to fall into a maze.\n\nThe Empress may have wanted to give $npcName:11004780$ a chance to confess.\nBut that chance ended, and $npcName:11004780$ was driven into danger.\nTo think the words of the one who should have been more loyal to the royal family than anyone, and who should have protected it, were lies...\nWith what heart does $npcName:11004780$ intend to bear the many incidents and truths caused by those lies? ",
+    "manual": "Talk to $npc:11004786$ in $map:52000197$ of $map:02000001$",
+    "complete": "Talk to $npc:11004786$ in $map:52000197$ of $map:02000001$"
   },
   "10003428-EpicApocalypse01-": {
-    "desc": "At first, this all began with a small rift.\n$npc:11004727$ appeared throughout $map:02000001$ and made people uneasy...\nThe astonishing theory that they began from $npc:11000075$, the symbol of light.\nAnd now, $npc:11004801$ has appeared before your eyes.\nDoes this mean you must now fear destruction caused by the Empress, who was the light of this world?"
+    "desc": "At first, this all began with a small rift.\n$npc:11004727$ appeared throughout $map:02000001$ and made people uneasy...\nThe astonishing theory that they began from $npc:11000075$, the symbol of light.\nAnd now, $npc:11004801$ has appeared before your eyes.\nDoes this mean you must now fear destruction caused by the Empress, who was the light of this world?",
+    "manual": "Talk to $npc:11004783$ in $map:52000194$ of $map:02000001$",
+    "complete": "Talk to $npc:11004783$ in $map:52000194$ of $map:02000001$"
   },
   "10003427-EpicApocalypse01-": {
     "desc": "The truth surrounding Lapenta's seal was revealed. $npcName:11004787$'s claim was true.\n$npcName:11004780$ may truly have made that choice to protect the Empress. But protecting someone should not mean letting them seek safety while deceived by lies.\n\nEmpress $npcName:11004825$ felt extreme anger.\nIt was not simply anger toward $npcName:11004780$, but deep, dark anger toward herself for being deceived by lies and betraying the heroes who had waited for her help with Lapenta's seal... and toward her own helplessness for failing to save the countless people who suffered because of the being born from it.\n\nThat anger was extraordinary.\nThe power within the Empress exploded, and she lost consciousness.\nAnd then... $npcName:11004801$ appeared."
   },
   "10003431-EpicApocalypse01-": {
-    "desc": "You crossed beyond $npc:11004801$.\nThe things you meet here are definitely things you have seen before.\nBut something is different. Just their presence makes the air feel heavy.\nYou need to find out what this energy is.\n\n(If you leave the map, you can re-enter through the central portal in $map:52000201$)"
+    "desc": "You crossed beyond $npc:11004801$.\nThe things you meet here are definitely things you have seen before.\nBut something is different. Just their presence makes the air feel heavy.\nYou need to find out what this energy is.\n\n(If you leave the map, you can re-enter through the central portal in $map:52000201$)",
+    "complete": "Talk to $npc:11004784$ in $map:52000201$ of $map:02000001$"
   },
   "10003430-EpicApocalypse01-": {
-    "desc": "$npcName:11004783$ and $npcName:11004789$ are gathering energy toward the rift in space-time.\nThey are creating a way for you to return.\nTrust them, go beyond $npc:11004801$, and do whatever you can for Maple World's peace.\n\nSomehow, you feel strong faith in them. "
+    "desc": "$npcName:11004783$ and $npcName:11004789$ are gathering energy toward the rift in space-time.\nThey are creating a way for you to return.\nTrust them, go beyond $npc:11004801$, and do whatever you can for Maple World's peace.\n\nSomehow, you feel strong faith in them. ",
+    "manual": "Talk to $npc:11004789$ in $map:52000201$ of $map:02000001$",
+    "complete": "Talk to $npc:11004789$ in $map:52000201$ of $map:02000001$"
   },
   "10003429-EpicApocalypse01-": {
-    "desc": "$npcName:11004787$ and $npcName:11004783$ worried about $npc:11004801$, which appeared the moment the Empress lost consciousness.\n\nBeyond it lies a clue that could protect the peace of Maple World.\nBut if you head there carelessly, it may be difficult to return.\nYou could become lost inside $npc:11004801$, unable to find the way back forever."
+    "desc": "$npcName:11004787$ and $npcName:11004783$ worried about $npc:11004801$, which appeared the moment the Empress lost consciousness.\n\nBeyond it lies a clue that could protect the peace of Maple World.\nBut if you head there carelessly, it may be difficult to return.\nYou could become lost inside $npc:11004801$, unable to find the way back forever.",
+    "manual": "Talk to $npc:11004789$ in $map:52000201$ of $map:02000001$",
+    "complete": "Talk to $npc:11004789$ in $map:52000201$ of $map:02000001$"
   },
   "10003440-UnlimitedEnchant-": {
     "desc": "You met $npcName:11003883$ in $map:02000487$.\nDoes she know about this substance?\nFor now, this substance is the only clue that might save the fallen Empress. "
@@ -47703,10 +47728,14 @@
     "manual": "Soak yourself in the mysterious water of $map:02000554$ and absorb plenty of its energy"
   },
   "10003432-EpicApocalypse01-": {
-    "desc": "After battling the beings you encountered beyond $npc:11004801$ and returning to report to $npcName:11004787$ and $npcName:11004783$, they said strange fragments were attached to your body.\n\nYou had not noticed during the battle. Unknown crystal-like fragments were attached all over your armor.\n\nWhat are these fragments from beyond the rift?\n$npcName:11004783$ said a chaotic wave of light was dancing within them.\nThey seem to be a substance with considerable energy."
+    "desc": "After battling the beings you encountered beyond $npc:11004801$ and returning to report to $npcName:11004787$ and $npcName:11004783$, they said strange fragments were attached to your body.\n\nYou had not noticed during the battle. Unknown crystal-like fragments were attached all over your armor.\n\nWhat are these fragments from beyond the rift?\n$npcName:11004783$ said a chaotic wave of light was dancing within them.\nThey seem to be a substance with considerable energy.",
+    "manual": "Talk to $npc:11004784$ in $map:52000201$ of $map:02000001$",
+    "complete": "Talk to $npc:11004784$ in $map:52000201$ of $map:02000001$"
   },
   "10003433-EpicApocalypse01-": {
-    "desc": "$npcName:11004783$ and $npcName:11004787$ seem to be continuing to guard $map:52000194$ so the unstable rift can remain stable.\n\nThey say the new substance you brought back from beyond the rift needs to be investigated in detail. Go to $map:02000487$ and hear more about this substance."
+    "desc": "$npcName:11004783$ and $npcName:11004787$ seem to be continuing to guard $map:52000194$ so the unstable rift can remain stable.\n\nThey say the new substance you brought back from beyond the rift needs to be investigated in detail. Go to $map:02000487$ and hear more about this substance.",
+    "manual": "Talk to $npc:11004784$ in $map:52000201$ of $map:02000001$",
+    "complete": "Talk to $npc:11004784$ in $map:52000201$ of $map:02000001$"
   },
   "10003447-EpicApocalypse02-": {
     "desc": "The black mass you met inside the rift vanished after saying it would give you something good if you played with it.\nIt just said what it wanted and disappeared...?\n\nWhen you return to the bedroom and explain what happened in the rift to $npcName:11004828$, they look as if they understand something and tell you to spend time with that thing regularly...\n"
@@ -47728,13 +47757,16 @@
   },
   "91000980-Fame_Geo01-": {
     "desc": "You suddenly received a message from Captain $npcName:11004408$.\nThey tell you to move to $map:52100103$ right away.\n\nDid something happen?\n\nFor now, head straight to $map:52100103$.",
-    "name": "After the Alliance with Georg"
+    "name": "After the Alliance with Georg",
+    "complete": "Talk to $npcName:11004401$ in $map:52100103$"
   },
   "91001000-Fame_Geo01-": {
-    "desc": "After the Maple Alliance and Georg became allies...\n$npcName:11004401$ says many things changed.\nThey explain that, unlike at first, each side came to focus on different hostile forces, and their strategy changed.\n\nBut watching hostile forces was not the only problem Georg had to solve...\nWith Georg's current manpower, it is impossible to handle everything.\n\nTalk a little more with $npcName:11004401$.\n\n"
+    "desc": "After the Maple Alliance and Georg became allies...\n$npcName:11004401$ says many things changed.\nThey explain that, unlike at first, each side came to focus on different hostile forces, and their strategy changed.\n\nBut watching hostile forces was not the only problem Georg had to solve...\nWith Georg's current manpower, it is impossible to handle everything.\n\nTalk a little more with $npcName:11004401$.\n\n",
+    "complete": "Talk to $npcName:11004401$ in $map:52100103$"
   },
   "91000990-Fame_Geo01-": {
-    "desc": "$npcName:11004401$ thanks you for coming.\nFor some reason, they look very worried...\n\nThey say they have been waiting, and that they have something to tell you about the alliance between the Maple Alliance and Georg.\n\nFirst, listen to $npcName:11004401$."
+    "desc": "$npcName:11004401$ thanks you for coming.\nFor some reason, they look very worried...\n\nThey say they have been waiting, and that they have something to tell you about the alliance between the Maple Alliance and Georg.\n\nFirst, listen to $npcName:11004401$.",
+    "complete": "Talk to $npcName:11004401$ in $map:52100103$"
   },
   "94000331-Fame_Geo01-": {
     "desc": "Georg created a special forces unit to strengthen its regular army.\nThe special forces carry out the most dangerous missions on the front line.\n\nTake on the special forces mission from $npcName:11004614$ and try to surpass your limits.",
@@ -47748,7 +47780,8 @@
     "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "91001010-Fame_Geo01-": {
-    "desc": "$npcName:11004401$ asks for help, saying the Kritias data and information you brought to the Maple Alliance are also essential for Georg.\n\nGeorg certainly seems to be in poor shape.\n\nWhen you say you will help them, $npcName:11004401$ thanks you.\nBut they say there is one problem...\n\nListen to everything $npcName:11004401$ has to say."
+    "desc": "$npcName:11004401$ asks for help, saying the Kritias data and information you brought to the Maple Alliance are also essential for Georg.\n\nGeorg certainly seems to be in poor shape.\n\nWhen you say you will help them, $npcName:11004401$ thanks you.\nBut they say there is one problem...\n\nListen to everything $npcName:11004401$ has to say.",
+    "complete": "Talk to $npcName:11004401$ in $map:52100103$"
   },
   "94000334-Fame_Geo01-": {
     "desc": "The Maple Alliance and Georg succeeded in pushing the Black Legion all the way to northern Kidel.\nHowever, $map:02020071$ remains impregnable.\n\nDespite many sacrifices by Georg's regular army, they have been unable to break through the fortress entrance.\n$npcName:11004614$ worries that if there are any more losses, the operation will become impossible.\n\nNow it is time to step in yourself.\n\nLaunch a surprise attack on $map:02020071$ and defeat $npcName:25022702$, $npcName:25022704$, and $npcName:25022701$.\n\n",
@@ -48159,7 +48192,8 @@
   "94000406-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says $npc:11004618$ tried to contact allied forces through their adjutant, $npcName:11004619$.\n\n$npc:11004619$ supposedly offered to arrange a meeting with $npcName:11004618$ if you come to $map:02020051$ to meet them.\n\nIf you secure $npcName:11004618$, you may gain important information that can bring down Kerbes.\n\nMeet $npcName:11004619$ in $map:02020051$, determine $npc:11004618$'s location, and make contact with $npc:11004618$.",
     "descFameUI": "Meet $npcName:11004619$ in $map:02020051$, determine $npc:11004618$'s location, and make contact with $npc:11004618$.",
-    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
+    "complete": "Go to $map:52100109$ and talk to $npcName:11004614$",
+    "manual": "Talk to $npc:11004619$ in $map:02020051$\n|Talk to $npc:11004618$ in $map:52100118$"
   },
   "94000407-Fame_Geo01-": {
     "desc": "$npcName:11004614$ says the Tyren Kingdom is testing a new mechanical soldier in $map:02020018$.\n\nThe test subject is said to be a latest model with blue paint, different from existing mechanical soldiers.\n\n$npcName:11004614$ says the scouting team discovered a weapons data measuring device installed in $map:02020018$.\n\n$npcName:11004614$ says it seems the new weapon's performance test is being conducted through the data measuring device in $map:02020018$.\n\nTo avoid losing the war against the Tyren Kingdom, you need to analyze data on the new weapon.\n\nGo to $map:02020018$ and secure the test data from the data measuring device.",
@@ -48204,16 +48238,20 @@
     "complete": "Go to $map:52100109$ and talk to $npcName:11004614$"
   },
   "90000798-Pet_Zakum-": {
-    "desc": "Barkant, visitor from another world. Is the burning ember he holds truly different from the others? Defeat Barkant and find out."
+    "desc": "Barkant, visitor from another world. Is the burning ember he holds truly different from the others? Defeat Barkant and find out.",
+    "complete": "Talk to Beauty at the Reverse Gate"
   },
   "90000796-Pet_Zakum-": {
-    "desc": "To obtain the burning ember sealed in the soul of the Shadowmancer Devorak, you must defeat Devorak."
+    "desc": "To obtain the burning ember sealed in the soul of the Shadowmancer Devorak, you must defeat Devorak.",
+    "complete": "Talk to Beauty at the Reverse Gate"
   },
   "90000799-Pet_Zakum-": {
-    "desc": "A burning ember rumored to have been made by Balrog. Whether that is true is unknown. What is certain is that you can only obtain the burning ember by defeating Balrog."
+    "desc": "A burning ember rumored to have been made by Balrog. Whether that is true is unknown. What is certain is that you can only obtain the burning ember by defeating Balrog.",
+    "complete": "Talk to Beauty at the Reverse Gate"
   },
   "90000797-Pet_Zakum-": {
-    "desc": "Defeat Captain Mook, who stole the burning ember, and take it back."
+    "desc": "Defeat Captain Mook, who stole the burning ember, and take it back.",
+    "complete": "Talk to Beauty at the Reverse Gate"
   },
   "10001085--JP": {
     "desc": "$npc:11000190$ seems very forgetful.\nMaybe his habit of diligently making secret manuals came from that forgetfulness...?\nAnyway, look for the herbal secret manual in $map:02000151$ in $map:02000059$."
@@ -48552,91 +48590,115 @@
     "complete": "Return to $npc:11000890$"
   },
   "20001440--JP": {
-    "desc": "$npc:11000931$ cannot see, but can instead predict and look toward the future. They say their wife Anka, who left to hunt some time ago, keeps appearing in their dreams.\nGo to the lava area of $map:02000267$ seen in the dream, find $item:30000270$, then perform a ritual at the altar in a sunny place. "
+    "desc": "$npc:11000931$ cannot see, but can instead predict and look toward the future. They say their wife Anka, who left to hunt some time ago, keeps appearing in their dreams.\nGo to the lava area of $map:02000267$ seen in the dream, find $item:30000270$, then perform a ritual at the altar in a sunny place. ",
+    "complete": "Talk to $npc:11000931$ in $map:02000051$"
   },
   "20001383--JP": {
     "desc": "$npc:11000891$ says that if you play the recovered $item:30000261$, you can summon the three fairies who can awaken the Melody Fountain. Play $item:30000261$ and wake the three sleeping guardian fairies."
   },
   "20001470--JP": {
     "desc": "$npc:11000961$ is worried, saying the members dispatched to $map:02000013$ should have returned long ago, but vanished without any news.\nGo to $map:02000013$ and investigate whether the dispatched vigilantes are safe.",
-    "manual": "Go to $map:02000013$ and investigate the whereabouts of the dispatched vigilante member"
+    "manual": "Go to $map:02000013$ and investigate the whereabouts of the dispatched vigilante member",
+    "complete": "Talk to $npc:11000962$ in $map:02000013$"
   },
   "20001450--JP": {
-    "desc": "Polluted industrial wastewater gathered in a waterway, and when a strong spark from the Kerning City power plant pierced through it, a giant monster began roaming the middle of the city.\nThe polluted giant mutant $npc:23000013$ may make all of $map:02000100$ sick.\nDefeat $npc:23000013$, which appeared in the city. "
+    "desc": "Polluted industrial wastewater gathered in a waterway, and when a strong spark from the Kerning City power plant pierced through it, a giant monster began roaming the middle of the city.\nThe polluted giant mutant $npc:23000013$ may make all of $map:02000100$ sick.\nDefeat $npc:23000013$, which appeared in the city. ",
+    "complete": "Talk to $npc:11000520$ in $map:02000084$"
   },
   "20001384--JP": {
     "desc": "A crisis has come to $map:02000095$, a resting place for travelers and a place alive with the cultural character of the Pichu Pichu tribe. Hunt the monsters threatening $map:02000095$!"
   },
   "20001481--JP": {
     "desc": "According to $npc:11000963$, injured people are collapsed in the streets without receiving treatment. $npc:11000963$ was already going to find $npc:11000832$ because the medicine had run out, but could not leave the injured behind.\nUse the emergency medicine you received from $npc:11000963$ to treat the injured people. ",
-    "name": "Needs Treatment"
+    "name": "Needs Treatment",
+    "complete": "Talk to $npc:11000963$"
   },
   "20001471--JP": {
-    "desc": "$npc:11000962$ is hiding among the trees.\nThey seem to be one of the vigilantes $npc:11000961$ mentioned.\n$npc:11000962$ says many people were injured because they could not respond to the sudden attack by monsters that rushed in as a group, and all the relief supplies they prepared before being dispatched have run out, so the situation is very bad.\nThe most urgent thing is treating the injured!\nFind $npc:11000832$, who is caring for the injured alone. "
+    "desc": "$npc:11000962$ is hiding among the trees.\nThey seem to be one of the vigilantes $npc:11000961$ mentioned.\n$npc:11000962$ says many people were injured because they could not respond to the sudden attack by monsters that rushed in as a group, and all the relief supplies they prepared before being dispatched have run out, so the situation is very bad.\nThe most urgent thing is treating the injured!\nFind $npc:11000832$, who is caring for the injured alone. ",
+    "complete": "Talk to $npc:11000832$ in $map:02000013$"
   },
   "20001490--JP": {
-    "desc": "$npc:11000972$ is struggling alone to hold back the sharply increased monster attacks. Most of the vigilantes dispatched with them were injured, and all emergency relief supplies have run out, so there is not much time left to hold out.\nEven in this extreme situation, $npc:11000972$ boldly says they will not give up.\nHelp $npc:11000972$ by hunting $npc:21000003$, $npc:21000353$, and $npc:21000306$, which are occupying the fortress."
+    "desc": "$npc:11000972$ is struggling alone to hold back the sharply increased monster attacks. Most of the vigilantes dispatched with them were injured, and all emergency relief supplies have run out, so there is not much time left to hold out.\nEven in this extreme situation, $npc:11000972$ boldly says they will not give up.\nHelp $npc:11000972$ by hunting $npc:21000003$, $npc:21000353$, and $npc:21000306$, which are occupying the fortress.",
+    "complete": "Talk to $npc:11000972$"
   },
   "20001500--JP": {
-    "desc": "$npc:11000741$ is deeply absorbed in composing new music. Because they need to create bright major-key music, they even moved their studio to $map:02000186$, which is filled with sweet scents, but the noise from the terrible street musicians has brought them to the verge of exploding.\nFor $npc:11000741$, who has become extremely sensitive from the pain of creation, hunt $npc:21000278$ and $npc:21000173$."
+    "desc": "$npc:11000741$ is deeply absorbed in composing new music. Because they need to create bright major-key music, they even moved their studio to $map:02000186$, which is filled with sweet scents, but the noise from the terrible street musicians has brought them to the verge of exploding.\nFor $npc:11000741$, who has become extremely sensitive from the pain of creation, hunt $npc:21000278$ and $npc:21000173$.",
+    "complete": "Talk to $npc:11000741$"
   },
   "20001480--JP": {
-    "desc": "$npc:11000832$ is extremely busy caring for the injured alone. The number of injured people keeps growing, and the medicine to treat them has run out, making the situation even worse.\n$npc:11000832$, who knows how to make emergency medicine for injured patients, asks you to gather the materials needed to make it.\nHunt nearby $npc:21000353$ and $npc:21000003$, and bring back $item:30000285$ and $item:30000286$."
+    "desc": "$npc:11000832$ is extremely busy caring for the injured alone. The number of injured people keeps growing, and the medicine to treat them has run out, making the situation even worse.\n$npc:11000832$, who knows how to make emergency medicine for injured patients, asks you to gather the materials needed to make it.\nHunt nearby $npc:21000353$ and $npc:21000003$, and bring back $item:30000285$ and $item:30000286$.",
+    "complete": "Talk to $npc:11000832$"
   },
   "20001510--JP": {
     "desc": "$npc:11000973$ thinks they are the prettiest person in the world!\n$npc:11000973$ has recently been following the $item:30000288$ they designed themselves, but is worried because they are not losing weight.\nFind $npc:11000974$ to learn why $npc:11000973$ is not losing weight. ",
     "complete": "Find $npc:11000974$ and show them $item:30000288$"
   },
   "20001540--JP": {
-    "desc": "$npcName:11000977$, the Kunkun tribe priest, is busily preparing a 777-day prayer ritual for the god of the earth.\nBring the necessary ritual offerings so $npc:11000977$ can safely perform the rite! "
+    "desc": "$npcName:11000977$, the Kunkun tribe priest, is busily preparing a 777-day prayer ritual for the god of the earth.\nBring the necessary ritual offerings so $npc:11000977$ can safely perform the rite! ",
+    "complete": "Talk to $npc:11000977$"
   },
   "20001530--JP": {
-    "desc": "No one can figure out who they really are!\n$npc:11000976$ calls themself the 'strongest in Murim'!\nTheir appearance looks convincing, but the more you talk, the more something seems... empty.\n$npc:11000976$ says they need to obtain $item:30000294$ to win a tournament deciding the strongest of the strong in Murim, but they are injured and cannot possibly go.\n$npc:11000976$ looks perfectly fine on the outside.\nEven if it means being fooled, go bring back $item:30000294$, which only grows in the lava area of $map:02000096$!"
+    "desc": "No one can figure out who they really are!\n$npc:11000976$ calls themself the 'strongest in Murim'!\nTheir appearance looks convincing, but the more you talk, the more something seems... empty.\n$npc:11000976$ says they need to obtain $item:30000294$ to win a tournament deciding the strongest of the strong in Murim, but they are injured and cannot possibly go.\n$npc:11000976$ looks perfectly fine on the outside.\nEven if it means being fooled, go bring back $item:30000294$, which only grows in the lava area of $map:02000096$!",
+    "complete": "Talk to $npc:11000976$"
   },
   "20001541--JP": {
-    "desc": "$npc:11000977$ says all the ritual offerings for the prayer ritual are ready, so now the Kunkun tribe shamans who will perform the ritual together must be awakened.\nAfter offering prayers for 777 days, wake the Kunkun tribe shamans who have been in a deep sleep for 777 days."
+    "desc": "$npc:11000977$ says all the ritual offerings for the prayer ritual are ready, so now the Kunkun tribe shamans who will perform the ritual together must be awakened.\nAfter offering prayers for 777 days, wake the Kunkun tribe shamans who have been in a deep sleep for 777 days.",
+    "complete": "Talk to $npc:11000977$"
   },
   "20001511--JP": {
-    "desc": "$npc:11000974$ is shocked after seeing $item:30000288$. They say even ordinary adults would have a hard time eating this much high-calorie food in a day.\n$npc:11000974$ says they will make new diet food to correct $npc:11000973$'s wrong eating habits and dieting method.\nBring back $item:30000289$, $item:30000290$, and $item:30000291$ from around $map:02000186$."
+    "desc": "$npc:11000974$ is shocked after seeing $item:30000288$. They say even ordinary adults would have a hard time eating this much high-calorie food in a day.\n$npc:11000974$ says they will make new diet food to correct $npc:11000973$'s wrong eating habits and dieting method.\nBring back $item:30000289$, $item:30000290$, and $item:30000291$ from around $map:02000186$.",
+    "complete": "Talk to $npc:11000974$"
   },
   "20001591--JP": {
-    "desc": "You met the Boroboro elder $npcName:11000987$ in $map:02000197$. After hearing news of $npc:11000986$, they seem to lower their guard quickly.\n$npcName:11000987$ briefly thinks about the story of the Boroboro dwarves, which they still cannot tell you, then suddenly remembers the Boroboro who are peacefully napping at an important time.\nAs $npcName:11000987$ requested, wake the sleeping Boroboro. \n"
+    "desc": "You met the Boroboro elder $npcName:11000987$ in $map:02000197$. After hearing news of $npc:11000986$, they seem to lower their guard quickly.\n$npcName:11000987$ briefly thinks about the story of the Boroboro dwarves, which they still cannot tell you, then suddenly remembers the Boroboro who are peacefully napping at an important time.\nAs $npcName:11000987$ requested, wake the sleeping Boroboro. \n",
+    "complete": "Talk to $npc:11000987$ in $map:02000197$"
   },
   "20001570--JP": {
-    "desc": "$npc:11000985$ in $map:02000023$ has spent a long time researching artificial intelligence robots. Not long ago, the AI robot $npc:21000241$ was finally born, marking the end of that long research, but the result was truly disastrous.\n$npc:21000241$, created to purify and manage $map:02000023$, is destroying the forest.\nYou cannot know where the program went wrong, but right now destroying $npc:21000241$ is urgent.\nDestroy the badly designed robot $npc:21000241$."
+    "desc": "$npc:11000985$ in $map:02000023$ has spent a long time researching artificial intelligence robots. Not long ago, the AI robot $npc:21000241$ was finally born, marking the end of that long research, but the result was truly disastrous.\n$npc:21000241$, created to purify and manage $map:02000023$, is destroying the forest.\nYou cannot know where the program went wrong, but right now destroying $npc:21000241$ is urgent.\nDestroy the badly designed robot $npc:21000241$.",
+    "complete": "Talk to $npc:11000985$"
   },
   "20001580--JP": {
-    "desc": "$npc:11000986$ is sad because they lost their number-one treasure, a birthstone ore inherited from their father who went to heaven.\n\nThey planned to cut the birthstone and make necklaces as gifts for the friends who supported them during difficult times, but nearby monsters saw the sparkling light, rushed in, and swallowed the shining ore.\n\nRecover $npc:11000986$'s precious stolen birthstone ore from $npc:21000052$ and $npc:21000004$ living in $map:02000128$."
+    "desc": "$npc:11000986$ is sad because they lost their number-one treasure, a birthstone ore inherited from their father who went to heaven.\n\nThey planned to cut the birthstone and make necklaces as gifts for the friends who supported them during difficult times, but nearby monsters saw the sparkling light, rushed in, and swallowed the shining ore.\n\nRecover $npc:11000986$'s precious stolen birthstone ore from $npc:21000052$ and $npc:21000004$ living in $map:02000128$.",
+    "complete": "Talk to $npc:11000986$"
   },
   "20001571--JP": {
-    "desc": "$npc:11000985$ says they cannot give up on $npc:21000241$, which they have spent their whole life researching. $npc:11000985$ says they will find the cause of the error no matter what and fix everything.\nFor now, they need to return to the lab and analyze the error data, so they ask you to copy and bring back the data from the central processing device installed in the temporary lab.\nIn $npcName:11000985$'s lab in $map:02000128$, insert the $item:30000302$ given by $npc:11000985$ into the central processing device and copy all the data so far."
+    "desc": "$npc:11000985$ says they cannot give up on $npc:21000241$, which they have spent their whole life researching. $npc:11000985$ says they will find the cause of the error no matter what and fix everything.\nFor now, they need to return to the lab and analyze the error data, so they ask you to copy and bring back the data from the central processing device installed in the temporary lab.\nIn $npcName:11000985$'s lab in $map:02000128$, insert the $item:30000302$ given by $npc:11000985$ into the central processing device and copy all the data so far.",
+    "complete": "Talk to $npc:11000985$"
   },
   "20001590--JP": {
-    "desc": "After finding the lost birthstone ore, $npc:11000986$ says they will introduce you to precious friends who are both irreplaceable benefactors and siblings as thanks.\nThey are the forgotten Boroboro dwarves of Ellinia!\nWhat kind of story do the Boroboro have, where do they live, and how? Visit their own world and find out!\nWhat kind of place is $map:02000197$ at the top of $map:02000128$?"
+    "desc": "After finding the lost birthstone ore, $npc:11000986$ says they will introduce you to precious friends who are both irreplaceable benefactors and siblings as thanks.\nThey are the forgotten Boroboro dwarves of Ellinia!\nWhat kind of story do the Boroboro have, where do they live, and how? Visit their own world and find out!\nWhat kind of place is $map:02000197$ at the top of $map:02000128$?",
+    "complete": "Talk to $npc:11000987$ in $map:02000197$"
   },
   "20001640--JP": {
-    "desc": "The forest fairy $npc:11000876$ went to $map:02000215$ to clear their head by listening to the song of the red-spotted ladybugs, but saw something terrible. There were ominous purple droplets floating in the forest, and worse, the red-spotted ladybugs, friends of the forest, had been contaminated by the ominous droplets and turned purple.\n$npc:11000876$ says that if this continues, all of $map:02000215$ will become sick, and asks you to defeat the Domaguri polluting the forest.\nHunt $npc:21090176$, $npc:21090177$, and $npc:21090175$ in $map:02000215$."
+    "desc": "The forest fairy $npc:11000876$ went to $map:02000215$ to clear their head by listening to the song of the red-spotted ladybugs, but saw something terrible. There were ominous purple droplets floating in the forest, and worse, the red-spotted ladybugs, friends of the forest, had been contaminated by the ominous droplets and turned purple.\n$npc:11000876$ says that if this continues, all of $map:02000215$ will become sick, and asks you to defeat the Domaguri polluting the forest.\nHunt $npc:21090176$, $npc:21090177$, and $npc:21090175$ in $map:02000215$.",
+    "complete": "Talk to $npc:11000876$ in $map:02000024$"
   },
   "20001630--JP": {
     "desc": "Roro, who has a complex about their appearance, takes seriously $npc:11000746$'s joke that they can make a potion to change appearances if Roro brings a World Tree seed. To obtain a World Tree seed, which they could never get alone, Roro put a brainwashing mask on Moomoos, the forest giant, and is turning $map:02000103$ into a mess.\nIf you do not suppress the increasingly violent $npc:23000035$, the World Tree seed, the very heart of $map:02000023$, may really be stolen.\nSuppress $npc:23000035$ and bring back the $item:30000329$ worn by Moomoos.\n\n",
-    "manual": "Subdue (Boss) $npc:23000035$ and retrieve the $item:30000329$ that Mumus is wearing"
+    "manual": "Subdue (Boss) $npc:23000035$ and retrieve the $item:30000329$ that Mumus is wearing",
+    "complete": "Talk to $npc:11000746$"
   },
   "20001600--JP": {
-    "desc": "$npc:11000959$ is fighting a lonely battle while guarding $map:02000091$ alone. $npc:11000959$ is physically exhausted and now mentally weakened as well, and asks for help, saying they no longer have the strength to endure.\nHelp $npc:11000959$ by wiping out $npc:21000265$ and $npc:21000306$, which are threatening the watchtower."
+    "desc": "$npc:11000959$ is fighting a lonely battle while guarding $map:02000091$ alone. $npc:11000959$ is physically exhausted and now mentally weakened as well, and asks for help, saying they no longer have the strength to endure.\nHelp $npc:11000959$ by wiping out $npc:21000265$ and $npc:21000306$, which are threatening the watchtower.",
+    "complete": "Talk to $npc:11000959$"
   },
   "20001601--JP": {
     "desc": "Fortunately, the number of monsters that had reached the watchtower entrance and were threatening it has greatly decreased. However, $npc:11000959$ says they cannot relax because the threat could return at any time. Additional forces must be requested to protect the threatened $map:02000091$.\nSend the carrier pigeon on the wall of $map:02000091$ to request support from the members at headquarters. ",
-    "name": "S.O.S"
+    "name": "S.O.S",
+    "complete": "Talk to $npc:11000959$"
   },
   "20001880--JP": {
-    "desc": "$dungeonTitle:20014002$\n(Entrance: $map:02000011$)\nParty Recommended (10 players)\nThis quest can only be completed in Challenge Mode.\n\nA special pardon policy has been announced: prisoners who go to $map:02000311$ and catch $npc:23100011$ at least 50 times will have all their past criminal records reset and their crimes pardoned. $npc:11001079$ tries to think of any way to use this chance to escape prison life, but cannot find the courage.\nGo to $map:02000311$ in place of $npc:11001079$ and hunt $npc:23100011$!"
+    "desc": "$dungeonTitle:20014002$\n(Entrance: $map:02000011$)\nParty Recommended (10 players)\nThis quest can only be completed in Challenge Mode.\n\nA special pardon policy has been announced: prisoners who go to $map:02000311$ and catch $npc:23100011$ at least 50 times will have all their past criminal records reset and their crimes pardoned. $npc:11001079$ tries to think of any way to use this chance to escape prison life, but cannot find the courage.\nGo to $map:02000311$ in place of $npc:11001079$ and hunt $npc:23100011$!",
+    "complete": "Talk to $npc:11001079$ in $map:02000011$"
   },
   "20001650--JP": {
-    "desc": "$npcName:11001016$, king of the Andersen royal palace from a fairy tale, was sent traveling through time by a wizard and came to Maple World.\nAfter arriving in $map:02000181$, $npcName:11001016$ planned to build a palace just for himself in this new place and looked around, only to find monsters filling the area around the castle. Decorating the palace would be nice, but $npcName:11001016$ says the most urgent task is first defeating the monsters that appeared after the castle was abandoned for so long.\nDefeat $npc:21000220$, $npc:21000222$, and $npc:21000266$, which are disturbing the area around $map:02000181$."
+    "desc": "$npcName:11001016$, king of the Andersen royal palace from a fairy tale, was sent traveling through time by a wizard and came to Maple World.\nAfter arriving in $map:02000181$, $npcName:11001016$ planned to build a palace just for himself in this new place and looked around, only to find monsters filling the area around the castle. Decorating the palace would be nice, but $npcName:11001016$ says the most urgent task is first defeating the monsters that appeared after the castle was abandoned for so long.\nDefeat $npc:21000220$, $npc:21000222$, and $npc:21000266$, which are disturbing the area around $map:02000181$.",
+    "complete": "Talk to $npc:11001016$"
   },
   "20001910--JP": {
     "desc": "$npc:11001140$ says the gas cylinders left throughout $map:02000110$ are at high risk of exploding because of the bombs thrown by nearby $npc:21000281$.\nInspect the gas cylinders and tightly close their valves so gas does not leak.",
-    "manual": "Inspect the gas cylinders in $map:02000110$ that are at risk of exploding"
+    "manual": "Inspect the gas cylinders in $map:02000110$ that are at risk of exploding",
+    "complete": "Talk to $npc:11001140$ in $map:02000110$"
   },
   "30001001--JP": {
     "desc": "$npc:11000595$, whose eyesight is very poor, says the glasses left on their desk last night are gone and asks you to check whether they fell nearby.\nLook around carefully so you do not step on the glasses if they are on the ground."
@@ -48682,22 +48744,28 @@
     "complete": "Bring $item:30000249$ to $npc:11000471$ in $map:02000136$"
   },
   "40001220--JP": {
-    "desc": "The fairies of $map:02000023$ love shiny things. To torment those fairies, the monsters in $map:02000006$ also collect shiny things. $npc:11000875$ says some of the shiny things the monsters have may be valuable, and suggests taking them and sharing them. Even if it feels suspicious, accept $npc:11000875$'s suggestion."
+    "desc": "The fairies of $map:02000023$ love shiny things. To torment those fairies, the monsters in $map:02000006$ also collect shiny things. $npc:11000875$ says some of the shiny things the monsters have may be valuable, and suggests taking them and sharing them. Even if it feels suspicious, accept $npc:11000875$'s suggestion.",
+    "complete": "Talk to $npc:11000875$ in $map:02000006$"
   },
   "40001221--JP": {
-    "desc": "$npc:11000875$ says the monsters would not be carrying valuable items directly, and must have hidden them somewhere. They say a dirt mound they saw somewhere in $map:02000006$ looks suspicious, and demand that you dig it up. What could be inside the dirt mound?\n"
+    "desc": "$npc:11000875$ says the monsters would not be carrying valuable items directly, and must have hidden them somewhere. They say a dirt mound they saw somewhere in $map:02000006$ looks suspicious, and demand that you dig it up. What could be inside the dirt mound?\n",
+    "complete": "Talk to $npc:11000875$ in $map:02000006$"
   },
   "40001210--JP": {
-    "desc": "$npc:11000472$ says they are not afraid of $npc:29000025$ at all.\nThey seem anxious because the wire mesh installed between the buildings keeps shaking. They worry that if the mesh is not fixed and they lose balance and fall toward it, they might fall below the building together with the mesh.\nYou cannot keep catching $npc:29000025$ for them forever, so repair the wire mesh for $npc:11000472$."
+    "desc": "$npc:11000472$ says they are not afraid of $npc:29000025$ at all.\nThey seem anxious because the wire mesh installed between the buildings keeps shaking. They worry that if the mesh is not fixed and they lose balance and fall toward it, they might fall below the building together with the mesh.\nYou cannot keep catching $npc:29000025$ for them forever, so repair the wire mesh for $npc:11000472$.",
+    "complete": "Talk to $npc:11000472$ in $map:02000136$"
   },
   "40001230--JP": {
-    "desc": "The water at the top of the tree in $map:02000024$ flows through the entire forest and sustains its life. But because an earthquake cut off the waterway, the fairy forest, part of the forest, is drying up...\nReceive an empty bottle from $npc:11000876$, fill it with water from the top of the tree that can save the fairy forest, and bring it back."
+    "desc": "The water at the top of the tree in $map:02000024$ flows through the entire forest and sustains its life. But because an earthquake cut off the waterway, the fairy forest, part of the forest, is drying up...\nReceive an empty bottle from $npc:11000876$, fill it with water from the top of the tree that can save the fairy forest, and bring it back.",
+    "complete": "Talk to $npc:11000876$ in $map:02000024$"
   },
   "40001571--JP": {
-    "desc": "$dungeonTitle:20015001$\n(Entrance Map: $map:02000175$)\nParty Recommended (4 players)\nThis quest can only be completed in Normal Mode.\n\nWhen you say you knocked down $npc:23100033$ dozens of times as requested, $npc:11001073$ flinches.\nThey say they have fought 4-to-1 countless times too, and that to reach the same level as them, you must knock down $npc:23100033$ dozens more times."
+    "desc": "$dungeonTitle:20015001$\n(Entrance Map: $map:02000175$)\nParty Recommended (4 players)\nThis quest can only be completed in Normal Mode.\n\nWhen you say you knocked down $npc:23100033$ dozens of times as requested, $npc:11001073$ flinches.\nThey say they have fought 4-to-1 countless times too, and that to reach the same level as them, you must knock down $npc:23100033$ dozens more times.",
+    "complete": "Talk to $npc:11001073$ in $map:02000097$"
   },
   "40001570--JP": {
-    "desc": "$dungeonTitle:20015001$\n(Entrance Map: $map:02000175$)\nParty Recommended (4 players)\nThis quest can only be completed in Normal Mode.\n\n$npc:11001073$ says the reason they train is to fight 18-to-1. Since every evil group in the world is made up of 18 people, they must train until they can handle that many opponents.\nThey add that they have already fought countless 2-to-1 battles, and that anyone who wants to speak with them must have at least that level of skill. They demand that you knock down $npc:23100033$."
+    "desc": "$dungeonTitle:20015001$\n(Entrance Map: $map:02000175$)\nParty Recommended (4 players)\nThis quest can only be completed in Normal Mode.\n\n$npc:11001073$ says the reason they train is to fight 18-to-1. Since every evil group in the world is made up of 18 people, they must train until they can handle that many opponents.\nThey add that they have already fought countless 2-to-1 battles, and that anyone who wants to speak with them must have at least that level of skill. They demand that you knock down $npc:23100033$.",
+    "complete": "Talk to $npc:11001073$ in $map:02000097$"
   },
   "40001271--JP": {
     "desc": "$npc:11000745$ has lost interest in competing with the people in $map:02000278$.\nThey say they will return everything to normal and leave this place to find a new toy.\nTo do that, $npc:11000745$ asks you to bring the souls of the palace people trapped inside monsters.\nDefeat monsters and recover $item:30000324$.",
@@ -48708,40 +48776,49 @@
     "complete": "Bring $item:30000323$ to $npc:11000857$ in $map:02000278$"
   },
   "40001231--JP": {
-    "desc": "$npc:11000876$ says they are not confident they can safely carry $item:30000260$ while avoiding monsters. For $npc:11000876$, who worries they might spill the water, defeat the monsters and clear the path."
+    "desc": "$npc:11000876$ says they are not confident they can safely carry $item:30000260$ while avoiding monsters. For $npc:11000876$, who worries they might spill the water, defeat the monsters and clear the path.",
+    "complete": "Talk to $npc:11000876$ in $map:02000024$"
   },
   "40001611--JP": {
     "desc": "Everything in the forest began hardening after toys entered the forest.\nAll the forest creatures found the unfamiliar toys fascinating and wanted to keep them nearby,\nbut soon, like a spreading disease, they began hardening like toys and losing their emotions.\n$npc:11000298$ asks you to remove the toys to revive the forest.\nGrant their request.",
-    "name": "The Forest Turning Hard"
+    "name": "The Forest Turning Hard",
+    "complete": "Talk to $npc:11000298$ in $map:02000004$"
   },
   "40001610--JP": {
     "desc": "$npc:11000298$ feels sorry about how $npc:21091166$, once a close friend, has changed.\nAfter coming under the control of an evil spirit, their body color reportedly became dark and deep.\nWhen their body color changed, their personality also became violent...\n$npc:11000298$ hopes their former friend $npc:21091166$ can be freed from the evil spirit.\nGrant their wish.",
-    "name": "Changing Friends"
+    "name": "Changing Friends",
+    "complete": "Talk to $npc:11000298$ in $map:02000004$"
   },
   "40001630--JP": {
     "desc": "$npc:11001144$ sits on the ground with a hand outstretched, looking exactly like a beggar.\nWhenever someone passes by, they casually offer to tell their fortune.\nThey say they will not even take a fee and are only doing it for fun. Why not have your fortune told?"
   },
   "40001600--JP": {
-    "desc": "Before leaving $map:02000024$, $npc:11000293$ wants to say farewell to $npc:11001142$, whom they usually considered a friend.\nBut they say they might cry if they speak face to face, and ask you to say goodbye in their place."
+    "desc": "Before leaving $map:02000024$, $npc:11000293$ wants to say farewell to $npc:11001142$, whom they usually considered a friend.\nBut they say they might cry if they speak face to face, and ask you to say goodbye in their place.",
+    "complete": "Talk to $npc:11001142$ in $map:02000024$"
   },
   "40001601--JP": {
-    "desc": "$npc:11001142$ is blunt on the outside.\nWhen told that $npc:11000293$ decided to leave $map:02000024$, they seem secretly shocked.\nNot knowing what to do, $npc:11001142$ carefully hands over $item:30000389$.\nThey ask you to deliver it to $npc:11000293$ as a farewell gift…"
+    "desc": "$npc:11001142$ is blunt on the outside.\nWhen told that $npc:11000293$ decided to leave $map:02000024$, they seem secretly shocked.\nNot knowing what to do, $npc:11001142$ carefully hands over $item:30000389$.\nThey ask you to deliver it to $npc:11000293$ as a farewell gift…",
+    "complete": "Talk to $npc:11000293$ in $map:02000024$"
   },
   "50001029-Balrogitem2nd-": {
     "desc": "$npc:11001211$ says the black marketeer who handled $item:30000421$ seemed interested in it, and suggests you visit them because they may know something.\nGo find the black marketeer $npcName:11001212$ in $map:03000014$. "
   },
   "40002551--JP": {
     "desc": "$npcName:11001537$ came here to gather cooking ingredients with a cooking contest just ahead. They say if you draw water from the spring formed by $npcName:11000285$'s tears and cook with it, everyone who eats the food will fall in love with it.\nDraw spring water for $npcName:11001537$.",
-    "manual": "Fill a bottle with the spring water $npcName:11000285$ is soaking in, then take the bottle"
+    "manual": "Fill a bottle with the spring water $npcName:11000285$ is soaking in, then take the bottle",
+    "complete": "Talk to $npcName:11001537$ in $map:02000089$"
   },
   "40002550--JP": {
-    "desc": "$npcName:11001537$ is in danger because of a careless remark made in front of $npc:21000262$ and $npc:21000264$. They apparently said fried onions taste good...\nDrive away $npc:21000262$ and $npc:21000264$ so the hidden $npcName:11001537$ can come outside."
+    "desc": "$npcName:11001537$ is in danger because of a careless remark made in front of $npc:21000262$ and $npc:21000264$. They apparently said fried onions taste good...\nDrive away $npc:21000262$ and $npc:21000264$ so the hidden $npcName:11001537$ can come outside.",
+    "complete": "Talk to $npcName:11001537$ in $map:02000089$"
   },
   "40002560--JP": {
-    "desc": "$npcName:11001538$ came here after hearing a rumor that if you tell $npcName:11000285$ about even an impossible love, it will come true. But $npcName:11000285$ apparently sent $npcName:11001538$ away, saying they had no power to grant wishes.\nAfter coming all this way, $npcName:11001538$ feels disappointed to leave with nothing. Meet $npcName:11000285$ for her."
+    "desc": "$npcName:11001538$ came here after hearing a rumor that if you tell $npcName:11000285$ about even an impossible love, it will come true. But $npcName:11000285$ apparently sent $npcName:11001538$ away, saying they had no power to grant wishes.\nAfter coming all this way, $npcName:11001538$ feels disappointed to leave with nothing. Meet $npcName:11000285$ for her.",
+    "complete": "Talk to $npcName:11000285$ in $map:02000089$"
   },
   "40002561--JP": {
-    "desc": "$npcName:11000285$ says that since they could not even protect their own love, how could they help anyone else's, and that the rumors surrounding them are nonsense.\nThey seem to hope no one will bother them anymore after being swayed by rumors."
+    "desc": "$npcName:11000285$ says that since they could not even protect their own love, how could they help anyone else's, and that the rumors surrounding them are nonsense.\nThey seem to hope no one will bother them anymore after being swayed by rumors.",
+    "complete": "Talk to $npcName:11001538$ in $map:02000089$"
   },
   "50001034-Balrogitem2nd-": {
     "desc": "$npcName:11001242$ shows great interest in $item:30000430$. They say that according to the power wave theory they are researching, there may be a way to break the seal of ominous magic, and ask you to bring a crystal condensed with strong dark power.\nCollect $item:30000437$, said to be obtainable in $map:2000350$, and bring it to $npcName:11001242$."
@@ -48873,143 +48950,185 @@
     "manual": "Defeat $npc:23090005$, then enter $map:52000014$ and lift the curse on $item:13300138$|Defeat $npc:23090005$, then enter $map:52000014$ and lift the curse on $item:14000118$"
   },
   "40002798-Fame_Geo01-": {
-    "desc": "$npc:11004620$ is saddened, saying boiling-hot Poings are harming the Morang.\n\nThey must be the Poings exposed to Ener that $npcName:11004614$ mentioned.\n\nWhen you face the first Poing, the second and third appear to help it, and after struggling against all three, they combine into the 'Three Poing Brothers.'\n\n$npcName:11004620$ says the combined 'Three Poing Brothers' are so powerful that the Morang cannot stand against them.\n\nYou must stop them before the Morang suffer further.\n\nDefeat $npcName:25022805$ in $map:02020068$ and $npcName:25022815$ in $map:02020069$."
+    "desc": "$npc:11004620$ is saddened, saying boiling-hot Poings are harming the Morang.\n\nThey must be the Poings exposed to Ener that $npcName:11004614$ mentioned.\n\nWhen you face the first Poing, the second and third appear to help it, and after struggling against all three, they combine into the 'Three Poing Brothers.'\n\n$npcName:11004620$ says the combined 'Three Poing Brothers' are so powerful that the Morang cannot stand against them.\n\nYou must stop them before the Morang suffer further.\n\nDefeat $npcName:25022805$ in $map:02020068$ and $npcName:25022815$ in $map:02020069$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "50001259-Balrogitem3rd-": {
     "desc": "$npc:11001485$, who studies demons, tells you that to break a powerful demon's curse like $npc:23090005$'s, you must enter the demon's consciousness while its power is weakened and confirm the essence of its existence. They say they activated a device somewhere in $map:02000200$, and that after defeating $npc:23090005$, if you look around carefully, a passage into $npc:23090005$'s consciousness will open... Defeat $npc:23090005$, enter $map:52000014$, and find a way to break the curse dwelling in the weapon.",
     "manual": "Defeat $npc:23090005$, then enter $map:52000014$ and lift the curse on $item:15400064$"
   },
   "40002799-Fame_Geo01-": {
-    "desc": "Tyren Kingdom forces are said to be attacking the residents of $map:02020066$.\n$npcName:11004574$ says that if Georg had not come in the first place, the Tyren Kingdom would not have attacked them.\n\nTo build greater trust with the refugees, you must repel the Tyren forces.\n\nDefeat $npcName:25022200$, $npcName:25022201$, and $npcName:25022204$ in $map:02020066$."
+    "desc": "Tyren Kingdom forces are said to be attacking the residents of $map:02020066$.\n$npcName:11004574$ says that if Georg had not come in the first place, the Tyren Kingdom would not have attacked them.\n\nTo build greater trust with the refugees, you must repel the Tyren forces.\n\nDefeat $npcName:25022200$, $npcName:25022201$, and $npcName:25022204$ in $map:02020066$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002797-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says the only way to secure food for the refugees is to hunt nearby animals.\n\nHowever, mechanical lifeforms are attacking residents who go out hunting, making hunting extremely difficult.\n$npc:11004574$ worries that if this continues, refugees will begin collapsing from hunger.\n\nDefeat $npcName:25022203$ in $map:02020066$, $npcName:25022305$ in $map:02020067$, and $npcName:25022408$ in $map:02020068$."
+    "desc": "$npc:11004574$ says the only way to secure food for the refugees is to hunt nearby animals.\n\nHowever, mechanical lifeforms are attacking residents who go out hunting, making hunting extremely difficult.\n$npc:11004574$ worries that if this continues, refugees will begin collapsing from hunger.\n\nDefeat $npcName:25022203$ in $map:02020066$, $npcName:25022305$ in $map:02020067$, and $npcName:25022408$ in $map:02020068$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002800-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says that of the five residents who went hunting, only one returned.\nThe other one had also been kidnapped, but Kerbes released them to tell the refugees how terrifying Kerbes is.\n\nYou can no longer tolerate Kerbes's cruel actions.\n\nDefeat $npcName:25022300$, $npcName:25022306$, $npcName:25022303$, $npcName:25022301$, and $npcName:25022307$ in $map:02020067$."
+    "desc": "$npc:11004574$ says that of the five residents who went hunting, only one returned.\nThe other one had also been kidnapped, but Kerbes released them to tell the refugees how terrifying Kerbes is.\n\nYou can no longer tolerate Kerbes's cruel actions.\n\nDefeat $npcName:25022300$, $npcName:25022306$, $npcName:25022303$, $npcName:25022301$, and $npcName:25022307$ in $map:02020067$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002805-Fame_Geo01-": {
-    "desc": "$npcName:11004620$ says Morang who insist on driving out outsiders are trying to break the peace of the forest.\n\nOn the surface they attack outsiders, but in truth they are thugs committing all kinds of bad deeds.\n\nYou must suppress the Morang thugs before their power grows further.\n\nDefeat $npcName:25022409$ in $map:02020068$ and $npcName:25022503$ in $map:02020069$."
+    "desc": "$npcName:11004620$ says Morang who insist on driving out outsiders are trying to break the peace of the forest.\n\nOn the surface they attack outsiders, but in truth they are thugs committing all kinds of bad deeds.\n\nYou must suppress the Morang thugs before their power grows further.\n\nDefeat $npcName:25022409$ in $map:02020068$ and $npcName:25022503$ in $map:02020069$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002801-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says $map:02020068$ is being stained black by the Black Legion.\n\nThe forest and the creatures within it are being consumed by black energy.\n\n$npcName:11004620$ says creatures consumed by black energy come under the Black Legion's control.\nThey say the Black Legion is corrupting them to steal the Morang's 'mysterious power'...\n\nDefeat $npcName:25022406$, $npcName:25022409$, and $npcName:25022402$ in $map:02020068$."
+    "desc": "$npc:11004620$ says $map:02020068$ is being stained black by the Black Legion.\n\nThe forest and the creatures within it are being consumed by black energy.\n\n$npcName:11004620$ says creatures consumed by black energy come under the Black Legion's control.\nThey say the Black Legion is corrupting them to steal the Morang's 'mysterious power'...\n\nDefeat $npcName:25022406$, $npcName:25022409$, and $npcName:25022402$ in $map:02020068$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002802-Fame_Geo01-": {
-    "desc": "$npcName:11004620$ says the Black Legion is staining the creatures of $map:02020069$ black.\n\nCreatures consumed by black energy are under the Black Legion's control.\n\nThe Black Legion must have corrupted them to steal the Morang's 'mysterious power.'\n\nDefeat $npcName:25022500$, $npcName:25022503$, and $npcName:25022502$ in $map:02020069$."
+    "desc": "$npcName:11004620$ says the Black Legion is staining the creatures of $map:02020069$ black.\n\nCreatures consumed by black energy are under the Black Legion's control.\n\nThe Black Legion must have corrupted them to steal the Morang's 'mysterious power.'\n\nDefeat $npcName:25022500$, $npcName:25022503$, and $npcName:25022502$ in $map:02020069$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002804-Fame_Geo01-": {
     "desc": "$npc:11004574$ says no one is going out hunting because of the beasts Kerbes released.\n\nThe beasts attack residents who go out hunting, and more than a few people have been injured.\n\nTo free the refugees from hunger, you must suppress Kerbes's beasts.\n\nDefeat $npcName:25022208$ in $map:02020066$ and $npcName:25022307$ in $map:02020067$.",
-    "name": "Monsters Created by Kerbes"
+    "name": "Monsters Created by Kerbes",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002803-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says it is only a matter of time before $map:02020066$ collapses.\n\nThat is because new Kerbes commanders are appearing everywhere and kidnapping refugees indiscriminately.\n\nIf this continues, Galan may be gripped by fear and collapse from within.\n\nDefeat $npcName:25022801$ in $map:02020066$ and $npcName:25022811$ in $map:02020067$.\n"
+    "desc": "$npc:11004574$ says it is only a matter of time before $map:02020066$ collapses.\n\nThat is because new Kerbes commanders are appearing everywhere and kidnapping refugees indiscriminately.\n\nIf this continues, Galan may be gripped by fear and collapse from within.\n\nDefeat $npcName:25022801$ in $map:02020066$ and $npcName:25022811$ in $map:02020067$.\n",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002808-Fame_Geo01-": {
     "desc": "$npc:11004574$ says Kerbes's kidnapping season has returned.\n\nWhen the kidnapped people become too weak to be useful, Kerbes begins another large-scale kidnapping.\n\n$npc:11004574$ is saddened that three refugees who went hunting today did not return.\n\nYou cannot stand by and let there be more victims.\n\nGo to $map:02020067$ and repel $npcName:25022300$, who kidnaps refugees.",
-    "manual": "Go to $map:02020067$ and repel $npcName:25022300$"
+    "manual": "Go to $map:02020067$ and repel $npcName:25022300$",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002806-Fame_Geo01-": {
     "desc": "$npc:11004574$ says they had no choice but to reduce the number of active surveillance drones because of a parts shortage.\n\nThat is because Kerbes frequently attacks and shoots down the drones.\n\nIf you use $item:30001353$ from $npcName:25022206$ flying around $map:02020066$, you should be able to activate the drones.\n\nGo to $map:02020066$, defeat $npcName:25022206$, and secure $item:30001353$.",
     "manual": "Go to $map:02020066$, defeat $npcName:25022206$, and secure $item:30001353$",
-    "name": "Why the Number of Drones Decreased"
+    "name": "Why the Number of Drones Decreased",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002807-Fame_Geo01-": {
     "desc": "$npc:11004574$ says $map:02020066$ suffers from constant Ener shortages because it has only one Ener fusion device.\n\nIf you remove $item:30001354$ from the magic staff of $npcName:25022204$ stationed nearby, the Ener shortage should be resolved.\n\nGo to $map:02020066$, suppress $npcName:25022204$, and secure $item:30001354$.",
-    "manual": "Go to $map:02020066$, subdue $npcName:25022204$, and secure $item:30001354$"
+    "manual": "Go to $map:02020066$, subdue $npcName:25022204$, and secure $item:30001354$",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002809-Fame_Geo01-": {
     "desc": "$npc:11004574$ says $npcName:25022306$ are injuring refugees for fun.\n\nThey are monsters who torment people like children killing bugs for amusement.\n\nYou cannot just watch such creatures.\n\nGo to $map:02020067$ and suppress $npcName:25022306$, who throws knives at refugees.\n",
-    "manual": "Go to $map:02020067$ and subdue $npcName:25022306$"
+    "manual": "Go to $map:02020067$ and subdue $npcName:25022306$",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002810-Fame_Geo01-": {
-    "desc": "$npc:11004620$ refuses to let Georg forces be stationed in $map:02020069$.\n\nThey also refuse Georg's offer to provide modern weapons to protect the mysterious power.\n\nNow the only option is to improve the Morang's crude clubs into powerful weapons.\n\nIf $item:30001355$ is embedded into a Morang club, it should become a powerful weapon.\n\nGo to $map:02020068$, defeat $npcName:25022403$, and secure $item:30001355$."
+    "desc": "$npc:11004620$ refuses to let Georg forces be stationed in $map:02020069$.\n\nThey also refuse Georg's offer to provide modern weapons to protect the mysterious power.\n\nNow the only option is to improve the Morang's crude clubs into powerful weapons.\n\nIf $item:30001355$ is embedded into a Morang club, it should become a powerful weapon.\n\nGo to $map:02020068$, defeat $npcName:25022403$, and secure $item:30001355$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002814-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says the Black Legion seems to have reinforced its forces to stain $map:02020067$ black.\n\nThey normally do not attack the refugees, but they attack without mercy if people who went hunting approach nearby.\n\nFor now, it would be best to go there yourself and learn what the Black Legion is plotting.\n\nGo to $map:02020067$ and suppress $npcName:25022304$."
+    "desc": "$npc:11004574$ says the Black Legion seems to have reinforced its forces to stain $map:02020067$ black.\n\nThey normally do not attack the refugees, but they attack without mercy if people who went hunting approach nearby.\n\nFor now, it would be best to go there yourself and learn what the Black Legion is plotting.\n\nGo to $map:02020067$ and suppress $npcName:25022304$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002812-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says Morang thugs are moving in groups and committing all kinds of bad deeds.\n\nThey are said to harass good Morang and steal their belongings.\n\nThey are the reason the atmosphere in $map:02020069$ became ominous.\n\nIf left alone, <font color=\"#ffd200\">$map:02020069$</font> may spiral out of control.\n\nTeach $npcName:25022503$, which roams $map:02020069$, a lesson."
+    "desc": "$npc:11004620$ says Morang thugs are moving in groups and committing all kinds of bad deeds.\n\nThey are said to harass good Morang and steal their belongings.\n\nThey are the reason the atmosphere in $map:02020069$ became ominous.\n\nIf left alone, <font color=\"#ffd200\">$map:02020069$</font> may spiral out of control.\n\nTeach $npcName:25022503$, which roams $map:02020069$, a lesson.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002811-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says they already know about the creatures surrounding $map:02020069$.\n\nThose creatures were beings consumed by the Black Legion.\n\n$npc:11004620$ says the Black Legion is clearly controlling the creatures to steal the mysterious power.\n\nYou cannot let the mysterious power fall into the Black Legion's hands.\n\nSuppress $npcName:25022502$, which threatens $map:02020069$."
+    "desc": "$npc:11004620$ says they already know about the creatures surrounding $map:02020069$.\n\nThose creatures were beings consumed by the Black Legion.\n\n$npc:11004620$ says the Black Legion is clearly controlling the creatures to steal the mysterious power.\n\nYou cannot let the mysterious power fall into the Black Legion's hands.\n\nSuppress $npcName:25022502$, which threatens $map:02020069$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002813-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says Kerbes forces began throwing grenades after their attack on $map:02020066$ was thwarted.\n\nTheir plan is simply to destroy $map:02020066$ out of hatred.\n\nIf this continues, $map:02020066$'s infrastructure will be damaged.\n\nRepel $npcName:25022205$, which is throwing grenades at $map:02020066$."
+    "desc": "$npc:11004574$ says Kerbes forces began throwing grenades after their attack on $map:02020066$ was thwarted.\n\nTheir plan is simply to destroy $map:02020066$ out of hatred.\n\nIf this continues, $map:02020066$'s infrastructure will be damaged.\n\nRepel $npcName:25022205$, which is throwing grenades at $map:02020066$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002815-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says the kidnapped refugees must have been taken to a Kerbes base and forced into labor, and that it is already too late to rescue them.\n\n$npc:11004574$ says the food shortage is severe because refugees who went hunting were kidnapped.\n\nGo to $map:02020067$, defeat $npcName:25022307$, and bring back $item:30001360$."
+    "desc": "$npc:11004574$ says the kidnapped refugees must have been taken to a Kerbes base and forced into labor, and that it is already too late to rescue them.\n\n$npc:11004574$ says the food shortage is severe because refugees who went hunting were kidnapped.\n\nGo to $map:02020067$, defeat $npcName:25022307$, and bring back $item:30001360$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002818-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says the ecosystem disruption near $map:02020069$ is caused by $npcName:25022504$'s pollen.\n\nWhen $npcName:25022504$'s powder gets into animals' eyes, they hallucinate and lose their sense of direction.\n\n$npc:11004620$ says there are too many $npcName:25022504$, and the animals are suffering greatly.\n\nGo to $map:02020069$ and reduce the number of $npcName:25022504$ to restore the ecosystem."
+    "desc": "$npc:11004620$ says the ecosystem disruption near $map:02020069$ is caused by $npcName:25022504$'s pollen.\n\nWhen $npcName:25022504$'s powder gets into animals' eyes, they hallucinate and lose their sense of direction.\n\n$npc:11004620$ says there are too many $npcName:25022504$, and the animals are suffering greatly.\n\nGo to $map:02020069$ and reduce the number of $npcName:25022504$ to restore the ecosystem.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002816-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says $npcName:25022402$ is attacking the Morang.\nThey say $npcName:25022402$ sprays venom everywhere, and many Morang have been injured.\n\n$npc:11004620$ says $npcName:25022402$'s mind collapsed after being consumed by black energy.\n\nBefore the damage grows worse, go to $map:02020068$ and suppress $npcName:25022402$."
+    "desc": "$npc:11004620$ says $npcName:25022402$ is attacking the Morang.\nThey say $npcName:25022402$ sprays venom everywhere, and many Morang have been injured.\n\n$npc:11004620$ says $npcName:25022402$'s mind collapsed after being consumed by black energy.\n\nBefore the damage grows worse, go to $map:02020068$ and suppress $npcName:25022402$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002817-Fame_Geo01-": {
-    "desc": "$npc:11004620$ asks for help repairing the temple.\n\nThey say $item:30001361$ is needed to repair the walls.\n\nGo to $map:02020068$, defeat $npcName:25022405$, and bring back $item:30001361$."
+    "desc": "$npc:11004620$ asks for help repairing the temple.\n\nThey say $item:30001361$ is needed to repair the walls.\n\nGo to $map:02020068$, defeat $npcName:25022405$, and bring back $item:30001361$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002819-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says Morang thugs captured $npcName:25022505$ and released them in $map:02020069$.\n\nThey are stealing while the Morang run away from $npcName:25022505$.\n\nIf this continues, $map:02020069$ will fall into chaos.\n\nDestroy $npcName:25022505$, which is tearing through $map:02020069$."
+    "desc": "$npc:11004620$ says Morang thugs captured $npcName:25022505$ and released them in $map:02020069$.\n\nThey are stealing while the Morang run away from $npcName:25022505$.\n\nIf this continues, $map:02020069$ will fall into chaos.\n\nDestroy $npcName:25022505$, which is tearing through $map:02020069$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002820-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says $npcName:25022207$ carved all kinds of threatening messages around Galan with a dagger.\n\nThe threats said that if Galan did not surrender voluntarily within a week, it would be devastated.\n\n$npc:11004574$ says the confused refugees are no longer following rules and are acting as they please.\n\nIf this continues, Galan may collapse from within.\n\nRepel $npcName:25022207$, which is spreading fear around $map:02020066$."
+    "desc": "$npc:11004574$ says $npcName:25022207$ carved all kinds of threatening messages around Galan with a dagger.\n\nThe threats said that if Galan did not surrender voluntarily within a week, it would be devastated.\n\n$npc:11004574$ says the confused refugees are no longer following rules and are acting as they please.\n\nIf this continues, Galan may collapse from within.\n\nRepel $npcName:25022207$, which is spreading fear around $map:02020066$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002824-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says the Morang are working together to repair the temple that enshrines the 'mysterious power.'\n\nThey ask you to obtain $item:30001366$ to repair the temple mural.\n\nDefeat $npcName:25022501$ living near $map:02020069$ and bring back $item:30001366$."
+    "desc": "$npc:11004620$ says the Morang are working together to repair the temple that enshrines the 'mysterious power.'\n\nThey ask you to obtain $item:30001366$ to repair the temple mural.\n\nDefeat $npcName:25022501$ living near $map:02020069$ and bring back $item:30001366$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002823-Fame_Geo01-": {
-    "desc": "You suggested providing modern weapons and military training to guard $map:02020069$, but $npc:11004620$ refuses.\n\nKanturang says the Morang will fight with Morang weapons.\n\nNow the only option is to improve the Morang's crude clubs into powerful weapons.\n\nIf $item:30001365$ from $npcName:25022507$ is inserted into a Morang club, it will surely become a powerful weapon.\n\nDefeat $npcName:25022507$ living around $map:02020069$ and secure $item:30001365$."
+    "desc": "You suggested providing modern weapons and military training to guard $map:02020069$, but $npc:11004620$ refuses.\n\nKanturang says the Morang will fight with Morang weapons.\n\nNow the only option is to improve the Morang's crude clubs into powerful weapons.\n\nIf $item:30001365$ from $npcName:25022507$ is inserted into a Morang club, it will surely become a powerful weapon.\n\nDefeat $npcName:25022507$ living around $map:02020069$ and secure $item:30001365$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002825-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says Black Legion forces were reinforced in $map:02020068$ not long ago.\n\nThey say the Black Legion seems to have reinforced its forces to contaminate all of $map:02020068$.\n\nThe reinforced force is said to be $npcName:25022400$.\n\nIf Kanturang's prediction is correct, soon all of $map:02020068$ will be consumed by black energy.\n\nGo to $map:02020068$ and defeat $npcName:25022400$ to stop the forest's contamination.\n\n"
+    "desc": "$npc:11004620$ says Black Legion forces were reinforced in $map:02020068$ not long ago.\n\nThey say the Black Legion seems to have reinforced its forces to contaminate all of $map:02020068$.\n\nThe reinforced force is said to be $npcName:25022400$.\n\nIf Kanturang's prediction is correct, soon all of $map:02020068$ will be consumed by black energy.\n\nGo to $map:02020068$ and defeat $npcName:25022400$ to stop the forest's contamination.\n\n",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "40002821-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says residents who went hunting near Galan were attacked by mechanical lifeforms.\n\nThey are said to attack refugees without warning with terrifying pincers.\n\nIf this continues, Galan may collapse from injuries and hunger.\n\nDestroy $npcName:25022203$, which roams $map:02020066$."
+    "desc": "$npc:11004574$ says residents who went hunting near Galan were attacked by mechanical lifeforms.\n\nThey are said to attack refugees without warning with terrifying pincers.\n\nIf this continues, Galan may collapse from injuries and hunger.\n\nDestroy $npcName:25022203$, which roams $map:02020066$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "40002822-Fame_Geo01-": {
-    "desc": "$npc:11004574$ says $map:02020066$ is boiling in the heat.\n\nShe says it would help if you brought back the wings of $npcName:25022305$ flying around $map:02020067$.\n\nThat is because $item:30001363$ from $npcName:25022305$ blocks hot light and is useful as shade.\n\nGo to $map:02020067$, defeat $npcName:25022305$, and bring back $item:30001363$."
+    "desc": "$npc:11004574$ says $map:02020066$ is boiling in the heat.\n\nShe says it would help if you brought back the wings of $npcName:25022305$ flying around $map:02020067$.\n\nThat is because $item:30001363$ from $npcName:25022305$ blocks hot light and is useful as shade.\n\nGo to $map:02020067$, defeat $npcName:25022305$, and bring back $item:30001363$.",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "80010093--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010090--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010091--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "40002826-Fame_Geo01-": {
-    "desc": "$npc:11004620$ says they are suffering from food shortages because of beasts released by the Black Legion.\n\n$npcName:25022401$ is devouring the fruit in $map:02020068$, leaving the Morang short on food.\n\nYou cannot stand by and watch even the Morang children go hungry.\n\nGo to $map:02020068$ and drive off $npcName:25022401$."
+    "desc": "$npc:11004620$ says they are suffering from food shortages because of beasts released by the Black Legion.\n\n$npcName:25022401$ is devouring the fruit in $map:02020068$, leaving the Morang short on food.\n\nYou cannot stand by and watch even the Morang children go hungry.\n\nGo to $map:02020068$ and drive off $npcName:25022401$.",
+    "complete": "Talk to $npc:11004620$ in $map:02020069$"
   },
   "80010092--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010098--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010096--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010094--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010095--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010097--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010101--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010099--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010103--": {
     "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
   },
   "80010100--": {
-    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
+    "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010102--": {
     "desc": "On a spring day when a fresh breeze tickles your nose, $npc:11001002$ suggests making happy memories by playing tag. They say if you find the tagger that changes every day, the 'Friend of the Day,' and return to $npcName:11001002$, they will give you $item:30001106$, which can be used to buy items from their event shop...\nFind today's friend in Maple World and complete the tag mission!"
@@ -49418,5 +49537,116 @@
   "10003041-DoubleImpactStory-": {
     "desc": "Blackstar Society members burst in while you are talking with $npcName:11001733$ in $map:52000044$!\nCan you shake them off and reach the garage safely?",
     "complete": "Talk to $npcName:11001733$ in $map:52000044$ of $map:02000100$"
+  },
+  "72000007--JP": {
+    "manual": "Talk to $npcName:11000833$, who lives in $map:02000002$",
+    "name": "Talk to $npcName:11000833$, who lives in $map:02000002$"
+  },
+  "72000034--JP": {
+    "manual": "Talk to $npcName:11004258$, who is researching in $map:02000011$",
+    "name": "Talk to $npcName:11004258$, who is researching in $map:02000011$"
+  },
+  "72000013--JP": {
+    "manual": "Talk to $npcName:11004075$, who is being teased by $npcName:11004076$",
+    "name": "Talk to $npcName:11004075$, who is being teased by $npcName:11004076$"
+  },
+  "72000049--JP": {
+    "name": "Talk to $npcName:11004255$, who is intoxicated by sweetness in $map:02000018$",
+    "manual": "Talk to $npcName:11004255$, who is intoxicated by sweetness in $map:02000018$"
+  },
+  "72000058--JP": {
+    "manual": "Talk to $npcName:11004084$ in $map:02000109$ of $map:02000023$",
+    "name": "Talk to $npcName:11004084$ in $map:02000109$ of $map:02000023$"
+  },
+  "72000056--JP": {
+    "manual": "Talk to $npcName:11004071$ in $map:02000022$",
+    "name": "Talk to $npcName:11004071$ in $map:02000022$"
+  },
+  "72000075--JP": {
+    "manual": "Talk to $npcName:11004074$ in $map:02000040$",
+    "name": "Talk to $npcName:11004074$ in $map:02000040$"
+  },
+  "72000081--JP": {
+    "manual": "Talk to $npcName:11004088$ in $map:02000042$",
+    "name": "Talk to $npcName:11004088$ in $map:02000042$"
+  },
+  "72000131--JP": {
+    "name": "Talk to $npcName:11000500$ in $map:02000061$",
+    "manual": "Talk to $npcName:11000500$ in $map:02000061$"
+  },
+  "72000163--JP": {
+    "manual": "Talk to $npcName:11004083$, the general manager of $map:02000086$",
+    "name": "Talk to $npcName:11004083$, the general manager of $map:02000086$"
+  },
+  "72000134--JP": {
+    "manual": "Talk to $npcName:11000456$, who is having a lovers' quarrel in $map:02000062$",
+    "name": "Talk to $npcName:11000456$, who is having a lovers' quarrel in $map:02000062$"
+  },
+  "72000176--JP": {
+    "manual": "Talk to $npcName:11004079$, who lives in $map:02000090$",
+    "name": "Talk to $npcName:11004079$, who lives in $map:02000090$"
+  },
+  "72000222--JP": {
+    "manual": "Talk to $npcName:11004089$, who came to rest in $map:02000108$",
+    "name": "Talk to $npcName:11004089$, who came to rest in $map:02000108$"
+  },
+  "72000292--JP": {
+    "name": "Talk to $npcName:11004069$ in $map:02000139$",
+    "manual": "Talk to $npcName:11004069$ in $map:02000139$"
+  },
+  "72000434--JP": {
+    "manual": "Talk to $npcName:11004066$, who is hiding in $map:02000262$",
+    "name": "Talk to $npcName:11004066$, who is hiding in $map:02000262$"
+  },
+  "72000304--JP": {
+    "manual": "Talk to $npcName:11000122$ in $map:02000026$",
+    "name": "Talk to $npcName:11000122$ in $map:02000026$"
+  },
+  "72000644--JP": {
+    "manual": "Talk to $npcName:11004250$, who suddenly appeared in $map:03000130$ emitting a faint light",
+    "name": "Talk to $npcName:11004250$, who suddenly appeared in $map:03000130$ emitting a faint light"
+  },
+  "72000635--JP": {
+    "manual": "Talk to $npcName:11004252$ in $map:03000115$",
+    "name": "Talk to $npcName:11004252$ in $map:03000115$"
+  },
+  "72000665--JP": {
+    "name": "Talk to $npc:11004253$ in $map:03000165$",
+    "manual": "Talk to $npc:11004253$ in $map:03000165$"
+  },
+  "80010082--": {
+    "complete": "Talk to $npc:11003139$ in $map:02000064$"
+  },
+  "80010085--": {
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
+  },
+  "80010084--": {
+    "complete": "Talk to $npc:11003139$ in $map:02000064$"
+  },
+  "80010083--": {
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
+  },
+  "89010380-Event-CN": {
+    "manual": "Defeat 888 monsters",
+    "complete": "Defeat 888 monsters",
+    "name": "Defeat 888 Monsters"
+  },
+  "89010393-Event-CN": {
+    "name": "Defeat Field Bosses 10 Times",
+    "complete": "Defeat field bosses 10 times",
+    "manual": "Defeat a field boss"
+  },
+  "89010395-Event-CN": {
+    "complete": "Defeat 2020 monsters",
+    "manual": "Defeat monsters",
+    "name": "Defeat 2020 Monsters"
+  },
+  "89010413-Event-CN": {
+    "complete": "Defeat field bosses 5 times",
+    "manual": "Defeat a field boss"
+  },
+  "89010415-Event-CN": {
+    "manual": "Defeat monsters",
+    "name": "Defeat 220 Monsters"
   }
 }
