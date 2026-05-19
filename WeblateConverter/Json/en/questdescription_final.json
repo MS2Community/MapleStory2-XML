@@ -46833,12 +46833,15 @@
   },
   "80010370-Event-CN": {
     "desc": "Defeat the bosses below to collect $item:30001386$, $item:30001387$, and $item:30001388$, the materials needed for the windmill!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'\n\n* This quest can only be completed once per day, and the reward $item:30001389$ can also only be obtained once per day.",
-    "name": "Pinwheel Materials"
+    "name": "Pinwheel Materials",
+    "manual": "Obtain $item:30001386$|Obtain $item:30001387$|Obtain $item:30001388$",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010350-Event-CN": {
     "desc": "An April Fools' surprise event, available only until April 2, 2019!\n\nIt's April Fools' Day!\nThat urge to trick or prank someone? $npcName:11001002$ totally gets it~!\n\nEat the $item:20000674$ received in the mail and give your friends a big surprise.\nAdventurers who complete the quest will receive a gift perfectly suited for April Fools'!",
     "manual": "Use $item:20000674$ in Maple World",
-    "name": "I'm Going to Trick You!"
+    "name": "I'm Going to Trick You!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010390-Event-CN": {
     "desc": "$npc:11001003$ tells you about a special dungeon open during the event and explains that you can level up quickly through it.\nClear $dungeonTitle:29007001$ and $dungeonTitle:29007002$ a combined 30 times in one week to receive items for rapid growth.\nNote that the daily/weekly reward limit for both dungeons is shared at the account level.",
@@ -46847,11 +46850,14 @@
   },
   "80010360-Event-CN": {
     "desc": "If you defeat $npcName:60000103$, the third-round opponent in Queenwin Rumble, three times, you can receive a gift from $npcName:11001002$.\n\nThe gift can only be received from May 22, 2019 until before the June 14 maintenance, so hurry and join Queenwin Rumble!",
-    "name": "Defeat Mint!"
+    "name": "Defeat Mint!",
+    "manual": "Face $npcName:60000103$ in Queen Bean Rumble and win",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010500-Event-CN": {
     "desc": "Use [Go to Event Map] to travel to $map:63000089$ and try playing music together with other adventurers.",
-    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$",
+    "manual": "Perform as an ensemble in $map:63000089$"
   },
   "80010510-Event-CN": {
     "desc": "Listen to the fascinating rumors that $npcName:11001002$ has to share.",
@@ -46890,27 +46896,32 @@
   "80010343-Event-CN": {
     "manual": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt LO' (at least Level 10) in Maple World",
     "desc": "Find today's partner in Maple World and complete the tag mission!",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010342-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "manual": "Find a player of the opposite gender wearing a 'Lovely Heart Bag' (at least Level 10) in Maple World",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010344-Event-CN": {
     "manual": "Find a player of the opposite gender wearing a 'Find My Other Half T-Shirt VE' (at least Level 10) in Maple World",
     "desc": "Find today's partner in Maple World and complete the tag mission!",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010345-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "manual": "Find a player of the opposite gender wearing 'Love in Droplets' (at least Level 10) in Maple World",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010346-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "manual": "Find a friend of the opposite gender wearing a 'Dancing Flower' (Lv. 10+) in Maple World",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "72000499-KarkarIsland-JP": {
     "manual": "Check on $npcName:11004264$ in $map:02010002$",
@@ -46953,20 +46964,24 @@
   "80010542-Event-CN": {
     "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
     "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
-    "name": "Hide-and-Seek Champion!"
+    "name": "Hide-and-Seek Champion!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010540-Event-CN": {
     "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
     "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
-    "name": "More Fun When You Win!"
+    "name": "More Fun When You Win!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010530-Event-CN": {
     "desc": "I heard that $npc:11001899$ is hosting a new event.\nIt's a hide-and-seek type game...\nThey say it's only held on Tuesdays, Saturdays, and Sundays, so keep that in mind and join in.",
-    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event"
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010541-Event-CN": {
     "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
-    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win"
+    "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010520-Event-CN": {
     "desc": "I received $npc:50400341$ as a gift from a witch I'd just met. Is it... okay to raise it?",
@@ -46977,11 +46992,13 @@
   "80010543-Event-CN": {
     "desc": "Join $npc:11001899$'s new event, a game of hide-and-seek, and become part of the winning team.",
     "manual": "Participate in $npc:11001899$'s Hide-and-Seek event and win",
-    "name": "Hide-and-Seek Master!"
+    "name": "Hide-and-Seek Master!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010550-Event-CN": {
     "desc": "$npcName:11000119$ the Captain says that feeling lonely is a sign of a weak spirit, and recommends you join the Royal Guard's special training.\nI'm not quite sure why I should do this, but since there are rewards on offer, let's take part.\nFirst, defeat one of the various Field Bosses in Maple World, then find $npc:11000158$ in $map:02000118$.\n\nField Bosses in Maple World:\n'$npcName:23000013$', '$npcName:23000018$', '$npcName:23000001$', '$npcName:23000019$', \n'$npcName:23000054$', '$npcName:23000020$', '$npcName:23000035$', '$npcName:23000099$', '$npcName:23000017$', '$npcName:23000047$', '$npcName:23000024$', '$npcName:23000034$', '$npcName:23000045$', '$npcName:23000057$', '$npcName:23000026$', '$npcName:23000012$', '$npcName:23000009$', '$npcName:23000029$' ",
-    "complete": "Visit $npc:11000158$ in $map:02000118$"
+    "complete": "Visit $npc:11000158$ in $map:02000118$",
+    "manual": "Defeat a field boss"
   },
   "80010552-Event-CN": {
     "desc": "$npc:11000157$ says that true romance means enjoying solitude and exploring yourself, and asks you to play a song with any sheet music.\nApparently, immersing yourself in a world where only music and you exist is the third training exercise... I have no idea what that means, but since it's the third one, I might as well keep going.\nPlay any sheet music, then find $npc:11000617$ in $map:02000118$.",
@@ -46999,20 +47016,26 @@
     "name": "Participate in MC Kay Event 5 Times"
   },
   "80010570-Event-CN": {
-    "desc": "$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.\nParticipate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared."
+    "desc": "$npc:11001002$ tells you that a very special dance party has been prepared this winter, and invites you to join in.\nParticipate in $map:61000022$ 3 times a week and receive the surprise gift that $npc:11001002$ has prepared.",
+    "manual": "Participate in $map:61000022$",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010600-Event-CN": {
     "desc": "Find the Black Bean-shaped balloons appearing throughout the fields and send them flying.\n\n* Black Bean-shaped balloons appear across all fields every 10 minutes and last for 5 minutes.",
     "manual": "Release the Black Bean Balloon",
-    "name": "Black Bean Balloon"
+    "name": "Black Bean Balloon",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010590-Event-CN": {
     "desc": "Find the Borabora heart balloons appearing throughout the fields and send them flying.\n\n* Borabora heart balloons appear across all fields every 10 minutes and last for 5 minutes.",
-    "name": "Send Off Hearts of Love"
+    "name": "Send Off Hearts of Love",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010560-Event-CN": {
     "desc": "If you stay logged in for at least 80 minutes on both December 31, 2019 and January 1, 2020, you'll receive 10 $item:30001467$ by mail each day.\nCollect 20 $item:30001467$ over the two days and bring them to $npcName:11001002$.",
-    "name": "Lucky Cupcake Delivery"
+    "name": "Lucky Cupcake Delivery",
+    "manual": "Obtain $item:30001467$",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "89010375-Event-CN": {
     "manual": "* Guild quests can be accepted from Guild Manager Shuengji in the Guild House.\n* Daily guild quests can only be accepted after you have been in the guild for one day.\n* Weekly guild quests can only be accepted after you have been in the guild for one week.\n* Both daily and weekly quests count toward the quest objective completion count.\n\nComplete 3 guild quests",
@@ -47026,73 +47049,89 @@
   "80010347-Event-CN": {
     "manual": "Find a friend of the opposite gender wearing a 'Fanfare Baby Angel' (Lv. 10+) in Maple World",
     "desc": "Find today's partner in Maple World and complete the tag mission!",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$"
   },
   "80010380-Event-CN": {
-    "desc": "Complete the quest from $npc:11001002$ and collect 20 $item:30001389$!"
+    "desc": "Complete the quest from $npc:11001002$ and collect 20 $item:30001389$!",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010580-Event-CN": {
-    "desc": "Defeat the bosses listed below or win $npcName:11001899$'s event to collect all the '冒险岛喜迎新春' characters!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'"
+    "desc": "Defeat the bosses listed below or win $npcName:11001899$'s event to collect all the '冒险岛喜迎新春' characters!\n\n'$npc:23000013$', '$npc:23000018$', '$npc:23000001$', '$npc:23000019$', \n'$npc:23000054$', '$npc:23000020$', '$npc:23000035$', '$npc:23000099$', '$npc:23000017$', '$npc:23000047$', '$npc:23000024$', '$npc:23000034$', '$npc:23000045$', '$npc:23000057$', '$npc:23000026$', '$npc:23000012$', '$npc:23000009$', '$npc:23000029$'",
+    "complete": "Talk to $npc:11001003$ in $map:02000064$ or $map:02020041$",
+    "manual": "Obtain the letter '$item:30001493$'|Obtain the letter '$item:30001494$'|Obtain the letter '$item:30001495$'|Obtain the letter '$item:30001496$'|Obtain the letter '$item:30001497$'|Obtain the letter '$item:30001498$'|Obtain the letter '$item:30001499$'"
   },
   "80010610-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a partner wearing $item:11361396$"
+    "manual": "Find a partner wearing $item:11361396$",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010612-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a male partner wearing the \"Homebody\" title"
+    "manual": "Find a male partner wearing the \"Homebody\" title",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010615-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a partner wearing the \"Expert Angler\" title"
+    "manual": "Find a partner wearing the \"Expert Angler\" title",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010613-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a partner wearing $item:11250042$"
+    "manual": "Find a partner wearing $item:11250042$",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010611-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a female partner wearing the \"Homebody\" title"
+    "manual": "Find a female partner wearing the \"Homebody\" title",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010614-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a partner wearing the \"Heartstealer\" title"
+    "manual": "Find a partner wearing the \"Heartstealer\" title",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010617-Event-CN": {
     "manual": "Find a Priest partner at Lv. 50 or higher",
     "desc": "Find today's partner in Maple World and complete the tag mission!",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010616-Event-CN": {
     "manual": "Find a Knight partner at Lv. 50 or higher",
     "desc": "Find today's partner in Maple World and complete the tag mission!",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010618-Event-CN": {
     "desc": "Find today's partner in Maple World and complete the tag mission!",
     "manual": "Find a Ranger buddy Lv. 50 or higher",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010619-Event-CN": {
     "manual": "Find a Thief buddy Lv. 50 or higher",
     "desc": "Find today's buddy in Maple World and complete the tag mission!",
-    "name": "Daily Mission: Today's Partner"
+    "name": "Daily Mission: Today's Partner",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010621-Event-CN": {
     "desc": "Find today's buddy in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a partner wearing the \"White Cat\" title"
+    "manual": "Find a partner wearing the \"White Cat\" title",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "80010620-Event-CN": {
     "desc": "Find today's buddy in Maple World and complete the tag mission!",
     "name": "Daily Mission: Today's Partner",
-    "manual": "Find a partner wearing the \"Black Cat\" title"
+    "manual": "Find a partner wearing the \"Black Cat\" title",
+    "complete": "Talk to $npc:11001002$ in $map:02000064$ or $map:02020041$"
   },
   "89010376-Event-CN": {
     "manual": "Field Bosses to Defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat field bosses 20 times",
@@ -47300,7 +47339,8 @@
     "desc": "You entered $map:52000047$ through the secret passage near the entrance to $map:02000156$ in $map:02000138$ and met $npcName:11000251$!\nWith a shameless face and not the slightest trace of guilt, he provokes you by saying the lives of the back-alley people do not matter.\nHis brazenness makes your anger boil over."
   },
   "10003050-DoubleImpactStory-": {
-    "desc": "$npcName:11000003$ greets you warmly, which feels unlike him.\nDoes he know what is going on with me...?"
+    "desc": "$npcName:11000003$ greets you warmly, which feels unlike him.\nDoes he know what is going on with me...?",
+    "complete": "Talk to $npcName:11000003$ in $map:02000001$"
   },
   "10003045-DoubleImpactStory-": {
     "desc": "A note that seems to have been sent by the mysterious friend who saved your life in $map:52000045$... Inside was a clue to the whereabouts of the back-alley people you had been searching for so desperately.\nGo to $map:02000275$ and investigate further."
@@ -47314,7 +47354,8 @@
     "manual": "Follow the truth through the Beyond Capsule in $map:52000040$"
   },
   "10003055-DoubleImpactStory-": {
-    "desc": "You met $npcName:11001558$ again at the Guidance's newly prepared temporary hideout, $map:52000050$, in $map:02000101$!\nQuite some time has passed, but they have not changed. "
+    "desc": "You met $npcName:11001558$ again at the Guidance's newly prepared temporary hideout, $map:52000050$, in $map:02000101$!\nQuite some time has passed, but they have not changed. ",
+    "complete": "Talk to $npcName:11001557$ in $map:52000050$, located in $map:02000101$"
   },
   "10003051-DoubleImpactStory-": {
     "desc": "$npcName:11000003$'s sharp advice seems to snap you back to your senses.\nNothing will be solved if you only avoid things because they hurt or scare you.\nReturn to $map:52000039$ in $map:03000145$ and face the real truth.",
@@ -47353,82 +47394,106 @@
     "desc": "The cat $npc:11000367$ had run away for love. Tell $npc:11000366$ about it."
   },
   "40002651-DoubleImpactStory-": {
-    "desc": "Leave the injured $npcName:11001789$, who was hurt in your place, and face $npcName:11001780$."
+    "desc": "Leave the injured $npcName:11001789$, who was hurt in your place, and face $npcName:11001780$.",
+    "complete": "Talk to $npcName:11001791$ in $map:63000038$"
   },
   "40002641-DoubleImpactStory-": {
-    "desc": "According to $npcName:11001782$, the back-alley people are trapped in $map:63000039$. Hurry there and free them."
+    "desc": "According to $npcName:11001782$, the back-alley people are trapped in $map:63000039$. Hurry there and free them.",
+    "complete": "Talk to $npcName:11001736$ in $map:52000046$ of $map:02000138$"
   },
   "40002640-DoubleImpactStory-": {
     "desc": "You arrived at $map:63000038$, the place where the back-alley people were supposedly taken. You are worried whether they are alive, so hurry and rescue them.",
-    "name": "The One Blocking the Way"
+    "name": "The One Blocking the Way",
+    "complete": "Talk to $npcName:11001782$ in $map:63000038$"
   },
   "40002650-DoubleImpactStory-": {
-    "desc": "To keep the Guidance out of danger, and to learn who you are, you can no longer turn away from Beyond Link and Kandura. Do not hesitate. Enter $map:63000038$."
+    "desc": "To keep the Guidance out of danger, and to learn who you are, you can no longer turn away from Beyond Link and Kandura. Do not hesitate. Enter $map:63000038$.",
+    "complete": "Talk to $npcName:11001789$ in $map:63000038$"
   },
   "40002652-DoubleImpactStory-": {
     "desc": "$npcName:11001791$ says there is something they want to show you. Follow them to $map:63000040$.",
-    "name": "A New Family"
+    "name": "A New Family",
+    "complete": "Talk to $npcName:11001792$ in $map:63000040$"
   },
   "50001310-CharacterAbility-": {
-    "desc": "$npc:11000601$ says that if you want to learn how to become stronger through those who gather mysterious power, you should visit them, and that they will be waiting in $map:02000025$."
+    "desc": "$npc:11000601$ says that if you want to learn how to become stronger through those who gather mysterious power, you should visit them, and that they will be waiting in $map:02000025$.",
+    "complete": "Talk to $npc:11000601$ in $map:02000025$"
   },
   "50001311-CharacterAbility-": {
-    "desc": "Those who collect rare star fragments with mysterious power call themselves Star Keepers, and they say they will exchange $item:30000447$ or $item:30000448$ for various useful adventure items... Ask $npcFunction:11001271$ $npc:11001271$ in $map:02010063$ directly about how to obtain $item:30000447$."
+    "desc": "Those who collect rare star fragments with mysterious power call themselves Star Keepers, and they say they will exchange $item:30000447$ or $item:30000448$ for various useful adventure items... Ask $npcFunction:11001271$ $npc:11001271$ in $map:02010063$ directly about how to obtain $item:30000447$.",
+    "complete": "Talk to $npcFunction:11001271$ $npc:11001271$ in $map:02010063$"
   },
   "50001301-CharacterAbility-": {
-    "desc": "When you meet $npc:11000075$ in $map:52000033$, they tell you about a suspicious tremor recently detected west of Victoria Island, revealing that the power of darkness has drawn closer. $npc:11000075$ says they will grant you a new power to deal with greater darkness and enables you to use \"Attributes.\""
+    "desc": "When you meet $npc:11000075$ in $map:52000033$, they tell you about a suspicious tremor recently detected west of Victoria Island, revealing that the power of darkness has drawn closer. $npc:11000075$ says they will grant you a new power to deal with greater darkness and enables you to use \"Attributes.\"",
+    "complete": "Talk to $npc:11000075$ in $map:52000033$ and unlock a new power, \"Traits\""
   },
   "50001300-CharacterAbility-": {
-    "desc": "$npc:11000119$ says $npc:11000075$ is looking for you and tells you to come to $map:52000033$ upstairs in $map:02000025$."
+    "desc": "$npc:11000119$ says $npc:11000075$ is looking for you and tells you to come to $map:52000033$ upstairs in $map:02000025$.",
+    "complete": "Talk to $npc:11000075$ in $map:52000033$ above the palace entrance, north of $map:02000001$"
   },
   "50001302-CharacterAbility-": {
     "desc": "$npc:11000119$ says that now that your new power, \"Attributes,\" has been unlocked, you will be able to grow in more varied ways. They advise you to try different activities to train yourself, and tell you that checking the \"Maple Guide\" will show things worth doing at your current level. They also say upgrading skills will let you use stronger power, and give you $item:40100022$ as a gift."
   },
   "50001381-ShadowExpedition-": {
-    "desc": "$npc:11000119$ tells you that a suspicious dark gate has appeared on the broken ground in $map:02000118$. Beyond the gate is a twisted dark space that could lead anywhere, and according to the royal guard members lucky enough to return alive after investigating it, the inside was filled with pitch-black darkness like another world and contained monsters with tremendous strength. The Royal Guard has decided to ask capable adventurers to explore the place and learn what is inside under the name \"Shadow Expedition.\" "
+    "desc": "$npc:11000119$ tells you that a suspicious dark gate has appeared on the broken ground in $map:02000118$. Beyond the gate is a twisted dark space that could lead anywhere, and according to the royal guard members lucky enough to return alive after investigating it, the inside was filled with pitch-black darkness like another world and contained monsters with tremendous strength. The Royal Guard has decided to ask capable adventurers to explore the place and learn what is inside under the name \"Shadow Expedition.\" ",
+    "complete": "Talk to $npc:11000119$ in $map:02000001$"
   },
   "50001382-ShadowExpedition-": {
-    "desc": "$npc:11001700$, dispatched to the broken ground in $map:02000118$, says that to survive in the deep darkness, it is important to understand and use the rules and expedition-only attributes that apply only inside. With the real challenge now before you, they encourage you to do your best exploring the place. "
+    "desc": "$npc:11001700$, dispatched to the broken ground in $map:02000118$, says that to survive in the deep darkness, it is important to understand and use the rules and expedition-only attributes that apply only inside. With the real challenge now before you, they encourage you to do your best exploring the place. ",
+    "complete": "Talk to $npc:11001700$ in $map:02000118$"
   },
   "50001380-ShadowExpedition-": {
     "desc": "$npc:11000119$ says they have something to tell you and are looking for you. Meet them in $map:02000001$.",
     "complete": "Find $npc:11000119$ in $map:02000001$"
   },
   "10003120-Kritias_Epic02-": {
-    "desc": "$npcName:11004577$ says you can finally explore beyond $map:02020036$.\n\nWhat lies beyond $map:02020036$?\n\nHurry to $map:02020036$ and find out."
+    "desc": "$npcName:11004577$ says you can finally explore beyond $map:02020036$.\n\nWhat lies beyond $map:02020036$?\n\nHurry to $map:02020036$ and find out.",
+    "complete": "Talk to $npcName:11004577$ in $map:02020036$"
   },
   "10003130-Kritias_Epic02-": {
-    "desc": "You felt awkward after everyone pointed to you as the ideal expedition member, but you decided to move beyond $map:02020036$ to meet their expectations.\n\n$npcName:11004582$ asks you to investigate $map:02020066$, discovered during the first expedition...\n\nHead out to investigate $map:02020066$ and defeat the obstructing Kerbes forces."
+    "desc": "You felt awkward after everyone pointed to you as the ideal expedition member, but you decided to move beyond $map:02020036$ to meet their expectations.\n\n$npcName:11004582$ asks you to investigate $map:02020066$, discovered during the first expedition...\n\nHead out to investigate $map:02020066$ and defeat the obstructing Kerbes forces.",
+    "complete": "Talk to $npcName:11004571$ in $map:02020066$"
   },
   "10003170-Kritias_Epic02-": {
     "desc": "As expected, $npcTitle:11004576$ knows everything!\n\nAfter a brief conversation, $npcTitle:11004576$ realizes that you are looking for $npcName:11004430$ and demands payment.\n\nWhen you look at them pitifully, $npc:11004576$ says they will accept an item instead of an information fee.\n\nBring the $item:30001349$ they want.",
-    "name": "How to Pay the Price"
+    "name": "How to Pay the Price",
+    "complete": "Talk to $npc:11004576$ in $map:02020066$"
   },
   "10003180-Kritias_Epic02-": {
-    "desc": "$npc:11004576$ says many materials have recently been transported to $map:02020067$.\n\nThey say their intuition tells them something is being built in $map:02020067$.\n\nTrust their instinct and go to $map:02020067$ to check whether anything suspicious is there."
+    "desc": "$npc:11004576$ says many materials have recently been transported to $map:02020067$.\n\nThey say their intuition tells them something is being built in $map:02020067$.\n\nTrust their instinct and go to $map:02020067$ to check whether anything suspicious is there.",
+    "complete": "Talk to $npcName:11004577$ in $map:02020036$"
   },
   "10003160-Kritias_Epic02-": {
-    "desc": "$npcName:11004574$ finally opens up.\n\nWhen you say you want to know more about this place, they say there is someone better suited than them and tell you that $npcTitle:11004576$, who knows all the rumors around here, exists.\nThey even write you a recommendation letter, perhaps feeling sorry about everything so far.\n\nTake the recommendation letter and go see $npcTitle:11004576$."
+    "desc": "$npcName:11004574$ finally opens up.\n\nWhen you say you want to know more about this place, they say there is someone better suited than them and tell you that $npcTitle:11004576$, who knows all the rumors around here, exists.\nThey even write you a recommendation letter, perhaps feeling sorry about everything so far.\n\nTake the recommendation letter and go see $npcTitle:11004576$.",
+    "manual": "Talk to $npc:11004576$ in $map:02020066$",
+    "complete": "Talk to $npc:11004576$ in $map:02020066$"
   },
   "10003150-Kritias_Epic02-": {
-    "desc": "You tried to meet the refugee leader and explain the situation, but after hearing the word Georg, $npcName:11004574$ shows strong hostility.\n\n$npcName:11004574$ asks what Georg ever did for them while the Black Legion appeared and trapped them. You argue that Georg also had difficulty fighting on two fronts, but $npcName:11004574$ will not listen.\n\nThis will not do.\nYou need to help the refugees to change $npcName:11004574$'s mind."
+    "desc": "You tried to meet the refugee leader and explain the situation, but after hearing the word Georg, $npcName:11004574$ shows strong hostility.\n\n$npcName:11004574$ asks what Georg ever did for them while the Black Legion appeared and trapped them. You argue that Georg also had difficulty fighting on two fronts, but $npcName:11004574$ will not listen.\n\nThis will not do.\nYou need to help the refugees to change $npcName:11004574$'s mind.",
+    "complete": "Talk to $npc:11004571$ in $map:02020066$"
   },
   "10003140-Kritias_Epic02-": {
-    "desc": "$npcName:11004571$ is surprised to hear that you crossed $map:02020036$.\nThey are surprised again when you say you defeated Kerbes on the way.\n\nWhen you ask about this place, $npcName:11004571$ tells you to find the leader, $npcName:11004574$.\nBut they warn you not to mention Georg to $npcName:11004574$. Why would that be?\n\nFor now, meet $npcTitle:11004574$."
+    "desc": "$npcName:11004571$ is surprised to hear that you crossed $map:02020036$.\nThey are surprised again when you say you defeated Kerbes on the way.\n\nWhen you ask about this place, $npcName:11004571$ tells you to find the leader, $npcName:11004574$.\nBut they warn you not to mention Georg to $npcName:11004574$. Why would that be?\n\nFor now, meet $npcTitle:11004574$.",
+    "manual": "Talk to $npc:11004574$ in $map:02020066$",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$"
   },
   "10003190-Kritias_Epic02-": {
     "desc": "The facility looks very suspicious, but you still do not know what it really is, so it is hard to respond.\n\nIf only you had more information...\n\nFor now, return to $npcTitle:11004576$ and ask if they know anything else.",
-    "name": "A New Place, a Welcome Encounter"
+    "name": "A New Place, a Welcome Encounter",
+    "manual": "Talk to $npc:11004576$ in $map:02020066$",
+    "complete": "Talk to $npc:11004576$ in $map:02020066$"
   },
   "10003230-Kritias_Epic02-": {
-    "desc": "You met $npcName:11004584$ and handed over the blueprint, but they stubbornly insisted they did not need it.\n\nBefore leaving to defeat Archeon, you suggested going together, but $npcName:11004584$ flatly refused.\nWhen you persuaded them again by saying they still do not know this place well, they finally changed their mind and promised to come along.\n\nAll that remains now is to defeat Archeon."
+    "desc": "You met $npcName:11004584$ and handed over the blueprint, but they stubbornly insisted they did not need it.\n\nBefore leaving to defeat Archeon, you suggested going together, but $npcName:11004584$ flatly refused.\nWhen you persuaded them again by saying they still do not know this place well, they finally changed their mind and promised to come along.\n\nAll that remains now is to defeat Archeon.",
+    "complete": "Talk to $npc:11004577$ in $map:02020036$"
   },
   "10003210-Kritias_Epic02-": {
     "desc": "To secure the blueprint, you need to enter the factory, but the entrance seems to be hidden.\n\n$npcName:11004580$ and $npcName:11004579$ said hacking is the answer at times like this... Should you try it?"
   },
   "10003220-Kritias_Epic02-": {
     "desc": "The guide robot inside the factory tells you that Archeon's blueprint can be found in the innermost area.\n\nHowever, it says that to move deeper inside, the security facility must be shut down...\n\nThere is no other obvious method for now, so head inside.",
-    "name": "Security System Activated"
+    "name": "Security System Activated",
+    "complete": "Talk to $npc:11004584$ in $map:02020067$"
   },
   "10003200-Kritias_Epic02-": {
     "desc": "$npcName:11004576$ says the facility is connected to the Tyren Kingdom's latest weapon, Archeon. $npcName:11004576$ says Archeon is extremely powerful and would be dangerous if it fell into $npcName:11004430$'s hands.\n\nWhen you try to rush there immediately, they say facing it bare-handed would be impossible and suggest another way.\n\n$npcName:11004576$ says that if you go to $map:02020035$ and secure the blueprint, you should be able to learn how to control Archeon.\n\nGo secure the blueprint right now."
@@ -47437,61 +47502,93 @@
     "desc": "$npc:11004577$ says they discovered that $npcName:11004430$ is commanding the Black Legion from $map:02020071$, beyond $map:02020070$.\nHowever, an unidentified energy source was found at the gateway leading to $map:02020071$, making them hesitate to advance.\n\nFor everyone's sake, you need to see what that energy source is with your own eyes.\n\n$npcName:11004584$ wanted to come with you, but since they still do not seem to know much about Kritias, you asked $npcName:11004582$ to guide you.\n\n$npcName:11004582$ seemed very grateful, but why?\nYou are curious, but first you need to check the energy source and defeat the monsters in your way."
   },
   "10003260-Kritias_Epic02-": {
-    "desc": "After seeing the photo taken in $map:02020070$, $npcName:11004582$ says the unidentified energy source is $npcName:11004684$, a weapon that once protected the Tyren Kingdom.\n\n$npcName:11004582$ explains that it was an excellent weapon guarding the front of the kingdom, but after repeated learning it developed a sense of self and was abandoned by $npcName:11004575$.\n\nListen to more of her story."
+    "desc": "After seeing the photo taken in $map:02020070$, $npcName:11004582$ says the unidentified energy source is $npcName:11004684$, a weapon that once protected the Tyren Kingdom.\n\n$npcName:11004582$ explains that it was an excellent weapon guarding the front of the kingdom, but after repeated learning it developed a sense of self and was abandoned by $npcName:11004575$.\n\nListen to more of her story.",
+    "manual": "Talk to $npc:11004582$ in $map:02020036$",
+    "complete": "Talk to $npc:11004582$ in $map:02020036$"
   },
   "10003270-Kritias_Epic02-": {
-    "desc": "$npcName:11004582$ says you may need to consider retreating, but after coming this far, you cannot back down.\n\nYou must stop $npcName:11004684$ and enter $map:02020071$."
+    "desc": "$npcName:11004582$ says you may need to consider retreating, but after coming this far, you cannot back down.\n\nYou must stop $npcName:11004684$ and enter $map:02020071$.",
+    "manual": "Talk to $npc:11004582$ in $map:02020036$",
+    "complete": "Talk to $npc:11004582$ in $map:02020036$"
   },
   "10003280-Kritias_Epic02-": {
-    "desc": "$npcName:11004684$ always surrounds itself with a barrier for protection, but the barrier is said to disappear before royalty.\n\n$npcName:11004582$ says she will help you defeat $npcName:11004684$.\nBut $npcName:11004583$ strongly objects.\n\nInstead, $npcName:11004583$ suggests making an Ener disruption device to deceive $npcName:11004684$.\nThe problem is that there is no way to obtain $item:30001350$, the material needed to make the Ener disruption device...\n\n$npcName:11004583$ says refugees who were driven out of the Tyren Kingdom not long ago might have $item:30001350$.\nFor now, go see $npcName:11004574$.\n"
+    "desc": "$npcName:11004684$ always surrounds itself with a barrier for protection, but the barrier is said to disappear before royalty.\n\n$npcName:11004582$ says she will help you defeat $npcName:11004684$.\nBut $npcName:11004583$ strongly objects.\n\nInstead, $npcName:11004583$ suggests making an Ener disruption device to deceive $npcName:11004684$.\nThe problem is that there is no way to obtain $item:30001350$, the material needed to make the Ener disruption device...\n\n$npcName:11004583$ says refugees who were driven out of the Tyren Kingdom not long ago might have $item:30001350$.\nFor now, go see $npcName:11004574$.\n",
+    "complete": "Talk to $npc:11004574$ in $map:02020066$",
+    "manual": "Talk to $npc:11004582$ in $map:02020036$"
   },
   "10003250-Kritias_Epic02-": {
-    "desc": "While you were defeating the obstructing monsters, you suddenly felt a huge tremor.\n\nWhat could this shaking be?"
+    "desc": "While you were defeating the obstructing monsters, you suddenly felt a huge tremor.\n\nWhat could this shaking be?",
+    "complete": "Talk to $npc:11004582$ in $map:02020036$"
   },
   "10003320-Kritias_Epic03-": {
-    "desc": "At last, all preparations are complete.\n\nNow it is time to end your long, ill-fated bond with $npcName:11004430$."
+    "desc": "At last, all preparations are complete.\n\nNow it is time to end your long, ill-fated bond with $npcName:11004430$.",
+    "manual": "Talk to $npcName:11004587$ in $map:02020071$",
+    "complete": "Talk to $npcName:11004587$ in $map:02020071$"
   },
   "10003300-Kritias_Epic02-": {
-    "desc": "You finally arrived at $map:02020071$.\n\nThe moment you decided to charge inside, you felt an ominous energy.\n\nWhat is this energy?"
+    "desc": "You finally arrived at $map:02020071$.\n\nThe moment you decided to charge inside, you felt an ominous energy.\n\nWhat is this energy?",
+    "complete": "Talk to $npcName:11004587$ in $map:02020071$"
   },
   "10003310-Kritias_Epic02-": {
-    "desc": "$npcName:11004577$ says $npcName:11004430$'s sudden appearance is confusing, but you should focus on what matters first.\nThat means capturing $npcName:11004430$.\n\n$npcName:11004577$ suggests splitting the assault route in two.\n\nWith an important battle ahead, you should prepare thoroughly."
+    "desc": "$npcName:11004577$ says $npcName:11004430$'s sudden appearance is confusing, but you should focus on what matters first.\nThat means capturing $npcName:11004430$.\n\n$npcName:11004577$ suggests splitting the assault route in two.\n\nWith an important battle ahead, you should prepare thoroughly.",
+    "manual": "Talk to $npcName:11004587$ in $map:02020071$",
+    "complete": "Talk to $npcName:11004587$ in $map:02020071$"
   },
   "10003281-Kritias_Epic02-": {
-    "desc": "$npcName:11004574$ says the refugees do not have the material, but the Tyren Kingdom soldiers in $map:02020066$ should have $item:30001350$.\n\nTeach the Tyren soldiers watching the refugees a lesson, and get the material while you are at it. "
+    "desc": "$npcName:11004574$ says the refugees do not have the material, but the Tyren Kingdom soldiers in $map:02020066$ should have $item:30001350$.\n\nTeach the Tyren soldiers watching the refugees a lesson, and get the material while you are at it. ",
+    "complete": "Talk to $npc:11004582$ in $map:02020036$"
   },
   "10003290-Kritias_Epic02-": {
-    "desc": "All right, everything is ready now.\n\nGo defeat $npcName:11004684$!"
+    "desc": "All right, everything is ready now.\n\nGo defeat $npcName:11004684$!",
+    "complete": "Talk to $npcName:11004587$ in $map:02020071$"
   },
   "10003350-Kritias_Epic03-": {
-    "desc": "$npcName:11004430$ was a clone created by $npcName:11004575$ to break the seal on Kritias.\n\nEveryone was left speechless by the shocking truth that $npcName:11004430$, one of $npcName:11004613$'s Seven Captains who had tormented Maple World for so long, was a robot born in Kritias.\n\nBut you cannot just stand there stunned.\nEven in this situation, there must be something you can do."
+    "desc": "$npcName:11004430$ was a clone created by $npcName:11004575$ to break the seal on Kritias.\n\nEveryone was left speechless by the shocking truth that $npcName:11004430$, one of $npcName:11004613$'s Seven Captains who had tormented Maple World for so long, was a robot born in Kritias.\n\nBut you cannot just stand there stunned.\nEven in this situation, there must be something you can do.",
+    "manual": "Talk to $npcName:11004609$ in $map:52100204$",
+    "complete": "Talk to $npcName:11004609$ in $map:52100204$"
   },
   "10003330-Kritias_Epic03-": {
-    "desc": "There is nothing to fear when everyone is together.\n\nThe time has come to defeat $npcName:11004430$."
+    "desc": "There is nothing to fear when everyone is together.\n\nThe time has come to defeat $npcName:11004430$.",
+    "complete": "Talk to $npcName:11004595$ in $map:52100304$"
   },
   "10003370-Kritias_Epic03-": {
-    "desc": "$npcName:11004609$'s gift was a letter declaring a friendly alliance between Georg and the Maple Alliance.\n\n$npcName:11004604$ says the letter should be delivered to Empress $npcName:11004390$.\n\nAt last, it is time to return to Maple World."
+    "desc": "$npcName:11004609$'s gift was a letter declaring a friendly alliance between Georg and the Maple Alliance.\n\n$npcName:11004604$ says the letter should be delivered to Empress $npcName:11004390$.\n\nAt last, it is time to return to Maple World.",
+    "complete": "Talk to $npcName:11001969$ in $map:52000087$",
+    "manual": "Talk to $npcName:11001969$ in $map:52000087$"
   },
   "10003340-Kritias_Epic03-": {
-    "desc": "The shocking truth that $npcName:11004430$ was a robot, and the Tyren Kingdom forces that suddenly stormed in.\n\nIt was a crisis, but thanks to $npcName:11004603$'s dramatic appearance, everyone survived.\n\nWhat has $npcName:11004603$ been doing since parting ways with us?\n\nListen to the full explanation."
+    "desc": "The shocking truth that $npcName:11004430$ was a robot, and the Tyren Kingdom forces that suddenly stormed in.\n\nIt was a crisis, but thanks to $npcName:11004603$'s dramatic appearance, everyone survived.\n\nWhat has $npcName:11004603$ been doing since parting ways with us?\n\nListen to the full explanation.",
+    "manual": "Talk to $npcName:11004575$ in $map:52100205$",
+    "complete": "Talk to $npcName:11004575$ in $map:52100205$"
   },
   "10003360-Kritias_Epic03-": {
-    "desc": "$npcName:11004609$ says they prepared a small gift to thank you for helping drive the Black Legion from this land.\n\nWhat could the gift be?\n\nYou should ask right away."
+    "desc": "$npcName:11004609$ says they prepared a small gift to thank you for helping drive the Black Legion from this land.\n\nWhat could the gift be?\n\nYou should ask right away.",
+    "manual": "Talk to $npcName:11004609$ in $map:52100204$",
+    "complete": "Talk to $npcName:11004604$ in $map:52100204$"
   },
   "10003380-Kritias_Epic03-": {
-    "desc": "Life in Kritias was very difficult, but it was also precious time that let you meet $npcName:11004609$ and $npcName:11004603$.\n\n$npcName:11004390$ says she is proud of everyone who endured it.\n\nNow it is time to run toward a new goal."
+    "desc": "Life in Kritias was very difficult, but it was also precious time that let you meet $npcName:11004609$ and $npcName:11004603$.\n\n$npcName:11004390$ says she is proud of everyone who endured it.\n\nNow it is time to run toward a new goal.",
+    "complete": "Talk to $npcName:11001969$ in $map:52000087$",
+    "manual": "Talk to $npcName:11001969$ in $map:52000087$"
   },
   "10003390-Kritias_Epic03-": {
-    "desc": "How much does $npcName:11004613$ really know about what happened in Kritias?\n\nDid he know that $npcName:11004430$ was a robot?\nHow will he react to $npcName:11004430$'s death?\n\nYou wonder what $npcName:11004613$ is thinking right now."
+    "desc": "How much does $npcName:11004613$ really know about what happened in Kritias?\n\nDid he know that $npcName:11004430$ was a robot?\nHow will he react to $npcName:11004430$'s death?\n\nYou wonder what $npcName:11004613$ is thinking right now.",
+    "manual": "Talk to $npcName:11004613$ in $map:52100206$",
+    "complete": "Talk to $npcName:11004613$ in $map:52100206$"
   },
   "10003399-EpicApocalypse01-": {
-    "desc": "$npcName:11004520$ is the pilot in charge of the airship to $map:02020041$...\n\nWhat could be going on?\nIf this is about what happened in Kritias, how much can you tell them?\n\nEver since you began adventuring in Maple World, nothing good has happened when someone called for you.\nCould this time be an exception?"
+    "desc": "$npcName:11004520$ is the pilot in charge of the airship to $map:02020041$...\n\nWhat could be going on?\nIf this is about what happened in Kritias, how much can you tell them?\n\nEver since you began adventuring in Maple World, nothing good has happened when someone called for you.\nCould this time be an exception?",
+    "manual": "Talk to $npcName:11004520$ in $map:02000001$",
+    "complete": "Talk to $npcName:11004520$ in $map:02000001$"
   },
   "10003401-EpicApocalypse01-": {
-    "desc": "A dark blue light...?\nWhatever the case may be elsewhere, $map:02000001$ is home to the palace and the Royal Guard.\nThat means it is not a place an outside threat could infiltrate.\n\nIf the guard told you instead of reporting to a superior, it may be because they saw something incorrectly...\nBut what is this ominous feeling?"
+    "desc": "A dark blue light...?\nWhatever the case may be elsewhere, $map:02000001$ is home to the palace and the Royal Guard.\nThat means it is not a place an outside threat could infiltrate.\n\nIf the guard told you instead of reporting to a superior, it may be because they saw something incorrectly...\nBut what is this ominous feeling?",
+    "complete": "Talk to $npcName:11000318$ in $map:02000001$"
   },
   "10003400-EpicApocalypse01-": {
-    "desc": "Fortunately, it does not seem to be anything serious.\n$npcName:11000169$ is a Royal Guard member standing watch in $map:02000001$, so what could possibly be so serious?\n\nAs $npcName:11004520$ said, you can just tell them not to worry and to go for it."
+    "desc": "Fortunately, it does not seem to be anything serious.\n$npcName:11000169$ is a Royal Guard member standing watch in $map:02000001$, so what could possibly be so serious?\n\nAs $npcName:11004520$ said, you can just tell them not to worry and to go for it.",
+    "manual": "Talk to $npcName:11000169$ in $map:02000001$",
+    "complete": "Talk to $npcName:11000169$ in $map:02000001$"
   },
   "10003405-EpicApocalypse01-": {
     "desc": "You encountered dark matter.\nThe thing everyone was talking about truly existed in $map:02000001$.\n\nAll light comes from the Empress.\nSo what does this darkness appearing here, in the palace of the Empress of Light, mean?",
@@ -47508,23 +47605,29 @@
     "desc": "Every banner hanging in $map:02000001$ bears these words:\nAll light comes from the Empress.\n\nRumors about a dark blue light in $map:02000001$ could easily become an insult to the Empress.\nYou need to determine the truth behind the rumors. "
   },
   "10003406-EpicApocalypse01-": {
-    "desc": "The time is coming...?\n$npc:11004778$'s reaction only heightens your unease.\n\n$npc:11004778$'s office is not a place for idle chatter.\nBeing told to go there surely means there is a serious matter in the palace."
+    "desc": "The time is coming...?\n$npc:11004778$'s reaction only heightens your unease.\n\n$npc:11004778$'s office is not a place for idle chatter.\nBeing told to go there surely means there is a serious matter in the palace.",
+    "manual": "Talk to $npc:11004782$ in $map:52000193$ of $map:02000001$",
+    "complete": "Talk to $npc:11004782$ in $map:52000193$ of $map:02000001$"
   },
   "10003410-EpicApocalypse01-": {
     "desc": "You were asked to execute $npcName:11004744$.\n$npc:11004778$ calls $npcName:11004744$ a traitor.\n\nBut it is hard to imagine executing a hero who was once called the Mage of Light and helped the Empress.\nEven if $npc:11004778$ asked you to…"
   },
   "10003409-EpicApocalypse01-": {
-    "desc": "$npc:11004778$ spoke of one who was once one of the Seven Heroes, but is now stained by darkness.\n\n$npc:11004744$, a companion of the great hero $npc:11001812$ and one of the Seven Heroes.\nThey said he is imprisoned in $map:52000189$.\n\nWhy is he imprisoned in a place meant to hold criminals and traitors?"
+    "desc": "$npc:11004778$ spoke of one who was once one of the Seven Heroes, but is now stained by darkness.\n\n$npc:11004744$, a companion of the great hero $npc:11001812$ and one of the Seven Heroes.\nThey said he is imprisoned in $map:52000189$.\n\nWhy is he imprisoned in a place meant to hold criminals and traitors?",
+    "manual": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$"
   },
   "10003411-EpicApocalypse01-": {
     "desc": "You answered $npc:11004778$'s request by saying you would try for the sake of $map:02000001$, but you are still confused.\nIs it really right for you to execute $npcName:11004744$?\n\nSet your confusion aside, find the key, and go to $map:52000189$ in $map:02000001$.\nIf you meet $npc:11004744$, perhaps you can find a clue like a ray of light in this confusion.\nOr maybe it would be right to kill him according to $npc:11004778$'s order. ",
     "complete": "Find $npc:11004792$ on the lowest floor of $map:52000189$ in $map:02000001$"
   },
   "10003407-EpicApocalypse01-": {
-    "desc": "Meanwhile, at the same time in $map:52000193$, $npc:11000075$ was also anxiously worrying about the dark blue light.\nAs the symbol of light and light itself, $npc:11000075$ could not help but feel uneasy about the strange being that appeared in $map:02000001$.\n\nEven if no one said it openly, the people of the royal court must at least have sensed that the strange form appearing in $map:02000001$ was connected to the safety of $npcName:11000075$ $npcTitle:11000075$, or perhaps the safety of Maple World."
+    "desc": "Meanwhile, at the same time in $map:52000193$, $npc:11000075$ was also anxiously worrying about the dark blue light.\nAs the symbol of light and light itself, $npc:11000075$ could not help but feel uneasy about the strange being that appeared in $map:02000001$.\n\nEven if no one said it openly, the people of the royal court must at least have sensed that the strange form appearing in $map:02000001$ was connected to the safety of $npcName:11000075$ $npcTitle:11000075$, or perhaps the safety of Maple World.",
+    "complete": "Talk to $npc:11004782$ in $map:52000193$ of $map:02000001$"
   },
   "10003408-EpicApocalypse01-": {
-    "desc": "Everyone in the palace is trembling with anxiety because of $npc:11004727$, which appeared in $map:02000001$.\nIn particular, $npc:11004782$ was reassuring the Empress, but seemed more worried about the situation than anyone else.\n\nWhat does $npc:11004778$ think about this?"
+    "desc": "Everyone in the palace is trembling with anxiety because of $npc:11004727$, which appeared in $map:02000001$.\nIn particular, $npc:11004782$ was reassuring the Empress, but seemed more worried about the situation than anyone else.\n\nWhat does $npc:11004778$ think about this?",
+    "manual": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$",
+    "complete": "Talk to $npc:11004778$ in $map:02000065$ of $map:02000001$"
   },
   "10003416-EpicApocalypse01-": {
     "desc": "The reason you need to know the truth is not simple curiosity.\nYou cannot execute $npcName:11004744$ just because $npc:11004778$ ordered it.\n\nTaking someone's life carries that much weight.\nYou must know the truth and choose. That is respect for death.\n\nYou must uncover the truth.\n\n(If you leave the map, you can re-enter through $npcName:11004795$ in $map:02000146$)\n"
@@ -49311,5 +49414,9 @@
     "manual": "Enjoy a cold bath in cold water for 300 seconds",
     "complete": "Enjoy a cold bath in cold water for 300 seconds",
     "name": "Enjoy a Cold Bath in Cold Water for 300 Seconds"
+  },
+  "10003041-DoubleImpactStory-": {
+    "desc": "Blackstar Society members burst in while you are talking with $npcName:11001733$ in $map:52000044$!\nCan you shake them off and reach the garage safely?",
+    "complete": "Talk to $npcName:11001733$ in $map:52000044$ of $map:02000100$"
   }
 }
