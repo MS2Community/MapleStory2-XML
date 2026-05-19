@@ -146263,5 +146263,800 @@
   },
   "615215914002768--KR": {
     "name": "Succeed in clearing an <font color=\"#ffd200\">event target dungeon</font> with an <font color=\"#ffd200\">adventurer who needs help and has cleared fewer than 20 dungeons</font>, then collect <font color=\"#ffd200\">$item:30000784$</font>.\nI'll exchange them for $item:20300920$, which contains various valuable items such as $item:33000160$ and $item:33000161$!"
+  },
+  "621160714000723--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the blue city of fairies,\n<font color=\"#ffd200\">$map:02000023$</font>."
+  },
+  "621160714000715--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the beautiful village of archers, Greenhood's home base,\n<font color=\"#ffd200\">$map:02000076$</font>."
+  },
+  "621113814000464--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the city of blessing and glory, where $npc:11000075[gender:1]$ is,\n<font color=\"#ffd200\">$map:02000001$</font>."
+  },
+  "621160714000727--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the mountain where legend sleeps, the village of warriors,\n<font color=\"#ffd200\">$map:02000051$</font>."
+  },
+  "621160714000719--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is a brilliant city with a secret hidden side,\n<font color=\"#ffd200\">$map:02000100$</font>."
+  },
+  "621160714000747--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is a sacred place for interior design fans,\n<font color=\"#ffd200\">$map:02000036$</font>."
+  },
+  "621160714000735--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the largest central city of Karkar Island,\n<font color=\"#ffd200\">$map:02010002$</font>."
+  },
+  "621160714000739--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is a village in the desert,\n<font color=\"#ffd200\">$map:02010063$</font>."
+  },
+  "621160714000731--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the city of eccentric geniuses,\n<font color=\"#ffd200\">$map:02000270$</font>."
+  },
+  "621160714000743--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is the entrance to Victoria Island,\n<font color=\"#ffd200\">$map:02000062$</font>."
+  },
+  "621160714000755--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is where adventurers' equipment is made even stronger!\n<font color=\"#ffd200\">$map:02000203$</font>."
+  },
+  "621160714000763--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is where the Dark Road opens!\n<font color=\"#ffd200\">$map:03000014$</font>."
+  },
+  "621160714000767--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is where Dungdung, who can fly you to Karkar Island, is located! <font color=\"#ffd200\">$map:02000183$</font>."
+  },
+  "621160714000759--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is a beautiful resort with various fishing spots, such as lava, poison, and the sea,\n<font color=\"#ffd200\">$map:02000377$</font>."
+  },
+  "621160714000751--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday's place from memory is Maple World's beauty street number one!\n<font color=\"#ffd200\">$map:02000107$</font>."
+  },
+  "621160714000777--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, ride a <font color=\"#ffd200\">mount</font> and look around Maple.\nYou might find a new place that gives you memories, $MyPCName$."
+  },
+  "621160714000771--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, try <font color=\"#ffd200\">running excitedly</font> all around Maple World.\nFind a place from your own memories, $MyPCName$."
+  },
+  "621160714000774--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nHow about <font color=\"#ffd200\">jumping</font> around today?\nIt will feel like you've met the high skies of Maple World."
+  },
+  "621160714000772--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, try <font color=\"#ffd200\">running excitedly</font> all around Maple World.\nFind a place from your own memories, $MyPCName$."
+  },
+  "621160714000775--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nHow about <font color=\"#ffd200\">jumping</font> around today?\nIt will feel like you've met the high skies of Maple World."
+  },
+  "621160714000784--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nHow about going out to the water today?\nShow off your <font color=\"#ffd200\">swimming</font> skills and look around Maple World."
+  },
+  "621160714000778--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, ride a <font color=\"#ffd200\">mount</font> and look around Maple.\nYou might find a new place that gives you memories, $MyPCName$."
+  },
+  "621160714000780--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nHow about carefully <font color=\"#ffd200\">crawling</font> today?\nIf you lower your eye level, you may have a different experience close by."
+  },
+  "621160714000783--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nHow about going out to the water today?\nShow off your <font color=\"#ffd200\">swimming</font> skills and look around Maple World."
+  },
+  "621160714000781--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nHow about carefully <font color=\"#ffd200\">crawling</font> today?\nIf you lower your eye level, you may have a different experience close by."
+  },
+  "621160714000790--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, hang from a <font color=\"#ffd200\">rope</font> and look around Maple World.\nIt takes persistence, but it will be that much more rewarding."
+  },
+  "621160714000789--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, hang from a <font color=\"#ffd200\">rope</font> and look around Maple World.\nIt takes persistence, but it will be that much more rewarding."
+  },
+  "621160714000786--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, climb a <font color=\"#ffd200\">ladder</font> and look around Maple World.\nMaple World feels different when you look at it from a slightly different eye level."
+  },
+  "621160714000787--KR": {
+    "name": "Hello, $MyPCName$!\nThe <font color=\"#ffd200\">'I Want to Go There'</font> event with me, Bobby!\nToday, climb a <font color=\"#ffd200\">ladder</font> and look around Maple World.\nMaple World feels different when you look at it from a slightly different eye level."
+  },
+  "621160714000729--KR": {
+    "name": "Today's place from memory is the mountain where legend sleeps, the village of warriors,\n<font color=\"#ffd200\">$map:02000051$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000051$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000713--KR": {
+    "name": "Today's place from memory is the city of blessing and glory, where $npc:11000075[gender:1]$ is,\n<font color=\"#ffd200\">$map:02000001$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000001$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000717--KR": {
+    "name": "Today's place from memory is the beautiful village of archers, Greenhood's home base,\n<font color=\"#ffd200\">$map:02000076$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000076$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000725--KR": {
+    "name": "Today's place from memory is the blue city of fairies,\n<font color=\"#ffd200\">$map:02000023$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000023$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000721--KR": {
+    "name": "Today's place from memory is a brilliant city with a secret hidden side,\n<font color=\"#ffd200\">$map:02000100$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000100$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000741--KR": {
+    "name": "Today's place from memory is a village in the desert,\n<font color=\"#ffd200\">$map:02010063$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02010063$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000733--KR": {
+    "name": "Today's place from memory is the city of eccentric geniuses,\n<font color=\"#ffd200\">$map:02000270$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000270$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000749--KR": {
+    "name": "Today's place from memory is a sacred place for interior design fans,\n<font color=\"#ffd200\">$map:02000036$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000036$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000737--KR": {
+    "name": "Today's place from memory is the largest central city of Karkar Island,\n<font color=\"#ffd200\">$map:02010002$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02010002$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000745--KR": {
+    "name": "Today's place from memory is the entrance to Victoria Island,\n<font color=\"#ffd200\">$map:02000062$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000062$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000769--KR": {
+    "name": "Today's place from memory is where Dungdung, who can fly you to Karkar Island, is located! <font color=\"#ffd200\">$map:02000183$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000183$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000757--KR": {
+    "name": "Today's place from memory is where adventurers' equipment is made even stronger!\n<font color=\"#ffd200\">$map:02000203$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000203$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000765--KR": {
+    "name": "Today's place from memory is where the Dark Road opens!\n<font color=\"#ffd200\">$map:03000014$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:03000014$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000761--KR": {
+    "name": "Today's place from memory is a beautiful resort with various fishing spots, such as lava, poison, and the sea,\n<font color=\"#ffd200\">$map:02000377$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000377$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "621160714000753--KR": {
+    "name": "Today's place from memory is Maple World's beauty street number one!\n<font color=\"#ffd200\">$map:02000107$</font>.\nWhat kind of place was <font color=\"#ffd200\">$map:02000107$</font> in your memories, $MyPCName$?\nVisit it, then come back and tell me your story too."
+  },
+  "523164601001469--": {
+    "name": "As you know, $MyPCName$, powerful boss monsters sometimes appear in the field.\nThose boss monsters are attacking Maple World residents passing by.\nPlease take care of the <font color=\"#ffd200\">field bosses</font> before there are more victims.\nSince this is a request for your guild, I would like you to carry out the mission with <font color=\"#ffd200\">at least 3 guild members</font>. Thank you!"
+  },
+  "523164601001389--": {
+    "name": "As you know, $MyPCName$, powerful boss monsters sometimes appear in the field.\nThose boss monsters are attacking Maple World residents passing by.\nPlease take care of the <font color=\"#ffd200\">field bosses</font> before there are more victims.\nSince this is a request for your guild, I would like you to carry out the mission with <font color=\"#ffd200\">at least 3 guild members</font>. Thank you!"
+  },
+  "426175814004038-Event-KR": {
+    "name": "Try defeating the boss monsters I'm about to tell you about.\n$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$.\n\nYou can obtain <font color=\"#ffd200\">'$item:30001377$', '$item:30001378$', '$item:30001379$'</font>, materials for pinwheels."
+  },
+  "527192817004349-Event-CN": {
+    "name": "Try defeating the boss monsters I'm about to tell you about.\n$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$.\n\nYou can obtain <font color=\"#ffd200\">'$item:30001386$', '$item:30001387$', '$item:30001388$'</font>, materials for pinwheels."
+  },
+  "1211182214004477-Event-KR": {
+    "name": "Try defeating the boss monsters I'm about to tell you about.\n$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$.\n\nYou can obtain <font color=\"#ffd200\">'$item:30001500$', '$item:30001501$', '$item:30001502$'</font>, ingredients for rice cake soup."
+  },
+  "921231314001243--KR": {
+    "name": "As you travel Maple World, you can see various boss monsters appear!\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$.</font>\nIf you successfully defeat the following bosses 5 times, regardless of type, this week's mission is cleared."
+  },
+  "921231314001242--KR": {
+    "name": "As you travel Maple World, you can see various boss monsters appear!\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$.</font>\nIf you successfully defeat the following bosses 5 times, regardless of type, this week's mission is cleared."
+  },
+  "628193317003340--": {
+    "name": "Would a balloon that resembles the sun really be hot?\nPlease check whether it is truly hot or not, $MyPCName$.\nComplete <font color=\"#ffd200\">Sunshine Balloon inspections</font> 10 times and tell me, and I'll give you 20 '$item:30001165$'.\nYou can use $item:30001165$ to buy items from my brother Bobby's shop next to me!"
+  },
+  "628193317003339--": {
+    "name": "Welcome, $MyPCName$.\nTo celebrate summer, balloons that resemble the hot sun have appeared all over Maple World!"
+  },
+  "620195914002846--KR": {
+    "name": "Hello, $MyPCName$.\nMaple World is buzzing with the appearance of the ancient god Zakum.\nHave you heard that Zakum balloons commemorating the new boss Zakum's appearance can be found throughout the field?"
+  },
+  "620195914002847--KR": {
+    "name": "Try <font color=\"#ffd200\">finding and inspecting Zakum balloons</font>, $MyPCName$!\nIf you succeed in <font color=\"#ffd200\">inspecting a Zakum balloon</font>, I'll give you tasty '$item:20000596$'!\nIf you obtain 100 $item:20000596$, you can also get a cute speech bubble badge as an emblem achievement reward, so be sure to try!"
+  },
+  "620195914002848--KR": {
+    "name": "Try <font color=\"#ffd200\">finding and inspecting Zakum balloons</font>, $MyPCName$!\nIf you succeed in <font color=\"#ffd200\">inspecting a Zakum balloon</font>, I'll give you tasty '$item:20000596$'!\nIf you obtain 100 $item:20000596$, you can also get a cute speech bubble badge as an emblem achievement reward, so be sure to try!"
+  },
+  "628193317003341--": {
+    "name": "Would a balloon that resembles the sun really be hot?\nPlease check whether it is truly hot or not, $MyPCName$.\nComplete <font color=\"#ffd200\">Sunshine Balloon inspections</font> 10 times and tell me, and I'll give you 20 '$item:30001165$'.\nYou can use $item:30001165$ to buy items from my brother Bobby's shop next to me!"
+  },
+  "628193317003342--": {
+    "name": "You completed all the Sunshine Balloon inspections.\nI'll give you the promised 20 '$item:30001165$'.\nAnd don't forget, during the event period you can help me once per day!"
+  },
+  "718204714002864--KR": {
+    "name": "Please <font color=\"#ffd200\">find and inspect Pink Bean balloons</font>, $MyPCName$!\nIf you succeed in <font color=\"#ffd200\">inspecting a Pink Bean balloon</font>, I'll give you sweet '$item:20000622$'!\nIf you obtain 10 '$item:20000622$', you can also get a cute speech bubble badge as an emblem achievement reward, so please give it a try!"
+  },
+  "718204714002862--KR": {
+    "name": "Welcome, $MyPCName$.\nAfter the appearance of the ancient god Zakum, even Pink Bean has appeared in the Temple of Time...\nMaple World is greatly shaken.\nMeanwhile, many adventurers praise Pink Bean's appearance, which is as cute as it is powerful, so balloons commemorating Pink Bean's appearance are being found all over Maple World!"
+  },
+  "718204714002863--KR": {
+    "name": "Please <font color=\"#ffd200\">find and inspect Pink Bean balloons</font>, $MyPCName$!\nIf you succeed in <font color=\"#ffd200\">inspecting a Pink Bean balloon</font>, I'll give you sweet '$item:20000622$'!\nIf you obtain 10 '$item:20000622$', you can also get a cute speech bubble badge as an emblem achievement reward, so please give it a try!"
+  },
+  "810132214002873--": {
+    "name": "Wow, was Ducky Ball really that cute? Thank you for inspecting the Ducky Ball balloon! I'll give you the promised '$item:30000888$'!"
+  },
+  "718204714002865--KR": {
+    "name": "How was the Pink Bean balloon inspection? Here is the promised '$item:20000622$'!"
+  },
+  "820125914002878--": {
+    "name": "Welcome, $MyPCName$.\nTo celebrate National Day, I wanted everyone to feel the festival mood, so I made star balloons appear all over Maple World!"
+  },
+  "810132214002872--": {
+    "name": "You want to use the Festival Card Board, but you don't have enough $item:30000888$?\nThen please <font color=\"#ffd200\">find and inspect Ducky Ball balloons</font>, $MyPCName$!\nI heard Ducky Ball balloons appear in Maple World on weekends, and I'm curious how cute they are!\nFinish <font color=\"#ffd200\">inspecting a Ducky Ball balloon</font> and tell me, and I'll give you '$item:30000888$'!"
+  },
+  "810132214002871--": {
+    "name": "You want to use the Festival Card Board, but you don't have enough $item:30000888$?\nThen please <font color=\"#ffd200\">find and inspect Ducky Ball balloons</font>, $MyPCName$!\nI heard Ducky Ball balloons appear in Maple World on weekends, and I'm curious how cute they are!\nFinish <font color=\"#ffd200\">inspecting a Ducky Ball balloon</font> and tell me, and I'll give you '$item:30000888$'!"
+  },
+  "820125914002880--": {
+    "name": "Unexpected accidents can always happen during events, so could you check whether the star balloons have any problems, $MyPCName$?\nComplete <font color=\"#ffd200\">Star Balloon inspections</font> 10 times and tell me, and I'll give you 10 tasty '$item:20000311$' and '$item:20301037$'!"
+  },
+  "820125914002879--": {
+    "name": "Unexpected accidents can always happen during events, so could you check whether the star balloons have any problems, $MyPCName$?\nComplete <font color=\"#ffd200\">Star Balloon inspections</font> 10 times and tell me, and I'll give you 10 tasty '$item:20000311$' and '$item:20301037$'!"
+  },
+  "820125914002881--": {
+    "name": "You completed all the Star Balloon inspections.\nI'll give you the promised 10 '$item:20000311$' and '$item:20301037$'.\nAnd don't forget, during the event period you can help me once per day!"
+  },
+  "1026094017004546-Event-CN": {
+    "name": "Sigh, what in the world has Black Bean done?\nThese days, Maple World's biggest troublemaker is Black Bean.\nHe said he made balloons that look like himself and scattered them all over Maple World."
+  },
+  "1026174414004516-Event-KR": {
+    "name": "Sigh, what in the world has Black Bean done?\nThese days, Maple World's biggest troublemaker is Black Bean.\nHe said he made balloons that look like himself and scattered them all over Maple World."
+  },
+  "1026174414004518-Event-KR": {
+    "name": "$MyPCName$, could you clean up those balloons?\nYou think Black Bean might be disappointed?\nHe'll be too busy thinking of other pranks to care about balloons."
+  },
+  "1026094017004548-Event-CN": {
+    "name": "$MyPCName$, could you clean up those balloons?\nYou think Black Bean might be disappointed?\nHe'll be too busy thinking of other pranks to care about balloons."
+  },
+  "1026094017004549-Event-CN": {
+    "name": "Please remove the balloons that look like Black Bean."
+  },
+  "1107112617002961--": {
+    "name": "Go around and <font color=\"#ffd200\">find and inspect Zakum balloons</font>-kum.\nIf you succeed in <font color=\"#ffd200\">inspecting a Zakum balloon</font>, I'll give you tasty '$item:20000691$'-kum.\nIf you obtain 30 $item:20000691$, you can also get a cool Zakum stair as an emblem achievement reward, so be sure to try-kum."
+  },
+  "1107112617002960--": {
+    "name": "$MyPCName$, nice to see you-kum.\nI heard balloons that look just like the ancient god Zakum have appeared all over Maple World-kum.\nAh, they may look like Zakum, but they're just cute balloons, so there's no need to be surprised-kum."
+  },
+  "1107112617002962--": {
+    "name": "Go around and <font color=\"#ffd200\">find and inspect Zakum balloons</font>-kum.\nIf you succeed in <font color=\"#ffd200\">inspecting a Zakum balloon</font>, I'll give you tasty '$item:20000691$'-kum.\nIf you obtain 30 $item:20000691$, you can also get a cool Zakum stair as an emblem achievement reward, so be sure to try-kum."
+  },
+  "1026174414004519-Event-KR": {
+    "name": "Please remove the balloons that look like Black Bean."
+  },
+  "202205914002008--KR": {
+    "name": "If you defeat dungeon bosses in level 50+ adventure dungeons, you can obtain <font color=\"#ffd200\">$item:30000731$</font>!\nBring me 3 <font color=\"#ffd200\">$item:30000731$</font>, and I'll exchange them for $item:20300646$!\nI wish you success!"
+  },
+  "202205914002013--KR": {
+    "name": "Show that you are qualified to possess fresh, smooth eggs by <font color=\"#ffd200\">defeating adventure dungeon bosses</font>!"
+  },
+  "612160614004044-Event-KR": {
+    "name": "Have you heard the news, $MyPCName$?\nA special dungeon where you can grow very quickly has opened!\nThey say any <font color=\"#ffd200\">adventurer who has advanced jobs</font> can enter!"
+  },
+  "202205914002009--KR": {
+    "name": "If you defeat dungeon bosses in level 50+ adventure dungeons, you can obtain <font color=\"#ffd200\">$item:30000731$</font>!\nBring me 3 <font color=\"#ffd200\">$item:30000731$</font>, and I'll exchange them for $item:20300646$!\nI wish you success!"
+  },
+  "202205914002012--KR": {
+    "name": "Show that you are qualified to possess fresh, smooth eggs by <font color=\"#ffd200\">defeating adventure dungeon bosses</font>!"
+  },
+  "713133714002855--KR": {
+    "name": "Succeed in clearing an <font color=\"#ffd200\">event target dungeon</font> with an <font color=\"#ffd200\">adventurer who needs help and has cleared fewer than 20 dungeons</font>, then collect <font color=\"#ffd200\">$item:30000868$</font>.\nI'll exchange them for $item:20300920$, which contains various valuable items such as $item:33000160$ and $item:33000161$!"
+  },
+  "702180417004359-Event-CN": {
+    "name": "If you're level 60 or higher, you can get EXP potions from $dungeonTitle:29007001$,\nand if you're level 70 or higher, you can get equipment from $dungeonTitle:29007002$!\nClear the two dungeons a total of 30 times and return to me, and I'll give you a gift."
+  },
+  "702180417004360-Event-CN": {
+    "name": "After pressing <font color=\"#ffd200\">Adventure > Find Dungeon</font>, press the arrow in the upper left and select <font color=\"#ffd200\">Event</font>.\nChoose one of the two event dungeons you want to enter, then enter it!"
+  },
+  "612160614004047-Event-KR": {
+    "name": "If you're level 60 or higher, you can get EXP potions from $dungeonTitle:29007001$,\nand if you're level 70 or higher, you can get equipment from $dungeonTitle:29007002$!\nClear the two dungeons a total of 30 times and return to me, and I'll give you a gift."
+  },
+  "702180417004356-Event-CN": {
+    "name": "Have you heard the news, $MyPCName$?\nA special dungeon where you can grow very quickly has opened!\nThey say any <font color=\"#ffd200\">adventurer who has advanced jobs</font> can enter!"
+  },
+  "713133714002859--KR": {
+    "name": "Succeed in clearing an <font color=\"#ffd200\">event target dungeon</font> with an <font color=\"#ffd200\">adventurer who needs help and has cleared fewer than 20 dungeons</font>, then collect <font color=\"#ffd200\">$item:30000868$</font>.\nI'll exchange them for $item:20300920$, which contains various valuable items such as $item:33000160$ and $item:33000161$!"
+  },
+  "713133714002860--KR": {
+    "name": "Succeed in clearing an <font color=\"#ffd200\">event target dungeon</font> with an <font color=\"#ffd200\">adventurer who needs help and has cleared fewer than 20 dungeons</font>, then collect <font color=\"#ffd200\">$item:30000868$</font>.\nI'll exchange them for $item:20300920$, which contains various valuable items such as $item:33000160$ and $item:33000161$!"
+  },
+  "713133714002861--KR": {
+    "name": "Wow! You already collected this many? It's really reassuring to have dungeon experts like you, $MyPCName$!"
+  },
+  "713133714002856--KR": {
+    "name": "Succeed in clearing an <font color=\"#ffd200\">event target dungeon</font> with an <font color=\"#ffd200\">adventurer who needs help and has cleared fewer than 20 dungeons</font>, then collect <font color=\"#ffd200\">$item:30000868$</font>.\nI'll exchange them for $item:20300920$, which contains various valuable items such as $item:33000160$ and $item:33000161$!"
+  },
+  "1103175514001391--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001457--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001431--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001444--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001417--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107202514001404--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001484--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001497--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001524--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001471--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001511--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "1107213414001537--KR": {
+    "name": "There are powerful dungeons all over Maple World.\nAmong them, Chaos Dungeons are notorious among adventurers!"
+  },
+  "213141917003134--": {
+    "name": "If you prove your qualification for the Solo Army by <font color=\"#ffd200\">defeating Couple faction field bosses</font>,\nI'll give you a Solo Army commemorative T-shirt!"
+  },
+  "219110017003141--": {
+    "name": "If you prove your qualification for the Solo Army by <font color=\"#ffd200\">defeating Couple faction field bosses</font>,\nI'll give you a Solo Army commemorative T-shirt!"
+  },
+  "219110017003142--": {
+    "name": "If you prove your qualification for the Solo Army by <font color=\"#ffd200\">defeating Couple faction field bosses</font>,\nI'll give you a Solo Army commemorative T-shirt!"
+  },
+  "213141917003133--": {
+    "name": "If you prove your qualification for the Solo Army by <font color=\"#ffd200\">defeating Couple faction field bosses</font>,\nI'll give you a Solo Army commemorative T-shirt!"
+  },
+  "213141917003137--": {
+    "name": "If you prove your qualification for the Couple Army by <font color=\"#ffd200\">defeating Solo faction field bosses</font>,\nI'll give you a Couple Army commemorative T-shirt!\n"
+  },
+  "213141917003138--": {
+    "name": "If you prove your qualification for the Couple Army by <font color=\"#ffd200\">defeating Solo faction field bosses</font>,\nI'll give you a Couple Army commemorative T-shirt!"
+  },
+  "219110017003145--": {
+    "name": "If you prove your qualification for the Couple Army by <font color=\"#ffd200\">defeating Solo faction field bosses</font>,\nI'll give you a Couple Army commemorative T-shirt!"
+  },
+  "219110017003146--": {
+    "name": "If you prove your qualification for the Couple Army by <font color=\"#ffd200\">defeating Solo faction field bosses</font>,\nI'll give you a Couple Army commemorative T-shirt!"
+  },
+  "523164601001470--": {
+    "name": "Please take care of the <font color=\"#ffd200\">field boss</font>.\nSince this is a request for your guild, I would like you to carry out the mission with <font color=\"#ffd200\">at least 3 guild members</font>. Thank you!"
+  },
+  "523164601001390--": {
+    "name": "Please take care of the <font color=\"#ffd200\">field boss</font>.\nSince this is a request for your guild, I would like you to carry out the mission with <font color=\"#ffd200\">at least 3 guild members</font>. Thank you!"
+  },
+  "1103175514001387--KR": {
+    "name": "Maple World field bosses include\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$</font>!"
+  },
+  "1107213414001587--KR": {
+    "name": "Maple World field bosses include\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$</font>!"
+  },
+  "1107213414001467--KR": {
+    "name": "Maple World field bosses include\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$</font>!"
+  },
+  "1107213414001547--KR": {
+    "name": "Maple World field bosses include\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$</font>!"
+  },
+  "1107213414001427--KR": {
+    "name": "Maple World field bosses include\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$</font>!"
+  },
+  "1107213414001507--KR": {
+    "name": "Maple World field bosses include\n<font color=\"#ffd200\">$npcName:23000013[gender:0]$, $npcName:23000018$, $npcName:23000001[gender:0]$, $npcName:23000019[gender:0]$, $npcName:23000054$, $npcName:23000020[gender:1]$, $npcName:23000035$,\n$npcName:23000099$, $npcName:23000017$, $npcName:23000047$, $npcName:23000024[gender:1]$, $npcName:23000034$, $npcName:23000045$,\n$npcName:23000057[gender:1]$, $npcName:23000026[gender:1]$, $npcName:23000012$, $npcName:23000009[gender:0]$, $npcName:23000029$</font>!"
+  },
+  "1212160718003002--NA": {
+    "name": "Come to me after <font color=\"#ffd200\">defeating a field boss</font>, and I'll give you <font color=\"#ffd200\">$item:20302275$</font>!"
+  },
+  "1212160718003001--NA": {
+    "name": "Hello, $MyPCName$!\nIt's 2019, a year we welcomed with excitement! How about bringing more energy to Maple World?\nCome to me after <font color=\"#ffd200\">defeating a field boss</font>, and I'll give you <font color=\"#ffd200\">$item:20302275$</font>!"
+  },
+  "213141917003132--": {
+    "name": "Welcome, $MyPCName$!\nMaple World is buzzing with the 'Solo VS Couple Army Clash' event!"
+  },
+  "202205914001988--KR": {
+    "name": "$MyPCName$, happy Valentine's Day!\nTo celebrate Valentine's Day, Maple World's greatest baker, Mendel, has prepared a special event!\nThe word is that if you prepare only the chocolate ingredients, you can receive chocolates made by Mendel himself!\nYou definitely can't miss that, right?"
+  },
+  "118003418003018-Event-NA": {
+    "name": "$MyPCName$, happy Valentine's Day!\nTo celebrate Valentine's Day, Maple World's greatest baker, Mendel, has prepared a special event!\nThe word is that if you prepare only the chocolate ingredients, you can receive chocolates made by Mendel himself!\nYou definitely can't miss that, right?"
+  },
+  "213141917003136--": {
+    "name": "$MyPCName$, you're just in time!\nThe 'Solo VS Couple Army Clash' event has Maple World buzzing!\nWould you like to participate?"
+  },
+  "202205914002007--KR": {
+    "name": "Hello, $MyPCName$!\nJoin the event made for you, $MyPCName$: 'The Greater Hero,'\nand receive $item:20300646$!"
+  },
+  "713172114003309--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "302172914002642--KR": {
+    "name": "Welcome, $MyPCName$!\nMaple World is buzzing with the 'Clash! Solo Army VS Couple Army' event!"
+  },
+  "219110017003144--": {
+    "name": "$MyPCName$, you're just in time!\nThe 'Solo VS Couple Army Clash' event has Maple World buzzing!\nWould you like to participate?"
+  },
+  "219110017003140--": {
+    "name": "Welcome, $MyPCName$!\nMaple World is buzzing with the 'Solo VS Couple Army Clash' event!"
+  },
+  "302172914002646--KR": {
+    "name": "$MyPCName$, you're just in time!\nThe 'Clash! Solo Army VS Couple Army' event has Maple World buzzing!\nWould you like to participate?"
+  },
+  "713172114003373--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003421--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003375--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003399--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003397--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003468--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003450--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003423--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003470--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003448--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003509--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003532--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003507--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003561--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003534--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003589--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003591--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003623--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003563--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003621--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003331--KR": {
+    "name": "Also, I hear they will give you <font color=\"#ffd200\">$item:30001182$</font> as a gift.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "713172114003321--KR": {
+    "name": "After you hear the whole story, you can receive <font color=\"#ffd200\">$item:30001182$</font>.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items!"
+  },
+  "713172114003310--KR": {
+    "name": "Go to the weapon merchant <font color=\"#ffd200\">$npc:11000004[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font> and ask to hear a <font color=\"#ffd200\">love story</font>.\nAfter you hear the whole story, you can receive <font color=\"#ffd200\">$item:30001182$</font>.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items!"
+  },
+  "713172114003322--KR": {
+    "name": "Ask Grandma <font color=\"#ffd200\">$npc:11000705[gender:1]$</font> in <font color=\"#ffd200\">$map:02000129$</font> about the secret to marital harmony.\nAfter you hear the whole story, you can receive <font color=\"#ffd200\">$item:30001182$</font>.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items!"
+  },
+  "713172114003332--KR": {
+    "name": "Hear the secret to a successful proposal from <font color=\"#ffd200\">$npc:11000242[gender:1]$</font> in <font color=\"#ffd200\">$map:02000135$</font>, a popular date spot these days,\nand receive <font color=\"#ffd200\">$item:30001182$</font> too.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "713172114003400--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11001430[gender:0]$</font> in <font color=\"#ffd200\">$map:02010047$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003424--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000406[gender:0]$</font> in <font color=\"#ffd200\">$map:02000137$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003352--KR": {
+    "name": "Also, I hear <font color=\"#ffd200\">$npc:11000412[gender:0]$</font> gives <font color=\"#ffd200\">$item:30001182$</font> as a gift if you request a song...\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "713172114003353--KR": {
+    "name": "Please ask <font color=\"#ffd200\">$npc:11000412[gender:0]$</font> in <font color=\"#ffd200\">$map:02000086$</font> to write a <font color=\"#ffd200\">love song</font>!\nAlso, I hear <font color=\"#ffd200\">$npc:11000412[gender:0]$</font> gives <font color=\"#ffd200\">$item:30001182$</font> as a gift if you request a song...\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "713172114003376--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000617[gender:0]$</font> in <font color=\"#ffd200\">$map:02000118$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003471--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000252[gender:0]$</font> in <font color=\"#ffd200\">$map:02000100$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003510--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000160[gender:1]$</font> in <font color=\"#ffd200\">$map:02000001$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003564--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000515[gender:1]$</font> in <font color=\"#ffd200\">$map:02000216$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003451--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000119[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003535--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000514[gender:1]$</font> in <font color=\"#ffd200\">$map:02000124$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003629--KR": {
+    "name": "Ask what <font color=\"#ffd200\">the event hosted by $npc:11001899[gender:0]$</font> is."
+  },
+  "713172114003613--KR": {
+    "name": "Please calm <font color=\"#ffd200\">$npc:22000022$</font> in <font color=\"#ffd200\">$map:02000117$</font>.\nWhen you return, I'll give you <font color=\"#ffd200\">$item:30001182$</font>!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003627--KR": {
+    "name": "Love connections can be felt even among many people...\nHow about finding your destined partner somewhere crowded?\nParticipate in an <font color=\"#ffd200\">event hosted by $npc:11001899[gender:0]$</font> and return, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>."
+  },
+  "713172114003592--KR": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000015[gender:1]$</font> in <font color=\"#ffd200\">$map:02000076$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "713172114003624--KR": {
+    "name": "How about sprouting love while feeling the heart of a farmer bringing forth new buds?\nParticipate in the game at <font color=\"#ffd200\">$map:51000001$</font> and return, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003633--KR": {
+    "name": "How about finding your destined partner somewhere crowded?\nParticipate in an <font color=\"#ffd200\">event hosted by $npc:11001899[gender:0]$</font>, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003631--KR": {
+    "name": "They are <font color=\"#ffd200\">$map:61000001$, $map:61000002$, $map:61000007$, $map:61000006$,\n$map:61000004$, $map:61000003$, $map:61000008$</font>!\nThese are events that $npc:11001899[gender:0]$ works hard to host every day!\nWhen the time comes, a participation message will appear at the bottom of the screen!"
+  },
+  "713172114003396--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11001430[gender:0]$</font> in <font color=\"#ffd200\">$map:02010047$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003372--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000617[gender:0]$</font> in <font color=\"#ffd200\">$map:02000118$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003398--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11001430[gender:0]$</font> in <font color=\"#ffd200\">$map:02010047$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003308--KR": {
+    "name": "Go visit the weapon merchant <font color=\"#ffd200\">$npc:11000004[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font>.\nThey say he knows the heartbreaking love story of sad and beautiful lovers.\nAfter you hear the whole story, $MyPCName$, he will give you <font color=\"#ffd200\">$item:30001182$</font>."
+  },
+  "713172114003374--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000617[gender:0]$</font> in <font color=\"#ffd200\">$map:02000118$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003467--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000252[gender:0]$</font> in <font color=\"#ffd200\">$map:02000100$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003447--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000119[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003420--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000406[gender:0]$</font> in <font color=\"#ffd200\">$map:02000137$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003449--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000119[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003422--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000406[gender:0]$</font> in <font color=\"#ffd200\">$map:02000137$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003508--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000160[gender:1]$</font> in <font color=\"#ffd200\">$map:02000001$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003531--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000514[gender:1]$</font> in <font color=\"#ffd200\">$map:02000124$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003533--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000514[gender:1]$</font> in <font color=\"#ffd200\">$map:02000124$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003506--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000160[gender:1]$</font> in <font color=\"#ffd200\">$map:02000001$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003469--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000252[gender:0]$</font> in <font color=\"#ffd200\">$map:02000100$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003588--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000015[gender:1]$</font> in <font color=\"#ffd200\">$map:02000076$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003560--KR": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000515[gender:1]$</font> in <font color=\"#ffd200\">$map:02000216$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003562--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000515[gender:1]$</font> in <font color=\"#ffd200\">$map:02000216$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003630--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003590--KR": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000015[gender:1]$</font> in <font color=\"#ffd200\">$map:02000076$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "713172114003639--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">level 60 or higher Rune Blader</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003638--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003632--KR": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003645--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">level 60 or higher Assassin</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003644--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003657--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">character with the 'Domineering' title</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003651--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">character with the 'Mysterious' title</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003662--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003656--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003650--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003637--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a level 60 or higher Soul Binder</font>!\nIt's okay whether they have advanced jobs or not! "
+  },
+  "713172114003643--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a level 60 or higher Assassin</font>!\nIt's okay whether they have advanced jobs or not! "
+  },
+  "713172114003642--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003636--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003648--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003661--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a character with the 'Heart-stealing' title</font>!\nThat's a title held by people with high performance mastery! "
+  },
+  "713172114003649--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a character with the 'Mysterious' title</font>!\nThat's a title Arcane Rune Bladers have! "
+  },
+  "713172114003660--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003655--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a character with the 'Domineering' title</font>!\nThat's a title High Priests have! "
+  },
+  "713172114003654--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003669--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">character with the 'Uninvited Guest' title</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003668--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003663--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">character with the 'Heart-stealing' title</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003666--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003667--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a character with the 'Uninvited Guest' title</font>!\nThat's a title held by people who have visited <font color=\"#ffd200\">$map:02000202$</font> in <font color=\"#ffd200\">$map:02000076$</font>! "
+  },
+  "713172114003678--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003672--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003673--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a level 20 or higher male Ranger</font>!"
+  },
+  "713172114003674--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003675--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">level 20 or higher male Ranger</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003679--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a level 20 or higher female Knight</font>!"
+  },
+  "713172114003681--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">level 20 or higher female Knight</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003685--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a character wearing $item:11250041$</font>!\nPeople with high mining mastery have it!"
+  },
+  "713172114003684--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003680--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003690--KR": {
+    "name": "Did you know? Charm changes depending on that day's luck.\nPeople with good luck that day look charming to others.\nWould you like to look for today's lucky person?\nIf you gather plenty of that good energy, the power of love will fill this place!"
+  },
+  "713172114003691--KR": {
+    "name": "Today's lucky person is...\n<font color=\"#ffd200\">a character wearing $item:11600661$</font>!\nPeople with high alchemy mastery have it!"
+  },
+  "713172114003692--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003687--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">character wearing $item:11250041$</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003686--KR": {
+    "name": "If you meet today's lucky person and come back, I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "713172114003693--KR": {
+    "name": "Today's lucky person is a <font color=\"#ffd200\">character wearing $item:11600661$</font>.\nMeet one and come back, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nTake <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nand you can buy some fun items!"
+  },
+  "713172114003721--KR": {
+    "name": "This week's task is to find someone wearing <font color=\"#ffd200\">$item:11401061$</font>.\nWhen you finish this task, I'll give you plenty of <font color=\"#ffd200\">$item:30001182$</font>.\nThere is time before the final seventh moon rises, so take it easy and come back."
+  },
+  "713172114003696--KR": {
+    "name": "Helping good people could be called a racial trait of us magpies. Ahem.\nComplete the task I give you and return, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>.\nI'll give you plenty of time, so enjoy the scenery of $map:63000062$ while you do it."
+  },
+  "713172114003714--KR": {
+    "name": "Work together with others so music flows through <font color=\"#ffd200\">$map:63000062$</font>.\nWhen you finish this task, I'll give you plenty of <font color=\"#ffd200\">$item:30001182$</font>.\nThere is time before the seventh moon rises, so take it easy and come back."
+  },
+  "713172114003720--KR": {
+    "name": "When you finish this task, I'll give you plenty of <font color=\"#ffd200\">$item:30001182$</font>.\nThere is time before the final seventh moon rises, so take it easy and come back."
+  },
+  "713172114003708--KR": {
+    "name": "Try <font color=\"#ffd200\">fishing</font> in <font color=\"#ffd200\">$map:63000062$</font> and meet some <font color=\"#ffd200\">special fish</font> too.\nWhen you finish this task, I'll give you plenty of <font color=\"#ffd200\">$item:30001182$</font>.\nThere is time before the seventh moon rises, so take it easy and come back."
+  },
+  "726145417003766--": {
+    "name": "Ask Grandma <font color=\"#ffd200\">$npc:11000705[gender:1]$</font> in <font color=\"#ffd200\">$map:02000129$</font> about the secret to marital harmony.\nAfter you hear the whole story, you can receive <font color=\"#ffd200\">$item:30001182$</font>.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items!"
+  },
+  "726145417003774--": {
+    "name": "Go visit the weapon merchant <font color=\"#ffd200\">$npc:11000004[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font>.\nThey say he knows the heartbreaking love story of sad and beautiful lovers.\nAfter you hear the whole story, $MyPCName$, he will give you <font color=\"#ffd200\">$item:30001182$</font>."
+  },
+  "726145417003765--": {
+    "name": "After you hear the whole story, you can receive <font color=\"#ffd200\">$item:30001182$</font>.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items!"
+  },
+  "713172114003722--KR": {
+    "name": "Your hard work was admirable. Here is my final gift.\nIf you find something you like among my goods, I'll exchange it for this <font color=\"#ffd200\">$item:30001182$</font>."
+  },
+  "716112814003746--KR": {
+    "name": "Love is the heart that nurtures small but precious things...\nHow about sprouting love while feeling the heart of a farmer bringing forth new buds?\nParticipate in the game at <font color=\"#ffd200\">$map:51000001$</font> and return, and I'll give you <font color=\"#ffd200\">$item:30001182$</font>."
+  },
+  "726145417003788--": {
+    "name": "Hear the secret to a successful proposal from <font color=\"#ffd200\">$npc:11000242[gender:1]$</font> in <font color=\"#ffd200\">$map:02000135$</font>, a popular date spot these days,\nand receive <font color=\"#ffd200\">$item:30001182$</font> too.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "726145417003775--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "726145417003787--": {
+    "name": "Also, I hear they will give you <font color=\"#ffd200\">$item:30001182$</font> as a gift.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "726145417003776--": {
+    "name": "Go to the weapon merchant <font color=\"#ffd200\">$npc:11000004[gender:0]$</font> in <font color=\"#ffd200\">$map:02000001$</font> and ask to hear a <font color=\"#ffd200\">love story</font>.\nAfter you hear the whole story, you can receive <font color=\"#ffd200\">$item:30001182$</font>.\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items!"
+  },
+  "726145417003808--": {
+    "name": "Also, I hear <font color=\"#ffd200\">$npc:11000412[gender:0]$</font> gives <font color=\"#ffd200\">$item:30001182$</font> as a gift if you request a song...\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "726145417003829--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "726145417003828--": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000406[gender:0]$</font> in <font color=\"#ffd200\">$map:02000137$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "726145417003830--": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000406[gender:0]$</font> in <font color=\"#ffd200\">$map:02000137$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "726145417003831--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou can buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "726145417003809--": {
+    "name": "Please ask <font color=\"#ffd200\">$npc:11000412[gender:0]$</font> in <font color=\"#ffd200\">$map:02000086$</font> to write a <font color=\"#ffd200\">love song</font>!\nAlso, I hear <font color=\"#ffd200\">$npc:11000412[gender:0]$</font> gives <font color=\"#ffd200\">$item:30001182$</font> as a gift if you request a song...\nCollect those and bring them to <font color=\"#ffd200\">$npc:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items! "
+  },
+  "726145417003832--": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11000406[gender:0]$</font> in <font color=\"#ffd200\">$map:02000137$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "726145417003857--": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11001430[gender:0]$</font> in <font color=\"#ffd200\">$map:02010047$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "726145417003858--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "726145417003855--": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11001430[gender:0]$</font> in <font color=\"#ffd200\">$map:02010047$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "726145417003856--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "726145417003879--": {
+    "name": "Good! Go right now to <font color=\"#ffd200\">$npc:11000617[gender:0]$</font> in <font color=\"#ffd200\">$map:02000118$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "726145417003880--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
+  },
+  "726145417003881--": {
+    "name": "I refuse your refusal! Go right now to <font color=\"#ffd200\">$npc:11000617[gender:0]$</font> in <font color=\"#ffd200\">$map:02000118$</font>,\nconvey your love, and create a miracle.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!"
+  },
+  "726145417003859--": {
+    "name": "Convey your love to <font color=\"#ffd200\">$npc:11001430[gender:0]$</font> in <font color=\"#ffd200\">$map:02010047$</font>.\nIf your hearts connect, <font color=\"#ffd200\">$item:30001182$</font> will appear as proof!\nTake $item:30001182$ to <font color=\"#ffd200\">$npcName:11004101$</font> in <font color=\"#ffd200\">$map:63000062$</font>,\nand you can buy some fun items. Good luck!"
+  },
+  "726145417003882--": {
+    "name": "If you take <font color=\"#ffd200\">$item:30001182$</font> to $npc:11004101$ in $map:63000062$,\nyou should be able to buy some fun items.\nGood luck, $MyPCName$!"
   }
 }
