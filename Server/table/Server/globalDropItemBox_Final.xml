@@ -179,9 +179,9 @@
     <v dropGroupIDs="612" dropCount="1" dropCountProbability="10000" />
   </dropBox>
   <dropBox dropBoxID="74" comment="던전 몬스터 공통칠흑의 정수">
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
 	  <!-- 新增、add -->
-  	<v dropGroupIDs="104" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
+  	<!-- <v dropGroupIDs="104" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" /> --> <!-- CN-only addition disabled: vanilla dungeon mobs drop no meso (issue #396) -->
   </dropBox>
   <dropBox dropBoxID="75" comment="엘리트 몬스터_50초과">
     <!-- <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" /> -->
