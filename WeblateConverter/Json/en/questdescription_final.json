@@ -46641,7 +46641,10 @@
     "locking": "0"
   },
   "89080003-Event-JP": {
-    "name": "Acquired 5 each of $item:30000869$ and $item:30000610$"
+    "name": "Acquired 5 each of $item:30000869$ and $item:30000610$",
+    "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "desc": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$"
   },
   "89080005-Event-JP": {
     "locking": "0"
@@ -50062,5 +50065,17 @@
     "manual": "Create UGC 1 time",
     "complete": "Create UGC 1 time",
     "name": "Create UGC 1 Time"
+  },
+  "89080033-Event-JP": {
+    "desc": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$"
+  },
+  "80030250-Event-JP": {
+    "desc": "Investigate Pink Bean Balloons throughout Maple World!\n[Investigate Pink Bean Balloons 10 times], then go to $map:02000064$.\nVisit $npc:11001002$ to receive [$item:20001771$ x10].\n\n*Pink Bean Balloons appear in the field every 10 minutes and remain for 5 minutes."
+  },
+  "89080090-Event-JP": {
+    "manual": "*Items obtained using a Magical Production Voucher do not count.\n\nHarvest pumpkins 10 times from the pumpkin patch at home",
+    "complete": "*Items obtained using a Magical Production Voucher do not count.\n\nHarvest pumpkins 10 times from the pumpkin patch at home"
   }
 }
