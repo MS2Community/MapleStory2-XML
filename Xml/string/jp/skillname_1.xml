@@ -1,89 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="00000001" name="攻撃" feature="Develop" />
-  <key id="00000011" name="空中攻撃" feature="Develop" />
-  <key id="00100001" name="鈍器攻撃" feature="Develop" />
-  <key id="00100002" name="鈍器攻撃2打" feature="Develop" />
-  <key id="00100011" name="鈍器空中攻撃" feature="Develop" />
-  <key id="00200001" name="片手剣攻撃" feature="Develop" />
-  <key id="00200002" name="片手剣攻撃2打" feature="Develop" />
-  <key id="00200003" name="片手剣攻撃3打" feature="Develop" />
-  <key id="00200011" name="片手剣空中攻撃" feature="Develop" />
-  <key id="00300001" name="両手剣攻撃" feature="Develop" />
-  <key id="00300002" name="両手剣攻撃2打" feature="Develop" />
-  <key id="00300003" name="両手剣攻撃3打" feature="Develop" />
-  <key id="00300011" name="両手剣空中攻撃" feature="Develop" />
-  <key id="00400001" name="スタッフ攻撃" feature="Develop" />
-  <key id="00400011" name="スタッフ空中攻撃" feature="Develop" />
-  <key id="00500001" name="セプター攻撃" feature="Develop" />
-  <key id="00500011" name="セプター空中攻撃" feature="Develop" />
-  <key id="00600001" name="弓攻撃" feature="Develop" />
-  <key id="00600011" name="弓空中攻撃" feature="Develop" />
-  <key id="00700001" name="キャノン攻撃" feature="Develop" />
-  <key id="00700002" name="キャノン攻撃スプラッシュ" feature="Develop" />
-  <key id="00700011" name="キャノン空中攻撃" feature="Develop" />
-  <key id="00700012" name="キャノン空中攻撃スプラッシュ" feature="Develop" />
-  <key id="00800001" name="短剣攻撃" feature="Develop" />
-  <key id="00800002" name="短剣攻撃2打" feature="Develop" />
-  <key id="00800011" name="短剣空中攻撃" feature="Develop" />
-  <key id="00800021" name="短剣+短剣攻撃" feature="Develop" />
-  <key id="00800022" name="短剣+短剣攻撃2打" feature="Develop" />
-  <key id="00800023" name="短剣+短剣攻撃3打" feature="Develop" />
-  <key id="00800024" name="短剣+短剣攻撃4打" feature="Develop" />
-  <key id="00800031" name="短剣+短剣空中攻撃" feature="Develop" />
-  <key id="00900001" name="手裏剣攻撃" feature="Develop" />
-  <key id="00900011" name="手裏剣空中攻撃" feature="Develop" />
-  <key id="00900021" name="手裏剣+手裏剣攻撃" feature="Develop" />
-  <key id="00900022" name="手裏剣+手裏剣攻撃2打" feature="Develop" />
-  <key id="00900031" name="手裏剣+手裏剣空中攻撃" feature="Develop" />
-  <key id="01000001" name="ブレイド攻撃" feature="Develop" />
-  <key id="01000002" name="ブレイド攻撃2打" feature="Develop" />
-  <key id="01000003" name="火炎ブレイド攻撃" feature="Develop" />
-  <key id="01000004" name="火炎ブレイド攻撃2打" feature="Develop" />
-  <key id="01000005" name="冷気ブレイド攻撃" feature="Develop" />
-  <key id="01000006" name="冷気ブレイド攻撃2打" feature="Develop" />
-  <key id="01000007" name="電撃ルーンブレイド攻撃" feature="Develop" />
-  <key id="01000008" name="電撃ブレイド攻撃2打" feature="Develop" />
-  <key id="01000011" name="ブレイド空中攻撃" feature="Develop" />
-  <key id="01000012" name="火炎ブレイド空中攻撃" feature="Develop" />
-  <key id="01000013" name="冷気ブレイド空中攻撃" feature="Develop" />
-  <key id="01000014" name="電撃ブレイド空中攻撃" feature="Develop" />
-  <key id="01100001" name="ナックル攻撃" feature="Develop" />
-  <key id="01100002" name="ナックル攻撃2打" feature="Develop" />
-  <key id="01100003" name="ナックル攻撃3打" feature="Develop" />
-  <key id="01100004" name="ナックル攻撃4打" feature="Develop" />
-  <key id="01100011" name="ナックル空中攻撃" feature="Develop" />
-  <key id="01200001" name="オーブ攻撃" feature="Develop" />
-  <key id="01200002" name="オーブ攻撃2段階" feature="Develop" />
-  <key id="01200003" name="オーブ攻撃3段階" feature="Develop" />
-  <key id="01200004" name="オーブ攻撃4段階" feature="Develop" />
-  <key id="01200005" name="オーブ攻撃5段階" feature="Develop" />
-  <key id="01200011" name="オーブ空中攻撃" feature="Develop" />
-  <key id="01200012" name="オーブ空中攻撃2段階" feature="Develop" />
-  <key id="01200013" name="オーブ空中攻撃3段階" feature="Develop" />
-  <key id="01200014" name="オーブ空中攻撃4段階" feature="Develop" />
-  <key id="01200015" name="オーブ空中攻撃5段階" feature="Develop" />
-  <key id="10000001" name="ハンマーリング" />
-  <key id="10000011" name="パワーストライク" />
-  <key id="10000012" name="パワーストライク2打" feature="Develop" />
-  <key id="10000013" name="パワーストライク3打" feature="Develop" />
-  <key id="10000021" name="デンデンスロー" />
-  <key id="10000022" name="デンデンスロースプラッシュ" feature="Develop" />
-  <key id="10000031" name="体当たり" />
-  <key id="10000041" name="前転" />
-  <key id="10000042" name="連続前転" feature="Develop" />
-  <key id="10000051" name="ライフリカバリー" />
-  <key id="10000061" name="ニートの底力" />
-  <key id="19900001" name="GMの審判" />
-  <key id="19900011" name="高速飛行" />
-  <key id="19900021" name="寄生" />
-  <key id="19900031" name="GMの愛" />
-  <key id="19900032" name="GMの愛スプラッシュ" />
-  <key id="19900041" name="GMの応援" />
-  <key id="19900042" name="GMの応援スプラッシュ" />
-  <key id="19900051" name="GMのツンツン" />
-  <key id="19900052" name="GMのツンツンスプラッシュ" />
-  <key id="19900061" name="GMの一撃" />
-  <key id="19999991" name="カメラ撮影" />
+	<key id="10000001" name="ハンマーリング" />
+	<key id="10000011" name="パワーストライク" />
+	<key id="10000012" name="パワーストライク2打" feature="Develop" />
+	<key id="10000013" name="パワーストライク3打" feature="Develop" />
+	<key id="10000021" name="デンデンスロー" />
+	<key id="10000022" name="デンデンスロースプラッシュ" feature="Develop" />
+	<key id="10000031" name="体当たり" />
+	<key id="10000041" name="前転" />
+	<key id="10000042" name="連続前転" feature="Develop" />
+	<key id="10000051" name="ライフリカバリー" />
+	<key id="10000061" name="ニートの底力" />
+	<key id="19900001" name="GMの審判" />
+	<key id="19900011" name="高速飛行" />
+	<key id="19900021" name="寄生" />
+	<key id="19900031" name="GMの愛" />
+	<key id="19900032" name="GMの愛スプラッシュ" />
+	<key id="19900041" name="GMの応援" />
+	<key id="19900042" name="GMの応援スプラッシュ" />
+	<key id="19900051" name="GMのツンツン" />
+	<key id="19900052" name="GMのツンツンスプラッシュ" />
+	<key id="19900061" name="GMの一撃" />
+	<key id="19999991" name="カメラ撮影" />
 </ms2>

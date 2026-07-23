@@ -1,239 +1,238 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10000001" name="フナ" />
-  <key id="10000002" name="ゲンゴロウブナ" />
-  <key id="10000003" name="ピラニア" />
-  <key id="10000004" name="カゼトゲタナゴ" />
-  <key id="10000005" name="コウライヒガイ" />
-  <key id="10000006" name="セマダラドンコ" />
-  <key id="10000007" name="ヤマメ" />
-  <key id="10000008" name="メダカ" />
-  <key id="10000009" name="オイカワ" />
-  <key id="10000010" name="ナマズ" />
-  <key id="10000011" name="ブルーギル" />
-  <key id="10000012" name="サケ" />
-  <key id="10000013" name="川サケ" />
-  <key id="10000014" name="ウーパールーパー" />
-  <key id="10000015" name="まだらウーパールーパー" />
-  <key id="10000016" name="シャコ" />
-  <key id="10000017" name="縞シャコ" />
-  <key id="10000018" name="大口バス" />
-  <key id="10000019" name="雷魚" />
-  <key id="10000020" name="コウライケツギョ" />
-  <key id="10000021" name="ドジョウ" />
-  <key id="10000022" name="アジメドジョウ" />
-  <key id="10000023" name="ヤガタニゴイ" />
-  <key id="10000024" name="タカハヤ" />
-  <key id="10000025" name="リーフフィッシュ" />
-  <key id="10000026" name="マフナ" />
-  <key id="10000027" name="ニシキゴイ" />
-  <key id="10000028" name="白三色ニシキゴイ" />
-  <key id="10000029" name="白星光ニシキゴイ" />
-  <key id="10000030" name="金色のニシキゴイ" />
-  <key id="10000031" name="ポタモトリゴン・モトロ" />
-  <key id="10000032" name="チョウザメ" />
-  <key id="10000033" name="ウナギ" />
-  <key id="10000034" name="メデタイ" />
-  <key id="10000035" name="スターツンツン" />
-  <key id="10000036" name="アイライアイダイ" />
-  <key id="10000037" name="近衛魚" />
-  <key id="10000038" name="ブロコルタートル" />
-  <key id="10000039" name="アントシラカンス" />
-  <key id="10000040" name="機械サメ" />
-  <key id="10000041" name="STRINGFISHNAME_10000041_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000042" name="STRINGFISHNAME_10000042_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000043" name="STRINGFISHNAME_10000043_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000044" name="STRINGFISHNAME_10000044_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000045" name="STRINGFISHNAME_10000045_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000046" name="STRINGFISHNAME_10000046_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000047" name="STRINGFISHNAME_10000047_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000048" name="STRINGFISHNAME_10000048_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000049" name="STRINGFISHNAME_10000049_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000050" name="STRINGFISHNAME_10000050_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000051" name="STRINGFISHNAME_10000051_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000052" name="STRINGFISHNAME_10000052_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000053" name="STRINGFISHNAME_10000053_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000054" name="STRINGFISHNAME_10000054_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000055" name="STRINGFISHNAME_10000055_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000056" name="STRINGFISHNAME_10000056_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="10000057" name="ボボスマス" />
-  <key id="11000001" name="ブラックチョウチョウウオ" />
-  <key id="11000002" name="セグロチョウチョウウオ" />
-  <key id="11000003" name="シラコダイ" />
-  <key id="11000004" name="イシダイ" />
-  <key id="11000005" name="クロダイ" />
-  <key id="11000006" name="キダイ" />
-  <key id="11000007" name="マルダイ" />
-  <key id="11000008" name="ハリセンボン" />
-  <key id="11000009" name="シマフグ" />
-  <key id="11000010" name="フグ" />
-  <key id="11000011" name="イルカ" />
-  <key id="11000012" name="シャチ" />
-  <key id="11000013" name="ザトウクジラ" />
-  <key id="11000014" name="エイ" />
-  <key id="11000017" name="ホホジロザメ" />
-  <key id="11000018" name="アオザメ" />
-  <key id="11000019" name="ジンベイザメ" />
-  <key id="11000020" name="シュモクザメ" />
-  <key id="11000021" name="サバ" />
-  <key id="11000022" name="トビウオ" />
-  <key id="11000023" name="タチウオ" />
-  <key id="11000025" name="カツオ" />
-  <key id="11000026" name="ニベ" />
-  <key id="11000027" name="ボラ" />
-  <key id="11000028" name="マカジキ" />
-  <key id="11000029" name="イワシ" />
-  <key id="11000030" name="ハタハタ" />
-  <key id="11000031" name="甲イカ" />
-  <key id="11000032" name="イカ" />
-  <key id="11000033" name="タコ" />
-  <key id="11000034" name="マアジ" />
-  <key id="11000035" name="イワシ" />
-  <key id="11000036" name="ブリ" />
-  <key id="11000037" name="オオメハタ" />
-  <key id="11000038" name="アラ" />
-  <key id="11000039" name="カレイ" />
-  <key id="11000040" name="カワハギ" />
-  <key id="11000041" name="ヤドカリ" />
-  <key id="11000042" name="ロブスター" />
-  <key id="11000043" name="クルマエビ" />
-  <key id="11000044" name="カニ" />
-  <key id="11000045" name="タツノオトシゴ" />
-  <key id="11000046" name="ウミガメ" />
-  <key id="11000047" name="サラサハタ" />
-  <key id="11000048" name="ムツゴロウ" />
-  <key id="11000049" name="クジメ" />
-  <key id="11000050" name="クロソイ" />
-  <key id="11000051" name="ナマコ" />
-  <key id="11000052" name="ウニ" />
-  <key id="11000053" name="アオヒトデ" />
-  <key id="11000054" name="ヒトデ" />
-  <key id="11000055" name="クラゲ" />
-  <key id="11000056" name="ユムシ" />
-  <key id="11000057" name="サザエ" />
-  <key id="11000058" name="ワカメ" />
-  <key id="11000059" name="メバル" />
-  <key id="11000060" name="アワビ" />
-  <key id="11000061" name="ホヤ" />
-  <key id="11000062" name="ホタテガイ" />
-  <key id="11000063" name="アサリ" />
-  <key id="11000064" name="ムール貝" />
-  <key id="11000065" name="真珠貝" />
-  <key id="11000066" name="バンコダイル" />
-  <key id="11000067" name="マスカス" />
-  <key id="11000068" name="ピンクオクトパス" />
-  <key id="11000069" name="フリーズナス" />
-  <key id="11000070" name="チョウチンアンコウ" />
-  <key id="11000071" name="チョランギョ" />
-  <key id="11000072" name="金平糖カニ" />
-  <key id="11000073" name="ピリピリハートエイ" />
-  <key id="11000074" name="花道のウーパールーパー" />
-  <key id="12000001" name="怒れるピラニア" />
-  <key id="12000002" name="アツアツエイ" />
-  <key id="12000003" name="ホノオジンベエザメ" />
-  <key id="12000004" name="溶岩バス" />
-  <key id="12000005" name="燃え上がる真珠" />
-  <key id="12000006" name="ベニワカメ" />
-  <key id="12000007" name="ホットフグ" />
-  <key id="12000008" name="カワハギミ" />
-  <key id="12000009" name="フレイムハタ" />
-  <key id="12000010" name="ベニハタハタ" />
-  <key id="12000011" name="アツアツガニ" />
-  <key id="12000012" name="ベニバラタナゴ" />
-  <key id="12000013" name="ファイアリー" />
-  <key id="12000014" name="ノコギリザメ" />
-  <key id="12000015" name="ベニカジキ" />
-  <key id="12000016" name="デビルタツノオトシゴ" />
-  <key id="12000017" name="バリア" />
-  <key id="12000018" name="フィラット" />
-  <key id="12000019" name="ファラオタツノオトシゴ" />
-  <key id="12000020" name="マグマアツギョ" />
-  <key id="12000021" name="STRINGFISHNAME_12000021_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="12000022" name="STRINGFISHNAME_12000022_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="12000023" name="STRINGFISHNAME_12000023_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="12000024" name="STRINGFISHNAME_12000024_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="12000025" name="STRINGFISHNAME_12000025_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000003" name="パープルクラブ" />
-  <key id="13000005" name="デビルウーパールーパー" />
-  <key id="13000007" name="アオクジラ" />
-  <key id="13000009" name="エンジェルタツノオトシゴ" />
-  <key id="13000010" name="STRINGFISHNAME_13000010_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000011" name="STRINGFISHNAME_13000011_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000012" name="STRINGFISHNAME_13000012_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000013" name="STRINGFISHNAME_13000013_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000014" name="STRINGFISHNAME_13000014_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000015" name="STRINGFISHNAME_13000015_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000016" name="STRINGFISHNAME_13000016_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="13000017" name="STRINGFISHNAME_13000017_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000001" name="マルドク" />
-  <key id="14000002" name="ライライライギョ" />
-  <key id="14000003" name="湿地ザリガニ" />
-  <key id="14000004" name="アサリ" />
-  <key id="14000005" name="ドクヒトデ" />
-  <key id="14000006" name="ミドリニベ" />
-  <key id="14000007" name="アラ" />
-  <key id="14000008" name="ボケボケ" />
-  <key id="14000009" name="ドクシラコダイ" />
-  <key id="14000010" name="ミドリイカ" />
-  <key id="14000011" name="キレイ" />
-  <key id="14000012" name="ホヤボヤ" />
-  <key id="14000013" name="ベニサザエ" />
-  <key id="14000014" name="ミドリガイ" />
-  <key id="14000015" name="ポイズンリーフ" />
-  <key id="14000016" name="サッドリトルフィッシュ" />
-  <key id="14000017" name="猛毒タコ" />
-  <key id="14000018" name="ホラボラギョ" />
-  <key id="14000019" name="妙なムツゴロウ" />
-  <key id="14000020" name="ハルバルメバル" />
-  <key id="14000021" name="フロリーポンポン" />
-  <key id="14000022" name="STRINGFISHNAME_14000022_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000023" name="STRINGFISHNAME_14000023_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000024" name="STRINGFISHNAME_14000024_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000025" name="STRINGFISHNAME_14000025_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000026" name="STRINGFISHNAME_14000026_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000027" name="STRINGFISHNAME_14000027_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000028" name="STRINGFISHNAME_14000028_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="14000029" name="STRINGFISHNAME_14000029_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="15000001" name="ナフサヤドカリ" />
-  <key id="15000002" name="ピクリーチ" />
-  <key id="15000003" name="アブラホタテガイ" />
-  <key id="15000004" name="オイルシュリンプ" />
-  <key id="15000005" name="オイルジェリーフィッシュ" />
-  <key id="16000001" name="STRINGFISHNAME_16000001_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000002" name="STRINGFISHNAME_16000002_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000003" name="STRINGFISHNAME_16000003_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000004" name="STRINGFISHNAME_16000004_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000005" name="STRINGFISHNAME_16000005_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000006" name="STRINGFISHNAME_16000006_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000007" name="STRINGFISHNAME_16000007_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000008" name="STRINGFISHNAME_16000008_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000009" name="STRINGFISHNAME_16000009_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="16000010" name="STRINGFISHNAME_16000010_NAME:[F]Fishing02" feature="Fishing02" />
-  <key id="99000001" name="黄金メダカ" />
-  <key id="99000002" name="黄金ワカメ" />
-  <key id="99000003" name="黄金タコ" />
-  <key id="99000004" name="黄金タイ" />
-  <key id="99000005" name="黄金マキガイ" />
-  <key id="99000006" name="黄金ヒトデ" />
-  <key id="99000007" name="黄金ザリガニ" />
-  <key id="99000008" name="黄金アワビ" />
-  <key id="99000009" name="黄金亀" />
-  <key id="99000010" name="黄金タツノオトシゴ" />
-  <key id="99000011" name="黄金貝" />
-  <key id="99000012" name="黄金イルカ" />
-  <key id="99000013" name="光る黄金メダカ" />
-  <key id="99000014" name="光る黄金ワカメ" />
-  <key id="99000015" name="光る黄金タコ" />
-  <key id="99000016" name="光る黄金タイ" />
-  <key id="99000017" name="光る黄金マキガイ" />
-  <key id="99000018" name="光る黄金ヒトデ" />
-  <key id="99000019" name="光る黄金ザリガニ" />
-  <key id="99000020" name="光る黄金アワビ" />
-  <key id="99000021" name="光る黄金亀" />
-  <key id="99000022" name="光る黄金タツノオトシゴ" />
-  <key id="99000023" name="光る黄金貝" />
-  <key id="99000024" name="光る黄金イルカ" />
-  <key id="99000025" name="STRINGFISHNAME_99000025_NAME:[F]Develop" feature="Develop" />
-  <key id="99000026" name="STRINGFISHNAME_99000026_NAME:[F]Develop" feature="Develop" />
+	<key id="10000001" name="フナ" />
+	<key id="10000002" name="ゲンゴロウブナ" />
+	<key id="10000003" name="ピラニア" />
+	<key id="10000004" name="カゼトゲタナゴ" />
+	<key id="10000005" name="コウライヒガイ" />
+	<key id="10000006" name="セマダラドンコ" />
+	<key id="10000007" name="ヤマメ" />
+	<key id="10000008" name="メダカ" />
+	<key id="10000009" name="オイカワ" />
+	<key id="10000010" name="ナマズ" />
+	<key id="10000011" name="ブルーギル" />
+	<key id="10000012" name="サケ" />
+	<key id="10000013" name="川サケ" />
+	<key id="10000014" name="ウーパールーパー" />
+	<key id="10000015" name="まだらウーパールーパー" />
+	<key id="10000016" name="シャコ" />
+	<key id="10000017" name="縞シャコ" />
+	<key id="10000018" name="大口バス" />
+	<key id="10000019" name="雷魚" />
+	<key id="10000020" name="コウライケツギョ" />
+	<key id="10000021" name="ドジョウ" />
+	<key id="10000022" name="アジメドジョウ" />
+	<key id="10000023" name="ヤガタニゴイ" />
+	<key id="10000024" name="タカハヤ" />
+	<key id="10000025" name="リーフフィッシュ" />
+	<key id="10000026" name="マフナ" />
+	<key id="10000027" name="ニシキゴイ" />
+	<key id="10000028" name="白三色ニシキゴイ" />
+	<key id="10000029" name="白星光ニシキゴイ" />
+	<key id="10000030" name="金色のニシキゴイ" />
+	<key id="10000031" name="ポタモトリゴン・モトロ" />
+	<key id="10000032" name="チョウザメ" />
+	<key id="10000033" name="ウナギ" />
+	<key id="10000034" name="メデタイ" />
+	<key id="10000035" name="スターツンツン" />
+	<key id="10000036" name="アイライアイダイ" />
+	<key id="10000037" name="近衛魚" />
+	<key id="10000038" name="ブロコルタートル" />
+	<key id="10000039" name="アントシラカンス" />
+	<key id="10000040" name="機械サメ" />
+	<key id="10000041" name="STRINGFISHNAME_10000041_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000042" name="STRINGFISHNAME_10000042_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000043" name="STRINGFISHNAME_10000043_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000044" name="STRINGFISHNAME_10000044_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000045" name="STRINGFISHNAME_10000045_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000046" name="STRINGFISHNAME_10000046_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000047" name="STRINGFISHNAME_10000047_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000048" name="STRINGFISHNAME_10000048_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000049" name="STRINGFISHNAME_10000049_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000050" name="STRINGFISHNAME_10000050_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000051" name="STRINGFISHNAME_10000051_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000052" name="STRINGFISHNAME_10000052_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000053" name="STRINGFISHNAME_10000053_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000054" name="STRINGFISHNAME_10000054_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000055" name="STRINGFISHNAME_10000055_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000056" name="STRINGFISHNAME_10000056_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="10000057" name="ボボスマス" />
+	<key id="11000001" name="ブラックチョウチョウウオ" />
+	<key id="11000002" name="セグロチョウチョウウオ" />
+	<key id="11000003" name="シラコダイ" />
+	<key id="11000004" name="イシダイ" />
+	<key id="11000005" name="クロダイ" />
+	<key id="11000006" name="キダイ" />
+	<key id="11000007" name="マルダイ" />
+	<key id="11000008" name="ハリセンボン" />
+	<key id="11000009" name="シマフグ" />
+	<key id="11000010" name="フグ" />
+	<key id="11000011" name="イルカ" />
+	<key id="11000012" name="シャチ" />
+	<key id="11000013" name="ザトウクジラ" />
+	<key id="11000014" name="エイ" />
+	<key id="11000017" name="ホホジロザメ" />
+	<key id="11000018" name="アオザメ" />
+	<key id="11000019" name="ジンベイザメ" />
+	<key id="11000020" name="シュモクザメ" />
+	<key id="11000021" name="サバ" />
+	<key id="11000022" name="トビウオ" />
+	<key id="11000023" name="タチウオ" />
+	<key id="11000025" name="カツオ" />
+	<key id="11000026" name="ニベ" />
+	<key id="11000027" name="ボラ" />
+	<key id="11000028" name="マカジキ" />
+	<key id="11000029" name="イワシ" />
+	<key id="11000030" name="ハタハタ" />
+	<key id="11000031" name="甲イカ" />
+	<key id="11000032" name="イカ" />
+	<key id="11000033" name="タコ" />
+	<key id="11000034" name="マアジ" />
+	<key id="11000035" name="イワシ" />
+	<key id="11000036" name="ブリ" />
+	<key id="11000037" name="オオメハタ" />
+	<key id="11000038" name="アラ" />
+	<key id="11000039" name="カレイ" />
+	<key id="11000040" name="カワハギ" />
+	<key id="11000041" name="ヤドカリ" />
+	<key id="11000042" name="ロブスター" />
+	<key id="11000043" name="クルマエビ" />
+	<key id="11000044" name="カニ" />
+	<key id="11000045" name="タツノオトシゴ" />
+	<key id="11000046" name="ウミガメ" />
+	<key id="11000047" name="サラサハタ" />
+	<key id="11000048" name="ムツゴロウ" />
+	<key id="11000049" name="クジメ" />
+	<key id="11000050" name="クロソイ" />
+	<key id="11000051" name="ナマコ" />
+	<key id="11000052" name="ウニ" />
+	<key id="11000053" name="アオヒトデ" />
+	<key id="11000054" name="ヒトデ" />
+	<key id="11000055" name="クラゲ" />
+	<key id="11000056" name="ユムシ" />
+	<key id="11000057" name="サザエ" />
+	<key id="11000058" name="ワカメ" />
+	<key id="11000059" name="メバル" />
+	<key id="11000060" name="アワビ" />
+	<key id="11000061" name="ホヤ" />
+	<key id="11000062" name="ホタテガイ" />
+	<key id="11000063" name="アサリ" />
+	<key id="11000064" name="ムール貝" />
+	<key id="11000065" name="真珠貝" />
+	<key id="11000066" name="バンコダイル" />
+	<key id="11000067" name="マスカス" />
+	<key id="11000068" name="ピンクオクトパス" />
+	<key id="11000069" name="フリーズナス" />
+	<key id="11000070" name="チョウチンアンコウ" />
+	<key id="11000071" name="チョランギョ" />
+	<key id="11000072" name="金平糖カニ" />
+	<key id="11000073" name="ピリピリハートエイ" />
+	<key id="11000074" name="花道のウーパールーパー" />
+	<key id="12000001" name="怒れるピラニア" />
+	<key id="12000002" name="アツアツエイ" />
+	<key id="12000003" name="ホノオジンベエザメ" />
+	<key id="12000004" name="溶岩バス" />
+	<key id="12000005" name="燃え上がる真珠" />
+	<key id="12000006" name="ベニワカメ" />
+	<key id="12000007" name="ホットフグ" />
+	<key id="12000008" name="カワハギミ" />
+	<key id="12000009" name="フレイムハタ" />
+	<key id="12000010" name="ベニハタハタ" />
+	<key id="12000011" name="アツアツガニ" />
+	<key id="12000012" name="ベニバラタナゴ" />
+	<key id="12000013" name="ファイアリー" />
+	<key id="12000014" name="ノコギリザメ" />
+	<key id="12000015" name="ベニカジキ" />
+	<key id="12000016" name="デビルタツノオトシゴ" />
+	<key id="12000017" name="バリア" />
+	<key id="12000018" name="フィラット" />
+	<key id="12000019" name="ファラオタツノオトシゴ" />
+	<key id="12000020" name="マグマアツギョ" />
+	<key id="12000021" name="STRINGFISHNAME_12000021_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="12000022" name="STRINGFISHNAME_12000022_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="12000023" name="STRINGFISHNAME_12000023_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="12000024" name="STRINGFISHNAME_12000024_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="12000025" name="STRINGFISHNAME_12000025_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000003" name="パープルクラブ" />
+	<key id="13000005" name="デビルウーパールーパー" />
+	<key id="13000007" name="アオクジラ" />
+	<key id="13000009" name="エンジェルタツノオトシゴ" />
+	<key id="13000010" name="STRINGFISHNAME_13000010_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000011" name="STRINGFISHNAME_13000011_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000012" name="STRINGFISHNAME_13000012_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000013" name="STRINGFISHNAME_13000013_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000014" name="STRINGFISHNAME_13000014_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000015" name="STRINGFISHNAME_13000015_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000016" name="STRINGFISHNAME_13000016_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="13000017" name="STRINGFISHNAME_13000017_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000001" name="マルドク" />
+	<key id="14000002" name="ライライライギョ" />
+	<key id="14000003" name="湿地ザリガニ" />
+	<key id="14000004" name="アサリ" />
+	<key id="14000005" name="ドクヒトデ" />
+	<key id="14000006" name="ミドリニベ" />
+	<key id="14000007" name="アラ" />
+	<key id="14000008" name="ボケボケ" />
+	<key id="14000009" name="ドクシラコダイ" />
+	<key id="14000010" name="ミドリイカ" />
+	<key id="14000011" name="キレイ" />
+	<key id="14000012" name="ホヤボヤ" />
+	<key id="14000013" name="ベニサザエ" />
+	<key id="14000014" name="ミドリガイ" />
+	<key id="14000015" name="ポイズンリーフ" />
+	<key id="14000016" name="サッドリトルフィッシュ" />
+	<key id="14000017" name="猛毒タコ" />
+	<key id="14000018" name="ホラボラギョ" />
+	<key id="14000019" name="妙なムツゴロウ" />
+	<key id="14000020" name="ハルバルメバル" />
+	<key id="14000021" name="フロリーポンポン" />
+	<key id="14000022" name="STRINGFISHNAME_14000022_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000023" name="STRINGFISHNAME_14000023_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000024" name="STRINGFISHNAME_14000024_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000025" name="STRINGFISHNAME_14000025_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000026" name="STRINGFISHNAME_14000026_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000027" name="STRINGFISHNAME_14000027_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000028" name="STRINGFISHNAME_14000028_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="14000029" name="STRINGFISHNAME_14000029_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="15000001" name="ナフサヤドカリ" />
+	<key id="15000002" name="ピクリーチ" />
+	<key id="15000003" name="アブラホタテガイ" />
+	<key id="15000004" name="オイルシュリンプ" />
+	<key id="15000005" name="オイルジェリーフィッシュ" />
+	<key id="16000001" name="STRINGFISHNAME_16000001_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000002" name="STRINGFISHNAME_16000002_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000003" name="STRINGFISHNAME_16000003_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000004" name="STRINGFISHNAME_16000004_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000005" name="STRINGFISHNAME_16000005_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000006" name="STRINGFISHNAME_16000006_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000007" name="STRINGFISHNAME_16000007_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000008" name="STRINGFISHNAME_16000008_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000009" name="STRINGFISHNAME_16000009_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="16000010" name="STRINGFISHNAME_16000010_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="99000001" name="黄金メダカ" />
+	<key id="99000002" name="黄金ワカメ" />
+	<key id="99000003" name="黄金タコ" />
+	<key id="99000004" name="黄金タイ" />
+	<key id="99000005" name="黄金マキガイ" />
+	<key id="99000006" name="黄金ヒトデ" />
+	<key id="99000007" name="黄金ザリガニ" />
+	<key id="99000008" name="黄金アワビ" />
+	<key id="99000009" name="黄金亀" />
+	<key id="99000010" name="黄金タツノオトシゴ" />
+	<key id="99000011" name="黄金貝" />
+	<key id="99000012" name="黄金イルカ" />
+	<key id="99000013" name="光る黄金メダカ" />
+	<key id="99000014" name="光る黄金ワカメ" />
+	<key id="99000015" name="光る黄金タコ" />
+	<key id="99000016" name="光る黄金タイ" />
+	<key id="99000017" name="光る黄金マキガイ" />
+	<key id="99000018" name="光る黄金ヒトデ" />
+	<key id="99000019" name="光る黄金ザリガニ" />
+	<key id="99000020" name="光る黄金アワビ" />
+	<key id="99000021" name="光る黄金亀" />
+	<key id="99000022" name="光る黄金タツノオトシゴ" />
+	<key id="99000023" name="光る黄金貝" />
+	<key id="99000024" name="光る黄金イルカ" />
+	<key id="99000025" name="STRINGFISHNAME_99000025_NAME:[F]Develop" feature="Develop" />
+	<key id="99000026" name="STRINGFISHNAME_99000026_NAME:[F]Develop" feature="Develop" />
 </ms2>

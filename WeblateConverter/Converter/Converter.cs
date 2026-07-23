@@ -5,11 +5,314 @@ using WeblateConverter.Enum;
 namespace WeblateConverter.Converter;
 
 public class Converter {
+    private string? _cachedProjectRoot;
+
+    /// <summary>
+    /// Resolves the repository root robustly, regardless of where the executable lives
+    /// (Debug/Release, dotnet run, published single-file, or a CI artifacts directory).
+    /// Order: MS2_REPO_ROOT env var, then walk up from the exe location, then the CWD,
+    /// looking for a directory that contains both the "Xml" and "WeblateConverter" folders.
+    /// </summary>
+    private string? GetProjectRoot() {
+        if (_cachedProjectRoot != null) {
+            return _cachedProjectRoot;
+        }
+
+        // 1. Explicit override for CI / non-standard layouts.
+        string? envRoot = Environment.GetEnvironmentVariable("MS2_REPO_ROOT");
+        if (!string.IsNullOrWhiteSpace(envRoot) && IsProjectRoot(envRoot)) {
+            return _cachedProjectRoot = Path.GetFullPath(envRoot);
+        }
+
+        // 2. Walk up from the executable location, then 3. from the working directory.
+        foreach (string start in new[] { AppContext.BaseDirectory, Directory.GetCurrentDirectory() }) {
+            string? dir = start;
+            while (!string.IsNullOrEmpty(dir)) {
+                if (IsProjectRoot(dir)) {
+                    return _cachedProjectRoot = dir;
+                }
+                dir = Directory.GetParent(dir)?.FullName;
+            }
+        }
+
+        Console.WriteLine("Project root not found (set MS2_REPO_ROOT to the repository root)");
+        return null;
+    }
+
+    private static bool IsProjectRoot(string dir) {
+        return Directory.Exists(Path.Combine(dir, "Xml"))
+            && Directory.Exists(Path.Combine(dir, "WeblateConverter"));
+    }
+
+    public bool ConvertXmlToJson(string locale) {
+        if (ProcessLocaleStrings(locale)) {
+            Console.WriteLine("Conversion successful");
+            return true;
+        }
+
+        Console.WriteLine("Conversion failed");
+        return false;
+    }
+
+    public bool ConvertKoreanWithMissingKeys() {
+        if (ProcessKoreanWithMissingKeys()) {
+            Console.WriteLine("Conversion successful");
+            return true;
+        }
+
+        Console.WriteLine("Conversion failed");
+        return false;
+    }
+
+    public bool ConvertJsonToXml(string locale) {
+        if (ProcessJsonToXml(locale)) {
+            Console.WriteLine("Conversion successful");
+            return true;
+        }
+
+        Console.WriteLine("Conversion failed");
+        return false;
+    }
+
+    public bool ConvertJsonToXmlAll() {
+        Console.WriteLine("Converting JSON to XML for all languages found in Json folder...");
+
+        string[] availableLanguages = GetAvailableLanguages();
+        if (availableLanguages.Length == 0) {
+            Console.WriteLine("No language directories found in Json folder");
+            return false;
+        }
+
+        Console.WriteLine($"Found {availableLanguages.Length} languages: {string.Join(", ", availableLanguages)}");
+
+        int successCount = 0;
+        int failureCount = 0;
+        foreach (string language in availableLanguages) {
+            Console.WriteLine($"\n--- Processing language: {language} ---");
+
+            try {
+                if (ProcessJsonToXml(language)) {
+                    Console.WriteLine($"Successfully converted {language}");
+                    successCount++;
+                } else {
+                    Console.WriteLine($"Failed to convert {language}");
+                    failureCount++;
+                }
+            } catch (Exception ex) {
+                Console.WriteLine($"Error converting {language}: {ex.Message}");
+                failureCount++;
+            }
+        }
+
+        Console.WriteLine("\n--- Conversion Summary ---");
+        Console.WriteLine($"Total languages processed: {availableLanguages.Length}");
+        Console.WriteLine($"Successful conversions: {successCount}");
+        Console.WriteLine($"Failed conversions: {failureCount}");
+
+        return failureCount == 0;
+    }
+
+    // Set of JSON files that fan out to multiple / synthetic XML files, so there is no
+    // 1:1 source XML to structurally compare against. These get key-integrity checks only.
+    private static readonly HashSet<string> SplitOrCombinedJson = new(StringComparer.OrdinalIgnoreCase) {
+        "skillname.json", "stringadditionaldescription.json",
+        "stringskilldescription.json", "questdescription_final.json"
+    };
+
+    /// <summary>
+    /// Verifies JSON->XML for every locale without writing anything: confirms each generated
+    /// file has the same element/attribute structure as the source XML, and that every key is
+    /// well-formed. Returns true only if all locales are clean (usable as a CI gate).
+    /// </summary>
+    public bool VerifyAll() {
+        string[] languages = GetAvailableLanguages();
+        if (languages.Length == 0) {
+            Console.WriteLine("No language directories found in Json folder");
+            return false;
+        }
+
+        bool ok = true;
+        foreach (string language in languages) {
+            Console.WriteLine($"\n=== Verifying {language} ===");
+            if (!Verify(language)) {
+                ok = false;
+            }
+        }
+
+        Console.WriteLine(ok ? "\nVerification passed for all locales." : "\nVerification FAILED.");
+        return ok;
+    }
+
+    public bool Verify(string locale) {
+        FileInfo[] jsonFiles = GetJsonFiles(locale);
+        if (jsonFiles.Length == 0) {
+            Console.WriteLine($"No JSON files found for locale {locale}");
+            return false;
+        }
+
+        string? projectRoot = GetProjectRoot();
+        if (projectRoot == null) {
+            return false;
+        }
+
+        // The structural schema is language-independent; compare against this locale's own
+        // source XML, falling back to the base folders when a per-locale file is absent.
+        string[] schemaLocales = { GetOutputLocale(locale), "en", "kr" };
+
+        int checkedFiles = 0, skipped = 0, structuralIssues = 0, keyIssues = 0;
+
+        foreach (FileInfo jsonFile in jsonFiles) {
+            JObject json;
+            string jsonContent;
+            try {
+                jsonContent = File.ReadAllText(jsonFile.FullName);
+                json = JObject.Parse(jsonContent);
+            } catch (Exception ex) {
+                Console.WriteLine($"  [PARSE] {jsonFile.Name}: {ex.Message}");
+                structuralIssues++;
+                continue;
+            }
+
+            // 1. Key integrity — a malformed key would silently corrupt attributes on output.
+            foreach (JProperty prop in json.Properties()) {
+                if (!KeyIsWellFormed(prop.Name, jsonFile.Name)) {
+                    Console.WriteLine($"  [KEY] {jsonFile.Name}: '{prop.Name}' is not well-formed (delimiter collision?)");
+                    keyIssues++;
+                }
+            }
+
+            // 2. Structural comparison against the source XML (skip fan-out/synthetic files
+            //    and empty translation files, which have nothing to compare).
+            if (SplitOrCombinedJson.Contains(jsonFile.Name) || json.Count == 0) {
+                skipped++;
+                continue;
+            }
+
+            string xmlName = jsonFile.Name.Replace(".json", ".xml");
+            SortedSet<string>? srcSig = FindSchemaSignature(projectRoot, schemaLocales, xmlName);
+            if (srcSig == null) {
+                // No populated source XML anywhere to define this file's schema.
+                Console.WriteLine($"  [NO SOURCE] {jsonFile.Name}: no populated source XML to compare structure");
+                skipped++;
+                continue;
+            }
+
+            try {
+                var generatedDoc = new XmlDocument();
+                generatedDoc.LoadXml(ConvertJsonToXml(jsonContent, jsonFile.Name));
+                SortedSet<string> genSig = StructuralSignature(generatedDoc);
+
+                if (!genSig.SetEquals(srcSig)) {
+                    var missing = new SortedSet<string>(srcSig, StringComparer.Ordinal);
+                    missing.ExceptWith(genSig);
+                    var extra = new SortedSet<string>(genSig, StringComparer.Ordinal);
+                    extra.ExceptWith(srcSig);
+
+                    // A wrong element name, or a key-attribute swap (an attribute present only in
+                    // the source AND one present only in the generated output), is a converter
+                    // lookup fault. Attribute differences in only one direction are value-column
+                    // drift in the JSON data (a missing/typo'd column) — reported but not failed.
+                    bool elementFault = missing.Concat(extra).Any(s => s.StartsWith("el:"));
+                    var attrMissing = missing.Where(s => s.StartsWith("attr:")).ToList();
+                    var attrExtra = extra.Where(s => s.StartsWith("attr:")).ToList();
+                    bool keyAttrFault = attrMissing.Count > 0 && attrExtra.Count > 0;
+
+                    if (elementFault || keyAttrFault) {
+                        structuralIssues++;
+                        Console.WriteLine($"  [STRUCT] {jsonFile.Name}: source={string.Join(",", srcSig)} | generated={string.Join(",", genSig)}");
+                    } else {
+                        string drift = attrMissing.Count > 0
+                            ? $"source-only: {string.Join(", ", attrMissing)}"
+                            : $"json-only: {string.Join(", ", attrExtra)}";
+                        Console.WriteLine($"  [DATA]   {jsonFile.Name}: value-column drift ({drift})");
+                    }
+                }
+                checkedFiles++;
+            } catch (Exception ex) {
+                Console.WriteLine($"  [ERROR] {jsonFile.Name}: {ex.Message}");
+                structuralIssues++;
+            }
+        }
+
+        Console.WriteLine($"  {locale}: verified {checkedFiles} file(s), {skipped} skipped, " +
+                          $"{structuralIssues} structural issue(s), {keyIssues} key issue(s)");
+        return structuralIssues == 0 && keyIssues == 0;
+    }
+
+    // Returns the structural signature of the first source XML (across the candidate locales)
+    // that actually contains data. Empty source files carry no schema, so they are skipped.
+    private static SortedSet<string>? FindSchemaSignature(string projectRoot, string[] locales, string xmlName) {
+        foreach (string locale in locales) {
+            string path = Path.Combine(projectRoot, "Xml", "string", locale, xmlName);
+            if (!File.Exists(path)) {
+                continue;
+            }
+            try {
+                var doc = new XmlDocument();
+                doc.Load(path);
+                SortedSet<string> sig = StructuralSignature(doc);
+                if (sig.Count > 0) {
+                    return sig;
+                }
+            } catch {
+                // Unreadable/malformed source — try the next candidate locale.
+            }
+        }
+        return null;
+    }
+
+    // Element names + attribute names, excluding feature/locale (their presence depends on
+    // emptiness) and ignoring order — the parts that must match between source and generated.
+    private static SortedSet<string> StructuralSignature(XmlDocument document) {
+        var signature = new SortedSet<string>(StringComparer.Ordinal);
+        XmlNode? root = document.SelectSingleNode("ms2");
+        if (root == null) {
+            return signature;
+        }
+
+        foreach (XmlNode child in root.ChildNodes) {
+            if (child.NodeType != XmlNodeType.Element) {
+                continue;
+            }
+            signature.Add("el:" + child.Name);
+            if (child.Attributes == null) {
+                continue;
+            }
+            foreach (XmlAttribute attribute in child.Attributes) {
+                if (attribute.Name is "feature" or "locale") {
+                    continue;
+                }
+                signature.Add("attr:" + attribute.Name);
+            }
+        }
+        return signature;
+    }
+
+    // A well-formed key is exactly "identity-feature-locale" (3 dash-segments); the identity is
+    // "primary" or, for compound-key files, "primary|secondary". Extra dashes mean a collision.
+    private bool KeyIsWellFormed(string combinedKey, string fileName) {
+        // An empty primary key (e.g. "--") is legitimate data — some files carry empty
+        // placeholder rows like <key id="" name="" /> — so only the segment count matters.
+        string[] parts = combinedKey.Split('-');
+        if (parts.Length != 3) {
+            return false;
+        }
+
+        string identity = parts[0];
+        string? secondaryAttr = GetSecondaryKeyAttributeName(fileName);
+        if (secondaryAttr != null) {
+            // primary, or primary|secondary — never more than one pipe.
+            return identity.Split('|').Length <= 2;
+        }
+        return !identity.Contains('|');
+    }
+
     public void Select() {
         Console.WriteLine("Select 1 to convert XML to JSON");
         Console.WriteLine("Select 2 to convert JSON to XML");
         Console.WriteLine("Select 3 to convert latest Korean XML (kr_latest) to JSON (ko) with missing keys from other languages");
         Console.WriteLine("Select 4 to convert JSON to XML for all languages found in Json folder");
+        Console.WriteLine("Select 5 to verify JSON to XML conversion integrity for all languages");
         string? input = Console.ReadLine();
 
         if (input == "1") {
@@ -20,6 +323,8 @@ public class Converter {
             XmlToJsonKoreanWithMissingKeys();
         } else if (input == "4") {
             JsonToXmlAllLanguages();
+        } else if (input == "5") {
+            VerifyAll();
         } else {
             Console.WriteLine("Invalid input");
             return;
@@ -113,9 +418,13 @@ public class Converter {
         // Parse all enStrings to XML
         Dictionary<string, XmlDocument> xmls = new Dictionary<string, XmlDocument>();
         foreach (FileInfo file in files) {
-            XmlDocument xml = new XmlDocument();
-            xml.Load(file.FullName);
-            xmls.Add(file.Name, xml);
+            try {
+                XmlDocument xml = new XmlDocument();
+                xml.Load(file.FullName);
+                xmls.Add(file.Name, xml);
+            } catch (Exception ex) {
+                Console.WriteLine($"Error loading {file.Name}: {ex.Message}");
+            }
         }
 
 
@@ -125,6 +434,10 @@ public class Converter {
         var skillDescriptions = new List<string>();
         var skillAdditionalDescriptions = new List<string>();
         foreach ((string name, XmlDocument xml) in xmls) {
+            if (name == null) {
+                continue;
+            }
+
             if (name.Contains("questdescription")) {
                 Console.WriteLine(" questdescription");
             }
@@ -156,7 +469,7 @@ public class Converter {
             }
 
 
-            SaveToJson(name, json, locale);
+            SaveToJson(name!, json, locale);
         }
 
         if (locale is not "kr" and not "ko") {
@@ -188,9 +501,13 @@ public class Converter {
         // Parse Korean XMLs
         Dictionary<string, XmlDocument> koreanXmls = new Dictionary<string, XmlDocument>();
         foreach (FileInfo file in koreanFiles) {
-            XmlDocument xml = new XmlDocument();
-            xml.Load(file.FullName);
-            koreanXmls.Add(file.Name, xml);
+            try {
+                XmlDocument xml = new XmlDocument();
+                xml.Load(file.FullName);
+                koreanXmls.Add(file.Name, xml);
+            } catch (Exception ex) {
+                Console.WriteLine($"Error loading {file.Name}: {ex.Message}");
+            }
         }
 
         // Get all keys from other languages that might be missing in Korean
@@ -203,6 +520,10 @@ public class Converter {
         var skillAdditionalDescriptions = new List<JObject>();
 
         foreach ((string fileName, XmlDocument xml) in koreanXmls) {
+            if (fileName == null) {
+                continue;
+            }
+
             Console.WriteLine($"Processing {fileName} with missing keys...");
 
             // Parse the Korean XML to JSON
@@ -231,7 +552,7 @@ public class Converter {
                     continue;
             }
 
-            SaveToJson(fileName, enhancedJsonObject.ToString(), outputLocale);
+            SaveToJson(fileName!, enhancedJsonObject.ToString(), outputLocale);
         }
 
         // Save combined files with missing keys from other languages
@@ -243,6 +564,40 @@ public class Converter {
         return true;
     }
 
+    // Generation writes in place into Xml/string/<locale>, so untranslated files and entries are
+    // preserved automatically (they simply aren't rewritten). The one thing that needs cleaning
+    // is the individual quest/script source files, which are replaced by the combined outputs
+    // (questdescription_final.xml / scriptquest.xml) — remove them so they don't co-exist.
+    private void RemoveAbsorbedSourceFiles(string locale) {
+        string? projectRoot = GetProjectRoot();
+        if (projectRoot == null) {
+            return;
+        }
+
+        string outputLocale = GetOutputLocale(locale);
+        string dir = Path.Combine(projectRoot, "Xml", "string", outputLocale);
+        if (!Directory.Exists(dir)) {
+            return;
+        }
+
+        int removed = 0;
+        foreach (string file in Directory.GetFiles(dir, "*.xml")) {
+            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file))) {
+                File.Delete(file);
+                removed++;
+            }
+        }
+
+        if (removed > 0) {
+            Console.WriteLine($"Removed {removed} individual quest/script file(s) from {outputLocale} (replaced by combined outputs)");
+        }
+    }
+
+    private static bool IsAbsorbedByCombinedOutput(string fileName) {
+        return fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)
+            || fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase);
+    }
+
     private bool ProcessJsonToXml(string locale) {
         // Get JSON files from the locale directory
         FileInfo[] jsonFiles = GetJsonFiles(locale);
@@ -251,11 +606,23 @@ public class Converter {
             return false;
         }
 
+        // Generation writes in place; drop the individual quest/script files that the combined
+        // outputs replace so they don't co-exist.
+        RemoveAbsorbedSourceFiles(locale);
+
+        bool anyFailure = false;
         foreach (FileInfo jsonFile in jsonFiles) {
             Console.WriteLine($"Converting {jsonFile.Name} to XML...");
 
             try {
                 string jsonContent = File.ReadAllText(jsonFile.FullName);
+
+                // An empty translation file would blank an existing in-place file — skip it so
+                // the current (source / previously generated) content is preserved.
+                if (JObject.Parse(jsonContent).Count == 0) {
+                    Console.WriteLine($"  Keeping existing file for empty {jsonFile.Name}");
+                    continue;
+                }
 
                 // Handle questdescription_final.json specially - convert with sorted questIDs
                 if (jsonFile.Name == "questdescription_final.json") {
@@ -280,10 +647,11 @@ public class Converter {
                 }
             } catch (Exception ex) {
                 Console.WriteLine($"Error converting {jsonFile.Name}: {ex.Message}");
+                anyFailure = true;
             }
         }
 
-        return true;
+        return !anyFailure;
     }
 
     private void JsonToXmlAllLanguages() {
@@ -335,11 +703,7 @@ public class Converter {
     }
 
     private string[] GetAvailableLanguages() {
-        // Get the base directory of the application
-        string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
-
-        // Navigate up to the project root directory
-        string? projectRoot = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent?.Parent?.FullName;
+        string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
             Console.WriteLine("Project root not found");
             return [];
@@ -381,11 +745,17 @@ public class Converter {
     }
 
     public bool SaveToJson(string name, string json, string locale) {
-        string jsonPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Json", locale, name.Replace(".xml", ".json"));
+        string? projectRoot = GetProjectRoot();
+        if (projectRoot == null) {
+            Console.WriteLine("Project root not found");
+            return false;
+        }
+
+        string jsonPath = Path.Combine(projectRoot, "WeblateConverter", "Json", locale, name.Replace(".xml", ".json"));
         string? directoryPath = Path.GetDirectoryName(jsonPath);
 
         if (!Directory.Exists(directoryPath)) {
-            Directory.CreateDirectory(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Json", locale));
+            Directory.CreateDirectory(Path.Combine(projectRoot, "WeblateConverter", "Json", locale));
         }
 
         File.WriteAllText(jsonPath, json);
@@ -393,11 +763,7 @@ public class Converter {
     }
 
     private FileInfo[] GetFiles(string locale) {
-        // Get the base directory of the application
-        string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
-
-        // Navigate up to the project root directory
-        string? projectRoot = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent?.Parent?.FullName;
+        string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
             Console.WriteLine("Project root not found");
             return [];
@@ -458,13 +824,14 @@ public class Converter {
                 continue;
             }
 
-            if (childNode.Attributes?.Count == 0) {
+            XmlAttributeCollection? attributes = childNode.Attributes;
+            if (attributes == null || attributes.Count == 0) {
                 Console.WriteLine($"No attributes found in node in {document.BaseURI}");
                 continue;
             }
 
             // Get primary key value
-            XmlAttribute? primaryKeyAttribute = childNode.Attributes[primaryKeyAttr];
+            XmlAttribute? primaryKeyAttribute = attributes[primaryKeyAttr];
             if (primaryKeyAttribute == null) {
                 Console.WriteLine($"Primary key attribute '{primaryKeyAttr}' not found in {document.BaseURI}");
                 continue;
@@ -474,7 +841,7 @@ public class Converter {
             // Get secondary key value if needed
             string secondaryKey = "";
             if (secondaryKeyAttr != null) {
-                XmlAttribute? secondaryKeyAttribute = childNode.Attributes[secondaryKeyAttr];
+                XmlAttribute? secondaryKeyAttribute = attributes[secondaryKeyAttr];
                 if (secondaryKeyAttribute != null) {
                     secondaryKey = secondaryKeyAttribute.Value;
                 }
@@ -485,7 +852,7 @@ public class Converter {
             string locale = "";
 
             // Process all attributes
-            foreach (XmlAttribute attribute in childNode.Attributes) {
+            foreach (XmlAttribute attribute in attributes) {
                 if (attribute == null) {
                     continue;
                 }
@@ -767,35 +1134,40 @@ public class Converter {
 
     private string[] GetTargetFileNames(string fileName) {
         // Map individual files to their combined file names based on the grouping logic
-        return fileName switch {
-            not null when fileName.StartsWith("questdescription") => new[] {
+        if (fileName.StartsWith("questdescription")) {
+            return [
                 fileName,
                 "questdescription_final.xml"
-            },
-            not null when fileName.StartsWith("skillname") => new[] {
+            ];
+        }
+
+        if (fileName.StartsWith("skillname")) {
+            return [
                 fileName,
                 "skillname.xml"
-            },
-            not null when fileName.StartsWith("korskilldescription") => new[] {
+            ];
+        }
+
+        if (fileName.StartsWith("korskilldescription")) {
+            return [
                 fileName,
                 "stringskilldescription.xml"
-            },
-            not null when fileName.StartsWith("koradditionaldescription") => new[] {
+            ];
+        }
+
+        if (fileName.StartsWith("koradditionaldescription")) {
+            return [
                 fileName,
                 "stringadditionaldescription.xml"
-            },
-            _ => new[] {
-                fileName
-            } // For non-grouped files, just return the original filename
-        };
+            ];
+        }
+
+        // For non-grouped files, just return the original filename.
+        return [fileName];
     }
 
     private FileInfo[] GetJsonFiles(string locale) {
-        // Get the base directory of the application
-        string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
-
-        // Navigate up to the project root directory
-        string? projectRoot = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent?.Parent?.FullName;
+        string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
             Console.WriteLine("Project root not found");
             return [];
@@ -830,7 +1202,10 @@ public class Converter {
         var rootElement = xmlDoc.CreateElement("ms2");
         xmlDoc.AppendChild(rootElement);
 
-        foreach ((string combinedKey, JToken? value) in jsonObject) {
+        foreach (JProperty property in OrderJsonProperties(jsonObject, fileName)) {
+            string combinedKey = property.Name;
+            JToken? value = property.Value;
+
             // Parse the combined key to extract primary key, secondary key, feature, and locale
             var (primaryKey, secondaryKey, feature, locale) = ParseCombinedKey(combinedKey, fileName);
 
@@ -873,6 +1248,37 @@ public class Converter {
         // Format the XML with proper indentation and escape apostrophes
         string formattedXml = FormatXml(xmlDoc);
         return EscapeApostrophesInXml(formattedXml);
+    }
+
+    private IEnumerable<JProperty> OrderJsonProperties(JObject jsonObject, string fileName) {
+        var properties = jsonObject.Properties().ToList();
+        var parsedProperties = new List<(JProperty Property, long PrimaryKey, long? SecondaryKey, int Index)>();
+
+        for (int index = 0; index < properties.Count; index++) {
+            JProperty property = properties[index];
+            var (primaryKey, secondaryKey, _, _) = ParseCombinedKey(property.Name, fileName);
+
+            if (!long.TryParse(primaryKey, out long numericPrimaryKey)) {
+                return properties;
+            }
+
+            long? numericSecondaryKey = null;
+            if (!string.IsNullOrEmpty(secondaryKey)) {
+                if (!long.TryParse(secondaryKey, out long parsedSecondaryKey)) {
+                    return properties;
+                }
+
+                numericSecondaryKey = parsedSecondaryKey;
+            }
+
+            parsedProperties.Add((property, numericPrimaryKey, numericSecondaryKey, index));
+        }
+
+        return parsedProperties
+            .OrderBy(entry => entry.PrimaryKey)
+            .ThenBy(entry => entry.SecondaryKey ?? long.MinValue)
+            .ThenBy(entry => entry.Index)
+            .Select(entry => entry.Property);
     }
 
     private (string primaryKey, string secondaryKey, string feature, string locale) ParseCombinedKey(string combinedKey, string fileName) {
@@ -944,11 +1350,7 @@ public class Converter {
     }
 
     private void SaveXmlFile(string fileName, string xmlContent, string locale) {
-        // Get the base directory of the application
-        string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
-
-        // Navigate up to the project root directory
-        string? projectRoot = Directory.GetParent(baseDirectory)?.Parent?.Parent?.Parent?.Parent?.FullName;
+        string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
             throw new InvalidOperationException("Project root not found");
         }
@@ -957,7 +1359,7 @@ public class Converter {
         string outputLocale = GetOutputLocale(locale);
 
         // Create output directory path
-        string outputPath = Path.Combine(projectRoot, "Xml", "string", $"{outputLocale}_output");
+        string outputPath = Path.Combine(projectRoot, "Xml", "string", outputLocale);
 
         if (!Directory.Exists(outputPath)) {
             Directory.CreateDirectory(outputPath);
@@ -1022,6 +1424,8 @@ public class Converter {
             }, {
                 "chapterdescription_eventna", "chapter"
             }, {
+                "chapterdescription_eventjp", "chapter"
+            }, {
                 "chapterdescription_field", "chapter"
             }, {
                 "chapterdescription_famecontents", "chapter"
@@ -1082,6 +1486,8 @@ public class Converter {
             }, {
                 "questdescription_world", "quest"
             }, {
+                "questdescription_final", "quest"
+            }, {
                 "seasonnamecn", "season"
             }, {
                 "seasonnamejp", "season"
@@ -1091,6 +1497,10 @@ public class Converter {
                 "seasonnamena", "season"
             }, {
                 "seasonnameth", "season"
+            }, {
+                "stringfish", "fish"
+            }, {
+                "systemmailcontent", "mail"
             }, {
                 "systemmailcontentcn", "mail"
             }, {
@@ -1124,6 +1534,8 @@ public class Converter {
                 "addressname", "mapcode"
             }, {
                 "kordynamicaction", "skillID"
+            }, {
+                "korjobdescription", "code"
             }, {
                 "maidmanufacturemessage", "MaidID"
             }, {
@@ -1166,6 +1578,8 @@ public class Converter {
                 "questdescription_wedding", "questID"
             }, {
                 "questdescription_world", "questID"
+            }, {
+                "questdescription_final", "questID"
             },
 
             // Most files use "id" as the key attribute (this is the default)
@@ -1614,19 +2028,11 @@ public class Converter {
             return xmlContent;
         }
 
-        // Use regex to find attribute values and escape apostrophes within them
-        // This pattern matches: attribute="value with apostrophes"
-        return System.Text.RegularExpressions.Regex.Replace(
-            xmlContent,
-            @"(\w+)=""([^""]*)""",
-            match => {
-                string attrName = match.Groups[1].Value;
-                string attrValue = match.Groups[2].Value;
-                // Replace all apostrophes in the attribute value
-                string escapedValue = attrValue.Replace("'", "&apos;");
-                return $"{attrName}=\"{escapedValue}\"";
-            }
-        );
+        // All data lives in attribute values (every element is self-closing), and the
+        // XmlWriter already escapes <, >, &, and " (as &quot;) inside those values. The
+        // only raw apostrophes left in the document are therefore inside attribute values,
+        // so a global replace is safe and matches MS2's use of &apos;.
+        return xmlContent.Replace("'", "&apos;");
     }
 
     private void ConvertQuestDescriptionFinalWithSorting(string jsonContent, string locale) {

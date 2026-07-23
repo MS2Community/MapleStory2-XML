@@ -1,112 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10900001" name="フレイムドライブ" />
-  <key id="10900011" name="アイスドライブ" />
-  <key id="10900021" name="サンダードライブ" />
-  <key id="10900031" name="トリプルカット" />
-  <key id="10900032" name="火炎トリプルカット" />
-  <key id="10900033" name="冷気トリプルカット" />
-  <key id="10900034" name="電撃トリプルカット" />
-  <key id="10900041" name="ルーンコントロール" />
-  <key id="10900051" name="ブリンク" />
-  <key id="10900061" name="トリプルスプリッター" />
-  <key id="10900062" name="火炎トリプルスプリッター" />
-  <key id="10900063" name="冷気トリプルスプリッター" />
-  <key id="10900064" name="冷気トリプルスプリッタースプラッシュ" feature="Develop" />
-  <key id="10900065" name="電撃トリプルスプリッター" />
-  <key id="10900071" name="アーケインインパクト" />
-  <key id="10900072" name="火炎アーケインインパクト" />
-  <key id="10900073" name="火炎アーケインインパクトスプラッシュ" feature="Develop" />
-  <key id="10900074" name="冷気アーケインインパクト" />
-  <key id="10900075" name="冷気アーケインインパクトスプラッシュ" feature="Develop" />
-  <key id="10900076" name="電撃アーケインインパクト" />
-  <key id="10900077" name="電撃アーケインインパクトスプラッシュ" feature="Develop" />
-  <key id="10900078" name="電撃アーケインインパクトスプラッシュ2" feature="Develop" />
-  <key id="10900081" name="ギャザリングマジック" />
-  <key id="10900082" name="ギャザリングマジックスプラッシュ" feature="Develop" />
-  <key id="10900091" name="ルーンシールド" />
-  <key id="10900092" name="火炎ルーンシールド" />
-  <key id="10900093" name="火炎ルーンシールドスプラッシュ" feature="Develop" />
-  <key id="10900094" name="冷気ルーンシールド" />
-  <key id="10900095" name="電撃ルーンシールド" />
-  <key id="10900096" name="電撃ルーンシールドスプラッシュ" feature="Develop" />
-  <key id="10900097" name="電撃ルーンシールドスプラッシュ2" feature="Develop" />
-  <key id="10900101" name="グラウンドディバイド" />
-  <key id="10900102" name="グラウンドディバイドスプラッシュ" feature="Develop" />
-  <key id="10900103" name="火炎グラウンドディバイド" />
-  <key id="10900104" name="火炎グラウンドディバイドスプラッシュ" feature="Develop" />
-  <key id="10900105" name="冷気グラウンドディバイド" />
-  <key id="10900106" name="冷気グラウンドディバイドスプラッシュ" feature="Develop" />
-  <key id="10900107" name="電撃グラウンドディバイド" />
-  <key id="10900108" name="電撃グラウンドディバイドスプラッシュ" feature="Develop" />
-  <key id="10900111" name="イリュージョンブレイド" />
-  <key id="10900112" name="イリュージョンブレイドスプラッシュ" feature="Develop" />
-  <key id="10900121" name="ルナポテンシャル" />
-  <key id="10900131" name="ルナインストール" />
-  <key id="10900141" name="ブレイドマスタリ" />
-  <key id="10900151" name="インフィニットカット" />
-  <key id="10900152" name="インフィニットカットスプラッシュ" feature="Develop" />
-  <key id="10900153" name="火炎インフィニットカット" />
-  <key id="10900154" name="火炎インフィニットカットスプラッシュ" feature="Develop" />
-  <key id="10900155" name="冷気インフィニットカット" />
-  <key id="10900156" name="冷気インフィニットカットスプラッシュ" feature="Develop" />
-  <key id="10900157" name="電撃インフィニットカット" />
-  <key id="10900158" name="電撃インフィニットカットスプラッシュ" feature="Develop" />
-  <key id="10900161" name="ルーンスクエア" />
-  <key id="10900171" name="ディメンションブレイド" feature="JobChange_01" />
-  <key id="10900172" name="ディメンションブレイドスプラッシュ" feature="Develop" />
-  <key id="10900173" name="火炎ディメンションブレイド" feature="JobChange_01" />
-  <key id="10900174" name="火炎ディメンションブレイドスプラッシュ" feature="Develop" />
-  <key id="10900175" name="冷気ディメンションブレイド" feature="JobChange_01" />
-  <key id="10900176" name="冷気ディメンションブレイドスプラッシュ" feature="Develop" />
-  <key id="10900177" name="電撃ディメンションブレイド" feature="JobChange_01" />
-  <key id="10900178" name="電撃ディメンションブレイドスプラッシュ" feature="Develop" />
-  <key id="10900181" name="ファンタズムスラッシュ" feature="JobChange_01" />
-  <key id="10900182" name="ファンタズムスラッシュスプラッシュ" feature="Develop" />
-  <key id="10900183" name="ファンタズムスラッシュ2打" feature="Develop" />
-  <key id="10900191" name="ルーンイグニッション" feature="JobChange_01" />
-  <key id="10900192" name="ルーンイグニッションスプラッシュ" feature="Develop" />
-  <key id="10900193" name="火炎ルーンイグニッション" feature="JobChange_01" />
-  <key id="10900194" name="火炎ルーンイグニッションスプラッシュ" feature="Develop" />
-  <key id="10900195" name="火炎ルーンイグニッションスプラッシュ2" feature="Develop" />
-  <key id="10900196" name="冷気ルーンイグニッション" feature="JobChange_01" />
-  <key id="10900197" name="冷気ルーンイグニッションスプラッシュ" feature="Develop" />
-  <key id="10900198" name="電撃ルーンイグニッション" feature="JobChange_01" />
-  <key id="10900199" name="電撃ルーンイグニッションスプラッシュ" feature="Develop" />
-  <key id="10900200" name="電撃ルーンイグニッションスプラッシュ2" feature="Develop" />
-  <key id="10900201" name="ルーントリガー" feature="JobChange_01" />
-  <key id="10900202" name="ルーントリガースプラッシュ" feature="Develop" />
-  <key id="10900203" name="火炎ルーントリガー" feature="JobChange_01" />
-  <key id="10900204" name="火炎ルーントリガースプラッシュ" feature="Develop" />
-  <key id="10900205" name="冷気ルーントリガー" feature="JobChange_01" />
-  <key id="10900206" name="冷気ルーントリガースプラッシュ" feature="Develop" />
-  <key id="10900207" name="電撃ルーントリガー" feature="JobChange_01" />
-  <key id="10900208" name="電撃ルーントリガースプラッシュ" feature="Develop" />
-  <key id="10900211" name="クアドラプルカット" feature="JobChange_01" />
-  <key id="10900212" name="火炎クアドラプルカット" feature="JobChange_01" />
-  <key id="10900213" name="冷気クアドラプルカット" feature="JobChange_01" />
-  <key id="10900214" name="電撃クアドラプルカット" feature="JobChange_01" />
-  <key id="10900221" name="ブレイドウィップ" feature="JobChange_01" />
-  <key id="10900222" name="火炎ブレイドウィップ" feature="JobChange_01" />
-  <key id="10900223" name="冷気ブレイドウィップ" feature="JobChange_01" />
-  <key id="10900224" name="冷気ブレイドウィップスプラッシュ" feature="Develop" />
-  <key id="10900225" name="電撃ブレイドウィップ" feature="JobChange_01" />
-  <key id="10900226" name="電撃ブレイドウィップスプラッシュ" feature="Develop" />
-  <key id="10900231" name="フィジカルブースト" feature="JobChange_01" />
-  <key id="10900232" name="フィジカルブースト1次ステータス増加" feature="Develop" />
-  <key id="10900241" name="ブレイドエキスパート" feature="JobChange_01" />
-  <key id="10900251" name="ルーンエキスパート" feature="JobChange_01" />
-  <key id="10900261" name="SKILLNAME_10900261_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10900262" name="SKILLNAME_10900262_NAME:[F]Develop" feature="Develop" />
-  <key id="10900263" name="SKILLNAME_10900263_NAME:[F]Develop" feature="Develop" />
-  <key id="10900264" name="SKILLNAME_10900264_NAME:[F]Develop" feature="Develop" />
-  <key id="10900265" name="SKILLNAME_10900265_NAME:[F]Develop" feature="Develop" />
-  <key id="10900266" name="SKILLNAME_10900266_NAME:[F]Develop" feature="Develop" />
-  <key id="10900271" name="SKILLNAME_10900271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10900281" name="SKILLNAME_10900281_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10900291" name="SKILLNAME_10900291_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10900292" name="SKILLNAME_10900292_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10900293" name="SKILLNAME_10900293_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10900294" name="SKILLNAME_10900294_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900001" name="フレイムドライブ" />
+	<key id="10900011" name="アイスドライブ" />
+	<key id="10900021" name="サンダードライブ" />
+	<key id="10900031" name="トリプルカット" />
+	<key id="10900032" name="火炎トリプルカット" />
+	<key id="10900033" name="冷気トリプルカット" />
+	<key id="10900034" name="電撃トリプルカット" />
+	<key id="10900041" name="ルーンコントロール" />
+	<key id="10900051" name="ブリンク" />
+	<key id="10900061" name="トリプルスプリッター" />
+	<key id="10900062" name="火炎トリプルスプリッター" />
+	<key id="10900063" name="冷気トリプルスプリッター" />
+	<key id="10900064" name="冷気トリプルスプリッタースプラッシュ" feature="Develop" />
+	<key id="10900065" name="電撃トリプルスプリッター" />
+	<key id="10900071" name="アーケインインパクト" />
+	<key id="10900072" name="火炎アーケインインパクト" />
+	<key id="10900073" name="火炎アーケインインパクトスプラッシュ" feature="Develop" />
+	<key id="10900074" name="冷気アーケインインパクト" />
+	<key id="10900075" name="冷気アーケインインパクトスプラッシュ" feature="Develop" />
+	<key id="10900076" name="電撃アーケインインパクト" />
+	<key id="10900077" name="電撃アーケインインパクトスプラッシュ" feature="Develop" />
+	<key id="10900078" name="電撃アーケインインパクトスプラッシュ2" feature="Develop" />
+	<key id="10900081" name="ギャザリングマジック" />
+	<key id="10900082" name="ギャザリングマジックスプラッシュ" feature="Develop" />
+	<key id="10900091" name="ルーンシールド" />
+	<key id="10900092" name="火炎ルーンシールド" />
+	<key id="10900093" name="火炎ルーンシールドスプラッシュ" feature="Develop" />
+	<key id="10900094" name="冷気ルーンシールド" />
+	<key id="10900095" name="電撃ルーンシールド" />
+	<key id="10900096" name="電撃ルーンシールドスプラッシュ" feature="Develop" />
+	<key id="10900097" name="電撃ルーンシールドスプラッシュ2" feature="Develop" />
+	<key id="10900101" name="グラウンドディバイド" />
+	<key id="10900102" name="グラウンドディバイドスプラッシュ" feature="Develop" />
+	<key id="10900103" name="火炎グラウンドディバイド" />
+	<key id="10900104" name="火炎グラウンドディバイドスプラッシュ" feature="Develop" />
+	<key id="10900105" name="冷気グラウンドディバイド" />
+	<key id="10900106" name="冷気グラウンドディバイドスプラッシュ" feature="Develop" />
+	<key id="10900107" name="電撃グラウンドディバイド" />
+	<key id="10900108" name="電撃グラウンドディバイドスプラッシュ" feature="Develop" />
+	<key id="10900111" name="イリュージョンブレイド" />
+	<key id="10900112" name="イリュージョンブレイドスプラッシュ" feature="Develop" />
+	<key id="10900121" name="ルナポテンシャル" />
+	<key id="10900131" name="ルナインストール" />
+	<key id="10900141" name="ブレイドマスタリ" />
+	<key id="10900151" name="インフィニットカット" />
+	<key id="10900152" name="インフィニットカットスプラッシュ" feature="Develop" />
+	<key id="10900153" name="火炎インフィニットカット" />
+	<key id="10900154" name="火炎インフィニットカットスプラッシュ" feature="Develop" />
+	<key id="10900155" name="冷気インフィニットカット" />
+	<key id="10900156" name="冷気インフィニットカットスプラッシュ" feature="Develop" />
+	<key id="10900157" name="電撃インフィニットカット" />
+	<key id="10900158" name="電撃インフィニットカットスプラッシュ" feature="Develop" />
+	<key id="10900161" name="ルーンスクエア" />
+	<key id="10900171" name="ディメンションブレイド" feature="JobChange_01" />
+	<key id="10900172" name="ディメンションブレイドスプラッシュ" feature="Develop" />
+	<key id="10900173" name="火炎ディメンションブレイド" feature="JobChange_01" />
+	<key id="10900174" name="火炎ディメンションブレイドスプラッシュ" feature="Develop" />
+	<key id="10900175" name="冷気ディメンションブレイド" feature="JobChange_01" />
+	<key id="10900176" name="冷気ディメンションブレイドスプラッシュ" feature="Develop" />
+	<key id="10900177" name="電撃ディメンションブレイド" feature="JobChange_01" />
+	<key id="10900178" name="電撃ディメンションブレイドスプラッシュ" feature="Develop" />
+	<key id="10900181" name="ファンタズムスラッシュ" feature="JobChange_01" />
+	<key id="10900182" name="ファンタズムスラッシュスプラッシュ" feature="Develop" />
+	<key id="10900183" name="ファンタズムスラッシュ2打" feature="Develop" />
+	<key id="10900191" name="ルーンイグニッション" feature="JobChange_01" />
+	<key id="10900192" name="ルーンイグニッションスプラッシュ" feature="Develop" />
+	<key id="10900193" name="火炎ルーンイグニッション" feature="JobChange_01" />
+	<key id="10900194" name="火炎ルーンイグニッションスプラッシュ" feature="Develop" />
+	<key id="10900195" name="火炎ルーンイグニッションスプラッシュ2" feature="Develop" />
+	<key id="10900196" name="冷気ルーンイグニッション" feature="JobChange_01" />
+	<key id="10900197" name="冷気ルーンイグニッションスプラッシュ" feature="Develop" />
+	<key id="10900198" name="電撃ルーンイグニッション" feature="JobChange_01" />
+	<key id="10900199" name="電撃ルーンイグニッションスプラッシュ" feature="Develop" />
+	<key id="10900200" name="電撃ルーンイグニッションスプラッシュ2" feature="Develop" />
+	<key id="10900201" name="ルーントリガー" feature="JobChange_01" />
+	<key id="10900202" name="ルーントリガースプラッシュ" feature="Develop" />
+	<key id="10900203" name="火炎ルーントリガー" feature="JobChange_01" />
+	<key id="10900204" name="火炎ルーントリガースプラッシュ" feature="Develop" />
+	<key id="10900205" name="冷気ルーントリガー" feature="JobChange_01" />
+	<key id="10900206" name="冷気ルーントリガースプラッシュ" feature="Develop" />
+	<key id="10900207" name="電撃ルーントリガー" feature="JobChange_01" />
+	<key id="10900208" name="電撃ルーントリガースプラッシュ" feature="Develop" />
+	<key id="10900211" name="クアドラプルカット" feature="JobChange_01" />
+	<key id="10900212" name="火炎クアドラプルカット" feature="JobChange_01" />
+	<key id="10900213" name="冷気クアドラプルカット" feature="JobChange_01" />
+	<key id="10900214" name="電撃クアドラプルカット" feature="JobChange_01" />
+	<key id="10900221" name="ブレイドウィップ" feature="JobChange_01" />
+	<key id="10900222" name="火炎ブレイドウィップ" feature="JobChange_01" />
+	<key id="10900223" name="冷気ブレイドウィップ" feature="JobChange_01" />
+	<key id="10900224" name="冷気ブレイドウィップスプラッシュ" feature="Develop" />
+	<key id="10900225" name="電撃ブレイドウィップ" feature="JobChange_01" />
+	<key id="10900226" name="電撃ブレイドウィップスプラッシュ" feature="Develop" />
+	<key id="10900231" name="フィジカルブースト" feature="JobChange_01" />
+	<key id="10900232" name="フィジカルブースト1次ステータス増加" feature="Develop" />
+	<key id="10900241" name="ブレイドエキスパート" feature="JobChange_01" />
+	<key id="10900251" name="ルーンエキスパート" feature="JobChange_01" />
+	<key id="10900261" name="SKILLNAME_10900261_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900262" name="SKILLNAME_10900262_NAME:[F]Develop" feature="Develop" />
+	<key id="10900263" name="SKILLNAME_10900263_NAME:[F]Develop" feature="Develop" />
+	<key id="10900264" name="SKILLNAME_10900264_NAME:[F]Develop" feature="Develop" />
+	<key id="10900265" name="SKILLNAME_10900265_NAME:[F]Develop" feature="Develop" />
+	<key id="10900266" name="SKILLNAME_10900266_NAME:[F]Develop" feature="Develop" />
+	<key id="10900271" name="SKILLNAME_10900271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900281" name="SKILLNAME_10900281_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900291" name="SKILLNAME_10900291_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900292" name="SKILLNAME_10900292_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900293" name="SKILLNAME_10900293_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10900294" name="SKILLNAME_10900294_NAME:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

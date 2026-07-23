@@ -1,239 +1,238 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10000001" name="鲫鱼" />
-  <key id="10000002" name="高身鲫" />
-  <key id="10000003" name="食人鱼" />
-  <key id="10000004" name="鳑鲏鱼" />
-  <key id="10000005" name="黑鳍鳈" />
-  <key id="10000006" name="斑纹沙塘鳢" />
-  <key id="10000007" name="岩鱼" />
-  <key id="10000008" name="鳉鱼" />
-  <key id="10000009" name="桃花鱼" />
-  <key id="10000010" name="鲇鱼" />
-  <key id="10000011" name="蓝鳃太阳鱼" />
-  <key id="10000012" name="鲑鱼" />
-  <key id="10000013" name="河川鲑鱼" />
-  <key id="10000014" name="蝾螈" />
-  <key id="10000015" name="斑纹蝾螈" />
-  <key id="10000016" name="皮皮虾" />
-  <key id="10000017" name="条纹皮皮虾" />
-  <key id="10000018" name="大嘴鲈鱼" />
-  <key id="10000019" name="黑鱼" />
-  <key id="10000020" name="桂鱼" />
-  <key id="10000021" name="泥鳅" />
-  <key id="10000022" name="斑纹小泥鳅" />
-  <key id="10000023" name="臼齿肛鳍鱼" />
-  <key id="10000024" name="尖头鱥" />
-  <key id="10000025" name="叶鱼" />
-  <key id="10000026" name="麦穗鱼" />
-  <key id="10000027" name="锦鲤" />
-  <key id="10000028" name="白三色锦鲤" />
-  <key id="10000029" name="白别光锦鲤" />
-  <key id="10000030" name="金色锦鲤" />
-  <key id="10000031" name="珍珠魟鱼" />
-  <key id="10000032" name="鲟鱼" />
-  <key id="10000033" name="鳗鱼" />
-  <key id="10000034" name="硬壳鲷" />
-  <key id="10000035" name="星星亲嘴鱼" />
-  <key id="10000036" name="飞眼鲷" />
-  <key id="10000037" name="锦尾鱼" />
-  <key id="10000038" name="菜花龟" />
-  <key id="10000039" name="安腔棘鱼" />
-  <key id="10000040" name="机械鲨鱼" />
-  <key id="10000041" name="蓝果冻虾" feature="Fishing02" />
-  <key id="10000042" name="哭哭鱼" feature="Fishing02" />
-  <key id="10000043" name="浮萍" feature="Fishing02" />
-  <key id="10000044" name="黄鳜鱼" feature="Fishing02" />
-  <key id="10000045" name="凤眼莲" feature="Fishing02" />
-  <key id="10000046" name="鲜叶鱼" feature="Fishing02" />
-  <key id="10000047" name="开花鱼-旺" feature="Fishing02" />
-  <key id="10000048" name="开花鱼-蒙" feature="Fishing02" />
-  <key id="10000049" name="蓝叶水母" feature="Fishing02" />
-  <key id="10000050" name="粉叶水母" feature="Fishing02" />
-  <key id="10000051" name="弓鱼" feature="Fishing02" />
-  <key id="10000052" name="蓝天使鱼" feature="Fishing02" />
-  <key id="10000053" name="粉斑水母" feature="Fishing02" />
-  <key id="10000054" name="银杏叶鳐鱼" feature="Fishing02" />
-  <key id="10000055" name="水灵鱼" feature="Fishing02" />
-  <key id="10000056" name="宝石鱼" feature="Fishing02" />
-  <key id="10000057" name="波波斯鱼" />
-  <key id="11000001" name="黑色蝴蝶鱼" />
-  <key id="11000002" name="鞍斑蝴蝶鱼" />
-  <key id="11000003" name="蝴蝶鱼" />
-  <key id="11000004" name="条石鲷" />
-  <key id="11000005" name="黑鲷" />
-  <key id="11000006" name="黄鲷" />
-  <key id="11000007" name="大眼鲷" />
-  <key id="11000008" name="六斑刺鲀" />
-  <key id="11000009" name="黄鳍东方鲀" />
-  <key id="11000010" name="河豚" />
-  <key id="11000011" name="海豚" />
-  <key id="11000012" name="虎鲸" />
-  <key id="11000013" name="黑背鲸" />
-  <key id="11000014" name="魟鱼" />
-  <key id="11000017" name="大白鲨" />
-  <key id="11000018" name="灰鲭鲨" />
-  <key id="11000019" name="鲸鲨" />
-  <key id="11000020" name="双髻鲨" />
-  <key id="11000021" name="青花鱼" />
-  <key id="11000022" name="飞鱼" />
-  <key id="11000023" name="带鱼" />
-  <key id="11000025" name="鲣鱼" />
-  <key id="11000026" name="鹰石首鱼" />
-  <key id="11000027" name="鲻鱼" />
-  <key id="11000028" name="枪鱼" />
-  <key id="11000029" name="鳀鱼" />
-  <key id="11000030" name="雷鱼" />
-  <key id="11000031" name="墨鱼" />
-  <key id="11000032" name="乌贼" />
-  <key id="11000033" name="章鱼" />
-  <key id="11000034" name="竹夹鱼" />
-  <key id="11000035" name="沙丁鱼" />
-  <key id="11000036" name="鲂鱼" />
-  <key id="11000037" name="短刺鲈" />
-  <key id="11000038" name="东洋鲈" />
-  <key id="11000039" name="比目鱼" />
-  <key id="11000040" name="鼠鱼" />
-  <key id="11000041" name="寄居蟹" />
-  <key id="11000042" name="海虾" />
-  <key id="11000043" name="毛虾" />
-  <key id="11000044" name="花蟹" />
-  <key id="11000045" name="海马" />
-  <key id="11000046" name="海龟" />
-  <key id="11000047" name="老鼠斑" />
-  <key id="11000048" name="弹涂鱼" />
-  <key id="11000049" name="六线鱼" />
-  <key id="11000050" name="石斑鱼" />
-  <key id="11000051" name="海参" />
-  <key id="11000052" name="海胆" />
-  <key id="11000053" name="蓝海星" />
-  <key id="11000054" name="海星" />
-  <key id="11000055" name="海蜇" />
-  <key id="11000056" name="海肠" />
-  <key id="11000057" name="喇叭螺" />
-  <key id="11000058" name="海带" />
-  <key id="11000059" name="鲈鲉" />
-  <key id="11000060" name="鲍鱼" />
-  <key id="11000061" name="海鞘" />
-  <key id="11000062" name="扇贝" />
-  <key id="11000063" name="花蛤" />
-  <key id="11000064" name="红蛤" />
-  <key id="11000065" name="珍珠蛤" />
-  <key id="11000066" name="蓝鳄鱼" />
-  <key id="11000067" name="玛斯卡" />
-  <key id="11000068" name="粉色章鱼" />
-  <key id="11000069" name="囚徒" />
-  <key id="11000070" name="灯笼饿鬼" />
-  <key id="11000071" name="潮浪鱼" />
-  <key id="11000072" name="星星糖花蟹" />
-  <key id="11000073" name="爱心电鳐鱼" />
-  <key id="11000074" name="花蝾螈" />
-  <key id="12000001" name="愤怒的食人鱼" />
-  <key id="12000002" name="赤红魟鱼" />
-  <key id="12000003" name="火鲸鲨" />
-  <key id="12000004" name="熔岩鲈鱼" />
-  <key id="12000005" name="烈焰珍珠" />
-  <key id="12000006" name="红海带" />
-  <key id="12000007" name="熔岩河豚" />
-  <key id="12000008" name="龙须鱼" />
-  <key id="12000009" name="烈焰斑" />
-  <key id="12000010" name="红雷鱼" />
-  <key id="12000011" name="热乎" />
-  <key id="12000012" name="红苦鱼" />
-  <key id="12000013" name="火鱼" />
-  <key id="12000014" name="背锯鲨" />
-  <key id="12000015" name="红剑鱼" />
-  <key id="12000016" name="恶魔海马" />
-  <key id="12000017" name="巴利亚" />
-  <key id="12000018" name="海盗" />
-  <key id="12000019" name="法老海马" />
-  <key id="12000020" name="熔岩河太鱼" />
-  <key id="12000021" name="炽叶草" feature="Fishing02" />
-  <key id="12000022" name="岩浆水母" feature="Fishing02" />
-  <key id="12000023" name="熔岩鲷" feature="Fishing02" />
-  <key id="12000024" name="血腥刺球鱼" feature="Fishing02" />
-  <key id="12000025" name="熔岩独眼鱼" feature="Fishing02" />
-  <key id="13000003" name="紫蟹" />
-  <key id="13000005" name="恶魔蝾螈" />
-  <key id="13000007" name="蓝背鲸" />
-  <key id="13000009" name="天使海马" />
-  <key id="13000010" name="水独眼兽" feature="Fishing02" />
-  <key id="13000011" name="魔鬼水灵鱼" feature="Fishing02" />
-  <key id="13000012" name="幽冥鱼" feature="Fishing02" />
-  <key id="13000013" name="黑水滴鱼" feature="Fishing02" />
-  <key id="13000014" name="黑虎虾" feature="Fishing02" />
-  <key id="13000015" name="被侵蚀的埃内尔贻贝" feature="Fishing02" />
-  <key id="13000016" name="被侵蚀的埃内尔角金鱼" feature="Fishing02" />
-  <key id="13000017" name="被侵蚀的埃内尔刺鳐" feature="Fishing02" />
-  <key id="14000001" name="毒纹鱼" />
-  <key id="14000002" name="抹黑鱼" />
-  <key id="14000003" name="沼泽虾" />
-  <key id="14000004" name="岩蛤" />
-  <key id="14000005" name="毒海星" />
-  <key id="14000006" name="绿鳘鱼" />
-  <key id="14000007" name="胖胖鲈" />
-  <key id="14000008" name="笨笨鲈" />
-  <key id="14000009" name="剧毒蝴蝶鱼" />
-  <key id="14000010" name="绿乌贼" />
-  <key id="14000011" name="毒比目鱼" />
-  <key id="14000012" name="嘟嘟章鱼" />
-  <key id="14000013" name="黄螺" />
-  <key id="14000014" name="绿蛤" />
-  <key id="14000015" name="毒叶鱼" />
-  <key id="14000016" name="小悲鱼" />
-  <key id="14000017" name="剧毒章鱼" />
-  <key id="14000018" name="忐忑鱼" />
-  <key id="14000019" name="奥妙弹涂鱼" />
-  <key id="14000020" name="通红鲈鲉" />
-  <key id="14000021" name="弗洛里噗噗" />
-  <key id="14000022" name="毒枪鱼" feature="Fishing02" />
-  <key id="14000023" name="毒鲍鱼" feature="Fishing02" />
-  <key id="14000024" name="毒鲇鱼" feature="Fishing02" />
-  <key id="14000025" name="毒独眼兽" feature="Fishing02" />
-  <key id="14000026" name="毒龟足" feature="Fishing02" />
-  <key id="14000027" name="刺球鱼" feature="Fishing02" />
-  <key id="14000028" name="锯齿头" feature="Fishing02" />
-  <key id="14000029" name="尾巴头" feature="Fishing02" />
-  <key id="15000001" name="石油寄居蟹" />
-  <key id="15000002" name="皮克里奇" />
-  <key id="15000003" name="油脂扇贝" />
-  <key id="15000004" name="油脂虾" />
-  <key id="15000005" name="油脂水母" />
-  <key id="16000001" name="埃内尔贻贝" feature="Fishing02" />
-  <key id="16000002" name="埃内尔角金鱼" feature="Fishing02" />
-  <key id="16000003" name="埃内尔刺鳐" feature="Fishing02" />
-  <key id="16000004" name="裙边鱼" feature="Fishing02" />
-  <key id="16000005" name="孔雀裙边鱼" feature="Fishing02" />
-  <key id="16000006" name="歌里尼" feature="Fishing02" />
-  <key id="16000007" name="羞羞鱼" feature="Fishing02" />
-  <key id="16000008" name="优雅鱼" feature="Fishing02" />
-  <key id="16000009" name="彩虹海马" feature="Fishing02" />
-  <key id="16000010" name="城堡鱼" feature="Fishing02" />
-  <key id="99000001" name="黄金鳉鱼" />
-  <key id="99000002" name="黄金海带" />
-  <key id="99000003" name="黄金章鱼" />
-  <key id="99000004" name="黄金鲷" />
-  <key id="99000005" name="黄金海螺" />
-  <key id="99000006" name="黄金海星" />
-  <key id="99000007" name="黄金龙虾" />
-  <key id="99000008" name="黄金鲍" />
-  <key id="99000009" name="黄金龟" />
-  <key id="99000010" name="黄金海马" />
-  <key id="99000011" name="黄金贝" />
-  <key id="99000012" name="黄金鲸鱼" />
-  <key id="99000013" name="发光的黄金鳉鱼" />
-  <key id="99000014" name="发光的黄金海带" />
-  <key id="99000015" name="发光的黄金章鱼" />
-  <key id="99000016" name="发光的黄金鲷" />
-  <key id="99000017" name="发光的黄金海螺" />
-  <key id="99000018" name="发光的黄金海星" />
-  <key id="99000019" name="发光的黄金龙虾" />
-  <key id="99000020" name="发光的黄金鲍" />
-  <key id="99000021" name="发光的黄金龟" />
-  <key id="99000022" name="发光的黄金海马" />
-  <key id="99000023" name="发光的黄金贝" />
-  <key id="99000024" name="发光的黄金鲸鱼" />
-  <key id="99000025" name="STRINGFISHNAME_99000025_NAME:[F]Develop" feature="Develop" />
-  <key id="99000026" name="STRINGFISHNAME_99000026_NAME:[F]Develop" feature="Develop" />
+	<key id="10000001" name="鲫鱼" />
+	<key id="10000002" name="高身鲫" />
+	<key id="10000003" name="食人鱼" />
+	<key id="10000004" name="鳑鲏鱼" />
+	<key id="10000005" name="黑鳍鳈" />
+	<key id="10000006" name="斑纹沙塘鳢" />
+	<key id="10000007" name="岩鱼" />
+	<key id="10000008" name="鳉鱼" />
+	<key id="10000009" name="桃花鱼" />
+	<key id="10000010" name="鲇鱼" />
+	<key id="10000011" name="蓝鳃太阳鱼" />
+	<key id="10000012" name="鲑鱼" />
+	<key id="10000013" name="河川鲑鱼" />
+	<key id="10000014" name="蝾螈" />
+	<key id="10000015" name="斑纹蝾螈" />
+	<key id="10000016" name="皮皮虾" />
+	<key id="10000017" name="条纹皮皮虾" />
+	<key id="10000018" name="大嘴鲈鱼" />
+	<key id="10000019" name="黑鱼" />
+	<key id="10000020" name="桂鱼" />
+	<key id="10000021" name="泥鳅" />
+	<key id="10000022" name="斑纹小泥鳅" />
+	<key id="10000023" name="臼齿肛鳍鱼" />
+	<key id="10000024" name="尖头鱥" />
+	<key id="10000025" name="叶鱼" />
+	<key id="10000026" name="麦穗鱼" />
+	<key id="10000027" name="锦鲤" />
+	<key id="10000028" name="白三色锦鲤" />
+	<key id="10000029" name="白别光锦鲤" />
+	<key id="10000030" name="金色锦鲤" />
+	<key id="10000031" name="珍珠魟鱼" />
+	<key id="10000032" name="鲟鱼" />
+	<key id="10000033" name="鳗鱼" />
+	<key id="10000034" name="硬壳鲷" />
+	<key id="10000035" name="星星亲嘴鱼" />
+	<key id="10000036" name="飞眼鲷" />
+	<key id="10000037" name="锦尾鱼" />
+	<key id="10000038" name="菜花龟" />
+	<key id="10000039" name="安腔棘鱼" />
+	<key id="10000040" name="机械鲨鱼" />
+	<key id="10000041" name="蓝果冻虾" feature="Fishing02" />
+	<key id="10000042" name="哭哭鱼" feature="Fishing02" />
+	<key id="10000043" name="浮萍" feature="Fishing02" />
+	<key id="10000044" name="黄鳜鱼" feature="Fishing02" />
+	<key id="10000045" name="凤眼莲" feature="Fishing02" />
+	<key id="10000046" name="鲜叶鱼" feature="Fishing02" />
+	<key id="10000047" name="开花鱼-旺" feature="Fishing02" />
+	<key id="10000048" name="开花鱼-蒙" feature="Fishing02" />
+	<key id="10000049" name="蓝叶水母" feature="Fishing02" />
+	<key id="10000050" name="粉叶水母" feature="Fishing02" />
+	<key id="10000051" name="弓鱼" feature="Fishing02" />
+	<key id="10000052" name="蓝天使鱼" feature="Fishing02" />
+	<key id="10000053" name="粉斑水母" feature="Fishing02" />
+	<key id="10000054" name="银杏叶鳐鱼" feature="Fishing02" />
+	<key id="10000055" name="水灵鱼" feature="Fishing02" />
+	<key id="10000056" name="宝石鱼" feature="Fishing02" />
+	<key id="10000057" name="波波斯鱼" />
+	<key id="11000001" name="黑色蝴蝶鱼" />
+	<key id="11000002" name="鞍斑蝴蝶鱼" />
+	<key id="11000003" name="蝴蝶鱼" />
+	<key id="11000004" name="条石鲷" />
+	<key id="11000005" name="黑鲷" />
+	<key id="11000006" name="黄鲷" />
+	<key id="11000007" name="大眼鲷" />
+	<key id="11000008" name="六斑刺鲀" />
+	<key id="11000009" name="黄鳍东方鲀" />
+	<key id="11000010" name="河豚" />
+	<key id="11000011" name="海豚" />
+	<key id="11000012" name="虎鲸" />
+	<key id="11000013" name="黑背鲸" />
+	<key id="11000014" name="魟鱼" />
+	<key id="11000017" name="大白鲨" />
+	<key id="11000018" name="灰鲭鲨" />
+	<key id="11000019" name="鲸鲨" />
+	<key id="11000020" name="双髻鲨" />
+	<key id="11000021" name="青花鱼" />
+	<key id="11000022" name="飞鱼" />
+	<key id="11000023" name="带鱼" />
+	<key id="11000025" name="鲣鱼" />
+	<key id="11000026" name="鹰石首鱼" />
+	<key id="11000027" name="鲻鱼" />
+	<key id="11000028" name="枪鱼" />
+	<key id="11000029" name="鳀鱼" />
+	<key id="11000030" name="雷鱼" />
+	<key id="11000031" name="墨鱼" />
+	<key id="11000032" name="乌贼" />
+	<key id="11000033" name="章鱼" />
+	<key id="11000034" name="竹夹鱼" />
+	<key id="11000035" name="沙丁鱼" />
+	<key id="11000036" name="鲂鱼" />
+	<key id="11000037" name="短刺鲈" />
+	<key id="11000038" name="东洋鲈" />
+	<key id="11000039" name="比目鱼" />
+	<key id="11000040" name="鼠鱼" />
+	<key id="11000041" name="寄居蟹" />
+	<key id="11000042" name="海虾" />
+	<key id="11000043" name="毛虾" />
+	<key id="11000044" name="花蟹" />
+	<key id="11000045" name="海马" />
+	<key id="11000046" name="海龟" />
+	<key id="11000047" name="老鼠斑" />
+	<key id="11000048" name="弹涂鱼" />
+	<key id="11000049" name="六线鱼" />
+	<key id="11000050" name="石斑鱼" />
+	<key id="11000051" name="海参" />
+	<key id="11000052" name="海胆" />
+	<key id="11000053" name="蓝海星" />
+	<key id="11000054" name="海星" />
+	<key id="11000055" name="海蜇" />
+	<key id="11000056" name="海肠" />
+	<key id="11000057" name="喇叭螺" />
+	<key id="11000058" name="海带" />
+	<key id="11000059" name="鲈鲉" />
+	<key id="11000060" name="鲍鱼" />
+	<key id="11000061" name="海鞘" />
+	<key id="11000062" name="扇贝" />
+	<key id="11000063" name="花蛤" />
+	<key id="11000064" name="红蛤" />
+	<key id="11000065" name="珍珠蛤" />
+	<key id="11000066" name="蓝鳄鱼" />
+	<key id="11000067" name="玛斯卡" />
+	<key id="11000068" name="粉色章鱼" />
+	<key id="11000069" name="囚徒" />
+	<key id="11000070" name="灯笼饿鬼" />
+	<key id="11000071" name="潮浪鱼" />
+	<key id="11000072" name="星星糖花蟹" />
+	<key id="11000073" name="爱心电鳐鱼" />
+	<key id="11000074" name="花蝾螈" />
+	<key id="12000001" name="愤怒的食人鱼" />
+	<key id="12000002" name="赤红魟鱼" />
+	<key id="12000003" name="火鲸鲨" />
+	<key id="12000004" name="熔岩鲈鱼" />
+	<key id="12000005" name="烈焰珍珠" />
+	<key id="12000006" name="红海带" />
+	<key id="12000007" name="熔岩河豚" />
+	<key id="12000008" name="龙须鱼" />
+	<key id="12000009" name="烈焰斑" />
+	<key id="12000010" name="红雷鱼" />
+	<key id="12000011" name="热乎" />
+	<key id="12000012" name="红苦鱼" />
+	<key id="12000013" name="火鱼" />
+	<key id="12000014" name="背锯鲨" />
+	<key id="12000015" name="红剑鱼" />
+	<key id="12000016" name="恶魔海马" />
+	<key id="12000017" name="巴利亚" />
+	<key id="12000018" name="海盗" />
+	<key id="12000019" name="法老海马" />
+	<key id="12000020" name="熔岩河太鱼" />
+	<key id="12000021" name="炽叶草" feature="Fishing02" />
+	<key id="12000022" name="岩浆水母" feature="Fishing02" />
+	<key id="12000023" name="熔岩鲷" feature="Fishing02" />
+	<key id="12000024" name="血腥刺球鱼" feature="Fishing02" />
+	<key id="12000025" name="熔岩独眼鱼" feature="Fishing02" />
+	<key id="13000003" name="紫蟹" />
+	<key id="13000005" name="恶魔蝾螈" />
+	<key id="13000007" name="蓝背鲸" />
+	<key id="13000009" name="天使海马" />
+	<key id="13000010" name="水独眼兽" feature="Fishing02" />
+	<key id="13000011" name="魔鬼水灵鱼" feature="Fishing02" />
+	<key id="13000012" name="幽冥鱼" feature="Fishing02" />
+	<key id="13000013" name="黑水滴鱼" feature="Fishing02" />
+	<key id="13000014" name="黑虎虾" feature="Fishing02" />
+	<key id="13000015" name="被侵蚀的埃内尔贻贝" feature="Fishing02" />
+	<key id="13000016" name="被侵蚀的埃内尔角金鱼" feature="Fishing02" />
+	<key id="13000017" name="被侵蚀的埃内尔刺鳐" feature="Fishing02" />
+	<key id="14000001" name="毒纹鱼" />
+	<key id="14000002" name="抹黑鱼" />
+	<key id="14000003" name="沼泽虾" />
+	<key id="14000004" name="岩蛤" />
+	<key id="14000005" name="毒海星" />
+	<key id="14000006" name="绿鳘鱼" />
+	<key id="14000007" name="胖胖鲈" />
+	<key id="14000008" name="笨笨鲈" />
+	<key id="14000009" name="剧毒蝴蝶鱼" />
+	<key id="14000010" name="绿乌贼" />
+	<key id="14000011" name="毒比目鱼" />
+	<key id="14000012" name="嘟嘟章鱼" />
+	<key id="14000013" name="黄螺" />
+	<key id="14000014" name="绿蛤" />
+	<key id="14000015" name="毒叶鱼" />
+	<key id="14000016" name="小悲鱼" />
+	<key id="14000017" name="剧毒章鱼" />
+	<key id="14000018" name="忐忑鱼" />
+	<key id="14000019" name="奥妙弹涂鱼" />
+	<key id="14000020" name="通红鲈鲉" />
+	<key id="14000021" name="弗洛里噗噗" />
+	<key id="14000022" name="毒枪鱼" feature="Fishing02" />
+	<key id="14000023" name="毒鲍鱼" feature="Fishing02" />
+	<key id="14000024" name="毒鲇鱼" feature="Fishing02" />
+	<key id="14000025" name="毒独眼兽" feature="Fishing02" />
+	<key id="14000026" name="毒龟足" feature="Fishing02" />
+	<key id="14000027" name="刺球鱼" feature="Fishing02" />
+	<key id="14000028" name="锯齿头" feature="Fishing02" />
+	<key id="14000029" name="尾巴头" feature="Fishing02" />
+	<key id="15000001" name="石油寄居蟹" />
+	<key id="15000002" name="皮克里奇" />
+	<key id="15000003" name="油脂扇贝" />
+	<key id="15000004" name="油脂虾" />
+	<key id="15000005" name="油脂水母" />
+	<key id="16000001" name="埃内尔贻贝" feature="Fishing02" />
+	<key id="16000002" name="埃内尔角金鱼" feature="Fishing02" />
+	<key id="16000003" name="埃内尔刺鳐" feature="Fishing02" />
+	<key id="16000004" name="裙边鱼" feature="Fishing02" />
+	<key id="16000005" name="孔雀裙边鱼" feature="Fishing02" />
+	<key id="16000006" name="歌里尼" feature="Fishing02" />
+	<key id="16000007" name="羞羞鱼" feature="Fishing02" />
+	<key id="16000008" name="优雅鱼" feature="Fishing02" />
+	<key id="16000009" name="彩虹海马" feature="Fishing02" />
+	<key id="16000010" name="城堡鱼" feature="Fishing02" />
+	<key id="99000001" name="黄金鳉鱼" />
+	<key id="99000002" name="黄金海带" />
+	<key id="99000003" name="黄金章鱼" />
+	<key id="99000004" name="黄金鲷" />
+	<key id="99000005" name="黄金海螺" />
+	<key id="99000006" name="黄金海星" />
+	<key id="99000007" name="黄金龙虾" />
+	<key id="99000008" name="黄金鲍" />
+	<key id="99000009" name="黄金龟" />
+	<key id="99000010" name="黄金海马" />
+	<key id="99000011" name="黄金贝" />
+	<key id="99000012" name="黄金鲸鱼" />
+	<key id="99000013" name="发光的黄金鳉鱼" />
+	<key id="99000014" name="发光的黄金海带" />
+	<key id="99000015" name="发光的黄金章鱼" />
+	<key id="99000016" name="发光的黄金鲷" />
+	<key id="99000017" name="发光的黄金海螺" />
+	<key id="99000018" name="发光的黄金海星" />
+	<key id="99000019" name="发光的黄金龙虾" />
+	<key id="99000020" name="发光的黄金鲍" />
+	<key id="99000021" name="发光的黄金龟" />
+	<key id="99000022" name="发光的黄金海马" />
+	<key id="99000023" name="发光的黄金贝" />
+	<key id="99000024" name="发光的黄金鲸鱼" />
+	<key id="99000025" name="STRINGFISHNAME_99000025_NAME:[F]Develop" feature="Develop" />
+	<key id="99000026" name="STRINGFISHNAME_99000026_NAME:[F]Develop" feature="Develop" />
 </ms2>

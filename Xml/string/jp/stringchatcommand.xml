@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="1" name="/w&#xA;/world&#xA;/ワ&#xA;/ワー&#xA;/ワールド&#xA;/ワールドメガホン" />
-  <key id="11" name="/sw&#xA;/superworld&#xA;/スーパー&#xA;/スーパーワールド&#xA;/スーパーワールドチャット" feature="SuperWorldChat" />
-  <key id="101" name="/c&#xA;/channel&#xA;/チ&#xA;/チャ&#xA;/チャンネル&#xA;/チャンネルメガホン" />
-  <key id="201" name="/s&#xA;/space&#xA;/ち&#xA;/地&#xA;/地域" />
-  <key id="301" name="/p&#xA;/party&#xA;/pt&#xA;/パーティ" />
-  <key id="401" name="/g&#xA;/guild&#xA;/ギ&#xA;/ギル&#xA;/ギルド" />
-  <key id="501" name="/guildmegaphone&#xA;/ギルドメガホン" />
-  <key id="601" name="/r&#xA;/whisper&#xA;/さ&#xA;/ささ&#xA;/ささや&#xA;/ささやき" />
-  <key id="701" name="/クラブ&#xA;/club" feature="Club" />
-  <key id="10001" name="/パーティ招待&#xA;/partyInvite&#xA;/pInvite" />
-  <key id="11001" name="/パーティ脱退&#xA;/partyLeave&#xA;/pLeave" />
-  <key id="12001" name="/パーティ準備確認" />
-  <key id="20001" name="/ギルド招待&#xA;/guildInvite&#xA;/gInvite" />
-  <key id="21001" name="/ギルド脱退&#xA;/guildLeave&#xA;/gLeave" />
-  <key id="30001" name="/検索&#xA;/search" />
-  <key id="40001" name="/チャンネル移動&#xA;/moveChannel" />
-  <key id="40002" name="/前のチャンネル&#xA;/movePrevChannel" />
-  <key id="40003" name="/次のチャンネル&#xA;/moveNextChannel" />
-  <key id="50001" name="/家に招待&#xA;/HomeInvite" />
-  <key id="60001" name="/roll" />
-  <key id="70001" name="/survey" />
-  <key id="80001" name="/HostAlarm" feature="UGCMapFun" />
-  <key id="80002" name="/HostTombstone" feature="UGCMapFun" />
-  <key id="80003" name="/HostRevive" feature="UGCMapFun" />
-  <key id="80004" name="/HostKick" feature="UGCMapFun" />
-  <key id="80005" name="/HostGravity" feature="UGCMapFun" />
-  <key id="80006" name="/HostBall" feature="UGCMapFun" />
-  <key id="80007" name="/Card" feature="UGCMapFun" />
-  <key id="80008" name="/RandomUser" feature="UGCMapFun" />
-  <key id="80009" name="/RandomGroup" feature="UGCMapFun" />
-  <key id="9999991" name="/help&#xA;/?&#xA;/h" />
+	<key id="1" name="/w&#xA;/world&#xA;/ワ&#xA;/ワー&#xA;/ワールド&#xA;/ワールドメガホン" />
+	<key id="11" name="/sw&#xA;/superworld&#xA;/スーパー&#xA;/スーパーワールド&#xA;/スーパーワールドチャット" feature="SuperWorldChat" />
+	<key id="101" name="/c&#xA;/channel&#xA;/チ&#xA;/チャ&#xA;/チャンネル&#xA;/チャンネルメガホン" />
+	<key id="201" name="/s&#xA;/space&#xA;/ち&#xA;/地&#xA;/地域" />
+	<key id="301" name="/p&#xA;/party&#xA;/pt&#xA;/パーティ" />
+	<key id="401" name="/g&#xA;/guild&#xA;/ギ&#xA;/ギル&#xA;/ギルド" />
+	<key id="501" name="/guildmegaphone&#xA;/ギルドメガホン" />
+	<key id="601" name="/r&#xA;/whisper&#xA;/さ&#xA;/ささ&#xA;/ささや&#xA;/ささやき" />
+	<key id="701" name="/クラブ&#xA;/club" feature="Club" />
+	<key id="10001" name="/パーティ招待&#xA;/partyInvite&#xA;/pInvite" />
+	<key id="11001" name="/パーティ脱退&#xA;/partyLeave&#xA;/pLeave" />
+	<key id="12001" name="/パーティ準備確認" />
+	<key id="20001" name="/ギルド招待&#xA;/guildInvite&#xA;/gInvite" />
+	<key id="21001" name="/ギルド脱退&#xA;/guildLeave&#xA;/gLeave" />
+	<key id="30001" name="/検索&#xA;/search" />
+	<key id="40001" name="/チャンネル移動&#xA;/moveChannel" />
+	<key id="40002" name="/前のチャンネル&#xA;/movePrevChannel" />
+	<key id="40003" name="/次のチャンネル&#xA;/moveNextChannel" />
+	<key id="50001" name="/家に招待&#xA;/HomeInvite" />
+	<key id="60001" name="/roll" />
+	<key id="70001" name="/survey" />
+	<key id="80001" name="/HostAlarm" feature="UGCMapFun" />
+	<key id="80002" name="/HostTombstone" feature="UGCMapFun" />
+	<key id="80003" name="/HostRevive" feature="UGCMapFun" />
+	<key id="80004" name="/HostKick" feature="UGCMapFun" />
+	<key id="80005" name="/HostGravity" feature="UGCMapFun" />
+	<key id="80006" name="/HostBall" feature="UGCMapFun" />
+	<key id="80007" name="/Card" feature="UGCMapFun" />
+	<key id="80008" name="/RandomUser" feature="UGCMapFun" />
+	<key id="80009" name="/RandomGroup" feature="UGCMapFun" />
+	<key id="9999991" name="/help&#xA;/?&#xA;/h" />
 </ms2>

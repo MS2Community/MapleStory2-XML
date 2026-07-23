@@ -315,7 +315,7 @@
 	<key id="$s_gameoption_reset_interface" value="Restore Default Layout" />
 	<key id="$s_gameoption_giveDamage" value="Damage Text" />
 	<key id="$s_gameoption_giveDamage_mine" value="Show Only My Damage" />
-	<key id="$s_gameoption_giveDamage_party" value="Show Party Damage" />
+	<key id="$s_gameoption_giveDamage_party" value="Show Party Damage " />
 	<key id="$s_gameoption_giveDamage_all" value="Show Everyone&apos;s Damage" />
 	<key id="$s_gameoption_takeDamage" value="Damage Taken" />
 	<key id="$s_gameoption_takeDamage_mine" value="Show Only My Damage Taken" />
@@ -387,7 +387,7 @@
 	<key id="$s_gameoption_optimizer_show_party" value="Always show party members" />
 	<key id="$s_gameoption_optimizer_show_guild" value="Always show guild members" />
 	<key id="$s_gameoption_optimizer_show_custom" value="Max characters shown" />
-	<key id="$s_gameoption_optimizer_count" value="" />
+	<key id="$s_gameoption_optimizer_count" value="Max Characters shown" />
 	<key id="$s_gameoption_optimizer_useOptimizer" value="Auto-optimization" />
 	<key id="$s_gameoption_optimizer_warning" value="Use this to keep your game experience optimized.\nIf the game becomes unstable, please\ntry disabling this option." />
 	<key id="$s_skill_title" value="Skills" />
@@ -467,7 +467,7 @@
 	<key id="$s_gamemenu_popup_levelup" value="Navigator" />
 	<key id="$s_gamemenu_popup_dailymission" value="Daily Missions" />
 	<key id="$s_gamemenu_popup_fame" value="Reputation" />
-	<key id="$s_gamemenu_popup_sky_fortress" value="Board Sky Fortress" />
+	<key id="$s_gamemenu_popup_sky_fortress" value=" Board Sky Fortress" />
 	<key id="$s_gamemenu_popup_arcade" value="Arcade" />
 	<key id="$s_gamemenu_popup_blackmarket" value="Black Market" />
 	<key id="$s_gamemenu_popup_individualbattle" value="Arena" />
@@ -547,8 +547,8 @@
 	<key id="$s_charcreate_customize" value="Customize Character" />
 	<key id="$s_charcreate_description" value="Detailed Settings Available" />
 	<key id="$s_charcreate_input_name" value="Please enter your name." />
-	<key id="$s_charcreate_male" value="" />
-	<key id="$s_charcreate_female" value="" />
+	<key id="$s_charcreate_male" value="Male" />
+	<key id="$s_charcreate_female" value="Female" />
 	<key id="$s_charcreate_category_hair" value="Hair" />
 	<key id="$s_charcreate_category_face" value="Face" />
 	<key id="$s_charcreate_category_makeup" value="Cosmetics" />
@@ -896,7 +896,7 @@
 	<key id="$s_tooltip_minimap_bgalpha" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Map Background Transparency&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdjust the transparency of the minimap&apos;s background." />
 	<key id="$s_tooltip_minimap_zoomin" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Expand Minimap&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nExpands the minimap." />
 	<key id="$s_tooltip_minimap_zoomout" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Shrink Minimap&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nShrinks the minimap." />
-	<key id="$s_tooltip_homeinfo_minimize" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Hide/Show Home &#x09;Details&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nMinimizes the Home Details window so it&apos;s out of the way. Pressing the button again will restore it." />
+	<key id="$s_tooltip_homeinfo_minimize" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Hide/Show Home &#x9;Details&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nMinimizes the Home Details window so it&apos;s out of the way. Pressing the button again will restore it." />
 	<key id="$s_tooltip_maininfo_hp" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Health&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYour character&apos;s health.\nOnce health reaches zero, the character will be stuck under a tombstone and will be unable to act.\nHealth regenerates naturally over time." />
 	<key id="$s_tooltip_maininfo_sp" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Spirit&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nWithout enough spirit, you will not be able to use skills.\nSpirit naturally regenerates over time." />
 	<key id="$s_tooltip_maininfo_ep" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Stamina&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOnce your stamina runs out, you won&apos;t be able to use action skills that require stamina. The stamina bar has 6 parts which each represent 20 units. Stamina naturally regenerates over time." />
@@ -1113,7 +1113,7 @@
 	<key id="$s_gamemenu_arena" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Personal Arena&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nApply to compete in arenas and fight other characters." />
 	<key id="$s_gamemenu_petinfo" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pet Info&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView details about your summoned pet." />
 	<key id="$s_gamemenu_apartment" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Golden Estates Recommended Apartments&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nGolden Estates Realty highly recommends these ridiculously popular apartments!\nYou can move into these apartments right away.\nYou can even sign the contracts right here, without going all the way to the apartments!\nSign a contract today!" />
-	<key id="$s_msgbox_cnt" value="" />
+	<key id="$s_msgbox_cnt" value="Individual" />
 	<key id="$s_msgbox_addsome1" value="+1" />
 	<key id="$s_msgbox_addsome2" value="+10" />
 	<key id="$s_msgbox_addsome3" value="+100" />
@@ -1822,7 +1822,7 @@
 	<key id="$s_mesoMarket_buy_product" value="Purchase" />
 	<key id="$s_mesoMarket_current_meso" value="Current Mesos" />
 	<key id="$s_mesoMarket_search_sale_meso" value="Meso Amount" />
-	<key id="$s_mesoMarket_search_sale_meso" value="Meso Price" locale="NA" feature="MesoMarketNA" />
+	<key id="$s_mesoMarket_search_sale_meso" value="Meso Price" feature="MesoMarketNA" locale="NA" />
 	<key id="$s_mesoMarket_own_product_expired" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;This item&apos;s listing has expired. Click &apos;Retrieve&apos; to get it back.&lt;/FONT&gt;" />
 	<key id="$s_mesoMarket_own_product" value="&lt;FONT color=&apos;#FFD200&apos;&gt;(This is your listing.)&lt;/FONT&gt;" />
 	<key id="$s_mesoMarket_myMerat" value="My Merets" />
@@ -1873,7 +1873,7 @@
 	<key id="$s_smart_recommend_billing_cancel" value="Cancel" />
 	<key id="$s_smart_recommend_billing_title" value="Bill" />
 	<key id="$s_smart_recommend_billing_price" value="Price:" />
-	<key id="$s_smart_recommend_billing_price_num" value="" />
+	<key id="$s_smart_recommend_billing_price_num" value="Individual" />
 	<key id="$s_guidemovie_title" value="Mouse Guide" />
 	<key id="$s_monster_peak_text_peak" value="The power of darkness grows." />
 	<key id="$s_monster_peak_text_peace" value="Lapenta&apos;s power grows." />
@@ -2111,7 +2111,7 @@
 	<key id="$s_meratmarketreg_tooltip_input_price" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Sale Price&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEnter the price per unit for your item. When the item is sold, handling fees will be deducted from this price. Fees are rounded up to the nearest whole number. You can check your total earnings under the My Shop tab." />
 	<key id="$s_meratmarketreg_tooltip_input_itemdesc" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Item Description&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdd a description for your item listing! This description will only be displayed within the meret market." />
 	<key id="$s_meratmarketreg_tooltip_input_itemtag" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Tags&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdd search keywords to help players find your item." />
-	<key id="$s_meratmarketreg_tooltip_check_ad" value='&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Promote Item&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOne of your promoted items will be chosen at random to be featured under the &quot;Promoted Items&quot; section of the Meret Market&apos;s Design Shop.' />
+	<key id="$s_meratmarketreg_tooltip_check_ad" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Promote Item&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOne of your promoted items will be chosen at random to be featured under the &quot;Promoted Items&quot; section of the Meret Market&apos;s Design Shop." />
 	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Listing Fee&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThe fee varies depending on the number of currently listed items." />
 	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Listing Fee&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThis is the fee for listing items. The fee varies depending on the number of currently listed items. This fee will not be refunded if your item gets deleted for violating the ToS." locale="NA" />
 	<key id="$s_meratmarketreg_tooltip_btn_period" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Sale Duration&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nWhen the sale duration ends, your listed item will be removed from the Design Shop." />
@@ -2227,7 +2227,7 @@
 	<key id="$s_token_pocket_meso_market_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Meso Tokens&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCurrency used in the Black Market to purchase mesos. Click the Help button in the Black Market to find out how to purchase Meso Tokens." feature="MesoMarketToken" />
 	<key id="$s_nametag_symbol_title" value="Insignia Settings" />
 	<key id="$s_msgbox_ugc_turms_title" value="Please review the guidelines below before using User Generated Content." />
-	<key id="$s_msgbox_ugc_turms_content" value='&lt;FONT color=&apos;#FFD200&apos; &gt;In the event the following guidelines conflict with the UGC Policy, the terms of the UGC Policy will prevail.&lt;/FONT&gt;\n&lt;b&gt;Be Original&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• You may only upload and share content that is your own work.\n• You may not use logos or trademarks belonging to someone else in your work.\n• Although some content you may find on the Internet has been designated as available for use in &quot;derivative works&quot; or &quot;for personal use,&quot; or &quot;use for nonprofit purposes,&quot; you may not use this content in your UGC for MapleStory 2 or any Nexon service. UGC submitted or uploaded to MapleStory 2 does not qualify as personal or non-profit use.\n• Do not upload or share the designs or logos of others—even if you have modified the design or logo.\n• While it is fine to be inspired by existing work created by other users, it is not okay to copy someone else&apos;s work. Create your own UGC. Be original.\n• You may not describe or tag your UGC with words or language that identifies it as a specific character, trademark or brand name.&lt;/textformat&gt;\n&lt;b&gt;Be Respectful&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• You may not use images of real people—even if the images are of yourself, your friends or famous people—for any UGC including Outfits and other items, Displays, Guild Emblems, Housing or Character Portraits.\n• You may not upload or share any content that is offensive, suggestive, harassing, abusive, degrading, hateful, political, religious or violent.&lt;/textformat&gt;' />
+	<key id="$s_msgbox_ugc_turms_content" value="&lt;FONT color=&apos;#FFD200&apos; &gt;In the event the following guidelines conflict with the UGC Policy, the terms of the UGC Policy will prevail.&lt;/FONT&gt;\n&lt;b&gt;Be Original&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• You may only upload and share content that is your own work.\n• You may not use logos or trademarks belonging to someone else in your work.\n• Although some content you may find on the Internet has been designated as available for use in &quot;derivative works&quot; or &quot;for personal use,&quot; or &quot;use for nonprofit purposes,&quot; you may not use this content in your UGC for MapleStory 2 or any Nexon service. UGC submitted or uploaded to MapleStory 2 does not qualify as personal or non-profit use.\n• Do not upload or share the designs or logos of others—even if you have modified the design or logo.\n• While it is fine to be inspired by existing work created by other users, it is not okay to copy someone else&apos;s work. Create your own UGC. Be original.\n• You may not describe or tag your UGC with words or language that identifies it as a specific character, trademark or brand name.&lt;/textformat&gt;\n&lt;b&gt;Be Respectful&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• You may not use images of real people—even if the images are of yourself, your friends or famous people—for any UGC including Outfits and other items, Displays, Guild Emblems, Housing or Character Portraits.\n• You may not upload or share any content that is offensive, suggestive, harassing, abusive, degrading, hateful, political, religious or violent.&lt;/textformat&gt;" />
 	<key id="$s_msgbox_ugc_turms_detail_view" value="View UGC Warnings" />
 	<key id="$s_msgbox_ugc_turms_ok" value="Agree and Start" />
 	<key id="$s_msgbox_ugc_turms_center_homepage" value="View Full Policy" />
@@ -2238,7 +2238,7 @@
 	<key id="$s_partysearch_btn_modify_partysearch" value="Cancel Join Request" />
 	<key id="$s_partysearch_btn_modify_memebersearch" value="Cancel Recruitment Request" />
 	<key id="$s_partysearch_btn_refresh" value="Refresh" />
-	<key id="$s_partysearch_text_ask_chief" value="" />
+	<key id="$s_partysearch_text_ask_chief" value="Party Leader Inquiry" />
 	<key id="$s_partysearch_btn_whisper" value="Whisper" />
 	<key id="$s_partysearch_btn_join_party" value="Join Party" />
 	<key id="$s_partysearch_btn_invite" value="Invite to party" />
@@ -2294,7 +2294,7 @@
 	<key id="$s_enchantscroll_ok" value="Use" />
 	<key id="$s_global_portal_enter" value="Enter" />
 	<key id="$s_global_portal_close" value="Close" />
-	<key id="$s_quiz_footer_text" value='Go to &quot;O&quot; for true and &quot;X&quot; for false.' />
+	<key id="$s_quiz_footer_text" value="Go to &quot;O&quot; for true and &quot;X&quot; for false." />
 	<key id="$s_interior_build_title" value="Use Item" />
 	<key id="$s_interior_build_btn_use" value="Use" />
 	<key id="$s_interior_preview_detail" value="Show Details" />
@@ -2312,7 +2312,7 @@
 	<key id="$s_talk_script_reward_fame" value="{0} Reputation" />
 	<key id="$s_massiveevent_moviecounter_stage" value="Tier" />
 	<key id="$s_massiveevent_moviecounter_start" value="Start" />
-	<key id="$s_massiveevent_moviecounter_count" value="" />
+	<key id="$s_massiveevent_moviecounter_count" value="Preliminary" />
 	<key id="$s_mainplayerinfo_hp" value="Health" />
 	<key id="$s_mainplayerinfo_sp" value="Spirit" />
 	<key id="$s_mainplayerinfo_ride_off_tooltip" value="Dismount" />
@@ -2439,8 +2439,8 @@
 	<key id="$s_writemusic_text_musicscore_title_default" value="Enter song title (3-14 characters)" />
 	<key id="$s_writemusic_text_musicscore_recommand_instrument" value="Best Played On" />
 	<key id="$s_writemusic_text_notice_prepare_piano_roll" value="Enter notes into the Melody or Harmony tabs of the Music Score using the text window below.\nThe Piano Roll view will be implemented at a later date." />
-	<key id="$s_writemusic_text_info_melody" value="Melodies:" />
-	<key id="$s_writemusic_text_info_harmony" value="Harmonies:" />
+	<key id="$s_writemusic_text_info_melody" value="Melodies: " />
+	<key id="$s_writemusic_text_info_harmony" value="Harmonies: " />
 	<key id="$s_writemusic_text_info_total_musicscore_length" value="Total Notes: " />
 	<key id="$s_writemsuic_checkbox_pianoroll_realtime_update" value="Real-time Refresh" />
 	<key id="$s_writemusic_text_info_drum" value="&lt;FONT color=&apos;#C90000&apos; &gt;* The recommended instrument you selected can only play the melody.&lt;/FONT&gt;" feature="drumInstrument" />
@@ -2452,7 +2452,7 @@
 	<key id="$s_writemusic_tooltip_btn_play_start" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Preview&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nListen to the current composition.\nYou cannot edit the composition while previewing." />
 	<key id="$s_writemusic_tooltip_btn_play_pause" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pause&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPause the preview." />
 	<key id="$s_writemusic_tooltip_btn_play_stop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;End Preview&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEnd the preview and return to editing the music score." />
-	<key id="$s_writemusic_tooltip_btn_help_storybook" value='&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Music Guide&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOpens a guide book on musical composition.\nFor additional guidance, press the &quot;Web Help&quot; button.' />
+	<key id="$s_writemusic_tooltip_btn_help_storybook" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Music Guide&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOpens a guide book on musical composition.\nFor additional guidance, press the &quot;Web Help&quot; button." />
 	<key id="$s_writemusic_tooltip_btn_help_webpage" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Web Help&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOpen the music composition online tutorial." />
 	<key id="$s_writemusic_tooltip_btn_copy_to_clipboard" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Copy&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCopies the contents of the current tab to your clipboard." />
 	<key id="$s_writemusic_tooltip_btn_load_file" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Open File&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOpen a .ms2mml-formatted composition file." />
@@ -3075,7 +3075,7 @@
 	<key id="$s_ugcox_create_label_host_fee" value="Host Fee:" feature="UGCMapOX" />
 	<key id="$s_ugcox_create_button_create" value="Yes" feature="UGCMapOX" />
 	<key id="$s_ugcox_create_button_cancel" value="No" feature="UGCMapOX" />
-	<key id="$s_ugcox_title_welcome_host" value='Press &quot;Start!&quot; to begin the OX Quiz. Once it begins, new participants cannot enter.' feature="UGCMapOX" />
+	<key id="$s_ugcox_title_welcome_host" value="Press &quot;Start!&quot; to begin the OX Quiz. Once it begins, new participants cannot enter." feature="UGCMapOX" />
 	<key id="$s_ugcox_title_welcome_entry" value="Waiting for the host to begin..." feature="UGCMapOX" />
 	<key id="$s_ugcox_title_button_start" value="Start!" feature="UGCMapOX" />
 	<key id="$s_ugcox_host_title" value="Enter a question." feature="UGCMapOX" />
@@ -3205,7 +3205,7 @@
 	<key id="$s_keysetting_select_title" value="Control Presets" />
 	<key id="$s_keysetting_select_default" value="Keyboard Only" />
 	<key id="$s_keysetting_select_default_desc" value="Use the arrows keys to move." />
-	<key id="$s_keysetting_select_default_warn" value="" />
+	<key id="$s_keysetting_select_default_warn" value="(This option is recommended for optimal play.)" />
 	<key id="$s_keysetting_select_mouse" value="Mouse and Keyboard" />
 	<key id="$s_keysetting_select_mouse_desc" value="Use the mouse and WASD keys to move." />
 	<key id="$s_keysetting_select_extra" value="Default key bindings vary with control types. You can reset to the presets at any time." />
@@ -3217,7 +3217,7 @@
 	<key id="$s_maple_survival_search_message" value="Searching for match..." feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season" value="Fight for the Mushking" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season_reward" value="Reward" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_season_reward" value="Reward" locale="NA" feature="SurvivalContents01" />
+	<key id="$s_maple_survival_season_reward" value="Reward" feature="SurvivalContents01" locale="NA" />
 	<key id="$s_maple_survival_season_reward_deatil" value="Rewards are sent by mail at check-in every Thursday. Your royale level will reset at the start of the new season." feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season_reward_view" value="Season Rewards" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_survival_level" value="Royale Level" feature="SurvivalContents01" />
@@ -3239,7 +3239,7 @@
 	<key id="$s_maple_survival_not_season_rating" value="Unranked" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_result_bottom_title" value="" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_result_bottom_level_up" value="Level Up" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_open_time" value="" locale="NA" feature="SurvivalContents01" />
+	<key id="$s_maple_survival_open_time" value="" feature="SurvivalContents01" locale="NA" />
 	<key id="$s_maple_survival_active_paid_pass" value="Activate" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_level_text" value="Level Unlocked" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_reward_detail" value="This pass grants you extra rewards as you increase your royale level. Get even more rewards when you use the gold pass!" feature="SurvivalContents03" />
@@ -3253,10 +3253,10 @@
 	<key id="$s_maple_survival_mode_selector_solo_title" value="Solo" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_mode_selector_solo_desc" value="You stand &lt;FONT color=&apos;#ffd200&apos;&gt;alone&lt;/FONT&gt;. Everyone else is an enemy." feature="SurvivalContents03" />
 	<key id="$s_maple_survival_mode_selector_squad_title" value="Squad" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_mode_selector_squad_desc" value="Fight as a &lt;FONT color=&apos;#ffd200&apos;&gt;party of 2-4 players&lt;/FONT&gt;. If you queue alone, you&apos;ll be placed in a party with &lt;FONT color=&apos;#d659ff&apos;&gt;random players&lt;/FONT&gt;. Otherwise, you will be entered with your current party. If you&apos;re in a party, &lt;FONT color=&apos;#d659ff&apos;&gt;only the party leader&lt;/FONT&gt; can join the queue. " feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_squad_desc" value="Fight as a &lt;FONT color=&apos;#ffd200&apos;&gt;party of 2-4 players&lt;/FONT&gt;. If you queue alone, you&apos;ll be placed in a party with &lt;FONT color=&apos;#d659ff&apos;&gt;random players&lt;/FONT&gt;. Otherwise, you will be entered with your current party. If you&apos;re in a party, &lt;FONT color=&apos;#d659ff&apos;&gt;only the party leader&lt;/FONT&gt; can join the queue." feature="SurvivalContents03" />
 	<key id="$s_maple_survival_ui_skin_title" value="Equipped Medals" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_skin_info_tooltip" value="Equip medals to change the appearance of tails, ground mounts, and gliders during Mushking Royale matches." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_slot_name1" value="Tail " feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name1" value="Tail" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_skin_slot_name2" value="Ground Mount" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_skin_slot_name3" value="Glider" feature="SurvivalContents03" />
 	<key id="$s_maple_survival_ui_auto_item_title" value="Victory Celebration" feature="SurvivalContents03" />
@@ -3282,8 +3282,8 @@
 	<key id="$s_adventure_level_weekly_mission_title" value="Weekly Mission" feature="AdventureLevelMission" />
 	<key id="$s_adventure_level_weekly_mission_desc" value="Get rewards for increasing your prestige rank. Weekly missions reset every Friday at 00:00." feature="AdventureLevelMission" />
 	<key id="$s_world_champion_move_field" value="Go there now" />
-	<key id="$s_burning_levelup_event_desc_btn" value="KORFLASH_$S_BURNING_LEVELUP_EVENT_DESC_BTN_VALUE:[F]Event" locale="" feature="Event" />
-	<key id="$s_burning_levelup_event_desc_btn" value="Winter Burning Event" locale="NA" feature="Event" />
+	<key id="$s_burning_levelup_event_desc_btn" value="KORFLASH_$S_BURNING_LEVELUP_EVENT_DESC_BTN_VALUE:[F]Event" feature="Event" />
+	<key id="$s_burning_levelup_event_desc_btn" value="Winter Burning Event" feature="Event" locale="NA" />
 	<key id="$stormbar_meter" value="{0} m" />
 	<key id="$s_change_job_btn_exit" value="ESC" />
 	<key id="$s_change_job_btn_change" value="Rank Up!" />
@@ -3318,7 +3318,7 @@
 	<key id="$s_closet_tooltip_btn_puton" value="Equips the items saved to this set." feature="Closet" />
 	<key id="$s_closet_tooltip_btn_save" value="Saves your &lt;FONT color=&apos;#ffd200&apos;&gt;currently equipped items&lt;/FONT&gt; to this set." feature="Closet" />
 	<key id="$s_closet_tooltip_btn_clear" value="Clears all items saved to this set." feature="Closet" />
-	<key id="$s_closet_tooltip_btn_info" value='&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Using the Wardrobe&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThe wardrobe allows you to save gear or outfit sets and instantly switch between them. Simply set the tab type to either &quot;Gear&quot; or &quot;Outift&quot; and hit the &quot;Save&quot; button to save your currently equipped gear or outfits. You can equip wardrobe sets more quickly by assigning them to hotkeys! &#x0A;&#x0A;The wardrobe is unavailable while in combat. If you no longer possess an item or meet the requirements to equip it, that item will be ignored when equipping a set. If you don&apos;t see an equipped item displayed on your character, check the settings of your Transparency Badge.' feature="Closet" />
+	<key id="$s_closet_tooltip_btn_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Using the Wardrobe&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThe wardrobe allows you to save gear or outfit sets and instantly switch between them. Simply set the tab type to either &quot;Gear&quot; or &quot;Outift&quot; and hit the &quot;Save&quot; button to save your currently equipped gear or outfits. You can equip wardrobe sets more quickly by assigning them to hotkeys! &#xA;&#xA;The wardrobe is unavailable while in combat. If you no longer possess an item or meet the requirements to equip it, that item will be ignored when equipping a set. If you don&apos;t see an equipped item displayed on your character, check the settings of your Transparency Badge." feature="Closet" />
 	<key id="$s_closet_tooltip_btn_input" value="Bind a wardrobe set to a hotkey by clicking the text box and then pressing a key." feature="Closet" />
 	<key id="$s_tooltip_myinfo_closet" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Manage Wardrobe&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAssign gear and outfits into sets, so you can quickly equip them with a shortcut key!" feature="Closet" />
 	<key id="$s_reconnect_message" value="Reconnecting. ({0}/{1})" />
@@ -3341,16 +3341,16 @@
 	<key id="$s_homemenu_dialog_blueprintmode" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Enter / Exit Blueprint Designer&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDesign home layouts which can be saved as blueprints and sold to other players in the Design Shop." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_designsave" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Save&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSave your current home layout as a floor plan." />
 	<key id="$s_homemenu_dialog_designload" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Load&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nLoad a previously saved floor plan and apply it to your home." />
-	<key id="$s_homemenu_dialog_screenshot" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Take Screenshot&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nTake a screenshot of the current state of your screen, and save it to the screenshot folder." />
+	<key id="$s_homemenu_dialog_screenshot" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Take Screenshot&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nTake a screenshot of the current state of your screen, and save it to the screenshot folder. " />
 	<key id="$s_homemenu_dialog_freecamera" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Toggle Free Camera&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEnter or exit free camera mode. You cannot use free camera mode while placing furnishings." />
 	<key id="$s_homemenu_dialog_blueprintsave" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Save Floor Plan&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSave the current layout of the Blueprint Designer for future use." feature="Blueprint" />
-	<key id="$s_homemenu_dialog_homepriority" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Home Permissions&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdjust the permissions of players who visit your home." />
-	<key id="$s_homemenu_dialog_homeattribute" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Interior Settings&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdjust settings affecting the interior of your home, such as lighting, background, and camera angle." />
+	<key id="$s_homemenu_dialog_homepriority" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Home Permissions&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdjust the permissions of players who visit your home. " />
+	<key id="$s_homemenu_dialog_homeattribute" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Interior Settings&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdjust settings affecting the interior of your home, such as lighting, background, and camera angle. " />
 	<key id="$s_homemenu_dialog_homedemolish" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Clear Interior&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nRemove all furnishings placed in your home and return them to the furnishings list. If you exit your home or move furnishings while this task is in progress, the entire process may be aborted.&lt;/FONT&gt;" />
 	<key id="$s_homemenu_dialog_blueprintimport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Load Floor Plan&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nLoad a previously saved layout from the Blueprint Designer and apply it to the workspace." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintexport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Create Blueprint&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nTransform the current home layout in the Blueprint Designer into a blueprint item." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Shop for Blueprints&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView blueprints for sale in the design shop." feature="BlueprintMarket" />
-	<key id="$s_sidepopup_fieldwar_enter" value="Enter" feature="" />
+	<key id="$s_sidepopup_fieldwar_enter" value="Enter" />
 	<key id="$s_collect_item_group_event_dialog_recieve_button" value="Claim Reward" feature="Event" />
 	<key id="$s_chat_emoticon_title" value="Sticker" feature="ChatEmoticon" />
 	<key id="$s_chat_emoticon_empty_message" value="You have no stickers in your favorites." feature="ChatEmoticon" />
@@ -3405,16 +3405,16 @@
 	<key id="$s_hideandseek_msg_exp" value="Experience" />
 	<key id="$s_hideandseek_msg_reward" value="Reward" />
 	<key id="$s_hideandseek_reward_text" value="You got {0} item(s) as a reward." />
-	<key id="$s_itemgacha_dialog_single_open" value="Open One" feature="" />
-	<key id="$s_itemgacha_dialog_multi_open" value="Open 10" feature="" />
-	<key id="$s_itemgacha_dialog_probability" value="Odds" feature="" />
-	<key id="$s_itemgacha_dialog_coinshop_open" value="Coin Shop" feature="" />
-	<key id="$s_itemgacha_dialog_show_effect" value="Skip animation" feature="" />
+	<key id="$s_itemgacha_dialog_single_open" value="Open One" />
+	<key id="$s_itemgacha_dialog_multi_open" value="Open 10" />
+	<key id="$s_itemgacha_dialog_probability" value="Odds" />
+	<key id="$s_itemgacha_dialog_coinshop_open" value="Coin Shop" />
+	<key id="$s_itemgacha_dialog_show_effect" value="Skip animation" />
 	<key id="$s_mentoring_title" value="Mentoring" feature="Mentoring" />
 	<key id="$s_mentoring_shop" value="Shop" feature="Mentoring" />
 	<key id="$s_mentoring_party_request" value="Invite to party" feature="Mentoring" />
 	<key id="$s_mentoring_buff_name" value="Returning Mapler" feature="Mentoring" />
-	<key id="$s_mentoring_buff_desc" value="It&apos;s wonderful to see a returning adventurer. \nIf you have a party with a returning character and are on the same channel and map, the buff will be applied." feature="Mentoring" />
+	<key id="$s_mentoring_buff_desc" value="It&apos;s wonderful to see a returning adventurer. \nIf you have a party with a returning character and are on the same channel and map, the buff will be applied. " feature="Mentoring" />
 	<key id="$s_mentoring_mentee_coin_desc" value="Daily Mentee points earned" feature="Mentoring" />
 	<key id="$s_mentoring_mentee_mymentor" value="My Mentor" feature="Mentoring" />
 	<key id="$s_mentoring_mentee_search_mentor" value="Mentor Select" feature="Mentoring" />
@@ -3477,13 +3477,13 @@
 	<key id="$s_weddinghall_time_11" value="11:00" feature="Wedding" />
 	<key id="$s_gamemenu_btn_wedding" value="Marriage" feature="Wedding" />
 	<key id="$s_ugc_image_title_wedding_profile" value="Profile Settings" feature="Wedding" />
-	<key id="$s_tooltip_ugcupload_wedding_profile_apply" value="&lt;FONT color='#FFD200' size='15' &gt;Register&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nSet the selected image as your wedding portrait." feature="Wedding" />
+	<key id="$s_tooltip_ugcupload_wedding_profile_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Register&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSet the selected image as your wedding portrait." feature="Wedding" />
 	<key id="$s_weddinghall_reservation_title" value="Wedding reservation" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_warn" value="Please Note" feature="Wedding" />
-	<key id="$s_weddinghall_reservation_warn_tooltip" value="※We reserve the start time of marriages. Reservations can be made every hour, and you can enter 5 minutes before or after the start.\n\n※A marriage will be automatically cancelled if the two people who will be married come within 5 minutes before or after the wedding reservation time and do not talk to the wedding officiator to start the wedding. In this case, the cost used for the reservation will not be refunded and all guests who have entered will be removed.\n\n※Changes or cancellations of wedding reservations can only be made up to three hours prior the wedding&apos;s start. Depending on the time of day, the wedding favors will change appearance. Please be aware of this when selecting the time you would like to reserve.\n&lt;font color='#FF5F5F'&gt;\n\n※The character who makes the wedding reservation pays the fee. If a wedding fee is refunded due to reservation cancellation, we will refund the amount spent to the character who paid the fee.&lt;/font&gt;\n\n&lt;font color='#FF5F5F'&gt;※If a wedding is automatically cancelled due to special times when the game cannot be accessed (including game maintenance), merets used for marriage reservations will be refunded, which may take up to a week.&lt;/font&gt;&quot;" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_warn_tooltip" value="※Reserve the start time of marriages. Reservations can be made every hour, and you can enter 5 minutes before or after the start.\n\n※A marriage will be automatically cancelled if the two people who will be married come within 5 minutes before or after the wedding reservation time and do not talk to the wedding officiator to start the wedding. In this case, the cost used for the reservation will not be refunded and all guests who have entered will be removed.\n\n※Changes or cancellations of wedding reservations can only be made up to three hours prior the wedding&apos;s start. Depending on the time of day, the wedding favors will change appearance. Please be aware of this when selecting the time you would like to reserve.\n&lt;font color=&apos;#FF5F5F&apos;&gt;\n\n※The character who makes the wedding reservation pays the fee. If a wedding fee is refunded due to reservation cancellation, we will refund the amount spent to the character who paid the fee.&lt;/font&gt;\n\n&lt;font color=&apos;#FF5F5F&apos;&gt;※If a wedding is automatically cancelled due to special times when the game cannot be accessed (including game maintenance), merets used for marriage reservations will be refunded, which may take up to a week.&lt;/font&gt;&quot;" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_publicable" value="Privacy" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_public" value="Public" feature="Wedding" />
-	<key id="$s_weddinghall_reservation_private" value="Private wedding invitation only" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_private" value="Private invitation only" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_item" value="Reservation gift" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_price" value="Reservation cost" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_schedule_am" value="AM" feature="Wedding" />
@@ -3506,7 +3506,7 @@
 	<key id="$s_wedding_dialog_partner_message" value="Spouse Message" feature="Wedding" />
 	<key id="$s_wedding_dialog_my_message" value="Message I left" feature="Wedding" />
 	<key id="$s_wedding_dialog_divorce" value="Verify" feature="Wedding" />
-	<key id="$s_wedding_dialog_divorce_request_" value="I have filed for divorce." feature="Wedding" />
+	<key id="$s_wedding_dialog_divorce_request_" value="You have filed for divorce." feature="Wedding" />
 	<key id="$s_wedding_dialog_info_tooltip" value="You can click to view a description of your accumulated intimacy." feature="Wedding" />
 	<key id="$s_wedding_dialog_message_save" value="Save" feature="Wedding" />
 	<key id="$s_wedding_dialog_message_cancel" value="Cancel" feature="Wedding" />
@@ -3534,17 +3534,198 @@
 	<key id="$s_wedding_hall_list_progress" value="Wedding In Progress" feature="Wedding" />
 	<key id="$s_wedding_hall_list_desc" value="Choose a wedding to attend." feature="Wedding" />
 	<key id="$s_wedding_hall_list_enter" value="Enter" feature="Wedding" />
-	
 	<key id="$s_inventory_unlimited_enchant" value="Limit Break" feature="UnlimitedEnchant" />
-	<key id="$s_inventory_unlimited_enchant_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Limit Break&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nUnleash the hidden power in an equipment\nTransition to equipment that breaks through the limits.\nSummons Lanemone." feature="UnlimitedEnchant" />
-	<key id="$s_inventory_unlimited_enchant_disable_tooltip" value="&lt;FONT color='#FFD200' size='15' &gt;Limit Break&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nUnleash the hidden power in an equipment\nTransition to equipment that breaks through the limits." feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Limit Break&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nUnleash the hidden power in an equipment\nTransition to equipment that breaks through the limits.\nSummons Lanemone." feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Limit Break&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nUnleash the hidden power in an equipment\nTransition to equipment that breaks through the limits." feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_title" value="Equipment available for limit break" feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_notice" value="Select an equipment to limit break" feature="UnlimitedEnchant" />
-	<key id="$s_unlimited_enchant_dialog_desc" value="Extract the power hidden in equipment\nSwitch to equipment that breaks through the limits.\n&lt;font color='#ec686e'&gt;Please select an equipment item to limit break.&lt;/font&gt;\n\nLimit breaks are only possible with a +15 fire prism weapon.\nThe bonus attributes will be retained after limit breaks.\nAt limit break 10, 30, 60, and 90, a powerful ability is added." feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_desc" value="Extract the power hidden in equipment\nSwitch to equipment that breaks through the limits.\n&lt;font color=&apos;#ec686e&apos;&gt;Please select an equipment item to limit break.&lt;/font&gt;\n\nLimit breaks are only possible with a +15 fire prism weapon.\nThe bonus attributes will be retained after limit breaks.\nAt limit break 10, 30, 60, and 90, a powerful ability is added." feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_enchant" value="Limit Break" feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_retry" value="Retry" feature="UnlimitedEnchant" />
 	<key id="$s_item_merge_ingredients" value="Material Items" feature="ItemMerge" />
 	<key id="$s_item_merge_select_option_msg1" value="Select the bonus attributes you want to keep." feature="ItemMerge" />
 	<key id="$s_item_merge_select_option_msg2" value="Current attributes preserved by default." feature="ItemMerge" />
-	<key id="$s_meratmarket_text_register_notice_warning_music_score" value="&lt;FONT size=&apos;12&apos; &gt;Sheet music is sold with 20 playable uses.\nNo listing or sales fees apply." feature="UGCMarketMusicScore" />
+	<key id="$s_inventory_open_bank_tooltip_pcbang" value="-Always available as a benefit when connected from a gaming cafe." feature="PCBang" />
+	<key id="$s_gameoption_charSoundStep" value="Character Voice" />
+	<key id="$s_gameoption_singleriding" value="Pair Ground mount Ride alone" />
+	<key id="$s_worldmap_tooltip_airtaxi_ticket" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rotors Air Taxi&lt;/FONT&gt;\nTo use the Rotors Air Taxi, you need a Rotors Walkie-Talkie.,\nOne Walkie-Talkie is consumed per use.\n takes 3 Rotors Walkie-Talkies to go somewhere you haven&apos;t been yet.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Free Air taxi &lt;/FONT&gt;\nYou can use event Walkie-Talkies to move only to locations you&apos;ve wisited before.\nYou cannot travel to areas you haven&apos;t visited yet." locale="JP" />
+	<key id="$s_common_copyright" value="Copyright © 2019 NEXON Korea Corporation All Rights Reserved." locale="JP" />
+	<key id="$s_myInfo_codi" value="Style" feature="Skin2tab" />
+	<key id="$s_talkpanelsetting_notice_friend" value="Buddy notification" />
+	<key id="$s_talkpanelsetting_notice_guild" value="Guild notification" />
+	<key id="$s_talkpanelsetting_notice_party" value="Party notification" />
+	<key id="$s_talkpanelsetting_notice_mentoring" value="Mentor notification" />
+	<key id="$s_talkpanelsetting_notice_club" value="Club notification" />
+	<key id="$s_common_copyright" value="Copyright. NEXON Korea Corporation. All Right Reserved." locale="KR" />
+	<key id="$s_gameoption_tab_agreement" value="Delegation of personal information" />
+	<key id="$s_talkpanelsetting_notice_etc" value="Other notifications" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="Collect metacore by hunting, playing music, fishing, and clearing dungeons! You can obtain better attributes on Meta badges!" feature="Event" locale="CN" />
+	<key id="$s_gameoption_optimizer_show_physx" value="Show hair physics on other characters" />
+	<key id="$s_gameoption_agreement_radio_agree" value="Allow" />
+	<key id="$s_gameoption_agreement_radio_deny" value="Decline" />
+	<key id="$s_gameoption_agreement_btn_detail" value="View Details" />
+	<key id="$s_gamemenu_popup_longtermattendgift" value="Golden\nDuckyball" />
+	<key id="$s_gamemenu_popup_coupledance" value="Wedding Dance Party" locale="CN" />
+	<key id="$s_gamemenu_popup_world_champion" value="World Raid" feature="WorldChampionMushroom" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="Add Meta Badge" locale="KR" />
+	<key id="$s_buddy_tab_homeblocklist" value="Home Blocklist" />
+	<key id="$s_buddy_notice_homeblock" value="When you block someone, all characters from that account will be unable to visit your house." />
+	<key id="$s_buddy_empty_homeblock" value="No characters have been blocked." />
+	<key id="$s_dungeon_room_probability_notice" value="Includes random items" />
+	<key id="$s_dungeonSearch_submenu_worldBoss" value="World Invasion" feature="WorldBossDungeon" />
+	<key id="$s_dungeonSearch_submenu_worldBoss_tooltip" value="Stop the World Invasion." feature="WorldBossDungeon" />
+	<key id="$s_meratmarket_text_changeable_comming_soon" value="Coming Soon..." />
+	<key id="$s_meratmarket_text_changeable_remainTime" value="Time remaining: {0}" />
+	<key id="$s_meratmarket_text_changeable_nextTime" value="Next Sale: {0}" />
+	<key id="$s_meratmarket_text_changeable_extra_button_label" value="Description" />
+	<key id="$s_meratmarket_text_random_payback_check" value="Check bonus" />
+	<key id="$s_meratmarket_text_random_sale_check" value="Check discount price" />
+	<key id="$s_meratmarket_tooltip_merat_area" value="If you have both Blue and Red Merets available, the Red Merets will be consumed first." locale="JP" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_select_warning" value="Socket transfers are subject to a fee and cannot be reversed." feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_success_transfer" value="Socket transfer success" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_btn_transfer" value="Move to" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_btn_restart" value="Retry" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_source_slot" value="Items to move gemstones" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_dest_slot" value="Items to be moved to gemstone" feature="ItemSocketTransfer01" />
+	<key id="$s_characterability_title" value="Traits" feature="CharacterAbility" />
+	<key id="$s_characterability_bottom_desc" value="You can learn traits by investing points." feature="CharacterAbility" />
+	<key id="$s_characterability_reset_button" value="Reset" feature="CharacterAbility" />
+	<key id="$s_characterability_point_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;Characteristic Points&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThis is a point that can be used to learn characteristics.\nFrom level 50, you can earn 1 point each time you level up.\nEach time you learn a characteristic, 1 point will be deducted.\nInvest your points in the desired characteristics and learn them.\n&lt;FONT color=&apos;#909090&apos;&gt;The selected characteristic can be reset using the [Reset] button.\nHowever, after resetting a characteristic, you must wait a certain amount of time before you can reset it again.&lt;/font&gt;" feature="CharacterAbility" />
+	<key id="$s_bluemarble_title" value="Open Commemorative Marvel" locale="JP" />
+	<key id="$s_bluemarble_tag_trap" value="Prison" />
+	<key id="$s_vip_dialog_benefit_desc" value=" ◆ You will receive an additional 20% experience and mesos when hunting monsters.\n ◆ Materials used for Ophelia enchantments are 20% off.\n ◆ The 1:1 mesos trading fee and merit resurrection cost are 50% off.\n ◆ Character movement speed increases by 5%. (Excluding PVP areas)\n ◆ You can access the bank vault anytime and anywhere through the inventory window.\n ◆ Exclusive dungeons and marks for the Premium Club are available.\n ◆ Exclusive items such as special white potions for the Premium Club are provided daily." locale="CN" />
+	<key id="$s_mastery_dialog_slot_category" value="Type" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_slot_category_1" value="One hand" feature="MagicScroll01" />
+	<key id="$s_item_merge_select_option" value="Apply Attributes" />
+	<key id="$s_gallery_title" value="Spring Welcome Shwanda Gallery" feature="23_04" />
+	<key id="$s_gallery_desc_1" value="Until maintenance on February 9, 2023!" />
+	<key id="$s_gallery_desc_1" value="Until maintenance on May 11, 2023!" feature="23_04" />
+	<key id="$s_couple_dance_event_dialog_title" value="Wedding Dance Party" locale="CN" />
+	<key id="$s_gamemode_select_sub_title_rpg" value="Write Your Own Tale" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_royale" value="Be the Last Hero Standing" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_royale" value="Levels? Jobs? Gear? None of it matters in Mushking Royale! With only your own skill and your teammates to rely on, can you survive in the massive free-for-all battles on the fields of Mushtopia?" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_tooltip_royale" value="&amp;lt;p align=&apos;center&apos;&amp;gt;&amp;lt;font size=&apos;30&apos;&amp;gt;Reserve Your Name for Official Launch Today!&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gallery_desc_1" value="Until maintenance on January 10, 2019!" locale="CN" />
+	<key id="$s_maple_survival_open_time" value="Operating hours: 5 PM to 11 PM" feature="SurvivalContents01" locale="CN" />
+	<key id="$s_bluemarble_title" value="Winter Marvel" locale="CN" />
+	<key id="$s_world_champion_title" value="World Raid - Mushking" feature="WorldChampionMushroom" />
+	<key id="$s_world_champion_explain1" value="Mushking appears on all channels at the same time &lt;FONT color=&apos;#00a2ed&apos;&gt; and shares a single HP &lt;/FONT&gt;.\nThe more adventurers work together to defeat Mushking, the stronger Mushking will become.\nMushking can only attack when using &lt;FONT color=&apos;#00a2ed&apos;&gt;spore blocking cream&lt;/FONT&gt;." feature="WorldChampionMushroom" />
+	<key id="$s_maple_survival_open_time" value="Operating hours: 5 PM to 11 PM" feature="SurvivalContents01" locale="KR" />
+	<key id="$s_collect_item_group_event_dialog_title" value="Add Meta Badge " feature="Event" locale="KR" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="Add Meta Badge" feature="Event" locale="CN" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="Add Meta Badge" feature="GemMeta" locale="JP" />
+	<key id="$s_myInfo_screenshot" value="Character Screenshot" feature="ScreenshotWebSend" />
+	<key id="$s_gamemode_select_desc_rpg" value="The whole of Maple World spreads out before you. Will you vanquish vile monsters in grand dungeons? Compete against your friends in a multitude of mini-games? Design your own fashion line? The possibilities are endless, play your way!" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_mentoring_mentee_party_reward" value="◆ Earn Mentee Points by logging in daily\n◆ Earn 50 Mentee Points for clearing Adventure [Normal] dungeons\n◆ Earn 100 Mentee Points for clearing Adventure [Hard] dungeons\n◆ Earn 200 Mentee Points for clearing Chaos Raid dungeons\n◆ Earn 100 Mentee Points for clearing Event dungeons" feature="Mentoring" locale="JP" />
+	<key id="$s_lead_skill_dialog_char_unlimited_level" value="Limit Break {0} Level" />
+	<key id="$s_mentoring_mentor_party_reward" value="◆ Earn 10 mentor points for clearing a dungeon with a mentee [Normal/Hard]\n◆ Earn 10 mentor points for clearing a Chaos Raid dungeon with a mentee\n◆ Earn 10 mentor points for clearing an event dungeon with a mentee\n◆ Earn 10% of the original mentor points when clearing a dungeon [Normal/Hard], Chaos Raid, or event dungeon with a returning character instead of a mentee." feature="Mentoring" locale="JP" />
+	<key id="$s_bluemarble_warning" value="Rolling the dice costs 1 Snowflake Coin." feature="Event" locale="CN" />
+	<key id="$s_itemsocketsystem_gemstoneswap_retry_btn" value="Retry" feature="ItemSocketSystem" />
+	<key id="$s_mastery_dialog_slot_category_5" value="Top" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_slot_category_6" value="Bottom" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category" value="Grade" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category_1" value="Epic" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category_2" value="Legendary" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category_3" value="Ascendant" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_craft_magic_scroll" value="Enchants" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_crafting_magic_scroll_meso" value="Enchantment Cost" feature="MagicScroll01" />
+	<key id="$s_dailymission_point" value="Weekly task points" feature="DailyMission" />
+	<key id="$s_dailymission_start" value="Let’s go!" feature="DailyMission" />
+	<key id="$s_dailymission_mp_start" value="0 points" feature="DailyMission" />
+	<key id="$s_gallery_desc_1" value="Until midnight on January 1, 2020!" locale="JP" />
+	<key id="$s_gamemode_select_title" value="Select a mode to play." feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_rpg" value="MapleStory 2" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_royale" value="Mushking Royale" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_bluemarble_coin_count" value="Marvel Tickets:" feature="Event" locale="CN" />
+	<key id="$s_burning_levelup_event_desc_btn" value="Burning event" feature="Event" locale="JP" />
+	<key id="$s_gameoption_category_personealinfo_agreement" value="Delegation of personal information" />
+	<key id="$s_delete_account" value="Delete account" />
+	<key id="$s_bluemarble_coin_count" value="Current Coins:" feature="Event" locale="JP" />
+	<key id="$s_home_option_text_private" value="Private" />
+	<key id="$s_itemsocketsystem_gemstoneswap_btn" value="Move" feature="ItemSocketSystem" />
+	<key id="$s_home_option_text_private_msg" value="When your home is private, other characters cannot visit your home.\nPlease change your public settings to invite other characters." />
+	<key id="$s_bluemarble_warning" value="Rolling the dice costs 1 Maple Coin." feature="Event" locale="JP" />
+	<key id="$s_gameoption_agreement_personal_info" value="Delegation of Personal Information Overseas Transmission" />
+	<key id="$s_mastery_dialog_slot_category_2" value="Dual Wield" feature="MagicScroll01" />
+	<key id="$s_dailymission_title" value="Adventure Handbook" feature="DailyMission" />
+	<key id="$s_marketbill_notice_cashshop_gift" value="Gifts sent can be checked in the recipient&apos;s cash storage." locale="KR" />
+	<key id="$s_world_champion_explain3" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Cumulative Level Rewards&lt;/FONT&gt;: Received by mail from Monday to Sunday of the following week" feature="WorldChampionMushroom" />
+	<key id="$s_gameoption_agreement_summary" value="To provide a better gaming experience, the company must provide your game logs and other information to Nexon, the developer of [MapleStory 2]. For safety, the company processes and transmits your game logs and other information in an anonymized and encrypted manner. You can exercise your rights related to personal information regarding the information received by Nexon. Please click &quot;View Details&quot; to check the specific regulations." />
+	<key id="$s_gamemenu_btn_pssbshop" value="Avatar Coin Shop" locale="JP" />
+	<key id="$s_tooltip_myinfo_tab_skin" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Skin Equipment Item&lt;/FONT&gt;  &#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;  &#xA;This is a slot where you can equip and unequip skin items. You can equip items from your inventory by right-clicking them along with the skin tab shortcut." feature="Skin2tab" />
+	<key id="$s_tooltip_myinfo_tab_codi" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Coordination Item&lt;/FONT&gt;  &#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;  &#xA;This is a slot where you can equip and unequip skin items. When worn, only the appearance of the skin is reflected on the character. You can equip items by right-clicking them in your inventory." feature="Skin2tab" />
+	<key id="$s_tooltip_myinfo_gem_meta" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Meta Badge&lt;/FONT&gt;  &#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;  &#xA;You can apply the stats granted by the meta badge to your character." feature="GemMeta" />
+	<key id="$s_tooltip_myinfo_stat_0_8" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Shield&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThis is the character&apos;s shield.\nIn general cases, the shield will be lost instead of HP." />
+	<key id="$s_tooltip_gameoption_agreement" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Personal Information Delegation&lt;/FONT&gt;  &#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;  &#xA;You can configure settings related to personal information." />
+	<key id="$s_tooltip_community_tab_homeblock" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;My House Block List&lt;/FONT&gt;  &#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;  &#xA;Shows the list of characters blocked in my house." />
+	<key id="$s_meratmarket_bill_notice_cashshop_gift" value="Gifts sent can be checked in the recipient&apos;s cash storage." locale="KR" />
+	<key id="$s_cashshop_refund" value="Items purchased directly and stored in the cash warehouse can be &lt;FONT color=&apos;#FF5F5F&apos; size=&apos;15&apos; &gt;withdrawn within 7 days&lt;/font&gt; after purchase.&lt;br&gt;&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;(However, once moved to the inventory, withdrawal is not possible.)&lt;/font&gt;" />
+	<key id="$s_cashshop_jp_cash_name" value="Points" locale="JP" />
+	<key id="$s_cashshop_jp_detail_button" value="Payment Services Act" locale="JP" />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Hobby Fruit&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can obtain it by achieving records in the Dark Stream or using the Shadow Stalks, which are weekly quest rewards. \nUse it when exchanging for special items from the Hobby Collection Fairy, Puri, at the Pillar Peak Excavation Site.\nThe Hobby Fruit will reset on the pre-announced date before the next season starts." locale="KR" />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Hobby Fruit&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can obtain it by achieving records in the Dark Stream or using the Shadow Stalks, which are weekly quest rewards. \nUse it when exchanging for special items from the Hobby Collection Fairy, Puri, at the Pillar Peak Excavation Site.\nThe Hobby Fruit will reset on the pre-announced date before the next season starts." locale="CN" />
+	<key id="$s_msgbox_ugc_shop_terms_title" value="Please check the following before using Designers UGC." locale="JP" />
+	<key id="$s_msgbox_ugc_shop_terms_content" value="Designers &lt;FONT color=&apos;#FFD200&apos; &gt;may face restrictions on game use if they violate UGC operating policies, including the following:&lt;/FONT&gt;\n● You must not include specific character or work names in designs, names, tags, descriptions, etc.\n● You must not include specific logos or trademarks in designs, names, tags, descriptions, etc.\n● You must not use distinctive design features of specific brands or works.\n● You must not include designs and content that may cause discomfort to others.\n● You must not include inappropriate content that does not fit MapleStory 2, which is for all ages." locale="JP" />
+	<key id="$s_observe_observing_center" value="You are currently watching through the central spectator camera." />
+	<key id="$s_petsystem_remakeoption_title2" value="Pet Additional Ability Fixed Material" feature="PetRemakeBlock01" />
+	<key id="$s_itemremake_scroll_notice_pet_ingredient_item" value="Please upload the fixed materials for the additional pet abilities you want to use." feature="PetRemakeBlock02" />
+	<key id="$s_itemsocketsystem_tab_socket_transfer" value="Skin Socket Transfer" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_tab_gemstone_swap" value="Gemstone Transfer" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_msg_puton_equip" value="Transferring gemstones..\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;Please select the item to transfer.&lt;/FONT&gt;" feature="ItemSocketSystem" />
+	<key id="$s_itemsocketsystem_sockettransfer_title_source_slots" value="Skin item to transfer the socket" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_title_target_slots" value="Socket to receive the skin item" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_tooltip_info_target_slots" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Item to receive socket&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;/&gt;Skin socket transfer is only possible between skins with the same number of sockets. The item receiving the skin socket must have all sockets locked." feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_puton_source" value="Expand sockets through skin socket transfer.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;Please select an item.&lt;/FONT&gt;" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_target_slots" value="Please select the skin item to transfer the socket.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Socket transfer is only possible between skin items with the same number of sockets.\n\nWhen you transfer a socket, all sockets of the transferred skin item will be changed to a locked state.\n&lt;/FONT&gt;" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_puton_target" value="Please select the skin item to receive the socket." feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_msg_gem_slots" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Please select the item to move the gemstone first.&lt;/font&gt;\nOnce you select an item, the list of gemstones that can be moved will be displayed automatically." feature="ItemSocketSystem" />
+	<key id="$s_marketbill_text_probability" value="Capture Probability Information" />
+	<key id="$s_marketbill_tooltip_probability" value="Probability information can be found on the official website." />
+	<key id="$s_mastery_dialog_slot_category_4" value="Set" feature="MagicScroll01" />
+	<key id="$s_magic_scroll_dialog_crafting_job_warn" value="This is a rune for equipment that cannot be worn." feature="MagicScroll01" />
+	<key id="$s_world_champion_explain2" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Location to obtain spore blocking cream&lt;/FONT&gt;: Attendance reward (mail)" feature="WorldChampionMushroom" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="Gather meta cores through hunting, playing music, and fishing, and complete the addition. You can have a meta badge with better stats!" feature="Event" />
+	<key id="$s_payback_dialog_title" value="Payback achievement status" feature="Payback" />
+	<key id="$s_payback_dialog_banner_chatballoon" value="Anyone can get payback just by leveling up! Join now!" feature="Payback" />
+	<key id="$s_payback_dialog_banner_subtitle" value="Maximum &lt;font color=&apos;#ec686e&apos;&gt;100%&lt;/font&gt; payback event" feature="Payback" />
+	<key id="$s_payback_dialog_predict_title" value="Current merit scheduled for payback" feature="Payback" />
+	<key id="$s_payback_dialog_status_title" value="Payback achievement status" feature="Payback" />
+	<key id="$s_payback_dialog_banner_desc" value="** The payback amount is given as a general merit with no expiration date and will be sent by mail at midnight on the 1st of the following month after the event ends.\n** You can receive payback up to 10,000 merits, and amounts purchased with game merits or event merits are excluded." feature="Payback" />
+	<key id="$s_longtermattendgift_dialog_reward" value="Reward list" />
+	<key id="$s_longtermattendgift_dialog_state" value="My status" />
+	<key id="$s_longtermattendgift_dialog_btn_attendance" value="Insert the Durky Ball" />
+	<key id="$s_longtermattendgift_dialog_current_point" value="Durky Balls not inserted" />
+	<key id="$s_longtermattendgift_dialog_possible_point" value="Open empty space" />
+	<key id="$s_random_coupon_payback_text" value="Today&apos;s merit payback!" />
+	<key id="$s_random_coupon_sale_text" value="Today&apos;s discount benefits!" />
+	<key id="$s_lead_skill_title" value="Lead Skill" />
+	<key id="$s_lead_skill_dialog_lefttop_skill_level" value="LV.{0}" />
+	<key id="$s_lead_skill_dialog_from_char" value="Receiving effects from &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:from$" />
+	<key id="$s_lead_skill_dialog_from_char_fail" value="Not receiving effects from &lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:from$" />
+	<key id="$s_meratmarket_text_register_notice_warning_music_score" value="&lt;FONT size=&apos;12&apos; &gt;The sheet music is sold in a &quot;playable 20 times&quot; state.\nThe sheet music will be exempt from registration fees and sales commissions, and the sale amount of the sheet music will not be included in the total sales amount for the month." feature="UGCMarketMusicScore" />
+	<key id="$s_dailymission_mp" value="Points" feature="DailyMission" />
+	<key id="$s_dailymission_mp_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Weekly Task Points&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can earn weekly task points by completing new daily tasks received each day. \nCollecting weekly task points allows you to receive weekly rewards.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDaily tasks automatically update at midnight every day.\nWeekly task points and weekly rewards reset at midnight every Friday." feature="DailyMission" />
+	<key id="$s_world_champion_explain4" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Ranking Rewards&lt;/FONT&gt;: Received by mail after the next maintenance" feature="WorldChampionMushroom" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Request for Help&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can request help from skilled adventurers familiar with this dungeon.\nClick the button to find skilled adventurers to play with!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Beginner Adventurer&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nNot yet familiar with playing this dungeon.\nYou can become a skilled adventurer once your dungeon clear count reaches a certain level.\n&lt;FONT color=&apos;#00AAEF&apos;&gt;- Adventure [Normal/Hard]: 10 times or more\n- Chaos Raid or higher: 30 times or more\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;However, for adventure dungeons below level 50, the clear count must be at least 50, and you will automatically become a skilled adventurer once you reach level 50." feature="FindDungeonHelp" locale="JP" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="Gather meta cores by clearing dungeons, defeating field bosses, winning mini-games, and complete the addition. It will evolve into a meta badge with better stats!" feature="GemMeta" locale="JP" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Request for Help&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can request help from skilled adventurers familiar with this dungeon.\nClick the button to find skilled adventurers to play with!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Beginner Adventurer&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nNot yet familiar with playing this dungeon.\nYou can become a skilled adventurer once your dungeon clear count reaches a certain level.\nHowever, for adventure dungeons below level 50, the clear count must be at least 50, and you will automatically become a skilled adventurer once you reach level 50." feature="FindDungeonHelp" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* After gathering all meta cores, you can receive rewards by clicking [Receive Addition Reward]." feature="Event" locale="KR" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* After gathering all meta cores, you can receive rewards by clicking [Receive Addition Reward]." feature="Event" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* After gathering all meta cores, you can receive rewards by clicking [Receive Addition Reward]." feature="GemMeta" locale="JP" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* Even if you receive the addition reward, the addition material items will not disappear." feature="Event" locale="KR" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* Even if you receive the addition reward, the addition material items will not disappear." feature="Event" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* Even if you receive the addition reward, the addition material items do not disappear." feature="GemMeta" locale="JP" />
+	<key id="$s_payback_dialog_banner_desc" value="** The payback amount is given as a regular merit with no expiration date and will be sent by mail at midnight on the 1st of the following month after the event ends.\n** You can receive a payback of up to 100,000 merits, and amounts purchased with game merits or event merits are excluded." feature="Payback" locale="CN" />
+	<key id="$s_mastery_dialog_slot_category_3" value="Two-handed" feature="MagicScroll01" />
+	<key id="$s_tooltip_myinfo_stat_1_24" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Attack Speed&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Increases attack speed." />
+	<key id="$s_tooltip_myinfo_stat_1_25" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Skill Cooldown Reduction&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReduces the cooldown times of active skills." />
+	<key id="$s_tooltip_myinfo_stat_1_26" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;PvP Damage&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Increases the damage dealt to other players." />
+	<key id="$s_tooltip_myinfo_stat_2_18" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;PvP Defense&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReduces the damage taken from other players." />
+	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Listing Fee&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThis is the fee for listing items. The fee varies depending on the number of currently listed items. This fee will not be refunded if your item gets deleted for violating the ToS." locale="JP" />
+	<key id="$s_itemsocketsystem_tab_tooltip_gemstone_swap" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Socket Transfer&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOpen locked gemstone sockets." feature="ItemSocketSystem" />
+	<key id="$s_payback_dialog_banner_title" value="Orange Mushroom Power Up Capsule" feature="Payback" />
+	<key id="$s_payback_dialog_buy_product_btn" value="Purchase" feature="Payback" />
+	<key id="$s_gamemenu_btn_payback" value="Meret Rewards" feature="Payback" />
+	<key id="$s_collect_item_group_event_dialog_title" value="Add Meta Badge" feature="Event" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_title" value="Add Meta Badge " feature="GemMeta" locale="JP" />
 </ms2>

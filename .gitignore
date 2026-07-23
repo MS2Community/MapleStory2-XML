@@ -5,3 +5,9 @@
 /WeblateConverter/obj
 /WeblateConverter/bin
 /.codex/config.toml
+
+# Contains a Weblate API token — keep local only
+.mcp.json
+
+# Cygwin/Git-Bash crash dumps
+*.stackdump

@@ -96,7 +96,6 @@
 	<key id="$s_talkpanelsetting_auth" value="Direitos de compra e utilização" />
 	<key id="$s_talkpanelsetting_notify" value="Personagens/Comunidades" />
 	<key id="$s_talkpanelsetting_user" value="Personagens" />
-	<key id="$s_talkpanelsetting_community" value="Comunidades" />
 	<key id="$s_talkpanelsetting_request" value="Trocas" />
 	<key id="$s_talkpanelsetting_system" value="Sistema" />
 	<key id="$s_talkpanelsetting_systemevent" value="Eventos" />
@@ -136,7 +135,6 @@
 	<key id="$s_inventory_slot_count" value="Espaços em Uso / Total de Espaços" />
 	<key id="$s_inventory_item_enchant" value="Encantar Itens" />
 	<key id="$s_inventory_item_enchant_transform" value="Transferir Encanto" feature="EnchantTransform01" />
-	<key id="$s_inventory_item_remakeoption" value="Alterar Atributos" />
 	<key id="$s_inventory_slot_expand" value="Expandir a Guia Atual" />
 	<key id="$s_inventory_search" value="Digite os termos da pesquisa" />
 	<key id="$s_inventory_item_break_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Desmanchar Itens&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nUse um desmanchador portátil para obter materiais úteis.\n• Equipamento Nv. 20+ -&gt; Cristais de Ônix, Cristais de Ônix do Caos" />
@@ -153,7 +151,6 @@
 	<key id="$s_inventory_item_lock_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Bloquear&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOs itens podem ser bloqueados ou desbloqueados para evitar serem perdidos acidentalmente." />
 	<key id="$s_inventory_item_merge_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Fortificação&lt;/FONT&gt;\nVocê pode adicionar atributos de fortificação ao seu equipamento usando cristais de fortificação." />
 	<key id="$s_inventory_open_bank_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Usar Cofre do Banco&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nConjura um Cofre do Banco." />
-	<key id="$s_inventory_open_bank_disable_tooltip" value="Usar Cofre do Banco\n \nConjura um Cofre do Banco." />
 	<key id="$s_inventory_open_bank_tooltip_vip" value="- Utilizável em qualquer lugar, a qualquer hora com o Serviço Premium ativo." feature="VIP" />
 	<key id="$s_inventory_item_socket_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Nichos / Gemas&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDesbloqueie nichos de item, aprimore gemas, e equipe ou remova gemas." feature="ItemSocketSystem" />
 	<key id="$s_inventory_item_socket_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Nichos / Gemas&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDesbloqueie nichos de item, aprimore gemas, e equipe ou remova gemas." feature="ItemSocketSystem" />
@@ -315,7 +312,7 @@
 	<key id="$s_gameoption_reset_interface" value="Restaurar a Disposição Padrão" />
 	<key id="$s_gameoption_giveDamage" value="Texto de Dano" />
 	<key id="$s_gameoption_giveDamage_mine" value="Exibir Somente Meu Dano" />
-	<key id="$s_gameoption_giveDamage_party" value="Exibir Dano da Equipe" />
+	<key id="$s_gameoption_giveDamage_party" value="Exibir Dano da Equipe " />
 	<key id="$s_gameoption_giveDamage_all" value="Exibir o Dano de Todos" />
 	<key id="$s_gameoption_takeDamage" value="Dano Recebido" />
 	<key id="$s_gameoption_takeDamage_mine" value="Exibir Somente Meu Dano Recebido" />
@@ -373,7 +370,6 @@
 	<key id="$s_gameoption_option_input" value="Configurações de Controle" />
 	<key id="$s_gameoption_option_user" value="Configurações Manuais" />
 	<key id="$s_gameoption_option_set_ui" value="Configurações da Interface" />
-	<key id="$s_gameoption_option_ui_scale" value="Tamanho" />
 	<key id="$s_gameoption_option_ui" value="Interface" />
 	<key id="$s_gameoption_option_ui_mydamage" value="Exibir seu dano" />
 	<key id="$s_gameoption_option_ui_otherdamage" value="Exibir o dano dos outros personagens" />
@@ -387,7 +383,6 @@
 	<key id="$s_gameoption_optimizer_show_party" value="Sempre exibir os integrantes da equipe" />
 	<key id="$s_gameoption_optimizer_show_guild" value="Sempre exibir os integrantes da guilda" />
 	<key id="$s_gameoption_optimizer_show_custom" value="Máximo de personagens exibidos" />
-	<key id="$s_gameoption_optimizer_count" value="" />
 	<key id="$s_gameoption_optimizer_useOptimizer" value="Otimização Automática" />
 	<key id="$s_gameoption_optimizer_warning" value="Use esta opção para manter sua experiência de jogo otimizada.\nSe o jogo se tornar instável,\ntente desativar esta opção." />
 	<key id="$s_skill_title" value="Habilidades" />
@@ -441,7 +436,6 @@
 	<key id="$s_quest_on" value="ON" />
 	<key id="$s_quest_off" value="OFF" />
 	<key id="$s_quest_guide_tooltip_goto_dungeon" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Entrar Sozinho&lt;/FONT&gt;\nExplore esta masmorra sozinho. Permite que você se desloque para a masmorra imediatamente a partir de sua localização atual." />
-	<key id="$s_quest_guide_tooltip_party_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Encontrar Equipe&lt;/FONT&gt;\nRecrute outros aventureiros para entrarem na masmorra com você. Em seguida, todos serão teleportados para a entrada da masmorra. Se você já tiver uma equipe, este botão vai lhe permitir recrutar mais membros.\n\nSe você quiser entrar imediatamente na masmorra com sua equipe atual, clique no botão &lt;FONT color=&apos;#45D1FF&apos;&gt;Entrar com Equipe&lt;/FONT&gt;, encontrado no verbete da masmorra no Catálogo de Masmorras." feature="DirectQuestFindParty" />
 	<key id="$s_questguide_mission_field" value="Metas de Exploração" />
 	<key id="$s_questguide_mission_dungeon" value="Nível da Missão" />
 	<key id="$s_questguide_dungeon_play_info" value="Metas da Masmorra" />
@@ -467,7 +461,7 @@
 	<key id="$s_gamemenu_popup_levelup" value="Navegador" />
 	<key id="$s_gamemenu_popup_dailymission" value="Missões Diárias" />
 	<key id="$s_gamemenu_popup_fame" value="Reputação" />
-	<key id="$s_gamemenu_popup_sky_fortress" value="Entrar na Fortaleza Celeste" />
+	<key id="$s_gamemenu_popup_sky_fortress" value=" Entrar na Fortaleza Celeste" />
 	<key id="$s_gamemenu_popup_arcade" value="Arcade" />
 	<key id="$s_gamemenu_popup_blackmarket" value="Mercado Negro" />
 	<key id="$s_gamemenu_popup_individualbattle" value="Arena" />
@@ -497,7 +491,6 @@
 	<key id="$s_gamemenu_popup_attendgift" value="Calendário de Prêmios" />
 	<key id="$s_gamemenu_popup_galleryevent" value="Galeria Festiva de Schwanda" />
 	<key id="$s_gamemenu_popup_rps" value="Pedra, Papel e Tesoura" />
-	<key id="$s_gamemenu_popup_coupledance" value="KORFLASH_$S_GAMEMENU_POPUP_COUPLEDANCE_VALUE" />
 	<key id="$s_gamemenu_popup_characterselect" value="Seleção de Personagem" />
 	<key id="$s_gamemenu_popup_end" value="Sair do Jogo" />
 	<key id="$s_gamemenu_btn_pet" value="Mascotes" />
@@ -506,17 +499,13 @@
 	<key id="$s_gamemenu_btn_mentoring" value="Mentoria" />
 	<key id="$s_gamemenu_petattack_enable" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ataque Automático do Mascote Ativado&lt;/FONT&gt;\nClique para ativar o ataque automático do mascote." />
 	<key id="$s_gamemenu_petattack_disable" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ataque Automático do Mascote Desativado&lt;/FONT&gt;\nClique para ativar o ataque automático do mascote." />
-	<key id="$s_gamemenu_popup_survival" value="Batalha do Cogurrei" feature="SurvivalContents01" />
-	<key id="$s_gamemenu_popup_mushking_royal" value="Batalha do Cogurrei" feature="SurvivalContents03" />
 	<key id="$s_gamemenu_popup_adventure_level" value="Nível de Prestígio" feature="AdventureLevel" />
 	<key id="$s_gamemenu_popup_cashAttend" value="Maravilhas Diárias" />
 	<key id="$s_gamemenu_popup_changejob" value="Subir de Nível!" />
 	<key id="$s_gamemenu_btn_lapenshard" value="Lapentitas" feature="Lapenshard01" />
 	<key id="$s_gamemenu_btn_MeratCharge" value="Comprar Merets" />
 	<key id="$s_gamemenu_btn_pssbshop" value="Loja de Moedas de Estilo" />
-	<key id="$s_gamemenu_btn_bingoevent" value="Bingo" />
 	<key id="$s_gamemenu_btn_demolish" value="Limpar o Espaço Interior" />
-	<key id="$s_gamemenu_btn_construct" value="Decoração" />
 	<key id="$s_gamemenu_btn_normal" value="Parar de Mobiliar" />
 	<key id="$s_gamemenu_btn_construct_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Começar a Construir&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPressione o comando de atalho para entrar no Modo de Construção\ne decore sua propriedade.\nSó é possível entrar nesse modo dentro da sua casa." />
 	<key id="$s_gamemenu_btn_normal_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Sair do Modo de Construção&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPressione o comando de atalho ou ESC para encerrar o Modo de Construção\ne voltar ao Modo Normal. Quando estiver no Modo Personagem,\nse sair da área de construção, seu modo será alterado automaticamente." />
@@ -547,8 +536,6 @@
 	<key id="$s_charcreate_customize" value="Personalizar Personagem" />
 	<key id="$s_charcreate_description" value="Configurações Detalhadas Disponíveis" />
 	<key id="$s_charcreate_input_name" value="Digite seu nome." />
-	<key id="$s_charcreate_male" value="" />
-	<key id="$s_charcreate_female" value="" />
 	<key id="$s_charcreate_category_hair" value="Cabelo" />
 	<key id="$s_charcreate_category_face" value="Rosto" />
 	<key id="$s_charcreate_category_makeup" value="Maquiagem" />
@@ -592,7 +579,6 @@
 	<key id="$s_worldmap_dropdown_root" value="Todos os Mundos" />
 	<key id="$s_worldmap_btn_normalworld" value="Mundo Maple" />
 	<key id="$s_worldmap_btn_shadowworld" value="Mundo Sombrio" />
-	<key id="$s_worldmap_radio_hotplace" value="Pontos Badalados" />
 	<key id="$s_worldmap_radio_recommend_map" value="Sugestões para Caça" />
 	<key id="$s_worldmap_radio_recommend_fish" value="Sugestões para Pesca" />
 	<key id="$s_worldmap_radio_quest_progress" value="Áreas de Missões" />
@@ -638,8 +624,6 @@
 	<key id="$s_minimap_friendly_npc" value="NPCs Amigáveis" />
 	<key id="$s_minimap_taming_pet" value="Monstros Capturáveis" feature="PetBattle" />
 	<key id="$s_minimap_enemy" value="Inimigos" />
-	<key id="$s_minimap_portal" value="Portais" />
-	<key id="$s_minimap_buddy" value="Amigos" />
 	<key id="$s_minimap_other_pc" value="Outros Jogadores" />
 	<key id="$s_minimap_text" value="Exibir Nomes" />
 	<key id="$s_minimap_quest_epic" value="Missões Épicas" />
@@ -726,7 +710,6 @@
 	<key id="$s_ugc_itemedit_btn_apply" value="Criar" />
 	<key id="$s_ugc_itemedit_btn_cancle" value="Cancelar" />
 	<key id="$s_ugc_itemedit_btn_newdraw" value="Novo" />
-	<key id="$s_ugc_itemedit_btn_showtext" value="Conteúdo" />
 	<key id="$s_ugc_itemedit_cb_terms" value="Li e concordo com os avisos e Termos de Serviço" />
 	<key id="$s_ugc_itemedit_cb_camera" value="Exibir Dispositivo de Foto" />
 	<key id="$s_ugc_itemedit_lb_itemname" value="Nome" />
@@ -811,7 +794,6 @@
 	<key id="$s_store_takemeso" value="Resgatar" />
 	<key id="$s_store_range" value="Ordenar" />
 	<key id="$s_store_expand" value="Expandir" />
-	<key id="$s_objectstore_title" value="Meu Depósito" />
 	<key id="$s_buddy_title" value="Amigos" />
 	<key id="$s_buddy_tab_player" value="On-line" />
 	<key id="$s_buddy_tab_list" value="Amigos" />
@@ -854,7 +836,6 @@
 	<key id="$s_systemmenu_exit" value="Sair do Jogo" />
 	<key id="$s_systemmenu_resume" value="Voltar ao Jogo" />
 	<key id="$s_systemmenu_graphic" value="Gráficos" />
-	<key id="$s_tooltip_empty" value="" />
 	<key id="$s_tooltip_remain_time" value="Segundos Restantes" />
 	<key id="$s_tooltip_first_page" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Primeira Página&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#909090&apos;&gt;Voltar para a primeira página.&lt;/FONT&gt;" />
 	<key id="$s_tooltip_prev_page" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Grupo Anterior&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVolte para o grupo de páginas anterior." />
@@ -903,10 +884,9 @@
 	<key id="$s_tooltip_messenger_add_tab" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Adicionar uma Nova Guia de Bate-papo&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAcrescenta uma nova guia de bate-papo permitindo ajustar quais mensagens serão exibidas." />
 	<key id="$s_tooltip_messenger_tab" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Guia Geral&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEsta é a guia padrão de bate-papo que exibe todas as mensagens.\n&lt;FONT size=&apos;8&apos;&gt; &lt;/FONT&gt;\n &lt;Img Src=&apos;export_common_icon_rclick&apos; vspace=&apos;-3&apos;&gt;&lt;/Img&gt; Altere a posição dela clicando e arrastando com o botão da esquerda do mouse." />
 	<key id="$s_tooltip_messenger_resize" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Redimensionar Janela de Bate-papo&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAltera o tamanho da janela de bate-papo." />
-	<key id="$s_tooltip_messenger_type" value="" />
 	<key id="$s_tooltip_myinfo_trophyPoint" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Troféus&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO número de troféus que seu personagem ganhou." />
 	<key id="$s_tooltip_myinfo_stat_itemLevel" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontuação de Equipamentos&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Esta é a soma de todos os valores de Pontuação de Equipamentos dos itens equipados pelo seu personagem. É a representação numérica do poder do seu equipamento. Algumas masmorras exigem uma Pontuação de Equipamentos mínima, mas proporcionam recompensas melhores.\n\nNote que os itens que não são usados pela mão dominante não contribuem para a Pontuação de Equipamentos. (Escudos, códices e armas de uma mão equipados no segundo espaço para arma são considerados itens de mão não dominante)." />
-	<key id="$s_tooltip_myinfo_stat_itemLevel_ohAdditional" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontuação de Equipamentos&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Esta é a soma de todos os valores de pontuação de equipamentos dos itens equipados pelo seu personagem. É a representação numérica do poder do seu equipamento. Algumas masmorras exigem uma pontuação de equipamentos mínima, mas proporcionam recompensas melhores.\n\nQuando você estiver empunhando duas armas, somente aquela com a pontuação de equipamento mais alta contribuirá para sua pontuação de equipamento total. Se a diferença entre a pontuação das armas for muito grande, sua pontuação de equipamento será penalizada com base na diferença.\n\nEscudos e códices não contribuem para sua pontuação de equipamento." feature="OHItemAdditionalLevel01" />
+	<key id="$s_tooltip_myinfo_stat_itemLevel_ohAdditional" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontuação de Equipamentos&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Esta é a soma de todos os valores de pontuação de equipamentos dos itens equipados pelo seu personagem. É a representação numérica do poder do seu equipamento. Algumas masmorras exigem uma pontuação de equipamentos mínima, mas proporcionam recompensas melhores.\n\nQuando você estiver empunhando duas armas, somente aquela com a pontuação de equipamento mais alta contribuirá para sua pontuação de equipamento total. Se a diferença entre a pontuação das armas for muito grande, sua pontuação de equipamento será penalizada com base na diferença.\n\nEscudos e códices não contribuem para sua pontuação de equipamento. " feature="OHItemAdditionalLevel01" />
 	<key id="$s_tooltip_myinfo_stat_attack" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ataque&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Este valor representa a eficácia do seu personagem em combate.\nEle é afetado pelo ataque da arma, físico e mágico, a taxa de acerto crítico e o dano crítico." />
 	<key id="$s_tooltip_myinfo_stat_defense" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Defesa &lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEsse valor representa a defesa total do seu personagem.\nEle é afetado pelos atributos de defesa do seu equipamento." />
 	<key id="$s_tooltip_myinfo_stat_attackScore" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontuação de Ataque&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Esse valor representa a eficácia do seu personagem em combate. O cálculo da pontuação se baseia em atributos como ataque da arma, ataque físico, ataque mágico, taxa de acerto crítico e dano crítico." feature="StatScore_01" />
@@ -940,7 +920,6 @@
 	<key id="$s_tooltip_myinfo_stat_0_7" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Velocidade de Movimento&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEssa é a velocidade do movimento do personagem no chão.\n100% representa uma velocidade normal e ela pode chegar a até 170%." />
 	<key id="$s_tooltip_myinfo_stat_1_0" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ataque da Arma&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO valor de ataque ao usar o equipamento.\nAumenta o dano causado nos inimigos." />
 	<key id="$s_tooltip_myinfo_stat_1_1" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Bônus de Ataque&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO bônus no poder do ataque. Aumenta o dano causado aos inimigos. Sua eficiência aumenta com a classificação da arma. Não tem efeito se nenhuma arma estiver sendo usada." />
-	<key id="$s_tooltip_myinfo_stat_1_1_kr" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Bônus de Ataque&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO bônus no poder do ataque. Aumenta o dano causado aos inimigos." />
 	<key id="$s_tooltip_myinfo_stat_1_2" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ataque Físico&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAumenta o dano causado nos inimigos pelos ataques físicos." />
 	<key id="$s_tooltip_myinfo_stat_1_3" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ataque Mágico&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAumenta o dano causado nos inimigos pelos ataques mágicos." />
 	<key id="$s_tooltip_myinfo_stat_1_4" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Perfuração&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nNos ataques, parte da defesa e do bloqueio perfeito do inimigo são ignorados." />
@@ -1092,7 +1071,6 @@
 	<key id="$s_tooltip_partysearch_check_show_similar_level" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ocultar Missões de Nível Baixo&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nExibe apenas as masmorras com nível próximo ao seu.\nDesmarque para listar todas as masmorras." />
 	<key id="$s_tooltip_partysearch_dropdown_sort_dungeon_level" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Seleção de Dificuldade&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nExibe a lista de masmorras na dificuldade selecionada.\nEntretanto, o recrutamento de aventureiros serão sempre exibido independente da dificuldade." />
 	<key id="$s_tooltip_partysearch_dropdown_sort_memeber_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ordem de Classificação&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nExibe a lista em uma ordem específica." />
-	<key id="$s_tooltip_partysearch_dropdown_sort_party_search" value="Ordem de Classificação\n \nExibe a lista em uma ordem específica." />
 	<key id="$s_tooltip_partysearch_btn_refresh_party_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Atualizar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAtualiza a lista de participação da equipe.\nDepois de atualizada, a lista voltará para a página 1." />
 	<key id="$s_tooltip_partysearch_btn_refresh_member_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Atualizar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAtualiza a lista de recrutamento da equipe.\nDepois de atualizada, a lista voltará para a página 1." />
 	<key id="$s_tooltip_partysearch_btn_register_memeber_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pedido de Recrutamento de Equipe&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPoste um pedido de recrutamento de equipe quando precisar de mais integrantes.\nOs pedidos podem especificar os aventureiros ou as dificuldades da masmorra.\nEles só podem ser postados quando você não estiver em uma equipe ou se você for o líder da equipe." />
@@ -1113,10 +1091,8 @@
 	<key id="$s_gamemenu_arena" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Arena Pessoal&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPede para competir nas arenas e lutar contra outros pesonagens." />
 	<key id="$s_gamemenu_petinfo" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Dados do Mascote&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVer detalhes sobre o mascote invocado." />
 	<key id="$s_gamemenu_apartment" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Apartamentos Recomendados pela Patrimônio Dourado&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nA Patrimônio Dourado recomenda muito esses apartamentos extremamente apreciados!\nVocê pode ir morar neles imediatamente.\nPode até assinar o contrato aqui mesmo, sem ter que ir até o apartamento!\nAssine um contrato agora!" />
-	<key id="$s_msgbox_cnt" value="" />
 	<key id="$s_msgbox_addsome1" value="+1" />
 	<key id="$s_msgbox_addsome2" value="+10" />
-	<key id="$s_msgbox_addsome3" value="+100" />
 	<key id="$s_msgbox_total" value="Total: {0}" />
 	<key id="$s_msgbox_min" value="Mín" />
 	<key id="$s_msgbox_max" value="Máx" />
@@ -1228,7 +1204,6 @@
 	<key id="$s_achieve_filter_0" value="Todos" />
 	<key id="$s_achieve_filter_1" value="Em Andamento" />
 	<key id="$s_achieve_filter_2" value="Completado(a)" />
-	<key id="$s_achieve_filter_3" value="Favoritos" />
 	<key id="$s_achieve_reward_filter_button" value="Filtrar Recompensas" />
 	<key id="$s_achieve_reward_title" value="Filtrar Troféus por Recompensas" />
 	<key id="$s_achieve_reward_filter_all" value="Todas as Recompensas" />
@@ -1248,7 +1223,6 @@
 	<key id="$s_achieve_reward_filter_etc" value="Outros" />
 	<key id="$s_achieve_reward_filter_ok" value="Confirmar" />
 	<key id="$s_achieve_reward_filter_cancel" value="Cancelar" />
-	<key id="$s_achieve_disabled" value="Compre o Pacote de Fundador para acessar este conteúdo." feature="FoundersPackMode" />
 	<key id="$s_apartment_empty" value="Não é possível mover" />
 	<key id="$s_apartment_broker" value="Está aqui para assinar um contrato?\nFale comigo!" />
 	<key id="$s_apartment_contract" value="Assinar um Contrato" />
@@ -1294,7 +1268,7 @@
 	<key id="$s_construct_slot_next" value="Próximo item" />
 	<key id="$s_revival_main" value="Você está preso embaixo de uma lápide." />
 	<key id="$s_revival_main_dark" value="Preso embaixo de uma lápide de metal." />
-	<key id="$s_construct_help_title" value="Ajuda com Mobília [A]" />
+	<key id="$s_construct_help_title" value="Ajuda com Mobília [A] " />
 	<key id="$s_construct_help_cursor_move" value="Mover o Cursor de Construção" />
 	<key id="$s_construct_help_key_input" value="Mover a Mobília" />
 	<key id="$s_construct_help_key_desc" value="(Definir comando Direcional)" />
@@ -1345,7 +1319,6 @@
 	<key id="$s_maid_l_mood_verygood" value="Ótima" />
 	<key id="$s_maid_tooltip_mood" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Humor&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nExibe o estado de espírito atual do assistente.\nConversar e interagir com o assistente pode alterar seu humor.\nFicar off-line também afeta lentamente o humor." />
 	<key id="$s_manufacture_empty" value="Nenhum item foi produzido. Faça um pedido para começar!" />
-	<key id="$s_manufacture_make" value="Pedido" />
 	<key id="$s_manufacture_get_by_merat" value="Resgate Imediato (Para Desenvolvimento)" />
 	<key id="$s_manufacture_get_jackpot" value="Resgate Bem-sucedido (Para Desenvolvimento)" />
 	<key id="$s_manufacture_cancel" value="Cancelar o Pedido" />
@@ -1377,7 +1350,6 @@
 	<key id="$s_mail_input_constraints" value="Excluir" />
 	<key id="$s_mail_send_btn" value="Enviar" />
 	<key id="$s_mail_send_text_count" value="Contagem de Caracteres" />
-	<key id="$s_mail_send_title" value="Escrever Carta" />
 	<key id="$s_mail_send_receiver" value="Destinatário" />
 	<key id="$s_mail_send_mail_fee" value="Taxa de Postagem" />
 	<key id="$s_mail_send_receiver_tooltip" value="Digite o nome do destinatário." />
@@ -1467,7 +1439,6 @@
 	<key id="$s_camera_free" value="Câmera Livre" />
 	<key id="$s_camera_default" value="Padrão" />
 	<key id="$s_guideevent_tip" value="&lt;FONT size=&apos;24&apos;&gt;DICA&lt;/FONT&gt;" />
-	<key id="$s_guideevent_skip" value="PULAR" />
 	<key id="$s_guideevent_space" value="Espaço" />
 	<key id="$s_jobchange_difficulty" value="Dificuldade de Produção:" />
 	<key id="$s_jobchange_mainskill" value="Habilidade Principal" />
@@ -1538,7 +1509,6 @@
 	<key id="$s_partydps_tooltip_toggle" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Alterar Categorias &lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAlterna entre diferentes categorias de medição." />
 	<key id="$s_partydps_tooltip_reset" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Reiniciar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReinicia todos os dados e classificações." />
 	<key id="$s_partydps_tooltip_close" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Desativar o Medidor de Desempenho&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode reativar o medidor no menu de opções da Interface." />
-	<key id="$s_chaosdps_timer" value="Tempo" />
 	<key id="$s_chaosdps_bottom_bar" value="(Rastreia apenas certas masmorras de alta dificuldade)" />
 	<key id="$s_chaosdps_tooltip_notice" value="Compartilhar\n \nCompartilha as classificações e recordes no bate-papo da equipe." />
 	<key id="$s_chaosdps_tooltip_toggle" value="Alterar Categorias \n \nAlterna entre diferentes categorias de medição." />
@@ -1602,10 +1572,8 @@
 	<key id="$s_guild_info_button_change_propensity" value="Foco da Guilda" />
 	<key id="$s_guild_info_button_leave_guild" value="Sair da Guilda" />
 	<key id="$s_guild_info_button_break_guild" value="Dissolver" />
-	<key id="$s_guild_info_button_guild_rank" value="Classificações" />
 	<key id="$s_guild_info_tooltip_how_to_gain_exp" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Experiência da Guilda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nComo obter:\n- Ao fazer check-in\n- Ao participar do minijogo Dança da Paradinha\n- Ao concluir missões da guilda\n- Ao concluir incursões da guilda" />
 	<key id="$s_guild_info_tooltip_how_to_gain_gold" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Fundos da Guilda\nMáximo de fundos: {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nComo obter:\n- Ao fazer doações\n- Ao participar do minijogo Dança da Paradinha\n- Ao concluir missões da guilda\n- Ao concluir incursões da guilda" />
-	<key id="$s_guild_tooltip_donate" value="{0} vez(es)" />
 	<key id="$s_guild_bottom_tooltip_house" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Entrar na Sede da Guilda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEntre na sede da guilda e tenha acesso a benefícios exclusivos." />
 	<key id="$s_guild_bottom_tooltip_donate" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Fundos&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDoe mesos para a guilda. Essas doações concedem experiência ao personagem, moedas da guilda e contribuição da guilda." />
 	<key id="$s_guild_bottom_tooltip_invite" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Convidar Membros da Guilda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nConvida outros aventureiros para se juntar à sua guilda." />
@@ -1643,7 +1611,6 @@
 	<key id="$s_guild_grade_popup_auth_06" value="Usar Habilidade da Guilda" />
 	<key id="$s_guild_grade_popup_auth_07" value="Iniciar Minijogo da Guilda" />
 	<key id="$s_guild_grade_popup_auth_08" value="Usar Megafone da Guilda" />
-	<key id="$s_guild_championship_title" value="Campeonato da Guilda" />
 	<key id="$s_guild_championship_period" value="TKTKTK" />
 	<key id="$s_guild_championship_view_rank" value="Exibir Classificações" />
 	<key id="$s_guild_championship_notify_matching" value="Correio" />
@@ -1718,10 +1685,6 @@
 	<key id="$s_guild_house_npc_upgrade" value="Aprimorar" />
 	<key id="$s_guild_storage_bag" value="Banco de Presentes" />
 	<key id="$s_guild_storage_desc" value="Itens comprados de mercadores da guilda são armazenados aqui. Se tiverem permissão, os membros da guilda podem presentear outros membros com os itens deste banco." />
-	<key id="$s_guild_storage_history" value="Histórico de Presentes" />
-	<key id="$s_guild_stroage_gift" value="Presente" />
-	<key id="$s_guild_stroage_gift_popup_select_member" value="Selecionar membro da guilda" />
-	<key id="$s_guild_raid_menu_info" value="Detalhes" />
 	<key id="$s_guild_raid_menu_history" value="Histórico" />
 	<key id="$s_guild_raid_info_title" value="Incursão da Guilda: Sistema Xenon" />
 	<key id="$s_guild_raid_info_desc1" value="Para 4 a 10 membros" />
@@ -1741,7 +1704,6 @@
 	<key id="$s_guild_main_tab_menu12" value="Bônus da Guilda" />
 	<key id="$s_guild_main_tab_menu13" value="Arcade" />
 	<key id="$s_guild_main_tab_menu14" value="Campeonato" />
-	<key id="$s_guild_main_tab_menu15" value="Arquivos" />
 	<key id="$s_guild_main_tab_menu16" value="Solicitações" />
 	<key id="$s_guild_main_tab_menu_house" value="Sede da Guilda" />
 	<key id="$s_guild_main_tab_menu_manage" value="Gerenciar" />
@@ -1812,7 +1774,6 @@
 	<key id="$s_blackmarket_notice_my_account_item" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Esta é a sua lista.&lt;/FONT&gt;" />
 	<key id="$s_blackmarket_notice_hide" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;[Itens Descontinuados] Por favor, registre novamente depois de cancelar a compra.&lt;/FONT&gt;" />
 	<key id="$s_blackmarket_notice_expired" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;O anúncio deste item expirou. Clique em &apos;Retomar&apos; para pegá-lo de volta.&lt;/FONT&gt;" />
-	<key id="$s_mesoMarket_list_column_price" value="Preço" />
 	<key id="$s_mesoMarket_list_column_sale_meso" value="Quantidade de Mesos" />
 	<key id="$s_mesoMarket_list_for_sale_meso" value="Quantidade de Mesos" />
 	<key id="$s_mesoMarket_sale_total_price" value="Custo Final" />
@@ -1822,16 +1783,11 @@
 	<key id="$s_mesoMarket_buy_product" value="Comprar" />
 	<key id="$s_mesoMarket_current_meso" value="Mesos em Estoque" />
 	<key id="$s_mesoMarket_search_sale_meso" value="Quantidade de Mesos" />
-	<key id="$s_mesoMarket_search_sale_meso" value="Preço de Mesos" locale="NA" feature="MesoMarketNA" />
 	<key id="$s_mesoMarket_own_product_expired" value="O anúncio deste item expirou. Clique em &apos;Retomar&apos; para pegá-lo de volta." />
 	<key id="$s_mesoMarket_own_product" value="&lt;FONT color=&apos;#FFD200&apos;&gt;(Esta é a sua lista.)&lt;/FONT&gt;" />
 	<key id="$s_mesoMarket_myMerat" value="Meus Merets" />
-	<key id="$s_mesoMarket_myToken" value="Saldo" feature="MesoMarketNA" />
 	<key id="$s_mesoMarket_myMerat_tooltip" value="O total dos seus merets que podem ser usados para comprar mesos.\nNão estão incluídos o merets de jogo." />
 	<key id="$s_mesoMarket_after_tax_price" value="Lucro" />
-	<key id="$s_mesoMarket_btn_detail" value="Ajuda para o Mercado de Mesos" feature="MesoMarketNA" />
-	<key id="$s_blackmarket_period" value="" />
-	<key id="$s_blackmarket_remind_time" value="Tempo Restante:" />
 	<key id="$s_blackmarket_notice_close" value="Não pode ser usado durante as preparações." />
 	<key id="$s_blackmarket_notice_disable_use_time" value="Não pode ser usado agora." />
 	<key id="$s_blackmarket_notice_lowest_price_search" value="Os resultados da pesquisa são ordenados a partir do menor preço." />
@@ -1841,7 +1797,6 @@
 	<key id="$s_blackmarket_radio_count_999" value="999" />
 	<key id="$s_blackmarket_search_default_must_select" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;Seleção Obrigatória&lt;/FONT&gt;" />
 	<key id="$s_blackmarket_search_default_must_input" value="Dado Obrigatório" />
-	<key id="$s_blackmarket_sell_average" value="Preço Médio (12 itens)" />
 	<key id="$s_blackmarket_notice_fee" value="\nComissão: Uma parte do preço de venda\n(Deduzida automaticamente quando o item for vendido)" />
 	<key id="$s_tooltip_trophy_combat" value="Combate" />
 	<key id="$s_tooltip_trophy_adventure" value="Aventura" />
@@ -1858,8 +1813,6 @@
 	<key id="$s_enchant_try" value="Encantamento" />
 	<key id="$s_enchant_retry" value="Voltar" />
 	<key id="$s_enchant_fail" value="&lt;FONT color=&apos;#87807c&apos; size=&apos;24&apos; &gt;Falha no Encantamento&lt;/FONT&gt;" />
-	<key id="$s_enchant_fail_desc0" value="" />
-	<key id="$s_enchant_fail_desc1" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;A falha reduzirá o nível de encantamento do item.&lt;/FONT&gt;" />
 	<key id="$s_enchant_fail_desc2" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;A falha tornará o item Instável.\nEquipamentos instáveis não podem mais ser encantados.&lt;/FONT&gt;" />
 	<key id="$s_enchant_success_desc" value="Se o encantamento funcionar, os atributos podem mudar." />
 	<key id="$s_enchant_item_select" value="Selecione um item para encantar." />
@@ -1869,11 +1822,9 @@
 	<key id="$s_enchant_equip_ingredient_peachy_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Catalisadores&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPara encantar itens de qualidade Épica ou superior além do nível &lt;FONT color=&apos;#00A2ED&apos;&gt;+10&lt;/FONT&gt;, você deve sacrificar cópias do item a ser encantado. (Não é necessário que esses itens estejam encantados.)\n\nQuando você selecionar o item a ser encantado, os catalisadores disponíveis serão exibidos aqui. Itens &lt;FONT color=&apos;#00A2ED&apos;&gt;bloqueados&lt;/FONT&gt; ou &lt;FONT color=&apos;#00A2ED&apos;&gt;equipados&lt;/FONT&gt; não podem servir de catalisadores.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Catalisadores desaparecem após o uso.&lt;/FONT&gt;" feature="Peachy02" />
 	<key id="$s_enchant_fail_stack_info_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Carga de Encantamento&lt;/FONT&gt; \n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCada vez que você não obtém sucesso ao encantar um item, ele ganha uma determinada carga de encantamento.\n - Falha no +10: 1 Carga \n - Falha no +11: 2 Cargas \n - Falha no +12: 3 Cargas \n - Falha no +13: 4 Cargas\n - Falha no +14: 4 Cargas\n - Falha no +15: 5 Cargas \nVocê pode utilizar cargas de encantamento para aumentar a chance de sucesso de encantamentos futuros até um valor máximo de &lt;FONT color=&apos;#00A2ED&apos;&gt;100%&lt;/FONT&gt;. \n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;As cargas de encantamento utilizadas são consumidas, quer o encantamento funcione ou não. &lt;/FONT&gt;" feature="EnchantReformation01" />
 	<key id="$s_smart_recommend_close" value="Continuar" />
-	<key id="$s_smart_recommend_billing_confirm" value="Aceitar" />
 	<key id="$s_smart_recommend_billing_cancel" value="Cancelar" />
 	<key id="$s_smart_recommend_billing_title" value="Conta" />
 	<key id="$s_smart_recommend_billing_price" value="Preço:" />
-	<key id="$s_smart_recommend_billing_price_num" value="" />
 	<key id="$s_guidemovie_title" value="Guia do Mouse" />
 	<key id="$s_monster_peak_text_peak" value="O poder das trevas cresce." />
 	<key id="$s_monster_peak_text_peace" value="O poder de Lapenta cresce." />
@@ -1889,7 +1840,6 @@
 	<key id="$s_monster_peak_text_notify_9" value="As trevas devorará todos vocês!" />
 	<key id="$s_attend_gift_title" value="Calendário de Prêmios" />
 	<key id="$s_attend_gift_message" value="As recompensas e os prêmios de acesso foram enviados por correio." />
-	<key id="$s_attend_gift_detail" value="Detalhes" />
 	<key id="$s_attend_gift_payAttend" value="Antecipar Participação" />
 	<key id="$s_attend_dt_title" value="Prêmios" />
 	<key id="$s_cash_attend_title" value="Maravilhas Diárias" />
@@ -1897,8 +1847,6 @@
 	<key id="$s_upper_hpbar_boss" value="Chefe" />
 	<key id="$s_dungeon_room_dungeon_title" value="Catálogo de Masmorras" />
 	<key id="$s_dungeon_room_dungeon_info" value="Histórico da Masmorra" />
-	<key id="$s_dungeon_room_require_info" value="Restrições" />
-	<key id="$s_dungeon_room_solo_enter" value="Entrar Sozinho" />
 	<key id="$s_dungeon_room_party_enter" value="Entrar com Equipe" />
 	<key id="$s_dungeon_room_reset" value="Reiniciar Masmorra" />
 	<key id="$s_dungeon_room_find_party" value="Encontrar Equipe" />
@@ -1911,19 +1859,13 @@
 	<key id="$s_dungeon_room_seasonRank_summary" value="Recompensas Semanais" />
 	<key id="$s_dungeon_room_united_weekly_count" value="Contador de Conclusão Semanal" />
 	<key id="$s_dungeon_room_shadow_expedition" value="Expedição das Sombras" />
-	<key id="$s_dungeon_room_maxPlayer" value="Máximo de Integrantes" />
 	<key id="$s_dungeon_room_high_score" value="Recorde" />
 	<key id="$s_dungeon_room_season_score" value="Recorde Semanal" />
 	<key id="$s_dungeon_room_findHelper_icon_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Moedas Coletadas&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Você pode receber Moedas de Ajudante de Masmorra após completar uma masmorra junto com novatos, independentemente do limite de conclusão da masmorra. Estas moedas podem ser usadas na loja do Espartano na Cidade das Rainhas.\n\nVocê pode obter até 10 Moedas da Ajudante de Masmorra por dia. Esta contagem reinicia à meia-noite." feature="FindDungeonHelp" />
-	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pedir Ajuda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode pedir ajuda a um aventureiro mais forte que conheça bem esta masmorra.\nClique no botão para enviar um pedido público de ajuda!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Qualificações para Ajudar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPara responder a um pedido de ajuda nesta masmorra, você deve completá-la pelo menos dez vezes. Após atingir o Nv. 50, você estará qualificado imediatamente para ajudar com masmorras de Aventura de Nv. 50 ou inferior." feature="FindDungeonHelp" />
-	<key id="$s_dungeon_room_change_expert_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Torne-se um Veterano de Masmorras&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê enfrentou masmorras o suficiente para se tornar um veterano de masmorras. Se ajudar um&#x0A;novato em masmorras a concluir masmorras, você ganhará um presentinho como recompensa! Clique no botão para se tornar um veterano de masmorras." />
-	<key id="$s_dungeon_room_findHelper_event" value="Evento de Dobro de Moedas" feature="FindDungeonHelp" />
-	<key id="$s_dungeon_room_findMember_button" value="Solicitar Membro da Equipe" feature="FindDungeonHelp" />
-	<key id="$s_dungeon_room_change_expert_button" value="Torne-se um Veterano" />
+	<key id="$s_dungeon_room_change_expert_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Torne-se um Veterano de Masmorras&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê enfrentou masmorras o suficiente para se tornar um veterano de masmorras. Se ajudar um&#xA;novato em masmorras a concluir masmorras, você ganhará um presentinho como recompensa! Clique no botão para se tornar um veterano de masmorras." />
 	<key id="$s_dungeon_room_united_weekly_count_toolipt" value="Você receberá itens como recompensas para as primeiras 15 masmorras que concluir por dia (máximo de 30 por semana). Ao concluir masmorras de aventura difíceis ou normais 1, 3, 5, 10, 15, 20, 25 ou 30 vezes a cada semana, você ganhará uma caixa de bônus com itens extras para ajudá-lo em sua jornada.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Limite de Recompensas&lt;/FONT&gt;\nSemanal: 30 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado toda sexta-feira à meia-noite UTC)&lt;/FONT&gt;\nDiário: 15 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado à meia-noite UTC)&lt;/FONT&gt;\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;A contagem é reiniciada quando você atinge o nível 50.&lt;/FONT&gt;" />
 	<key id="$s_dungeon_room_united_weekly_count_toolipt" value="Você receberá itens como recompensas para as primeiras 15 masmorras que concluir por dia (máximo de 30 por semana). Ao concluir masmorras de aventura difíceis ou normais 1, 3, 5, 10, 15, 20, 25 ou 30 vezes a cada semana, você ganhará uma caixa de bônus com itens extras para ajudá-lo em sua jornada.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Limite de Recompensas&lt;/FONT&gt;\nSemanal: 30 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado toda sexta-feira à meia-noite UTC)&lt;/FONT&gt;\nDiário: 15 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado à meia-noite UTC)&lt;/FONT&gt;\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;A contagem é reiniciada quando você atinge o nível 50.&lt;/FONT&gt;" locale="NA" />
 	<key id="$s_dungeon_room_favorite_mark_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Favoritas&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAcrescente ou exclua masmorras da sua lista de favoritas." />
-	<key id="$s_dungeonSearch_title" value="Mapa de Desafios" />
 	<key id="$s_dungeonSearch_find_button" value="Encontrar Equipe" />
 	<key id="$s_dungeonSearch_cancel_button" value="Cancelar Pesquisa" />
 	<key id="$s_dungeonSearch_progress_message" value="Procurando equipe…" />
@@ -1936,8 +1878,6 @@
 	<key id="$s_dungeonSearch_submenu_findParty" value="Localizador de Equipe" />
 	<key id="$s_dungeonSearch_submenu_reverseRaid" value="Incursão Reversa" />
 	<key id="$s_dungeonSearch_submenu_fameChallenge" value="Desafio da Fortaleza" feature="FameChallengeDungeon" />
-	<key id="$s_dungeonSearch_submenu_lapenta" value="Olho de Lapenta" feature="LapentaDungeon" />
-	<key id="$s_dungeonSearch_submenu_colosseum" value="Batalha da Rainha Jujuba" feature="ColosseumDungeon" />
 	<key id="$s_dungeonSearch_reward_count" value="Completadas" />
 	<key id="$s_dungeonSearch_united_reward_tooltip" value="Você receberá itens como recompensas para as primeiras 15 masmorras que concluir por dia (máximo de 30 por semana). Ao concluir masmorras de aventura difíceis ou normais 1, 3, 5, 10, 15, 20, 25 ou 30 vezes a cada semana, você ganhará uma caixa de bônus com itens extras para ajudá-lo em sua jornada.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Limite de Recompensas&lt;/FONT&gt;\nSemanal: 30 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado toda sexta-feira à meia-noite UTC)&lt;/FONT&gt;\nDiário: 15 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado à meia-noite UTC)&lt;/FONT&gt;\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;A contagem é reiniciada quando você atinge o nível 50.&lt;/FONT&gt;" />
 	<key id="$s_dungeonSearch_united_reward_tooltip" value="Você receberá itens como recompensas para as primeiras 15 masmorras que concluir por dia (máximo de 30 por semana). Ao concluir masmorras de aventura difíceis ou normais 1, 3, 5, 10, 15, 20, 25 ou 30 vezes a cada semana, você ganhará uma caixa de bônus com itens extras para ajudá-lo em sua jornada.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Limite de Recompensas&lt;/FONT&gt;\nSemanal: 30 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado toda sexta-feira à meia-noite UTC)&lt;/FONT&gt;\nDiário: 15 &lt;FONT color=&apos;#C0C0C0&apos;&gt;(Limite renovado à meia-noite UTC)&lt;/FONT&gt;\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;A contagem é reiniciada quando você atinge o nível 50.&lt;/FONT&gt;" locale="NA" />
@@ -1981,7 +1921,6 @@
 	<key id="$s_meratmarket_title_designers" value="Criações" />
 	<key id="$s_meratmarket_title_myshop" value="Minha Loja" />
 	<key id="$s_meratmarket_title_basket" value="Meu Carrinho" />
-	<key id="$s_meratmarket_title_red" value="Vermelho" />
 	<key id="$s_meratmarket_title_blue" value="Loja Premium" />
 	<key id="$s_meratmarket_title_limited" value="Ofertas Especiais" />
 	<key id="$s_meratmarket_btn_unequip_all" value="Remover Tudo" />
@@ -2012,7 +1951,6 @@
 	<key id="$s_meratmarket_radio_filter_gender_female" value="Fem." />
 	<key id="$s_meratmarket_text_enable_calculate_price" value="Ganho" />
 	<key id="$s_meratmarket_text_basket_notice" value="| Se você sair do jogo, seu carrinho será esvaziado." />
-	<key id="$s_meratmarket_text_myshop_notice_sell_restrict" value="" />
 	<key id="$s_meratmarket_text_notice_blueprint" value="Você pode entrar em uma casa modelo, criada a partir da planta, ao pressionar o botão no canto inferior direito da imagem de visualização." feature="BlueprintMarket" />
 	<key id="$s_meratmarket_check_selectall" value="Selecionar Tudo" />
 	<key id="$s_meratmarket_text_sale" value="Listado" />
@@ -2039,7 +1977,7 @@
 	<key id="$s_meratmarket_text_register_ad" value="Promover" />
 	<key id="$s_meratmarket_text_register_period" value="Duração" />
 	<key id="$s_meratmarket_text_register_fee" value="Preço" />
-	<key id="$s_meratmarket_text_register_royalty" value="Comissão" />
+	<key id="$s_meratmarket_text_register_royalty" value="Comissão " />
 	<key id="$s_meratmarket_text_register_total_fee" value="Total" />
 	<key id="$s_meratmarket_text_register_notice" value="Selecione um projeto para anunciar." />
 	<key id="$s_meratmarket_text_register_notice_already" value="Este item já está listado." />
@@ -2066,7 +2004,6 @@
 	<key id="$s_meratmarket_title_bill_gift" value="Presente" />
 	<key id="$s_meratmarket_text_gift_charname" value="Nome" />
 	<key id="$s_meratmarket_text_gift_msg" value="Mensagem" />
-	<key id="$s_meratmarket_bill_notice_meratmarket_only_premium" value="" />
 	<key id="$s_meratmarket_bill_notice_meratmarket" value="Se um item da Loja de Criações violar os TdS, o projeto será excluído. Os merets gastos na compra serão reembolsados por correio." />
 	<key id="$s_meratmarket_bill_notice_cashshop" value="Os itens comprados na Loja NX são transferidos para o Depósito de NX. Para usar um item, ele precisa ser transferido para o inventário." />
 	<key id="$s_meratmarket_tooltip_tab_home" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Página Inicial do Mercado de Merets &lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nA página inicial do mercado, exibindo os itens em destaque." />
@@ -2111,8 +2048,7 @@
 	<key id="$s_meratmarketreg_tooltip_input_price" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Preço de Venda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDigite o preço por unidade do item. Quando o item for vendido, a taxa de administração será deduzida deste preço. O valor das tarifas é arredondado para o número inteiro mais próximo. Você pode verificar seu ganho total na guia Minha Loja." />
 	<key id="$s_meratmarketreg_tooltip_input_itemdesc" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Descrição do Item&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdicione uma descrição ao anúncio de seu item! Essa descrição será exibida somente no mercado de merets." />
 	<key id="$s_meratmarketreg_tooltip_input_itemtag" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Palavras-chave&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAdiciona palavras-chave de busca para ajudar os jogadores a encontrarem seu item." />
-	<key id="$s_meratmarketreg_tooltip_check_ad" value='&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Promover Item&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nUm de seus itens anunciados será escolhido aleatoriamente para aparecer na seção &quot;Ofertas Especiais&quot; da Loja de Criações do Mercado de Merets.' />
-	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Taxa de Anúncio&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nA taxa varia segundo o número de itens anunciados." />
+	<key id="$s_meratmarketreg_tooltip_check_ad" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Promover Item&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nUm de seus itens anunciados será escolhido aleatoriamente para aparecer na seção &quot;Ofertas Especiais&quot; da Loja de Criações do Mercado de Merets." />
 	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Taxa de Anúncio&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEssa é a taxa cobrada pelo anúncio de itens. A taxa varia dependendo do número de itens atualmente anunciados. Ela não será ressarcida se seu item for excluído devido a violações dos TdS." locale="NA" />
 	<key id="$s_meratmarketreg_tooltip_btn_period" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Duração da Venda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nQuando a duração terminar, seus itens listados serão removidos da Loja de Criações." />
 	<key id="$s_meratmarketreg_tooltip_btn_show_enable_designs" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ocultar Projetos Preexistentes&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nOculta todos os projetos que já estão em sua loja (incluindo anúncios expirados)." />
@@ -2121,7 +2057,6 @@
 	<key id="$s_meratmarketreg_tooltip_btn_delete" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Remover Item&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSe remover o item de sua loja, você precisará anunciá-lo como um novo item para poder colocá-lo à venda novamente. Isso apagará todas as informações associadas ao anúncio, inclusive os registros de venda." />
 	<key id="$s_meratmarketreg_tooltip_btn_stopsale" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Remover Anúncio&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAnúncios removidos e expirados não aparecem na Loja de Criações, mas podem ser renovados a qualquer momento." />
 	<key id="$s_meratmarketreg_tooltip_btn_register" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Listar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nListar itens na Loja de Criações." />
-	<key id="$s_meratmarket_title_premium" value="Loja Premium" />
 	<key id="$s_meratmarket_tooltip_tab_premium" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Loja Premium&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nConfira e compre os itens premium." />
 	<key id="$s_meratmarket_dropdown_rank_popular" value="Mais Badalados" />
 	<key id="$s_meratmarket_dropdown_rank_lowprice" value="Menor para Maior" />
@@ -2134,7 +2069,6 @@
 	<key id="$s_meratmarket_home_label_2" value="ITENS BOMBANDO" />
 	<key id="$s_meratmarket_premium_label_2" value="ITENS ESPECIAIS" />
 	<key id="$s_meratmarket_designers_label_2" value="VENDEDOR DE HOJE" />
-	<key id="$s_meratmarketreg_tooltip_btn_royalty" value="" />
 	<key id="$s_meratmarket_tooltip_seller" value="Vendedor" />
 	<key id="$s_meratmarket_tooltip_product_desc" value="Descrição" />
 	<key id="$s_meratmarket_tooltip_product_tag" value="Rótulos" />
@@ -2152,7 +2086,6 @@
 	<key id="$s_cashshop_btn_cash_charge" value="Adicionar" />
 	<key id="$s_cashshop_inven_info" value="Para usar o item é preciso transferi-lo do Depósito de NX para seu inventário." />
 	<key id="$s_cashshop_inven_name" value="Depósito de NX" />
-	<key id="$s_cashshop_product_empty" value="" />
 	<key id="$s_cashshop_basket_select_all" value="Selecionar Tudo" />
 	<key id="$s_cashshop_basket_buy" value="Comprar Itens Selecionados" />
 	<key id="$s_cashshop_text_special" value="Especial" />
@@ -2187,7 +2120,6 @@
 	<key id="$s_home_info_homename_modify" value="Nomear a Casa" />
 	<key id="$s_home_info_visitors_book" value="Livro de Convidados" />
 	<key id="$s_home_info_homeleave" value="Sair da Casa" />
-	<key id="$s_home_info_recommend" value="Indicar" />
 	<key id="$s_home_info_report" value="Denunciar" />
 	<key id="$s_home_info_housing_mode_enter" value="Planejar Decoração" />
 	<key id="$s_home_info_housing_mode_exit" value="Parar Planejamento" />
@@ -2215,7 +2147,6 @@
 	<key id="$s_home_info_tooltip_btn_housing_config" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Configurações do Meu Lar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAjuste configurações que afetam sua casa inteira, incluindo permissões de atividades, câmera, iluminação e opções de plano de fundo." />
 	<key id="$s_home_info_tooltip_btn_construct" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Começar/Parar de Decorar (B)&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEntre no modo de decoração para colocar os itens comprados para sua casa. As funções especiais de construção e projeto estão disponíveis apenas neste modo. Use o botão Sair ou o comando de atalho para sair do modo de decoração." />
 	<key id="$s_home_info_tooltip_btn_housing_balance" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Configurações do Orçamento&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReserve fundos para seus amigos usarem para decorar sua casa. As outras pessoas só podem gastar o valor que você reservou para decorar sua casa. Esse limite não se aplica a você." />
-	<key id="$s_token_pocket_title" value="Carteira" />
 	<key id="$s_token_pocket_honor_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Símbolo de Valor&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nObtido na Arena Maple e em eventos de PvP. Use os Símbolos de Valor na loja da Arena Maple. Os Símbolos de Valor podem ser anulados em uma data anunciada." />
 	<key id="$s_token_pocket_karma_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Trevia&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nObtida no Reino das Miniaturas Distorcido. Use-a para comprar itens especiais dos mercadores sombrios." />
 	<key id="$s_token_pocket_lu_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rue&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nObtida de missões diárias oferecidas pelos mercadores Allicaris. Use-a para comprar itens especiais dos mercadores Allicaris na Cidade das Rainhas." />
@@ -2224,10 +2155,9 @@
 	<key id="$s_token_pocket_mentor_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontos de Mentor&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReceba Pontos de Mentor ao concluir masmorras com seu mentorado. Completar masmorras com um usuário comum também oferece uma pequena quantidade de Pontos de Mentor. Eles podem ser usados na Loja do Mentor." />
 	<key id="$s_token_pocket_mentee_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontos de Mentorado&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReceba Pontos de Mentorado ao fazer log-in diariamente, completar missões de mentorado e masmorras. Eles podem ser usados na Loja do Mentorado." />
 	<key id="$s_token_pocket_star_point_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontos Estelares&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nUsado na Loja Estelar." />
-	<key id="$s_token_pocket_meso_market_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Símbolo de Meso&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nMoeda usada no Mercado Negro para a compra de mesos. Clique no botão Ajuda no Mercado Negro para saber como comprar Símbolos de Meso." feature="MesoMarketToken" />
 	<key id="$s_nametag_symbol_title" value="Configurações de Insígnias" />
 	<key id="$s_msgbox_ugc_turms_title" value="Leia as orientações abaixo antes de usar o Conteúdo Gerado por Usuário." />
-	<key id="$s_msgbox_ugc_turms_content" value='&lt;FONT color=&apos;#FFD200&apos; &gt;No caso de as seguintes orientações estarem em conflito com a Política de CGU, prevalecem os termos da Política de CGU.&lt;/FONT&gt;\n&lt;b&gt;Seja original&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• Você pode enviar e compartilhar conteúdo que seja sua obra própria.\n• Você pode encontrar na Internet conteúdo designado como disponível para uso em “obras derivadas” ou “para fins pessoais” ou “uso para fins não lucrativos&quot;, porém, você não pode usar este conteúdo em seu CGU para MapleStory 2 ou outro serviço da Nexon. O CGU apresentado ou enviado à MapleStory 2 não se qualifica como uso pessoal ou sem fins lucrativos.\n• Não envie nem compartilhe desenhos ou logotipos de outrem — mesmo que você os tenha modificado.\n• Não há problemas em se inspirar em obra criada por outros usuários, no entanto, não é certo copiar a obra de outra pessoa. Crie seu próprio CGU. Seja original.\n• Você não pode descrever ou marcar seu CGU com palavras ou linguagem que o identifique como caractere, marca comercial ou nome de marca especial.&lt;/textformat&gt;\n&lt;b&gt;Respeite&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• Você não pode usar imagens de pessoas reais — mesmo que as imagens sejam de você, seus amigos ou pessoas famosas — para nenhum CGU, inclusive Vestimentas e outros itens, Displays, Emblemas de Guilda, Moradia ou Fotos de Personagem.\n• Você não pode compartilhar conteúdo que seja ofensivo, sugestivo, abusivo, degradante, odioso, político, religioso ou violento.&lt;/textformat&gt;' />
+	<key id="$s_msgbox_ugc_turms_content" value="&lt;FONT color=&apos;#FFD200&apos; &gt;No caso de as seguintes orientações estarem em conflito com a Política de CGU, prevalecem os termos da Política de CGU.&lt;/FONT&gt;\n&lt;b&gt;Seja original&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• Você pode enviar e compartilhar conteúdo que seja sua obra própria.\n• Você pode encontrar na Internet conteúdo designado como disponível para uso em “obras derivadas” ou “para fins pessoais” ou “uso para fins não lucrativos&quot;, porém, você não pode usar este conteúdo em seu CGU para MapleStory 2 ou outro serviço da Nexon. O CGU apresentado ou enviado à MapleStory 2 não se qualifica como uso pessoal ou sem fins lucrativos.\n• Não envie nem compartilhe desenhos ou logotipos de outrem — mesmo que você os tenha modificado.\n• Não há problemas em se inspirar em obra criada por outros usuários, no entanto, não é certo copiar a obra de outra pessoa. Crie seu próprio CGU. Seja original.\n• Você não pode descrever ou marcar seu CGU com palavras ou linguagem que o identifique como caractere, marca comercial ou nome de marca especial.&lt;/textformat&gt;\n&lt;b&gt;Respeite&lt;/b&gt;&lt;TEXTFORMAT leftMargin=&apos;25&apos;&gt;\n• Você não pode usar imagens de pessoas reais — mesmo que as imagens sejam de você, seus amigos ou pessoas famosas — para nenhum CGU, inclusive Vestimentas e outros itens, Displays, Emblemas de Guilda, Moradia ou Fotos de Personagem.\n• Você não pode compartilhar conteúdo que seja ofensivo, sugestivo, abusivo, degradante, odioso, político, religioso ou violento.&lt;/textformat&gt;" />
 	<key id="$s_msgbox_ugc_turms_detail_view" value="Exibir Advertências sobre Conteúdo Gerado pelo Usuário" />
 	<key id="$s_msgbox_ugc_turms_ok" value="Concordar" />
 	<key id="$s_msgbox_ugc_turms_center_homepage" value="Ver a Política completa" />
@@ -2238,7 +2168,6 @@
 	<key id="$s_partysearch_btn_modify_partysearch" value="Cancelar Perdido de Participação" />
 	<key id="$s_partysearch_btn_modify_memebersearch" value="Cancelar Recrutamento" />
 	<key id="$s_partysearch_btn_refresh" value="Atualizar" />
-	<key id="$s_partysearch_text_ask_chief" value="" />
 	<key id="$s_partysearch_btn_whisper" value="Sussurrar" />
 	<key id="$s_partysearch_btn_join_party" value="Participar" />
 	<key id="$s_partysearch_btn_invite" value="Convidar para a equipe" />
@@ -2252,7 +2181,6 @@
 	<key id="$s_partysearch_notice_search_empty" value=" " />
 	<key id="$s_partysearch_notice_for_adventure" value="Recrutar integrantes de equipe." />
 	<key id="$s_partysearch_notice_party_search_preparing" value="Reorganizando o sistema de entrada de equipes.\nNão é possível mover no momento." />
-	<key id="$s_partysearchregister_dialogName" value="Localizador de Equipe" />
 	<key id="$s_partysearchregister_title" value="Equipe" />
 	<key id="$s_partysearchregister_user_count" value="Integrantes" />
 	<key id="$s_partysearchregister_btn_party_search" value="Pedido de Participação em Equipes" />
@@ -2261,20 +2189,14 @@
 	<key id="$s_partysearchregister_btn_remove" value="Remover Listagem" />
 	<key id="$s_partysearchregister_check_allow_join" value="Qualquer um pode participar sem aprovação." />
 	<key id="$s_visitorsbook_title" value="Livro de Convidados" />
-	<key id="$s_visitorsbook_comment" value="Deixe um comentário do livre de convidados!" />
-	<key id="$s_systemmail_notify_detail" value="Exibir os Detalhes do Evento" />
-	<key id="$s_systemmail_notify_close" value="Fechar" />
-	<key id="$s_systemmail_notify_onTime_Title" value="Especial 15h em Ponto!" />
 	<key id="$s_systemmail_notify_onTime_Desc" value="5.000 NX serão dados para os primeiros 50.000 usuários.\nClique no botão Participar.\nO resultado será enviado pelo correio.\nOs usuários que não ganharem NX receberão 300 Merets." />
 	<key id="$s_systemmail_notify_onTime_button" value="Participar" />
 	<key id="$s_individual_pvp_title" value="Arena Pessoal" />
 	<key id="$s_system_msg_revive" value="Ressuscitando em breve." />
-	<key id="$s_pvp_result_msg_rank" value="Classificação" />
 	<key id="$s_pvp_result_msg_name" value="Nome" />
 	<key id="$s_pvp_result_msg_score" value="Pontuação" />
 	<key id="$s_pvp_result_msg_kill" value="Nocautes" />
 	<key id="$s_pvp_result_msg_dead" value="Nocauteado" />
-	<key id="$s_pvp_result_msg_damage" value="Dano" />
 	<key id="$s_pvp_result_msg_reward" value="Recompensa" />
 	<key id="$s_pvp_result_reward_text" value="Você recebeu Ônix x{0}." />
 	<key id="$s_pvp_team_result_msg_detail" value="Resultados" />
@@ -2283,8 +2205,7 @@
 	<key id="$s_observe_observing_target" value="Assistindo no Momento: {0}" />
 	<key id="$s_observe_quit_observe" value="Sair" />
 	<key id="$s_survival_observe_observing_target" value="Assistindo: {0}" feature="SurvivalContents01" />
-	<key id="$s_survival_observe_quit_observe" value=" Parar" feature="SurvivalContents01" />
-	<key id="$s_login_msg_id" value="ID" />
+	<key id="$s_survival_observe_quit_observe" value=" Parar " feature="SurvivalContents01" />
 	<key id="$s_login_msg_pwd" value="Senha" />
 	<key id="$s_login_msg_login" value="Entrar" />
 	<key id="$s_enchantscroll_title_enchant" value="Aprimorar Item" />
@@ -2303,7 +2224,6 @@
 	<key id="$s_interior_tooltip_extension_area" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Aumentar Área&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Aumente a área da sua casa. Ela pode chegar a, no máximo, 25 por 25." />
 	<key id="$s_interior_tooltip_extension_height" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Aumentar Altura&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAumente a altura da sua casa. Ela pode chegar a, no mínimo, 15." />
 	<key id="$s_dark_stream_result_view_rank" value="Exibir Classificação" />
-	<key id="$s_dark_stream_result_out" value="Sair" />
 	<key id="$s_dark_stream_result_exp" value="{0} EXP" />
 	<key id="$s_dark_stream_result_challenge" value="Resultados do Desafio" />
 	<key id="$s_dark_stream_result_best_score" value="Meu Recorde" />
@@ -2312,7 +2232,6 @@
 	<key id="$s_talk_script_reward_fame" value="{0} de Reputação" />
 	<key id="$s_massiveevent_moviecounter_stage" value="Ordem" />
 	<key id="$s_massiveevent_moviecounter_start" value="Iniciar" />
-	<key id="$s_massiveevent_moviecounter_count" value="" />
 	<key id="$s_mainplayerinfo_hp" value="Saúde" />
 	<key id="$s_mainplayerinfo_sp" value="Espírito" />
 	<key id="$s_mainplayerinfo_ride_off_tooltip" value="Sair" />
@@ -2336,7 +2255,6 @@
 	<key id="$s_itemremake_apply" value="Aplicar Atributos" />
 	<key id="$s_itemremake_item_select" value="Selecione um item para mudar seus bônus de atributos." />
 	<key id="$s_itemremake_desc_top_select" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Selecione os bônus de atributos que você quer manter." />
-	<key id="$s_itemremake_desc_top_warning" value="" />
 	<key id="$s_itemremake_desc_bottom_warning" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Atributos atuais preservados por padrão." />
 	<key id="$s_item_pet_training_title" value="Treinamento de Mascote" />
 	<key id="$s_item_pet_training_select_item" value="Coloque aqui o mascote que deseja treinar." />
@@ -2349,7 +2267,6 @@
 	<key id="$s_item_pet_study_confirm_ready" value="Usar" />
 	<key id="$s_item_pet_study_confirm_complete" value="Fechar" />
 	<key id="$s_fishingbook_title" value="Álbum de Pesca" />
-	<key id="$s_fishingbook_water" value="Água Doce" />
 	<key id="$s_fishingbook_seawater" value="Água Salgada" />
 	<key id="$s_fishingbook_etc" value="Bioma Único" />
 	<key id="$s_fishingbook_special" value="Especial" />
@@ -2399,7 +2316,6 @@
 	<key id="$s_petsystem_evolution_title2" value="Catalisadores" feature="PetEvolution01" />
 	<key id="$s_petsystem_evolution_evolution" value="Um mascote no nível máximo pode evoluir para o próximo estágio!" feature="PetEvolution01" />
 	<key id="$s_petsystem_evolution_selected" value="Selecione um mascote para evoluir." feature="PetEvolution01" />
-	<key id="$s_petsystem_evolution_cost" value="Custo:" feature="PetEvolution01" />
 	<key id="$s_petsystem_evolution_button" value="Evoluir" feature="PetEvolution01" />
 	<key id="$s_item_enchant_transform_title" value="Equipamentos Válidos" feature="EnchantTransform01" />
 	<key id="$s_item_enchant_transform_msg" value="Converta um equipamento encantado em um pergaminho de encantamento." feature="EnchantTransform01" />
@@ -2439,10 +2355,7 @@
 	<key id="$s_writemusic_text_musicscore_title_default" value="Digite o título para a música (de 3 a 14 caracteres)" />
 	<key id="$s_writemusic_text_musicscore_recommand_instrument" value="Tocar em" />
 	<key id="$s_writemusic_text_notice_prepare_piano_roll" value="Digite as notas nas guias Melodia ou Harmonia da Partitura usando a janela de texto abaixo.\nNo futuro teremos uma guia para Pianola." />
-	<key id="$s_writemusic_text_info_melody" value="Melodias:" />
-	<key id="$s_writemusic_text_info_harmony" value="Harmonias:" />
-	<key id="$s_writemusic_text_info_total_musicscore_length" value="Total de Notas: " />
-	<key id="$s_writemsuic_checkbox_pianoroll_realtime_update" value="Atualização em Tempo Real" />
+	<key id="$s_writemusic_text_info_melody" value="Melodias: " />
 	<key id="$s_writemusic_text_info_drum" value="&lt;FONT color=&apos;#C90000&apos; &gt;* O instrumento recomendado que você selecionou só pode produzir a melodia.&lt;/FONT&gt;" feature="drumInstrument" />
 	<key id="$s_writemusic_tooltip_piano_roll_auto_refresh_check" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Atualização em Tempo Real&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAtualiza o Rolo de Pianola em tempo real. Quando esta opção está habilitada, os acordes que você executa são representados em tempo real no Rolo de Pianola. Se estiver desabilitada, a atualização só ocorre quando você abre o arquivo ou a visualização." />
 	<key id="$s_writemusic_tooltip_piano_roll_roll_type" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Configurações do Rolo de Pianola&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode configurar o modo de exibição do Rolo de Pianola. A visualização de métrica representa a música conforme o momento em que é tocada, e o andamento de cada acorde também é representado. A visualização de compasso representa a música conforme o compasso, seja qual for o andamento.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos; &gt;*A barra de progresso é exibida apenas na visualização de métrica.&lt;/FONT&gt;" />
@@ -2534,7 +2447,6 @@
 	<key id="$s_rank_pvp_register_season_win_count" value="Vitórias" />
 	<key id="$s_rank_pvp_register_season_best_rating" value="Maior Pontuação" />
 	<key id="$s_rank_pvp_register_guide_grade" value="Posição/Pontuação" />
-	<key id="$s_rank_pvp_register_show_grade" value="Classificação" />
 	<key id="$s_rank_pvp_register_register" value="Entrar na Fila" />
 	<key id="$s_rank_pvp_register_unregister" value="Cancelar" />
 	<key id="$s_rank_pvp_register_observe_tooltip" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Notificações de Espectador&lt;/FONT&gt;\nSe ativadas, você receberá uma notificação quando jogadores bem classificados entrarem na arena.\nVeja como jogam os especialistas! Para assistir não é preciso ter um nível mínimo." />
@@ -2550,16 +2462,12 @@
 	<key id="$s_itemremake_scroll_btn_apply" value="Aplicar Atributos" />
 	<key id="$s_itemremake_scroll_btn_restart" value="Refazer" />
 	<key id="$s_itemremake_scroll_btn_ok" value="Ok" />
-	<key id="$s_itemremake_scroll_notice_top_show_option" value="" />
-	<key id="$s_itemremake_scroll_notice_bottom_show_option" value="" />
 	<key id="$s_itemremake_scroll_notice_top_select_option" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Selecione um atributo a ser aplicado." />
 	<key id="$s_itemremake_scroll_notice_bottom_select_option" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Atributos atuais preservados por padrão." />
-	<key id="$s_itemremake_scroll_notice_top_complete" value="" />
 	<key id="$s_itemremake_scroll_notice_bottom_complete" value="Os atributos selecionados foram aplicados." />
 	<key id="$s_itemremake_scroll_title_pet" value="Ressorteio de Talento Bônus de Mascote" />
 	<key id="$s_itemremake_scroll_notice_puton_pet" value="Selecione um mascote para usar o ressorteio." />
 	<key id="$s_itemremake_scroll_btn_modify_pet" value="Ressorteio de Talentos Bônus" />
-	<key id="$s_itemremake_scroll_btn_apply_pet" value="Aplicar Bônus" />
 	<key id="$s_itemremake_scroll_notice_top_select_option_pet" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Selecione um talento bônus a ser aplicado." />
 	<key id="$s_itemremake_scroll_notice_bottom_select_option_pet" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Talentos atuais preservados por padrão." />
 	<key id="$s_itemremake_scroll_notice_bottom_complete_pet" value="O talento bônus selecionado foi aplicado." />
@@ -2609,7 +2517,6 @@
 	<key id="$s_itemsocketsystem_socketunlock_tooltip_info_ingredient_slots" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Catalisador de Expansão de Nicho&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nA expansão de nicho requer um &lt;FONT color=&apos;#00A2ED&apos;&gt;item idêntico&lt;/FONT&gt; ao item alvo, da mesma ordem e &lt;FONT color=&apos;#00A2ED&apos;&gt;com o mesmo número de nichos vazios e bloqueados&lt;/FONT&gt;. Um item com gemas bloqueadas não pode ser um catalisador. Escolha o item que você quer desbloquear nichos para ver uma lista de catalisadores usáveis. &lt;FONT color=&apos;#FF5F5F&apos;&gt;Catalisadores somem depois do uso, assim como gemas com nicho.&lt;/FONT&gt;" feature="ItemSocketSystem" />
 	<key id="$s_itemsocketsystem_socketunlock_msg_puton_equip" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Escolha um item com nichos que você quer desbloquear.&lt;/FONT&gt;" feature="ItemSocketSystem" />
 	<key id="$s_itemsocketsystem_socketunlock_msg_ingredient_slots" value="Escolha um item. Os catalisadores necessários para desbloquear seus nichos variam.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Desbloquear nichos de equipamentos requer uma cópia do item com mesmo número de nichos vazios e bloqueados. Um item com gema bloqueada não pode ser um catalisador.&lt;/FONT&gt;" feature="ItemSocketSystem" />
-	<key id="$s_itemsocketsystem_socketunlock_msg_ingredient_slots_no" value="" feature="ItemSocketSystem" />
 	<key id="$s_itemsocketsystem_socketunlock_msg_puton_ingredient" value="Selecione um item para usar como catalisador." feature="ItemSocketSystem" />
 	<key id="$s_itemsocketsystem_socketunlock_msg_select_warning" value="O catalisador será destruído." feature="ItemSocketSystem" />
 	<key id="$s_itemsocketsystem_socketunlock_success_unlock" value="Nicho Desbloqueado" feature="ItemSocketSystem" />
@@ -2773,9 +2680,7 @@
 	<key id="$s_bluemarble_tag_worldtour" value="Volta Completa" />
 	<key id="$s_bluemarble_complete_count" value="Tabuleiros Completados:" />
 	<key id="$s_bluemarble_warning" value="Cada vez custa 1 Bilhete Maravilha" />
-	<key id="$s_bluemarble_warning" value="Cada jogada custa 2 Moedas de Eterina." locale="NA" />
 	<key id="$s_bluemarble_coin_count" value="Bilhetes Maravilha:" />
-	<key id="$s_bluemarble_coin_count" value="Total de Moedas:" locale="NA" />
 	<key id="$s_bluemarble_dice_result" value="Você tirou {0}!" />
 	<key id="$s_bluemarble_notify_action_fail" value="Puxa! Mais sorte na próxima vez!" />
 	<key id="$s_bluemarble_notify_action_trap" value="Será solto quando o número passar de {0}!" />
@@ -2834,8 +2739,6 @@
 	<key id="$s_marketbill_text_gift_charname" value="Nome" />
 	<key id="$s_marketbill_text_gift_msg" value="Mensagem" />
 	<key id="$s_marketbill_text_gift_disable" value="Presente Indisponível" />
-	<key id="$s_marketbill_notice_meratmarket_only_premium" value="" />
-	<key id="$s_marketbill_notice_meratmarket_basket" value="" />
 	<key id="$s_marketbill_notice_meratmarket" value="Se um item da Loja de Criações violar os TdS, o projeto será excluído. Os merets gastos na compra serão reembolsados por correio." />
 	<key id="$s_marketbill_notice_cashshop" value="Os itens comprados na Loja NX são transferidos para o Depósito de NX. Para usar um item, ele precisa ser transferido para o inventário." />
 	<key id="$s_mastery_dialog_title" value="Produção" feature="Mastery" />
@@ -2858,7 +2761,6 @@
 	<key id="$s_mastery_dialog_require_item" value="Materiais Necessários" feature="Mastery" />
 	<key id="$s_mastery_dialog_breeding_meso" value="Custo da Ração" feature="Mastery" />
 	<key id="$s_mastery_dialog_farming_meso" value="Custo do Fertilizante" feature="Mastery" />
-	<key id="$s_mastery_dialog_gathering_warn" value="" feature="Mastery" />
 	<key id="$s_mastery_dialog_slot_category_7" value="Chapéu" feature="EnchantExpansion01" />
 	<key id="$s_mastery_dialog_slot_category_8" value="Luvas" feature="EnchantExpansion01" />
 	<key id="$s_mastery_dialog_slot_category_9" value="Sapatos" feature="EnchantExpansion01" />
@@ -3036,7 +2938,6 @@
 	<key id="$s_tencent_user_report_reason_name_club" value="Nome do Clube" />
 	<key id="$s_tencent_user_report_reason_name_guild" value="Nome da Guilda" />
 	<key id="$s_tencent_user_report_reason_comment" value="Informe o motivo da denúncia." />
-	<key id="$s_tencent_aas2_title" value="" />
 	<key id="$s_item_merge_title" value="Fortificação de Item" />
 	<key id="$s_item_merge_do" value="Fortificação de Item" />
 	<key id="$s_item_merge_reset" value="Continuar" />
@@ -3075,7 +2976,7 @@
 	<key id="$s_ugcox_create_label_host_fee" value="Taxa de Anfitrião:" feature="UGCMapOX" />
 	<key id="$s_ugcox_create_button_create" value="Sim" feature="UGCMapOX" />
 	<key id="$s_ugcox_create_button_cancel" value="Não" feature="UGCMapOX" />
-	<key id="$s_ugcox_title_welcome_host" value='Pressione &quot;Iniciar!” para começar o evento Perguntas OX. Assim que ele começar, novos participantes não poderão entrar.' feature="UGCMapOX" />
+	<key id="$s_ugcox_title_welcome_host" value="Pressione &quot;Iniciar!” para começar o evento Perguntas OX. Assim que ele começar, novos participantes não poderão entrar." feature="UGCMapOX" />
 	<key id="$s_ugcox_title_welcome_entry" value="Aguardando o anfitrião dar início..." feature="UGCMapOX" />
 	<key id="$s_ugcox_title_button_start" value="Começar!" feature="UGCMapOX" />
 	<key id="$s_ugcox_host_title" value="Digite uma pergunta." feature="UGCMapOX" />
@@ -3120,7 +3021,6 @@
 	<key id="$s_selectsuperworldchat_select_button" value="Confirmar" />
 	<key id="$s_gallery_title" value="Galeria Festiva de Schwanda" />
 	<key id="$s_gallery_card_open_count" value="Galeria de Schwanda" />
-	<key id="$s_gallery_desc_1" value="Até 31/12/2019 23:59:59 UTC!" locale="NA" />
 	<key id="$s_gallery_desc_2" value="Conclua todos desafios para ganhar as recompensas." />
 	<key id="$s_gallery_board_reward_button" value="Receber Recompensa" />
 	<key id="$s_gallery_board_reward_title" value="Recompensas" />
@@ -3205,7 +3105,6 @@
 	<key id="$s_keysetting_select_title" value="Configuração Padrão de Controles" />
 	<key id="$s_keysetting_select_default" value="Somente o Teclado" />
 	<key id="$s_keysetting_select_default_desc" value="Use os comandos direcionais para se mover" />
-	<key id="$s_keysetting_select_default_warn" value="" />
 	<key id="$s_keysetting_select_mouse" value="Mouse e Teclado" />
 	<key id="$s_keysetting_select_mouse_desc" value="Use o mouse e as teclas WASD para se mover." />
 	<key id="$s_keysetting_select_extra" value="Os atalhos de teclado padrão variam conforme os tipos de controle. Você pode restaurar a configuração inicial quando quiser." />
@@ -3217,7 +3116,7 @@
 	<key id="$s_maple_survival_search_message" value="Buscando resultados…" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season" value="Lute pelo Cogurrei" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season_reward" value="Recompensa" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_season_reward" value="Recompensa" locale="NA" feature="SurvivalContents01" />
+	<key id="$s_maple_survival_season_reward" value="Recompensa" feature="SurvivalContents01" locale="NA" />
 	<key id="$s_maple_survival_season_reward_deatil" value="As recompensas são enviadas pelo correio toda quinta-feira durante a checagem. Seu nível real será zerado no início da nova temporada." feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season_reward_view" value="Recompensas" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_survival_level" value="Nível Real" feature="SurvivalContents01" />
@@ -3237,41 +3136,7 @@
 	<key id="$s_maple_survival_register_button" value="Entrar na Fila" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_unregister_button" value="Retirar-se" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_not_season_rating" value="Sem classificação" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_result_bottom_title" value="" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_result_bottom_level_up" value="Subiu de Nv." feature="SurvivalContents01" />
-	<key id="$s_maple_survival_open_time" value="" locale="NA" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_active_paid_pass" value="Ativar" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_level_text" value="Nível Desbloqueado" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_reward_detail" value="Este passe concede recompensas adicionais conforme você aumenta seu nível real. Use o passe dourado para ganhar ainda mais recompensas!" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_receive_button" value="Resgatar Recompensas" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_season_text_tooltip" value="Os resultados de partidas da pré-temporada não afetam sua classificação. As recompensas da temporada são enviadas à sua caixa de correio durante o horário de manutenção." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_champion_pass_title" value="Passe Real" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_champion_pass_tooltip" value="Pressione o botão &apos;Resgatar Recompensas&apos; para resgatar recompensas por ter avançado seu nível real. Você pode resgatar de uma só vez recompensas correspondentes a até 8 níveis." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_complete_free" value="&lt;Img Src=&apos;survival_reward_icon&apos; vspace=&apos;-10&apos;&gt;Você resgatou todas as suas recompensas. Legal!" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_complete_paid" value="&lt;Img Src=&apos;survival_reward_icon&apos; vspace=&apos;-10&apos;&gt;Você resgatou todas as suas recompensas. Legal!" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_mode_selector_title" value="Selecione uma Modalidade" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_mode_selector_solo_title" value="Individual" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_mode_selector_solo_desc" value="Você está &lt;FONT color=&apos;#ffd200&apos;&gt;por sua conta&lt;/FONT&gt;. Todos são inimigos." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_mode_selector_squad_title" value="Esquadrão" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_mode_selector_squad_desc" value="Lute em uma &lt;FONT color=&apos;#ffd200&apos;&gt;equipe de 2 a 4 jogadores&lt;/FONT&gt;. Se você entrar na fila de espera sozinho, será designado a uma equipe com &lt;FONT color=&apos;#d659ff&apos;&gt;jogadores aleatórios&lt;/FONT&gt;. Caso contrário, você entrará com sua equipe atual. Caso tenha formado uma equipe, &lt;FONT color=&apos;#d659ff&apos;&gt;somente o líder da equipe&lt;/FONT&gt; pode entrar na fila de espera." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_ui_skin_title" value="Medalhas Equipadas" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_info_tooltip" value="Equipe medalhas para alterar a aparência de caudas, transportes terrestres e planadores durante as partidas da Batalha do Cogurrei." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_slot_name1" value="Cauda" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_slot_name2" value="Transporte Terrestre" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_slot_name3" value="Planador" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_ui_auto_item_title" value="Celebração da Vitória" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_auto_item_tooltip" value="Arraste os fogos de artifício até um dos espaços abaixo para que eles explodam &lt;FONT color=&apos;#ffd200&apos;&gt;sempre que você derrotar outro jogador durante uma partida.&lt;/FONT&gt; Uma unidade de fogos de artifício será consumida a cada vez que eles explodirem. Somente personagens que tiverem equipado fogos de artifício poderão acioná-los. Para removê-los, clique neles com o botão direito." feature="SurvivalContents03" />
-	<key id="$s_maple_survival_levelInfo_level_title" value="Nível de Batalhador" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_level_tooltip" value="Ganhe experiência na Batalha do Cogurrei para aumentar seu nível real, que pode ser usada para obter recompensas de passes reais ou até mesmo uma nova insígnia temática!" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_reward_info_title" value="Passe de Batalha" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_ui_title" value="Medalhas da Batalha do Cogurrei" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_ui_puton" value="Equipar" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_skin_ui_putoff" value="Desequipar" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_buy_bundle_title" value="Passe Dourado de Batalha do Cogurrei" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_buy_bundle_default_title" value="Passe Dourado de Batalha" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_buy_bundle_bundle_title" value="Pacote de Passe Dourado de Batalha" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_buy_bundle_bundle_desc" value="Passe Dourado de Batalha + Itens Bônus" feature="SurvivalContents03" />
-	<key id="$s_maple_survival_buy_bundle_bundle_bonus_item" value="&lt;Img Src=&apos;icon_tiny_box&apos; vspace=&apos;-3&apos;/&gt; Itens de Bônus" feature="SurvivalContents03" />
 	<key id="$s_adventure_level_level" value="Nível {0}" />
 	<key id="$s_adventure_level_dialog_level" value="Nível {0}" />
 	<key id="$s_adventure_level_ability_max_level" value="&lt;FONT color=&apos;#d659ff&apos; &gt;Máximo&lt;/FONT&gt;" />
@@ -3282,8 +3147,6 @@
 	<key id="$s_adventure_level_weekly_mission_title" value="Missão Semanal" feature="AdventureLevelMission" />
 	<key id="$s_adventure_level_weekly_mission_desc" value="Obtenha recompensas ao aumentar seu nível de prestígio. As missões semanais reiniciam toda sexta-feira, às 00:00." feature="AdventureLevelMission" />
 	<key id="$s_world_champion_move_field" value="Ir ao Local Agora" />
-	<key id="$s_burning_levelup_event_desc_btn" value="KORFLASH_$S_BURNING_LEVELUP_EVENT_DESC_BTN_VALUE:[F]Event" locale="" feature="Event" />
-	<key id="$s_burning_levelup_event_desc_btn" value="Inverno Ardente" locale="NA" feature="Event" />
 	<key id="$stormbar_meter" value="{0} M" />
 	<key id="$s_change_job_btn_exit" value="ESC" />
 	<key id="$s_change_job_btn_change" value="Subir de Nível!" />
@@ -3297,17 +3160,6 @@
 	<key id="$s_lapenshardsystemdialog_upgrade_btn_success" value="Fusão Bem-sucedida" feature="Lapenshard01" />
 	<key id="$s_lapenshardsystemdialog_upgrade_btn_success_limit" value="&lt;FONT color=&apos;#707070&apos; size=&apos;16&apos; &gt;Um poder desconhecido está impedindo o aprimoramento da lapentita.&lt;/FONT&gt;" feature="Lapenshard01" />
 	<key id="$s_lapenshardsystemdialog_upgrade_btn_fail" value="Fusão Malsucedida" feature="Lapenshard01" />
-	<key id="$s_banner_couple_dance" value="KORFLASH_$S_BANNER_COUPLE_DANCE_VALUE" />
-	<key id="$s_couple_dance_event_dialog_title" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_TITLE_VALUE" />
-	<key id="$s_couple_dance_event_dialog_reward_btn" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_REWARD_BTN_VALUE" />
-	<key id="$s_couple_dance_event_dialog_open_banner_btn" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_OPEN_BANNER_BTN_VALUE" />
-	<key id="$s_couple_dance_event_dialog_close_banner_btn" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_CLOSE_BANNER_BTN_VALUE" />
-	<key id="$s_couple_dance_event_dialog_top_desc" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_TOP_DESC_VALUE" />
-	<key id="$s_couple_dance_event_dialog_bottom_desc" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_BOTTOM_DESC_VALUE" />
-	<key id="$s_couple_dance_event_dialog_reward_title0" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_REWARD_TITLE0_VALUE" />
-	<key id="$s_couple_dance_event_dialog_reward_title1" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_REWARD_TITLE1_VALUE" />
-	<key id="$s_couple_dance_event_dialog_reward_title2" value="KORFLASH_$S_COUPLE_DANCE_EVENT_DIALOG_REWARD_TITLE2_VALUE" />
-	<key id="$s_couple_dance_event_message_stage_number" value="KORFLASH_$S_COUPLE_DANCE_EVENT_MESSAGE_STAGE_NUMBER_VALUE" />
 	<key id="$s_closet_title" value="Guarda-roupa" feature="Closet" />
 	<key id="$s_closet_text_shortcutkey" value="Comando de Atalho" feature="Closet" />
 	<key id="$s_closet_btn_puton" value="Equipar" feature="Closet" />
@@ -3318,7 +3170,7 @@
 	<key id="$s_closet_tooltip_btn_puton" value="Equipa os itens salvos neste conjunto." feature="Closet" />
 	<key id="$s_closet_tooltip_btn_save" value="Salva seus &lt;FONT color=&apos;#ffd200&apos;&gt;itens equipados atualmente&lt;/FONT&gt; neste conjunto." feature="Closet" />
 	<key id="$s_closet_tooltip_btn_clear" value="Limpa todos os itens salvos neste conjunto." feature="Closet" />
-	<key id="$s_closet_tooltip_btn_info" value='&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Usando o Guarda-roupa&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO guarda-roupa permite salvar conjuntos de equipamentos ou trajes e alternar instantaneamente entre eles. Basta definir o tipo de guia como &quot;Equipamento&quot; ou &quot;Traje&quot; e apertar o botão &quot;Salvar&quot; para salvar os equipamentos ou trajes que você está usando no momento. Você pode equipar conjuntos de guarda-roupa mais rapidamente ao atribuí-los a um comando de atalho. &#x0A;&#x0A;O guarda-roupa fica indisponível durante um combate. Se você não tiver mais um item ou não cumprir mais os requisitos para equipá-lo, ele será ignorado ao se equipar um conjunto. Se você não vir um item equipado em seu personagem, verifique as configurações da sua Insígnia da Transparência.' feature="Closet" />
+	<key id="$s_closet_tooltip_btn_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Usando o Guarda-roupa&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO guarda-roupa permite salvar conjuntos de equipamentos ou trajes e alternar instantaneamente entre eles. Basta definir o tipo de guia como &quot;Equipamento&quot; ou &quot;Traje&quot; e apertar o botão &quot;Salvar&quot; para salvar os equipamentos ou trajes que você está usando no momento. Você pode equipar conjuntos de guarda-roupa mais rapidamente ao atribuí-los a um comando de atalho. &#xA;&#xA;O guarda-roupa fica indisponível durante um combate. Se você não tiver mais um item ou não cumprir mais os requisitos para equipá-lo, ele será ignorado ao se equipar um conjunto. Se você não vir um item equipado em seu personagem, verifique as configurações da sua Insígnia da Transparência." feature="Closet" />
 	<key id="$s_closet_tooltip_btn_input" value="Para vincular um conjunto de guarda-roupa a um comando de Atalho, clique na caixa de texto e pressione uma comando." feature="Closet" />
 	<key id="$s_tooltip_myinfo_closet" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Gerenciar Guarda-roupa&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDivida equipamentos e trajes em conjuntos para equipá-los rapidamente com um comando de atalho!" feature="Closet" />
 	<key id="$s_reconnect_message" value="Reconectando. ({0}/{1})" />
@@ -3341,16 +3193,16 @@
 	<key id="$s_homemenu_dialog_blueprintmode" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Entrar / Sair do Gerador de Plantas&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPlaneje o esquema da casa, que pode ser salvo na forma de uma planta e vendido para outros jogadores na Loja de Criações." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_designsave" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Salvar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSalve o design atual de sua casa para criar uma planta." />
 	<key id="$s_homemenu_dialog_designload" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Carregar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCarregue uma planta salva e aplique-a à sua casa." />
-	<key id="$s_homemenu_dialog_screenshot" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Captura de Tela&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCaptura uma imagem do estado atual da sua tela e a salva na pasta de capturas de tela." />
+	<key id="$s_homemenu_dialog_screenshot" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Captura de Tela&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCaptura uma imagem do estado atual da sua tela e a salva na pasta de capturas de tela. " />
 	<key id="$s_homemenu_dialog_freecamera" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Ativar ou Desativar Câmera Livre&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEntrar ou interromper o modo câmera livre. Não é possível ativar o modo câmera livre enquanto você estiver mobiliando." />
 	<key id="$s_homemenu_dialog_blueprintsave" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Salvar Planta&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSalve o esquema atual no Gerador de Plantas para uso futuro." feature="Blueprint" />
-	<key id="$s_homemenu_dialog_homepriority" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Permissões da Propriedade&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAjustar as permissões de jogadores que podem visitar sua propriedade." />
-	<key id="$s_homemenu_dialog_homeattribute" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Configurações do Interior&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAjuste as configurações do interior de sua casa, tais como iluminação, plano de fundo e ângulo da câmera." />
+	<key id="$s_homemenu_dialog_homepriority" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Permissões da Propriedade&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAjustar as permissões de jogadores que podem visitar sua propriedade. " />
+	<key id="$s_homemenu_dialog_homeattribute" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Configurações do Interior&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAjuste as configurações do interior de sua casa, tais como iluminação, plano de fundo e ângulo da câmera. " />
 	<key id="$s_homemenu_dialog_homedemolish" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Esvaziar Interior&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nRemove todos os decorativos colocados em sua casa. Eles retornam para sua lista de mobília. Se você sair de casa ou mover decorativos nesse momento, todo o processo pode ser cancelado.&lt;/FONT&gt;" />
 	<key id="$s_homemenu_dialog_blueprintimport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Carregar Planta&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nCarregue um esquema salvo no Gerador de Plantas e aplique-o no local." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintexport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Criar Planta&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nTransforme o esquema atual de sua casa em uma planta no Gerador de Plantas." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Comprar Plantas&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nConfira as plantas à venda na Loja de Criações." feature="BlueprintMarket" />
-	<key id="$s_sidepopup_fieldwar_enter" value="Entrar" feature="" />
+	<key id="$s_sidepopup_fieldwar_enter" value="Entrar" />
 	<key id="$s_collect_item_group_event_dialog_recieve_button" value="Resgatar" feature="Event" />
 	<key id="$s_chat_emoticon_title" value="Adesivo" feature="ChatEmoticon" />
 	<key id="$s_chat_emoticon_empty_message" value="Você não possui adesivos favoritos." feature="ChatEmoticon" />
@@ -3405,9 +3257,457 @@
 	<key id="$s_hideandseek_msg_exp" value="Experiência" />
 	<key id="$s_hideandseek_msg_reward" value="Recompensa" />
 	<key id="$s_hideandseek_reward_text" value="Você recebeu {0} item(ns) como recompensa." />
-	<key id="$s_itemgacha_dialog_single_open" value="Abrir 1" feature="" />
-	<key id="$s_itemgacha_dialog_multi_open" value="Abrir 10" feature="" />
-	<key id="$s_itemgacha_dialog_probability" value="Chances" feature="" />
-	<key id="$s_itemgacha_dialog_coinshop_open" value="Loja de Moedas" feature="" />
-	<key id="$s_itemgacha_dialog_show_effect" value="Pular animação" feature="" />
+	<key id="$s_itemgacha_dialog_single_open" value="Abrir 1" />
+	<key id="$s_itemgacha_dialog_multi_open" value="Abrir 10" />
+	<key id="$s_itemgacha_dialog_probability" value="Chances" />
+	<key id="$s_itemgacha_dialog_coinshop_open" value="Loja de Moedas" />
+	<key id="$s_itemgacha_dialog_show_effect" value="Pular animação" />
+	<key id="$s_quest_guide_tooltip_party_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Encontrar Equipe&lt;/FONT&gt;\nRecrute outros aventureiros para entrarem na masmorra com você. Em seguida, todos serão teleportados para a entrada da masmorra. Se você já tiver uma equipe, este botão vai lhe permitir recrutar mais membros.\n\nSe você quiser entrar imediatamente na masmorra com sua equipe atual, clique no botão &lt;FONT color=&apos;#45D1FF&apos;&gt;Entrar com Equipe&lt;/FONT&gt;, encontrado no verbete da masmorra no Catálogo de Masmorras." feature="DirectQuestFindParty" />
+	<key id="$s_gamemenu_popup_survival" value="Batalha do Cogurrei" feature="SurvivalContents01" />
+	<key id="$s_gamemenu_popup_mushking_royal" value="Batalha do Cogurrei" feature="SurvivalContents03" />
+	<key id="$s_tooltip_myinfo_stat_1_1_kr" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Bônus de Ataque&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nO bônus no poder do ataque. Aumenta o dano causado aos inimigos." />
+	<key id="$s_achieve_disabled" value="Compre o Pacote de Fundador para acessar este conteúdo." feature="FoundersPackMode" />
+	<key id="$s_mesoMarket_search_sale_meso" value="Preço de Mesos" feature="MesoMarketNA" locale="NA" />
+	<key id="$s_mesoMarket_myToken" value="Saldo" feature="MesoMarketNA" />
+	<key id="$s_mesoMarket_btn_detail" value="Ajuda para o Mercado de Mesos" feature="MesoMarketNA" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pedir Ajuda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode pedir ajuda a um aventureiro mais forte que conheça bem esta masmorra.\nClique no botão para enviar um pedido público de ajuda!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Qualificações para Ajudar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPara responder a um pedido de ajuda nesta masmorra, você deve completá-la pelo menos dez vezes. Após atingir o Nv. 50, você estará qualificado imediatamente para ajudar com masmorras de Aventura de Nv. 50 ou inferior." feature="FindDungeonHelp" />
+	<key id="$s_token_pocket_meso_market_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Símbolo de Meso&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nMoeda usada no Mercado Negro para a compra de mesos. Clique no botão Ajuda no Mercado Negro para saber como comprar Símbolos de Meso." feature="MesoMarketToken" />
+	<key id="$s_bluemarble_warning" value="Cada jogada custa 2 Moedas de Eterina." locale="NA" />
+	<key id="$s_bluemarble_coin_count" value="Total de Moedas:" locale="NA" />
+	<key id="$s_gallery_desc_1" value="Até 31/12/2019 23:59:59 UTC!" locale="NA" />
+	<key id="$s_maple_survival_active_paid_pass" value="Ativar" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_level_text" value="Nível Desbloqueado" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_reward_detail" value="Este passe concede recompensas adicionais conforme você aumenta seu nível real. Use o passe dourado para ganhar ainda mais recompensas!" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_receive_button" value="Resgatar Recompensas" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_season_text_tooltip" value="Os resultados de partidas da pré-temporada não afetam sua classificação. As recompensas da temporada são enviadas à sua caixa de correio durante o horário de manutenção." feature="SurvivalContents03" />
+	<key id="$s_maple_survival_champion_pass_title" value="Passe Real" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_champion_pass_tooltip" value="Pressione o botão &apos;Resgatar Recompensas&apos; para resgatar recompensas por ter avançado seu nível real. Você pode resgatar de uma só vez recompensas correspondentes a até 8 níveis." feature="SurvivalContents03" />
+	<key id="$s_maple_survival_complete_free" value="&lt;Img Src=&apos;survival_reward_icon&apos; vspace=&apos;-10&apos;&gt;Você resgatou todas as suas recompensas. Legal!" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_complete_paid" value="&lt;Img Src=&apos;survival_reward_icon&apos; vspace=&apos;-10&apos;&gt;Você resgatou todas as suas recompensas. Legal!" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_title" value="Selecione uma Modalidade" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_solo_title" value="Individual" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_solo_desc" value="Você está &lt;FONT color=&apos;#ffd200&apos;&gt;por sua conta&lt;/FONT&gt;. Todos são inimigos." feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_squad_title" value="Esquadrão" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_squad_desc" value="Lute em uma &lt;FONT color=&apos;#ffd200&apos;&gt;equipe de 2 a 4 jogadores&lt;/FONT&gt;. Se você entrar na fila de espera sozinho, será designado a uma equipe com &lt;FONT color=&apos;#d659ff&apos;&gt;jogadores aleatórios&lt;/FONT&gt;. Caso contrário, você entrará com sua equipe atual. Caso tenha formado uma equipe, &lt;FONT color=&apos;#d659ff&apos;&gt;somente o líder da equipe&lt;/FONT&gt; pode entrar na fila de espera." feature="SurvivalContents03" />
+	<key id="$s_maple_survival_ui_skin_title" value="Medalhas Equipadas" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_info_tooltip" value="Equipe medalhas para alterar a aparência de caudas, transportes terrestres e planadores durante as partidas da Batalha do Cogurrei." feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name1" value="Cauda" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name2" value="Transporte Terrestre" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name3" value="Planador" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_ui_auto_item_title" value="Celebração da Vitória" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_auto_item_tooltip" value="Arraste os fogos de artifício até um dos espaços abaixo para que eles explodam &lt;FONT color=&apos;#ffd200&apos;&gt;sempre que você derrotar outro jogador durante uma partida.&lt;/FONT&gt; Uma unidade de fogos de artifício será consumida a cada vez que eles explodirem. Somente personagens que tiverem equipado fogos de artifício poderão acioná-los. Para removê-los, clique neles com o botão direito." feature="SurvivalContents03" />
+	<key id="$s_maple_survival_levelInfo_level_title" value="Nível de Batalhador" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_level_tooltip" value="Ganhe experiência na Batalha do Cogurrei para aumentar seu nível real, que pode ser usada para obter recompensas de passes reais ou até mesmo uma nova insígnia temática!" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_reward_info_title" value="Passe de Batalha" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_ui_title" value="Medalhas da Batalha do Cogurrei" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_ui_puton" value="Equipar" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_ui_putoff" value="Desequipar" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_title" value="Passe Dourado de Batalha do Cogurrei" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_default_title" value="Passe Dourado de Batalha" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_bundle_title" value="Pacote de Passe Dourado de Batalha" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_bundle_desc" value="Passe Dourado de Batalha + Itens Bônus" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_bundle_bonus_item" value="&lt;Img Src=&apos;icon_tiny_box&apos; vspace=&apos;-3&apos;/&gt; Itens de Bônus" feature="SurvivalContents03" />
+	<key id="$s_burning_levelup_event_desc_btn" value="Inverno Ardente" feature="Event" locale="NA" />
+	<key id="$s_talkpanelsetting_community" value="Comunidades" />
+	<key id="$s_inventory_item_remakeoption" value="Alterar Atributos" />
+	<key id="$s_inventory_open_bank_disable_tooltip" value="Usar Cofre do Banco\n \nConjura um Cofre do Banco." />
+	<key id="$s_gameoption_option_ui_scale" value="Tamanho" />
+	<key id="$s_gamemenu_btn_bingoevent" value="Bingo" />
+	<key id="$s_gamemenu_btn_construct" value="Decoração" />
+	<key id="$s_worldmap_radio_hotplace" value="Pontos Badalados" />
+	<key id="$s_minimap_portal" value="Portais" />
+	<key id="$s_minimap_buddy" value="Amigos" />
+	<key id="$s_ugc_itemedit_btn_showtext" value="Conteúdo" />
+	<key id="$s_objectstore_title" value="Meu Depósito" />
+	<key id="$s_tooltip_partysearch_dropdown_sort_party_search" value="Ordem de Classificação\n \nExibe a lista em uma ordem específica." />
+	<key id="$s_msgbox_addsome3" value="+100" />
+	<key id="$s_achieve_filter_3" value="Favoritos" />
+	<key id="$s_manufacture_make" value="Pedido" />
+	<key id="$s_mail_send_title" value="Escrever Carta" />
+	<key id="$s_guideevent_skip" value="PULAR" />
+	<key id="$s_chaosdps_timer" value="Tempo" />
+	<key id="$s_guild_info_button_guild_rank" value="Classificações" />
+	<key id="$s_guild_tooltip_donate" value="{0} vez(es)" />
+	<key id="$s_guild_championship_title" value="Campeonato da Guilda" />
+	<key id="$s_guild_storage_history" value="Histórico de Presentes" />
+	<key id="$s_guild_stroage_gift" value="Presente" />
+	<key id="$s_guild_stroage_gift_popup_select_member" value="Selecionar membro da guilda" />
+	<key id="$s_guild_raid_menu_info" value="Detalhes" />
+	<key id="$s_guild_main_tab_menu15" value="Arquivos" />
+	<key id="$s_mesoMarket_list_column_price" value="Preço" />
+	<key id="$s_blackmarket_remind_time" value="Tempo Restante:" />
+	<key id="$s_blackmarket_sell_average" value="Preço Médio (12 itens)" />
+	<key id="$s_enchant_fail_desc1" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;A falha reduzirá o nível de encantamento do item.&lt;/FONT&gt;" />
+	<key id="$s_smart_recommend_billing_confirm" value="Aceitar" />
+	<key id="$s_attend_gift_detail" value="Detalhes" />
+	<key id="$s_dungeon_room_require_info" value="Restrições" />
+	<key id="$s_dungeon_room_solo_enter" value="Entrar Sozinho" />
+	<key id="$s_dungeon_room_maxPlayer" value="Máximo de Integrantes" />
+	<key id="$s_dungeon_room_findHelper_event" value="Evento de Dobro de Moedas" feature="FindDungeonHelp" />
+	<key id="$s_dungeon_room_findMember_button" value="Solicitar Membro da Equipe" feature="FindDungeonHelp" />
+	<key id="$s_dungeon_room_change_expert_button" value="Torne-se um Veterano" />
+	<key id="$s_dungeonSearch_title" value="Mapa de Desafios" />
+	<key id="$s_dungeonSearch_submenu_lapenta" value="Olho de Lapenta" feature="LapentaDungeon" />
+	<key id="$s_dungeonSearch_submenu_colosseum" value="Batalha da Rainha Jujuba" feature="ColosseumDungeon" />
+	<key id="$s_meratmarket_title_red" value="Vermelho" />
+	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Taxa de Anúncio&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nA taxa varia segundo o número de itens anunciados." />
+	<key id="$s_meratmarket_title_premium" value="Loja Premium" />
+	<key id="$s_home_info_recommend" value="Indicar" />
+	<key id="$s_token_pocket_title" value="Carteira" />
+	<key id="$s_partysearchregister_dialogName" value="Localizador de Equipe" />
+	<key id="$s_visitorsbook_comment" value="Deixe um comentário do livre de convidados!" />
+	<key id="$s_systemmail_notify_detail" value="Exibir os Detalhes do Evento" />
+	<key id="$s_systemmail_notify_close" value="Fechar" />
+	<key id="$s_systemmail_notify_onTime_Title" value="Especial 15h em Ponto!" />
+	<key id="$s_pvp_result_msg_rank" value="Classificação" />
+	<key id="$s_pvp_result_msg_damage" value="Dano" />
+	<key id="$s_login_msg_id" value="ID" />
+	<key id="$s_dark_stream_result_out" value="Sair" />
+	<key id="$s_fishingbook_water" value="Água Doce" />
+	<key id="$s_petsystem_evolution_cost" value="Custo:" feature="PetEvolution01" />
+	<key id="$s_writemusic_text_info_harmony" value="Harmonias: " />
+	<key id="$s_writemusic_text_info_total_musicscore_length" value="Total de Notas: " />
+	<key id="$s_writemsuic_checkbox_pianoroll_realtime_update" value="Atualização em Tempo Real" />
+	<key id="$s_rank_pvp_register_show_grade" value="Classificação" />
+	<key id="$s_itemremake_scroll_btn_apply_pet" value="Aplicar Bônus" />
+	<key id="$s_common_copyright" value="Copyright. NEXON Korea Corporation. Todos os direitos reservados." locale="KR" />
+	<key id="$s_common_copyright" value="Copyright © 2019 NEXON Korea Corporation Todos os direitos reservados." locale="JP" />
+	<key id="$s_talkpanelsetting_notice_friend" value="Notificação de amigos" />
+	<key id="$s_inventory_unlimited_enchant" value="Superação de limites" feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Superação de limites&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDesperte o poder oculto em seu equipamento\nTransformando-o em um equipamento que supera os limites existentes.\nInvocando Raneomone." feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Superação de limites&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDesperte o poder oculto em seu equipamento\nTransformando-o em um equipamento que supera os limites existentes." feature="UnlimitedEnchant" />
+	<key id="$s_inventory_open_bank_tooltip_pcbang" value="- Benefícios permanentes ao acessar o PC bang" feature="PCBang" />
+	<key id="$s_gameoption_tab_agreement" value="Delegação de dados pessoais" />
+	<key id="$s_gameoption_category_personealinfo_agreement" value="Delegação de dados pessoais" />
+	<key id="$s_gameoption_singleriding" value="Montaria de 2 pessoas para uso solo" />
+	<key id="$s_gameoption_charSoundStep" value="Voz do personagem" />
+	<key id="$s_gameoption_optimizer_show_physx" value="Aplicar física do cabelo de outro personagem" />
+	<key id="$s_gameoption_agreement_personal_info" value="Delegação de permissão para transferência de dados pessoais para o exterior" />
+	<key id="$s_gameoption_agreement_radio_agree" value="Permitir" />
+	<key id="$s_gamemenu_popup_longtermattendgift" value="Ouro\nDuckyball" />
+	<key id="$s_gamemenu_popup_coupledance" value="Festa de Dança do Amor" />
+	<key id="$s_gamemenu_popup_coupledance" value="Festa de Dança de Casamento" locale="CN" />
+	<key id="$s_gamemenu_popup_world_champion" value="Raid Mundial" feature="WorldChampionMushroom" />
+	<key id="$s_gamemenu_btn_pssbshop" value="Loja de Moedas de Avatar" locale="JP" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="Adicionar Insígnias Meta" locale="KR" />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="Adicionar Insígnias Meta" feature="Event" locale="CN" />
+	<key id="$s_gamemenu_btn_wedding" value="Casamento" feature="Wedding" />
+	<key id="$s_myInfo_codi" value="Códigos" feature="Skin2tab" />
+	<key id="$s_buddy_tab_homeblocklist" value="Lista de Bloqueio da Casa" />
+	<key id="$s_buddy_notice_homeblock" value="Ao bloquear, você pode impedir que todos os personagens da conta do oponente visitem sua casa." />
+	<key id="$s_tooltip_myinfo_tab_skin" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Item de equipamento de skin&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEste é um slot onde você pode equipar ou remover itens de skin.\nVocê pode equipar clicando com o botão direito no item da janela de inventário junto com a tecla de atalho para a aba de skins." feature="Skin2tab" />
+	<key id="$s_tooltip_myinfo_gem_meta" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Insígnia Meta&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode aplicar os atributos concedidos pela insígnia meta ao seu personagem." feature="GemMeta" />
+	<key id="$s_tooltip_myinfo_stat_0_8" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Escudo&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEste é o escudo do personagem.\nEm situações normais, você perderá o escudo em vez de HP." />
+	<key id="$s_tooltip_gameoption_agreement" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Delegação de informações pessoais&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode configurar as opções relacionadas a informações pessoais." />
+	<key id="$s_tooltip_ugcupload_wedding_profile_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Registrar&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nRegistra a imagem selecionada como foto de casamento." feature="Wedding" />
+	<key id="$s_msgbox_cnt" value="unidade" />
+	<key id="$s_delete_account" value="Excluir conta" />
+	<key id="$s_smart_recommend_billing_price_num" value="unidade" />
+	<key id="$s_dungeon_room_probability_notice" value="Inclui itens de sorte" />
+	<key id="$s_dungeonSearch_submenu_worldBoss" value="Invasão do mundo" feature="WorldBossDungeon" />
+	<key id="$s_dungeonSearch_submenu_worldBoss_tooltip" value="Impeça a invasão mundial." feature="WorldBossDungeon" />
+	<key id="$s_meratmarket_text_changeable_comming_soon" value="Em breve..." />
+	<key id="$s_meratmarket_text_changeable_remainTime" value="Tempo restante: {0}" />
+	<key id="$s_meratmarket_text_changeable_nextTime" value="Até a próxima venda: {0}" />
+	<key id="$s_meratmarket_text_random_payback_check" value="Verificar bônus" />
+	<key id="$s_meratmarket_bill_notice_cashshop_gift" value="Os presentes enviados podem ser verificados no armazém de caixa da pessoa que recebeu o presente." locale="KR" />
+	<key id="$s_meratmarket_tooltip_merat_area" value="Se ambos os méritos azuis e vermelhos estiverem disponíveis, os méritos vermelhos que você possui serão consumidos primeiro." locale="JP" />
+	<key id="$s_cashshop_refund" value="Itens comprados diretamente que estão armazenados no armazém de caixa podem ser &lt;FONT color=&apos;#FF5F5F&apos; size=&apos;15&apos;&gt;cancelados dentro de 7 dias após a compra&lt;/font&gt;.&lt;br&gt;&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos;&gt;(No entanto, não é possível cancelar após transferi-los para o inventário.)&lt;/font&gt;" />
+	<key id="$s_cashshop_jp_cash_name" value="Pontos" locale="JP" />
+	<key id="$s_cashshop_jp_detail_button" value="Lei de Liquidação de Fundos" locale="JP" />
+	<key id="$s_msgbox_ugc_shop_terms_title" value="Antes de usar o UGC dos designers, verifique as informações abaixo." locale="JP" />
+	<key id="$s_partysearch_text_ask_chief" value="Consulta sobre o líder da festa" />
+	<key id="$s_massiveevent_moviecounter_count" value="Início" />
+	<key id="$s_petsystem_remakeoption_title2" value="Material fixo para habilidades adicionais de pets" feature="PetRemakeBlock01" />
+	<key id="$s_itemremake_scroll_notice_pet_ingredient_item" value="Por favor, coloque o material fixo para habilidades adicionais de pets que você usará." feature="PetRemakeBlock02" />
+	<key id="$s_itemsocketsystem_tab_socket_transfer" value="Transferência de socket de skin" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_tab_gemstone_swap" value="Movimento de gemas" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_title_source_slots" value="Item de skin para o qual o socket será transferido" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_title_target_slots" value="Item de skin que receberá a transferência do socket" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_source_slot" value="Item para mover a gema" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_dest_slot" value="Item para o qual a gema será movida" feature="ItemSocketTransfer01" />
+	<key id="$s_bluemarble_title" value="Inverno Marvel" locale="CN" />
+	<key id="$s_bluemarble_title" value="Marvel em comemoração à abertura" locale="JP" />
+	<key id="$s_bluemarble_tag_trap" value="Prisão" />
+	<key id="$s_marketbill_notice_cashshop_gift" value="Os presentes enviados podem ser verificados no armazém de caixa da pessoa que recebeu o presente." locale="KR" />
+	<key id="$s_marketbill_text_probability" value="Informações sobre a taxa de captura" />
+	<key id="$s_marketbill_tooltip_probability" value="As informações sobre a taxa podem ser verificadas no site oficial." />
+	<key id="$s_mastery_dialog_slot_category_1" value="Uma mão" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_crafting_magic_scroll_meso" value="Custo de encantamento" feature="MagicScroll01" />
+	<key id="$s_magic_scroll_dialog_crafting_job_warn" value="É uma runa de equipamento que não pode ser equipada." feature="MagicScroll01" />
+	<key id="$s_home_option_text_private_msg" value="No estado privado, outros personagens não podem visitar sua casa.\nPara convidar outros personagens, altere as configurações de privacidade." />
+	<key id="$s_item_merge_select_option_msg1" value="Selecione opções adicionais a serem aplicadas." feature="ItemMerge" />
+	<key id="$s_item_merge_select_option_msg2" value="Se não selecionar, as opções atuais serão mantidas." feature="ItemMerge" />
+	<key id="$s_mentoring_shop" value="Loja" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentee_desc" value="Você pode receber até 20 convites de mentores." feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentor_renderer_invite" value="Convite para mentor" feature="Mentoring" />
+	<key id="$s_gallery_title" value="Galeria de Shubanda para a primavera" feature="23_04" />
+	<key id="$s_gallery_desc_1" value="Até antes da manutenção em 09 de fevereiro de 2023!" />
+	<key id="$s_gallery_desc_1" value="Até antes da manutenção em 11 de maio de 2023!" feature="23_04" />
+	<key id="$s_keysetting_select_default_warn" value="(Para uma melhor experiência de jogo, esta opção é recomendada.)" />
+	<key id="$s_maple_survival_open_time" value="Horário de funcionamento: das 17h às 23h" feature="SurvivalContents01" locale="CN" />
+	<key id="$s_maple_survival_open_time" value="Horário de funcionamento: das 17h às 23h" feature="SurvivalContents01" locale="KR" />
+	<key id="$s_world_champion_title" value="Raid mundial Mushking" feature="WorldChampionMushroom" />
+	<key id="$s_world_champion_explain2" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Localização do creme bloqueador de esporos&lt;/FONT&gt;: Recompensa de presença (Correio)" feature="WorldChampionMushroom" />
+	<key id="$s_world_champion_explain3" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Recompensa de nível acumulado&lt;/FONT&gt;: Recebimento pelo correio de segunda a domingo da próxima semana" feature="WorldChampionMushroom" />
+	<key id="$s_world_champion_explain4" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Recompensa de ranking&lt;/FONT&gt;: Recebimento pelo correio após a próxima manutenção" feature="WorldChampionMushroom" />
+	<key id="$s_burning_levelup_event_desc_btn" value="Evento de queima" feature="Event" />
+	<key id="$s_banner_couple_dance" value="Vamos dançar juntos!" />
+	<key id="$s_couple_dance_event_dialog_title" value="Festa de Dança do Amor" />
+	<key id="$s_couple_dance_event_dialog_title" value="Festa de Dança de Casamento" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_title" value="Adicionar medalha meta " feature="Event" locale="KR" />
+	<key id="$s_collect_item_group_event_dialog_title" value="Adicionar Insígnias Meta" feature="Event" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* Mesmo que você receba a recompensa de adição, os itens de material de adição não desaparecerão." feature="Event" locale="KR" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* Mesmo que você receba a recompensa de adição, os itens de material de adição não desaparecerão." feature="Event" locale="CN" />
+	<key id="$s_wedding_billboard_empty" value="Não há casamentos em andamento." feature="Wedding" />
+	<key id="$s_wedding_billboard_title" value="Quadro de avisos de casamento" feature="Wedding" />
+	<key id="$s_wedding_billboard_attend" value="Participar" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_publicable" value="Visibilidade" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_item" value="Presente de reserva" feature="Wedding" />
+	<key id="$s_wedding_dialog_divorce" value="Verificar" feature="Wedding" />
+	<key id="$s_wedding_hall_list_open" value="Casamentos programados" feature="Wedding" />
+	<key id="$s_wedding_hall_list_progress" value="Casamentos em andamento" feature="Wedding" />
+	<key id="$s_wedding_hall_list_desc" value="Você pode entrar ao selecionar o casamento." feature="Wedding" />
+	<key id="$s_wedding_hall_list_enter" value="Entrar" feature="Wedding" />
+	<key id="$s_payback_dialog_title" value="status de realização do pagamento" feature="Payback" />
+	<key id="$s_payback_dialog_banner_chatballoon" value="Aumente apenas seu nível de aventura e todos ganham reembolso! Participe agora mesmo!" feature="Payback" />
+	<key id="$s_payback_dialog_banner_desc" value="** O valor do cashback será concedido como mérito geral sem prazo de uso e será enviado por correio no dia 1 do mês seguinte ao término do evento.\n** É possível receber cashback de até 100 mil méritos, e os valores adquiridos com méritos de jogo ou méritos de evento estão excluídos." feature="Payback" locale="CN" />
+	<key id="$s_unlimited_enchant_dialog_title" value="equipamentos que podem ser aprimorados" feature="UnlimitedEnchant" />
+	<key id="$s_lead_skill_dialog_char_unlimited_level" value="aprimoramento de {0} níveis" />
+	<key id="$s_myInfo_screenshot" value="KORFLASH_$S_MYINFO_SCREENSHOT_VALUE:[F]ScreenshotWebSend" feature="ScreenshotWebSend" />
+	<key id="$s_talkpanelsetting_notice_guild" value="Notificação de guilda" />
+	<key id="$s_talkpanelsetting_notice_party" value="Notificação de festa" />
+	<key id="$s_talkpanelsetting_notice_club" value="Notificação de clube" />
+	<key id="$s_talkpanelsetting_notice_mentoring" value="Notificação de mentor" />
+	<key id="$s_talkpanelsetting_notice_etc" value="Outras notificações" />
+	<key id="$s_gameoption_agreement_summary" value="Para uma melhor experiência de jogo, a empresa deve fornecer suas informações, como registros de jogo, à Nexon, desenvolvedora de [MapleStory 2]. \nPara segurança, a empresa processará e transmitirá suas informações, como registros de jogo, de forma identificável e criptografada. \nVocê pode exercer seus direitos relacionados a informações pessoais sobre as informações recebidas pela Nexon. \nVerifique as regras específicas clicando em &quot;Ver detalhes&quot;." />
+	<key id="$s_gamemenu_btn_collectitemgroupevent" value="Adicionar Insígnias Meta" feature="GemMeta" locale="JP" />
+	<key id="$s_worldmap_tooltip_airtaxi_ticket" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Taxi Aéreo Lotus&lt;/FONT&gt;\nPara usar o Taxi Aéreo Lotus, é necessário um rádio Lotus,\ne ao usar uma vez, um rádio será descontado.\nUsando um rádio Lotus, é possível se mover para um mapa que você ainda não visitou.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;taxi aéreo lotus grátis&lt;/FONT&gt;\nCom o rádio Lotus fornecido como evento, você pode usar um para se mover para um mapa que já visitou.\nNão é possível se mover para um mapa que você ainda não visitou." locale="JP" />
+	<key id="$s_tooltip_myinfo_tab_codi" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Item de coordenação&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEste é um slot onde você pode equipar ou remover itens de skin.\nAo usar, apenas a aparência da skin é refletida no personagem.\nVocê pode equipar clicando com o botão direito no item da janela de inventário." feature="Skin2tab" />
+	<key id="$s_tooltip_community_tab_homeblock" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Lista de bloqueio da minha casa&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nMostra a lista de personagens bloqueados na minha casa." />
+	<key id="$s_meratmarket_text_random_sale_check" value="Verificar preço com desconto" />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Fruto do Harvi&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPode ser obtido ao alcançar registros no Dark Stream ou usando os galardões da missão semanal, os ramos das sombras. \nUse-o ao trocar por itens especiais com a fada colecionadora Harvi no local de escavação de Pillar Peak.\nO fruto do Harvi será redefinido na data previamente anunciada antes do início da próxima temporada." locale="KR" />
+	<key id="$s_token_pocket_habi_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Fruto do Harvi&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPode ser obtido ao alcançar registros no Dark Stream ou usando os galardões da missão semanal, os ramos das sombras. \nUse-o ao trocar por itens especiais com a fada colecionadora Harvi no local de escavação de Pillar Peak.\nO fruto do Harvi será redefinido na data previamente anunciada antes do início da próxima temporada." locale="CN" />
+	<key id="$s_msgbox_ugc_shop_terms_content" value="Os Designers &lt;FONT color=&apos;#FFD200&apos; &gt; devem incluir o seguinte conteúdo, e a violação da política de operação de UGC pode resultar em restrições ao uso do jogo.&lt;/FONT&gt;\n● Não deve incluir nomes de personagens ou obras específicas em design, nome, tags ou descrições.\n● Não deve incluir logotipos ou marcas registradas específicas em design, nome, tags ou descrições.\n● Não deve utilizar características de design originais de marcas ou obras específicas.\n● Não deve incluir designs e conteúdos que possam causar desconforto a outras pessoas.\n● Não deve incluir conteúdos sugestivos que não sejam adequados para o MapleStory 2, que é utilizado por todas as idades." locale="JP" />
+	<key id="$s_observe_observing_center" value="Atualmente, você está assistindo pela câmera central." />
+	<key id="$s_itemsocketsystem_gemstoneswap_msg_puton_equip" value="Movendo gemas..\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;Selecione o item a ser movido.&lt;/FONT&gt;" feature="ItemSocketSystem" />
+	<key id="$s_itemsocketsystem_sockettransfer_tooltip_info_target_slots" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Item que receberá a transferência do socket&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;/&gt;A transferência de socket de skin só é possível entre skins com o mesmo número de sockets. O item que receberá a transferência do socket deve ter todos os sockets bloqueados." feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_puton_source" value="Expanda o socket para a transferência de skin.\n\n&lt;FONT color=&apos;#FFD200&apos;&gt;Selecione um item.&lt;/FONT&gt;" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_target_slots" value="Selecione o item de skin para o qual deseja transferir o socket.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;A transferência de socket só é possível entre itens de skin com o mesmo número de sockets.\n\nAo transferir o socket, todos os sockets do item de skin transferido serão bloqueados.\n&lt;/FONT&gt;" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_puton_target" value="Selecione o item de skin que receberá o socket." feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_msg_select_warning" value="Uma taxa será cobrada pela transferência de socket e não poderá ser revertida." feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_success_transfer" value="Transferência de socket bem-sucedida" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_sockettransfer_btn_transfer" value="Transferir" feature="ItemSocketTransfer01" />
+	<key id="$s_itemsocketsystem_gemstoneswap_msg_gem_slots" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Primeiro, selecione o item para mover a gema.&lt;/font&gt;\nAo selecionar um item, a lista de gemas que podem ser movidas será exibida automaticamente." feature="ItemSocketSystem" />
+	<key id="$s_characterability_bottom_desc" value="Você pode investir pontos para aprender características." feature="CharacterAbility" />
+	<key id="$s_characterability_point_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pontos de Característica&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nPontos que podem ser usados para aprender características.\nA partir do nível 50, você ganha 1 ponto a cada nível que sobe,\ne a cada vez que aprende uma característica, 1 ponto é subtraído.\nInvista os pontos que possui para aprender as características desejadas.\n&lt;FONT color=&apos;#909090&apos;&gt;A característica selecionada pode ser reiniciada com o botão [Reiniciar].\nNo entanto, após a reinicialização da característica, será necessário aguardar um certo tempo para reiniciar novamente.&lt;/font&gt;" feature="CharacterAbility" />
+	<key id="$s_vip_dialog_benefit_desc" value=" ◆ Ao caçar monstros, você ganha 20% a mais de experiência e mesos.\n ◆ Materiais usados para o encantamento de Ophelia têm 20% de desconto.\n ◆ A taxa de transação de mesos 1:1 e o custo de renascimento de Merits têm 50% de desconto.\n ◆ A velocidade de movimento do personagem aumenta em 5%. (Exceto em áreas PVP)\n ◆ Você pode acessar o cofre do banco a qualquer hora e em qualquer lugar através da janela de itens.\n ◆ Você pode usar masmorras e marcas exclusivas do clube premium.\n ◆ Itens exclusivos, como poções brancas especiais do clube premium, são fornecidos diariamente." locale="CN" />
+	<key id="$s_mastery_dialog_slot_category_2" value="Duas mãos" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_slot_category_4" value="Conjunto" feature="MagicScroll01" />
+	<key id="$s_mentoring_buff_name" value="O aventureiro que voltou" feature="Mentoring" />
+	<key id="$s_mentoring_buff_desc" value="É um prazer e uma alegria encontrar um aventureiro que voltou. \nSe você formar uma festa com um personagem de retorno e estiver no mesmo canal e no mesmo mapa, os buffs serão aplicados. " feature="Mentoring" />
+	<key id="$s_mentoring_mentee_coin_desc" value="Quantidade de pontos de mentoria diários" feature="Mentoring" />
+	<key id="$s_mentoring_mentee_mymentor" value="Meu mentor" feature="Mentoring" />
+	<key id="$s_mentoring_mentee_search_mentor" value="Selecionar mentor" feature="Mentoring" />
+	<key id="$s_mentoring_mentee_recommend_mentor" value="Forme uma festa com seu mentor e embarque em uma aventura no mundo de Maple~" feature="Mentoring" />
+	<key id="$s_mentoring_mentee_party_reward" value="◆ Ganhe pontos de mentoria ao se conectar diariamente\n◆ Ganhe 50 pontos de mentoria ao completar masmorras de aventura [normal] (nível 1-49)\n◆ Ganhe 100 pontos de mentoria ao completar masmorras de aventura [normal] (nível 50 ou mais)\n◆ Ganhe 100 pontos de mentoria ao completar masmorras de evento\n◆ Ganhe 200 pontos de mentoria ao completar masmorras de aventura [difícil]" feature="Mentoring" />
+	<key id="$s_mentoring_mentee_party_reward" value="◆ Ganhe pontos de mentoria ao se conectar diariamente\n◆ Ganhe 50 pontos de mentoria ao completar masmorras de aventura [normal]\n◆ Ganhe 100 pontos de mentoria ao completar masmorras de aventura [difícil]\n◆ Ganhe 200 pontos de mentoria ao completar masmorras de raid caótica\n◆ Ganhe 100 pontos de mentoria ao completar masmorras de evento" feature="Mentoring" locale="JP" />
+	<key id="$s_mentoring_mentor_coin_desc" value="Quantidade de pontos de mentoria diários" feature="Mentoring" />
+	<key id="$s_mentoring_mentor_mymentor" value="Meu mentore" feature="Mentoring" />
+	<key id="$s_mentoring_mentor_search_mentor" value="Encontrar mentor" feature="Mentoring" />
+	<key id="$s_mentoring_mentor_party_reward" value="◆ Ganhe 10 pontos de mentor ao completar masmorras de aventura [normal] com o mentor\n◆ Ganhe 10 pontos de mentor ao completar masmorras de evento com o mentor\n◆ Ganhe 20 pontos de mentor ao completar masmorras de aventura [difícil] com o mentor\n◆ Ganhe 10% dos pontos de mentor normalmente obtidos ao completar masmorras de aventura [normal/difícil] e eventos com personagens de retorno que não são mentores" feature="Mentoring" />
+	<key id="$s_mentoring_mentor_party_reward" value="◆ Ganhe 10 pontos de mentor ao completar masmorras de aventura [normal/difícil] com o mentor\n◆ Ganhe 10 pontos de mentor ao completar masmorras de raid caótica com o mentor\n◆ Ganhe 10 pontos de mentor ao completar masmorras de evento com o mentor\n◆ Ganhe 10% dos pontos de mentor normalmente obtidos ao completar masmorras de aventura [normal/difícil], raids caóticas e eventos com personagens de retorno que não são mentores" feature="Mentoring" locale="JP" />
+	<key id="$s_mentoring_register_mentee_user" value="Apenas um personagem na conta pode ser designado como personagem de retorno. \nVocê deseja designar este personagem como personagem de retorno?" feature="Mentoring" />
+	<key id="$s_mentoring_register_mentor_user" value="Apenas um personagem na conta pode ser designado como mentor. \nVocê deseja designar este personagem como mentor?" feature="Mentoring" />
+	<key id="$s_mentoring_reward_title" value="Benefícios de login" feature="Mentoring" />
+	<key id="$s_mentoring_reward_button" value="Receber recompensas de login" feature="Mentoring" />
+	<key id="$s_mentoring_mission_reset" value="Você pode iniciar uma nova missão de mentor todos os dias às 0h durante 7 dias." feature="Mentoring" />
+	<key id="$s_mentoring_online" value="Online" feature="Mentoring" />
+	<key id="$s_mentoring_offline" value="Offline" feature="Mentoring" />
+	<key id="$s_mentoring_find_mentee_notify" value="Procure por mentores." feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentor_page_title" value="Encontrar mentor" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentor_recommend_mentee" value="Mentores recomendados" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentee_page_title" value="Selecionar mentor" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentee_candidate_mento" value="Personagem que me convidou como mentor" feature="Mentoring" />
+	<key id="$s_world_champion_explain1" value="Mushking aparece em todos os canais &lt;FONT color=&apos;#00a2ed&apos;&gt; ao mesmo tempo &lt;/FONT&gt; e compartilha &lt;FONT color=&apos;#00a2ed&apos;&gt; um HP &lt;/FONT&gt;.\nQuanto mais aventureiros se unirem para capturar o Mushking, mais forte ele se tornará.\nMushking só pode ser atacado quando &lt;FONT color=&apos;#00a2ed&apos;&gt; um creme bloqueador de esporos &lt;/FONT&gt; é usado." feature="WorldChampionMushroom" />
+	<key id="$s_couple_dance_event_dialog_open_banner_btn" value="Inscrever-se para dança de casal" />
+	<key id="$s_couple_dance_event_dialog_close_banner_btn" value="Cancelar inscrição para dança de casal" />
+	<key id="$s_couple_dance_event_dialog_top_desc" value="Jogo de dança de casal de hoje" />
+	<key id="$s_couple_dance_event_dialog_bottom_desc" value="※ O registro e as recompensas da dança de casal são reiniciados todos os dias à meia-noite." />
+	<key id="$s_couple_dance_event_dialog_reward_title0" value="Primeiro" />
+	<key id="$s_couple_dance_event_dialog_reward_title1" value="Segundo" />
+	<key id="$s_couple_dance_event_dialog_reward_title2" value="Terceiro" />
+	<key id="$s_couple_dance_event_message_stage_number" value="ESTÁGIO {0}" />
+	<key id="$s_collect_item_group_event_dialog_title" value="Adicionar medalha meta " feature="GemMeta" locale="JP" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* Após coletar todos os núcleos meta, você pode receber a recompensa clicando em [Receber recompensa adicional]." feature="Event" locale="KR" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* Após coletar todos os núcleos meta, você pode receber a recompensa clicando em [Receber recompensa adicional]." feature="Event" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_desc1" value="* Após coletar todos os núcleos meta, você pode receber a recompensa clicando em [Receber recompensa adicional]." feature="GemMeta" locale="JP" />
+	<key id="$s_collect_item_group_event_dialog_desc2" value="* Mesmo que você receba a recompensa de adição, os itens de material de adição não desaparecem." feature="GemMeta" locale="JP" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="Colete Metacores caçando, tocando música e pescando, e complete a adição. Você pode ter um emblema meta com melhores atributos!" feature="Event" />
+	<key id="$s_wedding_billboard_sub_desc" value="Você pode verificar as informações do casamento em andamento e participar como convidado." feature="Wedding" />
+	<key id="$s_wedding_billboard_date" value="Hora" feature="Wedding" />
+	<key id="$s_wedding_billboard_couple" value="Nome dos noivos" feature="Wedding" />
+	<key id="$s_wedding_billboard_hall" value="Local do casamento" feature="Wedding" />
+	<key id="$s_weddinghall_grade_1" value="Casa" feature="Wedding" />
+	<key id="$s_weddinghall_grade_3" value="Luxo" feature="Wedding" />
+	<key id="$s_weddinghall_time_0" value="12 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_1" value="1 hora" feature="Wedding" />
+	<key id="$s_weddinghall_time_2" value="2 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_3" value="3 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_4" value="4 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_5" value="5 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_6" value="6 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_7" value="7 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_8" value="8 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_9" value="9 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_10" value="10 horas" feature="Wedding" />
+	<key id="$s_weddinghall_time_11" value="11 horas" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_title" value="Reserva de casamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_warn" value="Observações" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_warn_tooltip" value="※ A hora de início do casamento é reservada. Pode ser reservado a cada hora cheia, e a entrada é permitida 5 minutos antes e depois do início.\n\n※ Se os dois noivos não entrarem no local do casamento dentro de 5 minutos antes ou depois do horário reservado e não falarem com o celebrante para iniciar a cerimônia, o casamento será automaticamente cancelado. Nesse caso, o custo da reserva não será reembolsado, e todos os convidados que entraram também serão retirados.\n\n※ Mudanças ou cancelamentos na reserva do casamento só podem ser feitos até 3 horas antes do início da cerimônia. A aparência do ambiente e os brindes mudam dependendo se o horário do casamento é durante o dia ou à noite. Por favor, leve isso em consideração ao escolher o horário que deseja reservar.\n&lt;font color=&apos;#FF5F5F&apos;&gt;\n\n※ O custo da reserva do casamento é consumido pelo personagem que realiza a reserva. Se o custo do casamento for reembolsado devido ao cancelamento da reserva, o valor será reembolsado ao personagem que consumiu o custo.&lt;/font&gt;\n\n&lt;font color=&apos;#FF5F5F&apos;&gt;※ Se a hora reservada para o casamento coincidir com um horário especial em que não é possível acessar o jogo, incluindo manutenção do jogo, o casamento será automaticamente cancelado e o mérito utilizado na reserva será reembolsado. O processamento pode levar cerca de uma semana.&lt;/font&gt;&quot;" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_public" value="Publicar o cronograma no quadro de avisos do casamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_private" value="Convite apenas por carta e chat" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_price" value="Valor do pagamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_schedule_tooltip" value="O local do casamento pode ser reservado apenas até 7 dias após o momento do noivado." feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_hall" value="Local do casamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_date" value="Data do casamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_publicable" value="Visibilidade" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_public" value="Publicar no quadro de avisos do casamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_price" value="Valor do pagamento" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_tooltip" value="※A alteração da reserva do local do casamento só pode ser feita pelo personagem que fez a reserva inicial, e deve haver um intervalo de pelo menos 3 horas até o horário desejado para que isso seja possível.\n※O cancelamento da reserva do local do casamento só pode ser feito pelo personagem que fez a reserva inicial, e se o parceiro concordar com o cancelamento, será fornecido um cupom de reserva gratuito que permite reservar um local de casamento da mesma categoria dentro de 30 dias.\nSe o parceiro não concordar com o cancelamento da reserva do local do casamento, o cupom de reserva gratuito não será concedido.\n※Personagens em estado de noivado, casamento ou divórcio não podem usar o direito de mudança de gênero." feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_private" value="Convite apenas por carta e chat" feature="Wedding" />
+	<key id="$s_weddinghall_enter_button_type2" value="Verificar casamentos disponíveis para entrada" feature="Wedding" />
+	<key id="$s_weddinghall_enter_message_type1" value="Chegou a hora da reserva do casamento. Por favor, entre na cerimônia." feature="Wedding" />
+	<key id="$s_weddinghall_enter_message_type2" value="Chegou a hora da reserva do casamento. Verifique a lista de casamentos disponíveis e entre na cerimônia." feature="Wedding" />
+	<key id="$s_wedding_dialog_title" value="Casamento" feature="Wedding" />
+	<key id="$s_wedding_dialog_picture_change" value="Alterar foto" feature="Wedding" />
+	<key id="$s_wedding_dialog_partner_message" value="Mensagem deixada pelo cônjuge" feature="Wedding" />
+	<key id="$s_wedding_dialog_my_message" value="Mensagem que deixei" feature="Wedding" />
+	<key id="$s_wedding_dialog_divorce_request_" value="Recebemos seu pedido de divórcio." feature="Wedding" />
+	<key id="$s_wedding_dialog_info_tooltip" value="Clique para visualizar a descrição e a intimidade acumulada." feature="Wedding" />
+	<key id="$s_wedding_dialog_default_message" value="Digite a mensagem" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_title" value="Métodos para obter intimidade" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc1" value="A intimidade é acumulada diariamente\n com base nos critérios abaixo." feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc2" value="Decurso do período de casamento\nA cada dia que passa desde o casamento, 5 pontos são acumulados.\n\nPresença do casal\nCada vez que o casal se conecta ao jogo, 5 pontos são acumulados para cada um.\n\nMensagem do casal\nCada vez que os dois escrevem uma mensagem de casal, 5 pontos são acumulados para cada um." feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc3" value="* Se um dos cônjuges não se conectar ao jogo em um dia, das 0h às 24h, 5 pontos serão subtraídos da intimidade no dia seguinte." feature="Wedding" />
+	<key id="$s_wedding_affinity_info_tab" value="Métodos para obter intimidade" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_history" value="Consulta de intimidade acumulada" feature="Wedding" />
+	<key id="$s_wedding_invitation_title" value="Enviar convite" feature="Wedding" />
+	<key id="$s_wedding_invitation_add" value="Adicionar" feature="Wedding" />
+	<key id="$s_wedding_invitation_hall" value="Local do casamento" feature="Wedding" />
+	<key id="$s_wedding_invitation_date" value="Data e hora" feature="Wedding" />
+	<key id="$s_wedding_guest_title" value="Adicionar destinatário do convite" feature="Wedding" />
+	<key id="$s_wedding_guest_add" value="Adicionar" feature="Wedding" />
+	<key id="$s_wedding_guest_tab_stranger" value="Digite o nome do personagem que deseja convidar." feature="Wedding" />
+	<key id="$s_wedding_guest_tab_stranger_find" value="Buscar" feature="Wedding" />
+	<key id="$s_wedding_hall_list_title" value="Lista de casamentos" feature="Wedding" />
+	<key id="$s_payback_dialog_banner_subtitle" value="Evento de reembolso de até &lt;font color=&apos;#ec686e&apos;&gt;100%&lt;/font&gt;" feature="Payback" />
+	<key id="$s_payback_dialog_banner_desc" value="** O valor do reembolso será concedido em mérito geral sem prazo de validade e será enviado por correio no dia 1 do mês seguinte ao término do evento.\n** Você pode receber reembolso de até 10.000 méritos, e valores comprados com méritos de jogo ou méritos de evento estão excluídos." feature="Payback" />
+	<key id="$s_payback_dialog_predict_title" value="atualmente previsto para o pagamento" feature="Payback" />
+	<key id="$s_payback_dialog_status_title" value="status de realização do pagamento" feature="Payback" />
+	<key id="$s_unlimited_enchant_dialog_notice" value="selecione o item de equipamento a ser aprimorado" feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_desc" value="extraia o poder oculto do equipamento\ntransformando-o em um equipamento que supera os limites existentes.\nselecione o item de equipamento a ser aprimorado &lt;font color=&apos;#ec686e&apos;&gt;&lt;/font&gt;\n\nO aprimoramento só é possível com armas de prisma de fogo de +15.\nAs opções aleatórias são mantidas ao aprimorar.\nA cada 10 níveis de aprimoramento, um poder poderoso é adicionado." feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_enchant" value="Superação de limites" feature="UnlimitedEnchant" />
+	<key id="$s_longtermattendgift_dialog_reward" value="lista de recompensas" />
+	<key id="$s_longtermattendgift_dialog_state" value="minha situação" />
+	<key id="$s_longtermattendgift_dialog_btn_attendance" value="Colocar o Duckball" />
+	<key id="$s_longtermattendgift_dialog_current_point" value="Duckballs não colocados" />
+	<key id="$s_longtermattendgift_dialog_possible_point" value="Espaço vazio aberto" />
+	<key id="$s_random_coupon_payback_text" value="Reembolso de mérito de hoje!" />
+	<key id="$s_random_coupon_sale_text" value="Desconto de hoje!" />
+	<key id="$s_lead_skill_title" value="Habilidade de liderança" />
+	<key id="$s_lead_skill_dialog_lefttop_skill_level" value="LV.{0}" />
+	<key id="$s_lead_skill_dialog_from_char" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:de, do$ recebendo efeito" />
+	<key id="$s_lead_skill_dialog_from_char_fail" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:de, do$ não recebendo efeito" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Pedido de ajuda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode pedir ajuda a um aventureiro experiente familiarizado com este calabouço.\nClique no botão para encontrar um aventureiro experiente para jogar junto!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Aventureiro iniciante&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAinda não está familiarizado com este calabouço.\nQuando o número de clears do calabouço atingir um certo limite, você poderá se tornar um aventureiro experiente.\n&lt;FONT color=&apos;#00AAEF&apos;&gt;- Aventura [Normal/Difícil]: mais de 10 vezes\n- Raid Caos ou superior: mais de 30 vezes\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;No entanto, para calabouços de aventura abaixo do nível 50, mesmo que o número de clears seja menor, ao atingir o nível 50, você se tornará automaticamente um aventureiro experiente." feature="FindDungeonHelp" locale="JP" />
+	<key id="$s_meratmarket_text_register_notice_warning_music_score" value="As partituras estão à venda no estado de &quot;pode ser tocada 20 vezes&quot;.\nAs partituras não terão taxa de registro nem taxa de venda, e o valor da venda das partituras não será incluído no total de vendas acumuladas do mês." feature="UGCMarketMusicScore" />
+	<key id="$s_bluemarble_warning" value="Lançar o dado consome 1 moeda Maple." feature="Event" locale="JP" />
+	<key id="$s_dailymission_point" value="pontos de missão semanal" feature="DailyMission" />
+	<key id="$s_dailymission_title" value="manual de aventura" feature="DailyMission" />
+	<key id="$s_dailymission_start" value="início da missão~!" feature="DailyMission" />
+	<key id="$s_dailymission_mp" value="pontos" feature="DailyMission" />
+	<key id="$s_dailymission_mp_start" value="0 pontos" feature="DailyMission" />
+	<key id="$s_dailymission_mp_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;pontos de missão semanal&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAo completar as novas missões diárias recebidas, você pode ganhar pontos de missão semanal.\nColetando pontos de missão semanal, você pode obter recompensas semanais.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAs missões diárias são atualizadas automaticamente à meia-noite todos os dias.\nOs pontos de missão semanal e as recompensas semanais são reiniciados toda sexta-feira à meia-noite." feature="DailyMission" />
+	<key id="$s_gallery_desc_1" value="até 1º de janeiro de 2020, às 12h!" locale="JP" />
+	<key id="$s_burning_levelup_event_desc_btn" value="Evento de Queima" feature="Event" locale="JP" />
+	<key id="$s_gamemode_select_title" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_royale" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_SUB_TITLE_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_royale" value="KORFLASH_$S_GAMEMODE_SELECT_SUB_TITLE_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_DESC_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_royale" value="KORFLASH_$S_GAMEMODE_SELECT_DESC_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_tooltip_royale" value="KORFLASH_$S_GAMEMODE_SELECT_TOOLTIP_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="Colete Metacores completando masmorras, derrotando chefes de campo e vencendo minijogos. Eles evoluirão para insígnias meta com melhores atributos!" feature="GemMeta" locale="JP" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Solicitar ajuda&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nVocê pode solicitar ajuda de aventureiros experientes que estão familiarizados com esta masmorra.\nClique no botão para encontrar um aventureiro experiente para jogar junto!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Aventureiro iniciante&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAinda não está familiarizado em jogar nesta masmorra.\nQuando o número de clears da masmorra atingir um certo limite, você poderá se tornar um aventureiro experiente.\nNo entanto, masmorras de aventura abaixo do nível 50 se tornarão automaticamente aventureiros experientes quando o número de clears for de pelo menos 50 níveis acima." feature="FindDungeonHelp" locale="CN" />
+	<key id="$s_bluemarble_warning" value="Lançar o dado consome 1 moeda de floco de neve." feature="Event" locale="CN" />
+	<key id="$s_gallery_desc_1" value="Até 10 de janeiro de 2019, antes da manutenção!" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="Colete Metacores através de caça, música, pesca, clears de calabouços, etc., e complete a soma. Você poderá ter um emblema meta com melhores atributos!" feature="Event" locale="CN" />
+	<key id="$s_gameoption_optimizer_count" value="Máximo de personagens exibidos" />
+	<key id="$s_gameoption_agreement_radio_deny" value="Recusar" />
+	<key id="$s_gameoption_agreement_btn_detail" value="Ver Detalhes" />
+	<key id="$s_charcreate_male" value="Masc." />
+	<key id="$s_charcreate_female" value="Fem." />
+	<key id="$s_ugc_image_title_wedding_profile" value="Definir Retrato" feature="Wedding" />
+	<key id="$s_buddy_empty_homeblock" value="Nenhum personagem foi bloqueado." />
+	<key id="$s_tooltip_myinfo_stat_1_24" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Velocidade de Ataque&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Aumenta a velocidade de ataque." />
+	<key id="$s_tooltip_myinfo_stat_1_25" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Recarga de Habilidade&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReduz o tempo necessário para reativar as habilidades ativas." />
+	<key id="$s_tooltip_myinfo_stat_2_18" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Defesa de PvP&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nReduz os danos recebidos dos outros jogadores." />
+	<key id="$s_meratmarket_text_changeable_extra_button_label" value="Descrição" />
+	<key id="$s_meratmarketreg_tooltip_btn_fee" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Taxa de Anúncio&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEssa é a taxa cobrada pelo anúncio de itens. A taxa varia dependendo do número de itens atualmente anunciados. Ela não será ressarcida se seu item for excluído devido a violações dos TdS." locale="JP" />
+	<key id="$s_itemremake_desc_top_warning" value=" " />
+	<key id="$s_itemsocketsystem_tab_tooltip_gemstone_swap" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Transferência de Nicho&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nAbra nichos bloqueados de gemas." feature="ItemSocketSystem" />
+	<key id="$s_itemsocketsystem_gemstoneswap_btn" value="Mover" feature="ItemSocketSystem" />
+	<key id="$s_itemsocketsystem_gemstoneswap_retry_btn" value="Ok" feature="ItemSocketSystem" />
+	<key id="$s_mastery_dialog_slot_category" value="Tipo" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category" value="Ordem" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category_1" value="Épico" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category_2" value="Lendário" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_grade_category_3" value="Épica" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_craft_magic_scroll" value="Encantos" feature="MagicScroll01" />
+	<key id="$s_home_option_text_private" value="Particular" />
+	<key id="$s_item_merge_select_option" value="Aplicar Atributos" />
+	<key id="$s_item_merge_ingredients" value="Materiais" feature="ItemMerge" />
+	<key id="$s_mentoring_title" value="Mentoria" feature="Mentoring" />
+	<key id="$s_mentoring_party_request" value="Convidar para a equipe" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentee_renderer_accept" value="Aceitar" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentee_renderer_reject" value="Recusar" feature="Mentoring" />
+	<key id="$s_mentoring_invite_renderer_whisper" value="Sussurrar" feature="Mentoring" />
+	<key id="$s_couple_dance_event_dialog_reward_btn" value="Receber Recompensa" />
+	<key id="$s_weddinghall_enter_button_type1" value="Entrar" feature="Wedding" />
+	<key id="$s_bluemarble_coin_count" value="Bilhetes Maravilha:" feature="Event" locale="CN" />
+	<key id="$s_tooltip_myinfo_stat_1_26" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Dano de PvP&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;Aumenta o dano causado nos outros jogadores." />
+	<key id="$s_itemsocketsystem_sockettransfer_btn_restart" value="Ok" feature="ItemSocketTransfer01" />
+	<key id="$s_characterability_title" value="Traços" feature="CharacterAbility" />
+	<key id="$s_characterability_reset_button" value="Reiniciar" feature="CharacterAbility" />
+	<key id="$s_mastery_dialog_slot_category_3" value="Duas Mãos" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_slot_category_5" value="Blusa" feature="MagicScroll01" />
+	<key id="$s_mastery_dialog_slot_category_6" value="Calça" feature="MagicScroll01" />
+	<key id="$s_mentoring_register_button" value="Ok" feature="Mentoring" />
+	<key id="$s_mentoring_reward_coin" value="Ponto de Mentorado" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day1" value="Dia 1" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day2" value="Dia 2" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day3" value="Dia 3" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day4" value="Dia 4" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day5" value="Dia 5" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day6" value="Dia 6" feature="Mentoring" />
+	<key id="$s_mentoring_mission_day7" value="Dia 7" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentor_invite_custom" value="Convidar por Nome" feature="Mentoring" />
+	<key id="$s_mentoring_invite_mentor_invite_button" value="Convidar" feature="Mentoring" />
+	<key id="$s_wedding_billboard_refresh" value="Atualizar" feature="Wedding" />
+	<key id="$s_weddinghall_grade_2" value="Equipe" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_schedule_am" value="Manhãs" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_schedule_pm" value="Noites" feature="Wedding" />
+	<key id="$s_wedding_dialog_level" value="Afinidade" feature="Wedding" />
+	<key id="$s_wedding_dialog_message_save" value="Salvar" feature="Wedding" />
+	<key id="$s_wedding_dialog_message_cancel" value="Cancelar" feature="Wedding" />
+	<key id="$s_wedding_dialog_skill_receive" value="Resgate" feature="Wedding" />
+	<key id="$s_wedding_affinity_title" value="Afinidade" feature="Wedding" />
+	<key id="$s_wedding_invitation_send" value="Enviar" feature="Wedding" />
+	<key id="$s_wedding_guest_tab_select_all" value="Selecionar Tudo" feature="Wedding" />
+	<key id="$s_payback_dialog_banner_title" value="Cápsula de Fortalecimento de Cogumelo Laranja" feature="Payback" />
+	<key id="$s_payback_dialog_buy_product_btn" value="Comprar" feature="Payback" />
+	<key id="$s_gamemenu_btn_payback" value="Recompensas de Meret" feature="Payback" />
+	<key id="$s_unlimited_enchant_dialog_retry" value="Ok" feature="UnlimitedEnchant" />
+	<key id="$s_bluemarble_coin_count" value="Total de Moedas:" feature="Event" locale="JP" />
 </ms2>

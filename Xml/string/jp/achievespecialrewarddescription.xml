@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <achieve id="21300011" grade="4" specialDesc="$npc:11000626$の販売アイテムの一部購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" specialNotifyString="$npc:11000626$販売アイテムの一部購入権限獲得" feature="Season1" />
-  <achieve id="21300011" grade="6" specialDesc="$npc:11000626$の販売アイテムの一部購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" specialNotifyString="$npc:11000626$販売アイテムの一部購入権限獲得" feature="Season1" />
-  <achieve id="21300012" grade="5" specialDesc="$npc:11000626$の販売アイテムの一部購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" specialNotifyString="$npc:11000626$販売アイテムの一部購入権限獲得" feature="Season1" />
-  <achieve id="22200194" grade="1" specialDesc="羊テーマ建設キューブの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="羊テーマ建設キューブの購入権限獲得" feature="Season1" />
-  <achieve id="22200194" grade="2" specialDesc="羊テーマ家具の購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="羊テーマ家具の購入権限獲得" feature="Season1" />
-  <achieve id="22210030" grade="1" specialDesc="ショッピングモールテーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="ショッピングモールテーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
-  <achieve id="22210031" grade="1" specialDesc="カルカル黄金刃魚の水槽建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="カルカル黄金刃魚の水槽建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
-  <achieve id="22210032" grade="1" specialDesc="ラベンダーリゾートテーマ地建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="ラベンダーリゾートテーマ地建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
-  <achieve id="22210033" grade="1" specialDesc="天体観測テーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="天体観測テーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
-  <achieve id="22210034" grade="1" specialDesc="ナズカルテーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="ナズカルテーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
-  <achieve id="22210035" grade="1" specialDesc="カルカル砂漠テーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="カルカル砂漠テーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
-  <achieve id="22300031" grade="1" specialDesc="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" specialNotifyString="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限獲得" feature="Season3" />
-  <achieve id="22300032" grade="1" specialDesc="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" specialNotifyString="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限獲得" feature="Season3" />
-  <achieve id="22300038" grade="1" specialDesc="クエスト「バルログの血液」受諾権限" specialNotifyIcon="./Data/Resource/Image/ETC/quest_accept.png" specialNotifyString="クエスト「バルログの血液」受諾" feature="Season3" />
-  <achieve id="23100154" grade="3" specialDesc="釣り人衣装の購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" specialNotifyString="釣り人衣装の購入権限獲得" feature="Season1" />
+	<achieve id="21300011" grade="6" specialDesc="$npc:11000626$の販売アイテムの一部購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" specialNotifyString="$npc:11000626$販売アイテムの一部購入権限獲得" feature="Season1" />
+	<achieve id="21300012" grade="5" specialDesc="$npc:11000626$の販売アイテムの一部購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/rideshop_unlock.png" specialNotifyString="$npc:11000626$販売アイテムの一部購入権限獲得" feature="Season1" />
+	<achieve id="22200194" grade="2" specialDesc="羊テーマ家具の購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="羊テーマ家具の購入権限獲得" feature="Season1" />
+	<achieve id="22210030" grade="1" specialDesc="ショッピングモールテーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="ショッピングモールテーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210031" grade="1" specialDesc="カルカル黄金刃魚の水槽建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="カルカル黄金刃魚の水槽建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210032" grade="1" specialDesc="ラベンダーリゾートテーマ地建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="ラベンダーリゾートテーマ地建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210033" grade="1" specialDesc="天体観測テーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="天体観測テーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210034" grade="1" specialDesc="ナズカルテーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="ナズカルテーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
+	<achieve id="22210035" grade="1" specialDesc="カルカル砂漠テーマ建設アイテムの購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/buildshop_unlock.png" specialNotifyString="カルカル砂漠テーマ建設アイテムの購入権限獲得" feature="KarkarIsland" locale="JP" />
+	<achieve id="22300031" grade="1" specialDesc="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" specialNotifyString="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限獲得" feature="Season3" />
+	<achieve id="22300032" grade="1" specialDesc="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" specialNotifyString="装備商人$npcName:11001062$の販売アイテムの一部に対する購入権限獲得" feature="Season3" />
+	<achieve id="22300038" grade="1" specialDesc="クエスト「バルログの血液」受諾権限" specialNotifyIcon="./Data/Resource/Image/ETC/quest_accept.png" specialNotifyString="クエスト「バルログの血液」受諾" feature="Season3" />
+	<achieve id="23100154" grade="3" specialDesc="釣り人衣装の購入権限" specialNotifyIcon="./Data/Resource/Image/ETC/weaponshop_unlock.png" specialNotifyString="釣り人衣装の購入権限獲得" feature="Season1" />
 </ms2>

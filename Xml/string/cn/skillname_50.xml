@@ -1,70 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10500001" name="连射" />
-  <key id="10500002" name="SKILLNAME_10500002_NAME:[F]Develop" feature="Develop" />
-  <key id="10500011" name="多重箭" />
-  <key id="10500012" name="SKILLNAME_10500012_NAME:[F]Develop" feature="Develop" />
-  <key id="10500013" name="SKILLNAME_10500013_NAME:[F]Develop" feature="Develop" />
-  <key id="10500021" name="闪射" />
-  <key id="10500022" name="SKILLNAME_10500022_NAME:[F]Develop" feature="Develop" />
-  <key id="10500031" name="冰霜箭" />
-  <key id="10500041" name="闪避箭" />
-  <key id="10500051" name="弓重击" />
-  <key id="10500061" name="锐利之眼" />
-  <key id="10500064" name="强化锐利之眼" feature="JobChange_01" />
-  <key id="10500065" name="强化锐利之眼" feature="JobChange_01" />
-  <key id="10500066" name="SKILLNAME_10500066_NAME:[F]Develop" feature="Develop" />
-  <key id="10500071" name="召唤金鹰" />
-  <key id="10500072" name="SKILLNAME_10500072_NAME:[F]Develop" feature="Develop" />
-  <key id="10500081" name="雄鹰突击" />
-  <key id="10500091" name="雄鹰之魂" />
-  <key id="10500092" name="SKILLNAME_10500092_NAME:[F]Develop" feature="Develop" />
-  <key id="10500093" name="凤凰之魂" feature="JobChange_02" />
-  <key id="10500101" name="暴风箭雨" />
-  <key id="10500102" name="SKILLNAME_10500102_NAME:[F]Develop" feature="Develop" />
-  <key id="10500103" name="SKILLNAME_10500103_NAME:[F]Develop" feature="Develop" />
-  <key id="10500104" name="SKILLNAME_10500104_NAME:[F]Develop" feature="Develop" />
-  <key id="10500105" name="SKILLNAME_10500105_NAME:[F]Develop" feature="Develop" />
-  <key id="10500106" name="SKILLNAME_10500106_NAME:[F]Develop" feature="Develop" />
-  <key id="10500111" name="狙击" />
-  <key id="10500121" name="强健体魄" />
-  <key id="10500131" name="技巧大师" />
-  <key id="10500141" name="穿透箭" />
-  <key id="10500144" name="穿透箭" />
-  <key id="10500142" name="SKILLNAME_10500142_NAME:[F]Develop" feature="Develop" />
-  <key id="10500143" name="SKILLNAME_10500143_NAME:[F]Develop" feature="Develop" />
-  <key id="10500151" name="雄鹰滑翔" />
-  <key id="10500152" name="强化雄鹰滑翔" feature="JobChange_01" />
-  <key id="10500153" name="鹰驰长空" feature="JobChange_02" />
-  <key id="10500161" name="直接射击" />
-  <key id="10500171" name="火焰箭1段" feature="JobChange_01" />
-  <key id="10500172" name="火焰箭2段" feature="JobChange_01" />
-  <key id="10500173" name="火焰箭3段" feature="JobChange_01" />
-  <key id="10500174" name="火焰箭4段" feature="JobChange_01" />
-  <key id="10500181" name="集中" feature="JobChange_01" />
-  <key id="10500191" name="多重穿透箭1段" feature="JobChange_01" />
-  <key id="10500192" name="多重穿透箭2段" feature="JobChange_01" />
-  <key id="10500193" name="多重穿透箭3段" feature="JobChange_01" />
-  <key id="10500201" name="哈斯特的教导" feature="JobChange_01" />
-  <key id="10500211" name="垂直箭" feature="JobChange_01" />
-  <key id="10500212" name="SKILLNAME_10500212_NAME:[F]Develop" feature="Develop" />
-  <key id="10500221" name="旋风箭" feature="JobChange_01" />
-  <key id="10500222" name="SKILLNAME_10500222_NAME:[F]Develop" feature="Develop" />
-  <key id="10500231" name="秘珠箭术" feature="JobChange_01" />
-  <key id="10500232" name="SKILLNAME_10500232_NAME:[F]Develop" feature="Develop" />
-  <key id="10500233" name="解放状态" feature="JobChange_01" />
-  <key id="10500241" name="螺旋箭" feature="JobChange_01" />
-  <key id="10500242" name="SKILLNAME_10500242_NAME:[F]Develop" feature="Develop" />
-  <key id="10500243" name="强化螺旋箭" feature="JobChange_01" />
-  <key id="10500251" name="优化型滑翔" feature="JobChange_01" />
-  <key id="10500261" name="凤翼之箭" feature="JobChange_02" />
-  <key id="10500271" name="凤凰形态" feature="JobChange_02" />
-  <key id="10500272" name="SKILLNAME_10500272_NAME:[F]Develop" feature="Develop" />
-  <key id="10500281" name="精准之箭" feature="JobChange_02" />
-  <key id="10500291" name="金鹰小队" feature="JobChange_02" />
-  <key id="10500293" name="金鹰小队自身效果" feature="JobChange_02" />
-  <key id="10500295" name="金鹰小队减益" feature="JobChange_02" />
-  <key id="10500296" name="已学习金鹰小队的弓箭手队员效果" feature="JobChange_02" />
-  <key id="10500298" name="凤凰形态金鹰小队效果" feature="JobChange_02" />
+	<key id="10500001" name="连射" />
+	<key id="10500002" name="SKILLNAME_10500002_NAME:[F]Develop" feature="Develop" />
+	<key id="10500011" name="多重箭" />
+	<key id="10500012" name="SKILLNAME_10500012_NAME:[F]Develop" feature="Develop" />
+	<key id="10500013" name="SKILLNAME_10500013_NAME:[F]Develop" feature="Develop" />
+	<key id="10500021" name="闪射" />
+	<key id="10500022" name="SKILLNAME_10500022_NAME:[F]Develop" feature="Develop" />
+	<key id="10500031" name="冰霜箭" />
+	<key id="10500041" name="闪避箭" />
+	<key id="10500051" name="弓重击" />
+	<key id="10500061" name="锐利之眼" />
+	<key id="10500064" name="强化锐利之眼" feature="JobChange_01" />
+	<key id="10500065" name="强化锐利之眼" feature="JobChange_01" />
+	<key id="10500066" name="SKILLNAME_10500066_NAME:[F]Develop" feature="Develop" />
+	<key id="10500071" name="召唤金鹰" />
+	<key id="10500072" name="SKILLNAME_10500072_NAME:[F]Develop" feature="Develop" />
+	<key id="10500081" name="雄鹰突击" />
+	<key id="10500091" name="雄鹰之魂" />
+	<key id="10500092" name="SKILLNAME_10500092_NAME:[F]Develop" feature="Develop" />
+	<key id="10500093" name="凤凰之魂" feature="JobChange_02" />
+	<key id="10500101" name="暴风箭雨" />
+	<key id="10500102" name="SKILLNAME_10500102_NAME:[F]Develop" feature="Develop" />
+	<key id="10500103" name="SKILLNAME_10500103_NAME:[F]Develop" feature="Develop" />
+	<key id="10500104" name="SKILLNAME_10500104_NAME:[F]Develop" feature="Develop" />
+	<key id="10500105" name="SKILLNAME_10500105_NAME:[F]Develop" feature="Develop" />
+	<key id="10500106" name="SKILLNAME_10500106_NAME:[F]Develop" feature="Develop" />
+	<key id="10500111" name="狙击" />
+	<key id="10500121" name="强健体魄" />
+	<key id="10500131" name="技巧大师" />
+	<key id="10500141" name="穿透箭" />
+	<key id="10500142" name="SKILLNAME_10500142_NAME:[F]Develop" feature="Develop" />
+	<key id="10500143" name="SKILLNAME_10500143_NAME:[F]Develop" feature="Develop" />
+	<key id="10500144" name="穿透箭" />
+	<key id="10500151" name="雄鹰滑翔" />
+	<key id="10500152" name="强化雄鹰滑翔" feature="JobChange_01" />
+	<key id="10500153" name="鹰驰长空" feature="JobChange_02" />
+	<key id="10500161" name="直接射击" />
+	<key id="10500171" name="火焰箭1段" feature="JobChange_01" />
+	<key id="10500172" name="火焰箭2段" feature="JobChange_01" />
+	<key id="10500173" name="火焰箭3段" feature="JobChange_01" />
+	<key id="10500174" name="火焰箭4段" feature="JobChange_01" />
+	<key id="10500181" name="集中" feature="JobChange_01" />
+	<key id="10500191" name="多重穿透箭1段" feature="JobChange_01" />
+	<key id="10500192" name="多重穿透箭2段" feature="JobChange_01" />
+	<key id="10500193" name="多重穿透箭3段" feature="JobChange_01" />
+	<key id="10500201" name="哈斯特的教导" feature="JobChange_01" />
+	<key id="10500211" name="垂直箭" feature="JobChange_01" />
+	<key id="10500212" name="SKILLNAME_10500212_NAME:[F]Develop" feature="Develop" />
+	<key id="10500221" name="旋风箭" feature="JobChange_01" />
+	<key id="10500222" name="SKILLNAME_10500222_NAME:[F]Develop" feature="Develop" />
+	<key id="10500231" name="秘珠箭术" feature="JobChange_01" />
+	<key id="10500232" name="SKILLNAME_10500232_NAME:[F]Develop" feature="Develop" />
+	<key id="10500233" name="解放状态" feature="JobChange_01" />
+	<key id="10500241" name="螺旋箭" feature="JobChange_01" />
+	<key id="10500242" name="SKILLNAME_10500242_NAME:[F]Develop" feature="Develop" />
+	<key id="10500243" name="强化螺旋箭" feature="JobChange_01" />
+	<key id="10500251" name="优化型滑翔" feature="JobChange_01" />
+	<key id="10500261" name="凤翼之箭" feature="JobChange_02" />
+	<key id="10500271" name="凤凰形态" feature="JobChange_02" />
+	<key id="10500272" name="SKILLNAME_10500272_NAME:[F]Develop" feature="Develop" />
+	<key id="10500281" name="精准之箭" feature="JobChange_02" />
+	<key id="10500291" name="金鹰小队" feature="JobChange_02" />
+	<key id="10500293" name="金鹰小队自身效果" feature="JobChange_02" />
+	<key id="10500295" name="金鹰小队减益" feature="JobChange_02" />
+	<key id="10500296" name="已学习金鹰小队的弓箭手队员效果" feature="JobChange_02" />
+	<key id="10500298" name="凤凰形态金鹰小队效果" feature="JobChange_02" />
 </ms2>

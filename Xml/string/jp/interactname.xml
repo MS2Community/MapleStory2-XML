@@ -1,115 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="11000008" name="トゥルカの宝石箱" />
-  <key id="11000009" name="トゥルカの珍しい宝石箱" />
-  <key id="19000017" name="メイプルストア" />
-  <key id="19000028" name="周辺商品ストア" />
-  <key id="19000029" name="ポールフランク" />
-  <key id="31000001" name="アイテム分解器" />
-  <key id="31000002" name="ひっくり返せ！オッキーダッキー！" />
-  <key id="31000003" name="フェスティバルカードボード" />
-  <key id="31000004" name="メフォグラフィック" />
-  <key id="31000005" name="ひっくり返せ！オッキーダッキー！" />
-  <key id="31000010" name="フェスティバルカードボード" />
-  <key id="31000012" name="レイマーブルボード" />
-  <key id="60001001" name="銅の鉱脈" />
-  <key id="60001011" name="銅の鉱脈" />
-  <key id="60001020" name="銅の鉱脈" feature="Mastery05" />
-  <key id="60002003" name="スズの鉱脈" />
-  <key id="60002009" name="スズの鉱脈" />
-  <key id="60002024" name="錫の鉱脈" feature="Mastery05" />
-  <key id="60003003" name="亜鉛の鉱脈" />
-  <key id="60003006" name="亜鉛の鉱脈" />
-  <key id="60003010" name="亜鉛の鉱脈" />
-  <key id="60003019" name="亜鉛の鉱脈" feature="Mastery05" />
-  <key id="60004004" name="銀の鉱脈" />
-  <key id="60004009" name="銀の鉱脈" />
-  <key id="60004021" name="銀の鉱脈" feature="Mastery05" />
-  <key id="60005003" name="鉄の鉱脈" />
-  <key id="60005008" name="鉄の鉱脈" />
-  <key id="60005010" name="鉄の鉱脈" />
-  <key id="60005015" name="鉄の鉱脈" feature="Mastery05" />
-  <key id="60006003" name="鉛の鉱脈" />
-  <key id="60006013" name="鉛の鉱脈" />
-  <key id="60006014" name="鉛の鉱脈" />
-  <key id="60006036" name="鉛の鉱脈" feature="Mastery05" />
-  <key id="60007005" name="ニッケル鉱脈" />
-  <key id="60007009" name="ニッケル鉱脈" />
-  <key id="60007022" name="ニッケル鉱脈" feature="Mastery05" />
-  <key id="60008004" name="黒鉄の鉱脈" />
-  <key id="60008007" name="黒鉄の鉱脈" />
-  <key id="60008021" name="黒鉄の鉱脈" feature="Mastery05" />
-  <key id="60009002" name="タングステン鉱脈" />
-  <key id="60009011" name="タングステン鉱脈" />
-  <key id="60009020" name="タングステン鉱脈" feature="Mastery05" />
-  <key id="60010003" name="金の鉱脈" />
-  <key id="60010010" name="金の鉱脈" />
-  <key id="60010020" name="金の鉱脈" feature="Mastery05" />
-  <key id="60011001" name="プラチナ鉱脈" />
-  <key id="60011007" name="プラチナ鉱脈" />
-  <key id="60011012" name="プラチナ鉱脈" feature="Mastery05" />
-  <key id="60012001" name="コバルト鉱脈" />
-  <key id="60012010" name="コバルト鉱脈" />
-  <key id="60012025" name="コバルト鉱脈" feature="Mastery05" />
-  <key id="60013003" name="パラジウム鉱脈" />
-  <key id="60013007" name="パラジウム鉱脈" />
-  <key id="60013023" name="パラジウム鉱脈" feature="Mastery05" />
-  <key id="60014004" name="ミスリル鉱脈" feature="Mastery06" />
-  <key id="60014009" name="ミスリル鉱脈" feature="Mastery06" />
-  <key id="60014026" name="ミスリル鉱脈" feature="Mastery06" />
-  <key id="60015006" name="オリハルコン鉱脈" feature="Mastery06" />
-  <key id="60015025" name="オリハルコン鉱脈" feature="Mastery06" />
-  <key id="60019002" name="ルマストーン鉱脈" />
-  <key id="60020001" name="古い木の切り株" />
-  <key id="60021001" name="干潟の真珠の山" />
-  <key id="60023001" name="マジョラムハーブ" />
-  <key id="60023008" name="マジョラムハーブ" />
-  <key id="60023029" name="マジョラムハーブ" feature="Mastery05" />
-  <key id="60024002" name="ラベンダーハーブ" />
-  <key id="60024006" name="ラベンダーハーブ" />
-  <key id="60024029" name="ラベンダーハーブ" feature="Mastery05" />
-  <key id="60025003" name="オレガノハーブ" />
-  <key id="60025006" name="オレガノハーブ" />
-  <key id="60025024" name="オレガノハーブ" feature="Mastery05" />
-  <key id="60026002" name="レモンバームハーブ" />
-  <key id="60026005" name="レモンバームハーブ" />
-  <key id="60026010" name="レモンバームハーブ" />
-  <key id="60026024" name="レモンバームハーブ" feature="Mastery05" />
-  <key id="60027003" name="マンダリンハーブ" />
-  <key id="60027006" name="マンダリンハーブ" />
-  <key id="60027024" name="マンダリンハーブ" feature="Mastery05" />
-  <key id="60028001" name="ジャスミンハーブ" />
-  <key id="60028005" name="ジャスミンハーブ" />
-  <key id="60028021" name="ジャスミンハーブ" feature="Mastery05" />
-  <key id="60029003" name="ティーツリーハーブ" />
-  <key id="60029005" name="ティーツリーハーブ" />
-  <key id="60029031" name="ティーツリーハーブ" feature="Mastery05" />
-  <key id="60030003" name="チェリーセージハーブ" />
-  <key id="60030004" name="チェリーセージハーブ" />
-  <key id="60030020" name="チェリーセージハーブ" feature="Mastery05" />
-  <key id="60031002" name="パチョリハーブ" />
-  <key id="60031006" name="パチョリハーブ" />
-  <key id="60031027" name="パチョリハーブ" feature="Mastery05" />
-  <key id="60032001" name="ローズマリーハーブ" />
-  <key id="60032007" name="ローズマリーハーブ" />
-  <key id="60032008" name="ローズマリーハーブ" />
-  <key id="60032020" name="ローズマリーハーブ" feature="Mastery05" />
-  <key id="60033002" name="ヤロウハーブ" />
-  <key id="60033027" name="ヤロウハーブ" feature="Mastery05" />
-  <key id="60034001" name="バジルハーブ" />
-  <key id="60034028" name="バジルハーブ" feature="Mastery05" />
-  <key id="60035003" name="ベルガモットハーブ" />
-  <key id="60035007" name="ベルガモットハーブ" />
-  <key id="60035019" name="ベルガモットハーブ" feature="Mastery05" />
-  <key id="60036001" name="コットンラベンダーハーブ" />
-  <key id="60037001" name="パイナップルセージハーブ" />
-  <key id="60038001" name="ローズゼラニウムハーブ" />
-  <key id="60039005" name="スパルティウムハーブ" feature="Mastery06" />
-  <key id="60039010" name="スパルティウムハーブ" feature="Mastery06" />
-  <key id="60039014" name="スパルティウムハーブ" feature="Mastery06" />
-  <key id="60039027" name="スパルティウムハーブ" feature="Mastery06" />
-  <key id="60040001" name="タイムハーブ" feature="Mastery06" />
-  <key id="60040007" name="タイムハーブ" feature="Mastery06" />
-  <key id="60040027" name="タイムハーブ" feature="Mastery06" />
+	<key id="11000008" name="トゥルカの宝石箱" />
+	<key id="11000009" name="トゥルカの珍しい宝石箱" />
+	<key id="19000017" name="メイプルストア" />
+	<key id="19000028" name="周辺商品ストア" />
+	<key id="19000029" name="ポールフランク" />
+	<key id="31000001" name="アイテム分解器" />
+	<key id="31000002" name="ひっくり返せ！オッキーダッキー！" />
+	<key id="31000003" name="フェスティバルカードボード" />
+	<key id="31000004" name="メフォグラフィック" />
+	<key id="31000005" name="ひっくり返せ！オッキーダッキー！" />
+	<key id="31000010" name="フェスティバルカードボード" />
+	<key id="31000012" name="レイマーブルボード" />
+	<key id="60001001" name="銅の鉱脈" />
+	<key id="60001011" name="銅の鉱脈" />
+	<key id="60001020" name="銅の鉱脈" feature="Mastery05" />
+	<key id="60002003" name="スズの鉱脈" />
+	<key id="60002009" name="スズの鉱脈" />
+	<key id="60002024" name="錫の鉱脈" feature="Mastery05" />
+	<key id="60003003" name="亜鉛の鉱脈" />
+	<key id="60003006" name="亜鉛の鉱脈" />
+	<key id="60003010" name="亜鉛の鉱脈" />
+	<key id="60003019" name="亜鉛の鉱脈" feature="Mastery05" />
+	<key id="60004004" name="銀の鉱脈" />
+	<key id="60004009" name="銀の鉱脈" />
+	<key id="60004021" name="銀の鉱脈" feature="Mastery05" />
+	<key id="60005003" name="鉄の鉱脈" />
+	<key id="60005008" name="鉄の鉱脈" />
+	<key id="60005010" name="鉄の鉱脈" />
+	<key id="60005015" name="鉄の鉱脈" feature="Mastery05" />
+	<key id="60006003" name="鉛の鉱脈" />
+	<key id="60006013" name="鉛の鉱脈" />
+	<key id="60006014" name="鉛の鉱脈" />
+	<key id="60006036" name="鉛の鉱脈" feature="Mastery05" />
+	<key id="60007005" name="ニッケル鉱脈" />
+	<key id="60007009" name="ニッケル鉱脈" />
+	<key id="60007022" name="ニッケル鉱脈" feature="Mastery05" />
+	<key id="60008004" name="黒鉄の鉱脈" />
+	<key id="60008007" name="黒鉄の鉱脈" />
+	<key id="60008021" name="黒鉄の鉱脈" feature="Mastery05" />
+	<key id="60009002" name="タングステン鉱脈" />
+	<key id="60009011" name="タングステン鉱脈" />
+	<key id="60009020" name="タングステン鉱脈" feature="Mastery05" />
+	<key id="60010003" name="金の鉱脈" />
+	<key id="60010010" name="金の鉱脈" />
+	<key id="60010020" name="金の鉱脈" feature="Mastery05" />
+	<key id="60011001" name="プラチナ鉱脈" />
+	<key id="60011007" name="プラチナ鉱脈" />
+	<key id="60011012" name="プラチナ鉱脈" feature="Mastery05" />
+	<key id="60012001" name="コバルト鉱脈" />
+	<key id="60012010" name="コバルト鉱脈" />
+	<key id="60012025" name="コバルト鉱脈" feature="Mastery05" />
+	<key id="60013003" name="パラジウム鉱脈" />
+	<key id="60013007" name="パラジウム鉱脈" />
+	<key id="60013023" name="パラジウム鉱脈" feature="Mastery05" />
+	<key id="60014004" name="ミスリル鉱脈" feature="Mastery06" />
+	<key id="60014009" name="ミスリル鉱脈" feature="Mastery06" />
+	<key id="60014026" name="ミスリル鉱脈" feature="Mastery06" />
+	<key id="60015006" name="オリハルコン鉱脈" feature="Mastery06" />
+	<key id="60015025" name="オリハルコン鉱脈" feature="Mastery06" />
+	<key id="60019002" name="ルマストーン鉱脈" />
+	<key id="60020001" name="古い木の切り株" />
+	<key id="60021001" name="干潟の真珠の山" />
+	<key id="60023001" name="マジョラムハーブ" />
+	<key id="60023008" name="マジョラムハーブ" />
+	<key id="60023029" name="マジョラムハーブ" feature="Mastery05" />
+	<key id="60024002" name="ラベンダーハーブ" />
+	<key id="60024006" name="ラベンダーハーブ" />
+	<key id="60024029" name="ラベンダーハーブ" feature="Mastery05" />
+	<key id="60025003" name="オレガノハーブ" />
+	<key id="60025006" name="オレガノハーブ" />
+	<key id="60025024" name="オレガノハーブ" feature="Mastery05" />
+	<key id="60026002" name="レモンバームハーブ" />
+	<key id="60026005" name="レモンバームハーブ" />
+	<key id="60026010" name="レモンバームハーブ" />
+	<key id="60026024" name="レモンバームハーブ" feature="Mastery05" />
+	<key id="60027003" name="マンダリンハーブ" />
+	<key id="60027006" name="マンダリンハーブ" />
+	<key id="60027024" name="マンダリンハーブ" feature="Mastery05" />
+	<key id="60028001" name="ジャスミンハーブ" />
+	<key id="60028005" name="ジャスミンハーブ" />
+	<key id="60028021" name="ジャスミンハーブ" feature="Mastery05" />
+	<key id="60029003" name="ティーツリーハーブ" />
+	<key id="60029005" name="ティーツリーハーブ" />
+	<key id="60029031" name="ティーツリーハーブ" feature="Mastery05" />
+	<key id="60030003" name="チェリーセージハーブ" />
+	<key id="60030004" name="チェリーセージハーブ" />
+	<key id="60030020" name="チェリーセージハーブ" feature="Mastery05" />
+	<key id="60031002" name="パチョリハーブ" />
+	<key id="60031006" name="パチョリハーブ" />
+	<key id="60031027" name="パチョリハーブ" feature="Mastery05" />
+	<key id="60032001" name="ローズマリーハーブ" />
+	<key id="60032007" name="ローズマリーハーブ" />
+	<key id="60032008" name="ローズマリーハーブ" />
+	<key id="60032020" name="ローズマリーハーブ" feature="Mastery05" />
+	<key id="60033002" name="ヤロウハーブ" />
+	<key id="60033027" name="ヤロウハーブ" feature="Mastery05" />
+	<key id="60034001" name="バジルハーブ" />
+	<key id="60034028" name="バジルハーブ" feature="Mastery05" />
+	<key id="60035003" name="ベルガモットハーブ" />
+	<key id="60035007" name="ベルガモットハーブ" />
+	<key id="60035019" name="ベルガモットハーブ" feature="Mastery05" />
+	<key id="60036001" name="コットンラベンダーハーブ" />
+	<key id="60037001" name="パイナップルセージハーブ" />
+	<key id="60038001" name="ローズゼラニウムハーブ" />
+	<key id="60039005" name="スパルティウムハーブ" feature="Mastery06" />
+	<key id="60039010" name="スパルティウムハーブ" feature="Mastery06" />
+	<key id="60039014" name="スパルティウムハーブ" feature="Mastery06" />
+	<key id="60039027" name="スパルティウムハーブ" feature="Mastery06" />
+	<key id="60040001" name="タイムハーブ" feature="Mastery06" />
+	<key id="60040007" name="タイムハーブ" feature="Mastery06" />
+	<key id="60040027" name="タイムハーブ" feature="Mastery06" />
 </ms2>

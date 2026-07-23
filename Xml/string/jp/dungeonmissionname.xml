@@ -1,483 +1,482 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10000101" name="DUNGEONMISSIONNAME_10000101_NAME:[F]Develop" feature="Develop" />
-  <key id="10000201" name="DUNGEONMISSIONNAME_10000201_NAME:[F]Develop" feature="Develop" />
-  <key id="10000301" name="DUNGEONMISSIONNAME_10000301_NAME:[F]Develop" feature="Develop" />
-  <key id="10000401" name="DUNGEONMISSIONNAME_10000401_NAME:[F]Develop" feature="Develop" />
-  <key id="10000501" name="DUNGEONMISSIONNAME_10000501_NAME:[F]Develop" feature="Develop" />
-  <key id="10000601" name="DUNGEONMISSIONNAME_10000601_NAME:[F]Develop" feature="Develop" />
-  <key id="10000701" name="DUNGEONMISSIONNAME_10000701_NAME:[F]Develop" feature="Develop" />
-  <key id="10000801" name="DUNGEONMISSIONNAME_10000801_NAME:[F]Develop" feature="Develop" />
-  <key id="10000901" name="DUNGEONMISSIONNAME_10000901_NAME:[F]Develop" feature="Develop" />
-  <key id="10001001" name="DUNGEONMISSIONNAME_10001001_NAME:[F]Develop" feature="Develop" />
-  <key id="10001101" name="DUNGEONMISSIONNAME_10001101_NAME:[F]Develop" feature="Develop" />
-  <key id="10001201" name="DUNGEONMISSIONNAME_10001201_NAME:[F]Develop" feature="Develop" />
-  <key id="10001301" name="DUNGEONMISSIONNAME_10001301_NAME:[F]Develop" feature="Develop" />
-  <key id="10001401" name="DUNGEONMISSIONNAME_10001401_NAME:[F]Develop" feature="Develop" />
-  <key id="10001501" name="DUNGEONMISSIONNAME_10001501_NAME:[F]Develop" feature="Develop" />
-  <key id="20004000" name="(パーティ) $npc:23090005$退治" feature="DungeonRank01" />
-  <key id="20004001" name="(パーティ) 10分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="80004001" name="(パーティ) 20分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="90004001" name="(パーティ) 7分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="20004002" name="溶岩に落ちると減点" feature="DungeonRank01" />
-  <key id="20004003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20004004" name="落石に当たると減点" feature="DungeonRank01" />
-  <key id="20004005" name="破滅のレーキに当たると減点" feature="DungeonRank01" />
-  <key id="23004000" name="(パーティ) $npc:23090005$退治" feature="DungeonRank01" />
-  <key id="23004001" name="(パーティ) 5分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="23004002" name="(パーティ) 10分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="83004001" name="(パーティ) 5分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="83004002" name="(パーティ) 10分以内に$npc:23090005$退治" feature="DungeonRank01" />
-  <key id="23004003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23004004" name="落石に当たると減点" feature="DungeonRank01" />
-  <key id="23004005" name="死の爆発に当たると減点" feature="DungeonRank01" />
-  <key id="20007001" name="(パーティ) 8分内に$npc:23000071$破壊" feature="Zakum01" />
-  <key id="20007002" name="(パーティ) 12分内に$npc:23000071$破壊" feature="Zakum01" />
-  <key id="20007003" name="(パーティ) $npc:23000071$破壊" feature="Zakum01" />
-  <key id="20007004" name="DUNGEONMISSIONNAME_20007004_NAME:[F]Zakum01" feature="Zakum01" />
-  <key id="20007005" name="碑石に敷かれると減点" feature="Zakum01" />
-  <key id="20007006" name="(パーティ) 5分内に$npc:23000071$破壊" feature="Zakum02" />
-  <key id="20014000" name="(パーティ) $npc:23000011$退治" feature="DungeonRank01" />
-  <key id="20014001" name="(パーティ) 13分以内に$npc:23000011$退治" feature="DungeonRank01" />
-  <key id="80014001" name="(パーティ) 9分以内に$npc:23000011$退治" feature="DungeonRank01" />
-  <key id="90014001" name="(パーティ) 7分以内に$npc:23000011$退治" feature="DungeonRank01" />
-  <key id="20014002" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20014003" name="火傷を治療する" feature="DungeonRank01" />
-  <key id="20014004" name="尻尾で地面強打に当たると減点" feature="DungeonRank01" />
-  <key id="20014005" name="レーザーブレスに当たると減点" feature="DungeonRank01" />
-  <key id="20016000" name="(パーティ) $npc:23000052$退治" feature="DungeonRank01" />
-  <key id="20016001" name="(パーティ) 13分以内に$npc:23000052$退治" feature="DungeonRank01" />
-  <key id="80016001" name="(パーティ) 20分以内に$npc:23000052$退治" feature="DungeonRank01" />
-  <key id="90016001" name="(パーティ) 7分以内に$npc:23000052$退治" feature="DungeonRank01" />
-  <key id="20016002" name="火傷にかかると減点" feature="DungeonRank01" />
-  <key id="20016003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20016004" name="死のレーザーに当たると減点" feature="DungeonRank01" />
-  <key id="20016005" name="火炎の渦巻きに当たると減点" feature="DungeonRank01" />
-  <key id="20018000" name="(パーティ) $npc:23000068$退治" feature="DungeonRank01" />
-  <key id="20018001" name="(パーティ) 13分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="80018001" name="(パーティ) 20分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="90018001" name="(パーティ) 7分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="20018002" name="(パーティ) モンスター退治" feature="DungeonRank01" />
-  <key id="20018003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20018004" name="剣気衝撃波に当たると減点" feature="DungeonRank01" />
-  <key id="20018005" name="魔法陣に落ちた刃に当たると減点" feature="DungeonRank01" />
-  <key id="23018000" name="(パーティ) $npc:23000068$退治" feature="DungeonRank01" />
-  <key id="23018001" name="(パーティ) 5分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="83018001" name="(パーティ) 3分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="23018002" name="(パーティ) 10分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="83018002" name="(パーティ) 6分以内に$npc:23000068$退治" feature="DungeonRank01" />
-  <key id="23018003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23018004" name="剣気衝撃波に当たると減点" feature="DungeonRank01" />
-  <key id="23018005" name="魔法陣に落ちた刃に当たると減点" feature="DungeonRank01" />
-  <key id="20019000" name="(パーティ) $npc:23000080$退治" feature="DungeonRank01" />
-  <key id="20019001" name="(パーティ) 13分以内に$npc:23000080$退治" feature="DungeonRank01" />
-  <key id="80019001" name="(パーティ) 20分以内に$npc:23000080$退治" feature="DungeonRank01" />
-  <key id="90019001" name="(パーティ) 7分以内に$npc:23000080$退治" feature="DungeonRank01" />
-  <key id="20019002" name="小人化すると減点" feature="DungeonRank01" />
-  <key id="20019003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20019004" name="氷柱に当たると減点" feature="DungeonRank01" />
-  <key id="20019005" name="落雷に当たると減点" feature="DungeonRank01" />
-  <key id="23019000" name="(パーティ) $npc:23000080$退治" feature="DungeonRank01" />
-  <key id="23019001" name="(パーティ) 5分以内に$npc:23000080$退治" feature="DungeonRank01" />
-  <key id="23019002" name="(パーティ) 10分以内に$npc:23000080$退治" feature="DungeonRank01" />
-  <key id="23019003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23019004" name="氷柱に当たると減点" feature="DungeonRank01" />
-  <key id="23019005" name="落雷に当たると減点" feature="DungeonRank01" />
-  <key id="20020000" name="(パーティ) $npc:23000082$退治" feature="DungeonRank01" />
-  <key id="20020001" name="(パーティ) 13分以内に$npc:23000082$退治" feature="DungeonRank01" />
-  <key id="80020001" name="(パーティ) 20分以内に$npc:23000082$退治" feature="DungeonRank01" />
-  <key id="90020001" name="(パーティ) 7分以内に$npc:23000082$退治" feature="DungeonRank01" />
-  <key id="20020002" name="命中減少効果にかかると減点" feature="DungeonRank01" />
-  <key id="20020003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20020004" name="降り下ろした剣に当たると減点" feature="DungeonRank01" />
-  <key id="20020005" name="ソウルバスターに当たると減点" feature="DungeonRank01" />
-  <key id="23020001" name="(パーティ) 5分以内に$npc:23000082$退治" feature="DungeonRank01" />
-  <key id="23020002" name="(パーティ) 10分以内に$npc:23000082$退治" feature="DungeonRank01" />
-  <key id="23020003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23020004" name="降り下ろした剣に当たると減点" feature="DungeonRank01" />
-  <key id="23020005" name="ソウルバスターに当たると減点" feature="DungeonRank01" />
-  <key id="20021001" name="(パーティ) 8分以内に$npc:23000083$退治" feature="DungeonRank01" />
-  <key id="20021002" name="氷キューブに当たると減点" feature="DungeonRank01" />
-  <key id="20021003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20021004" name="冷気衝撃波に当たると減点" feature="DungeonRank01" />
-  <key id="20021005" name="クリスタルレーザーに当たると減点" feature="DungeonRank01" />
-  <key id="23021000" name="(パーティ) $npc:23000083$退治" feature="DungeonRank01" />
-  <key id="23021001" name="(パーティ) 7分以内に$npc:23000083$退治" feature="DungeonRank01" />
-  <key id="23021003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23021004" name="氷キューブに当たると減点" feature="DungeonRank01" />
-  <key id="23021005" name="冷気衝撃波に当たると減点" feature="DungeonRank01" />
-  <key id="23021006" name="クリスタルレーザーに当たると減点" feature="DungeonRank01" />
-  <key id="23021007" name="(パーティ) $npc:23000114$退治" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="23021008" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="23021009" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="23021010" name="碑石に敷かれると減点" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="20022001" name="(パーティ) 15分以内に$npc:23000064$退治" feature="DungeonRank01" />
-  <key id="20022002" name="(パーティ) $npc:21500640$退治" feature="DungeonRank01" />
-  <key id="20022003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="20022004" name="影炎を踏むと減点" feature="DungeonRank01" />
-  <key id="20022005" name="シャドウブレスに当たると減点" feature="DungeonRank01" />
-  <key id="23022000" name="(パーティ) $npc:23000064$退治" feature="DungeonRank01" />
-  <key id="23022001" name="(パーティ) 7分以内に$npc:23000064$退治" feature="DungeonRank01" />
-  <key id="23022003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23022004" name="影炎を踏むと減点" feature="DungeonRank01" />
-  <key id="23022005" name="シャドウブレスに当たると減点" feature="DungeonRank01" />
-  <key id="23022006" name="(パーティ) $npc:23200067$退治" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23022007" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23022008" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23022009" name="碑石に敷かれると減点" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23006000" name="(パーティ) $npc:23000007$退治" feature="DungeonRank01" />
-  <key id="23006001" name="(パーティ) 5分以内に$npc:23000007$退治" feature="DungeonRank01" />
-  <key id="23006002" name="(パーティ) 10分以内に$npc:23000007$退治" feature="DungeonRank01" />
-  <key id="83006001" name="(パーティ) 3分以内に$npc:23000007$退治" feature="DungeonRank01" />
-  <key id="83006002" name="(パーティ) 6分以内に$npc:23000007$退治" feature="DungeonRank01" />
-  <key id="23006003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23006004" name="SP封印効果にかかると減点" feature="DungeonRank01" />
-  <key id="23006005" name="シャドウレーザーに当たると減点" feature="DungeonRank01" />
-  <key id="23006006" name="(パーティ) $npc:23000007$退治" feature="DungeonOpenNA1808" />
-  <key id="23006007" name="碑石に敷かれると減点" feature="DungeonOpenNA1808" />
-  <key id="23006008" name="(パーティ) 7人以下でクリア" feature="DungeonOpenNA1808" />
-  <key id="23006009" name="(パーティ) 4人以下でクリア" feature="DungeonOpenNA1808" />
-  <key id="23007000" name="(パーティ) $npc:23200016$退治" feature="DungeonOpenNA1808" />
-  <key id="23007001" name="(パーティ) 5分以内に$npc:23200016$退治" feature="DungeonOpenNA1808" />
-  <key id="23007002" name="(パーティ) 10分以内に$npc:23200016$退治" feature="DungeonOpenNA1808" />
-  <key id="23006006" name="(パーティ) $npc:23000007$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23006007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
-  <key id="23006008" name="(パーティ) 7人以下でクリア" feature="DungeonRank01" locale="JP" />
-  <key id="23006009" name="(パーティ) 4人以下でクリア" feature="DungeonRank01" locale="JP" />
-  <key id="23007000" name="(パーティ) $npc:23200016$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23007001" name="(パーティ) 5分以内に$npc:23200016$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23007002" name="(パーティ) 10分以内に$npc:23200016$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23010000" name="(パーティ) $npc:23000015$退治" feature="DungeonRank01" />
-  <key id="23010001" name="(パーティ) 5分以内に$npc:23000015$退治" feature="DungeonRank01" />
-  <key id="23010002" name="(パーティ) 10分以内に$npc:23000015$退治" feature="DungeonRank01" />
-  <key id="83010001" name="(パーティ) 6分以内に$npc:23000015$退治" feature="DungeonRank01" />
-  <key id="83010002" name="(パーティ) 12分以内に$npc:23000015$退治" feature="DungeonRank01" />
-  <key id="23010003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23010004" name="体当たりに当たると減点" feature="DungeonRank01" />
-  <key id="23010005" name="超強力レーキ砲に当たると減点" feature="DungeonRank01" />
-  <key id="23010006" name="(パーティ) $npc:23000015$退治" feature="DungeonOpenNA1808" />
-  <key id="23010007" name="碑石に敷かれると減点" feature="DungeonOpenNA1808" />
-  <key id="23010008" name="(パーティ) 7人以下でクリア" feature="DungeonOpenNA1808" />
-  <key id="23010009" name="(パーティ) 4人以下でクリア" feature="DungeonOpenNA1808" />
-  <key id="23008000" name="(パーティ) $npc:23200017$退治" feature="DungeonOpenNA1808" />
-  <key id="23008001" name="(パーティ) 5分以内に$npc:23200017$退治" feature="DungeonOpenNA1808" />
-  <key id="23008002" name="(パーティ) 10分以内に$npc:23200017$退治" feature="DungeonOpenNA1808" />
-  <key id="23010006" name="(パーティ) $npc:23000015$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23010007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
-  <key id="23010008" name="(パーティ) 7人以下でクリア" feature="DungeonRank01" locale="JP" />
-  <key id="23010009" name="(パーティ) 4人以下でクリア" feature="DungeonRank01" locale="JP" />
-  <key id="23008000" name="(パーティ) $npc:23200017$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23008001" name="(パーティ) 5分以内に$npc:23200017$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23008002" name="(パーティ) 10分以内に$npc:23200017$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23011001" name="(パーティ) 5分以内に$npc:23000077$退治" feature="DungeonRank01" />
-  <key id="23011002" name="(パーティ) 10分以内に$npc:23000077$退治" feature="DungeonRank01" />
-  <key id="23011003" name="碑石に敷かれると減点" feature="DungeonRank01" />
-  <key id="23011004" name="手で地面強打に当たると減点" feature="DungeonRank01" />
-  <key id="23011005" name="次元のレーダーに当たると減点" feature="DungeonRank01" />
-  <key id="23011006" name="(パーティ) $npc:23200077$退治" feature="DungeonOpenNA1808" />
-  <key id="23011007" name="碑石に敷かれると減点" feature="DungeonOpenNA1808" />
-  <key id="23011008" name="(パーティ) 8人以下でクリア" feature="DungeonOpenNA1808" />
-  <key id="23011009" name="(パーティ) 5人以下でクリア" feature="DungeonOpenNA1808" />
-  <key id="23011006" name="(パーティ) $npc:23200077$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23011007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
-  <key id="23011008" name="(パーティ) 8人以下でクリア" feature="DungeonRank01" locale="JP" />
-  <key id="23011009" name="(パーティ) 5人以下でクリア" feature="DungeonRank01" locale="JP" />
-  <key id="23011010" name="(パーティ) $npc:23200076$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23011011" name="(パーティ) 5分以内に$npc:23200076$退治" feature="DungeonRank01" locale="JP" />
-  <key id="23011012" name="(パーティ) 10分以内に$npc:23200076$退治" feature="DungeonRank01" locale="JP" />
-  <key id="20023001" name="(パーティ) 8分内に$npc:23000088$を制圧する" feature="PinkBean01" />
-  <key id="20023002" name="(パーティ) 12分内に$npc:23000088$を制圧する" feature="PinkBean01" />
-  <key id="20023003" name="(パーティ) $npc:23000088$を制圧する" feature="PinkBean01" />
-  <key id="20023004" name="(パーティ) $npc:21500670$退治" feature="PinkBean01" />
-  <key id="20023005" name="碑石に敷かれると減点" feature="PinkBean01" />
-  <key id="23023000" name="(パーティ) $npc:23000088$退治" feature="PinkBean01" />
-  <key id="23023001" name="(パーティ) 7分内に$npc:23000088$を制圧する" feature="PinkBean01" />
-  <key id="23023003" name="碑石に敷かれると減点" feature="PinkBean01" />
-  <key id="23023004" name="拡声器に当たって踊らされると減点" feature="PinkBean01" />
-  <key id="23023005" name="光の柱魔法に当たると減点" feature="PinkBean01" />
-  <key id="23023006" name="(パーティ) $npc:23000115$退治" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="23023007" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="23023008" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="23023009" name="碑石に敷かれると減点" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="23024000" name="(パーティ) $npc:23000072$退治" feature="Kritias_Zakum01" />
-  <key id="23024001" name="(パーティ) 5分以内に$npc:23000072$退治" feature="Kritias_Zakum01" />
-  <key id="23024002" name="(パーティ) 10分以内に$npc:23000072$退治" feature="Kritias_Zakum01" />
-  <key id="23024003" name="碑石に敷かれると減点" feature="Kritias_Zakum01" />
-  <key id="23024004" name="(パーティ) $npc:23000073$退治" feature="Kritias_Zakum01" />
-  <key id="23024005" name="(パーティ) 5分以内に$npc:23000073$退治" feature="Kritias_Zakum01" />
-  <key id="23024006" name="(パーティ) 10分以内に$npc:23000073$退治" feature="Kritias_Zakum01" />
-  <key id="23025000" name="(パーティ) $npc:23000150$退治" feature="Kritias_Inferno01" />
-  <key id="23025001" name="(パーティ) 5分以内に$npc:23000150$退治" feature="Kritias_Inferno01" />
-  <key id="23025002" name="(パーティ) 10分以内に$npc:23000150$退治" feature="Kritias_Inferno01" />
-  <key id="23025003" name="碑石に敷かれると減点" feature="Kritias_Inferno01" />
-  <key id="23025004" name="(パーティ) $npc:23000151$退治" feature="Kritias_Inferno01" />
-  <key id="23025005" name="(パーティ) 5分以内に$npc:23000151$退治" feature="Kritias_Inferno01" />
-  <key id="23025006" name="(パーティ) 10分以内に$npc:23000151$退治" feature="Kritias_Inferno01" />
-  <key id="23026000" name="(パーティ) $npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="23026001" name="(パーティ) 5分以内に$npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="23026002" name="(パーティ) 10分以内に$npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
-  <key id="23027000" name="(パーティ) $npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23027001" name="(パーティ) 5分以内に$npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23027002" name="(パーティ) 10分以内に$npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
-  <key id="23028000" name="(パーティ) $npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="23028001" name="(パーティ) 5分以内に$npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="23028002" name="(パーティ) 10分以内に$npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
-  <key id="24090001" name="(パーティ) インフェルノックに24億ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090002" name="(パーティ) インフェルノックに20億ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090003" name="(パーティ) 15分間生存" feature="CrimsonBalrog01" />
-  <key id="24090004" name="(パーティ) インフェルノックのシールド無力化" feature="CrimsonBalrog01" />
-  <key id="24090005" name="インフェルノックに5000万ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090006" name="インフェルノックに50万ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090007" name="(パーティ) 戦艦の側面破壊" feature="CrimsonBalrog01" />
-  <key id="24090008" name="碑石に敷かれると減点" feature="CrimsonBalrog01" />
-  <key id="24090011" name="(パーティ) インフェルノックに40億ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090012" name="(パーティ) インフェルノックに15億ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090013" name="(パーティ) 15分間生存" feature="CrimsonBalrog01" />
-  <key id="24090014" name="(パーティ) インフェルノックのシールド無力化" feature="CrimsonBalrog01" />
-  <key id="24090015" name="インフェルノックに2500万ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090016" name="インフェルノックに25万ダメージ" feature="CrimsonBalrog01" />
-  <key id="24090017" name="(パーティ) 戦艦の側面破壊" feature="CrimsonBalrog01" />
-  <key id="24090018" name="碑石に敷かれると減点" feature="CrimsonBalrog01" />
-  <key id="24090019" name="(パーティ) $npc:23000140$退治" feature="DungeonOpenNA1901" />
-  <key id="24090020" name="碑石に敷かれると減点" feature="DungeonOpenNA1901" />
-  <key id="24090021" name="(パーティ) 8人以下でクリア" feature="DungeonOpenNA1901" />
-  <key id="24090022" name="(パーティ) 5人以下でクリア" feature="DungeonOpenNA1901" />
-  <key id="24090019" name="(パーティ) $npc:23000140$退治" feature="CrimsonBalrog01" locale="JP" />
-  <key id="24090020" name="碑石に敷かれると減点" feature="CrimsonBalrog01" locale="JP" />
-  <key id="24090021" name="(パーティ) 8人以下でクリア" feature="CrimsonBalrog01" locale="JP" />
-  <key id="24090022" name="(パーティ) 5人以下でクリア" feature="CrimsonBalrog01" locale="JP" />
-  <key id="24091001" name="ブリーチェのHP5%減少" feature="FameChallengeDungeon" />
-  <key id="24091002" name="ブリーチェのHP20%減少" feature="FameChallengeDungeon" />
-  <key id="24091003" name="ブリーチェのHP60%減少" feature="FameChallengeDungeon" />
-  <key id="24091004" name="ブリーチェに勝利する" feature="FameChallengeDungeon" />
-  <key id="24091005" name="3分以内にブリーチェに勝利する" feature="FameChallengeDungeon" />
-  <key id="24091006" name="70秒以内にブリーチェに勝利する" feature="FameChallengeDungeon" />
-  <key id="24091007" name="ブリーチェのHP25%減少" feature="DungeonOpenNA1901" />
-  <key id="24091008" name="ブリーチェのHP50%減少" feature="DungeonOpenNA1901" />
-  <key id="24091009" name="ブリーチェのHP75%減少" feature="DungeonOpenNA1901" />
-  <key id="24091010" name="4分30秒以内にブリーチェに勝利する" feature="DungeonOpenNA1901" />
-  <key id="24091007" name="ブリーチェのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24091008" name="ブリーチェのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24091009" name="ブリーチェのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24091010" name="4分30秒以内にブリーチェに勝利する" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24092001" name="コンドールのHP5%減少" feature="FameChallengeDungeon" />
-  <key id="24092002" name="コンドールのHP20%減少" feature="FameChallengeDungeon" />
-  <key id="24092003" name="コンドールのHP60%減少" feature="FameChallengeDungeon" />
-  <key id="24092004" name="コンドールに勝利する" feature="FameChallengeDungeon" />
-  <key id="24092005" name="3分以内にコンドールに勝利する" feature="FameChallengeDungeon" />
-  <key id="24092006" name="70秒以内にコンドールに勝利する" feature="FameChallengeDungeon" />
-  <key id="24092007" name="コンドールのHP25%減少" feature="DungeonOpenNA1901" />
-  <key id="24092008" name="コンドールのHP50%減少" feature="DungeonOpenNA1901" />
-  <key id="24092009" name="コンドールのHP75%減少" feature="DungeonOpenNA1901" />
-  <key id="24092010" name="4分30秒以内にコンドールに勝利する" feature="DungeonOpenNA1901" />
-  <key id="24092007" name="コンドールのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24092008" name="コンドールのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24092009" name="コンドールのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24092010" name="4分30秒以内にコンドールに勝利する" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24093001" name="ラウンド1クリア" feature="FameChallengeDungeon" />
-  <key id="24093002" name="ラウンド2クリア" feature="FameChallengeDungeon" />
-  <key id="24093003" name="ラウンド4クリア" feature="FameChallengeDungeon" />
-  <key id="24093004" name="ラウンド5クリア" feature="FameChallengeDungeon" />
-  <key id="24093005" name="3分以内にラウンド5クリア" feature="FameChallengeDungeon" />
-  <key id="24093006" name="70秒以内にラウンド5クリア" feature="FameChallengeDungeon" />
-  <key id="24093007" name="4分30秒以内にラウンド5クリア" feature="DungeonOpenNA1901" />
-  <key id="24093007" name="4分30秒分以内にラウンド5クリア" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24094001" name="メイソンのHP5%減少" feature="FameChallengeDungeon" />
-  <key id="24094002" name="メイソンのHP20%減少" feature="FameChallengeDungeon" />
-  <key id="24094003" name="メイソンのHP60%減少" feature="FameChallengeDungeon" />
-  <key id="24094004" name="メイソンに勝利する" feature="FameChallengeDungeon" />
-  <key id="24094005" name="3分以内にメイソンに勝利する" feature="FameChallengeDungeon" />
-  <key id="24094006" name="70秒以内にメイソンに勝利する" feature="FameChallengeDungeon" />
-  <key id="24094007" name="メイソンのHP25%減少" feature="DungeonOpenNA1901" />
-  <key id="24094008" name="メイソンのHP50%減少" feature="DungeonOpenNA1901" />
-  <key id="24094009" name="メイソンのHP75%減少" feature="DungeonOpenNA1901" />
-  <key id="24094010" name="4分30秒以内にメイソンに勝利する" feature="DungeonOpenNA1901" />
-  <key id="24094007" name="メイソンのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24094008" name="メイソンのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24094009" name="メイソンのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24094010" name="4分30秒以内にメイソンに勝利する" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24095001" name="シャテンのHP5%減少" feature="FameChallengeDungeon" />
-  <key id="24095002" name="シャテンのHP20%減少" feature="FameChallengeDungeon" />
-  <key id="24095003" name="シャテンのHP60%減少" feature="FameChallengeDungeon" />
-  <key id="24095004" name="シャテンに勝利する" feature="FameChallengeDungeon" />
-  <key id="24095005" name="3分以内にシャテンに勝利する" feature="FameChallengeDungeon" />
-  <key id="24095006" name="70秒以内にシャテンに勝利する" feature="FameChallengeDungeon" />
-  <key id="24095007" name="シャテンのHP25%減少" feature="DungeonOpenNA1901" />
-  <key id="24095008" name="シャテンのHP50%減少" feature="DungeonOpenNA1901" />
-  <key id="24095009" name="シャテンのHP75%減少" feature="DungeonOpenNA1901" />
-  <key id="24095010" name="4分30秒以内にシャテンに勝利する" feature="DungeonOpenNA1901" />
-  <key id="24095007" name="シャテンのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24095008" name="シャテンのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24095009" name="シャテンのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
-  <key id="24095010" name="4分30秒以内にシャテンに勝利する" feature="FameChallengeDungeon" locale="JP" />
-  <key id="23031000" name="(パーティ) $npc:21420101$退治" feature="ChronicleDungeon60_01" />
-  <key id="23031001" name="(パーティ) $npc:21420102$退治" feature="ChronicleDungeon60_01" />
-  <key id="23031002" name="(パーティ) 5分内に$npc:21420101$、$npc:21420102$退治" feature="ChronicleDungeon60_01" />
-  <key id="23031004" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
-  <key id="23031005" name="波攻撃に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23031006" name="$npc:21420101$の突進に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23031000" name="(パーティ) $npc:21420101$退治" feature="DungeonOpen60AH1" locale="JP" />
-  <key id="23031001" name="(パーティ) $npc:21420102$退治" feature="DungeonOpen60AH1" locale="JP" />
-  <key id="23031002" name="(パーティ) 5分内に$npc:21420101$、$npc:21420102$退治" feature="DungeonOpen60AH1" locale="JP" />
-  <key id="23031004" name="碑石に敷かれると減点" feature="DungeonOpen60AH1" locale="JP" />
-  <key id="23031005" name="波攻撃に当たると減点" feature="DungeonOpen60AH1" locale="JP" />
-  <key id="23031006" name="$npc:21420101$の突進に当たると減点" feature="DungeonOpen60AH1" locale="JP" />
-  <key id="23032000" name="(パーティ) $npc:21420207$退治" feature="ChronicleDungeon60_01" />
-  <key id="23032001" name="(パーティ) 5分以内に$npc:21420207$退治" feature="ChronicleDungeon60_01" />
-  <key id="23032003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
-  <key id="23032004" name="$npc:21420207$の波衝撃波に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23032005" name="$npc:21420207$の水鉄砲に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23032000" name="(パーティ) $npc:21420207$退治" feature="DungeonOpen60AH2" locale="JP" />
-  <key id="23032001" name="(パーティ) 5分以内に$npc:21420207$退治" feature="DungeonOpen60AH2" locale="JP" />
-  <key id="23032003" name="碑石に敷かれると減点" feature="DungeonOpen60AH2" locale="JP" />
-  <key id="23032004" name="$npc:21420207$の波衝撃波に当たると減点" feature="DungeonOpen60AH2" locale="JP" />
-  <key id="23032005" name="$npc:21420207$の水鉄砲に当たると減点" feature="DungeonOpen60AH2" locale="JP" />
-  <key id="23033000" name="(パーティ) $npc:21420329$退治" feature="ChronicleDungeon60_01" />
-  <key id="23033001" name="(パーティ) 6分以内に$npc:21420329$退治" feature="ChronicleDungeon60_01" />
-  <key id="23033003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
-  <key id="23033004" name="$npc:21420329$の地面冷気爆発に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23033000" name="(パーティ) $npc:21420329$退治" feature="DungeonOpen60AH3" locale="JP" />
-  <key id="23033001" name="(パーティ) 6分以内に$npc:21420329$退治" feature="DungeonOpen60AH3" locale="JP" />
-  <key id="23033003" name="碑石に敷かれると減点" feature="DungeonOpen60AH3" locale="JP" />
-  <key id="23033004" name="$npc:21420329$の地面冷気爆発に当たると減点" feature="DungeonOpen60AH3" locale="JP" />
-  <key id="23034000" name="(パーティ) $npc:21420514$退治" feature="ChronicleDungeon60_01" />
-  <key id="23034001" name="(パーティ) 5分以内に$npc:21421514$退治" feature="ChronicleDungeon60_01" />
-  <key id="23034003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
-  <key id="23034004" name="$npc:21420514$のレーザー攻撃に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23034000" name="(パーティ) $npc:21420514$退治" feature="DungeonOpen60AH4" locale="JP" />
-  <key id="23034001" name="(パーティ) 5分以内に$npc:21421514$退治" feature="DungeonOpen60AH4" locale="JP" />
-  <key id="23034003" name="碑石に敷かれると減点" feature="DungeonOpen60AH4" locale="JP" />
-  <key id="23034004" name="$npc:21420514$のレーザー攻撃に当たると減点" feature="DungeonOpen60AH4" locale="JP" />
-  <key id="23035000" name="(パーティ) $npc:21420401$退治" feature="ChronicleDungeon60_01" />
-  <key id="23035001" name="(パーティ) 5分以内に$npc:21420401$退治" feature="ChronicleDungeon60_01" />
-  <key id="23035003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
-  <key id="23035004" name="$npc:21420401$の衝撃波に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23035000" name="(パーティ) $npc:21420401$退治" feature="DungeonOpen60AH5" locale="JP" />
-  <key id="23035001" name="(パーティ) 5分以内に$npc:21420401$退治" feature="DungeonOpen60AH5" locale="JP" />
-  <key id="23035003" name="碑石に敷かれると減点" feature="DungeonOpen60AH5" locale="JP" />
-  <key id="23035004" name="$npc:21420401$の衝撃波に当たると減点" feature="DungeonOpen60AH5" locale="JP" />
-  <key id="23036000" name="(パーティ) $npc:21420626$、$npc:21420627$退治" feature="ChronicleDungeon60_01" />
-  <key id="23036001" name="(パーティ) 5分内に$npc:21420626$、$npc:21420627$退治" feature="ChronicleDungeon60_01" />
-  <key id="23036003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
-  <key id="23036004" name="地面電気に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23036005" name="飛び回った後、着地衝撃波に当たると減点" feature="ChronicleDungeon60_01" />
-  <key id="23036000" name="(パーティ) $npc:21420626$、$npc:21420627$退治" feature="DungeonOpen60AH6" locale="JP" />
-  <key id="23036001" name="(パーティ) 5分内に$npc:21420626$、$npc:21420627$退治" feature="DungeonOpen60AH6" locale="JP" />
-  <key id="23036003" name="碑石に敷かれると減点" feature="DungeonOpen60AH6" locale="JP" />
-  <key id="23036004" name="地面電気に当たると減点" feature="DungeonOpen60AH6" locale="JP" />
-  <key id="23036005" name="飛び回った後、着地衝撃波に当たると減点" feature="DungeonOpen60AH6" locale="JP" />
-  <key id="23037000" name="(パーティ) $npc:23000113$退治" feature="LapentaDungeon" />
-  <key id="23037001" name="(パーティ) 10分15秒以内に$npc:23000113退治" feature="LapentaDungeon" />
-  <key id="23037002" name="(パーティ) 4分15秒以内に$npc:23000113退治" feature="LapentaDungeon" />
-  <key id="23037003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
-  <key id="23037004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23037005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23037006" name="(パーティ) 10分45秒以内に$npc:23000113退治" feature="LapentaDungeon" />
-  <key id="23037007" name="(パーティ) 5分45秒以内に$npc:23000113退治" feature="LapentaDungeon" />
-  <key id="23037000" name="(パーティ) $npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
-  <key id="23037003" name="碑石に敷かれると減点" feature="DungeonOpen60EL3" locale="JP" />
-  <key id="23037004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL3" locale="JP" />
-  <key id="23037005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL3" locale="JP" />
-  <key id="23037006" name="(パーティ) 10分45秒以内に$npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
-  <key id="23037007" name="(パーティ) 5分45秒以内に$npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
-  <key id="23038000" name="(パーティ) $npc:23501001$退治" feature="LapentaDungeon" />
-  <key id="23038001" name="(パーティ) 6分以内に$npc:23501001$退治" feature="LapentaDungeon" />
-  <key id="23038002" name="(パーティ) 2分15秒以内に$npc:23501001退治" feature="LapentaDungeon" />
-  <key id="23038003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
-  <key id="23038004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23038005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23038006" name="(パーティ) 6分15秒以内に$npc:23501001退治" feature="LapentaDungeon" />
-  <key id="23038007" name="(パーティ) 3分30秒以内に$npc:23501001退治" feature="LapentaDungeon" />
-  <key id="23038000" name="(パーティ) $npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
-  <key id="23038003" name="碑石に敷かれると減点" feature="DungeonOpen60EL1" locale="JP" />
-  <key id="23038004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL1" locale="JP" />
-  <key id="23038005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL1" locale="JP" />
-  <key id="23038006" name="(パーティ) 6分15秒以内に$npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
-  <key id="23038007" name="(パーティ) 3分30秒以内に$npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
-  <key id="23039000" name="(パーティ) $npc:23501011$退治" feature="LapentaDungeon" />
-  <key id="23039001" name="(パーティ) 6分以内に$npc:23501011$退治" feature="LapentaDungeon" />
-  <key id="23039002" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="LapentaDungeon" />
-  <key id="23039003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
-  <key id="23039004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23039005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23039006" name="(パーティ) 6分15秒以内に$npc:23501011退治" feature="LapentaDungeon" />
-  <key id="23039007" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="LapentaDungeon" />
-  <key id="23039000" name="(パーティ) $npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
-  <key id="23039003" name="碑石に敷かれると減点" feature="DungeonOpen60EL2" locale="JP" />
-  <key id="23039004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL2" locale="JP" />
-  <key id="23039005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL2" locale="JP" />
-  <key id="23039006" name="(パーティ) 6分15秒以内に$npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
-  <key id="23039007" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
-  <key id="23040000" name="(パーティ) $map:02020130$征服" feature="LapentaDungeon" />
-  <key id="23040001" name="(パーティ) 13分以内に$map:02020130$征服" feature="LapentaDungeon" />
-  <key id="23040002" name="(パーティ) 6分30秒以内に$map:02020130$征服" feature="LapentaDungeon" />
-  <key id="23040003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
-  <key id="23040004" name="(パーティ) 3か所全て8秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23040005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
-  <key id="23040006" name="(パーティ) 11分45秒以内に$map:02020130$征服" feature="LapentaDungeon" />
-  <key id="23040007" name="(パーティ) 7分30秒以内に$map:02020130$征服" feature="LapentaDungeon" />
-  <key id="23040000" name="DUNGEONMISSIONNAME_23040000_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
-  <key id="23040003" name="碑石に敷かれると減点" feature="DungeonOpen60EL4" locale="JP" />
-  <key id="23040004" name="DUNGEONMISSIONNAME_23040004_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
-  <key id="23040005" name="DUNGEONMISSIONNAME_23040005_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
-  <key id="23040006" name="DUNGEONMISSIONNAME_23040006_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
-  <key id="23040007" name="DUNGEONMISSIONNAME_23040007_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
-  <key id="23050000" name="(パーティ) $npc:23090006$退治" feature="Kritias_Balrog01" />
-  <key id="23050001" name="(パーティ) 8分以内に$npc:23090006$退治" feature="Kritias_Balrog01" />
-  <key id="23050002" name="(パーティ) 4分以内に$npc:23090006$退治" feature="Kritias_Balrog01" />
-  <key id="23050003" name="碑石に敷かれると減点" feature="Kritias_Balrog01" />
-  <key id="23050004" name="DUNGEONMISSIONNAME_23050004_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-  <key id="23060000" name="(パーティ) $npc:23000301$退治" feature="Kritias_Paika01" />
-  <key id="23060001" name="(パーティ) 8分以内に$npc:23000301$退治" feature="Kritias_Paika01" />
-  <key id="23060002" name="(パーティ) 4分以内に$npc:23000301$退治" feature="Kritias_Paika01" />
-  <key id="23060003" name="碑石に敷かれると減点" feature="Kritias_Paika01" />
-  <key id="23060004" name="DUNGEONMISSIONNAME_23060004_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
-  <key id="23070000" name="(パーティ) $npc:23503003$退治" feature="Kritias_Turka01" />
-  <key id="23070001" name="(パーティ) 12分以内に$npc:23503003$退治" feature="Kritias_Turka01" />
-  <key id="23070002" name="(パーティ) 8分以内に$npc:23503003$退治" feature="Kritias_Turka01" />
-  <key id="23070003" name="碑石に敷かれると減点" feature="Kritias_Turka01" />
-  <key id="23080000" name="(パーティ) $npc:23504101$退治" feature="Kritias_Turka02" />
-  <key id="23080001" name="(パーティ) 12分以内に$npc:23504101$退治" feature="Kritias_Turka02" />
-  <key id="23080002" name="(パーティ) 8分以内に$npc:23504101$退治" feature="Kritias_Turka02" />
-  <key id="23080003" name="碑石に敷かれると減点" feature="Kritias_Turka02" />
-  <key id="23090000" name="(パーティ) $npc:23000122$退治" feature="Kritias_Turka03" />
-  <key id="23090001" name="(パーティ) 12分以内に$npc:23000122$退治" feature="Kritias_Turka03" />
-  <key id="23090002" name="(パーティ) 8分以内に$npc:23000122$退治" feature="Kritias_Turka03" />
-  <key id="23090003" name="碑石に敷かれると減点" feature="Kritias_Turka03" />
-  <key id="29006001" name="(パーティ) $npc:23000076$退治" feature="EventPapulatus" />
-  <key id="29006002" name="(パーティ) 8分30秒以内に$npc:23000076退治" feature="EventPapulatus" />
-  <key id="29006003" name="(パーティ) 6分以内に$npc:23000076$退治" feature="EventPapulatus" />
-  <key id="29006004" name="碑石に敷かれると減点" feature="EventPapulatus" />
-  <key id="23100000" name="DUNGEONMISSIONNAME_23100000_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
-  <key id="23100001" name="DUNGEONMISSIONNAME_23100001_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
-  <key id="23100002" name="DUNGEONMISSIONNAME_23100002_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
-  <key id="23100003" name="DUNGEONMISSIONNAME_23100003_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
-  <key id="23100004" name="DUNGEONMISSIONNAME_23100004_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
-  <key id="23110000" name="DUNGEONMISSIONNAME_23110000_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
-  <key id="23110001" name="DUNGEONMISSIONNAME_23110001_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
-  <key id="23110002" name="DUNGEONMISSIONNAME_23110002_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
-  <key id="23110003" name="DUNGEONMISSIONNAME_23110003_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
-  <key id="23110004" name="DUNGEONMISSIONNAME_23110004_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
-  <key id="23120000" name="DUNGEONMISSIONNAME_23120000_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23120001" name="DUNGEONMISSIONNAME_23120001_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23120002" name="DUNGEONMISSIONNAME_23120002_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23120003" name="DUNGEONMISSIONNAME_23120003_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23120004" name="DUNGEONMISSIONNAME_23120004_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23120005" name="DUNGEONMISSIONNAME_23120005_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23120006" name="DUNGEONMISSIONNAME_23120006_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-  <key id="23130000" name="DUNGEONMISSIONNAME_23130000_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23130001" name="DUNGEONMISSIONNAME_23130001_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23130002" name="DUNGEONMISSIONNAME_23130002_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23130003" name="DUNGEONMISSIONNAME_23130003_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23130004" name="DUNGEONMISSIONNAME_23130004_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23130005" name="DUNGEONMISSIONNAME_23130005_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23130006" name="DUNGEONMISSIONNAME_23130006_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
-  <key id="23140000" name="DUNGEONMISSIONNAME_23140000_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-  <key id="23140001" name="DUNGEONMISSIONNAME_23140001_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-  <key id="23140002" name="DUNGEONMISSIONNAME_23140002_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-  <key id="23140003" name="DUNGEONMISSIONNAME_23140003_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-  <key id="23140004" name="DUNGEONMISSIONNAME_23140004_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-  <key id="23140005" name="DUNGEONMISSIONNAME_23140005_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-  <key id="23140006" name="DUNGEONMISSIONNAME_23140006_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="10000101" name="DUNGEONMISSIONNAME_10000101_NAME:[F]Develop" feature="Develop" />
+	<key id="10000201" name="DUNGEONMISSIONNAME_10000201_NAME:[F]Develop" feature="Develop" />
+	<key id="10000301" name="DUNGEONMISSIONNAME_10000301_NAME:[F]Develop" feature="Develop" />
+	<key id="10000401" name="DUNGEONMISSIONNAME_10000401_NAME:[F]Develop" feature="Develop" />
+	<key id="10000501" name="DUNGEONMISSIONNAME_10000501_NAME:[F]Develop" feature="Develop" />
+	<key id="10000601" name="DUNGEONMISSIONNAME_10000601_NAME:[F]Develop" feature="Develop" />
+	<key id="10000701" name="DUNGEONMISSIONNAME_10000701_NAME:[F]Develop" feature="Develop" />
+	<key id="10000801" name="DUNGEONMISSIONNAME_10000801_NAME:[F]Develop" feature="Develop" />
+	<key id="10000901" name="DUNGEONMISSIONNAME_10000901_NAME:[F]Develop" feature="Develop" />
+	<key id="10001001" name="DUNGEONMISSIONNAME_10001001_NAME:[F]Develop" feature="Develop" />
+	<key id="10001101" name="DUNGEONMISSIONNAME_10001101_NAME:[F]Develop" feature="Develop" />
+	<key id="10001201" name="DUNGEONMISSIONNAME_10001201_NAME:[F]Develop" feature="Develop" />
+	<key id="10001301" name="DUNGEONMISSIONNAME_10001301_NAME:[F]Develop" feature="Develop" />
+	<key id="10001401" name="DUNGEONMISSIONNAME_10001401_NAME:[F]Develop" feature="Develop" />
+	<key id="10001501" name="DUNGEONMISSIONNAME_10001501_NAME:[F]Develop" feature="Develop" />
+	<key id="20004000" name="(パーティ) $npc:23090005$退治" feature="DungeonRank01" />
+	<key id="20004001" name="(パーティ) 10分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="20004002" name="溶岩に落ちると減点" feature="DungeonRank01" />
+	<key id="20004003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20004004" name="落石に当たると減点" feature="DungeonRank01" />
+	<key id="20004005" name="破滅のレーキに当たると減点" feature="DungeonRank01" />
+	<key id="20007001" name="(パーティ) 8分内に$npc:23000071$破壊" feature="Zakum01" />
+	<key id="20007002" name="(パーティ) 12分内に$npc:23000071$破壊" feature="Zakum01" />
+	<key id="20007003" name="(パーティ) $npc:23000071$破壊" feature="Zakum01" />
+	<key id="20007004" name="DUNGEONMISSIONNAME_20007004_NAME:[F]Zakum01" feature="Zakum01" />
+	<key id="20007005" name="碑石に敷かれると減点" feature="Zakum01" />
+	<key id="20007006" name="(パーティ) 5分内に$npc:23000071$破壊" feature="Zakum02" />
+	<key id="20014000" name="(パーティ) $npc:23000011$退治" feature="DungeonRank01" />
+	<key id="20014001" name="(パーティ) 13分以内に$npc:23000011$退治" feature="DungeonRank01" />
+	<key id="20014002" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20014003" name="火傷を治療する" feature="DungeonRank01" />
+	<key id="20014004" name="尻尾で地面強打に当たると減点" feature="DungeonRank01" />
+	<key id="20014005" name="レーザーブレスに当たると減点" feature="DungeonRank01" />
+	<key id="20016000" name="(パーティ) $npc:23000052$退治" feature="DungeonRank01" />
+	<key id="20016001" name="(パーティ) 13分以内に$npc:23000052$退治" feature="DungeonRank01" />
+	<key id="20016002" name="火傷にかかると減点" feature="DungeonRank01" />
+	<key id="20016003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20016004" name="死のレーザーに当たると減点" feature="DungeonRank01" />
+	<key id="20016005" name="火炎の渦巻きに当たると減点" feature="DungeonRank01" />
+	<key id="20018000" name="(パーティ) $npc:23000068$退治" feature="DungeonRank01" />
+	<key id="20018001" name="(パーティ) 13分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="20018002" name="(パーティ) モンスター退治" feature="DungeonRank01" />
+	<key id="20018003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20018004" name="剣気衝撃波に当たると減点" feature="DungeonRank01" />
+	<key id="20018005" name="魔法陣に落ちた刃に当たると減点" feature="DungeonRank01" />
+	<key id="20019000" name="(パーティ) $npc:23000080$退治" feature="DungeonRank01" />
+	<key id="20019001" name="(パーティ) 13分以内に$npc:23000080$退治" feature="DungeonRank01" />
+	<key id="20019002" name="小人化すると減点" feature="DungeonRank01" />
+	<key id="20019003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20019004" name="氷柱に当たると減点" feature="DungeonRank01" />
+	<key id="20019005" name="落雷に当たると減点" feature="DungeonRank01" />
+	<key id="20020000" name="(パーティ) $npc:23000082$退治" feature="DungeonRank01" />
+	<key id="20020001" name="(パーティ) 13分以内に$npc:23000082$退治" feature="DungeonRank01" />
+	<key id="20020002" name="命中減少効果にかかると減点" feature="DungeonRank01" />
+	<key id="20020003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20020004" name="降り下ろした剣に当たると減点" feature="DungeonRank01" />
+	<key id="20020005" name="ソウルバスターに当たると減点" feature="DungeonRank01" />
+	<key id="20021001" name="(パーティ) 8分以内に$npc:23000083$退治" feature="DungeonRank01" />
+	<key id="20021002" name="氷キューブに当たると減点" feature="DungeonRank01" />
+	<key id="20021003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20021004" name="冷気衝撃波に当たると減点" feature="DungeonRank01" />
+	<key id="20021005" name="クリスタルレーザーに当たると減点" feature="DungeonRank01" />
+	<key id="20022001" name="(パーティ) 15分以内に$npc:23000064$退治" feature="DungeonRank01" />
+	<key id="20022002" name="(パーティ) $npc:21500640$退治" feature="DungeonRank01" />
+	<key id="20022003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="20022004" name="影炎を踏むと減点" feature="DungeonRank01" />
+	<key id="20022005" name="シャドウブレスに当たると減点" feature="DungeonRank01" />
+	<key id="20023001" name="(パーティ) 8分内に$npc:23000088$を制圧する" feature="PinkBean01" />
+	<key id="20023002" name="(パーティ) 12分内に$npc:23000088$を制圧する" feature="PinkBean01" />
+	<key id="20023003" name="(パーティ) $npc:23000088$を制圧する" feature="PinkBean01" />
+	<key id="20023004" name="(パーティ) $npc:21500670$退治" feature="PinkBean01" />
+	<key id="20023005" name="碑石に敷かれると減点" feature="PinkBean01" />
+	<key id="23004000" name="(パーティ) $npc:23090005$退治" feature="DungeonRank01" />
+	<key id="23004001" name="(パーティ) 5分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="23004002" name="(パーティ) 10分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="23004003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23004004" name="落石に当たると減点" feature="DungeonRank01" />
+	<key id="23004005" name="死の爆発に当たると減点" feature="DungeonRank01" />
+	<key id="23006000" name="(パーティ) $npc:23000007$退治" feature="DungeonRank01" />
+	<key id="23006001" name="(パーティ) 5分以内に$npc:23000007$退治" feature="DungeonRank01" />
+	<key id="23006002" name="(パーティ) 10分以内に$npc:23000007$退治" feature="DungeonRank01" />
+	<key id="23006003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23006004" name="SP封印効果にかかると減点" feature="DungeonRank01" />
+	<key id="23006005" name="シャドウレーザーに当たると減点" feature="DungeonRank01" />
+	<key id="23006006" name="(パーティ) $npc:23000007$退治" feature="DungeonOpenNA1808" />
+	<key id="23006006" name="(パーティ) $npc:23000007$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23006007" name="碑石に敷かれると減点" feature="DungeonOpenNA1808" />
+	<key id="23006007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
+	<key id="23006008" name="(パーティ) 7人以下でクリア" feature="DungeonOpenNA1808" />
+	<key id="23006008" name="(パーティ) 7人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23006009" name="(パーティ) 4人以下でクリア" feature="DungeonOpenNA1808" />
+	<key id="23006009" name="(パーティ) 4人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23007000" name="(パーティ) $npc:23200016$退治" feature="DungeonOpenNA1808" />
+	<key id="23007000" name="(パーティ) $npc:23200016$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23007001" name="(パーティ) 5分以内に$npc:23200016$退治" feature="DungeonOpenNA1808" />
+	<key id="23007001" name="(パーティ) 5分以内に$npc:23200016$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23007002" name="(パーティ) 10分以内に$npc:23200016$退治" feature="DungeonOpenNA1808" />
+	<key id="23007002" name="(パーティ) 10分以内に$npc:23200016$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23008000" name="(パーティ) $npc:23200017$退治" feature="DungeonOpenNA1808" />
+	<key id="23008000" name="(パーティ) $npc:23200017$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23008001" name="(パーティ) 5分以内に$npc:23200017$退治" feature="DungeonOpenNA1808" />
+	<key id="23008001" name="(パーティ) 5分以内に$npc:23200017$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23008002" name="(パーティ) 10分以内に$npc:23200017$退治" feature="DungeonOpenNA1808" />
+	<key id="23008002" name="(パーティ) 10分以内に$npc:23200017$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23010000" name="(パーティ) $npc:23000015$退治" feature="DungeonRank01" />
+	<key id="23010001" name="(パーティ) 5分以内に$npc:23000015$退治" feature="DungeonRank01" />
+	<key id="23010002" name="(パーティ) 10分以内に$npc:23000015$退治" feature="DungeonRank01" />
+	<key id="23010003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23010004" name="体当たりに当たると減点" feature="DungeonRank01" />
+	<key id="23010005" name="超強力レーキ砲に当たると減点" feature="DungeonRank01" />
+	<key id="23010006" name="(パーティ) $npc:23000015$退治" feature="DungeonOpenNA1808" />
+	<key id="23010006" name="(パーティ) $npc:23000015$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23010007" name="碑石に敷かれると減点" feature="DungeonOpenNA1808" />
+	<key id="23010007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
+	<key id="23010008" name="(パーティ) 7人以下でクリア" feature="DungeonOpenNA1808" />
+	<key id="23010008" name="(パーティ) 7人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23010009" name="(パーティ) 4人以下でクリア" feature="DungeonOpenNA1808" />
+	<key id="23010009" name="(パーティ) 4人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23011001" name="(パーティ) 5分以内に$npc:23000077$退治" feature="DungeonRank01" />
+	<key id="23011002" name="(パーティ) 10分以内に$npc:23000077$退治" feature="DungeonRank01" />
+	<key id="23011003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23011004" name="手で地面強打に当たると減点" feature="DungeonRank01" />
+	<key id="23011005" name="次元のレーダーに当たると減点" feature="DungeonRank01" />
+	<key id="23011006" name="(パーティ) $npc:23200077$退治" feature="DungeonOpenNA1808" />
+	<key id="23011006" name="(パーティ) $npc:23200077$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23011007" name="碑石に敷かれると減点" feature="DungeonOpenNA1808" />
+	<key id="23011007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
+	<key id="23011008" name="(パーティ) 8人以下でクリア" feature="DungeonOpenNA1808" />
+	<key id="23011008" name="(パーティ) 8人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23011009" name="(パーティ) 5人以下でクリア" feature="DungeonOpenNA1808" />
+	<key id="23011009" name="(パーティ) 5人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23011010" name="(パーティ) $npc:23200076$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23011011" name="(パーティ) 5分以内に$npc:23200076$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23011012" name="(パーティ) 10分以内に$npc:23200076$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23018000" name="(パーティ) $npc:23000068$退治" feature="DungeonRank01" />
+	<key id="23018001" name="(パーティ) 5分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="23018002" name="(パーティ) 10分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="23018003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23018004" name="剣気衝撃波に当たると減点" feature="DungeonRank01" />
+	<key id="23018005" name="魔法陣に落ちた刃に当たると減点" feature="DungeonRank01" />
+	<key id="23019000" name="(パーティ) $npc:23000080$退治" feature="DungeonRank01" />
+	<key id="23019001" name="(パーティ) 5分以内に$npc:23000080$退治" feature="DungeonRank01" />
+	<key id="23019002" name="(パーティ) 10分以内に$npc:23000080$退治" feature="DungeonRank01" />
+	<key id="23019003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23019004" name="氷柱に当たると減点" feature="DungeonRank01" />
+	<key id="23019005" name="落雷に当たると減点" feature="DungeonRank01" />
+	<key id="23020001" name="(パーティ) 5分以内に$npc:23000082$退治" feature="DungeonRank01" />
+	<key id="23020002" name="(パーティ) 10分以内に$npc:23000082$退治" feature="DungeonRank01" />
+	<key id="23020003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23020004" name="降り下ろした剣に当たると減点" feature="DungeonRank01" />
+	<key id="23020005" name="ソウルバスターに当たると減点" feature="DungeonRank01" />
+	<key id="23021000" name="(パーティ) $npc:23000083$退治" feature="DungeonRank01" />
+	<key id="23021001" name="(パーティ) 7分以内に$npc:23000083$退治" feature="DungeonRank01" />
+	<key id="23021003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23021004" name="氷キューブに当たると減点" feature="DungeonRank01" />
+	<key id="23021005" name="冷気衝撃波に当たると減点" feature="DungeonRank01" />
+	<key id="23021006" name="クリスタルレーザーに当たると減点" feature="DungeonRank01" />
+	<key id="23021007" name="(パーティ) $npc:23000114$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23021008" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23021009" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23021010" name="碑石に敷かれると減点" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23022000" name="(パーティ) $npc:23000064$退治" feature="DungeonRank01" />
+	<key id="23022001" name="(パーティ) 7分以内に$npc:23000064$退治" feature="DungeonRank01" />
+	<key id="23022003" name="碑石に敷かれると減点" feature="DungeonRank01" />
+	<key id="23022004" name="影炎を踏むと減点" feature="DungeonRank01" />
+	<key id="23022005" name="シャドウブレスに当たると減点" feature="DungeonRank01" />
+	<key id="23022006" name="(パーティ) $npc:23200067$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23022007" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23022008" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23022009" name="碑石に敷かれると減点" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23023000" name="(パーティ) $npc:23000088$退治" feature="PinkBean01" />
+	<key id="23023001" name="(パーティ) 7分内に$npc:23000088$を制圧する" feature="PinkBean01" />
+	<key id="23023003" name="碑石に敷かれると減点" feature="PinkBean01" />
+	<key id="23023004" name="拡声器に当たって踊らされると減点" feature="PinkBean01" />
+	<key id="23023005" name="光の柱魔法に当たると減点" feature="PinkBean01" />
+	<key id="23023006" name="(パーティ) $npc:23000115$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23023007" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23023008" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23023009" name="碑石に敷かれると減点" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23024000" name="(パーティ) $npc:23000072$退治" feature="Kritias_Zakum01" />
+	<key id="23024001" name="(パーティ) 5分以内に$npc:23000072$退治" feature="Kritias_Zakum01" />
+	<key id="23024002" name="(パーティ) 10分以内に$npc:23000072$退治" feature="Kritias_Zakum01" />
+	<key id="23024003" name="碑石に敷かれると減点" feature="Kritias_Zakum01" />
+	<key id="23024004" name="(パーティ) $npc:23000073$退治" feature="Kritias_Zakum01" />
+	<key id="23024005" name="(パーティ) 5分以内に$npc:23000073$退治" feature="Kritias_Zakum01" />
+	<key id="23024006" name="(パーティ) 10分以内に$npc:23000073$退治" feature="Kritias_Zakum01" />
+	<key id="23025000" name="(パーティ) $npc:23000150$退治" feature="Kritias_Inferno01" />
+	<key id="23025001" name="(パーティ) 5分以内に$npc:23000150$退治" feature="Kritias_Inferno01" />
+	<key id="23025002" name="(パーティ) 10分以内に$npc:23000150$退治" feature="Kritias_Inferno01" />
+	<key id="23025003" name="碑石に敷かれると減点" feature="Kritias_Inferno01" />
+	<key id="23025004" name="(パーティ) $npc:23000151$退治" feature="Kritias_Inferno01" />
+	<key id="23025005" name="(パーティ) 5分以内に$npc:23000151$退治" feature="Kritias_Inferno01" />
+	<key id="23025006" name="(パーティ) 10分以内に$npc:23000151$退治" feature="Kritias_Inferno01" />
+	<key id="23026000" name="(パーティ) $npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23026001" name="(パーティ) 5分以内に$npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23026002" name="(パーティ) 10分以内に$npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23027000" name="(パーティ) $npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23027001" name="(パーティ) 5分以内に$npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23027002" name="(パーティ) 10分以内に$npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23028000" name="(パーティ) $npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23028001" name="(パーティ) 5分以内に$npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23028002" name="(パーティ) 10分以内に$npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23031000" name="(パーティ) $npc:21420101$退治" feature="ChronicleDungeon60_01" />
+	<key id="23031000" name="(パーティ) $npc:21420101$退治" feature="DungeonOpen60AH1" locale="JP" />
+	<key id="23031001" name="(パーティ) $npc:21420102$退治" feature="ChronicleDungeon60_01" />
+	<key id="23031001" name="(パーティ) $npc:21420102$退治" feature="DungeonOpen60AH1" locale="JP" />
+	<key id="23031002" name="(パーティ) 5分内に$npc:21420101$、$npc:21420102$退治" feature="ChronicleDungeon60_01" />
+	<key id="23031002" name="(パーティ) 5分内に$npc:21420101$、$npc:21420102$退治" feature="DungeonOpen60AH1" locale="JP" />
+	<key id="23031004" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
+	<key id="23031004" name="碑石に敷かれると減点" feature="DungeonOpen60AH1" locale="JP" />
+	<key id="23031005" name="波攻撃に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23031005" name="波攻撃に当たると減点" feature="DungeonOpen60AH1" locale="JP" />
+	<key id="23031006" name="$npc:21420101$の突進に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23031006" name="$npc:21420101$の突進に当たると減点" feature="DungeonOpen60AH1" locale="JP" />
+	<key id="23032000" name="(パーティ) $npc:21420207$退治" feature="ChronicleDungeon60_01" />
+	<key id="23032000" name="(パーティ) $npc:21420207$退治" feature="DungeonOpen60AH2" locale="JP" />
+	<key id="23032001" name="(パーティ) 5分以内に$npc:21420207$退治" feature="ChronicleDungeon60_01" />
+	<key id="23032001" name="(パーティ) 5分以内に$npc:21420207$退治" feature="DungeonOpen60AH2" locale="JP" />
+	<key id="23032003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
+	<key id="23032003" name="碑石に敷かれると減点" feature="DungeonOpen60AH2" locale="JP" />
+	<key id="23032004" name="$npc:21420207$の波衝撃波に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23032004" name="$npc:21420207$の波衝撃波に当たると減点" feature="DungeonOpen60AH2" locale="JP" />
+	<key id="23032005" name="$npc:21420207$の水鉄砲に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23032005" name="$npc:21420207$の水鉄砲に当たると減点" feature="DungeonOpen60AH2" locale="JP" />
+	<key id="23033000" name="(パーティ) $npc:21420329$退治" feature="ChronicleDungeon60_01" />
+	<key id="23033000" name="(パーティ) $npc:21420329$退治" feature="DungeonOpen60AH3" locale="JP" />
+	<key id="23033001" name="(パーティ) 6分以内に$npc:21420329$退治" feature="ChronicleDungeon60_01" />
+	<key id="23033001" name="(パーティ) 6分以内に$npc:21420329$退治" feature="DungeonOpen60AH3" locale="JP" />
+	<key id="23033003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
+	<key id="23033003" name="碑石に敷かれると減点" feature="DungeonOpen60AH3" locale="JP" />
+	<key id="23033004" name="$npc:21420329$の地面冷気爆発に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23033004" name="$npc:21420329$の地面冷気爆発に当たると減点" feature="DungeonOpen60AH3" locale="JP" />
+	<key id="23034000" name="(パーティ) $npc:21420514$退治" feature="ChronicleDungeon60_01" />
+	<key id="23034000" name="(パーティ) $npc:21420514$退治" feature="DungeonOpen60AH4" locale="JP" />
+	<key id="23034001" name="(パーティ) 5分以内に$npc:21421514$退治" feature="ChronicleDungeon60_01" />
+	<key id="23034001" name="(パーティ) 5分以内に$npc:21421514$退治" feature="DungeonOpen60AH4" locale="JP" />
+	<key id="23034003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
+	<key id="23034003" name="碑石に敷かれると減点" feature="DungeonOpen60AH4" locale="JP" />
+	<key id="23034004" name="$npc:21420514$のレーザー攻撃に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23034004" name="$npc:21420514$のレーザー攻撃に当たると減点" feature="DungeonOpen60AH4" locale="JP" />
+	<key id="23035000" name="(パーティ) $npc:21420401$退治" feature="ChronicleDungeon60_01" />
+	<key id="23035000" name="(パーティ) $npc:21420401$退治" feature="DungeonOpen60AH5" locale="JP" />
+	<key id="23035001" name="(パーティ) 5分以内に$npc:21420401$退治" feature="ChronicleDungeon60_01" />
+	<key id="23035001" name="(パーティ) 5分以内に$npc:21420401$退治" feature="DungeonOpen60AH5" locale="JP" />
+	<key id="23035003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
+	<key id="23035003" name="碑石に敷かれると減点" feature="DungeonOpen60AH5" locale="JP" />
+	<key id="23035004" name="$npc:21420401$の衝撃波に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23035004" name="$npc:21420401$の衝撃波に当たると減点" feature="DungeonOpen60AH5" locale="JP" />
+	<key id="23036000" name="(パーティ) $npc:21420626$、$npc:21420627$退治" feature="ChronicleDungeon60_01" />
+	<key id="23036000" name="(パーティ) $npc:21420626$、$npc:21420627$退治" feature="DungeonOpen60AH6" locale="JP" />
+	<key id="23036001" name="(パーティ) 5分内に$npc:21420626$、$npc:21420627$退治" feature="ChronicleDungeon60_01" />
+	<key id="23036001" name="(パーティ) 5分内に$npc:21420626$、$npc:21420627$退治" feature="DungeonOpen60AH6" locale="JP" />
+	<key id="23036003" name="碑石に敷かれると減点" feature="ChronicleDungeon60_01" />
+	<key id="23036003" name="碑石に敷かれると減点" feature="DungeonOpen60AH6" locale="JP" />
+	<key id="23036004" name="地面電気に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23036004" name="地面電気に当たると減点" feature="DungeonOpen60AH6" locale="JP" />
+	<key id="23036005" name="飛び回った後、着地衝撃波に当たると減点" feature="ChronicleDungeon60_01" />
+	<key id="23036005" name="飛び回った後、着地衝撃波に当たると減点" feature="DungeonOpen60AH6" locale="JP" />
+	<key id="23037000" name="(パーティ) $npc:23000113$退治" feature="LapentaDungeon" />
+	<key id="23037000" name="(パーティ) $npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
+	<key id="23037001" name="(パーティ) 10分15秒以内に$npc:23000113退治" feature="LapentaDungeon" />
+	<key id="23037002" name="(パーティ) 4分15秒以内に$npc:23000113退治" feature="LapentaDungeon" />
+	<key id="23037003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
+	<key id="23037003" name="碑石に敷かれると減点" feature="DungeonOpen60EL3" locale="JP" />
+	<key id="23037004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23037004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL3" locale="JP" />
+	<key id="23037005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23037005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL3" locale="JP" />
+	<key id="23037006" name="(パーティ) 10分45秒以内に$npc:23000113退治" feature="LapentaDungeon" />
+	<key id="23037006" name="(パーティ) 10分45秒以内に$npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
+	<key id="23037007" name="(パーティ) 5分45秒以内に$npc:23000113退治" feature="LapentaDungeon" />
+	<key id="23037007" name="(パーティ) 5分45秒以内に$npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
+	<key id="23038000" name="(パーティ) $npc:23501001$退治" feature="LapentaDungeon" />
+	<key id="23038000" name="(パーティ) $npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
+	<key id="23038001" name="(パーティ) 6分以内に$npc:23501001$退治" feature="LapentaDungeon" />
+	<key id="23038002" name="(パーティ) 2分15秒以内に$npc:23501001退治" feature="LapentaDungeon" />
+	<key id="23038003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
+	<key id="23038003" name="碑石に敷かれると減点" feature="DungeonOpen60EL1" locale="JP" />
+	<key id="23038004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23038004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL1" locale="JP" />
+	<key id="23038005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23038005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL1" locale="JP" />
+	<key id="23038006" name="(パーティ) 6分15秒以内に$npc:23501001退治" feature="LapentaDungeon" />
+	<key id="23038006" name="(パーティ) 6分15秒以内に$npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
+	<key id="23038007" name="(パーティ) 3分30秒以内に$npc:23501001退治" feature="LapentaDungeon" />
+	<key id="23038007" name="(パーティ) 3分30秒以内に$npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
+	<key id="23039000" name="(パーティ) $npc:23501011$退治" feature="LapentaDungeon" />
+	<key id="23039000" name="(パーティ) $npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
+	<key id="23039001" name="(パーティ) 6分以内に$npc:23501011$退治" feature="LapentaDungeon" />
+	<key id="23039002" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="LapentaDungeon" />
+	<key id="23039003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
+	<key id="23039003" name="碑石に敷かれると減点" feature="DungeonOpen60EL2" locale="JP" />
+	<key id="23039004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23039004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL2" locale="JP" />
+	<key id="23039005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23039005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL2" locale="JP" />
+	<key id="23039006" name="(パーティ) 6分15秒以内に$npc:23501011退治" feature="LapentaDungeon" />
+	<key id="23039006" name="(パーティ) 6分15秒以内に$npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
+	<key id="23039007" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="LapentaDungeon" />
+	<key id="23039007" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
+	<key id="23040000" name="(パーティ) $map:02020130$征服" feature="LapentaDungeon" />
+	<key id="23040000" name="DUNGEONMISSIONNAME_23040000_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
+	<key id="23040001" name="(パーティ) 13分以内に$map:02020130$征服" feature="LapentaDungeon" />
+	<key id="23040002" name="(パーティ) 6分30秒以内に$map:02020130$征服" feature="LapentaDungeon" />
+	<key id="23040003" name="碑石に敷かれると減点" feature="LapentaDungeon" />
+	<key id="23040003" name="碑石に敷かれると減点" feature="DungeonOpen60EL4" locale="JP" />
+	<key id="23040004" name="(パーティ) 3か所全て8秒以内にスキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23040004" name="DUNGEONMISSIONNAME_23040004_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
+	<key id="23040005" name="(パーティ) スキルブレイクに成功" feature="LapentaDungeon" />
+	<key id="23040005" name="DUNGEONMISSIONNAME_23040005_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
+	<key id="23040006" name="(パーティ) 11分45秒以内に$map:02020130$征服" feature="LapentaDungeon" />
+	<key id="23040006" name="DUNGEONMISSIONNAME_23040006_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
+	<key id="23040007" name="(パーティ) 7分30秒以内に$map:02020130$征服" feature="LapentaDungeon" />
+	<key id="23040007" name="DUNGEONMISSIONNAME_23040007_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
+	<key id="23050000" name="(パーティ) $npc:23090006$退治" feature="Kritias_Balrog01" />
+	<key id="23050001" name="(パーティ) 8分以内に$npc:23090006$退治" feature="Kritias_Balrog01" />
+	<key id="23050002" name="(パーティ) 4分以内に$npc:23090006$退治" feature="Kritias_Balrog01" />
+	<key id="23050003" name="碑石に敷かれると減点" feature="Kritias_Balrog01" />
+	<key id="23050004" name="DUNGEONMISSIONNAME_23050004_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
+	<key id="23060000" name="(パーティ) $npc:23000301$退治" feature="Kritias_Paika01" />
+	<key id="23060001" name="(パーティ) 8分以内に$npc:23000301$退治" feature="Kritias_Paika01" />
+	<key id="23060002" name="(パーティ) 4分以内に$npc:23000301$退治" feature="Kritias_Paika01" />
+	<key id="23060003" name="碑石に敷かれると減点" feature="Kritias_Paika01" />
+	<key id="23060004" name="DUNGEONMISSIONNAME_23060004_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
+	<key id="23070000" name="(パーティ) $npc:23503003$退治" feature="Kritias_Turka01" />
+	<key id="23070001" name="(パーティ) 12分以内に$npc:23503003$退治" feature="Kritias_Turka01" />
+	<key id="23070002" name="(パーティ) 8分以内に$npc:23503003$退治" feature="Kritias_Turka01" />
+	<key id="23070003" name="碑石に敷かれると減点" feature="Kritias_Turka01" />
+	<key id="23080000" name="(パーティ) $npc:23504101$退治" feature="Kritias_Turka02" />
+	<key id="23080001" name="(パーティ) 12分以内に$npc:23504101$退治" feature="Kritias_Turka02" />
+	<key id="23080002" name="(パーティ) 8分以内に$npc:23504101$退治" feature="Kritias_Turka02" />
+	<key id="23080003" name="碑石に敷かれると減点" feature="Kritias_Turka02" />
+	<key id="23090000" name="(パーティ) $npc:23000122$退治" feature="Kritias_Turka03" />
+	<key id="23090001" name="(パーティ) 12分以内に$npc:23000122$退治" feature="Kritias_Turka03" />
+	<key id="23090002" name="(パーティ) 8分以内に$npc:23000122$退治" feature="Kritias_Turka03" />
+	<key id="23090003" name="碑石に敷かれると減点" feature="Kritias_Turka03" />
+	<key id="23100000" name="DUNGEONMISSIONNAME_23100000_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
+	<key id="23100001" name="DUNGEONMISSIONNAME_23100001_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
+	<key id="23100002" name="DUNGEONMISSIONNAME_23100002_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
+	<key id="23100003" name="DUNGEONMISSIONNAME_23100003_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
+	<key id="23100004" name="DUNGEONMISSIONNAME_23100004_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
+	<key id="23110000" name="DUNGEONMISSIONNAME_23110000_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
+	<key id="23110001" name="DUNGEONMISSIONNAME_23110001_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
+	<key id="23110002" name="DUNGEONMISSIONNAME_23110002_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
+	<key id="23110003" name="DUNGEONMISSIONNAME_23110003_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
+	<key id="23110004" name="DUNGEONMISSIONNAME_23110004_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
+	<key id="23120000" name="DUNGEONMISSIONNAME_23120000_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23120001" name="DUNGEONMISSIONNAME_23120001_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23120002" name="DUNGEONMISSIONNAME_23120002_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23120003" name="DUNGEONMISSIONNAME_23120003_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23120004" name="DUNGEONMISSIONNAME_23120004_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23120005" name="DUNGEONMISSIONNAME_23120005_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23120006" name="DUNGEONMISSIONNAME_23120006_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
+	<key id="23130000" name="DUNGEONMISSIONNAME_23130000_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23130001" name="DUNGEONMISSIONNAME_23130001_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23130002" name="DUNGEONMISSIONNAME_23130002_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23130003" name="DUNGEONMISSIONNAME_23130003_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23130004" name="DUNGEONMISSIONNAME_23130004_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23130005" name="DUNGEONMISSIONNAME_23130005_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23130006" name="DUNGEONMISSIONNAME_23130006_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="23140000" name="DUNGEONMISSIONNAME_23140000_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="23140001" name="DUNGEONMISSIONNAME_23140001_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="23140002" name="DUNGEONMISSIONNAME_23140002_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="23140003" name="DUNGEONMISSIONNAME_23140003_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="23140004" name="DUNGEONMISSIONNAME_23140004_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="23140005" name="DUNGEONMISSIONNAME_23140005_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="23140006" name="DUNGEONMISSIONNAME_23140006_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="24090001" name="(パーティ) インフェルノックに24億ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090002" name="(パーティ) インフェルノックに20億ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090003" name="(パーティ) 15分間生存" feature="CrimsonBalrog01" />
+	<key id="24090004" name="(パーティ) インフェルノックのシールド無力化" feature="CrimsonBalrog01" />
+	<key id="24090005" name="インフェルノックに5000万ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090006" name="インフェルノックに50万ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090007" name="(パーティ) 戦艦の側面破壊" feature="CrimsonBalrog01" />
+	<key id="24090008" name="碑石に敷かれると減点" feature="CrimsonBalrog01" />
+	<key id="24090011" name="(パーティ) インフェルノックに40億ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090012" name="(パーティ) インフェルノックに15億ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090013" name="(パーティ) 15分間生存" feature="CrimsonBalrog01" />
+	<key id="24090014" name="(パーティ) インフェルノックのシールド無力化" feature="CrimsonBalrog01" />
+	<key id="24090015" name="インフェルノックに2500万ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090016" name="インフェルノックに25万ダメージ" feature="CrimsonBalrog01" />
+	<key id="24090017" name="(パーティ) 戦艦の側面破壊" feature="CrimsonBalrog01" />
+	<key id="24090018" name="碑石に敷かれると減点" feature="CrimsonBalrog01" />
+	<key id="24090019" name="(パーティ) $npc:23000140$退治" feature="DungeonOpenNA1901" />
+	<key id="24090019" name="(パーティ) $npc:23000140$退治" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24090020" name="碑石に敷かれると減点" feature="DungeonOpenNA1901" />
+	<key id="24090020" name="碑石に敷かれると減点" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24090021" name="(パーティ) 8人以下でクリア" feature="DungeonOpenNA1901" />
+	<key id="24090021" name="(パーティ) 8人以下でクリア" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24090022" name="(パーティ) 5人以下でクリア" feature="DungeonOpenNA1901" />
+	<key id="24090022" name="(パーティ) 5人以下でクリア" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24091001" name="ブリーチェのHP5%減少" feature="FameChallengeDungeon" />
+	<key id="24091002" name="ブリーチェのHP20%減少" feature="FameChallengeDungeon" />
+	<key id="24091003" name="ブリーチェのHP60%減少" feature="FameChallengeDungeon" />
+	<key id="24091004" name="ブリーチェに勝利する" feature="FameChallengeDungeon" />
+	<key id="24091005" name="3分以内にブリーチェに勝利する" feature="FameChallengeDungeon" />
+	<key id="24091006" name="70秒以内にブリーチェに勝利する" feature="FameChallengeDungeon" />
+	<key id="24091007" name="ブリーチェのHP25%減少" feature="DungeonOpenNA1901" />
+	<key id="24091007" name="ブリーチェのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24091008" name="ブリーチェのHP50%減少" feature="DungeonOpenNA1901" />
+	<key id="24091008" name="ブリーチェのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24091009" name="ブリーチェのHP75%減少" feature="DungeonOpenNA1901" />
+	<key id="24091009" name="ブリーチェのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24091010" name="4分30秒以内にブリーチェに勝利する" feature="DungeonOpenNA1901" />
+	<key id="24091010" name="4分30秒以内にブリーチェに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092001" name="コンドールのHP5%減少" feature="FameChallengeDungeon" />
+	<key id="24092002" name="コンドールのHP20%減少" feature="FameChallengeDungeon" />
+	<key id="24092003" name="コンドールのHP60%減少" feature="FameChallengeDungeon" />
+	<key id="24092004" name="コンドールに勝利する" feature="FameChallengeDungeon" />
+	<key id="24092005" name="3分以内にコンドールに勝利する" feature="FameChallengeDungeon" />
+	<key id="24092006" name="70秒以内にコンドールに勝利する" feature="FameChallengeDungeon" />
+	<key id="24092007" name="コンドールのHP25%減少" feature="DungeonOpenNA1901" />
+	<key id="24092007" name="コンドールのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092008" name="コンドールのHP50%減少" feature="DungeonOpenNA1901" />
+	<key id="24092008" name="コンドールのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092009" name="コンドールのHP75%減少" feature="DungeonOpenNA1901" />
+	<key id="24092009" name="コンドールのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092010" name="4分30秒以内にコンドールに勝利する" feature="DungeonOpenNA1901" />
+	<key id="24092010" name="4分30秒以内にコンドールに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24093001" name="ラウンド1クリア" feature="FameChallengeDungeon" />
+	<key id="24093002" name="ラウンド2クリア" feature="FameChallengeDungeon" />
+	<key id="24093003" name="ラウンド4クリア" feature="FameChallengeDungeon" />
+	<key id="24093004" name="ラウンド5クリア" feature="FameChallengeDungeon" />
+	<key id="24093005" name="3分以内にラウンド5クリア" feature="FameChallengeDungeon" />
+	<key id="24093006" name="70秒以内にラウンド5クリア" feature="FameChallengeDungeon" />
+	<key id="24093007" name="4分30秒以内にラウンド5クリア" feature="DungeonOpenNA1901" />
+	<key id="24093007" name="4分30秒分以内にラウンド5クリア" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094001" name="メイソンのHP5%減少" feature="FameChallengeDungeon" />
+	<key id="24094002" name="メイソンのHP20%減少" feature="FameChallengeDungeon" />
+	<key id="24094003" name="メイソンのHP60%減少" feature="FameChallengeDungeon" />
+	<key id="24094004" name="メイソンに勝利する" feature="FameChallengeDungeon" />
+	<key id="24094005" name="3分以内にメイソンに勝利する" feature="FameChallengeDungeon" />
+	<key id="24094006" name="70秒以内にメイソンに勝利する" feature="FameChallengeDungeon" />
+	<key id="24094007" name="メイソンのHP25%減少" feature="DungeonOpenNA1901" />
+	<key id="24094007" name="メイソンのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094008" name="メイソンのHP50%減少" feature="DungeonOpenNA1901" />
+	<key id="24094008" name="メイソンのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094009" name="メイソンのHP75%減少" feature="DungeonOpenNA1901" />
+	<key id="24094009" name="メイソンのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094010" name="4分30秒以内にメイソンに勝利する" feature="DungeonOpenNA1901" />
+	<key id="24094010" name="4分30秒以内にメイソンに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095001" name="シャテンのHP5%減少" feature="FameChallengeDungeon" />
+	<key id="24095002" name="シャテンのHP20%減少" feature="FameChallengeDungeon" />
+	<key id="24095003" name="シャテンのHP60%減少" feature="FameChallengeDungeon" />
+	<key id="24095004" name="シャテンに勝利する" feature="FameChallengeDungeon" />
+	<key id="24095005" name="3分以内にシャテンに勝利する" feature="FameChallengeDungeon" />
+	<key id="24095006" name="70秒以内にシャテンに勝利する" feature="FameChallengeDungeon" />
+	<key id="24095007" name="シャテンのHP25%減少" feature="DungeonOpenNA1901" />
+	<key id="24095007" name="シャテンのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095008" name="シャテンのHP50%減少" feature="DungeonOpenNA1901" />
+	<key id="24095008" name="シャテンのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095009" name="シャテンのHP75%減少" feature="DungeonOpenNA1901" />
+	<key id="24095009" name="シャテンのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095010" name="4分30秒以内にシャテンに勝利する" feature="DungeonOpenNA1901" />
+	<key id="24095010" name="4分30秒以内にシャテンに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="29006001" name="(パーティ) $npc:23000076$退治" feature="EventPapulatus" />
+	<key id="29006002" name="(パーティ) 8分30秒以内に$npc:23000076退治" feature="EventPapulatus" />
+	<key id="29006003" name="(パーティ) 6分以内に$npc:23000076$退治" feature="EventPapulatus" />
+	<key id="29006004" name="碑石に敷かれると減点" feature="EventPapulatus" />
+	<key id="80004001" name="(パーティ) 20分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="80014001" name="(パーティ) 9分以内に$npc:23000011$退治" feature="DungeonRank01" />
+	<key id="80016001" name="(パーティ) 20分以内に$npc:23000052$退治" feature="DungeonRank01" />
+	<key id="80018001" name="(パーティ) 20分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="80019001" name="(パーティ) 20分以内に$npc:23000080$退治" feature="DungeonRank01" />
+	<key id="80020001" name="(パーティ) 20分以内に$npc:23000082$退治" feature="DungeonRank01" />
+	<key id="83004001" name="(パーティ) 5分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="83004002" name="(パーティ) 10分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="83006001" name="(パーティ) 3分以内に$npc:23000007$退治" feature="DungeonRank01" />
+	<key id="83006002" name="(パーティ) 6分以内に$npc:23000007$退治" feature="DungeonRank01" />
+	<key id="83010001" name="(パーティ) 6分以内に$npc:23000015$退治" feature="DungeonRank01" />
+	<key id="83010002" name="(パーティ) 12分以内に$npc:23000015$退治" feature="DungeonRank01" />
+	<key id="83018001" name="(パーティ) 3分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="83018002" name="(パーティ) 6分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="90004001" name="(パーティ) 7分以内に$npc:23090005$退治" feature="DungeonRank01" />
+	<key id="90014001" name="(パーティ) 7分以内に$npc:23000011$退治" feature="DungeonRank01" />
+	<key id="90016001" name="(パーティ) 7分以内に$npc:23000052$退治" feature="DungeonRank01" />
+	<key id="90018001" name="(パーティ) 7分以内に$npc:23000068$退治" feature="DungeonRank01" />
+	<key id="90019001" name="(パーティ) 7分以内に$npc:23000080$退治" feature="DungeonRank01" />
+	<key id="90020001" name="(パーティ) 7分以内に$npc:23000082$退治" feature="DungeonRank01" />
 </ms2>

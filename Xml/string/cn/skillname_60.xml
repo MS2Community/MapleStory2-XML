@@ -1,65 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10600001" name="机炮扫射" />
-  <key id="10600002" name="SKILLNAME_10600002_NAME:[F]Develop" feature="Develop" />
-  <key id="10600003" name="SKILLNAME_10600003_NAME:[F]Develop" feature="Develop" />
-  <key id="10600011" name="火箭发射" />
-  <key id="10600012" name="SKILLNAME_10600012_NAME:[F]Develop" feature="Develop" />
-  <key id="10600013" name="SKILLNAME_10600013_NAME:[F]Develop" feature="Develop" />
-  <key id="10600021" name="靶心" />
-  <key id="10600031" name="追踪导弹" />
-  <key id="10600041" name="电光冲击" />
-  <key id="10600042" name="SKILLNAME_10600042_NAME:[F]Develop" feature="Develop" />
-  <key id="10600043" name="SKILLNAME_10600043_NAME:[F]Develop" feature="Develop" />
-  <key id="10600044" name="连射型电光冲击" />
-  <key id="10600051" name="手榴弹" />
-  <key id="10600052" name="SKILLNAME_10600052_NAME:[F]Develop" feature="Develop" />
-  <key id="10600061" name="电磁炸弹" />
-  <key id="10600062" name="SKILLNAME_10600062_NAME:[F]Develop" feature="Develop" />
-  <key id="10600071" name="弹药补给" />
-  <key id="10600081" name="喷气靴" />
-  <key id="10600091" name="医药箱" />
-  <key id="10600092" name="SKILLNAME_10600092_NAME:[F]Develop" feature="Develop" />
-  <key id="10600101" name="枪林弹雨" />
-  <key id="10600102" name="SKILLNAME_10600102_NAME:[F]Develop" feature="Develop" />
-  <key id="10600111" name="子弹升级" />
-  <key id="10600121" name="轰炸" />
-  <key id="10600122" name="SKILLNAME_10600122_NAME:[F]Develop" feature="Develop" />
-  <key id="10600123" name="SKILLNAME_10600123_NAME:[F]Develop" feature="Develop" />
-  <key id="10600131" name="卫星激光" />
-  <key id="10600132" name="SKILLNAME_10600132_NAME:[F]Develop" feature="Develop" />
-  <key id="10600133" name="SKILLNAME_10600133_NAME:[F]Develop" feature="Develop" />
-  <key id="10600134" name="SKILLNAME_10600134_NAME:[F]Develop" feature="Develop" />
-  <key id="10600141" name="导弹升级" />
-  <key id="10600151" name="脉冲能量升级" />
-  <key id="10600161" name="爆破充能工具" />
-  <key id="10600171" name="等离子链" feature="JobChange_01" />
-  <key id="10600172" name="SKILLNAME_10600172_NAME:[F]Develop" feature="Develop" />
-  <key id="10600181" name="火力全开" feature="JobChange_01" />
-  <key id="10600191" name="超级千兆发射器" feature="JobChange_01" />
-  <key id="10600192" name="SKILLNAME_10600192_NAME:[F]Develop" feature="Develop" />
-  <key id="10600201" name="火焰轰炸" feature="JobChange_01" />
-  <key id="10600202" name="SKILLNAME_10600202_NAME:[F]Develop" feature="Develop" />
-  <key id="10600203" name="SKILLNAME_10600203_NAME:[F]Develop" feature="Develop" />
-  <key id="10600204" name="SKILLNAME_10600204_NAME:[F]Develop" feature="Develop" />
-  <key id="10600211" name="苍空猎手" feature="JobChange_01" />
-  <key id="10600212" name="SKILLNAME_10600212_NAME:[F]Develop" feature="Develop" />
-  <key id="10600213" name="SKILLNAME_10600213_NAME:[F]Develop" feature="Develop" />
-  <key id="10600221" name="微型军械库" feature="JobChange_01" />
-  <key id="10600222" name="SKILLNAME_10600222_NAME:[F]Develop" feature="Develop" />
-  <key id="10600223" name="SKILLNAME_10600223_NAME:[F]Develop" feature="Develop" />
-  <key id="10600231" name="毁灭炮" feature="JobChange_01" />
-  <key id="10600232" name="SKILLNAME_10600232_NAME:[F]Develop" feature="Develop" />
-  <key id="10600233" name="SKILLNAME_10600233_NAME:[F]Develop" feature="Develop" />
-  <key id="10600241" name="等离子发生器" feature="JobChange_01" />
-  <key id="10600251" name="AMO发生器" feature="JobChange_01" />
-  <key id="10600261" name="梅斯拉线圈" feature="JobChange_02" />
-  <key id="10600262" name="SKILLNAME_10600262_NAME:[F]Develop" feature="Develop" />
-  <key id="10600271" name="便携武器库" feature="JobChange_02" />
-  <key id="10600281" name="黏黏怪" feature="JobChange_02" />
-  <key id="10600282" name="SKILLNAME_10600282_NAME:[F]Develop" feature="Develop" />
-  <key id="10600283" name="SKILLNAME_10600283_NAME:[F]Develop" feature="Develop" />
-  <key id="10600291" name="诡雷MK2" feature="JobChange_02" />
-  <key id="10600292" name="SKILLNAME_10600292_NAME:[F]Develop" feature="Develop" />
+	<key id="10600001" name="机炮扫射" />
+	<key id="10600002" name="SKILLNAME_10600002_NAME:[F]Develop" feature="Develop" />
+	<key id="10600003" name="SKILLNAME_10600003_NAME:[F]Develop" feature="Develop" />
+	<key id="10600011" name="火箭发射" />
+	<key id="10600012" name="SKILLNAME_10600012_NAME:[F]Develop" feature="Develop" />
+	<key id="10600013" name="SKILLNAME_10600013_NAME:[F]Develop" feature="Develop" />
+	<key id="10600021" name="靶心" />
+	<key id="10600031" name="追踪导弹" />
+	<key id="10600041" name="电光冲击" />
+	<key id="10600042" name="SKILLNAME_10600042_NAME:[F]Develop" feature="Develop" />
+	<key id="10600043" name="SKILLNAME_10600043_NAME:[F]Develop" feature="Develop" />
+	<key id="10600044" name="连射型电光冲击" />
+	<key id="10600051" name="手榴弹" />
+	<key id="10600052" name="SKILLNAME_10600052_NAME:[F]Develop" feature="Develop" />
+	<key id="10600061" name="电磁炸弹" />
+	<key id="10600062" name="SKILLNAME_10600062_NAME:[F]Develop" feature="Develop" />
+	<key id="10600071" name="弹药补给" />
+	<key id="10600081" name="喷气靴" />
+	<key id="10600091" name="医药箱" />
+	<key id="10600092" name="SKILLNAME_10600092_NAME:[F]Develop" feature="Develop" />
+	<key id="10600101" name="枪林弹雨" />
+	<key id="10600102" name="SKILLNAME_10600102_NAME:[F]Develop" feature="Develop" />
+	<key id="10600111" name="子弹升级" />
+	<key id="10600121" name="轰炸" />
+	<key id="10600122" name="SKILLNAME_10600122_NAME:[F]Develop" feature="Develop" />
+	<key id="10600123" name="SKILLNAME_10600123_NAME:[F]Develop" feature="Develop" />
+	<key id="10600131" name="卫星激光" />
+	<key id="10600132" name="SKILLNAME_10600132_NAME:[F]Develop" feature="Develop" />
+	<key id="10600133" name="SKILLNAME_10600133_NAME:[F]Develop" feature="Develop" />
+	<key id="10600134" name="SKILLNAME_10600134_NAME:[F]Develop" feature="Develop" />
+	<key id="10600141" name="导弹升级" />
+	<key id="10600151" name="脉冲能量升级" />
+	<key id="10600161" name="爆破充能工具" />
+	<key id="10600171" name="等离子链" feature="JobChange_01" />
+	<key id="10600172" name="SKILLNAME_10600172_NAME:[F]Develop" feature="Develop" />
+	<key id="10600181" name="火力全开" feature="JobChange_01" />
+	<key id="10600191" name="超级千兆发射器" feature="JobChange_01" />
+	<key id="10600192" name="SKILLNAME_10600192_NAME:[F]Develop" feature="Develop" />
+	<key id="10600201" name="火焰轰炸" feature="JobChange_01" />
+	<key id="10600202" name="SKILLNAME_10600202_NAME:[F]Develop" feature="Develop" />
+	<key id="10600203" name="SKILLNAME_10600203_NAME:[F]Develop" feature="Develop" />
+	<key id="10600204" name="SKILLNAME_10600204_NAME:[F]Develop" feature="Develop" />
+	<key id="10600211" name="苍空猎手" feature="JobChange_01" />
+	<key id="10600212" name="SKILLNAME_10600212_NAME:[F]Develop" feature="Develop" />
+	<key id="10600213" name="SKILLNAME_10600213_NAME:[F]Develop" feature="Develop" />
+	<key id="10600221" name="微型军械库" feature="JobChange_01" />
+	<key id="10600222" name="SKILLNAME_10600222_NAME:[F]Develop" feature="Develop" />
+	<key id="10600223" name="SKILLNAME_10600223_NAME:[F]Develop" feature="Develop" />
+	<key id="10600231" name="毁灭炮" feature="JobChange_01" />
+	<key id="10600232" name="SKILLNAME_10600232_NAME:[F]Develop" feature="Develop" />
+	<key id="10600233" name="SKILLNAME_10600233_NAME:[F]Develop" feature="Develop" />
+	<key id="10600241" name="等离子发生器" feature="JobChange_01" />
+	<key id="10600251" name="AMO发生器" feature="JobChange_01" />
+	<key id="10600261" name="梅斯拉线圈" feature="JobChange_02" />
+	<key id="10600262" name="SKILLNAME_10600262_NAME:[F]Develop" feature="Develop" />
+	<key id="10600271" name="便携武器库" feature="JobChange_02" />
+	<key id="10600281" name="黏黏怪" feature="JobChange_02" />
+	<key id="10600282" name="SKILLNAME_10600282_NAME:[F]Develop" feature="Develop" />
+	<key id="10600283" name="SKILLNAME_10600283_NAME:[F]Develop" feature="Develop" />
+	<key id="10600291" name="诡雷MK2" feature="JobChange_02" />
+	<key id="10600292" name="SKILLNAME_10600292_NAME:[F]Develop" feature="Develop" />
 </ms2>

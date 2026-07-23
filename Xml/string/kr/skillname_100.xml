@@ -1,60 +1,146 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="11000001" name="마하 펀치" feature="Striker" />
-	<key id="11000011" name="펀치 콤비네이션" feature="Striker" />
-	<key id="11000012" name="펀치 콤비네이션 EX" feature="Striker" />
-	<key id="11000021" name="비트 다운" feature="Striker" />
-	<key id="11000026" name="비트 다운 EX" feature="Striker" />
-	<key id="11000031" name="라이징 킥" feature="Striker" />
-	<key id="11000032" name="라이징 킥 EX" feature="Striker" />
-	<key id="11000041" name="길로틴" feature="Striker" />
-	<key id="11000042" name="길로틴 EX" feature="Striker" />
-	<key id="11000051" name="가드 대쉬" feature="Striker" />
-	<key id="11000053" name="가드 대쉬 EX" feature="JobChange_01" />
-	<key id="11000055" name="가드 대쉬 EX" feature="JobChange_01" />
-	<key id="11000061" name="허리케인 커터" feature="Striker" />
-	<key id="11000071" name="하드 펀처" feature="Striker" />
-	<key id="11000081" name="미사일 너클" feature="Striker" />
-	<key id="11000082" name="연계 기능" feature="Striker" />
-	<key id="11000091" name="기간틱 버스트" feature="Striker" />
-	<key id="11000101" name="한계돌파" feature="Striker" />
-	<key id="11000111" name="킥 테크니션" feature="Striker" />
-	<key id="11000121" name="투혼" feature="Striker" />
-	<key id="11000131" name="드래곤 킥" feature="Striker" />
-	<key id="11000132" name="화룡 폭열각" feature="JobChange_01" />
-	<key id="11000141" name="매그넘 블로우" feature="Striker" />
-	<key id="11000144" name="기간틱 블로우" feature="JobChange_01" />
-	<key id="11000151" name="페이스 컨트롤" feature="Striker" />
-	<key id="11000161" name="패턴 브레이크" feature="Striker" />
-	<key id="11000171" name="펀치 프레셔" feature="JobChange_01" />
-	<key id="11000181" name="폴 다운 스매쉬" feature="JobChange_01" />
-	<key id="11000182" name="폴 다운 스매쉬 EX" feature="JobChange_01" />
-	<key id="11000183" name="화룡 승천격" feature="JobChange_01" />
-	<key id="11000191" name="발칸 펀치" feature="JobChange_01" />
-	<key id="11000192" name="발칸 펀치 EX" feature="JobChange_01" />
-	<key id="11000211" name="혈도 개방 1단계" feature="JobChange_01" />
-	<key id="11000212" name="혈도 개방 2단계" feature="JobChange_01" />
-	<key id="11000213" name="혈도 개방 3단계" feature="JobChange_01" />
-	<key id="11000214" name="원 인치 펀치" feature="JobChange_01" />
-	<key id="11000241" name="셋업 킥" feature="JobChange_01" />
-	<key id="11000261" name="스파이럴 캐논" feature="JobChange_01" />
-	<key id="11000262" name="스파이럴 캐논 EX" feature="JobChange_01" />
-	<key id="11000263" name="스파이럴 캐논 EX 2타" feature="JobChange_01" />
-	<key id="11000264" name="스파이럴 캐논 EX 3타" feature="JobChange_01" />
-	<key id="11000265" name="토네이도 커터" feature="JobChange_02" />
-	<key id="11000266" name="토네이도 커터EX" feature="JobChange_02" />
-	<key id="11000271" name="스핀 킥" feature="JobChange_01" />
-	<key id="11000272" name="스핀 킥 EX" feature="JobChange_01" />
-	<key id="11000281" name="축퇴" feature="JobChange_01" />
-	<key id="11000286" name="축 퇴 자신감 버프" feature="JobChange_01" />
-	<key id="11000291" name="히트 사이클링" feature="JobChange_01" />
-	<key id="11000311" name="넘치는 투지" feature="JobChange_02" />
-	<key id="11000312" name="혈도 개방EX 1단계" feature="JobChange_02" />
-	<key id="11000313" name="혈도 개방EX 2단계" feature="JobChange_02" />
-	<key id="11000315" name="혈도 개방EX 1단계 디버프" feature="JobChange_02" />
-	<key id="11000316" name="원 인치 펀치EX" feature="JobChange_02" />
-	<key id="11000319" name="혈도 개방EX 2단계 디버프" feature="JobChange_02" />
-	<key id="11000321" name="얼티밋 러쉬" feature="JobChange_02" />
-	<key id="11000331" name="휘몰아치는 화염" feature="JobChange_02" />
-	<key id="11000341" name="얼티밋 디스트로이 킥" feature="JobChange_02" />
+	<key id="11000001" name="마하 펀치" />
+	<key id="11000001" name="音速拳" feature="Striker" />
+	<key id="11000011" name="펀치 콤비네이션" />
+	<key id="11000011" name="组合拳" feature="Striker" />
+	<key id="11000012" name="펀치 콤비네이션 EX" />
+	<key id="11000012" name="组合拳EX" feature="Striker" />
+	<key id="11000021" name="비트 다운" />
+	<key id="11000021" name="绝对镇压" feature="Striker" />
+	<key id="11000022" name="SKILLNAME_11000022_NAME:[F]Develop" feature="Develop" />
+	<key id="11000023" name="SKILLNAME_11000023_NAME:[F]Develop" feature="Develop" />
+	<key id="11000024" name="SKILLNAME_11000024_NAME:[F]Develop" feature="Develop" />
+	<key id="11000025" name="SKILLNAME_11000025_NAME:[F]Develop" feature="Develop" />
+	<key id="11000026" name="绝对镇压EX" feature="Striker" />
+	<key id="11000026" name="비트 다운 EX" />
+	<key id="11000027" name="SKILLNAME_11000027_NAME:[F]Develop" feature="Develop" />
+	<key id="11000028" name="SKILLNAME_11000028_NAME:[F]Develop" feature="Develop" />
+	<key id="11000029" name="SKILLNAME_11000029_NAME:[F]Develop" feature="Develop" />
+	<key id="11000030" name="SKILLNAME_11000030_NAME:[F]Develop" feature="Develop" />
+	<key id="11000031" name="上旋踢" feature="Striker" />
+	<key id="11000031" name="라이징 킥" />
+	<key id="11000032" name="라이징 킥 EX" />
+	<key id="11000032" name="上旋踢EX" feature="Striker" />
+	<key id="11000041" name="길로틴" />
+	<key id="11000041" name="断头台" feature="Striker" />
+	<key id="11000042" name="길로틴 EX" />
+	<key id="11000042" name="断头台EX" feature="Striker" />
+	<key id="11000051" name="가드 대쉬" />
+	<key id="11000051" name="护头冲刺" feature="Striker" />
+	<key id="11000053" name="护头冲刺EX" feature="JobChange_01" />
+	<key id="11000053" name="가드 대쉬 EX" />
+	<key id="11000055" name="护头冲刺EX" feature="JobChange_01" />
+	<key id="11000055" name="가드 대쉬 EX" />
+	<key id="11000061" name="旋风切割" feature="Striker" />
+	<key id="11000061" name="허리케인 커터" />
+	<key id="11000062" name="SKILLNAME_11000062_NAME:[F]Develop" feature="Develop" />
+	<key id="11000063" name="SKILLNAME_11000063_NAME:[F]Develop" feature="Develop" />
+	<key id="11000064" name="SKILLNAME_11000064_NAME:[F]Develop" feature="Develop" />
+	<key id="11000065" name="SKILLNAME_11000065_NAME:[F]Develop" feature="Develop" />
+	<key id="11000066" name="SKILLNAME_11000066_NAME:[F]Develop" feature="Develop" />
+	<key id="11000071" name="하드 펀처" />
+	<key id="11000071" name="钢拳" feature="Striker" />
+	<key id="11000081" name="미사일 너클" />
+	<key id="11000081" name="导弹肘击" feature="Striker" />
+	<key id="11000082" name="연계 기능" />
+	<key id="11000082" name="连续功能" feature="Striker" />
+	<key id="11000091" name="剧烈爆炸" feature="Striker" />
+	<key id="11000091" name="기간틱 버스트" />
+	<key id="11000101" name="突破界限" feature="Striker" />
+	<key id="11000101" name="한계돌파" />
+	<key id="11000111" name="킥 테크니션" />
+	<key id="11000111" name="踢技大师" feature="Striker" />
+	<key id="11000121" name="투혼" />
+	<key id="11000121" name="斗魂" feature="Striker" />
+	<key id="11000131" name="드래곤 킥" />
+	<key id="11000131" name="神龙摆尾" feature="Striker" />
+	<key id="11000132" name="화룡 폭열각" />
+	<key id="11000132" name="火龙爆炎脚" feature="JobChange_01" />
+	<key id="11000133" name="화룡 폭열각" />
+	<key id="11000141" name="强力爆破" feature="Striker" />
+	<key id="11000141" name="매그넘 블로우" />
+	<key id="11000142" name="SKILLNAME_11000142_NAME:[F]Develop" feature="Develop" />
+	<key id="11000143" name="SKILLNAME_11000143_NAME:[F]Develop" feature="Develop" />
+	<key id="11000144" name="排山之势" feature="JobChange_01" />
+	<key id="11000144" name="기간틱 블로우" />
+	<key id="11000145" name="SKILLNAME_11000145_NAME:[F]Develop" feature="Develop" />
+	<key id="11000146" name="SKILLNAME_11000146_NAME:[F]Develop" feature="Develop" />
+	<key id="11000151" name="相位控制" feature="Striker" />
+	<key id="11000151" name="페이스 컨트롤" />
+	<key id="11000161" name="패턴 브레이크" />
+	<key id="11000161" name="模式击破" feature="Striker" />
+	<key id="11000171" name="펀치 프레셔" />
+	<key id="11000171" name="重拳压迫" feature="JobChange_01" />
+	<key id="11000181" name="流星拳" feature="JobChange_01" />
+	<key id="11000181" name="폴 다운 스매쉬" />
+	<key id="11000182" name="流星拳EX" feature="JobChange_01" />
+	<key id="11000182" name="폴 다운 스매쉬 EX" />
+	<key id="11000183" name="火龙升天击" feature="JobChange_01" />
+	<key id="11000183" name="화룡 승천격" />
+	<key id="11000191" name="火神拳" feature="JobChange_01" />
+	<key id="11000191" name="발칸 펀치" />
+	<key id="11000192" name="火神拳EX" feature="JobChange_01" />
+	<key id="11000192" name="발칸 펀치 EX" />
+	<key id="11000211" name="穴道开放1段" feature="JobChange_01" />
+	<key id="11000211" name="혈도 개방 1단계" />
+	<key id="11000212" name="穴道开放2段" feature="JobChange_01" />
+	<key id="11000212" name="혈도 개방 2단계" />
+	<key id="11000213" name="穴道开放3段" feature="JobChange_01" />
+	<key id="11000213" name="혈도 개방 3단계" />
+	<key id="11000214" name="寸拳" feature="JobChange_01" />
+	<key id="11000214" name="원 인치 펀치" />
+	<key id="11000218" name="SKILLNAME_11000218_NAME:[F]Develop" feature="Develop" />
+	<key id="11000221" name="SKILLNAME_11000221_NAME:[F]Develop" feature="Develop" />
+	<key id="11000231" name="SKILLNAME_11000231_NAME:[F]Develop" feature="Develop" />
+	<key id="11000241" name="셋업 킥" />
+	<key id="11000241" name="蓄势踢" feature="JobChange_01" />
+	<key id="11000242" name="SKILLNAME_11000242_NAME:[F]Develop" feature="Develop" />
+	<key id="11000261" name="스파이럴 캐논" />
+	<key id="11000261" name="螺旋火炮" feature="JobChange_01" />
+	<key id="11000262" name="螺旋火炮EX" feature="JobChange_01" />
+	<key id="11000262" name="스파이럴 캐논 EX" />
+	<key id="11000263" name="螺旋火炮EX第2击" feature="JobChange_01" />
+	<key id="11000263" name="스파이럴 캐논 EX 2타" />
+	<key id="11000264" name="스파이럴 캐논 EX 3타" />
+	<key id="11000264" name="螺旋火炮EX第3击" feature="JobChange_01" />
+	<key id="11000265" name="旋风切割" feature="JobChange_02" />
+	<key id="11000265" name="토네이도 커터" />
+	<key id="11000266" name="토네이도 커터EX" />
+	<key id="11000266" name="旋风切割EX" feature="JobChange_02" />
+	<key id="11000271" name="旋转飞踢" feature="JobChange_01" />
+	<key id="11000271" name="스핀 킥" />
+	<key id="11000272" name="旋转飞踢EX" feature="JobChange_01" />
+	<key id="11000272" name="스핀 킥 EX" />
+	<key id="11000281" name="축퇴" />
+	<key id="11000281" name="缩退" feature="JobChange_01" />
+	<key id="11000282" name="SKILLNAME_11000282_NAME:[F]Develop" feature="Develop" />
+	<key id="11000283" name="SKILLNAME_11000283_NAME:[F]Develop" feature="Develop" />
+	<key id="11000286" name="缩退自信感增益" feature="JobChange_01" />
+	<key id="11000286" name="축 퇴 자신감 버프" />
+	<key id="11000291" name="循环打击" feature="JobChange_01" />
+	<key id="11000291" name="히트 사이클링" />
+	<key id="11000302" name="SKILLNAME_11000302_NAME:[F]Develop" feature="Develop" />
+	<key id="11000303" name="SKILLNAME_11000303_NAME:[F]Develop" feature="Develop" />
+	<key id="11000311" name="斗气爆发" feature="JobChange_02" />
+	<key id="11000311" name="넘치는 투지" />
+	<key id="11000312" name="혈도 개방EX 1단계" />
+	<key id="11000312" name="穴道开放EX第1阶段" feature="JobChange_02" />
+	<key id="11000313" name="穴道开放EX第2阶段" feature="JobChange_02" />
+	<key id="11000313" name="혈도 개방EX 2단계" />
+	<key id="11000315" name="혈도 개방EX 1단계 디버프" />
+	<key id="11000315" name="穴道开放EX第1阶段减益" feature="JobChange_02" />
+	<key id="11000316" name="寸拳EX" feature="JobChange_02" />
+	<key id="11000316" name="원 인치 펀치EX" />
+	<key id="11000317" name="원 인치 펀치EX" />
+	<key id="11000319" name="穴道开放EX第2阶段减益" feature="JobChange_02" />
+	<key id="11000319" name="혈도 개방EX 2단계 디버프" />
+	<key id="11000321" name="无限冲击" feature="JobChange_02" />
+	<key id="11000321" name="얼티밋 러쉬" />
+	<key id="11000322" name="얼티밋 러쉬" />
+	<key id="11000323" name="얼티밋 러쉬" />
+	<key id="11000331" name="휘몰아치는 화염" />
+	<key id="11000331" name="疾风怒火" feature="JobChange_02" />
+	<key id="11000341" name="灭世踢击" feature="JobChange_02" />
+	<key id="11000341" name="얼티밋 디스트로이 킥" />
 </ms2>

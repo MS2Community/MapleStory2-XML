@@ -1,429 +1,428 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="20000001" level="1" uiDescription="泳ぎの実力を向上させ、水中で素早く移動する。キーを押している間発動し、1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;し、方向キーを押して素早く泳ぐ。" />
-  <key id="20000011" level="1" uiDescription="険しい壁を自在に移動する。キーを押している間発動する。1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;し、方向キーで壁を移動する。" />
-  <key id="20000021" level="1" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して&lt;font color='#00aaef'&gt;1.5m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
-  <key id="20000021" level="2" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して&lt;font color='#00aaef'&gt;1.7m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
-  <key id="20000021" level="3" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して&lt;font color='#00aaef'&gt;1.9m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
-  <key id="20000021" level="4" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して&lt;font color='#00aaef'&gt;2.1m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
-  <key id="20000021" level="5" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して&lt;font color='#00aaef'&gt;2.5m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
-  <key id="20000041" level="1" uiDescription="よく調教されたワシを掴み、上空へ1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに7mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000051" level="1" uiDescription="神聖な存在、エンジェルの導きを受け、上空へ1秒ごとに4.8mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに1mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000071" level="1" uiDescription="白熱電球を捕まえ、上空へ1秒ごとに2.1mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに2.2mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000081" level="1" uiDescription="UFOに搭乗しようとする宇宙人の脚を捕まえ、上空へ1秒ごとに1.3mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに6.3mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000091" level="1" uiDescription="すさまじい推進力を持つミサイルにぶら下がり、上空に1秒ごとに2mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに2mずつ、350の加速度を受けて前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000101" level="1" uiDescription="巨大なロケットにぶら下がり、上空へ100の加速度を受けて1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに1mずつ200の加速度を受けて前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000111" level="1" uiDescription="上手に折られた紙飛行機に乗り、空中からゆっくり飛行しながら降りてくる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと1秒ごとに8.6mずつ前進できる。ジャンプ中、または空中に浮いている状態でのみ飛行できる。室内および一部の地域では使用できない。" />
-  <key id="20000121" level="1" uiDescription="最先端ドローンに乗り、上空に1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに3.9mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000131" level="1" uiDescription="凍りついた雪の結晶に乗り、空中からゆっくり飛行しながら降りてくる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと1秒ごとに4.8mずつ前進できる。ジャンプ中、または空中に浮いている状態でのみ飛行できる。室内や一部の地域では使用できない。" />
-  <key id="20000141" level="1" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color='#00aaef'&gt;4.5m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000141" level="2" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color='#00aaef'&gt;5m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000141" level="3" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color='#00aaef'&gt;5.5m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000141" level="4" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color='#00aaef'&gt;6m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000141" level="5" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color='#00aaef'&gt;7m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000151" level="1" uiDescription="かわいいダッキーボールにぶら下がり、1秒ごとに2.1mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに2.2mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000161" level="1" uiDescription="可愛いスライムに乗って1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに3.9mずつ前進できる。室内および一部の地域では使用できない。" />
-  <key id="20000171" level="1" uiDescription="橙色の紅葉に乗り、空中からゆっくり飛行しながら降りてくる。キーを押していると1秒ごとに&lt;font color='#ff5f5f'&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと1秒ごとに7.3mずつ前進できる。ジャンプ中、または空中に浮いている状態でのみ飛行できる。室内および一部の地域では使用できない。" />
-  <key id="50001354" level="1" uiDescription="$npcName:23000118$の究極技。\n$skill:90003004$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
-  <key id="60300016" level="1" uiDescription="$npcName:23000116$の究極技。\n$skill:90003003$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
-  <key id="60300114" level="1" uiDescription="$npcName:23000117$の究極技。\n$skill:90003005$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
-  <key id="70003001" level="1" uiDescription="KORSKILLDESCRIPTION_70003001_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003011" level="1" uiDescription="KORSKILLDESCRIPTION_70003011_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003021" level="1" uiDescription="KORSKILLDESCRIPTION_70003021_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003031" level="1" uiDescription="KORSKILLDESCRIPTION_70003031_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003041" level="1" uiDescription="KORSKILLDESCRIPTION_70003041_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003051" level="1" uiDescription="KORSKILLDESCRIPTION_70003051_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003061" level="1" uiDescription="KORSKILLDESCRIPTION_70003061_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003071" level="1" uiDescription="KORSKILLDESCRIPTION_70003071_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="70003091" level="1" uiDescription="KORSKILLDESCRIPTION_70003091_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
-  <key id="70003101" level="1" uiDescription="KORSKILLDESCRIPTION_70003101_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
-  <key id="70003121" level="1" uiDescription="KORSKILLDESCRIPTION_70003121_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
-  <key id="70003122" level="1" uiDescription="KORSKILLDESCRIPTION_70003122_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
-  <key id="70003123" level="1" uiDescription="KORSKILLDESCRIPTION_70003123_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
-  <key id="70003131" level="1" uiDescription="KORSKILLDESCRIPTION_70003131_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
-  <key id="90000022" level="1" uiDescription="ブギコリの卵。\nなかなか手に入らない貴重な食材。味もよければ栄養にも富んでいる。" />
-  <key id="90000023" level="1" uiDescription="トライア周辺詰所の近衛隊員たちのための非常戦闘食糧。" />
-  <key id="90000024" level="1" uiDescription="弾力のあるゴムのゼリー。接着力に優れ、\nターゲットに投げるとくっついて絶対に落ちない。" />
-  <key id="90000025" level="1" uiDescription="服用すると影の毒にかからない。" />
-  <key id="90000026" level="1" uiDescription="物理攻撃力が15増加する。" />
-  <key id="90000027" level="1" uiDescription="魔法攻撃力が15増加する。" />
-  <key id="90000028" level="1" uiDescription="最大HPが450増加する。" />
-  <key id="90000029" level="1" uiDescription="経験値の獲得量が10%増加する。" />
-  <key id="90000038" level="1" uiDescription="28秒後にHPが224回復する。\n1秒ごとにHPが8回復する。" />
-  <key id="90000039" level="1" uiDescription="28秒後にHPが560回復する。\n1秒ごとにHPが20回復する。" />
-  <key id="90000040" level="1" uiDescription="28秒後にHPが1120回復する。\n1秒ごとにHPが40回復する。" />
-  <key id="90000041" level="1" uiDescription="28秒後にHPが1680回復する。\n1秒ごとにHPが60回復する。" />
-  <key id="90000042" level="1" uiDescription="28秒後にHPが2100回復する。\n1秒ごとにHPが75回復する。" />
-  <key id="90000043" level="1" uiDescription="28秒後にHPが2240回復する。\n1秒ごとにHPが80回復する。" />
-  <key id="90000044" level="1" uiDescription="28秒後にHPが2660回復する。\n1秒ごとにHPが95回復する。" />
-  <key id="90000045" level="1" uiDescription="全ての病気を治療する。" />
-  <key id="90000088" level="1" uiDescription="28秒後にHPが1120回復する。\n1秒ごとにHPが40回復する。" />
-  <key id="90000913" level="1" uiDescription="28秒後にHPが2240回復する。\n秒ごとにHPが80回復する。" />
-  <key id="90000914" level="1" uiDescription="28秒後にHPが1680回復する。\n秒ごとにHPが60回復する。" />
-  <key id="90000949" level="1" uiDescription="KORSKILLDESCRIPTION_90000949_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90000950" level="1" uiDescription="KORSKILLDESCRIPTION_90000950_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90000951" level="1" uiDescription="KORSKILLDESCRIPTION_90000951_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90000952" level="1" uiDescription="KORSKILLDESCRIPTION_90000952_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90001159" level="1" uiDescription="虹色のデンデンを投げて物に変身しているプレイヤーを攻撃できます。" feature="MassiveHideAndSeek" />
-  <key id="90001166" level="1" uiDescription="KORSKILLDESCRIPTION_90001166_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90001179" level="1" uiDescription="KORSKILLDESCRIPTION_90001179_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90001181" level="1" uiDescription="KORSKILLDESCRIPTION_90001181_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90200001" level="1" uiDescription="怒るようなアクションを取ります。" />
-  <key id="90200002" level="1" uiDescription="気合を入れるようなアクションを取ります。" />
-  <key id="90200003" level="1" uiDescription="不機嫌そうなアクションを取ります。" />
-  <key id="90200004" level="1" uiDescription="やらしいことを考えているようなアクションを取ります。" />
-  <key id="90200005" level="1" uiDescription="がっかりしたようなアクションを取ります。" />
-  <key id="90200006" level="1" uiDescription="気に入ったようなアクションを取ります。" />
-  <key id="90200007" level="1" uiDescription="知らんぷりをするようなアクションを取ります。" />
-  <key id="90200008" level="1" uiDescription="自慢するようなアクションを取ります。" />
-  <key id="90200009" level="1" uiDescription="挫折するようなアクションを取ります。" />
-  <key id="90200010" level="1" uiDescription="あごに両手を添えるアクションを取ります。" />
-  <key id="90200011" level="1" uiDescription="元気よく挨拶します。" />
-  <key id="90200012" level="1" uiDescription="あざわらうようなアクションを取ります。" />
-  <key id="90200013" level="1" uiDescription="気の向くままダンスを踊ります。" />
-  <key id="90200014" level="1" uiDescription="両手を上げて正座します。" />
-  <key id="90200015" level="1" uiDescription="頭で体を支えて立ちます。" />
-  <key id="90200016" level="1" uiDescription="横になって寝ます。" />
-  <key id="90200017" level="1" uiDescription="パラパラダンスを踊ります。" />
-  <key id="90200018" level="1" uiDescription="大の字になって駄々をこねます。" />
-  <key id="90200019" level="1" uiDescription="じゃんけんアクションを取ります。" />
-  <key id="90200020" level="1" uiDescription="じゃんけんアクションを取ります。" />
-  <key id="90200021" level="1" uiDescription="じゃんけんアクションを取ります。" />
-  <key id="90200022" level="1" uiDescription="行儀よく挨拶するアクションを取ります。" />
-  <key id="90200023" level="1" uiDescription="驚いたようなアクションを取ります。" />
-  <key id="90200024" level="1" uiDescription="拒否するアクションを取ります。" />
-  <key id="90200025" level="1" uiDescription="挑発するアクションを取ります。" />
-  <key id="90200026" level="1" uiDescription="すねたようなアクションを取ります。" />
-  <key id="90200027" level="1" uiDescription="投げキッスをするアクションを取ります。" />
-  <key id="90200028" level="1" uiDescription="チューをするアクションを取ります。" />
-  <key id="90200029" level="1" uiDescription="タップダンスを踊ります。" />
-  <key id="90200030" level="1" uiDescription="ふりふりダンスを踊ります。" />
-  <key id="90200031" level="1" uiDescription="涙を流すアクションを取ります。" />
-  <key id="90200041" level="1" uiDescription="地面に座ります。" />
-  <key id="90200042" level="1" uiDescription="イスや階段に座ります。" />
-  <key id="90200043" level="1" uiDescription="何かを悟ったようなアクションを取ります。" />
-  <key id="90200044" level="1" uiDescription="悩んでいるようなアクションを取ります。" />
-  <key id="90200045" level="1" uiDescription="誰かを指差して悲しみます。" />
-  <key id="90200046" level="1" uiDescription="ぬるぬるダンスを踊ります。" />
-  <key id="90200047" level="1" uiDescription="バンバンダンスを踊ります。" />
-  <key id="90200048" level="1" uiDescription="バニーバニーダンスを踊ります。" />
-  <key id="90200049" level="1" uiDescription="シャッフルダンスを踊ります。" />
-  <key id="90200050" level="1" uiDescription="ポイントダンスを踊ります。" />
-  <key id="90200051" level="1" uiDescription="くねくねダンスを踊ります。" />
-  <key id="90200052" level="1" uiDescription="周辺を眺めながら歌を歌います。" />
-  <key id="90200053" level="1" uiDescription="丁寧にお辞儀をします。" />
-  <key id="90200054" level="1" uiDescription="わちゃわちゃダンスを踊ります。" />
-  <key id="90200055" level="1" uiDescription="わっしょいダンスを踊ります。" />
-  <key id="90200056" level="1" uiDescription="なみなみダンスを踊ります。" />
-  <key id="90200057" level="1" uiDescription="神がかった扇子の踊りを踊ります。" />
-  <key id="90200058" level="1" uiDescription="たっぷんたっぷんダンスを踊ります。" />
-  <key id="90200059" level="1" uiDescription="ポーズを取ります。" />
-  <key id="90200060" level="1" uiDescription="ブレイクダンス(ウィンドミル)を踊ります。" />
-  <key id="90200061" level="1" uiDescription="リズムに乗ります。" />
-  <key id="90200062" level="1" uiDescription="うちゃうちゃダンスを踊ります。" />
-  <key id="90200063" level="1" uiDescription="ゴールドオナーチェアに座ります。" />
-  <key id="90200064" level="1" uiDescription="シルバーオナーチェアに座ります。" />
-  <key id="90200065" level="1" uiDescription="ブロンズオナーチェアに座ります。" />
-  <key id="90200066" level="1" uiDescription="召喚された悪霊ピムが見えるアクションを取ります。" />
-  <key id="90200067" level="1" uiDescription="黒い影を見てびっくりするアクションを取ります。" />
-  <key id="90200068" level="1" uiDescription="ゾンビダンスを踊ります。" />
-  <key id="90200069" level="1" uiDescription="モウロウ催眠ダンスを踊ります。" />
-  <key id="90200070" level="1" uiDescription="クリスマスプレゼントをもらって喜ぶアクションを取ります。" />
-  <key id="90200071" level="1" uiDescription="雪が降りしきる中、喜ぶアクションを取ります。" />
-  <key id="90200072" level="1" uiDescription="黄金の玉座に座ります。" />
-  <key id="90200073" level="1" uiDescription="カッコよくお金をばらまくアクションを取ります。" />
-  <key id="90200074" level="1" uiDescription="バービーとキスするアクションを取ります。" />
-  <key id="90200075" level="1" uiDescription="ルビィとキスするアクションを取ります。" />
-  <key id="90200076" level="1" uiDescription="バラを渡しながら告白するアクションを取ります。" />
-  <key id="90200077" level="1" uiDescription="巨大な大魚を捕ったアクションを取ります。" />
-  <key id="90200078" level="1" uiDescription="ゴルドス校長先生との授業アクションを取ります。" />
-  <key id="90200079" level="1" uiDescription="ミエル教育実習先生との授業アクションを取ります。" />
-  <key id="90200080" level="1" uiDescription="ベルマ道徳先生との授業アクションを取ります。" />
-  <key id="90200081" level="1" uiDescription="桜の木の下でピクニックを楽しむアクションを取ります。" />
-  <key id="90200082" level="1" uiDescription="1人寂しくジャージャー麺を食べるアクションを取ります。" />
-  <key id="90200083" level="1" uiDescription="1人だけど幸せにジャージャー麺を食べるアクションを取ります。" />
-  <key id="90200084" level="1" uiDescription="楽しく木馬に乗って遊ぶアクションを取ります。" />
-  <key id="90200085" level="1" uiDescription="光る指輪を差し出してプロポーズするアクションを取ります。" />
-  <key id="90200086" level="1" uiDescription="プロポーズに応えるアクションを取ります。" />
-  <key id="90200087" level="1" uiDescription="プロポーズをお断りするアクションを取ります。" />
-  <key id="90200088" level="1" uiDescription="ぷにぷにでふかふかのピンクビーンの上に座ります。" />
-  <key id="90200089" level="1" uiDescription="ジャクムジャクムチェアに座ります。" />
-  <key id="90200090" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" />
-  <key id="90200091" level="1" uiDescription="心熱玉座に座ります。" />
-  <key id="90200092" level="1" uiDescription="ハイタッチするアクションを取ります。" />
-  <key id="90200093" level="1" uiDescription="ぴょんぴょんダンスを踊ります。" />
-  <key id="90200094" level="1" uiDescription="レイダンスを踊ります。" />
-  <key id="90200095" level="1" uiDescription="餅をつくアクションを取ります。" />
-  <key id="90200097" level="1" uiDescription="セイントオナーチェアに座ります。" />
-  <key id="90200098" level="1" uiDescription="元気よく応援するアクションを取ります。" />
-  <key id="90200099" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" />
-  <key id="90200100" level="1" uiDescription="大きなメイプルキノコの上に座ります。 " />
-  <key id="90200101" level="1" uiDescription="うきうきダンスを踊ります。" />
-  <key id="90200102" level="1" uiDescription="インターネット放送を行うアクションを取ります。" />
-  <key id="90200103" level="1" uiDescription="派手にクラッカーを打ち鳴らすアクションを取ります。" />
-  <key id="90200104" level="1" uiDescription="春花の凧を揚げます。" />
-  <key id="90200105" level="1" uiDescription="新鮮な草の匂いに満ちたツルのぶらんこに乗ります。" />
-  <key id="90200107" level="1" uiDescription="元気づけるアクションを取ります。" />
-  <key id="90200108" level="1" uiDescription="マッシュキングの黄金窯に座るアクションを取ります。" />
-  <key id="90200109" level="1" uiDescription="KORSKILLDESCRIPTION_90200109_1_UIDESCRIPTION:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
-  <key id="90200110" level="1" uiDescription="キャンプ装備を設置して、キャンプ椅子でくつろぎます。" />
-  <key id="90200111" level="1" uiDescription="ひんやりアイスコップで、可愛いペンギンたちと休憩を取ります。" />
-  <key id="90200112" level="1" uiDescription="ナマケキノコと一緒に楽しく踊ります。" />
-  <key id="90200113" level="1" uiDescription="甘いスイカポンチでダッキーボールと休息を取ります。" />
-  <key id="90200114" level="1" uiDescription="ベビーパンダがメイプルストーリー2の1周年を記念して、晩餐を準備しました。" />
-  <key id="90200115" level="1" uiDescription="しゅきしゅきダンスを踊ります。" />
-  <key id="90200116" level="1" uiDescription="高慢に指を振りながら挑発するアクションを取ります。" feature="SurvivalContents03" />
-  <key id="90200117" level="1" uiDescription="キノコの粉をまき散らし、手を払うアクションを取ります。" feature="SurvivalContents03" />
-  <key id="90200118" level="1" uiDescription="大きなナマケキノコの上に座ります。 " feature="SurvivalContents03" />
-  <key id="90200119" level="1" uiDescription="人形劇を演出するアクションを取ります。" />
-  <key id="90200120" level="1" uiDescription="カエデの木の下でゆっくり休みます。" />
-  <key id="90200121" level="1" uiDescription="KORSKILLDESCRIPTION_90200121_1_UIDESCRIPTION:[F]Fishing02" feature="Fishing02" />
-  <key id="90200122" level="1" uiDescription="幸運のブタの夢を見ながら眠りにつきます。" />
-  <key id="90200123" level="1" uiDescription="温泉に浸かり、余裕を満喫します。" />
-  <key id="90200124" level="1" uiDescription="KORSKILLDESCRIPTION_90200124_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="90200125" level="1" uiDescription="リズミカルなステップダンスを披露します。" />
-  <key id="90200126" level="1" uiDescription="ポインと向かい合って楽しく踊ります。ポインポイン！" feature="Event" />
-  <key id="90200127" level="1" uiDescription="ポインと一緒に遊びます。愛情を注げば注ぐほど仲良くなれます。" feature="Event" />
-  <key id="90200128" level="1" uiDescription="集中力を発揮し、がり勉モードに突入します。" />
-  <key id="90200129" level="1" uiDescription="深い眠りにつきます。" />
-  <key id="90200130" level="1" uiDescription="トレンディなダンスでみんなの注目を集めます。" />
-  <key id="90200131" level="1" uiDescription="人生で一番輝いている瞬間を残すために自撮りをします。" />
-  <key id="90200132" level="1" uiDescription="強くなるためにはアルベルト・ビーンの過酷なトレーニングに耐えなければなりません。" />
-  <key id="90200133" level="1" uiDescription="カッコよく登場するヒーローのポーズを取ります。" />
-  <key id="90200134" level="1" uiDescription="勢いよく登場するヒーローのポーズを取ります。" />
-  <key id="90200135" level="1" uiDescription="威風堂々と登場するヒーローのポーズを取ります。" />
-  <key id="90200136" level="1" uiDescription="ゆらゆらマラカスを揺らしてノリノリのマリアッチダンスを踊ります。" />
-  <key id="90200137" level="1" uiDescription="桜の木の下でくつろぎます。" />
-  <key id="90200138" level="1" uiDescription="可愛いピアと手を繋いでぐるぐる踊ります。" />
-  <key id="90200139" level="1" uiDescription="可愛いピアと向かい合って踊ります。" />
-  <key id="90200140" level="1" uiDescription="未知なる宇宙で彷徨います。" />
-  <key id="90200141" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" feature="Event" locale="JP" />
-  <key id="90200142" level="1" uiDescription="ミノの特別なケアを受けます。" />
-  <key id="90200143" level="1" uiDescription="楽しいビートに酔いしれます。" />
-  <key id="90200144" level="1" uiDescription="砂浜のロマンを感じます。" />
-  <key id="90200145" level="1" uiDescription="筋肉をほぐす準備運動をします。" />
-  <key id="90220001" level="1" uiDescription="相手と抱擁します。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220002" level="1" uiDescription="相手と拳で挨拶を交わします。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220003" level="1" uiDescription="相手と雪の中で遊ぶアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220004" level="1" uiDescription="相手とキャンディで気持ちを交わすアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220005" level="1" uiDescription="相手に切実に助けを求めるアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220006" level="1" uiDescription="相手と背中を合わせて互いに寄りかかるアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220007" level="1" uiDescription="相手とおじぎをするアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220008" level="1" uiDescription="相手と一緒に踊るアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220009" level="1" uiDescription="相手と楽しく拍手するアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220010" level="1" uiDescription="とてつもなく熱いコーヒーを飲み、びっくりします。" />
-  <key id="90220011" level="1" uiDescription="ケーキ帽子を被ったダッキーと一緒に踊ります。" />
-  <key id="90220012" level="1" uiDescription="相手と交互に地団太を踏むアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220013" level="1" uiDescription="相手と綱引きをするアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220014" level="1" uiDescription="相手と楽しく水鉄砲遊びをします。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220015" level="1" uiDescription="相手をお姫様抱っこします。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220016" level="1" uiDescription="相手と一緒にクリスマスツリーの前で温まります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220017" level="1" uiDescription="相手と一緒に赤提灯をつけて見物します。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220018" level="1" uiDescription="相手と一緒にチョコレートを食べさせ合うアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220019" level="1" uiDescription="相手と一緒に涙を流しながらキャンディを食べるアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220020" level="1" uiDescription="相手と一緒に幸せな顔でキャンディを食べるアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220021" level="1" uiDescription="巨大な卵を見つけて驚くアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220022" level="1" uiDescription="相手と一緒にお出かけするアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220023" level="1" uiDescription="相手と一緒にぐるぐる回りながら拍手を打つアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220024" level="1" uiDescription="相手と一緒にメリーゴーランドに乗るアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220025" level="1" uiDescription="相手と一緒にビーチバレーをするアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220026" level="1" uiDescription="相手とフラダンスを踊るアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220027" level="1" uiDescription="相手と美しい月の下でアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220028" level="1" uiDescription="相手と一緒に秋のキャンプ場で楽しい一時を過ごします。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220029" level="1" uiDescription="相手と一緒にキャンディのおねだりします。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220030" level="1" uiDescription="KORSKILLDESCRIPTION_90220030_1_UIDESCRIPTION:[F]Develop" feature="Develop" />
-  <key id="90220031" level="1" uiDescription="相手と一緒に楽しいショッピングアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220032" level="1" uiDescription="KORSKILLDESCRIPTION_90220032_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
-  <key id="90220033" level="1" uiDescription="相手と一緒に初雪アクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220034" level="1" uiDescription="相手と一緒に天灯飛ばしアクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90220035" level="1" uiDescription="相手と一緒にテレビ視聴中アクションを取ります。\n&lt;font color='#7A7A7A'&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
-  <key id="90000343" level="1" uiDescription="採鉱生産バフ道具(ガイドクエスト)説明" feature="Mastery" />
-  <key id="90000344" level="1" uiDescription="採鉱生産バフ道具1説明" feature="Mastery" />
-  <key id="90000345" level="1" uiDescription="採鉱生産バフ道具2説明" feature="Mastery" />
-  <key id="90000346" level="1" uiDescription="採鉱生産バフ道具3説明" feature="Mastery" />
-  <key id="90000347" level="1" uiDescription="採鉱生産バフ道具4説明" feature="Mastery" />
-  <key id="90000348" level="1" uiDescription="採鉱生産バフ道具5説明" feature="Mastery" />
-  <key id="90000349" level="1" uiDescription="採鉱生産バフ道具6説明" feature="Mastery" />
-  <key id="90000350" level="1" uiDescription="畜産生産バフ道具(ガイドクエスト)説明" feature="Mastery" />
-  <key id="90000351" level="1" uiDescription="畜産生産バフ道具1説明" feature="Mastery" />
-  <key id="90000352" level="1" uiDescription="畜産生産バフ道具2説明" feature="Mastery" />
-  <key id="90000353" level="1" uiDescription="畜産生産バフ道具3説明" feature="Mastery" />
-  <key id="90000354" level="1" uiDescription="畜産生産バフ道具4説明" feature="Mastery" />
-  <key id="90000355" level="1" uiDescription="畜産生産バフ道具5説明" feature="Mastery" />
-  <key id="90000356" level="1" uiDescription="畜産生産バフ道具6説明" feature="Mastery" />
-  <key id="90000357" level="1" uiDescription="採鉱熟練バフ道具1説明" feature="Mastery" />
-  <key id="90000358" level="1" uiDescription="採鉱熟練バフ道具2説明" feature="Mastery" />
-  <key id="90000359" level="1" uiDescription="採鉱熟練バフ道具3説明" feature="Mastery" />
-  <key id="90000360" level="1" uiDescription="採鉱熟練バフ道具4説明" feature="Mastery" />
-  <key id="90000361" level="1" uiDescription="採鉱熟練バフ道具5説明" feature="Mastery" />
-  <key id="90000362" level="1" uiDescription="採鉱熟練バフ道具6説明" feature="Mastery" />
-  <key id="90000363" level="1" uiDescription="畜産熟練バフ道具1説明" feature="Mastery" />
-  <key id="90000364" level="1" uiDescription="畜産熟練バフ道具2説明" feature="Mastery" />
-  <key id="90000365" level="1" uiDescription="畜産熟練バフ道具3説明" feature="Mastery" />
-  <key id="90000366" level="1" uiDescription="畜産熟練バフ道具4説明" feature="Mastery" />
-  <key id="90000367" level="1" uiDescription="畜産熟練バフ道具5説明" feature="Mastery" />
-  <key id="90000368" level="1" uiDescription="畜産熟練バフ道具6説明" feature="Mastery" />
-  <key id="90000369" level="1" uiDescription="鍛冶生産バフ道具1説明" feature="Mastery" />
-  <key id="90000370" level="1" uiDescription="鍛冶生産バフ道具2説明" feature="Mastery" />
-  <key id="90000371" level="1" uiDescription="鍛冶生産バフ道具3説明" feature="Mastery" />
-  <key id="90000372" level="1" uiDescription="鍛冶生産バフ道具4説明" feature="Mastery" />
-  <key id="90000373" level="1" uiDescription="鍛冶生産バフ道具5説明" feature="Mastery" />
-  <key id="90000374" level="1" uiDescription="鍛冶生産バフ道具6説明" feature="Mastery" />
-  <key id="90000375" level="1" uiDescription="細工生産バフ道具1説明" feature="Mastery" />
-  <key id="90000376" level="1" uiDescription="細工生産バフ道具2説明" feature="Mastery" />
-  <key id="90000377" level="1" uiDescription="細工生産バフ道具3説明" feature="Mastery" />
-  <key id="90000378" level="1" uiDescription="細工生産バフ道具4説明" feature="Mastery" />
-  <key id="90000379" level="1" uiDescription="細工生産バフ道具5説明" feature="Mastery" />
-  <key id="90000380" level="1" uiDescription="細工生産バフ道具6説明" feature="Mastery" />
-  <key id="90000381" level="1" uiDescription="鍛冶熟練バフ道具1説明" feature="Mastery" />
-  <key id="90000382" level="1" uiDescription="鍛冶熟練バフ道具2説明" feature="Mastery" />
-  <key id="90000383" level="1" uiDescription="鍛冶熟練バフ道具3説明" feature="Mastery" />
-  <key id="90000384" level="1" uiDescription="鍛冶熟練バフ道具4説明" feature="Mastery" />
-  <key id="90000385" level="1" uiDescription="鍛冶熟練バフ道具5説明" feature="Mastery" />
-  <key id="90000386" level="1" uiDescription="鍛冶熟練バフ道具6説明" feature="Mastery" />
-  <key id="90000387" level="1" uiDescription="細工熟練バフ道具1説明" feature="Mastery" />
-  <key id="90000388" level="1" uiDescription="細工熟練バフ道具2説明" feature="Mastery" />
-  <key id="90000389" level="1" uiDescription="細工熟練バフ道具3説明" feature="Mastery" />
-  <key id="90000390" level="1" uiDescription="細工熟練バフ道具4説明" feature="Mastery" />
-  <key id="90000391" level="1" uiDescription="細工熟練バフ道具5説明" feature="Mastery" />
-  <key id="90000392" level="1" uiDescription="細工熟練バフ道具6説明" feature="Mastery" />
-  <key id="90000394" level="1" uiDescription="スズの砥石説明" feature="Mastery" />
-  <key id="90000395" level="1" uiDescription="プラチナの砥石説明" feature="Mastery" />
-  <key id="90000396" level="1" uiDescription="デンデンの殻の補強剤" feature="Mastery" />
-  <key id="90000397" level="1" uiDescription="キツネの尻尾の皮補強材" feature="Mastery" />
-  <key id="99910001" level="1" uiDescription="突進して対象の前の敵を強く押しのけます。" />
-  <key id="99910002" level="1" uiDescription="頭で敵を強打します。" />
-  <key id="99910021" level="1" uiDescription="炎球を隣接する敵に投げます。" />
-  <key id="99910031" level="1" uiDescription="A" />
-  <key id="99910032" level="1" uiDescription="B" />
-  <key id="99910033" level="1" uiDescription="Bスプラッシュ" />
-  <key id="99910041" level="1" uiDescription="拳を振るい、敵を攻撃します。" />
-  <key id="99910042" level="1" uiDescription="ワンツーパンチを飛ばし、敵を攻撃します。" />
-  <key id="99910043" level="1" uiDescription="地面を強く叩きつけ、周辺に打撃を加えます。" />
-  <key id="99910051" level="1" uiDescription="前方にジャンプして、敵をハンマーで叩きつけます。" />
-  <key id="99910052" level="1" uiDescription="強くハンマーを振り上げ、前方の敵に叩き下ろします。" />
-  <key id="99910053" level="1" uiDescription="ハンマーを持って素早く回転し、周辺の敵を攻撃します。" />
-  <key id="99910061" level="1" uiDescription="前方にジャンプして、敵を叩きつけます。" />
-  <key id="99910062" level="1" uiDescription="その場で高く飛び上がり、地面を強打します。" />
-  <key id="99910071" level="1" uiDescription="エレクトリックショットを素早く5発放ちます。" />
-  <key id="99910072" level="1" uiDescription="エレクトリックショットを素早く5発放ちます。" />
-  <key id="99910073" level="1" uiDescription="エネルギーをためて正面の敵に向けてレーザーを発射します。" />
-  <key id="99910074" level="1" uiDescription="ブースターを使用して前方を素早く駆け抜け、敵を攻撃します。" />
-  <key id="99910075" level="1" uiDescription="両腕を合わせてエレクトリックショットを素早く乱射します。" />
-  <key id="99910076" level="1" uiDescription="周辺の敵にエレクトリックショットを乱射します。" />
-  <key id="99910081" level="1" uiDescription="魔力弾を発射します。" />
-  <key id="99910091" level="1" uiDescription="大剣をゆっくりと振り回します。" feature="VIPDungeon" />
-  <key id="99910092" level="1" uiDescription="前方に転がった後に大剣を打ち下ろします。" feature="VIPDungeon" />
-  <key id="99910101" level="1" uiDescription="剣で斬りと刺し攻撃を行います。" feature="VIPDungeon" />
-  <key id="99910102" level="1" uiDescription="前方に剣気を放って攻撃します。" feature="VIPDungeon" />
-  <key id="99910111" level="1" uiDescription="矢を1発、素早く放ちます。" feature="VIPDungeon" />
-  <key id="99910112" level="1" uiDescription="数発の矢を扇形に放ちます。" feature="VIPDungeon" />
-  <key id="99910121" level="1" uiDescription="泡の弾を速射します。" feature="PirateOcean" />
-  <key id="99910122" level="1" uiDescription="強力な水鉄砲を発射します。" feature="PirateOcean" />
-  <key id="99910131" level="1" uiDescription="20mm弾丸を3回発射します。" feature="DarkCastle" />
-  <key id="99910132" level="1" uiDescription="掘削機を先頭にして突進します。" feature="DarkCastle" />
-  <key id="99910133" level="1" uiDescription="強力な105mm砲弾を発射します。" feature="DarkCastle" />
-  <key id="99910141" level="1" uiDescription="前方に突撃します。" feature="DarkCastle" />
-  <key id="99910142" level="1" uiDescription="HPを素早く回復します。" feature="DarkCastle" />
-  <key id="99910151" level="1" uiDescription="とても素早く矢を1発発射します。" feature="DarkCastle" />
-  <key id="99910152" level="1" uiDescription="数発の矢を扇形に放ちます。" feature="DarkCastle" />
-  <key id="99910161" level="1" uiDescription="両腕を合わせてエレクトリックショットを素早く乱射します。" feature="DarkCastle" />
-  <key id="99910162" level="1" uiDescription="エネルギーをためて正面の敵に向けてレーザーを発射します。" feature="DarkCastle" />
-  <key id="99910163" level="1" uiDescription="ブースターを使用して前方を素早く駆け抜け、敵を攻撃します。" feature="DarkCastle" />
-  <key id="99910164" level="1" uiDescription="エネルギーを集めて正面にいる敵に強力なレーザーを発射します。" feature="DarkCastle" />
-  <key id="99910171" level="1" uiDescription="手裏剣を素早く2発投擲します。" feature="DarkCastle" />
-  <key id="99910172" level="1" uiDescription="前方に手榴弾を投擲します。" feature="DarkCastle" />
-  <key id="99910173" level="1" uiDescription="前方にとても素早く移動します。" feature="DarkCastle" />
-  <key id="99910181" level="1" uiDescription="剣で斬りと刺し攻撃を行います。" feature="DarkCastle" />
-  <key id="99910182" level="1" uiDescription="前方に剣気を放って攻撃します。" feature="DarkCastle" />
-  <key id="99910191" level="1" uiDescription="矢を1発、素早く放ちます。" feature="DarkCastle" />
-  <key id="99910192" level="1" uiDescription="数発の矢を扇形に放ちます。" feature="DarkCastle" />
-  <key id="99910193" level="1" uiDescription="火山型矢を空に打ち上げ、雨のように降らせます。" feature="DarkCastle" />
-  <key id="99910241" level="1" uiDescription="接近して卵を盗みます。" feature="GuildRaid01" />
-  <key id="99910301" level="1" uiDescription="素早く剣を振ります。" feature="FameContents_EP1_02" />
-  <key id="99910302" level="1" uiDescription="剣を出して2回振り回した後、鞘に納めます。" feature="FameContents_EP1_02" />
-  <key id="99910303" level="1" uiDescription="風を切るように対象に向かって突進します。" feature="FameContents_EP1_02" />
-  <key id="99910304" level="1" uiDescription="素早く剣を振ります。" feature="FameContents_EP1_02" />
-  <key id="99910305" level="1" uiDescription="剣を出して2回振り回した後、鞘に納めます。" feature="FameContents_EP1_02" />
-  <key id="99910306" level="1" uiDescription="風を切るように対象に向かって突進します。" feature="FameContents_EP1_02" />
-  <key id="99910307" level="1" uiDescription="対象の足元に熱気を噴出する地震を起こします。" feature="FameContents_EP1_02" />
-  <key id="99910351" level="1" uiDescription="ナマケキノコになったあなたにできることは、怠けることだけです。" feature="SurvivalContentsTeam" />
-  <key id="99910371" level="1" uiDescription="KORSKILLDESCRIPTION_99910371_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="99910372" level="1" uiDescription="前方に向かって熱い炎を噴き出します。" feature="Kritias_2018_12" />
-  <key id="99910401" level="1" uiDescription="KORSKILLDESCRIPTION_99910401_1_UIDESCRIPTION:[F]Gigantica01" feature="Gigantica01" />
-  <key id="99910402" level="1" uiDescription="KORSKILLDESCRIPTION_99910402_1_UIDESCRIPTION:[F]Gigantica01" feature="Gigantica01" />
-  <key id="99910403" level="1" uiDescription="KORSKILLDESCRIPTION_99910403_1_UIDESCRIPTION:[F]Gigantica01" feature="Gigantica01" />
-  <key id="99910501" level="1" uiDescription="KORSKILLDESCRIPTION_99910501_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99910502" level="1" uiDescription="KORSKILLDESCRIPTION_99910502_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99910503" level="1" uiDescription="KORSKILLDESCRIPTION_99910503_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99910504" level="1" uiDescription="KORSKILLDESCRIPTION_99910504_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99910510" level="1" uiDescription="KORSKILLDESCRIPTION_99910510_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-  <key id="99910511" level="1" uiDescription="KORSKILLDESCRIPTION_99910511_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-  <key id="99910512" level="1" uiDescription="KORSKILLDESCRIPTION_99910512_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-  <key id="99910513" level="1" uiDescription="KORSKILLDESCRIPTION_99910513_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-  <key id="99911501" level="1" uiDescription="KORSKILLDESCRIPTION_99911501_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99911502" level="1" uiDescription="KORSKILLDESCRIPTION_99911502_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99911503" level="1" uiDescription="KORSKILLDESCRIPTION_99911503_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="99911504" level="1" uiDescription="KORSKILLDESCRIPTION_99911504_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-  <key id="120010001" level="1" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;552%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="2" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;599%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="3" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;646%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="4" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;669%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="5" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;716%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="6" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;787%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="7" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;857%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="8" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;939%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="9" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;1057%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010001" level="10" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color='#00aaef'&gt;1174%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
-  <key id="120010002" level="1" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;158%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;158%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="2" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;171%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;171%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="3" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;184%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;184%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="4" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;191%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;191%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="5" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;204%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;204%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="6" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;224%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;224%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="7" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;244%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;244%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="8" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;268%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;268%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="9" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;301%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;301%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010002" level="10" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color='#00aaef'&gt;335%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color='#00aaef'&gt;335%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
-  <key id="120010003" level="1" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;36&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="2" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;42&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="3" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;54&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="4" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;66&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="5" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;78&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="6" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;96&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="7" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;120&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="8" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;144&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="9" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;174&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010003" level="10" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color='#00aaef'&gt;216&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
-  <key id="120010004" level="1" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;162%&lt;/font&gt;、&lt;font color='#00aaef'&gt;243%&lt;/font&gt;、&lt;font color='#00aaef'&gt;408%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;12000&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="2" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;168%&lt;/font&gt;、&lt;font color='#00aaef'&gt;252%&lt;/font&gt;、&lt;font color='#00aaef'&gt;420%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;14400&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="3" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;174%&lt;/font&gt;、&lt;font color='#00aaef'&gt;261%&lt;/font&gt;、&lt;font color='#00aaef'&gt;432%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;16800&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="4" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;180%&lt;/font&gt;、&lt;font color='#00aaef'&gt;270%&lt;/font&gt;、&lt;font color='#00aaef'&gt;450%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;19200&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="5" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;186%&lt;/font&gt;、&lt;font color='#00aaef'&gt;282%&lt;/font&gt;、&lt;font color='#00aaef'&gt;468%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;21600&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="6" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;195%&lt;/font&gt;、&lt;font color='#00aaef'&gt;294%&lt;/font&gt;、&lt;font color='#00aaef'&gt;489%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;24000&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="7" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;204%&lt;/font&gt;、&lt;font color='#00aaef'&gt;306%&lt;/font&gt;、&lt;font color='#00aaef'&gt;510%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;26400&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="8" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;210%&lt;/font&gt;、&lt;font color='#00aaef'&gt;318%&lt;/font&gt;、&lt;font color='#00aaef'&gt;531%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;28800&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="9" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;225%&lt;/font&gt;、&lt;font color='#00aaef'&gt;339%&lt;/font&gt;、&lt;font color='#00aaef'&gt;567%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;31200&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010004" level="10" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color='#00aaef'&gt;243%&lt;/font&gt;、&lt;font color='#00aaef'&gt;366%&lt;/font&gt;、&lt;font color='#00aaef'&gt;612%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color='#00aaef'&gt;36000&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
-  <key id="120010010" level="1" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;457%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;69%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="2" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;548%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;82%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="3" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;685%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;103%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="4" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;822%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;123%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="5" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1005%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;151%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="6" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1233%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;185%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="7" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1507%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;226%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="8" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1827%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;274%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="9" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;2238%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;336%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010010" level="10" uiDescription="&lt;font color='#ffffff'&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;2741%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;出血&lt;/font&gt;：定期的に&lt;font color='#00aaef'&gt;411%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="1" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1027%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;154%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="2" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1233%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;185%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="3" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1541%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;231%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="4" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;1850%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;277%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="5" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;2261%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;339%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="6" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;2775%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;416%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="7" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;3391%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;508%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="8" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;4111%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;616%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="9" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;5036%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;755%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
-  <key id="120010020" level="10" uiDescription="&lt;font color='#ffffff'&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color='#ffd400'&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color='#00aaef'&gt;6166%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color='#f06d45'&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color='#ffd400'&gt;[追加効果]&lt;/font&gt;\n&lt;font color='#f06d45'&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color='#00aaef'&gt;925%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="20000001" level="1" uiDescription="泳ぎの実力を向上させ、水中で素早く移動する。キーを押している間発動し、1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;し、方向キーを押して素早く泳ぐ。" />
+	<key id="20000011" level="1" uiDescription="険しい壁を自在に移動する。キーを押している間発動する。1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;し、方向キーで壁を移動する。" />
+	<key id="20000021" level="1" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して&lt;font color=&apos;#00aaef&apos;&gt;1.5m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
+	<key id="20000021" level="2" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して&lt;font color=&apos;#00aaef&apos;&gt;1.7m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
+	<key id="20000021" level="3" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して&lt;font color=&apos;#00aaef&apos;&gt;1.9m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
+	<key id="20000021" level="4" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して&lt;font color=&apos;#00aaef&apos;&gt;2.1m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
+	<key id="20000021" level="5" uiDescription="風船を掴んで空に浮き上がる。キーを押している間発動し、1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して&lt;font color=&apos;#00aaef&apos;&gt;2.5m&lt;/font&gt;ずつ上昇する。発動中に方向キーを押すと、前方へ2mずつ移動する。室内および一部の地域では使用できない。" />
+	<key id="20000041" level="1" uiDescription="よく調教されたワシを掴み、上空へ1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに7mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000051" level="1" uiDescription="神聖な存在、エンジェルの導きを受け、上空へ1秒ごとに4.8mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに1mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000071" level="1" uiDescription="白熱電球を捕まえ、上空へ1秒ごとに2.1mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに2.2mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000081" level="1" uiDescription="UFOに搭乗しようとする宇宙人の脚を捕まえ、上空へ1秒ごとに1.3mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに6.3mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000091" level="1" uiDescription="すさまじい推進力を持つミサイルにぶら下がり、上空に1秒ごとに2mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに2mずつ、350の加速度を受けて前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000101" level="1" uiDescription="巨大なロケットにぶら下がり、上空へ100の加速度を受けて1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに1mずつ200の加速度を受けて前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000111" level="1" uiDescription="上手に折られた紙飛行機に乗り、空中からゆっくり飛行しながら降りてくる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと1秒ごとに8.6mずつ前進できる。ジャンプ中、または空中に浮いている状態でのみ飛行できる。室内および一部の地域では使用できない。" />
+	<key id="20000121" level="1" uiDescription="最先端ドローンに乗り、上空に1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに3.9mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000131" level="1" uiDescription="凍りついた雪の結晶に乗り、空中からゆっくり飛行しながら降りてくる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと1秒ごとに4.8mずつ前進できる。ジャンプ中、または空中に浮いている状態でのみ飛行できる。室内や一部の地域では使用できない。" />
+	<key id="20000141" level="1" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;4.5m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000141" level="2" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;5m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000141" level="3" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;5.5m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000141" level="4" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;6m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000141" level="5" uiDescription="ルーン魔法で浮遊魔法陣を生成し、1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを30消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;7m&lt;/font&gt;ずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000151" level="1" uiDescription="かわいいダッキーボールにぶら下がり、1秒ごとに2.1mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに2.2mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000161" level="1" uiDescription="可愛いスライムに乗って1秒ごとに0.5mずつ浮き上がる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを10消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと、1秒ごとに3.9mずつ前進できる。室内および一部の地域では使用できない。" />
+	<key id="20000171" level="1" uiDescription="橙色の紅葉に乗り、空中からゆっくり飛行しながら降りてくる。キーを押していると1秒ごとに&lt;font color=&apos;#ff5f5f&apos;&gt;EPを20消費&lt;/font&gt;して飛行を続ける。飛行中に方向キーを押すと1秒ごとに7.3mずつ前進できる。ジャンプ中、または空中に浮いている状態でのみ飛行できる。室内および一部の地域では使用できない。" />
+	<key id="50001354" level="1" uiDescription="$npcName:23000118$の究極技。\n$skill:90003004$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
+	<key id="60300016" level="1" uiDescription="$npcName:23000116$の究極技。\n$skill:90003003$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
+	<key id="60300114" level="1" uiDescription="$npcName:23000117$の究極技。\n$skill:90003005$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
+	<key id="70003001" level="1" uiDescription="KORSKILLDESCRIPTION_70003001_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003011" level="1" uiDescription="KORSKILLDESCRIPTION_70003011_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003021" level="1" uiDescription="KORSKILLDESCRIPTION_70003021_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003031" level="1" uiDescription="KORSKILLDESCRIPTION_70003031_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003041" level="1" uiDescription="KORSKILLDESCRIPTION_70003041_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003051" level="1" uiDescription="KORSKILLDESCRIPTION_70003051_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003061" level="1" uiDescription="KORSKILLDESCRIPTION_70003061_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003071" level="1" uiDescription="KORSKILLDESCRIPTION_70003071_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003091" level="1" uiDescription="KORSKILLDESCRIPTION_70003091_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="70003101" level="1" uiDescription="KORSKILLDESCRIPTION_70003101_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="70003121" level="1" uiDescription="KORSKILLDESCRIPTION_70003121_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="70003122" level="1" uiDescription="KORSKILLDESCRIPTION_70003122_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="70003123" level="1" uiDescription="KORSKILLDESCRIPTION_70003123_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="70003131" level="1" uiDescription="KORSKILLDESCRIPTION_70003131_1_UIDESCRIPTION:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="90000022" level="1" uiDescription="ブギコリの卵。\nなかなか手に入らない貴重な食材。味もよければ栄養にも富んでいる。" />
+	<key id="90000023" level="1" uiDescription="トライア周辺詰所の近衛隊員たちのための非常戦闘食糧。" />
+	<key id="90000024" level="1" uiDescription="弾力のあるゴムのゼリー。接着力に優れ、\nターゲットに投げるとくっついて絶対に落ちない。" />
+	<key id="90000025" level="1" uiDescription="服用すると影の毒にかからない。" />
+	<key id="90000026" level="1" uiDescription="物理攻撃力が15増加する。" />
+	<key id="90000027" level="1" uiDescription="魔法攻撃力が15増加する。" />
+	<key id="90000028" level="1" uiDescription="最大HPが450増加する。" />
+	<key id="90000029" level="1" uiDescription="経験値の獲得量が10%増加する。" />
+	<key id="90000038" level="1" uiDescription="28秒後にHPが224回復する。\n1秒ごとにHPが8回復する。" />
+	<key id="90000039" level="1" uiDescription="28秒後にHPが560回復する。\n1秒ごとにHPが20回復する。" />
+	<key id="90000040" level="1" uiDescription="28秒後にHPが1120回復する。\n1秒ごとにHPが40回復する。" />
+	<key id="90000041" level="1" uiDescription="28秒後にHPが1680回復する。\n1秒ごとにHPが60回復する。" />
+	<key id="90000042" level="1" uiDescription="28秒後にHPが2100回復する。\n1秒ごとにHPが75回復する。" />
+	<key id="90000043" level="1" uiDescription="28秒後にHPが2240回復する。\n1秒ごとにHPが80回復する。" />
+	<key id="90000044" level="1" uiDescription="28秒後にHPが2660回復する。\n1秒ごとにHPが95回復する。" />
+	<key id="90000045" level="1" uiDescription="全ての病気を治療する。" />
+	<key id="90000088" level="1" uiDescription="28秒後にHPが1120回復する。\n1秒ごとにHPが40回復する。" />
+	<key id="90000343" level="1" uiDescription="採鉱生産バフ道具(ガイドクエスト)説明" feature="Mastery" />
+	<key id="90000344" level="1" uiDescription="採鉱生産バフ道具1説明" feature="Mastery" />
+	<key id="90000345" level="1" uiDescription="採鉱生産バフ道具2説明" feature="Mastery" />
+	<key id="90000346" level="1" uiDescription="採鉱生産バフ道具3説明" feature="Mastery" />
+	<key id="90000347" level="1" uiDescription="採鉱生産バフ道具4説明" feature="Mastery" />
+	<key id="90000348" level="1" uiDescription="採鉱生産バフ道具5説明" feature="Mastery" />
+	<key id="90000349" level="1" uiDescription="採鉱生産バフ道具6説明" feature="Mastery" />
+	<key id="90000350" level="1" uiDescription="畜産生産バフ道具(ガイドクエスト)説明" feature="Mastery" />
+	<key id="90000351" level="1" uiDescription="畜産生産バフ道具1説明" feature="Mastery" />
+	<key id="90000352" level="1" uiDescription="畜産生産バフ道具2説明" feature="Mastery" />
+	<key id="90000353" level="1" uiDescription="畜産生産バフ道具3説明" feature="Mastery" />
+	<key id="90000354" level="1" uiDescription="畜産生産バフ道具4説明" feature="Mastery" />
+	<key id="90000355" level="1" uiDescription="畜産生産バフ道具5説明" feature="Mastery" />
+	<key id="90000356" level="1" uiDescription="畜産生産バフ道具6説明" feature="Mastery" />
+	<key id="90000357" level="1" uiDescription="採鉱熟練バフ道具1説明" feature="Mastery" />
+	<key id="90000358" level="1" uiDescription="採鉱熟練バフ道具2説明" feature="Mastery" />
+	<key id="90000359" level="1" uiDescription="採鉱熟練バフ道具3説明" feature="Mastery" />
+	<key id="90000360" level="1" uiDescription="採鉱熟練バフ道具4説明" feature="Mastery" />
+	<key id="90000361" level="1" uiDescription="採鉱熟練バフ道具5説明" feature="Mastery" />
+	<key id="90000362" level="1" uiDescription="採鉱熟練バフ道具6説明" feature="Mastery" />
+	<key id="90000363" level="1" uiDescription="畜産熟練バフ道具1説明" feature="Mastery" />
+	<key id="90000364" level="1" uiDescription="畜産熟練バフ道具2説明" feature="Mastery" />
+	<key id="90000365" level="1" uiDescription="畜産熟練バフ道具3説明" feature="Mastery" />
+	<key id="90000366" level="1" uiDescription="畜産熟練バフ道具4説明" feature="Mastery" />
+	<key id="90000367" level="1" uiDescription="畜産熟練バフ道具5説明" feature="Mastery" />
+	<key id="90000368" level="1" uiDescription="畜産熟練バフ道具6説明" feature="Mastery" />
+	<key id="90000369" level="1" uiDescription="鍛冶生産バフ道具1説明" feature="Mastery" />
+	<key id="90000370" level="1" uiDescription="鍛冶生産バフ道具2説明" feature="Mastery" />
+	<key id="90000371" level="1" uiDescription="鍛冶生産バフ道具3説明" feature="Mastery" />
+	<key id="90000372" level="1" uiDescription="鍛冶生産バフ道具4説明" feature="Mastery" />
+	<key id="90000373" level="1" uiDescription="鍛冶生産バフ道具5説明" feature="Mastery" />
+	<key id="90000374" level="1" uiDescription="鍛冶生産バフ道具6説明" feature="Mastery" />
+	<key id="90000375" level="1" uiDescription="細工生産バフ道具1説明" feature="Mastery" />
+	<key id="90000376" level="1" uiDescription="細工生産バフ道具2説明" feature="Mastery" />
+	<key id="90000377" level="1" uiDescription="細工生産バフ道具3説明" feature="Mastery" />
+	<key id="90000378" level="1" uiDescription="細工生産バフ道具4説明" feature="Mastery" />
+	<key id="90000379" level="1" uiDescription="細工生産バフ道具5説明" feature="Mastery" />
+	<key id="90000380" level="1" uiDescription="細工生産バフ道具6説明" feature="Mastery" />
+	<key id="90000381" level="1" uiDescription="鍛冶熟練バフ道具1説明" feature="Mastery" />
+	<key id="90000382" level="1" uiDescription="鍛冶熟練バフ道具2説明" feature="Mastery" />
+	<key id="90000383" level="1" uiDescription="鍛冶熟練バフ道具3説明" feature="Mastery" />
+	<key id="90000384" level="1" uiDescription="鍛冶熟練バフ道具4説明" feature="Mastery" />
+	<key id="90000385" level="1" uiDescription="鍛冶熟練バフ道具5説明" feature="Mastery" />
+	<key id="90000386" level="1" uiDescription="鍛冶熟練バフ道具6説明" feature="Mastery" />
+	<key id="90000387" level="1" uiDescription="細工熟練バフ道具1説明" feature="Mastery" />
+	<key id="90000388" level="1" uiDescription="細工熟練バフ道具2説明" feature="Mastery" />
+	<key id="90000389" level="1" uiDescription="細工熟練バフ道具3説明" feature="Mastery" />
+	<key id="90000390" level="1" uiDescription="細工熟練バフ道具4説明" feature="Mastery" />
+	<key id="90000391" level="1" uiDescription="細工熟練バフ道具5説明" feature="Mastery" />
+	<key id="90000392" level="1" uiDescription="細工熟練バフ道具6説明" feature="Mastery" />
+	<key id="90000394" level="1" uiDescription="スズの砥石説明" feature="Mastery" />
+	<key id="90000395" level="1" uiDescription="プラチナの砥石説明" feature="Mastery" />
+	<key id="90000396" level="1" uiDescription="デンデンの殻の補強剤" feature="Mastery" />
+	<key id="90000397" level="1" uiDescription="キツネの尻尾の皮補強材" feature="Mastery" />
+	<key id="90000913" level="1" uiDescription="28秒後にHPが2240回復する。\n秒ごとにHPが80回復する。" />
+	<key id="90000914" level="1" uiDescription="28秒後にHPが1680回復する。\n秒ごとにHPが60回復する。" />
+	<key id="90000949" level="1" uiDescription="KORSKILLDESCRIPTION_90000949_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90000950" level="1" uiDescription="KORSKILLDESCRIPTION_90000950_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90000951" level="1" uiDescription="KORSKILLDESCRIPTION_90000951_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90000952" level="1" uiDescription="KORSKILLDESCRIPTION_90000952_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90001159" level="1" uiDescription="虹色のデンデンを投げて物に変身しているプレイヤーを攻撃できます。" feature="MassiveHideAndSeek" />
+	<key id="90001166" level="1" uiDescription="KORSKILLDESCRIPTION_90001166_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90001179" level="1" uiDescription="KORSKILLDESCRIPTION_90001179_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90001181" level="1" uiDescription="KORSKILLDESCRIPTION_90001181_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90200001" level="1" uiDescription="怒るようなアクションを取ります。" />
+	<key id="90200002" level="1" uiDescription="気合を入れるようなアクションを取ります。" />
+	<key id="90200003" level="1" uiDescription="不機嫌そうなアクションを取ります。" />
+	<key id="90200004" level="1" uiDescription="やらしいことを考えているようなアクションを取ります。" />
+	<key id="90200005" level="1" uiDescription="がっかりしたようなアクションを取ります。" />
+	<key id="90200006" level="1" uiDescription="気に入ったようなアクションを取ります。" />
+	<key id="90200007" level="1" uiDescription="知らんぷりをするようなアクションを取ります。" />
+	<key id="90200008" level="1" uiDescription="自慢するようなアクションを取ります。" />
+	<key id="90200009" level="1" uiDescription="挫折するようなアクションを取ります。" />
+	<key id="90200010" level="1" uiDescription="あごに両手を添えるアクションを取ります。" />
+	<key id="90200011" level="1" uiDescription="元気よく挨拶します。" />
+	<key id="90200012" level="1" uiDescription="あざわらうようなアクションを取ります。" />
+	<key id="90200013" level="1" uiDescription="気の向くままダンスを踊ります。" />
+	<key id="90200014" level="1" uiDescription="両手を上げて正座します。" />
+	<key id="90200015" level="1" uiDescription="頭で体を支えて立ちます。" />
+	<key id="90200016" level="1" uiDescription="横になって寝ます。" />
+	<key id="90200017" level="1" uiDescription="パラパラダンスを踊ります。" />
+	<key id="90200018" level="1" uiDescription="大の字になって駄々をこねます。" />
+	<key id="90200019" level="1" uiDescription="じゃんけんアクションを取ります。" />
+	<key id="90200020" level="1" uiDescription="じゃんけんアクションを取ります。" />
+	<key id="90200021" level="1" uiDescription="じゃんけんアクションを取ります。" />
+	<key id="90200022" level="1" uiDescription="行儀よく挨拶するアクションを取ります。" />
+	<key id="90200023" level="1" uiDescription="驚いたようなアクションを取ります。" />
+	<key id="90200024" level="1" uiDescription="拒否するアクションを取ります。" />
+	<key id="90200025" level="1" uiDescription="挑発するアクションを取ります。" />
+	<key id="90200026" level="1" uiDescription="すねたようなアクションを取ります。" />
+	<key id="90200027" level="1" uiDescription="投げキッスをするアクションを取ります。" />
+	<key id="90200028" level="1" uiDescription="チューをするアクションを取ります。" />
+	<key id="90200029" level="1" uiDescription="タップダンスを踊ります。" />
+	<key id="90200030" level="1" uiDescription="ふりふりダンスを踊ります。" />
+	<key id="90200031" level="1" uiDescription="涙を流すアクションを取ります。" />
+	<key id="90200041" level="1" uiDescription="地面に座ります。" />
+	<key id="90200042" level="1" uiDescription="イスや階段に座ります。" />
+	<key id="90200043" level="1" uiDescription="何かを悟ったようなアクションを取ります。" />
+	<key id="90200044" level="1" uiDescription="悩んでいるようなアクションを取ります。" />
+	<key id="90200045" level="1" uiDescription="誰かを指差して悲しみます。" />
+	<key id="90200046" level="1" uiDescription="ぬるぬるダンスを踊ります。" />
+	<key id="90200047" level="1" uiDescription="バンバンダンスを踊ります。" />
+	<key id="90200048" level="1" uiDescription="バニーバニーダンスを踊ります。" />
+	<key id="90200049" level="1" uiDescription="シャッフルダンスを踊ります。" />
+	<key id="90200050" level="1" uiDescription="ポイントダンスを踊ります。" />
+	<key id="90200051" level="1" uiDescription="くねくねダンスを踊ります。" />
+	<key id="90200052" level="1" uiDescription="周辺を眺めながら歌を歌います。" />
+	<key id="90200053" level="1" uiDescription="丁寧にお辞儀をします。" />
+	<key id="90200054" level="1" uiDescription="わちゃわちゃダンスを踊ります。" />
+	<key id="90200055" level="1" uiDescription="わっしょいダンスを踊ります。" />
+	<key id="90200056" level="1" uiDescription="なみなみダンスを踊ります。" />
+	<key id="90200057" level="1" uiDescription="神がかった扇子の踊りを踊ります。" />
+	<key id="90200058" level="1" uiDescription="たっぷんたっぷんダンスを踊ります。" />
+	<key id="90200059" level="1" uiDescription="ポーズを取ります。" />
+	<key id="90200060" level="1" uiDescription="ブレイクダンス(ウィンドミル)を踊ります。" />
+	<key id="90200061" level="1" uiDescription="リズムに乗ります。" />
+	<key id="90200062" level="1" uiDescription="うちゃうちゃダンスを踊ります。" />
+	<key id="90200063" level="1" uiDescription="ゴールドオナーチェアに座ります。" />
+	<key id="90200064" level="1" uiDescription="シルバーオナーチェアに座ります。" />
+	<key id="90200065" level="1" uiDescription="ブロンズオナーチェアに座ります。" />
+	<key id="90200066" level="1" uiDescription="召喚された悪霊ピムが見えるアクションを取ります。" />
+	<key id="90200067" level="1" uiDescription="黒い影を見てびっくりするアクションを取ります。" />
+	<key id="90200068" level="1" uiDescription="ゾンビダンスを踊ります。" />
+	<key id="90200069" level="1" uiDescription="モウロウ催眠ダンスを踊ります。" />
+	<key id="90200070" level="1" uiDescription="クリスマスプレゼントをもらって喜ぶアクションを取ります。" />
+	<key id="90200071" level="1" uiDescription="雪が降りしきる中、喜ぶアクションを取ります。" />
+	<key id="90200072" level="1" uiDescription="黄金の玉座に座ります。" />
+	<key id="90200073" level="1" uiDescription="カッコよくお金をばらまくアクションを取ります。" />
+	<key id="90200074" level="1" uiDescription="バービーとキスするアクションを取ります。" />
+	<key id="90200075" level="1" uiDescription="ルビィとキスするアクションを取ります。" />
+	<key id="90200076" level="1" uiDescription="バラを渡しながら告白するアクションを取ります。" />
+	<key id="90200077" level="1" uiDescription="巨大な大魚を捕ったアクションを取ります。" />
+	<key id="90200078" level="1" uiDescription="ゴルドス校長先生との授業アクションを取ります。" />
+	<key id="90200079" level="1" uiDescription="ミエル教育実習先生との授業アクションを取ります。" />
+	<key id="90200080" level="1" uiDescription="ベルマ道徳先生との授業アクションを取ります。" />
+	<key id="90200081" level="1" uiDescription="桜の木の下でピクニックを楽しむアクションを取ります。" />
+	<key id="90200082" level="1" uiDescription="1人寂しくジャージャー麺を食べるアクションを取ります。" />
+	<key id="90200083" level="1" uiDescription="1人だけど幸せにジャージャー麺を食べるアクションを取ります。" />
+	<key id="90200084" level="1" uiDescription="楽しく木馬に乗って遊ぶアクションを取ります。" />
+	<key id="90200085" level="1" uiDescription="光る指輪を差し出してプロポーズするアクションを取ります。" />
+	<key id="90200086" level="1" uiDescription="プロポーズに応えるアクションを取ります。" />
+	<key id="90200087" level="1" uiDescription="プロポーズをお断りするアクションを取ります。" />
+	<key id="90200088" level="1" uiDescription="ぷにぷにでふかふかのピンクビーンの上に座ります。" />
+	<key id="90200089" level="1" uiDescription="ジャクムジャクムチェアに座ります。" />
+	<key id="90200090" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" />
+	<key id="90200091" level="1" uiDescription="心熱玉座に座ります。" />
+	<key id="90200092" level="1" uiDescription="ハイタッチするアクションを取ります。" />
+	<key id="90200093" level="1" uiDescription="ぴょんぴょんダンスを踊ります。" />
+	<key id="90200094" level="1" uiDescription="レイダンスを踊ります。" />
+	<key id="90200095" level="1" uiDescription="餅をつくアクションを取ります。" />
+	<key id="90200097" level="1" uiDescription="セイントオナーチェアに座ります。" />
+	<key id="90200098" level="1" uiDescription="元気よく応援するアクションを取ります。" />
+	<key id="90200099" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" />
+	<key id="90200100" level="1" uiDescription="大きなメイプルキノコの上に座ります。 " />
+	<key id="90200101" level="1" uiDescription="うきうきダンスを踊ります。" />
+	<key id="90200102" level="1" uiDescription="インターネット放送を行うアクションを取ります。" />
+	<key id="90200103" level="1" uiDescription="派手にクラッカーを打ち鳴らすアクションを取ります。" />
+	<key id="90200104" level="1" uiDescription="春花の凧を揚げます。" />
+	<key id="90200105" level="1" uiDescription="新鮮な草の匂いに満ちたツルのぶらんこに乗ります。" />
+	<key id="90200107" level="1" uiDescription="元気づけるアクションを取ります。" />
+	<key id="90200108" level="1" uiDescription="マッシュキングの黄金窯に座るアクションを取ります。" />
+	<key id="90200109" level="1" uiDescription="KORSKILLDESCRIPTION_90200109_1_UIDESCRIPTION:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="90200110" level="1" uiDescription="キャンプ装備を設置して、キャンプ椅子でくつろぎます。" />
+	<key id="90200111" level="1" uiDescription="ひんやりアイスコップで、可愛いペンギンたちと休憩を取ります。" />
+	<key id="90200112" level="1" uiDescription="ナマケキノコと一緒に楽しく踊ります。" />
+	<key id="90200113" level="1" uiDescription="甘いスイカポンチでダッキーボールと休息を取ります。" />
+	<key id="90200114" level="1" uiDescription="ベビーパンダがメイプルストーリー2の1周年を記念して、晩餐を準備しました。" />
+	<key id="90200115" level="1" uiDescription="しゅきしゅきダンスを踊ります。" />
+	<key id="90200116" level="1" uiDescription="高慢に指を振りながら挑発するアクションを取ります。" feature="SurvivalContents03" />
+	<key id="90200117" level="1" uiDescription="キノコの粉をまき散らし、手を払うアクションを取ります。" feature="SurvivalContents03" />
+	<key id="90200118" level="1" uiDescription="大きなナマケキノコの上に座ります。 " feature="SurvivalContents03" />
+	<key id="90200119" level="1" uiDescription="人形劇を演出するアクションを取ります。" />
+	<key id="90200120" level="1" uiDescription="カエデの木の下でゆっくり休みます。" />
+	<key id="90200121" level="1" uiDescription="KORSKILLDESCRIPTION_90200121_1_UIDESCRIPTION:[F]Fishing02" feature="Fishing02" />
+	<key id="90200122" level="1" uiDescription="幸運のブタの夢を見ながら眠りにつきます。" />
+	<key id="90200123" level="1" uiDescription="温泉に浸かり、余裕を満喫します。" />
+	<key id="90200124" level="1" uiDescription="KORSKILLDESCRIPTION_90200124_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="90200125" level="1" uiDescription="リズミカルなステップダンスを披露します。" />
+	<key id="90200126" level="1" uiDescription="ポインと向かい合って楽しく踊ります。ポインポイン！" feature="Event" />
+	<key id="90200127" level="1" uiDescription="ポインと一緒に遊びます。愛情を注げば注ぐほど仲良くなれます。" feature="Event" />
+	<key id="90200128" level="1" uiDescription="集中力を発揮し、がり勉モードに突入します。" />
+	<key id="90200129" level="1" uiDescription="深い眠りにつきます。" />
+	<key id="90200130" level="1" uiDescription="トレンディなダンスでみんなの注目を集めます。" />
+	<key id="90200131" level="1" uiDescription="人生で一番輝いている瞬間を残すために自撮りをします。" />
+	<key id="90200132" level="1" uiDescription="強くなるためにはアルベルト・ビーンの過酷なトレーニングに耐えなければなりません。" />
+	<key id="90200133" level="1" uiDescription="カッコよく登場するヒーローのポーズを取ります。" />
+	<key id="90200134" level="1" uiDescription="勢いよく登場するヒーローのポーズを取ります。" />
+	<key id="90200135" level="1" uiDescription="威風堂々と登場するヒーローのポーズを取ります。" />
+	<key id="90200136" level="1" uiDescription="ゆらゆらマラカスを揺らしてノリノリのマリアッチダンスを踊ります。" />
+	<key id="90200137" level="1" uiDescription="桜の木の下でくつろぎます。" />
+	<key id="90200138" level="1" uiDescription="可愛いピアと手を繋いでぐるぐる踊ります。" />
+	<key id="90200139" level="1" uiDescription="可愛いピアと向かい合って踊ります。" />
+	<key id="90200140" level="1" uiDescription="未知なる宇宙で彷徨います。" />
+	<key id="90200141" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" feature="Event" locale="JP" />
+	<key id="90200142" level="1" uiDescription="ミノの特別なケアを受けます。" />
+	<key id="90200143" level="1" uiDescription="楽しいビートに酔いしれます。" />
+	<key id="90200144" level="1" uiDescription="砂浜のロマンを感じます。" />
+	<key id="90200145" level="1" uiDescription="筋肉をほぐす準備運動をします。" />
+	<key id="90220001" level="1" uiDescription="相手と抱擁します。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220002" level="1" uiDescription="相手と拳で挨拶を交わします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220003" level="1" uiDescription="相手と雪の中で遊ぶアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220004" level="1" uiDescription="相手とキャンディで気持ちを交わすアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220005" level="1" uiDescription="相手に切実に助けを求めるアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220006" level="1" uiDescription="相手と背中を合わせて互いに寄りかかるアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220007" level="1" uiDescription="相手とおじぎをするアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220008" level="1" uiDescription="相手と一緒に踊るアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220009" level="1" uiDescription="相手と楽しく拍手するアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220010" level="1" uiDescription="とてつもなく熱いコーヒーを飲み、びっくりします。" />
+	<key id="90220011" level="1" uiDescription="ケーキ帽子を被ったダッキーと一緒に踊ります。" />
+	<key id="90220012" level="1" uiDescription="相手と交互に地団太を踏むアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220013" level="1" uiDescription="相手と綱引きをするアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220014" level="1" uiDescription="相手と楽しく水鉄砲遊びをします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220015" level="1" uiDescription="相手をお姫様抱っこします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220016" level="1" uiDescription="相手と一緒にクリスマスツリーの前で温まります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220017" level="1" uiDescription="相手と一緒に赤提灯をつけて見物します。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220018" level="1" uiDescription="相手と一緒にチョコレートを食べさせ合うアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220019" level="1" uiDescription="相手と一緒に涙を流しながらキャンディを食べるアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220020" level="1" uiDescription="相手と一緒に幸せな顔でキャンディを食べるアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220021" level="1" uiDescription="巨大な卵を見つけて驚くアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220022" level="1" uiDescription="相手と一緒にお出かけするアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220023" level="1" uiDescription="相手と一緒にぐるぐる回りながら拍手を打つアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220024" level="1" uiDescription="相手と一緒にメリーゴーランドに乗るアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220025" level="1" uiDescription="相手と一緒にビーチバレーをするアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220026" level="1" uiDescription="相手とフラダンスを踊るアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220027" level="1" uiDescription="相手と美しい月の下でアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220028" level="1" uiDescription="相手と一緒に秋のキャンプ場で楽しい一時を過ごします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220029" level="1" uiDescription="相手と一緒にキャンディのおねだりします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220030" level="1" uiDescription="KORSKILLDESCRIPTION_90220030_1_UIDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="90220031" level="1" uiDescription="相手と一緒に楽しいショッピングアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220032" level="1" uiDescription="KORSKILLDESCRIPTION_90220032_1_UIDESCRIPTION:[F]Wedding" feature="Wedding" />
+	<key id="90220033" level="1" uiDescription="相手と一緒に初雪アクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220034" level="1" uiDescription="相手と一緒に天灯飛ばしアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220035" level="1" uiDescription="相手と一緒にテレビ視聴中アクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="99910001" level="1" uiDescription="突進して対象の前の敵を強く押しのけます。" />
+	<key id="99910002" level="1" uiDescription="頭で敵を強打します。" />
+	<key id="99910021" level="1" uiDescription="炎球を隣接する敵に投げます。" />
+	<key id="99910031" level="1" uiDescription="A" />
+	<key id="99910032" level="1" uiDescription="B" />
+	<key id="99910033" level="1" uiDescription="Bスプラッシュ" />
+	<key id="99910041" level="1" uiDescription="拳を振るい、敵を攻撃します。" />
+	<key id="99910042" level="1" uiDescription="ワンツーパンチを飛ばし、敵を攻撃します。" />
+	<key id="99910043" level="1" uiDescription="地面を強く叩きつけ、周辺に打撃を加えます。" />
+	<key id="99910051" level="1" uiDescription="前方にジャンプして、敵をハンマーで叩きつけます。" />
+	<key id="99910052" level="1" uiDescription="強くハンマーを振り上げ、前方の敵に叩き下ろします。" />
+	<key id="99910053" level="1" uiDescription="ハンマーを持って素早く回転し、周辺の敵を攻撃します。" />
+	<key id="99910061" level="1" uiDescription="前方にジャンプして、敵を叩きつけます。" />
+	<key id="99910062" level="1" uiDescription="その場で高く飛び上がり、地面を強打します。" />
+	<key id="99910071" level="1" uiDescription="エレクトリックショットを素早く5発放ちます。" />
+	<key id="99910072" level="1" uiDescription="エレクトリックショットを素早く5発放ちます。" />
+	<key id="99910073" level="1" uiDescription="エネルギーをためて正面の敵に向けてレーザーを発射します。" />
+	<key id="99910074" level="1" uiDescription="ブースターを使用して前方を素早く駆け抜け、敵を攻撃します。" />
+	<key id="99910075" level="1" uiDescription="両腕を合わせてエレクトリックショットを素早く乱射します。" />
+	<key id="99910076" level="1" uiDescription="周辺の敵にエレクトリックショットを乱射します。" />
+	<key id="99910081" level="1" uiDescription="魔力弾を発射します。" />
+	<key id="99910091" level="1" uiDescription="大剣をゆっくりと振り回します。" feature="VIPDungeon" />
+	<key id="99910092" level="1" uiDescription="前方に転がった後に大剣を打ち下ろします。" feature="VIPDungeon" />
+	<key id="99910101" level="1" uiDescription="剣で斬りと刺し攻撃を行います。" feature="VIPDungeon" />
+	<key id="99910102" level="1" uiDescription="前方に剣気を放って攻撃します。" feature="VIPDungeon" />
+	<key id="99910111" level="1" uiDescription="矢を1発、素早く放ちます。" feature="VIPDungeon" />
+	<key id="99910112" level="1" uiDescription="数発の矢を扇形に放ちます。" feature="VIPDungeon" />
+	<key id="99910121" level="1" uiDescription="泡の弾を速射します。" feature="PirateOcean" />
+	<key id="99910122" level="1" uiDescription="強力な水鉄砲を発射します。" feature="PirateOcean" />
+	<key id="99910131" level="1" uiDescription="20mm弾丸を3回発射します。" feature="DarkCastle" />
+	<key id="99910132" level="1" uiDescription="掘削機を先頭にして突進します。" feature="DarkCastle" />
+	<key id="99910133" level="1" uiDescription="強力な105mm砲弾を発射します。" feature="DarkCastle" />
+	<key id="99910141" level="1" uiDescription="前方に突撃します。" feature="DarkCastle" />
+	<key id="99910142" level="1" uiDescription="HPを素早く回復します。" feature="DarkCastle" />
+	<key id="99910151" level="1" uiDescription="とても素早く矢を1発発射します。" feature="DarkCastle" />
+	<key id="99910152" level="1" uiDescription="数発の矢を扇形に放ちます。" feature="DarkCastle" />
+	<key id="99910161" level="1" uiDescription="両腕を合わせてエレクトリックショットを素早く乱射します。" feature="DarkCastle" />
+	<key id="99910162" level="1" uiDescription="エネルギーをためて正面の敵に向けてレーザーを発射します。" feature="DarkCastle" />
+	<key id="99910163" level="1" uiDescription="ブースターを使用して前方を素早く駆け抜け、敵を攻撃します。" feature="DarkCastle" />
+	<key id="99910164" level="1" uiDescription="エネルギーを集めて正面にいる敵に強力なレーザーを発射します。" feature="DarkCastle" />
+	<key id="99910171" level="1" uiDescription="手裏剣を素早く2発投擲します。" feature="DarkCastle" />
+	<key id="99910172" level="1" uiDescription="前方に手榴弾を投擲します。" feature="DarkCastle" />
+	<key id="99910173" level="1" uiDescription="前方にとても素早く移動します。" feature="DarkCastle" />
+	<key id="99910181" level="1" uiDescription="剣で斬りと刺し攻撃を行います。" feature="DarkCastle" />
+	<key id="99910182" level="1" uiDescription="前方に剣気を放って攻撃します。" feature="DarkCastle" />
+	<key id="99910191" level="1" uiDescription="矢を1発、素早く放ちます。" feature="DarkCastle" />
+	<key id="99910192" level="1" uiDescription="数発の矢を扇形に放ちます。" feature="DarkCastle" />
+	<key id="99910193" level="1" uiDescription="火山型矢を空に打ち上げ、雨のように降らせます。" feature="DarkCastle" />
+	<key id="99910241" level="1" uiDescription="接近して卵を盗みます。" feature="GuildRaid01" />
+	<key id="99910301" level="1" uiDescription="素早く剣を振ります。" feature="FameContents_EP1_02" />
+	<key id="99910302" level="1" uiDescription="剣を出して2回振り回した後、鞘に納めます。" feature="FameContents_EP1_02" />
+	<key id="99910303" level="1" uiDescription="風を切るように対象に向かって突進します。" feature="FameContents_EP1_02" />
+	<key id="99910304" level="1" uiDescription="素早く剣を振ります。" feature="FameContents_EP1_02" />
+	<key id="99910305" level="1" uiDescription="剣を出して2回振り回した後、鞘に納めます。" feature="FameContents_EP1_02" />
+	<key id="99910306" level="1" uiDescription="風を切るように対象に向かって突進します。" feature="FameContents_EP1_02" />
+	<key id="99910307" level="1" uiDescription="対象の足元に熱気を噴出する地震を起こします。" feature="FameContents_EP1_02" />
+	<key id="99910351" level="1" uiDescription="ナマケキノコになったあなたにできることは、怠けることだけです。" feature="SurvivalContentsTeam" />
+	<key id="99910371" level="1" uiDescription="KORSKILLDESCRIPTION_99910371_1_UIDESCRIPTION:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="99910372" level="1" uiDescription="前方に向かって熱い炎を噴き出します。" feature="Kritias_2018_12" />
+	<key id="99910401" level="1" uiDescription="KORSKILLDESCRIPTION_99910401_1_UIDESCRIPTION:[F]Gigantica01" feature="Gigantica01" />
+	<key id="99910402" level="1" uiDescription="KORSKILLDESCRIPTION_99910402_1_UIDESCRIPTION:[F]Gigantica01" feature="Gigantica01" />
+	<key id="99910403" level="1" uiDescription="KORSKILLDESCRIPTION_99910403_1_UIDESCRIPTION:[F]Gigantica01" feature="Gigantica01" />
+	<key id="99910501" level="1" uiDescription="KORSKILLDESCRIPTION_99910501_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99910502" level="1" uiDescription="KORSKILLDESCRIPTION_99910502_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99910503" level="1" uiDescription="KORSKILLDESCRIPTION_99910503_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99910504" level="1" uiDescription="KORSKILLDESCRIPTION_99910504_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99910510" level="1" uiDescription="KORSKILLDESCRIPTION_99910510_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
+	<key id="99910511" level="1" uiDescription="KORSKILLDESCRIPTION_99910511_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
+	<key id="99910512" level="1" uiDescription="KORSKILLDESCRIPTION_99910512_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
+	<key id="99910513" level="1" uiDescription="KORSKILLDESCRIPTION_99910513_1_UIDESCRIPTION:[F]Kritias_Turka02" feature="Kritias_Turka02" />
+	<key id="99911501" level="1" uiDescription="KORSKILLDESCRIPTION_99911501_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99911502" level="1" uiDescription="KORSKILLDESCRIPTION_99911502_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99911503" level="1" uiDescription="KORSKILLDESCRIPTION_99911503_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99911504" level="1" uiDescription="KORSKILLDESCRIPTION_99911504_1_UIDESCRIPTION:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="120010001" level="1" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;552%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="2" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;599%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="3" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;646%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="4" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;669%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="5" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;716%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="6" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;787%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="7" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;857%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="8" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;939%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="9" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;1057%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010001" level="10" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;1174%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
+	<key id="120010002" level="1" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;158%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;158%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="2" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;171%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;171%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="3" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;184%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;184%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="4" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;191%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;191%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="5" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;204%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;204%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="6" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;224%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;224%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="7" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;244%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;244%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="8" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;268%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;268%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="9" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;301%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;301%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010002" level="10" uiDescription="前方9mに強力な電流エネルギー1発を発射する。攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;335%&lt;/font&gt;のダメージを受け、20秒間感電状態になり、追加で1秒ごとに&lt;font color=&apos;#00aaef&apos;&gt;335%&lt;/font&gt;のダメージを受ける。" feature="Lapenshard01" />
+	<key id="120010003" level="1" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;36&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="2" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;42&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="3" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;54&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="4" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;66&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="5" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;78&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="6" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;96&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="7" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;120&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="8" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;144&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="9" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;174&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010003" level="10" uiDescription="10秒間物理攻撃力と魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;216&lt;/font&gt;増加し、防御力が50%減少する。" feature="Lapenshard01" />
+	<key id="120010004" level="1" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;162%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;243%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;408%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;12000&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="2" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;168%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;252%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;420%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;14400&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="3" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;174%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;261%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;432%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;16800&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="4" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;180%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;270%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;450%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;19200&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="5" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;186%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;282%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;468%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;21600&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="6" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;195%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;294%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;489%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;24000&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="7" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;204%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;306%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;510%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;26400&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="8" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;210%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;318%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;531%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;28800&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="9" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;225%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;339%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;567%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;31200&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010004" level="10" uiDescription="前方9m内の敵1体に剣を飛ばし、3秒間攻撃速度と移動速度を2%増加させる。飛ばされた剣は対象と衝突した後、半径1.5mに3回に渡って&lt;font color=&apos;#00aaef&apos;&gt;243%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;366%&lt;/font&gt;、&lt;font color=&apos;#00aaef&apos;&gt;612%&lt;/font&gt;のダメージを与える。エメラルドプリズンでは2倍のダメージを与え、&lt;font color=&apos;#00aaef&apos;&gt;36000&lt;/font&gt;のスキルブレイク効果が発動する。時間の剣は20回使用でき、クールタイムが終わるたびに使用可能回数を1回回復する。ラペンシャードはラペンシャードのレベルを超える武器アイテムと使用する場合、本領を発揮しない。" feature="Lapenshard01" />
+	<key id="120010010" level="1" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;457%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;69%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="2" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;548%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;82%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="3" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;685%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;103%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="4" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;822%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;123%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="5" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1005%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;151%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="6" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1233%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;185%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="7" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1507%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;226%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="8" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1827%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;274%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="9" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;2238%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;336%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010010" level="10" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ブリーチェが現れ、前方にいる敵に月光斬りを使用する。月光斬り攻撃を受けた対象は一定時間出血状態になり、ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;2741%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;出血&lt;/font&gt;：定期的に&lt;font color=&apos;#00aaef&apos;&gt;411%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="1" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1027%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;154%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="2" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1233%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;185%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="3" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1541%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;231%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="4" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;1850%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;277%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="5" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;2261%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;339%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="6" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;2775%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;416%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="7" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;3391%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;508%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="8" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;4111%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;616%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="9" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;5036%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;755%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
+	<key id="120010020" level="10" uiDescription="&lt;font color=&apos;#ffffff&apos;&gt;ギガンティカが前方に強力なレーザー攻撃を使用する。レーザー攻撃を受けた対象は一定時間感電状態になり、ダメージを受けるたびに一定確率で追加ダメージを受ける。ラペンシャードはラペンシャードのレベルを超える装備アイテムと使用する場合、本領を発揮しない。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n攻撃が命中すると&lt;font color=&apos;#00aaef&apos;&gt;6166%&lt;/font&gt;のダメージを与える。\n攻撃が命中すると10秒間&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;感電&lt;/font&gt;：ダメージを受ける時、一定確率で&lt;font color=&apos;#00aaef&apos;&gt;925%&lt;/font&gt;のダメージを与える。&lt;/font&gt;" feature="Lapenshard01" />
 </ms2>

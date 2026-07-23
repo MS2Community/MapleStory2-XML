@@ -1,131 +1,83 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" locale="KR" />
-	<key skillID="90200022" default="1" reserved="정중|정중한 인사|허리인사" locale="KR" />
-	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" locale="KR" />
-	<key skillID="90200023" default="1" reserved="놀람|헉|헐" locale="KR" />
-	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" locale="KR" />
-	<key skillID="90200003" default="1" reserved="삐죽|불만" locale="KR" />
-	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" locale="KR" />
-	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" locale="KR" />
-	<key skillID="90200006" default="1" reserved="좋아|신나|행복" locale="KR" />
-	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" locale="KR" />
-	<key skillID="90200041" default="1" reserved="앉기" locale="KR" />
-	<key skillID="90200042" default="1" reserved="의자앉기" locale="KR" />
-	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" locale="CN" />
-	<key skillID="90200022" default="1" reserved="정중|정중한 인사|허리인사" locale="CN" />
-	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" locale="CN" />
-	<key skillID="90200023" default="1" reserved="놀람|헉|헐" locale="CN" />
-	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" locale="CN" />
-	<key skillID="90200003" default="1" reserved="삐죽|불만" locale="CN" />
-	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" locale="CN" />
-	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" locale="CN" />
-	<key skillID="90200006" default="1" reserved="좋아|신나|행복" locale="CN" />
-	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" locale="CN" />
-	<key skillID="90200041" default="1" reserved="앉기" locale="CN" />
-	<key skillID="90200042" default="1" reserved="의자앉기" locale="CN" />
-	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" locale="NA" />
-	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" locale="NA" />
-	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" locale="NA" />
-	<key skillID="90200041" default="1" reserved="앉기" locale="NA" />
-	<key skillID="90200042" default="1" reserved="의자앉기" locale="NA" />
-	<key skillID="90200057" default="1" reserved="부채|부채춤|신이내린부채춤" locale="NA" />
-	<key skillID="90200043" default="1" reserved="아하|깨달음|그렇군" locale="NA" />
-	<key skillID="90200022" default="1" reserved="정중|정중한 인사|허리인사" locale="NA" />
-	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" locale="NA" />
-	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" locale="NA" />
-	<key skillID="90200006" default="1" reserved="좋아|신나|행복" locale="NA" />
-	<key skillID="90200003" default="1" reserved="삐죽|불만" locale="NA" />
-	<key skillID="90200092" default="1" reserved="하이파이브" locale="NA" />
-	<key skillID="90200077" default="1" reserved="월척|대어|대어낚시" locale="NA" />
-	<key skillID="90200073" default="1" reserved="부자|부자의탄생" locale="NA" />
-	<key skillID="90200023" default="1" reserved="놀람|헉|헐" locale="NA" />
-	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" locale="NA" />
-	<key skillID="90200019" default="1" reserved="가위" locale="NA" />
-	<key skillID="90200020" default="1" reserved="바위" locale="NA" />
-	<key skillID="90200021" default="1" reserved="보자기" locale="NA" />
-	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" locale="JP" />
-	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" locale="JP" />
-	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" locale="JP" />
-	<key skillID="90200041" default="1" reserved="앉기" locale="JP" />
-	<key skillID="90200042" default="1" reserved="의자앉기" locale="JP" />
-	<key skillID="90200057" default="1" reserved="부채|부채춤|신이내린부채춤" locale="JP" />
-	<key skillID="90200043" default="1" reserved="아하|깨달음|그렇군" locale="JP" />
-	<key skillID="90200022" default="1" reserved="정중|정중한 인사|허리인사" locale="JP" />
-	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" locale="JP" />
-	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" locale="JP" />
-	<key skillID="90200006" default="1" reserved="좋아|신나|행복" locale="JP" />
-	<key skillID="90200003" default="1" reserved="삐죽|불만" locale="JP" />
-	<key skillID="90200092" default="1" reserved="하이파이브" locale="JP" />
-	<key skillID="90200077" default="1" reserved="월척|대어|대어낚시" locale="JP" />
-	<key skillID="90200073" default="1" reserved="부자|부자의탄생" locale="JP" />
-	<key skillID="90200023" default="1" reserved="놀람|헉|헐" locale="JP" />
-	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" locale="JP" />
-	<key skillID="90200019" default="1" reserved="가위" locale="JP" />
-	<key skillID="90200020" default="1" reserved="바위" locale="JP" />
-	<key skillID="90200021" default="1" reserved="보자기" locale="JP" />
-	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" locale="TH" />
-	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" locale="TH" />
-	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" locale="TH" />
-	<key skillID="90200041" default="1" reserved="앉기" locale="TH" />
-	<key skillID="90200042" default="1" reserved="의자앉기" locale="TH" />
-	<key skillID="90200057" default="1" reserved="부채|부채춤|신이내린부채춤" locale="TH" />
-	<key skillID="90200043" default="1" reserved="아하|깨달음|그렇군" locale="TH" />
-	<key skillID="90200022" default="1" reserved="정중|정중한 인사|허리인사" locale="TH" />
-	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" locale="TH" />
-	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" locale="TH" />
-	<key skillID="90200006" default="1" reserved="좋아|신나|행복" locale="TH" />
-	<key skillID="90200003" default="1" reserved="삐죽|불만" locale="TH" />
-	<key skillID="90200092" default="1" reserved="하이파이브" locale="TH" />
-	<key skillID="90200077" default="1" reserved="월척|대어|대어낚시" locale="TH" />
-	<key skillID="90200073" default="1" reserved="부자|부자의탄생" locale="TH" />
-	<key skillID="90200023" default="1" reserved="놀람|헉|헐" locale="TH" />
-	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" locale="TH" />
-	<key skillID="90200019" default="1" reserved="가위" locale="TH" />
-	<key skillID="90200020" default="1" reserved="바위" locale="TH" />
-	<key skillID="90200021" default="1" reserved="보자기" locale="TH" />
-	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" locale="TW" />
-	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" locale="TW" />
-	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" locale="TW" />
-	<key skillID="90200041" default="1" reserved="앉기" locale="TW" />
-	<key skillID="90200042" default="1" reserved="의자앉기" locale="TW" />
-	<key skillID="90200057" default="1" reserved="부채|부채춤|신이내린부채춤" locale="TW" />
-	<key skillID="90200043" default="1" reserved="아하|깨달음|그렇군" locale="TW" />
-	<key skillID="90200022" default="1" reserved="정중|정중한 인사|허리인사" locale="TW" />
-	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" locale="TW" />
-	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" locale="TW" />
-	<key skillID="90200006" default="1" reserved="좋아|신나|행복" locale="TW" />
-	<key skillID="90200003" default="1" reserved="삐죽|불만" locale="TW" />
-	<key skillID="90200092" default="1" reserved="하이파이브" locale="TW" />
-	<key skillID="90200077" default="1" reserved="월척|대어|대어낚시" locale="TW" />
-	<key skillID="90200073" default="1" reserved="부자|부자의탄생" locale="TW" />
-	<key skillID="90200023" default="1" reserved="놀람|헉|헐" locale="TW" />
-	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" locale="TW" />
-	<key skillID="90200019" default="1" reserved="가위" locale="TW" />
-	<key skillID="90200020" default="1" reserved="바위" locale="TW" />
-	<key skillID="90200021" default="1" reserved="보자기" locale="TW" />
-	<key skillID="90200027" default="0" reserved="손키스" />
+	<key skillID="90200001" default="1" reserved="화나|화|열받아|분노|짜증" />
+	<key skillID="90200001" default="1" reserved="angry|fume|rage|mad|tantrum" locale="NA" />
+	<key skillID="90200001" default="1" reserved="怒った|ぷんぷん|ムカつく|腹立つ|イライラ" locale="JP" />
+	<key skillID="90200001" default="1" reserved="发怒" locale="CN" />
 	<key skillID="90200002" default="0" reserved="힘|기합|기" />
+	<key skillID="90200003" default="1" reserved="삐죽|불만" />
+	<key skillID="90200003" default="1" reserved="pout|upset" locale="NA" />
+	<key skillID="90200003" default="1" reserved="ぷんぷん|怒りん坊" locale="JP" />
+	<key skillID="90200003" default="1" reserved="噘嘴" locale="CN" />
+	<key skillID="90200004" default="1" reserved="엉큼|음흉|히히" />
+	<key skillID="90200004" default="1" reserved="sly|sneaky|scheme" locale="NA" />
+	<key skillID="90200004" default="1" reserved="スケベ|むふふ|ひひっ" locale="JP" />
+	<key skillID="90200004" default="1" reserved="腹黑" locale="CN" />
+	<key skillID="90200005" default="1" reserved="실망|에휴|머리야" />
+	<key skillID="90200005" default="1" reserved="dejected|sigh|smh" locale="NA" />
+	<key skillID="90200005" default="1" reserved="がっかり|ふう|ストレス" locale="JP" />
+	<key skillID="90200005" default="1" reserved="失望" locale="CN" />
+	<key skillID="90200006" default="1" reserved="좋아|신나|행복" />
+	<key skillID="90200006" default="1" reserved="like|excited|happy|thumbsup" locale="NA" />
+	<key skillID="90200006" default="1" reserved="いいね|楽しい|幸せ" locale="JP" />
+	<key skillID="90200006" default="1" reserved="赞" locale="CN" />
 	<key skillID="90200007" default="0" reserved="몰라|모르겠어|모름" />
 	<key skillID="90200008" default="0" reserved="자랑|멋진포즈|짠" />
 	<key skillID="90200009" default="0" reserved="좌절|안돼|이럴수가" />
-	<key skillID="90200017" default="0" reserved="파라|파라파라|파라파라댄스" />
-	<key skillID="90200030" default="0" reserved="부비|부비부비|부비부비댄스" />
-	<key skillID="90200029" default="0" reserved="탭|스윙|탭댄스" />
 	<key skillID="90200010" default="0" reserved="꽃|꽃받침|귀여운척" />
+	<key skillID="90200011" default="1" reserved="ㅎㅇ|안녕|하이|헬로" />
+	<key skillID="90200011" default="1" reserved="hi|hello|greet|wave" locale="NA" />
+	<key skillID="90200011" default="1" reserved="ハロー|こんにちは|ハーイ|やっほー" locale="JP" />
+	<key skillID="90200011" default="1" reserved="你好" locale="CN" />
 	<key skillID="90200012" default="0" reserved="ㅋ|비웃음|비열|키키" />
+	<key skillID="90200013" default="0" reserved="춤|막춤|댄스" />
 	<key skillID="90200014" default="0" reserved="손들어|무릎꿇어" />
 	<key skillID="90200015" default="0" reserved="엎드려|엎드려뻗쳐|벌서기" />
 	<key skillID="90200016" default="0" reserved="잠|피곤|수면|눕기" />
+	<key skillID="90200017" default="0" reserved="파라|파라파라|파라파라댄스" />
 	<key skillID="90200018" default="0" reserved="떼쓰기|떼|왜" />
 	<key skillID="90200019" default="0" reserved="가위" />
+	<key skillID="90200019" default="1" reserved="scissors" locale="NA" />
+	<key skillID="90200019" default="1" reserved="チョキ" locale="JP" />
 	<key skillID="90200020" default="0" reserved="바위" />
+	<key skillID="90200020" default="1" reserved="rock" locale="NA" />
+	<key skillID="90200020" default="1" reserved="グー" locale="JP" />
 	<key skillID="90200021" default="0" reserved="보자기" />
+	<key skillID="90200021" default="1" reserved="paper" locale="NA" />
+	<key skillID="90200021" default="1" reserved="パー" locale="JP" />
+	<key skillID="90200022" default="1" reserved="정중|정중한인사|허리인사" />
+	<key skillID="90200022" default="1" reserved="respect|bow|salute" locale="NA" />
+	<key skillID="90200022" default="1" reserved="丁寧|丁寧な挨拶|ぺこり" locale="JP" />
+	<key skillID="90200022" default="1" reserved="鞠躬" locale="CN" />
+	<key skillID="90200023" default="1" reserved="놀람|헉|헐" />
+	<key skillID="90200023" default="1" reserved="surprised|gasp|shocked" locale="NA" />
+	<key skillID="90200023" default="1" reserved="驚く|えっ|がーん" locale="JP" />
+	<key skillID="90200023" default="1" reserved="吃惊" locale="CN" />
+	<key skillID="90200024" default="1" reserved="거절|괜찮아|싫어" />
+	<key skillID="90200024" default="1" reserved="nope|donotwant|holdon" locale="NA" />
+	<key skillID="90200024" default="1" reserved="拒否|大丈夫|いやだ" locale="JP" />
+	<key skillID="90200024" default="1" reserved="拒绝" locale="CN" />
 	<key skillID="90200025" default="0" reserved="도발|까딱|이리와" />
 	<key skillID="90200026" default="0" reserved="흥|삐짐|시무룩" />
-	<key skillID="90200013" default="0" reserved="춤|막춤|댄스" />
+	<key skillID="90200027" default="0" reserved="손키스" />
 	<key skillID="90200028" default="0" reserved="쪽|키스|뽀뽀|입맞춤" />
+	<key skillID="90200029" default="0" reserved="탭|스윙|탭댄스" />
+	<key skillID="90200030" default="0" reserved="부비|부비부비|부비부비댄스" />
+	<key skillID="90200031" default="1" reserved="흑|울기|엉엉|흑흑" />
+	<key skillID="90200031" default="1" reserved="sob|cry|bawl|sad" locale="NA" />
+	<key skillID="90200031" default="1" reserved="めそめそ|泣く|わんわん|しくしく" locale="JP" />
+	<key skillID="90200031" default="1" reserved="哭" locale="CN" />
+	<key skillID="90200041" default="1" reserved="앉기" />
+	<key skillID="90200041" default="1" reserved="sit" locale="NA" />
+	<key skillID="90200041" default="1" reserved="座る" locale="JP" />
+	<key skillID="90200041" default="1" reserved="坐下" locale="CN" />
+	<key skillID="90200042" default="1" reserved="의자앉기" />
+	<key skillID="90200042" default="1" reserved="chair|sitchair|sitledge|ledge" locale="NA" />
+	<key skillID="90200042" default="1" reserved="椅子に座る" locale="JP" />
+	<key skillID="90200042" default="1" reserved="坐到椅子上" locale="CN" />
 	<key skillID="90200043" default="0" reserved="아하|깨달음|그렇군" />
+	<key skillID="90200043" default="1" reserved="aha|epiphany|right" locale="NA" />
+	<key skillID="90200043" default="1" reserved="なるほど|悟り|そうなのか" locale="JP" />
 	<key skillID="90200044" default="0" reserved="흠|고민|어쩌지" />
 	<key skillID="90200045" default="0" reserved="미워|짜증나" />
 	<key skillID="90200046" default="0" reserved="흐느적|물결|흐느적댄스" />
@@ -140,6 +92,8 @@
 	<key skillID="90200055" default="0" reserved="으랏차차|으랏차차댄스" />
 	<key skillID="90200056" default="0" reserved="찰랑|찰랑찰랑|찰랑찰랑댄스" />
 	<key skillID="90200057" default="0" reserved="부채|부채춤|신이내린부채춤" />
+	<key skillID="90200057" default="1" reserved="fan|fandance" locale="NA" />
+	<key skillID="90200057" default="1" reserved="扇子|扇子踊り|神がかった扇子踊り" locale="JP" />
 	<key skillID="90200058" default="0" reserved="꿀렁|꿀렁꿀렁|꿀렁꿀렁댄스" />
 	<key skillID="90200059" default="0" reserved="GM마네킹" />
 	<key skillID="90200060" default="0" reserved="비보잉|윈드밀|비보잉윈드밀" />
@@ -156,10 +110,14 @@
 	<key skillID="90200071" default="0" reserved="눈오는날" />
 	<key skillID="90200072" default="0" reserved="황금용상" />
 	<key skillID="90200073" default="0" reserved="부자|부자의탄생" />
+	<key skillID="90200073" default="1" reserved="rich|makeitrain" locale="NA" />
+	<key skillID="90200073" default="1" reserved="お金持ち|お金持ちの誕生" locale="JP" />
 	<key skillID="90200074" default="0" reserved="바비키스|바비랑두근두근" />
 	<key skillID="90200075" default="0" reserved="루비키스|루비랑콩닥콩닥" />
 	<key skillID="90200076" default="0" reserved="고백|수줍은고백" />
 	<key skillID="90200077" default="0" reserved="월척|대어|대어낚시" />
+	<key skillID="90200077" default="1" reserved="prizefish|largefish|fish" locale="NA" />
+	<key skillID="90200077" default="1" reserved="大物|大魚|大魚釣り" locale="JP" />
 	<key skillID="90200078" default="0" reserved="골두스|교장선생님" />
 	<key skillID="90200079" default="0" reserved="미엘|교생선생님" />
 	<key skillID="90200080" default="0" reserved="벨마|도덕선생님" />
@@ -175,6 +133,8 @@
 	<key skillID="90200090" default="0" reserved="생일|생축|생일축하해" />
 	<key skillID="90200091" default="0" reserved="심열용상" />
 	<key skillID="90200092" default="0" reserved="하이파이브" />
+	<key skillID="90200092" default="1" reserved="highfive|hifive|hf" locale="NA" />
+	<key skillID="90200092" default="1" reserved="ハイタッチ" locale="JP" />
 	<key skillID="90200093" default="0" reserved="폴짝댄스|폴짝폴짝댄스" />
 	<key skillID="90200094" default="0" reserved="레이|레이댄스" />
 	<key skillID="90200095" default="0" reserved="절구|절구찧기|쿵덕쿵덕" />
@@ -199,6 +159,10 @@
 	<key skillID="90200114" default="0" reserved="판다축하|판다도1주년축하해" feature="WorldChampionMushroom" />
 	<key skillID="90200115" default="0" reserved="슈기슈기|슈기슈기댄스" feature="Event" />
 	<key skillID="90200116" default="0" reserved="깔보기|넌안돼|훗" />
+	<key skillID="90200117" default="0" reserved="버섯뿌리기" />
+	<key skillID="90200117" default="0" reserved="KORDYNAMICACTION_90200117_RESERVED:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key skillID="90200118" default="0" reserved="푹신푹신나태버섯" />
+	<key skillID="90200118" default="0" reserved="KORDYNAMICACTION_90200118_RESERVED:[F]SurvivalContents03" feature="SurvivalContents03" />
 	<key skillID="90200119" default="0" reserved="인형극" />
 	<key skillID="90200120" default="0" reserved="단풍|단풍이야기" />
 	<key skillID="90200121" default="0" reserved="상어낚시|상어낚시성공" />
@@ -221,11 +185,67 @@
 	<key skillID="90200138" default="0" reserved="손을잡고빙글빙글" />
 	<key skillID="90200139" default="0" reserved="마주보고빙글빙글" />
 	<key skillID="90200140" default="0" reserved="우주공간" />
-	<key skillID="90200141" default="0" reserved="OBT|OBT축하|OBT축하해" feature="Event" locale="JP" />
+	<key skillID="90200141" default="0" reserved="OBT|OBT축하|OBT축하해" feature="Event" />
+	<key skillID="90200141" default="0" reserved="OBT|OBTおめ|OBTおめでとう" feature="Event" locale="JP" />
 	<key skillID="90200142" default="0" reserved="나를위한투자|스타일링" />
 	<key skillID="90200143" default="0" reserved="디제잉" />
 	<key skillID="90200144" default="0" reserved="해변의낭만" />
 	<key skillID="90200145" default="0" reserved="하나둘셋준비운동" />
+	<key skillID="90200146" default="0" reserved="명상" />
+	<key skillID="90200147" default="0" reserved="블랙빈|말랑블랙빈" />
+	<key skillID="90200148" default="0" reserved="파닥파닥|파닥파닥댄스" />
+	<key skillID="90200149" default="0" reserved="죽지않아|죽은척하기|마비노기죽은척|마비노기죽기" />
+	<key skillID="90200150" default="0" reserved="마비노기춤1|까딱까딱댄스" />
+	<key skillID="90200151" default="0" reserved="마비노기춤2|손들어댄스" />
+	<key skillID="90200152" default="0" reserved="마비노기춤3|왔다갔다댄스" />
+	<key skillID="90200153" default="0" reserved="OK댄스" />
+	<key skillID="90200154" default="0" reserved="브이브이|비바|4주년춤" />
+	<key skillID="90200155" default="0" reserved="경례" />
+	<key skillID="90200156" default="0" reserved="거만한손|거만한인사" />
+	<key skillID="90200157" default="0" reserved="느끼" />
+	<key skillID="90200158" default="0" reserved="맨땅헤엄" />
+	<key skillID="90200159" default="0" reserved="물고기잡기" />
+	<key skillID="90200160" default="0" reserved="찌르기댄스|찌르고찌르고" />
+	<key skillID="90200161" default="0" reserved="옆눕기" />
+	<key skillID="90200162" default="0" reserved="쑥쑥" />
+	<key skillID="90200163" default="0" reserved="연주" />
+	<key skillID="90200164" default="0" reserved="호이|호이호이" />
+	<key skillID="90200165" default="0" reserved="야르|야르야르" />
+	<key skillID="90200166" default="0" reserved="앉아서똑딱|똑딱똑딱1" />
+	<key skillID="90200167" default="0" reserved="서서똑딱|똑딱똑딱2" />
+	<key skillID="90200168" default="0" reserved="넙죽|넙죽절" />
+	<key skillID="90200169" default="0" reserved="싹싹|싹싹빌기" />
+	<key skillID="90200170" default="0" reserved="이글루|이글루쾅" />
+	<key skillID="90200171" default="0" reserved="불멍|모닥불멍" />
+	<key skillID="90200172" default="0" reserved="램프지니" />
+	<key skillID="90200173" default="0" reserved="램프양" />
+	<key skillID="90200174" default="0" reserved="펑펑울기" />
+	<key skillID="90200175" default="0" reserved="펍핑|펍핑댄스" />
+	<key skillID="90200176" default="0" reserved="블루루크" />
+	<key skillID="90200177" default="0" reserved="사방|사방치기" />
+	<key skillID="90200178" default="0" reserved="제기|제기차기" />
+	<key skillID="90200179" default="0" reserved="팽이|팽이치기" />
+	<key skillID="90200180" default="0" reserved="붉은장미극장|극장의주인공" feature="22_04" />
+	<key skillID="90200181" default="0" reserved="콩콩댄스|콩콩" />
+	<key skillID="90200182" default="0" reserved="돋보기" />
+	<key skillID="90200183" default="0" reserved="감성캠핑쓸쓸" feature="22_04" />
+	<key skillID="90200184" default="0" reserved="감성캠핑편안" feature="22_04" />
+	<key skillID="90200185" default="0" reserved="피겨점프" feature="22_02" />
+	<key skillID="90200186" default="0" reserved="날아볼까" feature="22_02" />
+	<key skillID="90200187" default="0" reserved="피자|피자만들기" feature="22_03" />
+	<key skillID="90200188" default="0" reserved="햄버거|햄버거만들기" feature="22_03" />
+	<key skillID="90200189" default="0" reserved="아장아장|아장아장댄스" feature="22_04" />
+	<key skillID="90200190" default="0" reserved="파란색큰깃발흔들기" />
+	<key skillID="90200191" default="0" reserved="흰색큰깃발흔들기" />
+	<key skillID="90200192" default="0" reserved="파란색작은깃발흔들기" />
+	<key skillID="90200193" default="0" reserved="흰색작은깃발흔들기" />
+	<key skillID="90200194" default="0" reserved="백기올려" />
+	<key skillID="90200195" default="0" reserved="청기올려" />
+	<key skillID="90200196" default="0" reserved="청기백기올려" />
+	<key skillID="90200197" default="0" reserved="쪼아춤" />
+	<key skillID="90200198" default="0" reserved="돌아서박수" />
+	<key skillID="90200199" default="0" reserved="서빙댄스" />
+	<key skillID="90200200" default="0" reserved="엉거주춤" />
 	<key skillID="90220001" default="0" reserved="" />
 	<key skillID="90220002" default="0" reserved="" />
 	<key skillID="90220003" default="0" reserved="" />
@@ -261,4 +281,7 @@
 	<key skillID="90220033" default="0" reserved="" />
 	<key skillID="90220034" default="0" reserved="" />
 	<key skillID="90220035" default="0" reserved="" />
+	<key skillID="90220036" default="0" reserved="" />
+	<key skillID="90220037" default="0" reserved="" />
+	<key skillID="90220038" default="0" reserved="" />
 </ms2>

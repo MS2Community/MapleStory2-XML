@@ -1,56 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="80000" name="&#xA;スカイフォートレスクエストを開始できます。&#xA;(！) アラートをご確認ください。" feature="FameContents" npc="안내원 나탈리" />
-  <key id="80010" name="隊員評価手続きを開始させていただきます！" feature="FameContents" npc="네이린" />
-  <key id="80020" name="偵察機作動、オールグリーン！ホログローブで出撃地域を選択してください！" feature="FameContents" npc="네이린" />
-  <key id="80022" name="葉っぱ1枚、作戦地域到着確認。作戦を遂行してください。" feature="FameContents" npc="네이린" />
-  <key id="80023" name="葉っぱ1枚？アハハッ！グリーンフッドはそんなコールサインを使うんだね？" feature="FameContents" npc="샤텐" />
-  <key id="80024" name="アルファ、ブラボー、チャーリーとかより分かりやすくて楽なんですよ…！" feature="FameContents" npc="네이린" />
-  <key id="80025" name="ラジャー！リマーチャーリー！" feature="FameContents" npc="샤텐" />
-  <key id="80030" name="&#xA;任務完了！&#xA;これから艦船に&#xA;復帰する方法を教えますね！" feature="FameContents" npc="네이린" />
-  <key id="80040" name="勢力別の評判現況を確認したいなら、矢印に沿ってクリックしてください。" feature="FameContents" npc="네이린" />
-  <key id="80050" name="ワールドマップを開いて現場の任務地域をチェックしてみな。" feature="FameContents" npc="샤텐" />
-  <key id="80051" name="さあ、そろそろダークウィンドの出番かな？" feature="FameContents" npc="샤텐" />
-  <key id="80060" name="グッドジョブ！もう艦船に復帰しな！" feature="FameContents" npc="샤텐" />
-  <key id="80080" name="矢印に従ってクリックしてみろ！" feature="FameContents" npc="콘대르" />
-  <key id="80081" name="おい、新入り！教えてやりたいことがあるからこっちに来い！" feature="FameContents" npc="콘대르" />
-  <key id="80090" name="&#xA;隊員評価について最終報告を受けた。&#xA;少し話し合おう。" feature="FameContents" npc="블리체" />
-  <key id="93000123" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" feature="FameContents" npc="블리체" />
-  <key id="93000124" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" feature="FameContents" npc="블리체" />
-  <key id="93000125" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" feature="FameContents" npc="블리체" />
-  <key id="93000126" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" feature="FameContents" npc="블리체" />
-  <key id="93000127" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" feature="FameContents" npc="블리체" />
-  <key id="93000158" name="スカイフォートレスに&#xA;&lt;font color=&quot;#ffd200&quot;&gt;アーマードチェキ&lt;/font&gt;が高速接近中！艦船の甲板へ着陸しようとしています！" feature="FameContents" npc="네이린" />
-  <key id="91000020" name="任務場所に送ってくれるなんて、&#xA;最近の若者は&#xA;苦労知らずだな！" feature="FameContents" npc="콘대르" />
-  <key id="91000022" name="おい、そこに行くついでにフレイのやつがちゃんと仕事してるか見てこい！あんな若造にエレヴ様を任せていいのか不安でな。" feature="FameContents" npc="콘대르" />
-  <key id="91000023" name="ねえ、着いた？そこに大きなアンテナとその隣にジェネレータがあるはずだよ。そこにUSBを差し込んでくれれば、後はこっちで対応するよ。" feature="FameContents" npc="샤텐" />
-  <key id="91000024" name="ブラックルービックスのやつら…。&#xA;ただでさえ忙しいのに&#xA;邪魔するなよ！&#xA;全員蹴散らしてやる。" feature="FameContents" npc="샤텐" />
-  <key id="91000026" name="気をつけて！暴走したロボットが暴れている。この地域の安全を確保して！" feature="FameContents" npc="샤텐" />
-  <key id="91000027" name="帳簿を確保したんですね！一旦艦船に復帰してください！&#xA;$MyPCName$さん！" feature="FameContents" npc="네이린" />
-  <key id="91000033" name="お疲れ様でした！&#xA;艦船でお待ちしてます！" feature="FameContents" npc="네이린" />
-  <key id="91000034" name="モンスターがまだかなり残っていますね。&#xA;僕が集中できるように、モンスターを片づけてください。" feature="FameContents" npc="메이슨" />
-  <key id="91000035" name="あっ、強い&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003781$&lt;/font&gt;の反応がありました。&#xA;お気をつけください！" feature="FameContents_EP1_02" npc="네이린" />
-  <key id="91000036" name="熱気に慣れるための訓練なんだけど、あまり無理はしないで！&#xA;めまいがしたら、すぐに艦船に復帰しな！" feature="FameContents_EP1_02" npc="샤텐" />
-  <key id="91000037" name="諦めるのか。情けないやつめ！殺せないというなら、ぶん殴ればいいじゃないか！何が無茶だってんだ…おい、ちょっと放せ…。" feature="FameContents_EP1_02" npc="콘대르" />
-  <key id="91000038" name="ふむ、&lt;font color=&quot;#ffd200&quot;&gt;例の武器&lt;/font&gt;を使うしかないな。&#xA;$MyPCName$、&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144$&lt;/font&gt;様とともに艦船に復帰するように。私と隊員たちは作戦室で待っている。" feature="FameContents_EP1_02" npc="블리체" />
-  <key id="20002326" name="&lt;font color=&quot;#ffd200&quot;&gt;セインツナイト&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="20002336" name="&lt;font color=&quot;#ffd200&quot;&gt;ハイプリースト&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="20002347" name="&lt;font color=&quot;#ffd200&quot;&gt;ハイパーヘビーガンナー&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="20002359" name="&lt;font color=&quot;#ffd200&quot;&gt;シャープレンジャー&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="20002369" name="&lt;font color=&quot;#ffd200&quot;&gt;アーケインルーンブレイダー&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="20002378" name="&lt;font color=&quot;#ffd200&quot;&gt;アルティメットストライカー&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="40002722" name="&lt;font color=&quot;#ffd200&quot;&gt;ファントムシーフ&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="40002732" name="&lt;font color=&quot;#ffd200&quot;&gt;シャドウアサシン&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="40002744" name="&lt;font color=&quot;#ffd200&quot;&gt;ブラッディバーサーカー&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="40002754" name="&lt;font color=&quot;#ffd200&quot;&gt;マジカルウィザード&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="40002766" name="&lt;font color=&quot;#ffd200&quot;&gt;ミスティックソウルバインダー&lt;/font&gt;に転職できます。" feature="LapentaFrontierQuest" npc="안내원 나탈리" />
-  <key id="40002788" name="STRINGSIDEPOPUPSCRIPT_40002788_NAME:[F]JobChange_02" feature="JobChange_02" npc="안내원 나탈리" />
-  <key id="50101050" name="STRINGSIDEPOPUPSCRIPT_50101050_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" npc="블리체" />
-  <key id="50100820" name="STRINGSIDEPOPUPSCRIPT_50100820_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" npc="프레이" />
-  <key id="60001150" name="STRINGSIDEPOPUPSCRIPT_60001150_NAME:[F]Colosseum01" feature="Colosseum01" npc="MC나기" />
-  <key id="91000980" name="STRINGSIDEPOPUPSCRIPT_91000980_NAME:[F]Fame_Geo01" feature="Fame_Geo01" npc="블리체" />
-  <key id="10003400" name="STRINGSIDEPOPUPSCRIPT_10003400_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" npc="안내원 나탈리" />
-  <key id="10003440" name="STRINGSIDEPOPUPSCRIPT_10003440_NAME:[F]UnlimitedEnchant" feature="UnlimitedEnchant" npc="베아트리체" />
-  <key id="10003444" name="STRINGSIDEPOPUPSCRIPT_10003444_NAME:[F]EpicApocalypse02" feature="EpicApocalypse02" npc="바론" />
+	<key id="80000" name="&#xA;スカイフォートレスクエストを開始できます。&#xA;(！) アラートをご確認ください。" npc="안내원 나탈리" feature="FameContents" />
+	<key id="80010" name="隊員評価手続きを開始させていただきます！" npc="네이린" feature="FameContents" />
+	<key id="80020" name="偵察機作動、オールグリーン！ホログローブで出撃地域を選択してください！" npc="네이린" feature="FameContents" />
+	<key id="80022" name="葉っぱ1枚、作戦地域到着確認。作戦を遂行してください。" npc="네이린" feature="FameContents" />
+	<key id="80023" name="葉っぱ1枚？アハハッ！グリーンフッドはそんなコールサインを使うんだね？" npc="샤텐" feature="FameContents" />
+	<key id="80024" name="アルファ、ブラボー、チャーリーとかより分かりやすくて楽なんですよ…！" npc="네이린" feature="FameContents" />
+	<key id="80025" name="ラジャー！リマーチャーリー！" npc="샤텐" feature="FameContents" />
+	<key id="80030" name="&#xA;任務完了！&#xA;これから艦船に&#xA;復帰する方法を教えますね！" npc="네이린" feature="FameContents" />
+	<key id="80040" name="勢力別の評判現況を確認したいなら、矢印に沿ってクリックしてください。" npc="네이린" feature="FameContents" />
+	<key id="80050" name="ワールドマップを開いて現場の任務地域をチェックしてみな。" npc="샤텐" feature="FameContents" />
+	<key id="80051" name="さあ、そろそろダークウィンドの出番かな？" npc="샤텐" feature="FameContents" />
+	<key id="80060" name="グッドジョブ！もう艦船に復帰しな！" npc="샤텐" feature="FameContents" />
+	<key id="80080" name="矢印に従ってクリックしてみろ！" npc="콘대르" feature="FameContents" />
+	<key id="80081" name="おい、新入り！教えてやりたいことがあるからこっちに来い！" npc="콘대르" feature="FameContents" />
+	<key id="80090" name="&#xA;隊員評価について最終報告を受けた。&#xA;少し話し合おう。" npc="블리체" feature="FameContents" />
+	<key id="10003400" name="STRINGSIDEPOPUPSCRIPT_10003400_NAME:[F]EpicApocalypse01" npc="안내원 나탈리" feature="EpicApocalypse01" />
+	<key id="10003440" name="STRINGSIDEPOPUPSCRIPT_10003440_NAME:[F]UnlimitedEnchant" npc="베아트리체" feature="UnlimitedEnchant" />
+	<key id="10003444" name="STRINGSIDEPOPUPSCRIPT_10003444_NAME:[F]EpicApocalypse02" npc="바론" feature="EpicApocalypse02" />
+	<key id="20002326" name="&lt;font color=&quot;#ffd200&quot;&gt;セインツナイト&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="20002336" name="&lt;font color=&quot;#ffd200&quot;&gt;ハイプリースト&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="20002347" name="&lt;font color=&quot;#ffd200&quot;&gt;ハイパーヘビーガンナー&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="20002359" name="&lt;font color=&quot;#ffd200&quot;&gt;シャープレンジャー&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="20002369" name="&lt;font color=&quot;#ffd200&quot;&gt;アーケインルーンブレイダー&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="20002378" name="&lt;font color=&quot;#ffd200&quot;&gt;アルティメットストライカー&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="40002722" name="&lt;font color=&quot;#ffd200&quot;&gt;ファントムシーフ&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="40002732" name="&lt;font color=&quot;#ffd200&quot;&gt;シャドウアサシン&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="40002744" name="&lt;font color=&quot;#ffd200&quot;&gt;ブラッディバーサーカー&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="40002754" name="&lt;font color=&quot;#ffd200&quot;&gt;マジカルウィザード&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="40002766" name="&lt;font color=&quot;#ffd200&quot;&gt;ミスティックソウルバインダー&lt;/font&gt;に転職できます。" npc="안내원 나탈리" feature="LapentaFrontierQuest" />
+	<key id="40002788" name="STRINGSIDEPOPUPSCRIPT_40002788_NAME:[F]JobChange_02" npc="안내원 나탈리" feature="JobChange_02" />
+	<key id="50100820" name="STRINGSIDEPOPUPSCRIPT_50100820_NAME:[F]Kritias_Epic01" npc="프레이" feature="Kritias_Epic01" />
+	<key id="50101050" name="STRINGSIDEPOPUPSCRIPT_50101050_NAME:[F]Kritias_2018_12" npc="블리체" feature="Kritias_2018_12" />
+	<key id="60001150" name="STRINGSIDEPOPUPSCRIPT_60001150_NAME:[F]Colosseum01" npc="MC나기" feature="Colosseum01" />
+	<key id="91000020" name="任務場所に送ってくれるなんて、&#xA;最近の若者は&#xA;苦労知らずだな！" npc="콘대르" feature="FameContents" />
+	<key id="91000022" name="おい、そこに行くついでにフレイのやつがちゃんと仕事してるか見てこい！あんな若造にエレヴ様を任せていいのか不安でな。" npc="콘대르" feature="FameContents" />
+	<key id="91000023" name="ねえ、着いた？そこに大きなアンテナとその隣にジェネレータがあるはずだよ。そこにUSBを差し込んでくれれば、後はこっちで対応するよ。" npc="샤텐" feature="FameContents" />
+	<key id="91000024" name="ブラックルービックスのやつら…。&#xA;ただでさえ忙しいのに&#xA;邪魔するなよ！&#xA;全員蹴散らしてやる。" npc="샤텐" feature="FameContents" />
+	<key id="91000026" name="気をつけて！暴走したロボットが暴れている。この地域の安全を確保して！" npc="샤텐" feature="FameContents" />
+	<key id="91000027" name="帳簿を確保したんですね！一旦艦船に復帰してください！&#xA;$MyPCName$さん！" npc="네이린" feature="FameContents" />
+	<key id="91000033" name="お疲れ様でした！&#xA;艦船でお待ちしてます！" npc="네이린" feature="FameContents" />
+	<key id="91000034" name="モンスターがまだかなり残っていますね。&#xA;僕が集中できるように、モンスターを片づけてください。" npc="메이슨" feature="FameContents" />
+	<key id="91000035" name="あっ、強い&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003781$&lt;/font&gt;の反応がありました。&#xA;お気をつけください！" npc="네이린" feature="FameContents_EP1_02" />
+	<key id="91000036" name="熱気に慣れるための訓練なんだけど、あまり無理はしないで！&#xA;めまいがしたら、すぐに艦船に復帰しな！" npc="샤텐" feature="FameContents_EP1_02" />
+	<key id="91000037" name="諦めるのか。情けないやつめ！殺せないというなら、ぶん殴ればいいじゃないか！何が無茶だってんだ…おい、ちょっと放せ…。" npc="콘대르" feature="FameContents_EP1_02" />
+	<key id="91000038" name="ふむ、&lt;font color=&quot;#ffd200&quot;&gt;例の武器&lt;/font&gt;を使うしかないな。&#xA;$MyPCName$、&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11000144$&lt;/font&gt;様とともに艦船に復帰するように。私と隊員たちは作戦室で待っている。" npc="블리체" feature="FameContents_EP1_02" />
+	<key id="91000980" name="STRINGSIDEPOPUPSCRIPT_91000980_NAME:[F]Fame_Geo01" npc="블리체" feature="Fame_Geo01" />
+	<key id="93000123" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" npc="블리체" feature="FameContents" />
+	<key id="93000124" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" npc="블리체" feature="FameContents" />
+	<key id="93000125" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" npc="블리체" feature="FameContents" />
+	<key id="93000126" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" npc="블리체" feature="FameContents" />
+	<key id="93000127" name="&lt;font color=&quot;#ffd200&quot;&gt;インベントリ&lt;/font&gt;を開いて支給された&#xA;&lt;font color=&quot;#ffd200&quot;&gt;爆竹アイテムを使用&lt;/font&gt;するように。&#xA;今後、それが支援要請の信号だ。" npc="블리체" feature="FameContents" />
+	<key id="93000158" name="スカイフォートレスに&#xA;&lt;font color=&quot;#ffd200&quot;&gt;アーマードチェキ&lt;/font&gt;が高速接近中！艦船の甲板へ着陸しようとしています！" npc="네이린" feature="FameContents" />
 </ms2>

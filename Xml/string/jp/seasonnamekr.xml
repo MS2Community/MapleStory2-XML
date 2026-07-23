@@ -1,111 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <season type="DarkStream" id="1" name="1シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="2" name="1シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="3" name="1シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="4" name="1シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="5" name="2シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="6" name="2シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="7" name="2シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="8" name="2シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="9" name="2シーズン5回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="10" name="2シーズン6回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="11" name="2シーズン7回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="12" name="2シーズン8回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="13" name="3シーズン5回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="14" name="4シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="15" name="4シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="16" name="4シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="17" name="4シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="18" name="5シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="19" name="5シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="20" name="5シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="21" name="5シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="22" name="5シーズン5回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="23" name="6シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="24" name="6シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="25" name="6シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="26" name="6シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="27" name="7シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="28" name="7シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="29" name="7シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="30" name="7シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="31" name="7シーズン5回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="32" name="8シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="33" name="8シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="34" name="8シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="35" name="8シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="36" name="9シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="37" name="9シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="38" name="9シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="39" name="9シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="40" name="10シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="41" name="10シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="42" name="10シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="43" name="10シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="44" name="11シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="45" name="11シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="46" name="11シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="47" name="11シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="48" name="12シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="49" name="12シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="50" name="12シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="51" name="12シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="52" name="13シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="53" name="13シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="54" name="13シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="55" name="13シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="56" name="14シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="57" name="14シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="58" name="14シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="59" name="14シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="60" name="15シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="61" name="15シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="62" name="15シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="63" name="15シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="64" name="16シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="65" name="16シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="66" name="16シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="67" name="16シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="68" name="17シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="69" name="17シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="70" name="17シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="71" name="17シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="72" name="18シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="73" name="18シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="74" name="18シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="75" name="18シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="76" name="19シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="77" name="19シーズン2回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="78" name="19シーズン3回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="79" name="19シーズン4回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="80" name="20シーズン1回目" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="81" name="20시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="82" name="20시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="83" name="20시즌 4회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="84" name="21시즌 1회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="85" name="21시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="86" name="21시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="87" name="21시즌 4회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="88" name="22시즌 1회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="89" name="22시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="90" name="22시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="91" name="22시즌 4회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="92" name="23시즌 1회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="93" name="23시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="94" name="23시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="95" name="23시즌 4회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="96" name="24시즌 1회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="97" name="24시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="98" name="24시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="99" name="24시즌 4회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="100" name="25시즌 1회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="101" name="25시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="102" name="25시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="103" name="25시즌 4회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="104" name="26시즌 1회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="105" name="26시즌 2회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="106" name="26시즌 3회차" feature="TimeAttackDungeon" />
-  <season type="DarkStream" id="107" name="26시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="1" type="DarkStream" name="1シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="2" type="DarkStream" name="1シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="3" type="DarkStream" name="1シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="4" type="DarkStream" name="1シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="5" type="DarkStream" name="2シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="6" type="DarkStream" name="2シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="7" type="DarkStream" name="2シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="8" type="DarkStream" name="2シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="9" type="DarkStream" name="2シーズン5回目" feature="TimeAttackDungeon" />
+	<season id="10" type="DarkStream" name="2シーズン6回目" feature="TimeAttackDungeon" />
+	<season id="11" type="DarkStream" name="2シーズン7回目" feature="TimeAttackDungeon" />
+	<season id="12" type="DarkStream" name="2シーズン8回目" feature="TimeAttackDungeon" />
+	<season id="13" type="DarkStream" name="3シーズン5回目" feature="TimeAttackDungeon" />
+	<season id="14" type="DarkStream" name="4シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="15" type="DarkStream" name="4シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="16" type="DarkStream" name="4シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="17" type="DarkStream" name="4シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="18" type="DarkStream" name="5シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="19" type="DarkStream" name="5シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="20" type="DarkStream" name="5シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="21" type="DarkStream" name="5シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="22" type="DarkStream" name="5シーズン5回目" feature="TimeAttackDungeon" />
+	<season id="23" type="DarkStream" name="6シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="24" type="DarkStream" name="6シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="25" type="DarkStream" name="6シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="26" type="DarkStream" name="6シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="27" type="DarkStream" name="7シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="28" type="DarkStream" name="7シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="29" type="DarkStream" name="7シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="30" type="DarkStream" name="7シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="31" type="DarkStream" name="7シーズン5回目" feature="TimeAttackDungeon" />
+	<season id="32" type="DarkStream" name="8シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="33" type="DarkStream" name="8シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="34" type="DarkStream" name="8シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="35" type="DarkStream" name="8シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="36" type="DarkStream" name="9シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="37" type="DarkStream" name="9シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="38" type="DarkStream" name="9シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="39" type="DarkStream" name="9シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="40" type="DarkStream" name="10シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="41" type="DarkStream" name="10シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="42" type="DarkStream" name="10シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="43" type="DarkStream" name="10シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="44" type="DarkStream" name="11シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="45" type="DarkStream" name="11シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="46" type="DarkStream" name="11シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="47" type="DarkStream" name="11シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="48" type="DarkStream" name="12シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="49" type="DarkStream" name="12シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="50" type="DarkStream" name="12シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="51" type="DarkStream" name="12シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="52" type="DarkStream" name="13シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="53" type="DarkStream" name="13シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="54" type="DarkStream" name="13シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="55" type="DarkStream" name="13シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="56" type="DarkStream" name="14シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="57" type="DarkStream" name="14シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="58" type="DarkStream" name="14シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="59" type="DarkStream" name="14シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="60" type="DarkStream" name="15シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="61" type="DarkStream" name="15シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="62" type="DarkStream" name="15シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="63" type="DarkStream" name="15シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="64" type="DarkStream" name="16シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="65" type="DarkStream" name="16シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="66" type="DarkStream" name="16シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="67" type="DarkStream" name="16シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="68" type="DarkStream" name="17シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="69" type="DarkStream" name="17シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="70" type="DarkStream" name="17シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="71" type="DarkStream" name="17シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="72" type="DarkStream" name="18シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="73" type="DarkStream" name="18シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="74" type="DarkStream" name="18シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="75" type="DarkStream" name="18シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="76" type="DarkStream" name="19シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="77" type="DarkStream" name="19シーズン2回目" feature="TimeAttackDungeon" />
+	<season id="78" type="DarkStream" name="19シーズン3回目" feature="TimeAttackDungeon" />
+	<season id="79" type="DarkStream" name="19シーズン4回目" feature="TimeAttackDungeon" />
+	<season id="80" type="DarkStream" name="20シーズン1回目" feature="TimeAttackDungeon" />
+	<season id="81" type="DarkStream" name="20시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="82" type="DarkStream" name="20시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="83" type="DarkStream" name="20시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="84" type="DarkStream" name="21시즌 1회차" feature="TimeAttackDungeon" />
+	<season id="85" type="DarkStream" name="21시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="86" type="DarkStream" name="21시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="87" type="DarkStream" name="21시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="88" type="DarkStream" name="22시즌 1회차" feature="TimeAttackDungeon" />
+	<season id="89" type="DarkStream" name="22시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="90" type="DarkStream" name="22시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="91" type="DarkStream" name="22시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="92" type="DarkStream" name="23시즌 1회차" feature="TimeAttackDungeon" />
+	<season id="93" type="DarkStream" name="23시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="94" type="DarkStream" name="23시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="95" type="DarkStream" name="23시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="96" type="DarkStream" name="24시즌 1회차" feature="TimeAttackDungeon" />
+	<season id="97" type="DarkStream" name="24시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="98" type="DarkStream" name="24시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="99" type="DarkStream" name="24시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="100" type="DarkStream" name="25시즌 1회차" feature="TimeAttackDungeon" />
+	<season id="101" type="DarkStream" name="25시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="102" type="DarkStream" name="25시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="103" type="DarkStream" name="25시즌 4회차" feature="TimeAttackDungeon" />
+	<season id="104" type="DarkStream" name="26시즌 1회차" feature="TimeAttackDungeon" />
+	<season id="105" type="DarkStream" name="26시즌 2회차" feature="TimeAttackDungeon" />
+	<season id="106" type="DarkStream" name="26시즌 3회차" feature="TimeAttackDungeon" />
+	<season id="107" type="DarkStream" name="26시즌 4회차" feature="TimeAttackDungeon" />
 </ms2>

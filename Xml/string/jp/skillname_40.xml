@@ -1,48 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10400001" name="天上の光" />
-  <key id="10400002" name="審判の光" feature="JobChange_01" />
-  <key id="10400003" name="浄化の光" feature="JobChange_01" />
-  <key id="10400011" name="ホーリーエクスプロージョン" />
-  <key id="10400012" name="ホーリーエクスプロージョンスプラッシュ" feature="Develop" />
-  <key id="10400013" name="ホーリーエクスプロージョンEX" />
-  <key id="10400014" name="ホーリーエクスプロージョンEXスプラッシュ" feature="Develop" />
-  <key id="10400021" name="セプターマスタリ" />
-  <key id="10400022" name="エンジェルレイEX" />
-  <key id="10400031" name="ホーリークロス" />
-  <key id="10400032" name="ホーリークロススプラッシュ" feature="Develop" />
-  <key id="10400041" name="シールドオブアルコン" />
-  <key id="10400042" name="シールドオブアルコンスプラッシュ" feature="Develop" />
-  <key id="10400051" name="ホーリーシンボル" />
-  <key id="10400052" name="ホーリーシンボルスプラッシュ" feature="Develop" />
-  <key id="10400061" name="サンクチュアリ" />
-  <key id="10400071" name="ヒール" />
-  <key id="10400072" name="ヒール" feature="JobChange_01" />
-  <key id="10400081" name="天上の守護者" />
-  <key id="10400091" name="天上の祝福" />
-  <key id="10400092" name="天上の守護者解除" feature="Develop" />
-  <key id="10400101" name="浄化の波" />
-  <key id="10400102" name="浄化の波EX" />
-  <key id="10400111" name="固い信念" />
-  <key id="10400121" name="聖霊のオーラ" />
-  <key id="10400131" name="ディサイプル" />
-  <key id="10400141" name="治癒マスタリ" />
-  <key id="10400151" name="天上の翼" />
-  <key id="10400161" name="エンジェルレイ" />
-  <key id="10400171" name="審判の光" feature="JobChange_01" />
-  <key id="10400181" name="ヘブンズエクスプロージョン" feature="JobChange_01" />
-  <key id="10400186" name="ヘブンズエクスプロージョン" feature="JobChange_02" />
-  <key id="10400191" name="光の槍" feature="JobChange_01" />
-  <key id="10400193" name="光の剣" feature="JobChange_01" />
-  <key id="10400211" name="ディヴァインウェーブ" feature="JobChange_01" />
-  <key id="10400221" name="浄化の光" feature="JobChange_01" />
-  <key id="10400231" name="グレーターヒール" feature="JobChange_01" />
-  <key id="10400241" name="生命の守護者" feature="JobChange_01" />
-  <key id="10400251" name="ホーリーフォーカス" feature="JobChange_01" />
-  <key id="10400261" name="活力" feature="JobChange_01" />
-  <key id="10400271" name="SKILLNAME_10400271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10400281" name="SKILLNAME_10400281_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10400291" name="SKILLNAME_10400291_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10400301" name="SKILLNAME_10400301_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10400001" name="天上の光" />
+	<key id="10400002" name="審判の光" feature="JobChange_01" />
+	<key id="10400003" name="浄化の光" feature="JobChange_01" />
+	<key id="10400011" name="ホーリーエクスプロージョン" />
+	<key id="10400012" name="ホーリーエクスプロージョンスプラッシュ" feature="Develop" />
+	<key id="10400013" name="ホーリーエクスプロージョンEX" />
+	<key id="10400014" name="ホーリーエクスプロージョンEXスプラッシュ" feature="Develop" />
+	<key id="10400021" name="セプターマスタリ" />
+	<key id="10400022" name="エンジェルレイEX" />
+	<key id="10400031" name="ホーリークロス" />
+	<key id="10400032" name="ホーリークロススプラッシュ" feature="Develop" />
+	<key id="10400041" name="シールドオブアルコン" />
+	<key id="10400042" name="シールドオブアルコンスプラッシュ" feature="Develop" />
+	<key id="10400051" name="ホーリーシンボル" />
+	<key id="10400052" name="ホーリーシンボルスプラッシュ" feature="Develop" />
+	<key id="10400061" name="サンクチュアリ" />
+	<key id="10400071" name="ヒール" />
+	<key id="10400072" name="ヒール" feature="JobChange_01" />
+	<key id="10400081" name="天上の守護者" />
+	<key id="10400091" name="天上の祝福" />
+	<key id="10400092" name="天上の守護者解除" feature="Develop" />
+	<key id="10400101" name="浄化の波" />
+	<key id="10400102" name="浄化の波EX" />
+	<key id="10400111" name="固い信念" />
+	<key id="10400121" name="聖霊のオーラ" />
+	<key id="10400131" name="ディサイプル" />
+	<key id="10400141" name="治癒マスタリ" />
+	<key id="10400151" name="天上の翼" />
+	<key id="10400161" name="エンジェルレイ" />
+	<key id="10400171" name="審判の光" feature="JobChange_01" />
+	<key id="10400181" name="ヘブンズエクスプロージョン" feature="JobChange_01" />
+	<key id="10400186" name="ヘブンズエクスプロージョン" feature="JobChange_02" />
+	<key id="10400191" name="光の槍" feature="JobChange_01" />
+	<key id="10400193" name="光の剣" feature="JobChange_01" />
+	<key id="10400211" name="ディヴァインウェーブ" feature="JobChange_01" />
+	<key id="10400221" name="浄化の光" feature="JobChange_01" />
+	<key id="10400231" name="グレーターヒール" feature="JobChange_01" />
+	<key id="10400241" name="生命の守護者" feature="JobChange_01" />
+	<key id="10400251" name="ホーリーフォーカス" feature="JobChange_01" />
+	<key id="10400261" name="活力" feature="JobChange_01" />
+	<key id="10400271" name="SKILLNAME_10400271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10400281" name="SKILLNAME_10400281_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10400291" name="SKILLNAME_10400291_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10400301" name="SKILLNAME_10400301_NAME:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

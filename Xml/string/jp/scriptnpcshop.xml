@@ -1,779 +1,778 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="0831180306000001" feature="" locale="" npc="설눈이" name="どうしたんだい？" />
-  <key id="0831180306000002" feature="" locale="" npc="설눈이" name="オレは$map:02000001$一の鍛冶屋！" />
-  <key id="0831180306000003" feature="" locale="" npc="설눈이" name="装備が必要なのか？うちに来い！" />
-  <key id="0831180306000004" feature="" locale="" npc="설눈이" name="オレはこう見えても、怒ると怖いぞ～！" />
-  <key id="0831180306000005" feature="" locale="" npc="마야" name="どうしました？" />
-  <key id="0831180306000006" feature="" locale="" npc="마야" name="$npc:11000174[gender:1]$は$npcName:11000170[gender:0]$の気持ちに応えてくれるかな…？" />
-  <key id="0831180306000007" feature="" locale="" npc="마야" name="謁見式のおかげでしばらく売上も順調に伸びていたのに…。今はめっきり。" />
-  <key id="0831180306000008" feature="" locale="" npc="마야" name="冒険者のみなさ～ん！ポーションはいかがですか～？" />
-  <key id="0831180306000009" feature="" locale="" npc="마끼" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000010" feature="" locale="" npc="마끼" name="あと10歳若かったら転職したのになぁ…。" />
-  <key id="0831180306000011" feature="" locale="" npc="마끼" name="アイテムやメルを預ける場所が必要ですか？" />
-  <key id="0831180306000012" feature="" locale="" npc="마끼" name="セキュリティといえば！ゴルドス銀行ですよ。" />
-  <key id="0831180306000013" feature="" locale="" npc="코사무이" name="何の用だね？" />
-  <key id="0831180306000014" feature="" locale="" npc="코사무이" name="$map:02000116$を通っても$map:02000001$まではまだかかると思うんだが…。" />
-  <key id="0831180306000015" feature="" locale="" npc="코사무이" name="このまま森を通るのはあまりにも無謀だぞ…。" />
-  <key id="0831180306000016" feature="" locale="" npc="코사무이" name="ここで持っているものを全部売っぱらって別の職業を探そうかな…。" />
-  <key id="0831180306000017" feature="" locale="" npc="루미" name="何か用？" />
-  <key id="0831180306000018" feature="" locale="" npc="루미" name="売りたいものがあれば、お立ち寄りください。" />
-  <key id="0831180306000019" feature="" locale="" npc="루미" name="状態さえよければ高値で買い取りますわ。" />
-  <key id="0831180306000020" feature="" locale="" npc="루미" name="そろそろ$map:02000062$に帰ろうかしら？" />
-  <key id="0831180306000021" feature="" locale="" npc="루미" name="商売するのに$map:02000062$ほど良い場所もないでしょうね。" />
-  <key id="0831180306000022" feature="" locale="" npc="설몽이" name="何かお探し～？" />
-  <key id="0831180306000023" feature="" locale="" npc="설몽이" name="$map:02000051$の全ての装備はオレが管理しているよ。" />
-  <key id="0831180306000024" feature="" locale="" npc="설몽이" name="盗みは悪いことだよ～。" />
-  <key id="0831180306000025" feature="" locale="" npc="설몽이" name="こっちに来て見てってよ～。" />
-  <key id="0831180306000026" feature="" locale="" npc="베르조" name="何か探しているのか？" />
-  <key id="0831180306000027" feature="" locale="" npc="베르조" name="君にぴったりの装備があるぞ！" />
-  <key id="0831180306000028" feature="" locale="" npc="베르조" name="いつ、どこから敵が現れるか分からない！" />
-  <key id="0831180306000029" feature="" locale="" npc="베르조" name="備えあれば憂いなし！だろう？" />
-  <key id="0831180306000030" feature="" locale="" npc="라리" name="何か用？" />
-  <key id="0831180306000031" feature="" locale="" npc="라리" name="妖精たちの手作りポーションで～す！" />
-  <key id="0831180306000032" feature="" locale="" npc="라리" name="いいポーション、ありますよ～！" />
-  <key id="0831180306000033" feature="" locale="" npc="라리" name="何が必要ですか？" />
-  <key id="0831180306000034" feature="" locale="" npc="루미" name="何か用？" />
-  <key id="0831180306000035" feature="" locale="" npc="루미" name="いろんな島を飛び回ってお金になりそうなものは全て集めてきたのに…。" />
-  <key id="0831180306000036" feature="" locale="" npc="루미" name="$map:02000001$に行ってひと儲けしようとしたのに…。" />
-  <key id="0831180306000037" feature="" locale="" npc="루미" name="道が途切れてしまったわ…。ついこの前までは普通に通れたのにどうして…。" />
-  <key id="0831180306000038" feature="" locale="" npc="루미" name="商売するのに$map:02000062$ほど良い場所もないでしょうね。" />
-  <key id="0831180306000039" feature="" locale="" npc="루미" name="ひょっとして…あたしたち$map:63000001$で会ってません？" />
-  <key id="0831180306000040" feature="" locale="" npc="루미" name="また$map:63000001$にでも行ってみようかな？" />
-  <key id="0831180306000041" feature="" locale="" npc="솔베이" name="何かご用でしょうか？" />
-  <key id="0831180306000042" feature="" locale="" npc="솔베이" name="何でも満足のいく価格で買い取ります！" />
-  <key id="0831180306000043" feature="" locale="" npc="솔베이" name="何でも持ってきてください！全て買い取ります！" />
-  <key id="1121222006000787" feature="" locale="" npc="옌타이오" name="どうしましたか？" />
-  <key id="1121222006000788" feature="" locale="" npc="옌타이오" name="どうしましたか？" />
-  <key id="0831180306000048" feature="" locale="" npc="우니타" name="素敵なものがたくさんあります。" />
-  <key id="0831180306000049" feature="" locale="" npc="우니타" name="私より材料について詳しい人はいませんから！" />
-  <key id="1121222006000789" feature="" locale="" npc="크리스" name="何か用？" />
-  <key id="1121222006000790" feature="" locale="" npc="크리스" name="何か用？" />
-  <key id="1121222006000791" feature="" locale="" npc="다나" name="何か用？" />
-  <key id="1121222006000792" feature="" locale="" npc="다나" name="何か用？" />
-  <key id="0831180306000058" feature="" locale="" npc="페트" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000059" feature="" locale="" npc="페트" name="貴重品は予め金庫に預けましょう。" />
-  <key id="0831180306000060" feature="" locale="" npc="페트" name="道が途切れてしまったことも分からず…訪問客の数は増える一方で…。" />
-  <key id="0831180306000061" feature="" locale="" npc="페트" name="アイテムやメルを預けるならやっぱりゴルドス銀行でしょう！" />
-  <key id="1121222006000793" feature="" locale="" npc="지오" name="何か用？" />
-  <key id="1121222006000794" feature="" locale="" npc="지오" name="何か用？" />
-  <key id="1121222006000795" feature="" locale="" npc="니케아" name="何か用？" />
-  <key id="1121222006000796" feature="" locale="" npc="니케아" name="何か用？" />
-  <key id="1121222006000797" feature="" locale="" npc="피터" name="何か用？" />
-  <key id="1121222006000798" feature="" locale="" npc="피터" name="何か用？" />
-  <key id="1121222006000799" feature="" locale="" npc="라벤느" name="どうした？" />
-  <key id="1121222006000800" feature="" locale="" npc="라벤느" name="どうした？" />
-  <key id="1121222006000801" feature="" locale="" npc="릴리" name="どうした？" />
-  <key id="1121222006000802" feature="" locale="" npc="릴리" name="どうした？" />
-  <key id="1121222006000803" feature="" locale="" npc="잭클린" name="どうした？" />
-  <key id="1121222006000804" feature="" locale="" npc="잭클린" name="弟の病気を治せる万能薬があれば…。" />
-  <key id="1121222006000805" feature="" locale="" npc="알프레드" name="どうしましたか？" />
-  <key id="1121222006000806" feature="" locale="" npc="알프레드" name="どうしましたか？" />
-  <key id="1121222006000807" feature="" locale="" npc="브리엘" name="何か用？" />
-  <key id="1121222006000808" feature="" locale="" npc="브리엘" name="あたしもお花のプレゼントがもらいたいな～。" />
-  <key id="1121222006000809" feature="" locale="" npc="브리엘" name="このあたしが！かの有名な「$map:02000100$の野花」なのよ～。" />
-  <key id="0831180306000086" feature="" locale="" npc="듀크" name="どうしましたか？" />
-  <key id="0831180306000087" feature="" locale="" npc="듀크" name="武器をご購入される方には使い方もレクチャーします！" />
-  <key id="0831180306000088" feature="" locale="" npc="듀크" name="武器を使う際は気をゆるめないでくださいね！" />
-  <key id="0831180306000089" feature="" locale="" npc="수잔나" name="何か用？" />
-  <key id="0831180306000090" feature="" locale="" npc="수잔나" name="冷たいポーションを一杯、いかがですか～。" />
-  <key id="0831180306000091" feature="" locale="" npc="수잔나" name="お姉さんのことは別に心配いりません。元気にしていると思いますわ。" />
-  <key id="0831180306000092" feature="" locale="" npc="보닌" name="どうした？" />
-  <key id="0831180306000093" feature="" locale="" npc="보닌" name="鍛え上げた人のみが良質の装備を手に入れられる！" />
-  <key id="0831180306000094" feature="" locale="" npc="보닌" name="自警団に必要な人材はこの私！エッヘン！" />
-  <key id="0831180306000095" feature="" locale="" npc="메를린" name="どうしましたか？" />
-  <key id="0831180306000096" feature="" locale="" npc="메를린" name="生活に役立つものがたくさんありま～す。" />
-  <key id="0831180306000097" feature="" locale="" npc="메를린" name="常連さんでもツケ払いはNGです！" />
-  <key id="1121222006000810" feature="" locale="" npc="재커리" name="どうしましたか？" />
-  <key id="1121222006000811" feature="" locale="" npc="재커리" name="人の役に立つ仕事ができるって、幸せなことです！" />
-  <key id="1121222006000812" feature="" locale="" npc="가브리엘" name="どうしましたか？" />
-  <key id="1121222006000813" feature="" locale="" npc="가브리엘" name="植物は、家に新鮮な雰囲気を漂わせてくれます。" />
-  <key id="1121222006000814" feature="" locale="" npc="가브리엘" name="少しでもぐっすり眠れたら…。" />
-  <key id="1121222006000815" feature="" locale="" npc="제프리" name="どうしましたか？" />
-  <key id="1121222006000816" feature="" locale="" npc="제프리" name="どうしましたか？" />
-  <key id="0831180306000107" feature="" locale="" npc="라미온느" name="何かご用でしょうか？" />
-  <key id="0831180306000108" feature="" locale="" npc="라미온느" name="冒険の必需品、ポーションはいかがですか～？" />
-  <key id="0831180306000109" feature="" locale="" npc="라미온느" name="妹にお手紙を出したんですが…まだ返信がありません…。" />
-  <key id="0831180306000110" feature="" locale="" npc="로버트" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000111" feature="" locale="" npc="로버트" name="アイテムやメルを預ける場所が必要ですか？" />
-  <key id="0831180306000112" feature="" locale="" npc="로버트" name="金庫をご利用の際は私に声をかけてくださいませ。" />
-  <key id="0831180306000113" feature="" locale="" npc="스티븐" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000114" feature="" locale="" npc="스티븐" name="ゴルドス銀行は、信じて預けてくださって大丈夫ですよ。" />
-  <key id="0831180306000115" feature="" locale="" npc="스티븐" name="アイテムやメルをお預けになりますか？" />
-  <key id="0831180306000116" feature="" locale="" npc="스티븐" name="貴重品をお預かりします。" />
-  <key id="0831180306000117" feature="" locale="" npc="월터" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000118" feature="" locale="" npc="월터" name="重くて持ち帰りにくいものは私にお預けください。" />
-  <key id="0831180306000119" feature="" locale="" npc="월터" name="ストレスを溜めずに、やりたいことをやりましょう！" />
-  <key id="0831180306000120" feature="" locale="" npc="닐슨" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000121" feature="" locale="" npc="닐슨" name="おっと、もう薬を飲む時間だ。" />
-  <key id="0831180306000122" feature="" locale="" npc="닐슨" name="銀行格付けランキング1位に輝くゴルド銀行！" />
-  <key id="0831180306000123" feature="" locale="" npc="아카시" name="何の用だい？" />
-  <key id="0831180306000124" feature="" locale="" npc="아카시" name="魔法が宿った装備がほしいのかい？" />
-  <key id="0104233206000891" feature="NPCPortal01" locale="" npc="아카시" name="急いで行きたいのかい？" />
-  <key id="1121222006000817" feature="" locale="" npc="브로" name="どうしましたか？" />
-  <key id="1121222006000818" feature="" locale="" npc="브로" name="見かけの良い家が、暮らしやすいものですよ。" />
-  <key id="1121222006000819" feature="" locale="" npc="아놀드" name="いらっしゃい。どうした？" />
-  <key id="1121222006000820" feature="" locale="" npc="아놀드" name="暖かくて居心地のいい家がほしいだろう？" />
-  <key id="1121222006000821" feature="" locale="" npc="이안" name="何か用？" />
-  <key id="1121222006000822" feature="" locale="" npc="이안" name="何か用？" />
-  <key id="1121222006000823" feature="" locale="" npc="엘비스" name="どうしましたか？" />
-  <key id="1121222006000824" feature="" locale="" npc="엘비스" name="高層ビルやランドマークパッケージを販売するのが夢なんです。" />
-  <key id="1121222006000825" feature="" locale="" npc="이삭" name="どうしましたか？" />
-  <key id="1121222006000826" feature="" locale="" npc="이삭" name="絶対お金持ちになるぜ！" />
-  <key id="0104215506000890" feature="NPCPortal01" locale="" npc="이삭" name="早く行けるように協力します。" />
-  <key id="0831180306000139" feature="" locale="" npc="르넷" name="どうしましたか？" />
-  <key id="0831180306000140" feature="" locale="" npc="르넷" name="新鮮なものがたくさんあります！" />
-  <key id="0831180306000141" feature="" locale="" npc="르넷" name="貧しい人のいない世の中になればいいのに。" />
-  <key id="0831180306000142" feature="" locale="" npc="마가리타" name="どうしましたか？" />
-  <key id="0831180306000143" feature="" locale="" npc="마가리타" name="ここよりいいものを揃えているところはないと思いますよ～。" />
-  <key id="0831180306000144" feature="" locale="" npc="마가리타" name="私の辞書に「赤字」の文字はありません。" />
-  <key id="0831180306000145" feature="" locale="" npc="샤네르" name="どうしたの？" />
-  <key id="0831180306000146" feature="" locale="" npc="샤네르" name="何かお求めでしょうか？もしかして、本当の目的は…あ・た・し？" />
-  <key id="0831180306000147" feature="" locale="" npc="샤네르" name="メイド服を着た方がいいかしら…。" />
-  <key id="0831180306000148" feature="" locale="" npc="에릭" name="いらっしゃい！" />
-  <key id="0831180306000149" feature="" locale="" npc="에릭" name="ちゃんと調教されているので安心して乗れますよ～。" />
-  <key id="0831180306000150" feature="" locale="" npc="에릭" name="試運転は少し困るんですけど…。" />
-  <key id="0831180306000151" feature="" locale="" npc="에릭" name="大人しくてきちんと調教された子たちですよ！" />
-  <key id="1121222006000827" feature="" locale="" npc="로엥" name="記念品を買いたいなら、うちの中の建設モードですぐに購入できるぞ～。" />
-  <key id="1121222006000828" feature="" locale="" npc="로엥" name="世の中捨てたものじゃないね～。うんうん、そうだとも～。" />
-  <key id="1121222006000829" feature="" locale="" npc="쟝피엘" name="何か用？" />
-  <key id="1121222006000830" feature="" locale="" npc="쟝피엘" name="過去については聞かないでください…。" />
-  <key id="0831180306000158" feature="" locale="" npc="카를라" name="何か用？" />
-  <key id="1121222006000831" feature="" locale="" npc="카를라" name="不気味な家にだって魅力があるんです。" />
-  <key id="1121222006000832" feature="" locale="" npc="카를라" name="お化け屋敷にしてみるのはどうですか？" />
-  <key id="1121222006000833" feature="" locale="" npc="로코" name="何か用？" />
-  <key id="1121222006000834" feature="" locale="" npc="로코" name="何か用？" />
-  <key id="1121222006000835" feature="" locale="" npc="이슬레이" name="何か用？" />
-  <key id="1121222006000836" feature="" locale="" npc="이슬레이" name="我が帝国を必ず取り戻す！" />
-  <key id="1121222006000837" feature="" locale="" npc="시드" name="どうしましたか？" />
-  <key id="1121222006000838" feature="" locale="" npc="시드" name="どうしましたか？" />
-  <key id="1121222006000839" feature="" locale="" npc="보겐" name="何か用？" />
-  <key id="1121222006000840" feature="" locale="" npc="보겐" name="今日は少し体重が減ったのかな…。" />
-  <key id="0831180306000172" feature="" locale="" npc="팜" name="どうしましたか？" />
-  <key id="0831180306000173" feature="" locale="" npc="팜" name="最高の乗り心地を誇る安全な乗り物を売っています！" />
-  <key id="0831180306000174" feature="" locale="" npc="팜" name="羊飼いの少年がうそつきってのはデマだ！風評被害だ！" />
-  <key id="0831180306000175" feature="" locale="" npc="날카로운 채찍" name="何か用？" />
-  <key id="0831180306000176" feature="" locale="" npc="날카로운 채찍" name="僕が直接調教した乗り物を見てって～！" />
-  <key id="0831180306000177" feature="" locale="" npc="날카로운 채찍" name="モンスター調教が簡単そうに見えるのか？" />
-  <key id="0831180306000178" feature="" locale="" npc="비스트" name="どうした？" />
-  <key id="0831180306000179" feature="" locale="" npc="비스트" name="可愛い乗り物を見てみないか？" />
-  <key id="0831180306000180" feature="" locale="" npc="비스트" name="何も買わずに帰る客が多いな。これからは入場料をもらっちゃおうかな。" />
-  <key id="0831180306000181" feature="" locale="" npc="펀치" name="どうしたの？" />
-  <key id="0831180306000182" feature="" locale="" npc="펀치" name="日差しが強いわね～！" />
-  <key id="0831180306000183" feature="" locale="" npc="펀치" name="ジュースを飲んで体を冷やしてみない？" />
-  <key id="0831180306000184" feature="" locale="" npc="펀치" name="スペシャルなレシピで作ったジュースなのよ～。" />
-  <key id="0831180306000185" feature="" locale="" npc="펀치" name="私が作ったジュースを、ただのジュースと思ったら大間違いだからね～。" />
-  <key id="0831180306000186" feature="" locale="" npc="펀치" name="全世界の人がこのジュースを求めてあたしのところを訪ねてくるのよ！" />
-  <key id="1121222006000841" feature="" locale="" npc="리키" name="何か用？" />
-  <key id="1121222006000842" feature="" locale="" npc="리키" name="何か用？" />
-  <key id="0831180306000190" feature="" locale="" npc="바니걸" name="何か用？" />
-  <key id="0831180306000191" feature="" locale="" npc="짜루" name="いらっしゃい！" />
-  <key id="0831180306000192" feature="" locale="" npc="짜루" name="めったにないチャンスですよ～。" />
-  <key id="0831180306000193" feature="" locale="" npc="짜루" name="頑張った分お腹も空く！" />
-  <key id="0831180306000194" feature="" locale="" npc="짜루" name="ほっぺたが落ちるほど美味しいですよ！" />
-  <key id="0831180306000195" feature="" locale="" npc="짜루" name="競技場の花といえば、何といっても応援ですよね～。" />
-  <key id="0831180306000196" feature="" locale="" npc="짜루" name="一度食べてみてください！" />
-  <key id="0831180306000197" feature="" locale="" npc="짜루" name="ゆっくりごらんくださ～い。" />
-  <key id="0831180306000198" feature="" locale="" npc="체프" name="何か用？" />
-  <key id="0831180306000199" feature="" locale="" npc="롬벨" name="何か用？" />
-  <key id="0831180306000200" feature="" locale="" npc="티백" name="何か用？" />
-  <key id="0831180306000201" feature="" locale="" npc="바니걸" name="何か用？" />
-  <key id="0831180306000202" feature="" locale="" npc="리즈" name="何か用？" />
-  <key id="0831180306000203" feature="" locale="" npc="리즈" name="私が販売するものは全て高級品ですから～！" />
-  <key id="0831180306000204" feature="" locale="" npc="리즈" name="少しだけ話しません？" />
-  <key id="0831180306000205" feature="" locale="" npc="사브리나" name="どうしたの？" />
-  <key id="0831180306000206" feature="" locale="" npc="사브리나" name="いい物をたくさん揃えてますよ～！ご覧くださ～い！" />
-  <key id="0831180306000207" feature="" locale="" npc="사브리나" name="あれ！お金が足りない！" />
-  <key id="0831180306000208" feature="" locale="" npc="에밀리" name="いらっしゃいませ。キャシーマートでございます。" />
-  <key id="0831180306000209" feature="" locale="" npc="에밀리" name="いらっしゃいませ～。キャシーマートでございま～す。" />
-  <key id="0831180306000210" feature="" locale="" npc="에밀리" name="お会計はこちらでお願いします。" />
-  <key id="0831180306000211" feature="" locale="" npc="에밀리" name="何かお探しのものがありますか？" />
-  <key id="0831180306000212" feature="" locale="" npc="가젤" name="いらっしゃいませ。キャシーマートでございます。" />
-  <key id="0831180306000213" feature="" locale="" npc="가젤" name="いらっしゃいませ～。キャシーマートでございま～す。" />
-  <key id="0831180306000214" feature="" locale="" npc="가젤" name="お会計はこちらでお願いします。" />
-  <key id="0831180306000215" feature="" locale="" npc="가젤" name="何かお探しのものがありますか？" />
-  <key id="0831180306000216" feature="" locale="" npc="린지" name="いらっしゃいませ。キャシーマートでございます。" />
-  <key id="0831180306000217" feature="" locale="" npc="린지" name="いらっしゃいませ～。キャシーマートでございま～す。" />
-  <key id="0831180306000218" feature="" locale="" npc="린지" name="お会計はこちらでお願いします。" />
-  <key id="0831180306000219" feature="" locale="" npc="린지" name="何かお探しのものがありますか？" />
-  <key id="0831180306000220" feature="" locale="" npc="밀레나" name="いらっしゃいませ。キャシーマートでございます。" />
-  <key id="0831180306000221" feature="" locale="" npc="밀레나" name="いらっしゃいませ～。キャシーマートでございま～す。" />
-  <key id="0831180306000222" feature="" locale="" npc="밀레나" name="お会計はこちらでお願いします。" />
-  <key id="0831180306000223" feature="" locale="" npc="밀레나" name="何かお探しのものがありますか？" />
-  <key id="0831180306000224" feature="" locale="" npc="치아토" name="何か用？" />
-  <key id="0831180306000225" feature="" locale="" npc="치아토" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000226" feature="" locale="" npc="치아토" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000227" feature="" locale="" npc="치아토" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000228" feature="" locale="" npc="빈디체" name="何か用？" />
-  <key id="0831180306000229" feature="" locale="" npc="빈디체" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000230" feature="" locale="" npc="빈디체" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000231" feature="" locale="" npc="빈디체" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000232" feature="" locale="" npc="벨페고르" name="何か用？" />
-  <key id="0831180306000233" feature="" locale="" npc="벨페고르" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000234" feature="" locale="" npc="벨페고르" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000235" feature="" locale="" npc="벨페고르" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000236" feature="" locale="" npc="모스카" name="何か用？" />
-  <key id="0831180306000237" feature="" locale="" npc="모스카" name="生存に役立つものは予め購入しといた方がいいぜ！" />
-  <key id="0831180306000238" feature="" locale="" npc="모스카" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000239" feature="" locale="" npc="모스카" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000240" feature="" locale="" npc="나이트 전용 상인" name="何か用？" />
-  <key id="0831180306000241" feature="" locale="" npc="버서커 전용 상인" name="何か用？" />
-  <key id="0831180306000242" feature="" locale="" npc="위자드 전용 상인" name="何か用？" />
-  <key id="0831180306000243" feature="" locale="" npc="프리스트 전용 상인" name="何か用？" />
-  <key id="0831180306000244" feature="" locale="" npc="레인저 전용 상인" name="何か用？" />
-  <key id="0831180306000245" feature="" locale="" npc="헤비거너 전용 상인" name="何か用？" />
-  <key id="0831180306000246" feature="" locale="" npc="시프 전용 상인" name="何か用？" />
-  <key id="0831180306000247" feature="" locale="" npc="어쌔신 전용 상인" name="何か用？" />
-  <key id="1121222006000843" feature="" locale="" npc="진저스" name="何か用？" />
-  <key id="1121222006000844" feature="" locale="" npc="진저스" name="何か用？" />
-  <key id="1121222006000845" feature="" locale="" npc="빈센트" name="何か用？" />
-  <key id="1121222006000846" feature="" locale="" npc="빈센트" name="私は尻尾の長い人が嫌いだ。" />
-  <key id="1121222006000847" feature="" locale="" npc="디오니" name="どうしましたか？" />
-  <key id="1121222006000848" feature="" locale="" npc="디오니" name="$map:02000023$式建物の室内はとても涼しいです！" />
-  <key id="1121222006000849" feature="" locale="" npc="카지미르" name="何か用？" />
-  <key id="1121222006000850" feature="" locale="" npc="카지미르" name="マイホームを建てられる日は来るだろうか…。" />
-  <key id="0831180306000260" feature="" locale="" npc="일곱 빛깔 무지개" name="何か用？" />
-  <key id="0831180306000261" feature="" locale="" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
-  <key id="0831180306000262" feature="" locale="" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
-  <key id="0831180306000263" feature="" locale="" npc="일곱 빛깔 무지개" name="今はレベル30制限装備までしか扱っていません。" />
-  <key id="0831180306000264" feature="" locale="" npc="키리엔" name="どうしましたか？" />
-  <key id="0831180306000265" feature="" locale="" npc="키리엔" name="錬金術で作った特別なポーションがありま～す！" />
-  <key id="0831180306000266" feature="" locale="" npc="키리엔" name="私が調合したポーションの効き目は世界一ですよ！" />
-  <key id="0831180306000267" feature="" locale="" npc="모건" name="どうした？" />
-  <key id="0831180306000268" feature="" locale="" npc="모건" name="良い武器が入ったぞ～。" />
-  <key id="0831180306000269" feature="" locale="" npc="모건" name="武器より強い者になれ！" />
-  <key id="0831180306000270" feature="" locale="" npc="와트" name="どうした？" />
-  <key id="0831180306000271" feature="" locale="" npc="와트" name="さあさあ、見てって～。" />
-  <key id="0831180306000272" feature="" locale="" npc="와트" name="素敵な装備との出会いがあるかもしれないのに？" />
-  <key id="0831180306000273" feature="" locale="" npc="와트" name="飯の時間のような気がするが…。" />
-  <key id="0831180306000274" feature="" locale="" npc="보딘" name="何か用？" />
-  <key id="0831180306000275" feature="" locale="" npc="보딘" name="もちろんご存知ですよね！ゴルドス銀行！" />
-  <key id="0831180306000276" feature="" locale="" npc="보딘" name="えっ…！ご存知ないんですか？ゴルドス銀行のこと？" />
-  <key id="0831180306000277" feature="" locale="" npc="보딘" name="心配無用！安心してお預けください！" />
-  <key id="0831180306000278" feature="" locale="" npc="붉은 태양의 노래" name="何か用？" />
-  <key id="0831180306000279" feature="" locale="" npc="붉은 태양의 노래" name="私が販売している商品はメルでは買えないものですから。" />
-  <key id="0831180306000280" feature="" locale="" npc="붉은 태양의 노래" name="私が販売しているアイテムがほしいですか？ならば、英雄になってください！" />
-  <key id="0831180306000281" feature="" locale="" npc="붉은 태양의 노래" name="とても珍しい乗り物ですよ！" />
-  <key id="0831180306000282" feature="" locale="" npc="라이든" name="何か用？" />
-  <key id="0831180306000283" feature="" locale="" npc="라이든" name="世の中っつーのは取引で成り立っているぜ！" />
-  <key id="0831180306000284" feature="" locale="" npc="라이든" name="お前は別に何も必要なさそうだが…？ " />
-  <key id="1121222006000851" feature="" locale="" npc="타바사" name="何か用？" />
-  <key id="1121222006000852" feature="" locale="" npc="타바사" name="メイドと一緒に過ごしながら世話をしたり、してもらったりすると、心が温まると思います。" />
-  <key id="0831180306000289" feature="" locale="" npc="일곱 빛깔 무지개" name="何か用？" />
-  <key id="0831180306000290" feature="" locale="" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
-  <key id="0831180306000291" feature="" locale="" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
-  <key id="0831180306000292" feature="" locale="" npc="일곱 빛깔 무지개" name="レベル40制限装備が入荷されました！" />
-  <key id="1121222006000853" feature="" locale="" npc="델브" name="何か用？" />
-  <key id="1121222006000854" feature="" locale="" npc="델브" name="僕のヘアスタイル、素敵でしょう？" />
-  <key id="0831180306000296" feature="" locale="" npc="도키" name="$npc:11000735[gender:1]$が一番なのに…。" />
-  <key id="0831180306000297" feature="" locale="" npc="도키" name="何が嬉しくて騒いでいるのやら…。" />
-  <key id="0831180306000298" feature="" locale="" npc="도키" name="$npc:11000735[gender:1]$が一番なのに…。" />
-  <key id="0831180306000299" feature="" locale="" npc="도키" name="あいつら、本当にうるさいんです…。&#xA;$npcName:11000406[gender:0]$のどこがカッコイイのやら…。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;をひと目見れば$npcName:11000406[gender:0]$なんか…きっと眼中に入らなくなりますよ。 " />
-  <key id="0831180306000300" feature="" locale="" npc="도키" name="$MyPCName$さん、&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;のこと、知っています？" />
-  <key id="0831180306000301" feature="" locale="" npc="pc" name="$npcName:11000735[gender:1]$のことを知っていると言う。" />
-  <key id="0831180306000302" feature="" locale="" npc="pc" name="$npcName:11000735[gender:1]$が誰なのか聞く。" />
-  <key id="0831180306000303" feature="" locale="" npc="pc" name="$npc:11000406[gender:0]$が一番だと話す。" />
-  <key id="0831180306000304" feature="" locale="" npc="도키" name="えっ、本当ですか？&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;を見たことがあるんですか？&#xA;僕は以前、一回だけ見たんですけど…。" />
-  <key id="0831180306000305" feature="" locale="" npc="도키" name="それは一瞬の出来事でした…。パッと光っては消えていく星のような…。&#xA;不思議なのは&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;の姿だけはとても鮮明に見えたことなんです。ほんの一瞬だったのに…。&#xA;まるで写真を撮るときのように…僕は彼女の姿をはっきり覚えています。" />
-  <key id="0831180306000306" feature="" locale="" npc="도키" name="あれ以来、&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;にもう一度会いたくて、彼女が現れたというところに駆けつける毎日を送っています。&#xA;まだ…彼女に会えていませんが、僕のように&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;を目撃した人たちに教えてもらった通りに$npc:11000735[gender:1]$の姿を描いています。&#xA;そうやって出来上がった絵がもう何十枚もあります。" />
-  <key id="0831180306000307" feature="" locale="" npc="도키" name="この絵を眺めていると&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;の空のような魅力が感じられると言うか…。&#xA;空は刻一刻その姿を変えるじゃないですか…。&#xA;夕焼け…雲…。僕の言っていることが分かりますか？" />
-  <key id="0831180306000308" feature="" locale="" npc="도키" name="僕もよく分かりません。彼女が誰なのか…。&#xA;ただみんな&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;と呼んでいます。&#xA;突然現れて…突然消えるけど…とても…可愛いんです…。&#xA;僕は彼女に一目惚れしてしまいました！" />
-  <key id="0831180306000309" feature="" locale="" npc="도키" name="今は彼女の絵を眺めているしかありませんが…。&#xA;いつか必ず！彼女に会って僕の気持ちを伝えます！" />
-  <key id="0831180306000310" feature="" locale="" npc="도키" name="へっ…あなたも、あそこで黄色い声を上げてる子たちと同じですね。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;を一度でも目にしたら、すっかり気が変わると思いますけど…。" />
-  <key id="0831180306000314" feature="" locale="" npc="주스토" name="何か用？" />
-  <key id="0831180306000315" feature="" locale="" npc="주스토" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000316" feature="" locale="" npc="주스토" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000317" feature="" locale="" npc="주스토" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000318" feature="" locale="" npc="샤오루" name="何か用？" />
-  <key id="0831180306000319" feature="" locale="" npc="샤오루" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000320" feature="" locale="" npc="샤오루" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000321" feature="" locale="" npc="샤오루" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000322" feature="" locale="" npc="지아" name="何か用？" />
-  <key id="0831180306000323" feature="" locale="" npc="지아" name="あぁ～日差しが暖かい。" />
-  <key id="0831180306000324" feature="" locale="" npc="지아" name="わあ～涼しい潮風！" />
-  <key id="0831180306000325" feature="" locale="" npc="슐츠" name="何か用？" />
-  <key id="0831180306000326" feature="" locale="" npc="슐츠" name="世の中っつーのは取引で成り立っているぜ！" />
-  <key id="0831180306000327" feature="" locale="" npc="슐츠" name="お前は別に何も必要なさそうだが…？ " />
-  <key id="0831180306000328" feature="" locale="" npc="마하" name="何か用？" />
-  <key id="0831180306000329" feature="" locale="" npc="마하" name="世の中っつーのは取引で成り立っているぜ！" />
-  <key id="0831180306000330" feature="" locale="" npc="마하" name="お前は別に何も必要なさそうだが…？ " />
-  <key id="1121222006000855" feature="" locale="" npc="그리드" name="何か用？" />
-  <key id="1121222006000856" feature="" locale="" npc="그리드" name="何か用？" />
-  <key id="1121222006000857" feature="" locale="" npc="듀나" name="何か用？" />
-  <key id="1121222006000858" feature="" locale="" npc="듀나" name="何か用？" />
-  <key id="1121222006000859" feature="" locale="" npc="티앤크" name="何か用？" />
-  <key id="1121222006000860" feature="" locale="" npc="티앤크" name="何か用？" />
-  <key id="1121222006000861" feature="" locale="" npc="노라" name="何か用？" />
-  <key id="1121222006000862" feature="" locale="" npc="노라" name="何か用？" />
-  <key id="0831180306000339" feature="" locale="" npc="아가사" name="何か用？" />
-  <key id="0831180306000340" feature="" locale="" npc="아가사" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000341" feature="" locale="" npc="아가사" name="この世界は実に興味深い。" />
-  <key id="0831180306000342" feature="" locale="" npc="아가사" name="少し高いけど品質は保証します。" />
-  <key id="0831180306000343" feature="" locale="" npc="아가사" name="買いたくなければ別にいいんですよ！" />
-  <key id="0831180306000344" feature="" locale="" npc="이올렛" name="何か用？" />
-  <key id="0831180306000345" feature="" locale="" npc="이올렛" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000346" feature="" locale="" npc="이올렛" name="この世界は実に興味深い。" />
-  <key id="0831180306000347" feature="" locale="" npc="이올렛" name="少し高いけど品質は保証します。" />
-  <key id="0831180306000348" feature="" locale="" npc="이올렛" name="買いたくなければ別にいいんですよ！" />
-  <key id="0831180306000349" feature="" locale="" npc="페퍼" name="何か用？" />
-  <key id="0831180306000350" feature="" locale="" npc="페퍼" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000351" feature="" locale="" npc="페퍼" name="この世界は実に興味深い。" />
-  <key id="0831180306000352" feature="" locale="" npc="페퍼" name="少し高いけど品質は保証します。" />
-  <key id="0831180306000353" feature="" locale="" npc="페퍼" name="買いたくなければ別にいいんですよ！" />
-  <key id="0831180306000354" feature="" locale="" npc="유니" name="何か用？" />
-  <key id="0831180306000355" feature="" locale="" npc="유니" name="トゥルカのオーラが次第に強くなってきている…。" />
-  <key id="0831180306000356" feature="" locale="" npc="유니" name="この世界は実に興味深い。" />
-  <key id="0831180306000357" feature="" locale="" npc="유니" name="少し高いけど品質は保証します。" />
-  <key id="0831180306000358" feature="" locale="" npc="유니" name="買いたくなければ別にいいんですよ！" />
-  <key id="1216202006000616" feature="" locale="" npc="웅이" name="どうしたんだい？" />
-  <key id="0831180306000359" feature="" locale="" npc="차차" name="あら、私に会いにきたんですか？" />
-  <key id="0831180306000360" feature="" locale="" npc="차차" name="あぁ、ピンクラムも連れて行けばよかった…。" />
-  <key id="0831180306000361" feature="" locale="" npc="차차" name="気分転換には旅行が一番よね～。" />
-  <key id="0831180306000362" feature="" locale="" npc="차차" name="私はね～みんなと同じが嫌なんです！" />
-  <key id="0831180306000363" feature="" locale="" npc="행크" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000364" feature="" locale="" npc="행크" name="便利さをお求めの方におすすめです！" />
-  <key id="0831180306000365" feature="" locale="" npc="행크" name="アイテムやメルを預ける場所が必要ですか？" />
-  <key id="0831180306000366" feature="" locale="" npc="행크" name="$map:02000216$でもぜひお立ち寄りくださいませ～！ゴルドス銀行へ！" />
-  <key id="0831180306000367" feature="" locale="" npc="행크" name="場所が場所だけにセキュリティには細心の注意を払っております。" />
-  <key id="0831180306000368" feature="" locale="" npc="프릿츠" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0831180306000369" feature="" locale="" npc="프릿츠" name="アイテムやメルを預けたいですか？こちらへどうぞ～。" />
-  <key id="0831180306000370" feature="" locale="" npc="프릿츠" name="安心・安全のゴルドス銀行をご利用くださ～い。" />
-  <key id="0831180306000371" feature="" locale="" npc="프릿츠" name="$map:02000203$でもぜひお立ち寄りくださいませ～！ゴルドス銀行へ！" />
-  <key id="0831180306000372" feature="" locale="" npc="프릿츠" name="金庫をご利用の際は私に声をかけてくださいませ。" />
-  <key id="0831180306000373" feature="" locale="" npc="블란체" name="あれ？私に何かご用でも…？" />
-  <key id="0831180306000374" feature="" locale="" npc="블란체" name="私と取引できる資格があるかどうか…確かめてみましょうか？" />
-  <key id="0831180306000375" feature="" locale="" npc="블란체" name="あなたを顧客として認めるかどうかはこの私が決めます！" />
-  <key id="0831180306000376" feature="" locale="" npc="블란체" name="$MyPCName$さんとは取引しません。&#xA;私は&lt;font color=&quot;#ffd200&quot;&gt;$achieve:23200015$&lt;/font&gt;トロフィーを得た方たちのためにここにいるんです。&#xA;私に会うためにわざわざここまで来たのなら、ごめんなさいね。" />
-  <key id="0831180306000377" feature="" locale="" npc="메이플 북스" name="メイプルストーリー2のファンアートブックを販売する売店。" />
-  <key id="0831180306000378" feature="" locale="" npc="녹스" name="何か用？" />
-  <key id="0831180306000379" feature="" locale="" npc="녹스" name="私は、$item:40100023$なんか扱ってないんだ！" />
-  <key id="0831180306000380" feature="" locale="" npc="녹스" name="私は確かな取引しかやらなかった…。" />
-  <key id="0831180306000381" feature="" locale="" npc="녹스" name="$item:40100024$があるのか？ふむ…それは残念だな…。" />
-  <key id="1208032606000568" feature="" locale="" npc="녹스" name="ん？お前は何だ？&#xA;品物の取り引きでもしに来たのか？" />
-  <key id="1208032606000569" feature="" locale="" npc="pc" name="$item:40100024$を収集していると聞いたと話す。" />
-  <key id="1208032606000570" feature="" locale="" npc="녹스" name="ああ、それか。&#xA;よくぞ&lt;font color=&quot;#ffd200&quot;&gt;$item:40100024$&lt;/font&gt;を持ってきたと思うが、残念だったな。&#xA;商売はしばらくやめることにしたから、物を買うつもりなら&lt;font color=&quot;#ffd200&quot;&gt;ほか&lt;/font&gt;を当たってくれ。" />
-  <key id="1208032606000571" feature="" locale="" npc="pc" name="商売をやめる理由を聞く。" />
-  <key id="1208032606000572" feature="" locale="" npc="녹스" name="…何でやめるのかって？&#xA;おい、青二才。それは&lt;font color=&quot;#ffd200&quot;&gt;冗談&lt;/font&gt;のつもりか？&#xA;商人が商売をやめる理由が他にあるか？&lt;font color=&quot;#ffd200&quot;&gt;売り上げが赤字&lt;/font&gt;だからやめるんだよ。" />
-  <key id="1208032606000573" feature="" locale="" npc="녹스" name="商品の構成を変えるか、この機会にいっそ全部やめちまうか…。&#xA;まだ&lt;font color=&quot;#ffd200&quot;&gt;悩んでいる&lt;/font&gt;ところだから、邪魔をしないでさっさと行け。&#xA;&lt;font color=&quot;#909090&quot;&gt;(かなり気が立っているようなので、これ以上話さない方がよさそうだ)&lt;/font&gt;" />
-  <key id="0831180306000382" feature="" locale="" npc="테로사" name="何か用？" />
-  <key id="0831180306000383" feature="" locale="" npc="테로사" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000384" feature="" locale="" npc="테로사" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000385" feature="" locale="" npc="로미닉" name="何か用？" />
-  <key id="0831180306000386" feature="" locale="" npc="로미닉" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000387" feature="" locale="" npc="로미닉" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000388" feature="" locale="" npc="베리엇" name="何か用？" />
-  <key id="0831180306000389" feature="" locale="" npc="베리엇" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000390" feature="" locale="" npc="베리엇" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000391" feature="" locale="" npc="룰케" name="何か用？" />
-  <key id="0831180306000392" feature="" locale="" npc="룰케" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000393" feature="" locale="" npc="룰케" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000394" feature="" locale="" npc="타자스" name="何か用？" />
-  <key id="0831180306000395" feature="" locale="" npc="타자스" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000396" feature="" locale="" npc="타자스" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000397" feature="" locale="" npc="일곱 빛깔 무지개" name="何か用？" />
-  <key id="0831180306000398" feature="" locale="" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
-  <key id="0831180306000399" feature="" locale="" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
-  <key id="0831180306000400" feature="" locale="" npc="일곱 빛깔 무지개" name="レベル50制限装備が入荷されました！" />
-  <key id="0831180306000401" feature="" locale="" npc="키페온" name="何か用？" />
-  <key id="0831180306000402" feature="" locale="" npc="키페온" name="生存に役立つものは予め購入しといた方がいいよ！" />
-  <key id="0831180306000403" feature="" locale="" npc="키페온" name="強い闇の力が感じられる…。" />
-  <key id="0831180306000404" feature="" locale="" npc="루트" name="俺に用か？" />
-  <key id="0831180306000405" feature="" locale="" npc="루트" name="$item:40100024$は多ければ多いほどいいぞ！" />
-  <key id="0831180306000406" feature="" locale="" npc="루트" name="強い戦士になりたいのか？俺が売っているものを使えば誰だって強くなれるぜ！" />
-  <key id="0831180306000407" feature="" locale="" npc="루트" name="$item:40100024$を持っているなら俺のところに来てくれ！" />
-  <key id="0809123006000906" feature="" locale="" npc="루트" name="ん？まだ物を用意できていないんだ。また今度来てくれ。" />
-  <key id="0922164706000504" feature="" locale="" npc="일곱 빛깔 무지개" name="何か用？" />
-  <key id="0922164706000505" feature="" locale="" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
-  <key id="0922164706000506" feature="" locale="" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
-  <key id="0922164706000507" feature="" locale="" npc="일곱 빛깔 무지개" name="新しい商品が入荷しましたので、見ていってくださ～い。" />
-  <key id="1021213806000740" feature="" locale="" npc="페르시카" name="どれどれ…ううん…？" />
-  <key id="1014150906000508" feature="" locale="" npc="아리까리 상단" name="アヤフヤ商団が取り扱う品物が入っている雑貨ボックス。" />
-  <key id="1016142906000509" feature="" locale="" npc="롯피" name="トロフィーの価値が分かる者にだけ、貴重な品物を手に入れる資格があるんだ。" />
-  <key id="1016142906000510" feature="" locale="" npc="롯피" name="素敵なトロフィーは、常にそれ相応の価値を持つものさ。" />
-  <key id="1016142906000511" feature="" locale="" npc="롯피" name="トロフィー、トロフィー！もっとたくさんのトロフィーがほしい。" />
-  <key id="1016142906000512" feature="" locale="" npc="롯피" name="何だよ、このトロフィーの達人に何の用だ？&#xA;…ん？ひょっとしてトロフィーに興味があって私を訪ねてきたのか？" />
-  <key id="1016142906000513" feature="" locale="" npc="pc" name="トロフィーに興味がない者もいるのかと話す。" />
-  <key id="1016142906000514" feature="" locale="" npc="pc" name="トロフィーなんかには何の興味もないと話す。" />
-  <key id="1016142906000515" feature="" locale="" npc="롯피" name="ほう？君はトロフィーの価値がとてもよく分かってるな。&#xA;トロフィーの達人であるこのロッピ様をお手本にして、これからも頑張るんだぞ。&#xA;もちろん、この私に追いつくにはまだまだ時間がかかると思うけどね。クスクス…。" />
-  <key id="1016142906000516" feature="" locale="" npc="pc" name="トロフィーが増えると何か得でもあるのかと聞く。" />
-  <key id="1016142906000517" feature="" locale="" npc="롯피" name="うう…トロフィー集めに不純な意図を抱くとは！&#xA;…まあ、冒険の達人であるこの私のように、純粋にトロフィーを集めたい者を探すのは&#xA;不可能なんだろうが。" />
-  <key id="1016142906000518" feature="" locale="" npc="롯피" name="まあ、何だっていい。&#xA;万が一にも、私が保有しているトロフィーを…まあ、その可能性はこれっぽっちもないと思うがね。&#xA;とにかく、そんなことが起きたら、それ&lt;font color=&quot;#ffd200&quot;&gt;相応の物&lt;/font&gt;を君に渡すよ。" />
-  <key id="1016142906000519" feature="" locale="" npc="pc" name="それ相応の物？それは本当に価値のある物なのかと聞く。" />
-  <key id="1016142906000520" feature="" locale="" npc="롯피" name="何？今、このロッピ様をバカにするようなことを言ったな！&#xA;フン!! 私がメイプルワールドを放浪しながら集めた貴重な品物だ。&#xA;これからは私の話を疑ったりするんじゃないぞ！" />
-  <key id="1016142906000521" feature="" locale="" npc="롯피" name="トロフィー…なんか…だと？こいつ！&#xA;よ…よくもトロフィーをバカにしてくれたな？うう…トロフィーをバカにすることは、この&#xA;トロフィーの達人であられるロッピ様を侮辱するのと同じだ！" />
-  <key id="1016142906000522" feature="" locale="" npc="pc" name="そういうつもりで言ったのではないと謝る。" />
-  <key id="1016142906000523" feature="" locale="" npc="롯피" name="フンッ！そういう意味じゃないならいい。これからは口に気をつけろよ！&#xA;…トロフィーごときだなんて…うう…思い出しただけでムカつくな。&#xA;&lt;font color=&quot;#909090&quot;&gt;(ロッピが恐ろしい目つきで睨んできている。こ…これからは気をつけるようにしようか？)&lt;/font&gt;" />
-  <key id="1019141606000524" feature="" locale="" npc="펌프키니" name="お祭りは本当に楽しい！" />
-  <key id="1019141606000525" feature="" locale="" npc="펌프키니" name="うう…ハロウィンクーポンをくれないとイタズラするぞ!!" />
-  <key id="1019141606000526" feature="" locale="" npc="펌프키니" name="アブラカダブラ！ドキドキカボチャキャンディよ、出でよ～っ。" />
-  <key id="1022122006000527" feature="" locale="" npc="주다쿠" name="何かお探しかい？ククク…。金があるなら、好きなだけ見ていくといい。" />
-  <key id="1022122006000528" feature="" locale="" npc="주다쿠" name="貴重な品が手に入る場所は…。" />
-  <key id="1022122006000529" feature="" locale="" npc="주다쿠" name="チッ！&#xA;アヤフヤ商団の連中め、性根が腐っとるわい…。" />
-  <key id="1022122006000530" feature="" locale="" npc="주다쿠" name="何かお探しかい？ククク…。&#xA;存分に見物するといい。他の場所では&lt;font color=&quot;#ffd200&quot;&gt;見られない商品&lt;/font&gt;もあるからな。" />
-  <key id="1022122006000531" feature="" locale="" npc="pc" name="アクセントが変わってるが、出身はどこかと聞く。" />
-  <key id="1022122006000532" feature="" locale="" npc="주다쿠" name="ほう？耳が良いな？クックックッ…。&#xA;ここに来て、出身を聞かれたのは初めてだ。" />
-  <key id="1022122006000533" feature="" locale="" npc="pc" name="どこの出身かもう一度聞く。" />
-  <key id="1022122006000534" feature="" locale="" npc="주다쿠" name="どこだと言ったところで知らんだろうし…。海の向こう、遠くから来たということだけ知っておけばよい。&#xA;ふむ…そういや、&lt;font color=&quot;#ffd200&quot;&gt;$map:2000064$&lt;/font&gt;で&lt;font color=&quot;#ffd200&quot;&gt;アヤフヤ商団&lt;/font&gt;という連中に出くわしたことはあるかね？&#xA;あれだ…。&lt;font color=&quot;#ffd200&quot;&gt;ヤラリヨ～！&lt;/font&gt;とか言って騒ぎ立てる連中。" />
-  <key id="1022122006000535" feature="" locale="" npc="pc" name="誰のことを言っているのか分からないと答える。" />
-  <key id="1022122006000536" feature="" locale="" npc="pc" name="知っていると答える。" />
-  <key id="1022122006000537" feature="" locale="" npc="주다쿠" name="あの悪辣なやつらにまだ会っていないようだな。&#xA;いずれ会うことになったら気をつけるんだな。性根の腐り果てた連中だ。" />
-  <key id="1022122006000538" feature="" locale="" npc="pc" name="彼らが何をされたのかと聞く。" />
-  <key id="1022122006000539" feature="" locale="" npc="주다쿠" name="なんて厄介なことをしてくれたんだ。&#xA;たかが船賃を払わなかっただけで&lt;font color=&quot;#ffd200&quot;&gt;無賃乗船&lt;/font&gt;だと言って、俺を船から引きずり下ろした！&#xA;俺1人を乗せたところで、船が沈むわけでもないのに。&#xA;全く性根の腐った連中だ！" />
-  <key id="1022122006000540" feature="" locale="" npc="pc" name="船賃を払わずに船に乗ったこと自体が悪いのではないかと聞く。" />
-  <key id="1022122006000541" feature="" locale="" npc="주다쿠" name="ああ。そいつらだ。&#xA;気をつけるんだぞ！たかが船賃を払わなかっただけで&lt;font color=&quot;#ffd200&quot;&gt;無賃乗船&lt;/font&gt;だと言って、俺を船から引きずり下ろした&#xA;悪辣なやつら…全く性根の腐った連中だろ？" />
-  <key id="1022122006000542" feature="" locale="" npc="pc" name="船賃を払わずに船に乗ったこと自体が悪いのではないかと聞く。" />
-  <key id="1022122006000543" feature="" locale="" npc="주다쿠" name="何だと?! つまり、俺が悪かったと言うのか?!&#xA;フン！揃いも揃って性根の腐った連中ばかりだな！" />
-  <key id="1118145206000544" feature="" locale="" npc="퓨리" name="$item:90000014$さえ手に入るなら、妖精のお宝はいつ渡してもいいですよ。" />
-  <key id="1118145206000545" feature="" locale="" npc="퓨리" name="$item:90000014$がたくさん、たくさん必要なんです！" />
-  <key id="1118145206000546" feature="" locale="" npc="퓨리" name="$item:90000014$を持ってるなら、私にください！" />
-  <key id="1118145206000547" feature="" locale="" npc="퓨리" name="もしかして&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;を持ってきたんですか？&#xA;お宝と交換しませんか？私には&lt;font color=&quot;#ffd200&quot;&gt;お宝よりも貴重な実&lt;/font&gt;なんです…。" />
-  <key id="1118145206000548" feature="" locale="" npc="pc" name="$item:90000014$とは何なのかと聞く。" />
-  <key id="1118145206000549" feature="" locale="" npc="pc" name="$item:90000014$をいったい何に使うつもりか聞く。" />
-  <key id="1118145206000550" feature="" locale="" npc="pc" name="妖精たちの宝を$item:90000014$と交換しても良いのかと聞く。" />
-  <key id="1118145206000551" feature="" locale="" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;の影響を受けた木になる実なんですけど、&lt;font color=&quot;#ffd200&quot;&gt;闇の実&lt;/font&gt;とも呼ばれてます。&#xA;シャドウワールドの&lt;font color=&quot;#ffd200&quot;&gt;深い闇&lt;/font&gt;を宿した恐ろしい実なんですよ。" />
-  <key id="1118145206000552" feature="" locale="" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000031[gender:0]$&lt;/font&gt;さんと守護妖精たちが団結して&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;のオーラを食い止めました。&#xA;でも、一部の守護妖精たちが$item:90000014$の&lt;font color=&quot;#ffd200&quot;&gt;中毒&lt;/font&gt;になってしまったんです。&#xA;$npc:11000031[gender:0]$様がおっしゃっていました。&#xA;$item:90000014$の毒性を払えるのは、同じ毒性を持つ$item:90000014$だけだって。" />
-  <key id="1118145206000553" feature="" locale="" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;中毒症状&lt;/font&gt;を治療するには$item:90000014$の果汁エキスが必要で…。&#xA;そのエキスを手に入れるには、当然&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;が必要になりますよね。それも、ものすごくたくさん！" />
-  <key id="1118145206000554" feature="" locale="" npc="퓨리" name="お宝って、&lt;font color=&quot;#ffd200&quot;&gt;物&lt;/font&gt;でしかないでしょ？&lt;font color=&quot;#ffd200&quot;&gt;命&lt;/font&gt;より大事なはずがないんです。&#xA;森を守ろうとして苦しむはめになったみんなを救えるなら…。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;お宝より貴重なもの&lt;/font&gt;だって、いくらでも渡すつもりです！" />
-  <key id="1206041506000567" feature="" locale="" npc="산타 루돌프" name="クリスマスを記念して$map:2000064$を訪ねてきたルドルフだ。" />
-  <key id="1206032906000555" feature="" locale="" npc="로아르" name="何かご用ですか？" />
-  <key id="1206032906000556" feature="" locale="" npc="로아르" name="青い星…その不思議な力を知りたい…。" />
-  <key id="1206032906000557" feature="" locale="" npc="로아르" name="青い星を見つけたら、私のところに持ってきてください！" />
-  <key id="1206032906000558" feature="" locale="" npc="모나르" name="何かご用ですか？" />
-  <key id="1206032906000559" feature="" locale="" npc="모나르" name="青い星…その不思議な力を知りたい…。" />
-  <key id="1206032906000560" feature="" locale="" npc="모나르" name="青い星を見つけたら、私のところに持ってきてください！" />
-  <key id="1206034206000561" feature="" locale="" npc="아코르" name="何かご用ですか？" />
-  <key id="1206034206000562" feature="" locale="" npc="아코르" name="赤い星…その不思議な力を知りたい…。" />
-  <key id="1206034206000563" feature="" locale="" npc="아코르" name="赤い星を見つけたら、私のところに持ってきてください！" />
-  <key id="1206034206000564" feature="" locale="" npc="카네르" name="何かご用ですか？" />
-  <key id="1206034206000565" feature="" locale="" npc="카네르" name="赤い星…その不思議な力を知りたい…。" />
-  <key id="1206034206000566" feature="" locale="" npc="카네르" name="赤い星を見つけたら、私のところに持ってきてください！" />
-  <key id="1216150106000596" feature="" locale="" npc="슈테판" name="音楽は誰でも楽しめます！今すぐ始めましょう！" />
-  <key id="1216150106000597" feature="" locale="" npc="슈테판" name="あなたでも演奏できます！" />
-  <key id="1216150106000598" feature="" locale="" npc="슈테판" name="あなたでも作曲できます！" />
-  <key id="1216150106000599" feature="" locale="" npc="슈테판" name="音楽に身を任せて～メロディに乗って走れ～。" />
-  <key id="1216150106000600" feature="" locale="" npc="슈테판" name="&lt;font color=&quot;#ffd200&quot;&gt;楽器&lt;/font&gt;さえあれば、誰でも&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;を行うことができます。&#xA;私たち&lt;font color=&quot;#ffd200&quot;&gt;ロイヤルミュージックアカデミー&lt;/font&gt;が用意した楽器を使い、音楽の世界に足を踏み入れてみませんか？" />
-  <key id="1216150106000601" feature="" locale="" npc="pc" name="演奏方法について知りたいと話す。" />
-  <key id="1216150106000602" feature="" locale="" npc="슈테판" name="演奏をするには、楽器をクリックしてください。簡単でしょ？&#xA;即興演奏もできますし、&lt;font color=&quot;#ffd200&quot;&gt;楽譜&lt;/font&gt;に従って演奏することもできます！" />
-  <key id="1216150106000603" feature="" locale="" npc="pc" name="楽譜演奏はどうやって使うのかと聞く。" />
-  <key id="1216150106000604" feature="" locale="" npc="슈테판" name="楽譜演奏をしたいなら、方法は簡単です！&#xA;楽譜を購入するか、白紙の楽譜を買って音楽を記入すればいいんです。&#xA;自分で作曲した曲を多くの人に聴かせられる便利なチャンス！&#xA;どうでしょう？魅力的だと思いませんか？ " />
-  <key id="1216150106000605" feature="" locale="" npc="슈테판" name="音楽は遠くにあるのではなく、いつもそばにあるんです。&#xA;可愛いダッキーのように。&#xA;私が提案するこのアイテムをご覧になって、演奏に挑戦してみてください！" />
-  <key id="1216150106000606" feature="" locale="" npc="클루페리자크" name="音楽は誰でも楽しめます！今すぐ始めましょう！" />
-  <key id="1216150106000607" feature="" locale="" npc="클루페리자크" name="あなたでも演奏できます！" />
-  <key id="1216150106000608" feature="" locale="" npc="클루페리자크" name="あなたでも作曲できます！" />
-  <key id="1216150106000609" feature="" locale="" npc="클루페리자크" name="ビートと呼吸する私～イェーイ！YO！" />
-  <key id="1216150106000610" feature="" locale="" npc="클루페리자크" name="&lt;font color=&quot;#ffd200&quot;&gt;楽器&lt;/font&gt;さえあれば、誰でも&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;を行うことができます。&#xA;私たち&lt;font color=&quot;#ffd200&quot;&gt;ロイヤルミュージックアカデミー&lt;/font&gt;が用意した楽器を使い、音楽の世界に足を踏み入れてみませんか？" />
-  <key id="1216150106000611" feature="" locale="" npc="pc" name="演奏方法について知りたいと話す。" />
-  <key id="1216150106000612" feature="" locale="" npc="클루페리자크" name="演奏をするには、楽器をクリックしてください。簡単でしょ？&#xA;即興演奏もできますし、&lt;font color=&quot;#ffd200&quot;&gt;楽譜&lt;/font&gt;に従って演奏することもできます！" />
-  <key id="1216150106000613" feature="" locale="" npc="pc" name="楽譜演奏はどうやって使うのかと聞く。" />
-  <key id="1216150106000614" feature="" locale="" npc="클루페리자크" name="楽譜演奏をしたいなら、方法は簡単です！&#xA;楽譜を購入するか、白紙の楽譜を買って音楽を記入すればいいんです。&#xA;自分で作曲した曲を多くの人に聴かせられる便利なチャンス！&#xA;どうでしょう？魅力的だと思いませんか？ " />
-  <key id="1216150106000615" feature="" locale="" npc="클루페리자크" name="音楽は遠くにあるのではなく、いつもそばにあるんです。&#xA;可愛いダッキーのように。&#xA;私が提案するこのアイテムをご覧になって、演奏に挑戦してみてください！" />
-  <key id="1216202006000617" feature="" locale="" npc="레스터" name="どうしたんだい？" />
-  <key id="1216202006000618" feature="" locale="" npc="오린" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="1216202006000619" feature="" locale="" npc="오린" name="アイテムやメルを預ける場所が必要ですか？" />
-  <key id="1216202006000620" feature="" locale="" npc="오린" name="金庫をご利用の際は私に声をかけてくださいませ。" />
-  <key id="0211204406000704" feature="" locale="" npc="아리몽" name="本当に必要なものを持ってるのは、この私だと思いますよ？" />
-  <key id="0211204406000705" feature="" locale="" npc="아리몽" name="こちらをご覧くださ～い。" />
-  <key id="0211204406000706" feature="" locale="" npc="아리몽" name="そこじゃなくて、ここですよ～。" />
-  <key id="0809170706000907" feature="" locale="" npc="아리몽" name="アリィ？" />
-  <key id="1219170106000621" feature="" locale="" npc="마그리카" name="何かご用でしょうか？" />
-  <key id="1219170106000622" feature="" locale="" npc="바그리카" name="何かご用でしょうか？" />
-  <key id="1219223606000683" feature="" locale="" npc="당당" name="何しに来たんだミー！" />
-  <key id="1219235406000684" feature="" locale="" npc="넬리" name="どういったご用ですか？" />
-  <key id="1219235406000685" feature="" locale="" npc="잔켈" name="何か用か？" />
-  <key id="1221172106000686" feature="" locale="" npc="피즈" name="大物を釣り上げたいか？" />
-  <key id="1221172106000687" feature="" locale="" npc="피즈" name="大物を釣り上げたときの手応えは忘れられん！" />
-  <key id="1221172106000688" feature="" locale="" npc="피즈" name="エサを使えば、釣りがうんと楽になるぞ！" />
-  <key id="1221172106000689" feature="" locale="" npc="피즈" name="釣りに必要なものをお探しか？" />
-  <key id="1222162206000690" feature="" locale="" npc="델리비" name="どうしましたか？" />
-  <key id="1121222006000863" feature="" locale="" npc="따사미아" name="何か用？" />
-  <key id="1121222006000864" feature="" locale="" npc="따사미아" name="何か用？" />
-  <key id="1121222006000865" feature="" locale="" npc="칼코" name="どうしましたか？" />
-  <key id="1121222006000866" feature="" locale="" npc="칼코" name="どうしましたか？" />
-  <key id="1121222006000869" feature="" locale="" npc="투라지" name="どうした？" />
-  <key id="1121222006000870" feature="" locale="" npc="투라지" name="どうした？" />
-  <key id="1122123706000873" feature="" locale="" npc="랑피르" name="どうした？" />
-  <key id="1122123706000874" feature="" locale="" npc="랑피르" name="どうした？" />
-  <key id="1223011306000695" feature="" locale="" npc="뮤아" name="どうしましたか？" />
-  <key id="1223011306000696" feature="" locale="" npc="팅코" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="1223011306000697" feature="" locale="" npc="팅코" name="アイテムやメルを預ける場所が必要ですか？" />
-  <key id="1223011306000698" feature="" locale="" npc="팅코" name="金庫をご利用の際は私に声をかけてくださいませ。" />
-  <key id="0106151806000699" feature="" locale="" npc="아리까리 상단" name="アヤフヤ商団が取り扱う品物が入っている雑貨ボックス。" />
-  <key id="0118163406000700" feature="" locale="" npc="펄시" name="何をしに来た？" />
-  <key id="0118163406000701" feature="" locale="" npc="르노" name="何をしに来た？" />
-  <key id="0204150506000702" feature="" locale="" npc="아시란테" name="何かご用ですか？" />
-  <key id="0204150506000703" feature="" locale="" npc="테릴시아" name="何かご用ですか？" />
-  <key id="0304160706000711" feature="" locale="" npc="에듀앙" name="何かご用ですか？" />
-  <key id="0304160706000712" feature="" locale="" npc="스투디" name="何かご用ですか？" />
-  <key id="0302204206000707" feature="" locale="" npc="피즈" name="大物を釣り上げたいか？" />
-  <key id="0302204206000708" feature="" locale="" npc="피즈" name="大物を釣り上げたときの手応えは忘れられん！" />
-  <key id="0302204206000709" feature="" locale="" npc="피즈" name="エサを使えば、釣りがうんと楽になるぞ！" />
-  <key id="0302204206000710" feature="" locale="" npc="피즈" name="釣りに必要なものをお探しか？" />
-  <key id="0318211806000713" feature="" locale="" npc="펀치" name="どうしたの？" />
-  <key id="0318211806000714" feature="" locale="" npc="펀치" name="踊ったら喉が渇いたでしょ？そんなときはジュースよね～！" />
-  <key id="0318211806000715" feature="" locale="" npc="펀치" name="ゲームをしていたら喉が渇くでしょ？そんなときはジュースよね～！" />
-  <key id="0319195006000716" feature="" locale="" npc="스머그" name="俺を訪ねてきたのか？" />
-  <key id="0319195006000717" feature="" locale="" npc="스머그" name="おい、良い品があるんだが、興味ないか？" />
-  <key id="0319195006000718" feature="" locale="" npc="스머그" name="他所で噂を立てるなよ～。" />
-  <key id="0322171106000719" feature="" locale="" npc="스머그" name="ふむ…品質の良い装備を探してるのか？&#xA;俺は&lt;font color=&quot;#ffd200&quot;&gt;ダンジョンでしか入手できない装備&lt;/font&gt;を取り扱っているが…興味があるなら見てってくれ。" />
-  <key id="0322171106000720" feature="" locale="" npc="pc" name="販売している品物に関して聞く。" />
-  <key id="0322171106000721" feature="" locale="" npc="pc" name="販売している品物はどこで手に入れたのかと聞く。" />
-  <key id="0322171106000722" feature="" locale="" npc="pc" name="信頼できる物なのかと聞く。" />
-  <key id="0322171106000723" feature="" locale="" npc="스머그" name="各ダンジョンで発見された物品を入れたボックスを、ダンジョンごとに分類して販売してるんだ。&#xA;もし君が優れた装備を手に入れるためにダンジョンを探索してるなら…。&#xA;俺が取り扱っている品物に食指が動くはずだ。&#xA;あえて危険を覚悟してダンジョンに潜らずとも、装備を手に入れることができるからな。" />
-  <key id="0322171106000724" feature="" locale="" npc="pc" name="ボックスにはズバリどんな物が入っているのかと聞く。" />
-  <key id="0322171106000725" feature="" locale="" npc="스머그" name="クク…俺は知らんさ。&#xA;かなりの値打ちがある装備が入ってるかもしれないし…。&#xA;運が悪ければ、本当にくだらない物しか詰まっていないかもしれん。" />
-  <key id="0322171106000726" feature="" locale="" npc="스머그" name="おっとっと！知っておいてもらいたいことが1つあるんだが、言い忘れるところだった。&#xA;一旦ボックスを開けると、該当するダンジョンでの報酬回数が減るから気をつけるんだぞ～。" />
-  <key id="0322171106000727" feature="" locale="" npc="스머그" name="俺のビジネスの秘密を聞くなんて図々しいやつだな。&#xA;冒険者たちが色んな目的でダンジョンを探検するように、貴重な財宝だけを専門的に狙う&#xA;者たちがいる。一種の&lt;font color=&quot;#ffd200&quot;&gt;トレジャーハンター&lt;/font&gt;と言ったところだな。&#xA;とにかく、そういった仕事に長けているプロ中のプロのことさ。" />
-  <key id="0322171106000728" feature="" locale="" npc="스머그" name="そんなやつらの中に、俺のような$npcFunction:11001535[gender:0]$と取引をする連中もいて当然だろ？ククッ…。&#xA;これ以上詳しく知る必要はないさ。俺には独自のルートがある。それだけ知っておけばいい。" />
-  <key id="0322171106000729" feature="" locale="" npc="스머그" name="信頼？君が言う信頼とは何だ？&#xA;販売者としての良心に懸けて言うが、俺だってボックスに何が入ってるのか知らないんだ。&#xA;もし何が入ってるか知ってて売ってるなら…ボックスごとに値打ちを決め直さないといけないな。" />
-  <key id="0322171106000730" feature="" locale="" npc="스머그" name="だが、品目を見れば分かると思うが、安値で販売してるだろ？&#xA;信頼云々はともかく、幸運を祈った方が良いと思うぜ。&#xA;ボックスからくだらない物が出てきたとしても、俺を恨まないでくれよ。クックッ…。" />
-  <key id="0421100406000731" feature="" locale="" npc="유스카" name="ここは私の故郷同然だ。" />
-  <key id="0421100406000732" feature="" locale="" npc="유스카" name="都市は窮屈だと思わないかね？また遊びに来るといい。" />
-  <key id="0421100406000733" feature="" locale="" npc="유스카" name="今日も大物を釣り上げてみようか？" />
-  <key id="0517224006000734" feature="" locale="" npc="코디아" name="ようこそ！新たなファッションの世界へ！" />
-  <key id="1021213806000741" feature="" locale="" npc="페스카" name="ようこそ。" />
-  <key id="1021213806000742" feature="" locale="" npc="메르치니" name="トゥルトゥトゥ～。" />
-  <key id="1021213806000743" feature="" locale="" npc="레이첼" name="何をお作りしましょうか？" />
-  <key id="1021213806000745" feature="" locale="" npc="레이첼" name="何をお作りしましょうか？" />
-  <key id="1021213806000746" feature="" locale="" npc="마칸" name="ふうむ…。" />
-  <key id="1021213806000747" feature="" locale="" npc="피아" name="やぁっほ～飛んでけ～。" />
-  <key id="1123000706000875" feature="" locale="" npc="타로즈" name="ようこそ。" />
-  <key id="0831180306000408" feature="" locale="" npc="에린" name="何か用？" />
-  <key id="0831180306000409" feature="" locale="" npc="에린" name="いらっしゃいませ～。" />
-  <key id="0831180306000410" feature="" locale="" npc="에린" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000411" feature="" locale="" npc="에린" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000412" feature="" locale="" npc="비비안" name="何か用？" />
-  <key id="0831180306000413" feature="" locale="" npc="비비안" name="いらっしゃいませ～。" />
-  <key id="0831180306000414" feature="" locale="" npc="비비안" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000415" feature="" locale="" npc="비비안" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000416" feature="" locale="" npc="이랑" name="何か用？" />
-  <key id="0831180306000417" feature="" locale="" npc="이랑" name="いらっしゃいませ～。" />
-  <key id="0831180306000418" feature="" locale="" npc="이랑" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000419" feature="" locale="" npc="이랑" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000420" feature="" locale="" npc="미샤" name="何か用？" />
-  <key id="0831180306000421" feature="" locale="" npc="미샤" name="いらっしゃいませ～。" />
-  <key id="0831180306000422" feature="" locale="" npc="미샤" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000423" feature="" locale="" npc="미샤" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000424" feature="" locale="" npc="카린" name="何か用？" />
-  <key id="0831180306000425" feature="" locale="" npc="카린" name="いらっしゃいませ～。" />
-  <key id="0831180306000426" feature="" locale="" npc="카린" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000427" feature="" locale="" npc="카린" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000428" feature="" locale="" npc="마틸다" name="何か用？" />
-  <key id="0831180306000429" feature="" locale="" npc="마틸다" name="いらっしゃいませ～。" />
-  <key id="0831180306000430" feature="" locale="" npc="마틸다" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000431" feature="" locale="" npc="마틸다" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000432" feature="" locale="" npc="바넷" name="何か用？" />
-  <key id="0831180306000433" feature="" locale="" npc="바넷" name="いらっしゃいませ～。" />
-  <key id="0831180306000434" feature="" locale="" npc="바넷" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000435" feature="" locale="" npc="바넷" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000436" feature="" locale="" npc="린스" name="何か用？" />
-  <key id="0831180306000437" feature="" locale="" npc="린스" name="いらっしゃいませ～。" />
-  <key id="0831180306000438" feature="" locale="" npc="린스" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000439" feature="" locale="" npc="린스" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000440" feature="" locale="" npc="하나" name="何か用？" />
-  <key id="0831180306000441" feature="" locale="" npc="하나" name="いらっしゃいませ～。" />
-  <key id="0831180306000442" feature="" locale="" npc="하나" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000443" feature="" locale="" npc="하나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000444" feature="" locale="" npc="비앙카" name="何か用？" />
-  <key id="0831180306000445" feature="" locale="" npc="비앙카" name="いらっしゃいませ～。" />
-  <key id="0831180306000446" feature="" locale="" npc="비앙카" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000447" feature="" locale="" npc="비앙카" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000448" feature="" locale="" npc="크리스티나" name="何か用？" />
-  <key id="0831180306000449" feature="" locale="" npc="크리스티나" name="いらっしゃいませ～。" />
-  <key id="0831180306000450" feature="" locale="" npc="크리스티나" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000451" feature="" locale="" npc="크리스티나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000452" feature="" locale="" npc="설봉이" name="どうしたん？" />
-  <key id="0831180306000453" feature="" locale="" npc="설봉이" name="いらっしゃい！" />
-  <key id="0831180306000454" feature="" locale="" npc="설봉이" name="この街の住民たちのための商店だよ。" />
-  <key id="0831180306000455" feature="" locale="" npc="설봉이" name="ここの住民じゃないな。&#xA;住民専用商店は誰でも利用できるところじゃない。&#xA;他のところに行ってくれ。" />
-  <key id="0831180306000456" feature="" locale="" npc="로즈" name="何か用？" />
-  <key id="0831180306000457" feature="" locale="" npc="로즈" name="いらっしゃいませ～。" />
-  <key id="0831180306000458" feature="" locale="" npc="로즈" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000459" feature="" locale="" npc="로즈" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000460" feature="" locale="" npc="이피아" name="何か用？" />
-  <key id="0831180306000461" feature="" locale="" npc="이피아" name="いらっしゃいませ～。" />
-  <key id="0831180306000462" feature="" locale="" npc="이피아" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000463" feature="" locale="" npc="이피아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000464" feature="" locale="" npc="도로시" name="何か用？" />
-  <key id="0831180306000465" feature="" locale="" npc="도로시" name="いらっしゃいませ～。" />
-  <key id="0831180306000466" feature="" locale="" npc="도로시" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000467" feature="" locale="" npc="도로시" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000468" feature="" locale="" npc="르티에" name="何か用？" />
-  <key id="0831180306000469" feature="" locale="" npc="르티에" name="いらっしゃいませ～。" />
-  <key id="0831180306000470" feature="" locale="" npc="르티에" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000471" feature="" locale="" npc="르티에" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000472" feature="" locale="" npc="나엘" name="何か用？" />
-  <key id="0831180306000473" feature="" locale="" npc="나엘" name="いらっしゃいませ～。" />
-  <key id="0831180306000474" feature="" locale="" npc="나엘" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000475" feature="" locale="" npc="나엘" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000476" feature="" locale="" npc="에스카" name="何か用？" />
-  <key id="0831180306000477" feature="" locale="" npc="에스카" name="いらっしゃいませ～。" />
-  <key id="0831180306000478" feature="" locale="" npc="에스카" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000479" feature="" locale="" npc="에스카" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000480" feature="" locale="" npc="산드라" name="何か用？" />
-  <key id="0831180306000481" feature="" locale="" npc="산드라" name="いらっしゃいませ～。" />
-  <key id="0831180306000482" feature="" locale="" npc="산드라" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000483" feature="" locale="" npc="산드라" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000484" feature="" locale="" npc="레니" name="何か用？" />
-  <key id="0831180306000485" feature="" locale="" npc="레니" name="いらっしゃいませ～。" />
-  <key id="0831180306000486" feature="" locale="" npc="레니" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000487" feature="" locale="" npc="레니" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000488" feature="" locale="" npc="아델" name="何か用？" />
-  <key id="0831180306000489" feature="" locale="" npc="아델" name="いらっしゃいませ～。" />
-  <key id="0831180306000490" feature="" locale="" npc="아델" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000491" feature="" locale="" npc="아델" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000492" feature="" locale="" npc="요코" name="何か用？" />
-  <key id="0831180306000493" feature="" locale="" npc="요코" name="いらっしゃいませ～。" />
-  <key id="0831180306000494" feature="" locale="" npc="요코" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000495" feature="" locale="" npc="요코" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000496" feature="" locale="" npc="미나" name="何か用？" />
-  <key id="0831180306000497" feature="" locale="" npc="미나" name="いらっしゃいませ～。" />
-  <key id="0831180306000498" feature="" locale="" npc="미나" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000499" feature="" locale="" npc="미나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="0831180306000500" feature="" locale="" npc="신시아" name="何か用？" />
-  <key id="0831180306000501" feature="" locale="" npc="신시아" name="いらっしゃいませ～。" />
-  <key id="0831180306000502" feature="" locale="" npc="신시아" name="この街の住民たちのための商店です。" />
-  <key id="0831180306000503" feature="" locale="" npc="신시아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000623" feature="" locale="" npc="케틀린" name="何か用？" />
-  <key id="1219175006000624" feature="" locale="" npc="케틀린" name="いらっしゃいませ～。" />
-  <key id="1219175006000625" feature="" locale="" npc="케틀린" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000626" feature="" locale="" npc="케틀린" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000627" feature="" locale="" npc="트리시아" name="何か用？" />
-  <key id="1219175006000628" feature="" locale="" npc="트리시아" name="いらっしゃいませ～。" />
-  <key id="1219175006000629" feature="" locale="" npc="트리시아" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000630" feature="" locale="" npc="트리시아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000631" feature="" locale="" npc="엘리나" name="何か用？" />
-  <key id="1219175006000632" feature="" locale="" npc="엘리나" name="いらっしゃいませ～。" />
-  <key id="1219175006000633" feature="" locale="" npc="엘리나" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000634" feature="" locale="" npc="엘리나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000635" feature="" locale="" npc="쟈일" name="何か用？" />
-  <key id="1219175006000636" feature="" locale="" npc="쟈일" name="いらっしゃいませ～。" />
-  <key id="1219175006000637" feature="" locale="" npc="쟈일" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000638" feature="" locale="" npc="쟈일" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000639" feature="" locale="" npc="티아" name="何か用？" />
-  <key id="1219175006000640" feature="" locale="" npc="티아" name="いらっしゃいませ～。" />
-  <key id="1219175006000641" feature="" locale="" npc="티아" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000642" feature="" locale="" npc="티아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000643" feature="" locale="" npc="에마" name="何か用？" />
-  <key id="1219175006000644" feature="" locale="" npc="에마" name="いらっしゃいませ～。" />
-  <key id="1219175006000645" feature="" locale="" npc="에마" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000646" feature="" locale="" npc="에마" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000647" feature="" locale="" npc="자스민" name="何か用？" />
-  <key id="1219175006000648" feature="" locale="" npc="자스민" name="いらっしゃいませ～。" />
-  <key id="1219175006000649" feature="" locale="" npc="자스민" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000650" feature="" locale="" npc="자스민" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000651" feature="" locale="" npc="유니퍼" name="何か用？" />
-  <key id="1219175006000652" feature="" locale="" npc="유니퍼" name="いらっしゃいませ～。" />
-  <key id="1219175006000653" feature="" locale="" npc="유니퍼" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000654" feature="" locale="" npc="유니퍼" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000655" feature="" locale="" npc="아만다" name="何か用？" />
-  <key id="1219175006000656" feature="" locale="" npc="아만다" name="いらっしゃいませ～。" />
-  <key id="1219175006000657" feature="" locale="" npc="아만다" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000658" feature="" locale="" npc="아만다" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000659" feature="" locale="" npc="앤드리" name="何か用？" />
-  <key id="1219175006000660" feature="" locale="" npc="앤드리" name="いらっしゃいませ～。" />
-  <key id="1219175006000661" feature="" locale="" npc="앤드리" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000662" feature="" locale="" npc="앤드리" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000663" feature="" locale="" npc="엘리즈" name="何か用？" />
-  <key id="1219175006000664" feature="" locale="" npc="엘리즈" name="いらっしゃいませ～。" />
-  <key id="1219175006000665" feature="" locale="" npc="엘리즈" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000666" feature="" locale="" npc="엘리즈" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000667" feature="" locale="" npc="보니" name="何か用？" />
-  <key id="1219175006000668" feature="" locale="" npc="보니" name="いらっしゃいませ～。" />
-  <key id="1219175006000669" feature="" locale="" npc="보니" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000670" feature="" locale="" npc="보니" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000671" feature="" locale="" npc="조이" name="何か用？" />
-  <key id="1219175006000672" feature="" locale="" npc="조이" name="いらっしゃいませ～。" />
-  <key id="1219175006000673" feature="" locale="" npc="조이" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000674" feature="" locale="" npc="조이" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000675" feature="" locale="" npc="힐다" name="何か用？" />
-  <key id="1219175006000676" feature="" locale="" npc="힐다" name="いらっしゃいませ～。" />
-  <key id="1219175006000677" feature="" locale="" npc="힐다" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000678" feature="" locale="" npc="힐다" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1219175006000679" feature="" locale="" npc="리엘" name="何か用？" />
-  <key id="1219175006000680" feature="" locale="" npc="리엘" name="いらっしゃいませ～。" />
-  <key id="1219175006000681" feature="" locale="" npc="리엘" name="この街の住民たちのための商店です。" />
-  <key id="1219175006000682" feature="" locale="" npc="리엘" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
-  <key id="1214161306000876" feature="" locale="" npc="메리엔" name="何か用？" />
-  <key id="1214161306000877" feature="" locale="" npc="메리엔" name="うふふ、このたびギルドと結んだ契約は成功のようですね。" />
-  <key id="1214161306000878" feature="" locale="" npc="메리엔" name="私は物を売る相手を選びます。" />
-  <key id="1214161306000879" feature="" locale="" npc="메리엔" name="冒険者のみなさ～ん！ポーションはいかがですか～？" />
-  <key id="1214161306000880" feature="" locale="" npc="안토니우스" name="音楽は誰でも楽しめます！今すぐ始めましょう！" />
-  <key id="1214161306000881" feature="" locale="" npc="안토니우스" name="あなたでも演奏できます！" />
-  <key id="1214161306000882" feature="" locale="" npc="안토니우스" name="あなたでも作曲できます！" />
-  <key id="1214161306000883" feature="" locale="" npc="안토니우스" name="音楽に身を任せて～メロディに乗って走れ～。" />
-  <key id="1214161306000884" feature="" locale="" npc="안토니우스" name="&lt;font color=&quot;#ffd200&quot;&gt;楽器&lt;/font&gt;さえあれば、誰でも&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;を行うことができます。&#xA;私たち&lt;font color=&quot;#ffd200&quot;&gt;ロイヤルミュージックアカデミー&lt;/font&gt;が用意した楽器を使い、音楽の世界に足を踏み入れてみませんか？" />
-  <key id="1214161306000885" feature="" locale="" npc="pc" name="演奏方法について知りたいと話す。" />
-  <key id="1214161306000886" feature="" locale="" npc="안토니우스" name="演奏をするには、楽器をクリックしてください。簡単でしょ？&#xA;即興演奏もできますし、&lt;font color=&quot;#ffd200&quot;&gt;楽譜&lt;/font&gt;に従って演奏することもできます！" />
-  <key id="1214161306000887" feature="" locale="" npc="pc" name="楽譜演奏はどうやって使うのかと聞く。" />
-  <key id="1214161306000888" feature="" locale="" npc="안토니우스" name="楽譜演奏をしたいなら、方法は簡単です！&#xA;楽譜を購入するか、白紙の楽譜を買って音楽を記入すればいいんです。&#xA;自分で作曲した曲を多くの人に聴かせられる便利なチャンス！&#xA;どうでしょう？魅力的だと思いませんか？ " />
-  <key id="1214161306000889" feature="" locale="" npc="안토니우스" name="音楽は遠くにあるのではなく、いつもそばにあるんです。&#xA;可愛いダッキーのように。&#xA;私が提案するこのアイテムをご覧になって、演奏に挑戦してみてください！" />
-  <key id="0516153506000898" feature="" locale="" npc="라쉬" name="何か用？" />
-  <key id="0516153506000899" feature="" locale="" npc="라쉬" name="このギルドハウスは実にすばらしいですね。" />
-  <key id="0516153506000900" feature="" locale="" npc="라쉬" name="私は厳選された品物だけを売っています。" />
-  <key id="0516153506000901" feature="" locale="" npc="라쉬" name="強いギルドを作るためには、強力な装備が必要です！" />
-  <key id="0516153506000902" feature="" locale="" npc="밀라" name="何か用？" />
-  <key id="0516153506000903" feature="" locale="" npc="밀라" name="あら、私が何を売ってるか気になりますか？" />
-  <key id="0516153506000904" feature="" locale="" npc="밀라" name="キラ、キラ～。ジェムストーンは美しいだけではないのですよ。" />
-  <key id="0516153506000905" feature="" locale="" npc="밀라" name="強力な装備ほどに重要なのがジェムストーンなんです！" />
-  <key id="0219154106000892" feature="" locale="" npc="바비" name="こんにちは、$MyPCName$さん！" />
-  <key id="0219154106000893" feature="" locale="" npc="바비" name="毎日を楽しく過ごすには、どうすればいいんでしょう？" />
-  <key id="0219154106000894" feature="" locale="" npc="바비" name="イベントに参加してみてください！" />
-  <key id="0219154106000895" feature="" locale="" npc="바비" name="こんにちは、$MyPCName$さん！&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001003[gender:0]$&lt;/font&gt;です！&#xA;気になっているのはどのイベントでしょう？ " />
-  <key id="0219154106000896" feature="" locale="" npc="pc" name="隣にいる女は何者かと聞く。" />
-  <key id="0219154106000897" feature="" locale="" npc="바비" name="僕の&lt;font color=&quot;#ffd200&quot;&gt;双子の妹&lt;/font&gt;、ルビィです！一緒に$npcTitle:11001002[gender:1]$で活動していますよ！&#xA;&lt;font color=&quot;#ffd200&quot;&gt;進行中のイベント&lt;/font&gt;が気になりましたら、いつでもお越しくださいね！&#xA;僕ら&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;、&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001003[gender:0]$&lt;/font&gt;兄妹が親切にお教えしますから！" />
-  <key id="0925121506000918" feature="" locale="" npc="먼데이" name="&lt;font color=&quot;#ffd200&quot;&gt;特別な月曜日&lt;/font&gt;に購入可能！&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;をお持ちの&lt;font color=&quot;#ffd200&quot;&gt;冒険者&lt;/font&gt;さんのみ！&#xA;お客様としてお迎えするマンデーです！" />
-  <key id="0925121506000919" feature="" locale="" npc="먼데이" name="見物はご自由に！どうぞ見ていってください。" />
-  <key id="0925121506000920" feature="" locale="" npc="먼데이" name="&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;は、50レベル以上の特別な冒険者さんにだけ販売しています！" />
-  <key id="0920165106000914" feature="" locale="" npc="보부상 텐텐" name="ニーハオ！よろしく、$MyPCName$さん！" />
-  <key id="0920165106000915" feature="" locale="" npc="보부상 텐텐" name="ニーハオ、$MyPCName$さ～ん。私、中国から来た&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003559[gender:1]$&lt;/font&gt;です！" />
-  <key id="0920165106000916" feature="" locale="" npc="pc" name="ここに来た理由を聞く。" />
-  <key id="0920165106000917" feature="" locale="" npc="보부상 텐텐" name="世界から愛されるメイプルストーリー2！&#xA;メイプルストーリー2の中国ローンチを記念して、韓国の冒険者の方々に会うために訪ねてきたんです～。&#xA;韓国最大の祭日である秋夕に、こうして韓国の冒険者の皆さまにお会いできて、とても嬉しいです！" />
-  <key id="1003143806000926" feature="" locale="" npc="밍밍" name="何か用？" />
-  <key id="1003143806000927" feature="" locale="" npc="밍밍" name="東方明珠を見ながら走る気分～上海クレイジーランナーズで体感してください。" />
-  <key id="1003143806000929" feature="" locale="" npc="밍밍" name="私からは中国伝統料理とアバターを購入できます。一度見ていってください。" />
-  <key id="1007162606000938" feature="" locale="" npc="와이즈" name="どうしましたか？" />
-  <key id="1007162606000939" feature="" locale="" npc="와이즈" name="ある天才科学者は、他の人に教える唯一の方法は、模範を示すことだと言ったそうです。" />
-  <key id="1007162606000940" feature="" locale="" npc="와이즈" name="教え子のお手本になれるだけの、立派な先生になってください！" />
-  <key id="1007162606000941" feature="" locale="" npc="와이즈" name="親切な先生さんのために、良い物をご用意しました。" />
-  <key id="1007162606000942" feature="" locale="" npc="아비드" name="どうしましたか？" />
-  <key id="1007162606000943" feature="" locale="" npc="아비드" name="教え子の方々に役立ちそうな物をたくさん持ってきました。" />
-  <key id="1007162606000944" feature="" locale="" npc="아비드" name="助けてくれる先生の方に、感謝の一言を言ってみてはどうでしょう？" />
-  <key id="1007162606000945" feature="" locale="" npc="아비드" name="私もかつては誰かの教え子でした。" />
-  <key id="1110150406000967" feature="" locale="" npc="마요르" name="うう…気になる、とっても気になるわ！" />
-  <key id="1110150406000968" feature="" locale="" npc="마요르" name="世の中って、本当に不思議なことだらけよね？" />
-  <key id="1110150406000969" feature="" locale="" npc="마요르" name="お腹が空いたのだけど、ここの料理を食べても良いのかしら？どんな味か気になるんだけど…。" />
-  <key id="1110150406000970" feature="" locale="" npc="마요르" name="ここは本当に平和そうね。でも、ここの人たちは何をしてるの？&#xA;どんな料理を食べるの？…人々の服装も変わってるわよね。&#xA;服の素材は何を使ってるの？うう…気になって仕方がないわ…。" />
-  <key id="1110150406000971" feature="" locale="" npc="마요르" name="…あっ!! あなたはこの土地の住民！ど…どうもよろしく。ヤラリヨ！" />
-  <key id="1110150406000972" feature="" locale="" npc="pc" name="ヤラリヨ？独特な挨拶について聞く。" />
-  <key id="1110150406000973" feature="" locale="" npc="pc" name="知りたいことが多そうだと話す。" />
-  <key id="1110150406000974" feature="" locale="" npc="pc" name="どこから来たのか聞く。" />
-  <key id="1110150406000975" feature="" locale="" npc="마요르" name="ああ！きっとあなたには慣れない言葉なんでしょうね。&#xA;ヤラリヨは&lt;font color=&quot;#ffd200&quot;&gt;新しい友よ&lt;/font&gt;という意味の、私の故郷の挨拶なんです。&#xA;新しいお友達…聞いただけで胸が高鳴りませんか？" />
-  <key id="1110150406000976" feature="" locale="" npc="마요르" name="もちろん！気にならないわけないでしょう！&#xA;ここの人たちがどんな生活をしてるか、何を着てるか、何を食べるか、何気ない色々なことが&#xA;私には全て新鮮なんです！" />
-  <key id="1110150406000977" feature="" locale="" npc="마요르" name="これだけ多くの人が集まって暮らしてるなら、きっと楽しいお祭りもありますよね？&#xA;お祭りに参加して、色んな人と交流してみたいんです…えへっ…。" />
-  <key id="1110150406000978" feature="" locale="" npc="마요르" name="うーん…たぶん聞いたことのない場所だと思います。&#xA;私も船に乗って長い航海した末にここにたどり着いたので…。&#xA;私が住んでいたところにも町がありましたけど、クイーンズ…タウンというんでしたっけ？&#xA;やはりこことは違った雰囲気の場所ですし。" />
-  <key id="1110153306000979" feature="" locale="" npc="리베트" name="やあ、やあ、やあ！&#xA;3回の挨拶は、会えてとても嬉しいという意味さ。ハハ！ " />
-  <key id="1110153306000980" feature="" locale="" npc="리베트" name="笑って生きましょ～！ハハ！" />
-  <key id="1110153306000981" feature="" locale="" npc="리베트" name="人が集まれば、金も集まるものなのさ！" />
-  <key id="1110153306000982" feature="" locale="" npc="리베트" name="こんなところにこれだけ豪華な都市が作られたなんて、驚きだよな？" />
-  <key id="0907150706001006" feature="" locale="" npc="스칼렛" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0123221606000987" feature="" locale="" npc="함선 물품 보급관" name="$npc:23000090[gender:0]$に立ち向かうには&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;と&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;が必要とのことです。" />
-  <key id="0123221606000988" feature="" locale="" npc="함선 물품 보급관" name="それでも、だいぶ持ちこたえました。&#xA;これで残る希望は粒子砲の発射ですね。&#xA;$MyPCName$さん、お願いいたします！&#xA;" />
-  <key id="0123221606000989" feature="" locale="" npc="함선 물품 보급관" name="甲板で$npc:23000090[gender:0]$と出くわすかもしれませんので&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;と&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;は必ず用意して行ってください。" />
-  <key id="0212141906001015" feature="" locale="JP" npc="함선 물품 보급관" name="$npc:23000090[gender:0]$に立ち向かうのに必要な物があれば、いつでも来てください。" />
-  <key id="0212141906001016" feature="" locale="JP" npc="함선 물품 보급관" name="それでも結構もちましたね。&#xA;残りの希望は、粒子砲の発射のみです。&#xA;$MyPCName$さん、お願いします！&#xA;" />
-  <key id="0212141906001017" feature="" locale="JP" npc="함선 물품 보급관" name="デッキで$npc:23000090[gender:0]$と遭遇するかもしれないので、どうか気をつけてください。" />
-  <key id="0430025106000990" feature="" locale="" npc="밈" name="エレヴ女王のご加護があらんことを…！" />
-  <key id="0601171006000994" feature="" locale="" npc="밈" name="$MyPCName$さん、お会いできて光栄です。&#xA;いつかご協力を仰ぐことがあると思います。&#xA;エレヴ女王のご加護がありますように…！" />
-  <key id="0724165506000995" feature="SurvivalContents03" locale="" npc="므므" name="ふあぁ…ムム、眠たいよぉ…。" />
-  <key id="0724165506000996" feature="SurvivalContents03" locale="" npc="므므" name="ふあぁ…ムム、眠たいよぉ…。" />
-  <key id="0724165506000997" feature="SurvivalContents03" locale="" npc="므므" name="ムム、可愛い服、売ってるぅ…服、見てってぇ…。" />
-  <key id="0724165506000998" feature="SurvivalContents03" locale="" npc="므므" name="服を全部売らないと家に帰れないのに、行くのが面倒くさいぃ…。" />
-  <key id="0724165506000999" feature="SurvivalContents03" locale="" npc="돌돌" name="ナマケキノコだからって、みんな怠けてるわけじゃないぃ…。" />
-  <key id="0724165506001000" feature="SurvivalContents03" locale="" npc="돌돌" name="ナマケキノコだからって、みんな怠けてるわけじゃないぃ…。もちろん、私は怠けてるけどぉ…。" />
-  <key id="0724165506001001" feature="SurvivalContents03" locale="" npc="돌돌" name="不思議なもの、たくさん売ってるぅ…。一度見ていってぇ…。" />
-  <key id="0724165506001002" feature="SurvivalContents03" locale="" npc="돌돌" name="早く売り切って休みたいなぁ…。" />
-  <key id="0827140306001003" feature="SurvivalContents03" locale="" npc="로토" name="いらっしゃいませ。何かお手伝いしましょうか？" />
-  <key id="0827140306001004" feature="SurvivalContents03" locale="" npc="로토" name="アイテムやメルを預ける場所が必要ですか？" />
-  <key id="0827140306001005" feature="SurvivalContents03" locale="" npc="로토" name="金庫をご利用の際は私に声をかけてくださいませ。" />
+	<key id="0104215506000890" npc="이삭" name="早く行けるように協力します。" feature="NPCPortal01" />
+	<key id="0104233206000891" npc="아카시" name="急いで行きたいのかい？" feature="NPCPortal01" />
+	<key id="0106151806000699" npc="아리까리 상단" name="アヤフヤ商団が取り扱う品物が入っている雑貨ボックス。" />
+	<key id="0118163406000700" npc="펄시" name="何をしに来た？" />
+	<key id="0118163406000701" npc="르노" name="何をしに来た？" />
+	<key id="0123221606000987" npc="함선 물품 보급관" name="$npc:23000090[gender:0]$に立ち向かうには&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;と&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;が必要とのことです。" />
+	<key id="0123221606000988" npc="함선 물품 보급관" name="それでも、だいぶ持ちこたえました。&#xA;これで残る希望は粒子砲の発射ですね。&#xA;$MyPCName$さん、お願いいたします！&#xA;" />
+	<key id="0123221606000989" npc="함선 물품 보급관" name="甲板で$npc:23000090[gender:0]$と出くわすかもしれませんので&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;と&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;は必ず用意して行ってください。" />
+	<key id="0204150506000702" npc="아시란테" name="何かご用ですか？" />
+	<key id="0204150506000703" npc="테릴시아" name="何かご用ですか？" />
+	<key id="0211204406000704" npc="아리몽" name="本当に必要なものを持ってるのは、この私だと思いますよ？" />
+	<key id="0211204406000705" npc="아리몽" name="こちらをご覧くださ～い。" />
+	<key id="0211204406000706" npc="아리몽" name="そこじゃなくて、ここですよ～。" />
+	<key id="0212141906001015" npc="함선 물품 보급관" name="$npc:23000090[gender:0]$に立ち向かうのに必要な物があれば、いつでも来てください。" locale="JP" />
+	<key id="0212141906001016" npc="함선 물품 보급관" name="それでも結構もちましたね。&#xA;残りの希望は、粒子砲の発射のみです。&#xA;$MyPCName$さん、お願いします！&#xA;" locale="JP" />
+	<key id="0212141906001017" npc="함선 물품 보급관" name="デッキで$npc:23000090[gender:0]$と遭遇するかもしれないので、どうか気をつけてください。" locale="JP" />
+	<key id="0219154106000892" npc="바비" name="こんにちは、$MyPCName$さん！" />
+	<key id="0219154106000893" npc="바비" name="毎日を楽しく過ごすには、どうすればいいんでしょう？" />
+	<key id="0219154106000894" npc="바비" name="イベントに参加してみてください！" />
+	<key id="0219154106000895" npc="바비" name="こんにちは、$MyPCName$さん！&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001003[gender:0]$&lt;/font&gt;です！&#xA;気になっているのはどのイベントでしょう？ " />
+	<key id="0219154106000896" npc="pc" name="隣にいる女は何者かと聞く。" />
+	<key id="0219154106000897" npc="바비" name="僕の&lt;font color=&quot;#ffd200&quot;&gt;双子の妹&lt;/font&gt;、ルビィです！一緒に$npcTitle:11001002[gender:1]$で活動していますよ！&#xA;&lt;font color=&quot;#ffd200&quot;&gt;進行中のイベント&lt;/font&gt;が気になりましたら、いつでもお越しくださいね！&#xA;僕ら&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;、&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001003[gender:0]$&lt;/font&gt;兄妹が親切にお教えしますから！" />
+	<key id="0302204206000707" npc="피즈" name="大物を釣り上げたいか？" />
+	<key id="0302204206000708" npc="피즈" name="大物を釣り上げたときの手応えは忘れられん！" />
+	<key id="0302204206000709" npc="피즈" name="エサを使えば、釣りがうんと楽になるぞ！" />
+	<key id="0302204206000710" npc="피즈" name="釣りに必要なものをお探しか？" />
+	<key id="0304160706000711" npc="에듀앙" name="何かご用ですか？" />
+	<key id="0304160706000712" npc="스투디" name="何かご用ですか？" />
+	<key id="0318211806000713" npc="펀치" name="どうしたの？" />
+	<key id="0318211806000714" npc="펀치" name="踊ったら喉が渇いたでしょ？そんなときはジュースよね～！" />
+	<key id="0318211806000715" npc="펀치" name="ゲームをしていたら喉が渇くでしょ？そんなときはジュースよね～！" />
+	<key id="0319195006000716" npc="스머그" name="俺を訪ねてきたのか？" />
+	<key id="0319195006000717" npc="스머그" name="おい、良い品があるんだが、興味ないか？" />
+	<key id="0319195006000718" npc="스머그" name="他所で噂を立てるなよ～。" />
+	<key id="0322171106000719" npc="스머그" name="ふむ…品質の良い装備を探してるのか？&#xA;俺は&lt;font color=&quot;#ffd200&quot;&gt;ダンジョンでしか入手できない装備&lt;/font&gt;を取り扱っているが…興味があるなら見てってくれ。" />
+	<key id="0322171106000720" npc="pc" name="販売している品物に関して聞く。" />
+	<key id="0322171106000721" npc="pc" name="販売している品物はどこで手に入れたのかと聞く。" />
+	<key id="0322171106000722" npc="pc" name="信頼できる物なのかと聞く。" />
+	<key id="0322171106000723" npc="스머그" name="各ダンジョンで発見された物品を入れたボックスを、ダンジョンごとに分類して販売してるんだ。&#xA;もし君が優れた装備を手に入れるためにダンジョンを探索してるなら…。&#xA;俺が取り扱っている品物に食指が動くはずだ。&#xA;あえて危険を覚悟してダンジョンに潜らずとも、装備を手に入れることができるからな。" />
+	<key id="0322171106000724" npc="pc" name="ボックスにはズバリどんな物が入っているのかと聞く。" />
+	<key id="0322171106000725" npc="스머그" name="クク…俺は知らんさ。&#xA;かなりの値打ちがある装備が入ってるかもしれないし…。&#xA;運が悪ければ、本当にくだらない物しか詰まっていないかもしれん。" />
+	<key id="0322171106000726" npc="스머그" name="おっとっと！知っておいてもらいたいことが1つあるんだが、言い忘れるところだった。&#xA;一旦ボックスを開けると、該当するダンジョンでの報酬回数が減るから気をつけるんだぞ～。" />
+	<key id="0322171106000727" npc="스머그" name="俺のビジネスの秘密を聞くなんて図々しいやつだな。&#xA;冒険者たちが色んな目的でダンジョンを探検するように、貴重な財宝だけを専門的に狙う&#xA;者たちがいる。一種の&lt;font color=&quot;#ffd200&quot;&gt;トレジャーハンター&lt;/font&gt;と言ったところだな。&#xA;とにかく、そういった仕事に長けているプロ中のプロのことさ。" />
+	<key id="0322171106000728" npc="스머그" name="そんなやつらの中に、俺のような$npcFunction:11001535[gender:0]$と取引をする連中もいて当然だろ？ククッ…。&#xA;これ以上詳しく知る必要はないさ。俺には独自のルートがある。それだけ知っておけばいい。" />
+	<key id="0322171106000729" npc="스머그" name="信頼？君が言う信頼とは何だ？&#xA;販売者としての良心に懸けて言うが、俺だってボックスに何が入ってるのか知らないんだ。&#xA;もし何が入ってるか知ってて売ってるなら…ボックスごとに値打ちを決め直さないといけないな。" />
+	<key id="0322171106000730" npc="스머그" name="だが、品目を見れば分かると思うが、安値で販売してるだろ？&#xA;信頼云々はともかく、幸運を祈った方が良いと思うぜ。&#xA;ボックスからくだらない物が出てきたとしても、俺を恨まないでくれよ。クックッ…。" />
+	<key id="0421100406000731" npc="유스카" name="ここは私の故郷同然だ。" />
+	<key id="0421100406000732" npc="유스카" name="都市は窮屈だと思わないかね？また遊びに来るといい。" />
+	<key id="0421100406000733" npc="유스카" name="今日も大物を釣り上げてみようか？" />
+	<key id="0430025106000990" npc="밈" name="エレヴ女王のご加護があらんことを…！" />
+	<key id="0516153506000898" npc="라쉬" name="何か用？" />
+	<key id="0516153506000899" npc="라쉬" name="このギルドハウスは実にすばらしいですね。" />
+	<key id="0516153506000900" npc="라쉬" name="私は厳選された品物だけを売っています。" />
+	<key id="0516153506000901" npc="라쉬" name="強いギルドを作るためには、強力な装備が必要です！" />
+	<key id="0516153506000902" npc="밀라" name="何か用？" />
+	<key id="0516153506000903" npc="밀라" name="あら、私が何を売ってるか気になりますか？" />
+	<key id="0516153506000904" npc="밀라" name="キラ、キラ～。ジェムストーンは美しいだけではないのですよ。" />
+	<key id="0516153506000905" npc="밀라" name="強力な装備ほどに重要なのがジェムストーンなんです！" />
+	<key id="0517224006000734" npc="코디아" name="ようこそ！新たなファッションの世界へ！" />
+	<key id="0601171006000994" npc="밈" name="$MyPCName$さん、お会いできて光栄です。&#xA;いつかご協力を仰ぐことがあると思います。&#xA;エレヴ女王のご加護がありますように…！" />
+	<key id="0724165506000995" npc="므므" name="ふあぁ…ムム、眠たいよぉ…。" feature="SurvivalContents03" />
+	<key id="0724165506000996" npc="므므" name="ふあぁ…ムム、眠たいよぉ…。" feature="SurvivalContents03" />
+	<key id="0724165506000997" npc="므므" name="ムム、可愛い服、売ってるぅ…服、見てってぇ…。" feature="SurvivalContents03" />
+	<key id="0724165506000998" npc="므므" name="服を全部売らないと家に帰れないのに、行くのが面倒くさいぃ…。" feature="SurvivalContents03" />
+	<key id="0724165506000999" npc="돌돌" name="ナマケキノコだからって、みんな怠けてるわけじゃないぃ…。" feature="SurvivalContents03" />
+	<key id="0724165506001000" npc="돌돌" name="ナマケキノコだからって、みんな怠けてるわけじゃないぃ…。もちろん、私は怠けてるけどぉ…。" feature="SurvivalContents03" />
+	<key id="0724165506001001" npc="돌돌" name="不思議なもの、たくさん売ってるぅ…。一度見ていってぇ…。" feature="SurvivalContents03" />
+	<key id="0724165506001002" npc="돌돌" name="早く売り切って休みたいなぁ…。" feature="SurvivalContents03" />
+	<key id="0809123006000906" npc="루트" name="ん？まだ物を用意できていないんだ。また今度来てくれ。" />
+	<key id="0809170706000907" npc="아리몽" name="アリィ？" />
+	<key id="0827140306001003" npc="로토" name="いらっしゃいませ。何かお手伝いしましょうか？" feature="SurvivalContents03" />
+	<key id="0827140306001004" npc="로토" name="アイテムやメルを預ける場所が必要ですか？" feature="SurvivalContents03" />
+	<key id="0827140306001005" npc="로토" name="金庫をご利用の際は私に声をかけてくださいませ。" feature="SurvivalContents03" />
+	<key id="0831180306000001" npc="설눈이" name="どうしたんだい？" />
+	<key id="0831180306000002" npc="설눈이" name="オレは$map:02000001$一の鍛冶屋！" />
+	<key id="0831180306000003" npc="설눈이" name="装備が必要なのか？うちに来い！" />
+	<key id="0831180306000004" npc="설눈이" name="オレはこう見えても、怒ると怖いぞ～！" />
+	<key id="0831180306000005" npc="마야" name="どうしました？" />
+	<key id="0831180306000006" npc="마야" name="$npc:11000174[gender:1]$は$npcName:11000170[gender:0]$の気持ちに応えてくれるかな…？" />
+	<key id="0831180306000007" npc="마야" name="謁見式のおかげでしばらく売上も順調に伸びていたのに…。今はめっきり。" />
+	<key id="0831180306000008" npc="마야" name="冒険者のみなさ～ん！ポーションはいかがですか～？" />
+	<key id="0831180306000009" npc="마끼" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000010" npc="마끼" name="あと10歳若かったら転職したのになぁ…。" />
+	<key id="0831180306000011" npc="마끼" name="アイテムやメルを預ける場所が必要ですか？" />
+	<key id="0831180306000012" npc="마끼" name="セキュリティといえば！ゴルドス銀行ですよ。" />
+	<key id="0831180306000013" npc="코사무이" name="何の用だね？" />
+	<key id="0831180306000014" npc="코사무이" name="$map:02000116$を通っても$map:02000001$まではまだかかると思うんだが…。" />
+	<key id="0831180306000015" npc="코사무이" name="このまま森を通るのはあまりにも無謀だぞ…。" />
+	<key id="0831180306000016" npc="코사무이" name="ここで持っているものを全部売っぱらって別の職業を探そうかな…。" />
+	<key id="0831180306000017" npc="루미" name="何か用？" />
+	<key id="0831180306000018" npc="루미" name="売りたいものがあれば、お立ち寄りください。" />
+	<key id="0831180306000019" npc="루미" name="状態さえよければ高値で買い取りますわ。" />
+	<key id="0831180306000020" npc="루미" name="そろそろ$map:02000062$に帰ろうかしら？" />
+	<key id="0831180306000021" npc="루미" name="商売するのに$map:02000062$ほど良い場所もないでしょうね。" />
+	<key id="0831180306000022" npc="설몽이" name="何かお探し～？" />
+	<key id="0831180306000023" npc="설몽이" name="$map:02000051$の全ての装備はオレが管理しているよ。" />
+	<key id="0831180306000024" npc="설몽이" name="盗みは悪いことだよ～。" />
+	<key id="0831180306000025" npc="설몽이" name="こっちに来て見てってよ～。" />
+	<key id="0831180306000026" npc="베르조" name="何か探しているのか？" />
+	<key id="0831180306000027" npc="베르조" name="君にぴったりの装備があるぞ！" />
+	<key id="0831180306000028" npc="베르조" name="いつ、どこから敵が現れるか分からない！" />
+	<key id="0831180306000029" npc="베르조" name="備えあれば憂いなし！だろう？" />
+	<key id="0831180306000030" npc="라리" name="何か用？" />
+	<key id="0831180306000031" npc="라리" name="妖精たちの手作りポーションで～す！" />
+	<key id="0831180306000032" npc="라리" name="いいポーション、ありますよ～！" />
+	<key id="0831180306000033" npc="라리" name="何が必要ですか？" />
+	<key id="0831180306000034" npc="루미" name="何か用？" />
+	<key id="0831180306000035" npc="루미" name="いろんな島を飛び回ってお金になりそうなものは全て集めてきたのに…。" />
+	<key id="0831180306000036" npc="루미" name="$map:02000001$に行ってひと儲けしようとしたのに…。" />
+	<key id="0831180306000037" npc="루미" name="道が途切れてしまったわ…。ついこの前までは普通に通れたのにどうして…。" />
+	<key id="0831180306000038" npc="루미" name="商売するのに$map:02000062$ほど良い場所もないでしょうね。" />
+	<key id="0831180306000039" npc="루미" name="ひょっとして…あたしたち$map:63000001$で会ってません？" />
+	<key id="0831180306000040" npc="루미" name="また$map:63000001$にでも行ってみようかな？" />
+	<key id="0831180306000041" npc="솔베이" name="何かご用でしょうか？" />
+	<key id="0831180306000042" npc="솔베이" name="何でも満足のいく価格で買い取ります！" />
+	<key id="0831180306000043" npc="솔베이" name="何でも持ってきてください！全て買い取ります！" />
+	<key id="0831180306000048" npc="우니타" name="素敵なものがたくさんあります。" />
+	<key id="0831180306000049" npc="우니타" name="私より材料について詳しい人はいませんから！" />
+	<key id="0831180306000058" npc="페트" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000059" npc="페트" name="貴重品は予め金庫に預けましょう。" />
+	<key id="0831180306000060" npc="페트" name="道が途切れてしまったことも分からず…訪問客の数は増える一方で…。" />
+	<key id="0831180306000061" npc="페트" name="アイテムやメルを預けるならやっぱりゴルドス銀行でしょう！" />
+	<key id="0831180306000086" npc="듀크" name="どうしましたか？" />
+	<key id="0831180306000087" npc="듀크" name="武器をご購入される方には使い方もレクチャーします！" />
+	<key id="0831180306000088" npc="듀크" name="武器を使う際は気をゆるめないでくださいね！" />
+	<key id="0831180306000089" npc="수잔나" name="何か用？" />
+	<key id="0831180306000090" npc="수잔나" name="冷たいポーションを一杯、いかがですか～。" />
+	<key id="0831180306000091" npc="수잔나" name="お姉さんのことは別に心配いりません。元気にしていると思いますわ。" />
+	<key id="0831180306000092" npc="보닌" name="どうした？" />
+	<key id="0831180306000093" npc="보닌" name="鍛え上げた人のみが良質の装備を手に入れられる！" />
+	<key id="0831180306000094" npc="보닌" name="自警団に必要な人材はこの私！エッヘン！" />
+	<key id="0831180306000095" npc="메를린" name="どうしましたか？" />
+	<key id="0831180306000096" npc="메를린" name="生活に役立つものがたくさんありま～す。" />
+	<key id="0831180306000097" npc="메를린" name="常連さんでもツケ払いはNGです！" />
+	<key id="0831180306000107" npc="라미온느" name="何かご用でしょうか？" />
+	<key id="0831180306000108" npc="라미온느" name="冒険の必需品、ポーションはいかがですか～？" />
+	<key id="0831180306000109" npc="라미온느" name="妹にお手紙を出したんですが…まだ返信がありません…。" />
+	<key id="0831180306000110" npc="로버트" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000111" npc="로버트" name="アイテムやメルを預ける場所が必要ですか？" />
+	<key id="0831180306000112" npc="로버트" name="金庫をご利用の際は私に声をかけてくださいませ。" />
+	<key id="0831180306000113" npc="스티븐" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000114" npc="스티븐" name="ゴルドス銀行は、信じて預けてくださって大丈夫ですよ。" />
+	<key id="0831180306000115" npc="스티븐" name="アイテムやメルをお預けになりますか？" />
+	<key id="0831180306000116" npc="스티븐" name="貴重品をお預かりします。" />
+	<key id="0831180306000117" npc="월터" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000118" npc="월터" name="重くて持ち帰りにくいものは私にお預けください。" />
+	<key id="0831180306000119" npc="월터" name="ストレスを溜めずに、やりたいことをやりましょう！" />
+	<key id="0831180306000120" npc="닐슨" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000121" npc="닐슨" name="おっと、もう薬を飲む時間だ。" />
+	<key id="0831180306000122" npc="닐슨" name="銀行格付けランキング1位に輝くゴルド銀行！" />
+	<key id="0831180306000123" npc="아카시" name="何の用だい？" />
+	<key id="0831180306000124" npc="아카시" name="魔法が宿った装備がほしいのかい？" />
+	<key id="0831180306000139" npc="르넷" name="どうしましたか？" />
+	<key id="0831180306000140" npc="르넷" name="新鮮なものがたくさんあります！" />
+	<key id="0831180306000141" npc="르넷" name="貧しい人のいない世の中になればいいのに。" />
+	<key id="0831180306000142" npc="마가리타" name="どうしましたか？" />
+	<key id="0831180306000143" npc="마가리타" name="ここよりいいものを揃えているところはないと思いますよ～。" />
+	<key id="0831180306000144" npc="마가리타" name="私の辞書に「赤字」の文字はありません。" />
+	<key id="0831180306000145" npc="샤네르" name="どうしたの？" />
+	<key id="0831180306000146" npc="샤네르" name="何かお求めでしょうか？もしかして、本当の目的は…あ・た・し？" />
+	<key id="0831180306000147" npc="샤네르" name="メイド服を着た方がいいかしら…。" />
+	<key id="0831180306000148" npc="에릭" name="いらっしゃい！" />
+	<key id="0831180306000149" npc="에릭" name="ちゃんと調教されているので安心して乗れますよ～。" />
+	<key id="0831180306000150" npc="에릭" name="試運転は少し困るんですけど…。" />
+	<key id="0831180306000151" npc="에릭" name="大人しくてきちんと調教された子たちですよ！" />
+	<key id="0831180306000158" npc="카를라" name="何か用？" />
+	<key id="0831180306000172" npc="팜" name="どうしましたか？" />
+	<key id="0831180306000173" npc="팜" name="最高の乗り心地を誇る安全な乗り物を売っています！" />
+	<key id="0831180306000174" npc="팜" name="羊飼いの少年がうそつきってのはデマだ！風評被害だ！" />
+	<key id="0831180306000175" npc="날카로운 채찍" name="何か用？" />
+	<key id="0831180306000176" npc="날카로운 채찍" name="僕が直接調教した乗り物を見てって～！" />
+	<key id="0831180306000177" npc="날카로운 채찍" name="モンスター調教が簡単そうに見えるのか？" />
+	<key id="0831180306000178" npc="비스트" name="どうした？" />
+	<key id="0831180306000179" npc="비스트" name="可愛い乗り物を見てみないか？" />
+	<key id="0831180306000180" npc="비스트" name="何も買わずに帰る客が多いな。これからは入場料をもらっちゃおうかな。" />
+	<key id="0831180306000181" npc="펀치" name="どうしたの？" />
+	<key id="0831180306000182" npc="펀치" name="日差しが強いわね～！" />
+	<key id="0831180306000183" npc="펀치" name="ジュースを飲んで体を冷やしてみない？" />
+	<key id="0831180306000184" npc="펀치" name="スペシャルなレシピで作ったジュースなのよ～。" />
+	<key id="0831180306000185" npc="펀치" name="私が作ったジュースを、ただのジュースと思ったら大間違いだからね～。" />
+	<key id="0831180306000186" npc="펀치" name="全世界の人がこのジュースを求めてあたしのところを訪ねてくるのよ！" />
+	<key id="0831180306000190" npc="바니걸" name="何か用？" />
+	<key id="0831180306000191" npc="짜루" name="いらっしゃい！" />
+	<key id="0831180306000192" npc="짜루" name="めったにないチャンスですよ～。" />
+	<key id="0831180306000193" npc="짜루" name="頑張った分お腹も空く！" />
+	<key id="0831180306000194" npc="짜루" name="ほっぺたが落ちるほど美味しいですよ！" />
+	<key id="0831180306000195" npc="짜루" name="競技場の花といえば、何といっても応援ですよね～。" />
+	<key id="0831180306000196" npc="짜루" name="一度食べてみてください！" />
+	<key id="0831180306000197" npc="짜루" name="ゆっくりごらんくださ～い。" />
+	<key id="0831180306000198" npc="체프" name="何か用？" />
+	<key id="0831180306000199" npc="롬벨" name="何か用？" />
+	<key id="0831180306000200" npc="티백" name="何か用？" />
+	<key id="0831180306000201" npc="바니걸" name="何か用？" />
+	<key id="0831180306000202" npc="리즈" name="何か用？" />
+	<key id="0831180306000203" npc="리즈" name="私が販売するものは全て高級品ですから～！" />
+	<key id="0831180306000204" npc="리즈" name="少しだけ話しません？" />
+	<key id="0831180306000205" npc="사브리나" name="どうしたの？" />
+	<key id="0831180306000206" npc="사브리나" name="いい物をたくさん揃えてますよ～！ご覧くださ～い！" />
+	<key id="0831180306000207" npc="사브리나" name="あれ！お金が足りない！" />
+	<key id="0831180306000208" npc="에밀리" name="いらっしゃいませ。キャシーマートでございます。" />
+	<key id="0831180306000209" npc="에밀리" name="いらっしゃいませ～。キャシーマートでございま～す。" />
+	<key id="0831180306000210" npc="에밀리" name="お会計はこちらでお願いします。" />
+	<key id="0831180306000211" npc="에밀리" name="何かお探しのものがありますか？" />
+	<key id="0831180306000212" npc="가젤" name="いらっしゃいませ。キャシーマートでございます。" />
+	<key id="0831180306000213" npc="가젤" name="いらっしゃいませ～。キャシーマートでございま～す。" />
+	<key id="0831180306000214" npc="가젤" name="お会計はこちらでお願いします。" />
+	<key id="0831180306000215" npc="가젤" name="何かお探しのものがありますか？" />
+	<key id="0831180306000216" npc="린지" name="いらっしゃいませ。キャシーマートでございます。" />
+	<key id="0831180306000217" npc="린지" name="いらっしゃいませ～。キャシーマートでございま～す。" />
+	<key id="0831180306000218" npc="린지" name="お会計はこちらでお願いします。" />
+	<key id="0831180306000219" npc="린지" name="何かお探しのものがありますか？" />
+	<key id="0831180306000220" npc="밀레나" name="いらっしゃいませ。キャシーマートでございます。" />
+	<key id="0831180306000221" npc="밀레나" name="いらっしゃいませ～。キャシーマートでございま～す。" />
+	<key id="0831180306000222" npc="밀레나" name="お会計はこちらでお願いします。" />
+	<key id="0831180306000223" npc="밀레나" name="何かお探しのものがありますか？" />
+	<key id="0831180306000224" npc="치아토" name="何か用？" />
+	<key id="0831180306000225" npc="치아토" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000226" npc="치아토" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000227" npc="치아토" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000228" npc="빈디체" name="何か用？" />
+	<key id="0831180306000229" npc="빈디체" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000230" npc="빈디체" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000231" npc="빈디체" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000232" npc="벨페고르" name="何か用？" />
+	<key id="0831180306000233" npc="벨페고르" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000234" npc="벨페고르" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000235" npc="벨페고르" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000236" npc="모스카" name="何か用？" />
+	<key id="0831180306000237" npc="모스카" name="生存に役立つものは予め購入しといた方がいいぜ！" />
+	<key id="0831180306000238" npc="모스카" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000239" npc="모스카" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000240" npc="나이트 전용 상인" name="何か用？" />
+	<key id="0831180306000241" npc="버서커 전용 상인" name="何か用？" />
+	<key id="0831180306000242" npc="위자드 전용 상인" name="何か用？" />
+	<key id="0831180306000243" npc="프리스트 전용 상인" name="何か用？" />
+	<key id="0831180306000244" npc="레인저 전용 상인" name="何か用？" />
+	<key id="0831180306000245" npc="헤비거너 전용 상인" name="何か用？" />
+	<key id="0831180306000246" npc="시프 전용 상인" name="何か用？" />
+	<key id="0831180306000247" npc="어쌔신 전용 상인" name="何か用？" />
+	<key id="0831180306000260" npc="일곱 빛깔 무지개" name="何か用？" />
+	<key id="0831180306000261" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
+	<key id="0831180306000262" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
+	<key id="0831180306000263" npc="일곱 빛깔 무지개" name="今はレベル30制限装備までしか扱っていません。" />
+	<key id="0831180306000264" npc="키리엔" name="どうしましたか？" />
+	<key id="0831180306000265" npc="키리엔" name="錬金術で作った特別なポーションがありま～す！" />
+	<key id="0831180306000266" npc="키리엔" name="私が調合したポーションの効き目は世界一ですよ！" />
+	<key id="0831180306000267" npc="모건" name="どうした？" />
+	<key id="0831180306000268" npc="모건" name="良い武器が入ったぞ～。" />
+	<key id="0831180306000269" npc="모건" name="武器より強い者になれ！" />
+	<key id="0831180306000270" npc="와트" name="どうした？" />
+	<key id="0831180306000271" npc="와트" name="さあさあ、見てって～。" />
+	<key id="0831180306000272" npc="와트" name="素敵な装備との出会いがあるかもしれないのに？" />
+	<key id="0831180306000273" npc="와트" name="飯の時間のような気がするが…。" />
+	<key id="0831180306000274" npc="보딘" name="何か用？" />
+	<key id="0831180306000275" npc="보딘" name="もちろんご存知ですよね！ゴルドス銀行！" />
+	<key id="0831180306000276" npc="보딘" name="えっ…！ご存知ないんですか？ゴルドス銀行のこと？" />
+	<key id="0831180306000277" npc="보딘" name="心配無用！安心してお預けください！" />
+	<key id="0831180306000278" npc="붉은 태양의 노래" name="何か用？" />
+	<key id="0831180306000279" npc="붉은 태양의 노래" name="私が販売している商品はメルでは買えないものですから。" />
+	<key id="0831180306000280" npc="붉은 태양의 노래" name="私が販売しているアイテムがほしいですか？ならば、英雄になってください！" />
+	<key id="0831180306000281" npc="붉은 태양의 노래" name="とても珍しい乗り物ですよ！" />
+	<key id="0831180306000282" npc="라이든" name="何か用？" />
+	<key id="0831180306000283" npc="라이든" name="世の中っつーのは取引で成り立っているぜ！" />
+	<key id="0831180306000284" npc="라이든" name="お前は別に何も必要なさそうだが…？ " />
+	<key id="0831180306000289" npc="일곱 빛깔 무지개" name="何か用？" />
+	<key id="0831180306000290" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
+	<key id="0831180306000291" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
+	<key id="0831180306000292" npc="일곱 빛깔 무지개" name="レベル40制限装備が入荷されました！" />
+	<key id="0831180306000296" npc="도키" name="$npc:11000735[gender:1]$が一番なのに…。" />
+	<key id="0831180306000297" npc="도키" name="何が嬉しくて騒いでいるのやら…。" />
+	<key id="0831180306000298" npc="도키" name="$npc:11000735[gender:1]$が一番なのに…。" />
+	<key id="0831180306000299" npc="도키" name="あいつら、本当にうるさいんです…。&#xA;$npcName:11000406[gender:0]$のどこがカッコイイのやら…。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;をひと目見れば$npcName:11000406[gender:0]$なんか…きっと眼中に入らなくなりますよ。 " />
+	<key id="0831180306000300" npc="도키" name="$MyPCName$さん、&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;のこと、知っています？" />
+	<key id="0831180306000301" npc="pc" name="$npcName:11000735[gender:1]$のことを知っていると言う。" />
+	<key id="0831180306000302" npc="pc" name="$npcName:11000735[gender:1]$が誰なのか聞く。" />
+	<key id="0831180306000303" npc="pc" name="$npc:11000406[gender:0]$が一番だと話す。" />
+	<key id="0831180306000304" npc="도키" name="えっ、本当ですか？&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;を見たことがあるんですか？&#xA;僕は以前、一回だけ見たんですけど…。" />
+	<key id="0831180306000305" npc="도키" name="それは一瞬の出来事でした…。パッと光っては消えていく星のような…。&#xA;不思議なのは&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;の姿だけはとても鮮明に見えたことなんです。ほんの一瞬だったのに…。&#xA;まるで写真を撮るときのように…僕は彼女の姿をはっきり覚えています。" />
+	<key id="0831180306000306" npc="도키" name="あれ以来、&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;にもう一度会いたくて、彼女が現れたというところに駆けつける毎日を送っています。&#xA;まだ…彼女に会えていませんが、僕のように&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;を目撃した人たちに教えてもらった通りに$npc:11000735[gender:1]$の姿を描いています。&#xA;そうやって出来上がった絵がもう何十枚もあります。" />
+	<key id="0831180306000307" npc="도키" name="この絵を眺めていると&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;の空のような魅力が感じられると言うか…。&#xA;空は刻一刻その姿を変えるじゃないですか…。&#xA;夕焼け…雲…。僕の言っていることが分かりますか？" />
+	<key id="0831180306000308" npc="도키" name="僕もよく分かりません。彼女が誰なのか…。&#xA;ただみんな&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;と呼んでいます。&#xA;突然現れて…突然消えるけど…とても…可愛いんです…。&#xA;僕は彼女に一目惚れしてしまいました！" />
+	<key id="0831180306000309" npc="도키" name="今は彼女の絵を眺めているしかありませんが…。&#xA;いつか必ず！彼女に会って僕の気持ちを伝えます！" />
+	<key id="0831180306000310" npc="도키" name="へっ…あなたも、あそこで黄色い声を上げてる子たちと同じですね。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;を一度でも目にしたら、すっかり気が変わると思いますけど…。" />
+	<key id="0831180306000314" npc="주스토" name="何か用？" />
+	<key id="0831180306000315" npc="주스토" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000316" npc="주스토" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000317" npc="주스토" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000318" npc="샤오루" name="何か用？" />
+	<key id="0831180306000319" npc="샤오루" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000320" npc="샤오루" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000321" npc="샤오루" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000322" npc="지아" name="何か用？" />
+	<key id="0831180306000323" npc="지아" name="あぁ～日差しが暖かい。" />
+	<key id="0831180306000324" npc="지아" name="わあ～涼しい潮風！" />
+	<key id="0831180306000325" npc="슐츠" name="何か用？" />
+	<key id="0831180306000326" npc="슐츠" name="世の中っつーのは取引で成り立っているぜ！" />
+	<key id="0831180306000327" npc="슐츠" name="お前は別に何も必要なさそうだが…？ " />
+	<key id="0831180306000328" npc="마하" name="何か用？" />
+	<key id="0831180306000329" npc="마하" name="世の中っつーのは取引で成り立っているぜ！" />
+	<key id="0831180306000330" npc="마하" name="お前は別に何も必要なさそうだが…？ " />
+	<key id="0831180306000339" npc="아가사" name="何か用？" />
+	<key id="0831180306000340" npc="아가사" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000341" npc="아가사" name="この世界は実に興味深い。" />
+	<key id="0831180306000342" npc="아가사" name="少し高いけど品質は保証します。" />
+	<key id="0831180306000343" npc="아가사" name="買いたくなければ別にいいんですよ！" />
+	<key id="0831180306000344" npc="이올렛" name="何か用？" />
+	<key id="0831180306000345" npc="이올렛" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000346" npc="이올렛" name="この世界は実に興味深い。" />
+	<key id="0831180306000347" npc="이올렛" name="少し高いけど品質は保証します。" />
+	<key id="0831180306000348" npc="이올렛" name="買いたくなければ別にいいんですよ！" />
+	<key id="0831180306000349" npc="페퍼" name="何か用？" />
+	<key id="0831180306000350" npc="페퍼" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000351" npc="페퍼" name="この世界は実に興味深い。" />
+	<key id="0831180306000352" npc="페퍼" name="少し高いけど品質は保証します。" />
+	<key id="0831180306000353" npc="페퍼" name="買いたくなければ別にいいんですよ！" />
+	<key id="0831180306000354" npc="유니" name="何か用？" />
+	<key id="0831180306000355" npc="유니" name="トゥルカのオーラが次第に強くなってきている…。" />
+	<key id="0831180306000356" npc="유니" name="この世界は実に興味深い。" />
+	<key id="0831180306000357" npc="유니" name="少し高いけど品質は保証します。" />
+	<key id="0831180306000358" npc="유니" name="買いたくなければ別にいいんですよ！" />
+	<key id="0831180306000359" npc="차차" name="あら、私に会いにきたんですか？" />
+	<key id="0831180306000360" npc="차차" name="あぁ、ピンクラムも連れて行けばよかった…。" />
+	<key id="0831180306000361" npc="차차" name="気分転換には旅行が一番よね～。" />
+	<key id="0831180306000362" npc="차차" name="私はね～みんなと同じが嫌なんです！" />
+	<key id="0831180306000363" npc="행크" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000364" npc="행크" name="便利さをお求めの方におすすめです！" />
+	<key id="0831180306000365" npc="행크" name="アイテムやメルを預ける場所が必要ですか？" />
+	<key id="0831180306000366" npc="행크" name="$map:02000216$でもぜひお立ち寄りくださいませ～！ゴルドス銀行へ！" />
+	<key id="0831180306000367" npc="행크" name="場所が場所だけにセキュリティには細心の注意を払っております。" />
+	<key id="0831180306000368" npc="프릿츠" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0831180306000369" npc="프릿츠" name="アイテムやメルを預けたいですか？こちらへどうぞ～。" />
+	<key id="0831180306000370" npc="프릿츠" name="安心・安全のゴルドス銀行をご利用くださ～い。" />
+	<key id="0831180306000371" npc="프릿츠" name="$map:02000203$でもぜひお立ち寄りくださいませ～！ゴルドス銀行へ！" />
+	<key id="0831180306000372" npc="프릿츠" name="金庫をご利用の際は私に声をかけてくださいませ。" />
+	<key id="0831180306000373" npc="블란체" name="あれ？私に何かご用でも…？" />
+	<key id="0831180306000374" npc="블란체" name="私と取引できる資格があるかどうか…確かめてみましょうか？" />
+	<key id="0831180306000375" npc="블란체" name="あなたを顧客として認めるかどうかはこの私が決めます！" />
+	<key id="0831180306000376" npc="블란체" name="$MyPCName$さんとは取引しません。&#xA;私は&lt;font color=&quot;#ffd200&quot;&gt;$achieve:23200015$&lt;/font&gt;トロフィーを得た方たちのためにここにいるんです。&#xA;私に会うためにわざわざここまで来たのなら、ごめんなさいね。" />
+	<key id="0831180306000377" npc="메이플 북스" name="メイプルストーリー2のファンアートブックを販売する売店。" />
+	<key id="0831180306000378" npc="녹스" name="何か用？" />
+	<key id="0831180306000379" npc="녹스" name="私は、$item:40100023$なんか扱ってないんだ！" />
+	<key id="0831180306000380" npc="녹스" name="私は確かな取引しかやらなかった…。" />
+	<key id="0831180306000381" npc="녹스" name="$item:40100024$があるのか？ふむ…それは残念だな…。" />
+	<key id="0831180306000382" npc="테로사" name="何か用？" />
+	<key id="0831180306000383" npc="테로사" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000384" npc="테로사" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000385" npc="로미닉" name="何か用？" />
+	<key id="0831180306000386" npc="로미닉" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000387" npc="로미닉" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000388" npc="베리엇" name="何か用？" />
+	<key id="0831180306000389" npc="베리엇" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000390" npc="베리엇" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000391" npc="룰케" name="何か用？" />
+	<key id="0831180306000392" npc="룰케" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000393" npc="룰케" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000394" npc="타자스" name="何か用？" />
+	<key id="0831180306000395" npc="타자스" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000396" npc="타자스" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000397" npc="일곱 빛깔 무지개" name="何か用？" />
+	<key id="0831180306000398" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
+	<key id="0831180306000399" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
+	<key id="0831180306000400" npc="일곱 빛깔 무지개" name="レベル50制限装備が入荷されました！" />
+	<key id="0831180306000401" npc="키페온" name="何か用？" />
+	<key id="0831180306000402" npc="키페온" name="生存に役立つものは予め購入しといた方がいいよ！" />
+	<key id="0831180306000403" npc="키페온" name="強い闇の力が感じられる…。" />
+	<key id="0831180306000404" npc="루트" name="俺に用か？" />
+	<key id="0831180306000405" npc="루트" name="$item:40100024$は多ければ多いほどいいぞ！" />
+	<key id="0831180306000406" npc="루트" name="強い戦士になりたいのか？俺が売っているものを使えば誰だって強くなれるぜ！" />
+	<key id="0831180306000407" npc="루트" name="$item:40100024$を持っているなら俺のところに来てくれ！" />
+	<key id="0831180306000408" npc="에린" name="何か用？" />
+	<key id="0831180306000409" npc="에린" name="いらっしゃいませ～。" />
+	<key id="0831180306000410" npc="에린" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000411" npc="에린" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000412" npc="비비안" name="何か用？" />
+	<key id="0831180306000413" npc="비비안" name="いらっしゃいませ～。" />
+	<key id="0831180306000414" npc="비비안" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000415" npc="비비안" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000416" npc="이랑" name="何か用？" />
+	<key id="0831180306000417" npc="이랑" name="いらっしゃいませ～。" />
+	<key id="0831180306000418" npc="이랑" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000419" npc="이랑" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000420" npc="미샤" name="何か用？" />
+	<key id="0831180306000421" npc="미샤" name="いらっしゃいませ～。" />
+	<key id="0831180306000422" npc="미샤" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000423" npc="미샤" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000424" npc="카린" name="何か用？" />
+	<key id="0831180306000425" npc="카린" name="いらっしゃいませ～。" />
+	<key id="0831180306000426" npc="카린" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000427" npc="카린" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000428" npc="마틸다" name="何か用？" />
+	<key id="0831180306000429" npc="마틸다" name="いらっしゃいませ～。" />
+	<key id="0831180306000430" npc="마틸다" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000431" npc="마틸다" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000432" npc="바넷" name="何か用？" />
+	<key id="0831180306000433" npc="바넷" name="いらっしゃいませ～。" />
+	<key id="0831180306000434" npc="바넷" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000435" npc="바넷" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000436" npc="린스" name="何か用？" />
+	<key id="0831180306000437" npc="린스" name="いらっしゃいませ～。" />
+	<key id="0831180306000438" npc="린스" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000439" npc="린스" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000440" npc="하나" name="何か用？" />
+	<key id="0831180306000441" npc="하나" name="いらっしゃいませ～。" />
+	<key id="0831180306000442" npc="하나" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000443" npc="하나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000444" npc="비앙카" name="何か用？" />
+	<key id="0831180306000445" npc="비앙카" name="いらっしゃいませ～。" />
+	<key id="0831180306000446" npc="비앙카" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000447" npc="비앙카" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000448" npc="크리스티나" name="何か用？" />
+	<key id="0831180306000449" npc="크리스티나" name="いらっしゃいませ～。" />
+	<key id="0831180306000450" npc="크리스티나" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000451" npc="크리스티나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000452" npc="설봉이" name="どうしたん？" />
+	<key id="0831180306000453" npc="설봉이" name="いらっしゃい！" />
+	<key id="0831180306000454" npc="설봉이" name="この街の住民たちのための商店だよ。" />
+	<key id="0831180306000455" npc="설봉이" name="ここの住民じゃないな。&#xA;住民専用商店は誰でも利用できるところじゃない。&#xA;他のところに行ってくれ。" />
+	<key id="0831180306000456" npc="로즈" name="何か用？" />
+	<key id="0831180306000457" npc="로즈" name="いらっしゃいませ～。" />
+	<key id="0831180306000458" npc="로즈" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000459" npc="로즈" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000460" npc="이피아" name="何か用？" />
+	<key id="0831180306000461" npc="이피아" name="いらっしゃいませ～。" />
+	<key id="0831180306000462" npc="이피아" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000463" npc="이피아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000464" npc="도로시" name="何か用？" />
+	<key id="0831180306000465" npc="도로시" name="いらっしゃいませ～。" />
+	<key id="0831180306000466" npc="도로시" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000467" npc="도로시" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000468" npc="르티에" name="何か用？" />
+	<key id="0831180306000469" npc="르티에" name="いらっしゃいませ～。" />
+	<key id="0831180306000470" npc="르티에" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000471" npc="르티에" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000472" npc="나엘" name="何か用？" />
+	<key id="0831180306000473" npc="나엘" name="いらっしゃいませ～。" />
+	<key id="0831180306000474" npc="나엘" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000475" npc="나엘" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000476" npc="에스카" name="何か用？" />
+	<key id="0831180306000477" npc="에스카" name="いらっしゃいませ～。" />
+	<key id="0831180306000478" npc="에스카" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000479" npc="에스카" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000480" npc="산드라" name="何か用？" />
+	<key id="0831180306000481" npc="산드라" name="いらっしゃいませ～。" />
+	<key id="0831180306000482" npc="산드라" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000483" npc="산드라" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000484" npc="레니" name="何か用？" />
+	<key id="0831180306000485" npc="레니" name="いらっしゃいませ～。" />
+	<key id="0831180306000486" npc="레니" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000487" npc="레니" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000488" npc="아델" name="何か用？" />
+	<key id="0831180306000489" npc="아델" name="いらっしゃいませ～。" />
+	<key id="0831180306000490" npc="아델" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000491" npc="아델" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000492" npc="요코" name="何か用？" />
+	<key id="0831180306000493" npc="요코" name="いらっしゃいませ～。" />
+	<key id="0831180306000494" npc="요코" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000495" npc="요코" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000496" npc="미나" name="何か用？" />
+	<key id="0831180306000497" npc="미나" name="いらっしゃいませ～。" />
+	<key id="0831180306000498" npc="미나" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000499" npc="미나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0831180306000500" npc="신시아" name="何か用？" />
+	<key id="0831180306000501" npc="신시아" name="いらっしゃいませ～。" />
+	<key id="0831180306000502" npc="신시아" name="この街の住民たちのための商店です。" />
+	<key id="0831180306000503" npc="신시아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="0907150706001006" npc="스칼렛" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="0920165106000914" npc="보부상 텐텐" name="ニーハオ！よろしく、$MyPCName$さん！" />
+	<key id="0920165106000915" npc="보부상 텐텐" name="ニーハオ、$MyPCName$さ～ん。私、中国から来た&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003559[gender:1]$&lt;/font&gt;です！" />
+	<key id="0920165106000916" npc="pc" name="ここに来た理由を聞く。" />
+	<key id="0920165106000917" npc="보부상 텐텐" name="世界から愛されるメイプルストーリー2！&#xA;メイプルストーリー2の中国ローンチを記念して、韓国の冒険者の方々に会うために訪ねてきたんです～。&#xA;韓国最大の祭日である秋夕に、こうして韓国の冒険者の皆さまにお会いできて、とても嬉しいです！" />
+	<key id="0922164706000504" npc="일곱 빛깔 무지개" name="何か用？" />
+	<key id="0922164706000505" npc="일곱 빛깔 무지개" name="私が販売している商品は誰でも買えるわけじゃありませんからね。" />
+	<key id="0922164706000506" npc="일곱 빛깔 무지개" name="私より強そうだな！" />
+	<key id="0922164706000507" npc="일곱 빛깔 무지개" name="新しい商品が入荷しましたので、見ていってくださ～い。" />
+	<key id="0925121506000918" npc="먼데이" name="&lt;font color=&quot;#ffd200&quot;&gt;特別な月曜日&lt;/font&gt;に購入可能！&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;をお持ちの&lt;font color=&quot;#ffd200&quot;&gt;冒険者&lt;/font&gt;さんのみ！&#xA;お客様としてお迎えするマンデーです！" />
+	<key id="0925121506000919" npc="먼데이" name="見物はご自由に！どうぞ見ていってください。" />
+	<key id="0925121506000920" npc="먼데이" name="&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;は、50レベル以上の特別な冒険者さんにだけ販売しています！" />
+	<key id="1003143806000926" npc="밍밍" name="何か用？" />
+	<key id="1003143806000927" npc="밍밍" name="東方明珠を見ながら走る気分～上海クレイジーランナーズで体感してください。" />
+	<key id="1003143806000929" npc="밍밍" name="私からは中国伝統料理とアバターを購入できます。一度見ていってください。" />
+	<key id="1007162606000938" npc="와이즈" name="どうしましたか？" />
+	<key id="1007162606000939" npc="와이즈" name="ある天才科学者は、他の人に教える唯一の方法は、模範を示すことだと言ったそうです。" />
+	<key id="1007162606000940" npc="와이즈" name="教え子のお手本になれるだけの、立派な先生になってください！" />
+	<key id="1007162606000941" npc="와이즈" name="親切な先生さんのために、良い物をご用意しました。" />
+	<key id="1007162606000942" npc="아비드" name="どうしましたか？" />
+	<key id="1007162606000943" npc="아비드" name="教え子の方々に役立ちそうな物をたくさん持ってきました。" />
+	<key id="1007162606000944" npc="아비드" name="助けてくれる先生の方に、感謝の一言を言ってみてはどうでしょう？" />
+	<key id="1007162606000945" npc="아비드" name="私もかつては誰かの教え子でした。" />
+	<key id="1014150906000508" npc="아리까리 상단" name="アヤフヤ商団が取り扱う品物が入っている雑貨ボックス。" />
+	<key id="1016142906000509" npc="롯피" name="トロフィーの価値が分かる者にだけ、貴重な品物を手に入れる資格があるんだ。" />
+	<key id="1016142906000510" npc="롯피" name="素敵なトロフィーは、常にそれ相応の価値を持つものさ。" />
+	<key id="1016142906000511" npc="롯피" name="トロフィー、トロフィー！もっとたくさんのトロフィーがほしい。" />
+	<key id="1016142906000512" npc="롯피" name="何だよ、このトロフィーの達人に何の用だ？&#xA;…ん？ひょっとしてトロフィーに興味があって私を訪ねてきたのか？" />
+	<key id="1016142906000513" npc="pc" name="トロフィーに興味がない者もいるのかと話す。" />
+	<key id="1016142906000514" npc="pc" name="トロフィーなんかには何の興味もないと話す。" />
+	<key id="1016142906000515" npc="롯피" name="ほう？君はトロフィーの価値がとてもよく分かってるな。&#xA;トロフィーの達人であるこのロッピ様をお手本にして、これからも頑張るんだぞ。&#xA;もちろん、この私に追いつくにはまだまだ時間がかかると思うけどね。クスクス…。" />
+	<key id="1016142906000516" npc="pc" name="トロフィーが増えると何か得でもあるのかと聞く。" />
+	<key id="1016142906000517" npc="롯피" name="うう…トロフィー集めに不純な意図を抱くとは！&#xA;…まあ、冒険の達人であるこの私のように、純粋にトロフィーを集めたい者を探すのは&#xA;不可能なんだろうが。" />
+	<key id="1016142906000518" npc="롯피" name="まあ、何だっていい。&#xA;万が一にも、私が保有しているトロフィーを…まあ、その可能性はこれっぽっちもないと思うがね。&#xA;とにかく、そんなことが起きたら、それ&lt;font color=&quot;#ffd200&quot;&gt;相応の物&lt;/font&gt;を君に渡すよ。" />
+	<key id="1016142906000519" npc="pc" name="それ相応の物？それは本当に価値のある物なのかと聞く。" />
+	<key id="1016142906000520" npc="롯피" name="何？今、このロッピ様をバカにするようなことを言ったな！&#xA;フン!! 私がメイプルワールドを放浪しながら集めた貴重な品物だ。&#xA;これからは私の話を疑ったりするんじゃないぞ！" />
+	<key id="1016142906000521" npc="롯피" name="トロフィー…なんか…だと？こいつ！&#xA;よ…よくもトロフィーをバカにしてくれたな？うう…トロフィーをバカにすることは、この&#xA;トロフィーの達人であられるロッピ様を侮辱するのと同じだ！" />
+	<key id="1016142906000522" npc="pc" name="そういうつもりで言ったのではないと謝る。" />
+	<key id="1016142906000523" npc="롯피" name="フンッ！そういう意味じゃないならいい。これからは口に気をつけろよ！&#xA;…トロフィーごときだなんて…うう…思い出しただけでムカつくな。&#xA;&lt;font color=&quot;#909090&quot;&gt;(ロッピが恐ろしい目つきで睨んできている。こ…これからは気をつけるようにしようか？)&lt;/font&gt;" />
+	<key id="1019141606000524" npc="펌프키니" name="お祭りは本当に楽しい！" />
+	<key id="1019141606000525" npc="펌프키니" name="うう…ハロウィンクーポンをくれないとイタズラするぞ!!" />
+	<key id="1019141606000526" npc="펌프키니" name="アブラカダブラ！ドキドキカボチャキャンディよ、出でよ～っ。" />
+	<key id="1021213806000740" npc="페르시카" name="どれどれ…ううん…？" />
+	<key id="1021213806000741" npc="페스카" name="ようこそ。" />
+	<key id="1021213806000742" npc="메르치니" name="トゥルトゥトゥ～。" />
+	<key id="1021213806000743" npc="레이첼" name="何をお作りしましょうか？" />
+	<key id="1021213806000745" npc="레이첼" name="何をお作りしましょうか？" />
+	<key id="1021213806000746" npc="마칸" name="ふうむ…。" />
+	<key id="1021213806000747" npc="피아" name="やぁっほ～飛んでけ～。" />
+	<key id="1022122006000527" npc="주다쿠" name="何かお探しかい？ククク…。金があるなら、好きなだけ見ていくといい。" />
+	<key id="1022122006000528" npc="주다쿠" name="貴重な品が手に入る場所は…。" />
+	<key id="1022122006000529" npc="주다쿠" name="チッ！&#xA;アヤフヤ商団の連中め、性根が腐っとるわい…。" />
+	<key id="1022122006000530" npc="주다쿠" name="何かお探しかい？ククク…。&#xA;存分に見物するといい。他の場所では&lt;font color=&quot;#ffd200&quot;&gt;見られない商品&lt;/font&gt;もあるからな。" />
+	<key id="1022122006000531" npc="pc" name="アクセントが変わってるが、出身はどこかと聞く。" />
+	<key id="1022122006000532" npc="주다쿠" name="ほう？耳が良いな？クックックッ…。&#xA;ここに来て、出身を聞かれたのは初めてだ。" />
+	<key id="1022122006000533" npc="pc" name="どこの出身かもう一度聞く。" />
+	<key id="1022122006000534" npc="주다쿠" name="どこだと言ったところで知らんだろうし…。海の向こう、遠くから来たということだけ知っておけばよい。&#xA;ふむ…そういや、&lt;font color=&quot;#ffd200&quot;&gt;$map:2000064$&lt;/font&gt;で&lt;font color=&quot;#ffd200&quot;&gt;アヤフヤ商団&lt;/font&gt;という連中に出くわしたことはあるかね？&#xA;あれだ…。&lt;font color=&quot;#ffd200&quot;&gt;ヤラリヨ～！&lt;/font&gt;とか言って騒ぎ立てる連中。" />
+	<key id="1022122006000535" npc="pc" name="誰のことを言っているのか分からないと答える。" />
+	<key id="1022122006000536" npc="pc" name="知っていると答える。" />
+	<key id="1022122006000537" npc="주다쿠" name="あの悪辣なやつらにまだ会っていないようだな。&#xA;いずれ会うことになったら気をつけるんだな。性根の腐り果てた連中だ。" />
+	<key id="1022122006000538" npc="pc" name="彼らが何をされたのかと聞く。" />
+	<key id="1022122006000539" npc="주다쿠" name="なんて厄介なことをしてくれたんだ。&#xA;たかが船賃を払わなかっただけで&lt;font color=&quot;#ffd200&quot;&gt;無賃乗船&lt;/font&gt;だと言って、俺を船から引きずり下ろした！&#xA;俺1人を乗せたところで、船が沈むわけでもないのに。&#xA;全く性根の腐った連中だ！" />
+	<key id="1022122006000540" npc="pc" name="船賃を払わずに船に乗ったこと自体が悪いのではないかと聞く。" />
+	<key id="1022122006000541" npc="주다쿠" name="ああ。そいつらだ。&#xA;気をつけるんだぞ！たかが船賃を払わなかっただけで&lt;font color=&quot;#ffd200&quot;&gt;無賃乗船&lt;/font&gt;だと言って、俺を船から引きずり下ろした&#xA;悪辣なやつら…全く性根の腐った連中だろ？" />
+	<key id="1022122006000542" npc="pc" name="船賃を払わずに船に乗ったこと自体が悪いのではないかと聞く。" />
+	<key id="1022122006000543" npc="주다쿠" name="何だと?! つまり、俺が悪かったと言うのか?!&#xA;フン！揃いも揃って性根の腐った連中ばかりだな！" />
+	<key id="1110150406000967" npc="마요르" name="うう…気になる、とっても気になるわ！" />
+	<key id="1110150406000968" npc="마요르" name="世の中って、本当に不思議なことだらけよね？" />
+	<key id="1110150406000969" npc="마요르" name="お腹が空いたのだけど、ここの料理を食べても良いのかしら？どんな味か気になるんだけど…。" />
+	<key id="1110150406000970" npc="마요르" name="ここは本当に平和そうね。でも、ここの人たちは何をしてるの？&#xA;どんな料理を食べるの？…人々の服装も変わってるわよね。&#xA;服の素材は何を使ってるの？うう…気になって仕方がないわ…。" />
+	<key id="1110150406000971" npc="마요르" name="…あっ!! あなたはこの土地の住民！ど…どうもよろしく。ヤラリヨ！" />
+	<key id="1110150406000972" npc="pc" name="ヤラリヨ？独特な挨拶について聞く。" />
+	<key id="1110150406000973" npc="pc" name="知りたいことが多そうだと話す。" />
+	<key id="1110150406000974" npc="pc" name="どこから来たのか聞く。" />
+	<key id="1110150406000975" npc="마요르" name="ああ！きっとあなたには慣れない言葉なんでしょうね。&#xA;ヤラリヨは&lt;font color=&quot;#ffd200&quot;&gt;新しい友よ&lt;/font&gt;という意味の、私の故郷の挨拶なんです。&#xA;新しいお友達…聞いただけで胸が高鳴りませんか？" />
+	<key id="1110150406000976" npc="마요르" name="もちろん！気にならないわけないでしょう！&#xA;ここの人たちがどんな生活をしてるか、何を着てるか、何を食べるか、何気ない色々なことが&#xA;私には全て新鮮なんです！" />
+	<key id="1110150406000977" npc="마요르" name="これだけ多くの人が集まって暮らしてるなら、きっと楽しいお祭りもありますよね？&#xA;お祭りに参加して、色んな人と交流してみたいんです…えへっ…。" />
+	<key id="1110150406000978" npc="마요르" name="うーん…たぶん聞いたことのない場所だと思います。&#xA;私も船に乗って長い航海した末にここにたどり着いたので…。&#xA;私が住んでいたところにも町がありましたけど、クイーンズ…タウンというんでしたっけ？&#xA;やはりこことは違った雰囲気の場所ですし。" />
+	<key id="1110153306000979" npc="리베트" name="やあ、やあ、やあ！&#xA;3回の挨拶は、会えてとても嬉しいという意味さ。ハハ！ " />
+	<key id="1110153306000980" npc="리베트" name="笑って生きましょ～！ハハ！" />
+	<key id="1110153306000981" npc="리베트" name="人が集まれば、金も集まるものなのさ！" />
+	<key id="1110153306000982" npc="리베트" name="こんなところにこれだけ豪華な都市が作られたなんて、驚きだよな？" />
+	<key id="1118145206000544" npc="퓨리" name="$item:90000014$さえ手に入るなら、妖精のお宝はいつ渡してもいいですよ。" />
+	<key id="1118145206000545" npc="퓨리" name="$item:90000014$がたくさん、たくさん必要なんです！" />
+	<key id="1118145206000546" npc="퓨리" name="$item:90000014$を持ってるなら、私にください！" />
+	<key id="1118145206000547" npc="퓨리" name="もしかして&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;を持ってきたんですか？&#xA;お宝と交換しませんか？私には&lt;font color=&quot;#ffd200&quot;&gt;お宝よりも貴重な実&lt;/font&gt;なんです…。" />
+	<key id="1118145206000548" npc="pc" name="$item:90000014$とは何なのかと聞く。" />
+	<key id="1118145206000549" npc="pc" name="$item:90000014$をいったい何に使うつもりか聞く。" />
+	<key id="1118145206000550" npc="pc" name="妖精たちの宝を$item:90000014$と交換しても良いのかと聞く。" />
+	<key id="1118145206000551" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;の影響を受けた木になる実なんですけど、&lt;font color=&quot;#ffd200&quot;&gt;闇の実&lt;/font&gt;とも呼ばれてます。&#xA;シャドウワールドの&lt;font color=&quot;#ffd200&quot;&gt;深い闇&lt;/font&gt;を宿した恐ろしい実なんですよ。" />
+	<key id="1118145206000552" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000031[gender:0]$&lt;/font&gt;さんと守護妖精たちが団結して&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;のオーラを食い止めました。&#xA;でも、一部の守護妖精たちが$item:90000014$の&lt;font color=&quot;#ffd200&quot;&gt;中毒&lt;/font&gt;になってしまったんです。&#xA;$npc:11000031[gender:0]$様がおっしゃっていました。&#xA;$item:90000014$の毒性を払えるのは、同じ毒性を持つ$item:90000014$だけだって。" />
+	<key id="1118145206000553" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;中毒症状&lt;/font&gt;を治療するには$item:90000014$の果汁エキスが必要で…。&#xA;そのエキスを手に入れるには、当然&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;が必要になりますよね。それも、ものすごくたくさん！" />
+	<key id="1118145206000554" npc="퓨리" name="お宝って、&lt;font color=&quot;#ffd200&quot;&gt;物&lt;/font&gt;でしかないでしょ？&lt;font color=&quot;#ffd200&quot;&gt;命&lt;/font&gt;より大事なはずがないんです。&#xA;森を守ろうとして苦しむはめになったみんなを救えるなら…。&#xA;&lt;font color=&quot;#ffd200&quot;&gt;お宝より貴重なもの&lt;/font&gt;だって、いくらでも渡すつもりです！" />
+	<key id="1121222006000787" npc="옌타이오" name="どうしましたか？" />
+	<key id="1121222006000788" npc="옌타이오" name="どうしましたか？" />
+	<key id="1121222006000789" npc="크리스" name="何か用？" />
+	<key id="1121222006000790" npc="크리스" name="何か用？" />
+	<key id="1121222006000791" npc="다나" name="何か用？" />
+	<key id="1121222006000792" npc="다나" name="何か用？" />
+	<key id="1121222006000793" npc="지오" name="何か用？" />
+	<key id="1121222006000794" npc="지오" name="何か用？" />
+	<key id="1121222006000795" npc="니케아" name="何か用？" />
+	<key id="1121222006000796" npc="니케아" name="何か用？" />
+	<key id="1121222006000797" npc="피터" name="何か用？" />
+	<key id="1121222006000798" npc="피터" name="何か用？" />
+	<key id="1121222006000799" npc="라벤느" name="どうした？" />
+	<key id="1121222006000800" npc="라벤느" name="どうした？" />
+	<key id="1121222006000801" npc="릴리" name="どうした？" />
+	<key id="1121222006000802" npc="릴리" name="どうした？" />
+	<key id="1121222006000803" npc="잭클린" name="どうした？" />
+	<key id="1121222006000804" npc="잭클린" name="弟の病気を治せる万能薬があれば…。" />
+	<key id="1121222006000805" npc="알프레드" name="どうしましたか？" />
+	<key id="1121222006000806" npc="알프레드" name="どうしましたか？" />
+	<key id="1121222006000807" npc="브리엘" name="何か用？" />
+	<key id="1121222006000808" npc="브리엘" name="あたしもお花のプレゼントがもらいたいな～。" />
+	<key id="1121222006000809" npc="브리엘" name="このあたしが！かの有名な「$map:02000100$の野花」なのよ～。" />
+	<key id="1121222006000810" npc="재커리" name="どうしましたか？" />
+	<key id="1121222006000811" npc="재커리" name="人の役に立つ仕事ができるって、幸せなことです！" />
+	<key id="1121222006000812" npc="가브리엘" name="どうしましたか？" />
+	<key id="1121222006000813" npc="가브리엘" name="植物は、家に新鮮な雰囲気を漂わせてくれます。" />
+	<key id="1121222006000814" npc="가브리엘" name="少しでもぐっすり眠れたら…。" />
+	<key id="1121222006000815" npc="제프리" name="どうしましたか？" />
+	<key id="1121222006000816" npc="제프리" name="どうしましたか？" />
+	<key id="1121222006000817" npc="브로" name="どうしましたか？" />
+	<key id="1121222006000818" npc="브로" name="見かけの良い家が、暮らしやすいものですよ。" />
+	<key id="1121222006000819" npc="아놀드" name="いらっしゃい。どうした？" />
+	<key id="1121222006000820" npc="아놀드" name="暖かくて居心地のいい家がほしいだろう？" />
+	<key id="1121222006000821" npc="이안" name="何か用？" />
+	<key id="1121222006000822" npc="이안" name="何か用？" />
+	<key id="1121222006000823" npc="엘비스" name="どうしましたか？" />
+	<key id="1121222006000824" npc="엘비스" name="高層ビルやランドマークパッケージを販売するのが夢なんです。" />
+	<key id="1121222006000825" npc="이삭" name="どうしましたか？" />
+	<key id="1121222006000826" npc="이삭" name="絶対お金持ちになるぜ！" />
+	<key id="1121222006000827" npc="로엥" name="記念品を買いたいなら、うちの中の建設モードですぐに購入できるぞ～。" />
+	<key id="1121222006000828" npc="로엥" name="世の中捨てたものじゃないね～。うんうん、そうだとも～。" />
+	<key id="1121222006000829" npc="쟝피엘" name="何か用？" />
+	<key id="1121222006000830" npc="쟝피엘" name="過去については聞かないでください…。" />
+	<key id="1121222006000831" npc="카를라" name="不気味な家にだって魅力があるんです。" />
+	<key id="1121222006000832" npc="카를라" name="お化け屋敷にしてみるのはどうですか？" />
+	<key id="1121222006000833" npc="로코" name="何か用？" />
+	<key id="1121222006000834" npc="로코" name="何か用？" />
+	<key id="1121222006000835" npc="이슬레이" name="何か用？" />
+	<key id="1121222006000836" npc="이슬레이" name="我が帝国を必ず取り戻す！" />
+	<key id="1121222006000837" npc="시드" name="どうしましたか？" />
+	<key id="1121222006000838" npc="시드" name="どうしましたか？" />
+	<key id="1121222006000839" npc="보겐" name="何か用？" />
+	<key id="1121222006000840" npc="보겐" name="今日は少し体重が減ったのかな…。" />
+	<key id="1121222006000841" npc="리키" name="何か用？" />
+	<key id="1121222006000842" npc="리키" name="何か用？" />
+	<key id="1121222006000843" npc="진저스" name="何か用？" />
+	<key id="1121222006000844" npc="진저스" name="何か用？" />
+	<key id="1121222006000845" npc="빈센트" name="何か用？" />
+	<key id="1121222006000846" npc="빈센트" name="私は尻尾の長い人が嫌いだ。" />
+	<key id="1121222006000847" npc="디오니" name="どうしましたか？" />
+	<key id="1121222006000848" npc="디오니" name="$map:02000023$式建物の室内はとても涼しいです！" />
+	<key id="1121222006000849" npc="카지미르" name="何か用？" />
+	<key id="1121222006000850" npc="카지미르" name="マイホームを建てられる日は来るだろうか…。" />
+	<key id="1121222006000851" npc="타바사" name="何か用？" />
+	<key id="1121222006000852" npc="타바사" name="メイドと一緒に過ごしながら世話をしたり、してもらったりすると、心が温まると思います。" />
+	<key id="1121222006000853" npc="델브" name="何か用？" />
+	<key id="1121222006000854" npc="델브" name="僕のヘアスタイル、素敵でしょう？" />
+	<key id="1121222006000855" npc="그리드" name="何か用？" />
+	<key id="1121222006000856" npc="그리드" name="何か用？" />
+	<key id="1121222006000857" npc="듀나" name="何か用？" />
+	<key id="1121222006000858" npc="듀나" name="何か用？" />
+	<key id="1121222006000859" npc="티앤크" name="何か用？" />
+	<key id="1121222006000860" npc="티앤크" name="何か用？" />
+	<key id="1121222006000861" npc="노라" name="何か用？" />
+	<key id="1121222006000862" npc="노라" name="何か用？" />
+	<key id="1121222006000863" npc="따사미아" name="何か用？" />
+	<key id="1121222006000864" npc="따사미아" name="何か用？" />
+	<key id="1121222006000865" npc="칼코" name="どうしましたか？" />
+	<key id="1121222006000866" npc="칼코" name="どうしましたか？" />
+	<key id="1121222006000869" npc="투라지" name="どうした？" />
+	<key id="1121222006000870" npc="투라지" name="どうした？" />
+	<key id="1122123706000873" npc="랑피르" name="どうした？" />
+	<key id="1122123706000874" npc="랑피르" name="どうした？" />
+	<key id="1123000706000875" npc="타로즈" name="ようこそ。" />
+	<key id="1206032906000555" npc="로아르" name="何かご用ですか？" />
+	<key id="1206032906000556" npc="로아르" name="青い星…その不思議な力を知りたい…。" />
+	<key id="1206032906000557" npc="로아르" name="青い星を見つけたら、私のところに持ってきてください！" />
+	<key id="1206032906000558" npc="모나르" name="何かご用ですか？" />
+	<key id="1206032906000559" npc="모나르" name="青い星…その不思議な力を知りたい…。" />
+	<key id="1206032906000560" npc="모나르" name="青い星を見つけたら、私のところに持ってきてください！" />
+	<key id="1206034206000561" npc="아코르" name="何かご用ですか？" />
+	<key id="1206034206000562" npc="아코르" name="赤い星…その不思議な力を知りたい…。" />
+	<key id="1206034206000563" npc="아코르" name="赤い星を見つけたら、私のところに持ってきてください！" />
+	<key id="1206034206000564" npc="카네르" name="何かご用ですか？" />
+	<key id="1206034206000565" npc="카네르" name="赤い星…その不思議な力を知りたい…。" />
+	<key id="1206034206000566" npc="카네르" name="赤い星を見つけたら、私のところに持ってきてください！" />
+	<key id="1206041506000567" npc="산타 루돌프" name="クリスマスを記念して$map:2000064$を訪ねてきたルドルフだ。" />
+	<key id="1208032606000568" npc="녹스" name="ん？お前は何だ？&#xA;品物の取り引きでもしに来たのか？" />
+	<key id="1208032606000569" npc="pc" name="$item:40100024$を収集していると聞いたと話す。" />
+	<key id="1208032606000570" npc="녹스" name="ああ、それか。&#xA;よくぞ&lt;font color=&quot;#ffd200&quot;&gt;$item:40100024$&lt;/font&gt;を持ってきたと思うが、残念だったな。&#xA;商売はしばらくやめることにしたから、物を買うつもりなら&lt;font color=&quot;#ffd200&quot;&gt;ほか&lt;/font&gt;を当たってくれ。" />
+	<key id="1208032606000571" npc="pc" name="商売をやめる理由を聞く。" />
+	<key id="1208032606000572" npc="녹스" name="…何でやめるのかって？&#xA;おい、青二才。それは&lt;font color=&quot;#ffd200&quot;&gt;冗談&lt;/font&gt;のつもりか？&#xA;商人が商売をやめる理由が他にあるか？&lt;font color=&quot;#ffd200&quot;&gt;売り上げが赤字&lt;/font&gt;だからやめるんだよ。" />
+	<key id="1208032606000573" npc="녹스" name="商品の構成を変えるか、この機会にいっそ全部やめちまうか…。&#xA;まだ&lt;font color=&quot;#ffd200&quot;&gt;悩んでいる&lt;/font&gt;ところだから、邪魔をしないでさっさと行け。&#xA;&lt;font color=&quot;#909090&quot;&gt;(かなり気が立っているようなので、これ以上話さない方がよさそうだ)&lt;/font&gt;" />
+	<key id="1214161306000876" npc="메리엔" name="何か用？" />
+	<key id="1214161306000877" npc="메리엔" name="うふふ、このたびギルドと結んだ契約は成功のようですね。" />
+	<key id="1214161306000878" npc="메리엔" name="私は物を売る相手を選びます。" />
+	<key id="1214161306000879" npc="메리엔" name="冒険者のみなさ～ん！ポーションはいかがですか～？" />
+	<key id="1214161306000880" npc="안토니우스" name="音楽は誰でも楽しめます！今すぐ始めましょう！" />
+	<key id="1214161306000881" npc="안토니우스" name="あなたでも演奏できます！" />
+	<key id="1214161306000882" npc="안토니우스" name="あなたでも作曲できます！" />
+	<key id="1214161306000883" npc="안토니우스" name="音楽に身を任せて～メロディに乗って走れ～。" />
+	<key id="1214161306000884" npc="안토니우스" name="&lt;font color=&quot;#ffd200&quot;&gt;楽器&lt;/font&gt;さえあれば、誰でも&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;を行うことができます。&#xA;私たち&lt;font color=&quot;#ffd200&quot;&gt;ロイヤルミュージックアカデミー&lt;/font&gt;が用意した楽器を使い、音楽の世界に足を踏み入れてみませんか？" />
+	<key id="1214161306000885" npc="pc" name="演奏方法について知りたいと話す。" />
+	<key id="1214161306000886" npc="안토니우스" name="演奏をするには、楽器をクリックしてください。簡単でしょ？&#xA;即興演奏もできますし、&lt;font color=&quot;#ffd200&quot;&gt;楽譜&lt;/font&gt;に従って演奏することもできます！" />
+	<key id="1214161306000887" npc="pc" name="楽譜演奏はどうやって使うのかと聞く。" />
+	<key id="1214161306000888" npc="안토니우스" name="楽譜演奏をしたいなら、方法は簡単です！&#xA;楽譜を購入するか、白紙の楽譜を買って音楽を記入すればいいんです。&#xA;自分で作曲した曲を多くの人に聴かせられる便利なチャンス！&#xA;どうでしょう？魅力的だと思いませんか？ " />
+	<key id="1214161306000889" npc="안토니우스" name="音楽は遠くにあるのではなく、いつもそばにあるんです。&#xA;可愛いダッキーのように。&#xA;私が提案するこのアイテムをご覧になって、演奏に挑戦してみてください！" />
+	<key id="1216150106000596" npc="슈테판" name="音楽は誰でも楽しめます！今すぐ始めましょう！" />
+	<key id="1216150106000597" npc="슈테판" name="あなたでも演奏できます！" />
+	<key id="1216150106000598" npc="슈테판" name="あなたでも作曲できます！" />
+	<key id="1216150106000599" npc="슈테판" name="音楽に身を任せて～メロディに乗って走れ～。" />
+	<key id="1216150106000600" npc="슈테판" name="&lt;font color=&quot;#ffd200&quot;&gt;楽器&lt;/font&gt;さえあれば、誰でも&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;を行うことができます。&#xA;私たち&lt;font color=&quot;#ffd200&quot;&gt;ロイヤルミュージックアカデミー&lt;/font&gt;が用意した楽器を使い、音楽の世界に足を踏み入れてみませんか？" />
+	<key id="1216150106000601" npc="pc" name="演奏方法について知りたいと話す。" />
+	<key id="1216150106000602" npc="슈테판" name="演奏をするには、楽器をクリックしてください。簡単でしょ？&#xA;即興演奏もできますし、&lt;font color=&quot;#ffd200&quot;&gt;楽譜&lt;/font&gt;に従って演奏することもできます！" />
+	<key id="1216150106000603" npc="pc" name="楽譜演奏はどうやって使うのかと聞く。" />
+	<key id="1216150106000604" npc="슈테판" name="楽譜演奏をしたいなら、方法は簡単です！&#xA;楽譜を購入するか、白紙の楽譜を買って音楽を記入すればいいんです。&#xA;自分で作曲した曲を多くの人に聴かせられる便利なチャンス！&#xA;どうでしょう？魅力的だと思いませんか？ " />
+	<key id="1216150106000605" npc="슈테판" name="音楽は遠くにあるのではなく、いつもそばにあるんです。&#xA;可愛いダッキーのように。&#xA;私が提案するこのアイテムをご覧になって、演奏に挑戦してみてください！" />
+	<key id="1216150106000606" npc="클루페리자크" name="音楽は誰でも楽しめます！今すぐ始めましょう！" />
+	<key id="1216150106000607" npc="클루페리자크" name="あなたでも演奏できます！" />
+	<key id="1216150106000608" npc="클루페리자크" name="あなたでも作曲できます！" />
+	<key id="1216150106000609" npc="클루페리자크" name="ビートと呼吸する私～イェーイ！YO！" />
+	<key id="1216150106000610" npc="클루페리자크" name="&lt;font color=&quot;#ffd200&quot;&gt;楽器&lt;/font&gt;さえあれば、誰でも&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;を行うことができます。&#xA;私たち&lt;font color=&quot;#ffd200&quot;&gt;ロイヤルミュージックアカデミー&lt;/font&gt;が用意した楽器を使い、音楽の世界に足を踏み入れてみませんか？" />
+	<key id="1216150106000611" npc="pc" name="演奏方法について知りたいと話す。" />
+	<key id="1216150106000612" npc="클루페리자크" name="演奏をするには、楽器をクリックしてください。簡単でしょ？&#xA;即興演奏もできますし、&lt;font color=&quot;#ffd200&quot;&gt;楽譜&lt;/font&gt;に従って演奏することもできます！" />
+	<key id="1216150106000613" npc="pc" name="楽譜演奏はどうやって使うのかと聞く。" />
+	<key id="1216150106000614" npc="클루페리자크" name="楽譜演奏をしたいなら、方法は簡単です！&#xA;楽譜を購入するか、白紙の楽譜を買って音楽を記入すればいいんです。&#xA;自分で作曲した曲を多くの人に聴かせられる便利なチャンス！&#xA;どうでしょう？魅力的だと思いませんか？ " />
+	<key id="1216150106000615" npc="클루페리자크" name="音楽は遠くにあるのではなく、いつもそばにあるんです。&#xA;可愛いダッキーのように。&#xA;私が提案するこのアイテムをご覧になって、演奏に挑戦してみてください！" />
+	<key id="1216202006000616" npc="웅이" name="どうしたんだい？" />
+	<key id="1216202006000617" npc="레스터" name="どうしたんだい？" />
+	<key id="1216202006000618" npc="오린" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="1216202006000619" npc="오린" name="アイテムやメルを預ける場所が必要ですか？" />
+	<key id="1216202006000620" npc="오린" name="金庫をご利用の際は私に声をかけてくださいませ。" />
+	<key id="1219170106000621" npc="마그리카" name="何かご用でしょうか？" />
+	<key id="1219170106000622" npc="바그리카" name="何かご用でしょうか？" />
+	<key id="1219175006000623" npc="케틀린" name="何か用？" />
+	<key id="1219175006000624" npc="케틀린" name="いらっしゃいませ～。" />
+	<key id="1219175006000625" npc="케틀린" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000626" npc="케틀린" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000627" npc="트리시아" name="何か用？" />
+	<key id="1219175006000628" npc="트리시아" name="いらっしゃいませ～。" />
+	<key id="1219175006000629" npc="트리시아" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000630" npc="트리시아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000631" npc="엘리나" name="何か用？" />
+	<key id="1219175006000632" npc="엘리나" name="いらっしゃいませ～。" />
+	<key id="1219175006000633" npc="엘리나" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000634" npc="엘리나" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000635" npc="쟈일" name="何か用？" />
+	<key id="1219175006000636" npc="쟈일" name="いらっしゃいませ～。" />
+	<key id="1219175006000637" npc="쟈일" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000638" npc="쟈일" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000639" npc="티아" name="何か用？" />
+	<key id="1219175006000640" npc="티아" name="いらっしゃいませ～。" />
+	<key id="1219175006000641" npc="티아" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000642" npc="티아" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000643" npc="에마" name="何か用？" />
+	<key id="1219175006000644" npc="에마" name="いらっしゃいませ～。" />
+	<key id="1219175006000645" npc="에마" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000646" npc="에마" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000647" npc="자스민" name="何か用？" />
+	<key id="1219175006000648" npc="자스민" name="いらっしゃいませ～。" />
+	<key id="1219175006000649" npc="자스민" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000650" npc="자스민" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000651" npc="유니퍼" name="何か用？" />
+	<key id="1219175006000652" npc="유니퍼" name="いらっしゃいませ～。" />
+	<key id="1219175006000653" npc="유니퍼" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000654" npc="유니퍼" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000655" npc="아만다" name="何か用？" />
+	<key id="1219175006000656" npc="아만다" name="いらっしゃいませ～。" />
+	<key id="1219175006000657" npc="아만다" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000658" npc="아만다" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000659" npc="앤드리" name="何か用？" />
+	<key id="1219175006000660" npc="앤드리" name="いらっしゃいませ～。" />
+	<key id="1219175006000661" npc="앤드리" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000662" npc="앤드리" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000663" npc="엘리즈" name="何か用？" />
+	<key id="1219175006000664" npc="엘리즈" name="いらっしゃいませ～。" />
+	<key id="1219175006000665" npc="엘리즈" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000666" npc="엘리즈" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000667" npc="보니" name="何か用？" />
+	<key id="1219175006000668" npc="보니" name="いらっしゃいませ～。" />
+	<key id="1219175006000669" npc="보니" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000670" npc="보니" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000671" npc="조이" name="何か用？" />
+	<key id="1219175006000672" npc="조이" name="いらっしゃいませ～。" />
+	<key id="1219175006000673" npc="조이" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000674" npc="조이" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000675" npc="힐다" name="何か用？" />
+	<key id="1219175006000676" npc="힐다" name="いらっしゃいませ～。" />
+	<key id="1219175006000677" npc="힐다" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000678" npc="힐다" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219175006000679" npc="리엘" name="何か用？" />
+	<key id="1219175006000680" npc="리엘" name="いらっしゃいませ～。" />
+	<key id="1219175006000681" npc="리엘" name="この街の住民たちのための商店です。" />
+	<key id="1219175006000682" npc="리엘" name="ここの住民…ではございませんよね？&#xA;住民専用商店は誰でも利用できるところではございません。&#xA;他のところに行ってください。" />
+	<key id="1219223606000683" npc="당당" name="何しに来たんだミー！" />
+	<key id="1219235406000684" npc="넬리" name="どういったご用ですか？" />
+	<key id="1219235406000685" npc="잔켈" name="何か用か？" />
+	<key id="1221172106000686" npc="피즈" name="大物を釣り上げたいか？" />
+	<key id="1221172106000687" npc="피즈" name="大物を釣り上げたときの手応えは忘れられん！" />
+	<key id="1221172106000688" npc="피즈" name="エサを使えば、釣りがうんと楽になるぞ！" />
+	<key id="1221172106000689" npc="피즈" name="釣りに必要なものをお探しか？" />
+	<key id="1222162206000690" npc="델리비" name="どうしましたか？" />
+	<key id="1223011306000695" npc="뮤아" name="どうしましたか？" />
+	<key id="1223011306000696" npc="팅코" name="いらっしゃいませ。何かお手伝いしましょうか？" />
+	<key id="1223011306000697" npc="팅코" name="アイテムやメルを預ける場所が必要ですか？" />
+	<key id="1223011306000698" npc="팅코" name="金庫をご利用の際は私に声をかけてくださいませ。" />
 </ms2>

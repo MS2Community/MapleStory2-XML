@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="적에게서 얻는 경험치 증가" desc="seg" />
+	<key id="2" name="처치 시 얻는 메소 증가" desc="smd" />
+	<key id="3" name="수영 속도 증가" desc="sss" />
+	<key id="4" name="대쉬 거리 증가" desc="dashDistance" />
+	<key id="5" name="최종 공격력 증가" desc="finalAttackPower" />
+	<key id="6" name="무기 공격력" desc="wapRate" />
+	<key id="7" name="총 대미지 증가" desc="finalAdditionalDamage" />
+	<key id="8" name="크리티컬 대미지 증가" desc="cri" />
+	<key id="9" name="일반 몬스터 공격 시 대미지 증가" desc="sgi" />
+	<key id="10" name="명중에 따른 전투력 증가" desc="atpToBap" />
+	<key id="11" name="엘리트 몬스터 공격 시 대미지 증가" desc="sgi_elite" />
+	<key id="12" name="보스 몬스터 공격 시 대미지 증가" desc="sgi_boss" />
+	<key id="13" name="처치 시 HP회복" desc="killHPRestore" />
+	<key id="14" name="처치 시 SP회복" desc="killSPRestore" />
+	<key id="15" name="처치 시 EP회복" desc="killEPRestore" />
+	<key id="16" name="회복 스킬 효과 증가" desc="heal" />
+	<key id="17" name="아군에게 받는 회복 스킬 효과 증가" desc="receivedhealincrease" />
+	<key id="18" name="냉기 대미지 증가" desc="iceDamage" />
+	<key id="19" name="화염 대미지 증가" desc="fireDamage" />
+	<key id="20" name="암흑 대미지 증가" desc="darkDamage" />
+	<key id="21" name="신성 대미지 증가" desc="lightDamage" />
+	<key id="22" name="독 대미지 증가" desc="poisonDamage" />
+	<key id="23" name="전격 대미지 증가" desc="thunderDamage" />
+	<key id="24" name="근접 대미지 증가" desc="nddincrease" />
+	<key id="25" name="원거리 대미지 증가" desc="lddincrease" />
+	<key id="26" name="물리 저항력 관통" desc="parpen" />
+	<key id="27" name="마법 저항력 관통" desc="marpen" />
+	<key id="28" name="냉기 대미지 감소" desc="icedamagereduce" />
+	<key id="29" name="화염 대미지 감소" desc="firedamagereduce" />
+	<key id="30" name="암흑 대미지 감소" desc="darkdamagereduce" />
+	<key id="31" name="신성 대미지 감소" desc="lightdamagereduce" />
+	<key id="32" name="독 대미지 감소" desc="poisondamagereduce" />
+	<key id="33" name="전격 대미지 감소" desc="thunderdamagereduce" />
+	<key id="34" name="행동 불가 시간 감소" desc="stunReduce" />
+	<key id="35" name="스킬 쿨타임 감소" desc="skillCooldown" />
+	<key id="36" name="상태 이상 시간 감소" desc="conditionReduce" />
+	<key id="37" name="근접 대미지 감소" desc="nearDistanceDamageReduce" />
+	<key id="38" name="원거리 대미지 감소" desc="longDistanceDamageReduce" />
+	<key id="39" name="넉백 저항" desc="KnockBackReduce" />
+	<key id="40" name="STR" desc="strRate" />
+	<key id="41" name="DEX" desc="dexRate" />
+	<key id="42" name="INT" desc="intRate" />
+	<key id="43" name="LUK" desc="lukRate" />
+	<key id="44" name="HP" desc="hpRate" />
+	<key id="45" name="HP 재생주기" desc="hpInvRate" />
+	<key id="46" name="SP" desc="spRate" />
+	<key id="47" name="SP 재생주기" desc="spInvRate" />
+	<key id="48" name="처치 시 얻는 아이템 드랍 확률 증가" desc="npcKillDropItemIncRate" />
+	<key id="49" name="퀘스트 완료 시 얻는 경험치 증가" desc="seg_questReward" />
+	<key id="50" name="EP" desc="epRate" />
+	<key id="51" name="EP 재생주기" desc="epInvRate" />
+	<key id="52" name="공격속도" desc="aspRate" />
+	<key id="53" name="이동속도" desc="mspRate" />
+	<key id="54" name="대인 공격력" desc="pvpdamageincrease" />
+	<key id="55" name="대인 방어력" desc="pvpdamagereduce" />
+	<key id="56" name="길드 경험치 증가" desc="improveguildexp" />
+	<key id="57" name="길드 코인 증가" desc="improveguildcoin" />
+	<key id="58" name="이벤트 경험치 구슬 획득량 증가" desc="improvemassiveeventbexpball" />
+	<key id="59" name="낚시에서 획득하는 경험치 증가" desc="seg_fishingReward" />
+	<key id="60" name="아케이드 클리어 경험치 증가" desc="seg_arcadeReward" />
+	<key id="61" name="악기연주에서 획득하는 경험치 증가" desc="seg_playinstrumentReward" />
+	<key id="62" name="메이드 경험치 획득량 증가" desc="improve_maid_mood" />
+	<key id="63" name="메이드 제작 재료 할인" desc="reduce_maid_recipe" />
+	<key id="64" name="메소 거래 수수료 감소" desc="reduce_meso_trade_fee" />
+	<key id="65" name="인챈트 재료 할인" desc="reduce_enchant_matrial_fee" />
+	<key id="66" name="메럿 부활 할인" desc="reduce_merat_revival_fee" />
+	<key id="67" name="채광 획득량 증가" desc="improve_mining_reward_item" />
+	<key id="68" name="축산 획득량 증가" desc="improve_breeding_reward_item" />
+	<key id="69" name="대장 경험치 획득량 증가" desc="improve_blacksmithing_reward_mastery" />
+	<key id="70" name="세공 마스터리 획득량 증가" desc="improve_engraving_reward_mastery" />
+	<key id="71" name="채집 획득량 증가" desc="improve_gathering_reward_item" />
+	<key id="72" name="재배 획득량 증가" desc="improve_farming_reward_item" />
+	<key id="73" name="연금 마스터리 획득량 증가" desc="improve_alchemist_reward_mastery" />
+	<key id="74" name="요리 마스터리 획득량 증가" desc="improve_cooking_reward_mastery" />
+	<key id="75" name="채집에서 획득하는 경험치 증가" desc="improve_acquire_gathering_exp" />
+	<key id="76" name="제작에서 획득하는 경험치 증가" desc="improve_acquire_manufacturing_exp" />
+	<key id="77" name="1레벨(1) 습득 스킬 레벨 증가" desc="skill_levelup_tier_1" />
+	<key id="78" name="1레벨(2) 습득 스킬 레벨 증가" desc="skill_levelup_tier_2" />
+	<key id="79" name="10레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_3" />
+	<key id="80" name="13레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_4" />
+	<key id="81" name="16레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_5" />
+	<key id="82" name="19레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_6" />
+	<key id="83" name="22레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_7" />
+	<key id="84" name="25레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_8" />
+	<key id="85" name="28레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_9" />
+	<key id="86" name="31레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_10" />
+	<key id="87" name="34레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_11" />
+	<key id="88" name="37레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_12" />
+	<key id="89" name="40레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_13" />
+	<key id="90" name="43레벨 습득 스킬 레벨 증가" desc="skill_levelup_tier_14" />
+	<key id="91" name="메이플 OX 퀴즈쇼 경험치 증가" desc="improve_massive_ox_exp" />
+	<key id="92" name="트랩 마스터 경험치 증가" desc="improve_massive_trapmaster_exp" />
+	<key id="93" name="파이널 서바이버 경험치 증가" desc="improve_massive_finalsurvival_exp" />
+	<key id="94" name="크레이지 러너즈 경험치 증가" desc="improve_massive_crazyrunner_exp" />
+	<key id="95" name="루디브리엄 대탈출 경험치 증가" desc="improve_massive_escape_exp" />
+	<key id="96" name="스프링 비치 경험치 증가" desc="improve_massive_springbeach_exp" />
+	<key id="97" name="댄스댄스스탑 경험치 증가" desc="improve_massive_dancedance_exp" />
+	<key id="98" name="메이플 OX 퀴즈쇼 이동속도 증가" desc="improve_massive_ox_msp" />
+	<key id="99" name="트랩 마스터 이동속도 증가" desc="improve_massive_trapmaster_msp" />
+	<key id="100" name="파이널 서바이버 이동속도 증가" desc="improve_massive_finalsurvival_msp" />
+	<key id="101" name="크레이지 러너즈 이동속도 증가" desc="improve_massive_crazyrunner_msp" />
+	<key id="102" name="루디브리엄 대탈출 이동속도 증가" desc="improve_massive_escape_msp" />
+	<key id="103" name="스프링 비치 이동속도 증가" desc="improve_massive_springbeach_msp" />
+	<key id="104" name="댄스댄스스탑 이동속도 증가" desc="improve_massive_dancedance_msp" />
+	<key id="105" name="타격 시 SP 구슬 출현" desc="npc_hit_reward_sp_ball" />
+	<key id="106" name="타격 시 EP 구슬 출현" desc="npc_hit_reward_ep_ball" />
+	<key id="107" name="용맹의 증표 획득량 증가" desc="improve_honor_token" />
+	<key id="108" name="PVP 획득 경험치 증가" desc="improve_pvp_exp" />
+	<key id="109" name="다크 스트림에서 입히는 대미지 증가" desc="improve_darkstream_damage" />
+	<key id="110" name="다크 스트림에서 받는 대미지 감소" desc="reduce_darkstream_recive_damage" />
+	<key id="111" name="STR만큼 INT 상승" desc="strToInt" />
+	<key id="112" name="낚시 숙련도 2배 증가" desc="fishing_double_mastery" />
+	<key id="113" name="연주 숙련도 2배 증가" desc="playinstrument_double_mastery" />
+	<key id="114" name="탐험 달성도 완료 지역의 이동속도 증가" desc="complete_fieldmission_msp" />
+	<key id="115" name="비행 탈것 상승 속도 증가" desc="improve_glide_vertical_velocity" />
+	<key id="116" name="탈것 이동속도" desc="rmspRate" />
+	<key id="117" name="타격 시 대상 방어력 약화 효과" desc="additionaleffect_95000012" />
+	<key id="118" name="타격 시 대상 공격력 약화 효과" desc="additionaleffect_95000014" />
+	<key id="119" name="명중" desc="atpRate" />
+	<key id="120" name="회피" desc="evpRate" />
+	<key id="121" name="크리티컬 명중" desc="capRate" />
+	<key id="122" name="크리티컬 회피" desc="carRate" />
+	<key id="123" name="방어력" desc="nddRate" />
+	<key id="124" name="점프력" desc="jmpRate" />
+	<key id="125" name="물리 공격력" desc="papRate" />
+	<key id="126" name="마법 공격력" desc="mapRate" />
+	<key id="127" name="물리 저항력" desc="parRate" />
+	<key id="128" name="마법 저항력" desc="marRate" />
+	<key id="129" name="EP 회복 주기 감소" desc="reduce_recovery_ep_inv" />
+	<key id="130" name="무기 최대 공격력 증가" desc="improve_stat_wap_u" />
+	<key id="131" name="채광 시 지정 확률로 생산물 2배 증가" desc="mining_double_reward" />
+	<key id="132" name="축산 시 지정 확률로 생산물 2배 증가" desc="breeding_double_reward" />
+	<key id="133" name="채집 시 지정 확률로 생산물 2배 증가" desc="gathering_double_reward" />
+	<key id="134" name="재배 시 지정 확률로 생산물 2배 증가" desc="farming_double_reward" />
+	<key id="135" name="대장 제작 시 지정 확률로 생산물 2배 증가" desc="blacksmithing_double_reward" />
+	<key id="136" name="세공 제작 시 지정 확률로 생산물 2배 증가" desc="engraving_double_reward" />
+	<key id="137" name="연금 제작 시 지정 확률로 생산물 2배 증가" desc="alchemist_double_reward" />
+	<key id="138" name="요리 제작 시 지정 확률로 생산물 2배 증가" desc="cooking_double_reward" />
+	<key id="139" name="채광 숙련도 지정 확률로 2배 증가" desc="mining_double_mastery" />
+	<key id="140" name="축산 숙련도 지정 확률로 2배 증가" desc="breeding_double_mastery" />
+	<key id="141" name="채집 숙련도 지정 확률로 2배 증가" desc="gathering_double_mastery" />
+	<key id="142" name="재배 숙련도 지정 확률로 2배 증가" desc="farming_double_mastery" />
+	<key id="143" name="대장 숙련도 지정 확률로 2배 증가" desc="blacksmithing_double_mastery" />
+	<key id="144" name="세공 숙련도 지정 확률로 2배 증가" desc="engraving_double_mastery" />
+	<key id="145" name="연금 숙련도 지정 확률로 2배 증가" desc="alchemist_double_mastery" />
+	<key id="146" name="요리 숙련도 지정 확률로 2배 증가" desc="cooking_double_mastery" />
+	<key id="147" name="카오스 레이드 던전에서 무기 공격력 증가" desc="improve_chaosraid_wap" />
+	<key id="148" name="카오스 레이드 던전에서 공격속도 증가" desc="improve_chaosraid_asp" />
+	<key id="149" name="카오스 레이드 던전에서 명중 증가" desc="improve_chaosraid_atp" />
+	<key id="150" name="카오스 레이드 던전에서 HP 증가" desc="improve_chaosraid_hp" />
+	<key id="151" name="EP, SP 구슬 회복량 증가" desc="improve_recovery_ball" />
+	<key id="152" name="STR" desc="str" />
+	<key id="153" name="DEX" desc="dex" />
+	<key id="154" name="INT" desc="int" />
+	<key id="155" name="LUK" desc="luk" />
+	<key id="156" name="펫 포획 보상 획득량 증가" desc="improve_pettrap_reward" />
+	<key id="157" name="채광 생산효율 증가" desc="mining_multiaction" />
+	<key id="158" name="축산 생산효율 증가" desc="breeding_multiaction" />
+	<key id="159" name="채집 생산효율 증가" desc="gathering_multiaction" />
+	<key id="160" name="재배 생산효율 증가" desc="farming_multiaction" />
+	<key id="161" name="상해 크레이지 러너즈 경험치 증가" desc="improve_massive_sh_crazyrunner_exp" />
+	<key id="162" name="상해 크레이지 러너즈 이동속도 증가" desc="improve_massive_sh_crazyrunner_msp" />
+	<key id="163" name="최대 체력 비율 공격 대미지 감소" desc="reduce_damage_by_targetmaxhp" />
+	<key id="180" name="HP" desc="hp" />
+	<key id="181" name="HP 재생력" desc="hp_rgp" />
+	<key id="182" name="SP" desc="sp" />
+	<key id="183" name="SP 재생력" desc="sp_rgp" />
+	<key id="184" name="EP" desc="ep" />
+	<key id="185" name="EP 재생주기" desc="ep_inv" />
+	<key id="186" name="공격속도" desc="asp" />
+	<key id="187" name="이동속도" desc="msp" />
+	<key id="188" name="명중" desc="atp" />
+	<key id="189" name="회피" desc="evp" />
+	<key id="190" name="크리티컬 명중" desc="cap" />
+	<key id="191" name="크리티컬 대미지" desc="cad" />
+	<key id="192" name="크리티컬 회피" desc="car" />
+	<key id="193" name="방어력" desc="ndd" />
+	<key id="194" name="완전 방어" desc="abp" />
+	<key id="195" name="물리 공격력" desc="pap" />
+	<key id="196" name="마법 공격력" desc="map" />
+	<key id="197" name="물리 저항력" desc="par" />
+	<key id="198" name="마법 저항력" desc="mar" />
+	<key id="199" name="방어력 관통" desc="pen" />
+	<key id="200" name="탈것 이동속도" desc="rmsp" />
+	<key id="201" name="전투력" desc="bap" />
+	<key id="202" name="크리티컬 명중(제한무시)" desc="cap_ignore_limit" />
+	<key id="203" name="크리티컬 대미지(제한무시)" desc="cad_ignore_limit" />
+	<key id="204" name="완전 회피" desc="aevp" />
+	<key id="205" name="크리티컬 명중 확률" desc="cap_ignore_limit_extra" />
+	<key id="206" name="HP 회복 스킬 효과 감소" desc="reduce_do_heal_hp" />
+	<key id="207" name="직업 별 주 스탯 증가" desc="improve_stat_major" />
+	<key id="1001" name="적에게서 얻는 경험치 {0:0.1f}% 증가" desc="seg" />
+	<key id="1002" name="처치 시 얻는 메소 {0:0.1f}% 증가" desc="smd" />
+	<key id="1003" name="수영 속도 {0:0.1f}% 증가" desc="sss" />
+	<key id="1004" name="대쉬 거리 증가 {0:d}" desc="dashDistance" />
+	<key id="1005" name="최종 공격력 {0:0.1f}% 증가" desc="finalAttackPower" />
+	<key id="1006" name="무기 공격력 {0:0.1f}%" desc="wapRate" />
+	<key id="1007" name="총 대미지 {0:0.1f}% 증가" desc="finalAdditionalDamage" />
+	<key id="1008" name="크리티컬 대미지 {0:0.1f}% 증가" desc="cri" />
+	<key id="1009" name="일반 몬스터 공격 시 대미지 {0:0.1f}% 증가" desc="sgi" />
+	<key id="1010" name="명중의{0:0.1f}% 만큼 전투력 증가" desc="atpToBap" />
+	<key id="1011" name="엘리트 몬스터 공격 시 대미지 {0:0.1f}% 증가" desc="sgi_elite" />
+	<key id="1012" name="보스 몬스터 공격 시 대미지 {0:0.1f}% 증가" desc="sgi_boss" />
+	<key id="1013" name="처치 시 HP {0:d} 회복" desc="killHPRestore" />
+	<key id="1014" name="처치 시 SP {0:d} 회복" desc="killSPRestore" />
+	<key id="1015" name="처치 시 EP {0:d} 회복" desc="killEPRestore" />
+	<key id="1016" name="회복 스킬 효과 {0:0.1f}% 증가" desc="heal" />
+	<key id="1017" name="아군에게 받는 회복 스킬 효과 {0:0.1f}% 증가" desc="receivedhealincrease" />
+	<key id="1018" name="냉기 대미지 {0:0.1f}% 증가" desc="iceDamage" />
+	<key id="1019" name="화염 대미지 {0:0.1f}% 증가" desc="fireDamage" />
+	<key id="1020" name="암흑 대미지 {0:0.1f}% 증가" desc="darkDamage" />
+	<key id="1021" name="신성 대미지 {0:0.1f}% 증가" desc="lightDamage" />
+	<key id="1022" name="독 대미지 {0:0.1f}% 증가" desc="poisonDamage" />
+	<key id="1023" name="전격 대미지 {0:0.1f}% 증가" desc="thunderDamage" />
+	<key id="1024" name="근접 대미지 {0:0.1f}% 증가" desc="nddincrease" />
+	<key id="1025" name="원거리 대미지 {0:0.1f}% 증가" desc="lddincrease" />
+	<key id="1026" name="물리 저항력 관통 {0:0.1f}%" desc="parpen" />
+	<key id="1027" name="마법 저항력 관통 {0:0.1f}%" desc="marpen" />
+	<key id="1028" name="냉기 대미지 {0:0.1f}% 감소" desc="icedamagereduce" />
+	<key id="1029" name="화염 대미지 {0:0.1f}% 감소" desc="firedamagereduce" />
+	<key id="1030" name="암흑 대미지 {0:0.1f}% 감소" desc="darkdamagereduce" />
+	<key id="1031" name="신성 대미지 {0:0.1f}% 감소" desc="lightdamagereduce" />
+	<key id="1032" name="독 대미지 {0:0.1f}% 감소" desc="poisondamagereduce" />
+	<key id="1033" name="전격 대미지 {0:0.1f}% 감소" desc="thunderdamagereduce" />
+	<key id="1034" name="행동 불가 시간 {0:0.1f}% 감소" desc="stunReduce" />
+	<key id="1035" name="스킬 쿨타임 {0:0.1f}% 감소" desc="skillCooldown" />
+	<key id="1036" name="상태 이상 시간 {0:0.1f}% 감소" desc="conditionReduce" />
+	<key id="1037" name="근접 대미지 {0:0.1f}% 감소" desc="nearDistanceDamageReduce" />
+	<key id="1038" name="원거리 대미지 {0:0.1f}% 감소" desc="longDistanceDamageReduce" />
+	<key id="1039" name="넉백 저항 {0:d}" desc="KnockBackReduce" />
+	<key id="1040" name="착용 시 전체 STR {0:0.1f}% 증가" desc="strRate" />
+	<key id="1041" name="착용 시 전체 DEX {0:0.1f}% 증가" desc="dexRate" />
+	<key id="1042" name="착용 시 전체 INT {0:0.1f}% 증가" desc="intRate" />
+	<key id="1043" name="착용 시 전체 LUK {0:0.1f}% 증가" desc="lukRate" />
+	<key id="1044" name="HP {0:0.1f}%" desc="hpRate" />
+	<key id="1045" name="HP 재생주기 {0:0.1f}%" desc="hpInvRate" />
+	<key id="1046" name="SP {0:0.1f}%" desc="spRate" />
+	<key id="1047" name="SP 재생주기 {0:0.1f}%" desc="spInvRate" />
+	<key id="1048" name="처치 시 얻는 아이템 드랍 확률 {0:0.1f}% 증가" desc="npcKillDropItemIncRate" />
+	<key id="1049" name="퀘스트 완료 시 얻는 경험치 {0:0.1f}% 증가" desc="seg_questReward" />
+	<key id="1050" name="EP {0:0.1f}%" desc="epRate" />
+	<key id="1051" name="EP 재생주기 {0:0.1f}%" desc="epInvRate" />
+	<key id="1052" name="공격속도 {0:0.1f}%" desc="aspRate" />
+	<key id="1053" name="이동속도 {0:0.1f}%" desc="mspRate" />
+	<key id="1054" name="대인 공격력 {0:d}" desc="pvpdamageincrease" />
+	<key id="1055" name="대인 방어력 {0:d}" desc="pvpdamagereduce" />
+	<key id="1056" name="길드 경험치 증가 {0:0.1f}%" desc="improveguildexp" />
+	<key id="1057" name="길드 코인 증가 {0:0.1f}%" desc="improveguildcoin" />
+	<key id="1058" name="이벤트 경험치 구슬 획득량 증가 {0:0.1f}%" desc="improvemassiveeventbexpball" />
+	<key id="1059" name="낚시에서 획득하는 경험치 {0:0.1f}% 증가" desc="seg_fishingReward" />
+	<key id="1060" name="아케이드 클리어 경험치 {0:0.1f}% 증가" desc="seg_arcadeReward" />
+	<key id="1061" name="악기연주에서 획득하는 경험치 {0:0.1f}% 증가" desc="seg_playinstrumentReward" />
+	<key id="1062" name="메이드 경험치 획득량 증가 {0:0.1f}%" desc="improve_maid_mood" />
+	<key id="1063" name="메이드 제작 재료 할인 {0:0.1f}%" desc="reduce_maid_recipe" />
+	<key id="1064" name="메소 거래 수수료 감소 {0:0.1f}%" desc="reduce_meso_trade_fee" />
+	<key id="1065" name="인챈트 재료 할인 {0:0.1f}%" desc="reduce_enchant_matrial_fee" />
+	<key id="1066" name="메럿 부활 할인 {0:0.1f}%" desc="reduce_merat_revival_fee" />
+	<key id="1067" name="채광 획득량 증가 {0:0.1f}%" desc="improve_mining_reward_item" />
+	<key id="1068" name="축산 획득량 증가 {0:0.1f}%" desc="improve_breeding_reward_item" />
+	<key id="1069" name="대장 경험치 획득량 증가 {0:0.1f}%" desc="improve_blacksmithing_reward_mastery" />
+	<key id="1070" name="세공 마스터리 획득량 증가 {0:0.1f}%" desc="improve_engraving_reward_mastery" />
+	<key id="1071" name="채집 획득량 증가 {0:0.1f}%" desc="improve_gathering_reward_item" />
+	<key id="1072" name="재배 획득량 증가 {0:0.1f}%" desc="improve_farming_reward_item" />
+	<key id="1073" name="연금 마스터리 획득량 증가 {0:0.1f}%" desc="improve_alchemist_reward_mastery" />
+	<key id="1074" name="요리 마스터리 획득량 증가 {0:0.1f}%" desc="improve_cooking_reward_mastery" />
+	<key id="1075" name="채집에서 획득하는 경험치 {0:0.1f}% 증가" desc="improve_acquire_gathering_exp" />
+	<key id="1076" name="제작에서 획득하는 경험치 {0:0.1f}% 증가" desc="improve_acquire_manufacturing_exp" />
+	<key id="1091" name="메이플 OX 퀴즈쇼 경험치 {0:0.1f}% 증가" desc="improve_massive_ox_exp" />
+	<key id="1092" name="트랩 마스터 경험치 {0:0.1f}% 증가" desc="improve_massive_trapmaster_exp" />
+	<key id="1093" name="파이널 서바이버 경험치 {0:0.1f}% 증가" desc="improve_massive_finalsurvival_exp" />
+	<key id="1094" name="크레이지 러너즈 경험치 {0:0.1f}% 증가" desc="improve_massive_crazyrunner_exp" />
+	<key id="1095" name="루디브리엄 대탈출 경험치 {0:0.1f}% 증가" desc="improve_massive_escape_exp" />
+	<key id="1096" name="스프링 비치 경험치 {0:0.1f}% 증가" desc="improve_massive_springbeach_exp" />
+	<key id="1097" name="댄스댄스스탑 경험치 {0:0.1f}% 증가" desc="improve_massive_dancedance_exp" />
+	<key id="1098" name="메이플 OX 퀴즈쇼 이동속도 {0}% 증가" desc="improve_massive_ox_msp" />
+	<key id="1099" name="트랩 마스터 이동속도 {0}% 증가" desc="improve_massive_trapmaster_msp" />
+	<key id="1100" name="파이널 서바이버 이동속도 {0}% 증가" desc="improve_massive_finalsurvival_msp" />
+	<key id="1101" name="크레이지 러너즈 이동속도 {0}% 증가" desc="improve_massive_crazyrunner_msp" />
+	<key id="1102" name="루디브리엄 대탈출 이동속도 {0}% 증가" desc="improve_massive_escape_msp" />
+	<key id="1103" name="스프링 비치 이동속도 {0}% 증가" desc="improve_massive_springbeach_msp" />
+	<key id="1104" name="댄스댄스스탑 이동속도 {0}% 증가" desc="improve_massive_dancedance_msp" />
+	<key id="1105" name="타격 시 {0:0.1f}%의 확률로 SP 구슬 출현" desc="npc_hit_reward_sp_ball" />
+	<key id="1106" name="타격 시 {0:0.1f}%의 확률로 EP 구슬 출현" desc="npc_hit_reward_ep_ball" />
+	<key id="1107" name="용맹의 증표 획득량 {0:0.1f}% 증가" desc="improve_honor_token" />
+	<key id="1108" name="PVP 획득 경험치 {0:0.1f}% 증가" desc="improve_pvp_exp" />
+	<key id="1109" name="다크 스트림에서 입히는 대미지 {0:0.1f}% 증가" desc="improve_darkstream_damage" />
+	<key id="1110" name="다크 스트림에서 받는 대미지 {0:0.1f}% 감소" desc="reduce_darkstream_recive_damage" />
+	<key id="1111" name="STR의 {0:0.1f}%만큼 INT 상승" desc="strToInt" />
+	<key id="1112" name="낚시 숙련도 {0:0.1f}%의 확률로 2배 증가" desc="fishing_double_mastery" />
+	<key id="1113" name="연주 숙련도 {0:0.1f}%의 확률로 2배 증가" desc="playinstrument_double_mastery" />
+	<key id="1114" name="탐험 달성도 완료 지역의 이동속도 {0}% 증가" desc="complete_fieldmission_msp" />
+	<key id="1115" name="비행 탈것 상승 속도 {0:0.1f}% 증가" desc="improve_glide_vertical_velocity" />
+	<key id="1116" name="탈것 이동속도 {0:0.1f}%" desc="rmspRate" />
+	<key id="1117" name="타격 시 대상 방어력 약화 효과 - 레벨 {0}" desc="additionaleffect_95000012" />
+	<key id="1118" name="타격 시 대상 공격력 약화 효과 - 레벨 {0}" desc="additionaleffect_95000014" />
+	<key id="1119" name="명중 {0:0.1f}%" desc="atpRate" />
+	<key id="1120" name="회피 {0:0.1f}%" desc="evpRate" />
+	<key id="1121" name="크리티컬 명중 {0:0.1f}%" desc="capRate" />
+	<key id="1122" name="크리티컬 회피 {0:0.1f}%" desc="carRate" />
+	<key id="1123" name="방어력 {0:0.1f}%" desc="nddRate" />
+	<key id="1124" name="점프력 {0:0.1f}%" desc="jmpRate" />
+	<key id="1125" name="물리 공격력 {0:0.1f}%" desc="papRate" />
+	<key id="1126" name="마법 공격력 {0:0.1f}%" desc="mapRate" />
+	<key id="1127" name="물리 저항력 {0:0.1f}%" desc="parRate" />
+	<key id="1128" name="마법 저항력 {0:0.1f}%" desc="marRate" />
+	<key id="1129" name="EP 회복 주기 {0:0.1f}% 감소" desc="reduce_recovery_ep_inv" />
+	<key id="1130" name="무기 최대 공격력 {0:0.1f}% 증가" desc="improve_stat_wap_u" />
+	<key id="1131" name="채광 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="mining_double_reward" />
+	<key id="1132" name="축산 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="breeding_double_reward" />
+	<key id="1133" name="채집 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="gathering_double_reward" />
+	<key id="1134" name="재배 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="farming_double_reward" />
+	<key id="1135" name="대장 제작 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="blacksmithing_double_reward" />
+	<key id="1136" name="세공 제작 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="engraving_double_reward" />
+	<key id="1137" name="연금 제작 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="alchemist_double_reward" />
+	<key id="1138" name="요리 제작 시 {0:0.1f}% 확률로 생산물 2배 증가" desc="cooking_double_reward" />
+	<key id="1139" name="채광 숙련도 {0:0.1f}% 확률로 2배 증가" desc="mining_double_mastery" />
+	<key id="1140" name="축산 숙련도 {0:0.1f}% 확률로 2배 증가" desc="breeding_double_mastery" />
+	<key id="1141" name="채집 숙련도 {0:0.1f}% 확률로 2배 증가" desc="gathering_double_mastery" />
+	<key id="1142" name="재배 숙련도 {0:0.1f}% 확률로 2배 증가" desc="farming_double_mastery" />
+	<key id="1143" name="대장 숙련도 {0:0.1f}% 확률로 2배 증가" desc="blacksmithing_double_mastery" />
+	<key id="1144" name="세공 숙련도 {0:0.1f}% 확률로 2배 증가" desc="engraving_double_mastery" />
+	<key id="1145" name="연금 숙련도 {0:0.1f}% 확률로 2배 증가" desc="alchemist_double_mastery" />
+	<key id="1146" name="요리 숙련도 {0:0.1f}% 확률로 2배 증가" desc="cooking_double_mastery" />
+	<key id="1147" name="카오스 레이드 던전에서 무기 공격력 {0:0.1f}% 증가" desc="improve_chaosraid_wap" />
+	<key id="1148" name="카오스 레이드 던전에서 공격속도 {0}% 증가" desc="improve_chaosraid_asp" />
+	<key id="1149" name="카오스 레이드 던전에서 명중 {0} 증가" desc="improve_chaosraid_atp" />
+	<key id="1150" name="카오스 레이드 던전에서 HP {0} 증가" desc="improve_chaosraid_hp" />
+	<key id="1151" name="EP, SP 구슬 회복량 {0:0.1f}% 증가" desc="improve_recovery_ball" />
+	<key id="1152" name="STR {0}" desc="str" />
+	<key id="1153" name="DEX {0}" desc="dex" />
+	<key id="1154" name="INT {0}" desc="int" />
+	<key id="1155" name="LUK {0}" desc="luk" />
+	<key id="1156" name="펫 포획 보상 {0}회 추가 획득" desc="improve_pettrap_reward" />
+	<key id="1157" name="채광 생산효율 증가" desc="mining_multiaction" />
+	<key id="1158" name="축산 생산효율 증가" desc="breeding_multiaction" />
+	<key id="1159" name="채집 생산효율 증가" desc="gathering_multiaction" />
+	<key id="1160" name="재배 생산효율 증가" desc="farming_multiaction" />
+	<key id="1161" name="상해 크레이지 러너즈 경험치 {0:0.1f}% 증가" desc="improve_massive_sh_crazyrunner_exp" />
+	<key id="1162" name="상해 크레이지 러너즈 이동속도 {0}% 증가" desc="improve_massive_sh_crazyrunner_msp" />
+	<key id="1163" name="최대 체력 비율 공격 대미지 {0:0.1f}% 감소" desc="reduce_damage_by_targetmaxhp" />
+	<key id="1180" name="HP {0}" desc="hp" />
+	<key id="1181" name="HP 재생력 {0}" desc="hp_rgp" />
+	<key id="1182" name="SP {0}" desc="sp" />
+	<key id="1183" name="SP 재생력 {0}" desc="sp_rgp" />
+	<key id="1184" name="EP {0}" desc="ep" />
+	<key id="1185" name="EP 재생주기 {0}" desc="ep_inv" />
+	<key id="1186" name="공격속도 {0}%" desc="asp" />
+	<key id="1187" name="이동속도 {0}%" desc="msp" />
+	<key id="1188" name="명중 {0}" desc="atp" />
+	<key id="1189" name="회피 {0}" desc="evp" />
+	<key id="1190" name="크리티컬 명중 {0}" desc="cap" />
+	<key id="1191" name="크리티컬 대미지 {0}" desc="cad" />
+	<key id="1192" name="크리티컬 회피 {0}" desc="car" />
+	<key id="1193" name="방어력 {0}" desc="ndd" />
+	<key id="1194" name="완전 방어 {0:0.1f}%" desc="abp" />
+	<key id="1195" name="물리 공격력 {0}" desc="pap" />
+	<key id="1196" name="마법 공격력 {0}" desc="map" />
+	<key id="1197" name="물리 저항력 {0}" desc="par" />
+	<key id="1198" name="마법 저항력 {0}" desc="mar" />
+	<key id="1199" name="방어력 관통 {0:0.1f}%" desc="pen" />
+	<key id="1200" name="탈것 이동속도 {0}%" desc="rmsp" />
+	<key id="1201" name="전투력 {0}" desc="bap" />
+	<key id="1202" name="크리티컬 명중(제한무시) {0}" desc="cap_ignore_limit" />
+	<key id="1203" name="크리티컬 대미지(제한무시) {0}" desc="cad_ignore_limit" />
+	<key id="1204" name="완전 회피 {0:0.1f}%" desc="aevp" />
+	<key id="1205" name="크리티컬 명중 확률 {0:0.1f}%" desc="cap_ignore_limit_extra" />
+	<key id="1206" name="HP 회복 스킬 효과 감소 {0:0.1f}%" desc="reduce_do_heal_hp" />
+	<key id="1207" name="직업 별 주 스탯 증가 {0:0.1f}%" desc="improve_stat_major" />
+</ms2>

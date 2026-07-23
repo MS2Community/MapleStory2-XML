@@ -1,287 +1,286 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10200032" level="1" name="闇のオーラ" tooltipDescription="1秒ごとにSP1追加回復" />
-  <key id="10200032" level="2" name="闇のオーラ" tooltipDescription="1秒ごとにSPが1.2追加回復" feature="JobChange_01" />
-  <key id="10200061" level="1" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が9%減少\nジャンプ力、移動速度が9%減少" />
-  <key id="10200061" level="2" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が12%減少\nジャンプ力、移動速度が12%減少" />
-  <key id="10200061" level="3" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が15%減少\nジャンプ力、移動速度が15%減少" />
-  <key id="10200061" level="4" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が18%減少\nジャンプ力、移動速度が18%減少" />
-  <key id="10200061" level="5" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が21%減少\nジャンプ力、移動速度が21%減少" />
-  <key id="10200061" level="6" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が24%減少\nジャンプ力、移動速度が24%減少" />
-  <key id="10200061" level="7" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が27%減少\nジャンプ力、移動速度が27%減少" />
-  <key id="10200061" level="8" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が30%減少\nジャンプ力、移動速度が30%減少" />
-  <key id="10200061" level="9" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が33%減少\nジャンプ力、移動速度が33%減少" />
-  <key id="10200061" level="10" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が36%減少\nジャンプ力、移動速度が36%減少" />
-  <key id="10200061" level="11" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が39%減少\nジャンプ力、移動速度が39%減少" />
-  <key id="10200061" level="12" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が42%減少\nジャンプ力、移動速度が42%減少" />
-  <key id="10200063" level="1" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="2" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="3" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="4" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="5" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="6" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="7" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="8" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="9" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="10" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="11" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200063" level="12" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
-  <key id="10200064" level="1" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が9%減少" />
-  <key id="10200064" level="2" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が12%減少" />
-  <key id="10200064" level="3" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が15%減少" />
-  <key id="10200064" level="4" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が18%減少" />
-  <key id="10200064" level="5" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が21%減少" />
-  <key id="10200064" level="6" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が24%減少" />
-  <key id="10200064" level="7" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が27%減少" />
-  <key id="10200064" level="8" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が30%減少" />
-  <key id="10200064" level="9" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が21%減少" />
-  <key id="10200064" level="10" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が24%減少" />
-  <key id="10200064" level="11" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が27%減少" />
-  <key id="10200064" level="12" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が30%減少" />
-  <key id="10200081" level="1" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が1増加" />
-  <key id="10200081" level="2" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
-  <key id="10200081" level="3" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
-  <key id="10200081" level="4" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
-  <key id="10200081" level="5" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200081" level="6" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200081" level="7" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200081" level="8" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200081" level="9" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200081" level="10" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200081" level="11" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200081" level="12" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200082" level="1" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
-  <key id="10200082" level="2" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
-  <key id="10200082" level="3" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200082" level="4" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200082" level="5" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200082" level="6" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200082" level="7" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200082" level="8" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200082" level="9" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200082" level="10" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200082" level="11" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200082" level="12" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が6増加" />
-  <key id="10200083" level="1" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200083" level="2" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200083" level="3" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
-  <key id="10200083" level="4" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200083" level="5" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200083" level="6" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
-  <key id="10200083" level="7" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200083" level="8" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200083" level="9" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
-  <key id="10200083" level="10" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が6増加" />
-  <key id="10200083" level="11" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が6増加" />
-  <key id="10200083" level="12" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が7増加" />
-  <key id="10200101" level="1" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が100増加" />
-  <key id="10200101" level="2" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が150増加" />
-  <key id="10200101" level="3" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が200増加" />
-  <key id="10200101" level="4" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が250増加" />
-  <key id="10200101" level="5" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が300増加" />
-  <key id="10200101" level="6" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が350増加" />
-  <key id="10200101" level="7" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が400増加" />
-  <key id="10200101" level="8" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が450増加" />
-  <key id="10200101" level="9" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が500増加" />
-  <key id="10200101" level="10" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が550増加" />
-  <key id="10200101" level="11" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が600増加" />
-  <key id="10200101" level="12" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が650増加" />
-  <key id="10200112" level="1" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに4%のダメージ" />
-  <key id="10200112" level="2" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに7%のダメージ" />
-  <key id="10200112" level="3" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに10%のダメージ" />
-  <key id="10200112" level="4" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに13%のダメージ" />
-  <key id="10200112" level="5" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに16%のダメージ" />
-  <key id="10200112" level="6" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに19%のダメージ" />
-  <key id="10200112" level="7" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに22%のダメージ" />
-  <key id="10200112" level="8" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに25%のダメージ" />
-  <key id="10200112" level="9" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに28%のダメージ" />
-  <key id="10200112" level="10" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに31%のダメージ" />
-  <key id="10200112" level="11" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに34%のダメージ" />
-  <key id="10200112" level="12" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに37%のダメージ" />
-  <key id="10200131" level="1" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が16%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="2" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が18%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="3" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が20%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="4" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が22%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="5" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が24%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="6" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が26%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="7" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が28%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="8" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が30%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="9" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が32%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="10" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が34%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="11" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が36%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200131" level="12" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が38%増加\n全ての攻撃が命中するとSPを1回復" />
-  <key id="10200141" level="1" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが5%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="2" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが6%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="3" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが7%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="4" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが8%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="5" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが9%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="6" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが10%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="7" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが11%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="8" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが12%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="9" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが13%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="10" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが14%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="11" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが15%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200141" level="12" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが16%増加\n攻撃が成功するとHPが1%減少" />
-  <key id="10200171" level="1" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="2" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="3" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="4" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="5" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="6" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="7" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="8" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="9" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="10" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="11" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200171" level="12" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
-  <key id="10200173" level="1" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="2" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="3" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="4" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="5" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="6" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="7" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="8" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="9" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="10" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="11" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200173" level="12" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
-  <key id="10200201" level="1" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="2" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="3" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="4" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="5" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="6" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="7" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="8" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="9" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="10" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="11" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200201" level="12" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
-  <key id="10200212" level="1" name="血の狂乱" tooltipDescription="物理攻撃力が4%増加\n血の渇望ダメージが149%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="2" name="血の狂乱" tooltipDescription="物理攻撃力が6.5%増加\n血の渇望ダメージが166%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="3" name="血の狂乱" tooltipDescription="物理攻撃力が9%増加\n血の渇望ダメージが183%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="4" name="血の狂乱" tooltipDescription="物理攻撃力が11.5%増加\n血の渇望ダメージが200%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="5" name="血の狂乱" tooltipDescription="物理攻撃力が14%増加\n血の渇望ダメージが217%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="6" name="血の狂乱" tooltipDescription="物理攻撃力が16.5%増加\n血の渇望ダメージが234%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="7" name="血の狂乱" tooltipDescription="物理攻撃力が19%増加\n血の渇望ダメージが251%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="8" name="血の狂乱" tooltipDescription="物理攻撃力が21.5%増加\n血の渇望ダメージが268%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="9" name="血の狂乱" tooltipDescription="物理攻撃力が24%増加\n血の渇望ダメージが285%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="10" name="血の狂乱" tooltipDescription="物理攻撃力が26.5%増加\n血の渇望ダメージが302%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="11" name="血の狂乱" tooltipDescription="物理攻撃力が29%増加\n血の渇望ダメージが319%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200212" level="12" name="血の狂乱" tooltipDescription="物理攻撃力が31.5%増加\n血の渇望ダメージが336%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
-  <key id="10200221" level="1" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が5%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="2" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が10%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="3" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が15%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="4" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が20%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="5" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が25%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="6" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が30%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="7" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が35%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="8" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が40%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="9" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が45%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="10" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が50%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="11" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が55%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200221" level="12" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が60%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
-  <key id="10200224" level="1" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="2" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="3" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="4" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="5" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="6" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="7" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="8" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="9" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="10" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="11" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200224" level="12" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
-  <key id="10200232" level="1" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="2" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="3" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="4" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="5" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="6" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="7" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="8" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="9" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="10" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="11" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200232" level="12" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
-  <key id="10200233" level="1" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="2" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="3" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="4" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="5" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="6" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="7" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="8" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="9" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="10" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="11" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200233" level="12" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
-  <key id="10200243" level="1" name="大出血" tooltipDescription="重複あたり1秒ごとに52%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="2" name="大出血" tooltipDescription="重複あたり1秒ごとに58%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="3" name="大出血" tooltipDescription="1回重複あたり1秒ごとに64%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="4" name="大出血" tooltipDescription="1回重複あたり1秒ごとに70%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="5" name="大出血" tooltipDescription="重複あたり1秒ごとに76%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="6" name="大出血" tooltipDescription="重複あたり1秒ごとに82%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="7" name="大出血" tooltipDescription="重複あたり1秒ごとに88%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="8" name="大出血" tooltipDescription="重複あたり1秒ごとに94%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="9" name="大出血" tooltipDescription="重複あたり1秒ごとに100%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="10" name="大出血" tooltipDescription="重複あたり1秒ごとに106%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="11" name="大出血" tooltipDescription="重複あたり1秒ごとに112%のダメージ" feature="JobChange_01" />
-  <key id="10200243" level="12" name="大出血" tooltipDescription="重複あたり1秒ごとに118%のダメージ" feature="JobChange_01" />
-  <key id="10200265" level="1" name="KORADDITIONALDESCRIPTION_10200265_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200265" level="2" name="KORADDITIONALDESCRIPTION_10200265_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200265" level="3" name="KORADDITIONALDESCRIPTION_10200265_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200265" level="4" name="KORADDITIONALDESCRIPTION_10200265_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200265" level="5" name="KORADDITIONALDESCRIPTION_10200265_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200271" level="1" name="KORADDITIONALDESCRIPTION_10200271_1_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="2" name="KORADDITIONALDESCRIPTION_10200271_2_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="3" name="KORADDITIONALDESCRIPTION_10200271_3_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="4" name="KORADDITIONALDESCRIPTION_10200271_4_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="5" name="KORADDITIONALDESCRIPTION_10200271_5_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="6" name="KORADDITIONALDESCRIPTION_10200271_6_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="7" name="KORADDITIONALDESCRIPTION_10200271_7_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="8" name="KORADDITIONALDESCRIPTION_10200271_8_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="9" name="KORADDITIONALDESCRIPTION_10200271_9_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="10" name="KORADDITIONALDESCRIPTION_10200271_10_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="11" name="KORADDITIONALDESCRIPTION_10200271_11_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200271" level="12" name="KORADDITIONALDESCRIPTION_10200271_12_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
-  <key id="10200282" level="1" name="KORADDITIONALDESCRIPTION_10200282_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="2" name="KORADDITIONALDESCRIPTION_10200282_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="3" name="KORADDITIONALDESCRIPTION_10200282_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="4" name="KORADDITIONALDESCRIPTION_10200282_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="5" name="KORADDITIONALDESCRIPTION_10200282_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="6" name="KORADDITIONALDESCRIPTION_10200282_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="7" name="KORADDITIONALDESCRIPTION_10200282_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="8" name="KORADDITIONALDESCRIPTION_10200282_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="9" name="KORADDITIONALDESCRIPTION_10200282_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="10" name="KORADDITIONALDESCRIPTION_10200282_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="11" name="KORADDITIONALDESCRIPTION_10200282_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200282" level="12" name="KORADDITIONALDESCRIPTION_10200282_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200291" level="1" name="KORADDITIONALDESCRIPTION_10200291_1_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が2%増加" feature="JobChange_02" />
-  <key id="10200291" level="2" name="KORADDITIONALDESCRIPTION_10200291_2_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が4%増加" feature="JobChange_02" />
-  <key id="10200291" level="3" name="KORADDITIONALDESCRIPTION_10200291_3_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が6%増加" feature="JobChange_02" />
-  <key id="10200291" level="4" name="KORADDITIONALDESCRIPTION_10200291_4_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が8%増加" feature="JobChange_02" />
-  <key id="10200291" level="5" name="KORADDITIONALDESCRIPTION_10200291_5_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が10%増加" feature="JobChange_02" />
-  <key id="10200291" level="6" name="KORADDITIONALDESCRIPTION_10200291_6_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が12%増加" feature="JobChange_02" />
-  <key id="10200291" level="7" name="KORADDITIONALDESCRIPTION_10200291_7_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が14%増加" feature="JobChange_02" />
-  <key id="10200291" level="8" name="KORADDITIONALDESCRIPTION_10200291_8_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が16%増加" feature="JobChange_02" />
-  <key id="10200291" level="9" name="KORADDITIONALDESCRIPTION_10200291_9_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が18%増加" feature="JobChange_02" />
-  <key id="10200291" level="10" name="KORADDITIONALDESCRIPTION_10200291_10_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が20%増加" feature="JobChange_02" />
-  <key id="10200291" level="11" name="KORADDITIONALDESCRIPTION_10200291_11_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が22%増加" feature="JobChange_02" />
-  <key id="10200291" level="12" name="KORADDITIONALDESCRIPTION_10200291_12_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が24%増加" feature="JobChange_02" />
-  <key id="10200292" level="1" name="KORADDITIONALDESCRIPTION_10200292_1_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が9%減少" feature="JobChange_02" />
-  <key id="10200292" level="2" name="KORADDITIONALDESCRIPTION_10200292_2_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が12%減少" feature="JobChange_02" />
-  <key id="10200292" level="3" name="KORADDITIONALDESCRIPTION_10200292_3_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が15%減少" feature="JobChange_02" />
-  <key id="10200292" level="4" name="KORADDITIONALDESCRIPTION_10200292_4_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が18%減少" feature="JobChange_02" />
-  <key id="10200292" level="5" name="KORADDITIONALDESCRIPTION_10200292_5_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が21%減少" feature="JobChange_02" />
-  <key id="10200292" level="6" name="KORADDITIONALDESCRIPTION_10200292_6_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が24%減少" feature="JobChange_02" />
-  <key id="10200292" level="7" name="KORADDITIONALDESCRIPTION_10200292_7_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が27%減少" feature="JobChange_02" />
-  <key id="10200292" level="8" name="KORADDITIONALDESCRIPTION_10200292_8_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が30%減少" feature="JobChange_02" />
-  <key id="10200292" level="9" name="KORADDITIONALDESCRIPTION_10200292_9_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が33%減少" feature="JobChange_02" />
-  <key id="10200292" level="10" name="KORADDITIONALDESCRIPTION_10200292_10_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が36%減少" feature="JobChange_02" />
-  <key id="10200292" level="11" name="KORADDITIONALDESCRIPTION_10200292_11_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が39%減少" feature="JobChange_02" />
-  <key id="10200292" level="12" name="KORADDITIONALDESCRIPTION_10200292_12_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が42%減少" feature="JobChange_02" />
+	<key id="10200032" level="1" name="闇のオーラ" tooltipDescription="1秒ごとにSP1追加回復" />
+	<key id="10200032" level="2" name="闇のオーラ" tooltipDescription="1秒ごとにSPが1.2追加回復" feature="JobChange_01" />
+	<key id="10200061" level="1" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が9%減少\nジャンプ力、移動速度が9%減少" />
+	<key id="10200061" level="2" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が12%減少\nジャンプ力、移動速度が12%減少" />
+	<key id="10200061" level="3" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が15%減少\nジャンプ力、移動速度が15%減少" />
+	<key id="10200061" level="4" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が18%減少\nジャンプ力、移動速度が18%減少" />
+	<key id="10200061" level="5" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が21%減少\nジャンプ力、移動速度が21%減少" />
+	<key id="10200061" level="6" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が24%減少\nジャンプ力、移動速度が24%減少" />
+	<key id="10200061" level="7" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が27%減少\nジャンプ力、移動速度が27%減少" />
+	<key id="10200061" level="8" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が30%減少\nジャンプ力、移動速度が30%減少" />
+	<key id="10200061" level="9" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が33%減少\nジャンプ力、移動速度が33%減少" />
+	<key id="10200061" level="10" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が36%減少\nジャンプ力、移動速度が36%減少" />
+	<key id="10200061" level="11" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が39%減少\nジャンプ力、移動速度が39%減少" />
+	<key id="10200061" level="12" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が42%減少\nジャンプ力、移動速度が42%減少" />
+	<key id="10200063" level="1" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="2" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="3" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="4" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="5" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="6" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="7" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="8" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="9" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="10" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="11" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200063" level="12" name="威嚇スタン効果" tooltipDescription="強力な闘気に露出され行動不能" />
+	<key id="10200064" level="1" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が9%減少" />
+	<key id="10200064" level="2" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が12%減少" />
+	<key id="10200064" level="3" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が15%減少" />
+	<key id="10200064" level="4" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が18%減少" />
+	<key id="10200064" level="5" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が21%減少" />
+	<key id="10200064" level="6" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が24%減少" />
+	<key id="10200064" level="7" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が27%減少" />
+	<key id="10200064" level="8" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が30%減少" />
+	<key id="10200064" level="9" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が21%減少" />
+	<key id="10200064" level="10" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が24%減少" />
+	<key id="10200064" level="11" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が27%減少" />
+	<key id="10200064" level="12" name="威嚇" tooltipDescription="戦意喪失で全身から力が抜けます…。\n攻撃力が30%減少" />
+	<key id="10200081" level="1" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が1増加" />
+	<key id="10200081" level="2" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
+	<key id="10200081" level="3" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
+	<key id="10200081" level="4" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
+	<key id="10200081" level="5" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200081" level="6" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200081" level="7" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200081" level="8" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200081" level="9" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200081" level="10" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200081" level="11" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200081" level="12" name="アドレナリン" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200082" level="1" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
+	<key id="10200082" level="2" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が2増加" />
+	<key id="10200082" level="3" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200082" level="4" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200082" level="5" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200082" level="6" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200082" level="7" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200082" level="8" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200082" level="9" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200082" level="10" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200082" level="11" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200082" level="12" name="アドレナリン2段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が6増加" />
+	<key id="10200083" level="1" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200083" level="2" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200083" level="3" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が3増加" />
+	<key id="10200083" level="4" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200083" level="5" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200083" level="6" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が4増加" />
+	<key id="10200083" level="7" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200083" level="8" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200083" level="9" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が5増加" />
+	<key id="10200083" level="10" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が6増加" />
+	<key id="10200083" level="11" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が6増加" />
+	<key id="10200083" level="12" name="アドレナリン3段階" tooltipDescription="闇のオーラをコントロールすることができません！\n1秒ごとにSP自然回復量が7増加" />
+	<key id="10200101" level="1" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が100増加" />
+	<key id="10200101" level="2" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が150増加" />
+	<key id="10200101" level="3" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が200増加" />
+	<key id="10200101" level="4" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が250増加" />
+	<key id="10200101" level="5" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が300増加" />
+	<key id="10200101" level="6" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が350増加" />
+	<key id="10200101" level="7" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が400増加" />
+	<key id="10200101" level="8" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が450増加" />
+	<key id="10200101" level="9" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が500増加" />
+	<key id="10200101" level="10" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が550増加" />
+	<key id="10200101" level="11" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が600増加" />
+	<key id="10200101" level="12" name="エンデュア" tooltipDescription="不屈の意志で極限の状況に耐えます。\n物理抵抗力と魔法抵抗力が650増加" />
+	<key id="10200112" level="1" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに4%のダメージ" />
+	<key id="10200112" level="2" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに7%のダメージ" />
+	<key id="10200112" level="3" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに10%のダメージ" />
+	<key id="10200112" level="4" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに13%のダメージ" />
+	<key id="10200112" level="5" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに16%のダメージ" />
+	<key id="10200112" level="6" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに19%のダメージ" />
+	<key id="10200112" level="7" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに22%のダメージ" />
+	<key id="10200112" level="8" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに25%のダメージ" />
+	<key id="10200112" level="9" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに28%のダメージ" />
+	<key id="10200112" level="10" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに31%のダメージ" />
+	<key id="10200112" level="11" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに34%のダメージ" />
+	<key id="10200112" level="12" name="出血" tooltipDescription="深い傷を負って血を流します。\n1秒ごとに37%のダメージ" />
+	<key id="10200131" level="1" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が16%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="2" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が18%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="3" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が20%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="4" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が22%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="5" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が24%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="6" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が26%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="7" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が28%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="8" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が30%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="9" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が32%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="10" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が34%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="11" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が36%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200131" level="12" name="ダークコマンダー" tooltipDescription="攻撃速度、物理攻撃力、魔法攻撃力が38%増加\n全ての攻撃が命中するとSPを1回復" />
+	<key id="10200141" level="1" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが5%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="2" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが6%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="3" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが7%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="4" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが8%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="5" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが9%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="6" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが10%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="7" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが11%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="8" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが12%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="9" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが13%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="10" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが14%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="11" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが15%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200141" level="12" name="血の祭物" tooltipDescription="闇の力を追加で受けます。\n攻撃が成功するとダメージが16%増加\n攻撃が成功するとHPが1%減少" />
+	<key id="10200171" level="1" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="2" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="3" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="4" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="5" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="6" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="7" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="8" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="9" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="10" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="11" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200171" level="12" name="エアリアルスマッシュ" tooltipDescription="跳躍攻撃！" feature="JobChange_01" />
+	<key id="10200173" level="1" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="2" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="3" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="4" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="5" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="6" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="7" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="8" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="9" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="10" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="11" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200173" level="12" name="ふらつき" tooltipDescription="移動速度が20%減少" feature="JobChange_01" />
+	<key id="10200201" level="1" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="2" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="3" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="4" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="5" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="6" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="7" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="8" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="9" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="10" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="11" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200201" level="12" name="無慈悲" tooltipDescription="スカルスプリッター3段階攻撃即時使用" feature="JobChange_01" />
+	<key id="10200212" level="1" name="血の狂乱" tooltipDescription="物理攻撃力が4%増加\n血の渇望ダメージが149%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="2" name="血の狂乱" tooltipDescription="物理攻撃力が6.5%増加\n血の渇望ダメージが166%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="3" name="血の狂乱" tooltipDescription="物理攻撃力が9%増加\n血の渇望ダメージが183%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="4" name="血の狂乱" tooltipDescription="物理攻撃力が11.5%増加\n血の渇望ダメージが200%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="5" name="血の狂乱" tooltipDescription="物理攻撃力が14%増加\n血の渇望ダメージが217%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="6" name="血の狂乱" tooltipDescription="物理攻撃力が16.5%増加\n血の渇望ダメージが234%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="7" name="血の狂乱" tooltipDescription="物理攻撃力が19%増加\n血の渇望ダメージが251%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="8" name="血の狂乱" tooltipDescription="物理攻撃力が21.5%増加\n血の渇望ダメージが268%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="9" name="血の狂乱" tooltipDescription="物理攻撃力が24%増加\n血の渇望ダメージが285%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="10" name="血の狂乱" tooltipDescription="物理攻撃力が26.5%増加\n血の渇望ダメージが302%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="11" name="血の狂乱" tooltipDescription="物理攻撃力が29%増加\n血の渇望ダメージが319%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200212" level="12" name="血の狂乱" tooltipDescription="物理攻撃力が31.5%増加\n血の渇望ダメージが336%増加\n血の渇望を使用すると30%の確率で無慈悲効果発動" feature="JobChange_01" />
+	<key id="10200221" level="1" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が5%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="2" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が10%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="3" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が15%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="4" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が20%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="5" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が25%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="6" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が30%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="7" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が35%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="8" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が40%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="9" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が45%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="10" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が50%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="11" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が55%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200221" level="12" name="狂戦士の魂" tooltipDescription="攻撃速度が30%増加\n物理攻撃力および暗黒攻撃力が60%増加\n地震で割れた大地から闇のオーラを吸収" feature="JobChange_01" />
+	<key id="10200224" level="1" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="2" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="3" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="4" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="5" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="6" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="7" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="8" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="9" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="10" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="11" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200224" level="12" name="闇の隙間" tooltipDescription="闇のオーラを追加獲得\n移動速度が100増加" feature="JobChange_01" />
+	<key id="10200232" level="1" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="2" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="3" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="4" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="5" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="6" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="7" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="8" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="9" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="10" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="11" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200232" level="12" name="狂風" tooltipDescription="3回重複するとつむじ風発動" feature="JobChange_01" />
+	<key id="10200233" level="1" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="2" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="3" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="4" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="5" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="6" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="7" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="8" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="9" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="10" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="11" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200233" level="12" name="つむじ風！" tooltipDescription="ぶっ飛ばしてやる！" feature="JobChange_01" />
+	<key id="10200243" level="1" name="大出血" tooltipDescription="重複あたり1秒ごとに52%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="2" name="大出血" tooltipDescription="重複あたり1秒ごとに58%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="3" name="大出血" tooltipDescription="1回重複あたり1秒ごとに64%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="4" name="大出血" tooltipDescription="1回重複あたり1秒ごとに70%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="5" name="大出血" tooltipDescription="重複あたり1秒ごとに76%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="6" name="大出血" tooltipDescription="重複あたり1秒ごとに82%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="7" name="大出血" tooltipDescription="重複あたり1秒ごとに88%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="8" name="大出血" tooltipDescription="重複あたり1秒ごとに94%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="9" name="大出血" tooltipDescription="重複あたり1秒ごとに100%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="10" name="大出血" tooltipDescription="重複あたり1秒ごとに106%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="11" name="大出血" tooltipDescription="重複あたり1秒ごとに112%のダメージ" feature="JobChange_01" />
+	<key id="10200243" level="12" name="大出血" tooltipDescription="重複あたり1秒ごとに118%のダメージ" feature="JobChange_01" />
+	<key id="10200265" level="1" name="KORADDITIONALDESCRIPTION_10200265_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200265" level="2" name="KORADDITIONALDESCRIPTION_10200265_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200265" level="3" name="KORADDITIONALDESCRIPTION_10200265_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200265" level="4" name="KORADDITIONALDESCRIPTION_10200265_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200265" level="5" name="KORADDITIONALDESCRIPTION_10200265_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200265_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200271" level="1" name="KORADDITIONALDESCRIPTION_10200271_1_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="2" name="KORADDITIONALDESCRIPTION_10200271_2_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="3" name="KORADDITIONALDESCRIPTION_10200271_3_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="4" name="KORADDITIONALDESCRIPTION_10200271_4_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="5" name="KORADDITIONALDESCRIPTION_10200271_5_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="6" name="KORADDITIONALDESCRIPTION_10200271_6_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="7" name="KORADDITIONALDESCRIPTION_10200271_7_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="8" name="KORADDITIONALDESCRIPTION_10200271_8_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="9" name="KORADDITIONALDESCRIPTION_10200271_9_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="10" name="KORADDITIONALDESCRIPTION_10200271_10_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="11" name="KORADDITIONALDESCRIPTION_10200271_11_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200271" level="12" name="KORADDITIONALDESCRIPTION_10200271_12_NAME:[F]JobChange_02" tooltipDescription="気絶" feature="JobChange_02" />
+	<key id="10200282" level="1" name="KORADDITIONALDESCRIPTION_10200282_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="2" name="KORADDITIONALDESCRIPTION_10200282_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="3" name="KORADDITIONALDESCRIPTION_10200282_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="4" name="KORADDITIONALDESCRIPTION_10200282_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="5" name="KORADDITIONALDESCRIPTION_10200282_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="6" name="KORADDITIONALDESCRIPTION_10200282_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="7" name="KORADDITIONALDESCRIPTION_10200282_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="8" name="KORADDITIONALDESCRIPTION_10200282_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="9" name="KORADDITIONALDESCRIPTION_10200282_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="10" name="KORADDITIONALDESCRIPTION_10200282_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="11" name="KORADDITIONALDESCRIPTION_10200282_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200282" level="12" name="KORADDITIONALDESCRIPTION_10200282_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10200282_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200291" level="1" name="KORADDITIONALDESCRIPTION_10200291_1_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が2%増加" feature="JobChange_02" />
+	<key id="10200291" level="2" name="KORADDITIONALDESCRIPTION_10200291_2_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が4%増加" feature="JobChange_02" />
+	<key id="10200291" level="3" name="KORADDITIONALDESCRIPTION_10200291_3_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が6%増加" feature="JobChange_02" />
+	<key id="10200291" level="4" name="KORADDITIONALDESCRIPTION_10200291_4_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が8%増加" feature="JobChange_02" />
+	<key id="10200291" level="5" name="KORADDITIONALDESCRIPTION_10200291_5_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が10%増加" feature="JobChange_02" />
+	<key id="10200291" level="6" name="KORADDITIONALDESCRIPTION_10200291_6_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が12%増加" feature="JobChange_02" />
+	<key id="10200291" level="7" name="KORADDITIONALDESCRIPTION_10200291_7_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が14%増加" feature="JobChange_02" />
+	<key id="10200291" level="8" name="KORADDITIONALDESCRIPTION_10200291_8_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が16%増加" feature="JobChange_02" />
+	<key id="10200291" level="9" name="KORADDITIONALDESCRIPTION_10200291_9_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が18%増加" feature="JobChange_02" />
+	<key id="10200291" level="10" name="KORADDITIONALDESCRIPTION_10200291_10_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が20%増加" feature="JobChange_02" />
+	<key id="10200291" level="11" name="KORADDITIONALDESCRIPTION_10200291_11_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が22%増加" feature="JobChange_02" />
+	<key id="10200291" level="12" name="KORADDITIONALDESCRIPTION_10200291_12_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力が24%増加" feature="JobChange_02" />
+	<key id="10200292" level="1" name="KORADDITIONALDESCRIPTION_10200292_1_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が9%減少" feature="JobChange_02" />
+	<key id="10200292" level="2" name="KORADDITIONALDESCRIPTION_10200292_2_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が12%減少" feature="JobChange_02" />
+	<key id="10200292" level="3" name="KORADDITIONALDESCRIPTION_10200292_3_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が15%減少" feature="JobChange_02" />
+	<key id="10200292" level="4" name="KORADDITIONALDESCRIPTION_10200292_4_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が18%減少" feature="JobChange_02" />
+	<key id="10200292" level="5" name="KORADDITIONALDESCRIPTION_10200292_5_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が21%減少" feature="JobChange_02" />
+	<key id="10200292" level="6" name="KORADDITIONALDESCRIPTION_10200292_6_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が24%減少" feature="JobChange_02" />
+	<key id="10200292" level="7" name="KORADDITIONALDESCRIPTION_10200292_7_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が27%減少" feature="JobChange_02" />
+	<key id="10200292" level="8" name="KORADDITIONALDESCRIPTION_10200292_8_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が30%減少" feature="JobChange_02" />
+	<key id="10200292" level="9" name="KORADDITIONALDESCRIPTION_10200292_9_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が33%減少" feature="JobChange_02" />
+	<key id="10200292" level="10" name="KORADDITIONALDESCRIPTION_10200292_10_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が36%減少" feature="JobChange_02" />
+	<key id="10200292" level="11" name="KORADDITIONALDESCRIPTION_10200292_11_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が39%減少" feature="JobChange_02" />
+	<key id="10200292" level="12" name="KORADDITIONALDESCRIPTION_10200292_12_NAME:[F]JobChange_02" tooltipDescription="物理攻撃力、魔法攻撃力が42%減少" feature="JobChange_02" />
 </ms2>

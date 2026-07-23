@@ -1,189 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="1" />
-  <key id="2" />
-  <key id="3" />
-  <key id="4" />
-  <key id="5" />
-  <key id="6" feature="Fishing" />
-  <key id="7" />
-  <key id="8" feature="MeratMarket" />
-  <key id="9" name="金庫" />
-  <key id="10" />
-  <key id="11" name="アルポンダルポン牧場" />
-  <key id="12" feature="GuildSystem01" />
-  <key id="13" feature="ArcadeSystem" />
-  <key id="14" name="ドゥンドゥン" />
-  <key id="15" />
-  <key id="16" />
-  <key id="17" />
-  <key id="18" name="ジャイアントタートル" />
-  <key id="19" name="ミュージック" feature="MusicInstrument" />
-  <key id="20" name="エンチャント" />
-  <key id="21" name="ゴルママンション" />
-  <key id="22" />
-  <key id="23" />
-  <key id="24" />
-  <key id="25" />
-  <key id="26" name="デブリンウォーリアー" />
-  <key id="27" />
-  <key id="28" />
-  <key id="29" name="グリフォン" />
-  <key id="30" />
-  <key id="31" name="デブリンチーフ" />
-  <key id="32" feature="ShadowCataclysm" />
-  <key id="33" />
-  <key id="34" name="マーク52アルファ" />
-  <key id="35" />
-  <key id="36" />
-  <key id="37" />
-  <key id="38" />
-  <key id="39" name="グリフィーナ" />
-  <key id="40" />
-  <key id="41" />
-  <key id="42" />
-  <key id="43" />
-  <key id="44" name="ロロとムムス" />
-  <key id="45" name="バヤールの門番" />
-  <key id="46" />
-  <key id="47" />
-  <key id="48" />
-  <key id="49" name="アルファタートル" />
-  <key id="50" />
-  <key id="51" name="怒りのバフォメット" />
-  <key id="52" name="レルノス" />
-  <key id="53" />
-  <key id="54" />
-  <key id="55" />
-  <key id="56" />
-  <key id="57" />
-  <key id="58" name="トトとググス" />
-  <key id="59" name="飛行船ルミウィンド" feature="KarkarIsland" />
-  <key id="60" />
-  <key id="61" name="ペカノス" />
-  <key id="62" name="アマドン" feature="KarkarIsland" />
-  <key id="63" />
-  <key id="64" />
-  <key id="65" feature="AricariDailyQ" />
-  <key id="67" name="青い星" feature="Season3" />
-  <key id="68" name="赤い星" feature="Season3" />
-  <key id="69" name="歪んだ空間の隙間" feature="ShadowCrack" />
-  <key id="70" name="特性" feature="CharacterAbility" />
-  <key id="71" name="ジェムストーン" feature="ItemSocketSystem" />
-  <key id="73" />
-  <key id="201" name="ウレウス" feature="KarkarIsland" />
-  <key id="202" name="イカル・マード" feature="BattleField51to55" />
-  <key id="203" name="冷血なバフォメット" feature="BattleField51to55" />
-  <key id="204" name="アクレオン" feature="KarkarIsland" />
-  <key id="205" />
-  <key id="206" />
-  <key id="207" />
-  <key id="208" feature="TimeAttackDungeon" />
-  <key id="209" />
-  <key id="210" />
-  <key id="211" />
-  <key id="212" />
-  <key id="213" />
-  <key id="214" />
-  <key id="215" />
-  <key id="216" />
-  <key id="217" />
-  <key id="219" />
-  <key id="220" />
-  <key id="221" />
-  <key id="223" />
-  <key id="224" />
-  <key id="225" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="226" />
-  <key id="227" />
-  <key id="228" />
-  <key id="229" />
-  <key id="230" />
-  <key id="231" />
-  <key id="232" />
-  <key id="233" />
-  <key id="234" />
-  <key id="235" />
-  <key id="236" />
-  <key id="237" />
-  <key id="238" />
-  <key id="239" />
-  <key id="240" />
-  <key id="241" />
-  <key id="242" name="転職" feature="JobChange_01" />
-  <key id="243" name="ラペンシャード" feature="Lapenshard01" />
-  <key id="248" name="転職" feature="JobChange_01" />
-  <key id="249" name="ラペンシャード" feature="Lapenshard01" />
-  <key id="250" feature="LapentaDungeon" />
-  <key id="251" feature="LapentaDungeon" />
-  <key id="252" feature="LapentaDungeon" />
-  <key id="253" feature="LapentaDungeon" />
-  <key id="254" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="255" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="256" feature="Develop" locale="JP" />
-  <key id="257" />
-  <key id="258" />
-  <key id="259" />
-  <key id="260" feature="ItemPartyDungeon" />
-  <key id="261" feature="GuildMinigame01" />
-  <key id="262" feature="GuildQuest01" />
-  <key id="263" feature="GuildHouse01" />
-  <key id="264" feature="Club" />
-  <key id="265" feature="Mastery" />
-  <key id="266" feature="Mastery" />
-  <key id="267" feature="UGCMapRenewal2" />
-  <key id="268" feature="MagicScroll01" />
-  <key id="269" feature="GuildRaid01" />
-  <key id="270" feature="Develop" locale="JP" />
-  <key id="271" feature="JobChange_02" />
-  <key id="272" feature="Kritias_2018_12" />
-  <key id="273" feature="Fieldwar01" />
-  <key id="274" feature="Gigantica01" />
-  <key id="275" feature="Kritias_Paika01" />
-  <key id="276" feature="Kritias_Balrog01" />
-  <key id="277" feature="Kritias_Zakum01" />
-  <key id="278" feature="Kritias_Zakum01" />
-  <key id="279" feature="Kritias_Inferno01" />
-  <key id="280" feature="Kritias_Inferno01" />
-  <key id="281" feature="Colosseum01" />
-  <key id="282" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="283" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="284" feature="Develop" locale="JP" />
-  <key id="285" />
-  <key id="286" />
-  <key id="287" />
-  <key id="288" />
-  <key id="289" feature="Kritias_Turka01" />
-  <key id="290" feature="Kritias_Turka02" />
-  <key id="291" feature="Kritias_Turka03" />
-  <key id="297" name="デイリークエスト" />
-  <key id="298" name="青い星" feature="Season3" />
-  <key id="299" name="赤い星" feature="Season3" />
-  <key id="1001" />
-  <key id="1002" />
-  <key id="1003" name="青い星" />
-  <key id="1004" name="赤い星" />
-  <key id="1005" name="ウレウス" />
-  <key id="1006" name="イカル・マード" />
-  <key id="1007" name="冷血なバフォメット" />
-  <key id="1008" name="アクレオン" />
-  <key id="1009" />
-  <key id="1010" />
-  <key id="1011" />
-  <key id="1012" />
-  <key id="1013" />
-  <key id="1014" />
-  <key id="1015" />
-  <key id="1016" />
-  <key id="1017" />
-  <key id="1018" />
-  <key id="1019" />
-  <key id="1020" />
-  <key id="1021" />
-  <key id="1022" />
-  <key id="1023" />
-  <key id="1024" />
-  <key id="1025" />
-  <key id="1026" />
+	<key id="1" />
+	<key id="2" />
+	<key id="3" />
+	<key id="4" />
+	<key id="5" />
+	<key id="6" feature="Fishing" />
+	<key id="7" />
+	<key id="8" feature="MeratMarket" />
+	<key id="9" name="金庫" />
+	<key id="10" />
+	<key id="11" name="アルポンダルポン牧場" />
+	<key id="12" feature="GuildSystem01" />
+	<key id="13" feature="ArcadeSystem" />
+	<key id="14" name="ドゥンドゥン" />
+	<key id="15" />
+	<key id="16" />
+	<key id="17" />
+	<key id="18" name="ジャイアントタートル" />
+	<key id="19" name="ミュージック" feature="MusicInstrument" />
+	<key id="20" name="エンチャント" />
+	<key id="21" name="ゴルママンション" />
+	<key id="22" />
+	<key id="23" />
+	<key id="24" />
+	<key id="25" />
+	<key id="26" name="デブリンウォーリアー" />
+	<key id="27" />
+	<key id="28" />
+	<key id="29" name="グリフォン" />
+	<key id="30" />
+	<key id="31" name="デブリンチーフ" />
+	<key id="32" feature="ShadowCataclysm" />
+	<key id="33" />
+	<key id="34" name="マーク52アルファ" />
+	<key id="35" />
+	<key id="36" />
+	<key id="37" />
+	<key id="38" />
+	<key id="39" name="グリフィーナ" />
+	<key id="40" />
+	<key id="41" />
+	<key id="42" />
+	<key id="43" />
+	<key id="44" name="ロロとムムス" />
+	<key id="45" name="バヤールの門番" />
+	<key id="46" />
+	<key id="47" />
+	<key id="48" />
+	<key id="49" name="アルファタートル" />
+	<key id="50" />
+	<key id="51" name="怒りのバフォメット" />
+	<key id="52" name="レルノス" />
+	<key id="53" />
+	<key id="54" />
+	<key id="55" />
+	<key id="56" />
+	<key id="57" />
+	<key id="58" name="トトとググス" />
+	<key id="59" name="飛行船ルミウィンド" feature="KarkarIsland" />
+	<key id="60" />
+	<key id="61" name="ペカノス" />
+	<key id="62" name="アマドン" feature="KarkarIsland" />
+	<key id="63" />
+	<key id="64" />
+	<key id="65" feature="AricariDailyQ" />
+	<key id="67" name="青い星" feature="Season3" />
+	<key id="68" name="赤い星" feature="Season3" />
+	<key id="69" name="歪んだ空間の隙間" feature="ShadowCrack" />
+	<key id="70" name="特性" feature="CharacterAbility" />
+	<key id="71" name="ジェムストーン" feature="ItemSocketSystem" />
+	<key id="73" />
+	<key id="201" name="ウレウス" feature="KarkarIsland" />
+	<key id="202" name="イカル・マード" feature="BattleField51to55" />
+	<key id="203" name="冷血なバフォメット" feature="BattleField51to55" />
+	<key id="204" name="アクレオン" feature="KarkarIsland" />
+	<key id="205" />
+	<key id="206" />
+	<key id="207" />
+	<key id="208" feature="TimeAttackDungeon" />
+	<key id="209" />
+	<key id="210" />
+	<key id="211" />
+	<key id="212" />
+	<key id="213" />
+	<key id="214" />
+	<key id="215" />
+	<key id="216" />
+	<key id="217" />
+	<key id="219" />
+	<key id="220" />
+	<key id="221" />
+	<key id="223" />
+	<key id="224" />
+	<key id="225" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="226" />
+	<key id="227" />
+	<key id="228" />
+	<key id="229" />
+	<key id="230" />
+	<key id="231" />
+	<key id="232" />
+	<key id="233" />
+	<key id="234" />
+	<key id="235" />
+	<key id="236" />
+	<key id="237" />
+	<key id="238" />
+	<key id="239" />
+	<key id="240" />
+	<key id="241" />
+	<key id="242" name="転職" feature="JobChange_01" />
+	<key id="243" name="ラペンシャード" feature="Lapenshard01" />
+	<key id="248" name="転職" feature="JobChange_01" />
+	<key id="249" name="ラペンシャード" feature="Lapenshard01" />
+	<key id="250" feature="LapentaDungeon" />
+	<key id="251" feature="LapentaDungeon" />
+	<key id="252" feature="LapentaDungeon" />
+	<key id="253" feature="LapentaDungeon" />
+	<key id="254" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="255" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="256" feature="Develop" locale="JP" />
+	<key id="257" />
+	<key id="258" />
+	<key id="259" />
+	<key id="260" feature="ItemPartyDungeon" />
+	<key id="261" feature="GuildMinigame01" />
+	<key id="262" feature="GuildQuest01" />
+	<key id="263" feature="GuildHouse01" />
+	<key id="264" feature="Club" />
+	<key id="265" feature="Mastery" />
+	<key id="266" feature="Mastery" />
+	<key id="267" feature="UGCMapRenewal2" />
+	<key id="268" feature="MagicScroll01" />
+	<key id="269" feature="GuildRaid01" />
+	<key id="270" feature="Develop" locale="JP" />
+	<key id="271" feature="JobChange_02" />
+	<key id="272" feature="Kritias_2018_12" />
+	<key id="273" feature="Fieldwar01" />
+	<key id="274" feature="Gigantica01" />
+	<key id="275" feature="Kritias_Paika01" />
+	<key id="276" feature="Kritias_Balrog01" />
+	<key id="277" feature="Kritias_Zakum01" />
+	<key id="278" feature="Kritias_Zakum01" />
+	<key id="279" feature="Kritias_Inferno01" />
+	<key id="280" feature="Kritias_Inferno01" />
+	<key id="281" feature="Colosseum01" />
+	<key id="282" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="283" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="284" feature="Develop" locale="JP" />
+	<key id="285" />
+	<key id="286" />
+	<key id="287" />
+	<key id="288" />
+	<key id="289" feature="Kritias_Turka01" />
+	<key id="290" feature="Kritias_Turka02" />
+	<key id="291" feature="Kritias_Turka03" />
+	<key id="297" name="デイリークエスト" />
+	<key id="298" name="青い星" feature="Season3" />
+	<key id="299" name="赤い星" feature="Season3" />
+	<key id="1001" />
+	<key id="1002" />
+	<key id="1003" name="青い星" />
+	<key id="1004" name="赤い星" />
+	<key id="1005" name="ウレウス" />
+	<key id="1006" name="イカル・マード" />
+	<key id="1007" name="冷血なバフォメット" />
+	<key id="1008" name="アクレオン" />
+	<key id="1009" />
+	<key id="1010" />
+	<key id="1011" />
+	<key id="1012" />
+	<key id="1013" />
+	<key id="1014" />
+	<key id="1015" />
+	<key id="1016" />
+	<key id="1017" />
+	<key id="1018" />
+	<key id="1019" />
+	<key id="1020" />
+	<key id="1021" />
+	<key id="1022" />
+	<key id="1023" />
+	<key id="1024" />
+	<key id="1025" />
+	<key id="1026" />
 </ms2>

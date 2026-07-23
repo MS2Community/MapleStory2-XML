@@ -1,226 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10500031" level="1" name="冰箭" tooltipDescription="被冰箭射中，身体变得僵硬。\降低移动速度" />
-  <key id="10500032" level="1" name="冻结" tooltipDescription="全身都被冻住了！\n被冻住，无法行动" />
-  <key id="10500061" level="1" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加13\n命中增加1" />
-  <key id="10500061" level="2" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加20\n命中增加1" />
-  <key id="10500061" level="3" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加27\n命中增加2" />
-  <key id="10500061" level="4" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加34\n命中增加2" />
-  <key id="10500061" level="5" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加41\n命中增加3" />
-  <key id="10500061" level="6" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加48\n命中增加3" />
-  <key id="10500061" level="7" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加55\n命中增加4" />
-  <key id="10500061" level="8" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加62\n命中增加4" />
-  <key id="10500061" level="9" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加69\n命中增加4" />
-  <key id="10500061" level="10" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加76\n命中增加5" />
-  <key id="10500061" level="11" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加83\n命中增加5" />
-  <key id="10500061" level="12" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加90\n命中增加5" />
-  <key id="10500066" level="1" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加17\n命中增加1" feature="JobChange_01" />
-  <key id="10500066" level="2" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加28\n命中增加1" feature="JobChange_01" />
-  <key id="10500066" level="3" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加39\n命中增加2" feature="JobChange_01" />
-  <key id="10500066" level="4" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加50\n命中增加2" feature="JobChange_01" />
-  <key id="10500066" level="5" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加61\n命中增加3" feature="JobChange_01" />
-  <key id="10500066" level="6" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加72\n命中增加3" feature="JobChange_01" />
-  <key id="10500066" level="7" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加83\n命中增加4" feature="JobChange_01" />
-  <key id="10500066" level="8" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加94\n命中增加4" feature="JobChange_01" />
-  <key id="10500066" level="9" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加105\n命中增加4" feature="JobChange_01" />
-  <key id="10500066" level="10" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加116\n命中增加5" feature="JobChange_01" />
-  <key id="10500066" level="11" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加127\n命中增加5" feature="JobChange_01" />
-  <key id="10500066" level="12" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加138\n命中增加5" feature="JobChange_01" />
-  <key id="10500072" level="1" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加4.4%" />
-  <key id="10500072" level="2" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加4.7%" />
-  <key id="10500072" level="3" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5%" />
-  <key id="10500072" level="4" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5.3%" />
-  <key id="10500072" level="5" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5.6%" />
-  <key id="10500072" level="6" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5.9%" />
-  <key id="10500072" level="7" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加6.2%" />
-  <key id="10500072" level="8" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加6.5%" />
-  <key id="10500072" level="9" name="召唤金鹰" tooltipDescription="受到金眼雄鹰的援助。\n敏捷提高6.8%" />
-  <key id="10500072" level="10" name="召唤金鹰" tooltipDescription="受到金眼雄鹰的援助。\n敏捷提高7.1%" />
-  <key id="10500072" level="11" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷提高7.4%" />
-  <key id="10500072" level="12" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷提高7.7%" />
-  <key id="10500081" level="1" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到60%的伤害\n移动速度降低30%\n跳跃力降低30%" />
-  <key id="10500081" level="2" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到64%的伤害\n移动速度降低30%\n跳跃力降低30%" />
-  <key id="10500081" level="3" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到68%的伤害\n移动速度降低30%\n跳跃力降低30%" />
-  <key id="10500081" level="4" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到72%的伤害\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10500081" level="5" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到76%的伤害\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10500081" level="6" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到80%的伤害\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10500081" level="7" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到84%的伤害\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10500081" level="8" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到88%的伤害\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10500081" level="9" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到92%的伤害\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10500081" level="10" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到96%的伤害\n移动速度降低45%\n跳跃力降低45%" />
-  <key id="10500081" level="11" name="雄鹰突击" tooltipDescription="鹰爪抓挠！\n每秒产生100%的伤害\n移动速度降低45%\n跳跃力降低45%" />
-  <key id="10500081" level="12" name="雄鹰突击" tooltipDescription="鹰爪抓挠！\n每秒产生104%的伤害\n移动速度降低45%\n跳跃力降低45%" />
-  <key id="10500091" level="1" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复1\n攻击命中时，鹰发动支援攻击" />
-  <key id="10500091" level="2" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复2\n攻击命中时，鹰支援攻击发动" />
-  <key id="10500091" level="3" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复3\n攻击命中时，鹰支援攻击发动" />
-  <key id="10500091" level="4" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复4\n攻击命中时，鹰支援攻击发动" />
-  <key id="10500091" level="5" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复5\n攻击命中时，鹰支援攻击发动" />
-  <key id="10500091" level="6" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复6\n攻击命中时，鹰发动支援攻击" />
-  <key id="10500091" level="7" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复7\n攻击命中时，鹰发动支援攻击" />
-  <key id="10500091" level="8" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复8\n攻击命中时，鹰发动支援攻击" />
-  <key id="10500091" level="9" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复9\n攻击命中时，发动雄鹰支援攻击" />
-  <key id="10500091" level="10" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复10\n攻击命中时，发动雄鹰支援攻击" />
-  <key id="10500091" level="11" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复11\n攻击命中时，发动雄鹰支援攻击" />
-  <key id="10500091" level="12" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复12\n攻击命中时，发动雄鹰支援攻击" />
-  <key id="10500093" level="1" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复3点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="2" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复4点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="3" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复5点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="4" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复6点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="5" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复7点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="6" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复8点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="7" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复9点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="8" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复10点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="9" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复11点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="10" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复12点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="11" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复13点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500093" level="12" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复14点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-  <key id="10500111" level="1" name="狙击" tooltipDescription="正在瞄准敌人。\n能量追加恢复量增加1" />
-  <key id="10500171" level="1" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="2" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="3" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="4" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="5" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="6" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="7" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="8" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="9" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="10" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="11" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500171" level="12" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="1" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="2" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="3" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="4" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="5" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="6" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="7" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="8" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="9" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="10" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="11" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500172" level="12" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-  <key id="10500173" level="1" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="2" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="3" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="4" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="5" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="6" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="7" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="8" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="9" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="10" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="11" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500173" level="12" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-  <key id="10500181" level="1" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高8%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="2" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高11%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="3" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高14%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="4" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高17%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="5" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高20%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="6" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高23%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="7" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高26%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="8" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高29%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="9" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高32%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="10" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高35%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="11" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高38%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500181" level="12" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高41%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-  <key id="10500231" level="1" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高6%，命中增加1点\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="2" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高7%，命中增加2\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="3" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高8%，命中增加3\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="4" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高9%，命中增加4\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="5" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高10%，命中增加5\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="6" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高11%，命中增加6\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="7" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高12%，命中增加7\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="8" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高13%，命中增加8\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="9" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高14%，命中增加9\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="10" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高15%，命中增加10\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="11" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高16%，命中增加11\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500231" level="12" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高17%，命中增加12\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-  <key id="10500232" level="1" name="充能状态" tooltipDescription="风之力量正在渗入弓箭。\n使用风系攻击技能击中敌人时，会叠加1层，最多可叠加10层。\n叠加到10层后会变为解放状态。" feature="JobChange_01" />
-  <key id="10500233" level="1" name="解放状态" tooltipDescription="弓上凝聚了足够的风之力量！\n可以使用秘珠箭术。" feature="JobChange_01" />
-  <key id="10500261" level="1" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到202%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="2" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到222%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="3" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到242%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="4" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到262%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="5" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到282%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="6" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到302%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="7" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到322%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="8" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到342%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="9" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到362%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="10" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到382%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="11" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到402%的持续伤害" feature="JobChange_02" />
-  <key id="10500261" level="12" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到422%的持续伤害" feature="JobChange_02" />
-  <key id="10500272" level="1" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加10\n物理伤害增加7%\n敏捷增加3%" feature="JobChange_02" />
-  <key id="10500272" level="2" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加20\n物理伤害增加9%\n敏捷增加4.5%" feature="JobChange_02" />
-  <key id="10500272" level="3" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加30\n物理伤害增加11%\n敏捷增加6%" feature="JobChange_02" />
-  <key id="10500272" level="4" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加40\n物理伤害增加13%\n敏捷增加7.5%" feature="JobChange_02" />
-  <key id="10500272" level="5" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加50\n物理伤害增加15%\n敏捷增加9%" feature="JobChange_02" />
-  <key id="10500272" level="6" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加60\n物理伤害增加13%\n敏捷增加10.5%" feature="JobChange_02" />
-  <key id="10500272" level="7" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加70\n物理伤害增加13%\n敏捷增加12%" feature="JobChange_02" />
-  <key id="10500272" level="8" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加80\n物理伤害增加21%\n敏捷增加13.5%" feature="JobChange_02" />
-  <key id="10500272" level="9" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加90\n物理伤害增加23%\n敏捷增加15%" feature="JobChange_02" />
-  <key id="10500272" level="10" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加100\n物理伤害增加25%\n敏捷增加16.5%" feature="JobChange_02" />
-  <key id="10500272" level="11" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加110\n物理伤害增加27%\n敏捷增加18%" feature="JobChange_02" />
-  <key id="10500272" level="12" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加120\n物理伤害增加29%\n敏捷增加19.5%" feature="JobChange_02" />
-  <key id="10500281" level="1" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成456%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="2" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成497%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="3" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成538%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="4" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成579%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="5" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成620%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="6" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成661%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="7" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成702%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="8" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成743%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="9" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成784%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="10" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成825%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="11" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成866%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500281" level="12" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成907%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-  <key id="10500291" level="1" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高2%" feature="JobChange_02" />
-  <key id="10500291" level="2" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高4%" feature="JobChange_02" />
-  <key id="10500291" level="3" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高6%" feature="JobChange_02" />
-  <key id="10500291" level="4" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高8%" feature="JobChange_02" />
-  <key id="10500291" level="5" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高10%" feature="JobChange_02" />
-  <key id="10500291" level="6" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高12%" feature="JobChange_02" />
-  <key id="10500291" level="7" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高14%" feature="JobChange_02" />
-  <key id="10500291" level="8" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高16%" feature="JobChange_02" />
-  <key id="10500291" level="9" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高18%" feature="JobChange_02" />
-  <key id="10500291" level="10" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高20%" feature="JobChange_02" />
-  <key id="10500291" level="11" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高22%" feature="JobChange_02" />
-  <key id="10500291" level="12" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高24%" feature="JobChange_02" />
-  <key id="10500293" level="1" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高16%" feature="JobChange_02" />
-  <key id="10500293" level="2" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高22%" feature="JobChange_02" />
-  <key id="10500293" level="3" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高28%" feature="JobChange_02" />
-  <key id="10500293" level="4" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高34%" feature="JobChange_02" />
-  <key id="10500293" level="5" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高40%" feature="JobChange_02" />
-  <key id="10500293" level="6" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高46%" feature="JobChange_02" />
-  <key id="10500293" level="7" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高52%" feature="JobChange_02" />
-  <key id="10500293" level="8" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高58%" feature="JobChange_02" />
-  <key id="10500293" level="9" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高64%" feature="JobChange_02" />
-  <key id="10500293" level="10" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高70%" feature="JobChange_02" />
-  <key id="10500293" level="11" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高76%" feature="JobChange_02" />
-  <key id="10500293" level="12" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高82%" feature="JobChange_02" />
-  <key id="10500295" level="1" name="休息时刻" tooltipDescription="金鹰小队正在休息。\n100秒内金鹰小队、金鹰队长效果免疫" feature="JobChange_02" />
-  <key id="10500296" level="1" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高16%" feature="JobChange_02" />
-  <key id="10500296" level="2" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高22%" feature="JobChange_02" />
-  <key id="10500296" level="3" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高28%" feature="JobChange_02" />
-  <key id="10500296" level="4" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高34%" feature="JobChange_02" />
-  <key id="10500296" level="5" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高40%" feature="JobChange_02" />
-  <key id="10500296" level="6" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高46%" feature="JobChange_02" />
-  <key id="10500296" level="7" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高52%" feature="JobChange_02" />
-  <key id="10500296" level="8" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高58%" feature="JobChange_02" />
-  <key id="10500296" level="9" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高64%" feature="JobChange_02" />
-  <key id="10500296" level="10" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高70%" feature="JobChange_02" />
-  <key id="10500296" level="11" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高76%" feature="JobChange_02" />
-  <key id="10500296" level="12" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高82%" feature="JobChange_02" />
-  <key id="10500298" level="1" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高2%" feature="JobChange_02" />
-  <key id="10500298" level="2" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高4%" feature="JobChange_02" />
-  <key id="10500298" level="3" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高6%" feature="JobChange_02" />
-  <key id="10500298" level="4" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高8%" feature="JobChange_02" />
-  <key id="10500298" level="5" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高10%" feature="JobChange_02" />
-  <key id="10500298" level="6" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高12%" feature="JobChange_02" />
-  <key id="10500298" level="7" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高14%" feature="JobChange_02" />
-  <key id="10500298" level="8" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高16%" feature="JobChange_02" />
-  <key id="10500298" level="9" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高18%" feature="JobChange_02" />
-  <key id="10500298" level="10" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高20%" feature="JobChange_02" />
-  <key id="10500298" level="11" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高22%" feature="JobChange_02" />
-  <key id="10500298" level="12" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高24%" feature="JobChange_02" />
+	<key id="10500031" level="1" name="冰箭" tooltipDescription="被冰箭射中，身体变得僵硬。\降低移动速度" />
+	<key id="10500032" level="1" name="冻结" tooltipDescription="全身都被冻住了！\n被冻住，无法行动" />
+	<key id="10500061" level="1" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加13\n命中增加1" />
+	<key id="10500061" level="2" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加20\n命中增加1" />
+	<key id="10500061" level="3" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加27\n命中增加2" />
+	<key id="10500061" level="4" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加34\n命中增加2" />
+	<key id="10500061" level="5" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加41\n命中增加3" />
+	<key id="10500061" level="6" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加48\n命中增加3" />
+	<key id="10500061" level="7" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加55\n命中增加4" />
+	<key id="10500061" level="8" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加62\n命中增加4" />
+	<key id="10500061" level="9" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加69\n命中增加4" />
+	<key id="10500061" level="10" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加76\n命中增加5" />
+	<key id="10500061" level="11" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加83\n命中增加5" />
+	<key id="10500061" level="12" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加90\n命中增加5" />
+	<key id="10500066" level="1" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加17\n命中增加1" feature="JobChange_01" />
+	<key id="10500066" level="2" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加28\n命中增加1" feature="JobChange_01" />
+	<key id="10500066" level="3" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加39\n命中增加2" feature="JobChange_01" />
+	<key id="10500066" level="4" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加50\n命中增加2" feature="JobChange_01" />
+	<key id="10500066" level="5" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加61\n命中增加3" feature="JobChange_01" />
+	<key id="10500066" level="6" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加72\n命中增加3" feature="JobChange_01" />
+	<key id="10500066" level="7" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加83\n命中增加4" feature="JobChange_01" />
+	<key id="10500066" level="8" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加94\n命中增加4" feature="JobChange_01" />
+	<key id="10500066" level="9" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加105\n命中增加4" feature="JobChange_01" />
+	<key id="10500066" level="10" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加116\n命中增加5" feature="JobChange_01" />
+	<key id="10500066" level="11" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加127\n命中增加5" feature="JobChange_01" />
+	<key id="10500066" level="12" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加138\n命中增加5" feature="JobChange_01" />
+	<key id="10500072" level="1" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加4.4%" />
+	<key id="10500072" level="2" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加4.7%" />
+	<key id="10500072" level="3" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5%" />
+	<key id="10500072" level="4" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5.3%" />
+	<key id="10500072" level="5" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5.6%" />
+	<key id="10500072" level="6" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加5.9%" />
+	<key id="10500072" level="7" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加6.2%" />
+	<key id="10500072" level="8" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷增加6.5%" />
+	<key id="10500072" level="9" name="召唤金鹰" tooltipDescription="受到金眼雄鹰的援助。\n敏捷提高6.8%" />
+	<key id="10500072" level="10" name="召唤金鹰" tooltipDescription="受到金眼雄鹰的援助。\n敏捷提高7.1%" />
+	<key id="10500072" level="11" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷提高7.4%" />
+	<key id="10500072" level="12" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷提高7.7%" />
+	<key id="10500081" level="1" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到60%的伤害\n移动速度降低30%\n跳跃力降低30%" />
+	<key id="10500081" level="2" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到64%的伤害\n移动速度降低30%\n跳跃力降低30%" />
+	<key id="10500081" level="3" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到68%的伤害\n移动速度降低30%\n跳跃力降低30%" />
+	<key id="10500081" level="4" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到72%的伤害\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10500081" level="5" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到76%的伤害\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10500081" level="6" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到80%的伤害\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10500081" level="7" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到84%的伤害\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10500081" level="8" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到88%的伤害\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10500081" level="9" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到92%的伤害\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10500081" level="10" name="雄鹰突击" tooltipDescription="被鹰爪抓伤！\n每秒受到96%的伤害\n移动速度降低45%\n跳跃力降低45%" />
+	<key id="10500081" level="11" name="雄鹰突击" tooltipDescription="鹰爪抓挠！\n每秒产生100%的伤害\n移动速度降低45%\n跳跃力降低45%" />
+	<key id="10500081" level="12" name="雄鹰突击" tooltipDescription="鹰爪抓挠！\n每秒产生104%的伤害\n移动速度降低45%\n跳跃力降低45%" />
+	<key id="10500091" level="1" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复1\n攻击命中时，鹰发动支援攻击" />
+	<key id="10500091" level="2" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复2\n攻击命中时，鹰支援攻击发动" />
+	<key id="10500091" level="3" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复3\n攻击命中时，鹰支援攻击发动" />
+	<key id="10500091" level="4" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复4\n攻击命中时，鹰支援攻击发动" />
+	<key id="10500091" level="5" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复5\n攻击命中时，鹰支援攻击发动" />
+	<key id="10500091" level="6" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复6\n攻击命中时，鹰发动支援攻击" />
+	<key id="10500091" level="7" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复7\n攻击命中时，鹰发动支援攻击" />
+	<key id="10500091" level="8" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复8\n攻击命中时，鹰发动支援攻击" />
+	<key id="10500091" level="9" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复9\n攻击命中时，发动雄鹰支援攻击" />
+	<key id="10500091" level="10" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复10\n攻击命中时，发动雄鹰支援攻击" />
+	<key id="10500091" level="11" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复11\n攻击命中时，发动雄鹰支援攻击" />
+	<key id="10500091" level="12" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复12\n攻击命中时，发动雄鹰支援攻击" />
+	<key id="10500093" level="1" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复3点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="2" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复4点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="3" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复5点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="4" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复6点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="5" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复7点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="6" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复8点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="7" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复9点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="8" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复10点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="9" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复11点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="10" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复12点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="11" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复13点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500093" level="12" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复14点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
+	<key id="10500111" level="1" name="狙击" tooltipDescription="正在瞄准敌人。\n能量追加恢复量增加1" />
+	<key id="10500171" level="1" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="2" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="3" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="4" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="5" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="6" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="7" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="8" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="9" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="10" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="11" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500171" level="12" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="1" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="2" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="3" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="4" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="5" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="6" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="7" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="8" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="9" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="10" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="11" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500172" level="12" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
+	<key id="10500173" level="1" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="2" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="3" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="4" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="5" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="6" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="7" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="8" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="9" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="10" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="11" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500173" level="12" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
+	<key id="10500181" level="1" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高8%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="2" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高11%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="3" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高14%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="4" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高17%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="5" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高20%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="6" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高23%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="7" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高26%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="8" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高29%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="9" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高32%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="10" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高35%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="11" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高38%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500181" level="12" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高41%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
+	<key id="10500231" level="1" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高6%，命中增加1点\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="2" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高7%，命中增加2\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="3" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高8%，命中增加3\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="4" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高9%，命中增加4\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="5" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高10%，命中增加5\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="6" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高11%，命中增加6\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="7" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高12%，命中增加7\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="8" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高13%，命中增加8\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="9" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高14%，命中增加9\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="10" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高15%，命中增加10\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="11" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高16%，命中增加11\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500231" level="12" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高17%，命中增加12\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
+	<key id="10500232" level="1" name="充能状态" tooltipDescription="风之力量正在渗入弓箭。\n使用风系攻击技能击中敌人时，会叠加1层，最多可叠加10层。\n叠加到10层后会变为解放状态。" feature="JobChange_01" />
+	<key id="10500233" level="1" name="解放状态" tooltipDescription="弓上凝聚了足够的风之力量！\n可以使用秘珠箭术。" feature="JobChange_01" />
+	<key id="10500261" level="1" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到202%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="2" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到222%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="3" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到242%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="4" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到262%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="5" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到282%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="6" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到302%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="7" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到322%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="8" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到342%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="9" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到362%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="10" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到382%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="11" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到402%的持续伤害" feature="JobChange_02" />
+	<key id="10500261" level="12" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到422%的持续伤害" feature="JobChange_02" />
+	<key id="10500272" level="1" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加10\n物理伤害增加7%\n敏捷增加3%" feature="JobChange_02" />
+	<key id="10500272" level="2" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加20\n物理伤害增加9%\n敏捷增加4.5%" feature="JobChange_02" />
+	<key id="10500272" level="3" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加30\n物理伤害增加11%\n敏捷增加6%" feature="JobChange_02" />
+	<key id="10500272" level="4" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加40\n物理伤害增加13%\n敏捷增加7.5%" feature="JobChange_02" />
+	<key id="10500272" level="5" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加50\n物理伤害增加15%\n敏捷增加9%" feature="JobChange_02" />
+	<key id="10500272" level="6" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加60\n物理伤害增加13%\n敏捷增加10.5%" feature="JobChange_02" />
+	<key id="10500272" level="7" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加70\n物理伤害增加13%\n敏捷增加12%" feature="JobChange_02" />
+	<key id="10500272" level="8" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加80\n物理伤害增加21%\n敏捷增加13.5%" feature="JobChange_02" />
+	<key id="10500272" level="9" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加90\n物理伤害增加23%\n敏捷增加15%" feature="JobChange_02" />
+	<key id="10500272" level="10" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加100\n物理伤害增加25%\n敏捷增加16.5%" feature="JobChange_02" />
+	<key id="10500272" level="11" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加110\n物理伤害增加27%\n敏捷增加18%" feature="JobChange_02" />
+	<key id="10500272" level="12" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加120\n物理伤害增加29%\n敏捷增加19.5%" feature="JobChange_02" />
+	<key id="10500281" level="1" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成456%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="2" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成497%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="3" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成538%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="4" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成579%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="5" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成620%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="6" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成661%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="7" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成702%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="8" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成743%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="9" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成784%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="10" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成825%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="11" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成866%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500281" level="12" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成907%的额外伤害，效果持续10秒。" feature="JobChange_02" />
+	<key id="10500291" level="1" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高2%" feature="JobChange_02" />
+	<key id="10500291" level="2" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高4%" feature="JobChange_02" />
+	<key id="10500291" level="3" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高6%" feature="JobChange_02" />
+	<key id="10500291" level="4" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高8%" feature="JobChange_02" />
+	<key id="10500291" level="5" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高10%" feature="JobChange_02" />
+	<key id="10500291" level="6" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高12%" feature="JobChange_02" />
+	<key id="10500291" level="7" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高14%" feature="JobChange_02" />
+	<key id="10500291" level="8" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高16%" feature="JobChange_02" />
+	<key id="10500291" level="9" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高18%" feature="JobChange_02" />
+	<key id="10500291" level="10" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高20%" feature="JobChange_02" />
+	<key id="10500291" level="11" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高22%" feature="JobChange_02" />
+	<key id="10500291" level="12" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高24%" feature="JobChange_02" />
+	<key id="10500293" level="1" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高16%" feature="JobChange_02" />
+	<key id="10500293" level="2" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高22%" feature="JobChange_02" />
+	<key id="10500293" level="3" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高28%" feature="JobChange_02" />
+	<key id="10500293" level="4" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高34%" feature="JobChange_02" />
+	<key id="10500293" level="5" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高40%" feature="JobChange_02" />
+	<key id="10500293" level="6" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高46%" feature="JobChange_02" />
+	<key id="10500293" level="7" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高52%" feature="JobChange_02" />
+	<key id="10500293" level="8" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高58%" feature="JobChange_02" />
+	<key id="10500293" level="9" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高64%" feature="JobChange_02" />
+	<key id="10500293" level="10" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高70%" feature="JobChange_02" />
+	<key id="10500293" level="11" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高76%" feature="JobChange_02" />
+	<key id="10500293" level="12" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高82%" feature="JobChange_02" />
+	<key id="10500295" level="1" name="休息时刻" tooltipDescription="金鹰小队正在休息。\n100秒内金鹰小队、金鹰队长效果免疫" feature="JobChange_02" />
+	<key id="10500296" level="1" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高16%" feature="JobChange_02" />
+	<key id="10500296" level="2" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高22%" feature="JobChange_02" />
+	<key id="10500296" level="3" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高28%" feature="JobChange_02" />
+	<key id="10500296" level="4" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高34%" feature="JobChange_02" />
+	<key id="10500296" level="5" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高40%" feature="JobChange_02" />
+	<key id="10500296" level="6" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高46%" feature="JobChange_02" />
+	<key id="10500296" level="7" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高52%" feature="JobChange_02" />
+	<key id="10500296" level="8" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高58%" feature="JobChange_02" />
+	<key id="10500296" level="9" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高64%" feature="JobChange_02" />
+	<key id="10500296" level="10" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高70%" feature="JobChange_02" />
+	<key id="10500296" level="11" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高76%" feature="JobChange_02" />
+	<key id="10500296" level="12" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高82%" feature="JobChange_02" />
+	<key id="10500298" level="1" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高2%" feature="JobChange_02" />
+	<key id="10500298" level="2" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高4%" feature="JobChange_02" />
+	<key id="10500298" level="3" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高6%" feature="JobChange_02" />
+	<key id="10500298" level="4" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高8%" feature="JobChange_02" />
+	<key id="10500298" level="5" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高10%" feature="JobChange_02" />
+	<key id="10500298" level="6" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高12%" feature="JobChange_02" />
+	<key id="10500298" level="7" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高14%" feature="JobChange_02" />
+	<key id="10500298" level="8" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高16%" feature="JobChange_02" />
+	<key id="10500298" level="9" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高18%" feature="JobChange_02" />
+	<key id="10500298" level="10" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高20%" feature="JobChange_02" />
+	<key id="10500298" level="11" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高22%" feature="JobChange_02" />
+	<key id="10500298" level="12" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高24%" feature="JobChange_02" />
 </ms2>

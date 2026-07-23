@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<key id="1" name="[[keyAction:totalAction]] " />
+	<key id="2" name="[[keyAction:dialogInventory]] " />
+	<key id="3" name="[[keyAction:dialogMyInfo]] " />
+	<key id="4" name="[[keyText:ESC]]" />
+	<key id="5" name="移動滑鼠並打開菜單" />
+	<key id="6" name="打開背包" />
+	<key id="110" name="透過方向鍵 [[keyAction:moveRight]] 來移動" />
+	<key id="119" name="[[keyAction:moveRight]] 使用左側搖桿移動" />
+	<key id="130" name="同時按下方向鍵[[keyAction:moveUp]][[keyAction:moveRight]]並進行移動" />
+	<key id="139" name="[[keyAction:moveRight]] 使用左側搖桿繼續移動" />
+	<key id="140" name="按住[[keyAction:moveUp]][[keyAction:moveRight]]，按下[[keyAction:jump]]來跳過障礙物" />
+	<key id="144" name="移動途中同時按下[[keyAction:jump]]向前跳躍" />
+	<key id="145" name="按住[[keyAction:moveUp]][[keyAction:moveRight]][[keyAction:moveUp]][[keyAction:moveRight]]同時按下[[keyAction:jump]]即可攀爬牆壁" />
+	<key id="146" name="按住[[keyAction:moveUp]]並攀爬牆壁" />
+	<key id="148" name="往牆壁方向衝刺並按下 [[keyAction:jump]] 按鍵，即刻依附在牆上。" />
+	<key id="149" name="[[keyAction:moveUp]] 沿著牆壁向上移動。" />
+	<key id="180" name="要裝備的武器" />
+	<key id="210" name="將背包中持有的武器裝備到武器欄" />
+	<key id="219" name="按下 [[keyAction:gamePadMouseMode]] 切換為滑鼠模式後，可以使用右搖桿裝備武器。" />
+	<key id="260" name="接近結界，按下 [[keyAction:attack]] 按鍵來破壞結界" />
+	<key id="269" name="請接近結界，按下 [[keyAction:attack]] 按鍵來破壞結界。" />
+	<key id="414" name="" feature="SurvivalTutorial" />
+	<key id="415" name="" feature="SurvivalTutorial" />
+	<key id="416" name="" feature="SurvivalTutorial" />
+	<key id="417" name="" feature="SurvivalTutorial" />
+	<key id="418" name="" feature="SurvivalTutorial" />
+	<key id="419" name="" feature="SurvivalTutorial" />
+	<key id="420" name="" feature="SurvivalTutorial" />
+	<key id="421" name="" feature="SurvivalTutorial" />
+	<key id="422" name="" feature="SurvivalTutorial" />
+	<key id="480" name="" feature="SurvivalTutorial" />
+	<key id="481" name="" feature="SurvivalTutorial" />
+	<key id="560" name="" feature="SurvivalTutorial" />
+	<key id="561" name="" feature="SurvivalTutorial" />
+	<key id="600" name="" feature="SurvivalContents03" />
+	<key id="601" name="" feature="SurvivalContents03" />
+	<key id="1010" name="小屋裡面爺爺說的話聽清楚了嗎？" voiceID="ko/Tutorial/1" />
+	<key id="1020" name="請離開小屋，並前往彩虹村。" voiceID="ko/Tutorial/2" />
+	<key id="1030" name="" voiceID="" />
+	<key id="1031" name="" voiceID="" />
+	<key id="1040" name="" />
+	<key id="1050" name="" voiceID="" />
+	<key id="1060" name="" />
+	<key id="1069" name="" />
+	<key id="2020" name="" voiceID="" />
+	<key id="2021" name="" voiceID="" />
+	<key id="2022" name="" />
+	<key id="2030" name="" />
+	<key id="2031" name="" />
+	<key id="2032" name="" />
+	<key id="2060" name="" />
+	<key id="2061" name="" voiceID="" />
+	<key id="2070" name="" voiceID="" />
+	<key id="2090" name="" />
+	<key id="2100" name="" voiceID="" />
+	<key id="2110" name="" />
+	<key id="2120" name="" voiceID="" />
+	<key id="2121" name="" />
+	<key id="2170" name="" />
+	<key id="2190" name="" />
+	<key id="2210" name="" />
+	<key id="2220" name="" />
+	<key id="2900" name="" />
+	<key id="3020" name="" voiceID="" />
+	<key id="3021" name="" voiceID="" />
+	<key id="3030" name="" />
+	<key id="3040" name="" />
+	<key id="3060" name="" />
+	<key id="3070" name="" voiceID="" />
+	<key id="3080" name="" />
+	<key id="3081" name="" />
+	<key id="3110" name="" />
+	<key id="3111" name="" />
+	<key id="3112" name="" />
+	<key id="3113" name="" />
+	<key id="3120" name="" />
+	<key id="3130" name="" />
+	<key id="3131" name="" />
+	<key id="3140" name="" />
+	<key id="3150" name="" voiceID="" />
+	<key id="3160" name="" />
+	<key id="3169" name="" />
+	<key id="3170" name="" voiceID="" />
+	<key id="3172" name="" />
+	<key id="3180" name="" />
+	<key id="3189" name="" />
+	<key id="3190" name="" />
+	<key id="3191" name="" />
+	<key id="3192" name="" />
+	<key id="3199" name="" />
+	<key id="3200" name="" voiceID="" />
+	<key id="3201" name="" voiceID="" />
+	<key id="3210" name="" />
+	<key id="3219" name="" />
+	<key id="3220" name="" voiceID="" />
+	<key id="3230" name="" />
+	<key id="3240" name="" voiceID="" />
+	<key id="3241" name="" voiceID="" />
+	<key id="3250" name="" />
+	<key id="4010" name="" />
+	<key id="4020" name="" voiceID="" />
+	<key id="4021" name="" voiceID="" />
+	<key id="4030" name="" voiceID="" />
+	<key id="4031" name="" voiceID="" />
+	<key id="4032" name="" />
+	<key id="4040" name="" voiceID="" />
+	<key id="4041" name="" />
+	<key id="4050" name="" voiceID="" />
+	<key id="4060" name="" />
+	<key id="4070" name="" />
+	<key id="4080" name="" voiceID="" />
+	<key id="4081" name="" voiceID="" />
+	<key id="4090" name="" />
+	<key id="4100" name="" />
+	<key id="4101" name="" />
+	<key id="4102" name="" />
+	<key id="4110" name="" />
+	<key id="4111" name="" />
+	<key id="4112" name="" />
+	<key id="4120" name="" voiceID="" />
+	<key id="4121" name="" voiceID="" />
+	<key id="4122" name="" voiceID="" />
+	<key id="4130" name="" />
+	<key id="4140" name="" voiceID="" />
+	<key id="4141" name="" />
+	<key id="4150" name="" />
+	<key id="4170" name="" />
+	<key id="5020" name="" />
+	<key id="5030" name="" voiceID="" />
+	<key id="5040" name="" voiceID="" />
+	<key id="5041" name="" voiceID="" />
+	<key id="5042" name="" voiceID="" />
+	<key id="5050" name="" voiceID="" />
+	<key id="5051" name="" voiceID="" />
+	<key id="5052" name="" />
+	<key id="5060" name="" />
+	<key id="5070" name="" voiceID="" />
+	<key id="5080" name="" voiceID="" />
+	<key id="5081" name="" voiceID="" />
+	<key id="5082" name="" />
+	<key id="5090" name="" voiceID="" />
+	<key id="5091" name="" voiceID="" />
+	<key id="5100" name="" voiceID="" />
+	<key id="5101" name="" />
+	<key id="5110" name="" />
+	<key id="5120" name="" voiceID="" />
+	<key id="5121" name="" voiceID="" />
+	<key id="5122" name="" voiceID="" />
+	<key id="5123" name="" />
+	<key id="5130" name="" />
+	<key id="5140" name="" voiceID="" />
+	<key id="5150" name="" />
+	<key id="5160" name="" />
+	<key id="5180" name="" />
+	<key id="5190" name="" voiceID="" />
+	<key id="5191" name="" voiceID="" />
+	<key id="5192" name="" voiceID="" />
+	<key id="5200" name="" />
+	<key id="10000" name="" />
+	<key id="10001" name="" />
+	<key id="10002" name="" />
+	<key id="10010" name="" />
+	<key id="10011" name="" />
+	<key id="10020" name="" />
+	<key id="10021" name="" />
+	<key id="10022" name="" />
+	<key id="10023" name="" />
+	<key id="10030" name="" />
+	<key id="10040" name="" />
+	<key id="10050" name="" />
+	<key id="10051" name="" />
+	<key id="10052" name="" />
+	<key id="10053" name="" />
+	<key id="10054" name="" />
+	<key id="10055" name="" />
+	<key id="10056" name="" />
+	<key id="10057" name="" />
+	<key id="10060" name="" />
+	<key id="10061" name="" />
+	<key id="10062" name="" />
+	<key id="10070" name="" />
+	<key id="10071" name="" />
+	<key id="10080" name="" />
+	<key id="10081" name="" />
+	<key id="10091" name="" />
+	<key id="10092" name="" />
+	<key id="10093" name="" />
+	<key id="10094" name="" />
+	<key id="10095" name="" />
+	<key id="10098" name="" />
+	<key id="10099" name="" />
+	<key id="10100" name="" />
+	<key id="10110" name="" />
+	<key id="10112" name="" />
+	<key id="10113" name="" />
+	<key id="10119" name="" />
+	<key id="10120" name="" />
+	<key id="10121" name="" />
+	<key id="10130" name="" />
+	<key id="10131" name="" />
+	<key id="10140" name="" />
+	<key id="10150" name="" />
+	<key id="10160" name="" />
+	<key id="10161" name="" />
+	<key id="10180" name="" />
+	<key id="10190" name="" />
+	<key id="10200" name="" />
+	<key id="10201" name="" />
+	<key id="10202" name="" />
+	<key id="10210" name="" />
+	<key id="10220" name="" />
+	<key id="10230" name="" />
+	<key id="10240" name="" />
+	<key id="10250" name="" />
+	<key id="10260" name="" />
+	<key id="10270" name="" />
+	<key id="10280" name="" />
+	<key id="10290" name="" />
+	<key id="10300" name="" />
+	<key id="10310" name="" />
+	<key id="10311" name="" />
+	<key id="10320" name="" />
+	<key id="10340" name="" />
+	<key id="10350" name="" />
+	<key id="10360" name="" />
+	<key id="10370" name="" feature="PvPRankingDuelMode" />
+	<key id="10380" name="" />
+	<key id="10381" name="" />
+	<key id="10382" name="" feature="PvPRankingDuelMode" />
+	<key id="10383" name="" feature="PvPRankingDuelMode" />
+	<key id="10384" name="" feature="PvPRankingDuelMode" />
+	<key id="10390" name="" />
+	<key id="10391" name="" />
+	<key id="10400" name="" />
+	<key id="10401" name="" />
+	<key id="10410" name="" />
+	<key id="10420" name="" />
+	<key id="10421" name="" />
+	<key id="10430" name="" />
+	<key id="10440" name="" />
+	<key id="10470" name="" />
+	<key id="10480" name="" />
+	<key id="10481" name="" />
+	<key id="10490" name="" />
+	<key id="10491" name="" />
+	<key id="10501" name="" />
+	<key id="10502" name="" />
+	<key id="10503" name="" />
+	<key id="10510" name="" />
+	<key id="10520" name="" />
+	<key id="10521" name="" />
+	<key id="10522" name="" />
+	<key id="10530" name="" />
+	<key id="10531" name="" />
+	<key id="10532" name="" />
+	<key id="10540" name="" />
+	<key id="10541" name="" />
+	<key id="10542" name="" />
+	<key id="10543" name="" />
+	<key id="10544" name="" feature="PetBattle" />
+	<key id="10545" name="" feature="PetBattle" />
+	<key id="10550" name="" />
+	<key id="10551" name="" />
+	<key id="10552" name="" />
+	<key id="10560" name="" />
+	<key id="10561" name="" />
+	<key id="10570" name="" />
+	<key id="10591" name="" />
+	<key id="10600" name="" />
+	<key id="10630" name="" />
+	<key id="10631" name="" />
+	<key id="10632" name="" />
+	<key id="10633" name="" />
+	<key id="10640" name="" />
+	<key id="10641" name="" />
+	<key id="10650" name="" />
+	<key id="10651" name="" />
+	<key id="10670" name="" />
+	<key id="10671" name="" />
+	<key id="10711" name="" />
+	<key id="10712" name="" />
+	<key id="10720" name="" />
+	<key id="10730" name="" />
+	<key id="10741" name="" />
+	<key id="10742" name="" />
+	<key id="10743" name="" />
+	<key id="10760" name="" />
+	<key id="10761" name="" />
+	<key id="10762" name="" />
+	<key id="10763" name="" />
+	<key id="10764" name="" />
+	<key id="10765" name="" />
+	<key id="10766" name="" />
+	<key id="10860" name="" />
+	<key id="10870" name="" />
+	<key id="10930" name="" feature="GamePad" />
+	<key id="10940" name="" feature="AdventureLevel" />
+	<key id="10950" name="" feature="AdventureLevel" />
+	<key id="10960" name="" feature="MouseContoller" />
+	<key id="10961" name="" feature="MouseContoller" />
+	<key id="10970" name="" feature="GamePad" />
+	<key id="10971" name="" feature="GamePad" />
+	<key id="11100" name="" feature="ChatEmoticon" />
+	<key id="11110" name="" feature="ChatEmoticon" />
+	<key id="11120" name="" feature="ChatEmoticon" />
+	<key id="11210" name="" feature="Event" />
+	<key id="11220" name="" feature="Event" />
+	<key id="20000" name="" />
+	<key id="20001" name="" />
+	<key id="20010" name="" />
+	<key id="20011" name="" />
+	<key id="21000" name="" />
+	<key id="21001" name="" />
+	<key id="21002" name="" />
+	<key id="21004" name="" />
+	<key id="21005" name="" />
+	<key id="21006" name="" />
+	<key id="21010" name="" />
+	<key id="21011" name="" />
+	<key id="21012" name="" />
+	<key id="21013" name="" />
+	<key id="21014" name="" />
+	<key id="21015" name="" />
+	<key id="21016" name="" />
+	<key id="21017" name="" />
+	<key id="22006" name="" />
+	<key id="30000" name="" />
+	<key id="30001" name="" />
+	<key id="40000" name="" />
+	<key id="40003" name="" voiceID="" />
+	<key id="40004" name="" voiceID="" />
+	<key id="40005" name="" voiceID="" />
+	<key id="40007" name="" />
+	<key id="40008" name="" />
+	<key id="40009" name="" />
+	<key id="40010" name="" />
+	<key id="40011" name="" />
+	<key id="40012" name="" />
+	<key id="40013" name="" />
+	<key id="40020" name="" />
+	<key id="40021" name="" />
+	<key id="40022" name="" />
+	<key id="40023" name="" />
+	<key id="50000" name="" />
+	<key id="60010" name="" />
+	<key id="60040" name="" />
+	<key id="60050" name="" />
+	<key id="60060" name="" />
+	<key id="60070" name="" />
+	<key id="60079" name="" />
+	<key id="60080" name="" />
+	<key id="60090" name="" />
+	<key id="60130" name="" />
+	<key id="60140" name="" />
+	<key id="60141" name="" />
+	<key id="60220" name="" />
+	<key id="60230" name="" />
+	<key id="60231" name="" />
+	<key id="60290" name="" />
+	<key id="60300" name="" />
+	<key id="60301" name="" />
+	<key id="60310" name="" />
+	<key id="60311" name="" />
+	<key id="60312" name="" />
+	<key id="60313" name="" />
+	<key id="60314" name="" />
+	<key id="60315" name="" />
+	<key id="60316" name="" />
+	<key id="60340" name="" />
+	<key id="60350" name="" />
+	<key id="60351" name="" />
+	<key id="60360" name="" />
+	<key id="60380" name="" />
+	<key id="60381" name="" />
+	<key id="60390" name="" />
+	<key id="60391" name="" />
+	<key id="60400" name="" />
+	<key id="60410" name="" />
+	<key id="60420" name="" />
+	<key id="60430" name="" />
+	<key id="60460" name="" />
+	<key id="60461" name="" />
+	<key id="60470" name="" />
+	<key id="60480" name="" />
+	<key id="60490" name="" />
+	<key id="60491" name="" />
+	<key id="60500" name="" />
+	<key id="60501" name="" />
+	<key id="60502" name="" />
+	<key id="60510" name="" />
+	<key id="60520" name="" />
+	<key id="60560" name="" />
+	<key id="60570" name="" />
+	<key id="60571" name="" />
+	<key id="60579" name="" />
+	<key id="60590" name="" />
+	<key id="60610" name="" />
+	<key id="60611" name="" />
+	<key id="60612" name="" />
+	<key id="60620" name="" />
+	<key id="60630" name="" />
+	<key id="60631" name="" />
+	<key id="60640" name="" />
+	<key id="60660" name="" />
+	<key id="60669" name="" />
+	<key id="60670" name="" />
+	<key id="60680" name="" />
+	<key id="60681" name="" />
+	<key id="60710" name="" />
+	<key id="60711" name="" />
+	<key id="60720" name="" />
+	<key id="60730" name="" />
+	<key id="60750" name="" />
+	<key id="60751" name="" />
+	<key id="60760" name="" />
+	<key id="60761" name="" />
+	<key id="60770" name="" />
+	<key id="60790" name="" />
+	<key id="60820" name="" />
+	<key id="60850" name="" />
+	<key id="60860" name="" />
+	<key id="60861" name="" />
+	<key id="60920" name="" />
+	<key id="60930" name="" />
+	<key id="60931" name="" />
+	<key id="60939" name="" />
+	<key id="60940" name="" />
+	<key id="60941" name="" />
+	<key id="60949" name="" />
+	<key id="60950" name="" />
+	<key id="60960" name="" />
+	<key id="60961" name="" />
+	<key id="60962" name="" />
+	<key id="60963" name="" />
+	<key id="60969" name="" />
+	<key id="60970" name="" />
+	<key id="60971" name="" />
+	<key id="60980" name="" />
+	<key id="60981" name="" />
+	<key id="61000" name="" />
+	<key id="61001" name="" />
+	<key id="61010" name="" />
+	<key id="61020" name="" />
+	<key id="61030" name="" />
+	<key id="61050" name="" />
+	<key id="61051" name="" />
+	<key id="61052" name="" />
+	<key id="61060" name="" />
+	<key id="61070" name="" />
+	<key id="61071" name="" />
+	<key id="61080" name="" />
+	<key id="61090" name="" />
+	<key id="61101" name="" />
+	<key id="61110" name="" />
+	<key id="61111" name="" />
+	<key id="61112" name="" />
+	<key id="61120" name="" />
+	<key id="61130" name="" />
+	<key id="61131" name="" />
+	<key id="61139" name="" />
+	<key id="61140" name="" />
+	<key id="61160" name="" />
+	<key id="61169" name="" />
+	<key id="61180" name="" />
+	<key id="61181" name="" />
+	<key id="61190" name="" />
+	<key id="61240" name="" />
+	<key id="61270" name="" />
+	<key id="61280" name="" />
+	<key id="61281" name="" />
+	<key id="61300" name="" />
+	<key id="61320" name="" />
+	<key id="61321" name="" />
+	<key id="61330" name="" />
+	<key id="61350" name="" />
+	<key id="61370" name="" />
+	<key id="61379" name="" />
+	<key id="61390" name="" />
+	<key id="61391" name="" />
+	<key id="61400" name="" />
+	<key id="61450" name="" />
+	<key id="61480" name="" />
+	<key id="61490" name="" />
+	<key id="61491" name="" />
+	<key id="61510" name="" />
+	<key id="61530" name="" />
+	<key id="61531" name="" />
+	<key id="61540" name="" />
+	<key id="61550" name="" />
+	<key id="61590" name="" />
+	<key id="61620" name="" />
+	<key id="61630" name="" />
+	<key id="62010" name="" feature="ContentsGuide03" />
+	<key id="62012" name="" feature="ContentsGuide03" />
+	<key id="62013" name="" />
+	<key id="62014" name="" />
+	<key id="62020" name="" feature="ContentsGuide03" />
+	<key id="62022" name="" feature="ContentsGuide03" />
+	<key id="62023" name="" feature="ContentsGuide03" />
+	<key id="62024" name="" feature="ContentsGuide03" />
+	<key id="62025" name="" feature="ContentsGuide03" />
+	<key id="62040" name="" feature="ContentsGuide03" />
+	<key id="62042" name="" feature="ContentsGuide03" />
+	<key id="70001" name="" feature="Club" />
+	<key id="70002" name="" feature="Club" />
+	<key id="81000" name="" feature="FameContents" />
+	<key id="81001" name="" feature="FameContents" />
+	<key id="81002" name="" feature="FameContents" />
+	<key id="81003" name="" feature="FameContents" />
+	<key id="81020" name="" feature="FameContents" />
+	<key id="81021" name="" feature="FameContents" />
+	<key id="81030" name="" feature="FameContents" />
+	<key id="81040" name="" feature="FameContents" />
+	<key id="81041" name="" feature="FameContents" />
+	<key id="81042" name="" feature="FameContents" locale="NA" />
+	<key id="81043" name="" feature="FameContents" />
+	<key id="81050" name="" feature="FameContents" />
+	<key id="81051" name="" feature="FameContents" />
+	<key id="81060" name="" feature="FameContents" />
+	<key id="81061" name="" feature="FameContents" />
+	<key id="81062" name="" feature="FameContents" />
+	<key id="81070" name="" feature="FameContents" />
+	<key id="81071" name="" feature="FameContents" />
+	<key id="81072" name="" feature="LapentaFrontierQuest" />
+	<key id="81073" name="" feature="Kritias_Epic01" />
+	<key id="90000" name="" feature="SurvivalContents01" />
+	<key id="100000" name="" feature="AdventureLevel" />
+	<key id="10003067" name="" />
+	<key id="10010000" name="" />
+	<key id="10010001" name="" />
+	<key id="10010010" name="" />
+	<key id="10010011" name="" />
+	<key id="10010020" name="" />
+	<key id="10010030" name="" />
+	<key id="10010040" name="" />
+	<key id="10010050" name="" />
+	<key id="10010060" name="" />
+	<key id="10010070" name="" />
+	<key id="10011020" name="" />
+	<key id="10011030" name="" />
+	<key id="10011040" name="" />
+	<key id="10011050" name="" />
+	<key id="10011060" name="" />
+	<key id="10011070" name="" />
+	<key id="10011110" name="" />
+	<key id="10011130" name="" />
+	<key id="10011160" name="" />
+	<key id="10011170" name="" />
+	<key id="10011180" name="" />
+	<key id="10011190" name="" />
+	<key id="10011191" name="" />
+	<key id="10011192" name="" />
+	<key id="10011198" name="" />
+	<key id="10011199" name="" />
+	<key id="10011220" name="" />
+	<key id="10011229" name="" />
+	<key id="10011230" name="" />
+	<key id="10011250" name="" />
+	<key id="10011260" name="" />
+	<key id="10011261" name="" />
+	<key id="10011280" name="" />
+	<key id="10011290" name="" />
+	<key id="10011300" name="" />
+	<key id="10011301" name="" />
+	<key id="10011320" name="" />
+	<key id="10011330" name="" />
+	<key id="10011340" name="" />
+	<key id="10011350" name="" />
+	<key id="10012010" name="" />
+	<key id="10012020" name="" />
+	<key id="10012030" name="" />
+	<key id="10012040" name="" />
+	<key id="10012050" name="" />
+	<key id="10012051" name="" />
+	<key id="10012052" name="" />
+	<key id="10012053" name="" />
+	<key id="10012054" name="" />
+	<key id="10012055" name="" />
+	<key id="10012060" name="" />
+	<key id="10013010" name="" />
+	<key id="10013020" name="" />
+	<key id="10013030" name="" />
+	<key id="10013031" name="" />
+	<key id="10013039" name="" />
+	<key id="10013040" name="" />
+	<key id="10013041" name="" />
+	<key id="10013042" name="" />
+	<key id="10013049" name="" />
+	<key id="10013050" name="" />
+	<key id="10013060" name="" />
+	<key id="10013069" name="" />
+	<key id="10013070" name="" />
+	<key id="10013080" name="" />
+	<key id="10013090" name="" />
+	<key id="10013100" name="" />
+	<key id="10013110" name="" />
+	<key id="10013120" name="" />
+	<key id="10013130" name="" />
+	<key id="10013140" name="" />
+	<key id="10013149" name="" />
+	<key id="10013150" name="" />
+	<key id="10013160" name="" />
+	<key id="10013170" name="" />
+	<key id="10013180" name="" />
+	<key id="10014010" name="" />
+	<key id="10014020" name="" />
+	<key id="10014030" name="" />
+	<key id="10014031" name="" />
+	<key id="10014032" name="" />
+	<key id="10014040" name="" />
+	<key id="10015010" name="" />
+	<key id="10015020" name="" />
+	<key id="10015030" name="" />
+	<key id="10015040" name="" />
+	<key id="10020010" name="" feature="Striker" />
+	<key id="10020011" name="" feature="Striker" />
+	<key id="10020012" name="" feature="StrikerSoulBinder" />
+	<key id="10020020" name="" feature="Striker" />
+	<key id="10020021" name="" feature="Striker" />
+	<key id="10021010" name="" feature="Striker" />
+	<key id="10021011" name="" feature="Striker" />
+	<key id="10021012" name="" feature="Striker" />
+	<key id="10021020" name="" feature="Striker" />
+	<key id="10021030" name="" feature="Striker" />
+	<key id="10021040" name="" feature="Striker" />
+	<key id="10022010" name="" feature="Striker" />
+	<key id="10022011" name="" feature="Striker" />
+	<key id="10022020" name="" feature="Striker" />
+	<key id="10022030" name="" feature="Striker" />
+	<key id="10022040" name="" feature="Striker" />
+	<key id="10022050" name="" feature="Striker" />
+	<key id="10022060" name="" feature="Striker" />
+	<key id="10022070" name="" feature="Striker" />
+	<key id="10022071" name="" feature="Striker" />
+	<key id="10022072" name="" feature="Striker" />
+	<key id="10022073" name="" feature="Striker" />
+	<key id="10022079" name="" feature="Striker" />
+	<key id="10022080" name="" feature="Striker" />
+	<key id="10022090" name="" feature="Striker" />
+	<key id="10022091" name="" feature="Striker" />
+	<key id="10022092" name="" feature="Striker" />
+	<key id="10022099" name="" feature="Striker" />
+	<key id="10022100" name="" feature="Striker" />
+	<key id="10022109" name="" feature="Striker" />
+	<key id="10022110" name="" feature="Striker" />
+	<key id="10022120" name="" feature="Striker" />
+	<key id="10022130" name="" feature="Striker" />
+	<key id="10022140" name="" feature="Striker" />
+	<key id="10022150" name="" feature="Striker" />
+	<key id="10022180" name="" feature="Striker" />
+	<key id="10022190" name="" feature="Striker" />
+	<key id="10022210" name="" feature="Striker" />
+	<key id="10023020" name="" feature="Striker" />
+	<key id="10023030" name="" feature="Striker" />
+	<key id="10023040" name="" feature="Striker" />
+	<key id="10023050" name="" feature="Striker" />
+	<key id="10023060" name="" feature="Striker" />
+	<key id="10023090" name="" feature="Striker" />
+	<key id="10023091" name="" feature="Striker" />
+	<key id="10023120" name="" feature="Striker" />
+	<key id="10023121" name="" feature="Striker" />
+	<key id="10023150" name="" feature="Striker" />
+	<key id="10023160" name="" feature="Striker" />
+	<key id="10024010" name="" feature="Striker" />
+	<key id="10024020" name="" feature="Striker" />
+	<key id="10024030" name="" feature="Striker" />
+	<key id="10024040" name="" feature="Striker" />
+	<key id="10024050" name="" feature="Striker" />
+	<key id="10024060" name="" feature="Striker" />
+	<key id="10024070" name="" feature="Striker" />
+	<key id="10024071" name="" feature="Striker" />
+	<key id="10024079" name="" feature="Striker" />
+	<key id="10024080" name="" feature="Striker" />
+	<key id="10024081" name="" feature="Striker" />
+	<key id="10024082" name="" feature="Striker" />
+	<key id="10024090" name="" feature="Striker" />
+	<key id="10024100" name="" feature="Striker" />
+	<key id="10024109" name="" feature="Striker" />
+	<key id="10024110" name="" feature="Striker" />
+	<key id="10024120" name="" feature="Striker" />
+	<key id="10024121" name="" feature="Striker" />
+	<key id="10024130" name="" feature="Striker" />
+	<key id="10025010" name="" feature="Striker" />
+	<key id="10025020" name="" feature="Striker" />
+	<key id="10025030" name="" feature="Striker" />
+	<key id="10025040" name="" feature="Striker" />
+	<key id="10026010" name="" feature="Striker" />
+	<key id="10027010" name="" feature="Striker" />
+	<key id="10028010" name="" feature="Striker" />
+	<key id="10028020" name="" feature="Striker" />
+	<key id="10028030" name="" feature="Striker" />
+	<key id="10028040" name="" feature="Striker" />
+	<key id="10030010" name="" feature="SoulBinder" />
+	<key id="10030020" name="" feature="SoulBinder" />
+	<key id="10030030" name="" feature="SoulBinder" />
+	<key id="10030031" name="" feature="SoulBinder" />
+	<key id="10030032" name="" feature="SoulBinder" />
+	<key id="10030040" name="" feature="SoulBinder" />
+	<key id="10030050" name="" feature="SoulBinder" />
+	<key id="10030051" name="" feature="SoulBinder" />
+	<key id="10030052" name="" feature="SoulBinder" />
+	<key id="10030060" name="" feature="SoulBinder" />
+	<key id="10030070" name="" feature="SoulBinder" />
+	<key id="10030071" name="" feature="SoulBinder" />
+	<key id="10030072" name="" feature="SoulBinder" />
+	<key id="10030079" name="" feature="SoulBinder" />
+	<key id="10030080" name="" feature="SoulBinder" />
+	<key id="10030089" name="" feature="SoulBinder" />
+	<key id="10030090" name="" feature="SoulBinder" />
+	<key id="10030100" name="" feature="SoulBinder" />
+	<key id="10030110" name="" feature="SoulBinder" />
+	<key id="10030120" name="" feature="SoulBinder" />
+	<key id="10030121" name="" feature="SoulBinder" />
+	<key id="10030129" name="" feature="SoulBinder" />
+	<key id="10030130" name="" feature="SoulBinder" />
+	<key id="10030131" name="" feature="SoulBinder" />
+	<key id="10030132" name="" feature="SoulBinder" />
+	<key id="10030140" name="" feature="SoulBinder" />
+	<key id="10030150" name="" feature="SoulBinder" />
+	<key id="10030159" name="" feature="SoulBinder" />
+	<key id="10030160" name="" feature="SoulBinder" />
+	<key id="10031010" name="" feature="SoulBinder" />
+	<key id="10031020" name="" feature="SoulBinder" />
+	<key id="10031030" name="" feature="SoulBinder" />
+	<key id="10031031" name="" feature="SoulBinder" />
+	<key id="10031032" name="" feature="SoulBinder" />
+	<key id="10031040" name="" feature="SoulBinder" />
+	<key id="10031050" name="" feature="SoulBinder" />
+	<key id="10031060" name="" feature="SoulBinder" />
+	<key id="10031061" name="" feature="SoulBinder" />
+	<key id="10031070" name="" feature="SoulBinder" />
+	<key id="10031071" name="" feature="SoulBinder" />
+	<key id="10031080" name="" feature="SoulBinder" />
+	<key id="10031081" name="" feature="SoulBinder" />
+	<key id="10031082" name="" feature="SoulBinder" />
+	<key id="10032010" name="" feature="SoulBinder" />
+	<key id="10032020" name="" feature="SoulBinder" />
+	<key id="10032030" name="" feature="SoulBinder" />
+	<key id="10033010" name="" feature="SoulBinder" />
+	<key id="10034010" name="" feature="SoulBinder" />
+	<key id="10034020" name="" feature="SoulBinder" />
+	<key id="10034030" name="" feature="SoulBinder" />
+	<key id="10035010" name="" feature="SoulBinder" />
+	<key id="10035020" name="" feature="SoulBinder" />
+	<key id="10036010" name="" feature="SoulBinder" />
+	<key id="10036011" name="" feature="SoulBinder" />
+	<key id="10036020" name="" feature="SoulBinder" />
+	<key id="10036030" name="" feature="SoulBinder" />
+	<key id="10036040" name="" feature="SoulBinder" />
+	<key id="10037010" name="" feature="SoulBinder" />
+	<key id="10037020" name="" feature="SoulBinder" />
+	<key id="10037030" name="" feature="SoulBinder" />
+	<key id="20000010" name="" />
+	<key id="20000020" name="" />
+	<key id="20000030" name="" />
+	<key id="20000040" name="" />
+	<key id="20000050" name="" />
+	<key id="20000051" name="" />
+	<key id="20000060" name="" />
+	<key id="20000070" name="" />
+	<key id="20000080" name="" />
+	<key id="20000661" name="" />
+	<key id="20000662" name="" />
+	<key id="20000663" name="" />
+	<key id="20000664" name="" />
+	<key id="20000665" name="" />
+	<key id="20000666" name="" />
+	<key id="20000991" name="" />
+	<key id="20000992" name="" />
+	<key id="20000993" name="" />
+	<key id="20000994" name="" />
+	<key id="20001771" name="" />
+	<key id="20001772" name="" />
+	<key id="20001773" name="" />
+	<key id="20001941" name="" />
+	<key id="20001942" name="" />
+	<key id="20001944" name="" />
+	<key id="20001945" name="" />
+	<key id="20002411" name="" />
+	<key id="20002421" name="" />
+	<key id="20002422" name="" />
+	<key id="20002441" name="" />
+	<key id="20002451" name="" />
+	<key id="20002452" name="" />
+	<key id="20002461" name="" />
+	<key id="20002521" name="" />
+	<key id="20002522" name="" />
+	<key id="20002523" name="" />
+	<key id="20002524" name="" />
+	<key id="20002525" name="" />
+	<key id="20002526" name="" />
+	<key id="20002527" name="" />
+	<key id="20002528" name="" />
+	<key id="20002529" name="" />
+	<key id="20002530" name="" />
+	<key id="20002531" name="" />
+	<key id="20002532" name="" />
+	<key id="20002533" name="" />
+	<key id="20002810" name="" />
+	<key id="20002811" name="" />
+	<key id="20002812" name="" />
+	<key id="20002813" name="" />
+	<key id="20002814" name="" />
+	<key id="20002815" name="" />
+	<key id="20002816" name="" />
+	<key id="20002817" name="" />
+	<key id="20002818" name="" />
+	<key id="20002901" name="" />
+	<key id="20002902" name="" />
+	<key id="20002903" name="" />
+	<key id="20002904" name="" />
+	<key id="20002905" name="" />
+	<key id="20002906" name="" />
+	<key id="20002907" name="" />
+	<key id="20002921" name="" />
+	<key id="20002922" name="" />
+	<key id="20002923" name="" />
+	<key id="20002924" name="" />
+	<key id="20002925" name="" />
+	<key id="20002931" name="" />
+	<key id="20002932" name="" />
+	<key id="20002941" name="" />
+	<key id="20002942" name="" />
+	<key id="20002951" name="" />
+	<key id="20002952" name="" />
+	<key id="20002961" name="" />
+	<key id="20002962" name="" />
+	<key id="20002963" name="" />
+	<key id="20002971" name="" />
+	<key id="20002980" name="" />
+	<key id="20002981" name="" />
+	<key id="20002982" name="" />
+	<key id="20002983" name="" />
+	<key id="20002984" name="" />
+	<key id="20002985" name="" />
+	<key id="20002986" name="" />
+	<key id="20002987" name="" />
+	<key id="20002988" name="" />
+	<key id="20002989" name="" />
+	<key id="20002990" name="" />
+	<key id="20002991" name="" />
+	<key id="20002992" name="" />
+	<key id="20002993" name="" />
+	<key id="20002994" name="" />
+	<key id="20002995" name="" />
+	<key id="20002996" name="" />
+	<key id="20002997" name="" />
+	<key id="20002999" name="" />
+	<key id="20003001" name="" />
+	<key id="20003002" name="" />
+	<key id="20003003" name="" />
+	<key id="20003004" name="" />
+	<key id="20003011" name="" />
+	<key id="20003012" name="" />
+	<key id="20003013" name="" />
+	<key id="20003014" name="" />
+	<key id="20003015" name="" />
+	<key id="20003016" name="" />
+	<key id="20003031" name="" />
+	<key id="20003041" name="" />
+	<key id="20003111" name="" />
+	<key id="20003140" name="" />
+	<key id="20003141" name="" />
+	<key id="20003281" name="" />
+	<key id="20003282" name="" />
+	<key id="20003283" name="" />
+	<key id="20003284" name="" />
+	<key id="20003285" name="" />
+	<key id="20003286" name="" />
+	<key id="20003311" name="" />
+	<key id="20003312" name="" />
+	<key id="20003313" name="" />
+	<key id="20003314" name="" />
+	<key id="20003315" name="" />
+	<key id="20003361" name="" />
+	<key id="20003362" name="" />
+	<key id="20003363" name="" />
+	<key id="20003371" name="" />
+	<key id="20003372" name="" />
+	<key id="20003381" name="" />
+	<key id="20003382" name="" />
+	<key id="20003383" name="" />
+	<key id="20003384" name="" />
+	<key id="20003385" name="" />
+	<key id="20003386" name="" />
+	<key id="20003441" name="" />
+	<key id="20003442" name="" />
+	<key id="20003443" name="" />
+	<key id="20003444" name="" />
+	<key id="20003445" name="" />
+	<key id="20003446" name="" />
+	<key id="20003491" name="" />
+	<key id="20003492" name="" />
+	<key id="20003493" name="" />
+	<key id="20003494" name="" />
+	<key id="20003495" name="" />
+	<key id="20003496" name="" />
+	<key id="20003497" name="" />
+	<key id="20003498" name="" />
+	<key id="20003499" name="" />
+	<key id="20003500" name="" />
+	<key id="20003501" name="" />
+	<key id="20003502" name="" />
+	<key id="20003551" name="" />
+	<key id="20003552" name="" />
+	<key id="20003561" name="" />
+	<key id="20003562" name="" />
+	<key id="20003563" name="" />
+	<key id="20003801" name="" />
+	<key id="20003802" name="" />
+	<key id="20003851" name="" feature="VIPDungeon" />
+	<key id="20020010" name="" feature="Striker" />
+	<key id="20020020" name="" feature="Striker" />
+	<key id="20020030" name="" feature="Striker" />
+	<key id="20020031" name="" feature="Striker" />
+	<key id="20031201" name="" />
+	<key id="20031202" name="" />
+	<key id="20031203" name="" />
+	<key id="20031204" name="" />
+	<key id="20031300" name="" />
+	<key id="20031301" name="" />
+	<key id="20031302" name="" />
+	<key id="20031303" name="" />
+	<key id="20031304" name="" />
+	<key id="20031501" name="" />
+	<key id="20031502" name="" />
+	<key id="20031701" name="" />
+	<key id="20031801" name="" />
+	<key id="20031802" name="" />
+	<key id="20031803" name="" />
+	<key id="20031804" name="" />
+	<key id="20038101" name="" />
+	<key id="20038102" name="" />
+	<key id="20039101" name="" />
+	<key id="20039102" name="" />
+	<key id="20039103" name="" />
+	<key id="20039501" name="" feature="DarkCastle" />
+	<key id="20039502" name="" feature="DarkCastle" />
+	<key id="20039503" name="" feature="DarkCastle" />
+	<key id="20039504" name="" feature="DarkCastle" />
+	<key id="20039601" name="" feature="DarkCastle" />
+	<key id="20039602" name="" feature="DarkCastle" />
+	<key id="20039603" name="" feature="DarkCastle" />
+	<key id="20039604" name="" feature="DarkCastle" />
+	<key id="20039605" name="" feature="DarkCastle" />
+	<key id="20039701" name="" feature="DarkCastle" />
+	<key id="20039702" name="" feature="DarkCastle" />
+	<key id="20039703" name="" feature="DarkCastle" />
+	<key id="20039704" name="" feature="DarkCastle" />
+	<key id="20039705" name="" feature="DarkCastle" />
+	<key id="20039706" name="" feature="ChronicleDungeon60_01" />
+	<key id="20039801" name="" feature="DarkCastle" />
+	<key id="20039802" name="" feature="DarkCastle" />
+	<key id="20039803" name="" feature="DarkCastle" />
+	<key id="20039804" name="" feature="DarkCastle" />
+	<key id="20039805" name="" feature="ChronicleDungeon60_01" />
+	<key id="20039901" name="" feature="DarkCastle" />
+	<key id="20039902" name="" feature="DarkCastle" />
+	<key id="20039903" name="" feature="DarkCastle" />
+	<key id="20039904" name="" feature="DarkCastle" />
+	<key id="20039905" name="" feature="DarkCastle" />
+	<key id="20039906" name="" feature="DarkCastle" />
+	<key id="20039907" name="" feature="ChronicleDungeon60_01" />
+	<key id="20040101" name="" feature="DarkCastle" />
+	<key id="20040102" name="" feature="DarkCastle" />
+	<key id="20040103" name="" feature="DarkCastle" />
+	<key id="20040104" name="" feature="DarkCastle" />
+	<key id="20040105" name="" feature="DarkCastle" />
+	<key id="20040106" name="" feature="DarkCastle" />
+	<key id="20040107" name="" feature="DarkCastle" />
+	<key id="20041001" name="" />
+	<key id="20041002" name="" />
+	<key id="20041003" name="" />
+	<key id="20041004" name="" />
+	<key id="20041005" name="" />
+	<key id="20041006" name="" />
+	<key id="20041007" name="" />
+	<key id="20041008" name="" />
+	<key id="20041009" name="" />
+	<key id="20041010" name="" />
+	<key id="20041011" name="" />
+	<key id="20041012" name="" />
+	<key id="20042001" name="" />
+	<key id="20042002" name="" />
+	<key id="20042003" name="" />
+	<key id="20043001" name="" />
+	<key id="20051001" name="" feature="LapentaDungeon" />
+	<key id="20051002" name="" feature="LapentaDungeon" />
+	<key id="20051003" name="" feature="LapentaDungeon" />
+	<key id="20051004" name="" feature="LapentaDungeon" />
+	<key id="20063041" name="" />
+	<key id="20100691" name="" />
+	<key id="20100701" name="" />
+	<key id="20100702" name="" />
+	<key id="20100703" name="" />
+	<key id="20100704" name="" />
+	<key id="20100705" name="" />
+	<key id="20100706" name="" />
+	<key id="20100707" name="" />
+	<key id="20100708" name="" />
+	<key id="20100709" name="" />
+	<key id="20104901" name="" />
+	<key id="20104902" name="" />
+	<key id="20104903" name="" />
+	<key id="20104904" name="" />
+	<key id="20104905" name="" />
+	<key id="20105101" name="" />
+	<key id="20105201" name="" />
+	<key id="20105202" name="" />
+	<key id="20105203" name="" />
+	<key id="20105204" name="" />
+	<key id="20105205" name="" />
+	<key id="20105401" name="" />
+	<key id="20105402" name="" />
+	<key id="20105403" name="" />
+	<key id="20105404" name="" />
+	<key id="20105405" name="" />
+	<key id="20105406" name="" />
+	<key id="20105407" name="" />
+	<key id="20110001" name="" feature="Kritias_Paika01" />
+	<key id="23000001" name="" />
+	<key id="23000002" name="" />
+	<key id="23000003" name="" />
+	<key id="23000004" name="" />
+	<key id="23000005" name="" />
+	<key id="23000006" name="" />
+	<key id="25100101" name="" />
+	<key id="25100102" name="" />
+	<key id="25100103" name="" />
+	<key id="25100104" name="" />
+	<key id="25100201" name="" />
+	<key id="25100202" name="" />
+	<key id="25100203" name="" />
+	<key id="25100204" name="" />
+	<key id="25100205" name="" />
+	<key id="25100206" name="" />
+	<key id="25101201" name="" />
+	<key id="25101202" name="" />
+	<key id="25101203" name="" />
+	<key id="25101204" name="" />
+	<key id="25200201" name="" />
+	<key id="25200202" name="" />
+	<key id="25200203" name="" />
+	<key id="25200204" name="" />
+	<key id="25200205" name="" />
+	<key id="25200206" name="" />
+	<key id="25200231" name="" />
+	<key id="25200271" name="" />
+	<key id="25200272" name="" />
+	<key id="25200273" name="" />
+	<key id="25200401" name="" />
+	<key id="25200402" name="" />
+	<key id="25200403" name="" />
+	<key id="25200404" name="" />
+	<key id="25200405" name="" />
+	<key id="25200406" name="" />
+	<key id="25200407" name="" />
+	<key id="25200408" name="" />
+	<key id="25200409" name="" />
+	<key id="25200661" name="" />
+	<key id="25200662" name="" />
+	<key id="25200663" name="" />
+	<key id="25200664" name="" />
+	<key id="25200665" name="" />
+	<key id="25200671" name="" />
+	<key id="25200861" name="" />
+	<key id="25200862" name="" />
+	<key id="25200921" name="" />
+	<key id="25200931" name="" feature="DarkCastle" />
+	<key id="25200932" name="" feature="DarkCastle" />
+	<key id="25200941" name="" feature="DarkCastle" />
+	<key id="25200942" name="" feature="DarkCastle" />
+	<key id="25200991" name="" />
+	<key id="25200992" name="" />
+	<key id="25200993" name="" />
+	<key id="25201001" name="" />
+	<key id="25201002" name="" />
+	<key id="25201003" name="" />
+	<key id="25201004" name="" />
+	<key id="25201005" name="" />
+	<key id="25201006" name="" />
+	<key id="25201007" name="" />
+	<key id="25201008" name="" />
+	<key id="25201009" name="" />
+	<key id="25201010" name="" />
+	<key id="25201011" name="" />
+	<key id="25201012" name="" />
+	<key id="25201041" name="" />
+	<key id="25201042" name="" />
+	<key id="25201043" name="" />
+	<key id="25201044" name="" />
+	<key id="25201045" name="" />
+	<key id="25201051" name="" />
+	<key id="25201052" name="" />
+	<key id="25201053" name="" />
+	<key id="25201061" name="" />
+	<key id="25201062" name="" />
+	<key id="25201071" name="" />
+	<key id="25201072" name="" />
+	<key id="25201081" name="" />
+	<key id="25201082" name="" />
+	<key id="25201083" name="" />
+	<key id="25201084" name="" />
+	<key id="25201085" name="" />
+	<key id="25201086" name="" />
+	<key id="25201091" name="" />
+	<key id="25201092" name="" />
+	<key id="25201111" name="" />
+	<key id="25201112" name="" />
+	<key id="25201113" name="" />
+	<key id="25201114" name="" />
+	<key id="25201281" name="" />
+	<key id="25201282" name="" />
+	<key id="25201283" name="" />
+	<key id="25201284" name="" />
+	<key id="25201285" name="" />
+	<key id="25201291" name="" />
+	<key id="25201292" name="" />
+	<key id="25201293" name="" />
+	<key id="25201294" name="" />
+	<key id="25201391" name="" />
+	<key id="25201392" name="" />
+	<key id="25201393" name="" />
+	<key id="25201394" name="" />
+	<key id="25201401" name="" />
+	<key id="25201402" name="" />
+	<key id="25201421" name="" />
+	<key id="25201422" name="" />
+	<key id="25201423" name="" />
+	<key id="25201424" name="" />
+	<key id="25201425" name="" />
+	<key id="25201426" name="" />
+	<key id="25201427" name="" />
+	<key id="25201431" name="" />
+	<key id="25201451" name="" />
+	<key id="25201452" name="" />
+	<key id="25201453" name="" />
+	<key id="25201454" name="" />
+	<key id="25201455" name="" />
+	<key id="25201456" name="" />
+	<key id="25201461" name="" />
+	<key id="25201462" name="" />
+	<key id="25201471" name="" />
+	<key id="25201501" name="" />
+	<key id="25201502" name="" />
+	<key id="25201503" name="" />
+	<key id="25201521" name="" feature="LapentaFrontierQuest" />
+	<key id="25201531" name="" feature="LapentaFrontierQuest" />
+	<key id="25201551" name="" feature="LapentaFrontierQuest" />
+	<key id="25201581" name="" feature="LapentaFrontierQuest" />
+	<key id="25201621" name="" feature="LapentaFrontierQuest" />
+	<key id="25201741" name="" feature="LapentaFrontierQuest" />
+	<key id="25201791" name="" feature="LapentaFrontierQuest" />
+	<key id="25201861" name="" feature="LapentaFrontierQuest" />
+	<key id="25201901" name="" />
+	<key id="25210651" name="" />
+	<key id="26100001" name="" />
+	<key id="26100002" name="" />
+	<key id="26100801" name="" />
+	<key id="26100802" name="" />
+	<key id="26100803" name="" />
+	<key id="26100804" name="" />
+	<key id="26100805" name="" />
+	<key id="26100806" name="" />
+	<key id="26100807" name="" />
+	<key id="26100808" name="" />
+	<key id="26300385" name="" />
+	<key id="26300661" name="" />
+	<key id="26300662" name="" />
+	<key id="26300671" name="" />
+	<key id="26300681" name="" />
+	<key id="26300691" name="" />
+	<key id="26300731" name="" />
+	<key id="26300732" name="" />
+	<key id="26300733" name="" />
+	<key id="26300734" name="" feature="Event" />
+	<key id="26300735" name="" feature="Event" />
+	<key id="26300735" name="" feature="Event" locale="NA" />
+	<key id="26300736" name="" feature="Event" />
+	<key id="26300737" name="" feature="Event" />
+	<key id="26300738" name="" feature="Event" />
+	<key id="26300739" name="" feature="Event" />
+	<key id="26300740" name="" feature="Event" />
+	<key id="26500201" name="" />
+	<key id="26500202" name="" />
+	<key id="26500301" name="" />
+	<key id="26620101" name="" />
+	<key id="26620102" name="" />
+	<key id="26620103" name="" />
+	<key id="26620104" name="" />
+	<key id="26620105" name="" />
+	<key id="26620106" name="" />
+	<key id="26620107" name="" />
+	<key id="26620108" name="" />
+	<key id="26620109" name="" />
+	<key id="26620110" name="" />
+	<key id="26620111" name="" />
+	<key id="26620112" name="" />
+	<key id="26620113" name="" />
+	<key id="28200000" name="" feature="SurvivalContentsTeam" />
+	<key id="28200001" name="" feature="SurvivalContentsTeam" />
+	<key id="28200002" name="" feature="SurvivalContentsTeam" />
+	<key id="28200003" name="" feature="SurvivalContentsTeam" />
+	<key id="28200004" name="" feature="SurvivalContentsTeam" />
+	<key id="28200005" name="" feature="SurvivalContentsTeam" />
+	<key id="28200006" name="" feature="SurvivalContentsTeam" />
+	<key id="28200007" name="" feature="SurvivalContentsTeam" />
+	<key id="28400131" name="" feature="Wedding" />
+	<key id="28400132" name="" feature="Wedding" />
+	<key id="28400133" name="" feature="Wedding" />
+	<key id="28400134" name="" feature="Wedding" />
+	<key id="28400135" name="" feature="Wedding" />
+	<key id="28400136" name="" feature="Wedding" />
+	<key id="28400137" name="" feature="Wedding" />
+	<key id="28400138" name="" feature="Wedding" />
+	<key id="28400139" name="" feature="Wedding" />
+	<key id="28400140" name="" feature="Wedding" />
+	<key id="28400701" name="" feature="Wedding" />
+	<key id="28400702" name="" feature="Wedding" />
+	<key id="28400703" name="" feature="Wedding" />
+	<key id="28400704" name="" feature="Wedding" />
+	<key id="28400705" name="" feature="Wedding" />
+	<key id="28400706" name="" feature="Wedding" />
+	<key id="28400707" name="" feature="Wedding" />
+	<key id="28400708" name="" feature="Wedding" />
+	<key id="28500001" name="" feature="Wedding" />
+	<key id="28500002" name="" feature="Wedding" />
+	<key id="28500010" name="" feature="Wedding" />
+	<key id="29200001" name="" feature="Kritias_Balrog01" />
+	<key id="29200002" name="" feature="Kritias_Inferno01" />
+	<key id="40002793" name="" feature="JobChange_02" />
+	<key id="52001641" name="" feature="LapentaFrontierQuest" />
+	<key id="52001651" name="" feature="LapentaFrontierQuest" />
+	<key id="52001671" name="" feature="LapentaFrontierQuest" />
+	<key id="52001672" name="" feature="LapentaFrontierQuest" />
+	<key id="52001681" name="" feature="LapentaFrontierQuest" />
+	<key id="52001691" name="" feature="LapentaFrontierQuest" />
+	<key id="52001701" name="" feature="LapentaFrontierQuest" />
+	<key id="52001702" name="" feature="LapentaFrontierQuest" />
+	<key id="52001761" name="" feature="LapentaFrontierQuest" />
+	<key id="52001771" name="" feature="LapentaFrontierQuest" />
+	<key id="52001821" name="" feature="LapentaFrontierQuest" />
+	<key id="52001831" name="" feature="LapentaFrontierQuest" />
+	<key id="52001832" name="" feature="LapentaFrontierQuest" />
+	<key id="200023922" name="" feature="LapentaFrontierQuest" />
+	<key id="200023923" name="" feature="LapentaFrontierQuest" />
+</ms2>

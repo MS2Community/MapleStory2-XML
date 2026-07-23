@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="$s_common_text_restrict" value="0-9a-zA-Z가-힣" />
 	<key id="$s_common_confirm" value="확인" />
@@ -100,6 +100,12 @@
 	<key id="$s_talkpanelsetting_user" value="캐릭터 알림" />
 	<key id="$s_talkpanelsetting_community" value="커뮤니티 알림" />
 	<key id="$s_talkpanelsetting_request" value="거래 알림" />
+	<key id="$s_talkpanelsetting_notice_friend" value="친구 알림" />
+	<key id="$s_talkpanelsetting_notice_guild" value="길드 알림" />
+	<key id="$s_talkpanelsetting_notice_party" value="파티 알림" />
+	<key id="$s_talkpanelsetting_notice_club" value="동아리 알림" />
+	<key id="$s_talkpanelsetting_notice_mentoring" value="멘토 알림" />
+	<key id="$s_talkpanelsetting_notice_etc" value="기타 알림" />
 	<key id="$s_talkpanelsetting_system" value="시스템 알림 메시지" />
 	<key id="$s_talkpanelsetting_systemevent" value="이벤트 알림" />
 	<key id="$s_talkpanelsetting_systemnotify" value="시스템 알림" />
@@ -190,6 +196,7 @@
 	<key id="$s_gameoption_maximum" value="최대화" />
 	<key id="$s_gameoption_tab_account" value="계정" />
 	<key id="$s_gameoption_tab_language" value="언어설정" />
+	<key id="$s_gameoption_tab_agreement" value="개인정보 위임" />
 	<key id="$s_gameoption_category_camera" value="조작 및 카메라" />
 	<key id="$s_gameoption_category_interface" value="인터페이스" />
 	<key id="$s_gameoption_category_status" value="상태 정보" />
@@ -206,6 +213,7 @@
 	<key id="$s_gameoption_category_optimizer" value="최적화" />
 	<key id="$s_gameoption_category_account_security" value="보안" />
 	<key id="$s_gameoption_category_language_select" value="언어설정" />
+	<key id="$s_gameoption_category_personealinfo_agreement" value="개인정보 위임" />
 	<key id="$s_gameoption_title" value="환경설정" />
 	<key id="$s_gameoption_resolution" value="해상도" />
 	<key id="$s_gameoption_screenmode" value="화면모드" />
@@ -345,6 +353,7 @@
 	<key id="$s_gameoption_whisperNotify" value="귓속말 거부" />
 	<key id="$s_gameoption_homeRequest" value="집 초대 거부" />
 	<key id="$s_gameoption_coupleEmotionRequest" value="2인 액션 초대 거부" />
+	<key id="$s_gameoption_singleriding" value="2인 탈것 혼자 타기" />
 	<key id="$s_gameoption_muteAll" value="음소거" />
 	<key id="$s_gameoption_playAll" value="항상 사운드 출력하기" />
 	<key id="$s_gameoption_disable_job_sound" value="공통 음성 사용" />
@@ -359,6 +368,7 @@
 	<key id="$s_gameoption_systemSoundStep" value="시스템 음성" />
 	<key id="$s_gameoption_instrumentStep" value="악기 연주" />
 	<key id="$s_gameoption_instrumentStep_isOffBgm" value="악보 연주를 들을 때 배경음 끄기" />
+	<key id="$s_gameoption_charSoundStep" value="캐릭터 음성" />
 	<key id="$s_gameoption_effect" value="효과" />
 	<key id="$s_gameoption_sound_effect" value="효과음" />
 	<key id="$s_gameoption_sound_background" value="배경음악" />
@@ -393,9 +403,15 @@
 	<key id="$s_gameoption_optimizer_show_party" value="파티원 항상 표시" />
 	<key id="$s_gameoption_optimizer_show_guild" value="길드원 항상 표시" />
 	<key id="$s_gameoption_optimizer_show_custom" value="표시할 최대 캐릭터 수" />
-	<key id="$s_gameoption_optimizer_count" value="" />
+	<key id="$s_gameoption_optimizer_count" value="표시할 최대 캐릭터 수" />
 	<key id="$s_gameoption_optimizer_useOptimizer" value="자동 최적화 사용" />
 	<key id="$s_gameoption_optimizer_warning" value="최적화 작업을 수행해 게임을 실행합니다. 플레이\n환경에 따라 원활하게 동작하지 않을 수도 있으니\n게임이 불안정해지면 옵션 체크를 해제해 주세요." />
+	<key id="$s_gameoption_optimizer_show_physx" value="다른 캐릭터 헤어 물리 적용하기" />
+	<key id="$s_gameoption_agreement_personal_info" value="개인정보 해외전송 권한위임" />
+	<key id="$s_gameoption_agreement_radio_agree" value="허용" />
+	<key id="$s_gameoption_agreement_radio_deny" value="거절" />
+	<key id="$s_gameoption_agreement_btn_detail" value="상세보기" />
+	<key id="$s_gameoption_agreement_summary" value="보다 나은 게임 체험을 위해, 본사는 귀하의 게임 로그 등 정보를 [메이플스토리 2]의 개발사인 넥슨에 제공해야 합니다.\n안전성을 위해, 본사는 귀하의 게임 로그 등 정보를 식별화 및 암호화로 처리하여 전송합니다.\n귀하는 넥슨에서 접수한 상기 정보에 대하여, 개인 정보 관련 권리를 행사할 수 있습니다.\n구체적인 규정은 ”상세보기”를 클릭하여 확인하십시오." />
 	<key id="$s_skill_title" value="스킬" />
 	<key id="$s_skill_active" value="액티브" />
 	<key id="$s_skill_passive" value="패시브" />
@@ -500,6 +516,7 @@
 	<key id="$s_gamemenu_btn_systemgroup" value="시스템" />
 	<key id="$s_gamemenu_popup_stampevent" value="스탬프 이벤트" />
 	<key id="$s_gamemenu_popup_attendgift" value="출석 체크" />
+	<key id="$s_gamemenu_popup_longtermattendgift" value="황금\n더키볼" />
 	<key id="$s_gamemenu_popup_galleryevent" value="슈반다의 갤러리" />
 	<key id="$s_gamemenu_popup_rps" value="가위바위보" />
 	<key id="$s_gamemenu_popup_coupledance" value="사랑의 댄스파티" />
@@ -830,6 +847,7 @@
 	<key id="$s_buddy_tab_list" value="친구목록" />
 	<key id="$s_buddy_tab_recvlist" value="받은요청" />
 	<key id="$s_buddy_tab_banlist" value="차단목록" />
+	<key id="$s_buddy_tab_homeblocklist" value="집 차단목록" />
 	<key id="$s_buddy_admit" value="수락" />
 	<key id="$s_buddy_deny" value="거절" />
 	<key id="$s_buddy_cancelbuddy" value="신청 취소" />
@@ -842,6 +860,7 @@
 	<key id="$s_buddy_input_userID_title" value="친구 추가" />
 	<key id="$s_buddy_input_userID_defualt" value="친구 ID 입력" />
 	<key id="$s_buddy_notice_ban" value="차단 시, 상대방의 프로필 이미지, 채팅, 우편, 요청을 보이지 않게 가릴 수 있습니다." />
+	<key id="$s_buddy_notice_homeblock" value="차단 시, 상대방 계정의 모든 캐릭터들이 내 집에 방문하지 못하게 할 수 있습니다." />
 	<key id="$s_buddy_input_banID_title" value="차단" />
 	<key id="$s_buddy_input_banID_default" value="차단 ID 입력" />
 	<key id="$s_buddy_btn_ok" value="확인" />
@@ -850,6 +869,7 @@
 	<key id="$s_buddy_empty_buddy" value="새로운 친구를 찾아보세요." />
 	<key id="$s_buddy_empty_recv" value="받은 요청이 없습니다." />
 	<key id="$s_buddy_empty_ban" value="차단한 캐릭터가 없습니다." />
+	<key id="$s_buddy_empty_homeblock" value="차단한 캐릭터가 없습니다." />
 	<key id="$s_cutscene_skip_scene" value="SKIP" />
 	<key id="$s_cutscene_skip_action" value="SKIP" />
 	<key id="$s_cutscene_skip_state" value="SKIP" />
@@ -954,9 +974,9 @@
 	<key id="$s_tooltip_myinfo_stat_0_5" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;INT&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n위자드/프리스트/소울 바인더의 주요 능력치입니다.\n마법 공격력이 증가하며 마법 저항력에 영향을 줍니다." />
 	<key id="$s_tooltip_myinfo_stat_0_6" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;LUK&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n시프/어쌔신의 주요 능력치입니다.\n위자드/시프/어쌔신/헤비거너의 물리 공격력이 증가하며 크리티컬 확률에 영향을 줍니다." />
 	<key id="$s_tooltip_myinfo_stat_0_7" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;이동속도&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터가 지상에서 이동하는 속도입니다.\n100%가 기본 상태이며 최대 170%까지 상승할 수 있습니다." />
+	<key id="$s_tooltip_myinfo_stat_0_8" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;보호막&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터의 보호막입니다.\n일반적인 경우 HP 대신 보호막을 잃게 됩니다" />
 	<key id="$s_tooltip_myinfo_stat_1_0" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;무기 공격력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n착용하고 있는 오른손 장비의 공격력입니다.\n적을 공격 시 입히는 대미지가 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_1_1" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;전투력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터의 전투력입니다. 적을 공격 시 입히는 대미지가 증가합니다.\n착용 중인 무기의 등급이 높을수록 효율이 증가하며\n무기를 착용하지 않은 경우 효과가 적용되지 않습니다." />
-	<key id="$s_tooltip_myinfo_stat_1_1_kr" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;전투력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터의 전투력입니다.\n적을 공격 시 입히는 대미지가 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_1_2" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;물리 공격력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n적에게 물리 공격 시 입히는 대미지가 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_1_3" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;마법 공격력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n적에게 마법 공격 시 입히는 대미지가 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_1_4" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;방어력 관통&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n적을 공격 시 방어력과 완전 방어를 일부 무시합니다." />
@@ -979,6 +999,9 @@
 	<key id="$s_tooltip_myinfo_stat_1_21" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;공격속도&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n모든 공격의 속도가 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_1_22" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스킬 쿨타임 감소&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n액티브 스킬의 쿨타임이 감소합니다." />
 	<key id="$s_tooltip_myinfo_stat_1_23" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;대인 공격력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다른 플레이어를 공격 시 대미지가 증가합니다." />
+	<key id="$s_tooltip_myinfo_stat_1_24" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;공격속도&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n모든 공격의 속도가 증가합니다." />
+	<key id="$s_tooltip_myinfo_stat_1_25" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스킬 쿨타임 감소&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n액티브 스킬의 쿨타임이 감소합니다." />
+	<key id="$s_tooltip_myinfo_stat_1_26" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;대인 공격력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다른 플레이어를 공격 시 대미지가 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_2_0" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;방어력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n적에게 받는 대미지가 감소합니다." />
 	<key id="$s_tooltip_myinfo_stat_2_1" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;물리 저항력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n적에게 받는 물리 대미지가 감소합니다." />
 	<key id="$s_tooltip_myinfo_stat_2_2" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;마법 저항력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n적에게 받는 마법 대미지가 감소합니다." />
@@ -997,6 +1020,7 @@
 	<key id="$s_tooltip_myinfo_stat_2_15" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;상태 이상 시간 감소&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터의 능력치가 감소하거나 지속적으로 대미지를 입는 효과의 지속시간이 감소합니다." />
 	<key id="$s_tooltip_myinfo_stat_2_16" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;HP 재생력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n일정 시간마다 자연 회복 되는 HP의 양이 증가합니다." />
 	<key id="$s_tooltip_myinfo_stat_2_17" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;대인 방어력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다른 플레이어에게 받는 대미지가 감소합니다." />
+	<key id="$s_tooltip_myinfo_stat_2_18" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;대인 방어력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n다른 플레이어에게 받는 대미지가 감소합니다." />
 	<key id="$s_tooltip_inven_equip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;장비&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n방어구, 장비, 악세서리 아이템을 보관합니다." />
 	<key id="$s_tooltip_inven_skin" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스킨&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n스킨 방어구, 장비, 악세서리 아이템을 보관합니다." />
 	<key id="$s_tooltip_inven_life" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;낚시/연주&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n낚시, 연주 아이템을 보관합니다." />
@@ -1032,6 +1056,7 @@
 	<key id="$s_tooltip_gameoption_account" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;계정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n계정 관련 설정을 할 수 있습니다." />
 	<key id="$s_tooltip_gameoption_language" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;언어설정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n언어를 변경할 수 있습니다." />
 	<key id="$s_tooltip_gameoption_slider_grade" value="{0}단계" />
+	<key id="$s_tooltip_gameoption_agreement" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;개인정보 위임&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n개인정보 관련 설정을 할 수 있습니다." />
 	<key id="$s_tooltip_questguide_close" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;알림창 숨기기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n퀘스트창에서 설정할 수 있습니다." />
 	<key id="$s_tooltip_charcustom_size" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;크기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n크기를 조절할 수 있습니다." />
 	<key id="$s_tooltip_charcustom_length" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;길이&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n길이를 조절할 수 있습니다." />
@@ -1046,6 +1071,7 @@
 	<key id="$s_tooltip_community_tab_list" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;친구목록&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 친구 목록을 보여줍니다." />
 	<key id="$s_tooltip_community_tab_recv" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;받은요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내가 받은 친구 요청을 보여줍니다." />
 	<key id="$s_tooltip_community_tab_ban" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;차단목록&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n차단한 캐릭터 목록을 보여줍니다." />
+	<key id="$s_tooltip_community_tab_homeblock" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;내 집 차단목록&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 집에서 차단한 캐릭터 목록을 보여줍니다." />
 	<key id="$s_tooltip_community_btn_addbuddy" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;친구 추가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터 이름을 입력해 친구를 추가해 보세요." />
 	<key id="$s_tooltip_community_btn_addban" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;차단 추가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터 이름을 입력해 각종 메시지를 차단할 수 있습니다." />
 	<key id="$s_tooltip_community_btn_cancel_buddy" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;신청 취소&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;친구 신청을 취소합니다." />
@@ -1186,6 +1212,7 @@
 	<key id="$s_serverlist_selectmode" value="모드선택" />
 	<key id="$s_regionlist_notice" value="자신이 위치한 지역이 아닌 다른 지역을 선택할 경우, 네트워크 지연 이슈가 발생될 수 있습니다." />
 	<key id="$s_regionlist_prev" value="지역선택" />
+	<key id="$s_delete_account" value="계정삭제" />
 	<key id="$s_skillbook_title" value="스킬" />
 	<key id="$s_skillbook_passive" value="패시브" />
 	<key id="$s_skillbook_upgrade" value="업그레이드 재료" />
@@ -1922,16 +1949,13 @@
 	<key id="$s_dungeon_room_mission" value="랭크 정보" />
 	<key id="$s_dungeon_room_seasonRank_reward" value="주간 랭크 보상" />
 	<key id="$s_dungeon_room_seasonRank_summary" value="주간 랭크 달성도" />
+	<key id="$s_dungeon_room_probability_notice" value="확률형 아이템 포함" />
 	<key id="$s_dungeon_room_united_weekly_count" value="주간 보상 획득 횟수" />
 	<key id="$s_dungeon_room_shadow_expedition" value="그림자 원정대" />
 	<key id="$s_dungeon_room_maxPlayer" value="최대 인원" />
 	<key id="$s_dungeon_room_high_score" value="최고 기록" />
 	<key id="$s_dungeon_room_season_score" value="주간 최고 기록" />
 	<key id="$s_dungeon_room_findHelper_icon_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;코인 획득 횟수&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;초보 모험가와 함께 던전을 클리어하면 던전 보상 획득 횟수와 관계 없이 친절한 기사 코인을 획득할 수 있으며,\n획득한 코인을 퀸즈타운의 스파르탄에게 가져가서 다양한 아이템으로 교환할 수 있습니다.\n\n친절한 기사 코인은 하루에 최대 10회까지만 획득할 수 있습니다.\n코인 획득 횟수는 매일 자정 초기화됩니다." feature="FindDungeonHelp" />
-	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 10회 이상이 되면 숙련 모험가가 될 수 있습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도\n50레벨 이상이 되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" />
-	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 일정 이상이 되면 숙련 모험가가 될 수 있습니다.\n단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도 50레벨 이상이\n되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" locale="CN" />
-	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 일정 이상이 되면 숙련 모험가가 될 수 있습니다.\n&lt;FONT color=&apos;#00AAEF&apos;&gt;- 모험[일반/어려움] : 10회 이상\n- 카오스 레이드 이상 : 30회 이상\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도\n50레벨 이상이 되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" locale="KR" />
-	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 일정 이상이 되면 숙련 모험가가 될 수 있습니다.\n&lt;FONT color=&apos;#00AAEF&apos;&gt;- 모험[일반/어려움] : 10회 이상\n- 카오스 레이드 이상 : 30회 이상\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도\n50레벨 이상이 되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" locale="JP" />
 	<key id="$s_dungeon_room_change_expert_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;숙련 모험가 되기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n숙련 모험가가 되기 위한 던전 클리어 횟수를 충족하였습니다.\n숙련 모험가가 되어 초보 모험가와 함께 던전을 클리어하면 \n추가 보상을 획득할 수 있습니다.\n버튼을 눌러 숙련 모험가가 되어 보세요." />
 	<key id="$s_dungeon_room_findHelper_event" value="코인 2배 획득 이벤트" feature="FindDungeonHelp" />
 	<key id="$s_dungeon_room_findMember_button" value="파티원 요청" feature="FindDungeonHelp" />
@@ -2068,6 +2092,12 @@
 	<key id="$s_meratmarket_text_empty_search" value="검색 결과가 없습니다." />
 	<key id="$s_meratmarket_text_limited_soldout" value="판매 종료" />
 	<key id="$s_meratmarket_text_limited_expired" value="판매 종료" />
+	<key id="$s_meratmarket_text_changeable_comming_soon" value="Coming Soon..." />
+	<key id="$s_meratmarket_text_changeable_remainTime" value="남은 시간 : {0}" />
+	<key id="$s_meratmarket_text_changeable_nextTime" value="다음 판매까지 : {0}" />
+	<key id="$s_meratmarket_text_changeable_extra_button_label" value="상품 설명" />
+	<key id="$s_meratmarket_text_random_payback_check" value="보너스 확인하기" />
+	<key id="$s_meratmarket_text_random_sale_check" value="할인가격 확인" />
 	<key id="$s_meratmarket_market_retract" value="청약 철회" />
 	<key id="$s_meratmarket_check_enable_design" value="등록 가능한 디자인 아이템만 보기" />
 	<key id="$s_meratmarket_check_agree_terms" value="주의 사항을 충분히 읽었으며, 이용에 동의합니다." />
@@ -2172,6 +2202,7 @@
 	<key id="$s_cashshop_btn_basket" value="장바구니" />
 	<key id="$s_cashshop_btn_cash_charge" value="충전하기" />
 	<key id="$s_cashshop_inven_info" value="캐시 창고의 아이템을 소지품으로 옮겨야 사용할 수 있습니다." />
+	<key id="$s_cashshop_refund" value="직접 구입한 아이템 중 캐시 창고에 보관된 아이템은\n&lt;FONT color=&apos;#FF5F5F&apos; size=&apos;15&apos; &gt;구입 후 7일 이내&lt;/font&gt;에 &lt;FONT color=&apos;#FF5F5F&apos; size=&apos;15&apos; &gt;청약철회&lt;/font&gt;를 할 수 있습니다.\n&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;(단, 소지품창으로 옮긴 후에는 청약철회를 할 수 없습니다.)&lt;/font&gt;" />
 	<key id="$s_cashshop_inven_name" value="캐시 창고" />
 	<key id="$s_cashshop_product_empty" value="" />
 	<key id="$s_cashshop_basket_select_all" value="전체선택" />
@@ -2307,6 +2338,7 @@
 	<key id="$s_pvp_team_result_msg_pillage" value="약탈" />
 	<key id="$s_pvp_team_score_detail" value="상세정보" />
 	<key id="$s_observe_observing_target" value="현재 {0}님의 플레이를 관전 중입니다." />
+	<key id="$s_observe_observing_center" value="현재 중앙 관전 카메라로 관전 중입니다." />
 	<key id="$s_observe_quit_observe" value="관전모드 종료하기" />
 	<key id="$s_survival_observe_observing_target" value="현재 {0}님의 플레이를 관전 중입니다." feature="SurvivalContents01" />
 	<key id="$s_survival_observe_quit_observe" value=" 종료하기 " feature="SurvivalContents01" />
@@ -2824,15 +2856,10 @@
 	<key id="$s_bluemarble_tag_starting" value="출발" />
 	<key id="$s_bluemarble_tag_paradise" value="보물창고" />
 	<key id="$s_bluemarble_tag_worldtour" value="세계여행" />
+	<key id="$s_bluemarble_tag_trap" value="감옥" />
 	<key id="$s_bluemarble_complete_count" value="누적 완주 횟수 :" />
 	<key id="$s_bluemarble_warning" value="주사위를 던지면 해님 주화 1개가 소모됩니다." />
-	<key id="$s_bluemarble_warning" value="주사위를 던지면 눈꽃 주화 1개가 소모됩니다." feature="Event" locale="CN" />
-	<key id="$s_bluemarble_warning" value="주사위를 던지면 에네르 주화 2개가 소모됩니다." locale="NA" />
-	<key id="$s_bluemarble_warning" value="주사위를 던지면 메이플 코인 1개가 소모됩니다." feature="Event" locale="JP" />
 	<key id="$s_bluemarble_coin_count" value="소지한 주화 개수 :" />
-	<key id="$s_bluemarble_coin_count" value="소지한 주화 개수 :" feature="Event" locale="CN" />
-	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" locale="NA" />
-	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" feature="Event" locale="JP" />
 	<key id="$s_bluemarble_dice_result" value="{0}칸 이동!" />
 	<key id="$s_bluemarble_notify_action_fail" value="꽝!! 다음엔 잘될꺼야" />
 	<key id="$s_bluemarble_notify_action_trap" value="숫자 {0} 이상이 되면 석방해주지!" />
@@ -2897,6 +2924,8 @@
 	<key id="$s_marketbill_notice_meratmarket" value="디자이너스샵에서 구입한 아이템 중에서 정책을 위반한 아이템이 있다면 해당 아이템의 디자인이 사라지고 사용할 수 없게 됩니다.\n아이템을 구입할 때 사용한 메럿은 3일 내 우편을 통해 지급됩니다." />
 	<key id="$s_marketbill_notice_cashshop" value="캐시샵에서 구입한 아이템은 캐시 창고로 이동되며, 소지품으로 옮겨야 사용할 수 있습니다." />
 	<key id="$s_marketbill_notice_cashshop_gift" value="보낸 선물은 선물을 받은 사람의 캐시 창고에서 확인할 수 있습니다." locale="KR" />
+	<key id="$s_marketbill_text_probability" value="포획 확률정보" />
+	<key id="$s_marketbill_tooltip_probability" value="확률정보는 공식 홈페이지에서 확인할 수 있습니다." />
 	<key id="$s_mastery_dialog_title" value="생활 기술" feature="Mastery" />
 	<key id="$s_mastery_guide_start" value="시작~!" feature="Mastery" />
 	<key id="$s_mastery_dialog_main_tab_gathering" value="생산" feature="Mastery" />
@@ -2978,6 +3007,8 @@
 	<key id="$s_home_option_title" value="실내 권한 설정" />
 	<key id="$s_home_option_text_public" value="공개 설정" />
 	<key id="$s_home_option_text_public_all" value="누구나" />
+	<key id="$s_home_option_text_private" value="비공개" />
+	<key id="$s_home_option_text_private_msg" value="비공개 상태에서는 다른 캐릭터가 집에 방문할 수 없습니다.\n다른 캐릭터를 초대하려면 공개 설정을 변경해주세요." />
 	<key id="$s_home_option_text_public_password" value="비밀번호 입력" />
 	<key id="$s_home_option_text_control" value="조작 설정" />
 	<key id="$s_home_option_text_control_skill" value="스킬 사용하기" />
@@ -3114,6 +3145,7 @@
 	<key id="$s_item_merge_title" value="아이템 초월" />
 	<key id="$s_item_merge_do" value="아이템 초월" />
 	<key id="$s_item_merge_reset" value="계속하기" />
+	<key id="$s_item_merge_select_option" value="옵션 적용하기" />
 	<key id="$s_item_merge_select_mergeitem" value="초월할 장비를 선택해 주세요." />
 	<key id="$s_item_merge_select_ingredient" value="초월 재료를 선택해 주세요." />
 	<key id="$s_item_merge_revert_title" value="초월 제거 수정" />
@@ -3121,6 +3153,8 @@
 	<key id="$s_item_merge_revert_warn" value="초월 제거 수정과 같은 등급 아이템의 옵션만 제거됩니다. 제거 시 초월 옵션이 사라집니다." />
 	<key id="$s_item_merge_revert_ok" value="제거" />
 	<key id="$s_item_merge_ingredients" value="재료 아이템" feature="ItemMerge" />
+	<key id="$s_item_merge_select_option_msg1" value="적용할 추가 옵션을 선택하세요." feature="ItemMerge" />
+	<key id="$s_item_merge_select_option_msg2" value="선택하지 않으면 현재 옵션이 유지됩니다." feature="ItemMerge" />
 	<key id="$s_loading_movechannel_message" value="지금 이동 중입니다. 잠시만 기다려주세요." />
 	<key id="$s_system_shop_auto_lure" value="자동 미끼 사용" />
 	<key id="$s_ugcmodelhouse_dialog_title" value="모델 하우스" />
@@ -3238,11 +3272,10 @@
 	<key id="$s_selectsuperworldchat_use_coupon" value="사용할 슈퍼 월드 대화 쿠폰 1개를 선택해주세요." />
 	<key id="$s_selectsuperworldchat_select_button" value="선택완료" />
 	<key id="$s_gallery_title" value="슈반다의 크리스마스 갤러리" />
+	<key id="$s_gallery_title" value="봄맞이 슈반다의 갤러리" feature="23_04" />
 	<key id="$s_gallery_card_open_count" value="슈반다의 카드 미션" />
-	<key id="$s_gallery_desc_1" value="2020년 1월 16일 점검 전까지!" locale="KR" />
-	<key id="$s_gallery_desc_1" value="2019년 1월 10일 점검 전까지!" locale="CN" />
-	<key id="$s_gallery_desc_1" value="2019년 12월 31일 23시 59분 59초까지!" locale="NA" />
-	<key id="$s_gallery_desc_1" value="2020년 1월 1일 밤 12시까지!" locale="JP" />
+	<key id="$s_gallery_desc_1" value="2023년 2월 09일 점검 전까지!" />
+	<key id="$s_gallery_desc_1" value="2023년 5월 11일 점검 전까지!" feature="23_04" />
 	<key id="$s_gallery_desc_2" value="모든 미션을 완료하고 최종 보상을 획득하세요." />
 	<key id="$s_gallery_board_reward_button" value="보상받기" />
 	<key id="$s_gallery_board_reward_title" value="최종 보상" />
@@ -3339,7 +3372,7 @@
 	<key id="$s_maple_survival_search_message" value="신청 중..." feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season" value="이벤트 시즌" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season_reward" value="보상" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_season_reward" value="보상" locale="NA" feature="SurvivalContents01" />
+	<key id="$s_maple_survival_season_reward" value="보상" feature="SurvivalContents01" locale="NA" />
 	<key id="$s_maple_survival_season_reward_deatil" value="시즌 보상은 매주 목요일 점검 시 우편으로 지급합니다.\n이벤트 시즌 동안 달성한 챔피언 레벨은 추후 초기화됩니다." feature="SurvivalContents01" />
 	<key id="$s_maple_survival_season_reward_view" value="시즌 보상 보기" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_survival_level" value="챔피언 레벨" feature="SurvivalContents01" />
@@ -3361,9 +3394,9 @@
 	<key id="$s_maple_survival_not_season_rating" value="프리 시즌" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_result_bottom_title" value="" feature="SurvivalContents01" />
 	<key id="$s_maple_survival_result_bottom_level_up" value="Level Up" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_open_time" value="운영시간 : 오후 5시 ~ 오후 11시" locale="CN" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_open_time" value="운영시간 : 오후 5시 ~ 오후 11시" locale="KR" feature="SurvivalContents01" />
-	<key id="$s_maple_survival_open_time" value="" locale="NA" feature="SurvivalContents01" />
+	<key id="$s_maple_survival_open_time" value="운영시간 : 오후 5시 ~ 오후 11시" feature="SurvivalContents01" locale="CN" />
+	<key id="$s_maple_survival_open_time" value="운영시간 : 오후 5시 ~ 오후 11시" feature="SurvivalContents01" locale="KR" />
+	<key id="$s_maple_survival_open_time" value="" feature="SurvivalContents01" locale="NA" />
 	<key id="$s_adventure_level_level" value="{0} 레벨" />
 	<key id="$s_adventure_level_dialog_level" value="Lv. {0}" />
 	<key id="$s_adventure_level_ability_max_level" value="&lt;FONT color=&apos;#d659ff&apos; &gt;MAX&lt;/FONT&gt;" />
@@ -3379,7 +3412,7 @@
 	<key id="$s_world_champion_explain3" value="&lt;FONT color=&apos;#ffd200&apos;&gt;누적 레벨 보상&lt;/FONT&gt;: 차주 월요일~일요일 우편 수령" feature="WorldChampionMushroom" />
 	<key id="$s_world_champion_explain4" value="&lt;FONT color=&apos;#ffd200&apos;&gt;랭킹 보상&lt;/FONT&gt;: 다음 점검 후 우편 수령" feature="WorldChampionMushroom" />
 	<key id="$s_world_champion_move_field" value="출현 장소로 이동하기" />
-	<key id="$s_burning_levelup_event_desc_btn" value="버닝 이벤트" locale="" feature="Event" />
+	<key id="$s_burning_levelup_event_desc_btn" value="버닝 이벤트" feature="Event" />
 	<key id="$stormbar_meter" value="{0}M" />
 	<key id="$s_change_job_btn_exit" value="ESC" />
 	<key id="$s_change_job_btn_change" value="전직하기" />
@@ -3447,7 +3480,7 @@
 	<key id="$s_homemenu_dialog_blueprintimport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 불러오기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이미 저장되어 있는 블루프린트 도면을 불러와서 현재 실내에 적용할 수 있습니다." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintexport" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 제작하기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n현재 실내의 꾸며진 모습을 블루프린트 아이템으로 제작할 수 있습니다." feature="Blueprint" />
 	<key id="$s_homemenu_dialog_blueprintshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;블루프린트 샵&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n디자이너스 샵의 판매 중인 블루프린트를 확인할 수 있습니다." feature="BlueprintMarket" />
-	<key id="$s_sidepopup_fieldwar_enter" value="입장하기" feature="" />
+	<key id="$s_sidepopup_fieldwar_enter" value="입장하기" />
 	<key id="$s_collect_item_group_event_dialog_title" value="메타 배지 더하기 " feature="Event" locale="KR" />
 	<key id="$s_collect_item_group_event_dialog_title" value="메타 배지 더하기" feature="Event" locale="CN" />
 	<key id="$s_collect_item_group_event_dialog_title" value="메타 배지 더하기 " feature="GemMeta" locale="JP" />
@@ -3457,9 +3490,7 @@
 	<key id="$s_collect_item_group_event_dialog_desc2" value="* 더하기 보상을 받아도 더하기 재료 아이템이 사라지는 것은 아닙니다." feature="Event" locale="KR" />
 	<key id="$s_collect_item_group_event_dialog_desc2" value="* 더하기 보상을 받아도 더하기 재료 아이템이 사라지는 것은 아닙니다." feature="Event" locale="CN" />
 	<key id="$s_collect_item_group_event_dialog_desc2" value="* 더하기 보상을 받아도 더하기 재료 아이템은 사라지지 않습니다." feature="GemMeta" locale="JP" />
-	<key id="$s_collect_item_group_event_dialog_guide" value="사냥, 연주, 낚시 등에서 메타 코어를 모으고 더하기를 완료하세요. 더 좋은 능력치의 메타 배지를 가질 수 있습니다!" feature="Event" locale="KR" />
-	<key id="$s_collect_item_group_event_dialog_guide" value="사냥, 연주, 낚시, 던전 클리어 등으로 메타 코어를 모으고 더하기를 완료하세요. 더 좋은 능력치의 메타 배지를 가질 수 있습니다!" feature="Event" locale="CN" />
-	<key id="$s_collect_item_group_event_dialog_guide" value="던전 클리어, 필드 보스 처치, 미니게임 우승하기 등으로 메타 코어를 모으고 더하기를 완료하세요. 더 좋은 능력치의 메타 배지로 진화됩니다!" feature="GemMeta" locale="JP" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="사냥, 연주, 낚시로 메타 코어를 모으고 더하기를 완료하세요. 더 좋은 능력치의 메타 배지를 가질 수 있습니다!" feature="Event" />
 	<key id="$s_collect_item_group_event_dialog_recieve_button" value="더하기 보상 받기" feature="Event" />
 	<key id="$s_chat_emoticon_title" value="이모티콘" feature="ChatEmoticon" />
 	<key id="$s_chat_emoticon_empty_message" value="즐겨찾기 이모티콘이 없습니다.\n이모티콘을 등록해보세요." feature="ChatEmoticon" />
@@ -3529,7 +3560,7 @@
 	<key id="$s_weddinghall_time_11" value="11시" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_title" value="결혼식 예약" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_warn" value="주의사항" feature="Wedding" />
-	<key id="$s_weddinghall_reservation_warn_tooltip" value='※결혼 시작 시간을 예약합니다. 매시 정각으로 예약할 수 있으며, 시작 전후 5분간 입장할 수 있습니다.\n\n※결혼식을 예약한 시간 전후 5분 이내에 예약한 결혼식장에 결혼 대상자 2명이 모두 들어와서, 주례에게 말을 걸어 결혼 시작을 하지 않을 경우 결혼은 자동 취소됩니다. 이 경우, 예약에 사용한 비용은 환불되지 않으며, 입장했던 하객들도 모두 퇴장됩니다.\n\n※결혼식 예약 변경이나 취소는 결혼식 시작 3시간 전까지만 가능합니다. 결혼식 시간이 낮인지, 밤인지에 따라 맴의 모습과 답례품이 변화됩니다. 예약하고 싶은 시간을 선택할 때 참고해 주세요.\n&lt;font color=&apos;#FF5F5F&apos;&gt;\n\n※결혼식 예약 비용은 예약을 진행하는 캐릭터가 소비합니다. 예약 취소 등의 이유로 결혼식 비용을 환불받게 될 경우, 비용을 소비한 캐릭터에게 소비한 만큼을 환불해 드립니다.&lt;/font&gt;\n\n&lt;font color=&apos;#FF5F5F&apos;&gt;※결혼식을 예약한 시간이 게임점검을 비롯한 게임에 접속할 수 없는 특수한 시간과 겹쳐 부득이하게 결혼식이 자동 취소된 경우, 결혼 예약에 사용된 메럿을 환불해 드립니다. 처리는 일주일 가량 소요될 수 있습니다.&lt;/font&gt;&quot;' feature="Wedding" />
+	<key id="$s_weddinghall_reservation_warn_tooltip" value="※결혼 시작 시간을 예약합니다. 매시 정각으로 예약할 수 있으며, 시작 전후 5분간 입장할 수 있습니다.\n\n※결혼식을 예약한 시간 전후 5분 이내에 예약한 결혼식장에 결혼 대상자 2명이 모두 들어와서, 주례에게 말을 걸어 결혼 시작을 하지 않을 경우 결혼은 자동 취소됩니다. 이 경우, 예약에 사용한 비용은 환불되지 않으며, 입장했던 하객들도 모두 퇴장됩니다.\n\n※결혼식 예약 변경이나 취소는 결혼식 시작 3시간 전까지만 가능합니다. 결혼식 시간이 낮인지, 밤인지에 따라 맴의 모습과 답례품이 변화됩니다. 예약하고 싶은 시간을 선택할 때 참고해 주세요.\n&lt;font color=&apos;#FF5F5F&apos;&gt;\n\n※결혼식 예약 비용은 예약을 진행하는 캐릭터가 소비합니다. 예약 취소 등의 이유로 결혼식 비용을 환불받게 될 경우, 비용을 소비한 캐릭터에게 소비한 만큼을 환불해 드립니다.&lt;/font&gt;\n\n&lt;font color=&apos;#FF5F5F&apos;&gt;※결혼식을 예약한 시간이 게임점검을 비롯한 게임에 접속할 수 없는 특수한 시간과 겹쳐 부득이하게 결혼식이 자동 취소된 경우, 결혼 예약에 사용된 메럿을 환불해 드립니다. 처리는 일주일 가량 소요될 수 있습니다.&lt;/font&gt;&quot;" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_publicable" value="공개 여부" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_public" value="결혼식 알림판에 일정 공개" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_private" value="청첩장, 채팅으로만 초대" feature="Wedding" />
@@ -3603,14 +3634,99 @@
 	<key id="$s_payback_dialog_buy_product_btn" value="구입하러 가기" feature="Payback" />
 	<key id="$s_payback_dialog_status_title" value="페이백 달성 현황" feature="Payback" />
 	<key id="$s_gamemenu_btn_payback" value="페이백" feature="Payback" />
-	<key id="$s_itemgacha_dialog_single_open" value="한 번 열기" feature="" />
-	<key id="$s_itemgacha_dialog_multi_open" value="10회 열기" feature="" />
-	<key id="$s_itemgacha_dialog_probability" value="확률" feature="" />
-	<key id="$s_itemgacha_dialog_coinshop_open" value="코인샵" feature="" />
-	<key id="$s_itemgacha_dialog_show_effect" value="연출 보지 않기" feature="" />
+	<key id="$s_itemgacha_dialog_single_open" value="한 번 열기" />
+	<key id="$s_itemgacha_dialog_multi_open" value="10회 열기" />
+	<key id="$s_itemgacha_dialog_probability" value="확률" />
+	<key id="$s_itemgacha_dialog_coinshop_open" value="코인샵" />
+	<key id="$s_itemgacha_dialog_show_effect" value="연출 보지 않기" />
 	<key id="$s_unlimited_enchant_dialog_title" value="한계돌파 가능한 장비" feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_notice" value="한계돌파할 장비 아이템을 선택하세요" feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_desc" value="장비에 숨겨져 있는 힘을 끌어내어\n기존의 한계를 뛰어넘는 장비로 전환합니다.\n&lt;font color=&apos;#ec686e&apos;&gt;한계를 돌파할 장비 아이템을 선택하세요&lt;/font&gt;\n\n한계돌파는 15강 파이어 프리즘 무기만 가능합니다.\n한계 돌파시 랜덤 옵션은 유지됩니다.\n한계돌파 10단계마다 강력한 힘이 추가됩니다." feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_enchant" value="한계돌파" feature="UnlimitedEnchant" />
 	<key id="$s_unlimited_enchant_dialog_retry" value="다시하기" feature="UnlimitedEnchant" />
+	<key id="$s_longtermattendgift_dialog_reward" value="보상 목록" />
+	<key id="$s_longtermattendgift_dialog_state" value="나의 현황" />
+	<key id="$s_longtermattendgift_dialog_btn_attendance" value="더키볼 넣기" />
+	<key id="$s_longtermattendgift_dialog_current_point" value="넣지 않은 더키볼" />
+	<key id="$s_longtermattendgift_dialog_possible_point" value="열린 빈칸" />
+	<key id="$s_random_coupon_payback_text" value="오늘의 메럿 페이백!" />
+	<key id="$s_random_coupon_sale_text" value="오늘의 할인 혜택!" />
+	<key id="$s_lead_skill_title" value="리드 스킬" />
+	<key id="$s_lead_skill_dialog_lefttop_skill_level" value="LV.{0}" />
+	<key id="$s_lead_skill_dialog_from_char" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:로,으로$ 부터 효과 받는 중" />
+	<key id="$s_lead_skill_dialog_from_char_fail" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:로,으로$ 부터 효과 받지 못하는 중" />
+	<key id="$s_lead_skill_dialog_char_unlimited_level" value="한계돌파 {0} 단계" />
+	<key id="$s_quest_guide_tooltip_party_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;寻找队伍&lt;/FONT&gt;\n\n招募到一起进入副本的队员后，即可立即前往。\n已有队伍但仍想继续寻找队员时，\n也请点击&lt;FONT color=&apos;#45D1FF&apos;&gt;[寻找队伍]&lt;/FONT&gt;。\n\n想要以当前队伍立即进入副本，\n可以在副本信息中点击&lt;FONT color=&apos;#45D1FF&apos;&gt;[以当前队伍入场]&lt;/FONT&gt;按钮。" feature="DirectQuestFindParty" />
+	<key id="$s_gamemenu_popup_survival" value="マッシュキングチャンピオンシップ" feature="SurvivalContents01" />
+	<key id="$s_gamemenu_popup_mushking_royal" value="マッシュキングロイヤル" feature="SurvivalContents03" />
+	<key id="$s_tooltip_myinfo_stat_1_1_kr" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;전투력&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n캐릭터의 전투력입니다.\n적을 공격 시 입히는 대미지가 증가합니다." />
+	<key id="$s_achieve_disabled" value="KORFLASH_$S_ACHIEVE_DISABLED_VALUE:[F]FoundersPackMode" feature="FoundersPackMode" />
+	<key id="$s_mesoMarket_search_sale_meso" value="Meso Price" feature="MesoMarketNA" locale="NA" />
+	<key id="$s_mesoMarket_myToken" value="KORFLASH_$S_MESOMARKET_MYTOKEN_VALUE:[F]MesoMarketNA" feature="MesoMarketNA" />
+	<key id="$s_mesoMarket_btn_detail" value="KORFLASH_$S_MESOMARKET_BTN_DETAIL_VALUE:[F]MesoMarketNA" feature="MesoMarketNA" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 10회 이상이 되면 숙련 모험가가 될 수 있습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도\n50레벨 이상이 되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" />
+	<key id="$s_token_pocket_meso_market_token_tooltip" value="KORFLASH_$S_TOKEN_POCKET_MESO_MARKET_TOKEN_TOOLTIP_VALUE:[F]MesoMarketToken" feature="MesoMarketToken" />
+	<key id="$s_bluemarble_warning" value="주사위를 던지면 에네르 주화 2개가 소모됩니다." locale="NA" />
+	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" locale="NA" />
+	<key id="$s_gallery_desc_1" value="2019년 12월 31일 23시 59분 59초까지!" locale="NA" />
+	<key id="$s_maple_survival_active_paid_pass" value="KORFLASH_$S_MAPLE_SURVIVAL_ACTIVE_PAID_PASS_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_level_text" value="KORFLASH_$S_MAPLE_SURVIVAL_LEVEL_TEXT_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_reward_detail" value="KORFLASH_$S_MAPLE_SURVIVAL_REWARD_DETAIL_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_receive_button" value="KORFLASH_$S_MAPLE_SURVIVAL_RECEIVE_BUTTON_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_season_text_tooltip" value="KORFLASH_$S_MAPLE_SURVIVAL_SEASON_TEXT_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_champion_pass_title" value="KORFLASH_$S_MAPLE_SURVIVAL_CHAMPION_PASS_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_champion_pass_tooltip" value="KORFLASH_$S_MAPLE_SURVIVAL_CHAMPION_PASS_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_complete_free" value="KORFLASH_$S_MAPLE_SURVIVAL_COMPLETE_FREE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_complete_paid" value="KORFLASH_$S_MAPLE_SURVIVAL_COMPLETE_PAID_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_title" value="KORFLASH_$S_MAPLE_SURVIVAL_MODE_SELECTOR_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_solo_title" value="KORFLASH_$S_MAPLE_SURVIVAL_MODE_SELECTOR_SOLO_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_solo_desc" value="KORFLASH_$S_MAPLE_SURVIVAL_MODE_SELECTOR_SOLO_DESC_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_squad_title" value="KORFLASH_$S_MAPLE_SURVIVAL_MODE_SELECTOR_SQUAD_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_mode_selector_squad_desc" value="KORFLASH_$S_MAPLE_SURVIVAL_MODE_SELECTOR_SQUAD_DESC_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_ui_skin_title" value="KORFLASH_$S_MAPLE_SURVIVAL_UI_SKIN_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_info_tooltip" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_INFO_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name1" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_SLOT_NAME1_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name2" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_SLOT_NAME2_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_slot_name3" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_SLOT_NAME3_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_ui_auto_item_title" value="KORFLASH_$S_MAPLE_SURVIVAL_UI_AUTO_ITEM_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_auto_item_tooltip" value="KORFLASH_$S_MAPLE_SURVIVAL_AUTO_ITEM_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_levelInfo_level_title" value="KORFLASH_$S_MAPLE_SURVIVAL_LEVELINFO_LEVEL_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_level_tooltip" value="KORFLASH_$S_MAPLE_SURVIVAL_LEVEL_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_reward_info_title" value="KORFLASH_$S_MAPLE_SURVIVAL_REWARD_INFO_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_ui_title" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_UI_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_ui_puton" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_UI_PUTON_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_skin_ui_putoff" value="KORFLASH_$S_MAPLE_SURVIVAL_SKIN_UI_PUTOFF_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_title" value="KORFLASH_$S_MAPLE_SURVIVAL_BUY_BUNDLE_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_default_title" value="KORFLASH_$S_MAPLE_SURVIVAL_BUY_BUNDLE_DEFAULT_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_bundle_title" value="KORFLASH_$S_MAPLE_SURVIVAL_BUY_BUNDLE_BUNDLE_TITLE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_bundle_desc" value="KORFLASH_$S_MAPLE_SURVIVAL_BUY_BUNDLE_BUNDLE_DESC_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_maple_survival_buy_bundle_bundle_bonus_item" value="KORFLASH_$S_MAPLE_SURVIVAL_BUY_BUNDLE_BUNDLE_BONUS_ITEM_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="$s_burning_levelup_event_desc_btn" value="Winter Burning Event" feature="Event" locale="NA" />
+	<key id="$s_myInfo_screenshot" value="KORFLASH_$S_MYINFO_SCREENSHOT_VALUE:[F]ScreenshotWebSend" feature="ScreenshotWebSend" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 일정 이상이 되면 숙련 모험가가 될 수 있습니다.\n&lt;FONT color=&apos;#00AAEF&apos;&gt;- 모험[일반/어려움] : 10회 이상\n- 카오스 레이드 이상 : 30회 이상\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도\n50레벨 이상이 되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" locale="JP" />
+	<key id="$s_meratmarket_text_register_notice_warning_music_score" value="&lt;FONT size=&apos;12&apos; &gt;乐谱是以“可演奏20次”的状态进行出售。\n乐谱将免收登记费用及出售手续费，并且乐谱的出售金额将不包含在当月累计出售金额中。" feature="UGCMarketMusicScore" />
+	<key id="$s_bluemarble_warning" value="주사위를 던지면 메이플 코인 1개가 소모됩니다." feature="Event" locale="JP" />
+	<key id="$s_bluemarble_coin_count" value="소지한 코인 개수 :" feature="Event" locale="JP" />
+	<key id="$s_dailymission_point" value="每周任务点数" feature="DailyMission" />
+	<key id="$s_dailymission_title" value="冒险宝典" feature="DailyMission" />
+	<key id="$s_dailymission_start" value="任务开始~！" feature="DailyMission" />
+	<key id="$s_dailymission_mp" value="积分" feature="DailyMission" />
+	<key id="$s_dailymission_mp_start" value="0积分" feature="DailyMission" />
+	<key id="$s_dailymission_mp_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;每周任务点数&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n每天完成新接到的每日任务时，即可获得每周任务点数。\n收集每周任务点数，可以获得每周奖励。\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n每日任务在每天0点自动更新。\n每周任务点数和每周奖励在每周五0点初始化。" feature="DailyMission" />
+	<key id="$s_gallery_desc_1" value="2020년 1월 1일 밤 12시까지!" locale="JP" />
+	<key id="$s_burning_levelup_event_desc_btn" value="バーニングイベント" feature="Event" locale="JP" />
+	<key id="$s_gamemode_select_title" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_royale" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_SUB_TITLE_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_royale" value="KORFLASH_$S_GAMEMODE_SELECT_SUB_TITLE_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_DESC_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_royale" value="KORFLASH_$S_GAMEMODE_SELECT_DESC_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_tooltip_royale" value="KORFLASH_$S_GAMEMODE_SELECT_TOOLTIP_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="던전 클리어, 필드 보스 처치, 미니게임 우승하기 등으로 메타 코어를 모으고 더하기를 완료하세요. 더 좋은 능력치의 메타 배지로 진화됩니다!" feature="GemMeta" locale="JP" />
+	<key id="$s_dungeon_room_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 일정 이상이 되면 숙련 모험가가 될 수 있습니다.\n단, 50레벨 미만의 모험 던전은 클리어 횟수가 적어도 50레벨 이상이\n되면 자동으로 숙련 모험가가 됩니다." feature="FindDungeonHelp" locale="CN" />
+	<key id="$s_bluemarble_warning" value="주사위를 던지면 눈꽃 주화 1개가 소모됩니다." feature="Event" locale="CN" />
+	<key id="$s_bluemarble_coin_count" value="소지한 주화 개수 :" feature="Event" locale="CN" />
+	<key id="$s_gallery_desc_1" value="2019년 1월 10일 점검 전까지!" locale="CN" />
+	<key id="$s_collect_item_group_event_dialog_guide" value="사냥, 연주, 낚시, 던전 클리어 등으로 메타 코어를 모으고 더하기를 완료하세요. 더 좋은 능력치의 메타 배지를 가질 수 있습니다!" feature="Event" locale="CN" />
 </ms2>

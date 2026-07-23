@@ -1,210 +1,173 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-  <!-- default=1 : 기본 제공 , reserved : 채팅 명령어 -->
-  <!-- SkillID는 SkillEtc에 설정한 감정표현 SkillID를 그대로 입력한다. -->
-  <key skillID="90200011" default="1" reserved="你好" locale="CN" />
-  <key skillID="90200022" default="1" reserved="鞠躬" locale="CN" />
-  <key skillID="90200001" default="1" reserved="发怒" locale="CN" />
-  <key skillID="90200023" default="1" reserved="吃惊" locale="CN" />
-  <key skillID="90200024" default="1" reserved="拒绝" locale="CN" />
-  <key skillID="90200003" default="1" reserved="噘嘴" locale="CN" />
-  <key skillID="90200004" default="1" reserved="腹黑" locale="CN" />
-  <key skillID="90200005" default="1" reserved="失望" locale="CN" />
-  <key skillID="90200006" default="1" reserved="赞" locale="CN" />
-  <key skillID="90200031" default="1" reserved="哭" locale="CN" />
-  <key skillID="90200041" default="1" reserved="坐下" locale="CN" />
-  <key skillID="90200042" default="1" reserved="坐到椅子上" locale="CN" />
-  <key skillID="90200027" default="0" reserved="飞吻" />
-  <key skillID="90200002" default="0" reserved="力量|运功|聚气" />
-  <key skillID="90200007" default="0" reserved="不知道|我不知道|不懂" />
-  <key skillID="90200008" default="0" reserved="炫耀|摆酷|噔噔" />
-  <key skillID="90200009" default="0" reserved="沮丧|不行|怎么会这样" />
-  <key skillID="90200017" default="0" reserved="啪啦|啪啦啪啦|啪啦啪啦舞" />
-  <key skillID="90200030" default="0" reserved="抖|抖抖|抖抖舞" />
-  <key skillID="90200029" default="0" reserved="踢|踢踏|踢踏舞" />
-  <key skillID="90200010" default="0" reserved="萌|卖萌|装萌" />
-  <key skillID="90200012" default="0" reserved="哈|嘲笑|卑鄙|嘻嘻" />
-  <key skillID="90200014" default="0" reserved="举手|跪下" />
-  <key skillID="90200015" default="0" reserved="趴下|俯卧撑|罚站" />
-  <key skillID="90200016" default="0" reserved="睡|疲倦|睡觉|躺下" />
-  <key skillID="90200018" default="0" reserved="闹脾气|闹|干嘛" />
-  <key skillID="90200019" default="0" reserved="剪刀" />
-  <key skillID="90200020" default="0" reserved="石头" />
-  <key skillID="90200021" default="0" reserved="布" />
-  <key skillID="90200025" default="0" reserved="挑衅|示意|过来" />
-  <key skillID="90200026" default="0" reserved="哼|生气|不高兴" />
-  <key skillID="90200013" default="0" reserved="舞|乱舞|跳舞" />
-  <key skillID="90200028" default="0" reserved="波|亲吻|波波|亲亲" />
-  <key skillID="90200043" default="0" reserved="啊哈|顿悟|原来如此" />
-  <key skillID="90200044" default="0" reserved="嗯|苦恼|怎么办" />
-  <key skillID="90200045" default="0" reserved="讨厌|烦人" />
-  <key skillID="90200046" default="0" reserved="飘飘|波浪|飘飘舞" />
-  <key skillID="90200047" default="0" reserved="圈圈|圈|圈圈舞" />
-  <key skillID="90200048" default="0" reserved="兔|兔兔|兔兔舞" />
-  <key skillID="90200049" default="0" reserved="混合|混合舞" />
-  <key skillID="90200050" default="0" reserved="手指|指头|手指舞" />
-  <key skillID="90200051" default="0" reserved="蠕动|蠕动舞蹈" />
-  <key skillID="90200052" default="0" reserved="唱歌" />
-  <key skillID="90200053" default="0" reserved="行礼" />
-  <key skillID="90200054" default="0" reserved="轻浮浪子|轻浮浪子舞蹈" />
-  <key skillID="90200055" default="0" reserved="振奋|振奋之舞" />
-  <key skillID="90200056" default="0" reserved="荡漾|微波|微波之舞" />
-  <key skillID="90200057" default="0" reserved="扇子|扇子舞|降神扇子舞" />
-  <key skillID="90200058" default="0" reserved="震荡|激荡|激荡之舞" />
-  <key skillID="90200059" default="0" reserved="GM时装模特" />
-  <key skillID="90200060" default="0" reserved="街舞|旋转|街舞旋转" />
-  <key skillID="90200061" default="0" reserved="节奏" />
-  <key skillID="90200062" default="0" reserved="嘿咻|嘿咻嘿咻|嘿咻嘿咻舞" />
-  <key skillID="90200063" default="0" reserved="黄金椅子|黄金荣耀宝座" />
-  <key skillID="90200064" default="0" reserved="白银椅子|白银荣耀宝座" />
-  <key skillID="90200065" default="0" reserved="青铜椅子|青铜荣耀宝座" />
-  <key skillID="90200066" default="0" reserved="幽灵|恶灵|被召唤的恶魔幽灵" />
-  <key skillID="90200067" default="0" reserved="黑影" />
-  <key skillID="90200068" default="0" reserved="僵尸|僵尸舞" />
-  <key skillID="90200069" default="0" reserved="昏迷|催眠|催眠舞" />
-  <key skillID="90200070" default="0" reserved="心跳礼物箱" />
-  <key skillID="90200071" default="0" reserved="下雪天" />
-  <key skillID="90200072" default="0" reserved="黄金龙床" />
-  <key skillID="90200073" default="0" reserved="富豪|富豪的诞生" />
-  <key skillID="90200074" default="0" reserved="巴比接吻|和巴比接吻" />
-  <key skillID="90200075" default="0" reserved="露比接吻|和露比激吻" />
-  <key skillID="90200076" default="0" reserved="表白|害羞的表白" />
-  <key skillID="90200077" default="0" reserved="巨型|大鱼|钓大鱼" />
-  <key skillID="90200078" default="0" reserved="格尔多斯|校长" />
-  <key skillID="90200079" default="0" reserved="米尔|实习老师" />
-  <key skillID="90200080" default="0" reserved="贝尔玛|品德老师" />
-  <key skillID="90200081" default="0" reserved="樱花|野游|赏花游" />
-  <key skillID="90200082" default="0" reserved="泪水炸酱|被泪水浸湿的炸酱面" />
-  <key skillID="90200083" default="0" reserved="美味炸酱|美味炸酱面" />
-  <key skillID="90200084" default="0" reserved="木马|奔驰吧" />
-  <key skillID="90200085" default="0" reserved="求婚|浪漫求婚" />
-  <key skillID="90200086" default="0" reserved="接受求婚" />
-  <key skillID="90200087" default="0" reserved="拒绝求婚" />
-  <key skillID="90200088" default="0" reserved="品克缤|柔软品克缤" />
-  <key skillID="90200089" default="0" reserved="扎昆椅子|扎昆宝座" />
-  <key skillID="90200090" default="0" reserved="生日|生日祝福|生日快乐" />
-  <key skillID="90200091" default="0" reserved="心悦龙床" />
-  <key skillID="90200092" default="0" reserved="击掌" />
-  <key skillID="90200093" default="0" reserved="扑腾|扑腾舞" />
-  <key skillID="90200094" default="0" reserved="I'm Lay" />
-  <key skillID="90200095" default="0" reserved="石臼|捣臼|咚咚" />
-  <key skillID="90200096" default="0" reserved="生日蛋糕|祝贺你|特别的生日" />
-  <key skillID="90200097" default="0" reserved="神圣宝座|神圣荣耀宝座" />
-  <key skillID="90200098" default="0" reserved="鼓起劲来" />
-  <key skillID="90200099" default="0" reserved="巧克力蛋糕|甜蜜生日" />
-  <key skillID="90200100" default="0" reserved="橙色蘑菇|噗噗橙色蘑菇" />
-  <key skillID="90200101" default="0" reserved="跳|跳跳|跳跳舞" />
-  <key skillID="90200102" default="0" reserved="网红|BJ|直播" />
-  <key skillID="90200103" default="0" reserved="放烟花|放爆竹" />
-  <key skillID="90200104" default="0" reserved="樱花风筝|放樱花风筝" />
-  <key skillID="90200105" default="0" reserved="荡秋千" />
-  <key skillID="90200106" default="0" reserved="CBT|CBT恭喜|CBT恭喜你" />
-  <key skillID="90200107" default="0" reserved="嗨哟嗨哟|齐心协力" />
-  <key skillID="90200108" default="0" reserved="蘑菇大王轿子|蘑菇大王的黄金轿" />
-  <key skillID="90200109" default="0" reserved="轿夫舞|蘑菇大王轿夫舞" />
-  <key skillID="90200110" default="0" reserved="假日躺椅|盛夏假日躺椅" />
-  <key skillID="90200111" default="0" reserved="冷饮杯|阿罗哈|冷饮杯的阿罗哈" />
-  <key skillID="90200112" default="0" reserved="懒惰蘑菇舞蹈|和懒惰蘑菇抱抱" />
-  <key skillID="90200113" default="0" reserved="西瓜甜品|西瓜甜品椅子|清凉西瓜甜品" />
-  <key skillID="90200114" default="0" reserved="熊猫欢庆|熊猫欢庆1周年！" feature="WorldChampionMushroom" />
-  <key skillID="90200115" default="0" reserved="小甜甜|小甜甜之舞" feature="Event" />
-  <key skillID="90200116" default="0" reserved="蔑视|你不行的|哼" />
-  <key skillID="90200117" default="0" reserved="KORDYNAMICACTION_90200117_RESERVED:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key skillID="90200118" default="0" reserved="KORDYNAMICACTION_90200118_RESERVED:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key skillID="90200119" default="0" reserved="人偶剧" />
-  <key skillID="90200120" default="0" reserved="枫|枫之语" />
-  <key skillID="90200121" default="0" reserved="钓鲨鱼|成功钓到鲨鱼" />
-  <key skillID="90200122" default="0" reserved="梦见小猪|梦见小猪" />
-  <key skillID="90200123" default="0" reserved="半身浴" />
-  <key skillID="90200124" default="0" reserved="像梅森一样/梅森模仿者" />
-  <key skillID="90200125" default="0" reserved="踏步舞/鬼步舞" />
-  <key skillID="90200126" default="0" reserved="波茵波茵舞|波茵舞" feature="Event" />
-  <key skillID="90200127" default="0" reserved="和波茵玩耍|和波茵玩" feature="Event" />
-  <key skillID="90200128" default="0" reserved="学习|学霸模式" />
-  <key skillID="90200129" default="0" reserved="睡觉|呼呼大睡" />
-  <key skillID="90200130" default="0" reserved="社交舞" />
-  <key skillID="90200131" default="0" reserved="自拍|照自拍|认证照" />
-  <key skillID="90200132" default="0" reserved="训练|单人训练|倒立" />
-  <key skillID="90200133" default="0" reserved="英雄倒立" />
-  <key skillID="90200134" default="0" reserved="轮到我了" />
-  <key skillID="90200135" default="0" reserved="本大爷登场" />
-  <key skillID="90200136" default="0" reserved="墨西哥舞" />
-  <key skillID="90200137" default="0" reserved="樱花树|樱花树下" />
-  <key skillID="90200138" default="0" reserved="牵手舞蹈" />
-  <key skillID="90200139" default="0" reserved="面对面跳舞" />
-  <key skillID="90200140" default="0" reserved="宇宙空间" />
-  <key skillID="90200142" default="0" reserved="自我投资|理发" />
-  <key skillID="90200143" default="0" reserved="打碟" />
-  <key skillID="90200144" default="0" reserved="海边的浪漫" />
-  <key skillID="90200145" default="0" reserved="热身运动" />
-  <key skillID="90220001" default="0" reserved="" />
-  <key skillID="90220002" default="0" reserved="" />
-  <key skillID="90220003" default="0" reserved="" />
-  <key skillID="90220004" default="0" reserved="" />
-  <key skillID="90220005" default="0" reserved="" />
-  <key skillID="90220006" default="0" reserved="" />
-  <key skillID="90220007" default="0" reserved="" />
-  <key skillID="90220008" default="0" reserved="" />
-  <key skillID="90220009" default="0" reserved="" />
-  <key skillID="90220010" default="0" reserved="咖啡|啊烫" />
-  <key skillID="90220011" default="0" reserved="和小黄鸭共舞|鸭子舞" />
-  <key skillID="90220012" default="0" reserved="" />
-  <key skillID="90220013" default="0" reserved="" />
-  <key skillID="90220014" default="0" reserved="" />
-  <key skillID="90220015" default="0" reserved="" />
-  <key skillID="90220016" default="0" reserved="" />
-  <key skillID="90220017" default="0" reserved="" />
-  <key skillID="90220018" default="0" reserved="" />
-  <key skillID="90220019" default="0" reserved="" />
-  <key skillID="90220020" default="0" reserved="" />
-  <key skillID="90220021" default="0" reserved="" />
-  <key skillID="90220022" default="0" reserved="" />
-  <key skillID="90220023" default="0" reserved="" />
-  <key skillID="90220024" default="0" reserved="" />
-  <key skillID="90220025" default="0" reserved="" />
-  <key skillID="90220026" default="0" reserved="" />
-  <key skillID="90220027" default="0" reserved="" />
-  <key skillID="90220028" default="0" reserved="" />
-  <key skillID="90220029" default="0" reserved="" />
-  <key skillID="90220030" default="0" reserved="" />
-  <key skillID="90220031" default="0" reserved="" />
-  <key skillID="90220032" default="0" reserved="" />
-  <key skillID="90220033" default="0" reserved="" />
-  <key skillID="90220034" default="0" reserved="" />
-  <key skillID="90220035" default="0" reserved="" />
-  <!--	다이나믹 액션 리스트
-	90200001	화나
-	90200002	기합
-	90200003	삐죽
-	90200004	엉큼
-	90200005	실망
-	90200006	좋아
-	90200007	몰라
-	90200008	자랑
-	90200009	좌절
-	90200010	꽃받침
-	90200011	안녕
-	90200012	비웃기
-	90200013	막춤
-	90200014	손들어
-	90200015	엎드려
-	90200016	잠자기
-	90200017	파라파라 댄스
-	90200018	떼쓰기
-	90200019	가위
-	90200020	바위
-	90200021	보
-	90200022	정중한 인사
-	90200023	놀람
-	90200024	거절
-	90200025	도발
-	90200026	삐짐
-	90200027	손키스
-	90200028	키스
-	90200029	탭 댄스
-	90200030	부비부비 댄스
-	90200031	울기
-	90200040	앉기
-	90200041	의자앉기
-	-->
+	<key skillID="90200001" default="1" reserved="发怒" locale="CN" />
+	<key skillID="90200002" default="0" reserved="力量|运功|聚气" />
+	<key skillID="90200003" default="1" reserved="噘嘴" locale="CN" />
+	<key skillID="90200004" default="1" reserved="腹黑" locale="CN" />
+	<key skillID="90200005" default="1" reserved="失望" locale="CN" />
+	<key skillID="90200006" default="1" reserved="赞" locale="CN" />
+	<key skillID="90200007" default="0" reserved="不知道|我不知道|不懂" />
+	<key skillID="90200008" default="0" reserved="炫耀|摆酷|噔噔" />
+	<key skillID="90200009" default="0" reserved="沮丧|不行|怎么会这样" />
+	<key skillID="90200010" default="0" reserved="萌|卖萌|装萌" />
+	<key skillID="90200011" default="1" reserved="你好" locale="CN" />
+	<key skillID="90200012" default="0" reserved="哈|嘲笑|卑鄙|嘻嘻" />
+	<key skillID="90200013" default="0" reserved="舞|乱舞|跳舞" />
+	<key skillID="90200014" default="0" reserved="举手|跪下" />
+	<key skillID="90200015" default="0" reserved="趴下|俯卧撑|罚站" />
+	<key skillID="90200016" default="0" reserved="睡|疲倦|睡觉|躺下" />
+	<key skillID="90200017" default="0" reserved="啪啦|啪啦啪啦|啪啦啪啦舞" />
+	<key skillID="90200018" default="0" reserved="闹脾气|闹|干嘛" />
+	<key skillID="90200019" default="0" reserved="剪刀" />
+	<key skillID="90200020" default="0" reserved="石头" />
+	<key skillID="90200021" default="0" reserved="布" />
+	<key skillID="90200022" default="1" reserved="鞠躬" locale="CN" />
+	<key skillID="90200023" default="1" reserved="吃惊" locale="CN" />
+	<key skillID="90200024" default="1" reserved="拒绝" locale="CN" />
+	<key skillID="90200025" default="0" reserved="挑衅|示意|过来" />
+	<key skillID="90200026" default="0" reserved="哼|生气|不高兴" />
+	<key skillID="90200027" default="0" reserved="飞吻" />
+	<key skillID="90200028" default="0" reserved="波|亲吻|波波|亲亲" />
+	<key skillID="90200029" default="0" reserved="踢|踢踏|踢踏舞" />
+	<key skillID="90200030" default="0" reserved="抖|抖抖|抖抖舞" />
+	<key skillID="90200031" default="1" reserved="哭" locale="CN" />
+	<key skillID="90200041" default="1" reserved="坐下" locale="CN" />
+	<key skillID="90200042" default="1" reserved="坐到椅子上" locale="CN" />
+	<key skillID="90200043" default="0" reserved="啊哈|顿悟|原来如此" />
+	<key skillID="90200044" default="0" reserved="嗯|苦恼|怎么办" />
+	<key skillID="90200045" default="0" reserved="讨厌|烦人" />
+	<key skillID="90200046" default="0" reserved="飘飘|波浪|飘飘舞" />
+	<key skillID="90200047" default="0" reserved="圈圈|圈|圈圈舞" />
+	<key skillID="90200048" default="0" reserved="兔|兔兔|兔兔舞" />
+	<key skillID="90200049" default="0" reserved="混合|混合舞" />
+	<key skillID="90200050" default="0" reserved="手指|指头|手指舞" />
+	<key skillID="90200051" default="0" reserved="蠕动|蠕动舞蹈" />
+	<key skillID="90200052" default="0" reserved="唱歌" />
+	<key skillID="90200053" default="0" reserved="行礼" />
+	<key skillID="90200054" default="0" reserved="轻浮浪子|轻浮浪子舞蹈" />
+	<key skillID="90200055" default="0" reserved="振奋|振奋之舞" />
+	<key skillID="90200056" default="0" reserved="荡漾|微波|微波之舞" />
+	<key skillID="90200057" default="0" reserved="扇子|扇子舞|降神扇子舞" />
+	<key skillID="90200058" default="0" reserved="震荡|激荡|激荡之舞" />
+	<key skillID="90200059" default="0" reserved="GM时装模特" />
+	<key skillID="90200060" default="0" reserved="街舞|旋转|街舞旋转" />
+	<key skillID="90200061" default="0" reserved="节奏" />
+	<key skillID="90200062" default="0" reserved="嘿咻|嘿咻嘿咻|嘿咻嘿咻舞" />
+	<key skillID="90200063" default="0" reserved="黄金椅子|黄金荣耀宝座" />
+	<key skillID="90200064" default="0" reserved="白银椅子|白银荣耀宝座" />
+	<key skillID="90200065" default="0" reserved="青铜椅子|青铜荣耀宝座" />
+	<key skillID="90200066" default="0" reserved="幽灵|恶灵|被召唤的恶魔幽灵" />
+	<key skillID="90200067" default="0" reserved="黑影" />
+	<key skillID="90200068" default="0" reserved="僵尸|僵尸舞" />
+	<key skillID="90200069" default="0" reserved="昏迷|催眠|催眠舞" />
+	<key skillID="90200070" default="0" reserved="心跳礼物箱" />
+	<key skillID="90200071" default="0" reserved="下雪天" />
+	<key skillID="90200072" default="0" reserved="黄金龙床" />
+	<key skillID="90200073" default="0" reserved="富豪|富豪的诞生" />
+	<key skillID="90200074" default="0" reserved="巴比接吻|和巴比接吻" />
+	<key skillID="90200075" default="0" reserved="露比接吻|和露比激吻" />
+	<key skillID="90200076" default="0" reserved="表白|害羞的表白" />
+	<key skillID="90200077" default="0" reserved="巨型|大鱼|钓大鱼" />
+	<key skillID="90200078" default="0" reserved="格尔多斯|校长" />
+	<key skillID="90200079" default="0" reserved="米尔|实习老师" />
+	<key skillID="90200080" default="0" reserved="贝尔玛|品德老师" />
+	<key skillID="90200081" default="0" reserved="樱花|野游|赏花游" />
+	<key skillID="90200082" default="0" reserved="泪水炸酱|被泪水浸湿的炸酱面" />
+	<key skillID="90200083" default="0" reserved="美味炸酱|美味炸酱面" />
+	<key skillID="90200084" default="0" reserved="木马|奔驰吧" />
+	<key skillID="90200085" default="0" reserved="求婚|浪漫求婚" />
+	<key skillID="90200086" default="0" reserved="接受求婚" />
+	<key skillID="90200087" default="0" reserved="拒绝求婚" />
+	<key skillID="90200088" default="0" reserved="品克缤|柔软品克缤" />
+	<key skillID="90200089" default="0" reserved="扎昆椅子|扎昆宝座" />
+	<key skillID="90200090" default="0" reserved="生日|生日祝福|生日快乐" />
+	<key skillID="90200091" default="0" reserved="心悦龙床" />
+	<key skillID="90200092" default="0" reserved="击掌" />
+	<key skillID="90200093" default="0" reserved="扑腾|扑腾舞" />
+	<key skillID="90200094" default="0" reserved="I&apos;m Lay" />
+	<key skillID="90200095" default="0" reserved="石臼|捣臼|咚咚" />
+	<key skillID="90200096" default="0" reserved="生日蛋糕|祝贺你|特别的生日" />
+	<key skillID="90200097" default="0" reserved="神圣宝座|神圣荣耀宝座" />
+	<key skillID="90200098" default="0" reserved="鼓起劲来" />
+	<key skillID="90200099" default="0" reserved="巧克力蛋糕|甜蜜生日" />
+	<key skillID="90200100" default="0" reserved="橙色蘑菇|噗噗橙色蘑菇" />
+	<key skillID="90200101" default="0" reserved="跳|跳跳|跳跳舞" />
+	<key skillID="90200102" default="0" reserved="网红|BJ|直播" />
+	<key skillID="90200103" default="0" reserved="放烟花|放爆竹" />
+	<key skillID="90200104" default="0" reserved="樱花风筝|放樱花风筝" />
+	<key skillID="90200105" default="0" reserved="荡秋千" />
+	<key skillID="90200106" default="0" reserved="CBT|CBT恭喜|CBT恭喜你" />
+	<key skillID="90200107" default="0" reserved="嗨哟嗨哟|齐心协力" />
+	<key skillID="90200108" default="0" reserved="蘑菇大王轿子|蘑菇大王的黄金轿" />
+	<key skillID="90200109" default="0" reserved="轿夫舞|蘑菇大王轿夫舞" />
+	<key skillID="90200110" default="0" reserved="假日躺椅|盛夏假日躺椅" />
+	<key skillID="90200111" default="0" reserved="冷饮杯|阿罗哈|冷饮杯的阿罗哈" />
+	<key skillID="90200112" default="0" reserved="懒惰蘑菇舞蹈|和懒惰蘑菇抱抱" />
+	<key skillID="90200113" default="0" reserved="西瓜甜品|西瓜甜品椅子|清凉西瓜甜品" />
+	<key skillID="90200114" default="0" reserved="熊猫欢庆|熊猫欢庆1周年！" feature="WorldChampionMushroom" />
+	<key skillID="90200115" default="0" reserved="小甜甜|小甜甜之舞" feature="Event" />
+	<key skillID="90200116" default="0" reserved="蔑视|你不行的|哼" />
+	<key skillID="90200117" default="0" reserved="KORDYNAMICACTION_90200117_RESERVED:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key skillID="90200118" default="0" reserved="KORDYNAMICACTION_90200118_RESERVED:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key skillID="90200119" default="0" reserved="人偶剧" />
+	<key skillID="90200120" default="0" reserved="枫|枫之语" />
+	<key skillID="90200121" default="0" reserved="钓鲨鱼|成功钓到鲨鱼" />
+	<key skillID="90200122" default="0" reserved="梦见小猪|梦见小猪" />
+	<key skillID="90200123" default="0" reserved="半身浴" />
+	<key skillID="90200124" default="0" reserved="像梅森一样/梅森模仿者" />
+	<key skillID="90200125" default="0" reserved="踏步舞/鬼步舞" />
+	<key skillID="90200126" default="0" reserved="波茵波茵舞|波茵舞" feature="Event" />
+	<key skillID="90200127" default="0" reserved="和波茵玩耍|和波茵玩" feature="Event" />
+	<key skillID="90200128" default="0" reserved="学习|学霸模式" />
+	<key skillID="90200129" default="0" reserved="睡觉|呼呼大睡" />
+	<key skillID="90200130" default="0" reserved="社交舞" />
+	<key skillID="90200131" default="0" reserved="自拍|照自拍|认证照" />
+	<key skillID="90200132" default="0" reserved="训练|单人训练|倒立" />
+	<key skillID="90200133" default="0" reserved="英雄倒立" />
+	<key skillID="90200134" default="0" reserved="轮到我了" />
+	<key skillID="90200135" default="0" reserved="本大爷登场" />
+	<key skillID="90200136" default="0" reserved="墨西哥舞" />
+	<key skillID="90200137" default="0" reserved="樱花树|樱花树下" />
+	<key skillID="90200138" default="0" reserved="牵手舞蹈" />
+	<key skillID="90200139" default="0" reserved="面对面跳舞" />
+	<key skillID="90200140" default="0" reserved="宇宙空间" />
+	<key skillID="90200142" default="0" reserved="自我投资|理发" />
+	<key skillID="90200143" default="0" reserved="打碟" />
+	<key skillID="90200144" default="0" reserved="海边的浪漫" />
+	<key skillID="90200145" default="0" reserved="热身运动" />
+	<key skillID="90220001" default="0" reserved="" />
+	<key skillID="90220002" default="0" reserved="" />
+	<key skillID="90220003" default="0" reserved="" />
+	<key skillID="90220004" default="0" reserved="" />
+	<key skillID="90220005" default="0" reserved="" />
+	<key skillID="90220006" default="0" reserved="" />
+	<key skillID="90220007" default="0" reserved="" />
+	<key skillID="90220008" default="0" reserved="" />
+	<key skillID="90220009" default="0" reserved="" />
+	<key skillID="90220010" default="0" reserved="咖啡|啊烫" />
+	<key skillID="90220011" default="0" reserved="和小黄鸭共舞|鸭子舞" />
+	<key skillID="90220012" default="0" reserved="" />
+	<key skillID="90220013" default="0" reserved="" />
+	<key skillID="90220014" default="0" reserved="" />
+	<key skillID="90220015" default="0" reserved="" />
+	<key skillID="90220016" default="0" reserved="" />
+	<key skillID="90220017" default="0" reserved="" />
+	<key skillID="90220018" default="0" reserved="" />
+	<key skillID="90220019" default="0" reserved="" />
+	<key skillID="90220020" default="0" reserved="" />
+	<key skillID="90220021" default="0" reserved="" />
+	<key skillID="90220022" default="0" reserved="" />
+	<key skillID="90220023" default="0" reserved="" />
+	<key skillID="90220024" default="0" reserved="" />
+	<key skillID="90220025" default="0" reserved="" />
+	<key skillID="90220026" default="0" reserved="" />
+	<key skillID="90220027" default="0" reserved="" />
+	<key skillID="90220028" default="0" reserved="" />
+	<key skillID="90220029" default="0" reserved="" />
+	<key skillID="90220030" default="0" reserved="" />
+	<key skillID="90220031" default="0" reserved="" />
+	<key skillID="90220032" default="0" reserved="" />
+	<key skillID="90220033" default="0" reserved="" />
+	<key skillID="90220034" default="0" reserved="" />
+	<key skillID="90220035" default="0" reserved="" />
 </ms2>

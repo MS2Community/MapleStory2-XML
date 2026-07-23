@@ -1,287 +1,286 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10200032" level="1" name="黑暗气息" tooltipDescription="每秒追加恢复1能量" />
-  <key id="10200032" level="2" name="黑暗气息" tooltipDescription="每秒增加1.2点能量恢复" feature="JobChange_01" />
-  <key id="10200061" level="1" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低9%\n跳跃力、移动速度降低9%" />
-  <key id="10200061" level="2" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低12%\n跳跃力、移动速度降低12%" />
-  <key id="10200061" level="3" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低15%\n跳跃力、移动速度降低15%" />
-  <key id="10200061" level="4" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低18%\n跳跃力、移动速度降低18%" />
-  <key id="10200061" level="5" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低21%\n跳跃力、移动速度降低21%" />
-  <key id="10200061" level="6" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低24%\n跳跃力、移动速度降低24%" />
-  <key id="10200061" level="7" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低27%\n跳跃力、移动速度降低27%" />
-  <key id="10200061" level="8" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低30%\n跳跃力、移动速度降低30%" />
-  <key id="10200061" level="9" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低33%\n跳跃力、移动速度降低33%" />
-  <key id="10200061" level="10" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低36%\n跳跃力、移动速度降低36%" />
-  <key id="10200061" level="11" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低39%\n跳跃力、移动速度降低39%" />
-  <key id="10200061" level="12" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低42%\n跳跃力、移动速度降低42%" />
-  <key id="10200063" level="1" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="2" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="3" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="4" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="5" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="6" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="7" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="8" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
-  <key id="10200063" level="9" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
-  <key id="10200063" level="10" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
-  <key id="10200063" level="11" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
-  <key id="10200063" level="12" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
-  <key id="10200064" level="1" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少9%" />
-  <key id="10200064" level="2" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少12%" />
-  <key id="10200064" level="3" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少15%" />
-  <key id="10200064" level="4" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少18%" />
-  <key id="10200064" level="5" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少21%" />
-  <key id="10200064" level="6" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少24%" />
-  <key id="10200064" level="7" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少27%" />
-  <key id="10200064" level="8" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少30%" />
-  <key id="10200064" level="9" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低21%" />
-  <key id="10200064" level="10" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低24%" />
-  <key id="10200064" level="11" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低27%" />
-  <key id="10200064" level="12" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低30%" />
-  <key id="10200081" level="1" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加1" />
-  <key id="10200081" level="2" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
-  <key id="10200081" level="3" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
-  <key id="10200081" level="4" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
-  <key id="10200081" level="5" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200081" level="6" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200081" level="7" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200081" level="8" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200081" level="9" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200081" level="10" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200081" level="11" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200081" level="12" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200082" level="1" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
-  <key id="10200082" level="2" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
-  <key id="10200082" level="3" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200082" level="4" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200082" level="5" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200082" level="6" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200082" level="7" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200082" level="8" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200082" level="9" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200082" level="10" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200082" level="11" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200082" level="12" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
-  <key id="10200083" level="1" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200083" level="2" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200083" level="3" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
-  <key id="10200083" level="4" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200083" level="5" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200083" level="6" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
-  <key id="10200083" level="7" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200083" level="8" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200083" level="9" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-  <key id="10200083" level="10" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
-  <key id="10200083" level="11" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
-  <key id="10200083" level="12" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加7" />
-  <key id="10200101" level="1" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加100" />
-  <key id="10200101" level="2" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加150" />
-  <key id="10200101" level="3" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加200" />
-  <key id="10200101" level="4" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加250" />
-  <key id="10200101" level="5" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加300" />
-  <key id="10200101" level="6" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加350" />
-  <key id="10200101" level="7" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加400" />
-  <key id="10200101" level="8" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加450" />
-  <key id="10200101" level="9" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高500" />
-  <key id="10200101" level="10" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高550" />
-  <key id="10200101" level="11" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高600" />
-  <key id="10200101" level="12" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高650" />
-  <key id="10200112" level="1" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到4%的物理伤害" />
-  <key id="10200112" level="2" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到7%的物理伤害" />
-  <key id="10200112" level="3" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到10%的物理伤害" />
-  <key id="10200112" level="4" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到13%的物理伤害" />
-  <key id="10200112" level="5" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到16%的物理伤害" />
-  <key id="10200112" level="6" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到19%的物理伤害" />
-  <key id="10200112" level="7" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到22%的物理伤害" />
-  <key id="10200112" level="8" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到25%的物理伤害" />
-  <key id="10200112" level="9" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到28%的伤害" />
-  <key id="10200112" level="10" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到31%的伤害" />
-  <key id="10200112" level="11" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到34%的伤害" />
-  <key id="10200112" level="12" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到37%的伤害" />
-  <key id="10200131" level="1" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加16%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="2" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加18%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="3" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加20%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="4" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加22%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="5" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加24%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="6" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加26%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="7" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加28%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="8" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加30%\n攻击全部命中时能量恢复1" />
-  <key id="10200131" level="9" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高32%\n所有攻击命中时，能量恢复1" />
-  <key id="10200131" level="10" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高34%\n所有攻击命中时，能量恢复1" />
-  <key id="10200131" level="11" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高36%\n所有攻击命中时，能量恢复1" />
-  <key id="10200131" level="12" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高38%\n所有攻击命中时，能量恢复1" />
-  <key id="10200141" level="1" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高5%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="2" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高6%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="3" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高7%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="4" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高8%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="5" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高9%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="6" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高10%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="7" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高11%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="8" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高12%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="9" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高13%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="10" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高14%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="11" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高15%\n攻击成功时生命减少1%" />
-  <key id="10200141" level="12" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高16%\n攻击成功时生命减少1%" />
-  <key id="10200171" level="1" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="2" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="3" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="4" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="5" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="6" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="7" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="8" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="9" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="10" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="11" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200171" level="12" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-  <key id="10200173" level="1" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="2" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="3" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="4" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="5" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="6" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="7" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="8" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="9" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="10" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="11" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200173" level="12" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-  <key id="10200201" level="1" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="2" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="3" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="4" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="5" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="6" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="7" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="8" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="9" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="10" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="11" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200201" level="12" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-  <key id="10200212" level="1" name="血之狂乱" tooltipDescription="物理攻击力提高4%\n血之渴望伤害提高149%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="2" name="血之狂乱" tooltipDescription="物理攻击力提高6。5%\n血之渴望伤害提高166%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="3" name="血之狂乱" tooltipDescription="物理攻击力提高9%\n血之渴望伤害提高183%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="4" name="血之狂乱" tooltipDescription="物理攻击力提高11.5%\n血之渴望伤害提高200%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="5" name="血之狂乱" tooltipDescription="物理攻击力提高14%\n血之渴望伤害提高217%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="6" name="血之狂乱" tooltipDescription="物理攻击力提高16.5%\n血之渴望伤害提高234%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="7" name="血之狂乱" tooltipDescription="物理攻击力提高19%\n血之渴望伤害提高251%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="8" name="血之狂乱" tooltipDescription="物理攻击力提高21.5%\n血之渴望伤害提高268%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="9" name="血之狂乱" tooltipDescription="物理攻击力提高24%\n血之渴望伤害提高285%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="10" name="血之狂乱" tooltipDescription="物理攻击力提高26.5%\n血之渴望伤害提高302%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="11" name="血之狂乱" tooltipDescription="物理攻击力提高29%\n血之渴望伤害提高319%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200212" level="12" name="血之狂乱" tooltipDescription="物理攻击力提高31.5%\n血之渴望伤害提高336%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-  <key id="10200221" level="1" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高5%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="2" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高10%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="3" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高15%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="4" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高20%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="5" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高25%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="6" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高30%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="7" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高35%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="8" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高40%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="9" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高45%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="10" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高50%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="11" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高55%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200221" level="12" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高60%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-  <key id="10200224" level="1" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="2" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="3" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="4" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="5" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="6" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="7" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="8" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="9" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="10" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="11" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200224" level="12" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-  <key id="10200232" level="1" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="2" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="3" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="4" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="5" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="6" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="7" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="8" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="9" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="10" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="11" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200232" level="12" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-  <key id="10200233" level="1" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="2" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="3" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="4" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="5" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="6" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="7" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="8" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="9" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="10" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="11" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200233" level="12" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-  <key id="10200243" level="1" name="出血过量" tooltipDescription="每叠加1次，每秒造成52%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="2" name="出血过量" tooltipDescription="每叠加1次，每秒造成58%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="3" name="出血过量" tooltipDescription="每叠加1次，每秒造成64%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="4" name="出血过量" tooltipDescription="每叠加1次，每秒造成70%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="5" name="出血过量" tooltipDescription="每叠加1次，每秒造成76%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="6" name="出血过量" tooltipDescription="每叠加1次，每秒造成82%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="7" name="出血过量" tooltipDescription="每叠加1次，每秒造成88%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="8" name="出血过量" tooltipDescription="每叠加1次，每秒造成94%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="9" name="出血过量" tooltipDescription="每叠加1次，每秒造成100%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="10" name="出血过量" tooltipDescription="每叠加1次，每秒造成106%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="11" name="出血过量" tooltipDescription="每叠加1次，每秒造成112%的伤害" feature="JobChange_01" />
-  <key id="10200243" level="12" name="出血过量" tooltipDescription="每叠加1次，每秒造成118%的伤害" feature="JobChange_01" />
-  <key id="10200265" level="1" name="孤军奋战 1阶段" tooltipDescription="防御力提高2%、物理攻击提高3.5%" feature="JobChange_02" />
-  <key id="10200265" level="2" name="孤军奋战 2阶段" tooltipDescription="防御力提高4%、物理攻击提高7%" feature="JobChange_02" />
-  <key id="10200265" level="3" name="孤军奋战 3阶段" tooltipDescription="防御力提高6%、物理攻击提高10.5%" feature="JobChange_02" />
-  <key id="10200265" level="4" name="孤军奋战 4阶段" tooltipDescription="防御力提高8%、物理攻击提高14%" feature="JobChange_02" />
-  <key id="10200265" level="5" name="孤军奋战 5阶段" tooltipDescription="防御力提高10%、物理攻击提高17.5%" feature="JobChange_02" />
-  <key id="10200271" level="1" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="2" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="3" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="4" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="5" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="6" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="7" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="8" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="9" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="10" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="11" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200271" level="12" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-  <key id="10200282" level="1" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="2" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="3" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="4" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="5" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="6" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="7" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="8" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="9" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="10" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="11" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200282" level="12" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-  <key id="10200291" level="1" name="暗黑狂气" tooltipDescription="物理攻击力提高2%" feature="JobChange_02" />
-  <key id="10200291" level="2" name="暗黑狂气" tooltipDescription="物理攻击力提高4%" feature="JobChange_02" />
-  <key id="10200291" level="3" name="暗黑狂气" tooltipDescription="物理攻击力提高6%" feature="JobChange_02" />
-  <key id="10200291" level="4" name="暗黑狂气" tooltipDescription="物理攻击力提高8%" feature="JobChange_02" />
-  <key id="10200291" level="5" name="暗黑狂气" tooltipDescription="物理攻击力提高10%" feature="JobChange_02" />
-  <key id="10200291" level="6" name="暗黑狂气" tooltipDescription="物理攻击力提高12%" feature="JobChange_02" />
-  <key id="10200291" level="7" name="暗黑狂气" tooltipDescription="物理攻击力提高14%" feature="JobChange_02" />
-  <key id="10200291" level="8" name="暗黑狂气" tooltipDescription="物理攻击力提高16%" feature="JobChange_02" />
-  <key id="10200291" level="9" name="暗黑狂气" tooltipDescription="物理攻击力提高18%" feature="JobChange_02" />
-  <key id="10200291" level="10" name="暗黑狂气" tooltipDescription="物理攻击力提高20%" feature="JobChange_02" />
-  <key id="10200291" level="11" name="暗黑狂气" tooltipDescription="物理攻击力提高22%" feature="JobChange_02" />
-  <key id="10200291" level="12" name="暗黑狂气" tooltipDescription="物理攻击力提高24%" feature="JobChange_02" />
-  <key id="10200292" level="1" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低9%" feature="JobChange_02" />
-  <key id="10200292" level="2" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低12%" feature="JobChange_02" />
-  <key id="10200292" level="3" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低15%" feature="JobChange_02" />
-  <key id="10200292" level="4" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低18%" feature="JobChange_02" />
-  <key id="10200292" level="5" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低21%" feature="JobChange_02" />
-  <key id="10200292" level="6" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低24%" feature="JobChange_02" />
-  <key id="10200292" level="7" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低27%" feature="JobChange_02" />
-  <key id="10200292" level="8" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低30%" feature="JobChange_02" />
-  <key id="10200292" level="9" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低33%" feature="JobChange_02" />
-  <key id="10200292" level="10" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低36%" feature="JobChange_02" />
-  <key id="10200292" level="11" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低39%" feature="JobChange_02" />
-  <key id="10200292" level="12" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低42%" feature="JobChange_02" />
+	<key id="10200032" level="1" name="黑暗气息" tooltipDescription="每秒追加恢复1能量" />
+	<key id="10200032" level="2" name="黑暗气息" tooltipDescription="每秒增加1.2点能量恢复" feature="JobChange_01" />
+	<key id="10200061" level="1" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低9%\n跳跃力、移动速度降低9%" />
+	<key id="10200061" level="2" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低12%\n跳跃力、移动速度降低12%" />
+	<key id="10200061" level="3" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低15%\n跳跃力、移动速度降低15%" />
+	<key id="10200061" level="4" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低18%\n跳跃力、移动速度降低18%" />
+	<key id="10200061" level="5" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低21%\n跳跃力、移动速度降低21%" />
+	<key id="10200061" level="6" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低24%\n跳跃力、移动速度降低24%" />
+	<key id="10200061" level="7" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低27%\n跳跃力、移动速度降低27%" />
+	<key id="10200061" level="8" name="威胁" tooltipDescription="丧失斗志，全身无力……\n攻击力降低30%\n跳跃力、移动速度降低30%" />
+	<key id="10200061" level="9" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低33%\n跳跃力、移动速度降低33%" />
+	<key id="10200061" level="10" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低36%\n跳跃力、移动速度降低36%" />
+	<key id="10200061" level="11" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低39%\n跳跃力、移动速度降低39%" />
+	<key id="10200061" level="12" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低42%\n跳跃力、移动速度降低42%" />
+	<key id="10200063" level="1" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="2" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="3" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="4" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="5" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="6" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="7" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="8" name="威胁眩晕效果" tooltipDescription="暴露在强大的斗气之下动弹不得" />
+	<key id="10200063" level="9" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
+	<key id="10200063" level="10" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
+	<key id="10200063" level="11" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
+	<key id="10200063" level="12" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
+	<key id="10200064" level="1" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少9%" />
+	<key id="10200064" level="2" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少12%" />
+	<key id="10200064" level="3" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少15%" />
+	<key id="10200064" level="4" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少18%" />
+	<key id="10200064" level="5" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少21%" />
+	<key id="10200064" level="6" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少24%" />
+	<key id="10200064" level="7" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少27%" />
+	<key id="10200064" level="8" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力减少30%" />
+	<key id="10200064" level="9" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低21%" />
+	<key id="10200064" level="10" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低24%" />
+	<key id="10200064" level="11" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低27%" />
+	<key id="10200064" level="12" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低30%" />
+	<key id="10200081" level="1" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加1" />
+	<key id="10200081" level="2" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
+	<key id="10200081" level="3" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
+	<key id="10200081" level="4" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
+	<key id="10200081" level="5" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200081" level="6" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200081" level="7" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200081" level="8" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200081" level="9" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200081" level="10" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200081" level="11" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200081" level="12" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200082" level="1" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
+	<key id="10200082" level="2" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加2" />
+	<key id="10200082" level="3" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200082" level="4" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200082" level="5" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200082" level="6" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200082" level="7" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200082" level="8" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200082" level="9" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200082" level="10" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200082" level="11" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200082" level="12" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
+	<key id="10200083" level="1" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200083" level="2" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200083" level="3" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加3" />
+	<key id="10200083" level="4" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200083" level="5" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200083" level="6" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加4" />
+	<key id="10200083" level="7" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200083" level="8" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200083" level="9" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
+	<key id="10200083" level="10" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
+	<key id="10200083" level="11" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
+	<key id="10200083" level="12" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加7" />
+	<key id="10200101" level="1" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加100" />
+	<key id="10200101" level="2" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加150" />
+	<key id="10200101" level="3" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加200" />
+	<key id="10200101" level="4" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加250" />
+	<key id="10200101" level="5" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加300" />
+	<key id="10200101" level="6" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加350" />
+	<key id="10200101" level="7" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加400" />
+	<key id="10200101" level="8" name="坚忍" tooltipDescription="凭借不屈的意志承受住极端的环境。\n物理抵抗力和魔法抵抗力增加450" />
+	<key id="10200101" level="9" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高500" />
+	<key id="10200101" level="10" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高550" />
+	<key id="10200101" level="11" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高600" />
+	<key id="10200101" level="12" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高650" />
+	<key id="10200112" level="1" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到4%的物理伤害" />
+	<key id="10200112" level="2" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到7%的物理伤害" />
+	<key id="10200112" level="3" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到10%的物理伤害" />
+	<key id="10200112" level="4" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到13%的物理伤害" />
+	<key id="10200112" level="5" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到16%的物理伤害" />
+	<key id="10200112" level="6" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到19%的物理伤害" />
+	<key id="10200112" level="7" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到22%的物理伤害" />
+	<key id="10200112" level="8" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到25%的物理伤害" />
+	<key id="10200112" level="9" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到28%的伤害" />
+	<key id="10200112" level="10" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到31%的伤害" />
+	<key id="10200112" level="11" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到34%的伤害" />
+	<key id="10200112" level="12" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到37%的伤害" />
+	<key id="10200131" level="1" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加16%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="2" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加18%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="3" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加20%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="4" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加22%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="5" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加24%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="6" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加26%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="7" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加28%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="8" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力增加30%\n攻击全部命中时能量恢复1" />
+	<key id="10200131" level="9" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高32%\n所有攻击命中时，能量恢复1" />
+	<key id="10200131" level="10" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高34%\n所有攻击命中时，能量恢复1" />
+	<key id="10200131" level="11" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高36%\n所有攻击命中时，能量恢复1" />
+	<key id="10200131" level="12" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高38%\n所有攻击命中时，能量恢复1" />
+	<key id="10200141" level="1" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高5%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="2" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高6%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="3" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高7%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="4" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高8%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="5" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高9%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="6" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高10%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="7" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高11%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="8" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高12%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="9" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高13%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="10" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高14%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="11" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高15%\n攻击成功时生命减少1%" />
+	<key id="10200141" level="12" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高16%\n攻击成功时生命减少1%" />
+	<key id="10200171" level="1" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="2" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="3" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="4" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="5" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="6" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="7" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="8" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="9" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="10" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="11" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200171" level="12" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
+	<key id="10200173" level="1" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="2" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="3" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="4" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="5" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="6" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="7" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="8" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="9" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="10" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="11" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200173" level="12" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
+	<key id="10200201" level="1" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="2" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="3" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="4" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="5" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="6" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="7" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="8" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="9" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="10" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="11" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200201" level="12" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
+	<key id="10200212" level="1" name="血之狂乱" tooltipDescription="物理攻击力提高4%\n血之渴望伤害提高149%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="2" name="血之狂乱" tooltipDescription="物理攻击力提高6。5%\n血之渴望伤害提高166%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="3" name="血之狂乱" tooltipDescription="物理攻击力提高9%\n血之渴望伤害提高183%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="4" name="血之狂乱" tooltipDescription="物理攻击力提高11.5%\n血之渴望伤害提高200%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="5" name="血之狂乱" tooltipDescription="物理攻击力提高14%\n血之渴望伤害提高217%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="6" name="血之狂乱" tooltipDescription="物理攻击力提高16.5%\n血之渴望伤害提高234%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="7" name="血之狂乱" tooltipDescription="物理攻击力提高19%\n血之渴望伤害提高251%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="8" name="血之狂乱" tooltipDescription="物理攻击力提高21.5%\n血之渴望伤害提高268%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="9" name="血之狂乱" tooltipDescription="物理攻击力提高24%\n血之渴望伤害提高285%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="10" name="血之狂乱" tooltipDescription="物理攻击力提高26.5%\n血之渴望伤害提高302%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="11" name="血之狂乱" tooltipDescription="物理攻击力提高29%\n血之渴望伤害提高319%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200212" level="12" name="血之狂乱" tooltipDescription="物理攻击力提高31.5%\n血之渴望伤害提高336%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
+	<key id="10200221" level="1" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高5%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="2" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高10%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="3" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高15%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="4" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高20%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="5" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高25%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="6" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高30%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="7" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高35%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="8" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高40%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="9" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高45%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="10" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高50%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="11" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高55%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200221" level="12" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高60%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
+	<key id="10200224" level="1" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="2" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="3" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="4" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="5" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="6" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="7" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="8" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="9" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="10" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="11" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200224" level="12" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
+	<key id="10200232" level="1" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="2" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="3" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="4" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="5" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="6" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="7" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="8" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="9" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="10" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="11" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200232" level="12" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
+	<key id="10200233" level="1" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="2" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="3" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="4" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="5" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="6" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="7" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="8" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="9" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="10" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="11" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200233" level="12" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
+	<key id="10200243" level="1" name="出血过量" tooltipDescription="每叠加1次，每秒造成52%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="2" name="出血过量" tooltipDescription="每叠加1次，每秒造成58%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="3" name="出血过量" tooltipDescription="每叠加1次，每秒造成64%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="4" name="出血过量" tooltipDescription="每叠加1次，每秒造成70%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="5" name="出血过量" tooltipDescription="每叠加1次，每秒造成76%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="6" name="出血过量" tooltipDescription="每叠加1次，每秒造成82%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="7" name="出血过量" tooltipDescription="每叠加1次，每秒造成88%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="8" name="出血过量" tooltipDescription="每叠加1次，每秒造成94%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="9" name="出血过量" tooltipDescription="每叠加1次，每秒造成100%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="10" name="出血过量" tooltipDescription="每叠加1次，每秒造成106%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="11" name="出血过量" tooltipDescription="每叠加1次，每秒造成112%的伤害" feature="JobChange_01" />
+	<key id="10200243" level="12" name="出血过量" tooltipDescription="每叠加1次，每秒造成118%的伤害" feature="JobChange_01" />
+	<key id="10200265" level="1" name="孤军奋战 1阶段" tooltipDescription="防御力提高2%、物理攻击提高3.5%" feature="JobChange_02" />
+	<key id="10200265" level="2" name="孤军奋战 2阶段" tooltipDescription="防御力提高4%、物理攻击提高7%" feature="JobChange_02" />
+	<key id="10200265" level="3" name="孤军奋战 3阶段" tooltipDescription="防御力提高6%、物理攻击提高10.5%" feature="JobChange_02" />
+	<key id="10200265" level="4" name="孤军奋战 4阶段" tooltipDescription="防御力提高8%、物理攻击提高14%" feature="JobChange_02" />
+	<key id="10200265" level="5" name="孤军奋战 5阶段" tooltipDescription="防御力提高10%、物理攻击提高17.5%" feature="JobChange_02" />
+	<key id="10200271" level="1" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="2" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="3" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="4" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="5" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="6" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="7" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="8" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="9" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="10" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="11" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200271" level="12" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
+	<key id="10200282" level="1" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="2" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="3" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="4" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="5" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="6" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="7" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="8" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="9" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="10" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="11" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200282" level="12" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
+	<key id="10200291" level="1" name="暗黑狂气" tooltipDescription="物理攻击力提高2%" feature="JobChange_02" />
+	<key id="10200291" level="2" name="暗黑狂气" tooltipDescription="物理攻击力提高4%" feature="JobChange_02" />
+	<key id="10200291" level="3" name="暗黑狂气" tooltipDescription="物理攻击力提高6%" feature="JobChange_02" />
+	<key id="10200291" level="4" name="暗黑狂气" tooltipDescription="物理攻击力提高8%" feature="JobChange_02" />
+	<key id="10200291" level="5" name="暗黑狂气" tooltipDescription="物理攻击力提高10%" feature="JobChange_02" />
+	<key id="10200291" level="6" name="暗黑狂气" tooltipDescription="物理攻击力提高12%" feature="JobChange_02" />
+	<key id="10200291" level="7" name="暗黑狂气" tooltipDescription="物理攻击力提高14%" feature="JobChange_02" />
+	<key id="10200291" level="8" name="暗黑狂气" tooltipDescription="物理攻击力提高16%" feature="JobChange_02" />
+	<key id="10200291" level="9" name="暗黑狂气" tooltipDescription="物理攻击力提高18%" feature="JobChange_02" />
+	<key id="10200291" level="10" name="暗黑狂气" tooltipDescription="物理攻击力提高20%" feature="JobChange_02" />
+	<key id="10200291" level="11" name="暗黑狂气" tooltipDescription="物理攻击力提高22%" feature="JobChange_02" />
+	<key id="10200291" level="12" name="暗黑狂气" tooltipDescription="物理攻击力提高24%" feature="JobChange_02" />
+	<key id="10200292" level="1" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低9%" feature="JobChange_02" />
+	<key id="10200292" level="2" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低12%" feature="JobChange_02" />
+	<key id="10200292" level="3" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低15%" feature="JobChange_02" />
+	<key id="10200292" level="4" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低18%" feature="JobChange_02" />
+	<key id="10200292" level="5" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低21%" feature="JobChange_02" />
+	<key id="10200292" level="6" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低24%" feature="JobChange_02" />
+	<key id="10200292" level="7" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低27%" feature="JobChange_02" />
+	<key id="10200292" level="8" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低30%" feature="JobChange_02" />
+	<key id="10200292" level="9" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低33%" feature="JobChange_02" />
+	<key id="10200292" level="10" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低36%" feature="JobChange_02" />
+	<key id="10200292" level="11" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低39%" feature="JobChange_02" />
+	<key id="10200292" level="12" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低42%" feature="JobChange_02" />
 </ms2>

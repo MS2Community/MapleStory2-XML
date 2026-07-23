@@ -1,784 +1,783 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="0831180306000001" feature="" locale="" npc="설눈이" name="有什么事吗？" />
-  <key id="0831180306000002" feature="" locale="" npc="설눈이" name="我是$map:02000001$最好的铁匠～" />
-  <key id="0831180306000003" feature="" locale="" npc="설눈이" name="需要装备的话，就过来看看吧～" />
-  <key id="0831180306000004" feature="" locale="" npc="설눈이" name="我以前和你一样是个冒险家，直到我每天在“企鹅吧”酩酊大醉~" />
-  <key id="0831180306000005" feature="" locale="" npc="마야" name="发生什么事了？" />
-  <key id="0831180306000006" feature="" locale="" npc="마야" name="$npc:11000174[gender:1]$会接受$npcName:11000170[gender:0]$的心意吗……？" />
-  <key id="0831180306000007" feature="" locale="" npc="마야" name="因为觐见仪式，这段时间生意很好……以后客人估计就少了……" />
-  <key id="0831180306000008" feature="" locale="" npc="마야" name="对于旅行者来说，药水是必需品！" />
-  <key id="0831180306000009" feature="" locale="" npc="마끼" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000010" feature="" locale="" npc="마끼" name="要是我年轻十岁，我也要转职试试……" />
-  <key id="0831180306000011" feature="" locale="" npc="마끼" name="需要存放物品或金币的地方吗？" />
-  <key id="0831180306000012" feature="" locale="" npc="마끼" name="我们格尔多斯银行的保安系统是最好的" />
-  <key id="0831180306000013" feature="" locale="" npc="코사무이" name="有事吗？" />
-  <key id="0831180306000014" feature="" locale="" npc="코사무이" name="并不是只要过了$map:02000116$，就能到达$map:02000001$……" />
-  <key id="0831180306000015" feature="" locale="" npc="코사무이" name="像这样就想穿过森林，好像太鲁莽了……" />
-  <key id="0831180306000016" feature="" locale="" npc="코사무이" name="你想把手上的东西全部卖掉，金盆洗手吗……？" />
-  <key id="0831180306000017" feature="" locale="" npc="루미" name="发生什么事了？" />
-  <key id="0831180306000018" feature="" locale="" npc="루미" name="想卖东西的话，请到这边来" />
-  <key id="0831180306000019" feature="" locale="" npc="루미" name="只要是好东西，我一定会出个好价钱" />
-  <key id="0831180306000020" feature="" locale="" npc="루미" name="要回$map:02000062$去看看吗？" />
-  <key id="0831180306000021" feature="" locale="" npc="루미" name="没有什么地方比$map:02000062$更适合做生意了" />
-  <key id="0831180306000022" feature="" locale="" npc="설몽이" name="有什么事吗？" />
-  <key id="0831180306000023" feature="" locale="" npc="설몽이" name="$map:02000051$的所有装备都由我保管～" />
-  <key id="0831180306000024" feature="" locale="" npc="설몽이" name="偷东西的是坏人～" />
-  <key id="0831180306000025" feature="" locale="" npc="설몽이" name="快过来看看吧～" />
-  <key id="0831180306000026" feature="" locale="" npc="베르조" name="有事吗？" />
-  <key id="0831180306000027" feature="" locale="" npc="베르조" name="哦～我刚好有适合你的装备！" />
-  <key id="0831180306000028" feature="" locale="" npc="베르조" name="敌人随时可能出现！" />
-  <key id="0831180306000029" feature="" locale="" npc="베르조" name="听说过有备无患这句话吗？" />
-  <key id="0831180306000030" feature="" locale="" npc="라리" name="发生什么事了？" />
-  <key id="0831180306000031" feature="" locale="" npc="라리" name="这是妖精们亲手制作的药水～" />
-  <key id="0831180306000032" feature="" locale="" npc="라리" name="看上去好看的药水，喝起来也好喝～" />
-  <key id="0831180306000033" feature="" locale="" npc="라리" name="需要什么东西吗？" />
-  <key id="0831180306000034" feature="" locale="" npc="루미" name="发生什么事了？" />
-  <key id="0831180306000035" feature="" locale="" npc="루미" name="我把各个岛上值钱的东西都带来了……" />
-  <key id="0831180306000036" feature="" locale="" npc="루미" name="我想去$map:02000001$大赚一笔，结果全赔了……" />
-  <key id="0831180306000037" feature="" locale="" npc="루미" name="好好的路怎么断了……" />
-  <key id="0831180306000038" feature="" locale="" npc="루미" name="没有什么地方比$map:02000062$更适合做生意的了" />
-  <key id="0831180306000039" feature="" locale="" npc="루미" name="嗯……我们是不是在$map:63000001$见过？" />
-  <key id="0831180306000040" feature="" locale="" npc="루미" name="要再到$map:63000001$去看看吗？" />
-  <key id="0831180306000041" feature="" locale="" npc="솔베이" name="你有什么事吗？" />
-  <key id="0831180306000042" feature="" locale="" npc="솔베이" name="不管什么东西，我都会以合适的价钱收购！" />
-  <key id="0831180306000043" feature="" locale="" npc="솔베이" name="所有东西我都收，绝不追问来历！" />
-  <key id="1121222006000787" feature="" locale="" npc="옌타이오" name="有什么事吗？" />
-  <key id="1121222006000788" feature="" locale="" npc="옌타이오" name="有什么事吗？" />
-  <key id="0831180306000048" feature="" locale="" npc="우니타" name="我这里可都是好东西" />
-  <key id="0831180306000049" feature="" locale="" npc="우니타" name="没人比我对材料更了解了" />
-  <key id="1121222006000789" feature="" locale="" npc="크리스" name="发生什么事了？" />
-  <key id="1121222006000790" feature="" locale="" npc="크리스" name="发生什么事了？" />
-  <key id="1121222006000791" feature="" locale="" npc="다나" name="发生什么事了？" />
-  <key id="1121222006000792" feature="" locale="" npc="다나" name="发生什么事了？" />
-  <key id="0831180306000058" feature="" locale="" npc="페트" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000059" feature="" locale="" npc="페트" name="贵重物品请存放到保险箱中" />
-  <key id="0831180306000060" feature="" locale="" npc="페트" name="虽然道路中断了，但去王城“企鹅吧”的人却络绎不绝。。。" />
-  <key id="0831180306000061" feature="" locale="" npc="페트" name="想存放物品或金币的话，当然选择格尔多斯银行啦！" />
-  <key id="1121222006000793" feature="" locale="" npc="지오" name="发生什么事了？" />
-  <key id="1121222006000794" feature="" locale="" npc="지오" name="发生什么事了？" />
-  <key id="1121222006000795" feature="" locale="" npc="니케아" name="发生什么事了？" />
-  <key id="1121222006000796" feature="" locale="" npc="니케아" name="发生什么事了？" />
-  <key id="1121222006000797" feature="" locale="" npc="피터" name="发生什么事了？" />
-  <key id="1121222006000798" feature="" locale="" npc="피터" name="发生什么事了？" />
-  <key id="1121222006000799" feature="" locale="" npc="라벤느" name="什么事情？" />
-  <key id="1121222006000800" feature="" locale="" npc="라벤느" name="什么事情？" />
-  <key id="1121222006000801" feature="" locale="" npc="릴리" name="什么事情？" />
-  <key id="1121222006000802" feature="" locale="" npc="릴리" name="什么事情？" />
-  <key id="1121222006000803" feature="" locale="" npc="잭클린" name="什么事情？" />
-  <key id="1121222006000804" feature="" locale="" npc="잭클린" name="有没有哪种药，可以治好弟弟的病呢……" />
-  <key id="1121222006000805" feature="" locale="" npc="알프레드" name="有什么事吗？" />
-  <key id="1121222006000806" feature="" locale="" npc="알프레드" name="有什么事吗？" />
-  <key id="1121222006000807" feature="" locale="" npc="브리엘" name="发生什么事了？" />
-  <key id="1121222006000808" feature="" locale="" npc="브리엘" name="我也希望有人能送花给我～～" />
-  <key id="1121222006000809" feature="" locale="" npc="브리엘" name="我就是有名的“$map:02000100$的野花”～" />
-  <key id="0831180306000086" feature="" locale="" npc="듀크" name="有什么事吗？" />
-  <key id="0831180306000087" feature="" locale="" npc="듀크" name="购买武器的话，我会为你介绍使用方法！！" />
-  <key id="0831180306000088" feature="" locale="" npc="듀크" name="使用武器时，千万不能大意" />
-  <key id="0831180306000089" feature="" locale="" npc="수잔나" name="发生什么事了？" />
-  <key id="0831180306000090" feature="" locale="" npc="수잔나" name="喝一瓶爽口的药水再走吧～" />
-  <key id="0831180306000091" feature="" locale="" npc="수잔나" name="不用姐姐担心，我也能过得很好" />
-  <key id="0831180306000092" feature="" locale="" npc="보닌" name="有什么事吗？" />
-  <key id="0831180306000093" feature="" locale="" npc="보닌" name="只有经过历练的人，才配使用好装备！" />
-  <key id="0831180306000094" feature="" locale="" npc="보닌" name="我是警卫队必不可少的人！嗯哼！" />
-  <key id="0831180306000095" feature="" locale="" npc="메를린" name="什么事？" />
-  <key id="0831180306000096" feature="" locale="" npc="메를린" name="我这里有很多有用的东西～" />
-  <key id="0831180306000097" feature="" locale="" npc="메를린" name="就算是店里的常客，也恕不赊欠！" />
-  <key id="1121222006000810" feature="" locale="" npc="재커리" name="什么事？" />
-  <key id="1121222006000811" feature="" locale="" npc="재커리" name="能够帮助别人是件很幸运的事情。" />
-  <key id="1121222006000812" feature="" locale="" npc="가브리엘" name="什么事？" />
-  <key id="1121222006000813" feature="" locale="" npc="가브리엘" name="植物会给家里带来生气。" />
-  <key id="1121222006000814" feature="" locale="" npc="가브리엘" name="要是能好好睡一觉就好了……" />
-  <key id="1121222006000815" feature="" locale="" npc="제프리" name="什么事？" />
-  <key id="1121222006000816" feature="" locale="" npc="제프리" name="什么事？" />
-  <key id="0831180306000107" feature="" locale="" npc="라미온느" name="发生什么事了？" />
-  <key id="0831180306000108" feature="" locale="" npc="라미온느" name="冒险不可或缺的药水，快来买啊～" />
-  <key id="0831180306000109" feature="" locale="" npc="라미온느" name="弟弟怎么还不给我回信……" />
-  <key id="0831180306000110" feature="" locale="" npc="로버트" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000111" feature="" locale="" npc="로버트" name="需要存放物品或金币的地方吗？" />
-  <key id="0831180306000112" feature="" locale="" npc="로버트" name="想使用保险箱的话，请跟我说" />
-  <key id="0831180306000113" feature="" locale="" npc="스티븐" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000114" feature="" locale="" npc="스티븐" name="格尔多斯银行您就尽管放心好了" />
-  <key id="0831180306000115" feature="" locale="" npc="스티븐" name="你想存放物品或金币吗？" />
-  <key id="0831180306000116" feature="" locale="" npc="스티븐" name="我们可以为你保管贵重物品" />
-  <key id="0831180306000117" feature="" locale="" npc="월터" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000118" feature="" locale="" npc="월터" name="东西拿着太重的话，请交给我保管" />
-  <key id="0831180306000119" feature="" locale="" npc="월터" name="请把这里当成是你的家，不要感觉拘束" />
-  <key id="0831180306000120" feature="" locale="" npc="닐슨" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000121" feature="" locale="" npc="닐슨" name="吃药时间到了" />
-  <key id="0831180306000122" feature="" locale="" npc="닐슨" name="格尔多斯银行是世界上最安全的地方" />
-  <key id="0831180306000123" feature="" locale="" npc="아카시" name="你来这里干什么？" />
-  <key id="0831180306000124" feature="" locale="" npc="아카시" name="想拥有带有魔法的装备吗？" />
-  <key id="0104233206000891" feature="NPCPortal01" locale="" npc="아카시" name="你想快点过去吗？" />
-  <key id="1121222006000817" feature="" locale="" npc="브로" name="什么事？" />
-  <key id="1121222006000818" feature="" locale="" npc="브로" name="样式好看的家一定也很适合生活。" />
-  <key id="1121222006000819" feature="" locale="" npc="아놀드" name="欢迎光临。有什么事吗？" />
-  <key id="1121222006000820" feature="" locale="" npc="아놀드" name="一套雅致、舒服的房子，是必不可少的" />
-  <key id="1121222006000821" feature="" locale="" npc="이안" name="发生什么事了？" />
-  <key id="1121222006000822" feature="" locale="" npc="이안" name="发生什么事了？" />
-  <key id="1121222006000823" feature="" locale="" npc="엘비스" name="什么事？" />
-  <key id="1121222006000824" feature="" locale="" npc="엘비스" name="开发出高层大楼或一站式地标，是我的梦想。" />
-  <key id="1121222006000825" feature="" locale="" npc="이삭" name="什么事？" />
-  <key id="1121222006000826" feature="" locale="" npc="이삭" name="我一定要成为富翁！" />
-  <key id="0104215506000890" feature="NPCPortal01" locale="" npc="이삭" name="我可以帮你尽快赶过去。" />
-  <key id="0831180306000139" feature="" locale="" npc="르넷" name="什么事？" />
-  <key id="0831180306000140" feature="" locale="" npc="르넷" name="这里的东西都很新鲜" />
-  <key id="0831180306000141" feature="" locale="" npc="르넷" name="希望世界上没有人会挨饿" />
-  <key id="0831180306000142" feature="" locale="" npc="마가리타" name="什么事？" />
-  <key id="0831180306000143" feature="" locale="" npc="마가리타" name="我这里的东西，都是最好的" />
-  <key id="0831180306000144" feature="" locale="" npc="마가리타" name="我可是“企鹅吧”的大股东，所以你想要前排位置吗？" />
-  <key id="0831180306000145" feature="" locale="" npc="샤네르" name="什么事情？" />
-  <key id="0831180306000146" feature="" locale="" npc="샤네르" name="你是来看东西的吗？还是看我的脸？" />
-  <key id="0831180306000147" feature="" locale="" npc="샤네르" name="嗯……应该穿上管家装吗……" />
-  <key id="0831180306000148" feature="" locale="" npc="에릭" name="欢迎光临～" />
-  <key id="0831180306000149" feature="" locale="" npc="에릭" name="都调教得很好，可以放心用～" />
-  <key id="0831180306000150" feature="" locale="" npc="에릭" name="本店不提供试驾服务……" />
-  <key id="0831180306000151" feature="" locale="" npc="에릭" name="都是很温顺～驯养得很好的坐骑" />
-  <key id="1121222006000827" feature="" locale="" npc="로엥" name="可以再我的家建造模式中直接购买纪念品~" />
-  <key id="1121222006000828" feature="" locale="" npc="로엥" name="这是个好时代～嗯～确实如此～" />
-  <key id="1121222006000829" feature="" locale="" npc="쟝피엘" name="发生什么事了？" />
-  <key id="1121222006000830" feature="" locale="" npc="쟝피엘" name="请不要问有关过去的事情。" />
-  <key id="0831180306000158" feature="" locale="" npc="카를라" name="发生什么事了？" />
-  <key id="1121222006000831" feature="" locale="" npc="카를라" name="阴森的房子也别具魅力。" />
-  <key id="1121222006000832" feature="" locale="" npc="카를라" name="你想建一座鬼屋吗？" />
-  <key id="1121222006000833" feature="" locale="" npc="로코" name="发生什么事了？" />
-  <key id="1121222006000834" feature="" locale="" npc="로코" name="发生什么事了？" />
-  <key id="1121222006000835" feature="" locale="" npc="이슬레이" name="发生什么事了？" />
-  <key id="1121222006000836" feature="" locale="" npc="이슬레이" name="我一定要建立属于我的帝国！" />
-  <key id="1121222006000837" feature="" locale="" npc="시드" name="什么事？" />
-  <key id="1121222006000838" feature="" locale="" npc="시드" name="什么事？" />
-  <key id="1121222006000839" feature="" locale="" npc="보겐" name="发生什么事了？" />
-  <key id="1121222006000840" feature="" locale="" npc="보겐" name="今天可以减掉多少体重呢……" />
-  <key id="0831180306000172" feature="" locale="" npc="팜" name="什么事？" />
-  <key id="0831180306000173" feature="" locale="" npc="팜" name="我只出售安全的坐骑！" />
-  <key id="0831180306000174" feature="" locale="" npc="팜" name="谁说放羊少年是骗子！" />
-  <key id="0831180306000175" feature="" locale="" npc="날카로운 채찍" name="有什么事吗？" />
-  <key id="0831180306000176" feature="" locale="" npc="날카로운 채찍" name="都是我亲自驯养的坐骑，看看再走吧～" />
-  <key id="0831180306000177" feature="" locale="" npc="날카로운 채찍" name="你以为驯养怪物很容易吗？" />
-  <key id="0831180306000178" feature="" locale="" npc="비스트" name="有什么事吗？" />
-  <key id="0831180306000179" feature="" locale="" npc="비스트" name="买个可爱的坐骑吧～" />
-  <key id="0831180306000180" feature="" locale="" npc="비스트" name="看来观看也应该收费" />
-  <key id="0831180306000181" feature="" locale="" npc="펀치" name="什么事情？" />
-  <key id="0831180306000182" feature="" locale="" npc="펀치" name="阳光很烫吧～？" />
-  <key id="0831180306000183" feature="" locale="" npc="펀치" name="喝口果汁凉快一下吧？" />
-  <key id="0831180306000184" feature="" locale="" npc="펀치" name="都是按特殊配方制成的果汁～" />
-  <key id="0831180306000185" feature="" locale="" npc="펀치" name="别把我制作的果汁当成普通果汁～ " />
-  <key id="0831180306000186" feature="" locale="" npc="펀치" name="为了能喝到我的果汁，很多人从全世界赶过来！" />
-  <key id="1121222006000841" feature="" locale="" npc="리키" name="发生什么事了？" />
-  <key id="1121222006000842" feature="" locale="" npc="리키" name="发生什么事了？" />
-  <key id="0831180306000190" feature="" locale="" npc="바니걸" name="发生什么事了？" />
-  <key id="0831180306000191" feature="" locale="" npc="짜루" name="欢迎光临～" />
-  <key id="0831180306000192" feature="" locale="" npc="짜루" name="在我这里买东西的机会，可不是每天都有的～" />
-  <key id="0831180306000193" feature="" locale="" npc="짜루" name="经过剧烈运动之后，一定饿了吧～" />
-  <key id="0831180306000194" feature="" locale="" npc="짜루" name="你一定吃了还想吃～" />
-  <key id="0831180306000195" feature="" locale="" npc="짜루" name="啦啦队是竞技场的灵魂～" />
-  <key id="0831180306000196" feature="" locale="" npc="짜루" name="尝尝看吧～" />
-  <key id="0831180306000197" feature="" locale="" npc="짜루" name="大家都来看看吧～" />
-  <key id="0831180306000198" feature="" locale="" npc="체프" name="发生什么事了？" />
-  <key id="0831180306000199" feature="" locale="" npc="롬벨" name="发生什么事了？" />
-  <key id="0831180306000200" feature="" locale="" npc="티백" name="发生什么事了？" />
-  <key id="0831180306000201" feature="" locale="" npc="바니걸" name="发生什么事了？" />
-  <key id="0831180306000202" feature="" locale="" npc="리즈" name="发生什么事了？" />
-  <key id="0831180306000203" feature="" locale="" npc="리즈" name="我的东西全都是最好的～" />
-  <key id="0831180306000204" feature="" locale="" npc="리즈" name="能和我说会儿话再走吗？" />
-  <key id="0831180306000205" feature="" locale="" npc="사브리나" name="什么事情？" />
-  <key id="0831180306000206" feature="" locale="" npc="사브리나" name="干净又好吃，看看再走吧！" />
-  <key id="0831180306000207" feature="" locale="" npc="사브리나" name="啊！钱怎么不够啊？" />
-  <key id="0831180306000208" feature="" locale="" npc="에밀리" name="欢迎光临便利店。" />
-  <key id="0831180306000209" feature="" locale="" npc="에밀리" name="欢迎光临～这里是便利店～" />
-  <key id="0831180306000210" feature="" locale="" npc="에밀리" name="结算请到这边～" />
-  <key id="0831180306000211" feature="" locale="" npc="에밀리" name="你在找什么东西吗～？" />
-  <key id="0831180306000212" feature="" locale="" npc="가젤" name="欢迎光临便利店。" />
-  <key id="0831180306000213" feature="" locale="" npc="가젤" name="欢迎光临～这里是便利店～" />
-  <key id="0831180306000214" feature="" locale="" npc="가젤" name="结算请到这边～" />
-  <key id="0831180306000215" feature="" locale="" npc="가젤" name="你在找什么东西吗～？" />
-  <key id="0831180306000216" feature="" locale="" npc="린지" name="欢迎光临便利店。" />
-  <key id="0831180306000217" feature="" locale="" npc="린지" name="欢迎光临～这里是便利店～" />
-  <key id="0831180306000218" feature="" locale="" npc="린지" name="结算请到这边～" />
-  <key id="0831180306000219" feature="" locale="" npc="린지" name="你在找什么东西吗～？" />
-  <key id="0831180306000220" feature="" locale="" npc="밀레나" name="欢迎光临便利店。" />
-  <key id="0831180306000221" feature="" locale="" npc="밀레나" name="欢迎光临～这里是便利店～" />
-  <key id="0831180306000222" feature="" locale="" npc="밀레나" name="结算请到这边～" />
-  <key id="0831180306000223" feature="" locale="" npc="밀레나" name="你在找什么东西吗～？" />
-  <key id="0831180306000224" feature="" locale="" npc="치아토" name="有什么事吗？" />
-  <key id="0831180306000225" feature="" locale="" npc="치아토" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000226" feature="" locale="" npc="치아토" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000227" feature="" locale="" npc="치아토" name="图尔卡的气息正在逐渐增强……" />
-  <key id="0831180306000228" feature="" locale="" npc="빈디체" name="有什么事吗？" />
-  <key id="0831180306000229" feature="" locale="" npc="빈디체" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000230" feature="" locale="" npc="빈디체" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000231" feature="" locale="" npc="빈디체" name="图尔卡的气息正在逐渐增强……" />
-  <key id="0831180306000232" feature="" locale="" npc="벨페고르" name="有什么事吗？" />
-  <key id="0831180306000233" feature="" locale="" npc="벨페고르" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000234" feature="" locale="" npc="벨페고르" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000235" feature="" locale="" npc="벨페고르" name="图尔卡的气息正在逐渐增强……" />
-  <key id="0831180306000236" feature="" locale="" npc="모스카" name="有什么事吗？" />
-  <key id="0831180306000237" feature="" locale="" npc="모스카" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000238" feature="" locale="" npc="모스카" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000239" feature="" locale="" npc="모스카" name="图尔卡的气息正在逐渐增强……" />
-  <key id="0831180306000240" feature="" locale="" npc="나이트 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000241" feature="" locale="" npc="버서커 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000242" feature="" locale="" npc="위자드 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000243" feature="" locale="" npc="프리스트 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000244" feature="" locale="" npc="레인저 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000245" feature="" locale="" npc="헤비거너 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000246" feature="" locale="" npc="시프 전용 상인" name="发生什么事了？" />
-  <key id="0831180306000247" feature="" locale="" npc="어쌔신 전용 상인" name="发生什么事了？" />
-  <key id="1121222006000843" feature="" locale="" npc="진저스" name="发生什么事了？" />
-  <key id="1121222006000844" feature="" locale="" npc="진저스" name="发生什么事了？" />
-  <key id="1121222006000845" feature="" locale="" npc="빈센트" name="发生什么事了？" />
-  <key id="1121222006000846" feature="" locale="" npc="빈센트" name="我讨厌尾巴长的人。" />
-  <key id="1121222006000847" feature="" locale="" npc="디오니" name="发生什么事了？" />
-  <key id="1121222006000848" feature="" locale="" npc="디오니" name="$map:02000023$式建筑的室内非常凉爽～" />
-  <key id="1121222006000849" feature="" locale="" npc="카지미르" name="发生什么事了？" />
-  <key id="1121222006000850" feature="" locale="" npc="카지미르" name="什么时候，我也能有属于自己的房子呢……" />
-  <key id="0831180306000260" feature="" locale="" npc="일곱 빛깔 무지개" name="发生什么事了？" />
-  <key id="0831180306000261" feature="" locale="" npc="일곱 빛깔 무지개" name="我的东西不会随便卖给任何人" />
-  <key id="0831180306000262" feature="" locale="" npc="일곱 빛깔 무지개" name="你好像是比我更强的男人" />
-  <key id="0831180306000263" feature="" locale="" npc="일곱 빛깔 무지개" name="现在我只卖30级装备～" />
-  <key id="0831180306000264" feature="" locale="" npc="키리엔" name="什么事？" />
-  <key id="0831180306000265" feature="" locale="" npc="키리엔" name="这里有用炼金术制作的特殊药水～" />
-  <key id="0831180306000266" feature="" locale="" npc="키리엔" name="没有比我制作的药水效果更好的了" />
-  <key id="0831180306000267" feature="" locale="" npc="모건" name="有什么事吗？" />
-  <key id="0831180306000268" feature="" locale="" npc="모건" name="看看我的武器再走吧～" />
-  <key id="0831180306000269" feature="" locale="" npc="모건" name="要让自己比武器更强" />
-  <key id="0831180306000270" feature="" locale="" npc="와트" name="有什么事吗？" />
-  <key id="0831180306000271" feature="" locale="" npc="와트" name="看看我卖的东西吧～看一眼也好" />
-  <key id="0831180306000272" feature="" locale="" npc="와트" name="也许有你喜欢的装备也说不定" />
-  <key id="0831180306000273" feature="" locale="" npc="와트" name="好像到吃饭的时候了……" />
-  <key id="0831180306000274" feature="" locale="" npc="보딘" name="发生什么事了？" />
-  <key id="0831180306000275" feature="" locale="" npc="보딘" name="你知道吧？格尔多斯银行！" />
-  <key id="0831180306000276" feature="" locale="" npc="보딘" name="还不知道吗？格尔多斯银行？" />
-  <key id="0831180306000277" feature="" locale="" npc="보딘" name="放心交给我们吧～你是被骗太多次了吗～" />
-  <key id="0831180306000278" feature="" locale="" npc="붉은 태양의 노래" name="发生什么事了？" />
-  <key id="0831180306000279" feature="" locale="" npc="붉은 태양의 노래" name="我的东西的价值，是无法用金钱来衡量的" />
-  <key id="0831180306000280" feature="" locale="" npc="붉은 태양의 노래" name="你不想成为英雄，购买我的东西吗？" />
-  <key id="0831180306000281" feature="" locale="" npc="붉은 태양의 노래" name="都是非常珍贵的坐骑" />
-  <key id="0831180306000282" feature="" locale="" npc="라이든" name="有什么事吗？" />
-  <key id="0831180306000283" feature="" locale="" npc="라이든" name="世上的一切，都以交易的形态存在！" />
-  <key id="0831180306000284" feature="" locale="" npc="라이든" name="你看上去好像不需要什么……" />
-  <key id="1121222006000851" feature="" locale="" npc="타바사" name="发生什么事了？" />
-  <key id="1121222006000852" feature="" locale="" npc="타바사" name="和管家在一起，互相照顾，真的会觉得很暖心哦。" />
-  <key id="0831180306000289" feature="" locale="" npc="일곱 빛깔 무지개" name="发生什么事了？" />
-  <key id="0831180306000290" feature="" locale="" npc="일곱 빛깔 무지개" name="我的东西不会随便卖给任何人" />
-  <key id="0831180306000291" feature="" locale="" npc="일곱 빛깔 무지개" name="你好像是比我更强的男人" />
-  <key id="0831180306000292" feature="" locale="" npc="일곱 빛깔 무지개" name="40级装备上架了～" />
-  <key id="1121222006000853" feature="" locale="" npc="델브" name="发生什么事了？" />
-  <key id="1121222006000854" feature="" locale="" npc="델브" name="我的发型怎么样？" />
-  <key id="0831180306000296" feature="" locale="" npc="도키" name="$npc:11000735[gender:1]$才是最棒的……" />
-  <key id="0831180306000297" feature="" locale="" npc="도키" name="有什么好的……" />
-  <key id="0831180306000298" feature="" locale="" npc="도키" name="$npc:11000735[gender:1]$才是最棒的……" />
-  <key id="0831180306000299" feature="" locale="" npc="도키" name="那个丫头真是吵死了……&#xA;$npcName:11000406[gender:0]$哪里帅了……&#xA;和&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;相比，$npcName:11000406[gender:0]$之流……根本不值一提吧？" />
-  <key id="0831180306000300" feature="" locale="" npc="도키" name="$MyPCName$，你认识&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;吗？" />
-  <key id="0831180306000301" feature="" locale="" npc="pc" name="说认识$npcName:11000735[gender:1]$。" />
-  <key id="0831180306000302" feature="" locale="" npc="pc" name="问$npcName:11000735[gender:1]$是谁。" />
-  <key id="0831180306000303" feature="" locale="" npc="pc" name="说$npc:11000406[gender:0]$是最棒的。" />
-  <key id="0831180306000304" feature="" locale="" npc="도키" name="啊，真的吗？你见过&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;吗？&#xA;我之前只见过一次……" />
-  <key id="0831180306000305" feature="" locale="" npc="도키" name="那一瞬间。怎么说呢……唰！就像闪耀的流星一样，一转眼就消失了……&#xA;但神奇的是，我却非常鲜明地看到了&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;的脸。在那么短的时间里……&#xA;喀嚓！就像是拍照一样……我清楚地记得她的脸。" />
-  <key id="0831180306000306" feature="" locale="" npc="도키" name="在那之后，为了能再见到&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;，每次她出现在一个地方，我就会跟过去。&#xA;但是……直到现在都还没能再见到她。不过，我正在根据和我一样见到过&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;&#xA;的人的描述，为$npc:11000735[gender:1]$绘制肖像。&#xA;现在已经画了好几十张了。" />
-  <key id="0831180306000307" feature="" locale="" npc="도키" name="看到这些画之后，感觉&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;就像是天空一样……&#xA;因为天空的样子是时刻变化的，不是吗……？&#xA;有晚霞……也有云……你能理解我说的吗？" />
-  <key id="0831180306000308" feature="" locale="" npc="도키" name="我也不知道她是谁……&#xA;只是听大家叫她&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;。&#xA;然后在某个瞬间，她就像风一样瞬间消失了……只留下美丽的身影……&#xA;完全和我梦想中的理想型一模一样！" />
-  <key id="0831180306000309" feature="" locale="" npc="도키" name="现在我只能通过这些画来回忆她，安慰自己的心……&#xA;但总有一天！我一定要亲口向她表白！" />
-  <key id="0831180306000310" feature="" locale="" npc="도키" name="嘿……你也和那些喜欢大声嚷嚷的孩子一样。&#xA;你只要看见&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;一眼，就一定不会这么说了……" />
-  <key id="0831180306000314" feature="" locale="" npc="주스토" name="发生什么事了？" />
-  <key id="0831180306000315" feature="" locale="" npc="주스토" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000316" feature="" locale="" npc="주스토" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000317" feature="" locale="" npc="주스토" name="图尔卡的气息正在逐渐增强……" />
-  <key id="0831180306000318" feature="" locale="" npc="샤오루" name="发生什么事了？" />
-  <key id="0831180306000319" feature="" locale="" npc="샤오루" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000320" feature="" locale="" npc="샤오루" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000321" feature="" locale="" npc="샤오루" name="图尔卡的气息正在逐渐增强……" />
-  <key id="0831180306000322" feature="" locale="" npc="지아" name="发生什么事了？" />
-  <key id="0831180306000323" feature="" locale="" npc="지아" name="啊～灿烂的阳光照在白色的墙上～" />
-  <key id="0831180306000324" feature="" locale="" npc="지아" name="嗯～清爽的海风～" />
-  <key id="0831180306000325" feature="" locale="" npc="슐츠" name="发生什么事了？" />
-  <key id="0831180306000326" feature="" locale="" npc="슐츠" name="世上的一切，都以交易的形态存在！" />
-  <key id="0831180306000327" feature="" locale="" npc="슐츠" name="你看上去好像不需要什么……" />
-  <key id="0831180306000328" feature="" locale="" npc="마하" name="发生什么事了？" />
-  <key id="0831180306000329" feature="" locale="" npc="마하" name="世上的一切，都以交易的形态存在！" />
-  <key id="0831180306000330" feature="" locale="" npc="마하" name="你看上去好像不需要什么……" />
-  <key id="1121222006000855" feature="" locale="" npc="그리드" name="发生什么事了？" />
-  <key id="1121222006000856" feature="" locale="" npc="그리드" name="发生什么事了？" />
-  <key id="1121222006000857" feature="" locale="" npc="듀나" name="发生什么事了？" />
-  <key id="1121222006000858" feature="" locale="" npc="듀나" name="发生什么事了？" />
-  <key id="1121222006000859" feature="" locale="" npc="티앤크" name="发生什么事了？" />
-  <key id="1121222006000860" feature="" locale="" npc="티앤크" name="发生什么事了？" />
-  <key id="1121222006000861" feature="" locale="" npc="노라" name="发生什么事了？" />
-  <key id="1121222006000862" feature="" locale="" npc="노라" name="发生什么事了？" />
-  <key id="0831180306000339" feature="" locale="" npc="아가사" name="发生什么事了？" />
-  <key id="0831180306000340" feature="" locale="" npc="아가사" name="图尔卡的气息正在逐渐变强……" />
-  <key id="0831180306000341" feature="" locale="" npc="아가사" name="这个世界真有趣" />
-  <key id="0831180306000342" feature="" locale="" npc="아가사" name="虽然有点贵，但品质可以保证" />
-  <key id="0831180306000343" feature="" locale="" npc="아가사" name="不要厌倦生活" />
-  <key id="0831180306000344" feature="" locale="" npc="이올렛" name="发生什么事了？" />
-  <key id="0831180306000345" feature="" locale="" npc="이올렛" name="图尔卡的气息正在逐渐变强……" />
-  <key id="0831180306000346" feature="" locale="" npc="이올렛" name="这个世界真有趣" />
-  <key id="0831180306000347" feature="" locale="" npc="이올렛" name="虽然有点贵，但品质可以保证" />
-  <key id="0831180306000348" feature="" locale="" npc="이올렛" name="不要厌倦生活" />
-  <key id="0831180306000349" feature="" locale="" npc="페퍼" name="发生什么事了？" />
-  <key id="0831180306000350" feature="" locale="" npc="페퍼" name="图尔卡的气息正在逐渐变强……" />
-  <key id="0831180306000351" feature="" locale="" npc="페퍼" name="这个世界真有趣" />
-  <key id="0831180306000352" feature="" locale="" npc="페퍼" name="虽然有点贵，但品质可以保证" />
-  <key id="0831180306000353" feature="" locale="" npc="페퍼" name="不要厌倦生活" />
-  <key id="0831180306000354" feature="" locale="" npc="유니" name="发生什么事了？" />
-  <key id="0831180306000355" feature="" locale="" npc="유니" name="图尔卡的气息正在逐渐变强……" />
-  <key id="0831180306000356" feature="" locale="" npc="유니" name="这个世界真有趣" />
-  <key id="0831180306000357" feature="" locale="" npc="유니" name="虽然有点贵，但品质可以保证" />
-  <key id="0831180306000358" feature="" locale="" npc="유니" name="不要厌倦生活" />
-  <key id="1216202006000616" feature="" locale="" npc="웅이" name="什么事情？" />
-  <key id="0831180306000359" feature="" locale="" npc="차차" name="嗯？你是来找我的？" />
-  <key id="0831180306000360" feature="" locale="" npc="차차" name="啊～我要带上粉羊羊……" />
-  <key id="0831180306000361" feature="" locale="" npc="차차" name="要想转换心情，最好是去旅行～" />
-  <key id="0831180306000362" feature="" locale="" npc="차차" name="我讨厌和别人一样" />
-  <key id="0831180306000363" feature="" locale="" npc="행크" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000364" feature="" locale="" npc="행크" name="考虑到便捷性，这里是最好的仓库，不是吗？" />
-  <key id="0831180306000365" feature="" locale="" npc="행크" name="需要存放物品或金币的地方吗？" />
-  <key id="0831180306000366" feature="" locale="" npc="행크" name="希望在$map:02000216$你也能经常光临～格尔多斯银行！" />
-  <key id="0831180306000367" feature="" locale="" npc="행크" name="在这种地方，尤其要注意安全" />
-  <key id="0831180306000368" feature="" locale="" npc="프릿츠" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0831180306000369" feature="" locale="" npc="프릿츠" name="需要存放物品或金币的地方吗？请往这边走～" />
-  <key id="0831180306000370" feature="" locale="" npc="프릿츠" name="格尔多斯银行非常安全，请尽管放心～" />
-  <key id="0831180306000371" feature="" locale="" npc="프릿츠" name="希望在$map:02000203$你也能经常光临～格尔多斯银行！" />
-  <key id="0831180306000372" feature="" locale="" npc="프릿츠" name="想使用保险箱的话，请跟我说" />
-  <key id="0831180306000373" feature="" locale="" npc="블란체" name="嗯？找我有事吗？" />
-  <key id="0831180306000374" feature="" locale="" npc="블란체" name="让我来看看……你有没有和我交易的资格" />
-  <key id="0831180306000375" feature="" locale="" npc="블란체" name="我决定把你当成我的顾客" />
-  <key id="0831180306000376" feature="" locale="" npc="블란체" name="嗯～$MyPCName$，我是不会和你交易的。&#xA;我只为获得&lt;font color=&quot;#ffd200&quot;&gt;$achieve:23200015$&lt;/font&gt;成就的人服务。&#xA;如果你是专程来找我的，我只能说抱歉了。" />
-  <key id="0831180306000377" feature="" locale="" npc="메이플 북스" name="出售冒险岛2绘画册的书摊。" />
-  <key id="0831180306000378" feature="" locale="" npc="녹스" name="你是来找我的吧？" />
-  <key id="0831180306000379" feature="" locale="" npc="녹스" name="我不收$item:40100023$" />
-  <key id="0831180306000380" feature="" locale="" npc="녹스" name="我只做明明白白的交易……" />
-  <key id="0831180306000381" feature="" locale="" npc="녹스" name="你有$item:40100024$？嗯……真可惜啊……" />
-  <key id="1208032606000568" feature="" locale="" npc="녹스" name="嗯？你是谁？&#xA;是来交易物品的吗？" />
-  <key id="1208032606000569" feature="" locale="" npc="pc" name="听说这里在收集$item:40100024$。" />
-  <key id="1208032606000570" feature="" locale="" npc="녹스" name="啊，那个啊？&#xA;看样子你好不容易才弄到&lt;font color=&quot;#ffd200&quot;&gt;$item:40100024$&lt;/font&gt;，可惜这里不需要了。&#xA;这里暂时不做生意了，你要是想买东西，就去&lt;font color=&quot;#ffd200&quot;&gt;其他地方&lt;/font&gt;打听看看吧。" />
-  <key id="1208032606000571" feature="" locale="" npc="pc" name="为什么不做生意了？" />
-  <key id="1208032606000572" feature="" locale="" npc="녹스" name="……为什么不做了？&#xA;喂，小朋友。你在跟我开&lt;font color=&quot;#ffd200&quot;&gt;玩笑&lt;/font&gt;吗？&#xA;商人难道会有钱不想赚吗？当然是&lt;font color=&quot;#ffd200&quot;&gt;入不敷出&lt;/font&gt;才不做的。" />
-  <key id="1208032606000573" feature="" locale="" npc="녹스" name="至于是更换商品还是干脆另谋出路……&#xA;我还&lt;font color=&quot;#ffd200&quot;&gt;没想好&lt;/font&gt;，所以少来烦我，快走吧。&#xA;&lt;font color=&quot;#909090&quot;&gt;（看样子有些不耐烦了，还是少说为妙）&lt;/font&gt;" />
-  <key id="0831180306000382" feature="" locale="" npc="테로사" name="发生什么事了？" />
-  <key id="0831180306000383" feature="" locale="" npc="테로사" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000384" feature="" locale="" npc="테로사" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000385" feature="" locale="" npc="로미닉" name="发生什么事了？" />
-  <key id="0831180306000386" feature="" locale="" npc="로미닉" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000387" feature="" locale="" npc="로미닉" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000388" feature="" locale="" npc="베리엇" name="发生什么事了？" />
-  <key id="0831180306000389" feature="" locale="" npc="베리엇" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000390" feature="" locale="" npc="베리엇" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000391" feature="" locale="" npc="룰케" name="发生什么事了？" />
-  <key id="0831180306000392" feature="" locale="" npc="룰케" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000393" feature="" locale="" npc="룰케" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000394" feature="" locale="" npc="타자스" name="发生什么事了？" />
-  <key id="0831180306000395" feature="" locale="" npc="타자스" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000396" feature="" locale="" npc="타자스" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000397" feature="" locale="" npc="일곱 빛깔 무지개" name="发生什么事了？" />
-  <key id="0831180306000398" feature="" locale="" npc="일곱 빛깔 무지개" name="我的东西不会随便卖给任何人" />
-  <key id="0831180306000399" feature="" locale="" npc="일곱 빛깔 무지개" name="你好像是比我更强的男人" />
-  <key id="0831180306000400" feature="" locale="" npc="일곱 빛깔 무지개" name="50级装备上架了～" />
-  <key id="0831180306000401" feature="" locale="" npc="키페온" name="发生什么事了？" />
-  <key id="0831180306000402" feature="" locale="" npc="키페온" name="帮助生存的东西应该事先买好！" />
-  <key id="0831180306000403" feature="" locale="" npc="키페온" name="我感觉到了强烈的黑暗气息……" />
-  <key id="0831180306000404" feature="" locale="" npc="루트" name="你是来找我的吧？" />
-  <key id="0831180306000405" feature="" locale="" npc="루트" name="$item:40100024$越多越好！" />
-  <key id="0831180306000406" feature="" locale="" npc="루트" name="你想成为强大的战士？只要用我的东西，没什么不可能的事！" />
-  <key id="0831180306000407" feature="" locale="" npc="루트" name="如果你有$item:40100024$，可以来找我！" />
-  <key id="0809123006000906" feature="" locale="" npc="루트" name="嗯？目前东西还没有准备好，下次再来。" />
-  <key id="0922164706000504" feature="" locale="" npc="일곱 빛깔 무지개" name="发生什么事了？" />
-  <key id="0922164706000505" feature="" locale="" npc="일곱 빛깔 무지개" name="我的东西可不是什么人都能买的。" />
-  <key id="0922164706000506" feature="" locale="" npc="일곱 빛깔 무지개" name="这男人看上去比我还强啊？" />
-  <key id="0922164706000507" feature="" locale="" npc="일곱 빛깔 무지개" name="有新商品到了，请来看看吧！" />
-  <key id="1021213806000740" feature="" locale="" npc="페르시카" name="让我看看…… 嗯……？" />
-  <key id="1014150906000508" feature="" locale="" npc="아리까리 상단" name="装有糊涂商团物品的杂货箱。" />
-  <key id="1016142906000509" feature="" locale="" npc="롯피" name="只有懂得成就的价值之人才有资格获得珍贵的物品。" />
-  <key id="1016142906000510" feature="" locale="" npc="롯피" name="帅气的成就总是有相应的价值。" />
-  <key id="1016142906000511" feature="" locale="" npc="롯피" name="成就、成就！真想拥有更多的成就" />
-  <key id="1016142906000512" feature="" locale="" npc="롯피" name="怎么，你找我这个成就专家有什么事？&#xA;……嗯？难道你是因为对成就感兴趣才来找我的？" />
-  <key id="1016142906000513" feature="" locale="" npc="pc" name="难道会有人对成就不感兴趣吗？" />
-  <key id="1016142906000514" feature="" locale="" npc="pc" name="我对成就这种事情没什么兴趣。" />
-  <key id="1016142906000515" feature="" locale="" npc="롯피" name="哦？看来你对成就的价值很了解嘛？&#xA;如果你想成为像我一样的成就专家，那还得更加努力呢。&#xA;当然了，你要努力很~久才可能超越我，哈哈哈……" />
-  <key id="1016142906000516" feature="" locale="" npc="pc" name="询问成就增多后有什么好处。" />
-  <key id="1016142906000517" feature="" locale="" npc="롯피" name="呃……你居然是别有用心地在搜集成就！&#xA;……当然了，身为像我这样的冒险专家，还能单纯地搜集成就的人，&#xA;实在是太难找了。" />
-  <key id="1016142906000518" feature="" locale="" npc="롯피" name="总之，&#xA;万一我持有的成就……虽然这种事情发生的几率基本为零。&#xA;但是，如果发生了那样的事情，我就把&lt;font color=&quot;#ffd200&quot;&gt;相应的东西&lt;/font&gt;留给你吧。" />
-  <key id="1016142906000519" feature="" locale="" npc="pc" name="相应的物品？询问物品的价值。" />
-  <key id="1016142906000520" feature="" locale="" npc="롯피" name="什么？你现在是在小看我皮罗吗！&#xA;哼！那些都是我环游冒险岛世界获得的珍贵物品。&#xA;你可不要怀疑我说的话哦！" />
-  <key id="1016142906000521" feature="" locale="" npc="롯피" name="成就……这种事情？你这家伙！&#xA;你……居然敢小瞧成就？啊……小瞧成就就是在&#xA;小瞧身为成就专家的我，皮罗大人！" />
-  <key id="1016142906000522" feature="" locale="" npc="pc" name="道歉，表示自己不是这个意思。" />
-  <key id="1016142906000523" feature="" locale="" npc="롯피" name="切！不是就好。你以后说话可得小心点！&#xA;……成就这种东西……哼……现在想起来还是让人生气！&#xA;&lt;font color=&quot;#909090&quot;&gt;（皮罗用可怕的眼神盯着我，以……以后还是小心点吧？）&lt;/font&gt;" />
-  <key id="1019141606000524" feature="" locale="" npc="펌프키니" name="庆典真是好玩！" />
-  <key id="1019141606000525" feature="" locale="" npc="펌프키니" name="呃……不给我诡夜节优惠券我就要捣乱！！" />
-  <key id="1019141606000526" feature="" locale="" npc="펌프키니" name="阿布拉卡布卡！南瓜糖啊，出现吧~" />
-  <key id="1022122006000527" feature="" locale="" npc="주다쿠" name="你在找什么东西吗？只要有钱……呵呵……要多少都行。" />
-  <key id="1022122006000528" feature="" locale="" npc="주다쿠" name="可以搜集到珍贵物品的地方……" />
-  <key id="1022122006000529" feature="" locale="" npc="주다쿠" name="切！&#xA;糊涂商团的那些家伙，真是会耍手段……" />
-  <key id="1022122006000530" feature="" locale="" npc="주다쿠" name="什么？你有什么想要的东西吗？呵呵……&#xA;你就慢慢看吧，我这儿可有在其他地方&lt;font color=&quot;#ffd200&quot;&gt;见不到的商品&lt;/font&gt;哦。" />
-  <key id="1022122006000531" feature="" locale="" npc="pc" name="他的语调很特别，询问他是哪里人。" />
-  <key id="1022122006000532" feature="" locale="" npc="주다쿠" name="哦？你的耳朵很灵嘛？呵呵……&#xA;我来到这里以后，你是第一个问我来自哪里的人。" />
-  <key id="1022122006000533" feature="" locale="" npc="pc" name="再次询问他来自哪里。" />
-  <key id="1022122006000534" feature="" locale="" npc="주다쿠" name="我就算说了你也不会知道的……反正就是在海的另一边。&#xA;嗯……这么说来，你在&lt;font color=&quot;#ffd200&quot;&gt;$map:2000064$&lt;/font&gt;见过叫做&lt;font color=&quot;#ffd200&quot;&gt;糊涂商团&lt;/font&gt;的家伙吗？&#xA;就是……喊着&lt;font color=&quot;#ffd200&quot;&gt;呀哩哩哟~&lt;/font&gt;的那些家伙。" />
-  <key id="1022122006000535" feature="" locale="" npc="pc" name="回答说不知道他说的是谁。" />
-  <key id="1022122006000536" feature="" locale="" npc="pc" name="回答说知道。" />
-  <key id="1022122006000537" feature="" locale="" npc="주다쿠" name="看来你还没见到那些可恶的家伙啊。&#xA;你以后如果见到了，可一定要小心~他们都是些阴险的家伙。" />
-  <key id="1022122006000538" feature="" locale="" npc="pc" name="询问他们做了什么。" />
-  <key id="1022122006000539" feature="" locale="" npc="주다쿠" name="他们干了许多坏事。&#xA;他们说我一点船费都不出，完全是在&lt;font color=&quot;#ffd200&quot;&gt;免费&lt;/font&gt;坐船，就把我从船上赶了下来！&#xA;难道多载我一个人，船就会翻吗？&#xA;真是些坏家伙！" />
-  <key id="1022122006000540" feature="" locale="" npc="pc" name="询问不出钱坐船本身不就是错误的吗？" />
-  <key id="1022122006000541" feature="" locale="" npc="주다쿠" name="没错，就是那些家伙。&#xA;你要小心啊！他们说我一点船费都不出，完全是在&lt;font color=&quot;#ffd200&quot;&gt;免费&lt;/font&gt;坐船，就把我从船上赶了下来！&#xA;可恶的家伙……真是太坏了！" />
-  <key id="1022122006000542" feature="" locale="" npc="pc" name="询问不出钱坐船本身不就是错误的吗？" />
-  <key id="1022122006000543" feature="" locale="" npc="주다쿠" name="什么？！你的意思是我错了？！&#xA;哼！原来你也是个坏家伙！" />
-  <key id="1118145206000544" feature="" locale="" npc="퓨리" name="只要你能找到$item:90000014$，我随时都可以把妖精的宝物给你。" />
-  <key id="1118145206000545" feature="" locale="" npc="퓨리" name="我需要很多很多的$item:90000014$！" />
-  <key id="1118145206000546" feature="" locale="" npc="퓨리" name="如果你有$item:90000014$，就请给我吧！" />
-  <key id="1118145206000547" feature="" locale="" npc="퓨리" name="你带来&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;了吗？&#xA;你要不要把它们交换成宝物呢？对于我来说，&lt;font color=&quot;#ffd200&quot;&gt;那些果实比宝物更珍贵&lt;/font&gt;……" />
-  <key id="1118145206000548" feature="" locale="" npc="pc" name="询问$item:90000014$是什么东西。" />
-  <key id="1118145206000549" feature="" locale="" npc="pc" name="询问他$item:90000014$用在什么地方。" />
-  <key id="1118145206000550" feature="" locale="" npc="pc" name="询问用$item:90000014$交换妖精的宝物也没关系吗。" />
-  <key id="1118145206000551" feature="" locale="" npc="퓨리" name="它是在&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;受到影响的树木结出的果实，也被称作&lt;font color=&quot;#ffd200&quot;&gt;黑暗果实&lt;/font&gt;。&#xA;这个果实中包含了阴影世界的&lt;font color=&quot;#ffd200&quot;&gt;极度黑暗&lt;/font&gt;。" />
-  <key id="1118145206000552" feature="" locale="" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000031[gender:0]$&lt;/font&gt;和守护妖精一起，阻挡了&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;的气息。&#xA;但是有一部分守护妖精中了$item:90000014$的&lt;font color=&quot;#ffd200&quot;&gt;毒&lt;/font&gt;。&#xA;$npc:11000031[gender:0]$说了，&#xA;如果要解除$item:90000014$的毒，就必须用具有相同毒性的$item:90000014$才行。" />
-  <key id="1118145206000553" feature="" locale="" npc="퓨리" name="如果要治愈&lt;font color=&quot;#ffd200&quot;&gt;中毒症状&lt;/font&gt;，就必须有$item:90000014$的果汁才行……&#xA;所以我需要很多很多的&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;！" />
-  <key id="1118145206000554" feature="" locale="" npc="퓨리" name="宝物只是&lt;font color=&quot;#ffd200&quot;&gt;物品&lt;/font&gt;，不是吗？ 比起这个，&lt;font color=&quot;#ffd200&quot;&gt;生命&lt;/font&gt;更加重要。&#xA;只要能帮助那些守护了森林，现在正在痛苦中煎熬的朋友……&#xA;就算&lt;font color=&quot;#ffd200&quot;&gt;比宝物更珍贵的东西&lt;/font&gt;，我也能用来交换！" />
-  <key id="1206041506000567" feature="" locale="" npc="산타 루돌프" name="为了纪念圣诞节而来到$map:2000064$的鲁道夫。" />
-  <key id="1206032906000555" feature="" locale="" npc="로아르" name="您怎么来了？" />
-  <key id="1206032906000556" feature="" locale="" npc="로아르" name="蓝色星星……我想了解它神秘的力量……" />
-  <key id="1206032906000557" feature="" locale="" npc="로아르" name="如果发现蓝色星星，带着它来找我！" />
-  <key id="1206032906000558" feature="" locale="" npc="모나르" name="您怎么来了？" />
-  <key id="1206032906000559" feature="" locale="" npc="모나르" name="蓝色星星……我想了解它神秘的力量……" />
-  <key id="1206032906000560" feature="" locale="" npc="모나르" name="如果发现蓝色星星，带着它来找我！" />
-  <key id="1206034206000561" feature="" locale="" npc="아코르" name="您怎么来了？" />
-  <key id="1206034206000562" feature="" locale="" npc="아코르" name="红色星星……我想了解它神秘的力量……" />
-  <key id="1206034206000563" feature="" locale="" npc="아코르" name="如果发现红色星星，带着它来找我！" />
-  <key id="1206034206000564" feature="" locale="" npc="카네르" name="您怎么来了？" />
-  <key id="1206034206000565" feature="" locale="" npc="카네르" name="红色星星……我想了解它神秘的力量……" />
-  <key id="1206034206000566" feature="" locale="" npc="카네르" name="如果发现红色星星，带着它来找我！" />
-  <key id="1216150106000596" feature="" locale="" npc="슈테판" name="音乐是属于每一个人的！现在开始吧！" />
-  <key id="1216150106000597" feature="" locale="" npc="슈테판" name="你也会演奏啊！" />
-  <key id="1216150106000598" feature="" locale="" npc="슈테판" name="你也会作曲啊！" />
-  <key id="1216150106000599" feature="" locale="" npc="슈테판" name="把身体交给音乐~乘着旋律奔跑~" />
-  <key id="1216150106000600" feature="" locale="" npc="슈테판" name="只要有&lt;font color=&quot;#ffd200&quot;&gt;乐器&lt;/font&gt;，每个人都可以&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;。&#xA;拿起我们&lt;font color=&quot;#ffd200&quot;&gt;皇家音乐学院&lt;/font&gt;准备的乐器，踏入音乐的世界吧，好吗？" />
-  <key id="1216150106000601" feature="" locale="" npc="pc" name="如何演奏乐器呢？" />
-  <key id="1216150106000602" feature="" locale="" npc="슈테판" name="只要点击乐器就可以演奏了。很简单吧？&#xA;既可以即兴演奏，也可以按照&lt;font color=&quot;#ffd200&quot;&gt;乐谱&lt;/font&gt;进行演奏！" />
-  <key id="1216150106000603" feature="" locale="" npc="pc" name="如何使用乐谱演奏呢？" />
-  <key id="1216150106000604" feature="" locale="" npc="슈테판" name="如果想进行乐谱演奏，方法非常简单！&#xA;只需购买乐谱或者购买空谱子，自己编曲。&#xA;这是将你的曲子分享给大家的绝好机会！&#xA;怎么样，是不是非常心动？" />
-  <key id="1216150106000605" feature="" locale="" npc="슈테판" name="音乐并非遥不可及，音乐就在我们身旁。&#xA;如同我们可爱的小黄鸭朋友们。&#xA;请看一下我为您推荐的这些道具，相信你可以完美的演奏出美妙的音乐！" />
-  <key id="1216150106000606" feature="" locale="" npc="클루페리자크" name="音乐是属于每一个人的！现在开始吧！" />
-  <key id="1216150106000607" feature="" locale="" npc="클루페리자크" name="你也会演奏啊！" />
-  <key id="1216150106000608" feature="" locale="" npc="클루페리자크" name="你也会作曲啊！" />
-  <key id="1216150106000609" feature="" locale="" npc="클루페리자크" name="调整节奏和呼吸~Hey！Yo!" />
-  <key id="1216150106000610" feature="" locale="" npc="클루페리자크" name="只要有&lt;font color=&quot;#ffd200&quot;&gt;乐器&lt;/font&gt;，每个人都可以&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;。&#xA;拿起我们&lt;font color=&quot;#ffd200&quot;&gt;皇家音乐学院&lt;/font&gt;准备的乐器，踏入音乐的世界吧，好吗？" />
-  <key id="1216150106000611" feature="" locale="" npc="pc" name="如何演奏乐器呢？" />
-  <key id="1216150106000612" feature="" locale="" npc="클루페리자크" name="只要点击乐器就可以演奏了。很简单吧？&#xA;既可以即兴演奏，也可以按照&lt;font color=&quot;#ffd200&quot;&gt;乐谱&lt;/font&gt;进行演奏！" />
-  <key id="1216150106000613" feature="" locale="" npc="pc" name="如何使用乐谱演奏呢？" />
-  <key id="1216150106000614" feature="" locale="" npc="클루페리자크" name="如果想进行乐谱演奏，方法非常简单！&#xA;只需购买乐谱或者购买空谱子，自己编曲。&#xA;这是将自作曲分享给大家的绝好机会！&#xA;怎么样，是不是非常心动？" />
-  <key id="1216150106000615" feature="" locale="" npc="클루페리자크" name="音乐并非遥不可及，音乐就在我们身旁。&#xA;如同我们可爱的小黄鸭朋友们。&#xA;请看一下我为您推荐的这些道具，相信你可以完美的演奏出美妙的音乐！" />
-  <key id="1216202006000617" feature="" locale="" npc="레스터" name="什么事情？" />
-  <key id="1216202006000618" feature="" locale="" npc="오린" name="欢迎光临。有什么能帮助您？" />
-  <key id="1216202006000619" feature="" locale="" npc="오린" name="需要存放物品或金币的地方吗？" />
-  <key id="1216202006000620" feature="" locale="" npc="오린" name="如果您想使用保险箱，请跟我对话。" />
-  <key id="0211204406000704" feature="" locale="" npc="아리몽" name="拥有真正所需东西的，就是我吧？" />
-  <key id="0211204406000705" feature="" locale="" npc="아리몽" name="看看这里吧~" />
-  <key id="0211204406000706" feature="" locale="" npc="아리몽" name="不是那里，是这里~" />
-  <key id="0809170706000907" feature="" locale="" npc="아리몽" name="难懂？" />
-  <key id="1219170106000621" feature="" locale="" npc="마그리카" name="您怎么来了？" />
-  <key id="1219170106000622" feature="" locale="" npc="바그리카" name="您怎么来了？" />
-  <key id="1219223606000683" feature="" locale="" npc="당당" name="你来干嘛！" />
-  <key id="1219235406000684" feature="" locale="" npc="넬리" name="您怎么来了？" />
-  <key id="1219235406000685" feature="" locale="" npc="잔켈" name="来这里有什么事吗？" />
-  <key id="1221172106000686" feature="" locale="" npc="피즈" name="你想抓到大鱼吗？" />
-  <key id="1221172106000687" feature="" locale="" npc="피즈" name="大鱼的味道当然忘不掉了！" />
-  <key id="1221172106000688" feature="" locale="" npc="피즈" name="如果有鱼饵，那就变得容易多了！" />
-  <key id="1221172106000689" feature="" locale="" npc="피즈" name="需要什么渔具吗？" />
-  <key id="1222162206000690" feature="" locale="" npc="델리비" name="什么事？" />
-  <key id="1121222006000863" feature="" locale="" npc="따사미아" name="发生什么事了？" />
-  <key id="1121222006000864" feature="" locale="" npc="따사미아" name="发生什么事了？" />
-  <key id="1121222006000865" feature="" locale="" npc="칼코" name="有什么事吗？" />
-  <key id="1121222006000866" feature="" locale="" npc="칼코" name="有什么事吗？" />
-  <key id="1121222006000869" feature="" locale="" npc="투라지" name="什么事情？" />
-  <key id="1121222006000870" feature="" locale="" npc="투라지" name="什么事情？" />
-  <key id="1122123706000873" feature="" locale="" npc="랑피르" name="什么事情？" />
-  <key id="1122123706000874" feature="" locale="" npc="랑피르" name="什么事情？" />
-  <key id="1223011306000695" feature="" locale="" npc="뮤아" name="什么事？" />
-  <key id="1223011306000696" feature="" locale="" npc="팅코" name="欢迎光临。有什么能帮助您？" />
-  <key id="1223011306000697" feature="" locale="" npc="팅코" name="需要存放物品或金币的地方吗？" />
-  <key id="1223011306000698" feature="" locale="" npc="팅코" name="如果您想使用保险箱，请跟我对话。" />
-  <key id="0106151806000699" feature="" locale="" npc="아리까리 상단" name="装着由糊涂商团运来的物品的杂货箱。" />
-  <key id="0118163406000700" feature="" locale="" npc="펄시" name="你怎么来了？" />
-  <key id="0118163406000701" feature="" locale="" npc="르노" name="你怎么来了？" />
-  <key id="0204150506000702" feature="" locale="" npc="아시란테" name="你有什么事吗？" />
-  <key id="0204150506000703" feature="" locale="" npc="테릴시아" name="你有什么事吗？" />
-  <key id="0304160706000711" feature="" locale="" npc="에듀앙" name="你有什么事吗？" />
-  <key id="0304160706000712" feature="" locale="" npc="스투디" name="你有什么事吗？" />
-  <key id="0302204206000707" feature="" locale="" npc="피즈" name="你想抓大鱼吗？" />
-  <key id="0302204206000708" feature="" locale="" npc="피즈" name="没人能忘记大鱼的手感啊！" />
-  <key id="0302204206000709" feature="" locale="" npc="피즈" name="如果有鱼饵，那就变得容易多了！" />
-  <key id="0302204206000710" feature="" locale="" npc="피즈" name="你在钓鱼时需要什么吗？" />
-  <key id="0318211806000713" feature="" locale="" npc="펀치" name="什么事情？" />
-  <key id="0318211806000714" feature="" locale="" npc="펀치" name="跳舞跳了这么久，口渴了吧？来杯果汁吧～！" />
-  <key id="0318211806000715" feature="" locale="" npc="펀치" name="玩了这么久游戏，口渴了吧？来杯果汁吧～！" />
-  <key id="0319195006000716" feature="" locale="" npc="스머그" name="你是来找我的吗？" />
-  <key id="0319195006000717" feature="" locale="" npc="스머그" name="喂，我有好东西，有兴趣吗？" />
-  <key id="0319195006000718" feature="" locale="" npc="스머그" name="别随便告诉别人～" />
-  <key id="0322171106000719" feature="" locale="" npc="스머그" name="嗯～你在寻找品质优良的装备吗？&#xA;我出售的是&lt;font color=&quot;#ffd200&quot;&gt;只有在副本中才能搜集到的装备&lt;/font&gt;……感兴趣的话，就看看再走吧。" />
-  <key id="0322171106000720" feature="" locale="" npc="pc" name="问出售什么东西。" />
-  <key id="0322171106000721" feature="" locale="" npc="pc" name="问出售的东西是从哪里来的。" />
-  <key id="0322171106000722" feature="" locale="" npc="pc" name="问是不是可以信赖的东西。" />
-  <key id="0322171106000723" feature="" locale="" npc="스머그" name="我出售的是装着在各个副本中发现的物品的箱子。&#xA;如果你到副本去探险，是为了获得卓越的装备……&#xA;那一定会对我的东西感兴趣。&#xA;在我这里购买的话，就不用冒着危险到副本中去搜集装备了。" />
-  <key id="0322171106000724" feature="" locale="" npc="pc" name="问箱子里到底装着什么东西。" />
-  <key id="0322171106000725" feature="" locale="" npc="스머그" name="呵呵……那个我也不知道。&#xA;有可能是相当值钱的装备……&#xA;如果运气不好的话，也可能全都是些没用的东西。" />
-  <key id="0322171106000726" feature="" locale="" npc="스머그" name="哎呀！有件事我必须告诉你。&#xA;开启箱子之后，对应副本的奖励次数也会减少。这一点一定要注意～" />
-  <key id="0322171106000727" feature="" locale="" npc="스머그" name="这是我的商业秘密，你问得可真够仔细的。&#xA;就像冒险家们会由于各种目的而去副本中探险一样，有些人专门搜集珍贵的宝物。&#xA;从某个角度来看，应该算是&lt;font color=&quot;#ffd200&quot;&gt;寻宝人&lt;/font&gt;吧。&#xA;总之，在这种事情上，他们是绝对的专家。" />
-  <key id="0322171106000728" feature="" locale="" npc="스머그" name="难道这些人中，就没有人原意跟我这样的$npcFunction:11001535[gender:0]做生意吗？嘿嘿……&#xA;细节什么的你就不用管了，你只要知道，我有我的路子就行了。" />
-  <key id="0322171106000729" feature="" locale="" npc="스머그" name="信赖？你说的信赖是什么意思？&#xA;作为销售者来说，我一向以良心说话。但是我也不知道里面到底装着什么东西～&#xA;要是知道装着什么的话……这些箱子就得重新定价了。" />
-  <key id="0322171106000730" feature="" locale="" npc="스머그" name="不过看了东西你就知道了，我卖的价格绝对公道。&#xA;不要说什么信赖，只要祈求好运就行了～&#xA;就算箱子里装着不值钱的东西，也不要埋怨我，呵呵……" />
-  <key id="0421100406000731" feature="" locale="" npc="유스카" name="这里就像是我的故乡一样。" />
-  <key id="0421100406000732" feature="" locale="" npc="유스카" name="在城市里不觉得闷吗？常来玩。" />
-  <key id="0421100406000733" feature="" locale="" npc="유스카" name="今天能钓几条大鱼吗？" />
-  <key id="0517224006000734" feature="" locale="" npc="코디아" name="欢迎光临！欢迎来到全新的潮流世界！" />
-  <key id="0928144706000924" feature="" locale="CN" npc="코디아" name="打造专属于你的时尚……！！" />
-  <key id="0928144706000925" feature="" locale="CN" npc="코디아" name="“打造时尚主要看脸”这句话……恕我无法认同！&#xA;打造时尚主要看的明明是“个人魅力”！&#xA;难道不是吗？" />
-  <key id="1021213806000741" feature="" locale="" npc="페스카" name="你好。" />
-  <key id="1021213806000742" feature="" locale="" npc="메르치니" name="嘟噜嘟嘟～" />
-  <key id="1021213806000743" feature="" locale="" npc="레이첼" name="你需要什么？" />
-  <key id="1021213806000745" feature="" locale="" npc="레이첼" name="你需要什么？" />
-  <key id="1021213806000746" feature="" locale="" npc="마칸" name="嗯……" />
-  <key id="1021213806000747" feature="" locale="" npc="피아" name="呀嗬～飞吧～" />
-  <key id="1123000706000875" feature="" locale="" npc="타로즈" name="你好。" />
-  <key id="0831180306000408" feature="" locale="" npc="에린" name="发生什么事了？" />
-  <key id="0831180306000409" feature="" locale="" npc="에린" name="欢迎光临～" />
-  <key id="0831180306000410" feature="" locale="" npc="에린" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000411" feature="" locale="" npc="에린" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000412" feature="" locale="" npc="비비안" name="发生什么事了？" />
-  <key id="0831180306000413" feature="" locale="" npc="비비안" name="欢迎光临～" />
-  <key id="0831180306000414" feature="" locale="" npc="비비안" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000415" feature="" locale="" npc="비비안" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000416" feature="" locale="" npc="이랑" name="发生什么事了？" />
-  <key id="0831180306000417" feature="" locale="" npc="이랑" name="欢迎光临～" />
-  <key id="0831180306000418" feature="" locale="" npc="이랑" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000419" feature="" locale="" npc="이랑" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000420" feature="" locale="" npc="미샤" name="发生什么事了？" />
-  <key id="0831180306000421" feature="" locale="" npc="미샤" name="欢迎光临～" />
-  <key id="0831180306000422" feature="" locale="" npc="미샤" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000423" feature="" locale="" npc="미샤" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000424" feature="" locale="" npc="카린" name="发生什么事了？" />
-  <key id="0831180306000425" feature="" locale="" npc="카린" name="欢迎光临～" />
-  <key id="0831180306000426" feature="" locale="" npc="카린" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000427" feature="" locale="" npc="카린" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000428" feature="" locale="" npc="마틸다" name="发生什么事了？" />
-  <key id="0831180306000429" feature="" locale="" npc="마틸다" name="欢迎光临～" />
-  <key id="0831180306000430" feature="" locale="" npc="마틸다" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000431" feature="" locale="" npc="마틸다" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000432" feature="" locale="" npc="바넷" name="发生什么事了？" />
-  <key id="0831180306000433" feature="" locale="" npc="바넷" name="欢迎光临～" />
-  <key id="0831180306000434" feature="" locale="" npc="바넷" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000435" feature="" locale="" npc="바넷" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000436" feature="" locale="" npc="린스" name="发生什么事了？" />
-  <key id="0831180306000437" feature="" locale="" npc="린스" name="欢迎光临～" />
-  <key id="0831180306000438" feature="" locale="" npc="린스" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000439" feature="" locale="" npc="린스" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000440" feature="" locale="" npc="하나" name="发生什么事了？" />
-  <key id="0831180306000441" feature="" locale="" npc="하나" name="欢迎光临～" />
-  <key id="0831180306000442" feature="" locale="" npc="하나" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000443" feature="" locale="" npc="하나" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000444" feature="" locale="" npc="비앙카" name="发生什么事了？" />
-  <key id="0831180306000445" feature="" locale="" npc="비앙카" name="欢迎光临～" />
-  <key id="0831180306000446" feature="" locale="" npc="비앙카" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000447" feature="" locale="" npc="비앙카" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000448" feature="" locale="" npc="크리스티나" name="发生什么事了？" />
-  <key id="0831180306000449" feature="" locale="" npc="크리스티나" name="欢迎光临～" />
-  <key id="0831180306000450" feature="" locale="" npc="크리스티나" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000451" feature="" locale="" npc="크리스티나" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000452" feature="" locale="" npc="설봉이" name="有什么事吗咩？" />
-  <key id="0831180306000453" feature="" locale="" npc="설봉이" name="欢迎光临！" />
-  <key id="0831180306000454" feature="" locale="" npc="설봉이" name="这是为这里的居民们开设的商店咩～" />
-  <key id="0831180306000455" feature="" locale="" npc="설봉이" name="你不是这里的居民咩！&#xA;居民专用商店不对其他人开放咩。&#xA;请到别的地方去看看吧咩～" />
-  <key id="0831180306000456" feature="" locale="" npc="로즈" name="发生什么事了？" />
-  <key id="0831180306000457" feature="" locale="" npc="로즈" name="欢迎光临～" />
-  <key id="0831180306000458" feature="" locale="" npc="로즈" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000459" feature="" locale="" npc="로즈" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000460" feature="" locale="" npc="이피아" name="发生什么事了？" />
-  <key id="0831180306000461" feature="" locale="" npc="이피아" name="欢迎光临～" />
-  <key id="0831180306000462" feature="" locale="" npc="이피아" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000463" feature="" locale="" npc="이피아" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000464" feature="" locale="" npc="도로시" name="发生什么事了？" />
-  <key id="0831180306000465" feature="" locale="" npc="도로시" name="欢迎光临～" />
-  <key id="0831180306000466" feature="" locale="" npc="도로시" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000467" feature="" locale="" npc="도로시" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000468" feature="" locale="" npc="르티에" name="发生什么事了？" />
-  <key id="0831180306000469" feature="" locale="" npc="르티에" name="欢迎光临～" />
-  <key id="0831180306000470" feature="" locale="" npc="르티에" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000471" feature="" locale="" npc="르티에" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000472" feature="" locale="" npc="나엘" name="发生什么事了？" />
-  <key id="0831180306000473" feature="" locale="" npc="나엘" name="欢迎光临～" />
-  <key id="0831180306000474" feature="" locale="" npc="나엘" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000475" feature="" locale="" npc="나엘" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000476" feature="" locale="" npc="에스카" name="发生什么事了？" />
-  <key id="0831180306000477" feature="" locale="" npc="에스카" name="欢迎光临～" />
-  <key id="0831180306000478" feature="" locale="" npc="에스카" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000479" feature="" locale="" npc="에스카" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000480" feature="" locale="" npc="산드라" name="发生什么事了？" />
-  <key id="0831180306000481" feature="" locale="" npc="산드라" name="欢迎光临～" />
-  <key id="0831180306000482" feature="" locale="" npc="산드라" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000483" feature="" locale="" npc="산드라" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000484" feature="" locale="" npc="레니" name="发生什么事了？" />
-  <key id="0831180306000485" feature="" locale="" npc="레니" name="欢迎光临～" />
-  <key id="0831180306000486" feature="" locale="" npc="레니" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000487" feature="" locale="" npc="레니" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000488" feature="" locale="" npc="아델" name="发生什么事了？" />
-  <key id="0831180306000489" feature="" locale="" npc="아델" name="欢迎光临～" />
-  <key id="0831180306000490" feature="" locale="" npc="아델" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000491" feature="" locale="" npc="아델" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000492" feature="" locale="" npc="요코" name="发生什么事了？" />
-  <key id="0831180306000493" feature="" locale="" npc="요코" name="欢迎光临～" />
-  <key id="0831180306000494" feature="" locale="" npc="요코" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000495" feature="" locale="" npc="요코" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000496" feature="" locale="" npc="미나" name="发生什么事了？" />
-  <key id="0831180306000497" feature="" locale="" npc="미나" name="欢迎光临～" />
-  <key id="0831180306000498" feature="" locale="" npc="미나" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000499" feature="" locale="" npc="미나" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="0831180306000500" feature="" locale="" npc="신시아" name="发生什么事了？" />
-  <key id="0831180306000501" feature="" locale="" npc="신시아" name="欢迎光临～" />
-  <key id="0831180306000502" feature="" locale="" npc="신시아" name="这是为这里的居民们开设的商店～" />
-  <key id="0831180306000503" feature="" locale="" npc="신시아" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
-  <key id="1219175006000623" feature="" locale="" npc="케틀린" name="发生什么事了？" />
-  <key id="1219175006000624" feature="" locale="" npc="케틀린" name="欢迎光临～" />
-  <key id="1219175006000625" feature="" locale="" npc="케틀린" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000626" feature="" locale="" npc="케틀린" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000627" feature="" locale="" npc="트리시아" name="发生什么事了？" />
-  <key id="1219175006000628" feature="" locale="" npc="트리시아" name="欢迎光临～" />
-  <key id="1219175006000629" feature="" locale="" npc="트리시아" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000630" feature="" locale="" npc="트리시아" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000631" feature="" locale="" npc="엘리나" name="发生什么事了？" />
-  <key id="1219175006000632" feature="" locale="" npc="엘리나" name="欢迎光临～" />
-  <key id="1219175006000633" feature="" locale="" npc="엘리나" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000634" feature="" locale="" npc="엘리나" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000635" feature="" locale="" npc="쟈일" name="发生什么事了？" />
-  <key id="1219175006000636" feature="" locale="" npc="쟈일" name="欢迎光临～" />
-  <key id="1219175006000637" feature="" locale="" npc="쟈일" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000638" feature="" locale="" npc="쟈일" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000639" feature="" locale="" npc="티아" name="发生什么事了？" />
-  <key id="1219175006000640" feature="" locale="" npc="티아" name="欢迎光临～" />
-  <key id="1219175006000641" feature="" locale="" npc="티아" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000642" feature="" locale="" npc="티아" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000643" feature="" locale="" npc="에마" name="发生什么事了？" />
-  <key id="1219175006000644" feature="" locale="" npc="에마" name="欢迎光临～" />
-  <key id="1219175006000645" feature="" locale="" npc="에마" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000646" feature="" locale="" npc="에마" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000647" feature="" locale="" npc="자스민" name="发生什么事了？" />
-  <key id="1219175006000648" feature="" locale="" npc="자스민" name="欢迎光临～" />
-  <key id="1219175006000649" feature="" locale="" npc="자스민" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000650" feature="" locale="" npc="자스민" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000651" feature="" locale="" npc="유니퍼" name="发生什么事了？" />
-  <key id="1219175006000652" feature="" locale="" npc="유니퍼" name="欢迎光临～" />
-  <key id="1219175006000653" feature="" locale="" npc="유니퍼" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000654" feature="" locale="" npc="유니퍼" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000655" feature="" locale="" npc="아만다" name="发生什么事了？" />
-  <key id="1219175006000656" feature="" locale="" npc="아만다" name="欢迎光临～" />
-  <key id="1219175006000657" feature="" locale="" npc="아만다" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000658" feature="" locale="" npc="아만다" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000659" feature="" locale="" npc="앤드리" name="发生什么事了？" />
-  <key id="1219175006000660" feature="" locale="" npc="앤드리" name="欢迎光临～" />
-  <key id="1219175006000661" feature="" locale="" npc="앤드리" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000662" feature="" locale="" npc="앤드리" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000663" feature="" locale="" npc="엘리즈" name="发生什么事了？" />
-  <key id="1219175006000664" feature="" locale="" npc="엘리즈" name="欢迎光临～" />
-  <key id="1219175006000665" feature="" locale="" npc="엘리즈" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000666" feature="" locale="" npc="엘리즈" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000667" feature="" locale="" npc="보니" name="发生什么事了？" />
-  <key id="1219175006000668" feature="" locale="" npc="보니" name="欢迎光临～" />
-  <key id="1219175006000669" feature="" locale="" npc="보니" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000670" feature="" locale="" npc="보니" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000671" feature="" locale="" npc="조이" name="发生什么事了？" />
-  <key id="1219175006000672" feature="" locale="" npc="조이" name="欢迎光临～" />
-  <key id="1219175006000673" feature="" locale="" npc="조이" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000674" feature="" locale="" npc="조이" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000675" feature="" locale="" npc="힐다" name="发生什么事了？" />
-  <key id="1219175006000676" feature="" locale="" npc="힐다" name="欢迎光临～" />
-  <key id="1219175006000677" feature="" locale="" npc="힐다" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000678" feature="" locale="" npc="힐다" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1219175006000679" feature="" locale="" npc="리엘" name="发生什么事了？" />
-  <key id="1219175006000680" feature="" locale="" npc="리엘" name="欢迎光临～" />
-  <key id="1219175006000681" feature="" locale="" npc="리엘" name="这是为这里的居民们开设的商店～" />
-  <key id="1219175006000682" feature="" locale="" npc="리엘" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
-  <key id="1214161306000876" feature="" locale="" npc="메리엔" name="发生什么事了？" />
-  <key id="1214161306000877" feature="" locale="" npc="메리엔" name="哈哈，这次和公会签订的合约好像成功了。" />
-  <key id="1214161306000878" feature="" locale="" npc="메리엔" name="我可不随便卖东西给别人。" />
-  <key id="1214161306000879" feature="" locale="" npc="메리엔" name="对于旅行者来说，药水是必需品！" />
-  <key id="1214161306000880" feature="" locale="" npc="안토니우스" name="音乐是属于每一个人的！现在开始吧！" />
-  <key id="1214161306000881" feature="" locale="" npc="안토니우스" name="你也会演奏啊！" />
-  <key id="1214161306000882" feature="" locale="" npc="안토니우스" name="你也会作曲啊！" />
-  <key id="1214161306000883" feature="" locale="" npc="안토니우스" name="把身体交给音乐~乘着旋律奔跑~" />
-  <key id="1214161306000884" feature="" locale="" npc="안토니우스" name="只要有&lt;font color=&quot;#ffd200&quot;&gt;乐器&lt;/font&gt;，每个人都可以&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;。&#xA;拿起我们&lt;font color=&quot;#ffd200&quot;&gt;皇家音乐学院&lt;/font&gt;准备的乐器，踏入音乐的世界吧，好吗？" />
-  <key id="1214161306000885" feature="" locale="" npc="pc" name="如何演奏乐器呢？" />
-  <key id="1214161306000886" feature="" locale="" npc="안토니우스" name="只要点击乐器就可以演奏了。很简单吧？&#xA;既可以即兴演奏，也可以按照&lt;font color=&quot;#ffd200&quot;&gt;乐谱&lt;/font&gt;进行演奏！" />
-  <key id="1214161306000887" feature="" locale="" npc="pc" name="如何使用乐谱演奏呢？" />
-  <key id="1214161306000888" feature="" locale="" npc="안토니우스" name="如果想进行乐谱演奏，方法非常简单！&#xA;只需购买乐谱或者购买空谱子，自己编曲。&#xA;这是将你的曲子分享给大家的绝好机会！&#xA;怎么样，是不是非常心动？" />
-  <key id="1214161306000889" feature="" locale="" npc="안토니우스" name="音乐并非遥不可及，音乐就在我们身旁。&#xA;如同我们可爱的小黄鸭朋友们。&#xA;请看一下我为您推荐的这些道具，相信你可以完美的演奏出美妙的音乐！" />
-  <key id="0516153506000898" feature="" locale="" npc="라쉬" name="发生什么事了？" />
-  <key id="0516153506000899" feature="" locale="" npc="라쉬" name="这个公会建筑很宏伟呢。" />
-  <key id="0516153506000900" feature="" locale="" npc="라쉬" name="我只出售经过严格挑选的物品。" />
-  <key id="0516153506000901" feature="" locale="" npc="라쉬" name="要打造强大的公会，必须要有强力的装备！" />
-  <key id="0516153506000902" feature="" locale="" npc="밀라" name="发生什么事了？" />
-  <key id="0516153506000903" feature="" locale="" npc="밀라" name="哎，你想知道我卖的是什么吗？" />
-  <key id="0516153506000904" feature="" locale="" npc="밀라" name="看这些闪闪发光的宝石～它们可不是只有样子好看哦。" />
-  <key id="0516153506000905" feature="" locale="" npc="밀라" name="宝石的重要性不输于强力的装备！" />
-  <key id="0219154106000892" feature="" locale="" npc="바비" name="你好，$MyPCName$！" />
-  <key id="0219154106000893" feature="" locale="" npc="바비" name="怎样才能每天都过得开心呢？" />
-  <key id="0219154106000894" feature="" locale="" npc="바비" name="请参加活动吧！" />
-  <key id="0219154106000895" feature="" locale="" npc="바비" name="你好，$MyPCName$~我是&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001003[gender:0]$&lt;/font&gt;！&#xA;你想了解什么活动呢？" />
-  <key id="0219154106000896" feature="" locale="" npc="pc" name="旁边的女人是谁？" />
-  <key id="0219154106000897" feature="" locale="" npc="바비" name="她是我的&lt;font color=&quot;#ffd200&quot;&gt;双胞胎妹妹&lt;/font&gt;露比！我们都是$npcTitle:11001002[gender:1]$！&#xA;如果你想了解&lt;font color=&quot;#ffd200&quot;&gt;当前进行的活动&lt;/font&gt;，可以随时来找我们~&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;、&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001003[gender:0]$&lt;/font&gt;会为你详细介绍！" />
-  <key id="0925121506000918" feature="" locale="" npc="먼데이" name="可以在&lt;font color=&quot;#ffd200&quot;&gt;特殊星期一&lt;/font&gt;进行购买！仅对持有&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;的&lt;font color=&quot;#ffd200&quot;&gt;冒险家&lt;/font&gt;开放！&#xA;星期一恭候您的光临！" />
-  <key id="0925121506000919" feature="" locale="" npc="먼데이" name="瞧一瞧看一看啦！走过路过不要错过哟。" />
-  <key id="0925121506000920" feature="" locale="" npc="먼데이" name="&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;仅提供给50级以上的特殊冒险家！" />
-  <key id="1019111306000946" feature="" locale="CN" npc="먼데이" name="欢迎光临！$MyPCName$！&#xA;这里是仅在特殊&lt;font color=&quot;#ffd200&quot;&gt;活动期间&lt;/font&gt;的&lt;font color=&quot;#ffd200&quot;&gt;周一&lt;/font&gt;开放的&lt;font color=&quot;#ffd200&quot;&gt;星期一商店&lt;/font&gt;！&#xA;只要你持有&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;，就可以任意选购喜欢的物品！" />
-  <key id="1019111306000947" feature="" locale="CN" npc="pc" name="问哪里可以弄到&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;。" />
-  <key id="1019111306000950" feature="" locale="CN" npc="먼데이" name="在活动期间的周六和周日登录游戏，就可以&lt;font color=&quot;#ffd200&quot;&gt;通过邮件获得&lt;/font&gt;&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;，该福利仅限&lt;font color=&quot;#ffd200&quot;&gt;50级以上的冒险家&lt;/font&gt;。&#xA;快来多多登录游戏，收集&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;，在星期一商店里尽情享受&#xA;购物吧！" />
-  <key id="0920165106000914" feature="" locale="" npc="보부상 텐텐" name="你好！见到你很高兴，$MyPCName$！" />
-  <key id="0920165106000915" feature="" locale="" npc="보부상 텐텐" name="你好，$MyPCName$~我是来自中国的&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003559[gender:1]$&lt;/font&gt;！" />
-  <key id="0920165106000916" feature="" locale="" npc="pc" name="问他来这里做什么。" />
-  <key id="0920165106000917" feature="" locale="" npc="보부상 텐텐" name="冒险岛2是全世界人共享的欢乐空间！&#xA;为了纪念冒险岛2在中国开服，我专程过来和韩国的冒险家小伙伴们交流交流~&#xA;能在韩国的重大节日中秋节与韩国的小伙伴们相聚一堂，我非常荣幸！" />
-  <key id="1003143806000926" feature="" locale="" npc="밍밍" name="有什么事吗？" />
-  <key id="1003143806000927" feature="" locale="" npc="밍밍" name="在上海疯狂酷跑中体验奔向东方明珠的心情吧～" />
-  <key id="0122202506001011" feature="" locale="CN" npc="밍밍" name="在魔都酷跑中获胜后可以获得魔都币。" />
-  <key id="1003143806000929" feature="" locale="" npc="밍밍" name="我这里有中国传统美食和时装哟。走过路过不要错过～" />
-  <key id="1007162606000938" feature="" locale="" npc="와이즈" name="有事吗？" />
-  <key id="1007162606000939" feature="" locale="" npc="와이즈" name="某位天才科学家曾经说过，教导他人的唯一方法就是作出示范。" />
-  <key id="1007162606000940" feature="" locale="" npc="와이즈" name="请做一个足以成为回归冒险家楷模的优秀资深冒险家吧！" />
-  <key id="1007162606000941" feature="" locale="" npc="와이즈" name="我给各位亲切的资深冒险家准备了上等佳品。" />
-  <key id="1007162606000942" feature="" locale="" npc="아비드" name="有什么事吗？" />
-  <key id="1007162606000943" feature="" locale="" npc="아비드" name="我带来了好多东西，都是对各位回归冒险家非常有帮助的物品。" />
-  <key id="1007162606000944" feature="" locale="" npc="아비드" name="对给你提供了极大帮助的资深冒险家说一句感谢的话，怎么样？" />
-  <key id="1007162606000945" feature="" locale="" npc="아비드" name="我曾经也是别人的回归冒险家。" />
-  <key id="1110150406000967" feature="" locale="" npc="마요르" name="额……我太想知道了！" />
-  <key id="1110150406000968" feature="" locale="" npc="마요르" name="世界上怎么会有那么多新奇的事物？" />
-  <key id="1110150406000969" feature="" locale="" npc="마요르" name="肚子饿了，要不尝尝这里的食物吧？真想知道是什么味道……" />
-  <key id="1110150406000970" feature="" locale="" npc="마요르" name="真是个和平安定的地方啊！这里的居民平时都做什么呀？&#xA;他们吃什么？……人们穿的服装也很特别呢。&#xA;这衣服用什么布料做的？嗯……真是太让我好奇了！" />
-  <key id="1110150406000971" feature="" locale="" npc="마요르" name="啊！你是这里的居民吧？！很……很高兴见到你。呀哩哩哟!" />
-  <key id="1110150406000972" feature="" locale="" npc="pc" name="呀哩哩哟？你打招呼的方式好奇特。是什么意思啊？" />
-  <key id="1110150406000973" feature="" locale="" npc="pc" name="你的好奇心还真不小。" />
-  <key id="1110150406000974" feature="" locale="" npc="pc" name="你从哪里来啊？" />
-  <key id="1110150406000975" feature="" locale="" npc="마요르" name="啊哈！这话你听着很陌生吧？&#xA;呀哩哩哟是&lt;font color=&quot;#ffd200&quot;&gt;新朋友&lt;/font&gt;的意思，是我家乡打招呼的用语。&#xA;新朋友……听起来不觉得很激动人心吗？" />
-  <key id="1110150406000976" feature="" locale="" npc="마요르" name="当然了！怎么能不好奇呢？&#xA;这里的人们过着怎样的生活，流行什么样的服装，推崇什么样的美食……&#xA;所有这些细节，对我来说都是全新的体验！" />
-  <key id="1110150406000977" feature="" locale="" npc="마요르" name="这么多人聚居的地方，应该会有不少欢乐的庆典！&#xA;要是能参加就好了，我好想跟大伙儿一起热闹……嘿嘿……" />
-  <key id="1110150406000978" feature="" locale="" npc="마요르" name="嗯……估计你没听说过那个地方。&#xA;我也是乘船航行了很远很远的距离，才来到这里。&#xA;我生活的地方也有村庄，名字叫……女王镇！&#xA;那里的气氛和这里完全不一样。" />
-  <key id="1110153306000979" feature="" locale="" npc="리베트" name="你好，你好，你好！&#xA;问候三次就是非常高兴的意思，哈哈！" />
-  <key id="1110153306000980" feature="" locale="" npc="리베트" name="让我们笑对生活吧！哈哈！" />
-  <key id="1110153306000981" feature="" locale="" npc="리베트" name="有人就有钱！" />
-  <key id="1110153306000982" feature="" locale="" npc="리베트" name="在这样的地方居然建立了这么豪华的城市，很令人惊叹吧？" />
-  <key id="0907150706001006" feature="" locale="" npc="스칼렛" name="欢迎光临。有什么可以帮你吗？" />
-  <key id="0123221606000987" feature="" locale="" npc="함선 물품 보급관" name="若想跟$npc:23000090[gender:0]$对战，则需要获得&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;和&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;。" />
-  <key id="0123221606000988" feature="" locale="" npc="함선 물품 보급관" name="坚持到现在已经很不错了。&#xA;接下来就剩发射粒子炮了。&#xA;$MyPCName$，那就全靠你了！&#xA;" />
-  <key id="0123221606000989" feature="" locale="" npc="함선 물품 보급관" name="不排除在甲板上遇到$npc:23000090[gender:0]$的可能，因此&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;和&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;务必做好准备再出发。" />
-  <key id="0430025106000990" feature="" locale="" npc="밈" name="愿索菲女王保佑……！" />
-  <key id="0601171006000994" feature="" locale="" npc="밈" name="$MyPCName$，很高兴见到你。&#xA;我总是有事情麻烦你。&#xA;愿索菲女王与你同在……！" />
-  <key id="0724165506000995" feature="SurvivalContents03" locale="" npc="므므" name="SCRIPTNPCSHOP_0724165506000995_NAME:[F]SurvivalContents03" />
-  <key id="0724165506000996" feature="SurvivalContents03" locale="" npc="므므" name="SCRIPTNPCSHOP_0724165506000996_NAME:[F]SurvivalContents03" />
-  <key id="0724165506000997" feature="SurvivalContents03" locale="" npc="므므" name="SCRIPTNPCSHOP_0724165506000997_NAME:[F]SurvivalContents03" />
-  <key id="0724165506000998" feature="SurvivalContents03" locale="" npc="므므" name="SCRIPTNPCSHOP_0724165506000998_NAME:[F]SurvivalContents03" />
-  <key id="0724165506000999" feature="SurvivalContents03" locale="" npc="돌돌" name="SCRIPTNPCSHOP_0724165506000999_NAME:[F]SurvivalContents03" />
-  <key id="0724165506001000" feature="SurvivalContents03" locale="" npc="돌돌" name="SCRIPTNPCSHOP_0724165506001000_NAME:[F]SurvivalContents03" />
-  <key id="0724165506001001" feature="SurvivalContents03" locale="" npc="돌돌" name="SCRIPTNPCSHOP_0724165506001001_NAME:[F]SurvivalContents03" />
-  <key id="0724165506001002" feature="SurvivalContents03" locale="" npc="돌돌" name="SCRIPTNPCSHOP_0724165506001002_NAME:[F]SurvivalContents03" />
-  <key id="0827140306001003" feature="SurvivalContents03" locale="" npc="로토" name="SCRIPTNPCSHOP_0827140306001003_NAME:[F]SurvivalContents03" />
-  <key id="0827140306001004" feature="SurvivalContents03" locale="" npc="로토" name="SCRIPTNPCSHOP_0827140306001004_NAME:[F]SurvivalContents03" />
-  <key id="0827140306001005" feature="SurvivalContents03" locale="" npc="로토" name="SCRIPTNPCSHOP_0827140306001005_NAME:[F]SurvivalContents03" />
-  <key id="0704101106001024" feature="Event" locale="CN" npc="살레" name="见到你很高兴，$MyPCName$！" />
-  <key id="0704101106001025" feature="Event" locale="CN" npc="살레" name="来看看吧！有很多贵重的物品哦！" />
+	<key id="0104215506000890" npc="이삭" name="我可以帮你尽快赶过去。" feature="NPCPortal01" />
+	<key id="0104233206000891" npc="아카시" name="你想快点过去吗？" feature="NPCPortal01" />
+	<key id="0106151806000699" npc="아리까리 상단" name="装着由糊涂商团运来的物品的杂货箱。" />
+	<key id="0118163406000700" npc="펄시" name="你怎么来了？" />
+	<key id="0118163406000701" npc="르노" name="你怎么来了？" />
+	<key id="0122202506001011" npc="밍밍" name="在魔都酷跑中获胜后可以获得魔都币。" locale="CN" />
+	<key id="0123221606000987" npc="함선 물품 보급관" name="若想跟$npc:23000090[gender:0]$对战，则需要获得&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;和&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;。" />
+	<key id="0123221606000988" npc="함선 물품 보급관" name="坚持到现在已经很不错了。&#xA;接下来就剩发射粒子炮了。&#xA;$MyPCName$，那就全靠你了！&#xA;" />
+	<key id="0123221606000989" npc="함선 물품 보급관" name="不排除在甲板上遇到$npc:23000090[gender:0]$的可能，因此&lt;font color=&quot;#ffd200&quot;&gt;$item:20000762$&lt;/font&gt;和&lt;font color=&quot;#ffd200&quot;&gt;$item:20000763$&lt;/font&gt;务必做好准备再出发。" />
+	<key id="0204150506000702" npc="아시란테" name="你有什么事吗？" />
+	<key id="0204150506000703" npc="테릴시아" name="你有什么事吗？" />
+	<key id="0211204406000704" npc="아리몽" name="拥有真正所需东西的，就是我吧？" />
+	<key id="0211204406000705" npc="아리몽" name="看看这里吧~" />
+	<key id="0211204406000706" npc="아리몽" name="不是那里，是这里~" />
+	<key id="0219154106000892" npc="바비" name="你好，$MyPCName$！" />
+	<key id="0219154106000893" npc="바비" name="怎样才能每天都过得开心呢？" />
+	<key id="0219154106000894" npc="바비" name="请参加活动吧！" />
+	<key id="0219154106000895" npc="바비" name="你好，$MyPCName$~我是&lt;font color=&quot;#ffd200&quot;&gt;$npc:11001003[gender:0]$&lt;/font&gt;！&#xA;你想了解什么活动呢？" />
+	<key id="0219154106000896" npc="pc" name="旁边的女人是谁？" />
+	<key id="0219154106000897" npc="바비" name="她是我的&lt;font color=&quot;#ffd200&quot;&gt;双胞胎妹妹&lt;/font&gt;露比！我们都是$npcTitle:11001002[gender:1]$！&#xA;如果你想了解&lt;font color=&quot;#ffd200&quot;&gt;当前进行的活动&lt;/font&gt;，可以随时来找我们~&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001002[gender:1]$&lt;/font&gt;、&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11001003[gender:0]$&lt;/font&gt;会为你详细介绍！" />
+	<key id="0302204206000707" npc="피즈" name="你想抓大鱼吗？" />
+	<key id="0302204206000708" npc="피즈" name="没人能忘记大鱼的手感啊！" />
+	<key id="0302204206000709" npc="피즈" name="如果有鱼饵，那就变得容易多了！" />
+	<key id="0302204206000710" npc="피즈" name="你在钓鱼时需要什么吗？" />
+	<key id="0304160706000711" npc="에듀앙" name="你有什么事吗？" />
+	<key id="0304160706000712" npc="스투디" name="你有什么事吗？" />
+	<key id="0318211806000713" npc="펀치" name="什么事情？" />
+	<key id="0318211806000714" npc="펀치" name="跳舞跳了这么久，口渴了吧？来杯果汁吧～！" />
+	<key id="0318211806000715" npc="펀치" name="玩了这么久游戏，口渴了吧？来杯果汁吧～！" />
+	<key id="0319195006000716" npc="스머그" name="你是来找我的吗？" />
+	<key id="0319195006000717" npc="스머그" name="喂，我有好东西，有兴趣吗？" />
+	<key id="0319195006000718" npc="스머그" name="别随便告诉别人～" />
+	<key id="0322171106000719" npc="스머그" name="嗯～你在寻找品质优良的装备吗？&#xA;我出售的是&lt;font color=&quot;#ffd200&quot;&gt;只有在副本中才能搜集到的装备&lt;/font&gt;……感兴趣的话，就看看再走吧。" />
+	<key id="0322171106000720" npc="pc" name="问出售什么东西。" />
+	<key id="0322171106000721" npc="pc" name="问出售的东西是从哪里来的。" />
+	<key id="0322171106000722" npc="pc" name="问是不是可以信赖的东西。" />
+	<key id="0322171106000723" npc="스머그" name="我出售的是装着在各个副本中发现的物品的箱子。&#xA;如果你到副本去探险，是为了获得卓越的装备……&#xA;那一定会对我的东西感兴趣。&#xA;在我这里购买的话，就不用冒着危险到副本中去搜集装备了。" />
+	<key id="0322171106000724" npc="pc" name="问箱子里到底装着什么东西。" />
+	<key id="0322171106000725" npc="스머그" name="呵呵……那个我也不知道。&#xA;有可能是相当值钱的装备……&#xA;如果运气不好的话，也可能全都是些没用的东西。" />
+	<key id="0322171106000726" npc="스머그" name="哎呀！有件事我必须告诉你。&#xA;开启箱子之后，对应副本的奖励次数也会减少。这一点一定要注意～" />
+	<key id="0322171106000727" npc="스머그" name="这是我的商业秘密，你问得可真够仔细的。&#xA;就像冒险家们会由于各种目的而去副本中探险一样，有些人专门搜集珍贵的宝物。&#xA;从某个角度来看，应该算是&lt;font color=&quot;#ffd200&quot;&gt;寻宝人&lt;/font&gt;吧。&#xA;总之，在这种事情上，他们是绝对的专家。" />
+	<key id="0322171106000728" npc="스머그" name="难道这些人中，就没有人原意跟我这样的$npcFunction:11001535[gender:0]做生意吗？嘿嘿……&#xA;细节什么的你就不用管了，你只要知道，我有我的路子就行了。" />
+	<key id="0322171106000729" npc="스머그" name="信赖？你说的信赖是什么意思？&#xA;作为销售者来说，我一向以良心说话。但是我也不知道里面到底装着什么东西～&#xA;要是知道装着什么的话……这些箱子就得重新定价了。" />
+	<key id="0322171106000730" npc="스머그" name="不过看了东西你就知道了，我卖的价格绝对公道。&#xA;不要说什么信赖，只要祈求好运就行了～&#xA;就算箱子里装着不值钱的东西，也不要埋怨我，呵呵……" />
+	<key id="0421100406000731" npc="유스카" name="这里就像是我的故乡一样。" />
+	<key id="0421100406000732" npc="유스카" name="在城市里不觉得闷吗？常来玩。" />
+	<key id="0421100406000733" npc="유스카" name="今天能钓几条大鱼吗？" />
+	<key id="0430025106000990" npc="밈" name="愿索菲女王保佑……！" />
+	<key id="0516153506000898" npc="라쉬" name="发生什么事了？" />
+	<key id="0516153506000899" npc="라쉬" name="这个公会建筑很宏伟呢。" />
+	<key id="0516153506000900" npc="라쉬" name="我只出售经过严格挑选的物品。" />
+	<key id="0516153506000901" npc="라쉬" name="要打造强大的公会，必须要有强力的装备！" />
+	<key id="0516153506000902" npc="밀라" name="发生什么事了？" />
+	<key id="0516153506000903" npc="밀라" name="哎，你想知道我卖的是什么吗？" />
+	<key id="0516153506000904" npc="밀라" name="看这些闪闪发光的宝石～它们可不是只有样子好看哦。" />
+	<key id="0516153506000905" npc="밀라" name="宝石的重要性不输于强力的装备！" />
+	<key id="0517224006000734" npc="코디아" name="欢迎光临！欢迎来到全新的潮流世界！" />
+	<key id="0601171006000994" npc="밈" name="$MyPCName$，很高兴见到你。&#xA;我总是有事情麻烦你。&#xA;愿索菲女王与你同在……！" />
+	<key id="0704101106001024" npc="살레" name="见到你很高兴，$MyPCName$！" feature="Event" locale="CN" />
+	<key id="0704101106001025" npc="살레" name="来看看吧！有很多贵重的物品哦！" feature="Event" locale="CN" />
+	<key id="0724165506000995" npc="므므" name="SCRIPTNPCSHOP_0724165506000995_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506000996" npc="므므" name="SCRIPTNPCSHOP_0724165506000996_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506000997" npc="므므" name="SCRIPTNPCSHOP_0724165506000997_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506000998" npc="므므" name="SCRIPTNPCSHOP_0724165506000998_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506000999" npc="돌돌" name="SCRIPTNPCSHOP_0724165506000999_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506001000" npc="돌돌" name="SCRIPTNPCSHOP_0724165506001000_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506001001" npc="돌돌" name="SCRIPTNPCSHOP_0724165506001001_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0724165506001002" npc="돌돌" name="SCRIPTNPCSHOP_0724165506001002_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0809123006000906" npc="루트" name="嗯？目前东西还没有准备好，下次再来。" />
+	<key id="0809170706000907" npc="아리몽" name="难懂？" />
+	<key id="0827140306001003" npc="로토" name="SCRIPTNPCSHOP_0827140306001003_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0827140306001004" npc="로토" name="SCRIPTNPCSHOP_0827140306001004_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0827140306001005" npc="로토" name="SCRIPTNPCSHOP_0827140306001005_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="0831180306000001" npc="설눈이" name="有什么事吗？" />
+	<key id="0831180306000002" npc="설눈이" name="我是$map:02000001$最好的铁匠～" />
+	<key id="0831180306000003" npc="설눈이" name="需要装备的话，就过来看看吧～" />
+	<key id="0831180306000004" npc="설눈이" name="我以前和你一样是个冒险家，直到我每天在“企鹅吧”酩酊大醉~" />
+	<key id="0831180306000005" npc="마야" name="发生什么事了？" />
+	<key id="0831180306000006" npc="마야" name="$npc:11000174[gender:1]$会接受$npcName:11000170[gender:0]$的心意吗……？" />
+	<key id="0831180306000007" npc="마야" name="因为觐见仪式，这段时间生意很好……以后客人估计就少了……" />
+	<key id="0831180306000008" npc="마야" name="对于旅行者来说，药水是必需品！" />
+	<key id="0831180306000009" npc="마끼" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000010" npc="마끼" name="要是我年轻十岁，我也要转职试试……" />
+	<key id="0831180306000011" npc="마끼" name="需要存放物品或金币的地方吗？" />
+	<key id="0831180306000012" npc="마끼" name="我们格尔多斯银行的保安系统是最好的" />
+	<key id="0831180306000013" npc="코사무이" name="有事吗？" />
+	<key id="0831180306000014" npc="코사무이" name="并不是只要过了$map:02000116$，就能到达$map:02000001$……" />
+	<key id="0831180306000015" npc="코사무이" name="像这样就想穿过森林，好像太鲁莽了……" />
+	<key id="0831180306000016" npc="코사무이" name="你想把手上的东西全部卖掉，金盆洗手吗……？" />
+	<key id="0831180306000017" npc="루미" name="发生什么事了？" />
+	<key id="0831180306000018" npc="루미" name="想卖东西的话，请到这边来" />
+	<key id="0831180306000019" npc="루미" name="只要是好东西，我一定会出个好价钱" />
+	<key id="0831180306000020" npc="루미" name="要回$map:02000062$去看看吗？" />
+	<key id="0831180306000021" npc="루미" name="没有什么地方比$map:02000062$更适合做生意了" />
+	<key id="0831180306000022" npc="설몽이" name="有什么事吗？" />
+	<key id="0831180306000023" npc="설몽이" name="$map:02000051$的所有装备都由我保管～" />
+	<key id="0831180306000024" npc="설몽이" name="偷东西的是坏人～" />
+	<key id="0831180306000025" npc="설몽이" name="快过来看看吧～" />
+	<key id="0831180306000026" npc="베르조" name="有事吗？" />
+	<key id="0831180306000027" npc="베르조" name="哦～我刚好有适合你的装备！" />
+	<key id="0831180306000028" npc="베르조" name="敌人随时可能出现！" />
+	<key id="0831180306000029" npc="베르조" name="听说过有备无患这句话吗？" />
+	<key id="0831180306000030" npc="라리" name="发生什么事了？" />
+	<key id="0831180306000031" npc="라리" name="这是妖精们亲手制作的药水～" />
+	<key id="0831180306000032" npc="라리" name="看上去好看的药水，喝起来也好喝～" />
+	<key id="0831180306000033" npc="라리" name="需要什么东西吗？" />
+	<key id="0831180306000034" npc="루미" name="发生什么事了？" />
+	<key id="0831180306000035" npc="루미" name="我把各个岛上值钱的东西都带来了……" />
+	<key id="0831180306000036" npc="루미" name="我想去$map:02000001$大赚一笔，结果全赔了……" />
+	<key id="0831180306000037" npc="루미" name="好好的路怎么断了……" />
+	<key id="0831180306000038" npc="루미" name="没有什么地方比$map:02000062$更适合做生意的了" />
+	<key id="0831180306000039" npc="루미" name="嗯……我们是不是在$map:63000001$见过？" />
+	<key id="0831180306000040" npc="루미" name="要再到$map:63000001$去看看吗？" />
+	<key id="0831180306000041" npc="솔베이" name="你有什么事吗？" />
+	<key id="0831180306000042" npc="솔베이" name="不管什么东西，我都会以合适的价钱收购！" />
+	<key id="0831180306000043" npc="솔베이" name="所有东西我都收，绝不追问来历！" />
+	<key id="0831180306000048" npc="우니타" name="我这里可都是好东西" />
+	<key id="0831180306000049" npc="우니타" name="没人比我对材料更了解了" />
+	<key id="0831180306000058" npc="페트" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000059" npc="페트" name="贵重物品请存放到保险箱中" />
+	<key id="0831180306000060" npc="페트" name="虽然道路中断了，但去王城“企鹅吧”的人却络绎不绝。。。" />
+	<key id="0831180306000061" npc="페트" name="想存放物品或金币的话，当然选择格尔多斯银行啦！" />
+	<key id="0831180306000086" npc="듀크" name="有什么事吗？" />
+	<key id="0831180306000087" npc="듀크" name="购买武器的话，我会为你介绍使用方法！！" />
+	<key id="0831180306000088" npc="듀크" name="使用武器时，千万不能大意" />
+	<key id="0831180306000089" npc="수잔나" name="发生什么事了？" />
+	<key id="0831180306000090" npc="수잔나" name="喝一瓶爽口的药水再走吧～" />
+	<key id="0831180306000091" npc="수잔나" name="不用姐姐担心，我也能过得很好" />
+	<key id="0831180306000092" npc="보닌" name="有什么事吗？" />
+	<key id="0831180306000093" npc="보닌" name="只有经过历练的人，才配使用好装备！" />
+	<key id="0831180306000094" npc="보닌" name="我是警卫队必不可少的人！嗯哼！" />
+	<key id="0831180306000095" npc="메를린" name="什么事？" />
+	<key id="0831180306000096" npc="메를린" name="我这里有很多有用的东西～" />
+	<key id="0831180306000097" npc="메를린" name="就算是店里的常客，也恕不赊欠！" />
+	<key id="0831180306000107" npc="라미온느" name="发生什么事了？" />
+	<key id="0831180306000108" npc="라미온느" name="冒险不可或缺的药水，快来买啊～" />
+	<key id="0831180306000109" npc="라미온느" name="弟弟怎么还不给我回信……" />
+	<key id="0831180306000110" npc="로버트" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000111" npc="로버트" name="需要存放物品或金币的地方吗？" />
+	<key id="0831180306000112" npc="로버트" name="想使用保险箱的话，请跟我说" />
+	<key id="0831180306000113" npc="스티븐" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000114" npc="스티븐" name="格尔多斯银行您就尽管放心好了" />
+	<key id="0831180306000115" npc="스티븐" name="你想存放物品或金币吗？" />
+	<key id="0831180306000116" npc="스티븐" name="我们可以为你保管贵重物品" />
+	<key id="0831180306000117" npc="월터" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000118" npc="월터" name="东西拿着太重的话，请交给我保管" />
+	<key id="0831180306000119" npc="월터" name="请把这里当成是你的家，不要感觉拘束" />
+	<key id="0831180306000120" npc="닐슨" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000121" npc="닐슨" name="吃药时间到了" />
+	<key id="0831180306000122" npc="닐슨" name="格尔多斯银行是世界上最安全的地方" />
+	<key id="0831180306000123" npc="아카시" name="你来这里干什么？" />
+	<key id="0831180306000124" npc="아카시" name="想拥有带有魔法的装备吗？" />
+	<key id="0831180306000139" npc="르넷" name="什么事？" />
+	<key id="0831180306000140" npc="르넷" name="这里的东西都很新鲜" />
+	<key id="0831180306000141" npc="르넷" name="希望世界上没有人会挨饿" />
+	<key id="0831180306000142" npc="마가리타" name="什么事？" />
+	<key id="0831180306000143" npc="마가리타" name="我这里的东西，都是最好的" />
+	<key id="0831180306000144" npc="마가리타" name="我可是“企鹅吧”的大股东，所以你想要前排位置吗？" />
+	<key id="0831180306000145" npc="샤네르" name="什么事情？" />
+	<key id="0831180306000146" npc="샤네르" name="你是来看东西的吗？还是看我的脸？" />
+	<key id="0831180306000147" npc="샤네르" name="嗯……应该穿上管家装吗……" />
+	<key id="0831180306000148" npc="에릭" name="欢迎光临～" />
+	<key id="0831180306000149" npc="에릭" name="都调教得很好，可以放心用～" />
+	<key id="0831180306000150" npc="에릭" name="本店不提供试驾服务……" />
+	<key id="0831180306000151" npc="에릭" name="都是很温顺～驯养得很好的坐骑" />
+	<key id="0831180306000158" npc="카를라" name="发生什么事了？" />
+	<key id="0831180306000172" npc="팜" name="什么事？" />
+	<key id="0831180306000173" npc="팜" name="我只出售安全的坐骑！" />
+	<key id="0831180306000174" npc="팜" name="谁说放羊少年是骗子！" />
+	<key id="0831180306000175" npc="날카로운 채찍" name="有什么事吗？" />
+	<key id="0831180306000176" npc="날카로운 채찍" name="都是我亲自驯养的坐骑，看看再走吧～" />
+	<key id="0831180306000177" npc="날카로운 채찍" name="你以为驯养怪物很容易吗？" />
+	<key id="0831180306000178" npc="비스트" name="有什么事吗？" />
+	<key id="0831180306000179" npc="비스트" name="买个可爱的坐骑吧～" />
+	<key id="0831180306000180" npc="비스트" name="看来观看也应该收费" />
+	<key id="0831180306000181" npc="펀치" name="什么事情？" />
+	<key id="0831180306000182" npc="펀치" name="阳光很烫吧～？" />
+	<key id="0831180306000183" npc="펀치" name="喝口果汁凉快一下吧？" />
+	<key id="0831180306000184" npc="펀치" name="都是按特殊配方制成的果汁～" />
+	<key id="0831180306000185" npc="펀치" name="别把我制作的果汁当成普通果汁～ " />
+	<key id="0831180306000186" npc="펀치" name="为了能喝到我的果汁，很多人从全世界赶过来！" />
+	<key id="0831180306000190" npc="바니걸" name="发生什么事了？" />
+	<key id="0831180306000191" npc="짜루" name="欢迎光临～" />
+	<key id="0831180306000192" npc="짜루" name="在我这里买东西的机会，可不是每天都有的～" />
+	<key id="0831180306000193" npc="짜루" name="经过剧烈运动之后，一定饿了吧～" />
+	<key id="0831180306000194" npc="짜루" name="你一定吃了还想吃～" />
+	<key id="0831180306000195" npc="짜루" name="啦啦队是竞技场的灵魂～" />
+	<key id="0831180306000196" npc="짜루" name="尝尝看吧～" />
+	<key id="0831180306000197" npc="짜루" name="大家都来看看吧～" />
+	<key id="0831180306000198" npc="체프" name="发生什么事了？" />
+	<key id="0831180306000199" npc="롬벨" name="发生什么事了？" />
+	<key id="0831180306000200" npc="티백" name="发生什么事了？" />
+	<key id="0831180306000201" npc="바니걸" name="发生什么事了？" />
+	<key id="0831180306000202" npc="리즈" name="发生什么事了？" />
+	<key id="0831180306000203" npc="리즈" name="我的东西全都是最好的～" />
+	<key id="0831180306000204" npc="리즈" name="能和我说会儿话再走吗？" />
+	<key id="0831180306000205" npc="사브리나" name="什么事情？" />
+	<key id="0831180306000206" npc="사브리나" name="干净又好吃，看看再走吧！" />
+	<key id="0831180306000207" npc="사브리나" name="啊！钱怎么不够啊？" />
+	<key id="0831180306000208" npc="에밀리" name="欢迎光临便利店。" />
+	<key id="0831180306000209" npc="에밀리" name="欢迎光临～这里是便利店～" />
+	<key id="0831180306000210" npc="에밀리" name="结算请到这边～" />
+	<key id="0831180306000211" npc="에밀리" name="你在找什么东西吗～？" />
+	<key id="0831180306000212" npc="가젤" name="欢迎光临便利店。" />
+	<key id="0831180306000213" npc="가젤" name="欢迎光临～这里是便利店～" />
+	<key id="0831180306000214" npc="가젤" name="结算请到这边～" />
+	<key id="0831180306000215" npc="가젤" name="你在找什么东西吗～？" />
+	<key id="0831180306000216" npc="린지" name="欢迎光临便利店。" />
+	<key id="0831180306000217" npc="린지" name="欢迎光临～这里是便利店～" />
+	<key id="0831180306000218" npc="린지" name="结算请到这边～" />
+	<key id="0831180306000219" npc="린지" name="你在找什么东西吗～？" />
+	<key id="0831180306000220" npc="밀레나" name="欢迎光临便利店。" />
+	<key id="0831180306000221" npc="밀레나" name="欢迎光临～这里是便利店～" />
+	<key id="0831180306000222" npc="밀레나" name="结算请到这边～" />
+	<key id="0831180306000223" npc="밀레나" name="你在找什么东西吗～？" />
+	<key id="0831180306000224" npc="치아토" name="有什么事吗？" />
+	<key id="0831180306000225" npc="치아토" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000226" npc="치아토" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000227" npc="치아토" name="图尔卡的气息正在逐渐增强……" />
+	<key id="0831180306000228" npc="빈디체" name="有什么事吗？" />
+	<key id="0831180306000229" npc="빈디체" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000230" npc="빈디체" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000231" npc="빈디체" name="图尔卡的气息正在逐渐增强……" />
+	<key id="0831180306000232" npc="벨페고르" name="有什么事吗？" />
+	<key id="0831180306000233" npc="벨페고르" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000234" npc="벨페고르" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000235" npc="벨페고르" name="图尔卡的气息正在逐渐增强……" />
+	<key id="0831180306000236" npc="모스카" name="有什么事吗？" />
+	<key id="0831180306000237" npc="모스카" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000238" npc="모스카" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000239" npc="모스카" name="图尔卡的气息正在逐渐增强……" />
+	<key id="0831180306000240" npc="나이트 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000241" npc="버서커 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000242" npc="위자드 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000243" npc="프리스트 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000244" npc="레인저 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000245" npc="헤비거너 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000246" npc="시프 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000247" npc="어쌔신 전용 상인" name="发生什么事了？" />
+	<key id="0831180306000260" npc="일곱 빛깔 무지개" name="发生什么事了？" />
+	<key id="0831180306000261" npc="일곱 빛깔 무지개" name="我的东西不会随便卖给任何人" />
+	<key id="0831180306000262" npc="일곱 빛깔 무지개" name="你好像是比我更强的男人" />
+	<key id="0831180306000263" npc="일곱 빛깔 무지개" name="现在我只卖30级装备～" />
+	<key id="0831180306000264" npc="키리엔" name="什么事？" />
+	<key id="0831180306000265" npc="키리엔" name="这里有用炼金术制作的特殊药水～" />
+	<key id="0831180306000266" npc="키리엔" name="没有比我制作的药水效果更好的了" />
+	<key id="0831180306000267" npc="모건" name="有什么事吗？" />
+	<key id="0831180306000268" npc="모건" name="看看我的武器再走吧～" />
+	<key id="0831180306000269" npc="모건" name="要让自己比武器更强" />
+	<key id="0831180306000270" npc="와트" name="有什么事吗？" />
+	<key id="0831180306000271" npc="와트" name="看看我卖的东西吧～看一眼也好" />
+	<key id="0831180306000272" npc="와트" name="也许有你喜欢的装备也说不定" />
+	<key id="0831180306000273" npc="와트" name="好像到吃饭的时候了……" />
+	<key id="0831180306000274" npc="보딘" name="发生什么事了？" />
+	<key id="0831180306000275" npc="보딘" name="你知道吧？格尔多斯银行！" />
+	<key id="0831180306000276" npc="보딘" name="还不知道吗？格尔多斯银行？" />
+	<key id="0831180306000277" npc="보딘" name="放心交给我们吧～你是被骗太多次了吗～" />
+	<key id="0831180306000278" npc="붉은 태양의 노래" name="发生什么事了？" />
+	<key id="0831180306000279" npc="붉은 태양의 노래" name="我的东西的价值，是无法用金钱来衡量的" />
+	<key id="0831180306000280" npc="붉은 태양의 노래" name="你不想成为英雄，购买我的东西吗？" />
+	<key id="0831180306000281" npc="붉은 태양의 노래" name="都是非常珍贵的坐骑" />
+	<key id="0831180306000282" npc="라이든" name="有什么事吗？" />
+	<key id="0831180306000283" npc="라이든" name="世上的一切，都以交易的形态存在！" />
+	<key id="0831180306000284" npc="라이든" name="你看上去好像不需要什么……" />
+	<key id="0831180306000289" npc="일곱 빛깔 무지개" name="发生什么事了？" />
+	<key id="0831180306000290" npc="일곱 빛깔 무지개" name="我的东西不会随便卖给任何人" />
+	<key id="0831180306000291" npc="일곱 빛깔 무지개" name="你好像是比我更强的男人" />
+	<key id="0831180306000292" npc="일곱 빛깔 무지개" name="40级装备上架了～" />
+	<key id="0831180306000296" npc="도키" name="$npc:11000735[gender:1]$才是最棒的……" />
+	<key id="0831180306000297" npc="도키" name="有什么好的……" />
+	<key id="0831180306000298" npc="도키" name="$npc:11000735[gender:1]$才是最棒的……" />
+	<key id="0831180306000299" npc="도키" name="那个丫头真是吵死了……&#xA;$npcName:11000406[gender:0]$哪里帅了……&#xA;和&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;相比，$npcName:11000406[gender:0]$之流……根本不值一提吧？" />
+	<key id="0831180306000300" npc="도키" name="$MyPCName$，你认识&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;吗？" />
+	<key id="0831180306000301" npc="pc" name="说认识$npcName:11000735[gender:1]$。" />
+	<key id="0831180306000302" npc="pc" name="问$npcName:11000735[gender:1]$是谁。" />
+	<key id="0831180306000303" npc="pc" name="说$npc:11000406[gender:0]$是最棒的。" />
+	<key id="0831180306000304" npc="도키" name="啊，真的吗？你见过&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;吗？&#xA;我之前只见过一次……" />
+	<key id="0831180306000305" npc="도키" name="那一瞬间。怎么说呢……唰！就像闪耀的流星一样，一转眼就消失了……&#xA;但神奇的是，我却非常鲜明地看到了&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;的脸。在那么短的时间里……&#xA;喀嚓！就像是拍照一样……我清楚地记得她的脸。" />
+	<key id="0831180306000306" npc="도키" name="在那之后，为了能再见到&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;，每次她出现在一个地方，我就会跟过去。&#xA;但是……直到现在都还没能再见到她。不过，我正在根据和我一样见到过&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;&#xA;的人的描述，为$npc:11000735[gender:1]$绘制肖像。&#xA;现在已经画了好几十张了。" />
+	<key id="0831180306000307" npc="도키" name="看到这些画之后，感觉&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;就像是天空一样……&#xA;因为天空的样子是时刻变化的，不是吗……？&#xA;有晚霞……也有云……你能理解我说的吗？" />
+	<key id="0831180306000308" npc="도키" name="我也不知道她是谁……&#xA;只是听大家叫她&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;。&#xA;然后在某个瞬间，她就像风一样瞬间消失了……只留下美丽的身影……&#xA;完全和我梦想中的理想型一模一样！" />
+	<key id="0831180306000309" npc="도키" name="现在我只能通过这些画来回忆她，安慰自己的心……&#xA;但总有一天！我一定要亲口向她表白！" />
+	<key id="0831180306000310" npc="도키" name="嘿……你也和那些喜欢大声嚷嚷的孩子一样。&#xA;你只要看见&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000735[gender:1]$&lt;/font&gt;一眼，就一定不会这么说了……" />
+	<key id="0831180306000314" npc="주스토" name="发生什么事了？" />
+	<key id="0831180306000315" npc="주스토" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000316" npc="주스토" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000317" npc="주스토" name="图尔卡的气息正在逐渐增强……" />
+	<key id="0831180306000318" npc="샤오루" name="发生什么事了？" />
+	<key id="0831180306000319" npc="샤오루" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000320" npc="샤오루" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000321" npc="샤오루" name="图尔卡的气息正在逐渐增强……" />
+	<key id="0831180306000322" npc="지아" name="发生什么事了？" />
+	<key id="0831180306000323" npc="지아" name="啊～灿烂的阳光照在白色的墙上～" />
+	<key id="0831180306000324" npc="지아" name="嗯～清爽的海风～" />
+	<key id="0831180306000325" npc="슐츠" name="发生什么事了？" />
+	<key id="0831180306000326" npc="슐츠" name="世上的一切，都以交易的形态存在！" />
+	<key id="0831180306000327" npc="슐츠" name="你看上去好像不需要什么……" />
+	<key id="0831180306000328" npc="마하" name="发生什么事了？" />
+	<key id="0831180306000329" npc="마하" name="世上的一切，都以交易的形态存在！" />
+	<key id="0831180306000330" npc="마하" name="你看上去好像不需要什么……" />
+	<key id="0831180306000339" npc="아가사" name="发生什么事了？" />
+	<key id="0831180306000340" npc="아가사" name="图尔卡的气息正在逐渐变强……" />
+	<key id="0831180306000341" npc="아가사" name="这个世界真有趣" />
+	<key id="0831180306000342" npc="아가사" name="虽然有点贵，但品质可以保证" />
+	<key id="0831180306000343" npc="아가사" name="不要厌倦生活" />
+	<key id="0831180306000344" npc="이올렛" name="发生什么事了？" />
+	<key id="0831180306000345" npc="이올렛" name="图尔卡的气息正在逐渐变强……" />
+	<key id="0831180306000346" npc="이올렛" name="这个世界真有趣" />
+	<key id="0831180306000347" npc="이올렛" name="虽然有点贵，但品质可以保证" />
+	<key id="0831180306000348" npc="이올렛" name="不要厌倦生活" />
+	<key id="0831180306000349" npc="페퍼" name="发生什么事了？" />
+	<key id="0831180306000350" npc="페퍼" name="图尔卡的气息正在逐渐变强……" />
+	<key id="0831180306000351" npc="페퍼" name="这个世界真有趣" />
+	<key id="0831180306000352" npc="페퍼" name="虽然有点贵，但品质可以保证" />
+	<key id="0831180306000353" npc="페퍼" name="不要厌倦生活" />
+	<key id="0831180306000354" npc="유니" name="发生什么事了？" />
+	<key id="0831180306000355" npc="유니" name="图尔卡的气息正在逐渐变强……" />
+	<key id="0831180306000356" npc="유니" name="这个世界真有趣" />
+	<key id="0831180306000357" npc="유니" name="虽然有点贵，但品质可以保证" />
+	<key id="0831180306000358" npc="유니" name="不要厌倦生活" />
+	<key id="0831180306000359" npc="차차" name="嗯？你是来找我的？" />
+	<key id="0831180306000360" npc="차차" name="啊～我要带上粉羊羊……" />
+	<key id="0831180306000361" npc="차차" name="要想转换心情，最好是去旅行～" />
+	<key id="0831180306000362" npc="차차" name="我讨厌和别人一样" />
+	<key id="0831180306000363" npc="행크" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000364" npc="행크" name="考虑到便捷性，这里是最好的仓库，不是吗？" />
+	<key id="0831180306000365" npc="행크" name="需要存放物品或金币的地方吗？" />
+	<key id="0831180306000366" npc="행크" name="希望在$map:02000216$你也能经常光临～格尔多斯银行！" />
+	<key id="0831180306000367" npc="행크" name="在这种地方，尤其要注意安全" />
+	<key id="0831180306000368" npc="프릿츠" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0831180306000369" npc="프릿츠" name="需要存放物品或金币的地方吗？请往这边走～" />
+	<key id="0831180306000370" npc="프릿츠" name="格尔多斯银行非常安全，请尽管放心～" />
+	<key id="0831180306000371" npc="프릿츠" name="希望在$map:02000203$你也能经常光临～格尔多斯银行！" />
+	<key id="0831180306000372" npc="프릿츠" name="想使用保险箱的话，请跟我说" />
+	<key id="0831180306000373" npc="블란체" name="嗯？找我有事吗？" />
+	<key id="0831180306000374" npc="블란체" name="让我来看看……你有没有和我交易的资格" />
+	<key id="0831180306000375" npc="블란체" name="我决定把你当成我的顾客" />
+	<key id="0831180306000376" npc="블란체" name="嗯～$MyPCName$，我是不会和你交易的。&#xA;我只为获得&lt;font color=&quot;#ffd200&quot;&gt;$achieve:23200015$&lt;/font&gt;成就的人服务。&#xA;如果你是专程来找我的，我只能说抱歉了。" />
+	<key id="0831180306000377" npc="메이플 북스" name="出售冒险岛2绘画册的书摊。" />
+	<key id="0831180306000378" npc="녹스" name="你是来找我的吧？" />
+	<key id="0831180306000379" npc="녹스" name="我不收$item:40100023$" />
+	<key id="0831180306000380" npc="녹스" name="我只做明明白白的交易……" />
+	<key id="0831180306000381" npc="녹스" name="你有$item:40100024$？嗯……真可惜啊……" />
+	<key id="0831180306000382" npc="테로사" name="发生什么事了？" />
+	<key id="0831180306000383" npc="테로사" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000384" npc="테로사" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000385" npc="로미닉" name="发生什么事了？" />
+	<key id="0831180306000386" npc="로미닉" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000387" npc="로미닉" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000388" npc="베리엇" name="发生什么事了？" />
+	<key id="0831180306000389" npc="베리엇" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000390" npc="베리엇" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000391" npc="룰케" name="发生什么事了？" />
+	<key id="0831180306000392" npc="룰케" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000393" npc="룰케" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000394" npc="타자스" name="发生什么事了？" />
+	<key id="0831180306000395" npc="타자스" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000396" npc="타자스" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000397" npc="일곱 빛깔 무지개" name="发生什么事了？" />
+	<key id="0831180306000398" npc="일곱 빛깔 무지개" name="我的东西不会随便卖给任何人" />
+	<key id="0831180306000399" npc="일곱 빛깔 무지개" name="你好像是比我更强的男人" />
+	<key id="0831180306000400" npc="일곱 빛깔 무지개" name="50级装备上架了～" />
+	<key id="0831180306000401" npc="키페온" name="发生什么事了？" />
+	<key id="0831180306000402" npc="키페온" name="帮助生存的东西应该事先买好！" />
+	<key id="0831180306000403" npc="키페온" name="我感觉到了强烈的黑暗气息……" />
+	<key id="0831180306000404" npc="루트" name="你是来找我的吧？" />
+	<key id="0831180306000405" npc="루트" name="$item:40100024$越多越好！" />
+	<key id="0831180306000406" npc="루트" name="你想成为强大的战士？只要用我的东西，没什么不可能的事！" />
+	<key id="0831180306000407" npc="루트" name="如果你有$item:40100024$，可以来找我！" />
+	<key id="0831180306000408" npc="에린" name="发生什么事了？" />
+	<key id="0831180306000409" npc="에린" name="欢迎光临～" />
+	<key id="0831180306000410" npc="에린" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000411" npc="에린" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000412" npc="비비안" name="发生什么事了？" />
+	<key id="0831180306000413" npc="비비안" name="欢迎光临～" />
+	<key id="0831180306000414" npc="비비안" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000415" npc="비비안" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000416" npc="이랑" name="发生什么事了？" />
+	<key id="0831180306000417" npc="이랑" name="欢迎光临～" />
+	<key id="0831180306000418" npc="이랑" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000419" npc="이랑" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000420" npc="미샤" name="发生什么事了？" />
+	<key id="0831180306000421" npc="미샤" name="欢迎光临～" />
+	<key id="0831180306000422" npc="미샤" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000423" npc="미샤" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000424" npc="카린" name="发生什么事了？" />
+	<key id="0831180306000425" npc="카린" name="欢迎光临～" />
+	<key id="0831180306000426" npc="카린" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000427" npc="카린" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000428" npc="마틸다" name="发生什么事了？" />
+	<key id="0831180306000429" npc="마틸다" name="欢迎光临～" />
+	<key id="0831180306000430" npc="마틸다" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000431" npc="마틸다" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000432" npc="바넷" name="发生什么事了？" />
+	<key id="0831180306000433" npc="바넷" name="欢迎光临～" />
+	<key id="0831180306000434" npc="바넷" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000435" npc="바넷" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000436" npc="린스" name="发生什么事了？" />
+	<key id="0831180306000437" npc="린스" name="欢迎光临～" />
+	<key id="0831180306000438" npc="린스" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000439" npc="린스" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000440" npc="하나" name="发生什么事了？" />
+	<key id="0831180306000441" npc="하나" name="欢迎光临～" />
+	<key id="0831180306000442" npc="하나" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000443" npc="하나" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000444" npc="비앙카" name="发生什么事了？" />
+	<key id="0831180306000445" npc="비앙카" name="欢迎光临～" />
+	<key id="0831180306000446" npc="비앙카" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000447" npc="비앙카" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000448" npc="크리스티나" name="发生什么事了？" />
+	<key id="0831180306000449" npc="크리스티나" name="欢迎光临～" />
+	<key id="0831180306000450" npc="크리스티나" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000451" npc="크리스티나" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000452" npc="설봉이" name="有什么事吗咩？" />
+	<key id="0831180306000453" npc="설봉이" name="欢迎光临！" />
+	<key id="0831180306000454" npc="설봉이" name="这是为这里的居民们开设的商店咩～" />
+	<key id="0831180306000455" npc="설봉이" name="你不是这里的居民咩！&#xA;居民专用商店不对其他人开放咩。&#xA;请到别的地方去看看吧咩～" />
+	<key id="0831180306000456" npc="로즈" name="发生什么事了？" />
+	<key id="0831180306000457" npc="로즈" name="欢迎光临～" />
+	<key id="0831180306000458" npc="로즈" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000459" npc="로즈" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000460" npc="이피아" name="发生什么事了？" />
+	<key id="0831180306000461" npc="이피아" name="欢迎光临～" />
+	<key id="0831180306000462" npc="이피아" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000463" npc="이피아" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000464" npc="도로시" name="发生什么事了？" />
+	<key id="0831180306000465" npc="도로시" name="欢迎光临～" />
+	<key id="0831180306000466" npc="도로시" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000467" npc="도로시" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000468" npc="르티에" name="发生什么事了？" />
+	<key id="0831180306000469" npc="르티에" name="欢迎光临～" />
+	<key id="0831180306000470" npc="르티에" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000471" npc="르티에" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000472" npc="나엘" name="发生什么事了？" />
+	<key id="0831180306000473" npc="나엘" name="欢迎光临～" />
+	<key id="0831180306000474" npc="나엘" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000475" npc="나엘" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000476" npc="에스카" name="发生什么事了？" />
+	<key id="0831180306000477" npc="에스카" name="欢迎光临～" />
+	<key id="0831180306000478" npc="에스카" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000479" npc="에스카" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000480" npc="산드라" name="发生什么事了？" />
+	<key id="0831180306000481" npc="산드라" name="欢迎光临～" />
+	<key id="0831180306000482" npc="산드라" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000483" npc="산드라" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000484" npc="레니" name="发生什么事了？" />
+	<key id="0831180306000485" npc="레니" name="欢迎光临～" />
+	<key id="0831180306000486" npc="레니" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000487" npc="레니" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000488" npc="아델" name="发生什么事了？" />
+	<key id="0831180306000489" npc="아델" name="欢迎光临～" />
+	<key id="0831180306000490" npc="아델" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000491" npc="아델" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000492" npc="요코" name="发生什么事了？" />
+	<key id="0831180306000493" npc="요코" name="欢迎光临～" />
+	<key id="0831180306000494" npc="요코" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000495" npc="요코" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000496" npc="미나" name="发生什么事了？" />
+	<key id="0831180306000497" npc="미나" name="欢迎光临～" />
+	<key id="0831180306000498" npc="미나" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000499" npc="미나" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0831180306000500" npc="신시아" name="发生什么事了？" />
+	<key id="0831180306000501" npc="신시아" name="欢迎光临～" />
+	<key id="0831180306000502" npc="신시아" name="这是为这里的居民们开设的商店～" />
+	<key id="0831180306000503" npc="신시아" name="你不是这里的居民吧？&#xA;居民专用商店不对其他人开放。&#xA;请到别的地方去看看吧～" />
+	<key id="0907150706001006" npc="스칼렛" name="欢迎光临。有什么可以帮你吗？" />
+	<key id="0920165106000914" npc="보부상 텐텐" name="你好！见到你很高兴，$MyPCName$！" />
+	<key id="0920165106000915" npc="보부상 텐텐" name="你好，$MyPCName$~我是来自中国的&lt;font color=&quot;#ffd200&quot;&gt;$npcName:11003559[gender:1]$&lt;/font&gt;！" />
+	<key id="0920165106000916" npc="pc" name="问他来这里做什么。" />
+	<key id="0920165106000917" npc="보부상 텐텐" name="冒险岛2是全世界人共享的欢乐空间！&#xA;为了纪念冒险岛2在中国开服，我专程过来和韩国的冒险家小伙伴们交流交流~&#xA;能在韩国的重大节日中秋节与韩国的小伙伴们相聚一堂，我非常荣幸！" />
+	<key id="0922164706000504" npc="일곱 빛깔 무지개" name="发生什么事了？" />
+	<key id="0922164706000505" npc="일곱 빛깔 무지개" name="我的东西可不是什么人都能买的。" />
+	<key id="0922164706000506" npc="일곱 빛깔 무지개" name="这男人看上去比我还强啊？" />
+	<key id="0922164706000507" npc="일곱 빛깔 무지개" name="有新商品到了，请来看看吧！" />
+	<key id="0925121506000918" npc="먼데이" name="可以在&lt;font color=&quot;#ffd200&quot;&gt;特殊星期一&lt;/font&gt;进行购买！仅对持有&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;的&lt;font color=&quot;#ffd200&quot;&gt;冒险家&lt;/font&gt;开放！&#xA;星期一恭候您的光临！" />
+	<key id="0925121506000919" npc="먼데이" name="瞧一瞧看一看啦！走过路过不要错过哟。" />
+	<key id="0925121506000920" npc="먼데이" name="&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;仅提供给50级以上的特殊冒险家！" />
+	<key id="0928144706000924" npc="코디아" name="打造专属于你的时尚……！！" locale="CN" />
+	<key id="0928144706000925" npc="코디아" name="“打造时尚主要看脸”这句话……恕我无法认同！&#xA;打造时尚主要看的明明是“个人魅力”！&#xA;难道不是吗？" locale="CN" />
+	<key id="1003143806000926" npc="밍밍" name="有什么事吗？" />
+	<key id="1003143806000927" npc="밍밍" name="在上海疯狂酷跑中体验奔向东方明珠的心情吧～" />
+	<key id="1003143806000929" npc="밍밍" name="我这里有中国传统美食和时装哟。走过路过不要错过～" />
+	<key id="1007162606000938" npc="와이즈" name="有事吗？" />
+	<key id="1007162606000939" npc="와이즈" name="某位天才科学家曾经说过，教导他人的唯一方法就是作出示范。" />
+	<key id="1007162606000940" npc="와이즈" name="请做一个足以成为回归冒险家楷模的优秀资深冒险家吧！" />
+	<key id="1007162606000941" npc="와이즈" name="我给各位亲切的资深冒险家准备了上等佳品。" />
+	<key id="1007162606000942" npc="아비드" name="有什么事吗？" />
+	<key id="1007162606000943" npc="아비드" name="我带来了好多东西，都是对各位回归冒险家非常有帮助的物品。" />
+	<key id="1007162606000944" npc="아비드" name="对给你提供了极大帮助的资深冒险家说一句感谢的话，怎么样？" />
+	<key id="1007162606000945" npc="아비드" name="我曾经也是别人的回归冒险家。" />
+	<key id="1014150906000508" npc="아리까리 상단" name="装有糊涂商团物品的杂货箱。" />
+	<key id="1016142906000509" npc="롯피" name="只有懂得成就的价值之人才有资格获得珍贵的物品。" />
+	<key id="1016142906000510" npc="롯피" name="帅气的成就总是有相应的价值。" />
+	<key id="1016142906000511" npc="롯피" name="成就、成就！真想拥有更多的成就" />
+	<key id="1016142906000512" npc="롯피" name="怎么，你找我这个成就专家有什么事？&#xA;……嗯？难道你是因为对成就感兴趣才来找我的？" />
+	<key id="1016142906000513" npc="pc" name="难道会有人对成就不感兴趣吗？" />
+	<key id="1016142906000514" npc="pc" name="我对成就这种事情没什么兴趣。" />
+	<key id="1016142906000515" npc="롯피" name="哦？看来你对成就的价值很了解嘛？&#xA;如果你想成为像我一样的成就专家，那还得更加努力呢。&#xA;当然了，你要努力很~久才可能超越我，哈哈哈……" />
+	<key id="1016142906000516" npc="pc" name="询问成就增多后有什么好处。" />
+	<key id="1016142906000517" npc="롯피" name="呃……你居然是别有用心地在搜集成就！&#xA;……当然了，身为像我这样的冒险专家，还能单纯地搜集成就的人，&#xA;实在是太难找了。" />
+	<key id="1016142906000518" npc="롯피" name="总之，&#xA;万一我持有的成就……虽然这种事情发生的几率基本为零。&#xA;但是，如果发生了那样的事情，我就把&lt;font color=&quot;#ffd200&quot;&gt;相应的东西&lt;/font&gt;留给你吧。" />
+	<key id="1016142906000519" npc="pc" name="相应的物品？询问物品的价值。" />
+	<key id="1016142906000520" npc="롯피" name="什么？你现在是在小看我皮罗吗！&#xA;哼！那些都是我环游冒险岛世界获得的珍贵物品。&#xA;你可不要怀疑我说的话哦！" />
+	<key id="1016142906000521" npc="롯피" name="成就……这种事情？你这家伙！&#xA;你……居然敢小瞧成就？啊……小瞧成就就是在&#xA;小瞧身为成就专家的我，皮罗大人！" />
+	<key id="1016142906000522" npc="pc" name="道歉，表示自己不是这个意思。" />
+	<key id="1016142906000523" npc="롯피" name="切！不是就好。你以后说话可得小心点！&#xA;……成就这种东西……哼……现在想起来还是让人生气！&#xA;&lt;font color=&quot;#909090&quot;&gt;（皮罗用可怕的眼神盯着我，以……以后还是小心点吧？）&lt;/font&gt;" />
+	<key id="1019111306000946" npc="먼데이" name="欢迎光临！$MyPCName$！&#xA;这里是仅在特殊&lt;font color=&quot;#ffd200&quot;&gt;活动期间&lt;/font&gt;的&lt;font color=&quot;#ffd200&quot;&gt;周一&lt;/font&gt;开放的&lt;font color=&quot;#ffd200&quot;&gt;星期一商店&lt;/font&gt;！&#xA;只要你持有&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;，就可以任意选购喜欢的物品！" locale="CN" />
+	<key id="1019111306000947" npc="pc" name="问哪里可以弄到&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;。" locale="CN" />
+	<key id="1019111306000950" npc="먼데이" name="在活动期间的周六和周日登录游戏，就可以&lt;font color=&quot;#ffd200&quot;&gt;通过邮件获得&lt;/font&gt;&#xA;&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;，该福利仅限&lt;font color=&quot;#ffd200&quot;&gt;50级以上的冒险家&lt;/font&gt;。&#xA;快来多多登录游戏，收集&lt;font color=&quot;#ffd200&quot;&gt;$item:30000750$&lt;/font&gt;，在星期一商店里尽情享受&#xA;购物吧！" locale="CN" />
+	<key id="1019141606000524" npc="펌프키니" name="庆典真是好玩！" />
+	<key id="1019141606000525" npc="펌프키니" name="呃……不给我诡夜节优惠券我就要捣乱！！" />
+	<key id="1019141606000526" npc="펌프키니" name="阿布拉卡布卡！南瓜糖啊，出现吧~" />
+	<key id="1021213806000740" npc="페르시카" name="让我看看…… 嗯……？" />
+	<key id="1021213806000741" npc="페스카" name="你好。" />
+	<key id="1021213806000742" npc="메르치니" name="嘟噜嘟嘟～" />
+	<key id="1021213806000743" npc="레이첼" name="你需要什么？" />
+	<key id="1021213806000745" npc="레이첼" name="你需要什么？" />
+	<key id="1021213806000746" npc="마칸" name="嗯……" />
+	<key id="1021213806000747" npc="피아" name="呀嗬～飞吧～" />
+	<key id="1022122006000527" npc="주다쿠" name="你在找什么东西吗？只要有钱……呵呵……要多少都行。" />
+	<key id="1022122006000528" npc="주다쿠" name="可以搜集到珍贵物品的地方……" />
+	<key id="1022122006000529" npc="주다쿠" name="切！&#xA;糊涂商团的那些家伙，真是会耍手段……" />
+	<key id="1022122006000530" npc="주다쿠" name="什么？你有什么想要的东西吗？呵呵……&#xA;你就慢慢看吧，我这儿可有在其他地方&lt;font color=&quot;#ffd200&quot;&gt;见不到的商品&lt;/font&gt;哦。" />
+	<key id="1022122006000531" npc="pc" name="他的语调很特别，询问他是哪里人。" />
+	<key id="1022122006000532" npc="주다쿠" name="哦？你的耳朵很灵嘛？呵呵……&#xA;我来到这里以后，你是第一个问我来自哪里的人。" />
+	<key id="1022122006000533" npc="pc" name="再次询问他来自哪里。" />
+	<key id="1022122006000534" npc="주다쿠" name="我就算说了你也不会知道的……反正就是在海的另一边。&#xA;嗯……这么说来，你在&lt;font color=&quot;#ffd200&quot;&gt;$map:2000064$&lt;/font&gt;见过叫做&lt;font color=&quot;#ffd200&quot;&gt;糊涂商团&lt;/font&gt;的家伙吗？&#xA;就是……喊着&lt;font color=&quot;#ffd200&quot;&gt;呀哩哩哟~&lt;/font&gt;的那些家伙。" />
+	<key id="1022122006000535" npc="pc" name="回答说不知道他说的是谁。" />
+	<key id="1022122006000536" npc="pc" name="回答说知道。" />
+	<key id="1022122006000537" npc="주다쿠" name="看来你还没见到那些可恶的家伙啊。&#xA;你以后如果见到了，可一定要小心~他们都是些阴险的家伙。" />
+	<key id="1022122006000538" npc="pc" name="询问他们做了什么。" />
+	<key id="1022122006000539" npc="주다쿠" name="他们干了许多坏事。&#xA;他们说我一点船费都不出，完全是在&lt;font color=&quot;#ffd200&quot;&gt;免费&lt;/font&gt;坐船，就把我从船上赶了下来！&#xA;难道多载我一个人，船就会翻吗？&#xA;真是些坏家伙！" />
+	<key id="1022122006000540" npc="pc" name="询问不出钱坐船本身不就是错误的吗？" />
+	<key id="1022122006000541" npc="주다쿠" name="没错，就是那些家伙。&#xA;你要小心啊！他们说我一点船费都不出，完全是在&lt;font color=&quot;#ffd200&quot;&gt;免费&lt;/font&gt;坐船，就把我从船上赶了下来！&#xA;可恶的家伙……真是太坏了！" />
+	<key id="1022122006000542" npc="pc" name="询问不出钱坐船本身不就是错误的吗？" />
+	<key id="1022122006000543" npc="주다쿠" name="什么？！你的意思是我错了？！&#xA;哼！原来你也是个坏家伙！" />
+	<key id="1110150406000967" npc="마요르" name="额……我太想知道了！" />
+	<key id="1110150406000968" npc="마요르" name="世界上怎么会有那么多新奇的事物？" />
+	<key id="1110150406000969" npc="마요르" name="肚子饿了，要不尝尝这里的食物吧？真想知道是什么味道……" />
+	<key id="1110150406000970" npc="마요르" name="真是个和平安定的地方啊！这里的居民平时都做什么呀？&#xA;他们吃什么？……人们穿的服装也很特别呢。&#xA;这衣服用什么布料做的？嗯……真是太让我好奇了！" />
+	<key id="1110150406000971" npc="마요르" name="啊！你是这里的居民吧？！很……很高兴见到你。呀哩哩哟!" />
+	<key id="1110150406000972" npc="pc" name="呀哩哩哟？你打招呼的方式好奇特。是什么意思啊？" />
+	<key id="1110150406000973" npc="pc" name="你的好奇心还真不小。" />
+	<key id="1110150406000974" npc="pc" name="你从哪里来啊？" />
+	<key id="1110150406000975" npc="마요르" name="啊哈！这话你听着很陌生吧？&#xA;呀哩哩哟是&lt;font color=&quot;#ffd200&quot;&gt;新朋友&lt;/font&gt;的意思，是我家乡打招呼的用语。&#xA;新朋友……听起来不觉得很激动人心吗？" />
+	<key id="1110150406000976" npc="마요르" name="当然了！怎么能不好奇呢？&#xA;这里的人们过着怎样的生活，流行什么样的服装，推崇什么样的美食……&#xA;所有这些细节，对我来说都是全新的体验！" />
+	<key id="1110150406000977" npc="마요르" name="这么多人聚居的地方，应该会有不少欢乐的庆典！&#xA;要是能参加就好了，我好想跟大伙儿一起热闹……嘿嘿……" />
+	<key id="1110150406000978" npc="마요르" name="嗯……估计你没听说过那个地方。&#xA;我也是乘船航行了很远很远的距离，才来到这里。&#xA;我生活的地方也有村庄，名字叫……女王镇！&#xA;那里的气氛和这里完全不一样。" />
+	<key id="1110153306000979" npc="리베트" name="你好，你好，你好！&#xA;问候三次就是非常高兴的意思，哈哈！" />
+	<key id="1110153306000980" npc="리베트" name="让我们笑对生活吧！哈哈！" />
+	<key id="1110153306000981" npc="리베트" name="有人就有钱！" />
+	<key id="1110153306000982" npc="리베트" name="在这样的地方居然建立了这么豪华的城市，很令人惊叹吧？" />
+	<key id="1118145206000544" npc="퓨리" name="只要你能找到$item:90000014$，我随时都可以把妖精的宝物给你。" />
+	<key id="1118145206000545" npc="퓨리" name="我需要很多很多的$item:90000014$！" />
+	<key id="1118145206000546" npc="퓨리" name="如果你有$item:90000014$，就请给我吧！" />
+	<key id="1118145206000547" npc="퓨리" name="你带来&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;了吗？&#xA;你要不要把它们交换成宝物呢？对于我来说，&lt;font color=&quot;#ffd200&quot;&gt;那些果实比宝物更珍贵&lt;/font&gt;……" />
+	<key id="1118145206000548" npc="pc" name="询问$item:90000014$是什么东西。" />
+	<key id="1118145206000549" npc="pc" name="询问他$item:90000014$用在什么地方。" />
+	<key id="1118145206000550" npc="pc" name="询问用$item:90000014$交换妖精的宝物也没关系吗。" />
+	<key id="1118145206000551" npc="퓨리" name="它是在&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;受到影响的树木结出的果实，也被称作&lt;font color=&quot;#ffd200&quot;&gt;黑暗果实&lt;/font&gt;。&#xA;这个果实中包含了阴影世界的&lt;font color=&quot;#ffd200&quot;&gt;极度黑暗&lt;/font&gt;。" />
+	<key id="1118145206000552" npc="퓨리" name="&lt;font color=&quot;#ffd200&quot;&gt;$npc:11000031[gender:0]$&lt;/font&gt;和守护妖精一起，阻挡了&lt;font color=&quot;#ffd200&quot;&gt;$map:2000350$&lt;/font&gt;的气息。&#xA;但是有一部分守护妖精中了$item:90000014$的&lt;font color=&quot;#ffd200&quot;&gt;毒&lt;/font&gt;。&#xA;$npc:11000031[gender:0]$说了，&#xA;如果要解除$item:90000014$的毒，就必须用具有相同毒性的$item:90000014$才行。" />
+	<key id="1118145206000553" npc="퓨리" name="如果要治愈&lt;font color=&quot;#ffd200&quot;&gt;中毒症状&lt;/font&gt;，就必须有$item:90000014$的果汁才行……&#xA;所以我需要很多很多的&lt;font color=&quot;#ffd200&quot;&gt;$item:90000014$&lt;/font&gt;！" />
+	<key id="1118145206000554" npc="퓨리" name="宝物只是&lt;font color=&quot;#ffd200&quot;&gt;物品&lt;/font&gt;，不是吗？ 比起这个，&lt;font color=&quot;#ffd200&quot;&gt;生命&lt;/font&gt;更加重要。&#xA;只要能帮助那些守护了森林，现在正在痛苦中煎熬的朋友……&#xA;就算&lt;font color=&quot;#ffd200&quot;&gt;比宝物更珍贵的东西&lt;/font&gt;，我也能用来交换！" />
+	<key id="1121222006000787" npc="옌타이오" name="有什么事吗？" />
+	<key id="1121222006000788" npc="옌타이오" name="有什么事吗？" />
+	<key id="1121222006000789" npc="크리스" name="发生什么事了？" />
+	<key id="1121222006000790" npc="크리스" name="发生什么事了？" />
+	<key id="1121222006000791" npc="다나" name="发生什么事了？" />
+	<key id="1121222006000792" npc="다나" name="发生什么事了？" />
+	<key id="1121222006000793" npc="지오" name="发生什么事了？" />
+	<key id="1121222006000794" npc="지오" name="发生什么事了？" />
+	<key id="1121222006000795" npc="니케아" name="发生什么事了？" />
+	<key id="1121222006000796" npc="니케아" name="发生什么事了？" />
+	<key id="1121222006000797" npc="피터" name="发生什么事了？" />
+	<key id="1121222006000798" npc="피터" name="发生什么事了？" />
+	<key id="1121222006000799" npc="라벤느" name="什么事情？" />
+	<key id="1121222006000800" npc="라벤느" name="什么事情？" />
+	<key id="1121222006000801" npc="릴리" name="什么事情？" />
+	<key id="1121222006000802" npc="릴리" name="什么事情？" />
+	<key id="1121222006000803" npc="잭클린" name="什么事情？" />
+	<key id="1121222006000804" npc="잭클린" name="有没有哪种药，可以治好弟弟的病呢……" />
+	<key id="1121222006000805" npc="알프레드" name="有什么事吗？" />
+	<key id="1121222006000806" npc="알프레드" name="有什么事吗？" />
+	<key id="1121222006000807" npc="브리엘" name="发生什么事了？" />
+	<key id="1121222006000808" npc="브리엘" name="我也希望有人能送花给我～～" />
+	<key id="1121222006000809" npc="브리엘" name="我就是有名的“$map:02000100$的野花”～" />
+	<key id="1121222006000810" npc="재커리" name="什么事？" />
+	<key id="1121222006000811" npc="재커리" name="能够帮助别人是件很幸运的事情。" />
+	<key id="1121222006000812" npc="가브리엘" name="什么事？" />
+	<key id="1121222006000813" npc="가브리엘" name="植物会给家里带来生气。" />
+	<key id="1121222006000814" npc="가브리엘" name="要是能好好睡一觉就好了……" />
+	<key id="1121222006000815" npc="제프리" name="什么事？" />
+	<key id="1121222006000816" npc="제프리" name="什么事？" />
+	<key id="1121222006000817" npc="브로" name="什么事？" />
+	<key id="1121222006000818" npc="브로" name="样式好看的家一定也很适合生活。" />
+	<key id="1121222006000819" npc="아놀드" name="欢迎光临。有什么事吗？" />
+	<key id="1121222006000820" npc="아놀드" name="一套雅致、舒服的房子，是必不可少的" />
+	<key id="1121222006000821" npc="이안" name="发生什么事了？" />
+	<key id="1121222006000822" npc="이안" name="发生什么事了？" />
+	<key id="1121222006000823" npc="엘비스" name="什么事？" />
+	<key id="1121222006000824" npc="엘비스" name="开发出高层大楼或一站式地标，是我的梦想。" />
+	<key id="1121222006000825" npc="이삭" name="什么事？" />
+	<key id="1121222006000826" npc="이삭" name="我一定要成为富翁！" />
+	<key id="1121222006000827" npc="로엥" name="可以再我的家建造模式中直接购买纪念品~" />
+	<key id="1121222006000828" npc="로엥" name="这是个好时代～嗯～确实如此～" />
+	<key id="1121222006000829" npc="쟝피엘" name="发生什么事了？" />
+	<key id="1121222006000830" npc="쟝피엘" name="请不要问有关过去的事情。" />
+	<key id="1121222006000831" npc="카를라" name="阴森的房子也别具魅力。" />
+	<key id="1121222006000832" npc="카를라" name="你想建一座鬼屋吗？" />
+	<key id="1121222006000833" npc="로코" name="发生什么事了？" />
+	<key id="1121222006000834" npc="로코" name="发生什么事了？" />
+	<key id="1121222006000835" npc="이슬레이" name="发生什么事了？" />
+	<key id="1121222006000836" npc="이슬레이" name="我一定要建立属于我的帝国！" />
+	<key id="1121222006000837" npc="시드" name="什么事？" />
+	<key id="1121222006000838" npc="시드" name="什么事？" />
+	<key id="1121222006000839" npc="보겐" name="发生什么事了？" />
+	<key id="1121222006000840" npc="보겐" name="今天可以减掉多少体重呢……" />
+	<key id="1121222006000841" npc="리키" name="发生什么事了？" />
+	<key id="1121222006000842" npc="리키" name="发生什么事了？" />
+	<key id="1121222006000843" npc="진저스" name="发生什么事了？" />
+	<key id="1121222006000844" npc="진저스" name="发生什么事了？" />
+	<key id="1121222006000845" npc="빈센트" name="发生什么事了？" />
+	<key id="1121222006000846" npc="빈센트" name="我讨厌尾巴长的人。" />
+	<key id="1121222006000847" npc="디오니" name="发生什么事了？" />
+	<key id="1121222006000848" npc="디오니" name="$map:02000023$式建筑的室内非常凉爽～" />
+	<key id="1121222006000849" npc="카지미르" name="发生什么事了？" />
+	<key id="1121222006000850" npc="카지미르" name="什么时候，我也能有属于自己的房子呢……" />
+	<key id="1121222006000851" npc="타바사" name="发生什么事了？" />
+	<key id="1121222006000852" npc="타바사" name="和管家在一起，互相照顾，真的会觉得很暖心哦。" />
+	<key id="1121222006000853" npc="델브" name="发生什么事了？" />
+	<key id="1121222006000854" npc="델브" name="我的发型怎么样？" />
+	<key id="1121222006000855" npc="그리드" name="发生什么事了？" />
+	<key id="1121222006000856" npc="그리드" name="发生什么事了？" />
+	<key id="1121222006000857" npc="듀나" name="发生什么事了？" />
+	<key id="1121222006000858" npc="듀나" name="发生什么事了？" />
+	<key id="1121222006000859" npc="티앤크" name="发生什么事了？" />
+	<key id="1121222006000860" npc="티앤크" name="发生什么事了？" />
+	<key id="1121222006000861" npc="노라" name="发生什么事了？" />
+	<key id="1121222006000862" npc="노라" name="发生什么事了？" />
+	<key id="1121222006000863" npc="따사미아" name="发生什么事了？" />
+	<key id="1121222006000864" npc="따사미아" name="发生什么事了？" />
+	<key id="1121222006000865" npc="칼코" name="有什么事吗？" />
+	<key id="1121222006000866" npc="칼코" name="有什么事吗？" />
+	<key id="1121222006000869" npc="투라지" name="什么事情？" />
+	<key id="1121222006000870" npc="투라지" name="什么事情？" />
+	<key id="1122123706000873" npc="랑피르" name="什么事情？" />
+	<key id="1122123706000874" npc="랑피르" name="什么事情？" />
+	<key id="1123000706000875" npc="타로즈" name="你好。" />
+	<key id="1206032906000555" npc="로아르" name="您怎么来了？" />
+	<key id="1206032906000556" npc="로아르" name="蓝色星星……我想了解它神秘的力量……" />
+	<key id="1206032906000557" npc="로아르" name="如果发现蓝色星星，带着它来找我！" />
+	<key id="1206032906000558" npc="모나르" name="您怎么来了？" />
+	<key id="1206032906000559" npc="모나르" name="蓝色星星……我想了解它神秘的力量……" />
+	<key id="1206032906000560" npc="모나르" name="如果发现蓝色星星，带着它来找我！" />
+	<key id="1206034206000561" npc="아코르" name="您怎么来了？" />
+	<key id="1206034206000562" npc="아코르" name="红色星星……我想了解它神秘的力量……" />
+	<key id="1206034206000563" npc="아코르" name="如果发现红色星星，带着它来找我！" />
+	<key id="1206034206000564" npc="카네르" name="您怎么来了？" />
+	<key id="1206034206000565" npc="카네르" name="红色星星……我想了解它神秘的力量……" />
+	<key id="1206034206000566" npc="카네르" name="如果发现红色星星，带着它来找我！" />
+	<key id="1206041506000567" npc="산타 루돌프" name="为了纪念圣诞节而来到$map:2000064$的鲁道夫。" />
+	<key id="1208032606000568" npc="녹스" name="嗯？你是谁？&#xA;是来交易物品的吗？" />
+	<key id="1208032606000569" npc="pc" name="听说这里在收集$item:40100024$。" />
+	<key id="1208032606000570" npc="녹스" name="啊，那个啊？&#xA;看样子你好不容易才弄到&lt;font color=&quot;#ffd200&quot;&gt;$item:40100024$&lt;/font&gt;，可惜这里不需要了。&#xA;这里暂时不做生意了，你要是想买东西，就去&lt;font color=&quot;#ffd200&quot;&gt;其他地方&lt;/font&gt;打听看看吧。" />
+	<key id="1208032606000571" npc="pc" name="为什么不做生意了？" />
+	<key id="1208032606000572" npc="녹스" name="……为什么不做了？&#xA;喂，小朋友。你在跟我开&lt;font color=&quot;#ffd200&quot;&gt;玩笑&lt;/font&gt;吗？&#xA;商人难道会有钱不想赚吗？当然是&lt;font color=&quot;#ffd200&quot;&gt;入不敷出&lt;/font&gt;才不做的。" />
+	<key id="1208032606000573" npc="녹스" name="至于是更换商品还是干脆另谋出路……&#xA;我还&lt;font color=&quot;#ffd200&quot;&gt;没想好&lt;/font&gt;，所以少来烦我，快走吧。&#xA;&lt;font color=&quot;#909090&quot;&gt;（看样子有些不耐烦了，还是少说为妙）&lt;/font&gt;" />
+	<key id="1214161306000876" npc="메리엔" name="发生什么事了？" />
+	<key id="1214161306000877" npc="메리엔" name="哈哈，这次和公会签订的合约好像成功了。" />
+	<key id="1214161306000878" npc="메리엔" name="我可不随便卖东西给别人。" />
+	<key id="1214161306000879" npc="메리엔" name="对于旅行者来说，药水是必需品！" />
+	<key id="1214161306000880" npc="안토니우스" name="音乐是属于每一个人的！现在开始吧！" />
+	<key id="1214161306000881" npc="안토니우스" name="你也会演奏啊！" />
+	<key id="1214161306000882" npc="안토니우스" name="你也会作曲啊！" />
+	<key id="1214161306000883" npc="안토니우스" name="把身体交给音乐~乘着旋律奔跑~" />
+	<key id="1214161306000884" npc="안토니우스" name="只要有&lt;font color=&quot;#ffd200&quot;&gt;乐器&lt;/font&gt;，每个人都可以&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;。&#xA;拿起我们&lt;font color=&quot;#ffd200&quot;&gt;皇家音乐学院&lt;/font&gt;准备的乐器，踏入音乐的世界吧，好吗？" />
+	<key id="1214161306000885" npc="pc" name="如何演奏乐器呢？" />
+	<key id="1214161306000886" npc="안토니우스" name="只要点击乐器就可以演奏了。很简单吧？&#xA;既可以即兴演奏，也可以按照&lt;font color=&quot;#ffd200&quot;&gt;乐谱&lt;/font&gt;进行演奏！" />
+	<key id="1214161306000887" npc="pc" name="如何使用乐谱演奏呢？" />
+	<key id="1214161306000888" npc="안토니우스" name="如果想进行乐谱演奏，方法非常简单！&#xA;只需购买乐谱或者购买空谱子，自己编曲。&#xA;这是将你的曲子分享给大家的绝好机会！&#xA;怎么样，是不是非常心动？" />
+	<key id="1214161306000889" npc="안토니우스" name="音乐并非遥不可及，音乐就在我们身旁。&#xA;如同我们可爱的小黄鸭朋友们。&#xA;请看一下我为您推荐的这些道具，相信你可以完美的演奏出美妙的音乐！" />
+	<key id="1216150106000596" npc="슈테판" name="音乐是属于每一个人的！现在开始吧！" />
+	<key id="1216150106000597" npc="슈테판" name="你也会演奏啊！" />
+	<key id="1216150106000598" npc="슈테판" name="你也会作曲啊！" />
+	<key id="1216150106000599" npc="슈테판" name="把身体交给音乐~乘着旋律奔跑~" />
+	<key id="1216150106000600" npc="슈테판" name="只要有&lt;font color=&quot;#ffd200&quot;&gt;乐器&lt;/font&gt;，每个人都可以&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;。&#xA;拿起我们&lt;font color=&quot;#ffd200&quot;&gt;皇家音乐学院&lt;/font&gt;准备的乐器，踏入音乐的世界吧，好吗？" />
+	<key id="1216150106000601" npc="pc" name="如何演奏乐器呢？" />
+	<key id="1216150106000602" npc="슈테판" name="只要点击乐器就可以演奏了。很简单吧？&#xA;既可以即兴演奏，也可以按照&lt;font color=&quot;#ffd200&quot;&gt;乐谱&lt;/font&gt;进行演奏！" />
+	<key id="1216150106000603" npc="pc" name="如何使用乐谱演奏呢？" />
+	<key id="1216150106000604" npc="슈테판" name="如果想进行乐谱演奏，方法非常简单！&#xA;只需购买乐谱或者购买空谱子，自己编曲。&#xA;这是将你的曲子分享给大家的绝好机会！&#xA;怎么样，是不是非常心动？" />
+	<key id="1216150106000605" npc="슈테판" name="音乐并非遥不可及，音乐就在我们身旁。&#xA;如同我们可爱的小黄鸭朋友们。&#xA;请看一下我为您推荐的这些道具，相信你可以完美的演奏出美妙的音乐！" />
+	<key id="1216150106000606" npc="클루페리자크" name="音乐是属于每一个人的！现在开始吧！" />
+	<key id="1216150106000607" npc="클루페리자크" name="你也会演奏啊！" />
+	<key id="1216150106000608" npc="클루페리자크" name="你也会作曲啊！" />
+	<key id="1216150106000609" npc="클루페리자크" name="调整节奏和呼吸~Hey！Yo!" />
+	<key id="1216150106000610" npc="클루페리자크" name="只要有&lt;font color=&quot;#ffd200&quot;&gt;乐器&lt;/font&gt;，每个人都可以&lt;font color=&quot;#ffd200&quot;&gt;演奏&lt;/font&gt;。&#xA;拿起我们&lt;font color=&quot;#ffd200&quot;&gt;皇家音乐学院&lt;/font&gt;准备的乐器，踏入音乐的世界吧，好吗？" />
+	<key id="1216150106000611" npc="pc" name="如何演奏乐器呢？" />
+	<key id="1216150106000612" npc="클루페리자크" name="只要点击乐器就可以演奏了。很简单吧？&#xA;既可以即兴演奏，也可以按照&lt;font color=&quot;#ffd200&quot;&gt;乐谱&lt;/font&gt;进行演奏！" />
+	<key id="1216150106000613" npc="pc" name="如何使用乐谱演奏呢？" />
+	<key id="1216150106000614" npc="클루페리자크" name="如果想进行乐谱演奏，方法非常简单！&#xA;只需购买乐谱或者购买空谱子，自己编曲。&#xA;这是将自作曲分享给大家的绝好机会！&#xA;怎么样，是不是非常心动？" />
+	<key id="1216150106000615" npc="클루페리자크" name="音乐并非遥不可及，音乐就在我们身旁。&#xA;如同我们可爱的小黄鸭朋友们。&#xA;请看一下我为您推荐的这些道具，相信你可以完美的演奏出美妙的音乐！" />
+	<key id="1216202006000616" npc="웅이" name="什么事情？" />
+	<key id="1216202006000617" npc="레스터" name="什么事情？" />
+	<key id="1216202006000618" npc="오린" name="欢迎光临。有什么能帮助您？" />
+	<key id="1216202006000619" npc="오린" name="需要存放物品或金币的地方吗？" />
+	<key id="1216202006000620" npc="오린" name="如果您想使用保险箱，请跟我对话。" />
+	<key id="1219170106000621" npc="마그리카" name="您怎么来了？" />
+	<key id="1219170106000622" npc="바그리카" name="您怎么来了？" />
+	<key id="1219175006000623" npc="케틀린" name="发生什么事了？" />
+	<key id="1219175006000624" npc="케틀린" name="欢迎光临～" />
+	<key id="1219175006000625" npc="케틀린" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000626" npc="케틀린" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000627" npc="트리시아" name="发生什么事了？" />
+	<key id="1219175006000628" npc="트리시아" name="欢迎光临～" />
+	<key id="1219175006000629" npc="트리시아" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000630" npc="트리시아" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000631" npc="엘리나" name="发生什么事了？" />
+	<key id="1219175006000632" npc="엘리나" name="欢迎光临～" />
+	<key id="1219175006000633" npc="엘리나" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000634" npc="엘리나" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000635" npc="쟈일" name="发生什么事了？" />
+	<key id="1219175006000636" npc="쟈일" name="欢迎光临～" />
+	<key id="1219175006000637" npc="쟈일" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000638" npc="쟈일" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000639" npc="티아" name="发生什么事了？" />
+	<key id="1219175006000640" npc="티아" name="欢迎光临～" />
+	<key id="1219175006000641" npc="티아" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000642" npc="티아" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000643" npc="에마" name="发生什么事了？" />
+	<key id="1219175006000644" npc="에마" name="欢迎光临～" />
+	<key id="1219175006000645" npc="에마" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000646" npc="에마" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000647" npc="자스민" name="发生什么事了？" />
+	<key id="1219175006000648" npc="자스민" name="欢迎光临～" />
+	<key id="1219175006000649" npc="자스민" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000650" npc="자스민" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000651" npc="유니퍼" name="发生什么事了？" />
+	<key id="1219175006000652" npc="유니퍼" name="欢迎光临～" />
+	<key id="1219175006000653" npc="유니퍼" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000654" npc="유니퍼" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000655" npc="아만다" name="发生什么事了？" />
+	<key id="1219175006000656" npc="아만다" name="欢迎光临～" />
+	<key id="1219175006000657" npc="아만다" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000658" npc="아만다" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000659" npc="앤드리" name="发生什么事了？" />
+	<key id="1219175006000660" npc="앤드리" name="欢迎光临～" />
+	<key id="1219175006000661" npc="앤드리" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000662" npc="앤드리" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000663" npc="엘리즈" name="发生什么事了？" />
+	<key id="1219175006000664" npc="엘리즈" name="欢迎光临～" />
+	<key id="1219175006000665" npc="엘리즈" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000666" npc="엘리즈" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000667" npc="보니" name="发生什么事了？" />
+	<key id="1219175006000668" npc="보니" name="欢迎光临～" />
+	<key id="1219175006000669" npc="보니" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000670" npc="보니" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000671" npc="조이" name="发生什么事了？" />
+	<key id="1219175006000672" npc="조이" name="欢迎光临～" />
+	<key id="1219175006000673" npc="조이" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000674" npc="조이" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000675" npc="힐다" name="发生什么事了？" />
+	<key id="1219175006000676" npc="힐다" name="欢迎光临～" />
+	<key id="1219175006000677" npc="힐다" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000678" npc="힐다" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219175006000679" npc="리엘" name="发生什么事了？" />
+	<key id="1219175006000680" npc="리엘" name="欢迎光临～" />
+	<key id="1219175006000681" npc="리엘" name="这是为这里的居民们开设的商店～" />
+	<key id="1219175006000682" npc="리엘" name="你不是这里的居民吧？&#xA;居民专用商店不对外人开放。&#xA;请到别的地方看看吧～" />
+	<key id="1219223606000683" npc="당당" name="你来干嘛！" />
+	<key id="1219235406000684" npc="넬리" name="您怎么来了？" />
+	<key id="1219235406000685" npc="잔켈" name="来这里有什么事吗？" />
+	<key id="1221172106000686" npc="피즈" name="你想抓到大鱼吗？" />
+	<key id="1221172106000687" npc="피즈" name="大鱼的味道当然忘不掉了！" />
+	<key id="1221172106000688" npc="피즈" name="如果有鱼饵，那就变得容易多了！" />
+	<key id="1221172106000689" npc="피즈" name="需要什么渔具吗？" />
+	<key id="1222162206000690" npc="델리비" name="什么事？" />
+	<key id="1223011306000695" npc="뮤아" name="什么事？" />
+	<key id="1223011306000696" npc="팅코" name="欢迎光临。有什么能帮助您？" />
+	<key id="1223011306000697" npc="팅코" name="需要存放物品或金币的地方吗？" />
+	<key id="1223011306000698" npc="팅코" name="如果您想使用保险箱，请跟我对话。" />
 </ms2>

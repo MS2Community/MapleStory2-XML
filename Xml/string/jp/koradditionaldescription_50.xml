@@ -1,226 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10500031" level="1" name="アイスアロー" tooltipDescription="氷の矢に貫かれ、体が固くなりました。\n移動速度が4%減少" />
-  <key id="10500032" level="1" name="氷結" tooltipDescription="体が凍りつきました！\n氷結状態になって行動不能" />
-  <key id="10500061" level="1" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが13増加\n命中が1増加" />
-  <key id="10500061" level="2" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが20増加\n命中が1増加" />
-  <key id="10500061" level="3" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが27増加\n命中が2増加" />
-  <key id="10500061" level="4" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが34増加\n命中が2増加" />
-  <key id="10500061" level="5" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが41増加\n命中が3増加" />
-  <key id="10500061" level="6" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが48増加\n命中が3増加" />
-  <key id="10500061" level="7" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが55増加\n命中が4増加" />
-  <key id="10500061" level="8" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが62増加\n命中が4増加" />
-  <key id="10500061" level="9" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが69増加\n命中が4増加" />
-  <key id="10500061" level="10" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが76増加\n命中が5増加" />
-  <key id="10500061" level="11" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが83増加\n命中が5増加" />
-  <key id="10500061" level="12" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが90増加\n命中が5増加" />
-  <key id="10500066" level="1" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が1増加\nクリティカルヒットが17増加" feature="JobChange_01" />
-  <key id="10500066" level="2" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が1増加\nクリティカルヒットが28増加" feature="JobChange_01" />
-  <key id="10500066" level="3" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が2増加\nクリティカルヒットが39増加" feature="JobChange_01" />
-  <key id="10500066" level="4" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が2増加\nクリティカルヒットが50増加" feature="JobChange_01" />
-  <key id="10500066" level="5" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が3増加\nクリティカルヒットが61増加" feature="JobChange_01" />
-  <key id="10500066" level="6" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が3増加\nクリティカルヒットが72増加" feature="JobChange_01" />
-  <key id="10500066" level="7" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが83増加" feature="JobChange_01" />
-  <key id="10500066" level="8" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが94増加" feature="JobChange_01" />
-  <key id="10500066" level="9" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが105増加" feature="JobChange_01" />
-  <key id="10500066" level="10" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが116増加" feature="JobChange_01" />
-  <key id="10500066" level="11" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが127増加" feature="JobChange_01" />
-  <key id="10500066" level="12" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが138増加" feature="JobChange_01" />
-  <key id="10500072" level="1" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが4.4%増加" />
-  <key id="10500072" level="2" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが4.7%増加" />
-  <key id="10500072" level="3" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5%増加" />
-  <key id="10500072" level="4" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.3%増加" />
-  <key id="10500072" level="5" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.6%増加" />
-  <key id="10500072" level="6" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.9%増加" />
-  <key id="10500072" level="7" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.2%増加" />
-  <key id="10500072" level="8" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.5%増加" />
-  <key id="10500072" level="9" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.8%増加" />
-  <key id="10500072" level="10" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.1%増加" />
-  <key id="10500072" level="11" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.4%増加" />
-  <key id="10500072" level="12" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.7%増加" />
-  <key id="10500081" level="1" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに60%のダメージ\n移動速度が30%減少\nジャンプ力が30%減少" />
-  <key id="10500081" level="2" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに64%のダメージ\n移動速度が30%減少\nジャンプ力が30%減少" />
-  <key id="10500081" level="3" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに68%のダメージ\n移動速度が30%減少\nジャンプ力が30%減" />
-  <key id="10500081" level="4" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに72%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
-  <key id="10500081" level="5" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに76%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
-  <key id="10500081" level="6" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに80%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
-  <key id="10500081" level="7" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに84%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
-  <key id="10500081" level="8" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに88%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
-  <key id="10500081" level="9" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに92%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
-  <key id="10500081" level="10" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに96%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
-  <key id="10500081" level="11" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに100%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
-  <key id="10500081" level="12" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに104%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
-  <key id="10500091" level="1" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを1回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="2" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを2回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="3" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを3回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="4" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを4回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="5" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを5回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="6" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを6回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="7" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを7回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="8" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを8回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="9" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを9回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="10" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを10回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="11" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを11回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500091" level="12" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを12回復\n攻撃が命中するとワシの支援攻撃が発動" />
-  <key id="10500093" level="1" name="KORADDITIONALDESCRIPTION_10500093_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="2" name="KORADDITIONALDESCRIPTION_10500093_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="3" name="KORADDITIONALDESCRIPTION_10500093_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="4" name="KORADDITIONALDESCRIPTION_10500093_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="5" name="KORADDITIONALDESCRIPTION_10500093_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="6" name="KORADDITIONALDESCRIPTION_10500093_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="7" name="KORADDITIONALDESCRIPTION_10500093_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="8" name="KORADDITIONALDESCRIPTION_10500093_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="9" name="KORADDITIONALDESCRIPTION_10500093_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="10" name="KORADDITIONALDESCRIPTION_10500093_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="11" name="KORADDITIONALDESCRIPTION_10500093_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500093" level="12" name="KORADDITIONALDESCRIPTION_10500093_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500111" level="1" name="スナイプ" tooltipDescription="正確に敵を照準しています。\nSP回復量が1増加" />
-  <key id="10500171" level="1" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="2" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="3" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="4" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="5" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="6" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="7" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="8" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="9" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="10" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="11" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500171" level="12" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="1" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="2" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="3" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="4" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="5" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="6" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="7" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="8" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="9" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="10" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="11" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500172" level="12" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
-  <key id="10500173" level="1" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="2" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="3" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="4" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="5" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="6" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="7" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="8" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="9" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="10" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="11" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500173" level="12" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
-  <key id="10500181" level="1" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が3%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="2" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が6%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="3" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が9%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="4" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が12%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="5" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が15%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="6" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が18%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="7" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が21%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="8" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が24%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="9" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が27%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="10" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が30%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="11" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が33%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500181" level="12" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が36%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
-  <key id="10500231" level="1" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が1%、命中が1増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="2" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が2%、命中が2増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="3" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が3%、命中が3増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="4" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が4%、命中が4増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="5" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が5%、命中が5増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="6" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が6%、命中が6増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="7" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が7%、命中が7増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="8" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が8%、命中が8増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="9" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が9%、命中が9増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="10" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が10%、命中が10増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="11" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が11%、命中が11増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500231" level="12" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が12%、命中が12増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
-  <key id="10500232" level="1" name="チャージ状態" tooltipDescription="弓に風の力が宿っています。\n風系攻撃スキルで攻撃すると1回重複増加。最大15回まで重複\n15回重複すると解放状態に変更される" feature="JobChange_01" />
-  <key id="10500233" level="1" name="解放状態" tooltipDescription="弓に風の力が十分に集まりました！\nシークレットオブアーチェリー使用可能" feature="JobChange_01" />
-  <key id="10500261" level="1" name="KORADDITIONALDESCRIPTION_10500261_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="2" name="KORADDITIONALDESCRIPTION_10500261_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="3" name="KORADDITIONALDESCRIPTION_10500261_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="4" name="KORADDITIONALDESCRIPTION_10500261_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="5" name="KORADDITIONALDESCRIPTION_10500261_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="6" name="KORADDITIONALDESCRIPTION_10500261_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="7" name="KORADDITIONALDESCRIPTION_10500261_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="8" name="KORADDITIONALDESCRIPTION_10500261_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="9" name="KORADDITIONALDESCRIPTION_10500261_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="10" name="KORADDITIONALDESCRIPTION_10500261_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="11" name="KORADDITIONALDESCRIPTION_10500261_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500261" level="12" name="KORADDITIONALDESCRIPTION_10500261_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="1" name="KORADDITIONALDESCRIPTION_10500272_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="2" name="KORADDITIONALDESCRIPTION_10500272_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="3" name="KORADDITIONALDESCRIPTION_10500272_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="4" name="KORADDITIONALDESCRIPTION_10500272_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="5" name="KORADDITIONALDESCRIPTION_10500272_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="6" name="KORADDITIONALDESCRIPTION_10500272_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="7" name="KORADDITIONALDESCRIPTION_10500272_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="8" name="KORADDITIONALDESCRIPTION_10500272_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="9" name="KORADDITIONALDESCRIPTION_10500272_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="10" name="KORADDITIONALDESCRIPTION_10500272_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="11" name="KORADDITIONALDESCRIPTION_10500272_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500272" level="12" name="KORADDITIONALDESCRIPTION_10500272_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="1" name="KORADDITIONALDESCRIPTION_10500281_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="2" name="KORADDITIONALDESCRIPTION_10500281_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="3" name="KORADDITIONALDESCRIPTION_10500281_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="4" name="KORADDITIONALDESCRIPTION_10500281_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="5" name="KORADDITIONALDESCRIPTION_10500281_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="6" name="KORADDITIONALDESCRIPTION_10500281_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="7" name="KORADDITIONALDESCRIPTION_10500281_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="8" name="KORADDITIONALDESCRIPTION_10500281_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="9" name="KORADDITIONALDESCRIPTION_10500281_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="10" name="KORADDITIONALDESCRIPTION_10500281_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="11" name="KORADDITIONALDESCRIPTION_10500281_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500281" level="12" name="KORADDITIONALDESCRIPTION_10500281_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="1" name="KORADDITIONALDESCRIPTION_10500291_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="2" name="KORADDITIONALDESCRIPTION_10500291_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="3" name="KORADDITIONALDESCRIPTION_10500291_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="4" name="KORADDITIONALDESCRIPTION_10500291_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="5" name="KORADDITIONALDESCRIPTION_10500291_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="6" name="KORADDITIONALDESCRIPTION_10500291_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="7" name="KORADDITIONALDESCRIPTION_10500291_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="8" name="KORADDITIONALDESCRIPTION_10500291_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="9" name="KORADDITIONALDESCRIPTION_10500291_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="10" name="KORADDITIONALDESCRIPTION_10500291_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="11" name="KORADDITIONALDESCRIPTION_10500291_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500291" level="12" name="KORADDITIONALDESCRIPTION_10500291_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="1" name="KORADDITIONALDESCRIPTION_10500293_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="2" name="KORADDITIONALDESCRIPTION_10500293_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="3" name="KORADDITIONALDESCRIPTION_10500293_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="4" name="KORADDITIONALDESCRIPTION_10500293_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="5" name="KORADDITIONALDESCRIPTION_10500293_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="6" name="KORADDITIONALDESCRIPTION_10500293_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="7" name="KORADDITIONALDESCRIPTION_10500293_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="8" name="KORADDITIONALDESCRIPTION_10500293_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="9" name="KORADDITIONALDESCRIPTION_10500293_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="10" name="KORADDITIONALDESCRIPTION_10500293_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="11" name="KORADDITIONALDESCRIPTION_10500293_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500293" level="12" name="KORADDITIONALDESCRIPTION_10500293_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500295" level="1" name="KORADDITIONALDESCRIPTION_10500295_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500295_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="1" name="KORADDITIONALDESCRIPTION_10500296_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="2" name="KORADDITIONALDESCRIPTION_10500296_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="3" name="KORADDITIONALDESCRIPTION_10500296_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="4" name="KORADDITIONALDESCRIPTION_10500296_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="5" name="KORADDITIONALDESCRIPTION_10500296_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="6" name="KORADDITIONALDESCRIPTION_10500296_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="7" name="KORADDITIONALDESCRIPTION_10500296_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="8" name="KORADDITIONALDESCRIPTION_10500296_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="9" name="KORADDITIONALDESCRIPTION_10500296_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="10" name="KORADDITIONALDESCRIPTION_10500296_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="11" name="KORADDITIONALDESCRIPTION_10500296_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500296" level="12" name="KORADDITIONALDESCRIPTION_10500296_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="1" name="KORADDITIONALDESCRIPTION_10500298_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="2" name="KORADDITIONALDESCRIPTION_10500298_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="3" name="KORADDITIONALDESCRIPTION_10500298_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="4" name="KORADDITIONALDESCRIPTION_10500298_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="5" name="KORADDITIONALDESCRIPTION_10500298_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="6" name="KORADDITIONALDESCRIPTION_10500298_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="7" name="KORADDITIONALDESCRIPTION_10500298_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="8" name="KORADDITIONALDESCRIPTION_10500298_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="9" name="KORADDITIONALDESCRIPTION_10500298_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="10" name="KORADDITIONALDESCRIPTION_10500298_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="11" name="KORADDITIONALDESCRIPTION_10500298_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10500298" level="12" name="KORADDITIONALDESCRIPTION_10500298_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500031" level="1" name="アイスアロー" tooltipDescription="氷の矢に貫かれ、体が固くなりました。\n移動速度が4%減少" />
+	<key id="10500032" level="1" name="氷結" tooltipDescription="体が凍りつきました！\n氷結状態になって行動不能" />
+	<key id="10500061" level="1" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが13増加\n命中が1増加" />
+	<key id="10500061" level="2" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが20増加\n命中が1増加" />
+	<key id="10500061" level="3" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが27増加\n命中が2増加" />
+	<key id="10500061" level="4" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが34増加\n命中が2増加" />
+	<key id="10500061" level="5" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが41増加\n命中が3増加" />
+	<key id="10500061" level="6" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが48増加\n命中が3増加" />
+	<key id="10500061" level="7" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが55増加\n命中が4増加" />
+	<key id="10500061" level="8" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが62増加\n命中が4増加" />
+	<key id="10500061" level="9" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが69増加\n命中が4増加" />
+	<key id="10500061" level="10" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが76増加\n命中が5増加" />
+	<key id="10500061" level="11" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが83増加\n命中が5増加" />
+	<key id="10500061" level="12" name="シャープアイズ" tooltipDescription="敵の弱点を把握します。\nクリティカルヒットが90増加\n命中が5増加" />
+	<key id="10500066" level="1" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が1増加\nクリティカルヒットが17増加" feature="JobChange_01" />
+	<key id="10500066" level="2" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が1増加\nクリティカルヒットが28増加" feature="JobChange_01" />
+	<key id="10500066" level="3" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が2増加\nクリティカルヒットが39増加" feature="JobChange_01" />
+	<key id="10500066" level="4" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が2増加\nクリティカルヒットが50増加" feature="JobChange_01" />
+	<key id="10500066" level="5" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が3増加\nクリティカルヒットが61増加" feature="JobChange_01" />
+	<key id="10500066" level="6" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が3増加\nクリティカルヒットが72増加" feature="JobChange_01" />
+	<key id="10500066" level="7" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが83増加" feature="JobChange_01" />
+	<key id="10500066" level="8" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが94増加" feature="JobChange_01" />
+	<key id="10500066" level="9" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が4増加\nクリティカルヒットが105増加" feature="JobChange_01" />
+	<key id="10500066" level="10" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが116増加" feature="JobChange_01" />
+	<key id="10500066" level="11" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが127増加" feature="JobChange_01" />
+	<key id="10500066" level="12" name="強化シャープアイズ" tooltipDescription="敵の弱点を正確に把握します。\n命中が5増加\nクリティカルヒットが138増加" feature="JobChange_01" />
+	<key id="10500072" level="1" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが4.4%増加" />
+	<key id="10500072" level="2" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが4.7%増加" />
+	<key id="10500072" level="3" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5%増加" />
+	<key id="10500072" level="4" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.3%増加" />
+	<key id="10500072" level="5" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.6%増加" />
+	<key id="10500072" level="6" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが5.9%増加" />
+	<key id="10500072" level="7" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.2%増加" />
+	<key id="10500072" level="8" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.5%増加" />
+	<key id="10500072" level="9" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが6.8%増加" />
+	<key id="10500072" level="10" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.1%増加" />
+	<key id="10500072" level="11" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.4%増加" />
+	<key id="10500072" level="12" name="ゴールデンイーグル" tooltipDescription="ゴールデンイーグルが援護しています。\nDEXが7.7%増加" />
+	<key id="10500081" level="1" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに60%のダメージ\n移動速度が30%減少\nジャンプ力が30%減少" />
+	<key id="10500081" level="2" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに64%のダメージ\n移動速度が30%減少\nジャンプ力が30%減少" />
+	<key id="10500081" level="3" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに68%のダメージ\n移動速度が30%減少\nジャンプ力が30%減" />
+	<key id="10500081" level="4" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに72%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
+	<key id="10500081" level="5" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに76%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
+	<key id="10500081" level="6" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに80%のダメージ\n移動速度が35%減少\nジャンプ力が35%減少" />
+	<key id="10500081" level="7" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに84%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
+	<key id="10500081" level="8" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに88%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
+	<key id="10500081" level="9" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに92%のダメージ\n移動速度が40%減少\nジャンプ力が40%減少" />
+	<key id="10500081" level="10" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに96%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
+	<key id="10500081" level="11" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに100%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
+	<key id="10500081" level="12" name="イーグルストライク" tooltipDescription="ワシの爪に引っ掛けられました！\n1秒ごとに104%のダメージ\n移動速度が45%減少\nジャンプ力が45%減少" />
+	<key id="10500091" level="1" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを1回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="2" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを2回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="3" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを3回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="4" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを4回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="5" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを5回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="6" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを6回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="7" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを7回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="8" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを8回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="9" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを9回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="10" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを10回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="11" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを11回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500091" level="12" name="イーグルスピリット" tooltipDescription="ワシの気が全身に走ります。\n1秒ごとにSPを12回復\n攻撃が命中するとワシの支援攻撃が発動" />
+	<key id="10500093" level="1" name="KORADDITIONALDESCRIPTION_10500093_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="2" name="KORADDITIONALDESCRIPTION_10500093_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="3" name="KORADDITIONALDESCRIPTION_10500093_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="4" name="KORADDITIONALDESCRIPTION_10500093_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="5" name="KORADDITIONALDESCRIPTION_10500093_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="6" name="KORADDITIONALDESCRIPTION_10500093_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="7" name="KORADDITIONALDESCRIPTION_10500093_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="8" name="KORADDITIONALDESCRIPTION_10500093_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="9" name="KORADDITIONALDESCRIPTION_10500093_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="10" name="KORADDITIONALDESCRIPTION_10500093_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="11" name="KORADDITIONALDESCRIPTION_10500093_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500093" level="12" name="KORADDITIONALDESCRIPTION_10500093_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500093_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500111" level="1" name="スナイプ" tooltipDescription="正確に敵を照準しています。\nSP回復量が1増加" />
+	<key id="10500171" level="1" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="2" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="3" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="4" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="5" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="6" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="7" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="8" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="9" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="10" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="11" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500171" level="12" name="燃え上がる矢1段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢1段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="1" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="2" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="3" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="4" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="5" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="6" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="7" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="8" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="9" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="10" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="11" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500172" level="12" name="燃え上がる矢2段階" tooltipDescription="矢が燃え上がっています。\n敵を攻撃すると燃え上がる矢2段階1回重複増加 " feature="JobChange_01" />
+	<key id="10500173" level="1" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="2" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="3" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="4" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="5" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="6" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="7" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="8" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="9" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="10" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="11" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500173" level="12" name="燃え上がる矢3段階" tooltipDescription="強烈な炎の矢が燃え上がっています！ " feature="JobChange_01" />
+	<key id="10500181" level="1" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が3%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="2" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が6%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="3" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が9%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="4" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が12%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="5" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が15%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="6" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が18%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="7" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が21%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="8" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が24%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="9" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が27%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="10" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が30%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="11" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が33%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500181" level="12" name="コンセントレーション" tooltipDescription="吹き荒れる嵐のように火炎矢を発射します！\n物理攻撃力が36%増加\nスキルを使用してもSPを消費しない" feature="JobChange_01" />
+	<key id="10500231" level="1" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が1%、命中が1増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="2" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が2%、命中が2増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="3" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が3%、命中が3増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="4" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が4%、命中が4増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="5" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が5%、命中が5増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="6" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が6%、命中が6増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="7" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が7%、命中が7増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="8" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が8%、命中が8増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="9" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が9%、命中が9増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="10" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が10%、命中が10増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="11" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が11%、命中が11増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500231" level="12" name="シークレットオブアーチェリー" tooltipDescription="弓術の極意を悟り、身体能力が強化されます。\n防御力貫通が12%、命中が12増加\nリボルビングウィンドアロー、強化スパイラルアロー使用可能" feature="JobChange_01" />
+	<key id="10500232" level="1" name="チャージ状態" tooltipDescription="弓に風の力が宿っています。\n風系攻撃スキルで攻撃すると1回重複増加。最大15回まで重複\n15回重複すると解放状態に変更される" feature="JobChange_01" />
+	<key id="10500233" level="1" name="解放状態" tooltipDescription="弓に風の力が十分に集まりました！\nシークレットオブアーチェリー使用可能" feature="JobChange_01" />
+	<key id="10500261" level="1" name="KORADDITIONALDESCRIPTION_10500261_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="2" name="KORADDITIONALDESCRIPTION_10500261_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="3" name="KORADDITIONALDESCRIPTION_10500261_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="4" name="KORADDITIONALDESCRIPTION_10500261_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="5" name="KORADDITIONALDESCRIPTION_10500261_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="6" name="KORADDITIONALDESCRIPTION_10500261_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="7" name="KORADDITIONALDESCRIPTION_10500261_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="8" name="KORADDITIONALDESCRIPTION_10500261_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="9" name="KORADDITIONALDESCRIPTION_10500261_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="10" name="KORADDITIONALDESCRIPTION_10500261_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="11" name="KORADDITIONALDESCRIPTION_10500261_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500261" level="12" name="KORADDITIONALDESCRIPTION_10500261_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500261_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="1" name="KORADDITIONALDESCRIPTION_10500272_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="2" name="KORADDITIONALDESCRIPTION_10500272_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="3" name="KORADDITIONALDESCRIPTION_10500272_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="4" name="KORADDITIONALDESCRIPTION_10500272_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="5" name="KORADDITIONALDESCRIPTION_10500272_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="6" name="KORADDITIONALDESCRIPTION_10500272_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="7" name="KORADDITIONALDESCRIPTION_10500272_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="8" name="KORADDITIONALDESCRIPTION_10500272_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="9" name="KORADDITIONALDESCRIPTION_10500272_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="10" name="KORADDITIONALDESCRIPTION_10500272_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="11" name="KORADDITIONALDESCRIPTION_10500272_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500272" level="12" name="KORADDITIONALDESCRIPTION_10500272_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500272_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="1" name="KORADDITIONALDESCRIPTION_10500281_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="2" name="KORADDITIONALDESCRIPTION_10500281_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="3" name="KORADDITIONALDESCRIPTION_10500281_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="4" name="KORADDITIONALDESCRIPTION_10500281_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="5" name="KORADDITIONALDESCRIPTION_10500281_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="6" name="KORADDITIONALDESCRIPTION_10500281_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="7" name="KORADDITIONALDESCRIPTION_10500281_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="8" name="KORADDITIONALDESCRIPTION_10500281_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="9" name="KORADDITIONALDESCRIPTION_10500281_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="10" name="KORADDITIONALDESCRIPTION_10500281_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="11" name="KORADDITIONALDESCRIPTION_10500281_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500281" level="12" name="KORADDITIONALDESCRIPTION_10500281_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500281_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="1" name="KORADDITIONALDESCRIPTION_10500291_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="2" name="KORADDITIONALDESCRIPTION_10500291_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="3" name="KORADDITIONALDESCRIPTION_10500291_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="4" name="KORADDITIONALDESCRIPTION_10500291_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="5" name="KORADDITIONALDESCRIPTION_10500291_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="6" name="KORADDITIONALDESCRIPTION_10500291_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="7" name="KORADDITIONALDESCRIPTION_10500291_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="8" name="KORADDITIONALDESCRIPTION_10500291_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="9" name="KORADDITIONALDESCRIPTION_10500291_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="10" name="KORADDITIONALDESCRIPTION_10500291_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="11" name="KORADDITIONALDESCRIPTION_10500291_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500291" level="12" name="KORADDITIONALDESCRIPTION_10500291_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500291_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="1" name="KORADDITIONALDESCRIPTION_10500293_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="2" name="KORADDITIONALDESCRIPTION_10500293_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="3" name="KORADDITIONALDESCRIPTION_10500293_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="4" name="KORADDITIONALDESCRIPTION_10500293_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="5" name="KORADDITIONALDESCRIPTION_10500293_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="6" name="KORADDITIONALDESCRIPTION_10500293_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="7" name="KORADDITIONALDESCRIPTION_10500293_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="8" name="KORADDITIONALDESCRIPTION_10500293_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="9" name="KORADDITIONALDESCRIPTION_10500293_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="10" name="KORADDITIONALDESCRIPTION_10500293_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="11" name="KORADDITIONALDESCRIPTION_10500293_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500293" level="12" name="KORADDITIONALDESCRIPTION_10500293_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500293_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500295" level="1" name="KORADDITIONALDESCRIPTION_10500295_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500295_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="1" name="KORADDITIONALDESCRIPTION_10500296_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="2" name="KORADDITIONALDESCRIPTION_10500296_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="3" name="KORADDITIONALDESCRIPTION_10500296_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="4" name="KORADDITIONALDESCRIPTION_10500296_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="5" name="KORADDITIONALDESCRIPTION_10500296_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="6" name="KORADDITIONALDESCRIPTION_10500296_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="7" name="KORADDITIONALDESCRIPTION_10500296_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="8" name="KORADDITIONALDESCRIPTION_10500296_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="9" name="KORADDITIONALDESCRIPTION_10500296_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="10" name="KORADDITIONALDESCRIPTION_10500296_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="11" name="KORADDITIONALDESCRIPTION_10500296_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500296" level="12" name="KORADDITIONALDESCRIPTION_10500296_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500296_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="1" name="KORADDITIONALDESCRIPTION_10500298_1_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_1_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="2" name="KORADDITIONALDESCRIPTION_10500298_2_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_2_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="3" name="KORADDITIONALDESCRIPTION_10500298_3_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_3_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="4" name="KORADDITIONALDESCRIPTION_10500298_4_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_4_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="5" name="KORADDITIONALDESCRIPTION_10500298_5_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_5_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="6" name="KORADDITIONALDESCRIPTION_10500298_6_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_6_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="7" name="KORADDITIONALDESCRIPTION_10500298_7_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_7_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="8" name="KORADDITIONALDESCRIPTION_10500298_8_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_8_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="9" name="KORADDITIONALDESCRIPTION_10500298_9_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_9_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="10" name="KORADDITIONALDESCRIPTION_10500298_10_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_10_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="11" name="KORADDITIONALDESCRIPTION_10500298_11_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_11_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10500298" level="12" name="KORADDITIONALDESCRIPTION_10500298_12_NAME:[F]JobChange_02" tooltipDescription="KORADDITIONALDESCRIPTION_10500298_12_TOOLTIPDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

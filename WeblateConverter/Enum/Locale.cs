@@ -9,4 +9,6 @@ public enum Locale {
     pt,
     cn,
     jp,
+    es,
+    zh_Hant,
 }

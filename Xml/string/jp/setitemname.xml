@@ -1,918 +1,917 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="15123101" name="ルミ・ド・コルセット" />
-  <key id="15123102" name="ルミ・ド・ラビエスセット" />
-  <key id="15123103" name="ルミ・ド・マギアセット" />
-  <key id="15123104" name="ルミ・ド・デウスセット" />
-  <key id="15123105" name="ルミ・ド・テロセット" />
-  <key id="15123106" name="ルミ・ド・リブラトセット" />
-  <key id="15123107" name="ルミ・ド・エレボスセット" />
-  <key id="15123108" name="ルミ・ド・シカセット" />
-  <key id="15123109" name="ルミ・ド・ポルスセット" />
-  <key id="16022501" name="ブラックスターレコーズセット" />
-  <key id="16042801" name="かわいいダッキーボールセット" />
-  <key id="16042802" name="シックなダッキーボールセット" />
-  <key id="16042803" name="恥ずかしいダッキーボールセット" />
-  <key id="16063001" name="エレガントゴシックセット" />
-  <key id="16063002" name="エレガントゴシックセット" />
-  <key id="16071401" name="ルミ・ド・マヌスセット" />
-  <key id="16072801" name="イフリートフェアリーセット" />
-  <key id="16072802" name="イフリートフェアリーセット" />
-  <key id="16081101" name="高級儀式セット" />
-  <key id="16081102" name="ルミ・ド・エニマルセット" />
-  <key id="16082501" name="ピュアウェディングセット" />
-  <key id="16082502" name="ピュアウェディングセット" />
-  <key id="16082503" name="猛烈な戦闘セット" />
-  <key id="16082504" name="猛烈な狂乱セット" />
-  <key id="16082505" name="猛烈な魔法セット" />
-  <key id="16082506" name="猛烈な神聖セット" />
-  <key id="16082507" name="猛烈な集中セット" />
-  <key id="16082508" name="猛烈な砲撃セット" />
-  <key id="16082509" name="猛烈な混乱セット" />
-  <key id="16082510" name="猛烈な暗殺セット" />
-  <key id="16082511" name="猛烈な呪術セット" />
-  <key id="16082512" name="猛烈な乱闘セット" />
-  <key id="16082513" name="猛烈な儀式セット" />
-  <key id="16082514" name="ナルバシャンの戦闘セット" />
-  <key id="16082515" name="ナルバシャンの狂乱セット" />
-  <key id="16082516" name="ナルバシャンの魔法セット" />
-  <key id="16082517" name="ナルバシャンの神聖セット" />
-  <key id="16082518" name="ナルバシャンの集中セット" />
-  <key id="16082519" name="ナルバシャンの砲撃セット" />
-  <key id="16082520" name="ナルバシャンの混乱セット" />
-  <key id="16082521" name="ナルバシャンの暗殺セット" />
-  <key id="16082522" name="ナルバシャンの呪術セット" />
-  <key id="16082523" name="ナルバシャンの乱闘セット" />
-  <key id="16082524" name="ナルバシャンの儀式セット" />
-  <key id="16092901" name="上級ダイヤモンドセット" />
-  <key id="16092902" name="上級オニキスタルセット" />
-  <key id="16092903" name="シュアブリーチェ家の栄光セット" />
-  <key id="16102701" name="ブラッディヴァンパイアセット" />
-  <key id="16102702" name="ブラッディヴァンパイアセット" />
-  <key id="16121501" name="メリークリスマスセット" />
-  <key id="16121502" name="メリークリスマスセット" />
-  <key id="17011201" name="波の戦闘セット" />
-  <key id="17011202" name="波の狂乱セット" />
-  <key id="17011203" name="波の魔法セット" />
-  <key id="17011204" name="波の神聖セット" />
-  <key id="17011205" name="波の集中セット" />
-  <key id="17011206" name="波の砲撃セット" />
-  <key id="17011207" name="波の混乱セット" />
-  <key id="17011208" name="波の暗殺セット" />
-  <key id="17011209" name="波の呪術セット" />
-  <key id="17011210" name="波の乱闘セット" />
-  <key id="17011211" name="波の儀式セット" />
-  <key id="17011212" name="消えた王国の戦闘セット" />
-  <key id="17011213" name="消えた王国の狂乱セット" />
-  <key id="17011214" name="消えた王国の魔法セット" />
-  <key id="17011215" name="消えた王国の神聖セット" />
-  <key id="17011216" name="消えた王国の集中セット" />
-  <key id="17011217" name="消えた王国の砲撃セット" />
-  <key id="17011218" name="消えた王国の混乱セット" />
-  <key id="17011219" name="消えた王国の暗殺セット" />
-  <key id="17011220" name="消えた王国の呪術セット" />
-  <key id="17011221" name="消えた王国の乱闘セット" />
-  <key id="17011222" name="消えた王国の儀式セット" />
-  <key id="17011223" name="ルミエラゴン戦闘セット" />
-  <key id="17011224" name="ルミエラゴン狂乱セット" />
-  <key id="17011225" name="ルミエラゴン魔法セット" />
-  <key id="17011226" name="ルミエラゴン神聖セット" />
-  <key id="17011227" name="ルミエラゴン集中セット" />
-  <key id="17011228" name="ルミエラゴン砲撃セット" />
-  <key id="17011229" name="ルミエラゴン混乱セット" />
-  <key id="17011230" name="ルミエラゴン暗殺セット" />
-  <key id="17011231" name="ルミエラゴン呪術セット" />
-  <key id="17011232" name="ルミエラゴン乱闘セット" />
-  <key id="17011233" name="ルミエラゴン儀式セット" />
-  <key id="17020901" name="スカーレットハートセット" />
-  <key id="17020902" name="スカーレットハートセット" />
-  <key id="17020903" name="メイプル連合セット" />
-  <key id="17020904" name="メイプル連合セット" />
-  <key id="17020905" name="メイプル連合セット" />
-  <key id="17020906" name="メイプル連合セット" />
-  <key id="17020907" name="メイプル連合セット" />
-  <key id="17020908" name="メイプル連合セット" />
-  <key id="17020909" name="メイプル連合セット" />
-  <key id="17020910" name="メイプル連合セット" />
-  <key id="17020911" name="メイプル連合セット" />
-  <key id="17020912" name="メイプル連合セット" />
-  <key id="17020913" name="メイプル連合セット" />
-  <key id="17020914" name="マドラカン君主セット" />
-  <key id="17030701" name="モミジセット" />
-  <key id="17030901" name="フローリアフェアリーセット" />
-  <key id="17030902" name="フローリアフェアリーセット" />
-  <key id="17040401" name="マジェスティックウィングセット" />
-  <key id="17040402" name="マジェスティックウィングセット" />
-  <key id="17040601" name="シャインスターセット" />
-  <key id="17040602" name="シャインスターセット" />
-  <key id="17053101" name="陰謀のセット" />
-  <key id="17062901" name="リバースナイト(LV50)セット" />
-  <key id="17062902" name="リバースバーサーカー(LV50)セット" />
-  <key id="17062903" name="リバースウィザード(LV50)セット" />
-  <key id="17062904" name="リバースプリースト(LV50)セット" />
-  <key id="17062905" name="リバースレンジャー(LV50)セット" />
-  <key id="17062906" name="リバースヘビーガンナー(LV50)セット" />
-  <key id="17062907" name="リバースシーフ(LV50)セット" />
-  <key id="17062908" name="リバースアサシン(LV50)セット" />
-  <key id="17062909" name="リバースルーンブレイダー(LV50)セット" />
-  <key id="17062910" name="リバースストライカー(LV50)セット" />
-  <key id="17062911" name="リバースソウルバインダー(LV50)セット" />
-  <key id="17062912" name="リバースナイト(LV56)セット" />
-  <key id="17062913" name="リバースバーサーカー(LV56)セット" />
-  <key id="17062914" name="リバースウィザード(LV56)セット" />
-  <key id="17062915" name="リバースプリースト(LV56)セット" />
-  <key id="17062916" name="リバースレンジャー(LV56)セット" />
-  <key id="17062917" name="リバースヘビーガンナー(LV56)セット" />
-  <key id="17062918" name="リバースシーフ(LV56)セット" />
-  <key id="17062919" name="リバースアサシン(LV56)セット" />
-  <key id="17062920" name="リバースルーンブレイダー(LV56)セット" />
-  <key id="17062921" name="リバースストライカー(LV56)セット" />
-  <key id="17062922" name="リバースソウルバインダー(LV56)セット" />
-  <key id="17081823" name="月餅セット" />
-  <key id="17083101" name="パンプキンウィッチセット" />
-  <key id="17083102" name="パンプキンウィッチセット" />
-  <key id="17090101" name="お気取り伝統服セット" />
-  <key id="17090102" name="もこもこ伝統服セット" />
-  <key id="17110801" name="凶暴な戦闘セット" />
-  <key id="17110802" name="凶暴な狂乱セット" />
-  <key id="17110803" name="凶暴な魔法セット" />
-  <key id="17110804" name="凶暴な神聖セット" />
-  <key id="17110805" name="凶暴な集中セット" />
-  <key id="17110806" name="凶暴な砲撃セット" />
-  <key id="17110807" name="凶暴な混乱セット" />
-  <key id="17110808" name="凶暴な暗殺セット" />
-  <key id="17110809" name="凶暴な呪術セット" />
-  <key id="17110810" name="凶暴な乱闘セット" />
-  <key id="17110811" name="凶暴な儀式セット" />
-  <key id="17110812" name="不滅のブラッディダスクセット" />
-  <key id="17110813" name="不滅のスケルトンセット" />
-  <key id="17110814" name="不滅のエネスセット" />
-  <key id="17110815" name="不滅のセビアスセット" />
-  <key id="17110816" name="不滅の監視者セット" />
-  <key id="17110817" name="不滅のパイロットセット" />
-  <key id="17110818" name="不滅のニンブルビートセット" />
-  <key id="17110819" name="不滅のファントムセット" />
-  <key id="17110820" name="不滅のボイドセット" />
-  <key id="17110821" name="不滅の格闘セット" />
-  <key id="17110822" name="不滅の気功セット" />
-  <key id="17110823" name="リバースナイト(LV50)セット" />
-  <key id="17110824" name="リバースバーサーカー(LV50)セット" />
-  <key id="17110825" name="リバースウィザード(LV50)セット" />
-  <key id="17110826" name="リバースプリースト(LV50)セット" />
-  <key id="17110827" name="リバースレンジャー(LV50)セット" />
-  <key id="17110828" name="リバースヘビーガンナー(LV50)セット" />
-  <key id="17110829" name="リバースシーフ(LV50)セット" />
-  <key id="17110830" name="リバースアサシン(LV50)セット" />
-  <key id="17110831" name="リバースルーンブレイダー(LV50)セット" />
-  <key id="17110832" name="リバースストライカー(LV50)セット" />
-  <key id="17110833" name="リバースソウルバインダー(LV50)セット" />
-  <key id="17110834" name="プルートセット" />
-  <key id="17110835" name="マルスセット" />
-  <key id="17110836" name="プルートセット" />
-  <key id="17110837" name="マルスセット" />
-  <key id="17112901" name="グロースターセット" />
-  <key id="17112902" name="グロースターセット" />
-  <key id="17121101" name="猛烈な戦闘セット" />
-  <key id="17121102" name="猛烈な狂乱セット" />
-  <key id="17121103" name="猛烈な魔法セット" />
-  <key id="17121104" name="猛烈な神聖セット" />
-  <key id="17121105" name="猛烈な集中セット" />
-  <key id="17121106" name="猛烈な砲撃セット" />
-  <key id="17121107" name="猛烈な混乱セット" />
-  <key id="17121108" name="猛烈な暗殺セット" />
-  <key id="17121109" name="猛烈な呪術セット" />
-  <key id="17121110" name="猛烈な乱闘セット" />
-  <key id="17121111" name="猛烈な儀式セット" />
-  <key id="18011801" name="プルートセット" />
-  <key id="18011802" name="マルスセット" />
-  <key id="18011803" name="プルートセット" />
-  <key id="18011804" name="マルスセット" />
-  <key id="18011501" name="蝶々の夢セット" />
-  <key id="18011502" name="蝶々の夢セット" />
-  <key id="18011805" name="クリムゾンバルログの戦闘セット" />
-  <key id="18011806" name="クリムゾンバルログの狂乱セット" />
-  <key id="18011807" name="クリムゾンバルログの魔法セット" />
-  <key id="18011808" name="クリムゾンバルログの神聖セット" />
-  <key id="18011809" name="クリムゾンバルログの集中セット" />
-  <key id="18011810" name="クリムゾンバルログの砲撃セット" />
-  <key id="18011811" name="クリムゾンバルログの混乱セット" />
-  <key id="18011812" name="クリムゾンバルログの暗殺セット" />
-  <key id="18011813" name="クリムゾンバルログの呪術セット" />
-  <key id="18011814" name="クリムゾンバルログの乱闘セット" />
-  <key id="18011815" name="クリムゾンバルログの儀式セット" />
-  <key id="18011816" name="クリムゾンバルログの戦闘セット" />
-  <key id="18011817" name="クリムゾンバルログの狂乱セット" />
-  <key id="18011818" name="クリムゾンバルログの魔法セット" />
-  <key id="18011819" name="クリムゾンバルログの神聖セット" />
-  <key id="18011820" name="クリムゾンバルログの集中セット" />
-  <key id="18011821" name="クリムゾンバルログの砲撃セット" />
-  <key id="18011822" name="クリムゾンバルログの混乱セット" />
-  <key id="18011823" name="クリムゾンバルログの暗殺セット" />
-  <key id="18011824" name="クリムゾンバルログの呪術セット" />
-  <key id="18011825" name="クリムゾンバルログの乱闘セット" />
-  <key id="18011826" name="クリムゾンバルログの儀式セット" />
-  <key id="18011827" name="ブライトスターの戦闘セット" />
-  <key id="18011828" name="ブライトスターの狂乱セット" />
-  <key id="18011829" name="ブライトスターの魔法セット" />
-  <key id="18011830" name="ブライトスターの神聖セット" />
-  <key id="18011831" name="ブライトスターの集中セット" />
-  <key id="18011832" name="ブライトスターの砲撃セット" />
-  <key id="18011833" name="ブライトスターの混乱セット" />
-  <key id="18011834" name="ブライトスターの暗殺セット" />
-  <key id="18011835" name="ブライトスターの呪術セット" />
-  <key id="18011836" name="ブライトスターの乱闘セット" />
-  <key id="18011837" name="ブライトスターの儀式セット" />
-  <key id="18052834" name="ベヒモスナイトセット" feature="Level60Item" />
-  <key id="18052835" name="ベヒモスバーサーカーセット" feature="Level60Item" />
-  <key id="18052836" name="ベヒモスウィザードセット" feature="Level60Item" />
-  <key id="18052837" name="ベヒモスプリーストセット" feature="Level60Item" />
-  <key id="18052838" name="ベヒモスレンジャーセット" feature="Level60Item" />
-  <key id="18052839" name="ベヒモスヘビーガンナーセット" feature="Level60Item" />
-  <key id="18052840" name="ベヒモスシーフセット" feature="Level60Item" />
-  <key id="18052841" name="ベヒモスアサシンセット" feature="Level60Item" />
-  <key id="18052842" name="ベヒモスルーンブレイダーセット" feature="Level60Item" />
-  <key id="18052843" name="ベヒモスストライカーセット" feature="Level60Item" />
-  <key id="18052844" name="ベヒモスソウルバインダーセット" feature="Level60Item" />
-  <key id="18052845" name="エイリオンナイトセット" feature="Level60Item" />
-  <key id="18052846" name="エイリオンバーサーカーセット" feature="Level60Item" />
-  <key id="18052847" name="エイリオンウィザードセット" feature="Level60Item" />
-  <key id="18052848" name="エイリオンプリーストセット" feature="Level60Item" />
-  <key id="18052849" name="エイリオンレンジャーセット" feature="Level60Item" />
-  <key id="18052850" name="エイリオンヘビーガンナーセット" feature="Level60Item" />
-  <key id="18052851" name="エイリオンシーフセット" feature="Level60Item" />
-  <key id="18052852" name="エイリオンアサシンセット" feature="Level60Item" />
-  <key id="18052853" name="エイリオンルーンブレイダーセット" feature="Level60Item" />
-  <key id="18052854" name="エイリオンストライカーセット" feature="Level60Item" />
-  <key id="18052855" name="エイリオンソウルバインダーセット" feature="Level60Item" />
-  <key id="18052856" name="ブラックバンガードナイトセット" feature="Level60Item" />
-  <key id="18052857" name="ブラックバンガードバーサーカーセット" feature="Level60Item" />
-  <key id="18052858" name="ブラックバンガードウィザードセット" feature="Level60Item" />
-  <key id="18052859" name="ブラックバンガードプリーストセット" feature="Level60Item" />
-  <key id="18052860" name="ブラックバンガードレンジャーセット" feature="Level60Item" />
-  <key id="18052861" name="ブラックバンガードヘビーガンナーセット" feature="Level60Item" />
-  <key id="18052862" name="ブラックバンガードシーフセット" feature="Level60Item" />
-  <key id="18052863" name="ブラックバンガードアサシンセット" feature="Level60Item" />
-  <key id="18052864" name="ブラックバンガードルーンブレイダーセット" feature="Level60Item" />
-  <key id="18052865" name="ブラックバンガードストライカーセット" feature="Level60Item" />
-  <key id="18052866" name="ブラックバンガードソウルバインダーセット" feature="Level60Item" />
-  <key id="18052867" name="ブラックピュアリティナイトセット" feature="Level60Item" />
-  <key id="18052868" name="ブラックピュアリティバーサーカーセット" feature="Level60Item" />
-  <key id="18052869" name="ブラックピュアリティウィザードセット" feature="Level60Item" />
-  <key id="18052870" name="ブラックピュアリティプリーストセット" feature="Level60Item" />
-  <key id="18052871" name="ブラックピュアリティレンジャーセット" feature="Level60Item" />
-  <key id="18052872" name="ブラックピュアリティヘビーガンナーセット" feature="Level60Item" />
-  <key id="18052873" name="ブラックピュアリティシーフセット" feature="Level60Item" />
-  <key id="18052874" name="ブラックピュアリティアサシンセット" feature="Level60Item" />
-  <key id="18052875" name="ブラックピュアリティルーンブレイダーセット" feature="Level60Item" />
-  <key id="18052876" name="ブラックピュアリティストライカーセット" feature="Level60Item" />
-  <key id="18052877" name="ブラックピュアリティソウルバインダーセット" feature="Level60Item" />
-  <key id="18052878" name="60レベルエピック2ナイトセット" feature="Level60Item" />
-  <key id="18052879" name="60レベルエピック2バーサーカーセット" feature="Level60Item" />
-  <key id="18052880" name="60レベルエピック2ウィザードセット" feature="Level60Item" />
-  <key id="18052881" name="60レベルエピック2プリーストセット" feature="Level60Item" />
-  <key id="18052882" name="60レベルエピック2レンジャーセット" feature="Level60Item" />
-  <key id="18052883" name="60レベルエピック2ヘビーガンナーセット" feature="Level60Item" />
-  <key id="18052884" name="60レベルエピック2シーフセット" feature="Level60Item" />
-  <key id="18052885" name="60レベルエピック2アサシンセット" feature="Level60Item" />
-  <key id="18052886" name="60レベルエピック2ルーンブレイダーセット" feature="Level60Item" />
-  <key id="18052887" name="60レベルエピック2ストライカーセット" feature="Level60Item" />
-  <key id="18052888" name="60レベルエピック2ソウルバインダーセット" feature="Level60Item" />
-  <key id="18052891" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
-  <key id="18052892" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
-  <key id="18052893" name="60レベルエピックアクセサリ2イヤリング、ネックレス、指輪セット" feature="Level60Item" />
-  <key id="18052894" name="60レベルエピックアクセサリ2マント、ベルトセット" feature="Level60Item" />
-  <key id="18052895" name="マドラカン君主セット" feature="Level60Item" />
-  <key id="18052896" name="センチュリオンセット" feature="Level60Item" />
-  <key id="18052897" name="センチュリオンセット" feature="Level60Item" />
-  <key id="18061701" name="ベヒモスナイトセット" feature="Level60Item" />
-  <key id="18061702" name="ベヒモスバーサーカーセット" feature="Level60Item" />
-  <key id="18061703" name="ベヒモスウィザードセット" feature="Level60Item" />
-  <key id="18061704" name="ベヒモスプリーストセット" feature="Level60Item" />
-  <key id="18061705" name="ベヒモスレンジャーセット" feature="Level60Item" />
-  <key id="18061706" name="ベヒモスヘビーガンナーセット" feature="Level60Item" />
-  <key id="18061707" name="ベヒモスシーフセット" feature="Level60Item" />
-  <key id="18061708" name="ベヒモスアサシンセット" feature="Level60Item" />
-  <key id="18061709" name="ベヒモスルーンブレイダーセット" feature="Level60Item" />
-  <key id="18061710" name="ベヒモスストライカーセット" feature="Level60Item" />
-  <key id="18061711" name="ベヒモスソウルバインダーセット" feature="Level60Item" />
-  <key id="18061712" name="エイリオンナイトセット" feature="Level60Item" />
-  <key id="18061713" name="エイリオンバーサーカーセット" feature="Level60Item" />
-  <key id="18061714" name="エイリオンウィザードセット" feature="Level60Item" />
-  <key id="18061715" name="エイリオンプリーストセット" feature="Level60Item" />
-  <key id="18061716" name="エイリオンレンジャーセット" feature="Level60Item" />
-  <key id="18061717" name="エイリオンヘビーガンナーセット" feature="Level60Item" />
-  <key id="18061718" name="エイリオンシーフセット" feature="Level60Item" />
-  <key id="18061719" name="エイリオンアサシンセット" feature="Level60Item" />
-  <key id="18061720" name="エイリオンルーンブレイダーセット" feature="Level60Item" />
-  <key id="18061721" name="エイリオンストライカーセット" feature="Level60Item" />
-  <key id="18061722" name="エイリオンソウルバインダーセット" feature="Level60Item" />
-  <key id="18061723" name="ブラックバンガードナイトセット" feature="Level60Item" />
-  <key id="18061724" name="ブラックバンガードバーサーカーセット" feature="Level60Item" />
-  <key id="18061725" name="ブラックバンガードウィザードセット" feature="Level60Item" />
-  <key id="18061726" name="ブラックバンガードプリーストセット" feature="Level60Item" />
-  <key id="18061727" name="ブラックバンガードレンジャーセット" feature="Level60Item" />
-  <key id="18061728" name="ブラックバンガードヘビーガンナーセット" feature="Level60Item" />
-  <key id="18061729" name="ブラックバンガードシーフセット" feature="Level60Item" />
-  <key id="18061730" name="ブラックバンガードアサシンセット" feature="Level60Item" />
-  <key id="18061731" name="ブラックバンガードルーンブレイダーセット" feature="Level60Item" />
-  <key id="18061732" name="ブラックバンガードストライカーセット" feature="Level60Item" />
-  <key id="18061733" name="ブラックバンガードソウルバインダーセット" feature="Level60Item" />
-  <key id="18061734" name="センチュリオンセット" feature="Level60Item" />
-  <key id="18061735" name="センチュリオンセット" feature="Level60Item" />
-  <key id="18061736" name="ブラックピュアリティナイトセット" feature="Level60Item" />
-  <key id="18061737" name="ブラックピュアリティバーサーカーセット" feature="Level60Item" />
-  <key id="18061738" name="ブラックピュアリティウィザードセット" feature="Level60Item" />
-  <key id="18061739" name="ブラックピュアリティプリーストセット" feature="Level60Item" />
-  <key id="18061740" name="ブラックピュアリティレンジャーセット" feature="Level60Item" />
-  <key id="18061741" name="ブラックピュアリティヘビーガンナーセット" feature="Level60Item" />
-  <key id="18061742" name="ブラックピュアリティシーフセット" feature="Level60Item" />
-  <key id="18061743" name="ブラックピュアリティアサシンセット" feature="Level60Item" />
-  <key id="18061744" name="ブラックピュアリティルーンブレイダーセット" feature="Level60Item" />
-  <key id="18061745" name="ブラックピュアリティストライカーセット" feature="Level60Item" />
-  <key id="18061746" name="ブラックピュアリティソウルバインダーセット" feature="Level60Item" />
-  <key id="18061747" name="60レベルエピック2ナイトセット" feature="Level60Item" />
-  <key id="18061748" name="60レベルエピック2バーサーカーセット" feature="Level60Item" />
-  <key id="18061749" name="60レベルエピック2ウィザードセット" feature="Level60Item" />
-  <key id="18061750" name="60レベルエピック2プリーストセット" feature="Level60Item" />
-  <key id="18061751" name="60レベルエピック2レンジャーセット" feature="Level60Item" />
-  <key id="18061752" name="60レベルエピック2ヘビーガンナーセット" feature="Level60Item" />
-  <key id="18061753" name="60レベルエピック2シーフセット" feature="Level60Item" />
-  <key id="18061754" name="60レベルエピック2アサシンセット" feature="Level60Item" />
-  <key id="18061755" name="60レベルエピック2ルーンブレイダーセット" feature="Level60Item" />
-  <key id="18061756" name="60レベルエピック2ストライカーセット" feature="Level60Item" />
-  <key id="18061757" name="60レベルエピック2ソウルバインダーセット" feature="Level60Item" />
-  <key id="18061758" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
-  <key id="18061759" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
-  <key id="18061760" name="60レベルエピックアクセサリ2イヤリング、ネックレス、指輪セット" feature="Level60Item" />
-  <key id="18061761" name="60レベルエピックアクセサリ2マント、ベルトセット" feature="Level60Item" />
-  <key id="18062801" name="オリンポスセット" />
-  <key id="18062802" name="オリンポスセット" />
-  <key id="18081301" name="極限の戦闘セット" feature="Season3" />
-  <key id="18081302" name="極限の狂乱セット" feature="Season3" />
-  <key id="18081303" name="極限の魔法セット" feature="Season3" />
-  <key id="18081304" name="極限の神聖セット" feature="Season3" />
-  <key id="18081305" name="極限の集中セット" feature="Season3" />
-  <key id="18081306" name="極限の砲撃セット" feature="Season3" />
-  <key id="18081307" name="極限の混乱セット" feature="Season3" />
-  <key id="18081308" name="極限の暗殺セット" feature="Season3" />
-  <key id="18081309" name="極限の呪術セット" feature="Season3" />
-  <key id="18081310" name="極限の乱闘セット" feature="Season3" />
-  <key id="18081311" name="極限の儀式セット" feature="Season3" />
-  <key id="18081312" name="乱暴な戦闘セット" feature="Season3" />
-  <key id="18081313" name="乱暴な狂乱セット" feature="Season3" />
-  <key id="18081314" name="乱暴な魔法セット" feature="Season3" />
-  <key id="18081315" name="乱暴な神聖セット" feature="Season3" />
-  <key id="18081316" name="乱暴な集中セット" feature="Season3" />
-  <key id="18081317" name="乱暴な砲撃セット" feature="Season3" />
-  <key id="18081318" name="乱暴な混乱セット" feature="Season3" />
-  <key id="18081319" name="乱暴な暗殺セット" feature="Season3" />
-  <key id="18081320" name="乱暴な呪術セット" feature="Season3" />
-  <key id="18081321" name="乱暴な乱闘セット" feature="Season3" />
-  <key id="18081322" name="乱暴な儀式セット" feature="Season3" />
-  <key id="18081323" name="凶暴な戦闘セット" feature="Season3" />
-  <key id="18081324" name="凶暴な狂乱セット" feature="Season3" />
-  <key id="18081325" name="凶暴な魔法セット" feature="Season3" />
-  <key id="18081326" name="凶暴な神聖セット" feature="Season3" />
-  <key id="18081327" name="凶暴な集中セット" feature="Season3" />
-  <key id="18081328" name="凶暴な砲撃セット" feature="Season3" />
-  <key id="18081329" name="凶暴な混乱セット" feature="Season3" />
-  <key id="18081330" name="凶暴な暗殺セット" feature="Season3" />
-  <key id="18081331" name="凶暴な呪術セット" feature="Season3" />
-  <key id="18081332" name="凶暴な乱闘セット" feature="Season3" />
-  <key id="18081333" name="凶暴な儀式セット" feature="Season3" />
-  <key id="18092001" name="堕落天使セット" />
-  <key id="18092002" name="堕落天使セット" />
-  <key id="18091401" name="プルートセット" feature="LegendaryAccessory01" />
-  <key id="18091402" name="プルートセット" feature="LegendaryAccessory01" />
-  <key id="18091403" name="マルスセット" feature="LegendaryAccessory01" />
-  <key id="18091404" name="マルスセット" feature="LegendaryAccessory01" />
-  <key id="18110701" name="品位の戦闘セット" feature="PvPRankingDuelMode" />
-  <key id="18110702" name="品位の狂乱セット" feature="PvPRankingDuelMode" />
-  <key id="18110703" name="品位の魔法セット" feature="PvPRankingDuelMode" />
-  <key id="18110704" name="品位の神聖セット" feature="PvPRankingDuelMode" />
-  <key id="18110705" name="品位の集中セット" feature="PvPRankingDuelMode" />
-  <key id="18110706" name="品位の砲撃セット" feature="PvPRankingDuelMode" />
-  <key id="18110707" name="品位の混乱セット" feature="PvPRankingDuelMode" />
-  <key id="18110708" name="品位の暗殺セット" feature="PvPRankingDuelMode" />
-  <key id="18110709" name="品位の呪術セット" feature="PvPRankingDuelMode" />
-  <key id="18110710" name="品位の乱闘セット" feature="PvPRankingDuelMode" />
-  <key id="18110711" name="品位の儀式セット" feature="PvPRankingDuelMode" />
-  <key id="18110712" name="品位のアクセサリセット" feature="PvPRankingDuelMode" />
-  <key id="18112001" name="イリュージョニストセット" />
-  <key id="18112002" name="イリュージョニストセット" />
-  <key id="18122101" name="強化された品位の戦闘セット" feature="Level70Item" />
-  <key id="18122102" name="強化された品位の狂乱セット" feature="Level70Item" />
-  <key id="18122103" name="強化された品位の魔法セット" feature="Level70Item" />
-  <key id="18122104" name="強化された品位の神聖セット" feature="Level70Item" />
-  <key id="18122105" name="強化された品位の集中セット" feature="Level70Item" />
-  <key id="18122106" name="強化された品位の砲撃セット" feature="Level70Item" />
-  <key id="18122107" name="強化された品位の混乱セット" feature="Level70Item" />
-  <key id="18122108" name="強化された品位の暗殺セット" feature="Level70Item" />
-  <key id="18122109" name="強化された品位の呪術セット" feature="Level70Item" />
-  <key id="18122110" name="強化された品位の乱闘セット" feature="Level70Item" />
-  <key id="18122111" name="強化された品位の儀式セット" feature="Level70Item" />
-  <key id="18122112" name="強化された品位のアクセサリセット" feature="Level70Item" />
-  <key id="18122701" name="SETITEMNAME_18122701_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="18122702" name="SETITEMNAME_18122702_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010301" name="SETITEMNAME_19010301_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010302" name="SETITEMNAME_19010302_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010303" name="SETITEMNAME_19010303_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010304" name="SETITEMNAME_19010304_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010305" name="SETITEMNAME_19010305_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010306" name="SETITEMNAME_19010306_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010307" name="SETITEMNAME_19010307_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010308" name="SETITEMNAME_19010308_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010309" name="SETITEMNAME_19010309_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010310" name="SETITEMNAME_19010310_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010311" name="SETITEMNAME_19010311_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010312" name="SETITEMNAME_19010312_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010313" name="SETITEMNAME_19010313_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010314" name="SETITEMNAME_19010314_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010315" name="SETITEMNAME_19010315_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010316" name="SETITEMNAME_19010316_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010317" name="SETITEMNAME_19010317_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010318" name="SETITEMNAME_19010318_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010319" name="SETITEMNAME_19010319_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010320" name="SETITEMNAME_19010320_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010321" name="SETITEMNAME_19010321_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19010322" name="SETITEMNAME_19010322_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011101" name="SETITEMNAME_19011101_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011102" name="SETITEMNAME_19011102_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011103" name="SETITEMNAME_19011103_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011104" name="SETITEMNAME_19011104_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011105" name="SETITEMNAME_19011105_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011106" name="SETITEMNAME_19011106_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011107" name="SETITEMNAME_19011107_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011108" name="SETITEMNAME_19011108_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011109" name="SETITEMNAME_19011109_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011110" name="SETITEMNAME_19011110_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011111" name="SETITEMNAME_19011111_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011112" name="SETITEMNAME_19011112_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011113" name="SETITEMNAME_19011113_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011114" name="SETITEMNAME_19011114_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011115" name="SETITEMNAME_19011115_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011116" name="SETITEMNAME_19011116_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011117" name="SETITEMNAME_19011117_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011118" name="SETITEMNAME_19011118_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011119" name="SETITEMNAME_19011119_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011120" name="SETITEMNAME_19011120_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011121" name="SETITEMNAME_19011121_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011122" name="SETITEMNAME_19011122_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011801" name="SETITEMNAME_19011801_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011802" name="SETITEMNAME_19011802_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011803" name="SETITEMNAME_19011803_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011804" name="SETITEMNAME_19011804_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011805" name="SETITEMNAME_19011805_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011806" name="SETITEMNAME_19011806_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011807" name="SETITEMNAME_19011807_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011808" name="SETITEMNAME_19011808_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011809" name="SETITEMNAME_19011809_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011810" name="SETITEMNAME_19011810_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011811" name="SETITEMNAME_19011811_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011812" name="SETITEMNAME_19011812_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011813" name="SETITEMNAME_19011813_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011814" name="SETITEMNAME_19011814_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19011815" name="SETITEMNAME_19011815_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19021801" name="ベヒモスナイトセット" feature="Level60Item" />
-  <key id="19021802" name="ベヒモスバーサーカーセット" feature="Level60Item" />
-  <key id="19021803" name="ベヒモスウィザードセット" feature="Level60Item" />
-  <key id="19021804" name="ベヒモスプリーストセット" feature="Level60Item" />
-  <key id="19021805" name="ベヒモスレンジャーセット" feature="Level60Item" />
-  <key id="19021806" name="ベヒモスヘビーガンナーセット" feature="Level60Item" />
-  <key id="19021807" name="ベヒモスシーフセット" feature="Level60Item" />
-  <key id="19021808" name="ベヒモスアサシンセット" feature="Level60Item" />
-  <key id="19021809" name="ベヒモスルーンブレイダーセット" feature="Level60Item" />
-  <key id="19021810" name="ベヒモスストライカーセット" feature="Level60Item" />
-  <key id="19021811" name="ベヒモスソウルバインダーセット" feature="Level60Item" />
-  <key id="19021812" name="エイリオンナイトセット" feature="Level60Item" />
-  <key id="19021813" name="エイリオンバーサーカーセット" feature="Level60Item" />
-  <key id="19021814" name="エイリオンウィザードセット" feature="Level60Item" />
-  <key id="19021815" name="エイリオンプリーストセット" feature="Level60Item" />
-  <key id="19021816" name="エイリオンレンジャーセット" feature="Level60Item" />
-  <key id="19021817" name="エイリオンヘビーガンナーセット" feature="Level60Item" />
-  <key id="19021818" name="エイリオンシーフセット" feature="Level60Item" />
-  <key id="19021819" name="エイリオンアサシンセット" feature="Level60Item" />
-  <key id="19021820" name="エイリオンルーンブレイダーセット" feature="Level60Item" />
-  <key id="19021821" name="エイリオンストライカーセット" feature="Level60Item" />
-  <key id="19021822" name="エイリオンソウルバインダーセット" feature="Level60Item" />
-  <key id="19021823" name="ブラックバンガードナイトセット" feature="Level60Item" />
-  <key id="19021824" name="ブラックバンガードバーサーカーセット" feature="Level60Item" />
-  <key id="19021825" name="ブラックバンガードウィザードセット" feature="Level60Item" />
-  <key id="19021826" name="ブラックバンガードプリーストセット" feature="Level60Item" />
-  <key id="19021827" name="ブラックバンガードレンジャーセット" feature="Level60Item" />
-  <key id="19021828" name="ブラックバンガードヘビーガンナーセット" feature="Level60Item" />
-  <key id="19021829" name="ブラックバンガードシーフセット" feature="Level60Item" />
-  <key id="19021830" name="ブラックバンガードアサシンセット" feature="Level60Item" />
-  <key id="19021831" name="ブラックバンガードルーンブレイダーセット" feature="Level60Item" />
-  <key id="19021832" name="ブラックバンガードストライカーセット" feature="Level60Item" />
-  <key id="19021833" name="ブラックバンガードソウルバインダーセット" feature="Level60Item" />
-  <key id="19021834" name="センチュリオンセット" feature="Level60Item" />
-  <key id="19021835" name="センチュリオンセット" feature="Level60Item" />
-  <key id="19021836" name="ブラックピュアリティナイトセット" feature="Level60Item" />
-  <key id="19021837" name="ブラックピュアリティバーサーカーセット" feature="Level60Item" />
-  <key id="19021838" name="ブラックピュアリティウィザードセット" feature="Level60Item" />
-  <key id="19021839" name="ブラックピュアリティプリーストセット" feature="Level60Item" />
-  <key id="19021840" name="ブラックピュアリティレンジャーセット" feature="Level60Item" />
-  <key id="19021841" name="ブラックピュアリティヘビーガンナーセット" feature="Level60Item" />
-  <key id="19021842" name="ブラックピュアリティシーフセット" feature="Level60Item" />
-  <key id="19021843" name="ブラックピュアリティアサシンセット" feature="Level60Item" />
-  <key id="19021844" name="ブラックピュアリティルーンブレイダーセット" feature="Level60Item" />
-  <key id="19021845" name="ブラックピュアリティストライカーセット" feature="Level60Item" />
-  <key id="19021846" name="ブラックピュアリティソウルバインダーセット" feature="Level60Item" />
-  <key id="19021847" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
-  <key id="19021848" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
-  <key id="19031301" name="ウェディングデーセット" />
-  <key id="19031302" name="ウェディングデーセット" />
-  <key id="19032001" name="マドラカン君主セット" feature="Level60Item" />
-  <key id="19042501" name="オードリーテュテュセット" />
-  <key id="19042502" name="オードリーテュテュセット" />
-  <key id="19111901" name="ウィンターフェアリーテールセット" />
-  <key id="19111902" name="ウィンターフェアリーテールセット" />
-  <key id="19041501" name="強化された品位の戦闘セット" feature="PvPRankingDuelMode" />
-  <key id="19041502" name="強化された品位の狂乱セット" feature="PvPRankingDuelMode" />
-  <key id="19041503" name="強化された品位の魔法セット" feature="PvPRankingDuelMode" />
-  <key id="19041504" name="強化された品位の神聖セット" feature="PvPRankingDuelMode" />
-  <key id="19041505" name="強化された品位の集中セット" feature="PvPRankingDuelMode" />
-  <key id="19041506" name="強化された品位の砲撃セット" feature="PvPRankingDuelMode" />
-  <key id="19041507" name="強化された品位の混乱セット" feature="PvPRankingDuelMode" />
-  <key id="19041508" name="強化された品位の暗殺セット" feature="PvPRankingDuelMode" />
-  <key id="19041509" name="強化された品位の呪術セット" feature="PvPRankingDuelMode" />
-  <key id="19041510" name="強化された品位の乱闘セット" feature="PvPRankingDuelMode" />
-  <key id="19041511" name="強化された品位の儀式セット" feature="PvPRankingDuelMode" />
-  <key id="19041512" name="強化された品位のアクセサリセット" feature="PvPRankingDuelMode" />
-  <key id="17062001" name="真面目な冒険者のセット" feature="Event" />
-  <key id="19061201" name="マリンセット" />
-  <key id="19061202" name="ラグジュアリー制服セット" />
-  <key id="19061203" name="幼稚園セット" />
-  <key id="19061204" name="レーサーセット" />
-  <key id="19061205" name="メイプル野球セット" />
-  <key id="19061206" name="マリン水着セット" />
-  <key id="19061207" name="ダッキーサウナセット" />
-  <key id="19061208" name="オリハルコンルックセット" />
-  <key id="19061209" name="ブラッドレクイエムルックセット" />
-  <key id="19061210" name="ミリシャルックセット" />
-  <key id="19061211" name="ゴールデンチーパオセット" />
-  <key id="19061212" name="スターマリンセット" />
-  <key id="19061213" name="メイプル運動服セット" />
-  <key id="19061214" name="フレンジールックセット" />
-  <key id="19061215" name="アクアセット" />
-  <key id="19061216" name="フライトルックセット" />
-  <key id="19061217" name="スタッズルックセット" />
-  <key id="19061218" name="武人の羽織りセット" />
-  <key id="19061219" name="ナイティジルックセット" />
-  <key id="19061220" name="プロストルックセット" />
-  <key id="19061221" name="サジタリウスルックセット" />
-  <key id="19061222" name="ダークスイフトルックセット" />
-  <key id="19061223" name="さすらいセット" />
-  <key id="19061224" name="ハロハロセット" />
-  <key id="19061225" name="ダンディースカルセット" />
-  <key id="19061226" name="探偵セット" />
-  <key id="19061227" name="ミリタリールックセット" />
-  <key id="19061228" name="ホーリーセラフィムセット" />
-  <key id="19061229" name="乗務員セット" />
-  <key id="19061230" name="インフェルノルックセット" />
-  <key id="19061231" name="フローズンフェアリーセット" />
-  <key id="19061232" name="トウィンクルスターセット" />
-  <key id="19061233" name="春のお出かけセット" />
-  <key id="19061234" name="ラブリーバニーセット" />
-  <key id="19061235" name="黒ネコセット" />
-  <key id="19061236" name="ワイルドフレイムセット" />
-  <key id="19061237" name="スピリット・ワンセット" />
-  <key id="19061238" name="スポーツセット" />
-  <key id="19061239" name="ラブリーチュチュセット" />
-  <key id="19061240" name="シックスターツセット" />
-  <key id="19061241" name="(ネットカフェ) 探偵セット" />
-  <key id="19061242" name="(ネットカフェ) 春のお出かけセット" />
-  <key id="19061243" name="ぽっちゃりピンクビーンセット" />
-  <key id="19061244" name="(期間制) 動物の王セット" />
-  <key id="19061245" name="ジグムントセット" />
-  <key id="19061246" name="もこもこウサギセット" />
-  <key id="19061247" name="ココパピーセット" />
-  <key id="19061248" name="キュートブロッサムセット" />
-  <key id="19061249" name="ふわふわウサギセット" />
-  <key id="19061250" name="動物の王セット" />
-  <key id="19061251" name="将校セット" />
-  <key id="19061252" name="ゴールドリボンセット" />
-  <key id="19061253" name="ファンキーネオンキャットセット" />
-  <key id="19061254" name="メリーメリークリスマスセット" />
-  <key id="19061255" name="スノーテールセット" />
-  <key id="19061256" name="スカーレットハートセット" />
-  <key id="19061257" name="レインボーオリエンタルコスチュームセット" />
-  <key id="19061258" name="ルミナリエセット" />
-  <key id="19061259" name="元気いっぱい制服セット" />
-  <key id="19061260" name="バニーフラワーセット" />
-  <key id="19061261" name="キューティベアセット" />
-  <key id="19061262" name="グリーンフッド自警団セット" />
-  <key id="19061263" name="スノーフラワーセット" />
-  <key id="19061264" name="ダークウィンドアテントセット" />
-  <key id="19061265" name="ルミナイツオネスタセット" />
-  <key id="19061266" name="マシュマロセット" />
-  <key id="19061267" name="ムスケティアセット" />
-  <key id="19061268" name="メイプル連合ルックセット" />
-  <key id="19061269" name="メイトゥナルドセット" />
-  <key id="19061270" name="バブルバースセット" />
-  <key id="19061271" name="ベースボールセット" />
-  <key id="19061272" name="ブレススタッドセット" />
-  <key id="19061273" name="ビビッドサマーセット" />
-  <key id="19061274" name="サンフラワービーチセット" />
-  <key id="19061275" name="ベビーダイノソアセット" />
-  <key id="19061276" name="アクアサマーセット" />
-  <key id="19061277" name="アルペンスキーセット" />
-  <key id="19061278" name="悪可愛いバニーセット" />
-  <key id="19061279" name="オーバーウィンターセット" />
-  <key id="19061280" name="宇宙飛行士セット" />
-  <key id="19061281" name="情熱のマリアッチセット" />
-  <key id="19061282" name="チャーミング制服セット" />
-  <key id="19061283" name="アオガエルセット" />
-  <key id="19061284" name="キットンメイドセット" />
-  <key id="19061285" name="トライア近衛隊セット" />
-  <key id="19061286" name="ファンキーカウボーイセット" />
-  <key id="19061287" name="ペリオニックセット" />
-  <key id="19061288" name="マリンセット" />
-  <key id="19061289" name="ラグジュアリー制服セット" />
-  <key id="19061290" name="幼稚園セット" />
-  <key id="19061291" name="レーサーセット" />
-  <key id="19061292" name="メイプル野球セット" />
-  <key id="19061293" name="マリン水着セット" />
-  <key id="19061294" name="ダッキーサウナセット" />
-  <key id="19061295" name="オリハルコンルックセット" />
-  <key id="19061296" name="ブラッドレクイエムルックセット" />
-  <key id="19061297" name="ミリシャルックセット" />
-  <key id="19061298" name="リボンチーパオセット" />
-  <key id="19061299" name="フローラルビーチセット" />
-  <key id="19061301" name="メイプル運動服セット" />
-  <key id="19061302" name="フレンジールックセット" />
-  <key id="19061303" name="アクアセット" />
-  <key id="19061304" name="フライトルックセット" />
-  <key id="19061305" name="スタッズルックセット" />
-  <key id="19061306" name="派手なシルクオリエンタルコスチュームセット" />
-  <key id="19061307" name="ナイティジルックセット" />
-  <key id="19061308" name="プロストルックセット" />
-  <key id="19061309" name="サジタリウスルックセット" />
-  <key id="19061310" name="ダークスイフトルックセット" />
-  <key id="19061311" name="さすらいセット" />
-  <key id="19061312" name="ハロハロセット" />
-  <key id="19061313" name="セクシー悪魔セット" />
-  <key id="19061314" name="マダムリボンセット" />
-  <key id="19061315" name="ミリタリールックセット" />
-  <key id="19061316" name="ホーリーセラフィムセット" />
-  <key id="19061317" name="乗務員セット" />
-  <key id="19061318" name="インフェルノルックセット" />
-  <key id="19061319" name="フローズンフェアリーセット" />
-  <key id="19061320" name="トウィンクルスターセット" />
-  <key id="19061321" name="春のお出かけセット" />
-  <key id="19061322" name="ラブリーバニーセット" />
-  <key id="19061323" name="黒ネコセット" />
-  <key id="19061324" name="ワイルドフレイムセット" />
-  <key id="19061325" name="スピリット・ワンセット" />
-  <key id="19061326" name="スポーツセット" />
-  <key id="19061327" name="ラブリーチュチュセット" />
-  <key id="19061328" name="セクシーオフィリアセット" />
-  <key id="19061329" name="(ネットカフェ) 春のお出かけセット" />
-  <key id="19061330" name="(ネットカフェ) ラグジュアリー制服セット" />
-  <key id="19061331" name="ぽっちゃりピンクビーンセット" />
-  <key id="19061332" name="(期間制) 動物の王セット" />
-  <key id="19061333" name="ジグムントセット" />
-  <key id="19061334" name="もこもこウサギセット" />
-  <key id="19061335" name="ココパピーセット" />
-  <key id="19061336" name="キュートブロッサムセット" />
-  <key id="19061337" name="ふわふわウサギセット" />
-  <key id="19061338" name="動物の王セット" />
-  <key id="19061339" name="将校セット" />
-  <key id="19061340" name="ゴールドリボンセット" />
-  <key id="19061341" name="ファンキーネオンキャットセット" />
-  <key id="19061342" name="メリーメリークリスマスセット" />
-  <key id="19061343" name="スノーテールセット" />
-  <key id="19061344" name="スカーレットハートセット" />
-  <key id="19061345" name="レインボーオリエンタルコスチュームセット" />
-  <key id="19061346" name="ルミナリエセット" />
-  <key id="19061347" name="元気いっぱい制服セット" />
-  <key id="19061348" name="バニーフラワーセット" />
-  <key id="19061349" name="キューティベアセット" />
-  <key id="19061350" name="グリーンフッド自警団セット" />
-  <key id="19061351" name="スノーフラワーセット" />
-  <key id="19061352" name="ダークウィンドアテントセット" />
-  <key id="19061353" name="ルミナイツオネスタセット" />
-  <key id="19061354" name="マシュマロセット" />
-  <key id="19061355" name="ムスケティアセット" />
-  <key id="19061356" name="メイプル連合ルックセット" />
-  <key id="19061357" name="メイトゥナルドセット" />
-  <key id="19061358" name="バブルバースセット" />
-  <key id="19061359" name="ベースボールセット" />
-  <key id="19061360" name="ブレススタッドセット" />
-  <key id="19061361" name="ビビッドサマーセット" />
-  <key id="19061362" name="サンフラワービーチセット" />
-  <key id="19061363" name="ベビーダイノソアセット" />
-  <key id="19061364" name="アクアサマーセット" />
-  <key id="19061365" name="アルペンスキーセット" />
-  <key id="19061366" name="悪可愛いバニーセット" />
-  <key id="19061367" name="オーバーウィンターセット" />
-  <key id="19061368" name="宇宙飛行士セット" />
-  <key id="19061369" name="情熱のマリアッチセット" />
-  <key id="19061370" name="チャーミング制服セット" />
-  <key id="19061371" name="アオガエルセット" />
-  <key id="19061372" name="キットンメイドセット" />
-  <key id="19061373" name="トライア近衛隊セット" />
-  <key id="19061374" name="ファンキーカウボーイセット" />
-  <key id="19061375" name="ペリオニックセット" />
-  <key id="19061376" name="海辺の浪漫セット" />
-  <key id="19061377" name="海辺の浪漫セット" />
-  <key id="19061378" name="魔法学校の研修生セット" />
-  <key id="19061379" name="魔法学校の研修生セット" />
-  <key id="19061380" name="トロピカルセット" />
-  <key id="19061381" name="トロピカルセット" />
-  <key id="19061382" name="メイプルクォーターバックセット" />
-  <key id="19061383" name="メイプルクォーターバックセット" />
-  <key id="19061384" name="夏祭り衣装セット" />
-  <key id="19061385" name="夏祭り衣装セット" />
-  <key id="19061386" name="トライア王宮シェフセット" />
-  <key id="19061387" name="トライア王宮シェフセット" />
-  <key id="19061388" name="テックウェアスカウトセット" />
-  <key id="19061389" name="テックウェアスカウトセット" />
-  <key id="19081201" name="エナジェティックスターセット" />
-  <key id="19081202" name="エナジェティックスターセット" />
-  <key id="19081401" name="SETITEMNAME_19081401_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081402" name="SETITEMNAME_19081402_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081403" name="SETITEMNAME_19081403_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081404" name="SETITEMNAME_19081404_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081405" name="SETITEMNAME_19081405_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081406" name="SETITEMNAME_19081406_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081407" name="SETITEMNAME_19081407_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081408" name="SETITEMNAME_19081408_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081409" name="SETITEMNAME_19081409_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081410" name="SETITEMNAME_19081410_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081411" name="SETITEMNAME_19081411_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081412" name="SETITEMNAME_19081412_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081413" name="SETITEMNAME_19081413_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081414" name="SETITEMNAME_19081414_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081415" name="SETITEMNAME_19081415_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081416" name="SETITEMNAME_19081416_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081417" name="SETITEMNAME_19081417_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081418" name="SETITEMNAME_19081418_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081419" name="SETITEMNAME_19081419_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081420" name="SETITEMNAME_19081420_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081421" name="SETITEMNAME_19081421_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081422" name="SETITEMNAME_19081422_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081423" name="SETITEMNAME_19081423_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081424" name="SETITEMNAME_19081424_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081425" name="SETITEMNAME_19081425_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081426" name="SETITEMNAME_19081426_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081427" name="SETITEMNAME_19081427_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081428" name="SETITEMNAME_19081428_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081429" name="SETITEMNAME_19081429_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081430" name="SETITEMNAME_19081430_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081431" name="SETITEMNAME_19081431_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081432" name="SETITEMNAME_19081432_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081433" name="SETITEMNAME_19081433_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081434" name="SETITEMNAME_19081434_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081435" name="SETITEMNAME_19081435_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081436" name="SETITEMNAME_19081436_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081437" name="SETITEMNAME_19081437_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081438" name="SETITEMNAME_19081438_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081439" name="SETITEMNAME_19081439_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081440" name="SETITEMNAME_19081440_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081441" name="SETITEMNAME_19081441_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081442" name="SETITEMNAME_19081442_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081443" name="SETITEMNAME_19081443_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081444" name="SETITEMNAME_19081444_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081445" name="SETITEMNAME_19081445_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081446" name="SETITEMNAME_19081446_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081447" name="SETITEMNAME_19081447_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081448" name="SETITEMNAME_19081448_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081449" name="SETITEMNAME_19081449_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081450" name="SETITEMNAME_19081450_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081451" name="SETITEMNAME_19081451_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081452" name="SETITEMNAME_19081452_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081453" name="SETITEMNAME_19081453_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081454" name="SETITEMNAME_19081454_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081455" name="SETITEMNAME_19081455_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081456" name="SETITEMNAME_19081456_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081457" name="SETITEMNAME_19081457_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081458" name="SETITEMNAME_19081458_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081459" name="SETITEMNAME_19081459_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081460" name="SETITEMNAME_19081460_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081461" name="SETITEMNAME_19081461_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19081601" name="シロギツネセット" />
-  <key id="19081602" name="シロギツネセット" />
-  <key id="19081603" name="夏の伝統衣装セット" />
-  <key id="19081604" name="夏の伝統衣装セット" />
-  <key id="19081605" name="夏の伝統衣装セット" />
-  <key id="19081606" name="夏の伝統衣装セット" />
-  <key id="19082301" name="ひらりバタフライセット" />
-  <key id="19082302" name="ひらりバタフライセット" />
-  <key id="19082801" name="ロイヤルダークネスセット" />
-  <key id="19082802" name="ロイヤルダークネスセット" />
-  <key id="19091801" name="ミルキーウェイ星色セット" />
-  <key id="19091802" name="ミルキーウェイ星色セット" />
-  <key id="19091803" name="クーリングクーリングマリンセット" />
-  <key id="19091804" name="クーリングクーリングマリンセット" />
-  <key id="19091805" name="中世貴族セット" />
-  <key id="19091806" name="中世リボンセット" />
-  <key id="19102301" name="SETITEMNAME_19102301_NAME:[F]Wedding" feature="Wedding" />
-  <key id="19102302" name="SETITEMNAME_19102302_NAME:[F]Wedding" feature="Wedding" />
-  <key id="19102501" name="見習いパティシエのセット" />
-  <key id="19102502" name="見習いパティシエのセット" />
-  <key id="19110701" name="SETITEMNAME_19110701_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="19110702" name="SETITEMNAME_19110702_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="90000001" name="ファンシーゴシックセット" />
-  <key id="90000002" name="ファンシーゴシックセット" />
-  <key id="90000003" name="ダークキャットファンキー制服セット" />
-  <key id="90000004" name="ダークキャットファンキー制服セット" />
-  <key id="90000007" name="ユニコーンチャンピオンセット" />
-  <key id="90000008" name="ユニコーンチャンピオンセット" />
-  <key id="90000017" name="フローズンフェアリーセット" />
-  <key id="90000018" name="フローズンフェアリーセット" />
-  <key id="90000019" name="モダン韓服セット" />
-  <key id="90000020" name="モダン韓服セット" />
-  <key id="90000023" name="バレンタインセット" />
-  <key id="90000024" name="バレンタインセット" />
-  <key id="90000027" name="コットンキャンディセット" />
-  <key id="90000028" name="コットンキャンディセット" />
-  <key id="90000031" name="ハッピーメロディセット" />
-  <key id="90000032" name="ハッピーメロディセット" />
-  <key id="90000039" name="レッドライディングフードセット" />
-  <key id="90000040" name="レッドライディングフードセット" />
-  <key id="90000041" name="ピュアウェディングセット" />
-  <key id="90000042" name="ピュアウェディングセット" />
-  <key id="90000043" name="ハートバニーセット" />
-  <key id="90000044" name="ハートバニーセット" />
-  <key id="90000045" name="シャインスターセット" />
-  <key id="90000046" name="シャインスターセット" />
-  <key id="90000047" name="パンパンピエロセット" />
-  <key id="90000048" name="パンパンピエロセット" />
-  <key id="90000051" name="スイートデザートセット" />
-  <key id="90000052" name="スイートデザートセット" />
-  <key id="90000053" name="アドミラルバタフライセット" />
-  <key id="90000054" name="アドミラルバタフライセット" />
-  <key id="90000055" name="カモメ海賊団セット" />
-  <key id="90000056" name="カモメ海賊団セット" />
-  <key id="90000063" name="青い海セット" />
-  <key id="90000064" name="青い海セット" />
-  <key id="90000067" name="フレッシュサマーセット" />
-  <key id="90000068" name="フレッシュサマーセット" />
-  <key id="90000073" name="イフリートフェアリーセット" />
-  <key id="90000074" name="イフリートフェアリーセット" />
-  <key id="90000089" name="エレガントゴシックセット" />
-  <key id="90000090" name="エレガントゴシックセット" />
-  <key id="90000091" name="パンプキンハロウィンセット" />
-  <key id="90000092" name="パンプキンハロウィンセット" />
-  <key id="90000093" name="ブラッディヴァンパイアセット" />
-  <key id="90000094" name="ブラッディヴァンパイアセット" />
-  <key id="90000101" name="ハッピークリスマスセット" />
-  <key id="90000102" name="ハッピークリスマスセット" />
-  <key id="90000103" name="チューチューセット" />
-  <key id="90000104" name="チューチューセット" />
-  <key id="90000107" name="ドクターハートセット" />
-  <key id="90000108" name="ドクターハートセット" />
-  <key id="90000109" name="ココパピーセット" />
-  <key id="90000110" name="ココパピーセット" />
-  <key id="90000111" name="トウィンクルスターセット" />
-  <key id="90000112" name="トウィンクルスターセット" />
-  <key id="90000115" name="トライア王宮画家セット" />
-  <key id="90000116" name="トライア王宮画家セット" />
-  <key id="90000133" name="ストリートフープセット" />
-  <key id="90000134" name="ストリートフープセット" />
-  <key id="90000209" name="元気いっぱい制服セット" />
-  <key id="90000210" name="元気いっぱい制服セット" />
-  <key id="90000317" name="ロイヤルウィンターセット" />
-  <key id="90000318" name="ロイヤルウィンターセット" />
-  <key id="90000327" name="ワイルドライダーズセット" />
-  <key id="90000328" name="ワイルドライダーズセット" />
-  <key id="90000351" name="優等生制服セット" />
-  <key id="90000352" name="優等生制服セット" />
-  <key id="90000353" name="ウィンターフェアリーテールセット" />
-  <key id="90000354" name="ウィンターフェアリーテールセット" />
-  <key id="90000355" name="オードリーテュテュセット" />
-  <key id="90000356" name="オードリーテュテュセット" />
-  <key id="90000357" name="オリンポスセット" />
-  <key id="90000358" name="オリンポスセット" />
-  <key id="90000359" name="ロマンチックウェディングセット" />
-  <key id="90000360" name="ロマンチックウェディングセット" />
-  <key id="90000361" name="イリュージョニストセット" />
-  <key id="90000362" name="イリュージョニストセット" />
-  <key id="90000367" name="ダンシンググレースセット" />
-  <key id="90000368" name="ダンシンググレースセット" />
-  <key id="90000387" name="グロースターセット" />
-  <key id="90000388" name="グロースターセット" />
-  <key id="90000389" name="明るいアリスセット" />
-  <key id="90000390" name="明るいアリスセット" />
-  <key id="90000391" name="堕落天使セット" />
-  <key id="90000392" name="堕落天使セット" />
-  <key id="90000419" name="フローリアフェアリーセット" />
-  <key id="90000420" name="フローリアフェアリーセット" />
-  <key id="91000353" name="ウィンターフェアリーテールモーション変更" />
-  <key id="91000354" name="ウィンターフェアリーテールモーション変更" />
-  <key id="91000355" name="オードリーテュテュモーション変更" />
-  <key id="91000356" name="オードリーテュテュモーション変更" />
-  <key id="91000357" name="オリンポスモーション変更" />
-  <key id="91000358" name="オリンポスモーション変更" />
-  <key id="91000359" name="ウェディングコンセプトモーション変更" />
-  <key id="91000360" name="ウェディングコンセプトモーション変更" />
-  <key id="91000361" name="イリュージョニストモーション変更" />
-  <key id="91000362" name="イリュージョニストモーション変更" />
-  <key id="91000387" name="グロースターモーション変更" />
-  <key id="91000388" name="グロースターモーション変更" />
-  <key id="91000391" name="堕落天使モーション変更" />
-  <key id="91000392" name="堕落天使モーション変更" />
+	<key id="15123101" name="ルミ・ド・コルセット" />
+	<key id="15123102" name="ルミ・ド・ラビエスセット" />
+	<key id="15123103" name="ルミ・ド・マギアセット" />
+	<key id="15123104" name="ルミ・ド・デウスセット" />
+	<key id="15123105" name="ルミ・ド・テロセット" />
+	<key id="15123106" name="ルミ・ド・リブラトセット" />
+	<key id="15123107" name="ルミ・ド・エレボスセット" />
+	<key id="15123108" name="ルミ・ド・シカセット" />
+	<key id="15123109" name="ルミ・ド・ポルスセット" />
+	<key id="16022501" name="ブラックスターレコーズセット" />
+	<key id="16042801" name="かわいいダッキーボールセット" />
+	<key id="16042802" name="シックなダッキーボールセット" />
+	<key id="16042803" name="恥ずかしいダッキーボールセット" />
+	<key id="16063001" name="エレガントゴシックセット" />
+	<key id="16063002" name="エレガントゴシックセット" />
+	<key id="16071401" name="ルミ・ド・マヌスセット" />
+	<key id="16072801" name="イフリートフェアリーセット" />
+	<key id="16072802" name="イフリートフェアリーセット" />
+	<key id="16081101" name="高級儀式セット" />
+	<key id="16081102" name="ルミ・ド・エニマルセット" />
+	<key id="16082501" name="ピュアウェディングセット" />
+	<key id="16082502" name="ピュアウェディングセット" />
+	<key id="16082503" name="猛烈な戦闘セット" />
+	<key id="16082504" name="猛烈な狂乱セット" />
+	<key id="16082505" name="猛烈な魔法セット" />
+	<key id="16082506" name="猛烈な神聖セット" />
+	<key id="16082507" name="猛烈な集中セット" />
+	<key id="16082508" name="猛烈な砲撃セット" />
+	<key id="16082509" name="猛烈な混乱セット" />
+	<key id="16082510" name="猛烈な暗殺セット" />
+	<key id="16082511" name="猛烈な呪術セット" />
+	<key id="16082512" name="猛烈な乱闘セット" />
+	<key id="16082513" name="猛烈な儀式セット" />
+	<key id="16082514" name="ナルバシャンの戦闘セット" />
+	<key id="16082515" name="ナルバシャンの狂乱セット" />
+	<key id="16082516" name="ナルバシャンの魔法セット" />
+	<key id="16082517" name="ナルバシャンの神聖セット" />
+	<key id="16082518" name="ナルバシャンの集中セット" />
+	<key id="16082519" name="ナルバシャンの砲撃セット" />
+	<key id="16082520" name="ナルバシャンの混乱セット" />
+	<key id="16082521" name="ナルバシャンの暗殺セット" />
+	<key id="16082522" name="ナルバシャンの呪術セット" />
+	<key id="16082523" name="ナルバシャンの乱闘セット" />
+	<key id="16082524" name="ナルバシャンの儀式セット" />
+	<key id="16092901" name="上級ダイヤモンドセット" />
+	<key id="16092902" name="上級オニキスタルセット" />
+	<key id="16092903" name="シュアブリーチェ家の栄光セット" />
+	<key id="16102701" name="ブラッディヴァンパイアセット" />
+	<key id="16102702" name="ブラッディヴァンパイアセット" />
+	<key id="16121501" name="メリークリスマスセット" />
+	<key id="16121502" name="メリークリスマスセット" />
+	<key id="17011201" name="波の戦闘セット" />
+	<key id="17011202" name="波の狂乱セット" />
+	<key id="17011203" name="波の魔法セット" />
+	<key id="17011204" name="波の神聖セット" />
+	<key id="17011205" name="波の集中セット" />
+	<key id="17011206" name="波の砲撃セット" />
+	<key id="17011207" name="波の混乱セット" />
+	<key id="17011208" name="波の暗殺セット" />
+	<key id="17011209" name="波の呪術セット" />
+	<key id="17011210" name="波の乱闘セット" />
+	<key id="17011211" name="波の儀式セット" />
+	<key id="17011212" name="消えた王国の戦闘セット" />
+	<key id="17011213" name="消えた王国の狂乱セット" />
+	<key id="17011214" name="消えた王国の魔法セット" />
+	<key id="17011215" name="消えた王国の神聖セット" />
+	<key id="17011216" name="消えた王国の集中セット" />
+	<key id="17011217" name="消えた王国の砲撃セット" />
+	<key id="17011218" name="消えた王国の混乱セット" />
+	<key id="17011219" name="消えた王国の暗殺セット" />
+	<key id="17011220" name="消えた王国の呪術セット" />
+	<key id="17011221" name="消えた王国の乱闘セット" />
+	<key id="17011222" name="消えた王国の儀式セット" />
+	<key id="17011223" name="ルミエラゴン戦闘セット" />
+	<key id="17011224" name="ルミエラゴン狂乱セット" />
+	<key id="17011225" name="ルミエラゴン魔法セット" />
+	<key id="17011226" name="ルミエラゴン神聖セット" />
+	<key id="17011227" name="ルミエラゴン集中セット" />
+	<key id="17011228" name="ルミエラゴン砲撃セット" />
+	<key id="17011229" name="ルミエラゴン混乱セット" />
+	<key id="17011230" name="ルミエラゴン暗殺セット" />
+	<key id="17011231" name="ルミエラゴン呪術セット" />
+	<key id="17011232" name="ルミエラゴン乱闘セット" />
+	<key id="17011233" name="ルミエラゴン儀式セット" />
+	<key id="17020901" name="スカーレットハートセット" />
+	<key id="17020902" name="スカーレットハートセット" />
+	<key id="17020903" name="メイプル連合セット" />
+	<key id="17020904" name="メイプル連合セット" />
+	<key id="17020905" name="メイプル連合セット" />
+	<key id="17020906" name="メイプル連合セット" />
+	<key id="17020907" name="メイプル連合セット" />
+	<key id="17020908" name="メイプル連合セット" />
+	<key id="17020909" name="メイプル連合セット" />
+	<key id="17020910" name="メイプル連合セット" />
+	<key id="17020911" name="メイプル連合セット" />
+	<key id="17020912" name="メイプル連合セット" />
+	<key id="17020913" name="メイプル連合セット" />
+	<key id="17020914" name="マドラカン君主セット" />
+	<key id="17030701" name="モミジセット" />
+	<key id="17030901" name="フローリアフェアリーセット" />
+	<key id="17030902" name="フローリアフェアリーセット" />
+	<key id="17040401" name="マジェスティックウィングセット" />
+	<key id="17040402" name="マジェスティックウィングセット" />
+	<key id="17040601" name="シャインスターセット" />
+	<key id="17040602" name="シャインスターセット" />
+	<key id="17053101" name="陰謀のセット" />
+	<key id="17062001" name="真面目な冒険者のセット" feature="Event" />
+	<key id="17062901" name="リバースナイト(LV50)セット" />
+	<key id="17062902" name="リバースバーサーカー(LV50)セット" />
+	<key id="17062903" name="リバースウィザード(LV50)セット" />
+	<key id="17062904" name="リバースプリースト(LV50)セット" />
+	<key id="17062905" name="リバースレンジャー(LV50)セット" />
+	<key id="17062906" name="リバースヘビーガンナー(LV50)セット" />
+	<key id="17062907" name="リバースシーフ(LV50)セット" />
+	<key id="17062908" name="リバースアサシン(LV50)セット" />
+	<key id="17062909" name="リバースルーンブレイダー(LV50)セット" />
+	<key id="17062910" name="リバースストライカー(LV50)セット" />
+	<key id="17062911" name="リバースソウルバインダー(LV50)セット" />
+	<key id="17062912" name="リバースナイト(LV56)セット" />
+	<key id="17062913" name="リバースバーサーカー(LV56)セット" />
+	<key id="17062914" name="リバースウィザード(LV56)セット" />
+	<key id="17062915" name="リバースプリースト(LV56)セット" />
+	<key id="17062916" name="リバースレンジャー(LV56)セット" />
+	<key id="17062917" name="リバースヘビーガンナー(LV56)セット" />
+	<key id="17062918" name="リバースシーフ(LV56)セット" />
+	<key id="17062919" name="リバースアサシン(LV56)セット" />
+	<key id="17062920" name="リバースルーンブレイダー(LV56)セット" />
+	<key id="17062921" name="リバースストライカー(LV56)セット" />
+	<key id="17062922" name="リバースソウルバインダー(LV56)セット" />
+	<key id="17081823" name="月餅セット" />
+	<key id="17083101" name="パンプキンウィッチセット" />
+	<key id="17083102" name="パンプキンウィッチセット" />
+	<key id="17090101" name="お気取り伝統服セット" />
+	<key id="17090102" name="もこもこ伝統服セット" />
+	<key id="17110801" name="凶暴な戦闘セット" />
+	<key id="17110802" name="凶暴な狂乱セット" />
+	<key id="17110803" name="凶暴な魔法セット" />
+	<key id="17110804" name="凶暴な神聖セット" />
+	<key id="17110805" name="凶暴な集中セット" />
+	<key id="17110806" name="凶暴な砲撃セット" />
+	<key id="17110807" name="凶暴な混乱セット" />
+	<key id="17110808" name="凶暴な暗殺セット" />
+	<key id="17110809" name="凶暴な呪術セット" />
+	<key id="17110810" name="凶暴な乱闘セット" />
+	<key id="17110811" name="凶暴な儀式セット" />
+	<key id="17110812" name="不滅のブラッディダスクセット" />
+	<key id="17110813" name="不滅のスケルトンセット" />
+	<key id="17110814" name="不滅のエネスセット" />
+	<key id="17110815" name="不滅のセビアスセット" />
+	<key id="17110816" name="不滅の監視者セット" />
+	<key id="17110817" name="不滅のパイロットセット" />
+	<key id="17110818" name="不滅のニンブルビートセット" />
+	<key id="17110819" name="不滅のファントムセット" />
+	<key id="17110820" name="不滅のボイドセット" />
+	<key id="17110821" name="不滅の格闘セット" />
+	<key id="17110822" name="不滅の気功セット" />
+	<key id="17110823" name="リバースナイト(LV50)セット" />
+	<key id="17110824" name="リバースバーサーカー(LV50)セット" />
+	<key id="17110825" name="リバースウィザード(LV50)セット" />
+	<key id="17110826" name="リバースプリースト(LV50)セット" />
+	<key id="17110827" name="リバースレンジャー(LV50)セット" />
+	<key id="17110828" name="リバースヘビーガンナー(LV50)セット" />
+	<key id="17110829" name="リバースシーフ(LV50)セット" />
+	<key id="17110830" name="リバースアサシン(LV50)セット" />
+	<key id="17110831" name="リバースルーンブレイダー(LV50)セット" />
+	<key id="17110832" name="リバースストライカー(LV50)セット" />
+	<key id="17110833" name="リバースソウルバインダー(LV50)セット" />
+	<key id="17110834" name="プルートセット" />
+	<key id="17110835" name="マルスセット" />
+	<key id="17110836" name="プルートセット" />
+	<key id="17110837" name="マルスセット" />
+	<key id="17112901" name="グロースターセット" />
+	<key id="17112902" name="グロースターセット" />
+	<key id="17121101" name="猛烈な戦闘セット" />
+	<key id="17121102" name="猛烈な狂乱セット" />
+	<key id="17121103" name="猛烈な魔法セット" />
+	<key id="17121104" name="猛烈な神聖セット" />
+	<key id="17121105" name="猛烈な集中セット" />
+	<key id="17121106" name="猛烈な砲撃セット" />
+	<key id="17121107" name="猛烈な混乱セット" />
+	<key id="17121108" name="猛烈な暗殺セット" />
+	<key id="17121109" name="猛烈な呪術セット" />
+	<key id="17121110" name="猛烈な乱闘セット" />
+	<key id="17121111" name="猛烈な儀式セット" />
+	<key id="18011501" name="蝶々の夢セット" />
+	<key id="18011502" name="蝶々の夢セット" />
+	<key id="18011801" name="プルートセット" />
+	<key id="18011802" name="マルスセット" />
+	<key id="18011803" name="プルートセット" />
+	<key id="18011804" name="マルスセット" />
+	<key id="18011805" name="クリムゾンバルログの戦闘セット" />
+	<key id="18011806" name="クリムゾンバルログの狂乱セット" />
+	<key id="18011807" name="クリムゾンバルログの魔法セット" />
+	<key id="18011808" name="クリムゾンバルログの神聖セット" />
+	<key id="18011809" name="クリムゾンバルログの集中セット" />
+	<key id="18011810" name="クリムゾンバルログの砲撃セット" />
+	<key id="18011811" name="クリムゾンバルログの混乱セット" />
+	<key id="18011812" name="クリムゾンバルログの暗殺セット" />
+	<key id="18011813" name="クリムゾンバルログの呪術セット" />
+	<key id="18011814" name="クリムゾンバルログの乱闘セット" />
+	<key id="18011815" name="クリムゾンバルログの儀式セット" />
+	<key id="18011816" name="クリムゾンバルログの戦闘セット" />
+	<key id="18011817" name="クリムゾンバルログの狂乱セット" />
+	<key id="18011818" name="クリムゾンバルログの魔法セット" />
+	<key id="18011819" name="クリムゾンバルログの神聖セット" />
+	<key id="18011820" name="クリムゾンバルログの集中セット" />
+	<key id="18011821" name="クリムゾンバルログの砲撃セット" />
+	<key id="18011822" name="クリムゾンバルログの混乱セット" />
+	<key id="18011823" name="クリムゾンバルログの暗殺セット" />
+	<key id="18011824" name="クリムゾンバルログの呪術セット" />
+	<key id="18011825" name="クリムゾンバルログの乱闘セット" />
+	<key id="18011826" name="クリムゾンバルログの儀式セット" />
+	<key id="18011827" name="ブライトスターの戦闘セット" />
+	<key id="18011828" name="ブライトスターの狂乱セット" />
+	<key id="18011829" name="ブライトスターの魔法セット" />
+	<key id="18011830" name="ブライトスターの神聖セット" />
+	<key id="18011831" name="ブライトスターの集中セット" />
+	<key id="18011832" name="ブライトスターの砲撃セット" />
+	<key id="18011833" name="ブライトスターの混乱セット" />
+	<key id="18011834" name="ブライトスターの暗殺セット" />
+	<key id="18011835" name="ブライトスターの呪術セット" />
+	<key id="18011836" name="ブライトスターの乱闘セット" />
+	<key id="18011837" name="ブライトスターの儀式セット" />
+	<key id="18052834" name="ベヒモスナイトセット" feature="Level60Item" />
+	<key id="18052835" name="ベヒモスバーサーカーセット" feature="Level60Item" />
+	<key id="18052836" name="ベヒモスウィザードセット" feature="Level60Item" />
+	<key id="18052837" name="ベヒモスプリーストセット" feature="Level60Item" />
+	<key id="18052838" name="ベヒモスレンジャーセット" feature="Level60Item" />
+	<key id="18052839" name="ベヒモスヘビーガンナーセット" feature="Level60Item" />
+	<key id="18052840" name="ベヒモスシーフセット" feature="Level60Item" />
+	<key id="18052841" name="ベヒモスアサシンセット" feature="Level60Item" />
+	<key id="18052842" name="ベヒモスルーンブレイダーセット" feature="Level60Item" />
+	<key id="18052843" name="ベヒモスストライカーセット" feature="Level60Item" />
+	<key id="18052844" name="ベヒモスソウルバインダーセット" feature="Level60Item" />
+	<key id="18052845" name="エイリオンナイトセット" feature="Level60Item" />
+	<key id="18052846" name="エイリオンバーサーカーセット" feature="Level60Item" />
+	<key id="18052847" name="エイリオンウィザードセット" feature="Level60Item" />
+	<key id="18052848" name="エイリオンプリーストセット" feature="Level60Item" />
+	<key id="18052849" name="エイリオンレンジャーセット" feature="Level60Item" />
+	<key id="18052850" name="エイリオンヘビーガンナーセット" feature="Level60Item" />
+	<key id="18052851" name="エイリオンシーフセット" feature="Level60Item" />
+	<key id="18052852" name="エイリオンアサシンセット" feature="Level60Item" />
+	<key id="18052853" name="エイリオンルーンブレイダーセット" feature="Level60Item" />
+	<key id="18052854" name="エイリオンストライカーセット" feature="Level60Item" />
+	<key id="18052855" name="エイリオンソウルバインダーセット" feature="Level60Item" />
+	<key id="18052856" name="ブラックバンガードナイトセット" feature="Level60Item" />
+	<key id="18052857" name="ブラックバンガードバーサーカーセット" feature="Level60Item" />
+	<key id="18052858" name="ブラックバンガードウィザードセット" feature="Level60Item" />
+	<key id="18052859" name="ブラックバンガードプリーストセット" feature="Level60Item" />
+	<key id="18052860" name="ブラックバンガードレンジャーセット" feature="Level60Item" />
+	<key id="18052861" name="ブラックバンガードヘビーガンナーセット" feature="Level60Item" />
+	<key id="18052862" name="ブラックバンガードシーフセット" feature="Level60Item" />
+	<key id="18052863" name="ブラックバンガードアサシンセット" feature="Level60Item" />
+	<key id="18052864" name="ブラックバンガードルーンブレイダーセット" feature="Level60Item" />
+	<key id="18052865" name="ブラックバンガードストライカーセット" feature="Level60Item" />
+	<key id="18052866" name="ブラックバンガードソウルバインダーセット" feature="Level60Item" />
+	<key id="18052867" name="ブラックピュアリティナイトセット" feature="Level60Item" />
+	<key id="18052868" name="ブラックピュアリティバーサーカーセット" feature="Level60Item" />
+	<key id="18052869" name="ブラックピュアリティウィザードセット" feature="Level60Item" />
+	<key id="18052870" name="ブラックピュアリティプリーストセット" feature="Level60Item" />
+	<key id="18052871" name="ブラックピュアリティレンジャーセット" feature="Level60Item" />
+	<key id="18052872" name="ブラックピュアリティヘビーガンナーセット" feature="Level60Item" />
+	<key id="18052873" name="ブラックピュアリティシーフセット" feature="Level60Item" />
+	<key id="18052874" name="ブラックピュアリティアサシンセット" feature="Level60Item" />
+	<key id="18052875" name="ブラックピュアリティルーンブレイダーセット" feature="Level60Item" />
+	<key id="18052876" name="ブラックピュアリティストライカーセット" feature="Level60Item" />
+	<key id="18052877" name="ブラックピュアリティソウルバインダーセット" feature="Level60Item" />
+	<key id="18052878" name="60レベルエピック2ナイトセット" feature="Level60Item" />
+	<key id="18052879" name="60レベルエピック2バーサーカーセット" feature="Level60Item" />
+	<key id="18052880" name="60レベルエピック2ウィザードセット" feature="Level60Item" />
+	<key id="18052881" name="60レベルエピック2プリーストセット" feature="Level60Item" />
+	<key id="18052882" name="60レベルエピック2レンジャーセット" feature="Level60Item" />
+	<key id="18052883" name="60レベルエピック2ヘビーガンナーセット" feature="Level60Item" />
+	<key id="18052884" name="60レベルエピック2シーフセット" feature="Level60Item" />
+	<key id="18052885" name="60レベルエピック2アサシンセット" feature="Level60Item" />
+	<key id="18052886" name="60レベルエピック2ルーンブレイダーセット" feature="Level60Item" />
+	<key id="18052887" name="60レベルエピック2ストライカーセット" feature="Level60Item" />
+	<key id="18052888" name="60レベルエピック2ソウルバインダーセット" feature="Level60Item" />
+	<key id="18052891" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
+	<key id="18052892" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
+	<key id="18052893" name="60レベルエピックアクセサリ2イヤリング、ネックレス、指輪セット" feature="Level60Item" />
+	<key id="18052894" name="60レベルエピックアクセサリ2マント、ベルトセット" feature="Level60Item" />
+	<key id="18052895" name="マドラカン君主セット" feature="Level60Item" />
+	<key id="18052896" name="センチュリオンセット" feature="Level60Item" />
+	<key id="18052897" name="センチュリオンセット" feature="Level60Item" />
+	<key id="18061701" name="ベヒモスナイトセット" feature="Level60Item" />
+	<key id="18061702" name="ベヒモスバーサーカーセット" feature="Level60Item" />
+	<key id="18061703" name="ベヒモスウィザードセット" feature="Level60Item" />
+	<key id="18061704" name="ベヒモスプリーストセット" feature="Level60Item" />
+	<key id="18061705" name="ベヒモスレンジャーセット" feature="Level60Item" />
+	<key id="18061706" name="ベヒモスヘビーガンナーセット" feature="Level60Item" />
+	<key id="18061707" name="ベヒモスシーフセット" feature="Level60Item" />
+	<key id="18061708" name="ベヒモスアサシンセット" feature="Level60Item" />
+	<key id="18061709" name="ベヒモスルーンブレイダーセット" feature="Level60Item" />
+	<key id="18061710" name="ベヒモスストライカーセット" feature="Level60Item" />
+	<key id="18061711" name="ベヒモスソウルバインダーセット" feature="Level60Item" />
+	<key id="18061712" name="エイリオンナイトセット" feature="Level60Item" />
+	<key id="18061713" name="エイリオンバーサーカーセット" feature="Level60Item" />
+	<key id="18061714" name="エイリオンウィザードセット" feature="Level60Item" />
+	<key id="18061715" name="エイリオンプリーストセット" feature="Level60Item" />
+	<key id="18061716" name="エイリオンレンジャーセット" feature="Level60Item" />
+	<key id="18061717" name="エイリオンヘビーガンナーセット" feature="Level60Item" />
+	<key id="18061718" name="エイリオンシーフセット" feature="Level60Item" />
+	<key id="18061719" name="エイリオンアサシンセット" feature="Level60Item" />
+	<key id="18061720" name="エイリオンルーンブレイダーセット" feature="Level60Item" />
+	<key id="18061721" name="エイリオンストライカーセット" feature="Level60Item" />
+	<key id="18061722" name="エイリオンソウルバインダーセット" feature="Level60Item" />
+	<key id="18061723" name="ブラックバンガードナイトセット" feature="Level60Item" />
+	<key id="18061724" name="ブラックバンガードバーサーカーセット" feature="Level60Item" />
+	<key id="18061725" name="ブラックバンガードウィザードセット" feature="Level60Item" />
+	<key id="18061726" name="ブラックバンガードプリーストセット" feature="Level60Item" />
+	<key id="18061727" name="ブラックバンガードレンジャーセット" feature="Level60Item" />
+	<key id="18061728" name="ブラックバンガードヘビーガンナーセット" feature="Level60Item" />
+	<key id="18061729" name="ブラックバンガードシーフセット" feature="Level60Item" />
+	<key id="18061730" name="ブラックバンガードアサシンセット" feature="Level60Item" />
+	<key id="18061731" name="ブラックバンガードルーンブレイダーセット" feature="Level60Item" />
+	<key id="18061732" name="ブラックバンガードストライカーセット" feature="Level60Item" />
+	<key id="18061733" name="ブラックバンガードソウルバインダーセット" feature="Level60Item" />
+	<key id="18061734" name="センチュリオンセット" feature="Level60Item" />
+	<key id="18061735" name="センチュリオンセット" feature="Level60Item" />
+	<key id="18061736" name="ブラックピュアリティナイトセット" feature="Level60Item" />
+	<key id="18061737" name="ブラックピュアリティバーサーカーセット" feature="Level60Item" />
+	<key id="18061738" name="ブラックピュアリティウィザードセット" feature="Level60Item" />
+	<key id="18061739" name="ブラックピュアリティプリーストセット" feature="Level60Item" />
+	<key id="18061740" name="ブラックピュアリティレンジャーセット" feature="Level60Item" />
+	<key id="18061741" name="ブラックピュアリティヘビーガンナーセット" feature="Level60Item" />
+	<key id="18061742" name="ブラックピュアリティシーフセット" feature="Level60Item" />
+	<key id="18061743" name="ブラックピュアリティアサシンセット" feature="Level60Item" />
+	<key id="18061744" name="ブラックピュアリティルーンブレイダーセット" feature="Level60Item" />
+	<key id="18061745" name="ブラックピュアリティストライカーセット" feature="Level60Item" />
+	<key id="18061746" name="ブラックピュアリティソウルバインダーセット" feature="Level60Item" />
+	<key id="18061747" name="60レベルエピック2ナイトセット" feature="Level60Item" />
+	<key id="18061748" name="60レベルエピック2バーサーカーセット" feature="Level60Item" />
+	<key id="18061749" name="60レベルエピック2ウィザードセット" feature="Level60Item" />
+	<key id="18061750" name="60レベルエピック2プリーストセット" feature="Level60Item" />
+	<key id="18061751" name="60レベルエピック2レンジャーセット" feature="Level60Item" />
+	<key id="18061752" name="60レベルエピック2ヘビーガンナーセット" feature="Level60Item" />
+	<key id="18061753" name="60レベルエピック2シーフセット" feature="Level60Item" />
+	<key id="18061754" name="60レベルエピック2アサシンセット" feature="Level60Item" />
+	<key id="18061755" name="60レベルエピック2ルーンブレイダーセット" feature="Level60Item" />
+	<key id="18061756" name="60レベルエピック2ストライカーセット" feature="Level60Item" />
+	<key id="18061757" name="60レベルエピック2ソウルバインダーセット" feature="Level60Item" />
+	<key id="18061758" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
+	<key id="18061759" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
+	<key id="18061760" name="60レベルエピックアクセサリ2イヤリング、ネックレス、指輪セット" feature="Level60Item" />
+	<key id="18061761" name="60レベルエピックアクセサリ2マント、ベルトセット" feature="Level60Item" />
+	<key id="18062801" name="オリンポスセット" />
+	<key id="18062802" name="オリンポスセット" />
+	<key id="18081301" name="極限の戦闘セット" feature="Season3" />
+	<key id="18081302" name="極限の狂乱セット" feature="Season3" />
+	<key id="18081303" name="極限の魔法セット" feature="Season3" />
+	<key id="18081304" name="極限の神聖セット" feature="Season3" />
+	<key id="18081305" name="極限の集中セット" feature="Season3" />
+	<key id="18081306" name="極限の砲撃セット" feature="Season3" />
+	<key id="18081307" name="極限の混乱セット" feature="Season3" />
+	<key id="18081308" name="極限の暗殺セット" feature="Season3" />
+	<key id="18081309" name="極限の呪術セット" feature="Season3" />
+	<key id="18081310" name="極限の乱闘セット" feature="Season3" />
+	<key id="18081311" name="極限の儀式セット" feature="Season3" />
+	<key id="18081312" name="乱暴な戦闘セット" feature="Season3" />
+	<key id="18081313" name="乱暴な狂乱セット" feature="Season3" />
+	<key id="18081314" name="乱暴な魔法セット" feature="Season3" />
+	<key id="18081315" name="乱暴な神聖セット" feature="Season3" />
+	<key id="18081316" name="乱暴な集中セット" feature="Season3" />
+	<key id="18081317" name="乱暴な砲撃セット" feature="Season3" />
+	<key id="18081318" name="乱暴な混乱セット" feature="Season3" />
+	<key id="18081319" name="乱暴な暗殺セット" feature="Season3" />
+	<key id="18081320" name="乱暴な呪術セット" feature="Season3" />
+	<key id="18081321" name="乱暴な乱闘セット" feature="Season3" />
+	<key id="18081322" name="乱暴な儀式セット" feature="Season3" />
+	<key id="18081323" name="凶暴な戦闘セット" feature="Season3" />
+	<key id="18081324" name="凶暴な狂乱セット" feature="Season3" />
+	<key id="18081325" name="凶暴な魔法セット" feature="Season3" />
+	<key id="18081326" name="凶暴な神聖セット" feature="Season3" />
+	<key id="18081327" name="凶暴な集中セット" feature="Season3" />
+	<key id="18081328" name="凶暴な砲撃セット" feature="Season3" />
+	<key id="18081329" name="凶暴な混乱セット" feature="Season3" />
+	<key id="18081330" name="凶暴な暗殺セット" feature="Season3" />
+	<key id="18081331" name="凶暴な呪術セット" feature="Season3" />
+	<key id="18081332" name="凶暴な乱闘セット" feature="Season3" />
+	<key id="18081333" name="凶暴な儀式セット" feature="Season3" />
+	<key id="18091401" name="プルートセット" feature="LegendaryAccessory01" />
+	<key id="18091402" name="プルートセット" feature="LegendaryAccessory01" />
+	<key id="18091403" name="マルスセット" feature="LegendaryAccessory01" />
+	<key id="18091404" name="マルスセット" feature="LegendaryAccessory01" />
+	<key id="18092001" name="堕落天使セット" />
+	<key id="18092002" name="堕落天使セット" />
+	<key id="18110701" name="品位の戦闘セット" feature="PvPRankingDuelMode" />
+	<key id="18110702" name="品位の狂乱セット" feature="PvPRankingDuelMode" />
+	<key id="18110703" name="品位の魔法セット" feature="PvPRankingDuelMode" />
+	<key id="18110704" name="品位の神聖セット" feature="PvPRankingDuelMode" />
+	<key id="18110705" name="品位の集中セット" feature="PvPRankingDuelMode" />
+	<key id="18110706" name="品位の砲撃セット" feature="PvPRankingDuelMode" />
+	<key id="18110707" name="品位の混乱セット" feature="PvPRankingDuelMode" />
+	<key id="18110708" name="品位の暗殺セット" feature="PvPRankingDuelMode" />
+	<key id="18110709" name="品位の呪術セット" feature="PvPRankingDuelMode" />
+	<key id="18110710" name="品位の乱闘セット" feature="PvPRankingDuelMode" />
+	<key id="18110711" name="品位の儀式セット" feature="PvPRankingDuelMode" />
+	<key id="18110712" name="品位のアクセサリセット" feature="PvPRankingDuelMode" />
+	<key id="18112001" name="イリュージョニストセット" />
+	<key id="18112002" name="イリュージョニストセット" />
+	<key id="18122101" name="強化された品位の戦闘セット" feature="Level70Item" />
+	<key id="18122102" name="強化された品位の狂乱セット" feature="Level70Item" />
+	<key id="18122103" name="強化された品位の魔法セット" feature="Level70Item" />
+	<key id="18122104" name="強化された品位の神聖セット" feature="Level70Item" />
+	<key id="18122105" name="強化された品位の集中セット" feature="Level70Item" />
+	<key id="18122106" name="強化された品位の砲撃セット" feature="Level70Item" />
+	<key id="18122107" name="強化された品位の混乱セット" feature="Level70Item" />
+	<key id="18122108" name="強化された品位の暗殺セット" feature="Level70Item" />
+	<key id="18122109" name="強化された品位の呪術セット" feature="Level70Item" />
+	<key id="18122110" name="強化された品位の乱闘セット" feature="Level70Item" />
+	<key id="18122111" name="強化された品位の儀式セット" feature="Level70Item" />
+	<key id="18122112" name="強化された品位のアクセサリセット" feature="Level70Item" />
+	<key id="18122701" name="SETITEMNAME_18122701_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="18122702" name="SETITEMNAME_18122702_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010301" name="SETITEMNAME_19010301_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010302" name="SETITEMNAME_19010302_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010303" name="SETITEMNAME_19010303_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010304" name="SETITEMNAME_19010304_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010305" name="SETITEMNAME_19010305_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010306" name="SETITEMNAME_19010306_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010307" name="SETITEMNAME_19010307_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010308" name="SETITEMNAME_19010308_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010309" name="SETITEMNAME_19010309_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010310" name="SETITEMNAME_19010310_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010311" name="SETITEMNAME_19010311_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010312" name="SETITEMNAME_19010312_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010313" name="SETITEMNAME_19010313_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010314" name="SETITEMNAME_19010314_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010315" name="SETITEMNAME_19010315_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010316" name="SETITEMNAME_19010316_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010317" name="SETITEMNAME_19010317_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010318" name="SETITEMNAME_19010318_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010319" name="SETITEMNAME_19010319_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010320" name="SETITEMNAME_19010320_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010321" name="SETITEMNAME_19010321_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19010322" name="SETITEMNAME_19010322_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011101" name="SETITEMNAME_19011101_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011102" name="SETITEMNAME_19011102_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011103" name="SETITEMNAME_19011103_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011104" name="SETITEMNAME_19011104_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011105" name="SETITEMNAME_19011105_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011106" name="SETITEMNAME_19011106_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011107" name="SETITEMNAME_19011107_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011108" name="SETITEMNAME_19011108_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011109" name="SETITEMNAME_19011109_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011110" name="SETITEMNAME_19011110_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011111" name="SETITEMNAME_19011111_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011112" name="SETITEMNAME_19011112_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011113" name="SETITEMNAME_19011113_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011114" name="SETITEMNAME_19011114_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011115" name="SETITEMNAME_19011115_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011116" name="SETITEMNAME_19011116_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011117" name="SETITEMNAME_19011117_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011118" name="SETITEMNAME_19011118_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011119" name="SETITEMNAME_19011119_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011120" name="SETITEMNAME_19011120_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011121" name="SETITEMNAME_19011121_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011122" name="SETITEMNAME_19011122_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011801" name="SETITEMNAME_19011801_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011802" name="SETITEMNAME_19011802_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011803" name="SETITEMNAME_19011803_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011804" name="SETITEMNAME_19011804_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011805" name="SETITEMNAME_19011805_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011806" name="SETITEMNAME_19011806_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011807" name="SETITEMNAME_19011807_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011808" name="SETITEMNAME_19011808_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011809" name="SETITEMNAME_19011809_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011810" name="SETITEMNAME_19011810_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011811" name="SETITEMNAME_19011811_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011812" name="SETITEMNAME_19011812_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011813" name="SETITEMNAME_19011813_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011814" name="SETITEMNAME_19011814_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19011815" name="SETITEMNAME_19011815_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19021801" name="ベヒモスナイトセット" feature="Level60Item" />
+	<key id="19021802" name="ベヒモスバーサーカーセット" feature="Level60Item" />
+	<key id="19021803" name="ベヒモスウィザードセット" feature="Level60Item" />
+	<key id="19021804" name="ベヒモスプリーストセット" feature="Level60Item" />
+	<key id="19021805" name="ベヒモスレンジャーセット" feature="Level60Item" />
+	<key id="19021806" name="ベヒモスヘビーガンナーセット" feature="Level60Item" />
+	<key id="19021807" name="ベヒモスシーフセット" feature="Level60Item" />
+	<key id="19021808" name="ベヒモスアサシンセット" feature="Level60Item" />
+	<key id="19021809" name="ベヒモスルーンブレイダーセット" feature="Level60Item" />
+	<key id="19021810" name="ベヒモスストライカーセット" feature="Level60Item" />
+	<key id="19021811" name="ベヒモスソウルバインダーセット" feature="Level60Item" />
+	<key id="19021812" name="エイリオンナイトセット" feature="Level60Item" />
+	<key id="19021813" name="エイリオンバーサーカーセット" feature="Level60Item" />
+	<key id="19021814" name="エイリオンウィザードセット" feature="Level60Item" />
+	<key id="19021815" name="エイリオンプリーストセット" feature="Level60Item" />
+	<key id="19021816" name="エイリオンレンジャーセット" feature="Level60Item" />
+	<key id="19021817" name="エイリオンヘビーガンナーセット" feature="Level60Item" />
+	<key id="19021818" name="エイリオンシーフセット" feature="Level60Item" />
+	<key id="19021819" name="エイリオンアサシンセット" feature="Level60Item" />
+	<key id="19021820" name="エイリオンルーンブレイダーセット" feature="Level60Item" />
+	<key id="19021821" name="エイリオンストライカーセット" feature="Level60Item" />
+	<key id="19021822" name="エイリオンソウルバインダーセット" feature="Level60Item" />
+	<key id="19021823" name="ブラックバンガードナイトセット" feature="Level60Item" />
+	<key id="19021824" name="ブラックバンガードバーサーカーセット" feature="Level60Item" />
+	<key id="19021825" name="ブラックバンガードウィザードセット" feature="Level60Item" />
+	<key id="19021826" name="ブラックバンガードプリーストセット" feature="Level60Item" />
+	<key id="19021827" name="ブラックバンガードレンジャーセット" feature="Level60Item" />
+	<key id="19021828" name="ブラックバンガードヘビーガンナーセット" feature="Level60Item" />
+	<key id="19021829" name="ブラックバンガードシーフセット" feature="Level60Item" />
+	<key id="19021830" name="ブラックバンガードアサシンセット" feature="Level60Item" />
+	<key id="19021831" name="ブラックバンガードルーンブレイダーセット" feature="Level60Item" />
+	<key id="19021832" name="ブラックバンガードストライカーセット" feature="Level60Item" />
+	<key id="19021833" name="ブラックバンガードソウルバインダーセット" feature="Level60Item" />
+	<key id="19021834" name="センチュリオンセット" feature="Level60Item" />
+	<key id="19021835" name="センチュリオンセット" feature="Level60Item" />
+	<key id="19021836" name="ブラックピュアリティナイトセット" feature="Level60Item" />
+	<key id="19021837" name="ブラックピュアリティバーサーカーセット" feature="Level60Item" />
+	<key id="19021838" name="ブラックピュアリティウィザードセット" feature="Level60Item" />
+	<key id="19021839" name="ブラックピュアリティプリーストセット" feature="Level60Item" />
+	<key id="19021840" name="ブラックピュアリティレンジャーセット" feature="Level60Item" />
+	<key id="19021841" name="ブラックピュアリティヘビーガンナーセット" feature="Level60Item" />
+	<key id="19021842" name="ブラックピュアリティシーフセット" feature="Level60Item" />
+	<key id="19021843" name="ブラックピュアリティアサシンセット" feature="Level60Item" />
+	<key id="19021844" name="ブラックピュアリティルーンブレイダーセット" feature="Level60Item" />
+	<key id="19021845" name="ブラックピュアリティストライカーセット" feature="Level60Item" />
+	<key id="19021846" name="ブラックピュアリティソウルバインダーセット" feature="Level60Item" />
+	<key id="19021847" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
+	<key id="19021848" name="ブラックピュアリティアクセサリセット" feature="Level60Item" />
+	<key id="19031301" name="ウェディングデーセット" />
+	<key id="19031302" name="ウェディングデーセット" />
+	<key id="19032001" name="マドラカン君主セット" feature="Level60Item" />
+	<key id="19041501" name="強化された品位の戦闘セット" feature="PvPRankingDuelMode" />
+	<key id="19041502" name="強化された品位の狂乱セット" feature="PvPRankingDuelMode" />
+	<key id="19041503" name="強化された品位の魔法セット" feature="PvPRankingDuelMode" />
+	<key id="19041504" name="強化された品位の神聖セット" feature="PvPRankingDuelMode" />
+	<key id="19041505" name="強化された品位の集中セット" feature="PvPRankingDuelMode" />
+	<key id="19041506" name="強化された品位の砲撃セット" feature="PvPRankingDuelMode" />
+	<key id="19041507" name="強化された品位の混乱セット" feature="PvPRankingDuelMode" />
+	<key id="19041508" name="強化された品位の暗殺セット" feature="PvPRankingDuelMode" />
+	<key id="19041509" name="強化された品位の呪術セット" feature="PvPRankingDuelMode" />
+	<key id="19041510" name="強化された品位の乱闘セット" feature="PvPRankingDuelMode" />
+	<key id="19041511" name="強化された品位の儀式セット" feature="PvPRankingDuelMode" />
+	<key id="19041512" name="強化された品位のアクセサリセット" feature="PvPRankingDuelMode" />
+	<key id="19042501" name="オードリーテュテュセット" />
+	<key id="19042502" name="オードリーテュテュセット" />
+	<key id="19061201" name="マリンセット" />
+	<key id="19061202" name="ラグジュアリー制服セット" />
+	<key id="19061203" name="幼稚園セット" />
+	<key id="19061204" name="レーサーセット" />
+	<key id="19061205" name="メイプル野球セット" />
+	<key id="19061206" name="マリン水着セット" />
+	<key id="19061207" name="ダッキーサウナセット" />
+	<key id="19061208" name="オリハルコンルックセット" />
+	<key id="19061209" name="ブラッドレクイエムルックセット" />
+	<key id="19061210" name="ミリシャルックセット" />
+	<key id="19061211" name="ゴールデンチーパオセット" />
+	<key id="19061212" name="スターマリンセット" />
+	<key id="19061213" name="メイプル運動服セット" />
+	<key id="19061214" name="フレンジールックセット" />
+	<key id="19061215" name="アクアセット" />
+	<key id="19061216" name="フライトルックセット" />
+	<key id="19061217" name="スタッズルックセット" />
+	<key id="19061218" name="武人の羽織りセット" />
+	<key id="19061219" name="ナイティジルックセット" />
+	<key id="19061220" name="プロストルックセット" />
+	<key id="19061221" name="サジタリウスルックセット" />
+	<key id="19061222" name="ダークスイフトルックセット" />
+	<key id="19061223" name="さすらいセット" />
+	<key id="19061224" name="ハロハロセット" />
+	<key id="19061225" name="ダンディースカルセット" />
+	<key id="19061226" name="探偵セット" />
+	<key id="19061227" name="ミリタリールックセット" />
+	<key id="19061228" name="ホーリーセラフィムセット" />
+	<key id="19061229" name="乗務員セット" />
+	<key id="19061230" name="インフェルノルックセット" />
+	<key id="19061231" name="フローズンフェアリーセット" />
+	<key id="19061232" name="トウィンクルスターセット" />
+	<key id="19061233" name="春のお出かけセット" />
+	<key id="19061234" name="ラブリーバニーセット" />
+	<key id="19061235" name="黒ネコセット" />
+	<key id="19061236" name="ワイルドフレイムセット" />
+	<key id="19061237" name="スピリット・ワンセット" />
+	<key id="19061238" name="スポーツセット" />
+	<key id="19061239" name="ラブリーチュチュセット" />
+	<key id="19061240" name="シックスターツセット" />
+	<key id="19061241" name="(ネットカフェ) 探偵セット" />
+	<key id="19061242" name="(ネットカフェ) 春のお出かけセット" />
+	<key id="19061243" name="ぽっちゃりピンクビーンセット" />
+	<key id="19061244" name="(期間制) 動物の王セット" />
+	<key id="19061245" name="ジグムントセット" />
+	<key id="19061246" name="もこもこウサギセット" />
+	<key id="19061247" name="ココパピーセット" />
+	<key id="19061248" name="キュートブロッサムセット" />
+	<key id="19061249" name="ふわふわウサギセット" />
+	<key id="19061250" name="動物の王セット" />
+	<key id="19061251" name="将校セット" />
+	<key id="19061252" name="ゴールドリボンセット" />
+	<key id="19061253" name="ファンキーネオンキャットセット" />
+	<key id="19061254" name="メリーメリークリスマスセット" />
+	<key id="19061255" name="スノーテールセット" />
+	<key id="19061256" name="スカーレットハートセット" />
+	<key id="19061257" name="レインボーオリエンタルコスチュームセット" />
+	<key id="19061258" name="ルミナリエセット" />
+	<key id="19061259" name="元気いっぱい制服セット" />
+	<key id="19061260" name="バニーフラワーセット" />
+	<key id="19061261" name="キューティベアセット" />
+	<key id="19061262" name="グリーンフッド自警団セット" />
+	<key id="19061263" name="スノーフラワーセット" />
+	<key id="19061264" name="ダークウィンドアテントセット" />
+	<key id="19061265" name="ルミナイツオネスタセット" />
+	<key id="19061266" name="マシュマロセット" />
+	<key id="19061267" name="ムスケティアセット" />
+	<key id="19061268" name="メイプル連合ルックセット" />
+	<key id="19061269" name="メイトゥナルドセット" />
+	<key id="19061270" name="バブルバースセット" />
+	<key id="19061271" name="ベースボールセット" />
+	<key id="19061272" name="ブレススタッドセット" />
+	<key id="19061273" name="ビビッドサマーセット" />
+	<key id="19061274" name="サンフラワービーチセット" />
+	<key id="19061275" name="ベビーダイノソアセット" />
+	<key id="19061276" name="アクアサマーセット" />
+	<key id="19061277" name="アルペンスキーセット" />
+	<key id="19061278" name="悪可愛いバニーセット" />
+	<key id="19061279" name="オーバーウィンターセット" />
+	<key id="19061280" name="宇宙飛行士セット" />
+	<key id="19061281" name="情熱のマリアッチセット" />
+	<key id="19061282" name="チャーミング制服セット" />
+	<key id="19061283" name="アオガエルセット" />
+	<key id="19061284" name="キットンメイドセット" />
+	<key id="19061285" name="トライア近衛隊セット" />
+	<key id="19061286" name="ファンキーカウボーイセット" />
+	<key id="19061287" name="ペリオニックセット" />
+	<key id="19061288" name="マリンセット" />
+	<key id="19061289" name="ラグジュアリー制服セット" />
+	<key id="19061290" name="幼稚園セット" />
+	<key id="19061291" name="レーサーセット" />
+	<key id="19061292" name="メイプル野球セット" />
+	<key id="19061293" name="マリン水着セット" />
+	<key id="19061294" name="ダッキーサウナセット" />
+	<key id="19061295" name="オリハルコンルックセット" />
+	<key id="19061296" name="ブラッドレクイエムルックセット" />
+	<key id="19061297" name="ミリシャルックセット" />
+	<key id="19061298" name="リボンチーパオセット" />
+	<key id="19061299" name="フローラルビーチセット" />
+	<key id="19061301" name="メイプル運動服セット" />
+	<key id="19061302" name="フレンジールックセット" />
+	<key id="19061303" name="アクアセット" />
+	<key id="19061304" name="フライトルックセット" />
+	<key id="19061305" name="スタッズルックセット" />
+	<key id="19061306" name="派手なシルクオリエンタルコスチュームセット" />
+	<key id="19061307" name="ナイティジルックセット" />
+	<key id="19061308" name="プロストルックセット" />
+	<key id="19061309" name="サジタリウスルックセット" />
+	<key id="19061310" name="ダークスイフトルックセット" />
+	<key id="19061311" name="さすらいセット" />
+	<key id="19061312" name="ハロハロセット" />
+	<key id="19061313" name="セクシー悪魔セット" />
+	<key id="19061314" name="マダムリボンセット" />
+	<key id="19061315" name="ミリタリールックセット" />
+	<key id="19061316" name="ホーリーセラフィムセット" />
+	<key id="19061317" name="乗務員セット" />
+	<key id="19061318" name="インフェルノルックセット" />
+	<key id="19061319" name="フローズンフェアリーセット" />
+	<key id="19061320" name="トウィンクルスターセット" />
+	<key id="19061321" name="春のお出かけセット" />
+	<key id="19061322" name="ラブリーバニーセット" />
+	<key id="19061323" name="黒ネコセット" />
+	<key id="19061324" name="ワイルドフレイムセット" />
+	<key id="19061325" name="スピリット・ワンセット" />
+	<key id="19061326" name="スポーツセット" />
+	<key id="19061327" name="ラブリーチュチュセット" />
+	<key id="19061328" name="セクシーオフィリアセット" />
+	<key id="19061329" name="(ネットカフェ) 春のお出かけセット" />
+	<key id="19061330" name="(ネットカフェ) ラグジュアリー制服セット" />
+	<key id="19061331" name="ぽっちゃりピンクビーンセット" />
+	<key id="19061332" name="(期間制) 動物の王セット" />
+	<key id="19061333" name="ジグムントセット" />
+	<key id="19061334" name="もこもこウサギセット" />
+	<key id="19061335" name="ココパピーセット" />
+	<key id="19061336" name="キュートブロッサムセット" />
+	<key id="19061337" name="ふわふわウサギセット" />
+	<key id="19061338" name="動物の王セット" />
+	<key id="19061339" name="将校セット" />
+	<key id="19061340" name="ゴールドリボンセット" />
+	<key id="19061341" name="ファンキーネオンキャットセット" />
+	<key id="19061342" name="メリーメリークリスマスセット" />
+	<key id="19061343" name="スノーテールセット" />
+	<key id="19061344" name="スカーレットハートセット" />
+	<key id="19061345" name="レインボーオリエンタルコスチュームセット" />
+	<key id="19061346" name="ルミナリエセット" />
+	<key id="19061347" name="元気いっぱい制服セット" />
+	<key id="19061348" name="バニーフラワーセット" />
+	<key id="19061349" name="キューティベアセット" />
+	<key id="19061350" name="グリーンフッド自警団セット" />
+	<key id="19061351" name="スノーフラワーセット" />
+	<key id="19061352" name="ダークウィンドアテントセット" />
+	<key id="19061353" name="ルミナイツオネスタセット" />
+	<key id="19061354" name="マシュマロセット" />
+	<key id="19061355" name="ムスケティアセット" />
+	<key id="19061356" name="メイプル連合ルックセット" />
+	<key id="19061357" name="メイトゥナルドセット" />
+	<key id="19061358" name="バブルバースセット" />
+	<key id="19061359" name="ベースボールセット" />
+	<key id="19061360" name="ブレススタッドセット" />
+	<key id="19061361" name="ビビッドサマーセット" />
+	<key id="19061362" name="サンフラワービーチセット" />
+	<key id="19061363" name="ベビーダイノソアセット" />
+	<key id="19061364" name="アクアサマーセット" />
+	<key id="19061365" name="アルペンスキーセット" />
+	<key id="19061366" name="悪可愛いバニーセット" />
+	<key id="19061367" name="オーバーウィンターセット" />
+	<key id="19061368" name="宇宙飛行士セット" />
+	<key id="19061369" name="情熱のマリアッチセット" />
+	<key id="19061370" name="チャーミング制服セット" />
+	<key id="19061371" name="アオガエルセット" />
+	<key id="19061372" name="キットンメイドセット" />
+	<key id="19061373" name="トライア近衛隊セット" />
+	<key id="19061374" name="ファンキーカウボーイセット" />
+	<key id="19061375" name="ペリオニックセット" />
+	<key id="19061376" name="海辺の浪漫セット" />
+	<key id="19061377" name="海辺の浪漫セット" />
+	<key id="19061378" name="魔法学校の研修生セット" />
+	<key id="19061379" name="魔法学校の研修生セット" />
+	<key id="19061380" name="トロピカルセット" />
+	<key id="19061381" name="トロピカルセット" />
+	<key id="19061382" name="メイプルクォーターバックセット" />
+	<key id="19061383" name="メイプルクォーターバックセット" />
+	<key id="19061384" name="夏祭り衣装セット" />
+	<key id="19061385" name="夏祭り衣装セット" />
+	<key id="19061386" name="トライア王宮シェフセット" />
+	<key id="19061387" name="トライア王宮シェフセット" />
+	<key id="19061388" name="テックウェアスカウトセット" />
+	<key id="19061389" name="テックウェアスカウトセット" />
+	<key id="19081201" name="エナジェティックスターセット" />
+	<key id="19081202" name="エナジェティックスターセット" />
+	<key id="19081401" name="SETITEMNAME_19081401_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081402" name="SETITEMNAME_19081402_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081403" name="SETITEMNAME_19081403_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081404" name="SETITEMNAME_19081404_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081405" name="SETITEMNAME_19081405_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081406" name="SETITEMNAME_19081406_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081407" name="SETITEMNAME_19081407_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081408" name="SETITEMNAME_19081408_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081409" name="SETITEMNAME_19081409_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081410" name="SETITEMNAME_19081410_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081411" name="SETITEMNAME_19081411_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081412" name="SETITEMNAME_19081412_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081413" name="SETITEMNAME_19081413_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081414" name="SETITEMNAME_19081414_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081415" name="SETITEMNAME_19081415_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081416" name="SETITEMNAME_19081416_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081417" name="SETITEMNAME_19081417_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081418" name="SETITEMNAME_19081418_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081419" name="SETITEMNAME_19081419_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081420" name="SETITEMNAME_19081420_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081421" name="SETITEMNAME_19081421_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081422" name="SETITEMNAME_19081422_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081423" name="SETITEMNAME_19081423_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081424" name="SETITEMNAME_19081424_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081425" name="SETITEMNAME_19081425_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081426" name="SETITEMNAME_19081426_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081427" name="SETITEMNAME_19081427_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081428" name="SETITEMNAME_19081428_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081429" name="SETITEMNAME_19081429_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081430" name="SETITEMNAME_19081430_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081431" name="SETITEMNAME_19081431_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081432" name="SETITEMNAME_19081432_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081433" name="SETITEMNAME_19081433_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081434" name="SETITEMNAME_19081434_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081435" name="SETITEMNAME_19081435_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081436" name="SETITEMNAME_19081436_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081437" name="SETITEMNAME_19081437_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081438" name="SETITEMNAME_19081438_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081439" name="SETITEMNAME_19081439_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081440" name="SETITEMNAME_19081440_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081441" name="SETITEMNAME_19081441_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081442" name="SETITEMNAME_19081442_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081443" name="SETITEMNAME_19081443_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081444" name="SETITEMNAME_19081444_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081445" name="SETITEMNAME_19081445_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081446" name="SETITEMNAME_19081446_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081447" name="SETITEMNAME_19081447_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081448" name="SETITEMNAME_19081448_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081449" name="SETITEMNAME_19081449_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081450" name="SETITEMNAME_19081450_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081451" name="SETITEMNAME_19081451_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081452" name="SETITEMNAME_19081452_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081453" name="SETITEMNAME_19081453_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081454" name="SETITEMNAME_19081454_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081455" name="SETITEMNAME_19081455_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081456" name="SETITEMNAME_19081456_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081457" name="SETITEMNAME_19081457_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081458" name="SETITEMNAME_19081458_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081459" name="SETITEMNAME_19081459_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081460" name="SETITEMNAME_19081460_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081461" name="SETITEMNAME_19081461_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19081601" name="シロギツネセット" />
+	<key id="19081602" name="シロギツネセット" />
+	<key id="19081603" name="夏の伝統衣装セット" />
+	<key id="19081604" name="夏の伝統衣装セット" />
+	<key id="19081605" name="夏の伝統衣装セット" />
+	<key id="19081606" name="夏の伝統衣装セット" />
+	<key id="19082301" name="ひらりバタフライセット" />
+	<key id="19082302" name="ひらりバタフライセット" />
+	<key id="19082801" name="ロイヤルダークネスセット" />
+	<key id="19082802" name="ロイヤルダークネスセット" />
+	<key id="19091801" name="ミルキーウェイ星色セット" />
+	<key id="19091802" name="ミルキーウェイ星色セット" />
+	<key id="19091803" name="クーリングクーリングマリンセット" />
+	<key id="19091804" name="クーリングクーリングマリンセット" />
+	<key id="19091805" name="中世貴族セット" />
+	<key id="19091806" name="中世リボンセット" />
+	<key id="19102301" name="SETITEMNAME_19102301_NAME:[F]Wedding" feature="Wedding" />
+	<key id="19102302" name="SETITEMNAME_19102302_NAME:[F]Wedding" feature="Wedding" />
+	<key id="19102501" name="見習いパティシエのセット" />
+	<key id="19102502" name="見習いパティシエのセット" />
+	<key id="19110701" name="SETITEMNAME_19110701_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19110702" name="SETITEMNAME_19110702_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="19111901" name="ウィンターフェアリーテールセット" />
+	<key id="19111902" name="ウィンターフェアリーテールセット" />
+	<key id="90000001" name="ファンシーゴシックセット" />
+	<key id="90000002" name="ファンシーゴシックセット" />
+	<key id="90000003" name="ダークキャットファンキー制服セット" />
+	<key id="90000004" name="ダークキャットファンキー制服セット" />
+	<key id="90000007" name="ユニコーンチャンピオンセット" />
+	<key id="90000008" name="ユニコーンチャンピオンセット" />
+	<key id="90000017" name="フローズンフェアリーセット" />
+	<key id="90000018" name="フローズンフェアリーセット" />
+	<key id="90000019" name="モダン韓服セット" />
+	<key id="90000020" name="モダン韓服セット" />
+	<key id="90000023" name="バレンタインセット" />
+	<key id="90000024" name="バレンタインセット" />
+	<key id="90000027" name="コットンキャンディセット" />
+	<key id="90000028" name="コットンキャンディセット" />
+	<key id="90000031" name="ハッピーメロディセット" />
+	<key id="90000032" name="ハッピーメロディセット" />
+	<key id="90000039" name="レッドライディングフードセット" />
+	<key id="90000040" name="レッドライディングフードセット" />
+	<key id="90000041" name="ピュアウェディングセット" />
+	<key id="90000042" name="ピュアウェディングセット" />
+	<key id="90000043" name="ハートバニーセット" />
+	<key id="90000044" name="ハートバニーセット" />
+	<key id="90000045" name="シャインスターセット" />
+	<key id="90000046" name="シャインスターセット" />
+	<key id="90000047" name="パンパンピエロセット" />
+	<key id="90000048" name="パンパンピエロセット" />
+	<key id="90000051" name="スイートデザートセット" />
+	<key id="90000052" name="スイートデザートセット" />
+	<key id="90000053" name="アドミラルバタフライセット" />
+	<key id="90000054" name="アドミラルバタフライセット" />
+	<key id="90000055" name="カモメ海賊団セット" />
+	<key id="90000056" name="カモメ海賊団セット" />
+	<key id="90000063" name="青い海セット" />
+	<key id="90000064" name="青い海セット" />
+	<key id="90000067" name="フレッシュサマーセット" />
+	<key id="90000068" name="フレッシュサマーセット" />
+	<key id="90000073" name="イフリートフェアリーセット" />
+	<key id="90000074" name="イフリートフェアリーセット" />
+	<key id="90000089" name="エレガントゴシックセット" />
+	<key id="90000090" name="エレガントゴシックセット" />
+	<key id="90000091" name="パンプキンハロウィンセット" />
+	<key id="90000092" name="パンプキンハロウィンセット" />
+	<key id="90000093" name="ブラッディヴァンパイアセット" />
+	<key id="90000094" name="ブラッディヴァンパイアセット" />
+	<key id="90000101" name="ハッピークリスマスセット" />
+	<key id="90000102" name="ハッピークリスマスセット" />
+	<key id="90000103" name="チューチューセット" />
+	<key id="90000104" name="チューチューセット" />
+	<key id="90000107" name="ドクターハートセット" />
+	<key id="90000108" name="ドクターハートセット" />
+	<key id="90000109" name="ココパピーセット" />
+	<key id="90000110" name="ココパピーセット" />
+	<key id="90000111" name="トウィンクルスターセット" />
+	<key id="90000112" name="トウィンクルスターセット" />
+	<key id="90000115" name="トライア王宮画家セット" />
+	<key id="90000116" name="トライア王宮画家セット" />
+	<key id="90000133" name="ストリートフープセット" />
+	<key id="90000134" name="ストリートフープセット" />
+	<key id="90000209" name="元気いっぱい制服セット" />
+	<key id="90000210" name="元気いっぱい制服セット" />
+	<key id="90000317" name="ロイヤルウィンターセット" />
+	<key id="90000318" name="ロイヤルウィンターセット" />
+	<key id="90000327" name="ワイルドライダーズセット" />
+	<key id="90000328" name="ワイルドライダーズセット" />
+	<key id="90000351" name="優等生制服セット" />
+	<key id="90000352" name="優等生制服セット" />
+	<key id="90000353" name="ウィンターフェアリーテールセット" />
+	<key id="90000354" name="ウィンターフェアリーテールセット" />
+	<key id="90000355" name="オードリーテュテュセット" />
+	<key id="90000356" name="オードリーテュテュセット" />
+	<key id="90000357" name="オリンポスセット" />
+	<key id="90000358" name="オリンポスセット" />
+	<key id="90000359" name="ロマンチックウェディングセット" />
+	<key id="90000360" name="ロマンチックウェディングセット" />
+	<key id="90000361" name="イリュージョニストセット" />
+	<key id="90000362" name="イリュージョニストセット" />
+	<key id="90000367" name="ダンシンググレースセット" />
+	<key id="90000368" name="ダンシンググレースセット" />
+	<key id="90000387" name="グロースターセット" />
+	<key id="90000388" name="グロースターセット" />
+	<key id="90000389" name="明るいアリスセット" />
+	<key id="90000390" name="明るいアリスセット" />
+	<key id="90000391" name="堕落天使セット" />
+	<key id="90000392" name="堕落天使セット" />
+	<key id="90000419" name="フローリアフェアリーセット" />
+	<key id="90000420" name="フローリアフェアリーセット" />
+	<key id="91000353" name="ウィンターフェアリーテールモーション変更" />
+	<key id="91000354" name="ウィンターフェアリーテールモーション変更" />
+	<key id="91000355" name="オードリーテュテュモーション変更" />
+	<key id="91000356" name="オードリーテュテュモーション変更" />
+	<key id="91000357" name="オリンポスモーション変更" />
+	<key id="91000358" name="オリンポスモーション変更" />
+	<key id="91000359" name="ウェディングコンセプトモーション変更" />
+	<key id="91000360" name="ウェディングコンセプトモーション変更" />
+	<key id="91000361" name="イリュージョニストモーション変更" />
+	<key id="91000362" name="イリュージョニストモーション変更" />
+	<key id="91000387" name="グロースターモーション変更" />
+	<key id="91000388" name="グロースターモーション変更" />
+	<key id="91000391" name="堕落天使モーション変更" />
+	<key id="91000392" name="堕落天使モーション変更" />
 </ms2>

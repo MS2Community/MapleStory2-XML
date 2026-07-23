@@ -1,739 +1,738 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="11000001" name="长老" />
-  <key id="11000005" name="图书馆馆长" />
-  <key id="11000007" name="小队长" />
-  <key id="11000012" name="快递师傅" />
-  <key id="11000015" name="警卫队长" />
-  <key id="11000027" name="白色的" />
-  <key id="11000031" name="大魔法师" />
-  <key id="11000038" name="医生" />
-  <key id="11000052" name="村长" />
-  <key id="11000053" name="贪吃鬼" />
-  <key id="11000065" name="市长" />
-  <key id="11000070" name="医生" />
-  <key id="11000071" name="医生" />
-  <key id="11000072" name="医生" />
-  <key id="11000074" name="王室总理" />
-  <key id="11000075" name="女王" />
-  <key id="11000076" name="骑士团团长" />
-  <key id="11000077" name="黑风" />
-  <key id="11000097" name="行脚商人" />
-  <key id="11000117" name="行脚商人" />
-  <key id="11000119" name="近卫队长" />
-  <key id="11000121" name="研究助理" />
-  <key id="11000124" name="药学博士" />
-  <key id="11000125" name="遗传学博士" />
-  <key id="11000128" name="王室挑夫" />
-  <key id="11000129" name="王室挑夫" />
-  <key id="11000136" name="狼人少女" />
-  <key id="11000145" name="时间旅行者" />
-  <key id="11000146" name="时间旅行者" />
-  <key id="11000157" name="近卫队员" />
-  <key id="11000158" name="近卫队员" />
-  <key id="11000159" name="近卫队员" />
-  <key id="11000160" name="向导" />
-  <key id="11000164" name="王室挑夫" />
-  <key id="11000169" name="武器库警卫兵" />
-  <key id="11000170" name="行脚商人" />
-  <key id="11000171" name="考古队长" />
-  <key id="11000172" name="警卫员" />
-  <key id="11000173" name="掮客" />
-  <key id="11000179" name="行脚商人" />
-  <key id="11000180" name="旧货商杂役" />
-  <key id="11000181" name="旧货商杂役" />
-  <key id="11000185" name="中介" />
-  <key id="11000190" name="采药人" />
-  <key id="11000192" name="樵夫" />
-  <key id="11000203" name="樵夫" />
-  <key id="11000207" name="工人" />
-  <key id="11000208" name="黑风" />
-  <key id="11000214" name="身份不详" />
-  <key id="11000215" name="黑风" />
-  <key id="11000216" name="侍卫队" />
-  <key id="11000217" name="管家" />
-  <key id="11000220" name="监督官" />
-  <key id="11000241" name="缆车向导" />
-  <key id="11000242" name="白云咖啡馆店主" />
-  <key id="11000245" name="监督官" />
-  <key id="11000254" name="发型咨询师" />
-  <key id="11000258" name="黑风" />
-  <key id="11000260" name="黑风" />
-  <key id="11000261" name="医生" />
-  <key id="11000264" name="炼金术士" />
-  <key id="11000265" name="魔法学者" />
-  <key id="11000266" name="黑风指挥官" />
-  <key id="11000273" name="医生" />
-  <key id="11000274" name="医生" />
-  <key id="11000275" name="医生" />
-  <key id="11000280" name="近卫队员" />
-  <key id="11000281" name="地质学家" />
-  <key id="11000283" name="算命师" />
-  <key id="11000284" name="妖精" />
-  <key id="11000292" name="行脚商人" />
-  <key id="11000293" name="树精" />
-  <key id="11000298" name="妖精" />
-  <key id="11000299" name="庄稼人" />
-  <key id="11000300" name="行脚商人" />
-  <key id="11000301" name="监工" />
-  <key id="11000302" name="实习祭司长" />
-  <key id="11000303" name="咒术师" />
-  <key id="11000304" name="贪婪魔女" />
-  <key id="11000324" name="情感表达教练" />
-  <key id="11000325" name="宣传职员" />
-  <key id="11000327" name="考古学家" />
-  <key id="11000328" name="古董收藏家" />
-  <key id="11000337" name="白色的" />
-  <key id="11000338" name="面包师" />
-  <key id="11000339" name="门童" />
-  <key id="11000340" name="管家" />
-  <key id="11000341" name="女士" />
-  <key id="11000350" name="行脚商人" />
-  <key id="11000352" name="公园警卫员" />
-  <key id="11000353" name="监工" />
-  <key id="11000358" name="地痞" />
-  <key id="11000362" name="渔夫" />
-  <key id="11000365" name="组织成员" />
-  <key id="11000374" name="猎狼人" />
-  <key id="11000375" name="王室挑夫" />
-  <key id="11000393" name="供水管理员" />
-  <key id="11000394" name="便利店职员" />
-  <key id="11000400" name="管理所所长" />
-  <key id="11000402" name="行脚商人" />
-  <key id="11000403" name="行脚商人" />
-  <key id="11000406" name="明星" />
-  <key id="11000419" name="医生" />
-  <key id="11000433" name="放羊少年" />
-  <key id="11000436" name="医生" />
-  <key id="11000444" name="探险家" />
-  <key id="11000479" name="音乐家" />
-  <key id="11000480" name="采石场监督官" />
-  <key id="11000484" name="行脚商人" />
-  <key id="11000504" name="女士" />
-  <key id="11000514" name="管教所所长" />
-  <key id="11000515" name="商务秘书长" />
-  <key id="11000520" name="管理所所长" />
-  <key id="11000521" name="管教所所长" />
-  <key id="11000524" name="黑风" />
-  <key id="11000534" name="验尸官" />
-  <key id="11000546" name="行脚商人" />
-  <key id="11000547" name="警卫队员" />
-  <key id="11000548" name="警卫队员" />
-  <key id="11000549" name="猎狼人" />
-  <key id="11000551" name="近卫队员" />
-  <key id="11000582" name="医生" />
-  <key id="11000583" name="医生" />
-  <key id="11000584" name="医生" />
-  <key id="11000594" name="研究所所长" />
-  <key id="11000596" name="妖精" />
-  <key id="11000601" name="守护祭司" />
-  <key id="11000602" name="近卫队追踪团" />
-  <key id="11000603" name="近卫队追踪团" />
-  <key id="11000607" name="行脚商人" />
-  <key id="11000608" name="守护祭司" />
-  <key id="11000609" name="行脚商人" />
-  <key id="11000610" name="组织成员" />
-  <key id="11000613" name="鲁米纳军人" />
-  <key id="11000614" name="鲁米纳军人" />
-  <key id="11000615" name="鲁米纳军人" />
-  <key id="11000616" name="鲁米纳军人" />
-  <key id="11000617" name="近卫队员" />
-  <key id="11000631" name="管教员" />
-  <key id="11000632" name="管教员" />
-  <key id="11000633" name="管教员" />
-  <key id="11000658" name="医生" />
-  <key id="11000667" name="掮客" />
-  <key id="11000668" name="掮客" />
-  <key id="11000669" name="掮客" />
-  <key id="11000672" name="警卫队长" />
-  <key id="11000675" name="剑斗士" />
-  <key id="11000677" name="妖精" />
-  <key id="11000701" name="警卫队长" />
-  <key id="11000702" name="近卫队长" />
-  <key id="11000703" name="警卫队员" />
-  <key id="11000712" name="小乌龟" />
-  <key id="11000713" name="乌龟爸爸" />
-  <key id="11000736" name="妖精" />
-  <key id="11000737" name="剑客" />
-  <key id="11000738" name="剑客" />
-  <key id="11000739" name="剑客" />
-  <key id="11000744" name="魔女" />
-  <key id="11000745" name="魔女" />
-  <key id="11000746" name="森林魔女" />
-  <key id="11000762" name="医生" />
-  <key id="11000763" name="明星" />
-  <key id="11000782" name="探险家" />
-  <key id="11000795" name="便利店职员" />
-  <key id="11000806" name="化学家" />
-  <key id="11000813" name="行脚商人" />
-  <key id="11000814" name="行脚商人" />
-  <key id="11000828" name="行脚商人" />
-  <key id="11000829" name="行脚商人" />
-  <key id="11000837" name="守护军" />
-  <key id="11000839" name="鲁米纳军人" />
-  <key id="11000841" name="鲁米纳军人" />
-  <key id="11000842" name="鲁米纳军人" />
-  <key id="11000843" name="研究所所长" />
-  <key id="11000844" name="年幼的" />
-  <key id="11000848" name="工程博士" />
-  <key id="11000862" name="王室总理" />
-  <key id="11000868" name="实习研究员" />
-  <key id="11000869" name="时间工程师" />
-  <key id="11000870" name="研究员" />
-  <key id="11000871" name="研究员" />
-  <key id="11000874" name="乌龟道士" />
-  <key id="11000885" name="玉兔" />
-  <key id="11000892" name="森林妖精" />
-  <key id="11000893" name="光明妖精" />
-  <key id="11000894" name="狂风妖精" />
-  <key id="11000895" name="空中庭院" />
-  <key id="11000898" name="医生" />
-  <key id="11000899" name="医生" />
-  <key id="11000911" name="生命工程博士" />
-  <key id="11000930" name="鸟妈妈" />
-  <key id="11000931" name="狼" />
-  <key id="11000947" name="医生" />
-  <key id="11000948" name="医生" />
-  <key id="11000949" name="医生" />
-  <key id="11000950" name="医生" />
-  <key id="11000958" name="农夫" />
-  <key id="11000959" name="侦查队员" />
-  <key id="11000961" name="警卫队员" />
-  <key id="11000962" name="警卫队员" />
-  <key id="11000963" name="行脚商人" />
-  <key id="11000972" name="警卫队员" />
-  <key id="11000974" name="烹饪研究家" />
-  <key id="11000975" name="农夫" />
-  <key id="11000976" name="武林高手" />
-  <key id="11000977" name="祭司长" />
-  <key id="11000980" name="行脚商人" />
-  <key id="11000984" name="魔法师" />
-  <key id="11000985" name="工程博士" />
-  <key id="11000987" name="监督官" />
-  <key id="11001002" name="活动向导" />
-  <key id="11001002" name="活动向导" locale="CN" feature="Season1" />
-  <key id="11001003" name="活动向导" />
-  <key id="11001010" name="实习职员" />
-  <key id="11001016" name="安德森王国君主" />
-  <key id="11001028" name="研究所所长" />
-  <key id="11001031" name="研究实习生" />
-  <key id="11001032" name="中心负责人" />
-  <key id="11001040" name="考察队队员" />
-  <key id="11001041" name="预言家" />
-  <key id="11001043" name="保安" />
-  <key id="11001046" name="咒术师" />
-  <key id="11001047" name="监督官" />
-  <key id="11001057" name="时间工程师" />
-  <key id="11001062" name="混沌玛瑙收藏家" />
-  <key id="11001068" name="保镖" />
-  <key id="11001078" name="贪吃鬼" />
-  <key id="11001079" name="罪犯" />
-  <key id="11001080" name="侦查队长" />
-  <key id="11001084" name="侦查队员" />
-  <key id="11001087" name="医生" />
-  <key id="11001088" name="医生" />
-  <key id="11001089" name="医生" />
-  <key id="11001090" name="医生" />
-  <key id="11001091" name="医生" />
-  <key id="11001097" name="工程师" />
-  <key id="11001099" name="警卫队长" />
-  <key id="11001101" name="医生" />
-  <key id="11001110" name="鲁米纳军人" />
-  <key id="11001117" name="森林妖精" />
-  <key id="11001118" name="兔女郎" />
-  <key id="11001119" name="兔女郎" />
-  <key id="11001123" name="快递师傅" />
-  <key id="11001125" name="机器人" />
-  <key id="11001129" name="工人" />
-  <key id="11001130" name="采药人" />
-  <key id="11001131" name="考察队队员" />
-  <key id="11001132" name="难民" />
-  <key id="11001133" name="行脚商人" />
-  <key id="11001138" name="难民" />
-  <key id="11001139" name="皮革工匠" />
-  <key id="11001140" name="工人" />
-  <key id="11001141" name="营地管理员" />
-  <key id="11001143" name="考古学家" />
-  <key id="11001144" name="胆小鬼" />
-  <key id="11001146" name="妈妈的" />
-  <key id="11001147" name="妈妈的" />
-  <key id="11001148" name="武器收藏家" />
-  <key id="11001176" name="首席设计师" />
-  <key id="11001177" name="警卫队员" />
-  <key id="11001178" name="农场主" />
-  <key id="11001191" name="PD" />
-  <key id="11001192" name="老幺编剧" />
-  <key id="11001193" name="灯光指导" />
-  <key id="11001194" name="拍摄工作人员" />
-  <key id="11001195" name="造型师" />
-  <key id="11001196" name="后勤组" />
-  <key id="11001210" name="探索者" />
-  <key id="11001211" name="铁匠" />
-  <key id="11001214" name="村长" />
-  <key id="11001230" name="代理团长" />
-  <key id="11001234" name="侦察兵" />
-  <key id="11001238" name="魔女" />
-  <key id="11001248" name="代理团长" />
-  <key id="11001249" name="侦察兵" />
-  <key id="11001261" name="遗物复原家" />
-  <key id="11001262" name="信息中介" />
-  <key id="11001266" name="影刃会" />
-  <key id="11001268" name="影刃会" />
-  <key id="11001275" name="助手" />
-  <key id="11001276" name="发明家" />
-  <key id="11001277" name="遗物复原家" />
-  <key id="11001278" name="追击队员" />
-  <key id="11001282" name="影刃会" />
-  <key id="11001299" name="骑士团团长" />
-  <key id="11001300" name="骑士团团长" />
-  <key id="11001301" name="女王" />
-  <key id="11001302" name="女王" />
-  <key id="11001303" name="守护祭司" />
-  <key id="11001304" name="大魔法师" />
-  <key id="11001305" name="长老" />
-  <key id="11001308" name="古董收集商" />
-  <key id="11001309" name="警察" />
-  <key id="11001310" name="近卫队员" />
-  <key id="11001311" name="近卫队员" />
-  <key id="11001312" name="近卫队员" />
-  <key id="11001314" name="萌茸茸部族族长" />
-  <key id="11001315" name="萌茸茸部族" />
-  <key id="11001316" name="神女" />
-  <key id="11001317" name="神女" />
-  <key id="11001324" name="医生" />
-  <key id="11001341" name="齐尔克斯职员" />
-  <key id="11001342" name="W.H.A员工" />
-  <key id="11001343" name="护卫" />
-  <key id="11001344" name="管教员" />
-  <key id="11001345" name="管教所所长" />
-  <key id="11001349" name="经理" />
-  <key id="11001355" name="侦查队员" />
-  <key id="11001356" name="兔女郎" />
-  <key id="11001370" name="单轨车机长" />
-  <key id="11001374" name="执行秘书" />
-  <key id="11001375" name="售货员" />
-  <key id="11001376" name="拍摄导演" />
-  <key id="11001377" name="经纪人" />
-  <key id="11001378" name="格斗选手" />
-  <key id="11001379" name="保安职员" />
-  <key id="11001381" name="委员长" />
-  <key id="11001382" name="黑星会要员" />
-  <key id="11001386" name="村庄长老" />
-  <key id="11001387" name="村民" />
-  <key id="11001388" name="村民" />
-  <key id="11001389" name="村民" />
-  <key id="11001390" name="村民" />
-  <key id="11001391" name="患者" />
-  <key id="11001392" name="患者" />
-  <key id="11001393" name="坠入爱河的乞丐" />
-  <key id="11001396" name="天才少女" />
-  <key id="11001397" name="萌茸茸部族" />
-  <key id="11001399" name="侦查队24组族长" />
-  <key id="11001400" name="工人" />
-  <key id="11001401" name="工人" />
-  <key id="11001406" name="搜索队队长" />
-  <key id="11001407" name="幽灵" />
-  <key id="11001408" name="侦查队长" />
-  <key id="11001409" name="训练队队长" />
-  <key id="11001410" name="秘书" />
-  <key id="11001411" name="秘书" />
-  <key id="11001412" name="患者" />
-  <key id="11001430" name="来自星星的" />
-  <key id="11001431" name="黄昏狐" />
-  <key id="11001433" name="少年" />
-  <key id="11001434" name="考古学家" />
-  <key id="11001443" name="医生" />
-  <key id="11001448" name="女王" />
-  <key id="11001458" name="黑星会成员" />
-  <key id="11001473" name="考古学家" />
-  <key id="11001474" name="考古学家" />
-  <key id="11001478" name="女王" />
-  <key id="11001483" name="胆小鬼" />
-  <key id="11001484" name="活动向导" />
-  <key id="11001485" name="咒术师" />
-  <key id="11001490" name="女王" />
-  <key id="11001502" name="贪吃鬼" />
-  <key id="11001520" name="星光远征队" />
-  <key id="11001521" name="星光远征队" />
-  <key id="11001522" name="星光远征队" />
-  <key id="11001547" name="斗神" />
-  <key id="11001556" name="大师" />
-  <key id="11001557" name="大弟子" />
-  <key id="11001619" name="事务长" />
-  <key id="11001620" name="事务长" />
-  <key id="11001622" name="斗神" />
-  <key id="11001625" name="斗神" />
-  <key id="11001626" name="比赛负责人" />
-  <key id="11001628" name="事务长" />
-  <key id="11001630" name="斗神" />
-  <key id="11001657" name="大弟子" />
-  <key id="11001659" name="大弟子" />
-  <key id="11001661" name="大师" />
-  <key id="11001663" name="女王" />
-  <key id="11001665" name="王室总理" />
-  <key id="11001666" name="近卫队长" />
-  <key id="11001668" name="主治医生" />
-  <key id="11001669" name="兔女郎" />
-  <key id="11001670" name="兔女郎" />
-  <key id="11001671" name="大弟子" />
-  <key id="11001672" name="大弟子" />
-  <key id="11001690" name="事务长" />
-  <key id="11001696" name="调酒师" />
-  <key id="11001697" name="经纪人" />
-  <key id="11001700" name="近卫队员" />
-  <key id="11001715" name="大弟子" />
-  <key id="11001716" name="大弟子" />
-  <key id="11001717" name="大弟子" />
-  <key id="11001718" name="大弟子" />
-  <key id="11001719" name="大弟子" />
-  <key id="11001720" name="大弟子" />
-  <key id="11001721" name="大弟子" />
-  <key id="11001722" name="大弟子" />
-  <key id="11001742" name="大弟子" />
-  <key id="11001762" name="大弟子" />
-  <key id="11001763" name="大弟子" />
-  <key id="11001771" name="大弟子" />
-  <key id="11001772" name="大弟子" />
-  <key id="11001773" name="大弟子" />
-  <key id="11001774" name="大弟子" />
-  <key id="11001790" name="大弟子" />
-  <key id="11001791" name="大弟子" />
-  <key id="11001792" name="大弟子" />
-  <key id="11001806" name="大弟子" />
-  <key id="11001836" name="PD" />
-  <key id="11001838" name="实习近卫队员" />
-  <key id="11001839" name="实习近卫队员" />
-  <key id="11001840" name="实习近卫队员" />
-  <key id="11001841" name="实习近卫队员" />
-  <key id="11001842" name="近卫兵" />
-  <key id="11001843" name="伤兵" />
-  <key id="11001861" name="钓手" />
-  <key id="11001862" name="钓手" />
-  <key id="11001863" name="钓手" />
-  <key id="11001865" name="乐器商人" />
-  <key id="11001867" name="工匠" />
-  <key id="11001868" name="工匠" />
-  <key id="11001869" name="工匠" />
-  <key id="11001870" name="奈尔曼公会长" />
-  <key id="11001872" name="发明家" />
-  <key id="11001873" name="发明家" />
-  <key id="11001874" name="助手" />
-  <key id="11001876" name="首席管家" />
-  <key id="11001877" name="农场主" />
-  <key id="11001878" name="烟花男子" />
-  <key id="11001888" name="PD" />
-  <key id="11001889" name="警卫队长" />
-  <key id="11001901" name="骑士团团长" />
-  <key id="11001967" name="实习近卫队员" />
-  <key id="11002000" name="主治医生" />
-  <key id="11002002" name="主治医生" />
-  <key id="11002003" name="主治医生" />
-  <key id="11002004" name="主治医生" />
-  <key id="11002005" name="主治医生" />
-  <key id="11002006" name="主治医生" />
-  <key id="11002007" name="主治医生" />
-  <key id="11002008" name="主治医生" />
-  <key id="11002009" name="主治医生" />
-  <key id="11002010" name="主治医生" />
-  <key id="11002011" name="主治医生" />
-  <key id="11002012" name="主治医生" />
-  <key id="11002013" name="主治医生" />
-  <key id="11002014" name="主治医生" />
-  <key id="11002015" name="主治医生" />
-  <key id="11002016" name="主治医生" />
-  <key id="11002020" name="便利店职员" />
-  <key id="11002035" name="便利店职员" />
-  <key id="11002036" name="便利店职员" />
-  <key id="11002037" name="便利店职员" />
-  <key id="11002038" name="便利店职员" />
-  <key id="11002040" name="主治医生" />
-  <key id="11002041" name="主治医生" />
-  <key id="11002042" name="主治医生" />
-  <key id="11002043" name="主治医生" />
-  <key id="11002044" name="主治医生" />
-  <key id="11002045" name="主治医生" />
-  <key id="11002046" name="主治医生" />
-  <key id="11002047" name="主治医生" />
-  <key id="11002048" name="主治医生" />
-  <key id="11002049" name="主治医生" />
-  <key id="11003054" name="骑士团团长" />
-  <key id="11003059" name="补给队员" />
-  <key id="11003063" name="采药人" />
-  <key id="11003069" name="雪之女王" />
-  <key id="11003074" name="雪之女王" />
-  <key id="11003075" name="霜王" />
-  <key id="11003079" name="公会事务长" />
-  <key id="11003080" name="探险家" />
-  <key id="11003092" name="演奏申请助手" />
-  <key id="11003093" name="骑士团团长" />
-  <key id="11003094" name="黑风队长" />
-  <key id="11003095" name="警卫队长" />
-  <key id="11003096" name="骑士团团长" />
-  <key id="11003121" name="近卫队长" />
-  <key id="11003122" name="警卫队长" />
-  <key id="11003126" name="游乐园帮手" />
-  <key id="11003127" name="秘密骑士团" />
-  <key id="11003139" name="活动向导" />
-  <key id="11003142" name="来自星星的" />
-  <key id="11003143" name="炼金术士" />
-  <key id="11003150" name="图书馆馆长" />
-  <key id="11003151" name="近卫队长" />
-  <key id="11003163" name="王室管理员" />
-  <key id="11003164" name="实习近卫队员" />
-  <key id="11003165" name="近卫队长" />
-  <key id="11003166" name="实习近卫队员" />
-  <key id="11003169" name="实习近卫队员" />
-  <key id="11003170" name="实习近卫队员" />
-  <key id="11003172" name="实习近卫队员" />
-  <key id="11003173" name="黑风司令官" />
-  <key id="11003178" name="实习近卫队员" />
-  <key id="11003186" name="实习近卫队员" />
-  <key id="11003187" name="掮客" />
-  <key id="11003188" name="实习近卫队员" />
-  <key id="11003193" name="信息中介" />
-  <key id="11003194" name="掮客" />
-  <key id="11003195" name="黑风队长" />
-  <key id="11003196" name="黑风队长" />
-  <key id="11003198" name="实习近卫队员" />
-  <key id="11003199" name="实习近卫队员" />
-  <key id="11003200" name="黑风队长" />
-  <key id="11003201" name="黑风队长" />
-  <key id="11003202" name="实习近卫队员" />
-  <key id="11003203" name="实习近卫队员" />
-  <key id="11003218" name="实习近卫队员" />
-  <key id="11003220" name="实习近卫队员" />
-  <key id="11003221" name="长老" />
-  <key id="11003222" name="警卫队长" />
-  <key id="11003238" name="警卫队长" />
-  <key id="11003239" name="长老" />
-  <key id="11003241" name="掮客" />
-  <key id="11003243" name="警卫队员" />
-  <key id="11003245" name="警卫队长" />
-  <key id="11003246" name="近卫队长" />
-  <key id="11003247" name="实习近卫队员" />
-  <key id="11003250" name="大魔法师" />
-  <key id="11003264" name="图书馆馆长" />
-  <key id="11003266" name="近卫队员" />
-  <key id="11003267" name="骑士团团长" />
-  <key id="11003268" name="炼金术士" />
-  <key id="11003269" name="小队长" />
-  <key id="11003270" name="黑风指挥官" />
-  <key id="11003274" name="管教所所长" />
-  <key id="11003281" name="大魔法师" />
-  <key id="11003283" name="大魔法师" />
-  <key id="11003284" name="大魔法师" />
-  <key id="11003306" name="大魔法师" />
-  <key id="11003307" name="长老" />
-  <key id="11003308" name="长老" />
-  <key id="11003309" name="警卫队长" />
-  <key id="11003314" name="大魔法师" />
-  <key id="11003319" name="警卫队长" />
-  <key id="11003320" name="骑士" />
-  <key id="11003328" name="骑士团团长" />
-  <key id="11003330" name="守护祭司" />
-  <key id="11003331" name="守护祭司" />
-  <key id="11003334" name="掮客" />
-  <key id="11003361" name="长老" />
-  <key id="11003432" name="图书馆馆长" />
-  <key id="11003435" name="大魔法师" />
-  <key id="11003437" name="图书馆馆长" />
-  <key id="11003538" name="研究员" />
-  <key id="11003539" name="研究员" />
-  <key id="11003540" name="研究员" />
-  <key id="11003541" name="研究员" />
-  <key id="11003542" name="研究员" />
-  <key id="11003590" name="近卫队员" />
-  <key id="11003591" name="王室管理员" />
-  <key id="11003592" name="近卫队员" />
-  <key id="11003594" name="行脚商人" />
-  <key id="11003599" name="公主" />
-  <key id="11003600" name="雾霭骑士" />
-  <key id="11003602" name="冒失鬼" />
-  <key id="11003603" name="时钟恶魔" />
-  <key id="11003604" name="时钟恶魔" />
-  <key id="11003605" name="时钟恶魔" />
-  <key id="11003610" name="时钟恶魔" />
-  <key id="11003611" name="雾霭骑士" />
-  <key id="11003612" name="雾霭骑士" />
-  <key id="11003613" name="公主" />
-  <key id="11003614" name="公主" />
-  <key id="11003615" name="木偶" />
-  <key id="11003616" name="雾霭骑士" />
-  <key id="11003617" name="雾霭骑士" />
-  <key id="11003618" name="雾霭骑士" />
-  <key id="11003620" name="梦幻的人偶术士" />
-  <key id="11003621" name="梦幻的人偶术士" />
-  <key id="11003623" name="公主" />
-  <key id="11003624" name="木偶" />
-  <key id="11003625" name="雾霭骑士" />
-  <key id="11003651" name="近卫队员" />
-  <key id="11003652" name="炼金术士" />
-  <key id="11003653" name="近卫队员" />
-  <key id="11003654" name="研究员" />
-  <key id="11003655" name="研究员" />
-  <key id="11003656" name="研究员" />
-  <key id="11003657" name="研究员" />
-  <key id="11003670" name="研究员" />
-  <key id="11003674" name="公主" />
-  <key id="11003675" name="守护骑士" />
-  <key id="11003676" name="研究员" />
-  <key id="11003677" name="研究员" />
-  <key id="11003712" name="雾霭骑士" />
-  <key id="11003713" name="木偶" />
-  <key id="11003714" name="木偶" />
-  <key id="11003715" name="木偶" />
-  <key id="11003717" name="程序器" />
-  <key id="11003723" name="王室管理员" />
-  <key id="11003724" name="近卫队员" />
-  <key id="11003726" name="行脚商人" />
-  <key id="11003738" name="研究员" />
-  <key id="11003743" name="黑星清道夫队长" />
-  <key id="11003744" name="黑星清道夫工作班长" />
-  <key id="11003750" name="研究员" />
-  <key id="11003760" name="公主" />
-  <key id="11003775" />
-  <key id="11003796" name="研究员" />
-  <key id="11003803" name="行脚商人" />
-  <key id="11003804" name="行脚商人" />
-  <key id="11003805" name="行脚商人" />
-  <key id="11003806" name="行脚商人" />
-  <key id="11003807" name="行脚商人" />
-  <key id="11003809" name="医生" />
-  <key id="11003810" name="魔女" />
-  <key id="11003811" name="骑士团团长" />
-  <key id="11003870" name="贝尔格岛管理员" />
-  <key id="11003871" name="矿工" />
-  <key id="11003872" name="矿工" />
-  <key id="11003873" name="矿工" />
-  <key id="11003876" name="航海士" />
-  <key id="11003877" name="航海士" />
-  <key id="11003878" name="阿基米花园管理员" />
-  <key id="11003879" name="园艺师" />
-  <key id="11003882" name="警卫兵" />
-  <key id="11004069" name="NPCTITLE_11004069_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004079" name="NPCTITLE_11004079_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004083" name="NPCTITLE_11004083_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004099" name="坠入爱河的" />
-  <key id="11004100" name="坠入爱河的" />
-  <key id="11004101" name="可爱的" />
-  <key id="11004102" name="可爱的" />
-  <key id="11004104" name="幸福的" />
-  <key id="11004105" name="幸福的" />
-  <key id="11004223" name="NPCTITLE_11004223_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="11004224" name="NPCTITLE_11004224_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="11004225" name="NPCTITLE_11004225_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="11004230" />
-  <key id="11004252" name="NPCTITLE_11004252_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004253" name="NPCTITLE_11004253_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004258" name="NPCTITLE_11004258_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004265" name="NPCTITLE_11004265_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004266" name="NPCTITLE_11004266_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004267" name="NPCTITLE_11004267_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004270" name="NPCTITLE_11004270_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004274" name="NPCTITLE_11004274_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004289" name="女士" feature="Season1" />
-  <key id="11004290" name="管家" feature="Season1" />
-  <key id="11004291" name="门童" feature="Season1" />
-  <key id="11004292" name="门童" feature="Season1" />
-  <key id="11004293" name="小幽灵" feature="Season1" />
-  <key id="11004294" name="小幽灵" feature="Season1" />
-  <key id="11004295" name="小幽灵" feature="Season1" />
-  <key id="11004305" name="女士" feature="Season1" />
-  <key id="11004308" name="小幽灵" feature="Season1" />
-  <key id="11004310" name="小幽灵" feature="Season1" />
-  <key id="11004311" name="小幽灵" feature="Season1" />
-  <key id="11004318" name="医生" feature="Season1" />
-  <key id="11004386" name="副官" feature="Kritias_Epic01" />
-  <key id="11004387" name="猎人" feature="Kritias_Epic01" />
-  <key id="11004388" name="格奥克侦察兵" feature="Kritias_Epic01" />
-  <key id="11004390" name="女王" feature="Kritias_Epic01" />
-  <key id="11004391" name="格奥克猎人" feature="Kritias_Epic01" />
-  <key id="11004393" name="格奥克搜索队" feature="Kritias_Epic01" />
-  <key id="11004394" name="格奥克侦察兵" feature="Kritias_Epic01" />
-  <key id="11004396" name="副官" feature="Kritias_Epic01" />
-  <key id="11004397" name="格奥克军官" feature="Kritias_Epic01" />
-  <key id="11004398" name="格奥克工作人员" feature="Kritias_Epic01" />
-  <key id="11004399" name="格奥克工作人员" feature="Kritias_Epic01" />
-  <key id="11004433" name="格奥克工作人员" feature="Kritias_Epic01" />
-  <key id="11004441" name="考古学家" feature="TreasureMap01" />
-  <key id="11004451" name="医生" feature="Kritias_2018_12" />
-  <key id="11004457" name="乘务员" feature="Kritias_2018_12" />
-  <key id="11004458" name="乘务员" feature="Kritias_2018_12" />
-  <key id="11004459" name="乘务员" feature="Kritias_2018_12" />
-  <key id="11004479" name="考察队员" feature="Kritias_2018_12" />
-  <key id="11004480" name="考察队员" feature="Kritias_2018_12" />
-  <key id="11004481" name="考察队员" feature="Kritias_2018_12" />
-  <key id="11004482" name="考察队员" feature="Kritias_2018_12" />
-  <key id="11004483" name="考察队员" feature="Kritias_2018_12" />
-  <key id="11004484" name="考察队员" feature="Kritias_2018_12" />
-  <key id="11004485" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004486" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004487" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004488" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004489" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004490" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004491" name="研究员" feature="Kritias_2018_12" />
-  <key id="11004492" name="植物学者" feature="Kritias_2018_12" />
-  <key id="11004493" name="生物学者" feature="Kritias_2018_12" />
-  <key id="11004494" name="地质学者" feature="Kritias_2018_12" />
-  <key id="11004495" name="物理学者" feature="Kritias_2018_12" />
-  <key id="11004496" name="鱼类学者" feature="Kritias_2018_12" />
-  <key id="11004497" name="鱼类学者" feature="Kritias_2018_12" />
-  <key id="11004498" name="文学家" feature="Kritias_2018_12" />
-  <key id="11004499" name="建筑学者" feature="Kritias_2018_12" />
-  <key id="11004527" name="生态研究员" feature="Kritias_2018_12" />
-  <key id="11004528" name="生态研究员" feature="Kritias_2018_12" />
-  <key id="11004529" name="生态研究员" feature="Kritias_2018_12" />
-  <key id="11004530" name="绿披风工作员" feature="Kritias_2018_12" />
-  <key id="11004541" name="天空堡垒研究组" feature="Kritias_2018_12" />
-  <key id="11004542" name="天空堡垒研究组" feature="Kritias_2018_12" />
-  <key id="11004543" name="天空堡垒研究组" feature="Kritias_2018_12" />
-  <key id="11004552" name="活动向导" />
-  <key id="11004557" name="品克品克" />
-  <key id="11004574" name="难民首领" feature="Kritias_Epic02" />
-  <key id="11004576" name="情报贩子" feature="Kritias_Epic02" />
-  <key id="11004618" name="凯勒贝斯团长" />
-  <key id="11004619" name="凯勒贝斯团长副官" />
-  <key id="11004662" name="黑星会干部直属" />
-  <key id="11004663" name="时间旅行者" feature="Event" />
-  <key id="11004666" name="大弟子" feature="Event" />
-  <key id="11004668" name="考古学家" feature="Event" />
-  <key id="11004669" name="少年" feature="Event" />
-  <key id="11004672" name="来自星星的" feature="Event" />
-  <key id="11004673" name="黄昏狐" feature="Event" />
-  <key id="11004685" name="门童" feature="Event" />
-  <key id="11004688" name="向导" feature="BlackOnyx" />
-  <key id="11004689" name="向导" feature="BlackOnyx" />
-  <key id="11004690" name="交易商" feature="BlackOnyx" />
-  <key id="11004694" name="黑商" feature="BlackOnyx" />
-  <key id="11004695" name="行脚商人" locale="CN" feature="Event" />
-  <key id="11004696" name="商人" feature="BlackOnyx" />
-  <key id="11004697" name="服务员" feature="BlackOnyx" />
-  <key id="11004698" name="夫人" feature="BlackOnyx" />
-  <key id="11004700" name="度假村业务派遣员" feature="BlackOnyx" />
-  <key id="11004701" name="古代遗迹研究员" feature="BlackOnyx" />
-  <key id="11004702" name="卡尔卡尔企业家" feature="BlackOnyx" />
-  <key id="11004703" name="古代能量研究员" feature="BlackOnyx" />
-  <key id="11004718" name="明星" />
-  <key id="11004720" name="近卫队警卫兵" feature="Event" />
-  <key id="11004726" name="电视节目编剧" feature="Event" />
-  <key id="11004729" name="NPCTITLE_11004729_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004730" name="NPCTITLE_11004730_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004731" name="NPCTITLE_11004731_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004732" name="NPCTITLE_11004732_NAME:[F]GlobalNpc" feature="GlobalNpc" />
-  <key id="11004778" name="王室总理" feature="EpicApocalypse01" />
-  <key id="11004779" name="王室总理" feature="EpicApocalypse01" />
-  <key id="11004780" name="王室总理" feature="EpicApocalypse01" />
-  <key id="11004781" name="王室总理" feature="EpicApocalypse01" />
-  <key id="11004782" name="守护祭司" feature="EpicApocalypse01" />
-  <key id="11004783" name="守护祭司" feature="EpicApocalypse01" />
-  <key id="11004784" name="守护祭司" feature="EpicApocalypse01" />
-  <key id="11004785" name="女王" feature="EpicApocalypse01" />
-  <key id="11004786" name="女王" feature="EpicApocalypse01" />
-  <key id="11200000" name="医生" />
-  <key id="11200005" name="公会事务长" />
-  <key id="21450004" name="黑星会干部直属" />
-  <key id="21450005" name="黑星会干部直属" />
-  <key id="21450006" name="黑星会干部直属" />
+	<key id="11000001" name="长老" />
+	<key id="11000005" name="图书馆馆长" />
+	<key id="11000007" name="小队长" />
+	<key id="11000012" name="快递师傅" />
+	<key id="11000015" name="警卫队长" />
+	<key id="11000027" name="白色的" />
+	<key id="11000031" name="大魔法师" />
+	<key id="11000038" name="医生" />
+	<key id="11000052" name="村长" />
+	<key id="11000053" name="贪吃鬼" />
+	<key id="11000065" name="市长" />
+	<key id="11000070" name="医生" />
+	<key id="11000071" name="医生" />
+	<key id="11000072" name="医生" />
+	<key id="11000074" name="王室总理" />
+	<key id="11000075" name="女王" />
+	<key id="11000076" name="骑士团团长" />
+	<key id="11000077" name="黑风" />
+	<key id="11000097" name="行脚商人" />
+	<key id="11000117" name="行脚商人" />
+	<key id="11000119" name="近卫队长" />
+	<key id="11000121" name="研究助理" />
+	<key id="11000124" name="药学博士" />
+	<key id="11000125" name="遗传学博士" />
+	<key id="11000128" name="王室挑夫" />
+	<key id="11000129" name="王室挑夫" />
+	<key id="11000136" name="狼人少女" />
+	<key id="11000145" name="时间旅行者" />
+	<key id="11000146" name="时间旅行者" />
+	<key id="11000157" name="近卫队员" />
+	<key id="11000158" name="近卫队员" />
+	<key id="11000159" name="近卫队员" />
+	<key id="11000160" name="向导" />
+	<key id="11000164" name="王室挑夫" />
+	<key id="11000169" name="武器库警卫兵" />
+	<key id="11000170" name="行脚商人" />
+	<key id="11000171" name="考古队长" />
+	<key id="11000172" name="警卫员" />
+	<key id="11000173" name="掮客" />
+	<key id="11000179" name="行脚商人" />
+	<key id="11000180" name="旧货商杂役" />
+	<key id="11000181" name="旧货商杂役" />
+	<key id="11000185" name="中介" />
+	<key id="11000190" name="采药人" />
+	<key id="11000192" name="樵夫" />
+	<key id="11000203" name="樵夫" />
+	<key id="11000207" name="工人" />
+	<key id="11000208" name="黑风" />
+	<key id="11000214" name="身份不详" />
+	<key id="11000215" name="黑风" />
+	<key id="11000216" name="侍卫队" />
+	<key id="11000217" name="管家" />
+	<key id="11000220" name="监督官" />
+	<key id="11000241" name="缆车向导" />
+	<key id="11000242" name="白云咖啡馆店主" />
+	<key id="11000245" name="监督官" />
+	<key id="11000254" name="发型咨询师" />
+	<key id="11000258" name="黑风" />
+	<key id="11000260" name="黑风" />
+	<key id="11000261" name="医生" />
+	<key id="11000264" name="炼金术士" />
+	<key id="11000265" name="魔法学者" />
+	<key id="11000266" name="黑风指挥官" />
+	<key id="11000273" name="医生" />
+	<key id="11000274" name="医生" />
+	<key id="11000275" name="医生" />
+	<key id="11000280" name="近卫队员" />
+	<key id="11000281" name="地质学家" />
+	<key id="11000283" name="算命师" />
+	<key id="11000284" name="妖精" />
+	<key id="11000292" name="行脚商人" />
+	<key id="11000293" name="树精" />
+	<key id="11000298" name="妖精" />
+	<key id="11000299" name="庄稼人" />
+	<key id="11000300" name="行脚商人" />
+	<key id="11000301" name="监工" />
+	<key id="11000302" name="实习祭司长" />
+	<key id="11000303" name="咒术师" />
+	<key id="11000304" name="贪婪魔女" />
+	<key id="11000324" name="情感表达教练" />
+	<key id="11000325" name="宣传职员" />
+	<key id="11000327" name="考古学家" />
+	<key id="11000328" name="古董收藏家" />
+	<key id="11000337" name="白色的" />
+	<key id="11000338" name="面包师" />
+	<key id="11000339" name="门童" />
+	<key id="11000340" name="管家" />
+	<key id="11000341" name="女士" />
+	<key id="11000350" name="行脚商人" />
+	<key id="11000352" name="公园警卫员" />
+	<key id="11000353" name="监工" />
+	<key id="11000358" name="地痞" />
+	<key id="11000362" name="渔夫" />
+	<key id="11000365" name="组织成员" />
+	<key id="11000374" name="猎狼人" />
+	<key id="11000375" name="王室挑夫" />
+	<key id="11000393" name="供水管理员" />
+	<key id="11000394" name="便利店职员" />
+	<key id="11000400" name="管理所所长" />
+	<key id="11000402" name="行脚商人" />
+	<key id="11000403" name="行脚商人" />
+	<key id="11000406" name="明星" />
+	<key id="11000419" name="医生" />
+	<key id="11000433" name="放羊少年" />
+	<key id="11000436" name="医生" />
+	<key id="11000444" name="探险家" />
+	<key id="11000479" name="音乐家" />
+	<key id="11000480" name="采石场监督官" />
+	<key id="11000484" name="行脚商人" />
+	<key id="11000504" name="女士" />
+	<key id="11000514" name="管教所所长" />
+	<key id="11000515" name="商务秘书长" />
+	<key id="11000520" name="管理所所长" />
+	<key id="11000521" name="管教所所长" />
+	<key id="11000524" name="黑风" />
+	<key id="11000534" name="验尸官" />
+	<key id="11000546" name="行脚商人" />
+	<key id="11000547" name="警卫队员" />
+	<key id="11000548" name="警卫队员" />
+	<key id="11000549" name="猎狼人" />
+	<key id="11000551" name="近卫队员" />
+	<key id="11000582" name="医生" />
+	<key id="11000583" name="医生" />
+	<key id="11000584" name="医生" />
+	<key id="11000594" name="研究所所长" />
+	<key id="11000596" name="妖精" />
+	<key id="11000601" name="守护祭司" />
+	<key id="11000602" name="近卫队追踪团" />
+	<key id="11000603" name="近卫队追踪团" />
+	<key id="11000607" name="行脚商人" />
+	<key id="11000608" name="守护祭司" />
+	<key id="11000609" name="行脚商人" />
+	<key id="11000610" name="组织成员" />
+	<key id="11000613" name="鲁米纳军人" />
+	<key id="11000614" name="鲁米纳军人" />
+	<key id="11000615" name="鲁米纳军人" />
+	<key id="11000616" name="鲁米纳军人" />
+	<key id="11000617" name="近卫队员" />
+	<key id="11000631" name="管教员" />
+	<key id="11000632" name="管教员" />
+	<key id="11000633" name="管教员" />
+	<key id="11000658" name="医生" />
+	<key id="11000667" name="掮客" />
+	<key id="11000668" name="掮客" />
+	<key id="11000669" name="掮客" />
+	<key id="11000672" name="警卫队长" />
+	<key id="11000675" name="剑斗士" />
+	<key id="11000677" name="妖精" />
+	<key id="11000701" name="警卫队长" />
+	<key id="11000702" name="近卫队长" />
+	<key id="11000703" name="警卫队员" />
+	<key id="11000712" name="小乌龟" />
+	<key id="11000713" name="乌龟爸爸" />
+	<key id="11000736" name="妖精" />
+	<key id="11000737" name="剑客" />
+	<key id="11000738" name="剑客" />
+	<key id="11000739" name="剑客" />
+	<key id="11000744" name="魔女" />
+	<key id="11000745" name="魔女" />
+	<key id="11000746" name="森林魔女" />
+	<key id="11000762" name="医生" />
+	<key id="11000763" name="明星" />
+	<key id="11000782" name="探险家" />
+	<key id="11000795" name="便利店职员" />
+	<key id="11000806" name="化学家" />
+	<key id="11000813" name="行脚商人" />
+	<key id="11000814" name="行脚商人" />
+	<key id="11000828" name="行脚商人" />
+	<key id="11000829" name="行脚商人" />
+	<key id="11000837" name="守护军" />
+	<key id="11000839" name="鲁米纳军人" />
+	<key id="11000841" name="鲁米纳军人" />
+	<key id="11000842" name="鲁米纳军人" />
+	<key id="11000843" name="研究所所长" />
+	<key id="11000844" name="年幼的" />
+	<key id="11000848" name="工程博士" />
+	<key id="11000862" name="王室总理" />
+	<key id="11000868" name="实习研究员" />
+	<key id="11000869" name="时间工程师" />
+	<key id="11000870" name="研究员" />
+	<key id="11000871" name="研究员" />
+	<key id="11000874" name="乌龟道士" />
+	<key id="11000885" name="玉兔" />
+	<key id="11000892" name="森林妖精" />
+	<key id="11000893" name="光明妖精" />
+	<key id="11000894" name="狂风妖精" />
+	<key id="11000895" name="空中庭院" />
+	<key id="11000898" name="医生" />
+	<key id="11000899" name="医生" />
+	<key id="11000911" name="生命工程博士" />
+	<key id="11000930" name="鸟妈妈" />
+	<key id="11000931" name="狼" />
+	<key id="11000947" name="医生" />
+	<key id="11000948" name="医生" />
+	<key id="11000949" name="医生" />
+	<key id="11000950" name="医生" />
+	<key id="11000958" name="农夫" />
+	<key id="11000959" name="侦查队员" />
+	<key id="11000961" name="警卫队员" />
+	<key id="11000962" name="警卫队员" />
+	<key id="11000963" name="行脚商人" />
+	<key id="11000972" name="警卫队员" />
+	<key id="11000974" name="烹饪研究家" />
+	<key id="11000975" name="农夫" />
+	<key id="11000976" name="武林高手" />
+	<key id="11000977" name="祭司长" />
+	<key id="11000980" name="行脚商人" />
+	<key id="11000984" name="魔法师" />
+	<key id="11000985" name="工程博士" />
+	<key id="11000987" name="监督官" />
+	<key id="11001002" name="活动向导" />
+	<key id="11001002" name="活动向导" feature="Season1" locale="CN" />
+	<key id="11001003" name="活动向导" />
+	<key id="11001010" name="实习职员" />
+	<key id="11001016" name="安德森王国君主" />
+	<key id="11001028" name="研究所所长" />
+	<key id="11001031" name="研究实习生" />
+	<key id="11001032" name="中心负责人" />
+	<key id="11001040" name="考察队队员" />
+	<key id="11001041" name="预言家" />
+	<key id="11001043" name="保安" />
+	<key id="11001046" name="咒术师" />
+	<key id="11001047" name="监督官" />
+	<key id="11001057" name="时间工程师" />
+	<key id="11001062" name="混沌玛瑙收藏家" />
+	<key id="11001068" name="保镖" />
+	<key id="11001078" name="贪吃鬼" />
+	<key id="11001079" name="罪犯" />
+	<key id="11001080" name="侦查队长" />
+	<key id="11001084" name="侦查队员" />
+	<key id="11001087" name="医生" />
+	<key id="11001088" name="医生" />
+	<key id="11001089" name="医生" />
+	<key id="11001090" name="医生" />
+	<key id="11001091" name="医生" />
+	<key id="11001097" name="工程师" />
+	<key id="11001099" name="警卫队长" />
+	<key id="11001101" name="医生" />
+	<key id="11001110" name="鲁米纳军人" />
+	<key id="11001117" name="森林妖精" />
+	<key id="11001118" name="兔女郎" />
+	<key id="11001119" name="兔女郎" />
+	<key id="11001123" name="快递师傅" />
+	<key id="11001125" name="机器人" />
+	<key id="11001129" name="工人" />
+	<key id="11001130" name="采药人" />
+	<key id="11001131" name="考察队队员" />
+	<key id="11001132" name="难民" />
+	<key id="11001133" name="行脚商人" />
+	<key id="11001138" name="难民" />
+	<key id="11001139" name="皮革工匠" />
+	<key id="11001140" name="工人" />
+	<key id="11001141" name="营地管理员" />
+	<key id="11001143" name="考古学家" />
+	<key id="11001144" name="胆小鬼" />
+	<key id="11001146" name="妈妈的" />
+	<key id="11001147" name="妈妈的" />
+	<key id="11001148" name="武器收藏家" />
+	<key id="11001176" name="首席设计师" />
+	<key id="11001177" name="警卫队员" />
+	<key id="11001178" name="农场主" />
+	<key id="11001191" name="PD" />
+	<key id="11001192" name="老幺编剧" />
+	<key id="11001193" name="灯光指导" />
+	<key id="11001194" name="拍摄工作人员" />
+	<key id="11001195" name="造型师" />
+	<key id="11001196" name="后勤组" />
+	<key id="11001210" name="探索者" />
+	<key id="11001211" name="铁匠" />
+	<key id="11001214" name="村长" />
+	<key id="11001230" name="代理团长" />
+	<key id="11001234" name="侦察兵" />
+	<key id="11001238" name="魔女" />
+	<key id="11001248" name="代理团长" />
+	<key id="11001249" name="侦察兵" />
+	<key id="11001261" name="遗物复原家" />
+	<key id="11001262" name="信息中介" />
+	<key id="11001266" name="影刃会" />
+	<key id="11001268" name="影刃会" />
+	<key id="11001275" name="助手" />
+	<key id="11001276" name="发明家" />
+	<key id="11001277" name="遗物复原家" />
+	<key id="11001278" name="追击队员" />
+	<key id="11001282" name="影刃会" />
+	<key id="11001299" name="骑士团团长" />
+	<key id="11001300" name="骑士团团长" />
+	<key id="11001301" name="女王" />
+	<key id="11001302" name="女王" />
+	<key id="11001303" name="守护祭司" />
+	<key id="11001304" name="大魔法师" />
+	<key id="11001305" name="长老" />
+	<key id="11001308" name="古董收集商" />
+	<key id="11001309" name="警察" />
+	<key id="11001310" name="近卫队员" />
+	<key id="11001311" name="近卫队员" />
+	<key id="11001312" name="近卫队员" />
+	<key id="11001314" name="萌茸茸部族族长" />
+	<key id="11001315" name="萌茸茸部族" />
+	<key id="11001316" name="神女" />
+	<key id="11001317" name="神女" />
+	<key id="11001324" name="医生" />
+	<key id="11001341" name="齐尔克斯职员" />
+	<key id="11001342" name="W.H.A员工" />
+	<key id="11001343" name="护卫" />
+	<key id="11001344" name="管教员" />
+	<key id="11001345" name="管教所所长" />
+	<key id="11001349" name="经理" />
+	<key id="11001355" name="侦查队员" />
+	<key id="11001356" name="兔女郎" />
+	<key id="11001370" name="单轨车机长" />
+	<key id="11001374" name="执行秘书" />
+	<key id="11001375" name="售货员" />
+	<key id="11001376" name="拍摄导演" />
+	<key id="11001377" name="经纪人" />
+	<key id="11001378" name="格斗选手" />
+	<key id="11001379" name="保安职员" />
+	<key id="11001381" name="委员长" />
+	<key id="11001382" name="黑星会要员" />
+	<key id="11001386" name="村庄长老" />
+	<key id="11001387" name="村民" />
+	<key id="11001388" name="村民" />
+	<key id="11001389" name="村民" />
+	<key id="11001390" name="村民" />
+	<key id="11001391" name="患者" />
+	<key id="11001392" name="患者" />
+	<key id="11001393" name="坠入爱河的乞丐" />
+	<key id="11001396" name="天才少女" />
+	<key id="11001397" name="萌茸茸部族" />
+	<key id="11001399" name="侦查队24组族长" />
+	<key id="11001400" name="工人" />
+	<key id="11001401" name="工人" />
+	<key id="11001406" name="搜索队队长" />
+	<key id="11001407" name="幽灵" />
+	<key id="11001408" name="侦查队长" />
+	<key id="11001409" name="训练队队长" />
+	<key id="11001410" name="秘书" />
+	<key id="11001411" name="秘书" />
+	<key id="11001412" name="患者" />
+	<key id="11001430" name="来自星星的" />
+	<key id="11001431" name="黄昏狐" />
+	<key id="11001433" name="少年" />
+	<key id="11001434" name="考古学家" />
+	<key id="11001443" name="医生" />
+	<key id="11001448" name="女王" />
+	<key id="11001458" name="黑星会成员" />
+	<key id="11001473" name="考古学家" />
+	<key id="11001474" name="考古学家" />
+	<key id="11001478" name="女王" />
+	<key id="11001483" name="胆小鬼" />
+	<key id="11001484" name="活动向导" />
+	<key id="11001485" name="咒术师" />
+	<key id="11001490" name="女王" />
+	<key id="11001502" name="贪吃鬼" />
+	<key id="11001520" name="星光远征队" />
+	<key id="11001521" name="星光远征队" />
+	<key id="11001522" name="星光远征队" />
+	<key id="11001547" name="斗神" />
+	<key id="11001556" name="大师" />
+	<key id="11001557" name="大弟子" />
+	<key id="11001619" name="事务长" />
+	<key id="11001620" name="事务长" />
+	<key id="11001622" name="斗神" />
+	<key id="11001625" name="斗神" />
+	<key id="11001626" name="比赛负责人" />
+	<key id="11001628" name="事务长" />
+	<key id="11001630" name="斗神" />
+	<key id="11001657" name="大弟子" />
+	<key id="11001659" name="大弟子" />
+	<key id="11001661" name="大师" />
+	<key id="11001663" name="女王" />
+	<key id="11001665" name="王室总理" />
+	<key id="11001666" name="近卫队长" />
+	<key id="11001668" name="主治医生" />
+	<key id="11001669" name="兔女郎" />
+	<key id="11001670" name="兔女郎" />
+	<key id="11001671" name="大弟子" />
+	<key id="11001672" name="大弟子" />
+	<key id="11001690" name="事务长" />
+	<key id="11001696" name="调酒师" />
+	<key id="11001697" name="经纪人" />
+	<key id="11001700" name="近卫队员" />
+	<key id="11001715" name="大弟子" />
+	<key id="11001716" name="大弟子" />
+	<key id="11001717" name="大弟子" />
+	<key id="11001718" name="大弟子" />
+	<key id="11001719" name="大弟子" />
+	<key id="11001720" name="大弟子" />
+	<key id="11001721" name="大弟子" />
+	<key id="11001722" name="大弟子" />
+	<key id="11001742" name="大弟子" />
+	<key id="11001762" name="大弟子" />
+	<key id="11001763" name="大弟子" />
+	<key id="11001771" name="大弟子" />
+	<key id="11001772" name="大弟子" />
+	<key id="11001773" name="大弟子" />
+	<key id="11001774" name="大弟子" />
+	<key id="11001790" name="大弟子" />
+	<key id="11001791" name="大弟子" />
+	<key id="11001792" name="大弟子" />
+	<key id="11001806" name="大弟子" />
+	<key id="11001836" name="PD" />
+	<key id="11001838" name="实习近卫队员" />
+	<key id="11001839" name="实习近卫队员" />
+	<key id="11001840" name="实习近卫队员" />
+	<key id="11001841" name="实习近卫队员" />
+	<key id="11001842" name="近卫兵" />
+	<key id="11001843" name="伤兵" />
+	<key id="11001861" name="钓手" />
+	<key id="11001862" name="钓手" />
+	<key id="11001863" name="钓手" />
+	<key id="11001865" name="乐器商人" />
+	<key id="11001867" name="工匠" />
+	<key id="11001868" name="工匠" />
+	<key id="11001869" name="工匠" />
+	<key id="11001870" name="奈尔曼公会长" />
+	<key id="11001872" name="发明家" />
+	<key id="11001873" name="发明家" />
+	<key id="11001874" name="助手" />
+	<key id="11001876" name="首席管家" />
+	<key id="11001877" name="农场主" />
+	<key id="11001878" name="烟花男子" />
+	<key id="11001888" name="PD" />
+	<key id="11001889" name="警卫队长" />
+	<key id="11001901" name="骑士团团长" />
+	<key id="11001967" name="实习近卫队员" />
+	<key id="11002000" name="主治医生" />
+	<key id="11002002" name="主治医生" />
+	<key id="11002003" name="主治医生" />
+	<key id="11002004" name="主治医生" />
+	<key id="11002005" name="主治医生" />
+	<key id="11002006" name="主治医生" />
+	<key id="11002007" name="主治医生" />
+	<key id="11002008" name="主治医生" />
+	<key id="11002009" name="主治医生" />
+	<key id="11002010" name="主治医生" />
+	<key id="11002011" name="主治医生" />
+	<key id="11002012" name="主治医生" />
+	<key id="11002013" name="主治医生" />
+	<key id="11002014" name="主治医生" />
+	<key id="11002015" name="主治医生" />
+	<key id="11002016" name="主治医生" />
+	<key id="11002020" name="便利店职员" />
+	<key id="11002035" name="便利店职员" />
+	<key id="11002036" name="便利店职员" />
+	<key id="11002037" name="便利店职员" />
+	<key id="11002038" name="便利店职员" />
+	<key id="11002040" name="主治医生" />
+	<key id="11002041" name="主治医生" />
+	<key id="11002042" name="主治医生" />
+	<key id="11002043" name="主治医生" />
+	<key id="11002044" name="主治医生" />
+	<key id="11002045" name="主治医生" />
+	<key id="11002046" name="主治医生" />
+	<key id="11002047" name="主治医生" />
+	<key id="11002048" name="主治医生" />
+	<key id="11002049" name="主治医生" />
+	<key id="11003054" name="骑士团团长" />
+	<key id="11003059" name="补给队员" />
+	<key id="11003063" name="采药人" />
+	<key id="11003069" name="雪之女王" />
+	<key id="11003074" name="雪之女王" />
+	<key id="11003075" name="霜王" />
+	<key id="11003079" name="公会事务长" />
+	<key id="11003080" name="探险家" />
+	<key id="11003092" name="演奏申请助手" />
+	<key id="11003093" name="骑士团团长" />
+	<key id="11003094" name="黑风队长" />
+	<key id="11003095" name="警卫队长" />
+	<key id="11003096" name="骑士团团长" />
+	<key id="11003121" name="近卫队长" />
+	<key id="11003122" name="警卫队长" />
+	<key id="11003126" name="游乐园帮手" />
+	<key id="11003127" name="秘密骑士团" />
+	<key id="11003139" name="活动向导" />
+	<key id="11003142" name="来自星星的" />
+	<key id="11003143" name="炼金术士" />
+	<key id="11003150" name="图书馆馆长" />
+	<key id="11003151" name="近卫队长" />
+	<key id="11003163" name="王室管理员" />
+	<key id="11003164" name="实习近卫队员" />
+	<key id="11003165" name="近卫队长" />
+	<key id="11003166" name="实习近卫队员" />
+	<key id="11003169" name="实习近卫队员" />
+	<key id="11003170" name="实习近卫队员" />
+	<key id="11003172" name="实习近卫队员" />
+	<key id="11003173" name="黑风司令官" />
+	<key id="11003178" name="实习近卫队员" />
+	<key id="11003186" name="实习近卫队员" />
+	<key id="11003187" name="掮客" />
+	<key id="11003188" name="实习近卫队员" />
+	<key id="11003193" name="信息中介" />
+	<key id="11003194" name="掮客" />
+	<key id="11003195" name="黑风队长" />
+	<key id="11003196" name="黑风队长" />
+	<key id="11003198" name="实习近卫队员" />
+	<key id="11003199" name="实习近卫队员" />
+	<key id="11003200" name="黑风队长" />
+	<key id="11003201" name="黑风队长" />
+	<key id="11003202" name="实习近卫队员" />
+	<key id="11003203" name="实习近卫队员" />
+	<key id="11003218" name="实习近卫队员" />
+	<key id="11003220" name="实习近卫队员" />
+	<key id="11003221" name="长老" />
+	<key id="11003222" name="警卫队长" />
+	<key id="11003238" name="警卫队长" />
+	<key id="11003239" name="长老" />
+	<key id="11003241" name="掮客" />
+	<key id="11003243" name="警卫队员" />
+	<key id="11003245" name="警卫队长" />
+	<key id="11003246" name="近卫队长" />
+	<key id="11003247" name="实习近卫队员" />
+	<key id="11003250" name="大魔法师" />
+	<key id="11003264" name="图书馆馆长" />
+	<key id="11003266" name="近卫队员" />
+	<key id="11003267" name="骑士团团长" />
+	<key id="11003268" name="炼金术士" />
+	<key id="11003269" name="小队长" />
+	<key id="11003270" name="黑风指挥官" />
+	<key id="11003274" name="管教所所长" />
+	<key id="11003281" name="大魔法师" />
+	<key id="11003283" name="大魔法师" />
+	<key id="11003284" name="大魔法师" />
+	<key id="11003306" name="大魔法师" />
+	<key id="11003307" name="长老" />
+	<key id="11003308" name="长老" />
+	<key id="11003309" name="警卫队长" />
+	<key id="11003314" name="大魔法师" />
+	<key id="11003319" name="警卫队长" />
+	<key id="11003320" name="骑士" />
+	<key id="11003328" name="骑士团团长" />
+	<key id="11003330" name="守护祭司" />
+	<key id="11003331" name="守护祭司" />
+	<key id="11003334" name="掮客" />
+	<key id="11003361" name="长老" />
+	<key id="11003432" name="图书馆馆长" />
+	<key id="11003435" name="大魔法师" />
+	<key id="11003437" name="图书馆馆长" />
+	<key id="11003538" name="研究员" />
+	<key id="11003539" name="研究员" />
+	<key id="11003540" name="研究员" />
+	<key id="11003541" name="研究员" />
+	<key id="11003542" name="研究员" />
+	<key id="11003590" name="近卫队员" />
+	<key id="11003591" name="王室管理员" />
+	<key id="11003592" name="近卫队员" />
+	<key id="11003594" name="行脚商人" />
+	<key id="11003599" name="公主" />
+	<key id="11003600" name="雾霭骑士" />
+	<key id="11003602" name="冒失鬼" />
+	<key id="11003603" name="时钟恶魔" />
+	<key id="11003604" name="时钟恶魔" />
+	<key id="11003605" name="时钟恶魔" />
+	<key id="11003610" name="时钟恶魔" />
+	<key id="11003611" name="雾霭骑士" />
+	<key id="11003612" name="雾霭骑士" />
+	<key id="11003613" name="公主" />
+	<key id="11003614" name="公主" />
+	<key id="11003615" name="木偶" />
+	<key id="11003616" name="雾霭骑士" />
+	<key id="11003617" name="雾霭骑士" />
+	<key id="11003618" name="雾霭骑士" />
+	<key id="11003620" name="梦幻的人偶术士" />
+	<key id="11003621" name="梦幻的人偶术士" />
+	<key id="11003623" name="公主" />
+	<key id="11003624" name="木偶" />
+	<key id="11003625" name="雾霭骑士" />
+	<key id="11003651" name="近卫队员" />
+	<key id="11003652" name="炼金术士" />
+	<key id="11003653" name="近卫队员" />
+	<key id="11003654" name="研究员" />
+	<key id="11003655" name="研究员" />
+	<key id="11003656" name="研究员" />
+	<key id="11003657" name="研究员" />
+	<key id="11003670" name="研究员" />
+	<key id="11003674" name="公主" />
+	<key id="11003675" name="守护骑士" />
+	<key id="11003676" name="研究员" />
+	<key id="11003677" name="研究员" />
+	<key id="11003712" name="雾霭骑士" />
+	<key id="11003713" name="木偶" />
+	<key id="11003714" name="木偶" />
+	<key id="11003715" name="木偶" />
+	<key id="11003717" name="程序器" />
+	<key id="11003723" name="王室管理员" />
+	<key id="11003724" name="近卫队员" />
+	<key id="11003726" name="行脚商人" />
+	<key id="11003738" name="研究员" />
+	<key id="11003743" name="黑星清道夫队长" />
+	<key id="11003744" name="黑星清道夫工作班长" />
+	<key id="11003750" name="研究员" />
+	<key id="11003760" name="公主" />
+	<key id="11003775" />
+	<key id="11003796" name="研究员" />
+	<key id="11003803" name="行脚商人" />
+	<key id="11003804" name="行脚商人" />
+	<key id="11003805" name="行脚商人" />
+	<key id="11003806" name="行脚商人" />
+	<key id="11003807" name="行脚商人" />
+	<key id="11003809" name="医生" />
+	<key id="11003810" name="魔女" />
+	<key id="11003811" name="骑士团团长" />
+	<key id="11003870" name="贝尔格岛管理员" />
+	<key id="11003871" name="矿工" />
+	<key id="11003872" name="矿工" />
+	<key id="11003873" name="矿工" />
+	<key id="11003876" name="航海士" />
+	<key id="11003877" name="航海士" />
+	<key id="11003878" name="阿基米花园管理员" />
+	<key id="11003879" name="园艺师" />
+	<key id="11003882" name="警卫兵" />
+	<key id="11004069" name="NPCTITLE_11004069_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004079" name="NPCTITLE_11004079_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004083" name="NPCTITLE_11004083_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004099" name="坠入爱河的" />
+	<key id="11004100" name="坠入爱河的" />
+	<key id="11004101" name="可爱的" />
+	<key id="11004102" name="可爱的" />
+	<key id="11004104" name="幸福的" />
+	<key id="11004105" name="幸福的" />
+	<key id="11004223" name="NPCTITLE_11004223_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="11004224" name="NPCTITLE_11004224_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="11004225" name="NPCTITLE_11004225_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="11004230" />
+	<key id="11004252" name="NPCTITLE_11004252_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004253" name="NPCTITLE_11004253_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004258" name="NPCTITLE_11004258_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004265" name="NPCTITLE_11004265_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004266" name="NPCTITLE_11004266_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004267" name="NPCTITLE_11004267_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004270" name="NPCTITLE_11004270_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004274" name="NPCTITLE_11004274_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004289" name="女士" feature="Season1" />
+	<key id="11004290" name="管家" feature="Season1" />
+	<key id="11004291" name="门童" feature="Season1" />
+	<key id="11004292" name="门童" feature="Season1" />
+	<key id="11004293" name="小幽灵" feature="Season1" />
+	<key id="11004294" name="小幽灵" feature="Season1" />
+	<key id="11004295" name="小幽灵" feature="Season1" />
+	<key id="11004305" name="女士" feature="Season1" />
+	<key id="11004308" name="小幽灵" feature="Season1" />
+	<key id="11004310" name="小幽灵" feature="Season1" />
+	<key id="11004311" name="小幽灵" feature="Season1" />
+	<key id="11004318" name="医生" feature="Season1" />
+	<key id="11004386" name="副官" feature="Kritias_Epic01" />
+	<key id="11004387" name="猎人" feature="Kritias_Epic01" />
+	<key id="11004388" name="格奥克侦察兵" feature="Kritias_Epic01" />
+	<key id="11004390" name="女王" feature="Kritias_Epic01" />
+	<key id="11004391" name="格奥克猎人" feature="Kritias_Epic01" />
+	<key id="11004393" name="格奥克搜索队" feature="Kritias_Epic01" />
+	<key id="11004394" name="格奥克侦察兵" feature="Kritias_Epic01" />
+	<key id="11004396" name="副官" feature="Kritias_Epic01" />
+	<key id="11004397" name="格奥克军官" feature="Kritias_Epic01" />
+	<key id="11004398" name="格奥克工作人员" feature="Kritias_Epic01" />
+	<key id="11004399" name="格奥克工作人员" feature="Kritias_Epic01" />
+	<key id="11004433" name="格奥克工作人员" feature="Kritias_Epic01" />
+	<key id="11004441" name="考古学家" feature="TreasureMap01" />
+	<key id="11004451" name="医生" feature="Kritias_2018_12" />
+	<key id="11004457" name="乘务员" feature="Kritias_2018_12" />
+	<key id="11004458" name="乘务员" feature="Kritias_2018_12" />
+	<key id="11004459" name="乘务员" feature="Kritias_2018_12" />
+	<key id="11004479" name="考察队员" feature="Kritias_2018_12" />
+	<key id="11004480" name="考察队员" feature="Kritias_2018_12" />
+	<key id="11004481" name="考察队员" feature="Kritias_2018_12" />
+	<key id="11004482" name="考察队员" feature="Kritias_2018_12" />
+	<key id="11004483" name="考察队员" feature="Kritias_2018_12" />
+	<key id="11004484" name="考察队员" feature="Kritias_2018_12" />
+	<key id="11004485" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004486" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004487" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004488" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004489" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004490" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004491" name="研究员" feature="Kritias_2018_12" />
+	<key id="11004492" name="植物学者" feature="Kritias_2018_12" />
+	<key id="11004493" name="生物学者" feature="Kritias_2018_12" />
+	<key id="11004494" name="地质学者" feature="Kritias_2018_12" />
+	<key id="11004495" name="物理学者" feature="Kritias_2018_12" />
+	<key id="11004496" name="鱼类学者" feature="Kritias_2018_12" />
+	<key id="11004497" name="鱼类学者" feature="Kritias_2018_12" />
+	<key id="11004498" name="文学家" feature="Kritias_2018_12" />
+	<key id="11004499" name="建筑学者" feature="Kritias_2018_12" />
+	<key id="11004527" name="生态研究员" feature="Kritias_2018_12" />
+	<key id="11004528" name="生态研究员" feature="Kritias_2018_12" />
+	<key id="11004529" name="生态研究员" feature="Kritias_2018_12" />
+	<key id="11004530" name="绿披风工作员" feature="Kritias_2018_12" />
+	<key id="11004541" name="天空堡垒研究组" feature="Kritias_2018_12" />
+	<key id="11004542" name="天空堡垒研究组" feature="Kritias_2018_12" />
+	<key id="11004543" name="天空堡垒研究组" feature="Kritias_2018_12" />
+	<key id="11004552" name="活动向导" />
+	<key id="11004557" name="品克品克" />
+	<key id="11004574" name="难民首领" feature="Kritias_Epic02" />
+	<key id="11004576" name="情报贩子" feature="Kritias_Epic02" />
+	<key id="11004618" name="凯勒贝斯团长" />
+	<key id="11004619" name="凯勒贝斯团长副官" />
+	<key id="11004662" name="黑星会干部直属" />
+	<key id="11004663" name="时间旅行者" feature="Event" />
+	<key id="11004666" name="大弟子" feature="Event" />
+	<key id="11004668" name="考古学家" feature="Event" />
+	<key id="11004669" name="少年" feature="Event" />
+	<key id="11004672" name="来自星星的" feature="Event" />
+	<key id="11004673" name="黄昏狐" feature="Event" />
+	<key id="11004685" name="门童" feature="Event" />
+	<key id="11004688" name="向导" feature="BlackOnyx" />
+	<key id="11004689" name="向导" feature="BlackOnyx" />
+	<key id="11004690" name="交易商" feature="BlackOnyx" />
+	<key id="11004694" name="黑商" feature="BlackOnyx" />
+	<key id="11004695" name="行脚商人" feature="Event" locale="CN" />
+	<key id="11004696" name="商人" feature="BlackOnyx" />
+	<key id="11004697" name="服务员" feature="BlackOnyx" />
+	<key id="11004698" name="夫人" feature="BlackOnyx" />
+	<key id="11004700" name="度假村业务派遣员" feature="BlackOnyx" />
+	<key id="11004701" name="古代遗迹研究员" feature="BlackOnyx" />
+	<key id="11004702" name="卡尔卡尔企业家" feature="BlackOnyx" />
+	<key id="11004703" name="古代能量研究员" feature="BlackOnyx" />
+	<key id="11004718" name="明星" />
+	<key id="11004720" name="近卫队警卫兵" feature="Event" />
+	<key id="11004726" name="电视节目编剧" feature="Event" />
+	<key id="11004729" name="NPCTITLE_11004729_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004730" name="NPCTITLE_11004730_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004731" name="NPCTITLE_11004731_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004732" name="NPCTITLE_11004732_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004778" name="王室总理" feature="EpicApocalypse01" />
+	<key id="11004779" name="王室总理" feature="EpicApocalypse01" />
+	<key id="11004780" name="王室总理" feature="EpicApocalypse01" />
+	<key id="11004781" name="王室总理" feature="EpicApocalypse01" />
+	<key id="11004782" name="守护祭司" feature="EpicApocalypse01" />
+	<key id="11004783" name="守护祭司" feature="EpicApocalypse01" />
+	<key id="11004784" name="守护祭司" feature="EpicApocalypse01" />
+	<key id="11004785" name="女王" feature="EpicApocalypse01" />
+	<key id="11004786" name="女王" feature="EpicApocalypse01" />
+	<key id="11200000" name="医生" />
+	<key id="11200005" name="公会事务长" />
+	<key id="21450004" name="黑星会干部直属" />
+	<key id="21450005" name="黑星会干部直属" />
+	<key id="21450006" name="黑星会干部直属" />
 </ms2>

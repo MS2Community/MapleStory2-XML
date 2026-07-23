@@ -1,123 +1,5 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="200001" name="위" />
-	<key id="200002" name="아래" />
-	<key id="200003" name="왼쪽" />
-	<key id="200004" name="오른쪽" />
-	<key id="300001" name="점프" />
-	<key id="300002" name="액션" />
-	<key id="300003" name="줍기" />
-	<key id="300004" name="앉기" />
-	<key id="300005" name="기어가기" />
-	<key id="300006" name="달리기" />
-	<key id="300007" name="채팅" />
-	<key id="300008" name="줌인" />
-	<key id="300009" name="줌아웃" />
-	<key id="300010" name="걷기" />
-	<key id="300013" name="건설" />
-	<key id="300014" name="다음 트리거" />
-	<key id="300015" name="스크린샷" />
-	<key id="300016" name="올라타기" />
-	<key id="300017" name="피팅돌 1" />
-	<key id="300018" name="피팅돌 2" />
-	<key id="300019" name="피팅돌 3" />
-	<key id="300020" name="피팅돌 4" />
-	<key id="300021" name="피팅돌 5" />
-	<key id="300022" name="카메라각도변경" />
-	<key id="300033" name="기본 공격" />
-	<key id="300034" name="붙잡기" />
-	<key id="300035" name="내 집" />
-	<key id="300036" name="UI숨기기" />
-	<key id="300037" name="귓속말" />
-	<key id="300038" name="아이템 미리보기" />
-	<key id="300039" name="미니맵 확대" />
-	<key id="300041" name="취소" />
-	<key id="300042" name="뷰티살롱" />
-	<key id="300043" name="염색공방" />
-	<key id="300044" name="성형외과" />
-	<key id="300045" name="스킨 탭 장착" feature="Skin2tab" />
-	<key id="300046" name="퀵슬롯 페이지1" />
-	<key id="300047" name="퀵슬롯 페이지2" />
-	<key id="300048" name="퀵슬롯 페이지3" />
-	<key id="300049" name="퀵슬롯 페이지 이동" />
-	<key id="400001" name="소지품" />
-	<key id="400002" name="캐릭터 정보" />
-	<key id="400005" name="스킬" />
-	<key id="400006" name="월드맵" />
-	<key id="400007" name="퀘스트 정보" />
-	<key id="400008" name="프로필 카메라" />
-	<key id="400009" name="트로피" />
-	<key id="400010" name="뷰티숍" />
-	<key id="400011" name="아이템 편집" />
-	<key id="400012" name="친구" />
-	<key id="400013" name="우편함" />
-	<key id="400014" name="길드" />
-	<key id="400015" name="메이뷰" feature="Maview" />
-	<key id="400016" name="메럿 마켓" feature="MeratMarket" />
-	<key id="400017" name="캐시샵" feature="CashShop" />
-	<key id="400018" name="던전 찾기" />
-	<key id="400019" name="메이드 제작 상황" />
-	<key id="400020" name="메이플 투기장" feature="PvPRankingDuelMode" />
-	<key id="400021" name="블랙마켓" />
-	<key id="400022" name="메이플 길라잡이" />
-	<key id="400023" name="메이플 아케이드" />
-	<key id="400024" name="뷰티" />
-	<key id="400025" name="특성" />
-	<key id="400026" name="프리미엄 클럽" />
-	<key id="400027" name="모험가 모집" />
-	<key id="400028" name="메이플 공방" />
-	<key id="400029" name="생활 기술" feature="Mastery" />
-	<key id="400030" name="메이플 가이드" />
-	<key id="400031" name="콤팩트 키" />
-	<key id="400032" name="사전" feature="GameDictionary" />
-	<key id="400033" name="랭킹" feature="InGameRank" />
-	<key id="400034" name="동아리" feature="Club" />
-	<key id="400035" name="펫" feature="PetBase" />
-	<key id="400037" name="던전 정보" />
-	<key id="400038" name="라펜샤드" feature="Lapenshard01" />
-	<key id="500001" name="퀵슬롯 1" />
-	<key id="500002" name="퀵슬롯 2" />
-	<key id="500003" name="퀵슬롯 3" />
-	<key id="500004" name="퀵슬롯 4" />
-	<key id="500005" name="퀵슬롯 5" />
-	<key id="500006" name="퀵슬롯 6" />
-	<key id="500007" name="퀵슬롯 7" />
-	<key id="500008" name="퀵슬롯 8" />
-	<key id="500009" name="퀵슬롯 9" />
-	<key id="500010" name="퀵슬롯 10" />
-	<key id="500011" name="퀵슬롯 11" />
-	<key id="500012" name="퀵슬롯 12" />
-	<key id="500013" name="퀵슬롯 13" />
-	<key id="500014" name="퀵슬롯 14" />
-	<key id="500015" name="퀵슬롯 15" />
-	<key id="500016" name="퀵슬롯 16" />
-	<key id="500017" name="퀵슬롯 17" />
-	<key id="500018" name="퀵슬롯 18" />
-	<key id="500019" name="퀵슬롯 19" />
-	<key id="500020" name="퀵슬롯 20" />
-	<key id="500021" name="퀵슬롯 21" />
-	<key id="500022" name="퀵슬롯 22" />
-	<key id="600001" name="MODE" />
-	<key id="700001" name="콤팩트 키 {0}" />
-	<key id="700002" name="콤팩트 키 {0}" />
-	<key id="700003" name="콤팩트 키 {0}" />
-	<key id="800001" name="변경키 1" />
-	<key id="800002" name="변경키 2" />
-	<key id="800003" name="변경키 3" />
-	<key id="800004" name="메인 메뉴" />
-	<key id="800005" name="마우스 우클릭" />
-	<key id="800006" name="마우스 좌클릭" />
-	<key id="800007" name="마우스 모드" />
-	<key id="900001" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900002" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900003" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900004" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900005" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900006" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900007" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900008" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900009" name="장비 세트 교체 단축키 {0}" feature="Closet" />
-	<key id="900010" name="장비 세트 교체 단축키 {0}" feature="Closet" />
 	<key id="1" name="ESC" />
 	<key id="2" name="1" />
 	<key id="3" name="2" />
@@ -258,4 +140,123 @@
 	<key id="205" name="X3" />
 	<key id="206" name="X4" />
 	<key id="207" name="X5" />
+	<key id="200001" name="위" />
+	<key id="200002" name="아래" />
+	<key id="200003" name="왼쪽" />
+	<key id="200004" name="오른쪽" />
+	<key id="300001" name="점프" />
+	<key id="300002" name="액션" />
+	<key id="300003" name="줍기" />
+	<key id="300004" name="앉기" />
+	<key id="300005" name="기어가기" />
+	<key id="300006" name="달리기" />
+	<key id="300007" name="채팅" />
+	<key id="300008" name="줌인" />
+	<key id="300009" name="줌아웃" />
+	<key id="300010" name="걷기" />
+	<key id="300013" name="건설" />
+	<key id="300014" name="다음 트리거" />
+	<key id="300015" name="스크린샷" />
+	<key id="300016" name="올라타기" />
+	<key id="300017" name="피팅돌 1" />
+	<key id="300018" name="피팅돌 2" />
+	<key id="300019" name="피팅돌 3" />
+	<key id="300020" name="피팅돌 4" />
+	<key id="300021" name="피팅돌 5" />
+	<key id="300022" name="카메라각도변경" />
+	<key id="300033" name="기본 공격" />
+	<key id="300034" name="붙잡기" />
+	<key id="300035" name="내 집" />
+	<key id="300036" name="UI숨기기" />
+	<key id="300037" name="귓속말" />
+	<key id="300038" name="아이템 미리보기" />
+	<key id="300039" name="미니맵 확대" />
+	<key id="300041" name="취소" />
+	<key id="300042" name="뷰티살롱" />
+	<key id="300043" name="염색공방" />
+	<key id="300044" name="성형외과" />
+	<key id="300045" name="스킨 탭 장착" feature="Skin2tab" />
+	<key id="300046" name="퀵슬롯 페이지1" />
+	<key id="300047" name="퀵슬롯 페이지2" />
+	<key id="300048" name="퀵슬롯 페이지3" />
+	<key id="300049" name="퀵슬롯 페이지 이동" />
+	<key id="400001" name="소지품" />
+	<key id="400002" name="캐릭터 정보" />
+	<key id="400005" name="스킬" />
+	<key id="400006" name="월드맵" />
+	<key id="400007" name="퀘스트 정보" />
+	<key id="400008" name="프로필 카메라" />
+	<key id="400009" name="트로피" />
+	<key id="400010" name="뷰티숍" />
+	<key id="400011" name="아이템 편집" />
+	<key id="400012" name="친구" />
+	<key id="400013" name="우편함" />
+	<key id="400014" name="길드" />
+	<key id="400015" name="메이뷰" feature="Maview" />
+	<key id="400016" name="메럿 마켓" feature="MeratMarket" />
+	<key id="400017" name="캐시샵" feature="CashShop" />
+	<key id="400018" name="던전 찾기" />
+	<key id="400019" name="메이드 제작 상황" />
+	<key id="400020" name="메이플 투기장" feature="PvPRankingDuelMode" />
+	<key id="400021" name="블랙마켓" />
+	<key id="400022" name="메이플 길라잡이" />
+	<key id="400023" name="메이플 아케이드" />
+	<key id="400024" name="뷰티" />
+	<key id="400025" name="특성" />
+	<key id="400026" name="프리미엄 클럽" />
+	<key id="400027" name="모험가 모집" />
+	<key id="400028" name="메이플 공방" />
+	<key id="400029" name="생활 기술" feature="Mastery" />
+	<key id="400030" name="메이플 가이드" />
+	<key id="400031" name="콤팩트 키" />
+	<key id="400032" name="사전" feature="GameDictionary" />
+	<key id="400033" name="랭킹" feature="InGameRank" />
+	<key id="400034" name="동아리" feature="Club" />
+	<key id="400035" name="펫" feature="PetBase" />
+	<key id="400036" name="冒险宝典" feature="DailyMission" />
+	<key id="400037" name="던전 정보" />
+	<key id="400038" name="라펜샤드" feature="Lapenshard01" />
+	<key id="500001" name="퀵슬롯 1" />
+	<key id="500002" name="퀵슬롯 2" />
+	<key id="500003" name="퀵슬롯 3" />
+	<key id="500004" name="퀵슬롯 4" />
+	<key id="500005" name="퀵슬롯 5" />
+	<key id="500006" name="퀵슬롯 6" />
+	<key id="500007" name="퀵슬롯 7" />
+	<key id="500008" name="퀵슬롯 8" />
+	<key id="500009" name="퀵슬롯 9" />
+	<key id="500010" name="퀵슬롯 10" />
+	<key id="500011" name="퀵슬롯 11" />
+	<key id="500012" name="퀵슬롯 12" />
+	<key id="500013" name="퀵슬롯 13" />
+	<key id="500014" name="퀵슬롯 14" />
+	<key id="500015" name="퀵슬롯 15" />
+	<key id="500016" name="퀵슬롯 16" />
+	<key id="500017" name="퀵슬롯 17" />
+	<key id="500018" name="퀵슬롯 18" />
+	<key id="500019" name="퀵슬롯 19" />
+	<key id="500020" name="퀵슬롯 20" />
+	<key id="500021" name="퀵슬롯 21" />
+	<key id="500022" name="퀵슬롯 22" />
+	<key id="600001" name="MODE" />
+	<key id="700001" name="콤팩트 키 {0}" />
+	<key id="700002" name="콤팩트 키 {0}" />
+	<key id="700003" name="콤팩트 키 {0}" />
+	<key id="800001" name="변경키 1" />
+	<key id="800002" name="변경키 2" />
+	<key id="800003" name="변경키 3" />
+	<key id="800004" name="메인 메뉴" />
+	<key id="800005" name="마우스 우클릭" />
+	<key id="800006" name="마우스 좌클릭" />
+	<key id="800007" name="마우스 모드" />
+	<key id="900001" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900002" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900003" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900004" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900005" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900006" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900007" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900008" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900009" name="장비 세트 교체 단축키 {0}" feature="Closet" />
+	<key id="900010" name="장비 세트 교체 단축키 {0}" feature="Closet" />
 </ms2>
