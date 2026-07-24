@@ -47451,8 +47451,11 @@
     "complete": "Talk to $npc:11000075$ in $map:52000033$ and unlock a new power, \"Traits\""
   },
   "50001300-CharacterAbility-": {
-    "desc": "$npc:11000119$ says $npc:11000075$ is looking for you and tells you to come to $map:52000033$ upstairs in $map:02000025$.",
-    "complete": "Talk to $npc:11000075$ in $map:52000033$ above the palace entrance, north of $map:02000001$"
+    "desc": "$npcName:11000075$ has asked to meet you in the $map:52000033$ in the upstairs of $map:02000025$.",
+    "complete": "Talk to $npcName:11000075$ in $map:52000033$, above the $map:02000025$ entrance&#160;",
+    "name": "A Special Calling",
+    "count": "0",
+    "locking": "0"
   },
   "50001302-CharacterAbility-": {
     "desc": "$npc:11000119$ says that now that your new power, \"Attributes,\" has been unlocked, you will be able to grow in more varied ways. They advise you to try different activities to train yourself, and tell you that checking the \"Maple Guide\" will show things worth doing at your current level. They also say upgrading skills will let you use stronger power, and give you $item:40100022$ as a gift.",
