@@ -47448,7 +47448,10 @@
   },
   "50001301-CharacterAbility-": {
     "desc": "When you meet $npc:11000075$ in $map:52000033$, they tell you about a suspicious tremor recently detected west of Victoria Island, revealing that the power of darkness has drawn closer. $npc:11000075$ says they will grant you a new power to deal with greater darkness and enables you to use \"Attributes.\"",
-    "complete": "Talk to $npc:11000075$ in $map:52000033$ and unlock a new power, \"Traits\""
+    "complete": "Talk to $npc:11000075$ in $map:52000033$ and unlock a new power, \"Traits\"",
+    "name": "New Power",
+    "count": "0",
+    "locking": "0"
   },
   "50001300-CharacterAbility-": {
     "desc": "$npcName:11000075$ has asked to meet you in the $map:52000033$ in the upstairs of $map:02000025$.",
@@ -47458,8 +47461,9 @@
     "locking": "0"
   },
   "50001302-CharacterAbility-": {
-    "desc": "$npc:11000119$ says that now that your new power, \"Attributes,\" has been unlocked, you will be able to grow in more varied ways. They advise you to try different activities to train yourself, and tell you that checking the \"Maple Guide\" will show things worth doing at your current level. They also say upgrading skills will let you use stronger power, and give you $item:40100022$ as a gift.",
-    "complete": "Talk to $npc:11000119$ in $map:52000033$ and receive a gift"
+    "desc": "$npc:11000119$ says that now that your new power, \"Traits,\" has been unlocked, you will be able to grow in more varied ways. They advise you to try different activities to train yourself, and tell you that checking the \"Maple Guide\" will show things worth doing at your current level. They also say upgrading skills will let you use stronger power, and give you $item:40100022$ as a gift.",
+    "complete": "Talk to $npc:11000119$ in $map:52000033$ and receive a gift",
+    "name": "Preparing For An Adventure"
   },
   "50001381-ShadowExpedition-": {
     "desc": "$npc:11000119$ tells you that a suspicious dark gate has appeared on the broken ground in $map:02000118$. Beyond the gate is a twisted dark space that could lead anywhere, and according to the royal guard members lucky enough to return alive after investigating it, the inside was filled with pitch-black darkness like another world and contained monsters with tremendous strength. The Royal Guard has decided to ask capable adventurers to explore the place and learn what is inside under the name \"Shadow Expedition.\" ",
