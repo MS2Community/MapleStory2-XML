@@ -14,6 +14,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - name: Regenerate translated XML from Weblate JSON
+        env:
+          MS2_REPO_ROOT: ${{ github.workspace }}
+        # Rebuild Xml/string/<locale> from the latest Weblate JSON so the released
+        # .m2d reflects current translations.
+        run: dotnet run --project WeblateConverter -c Release -- json-to-xml-all
+      - name: Verify conversion integrity
+        env:
+          MS2_REPO_ROOT: ${{ github.workspace }}
+        # Fail the release on any structural / key fault before packing.
+        run: dotnet run --project WeblateConverter -c Release -- verify-all
       - name: Build Server
         run: cd Tools && .\MS2Create.exe ../Server ../ Server MS2F
       - name: Build XML
