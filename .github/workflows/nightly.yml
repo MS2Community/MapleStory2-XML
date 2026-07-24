@@ -50,13 +50,17 @@ jobs:
           git add -- Xml
           git diff --cached --quiet -- Xml
           # --quiet exits 0 when there are no staged changes, 1 when there are.
-          if ($LASTEXITCODE -eq 0) {
+          $changed = $LASTEXITCODE
+          if ($changed -eq 0) {
             "changed=false" >> $env:GITHUB_OUTPUT
             Write-Host "No translation changes since last run - nothing to publish."
           } else {
             "changed=true" >> $env:GITHUB_OUTPUT
             Write-Host "Translation changes detected."
           }
+          # `git diff --quiet` leaves $LASTEXITCODE=1 when changes exist; that is the
+          # expected signal, not a failure, so exit cleanly and let later steps gate on the output.
+          exit 0
 
       - name: Compute release date
         if: steps.detect.outputs.changed == 'true'
