@@ -1,33 +1,381 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="10300021" level="12" name="火焰波" tooltipDescription="身体正被猛烈的火舌缠绕着！\n每秒产生43%火焰伤害" />
-	<key id="10300031" level="12" name="闪电链" tooltipDescription="电能正在向身体周围凝聚！\n叠加5次时将产生508%的闪电伤害" />
-	<key id="10300051" level="12" name="寒气" tooltipDescription="冰冷的寒气让身体变得僵硬起来！\n移动速度降低15%\n最多可叠加6次" />
-	<key id="10300052" level="1" name="冻结" tooltipDescription="全身都被冻住了！\n被冻住，无法行动" />
-	<key id="10300071" level="12" name="雷霆" tooltipDescription="有一股强大的电能在周身上下流动！\n因触电而无法行动" />
-	<key id="10300091" level="12" name="魔法方阵" tooltipDescription="从魔法阵中吸收了魔力。\n物理攻击力和魔法攻击力提高5.4%\n施放者额外增加2.7%" />
-	<key id="10300131" level="12" name="魔法盾" tooltipDescription="魔法气息包覆全身。\n吸收相当于自己最大生命的28%的伤害" />
-	<key id="10300171" level="1" name="魔力控制" tooltipDescription="魔法攻击力提高20%\n移动速度增加35%" feature="JobChange_01" />
-	<key id="10300172" level="1" name="魔力控制" tooltipDescription="减少50%的能量消耗\n移动速度增加35%" feature="JobChange_01" />
-	<key id="10300173" level="1" name="魔力控制" tooltipDescription="能量消耗减少50%\n移动速度提高35%" feature="JobChange_01" />
-	<key id="10300182" level="12" name="雪霜" tooltipDescription="使用掌心雷攻击时，将造成额外伤害" feature="JobChange_01" />
-	<key id="10300183" level="12" name="掌心雷" tooltipDescription="叠加5次时将会造成533%的伤害" feature="JobChange_01" />
-	<key id="10300193" level="12" name="冰激凌！" tooltipDescription="再次施展冷饮时刻或者持续时间结束时，将销毁冰淇淋\n虽然很想吃冰淇淋，但正在忍耐……" feature="JobChange_01" />
-	<key id="10300201" level="12" name="闪电充能" tooltipDescription="再次使用技能时，闪电充能每重叠1次造成80%的额外伤害" feature="JobChange_01" />
-	<key id="10300202" level="12" name="闪电充能" tooltipDescription="每叠加1次增加10%的闪避率\n叠加后将给周围造成164%的伤害" feature="JobChange_01" />
-	<key id="10300211" level="12" name="麻酥酥" tooltipDescription="闪电及寒冰攻击力提高96%" feature="JobChange_01" />
-	<key id="10300222" level="12" name="火种" tooltipDescription="每秒造成75%的范围伤害\n火种叠加时，可造成672%的范围伤害" feature="JobChange_01" />
-	<key id="10300227" level="12" name="易燃物" tooltipDescription="每秒造成81%的范围伤害\n获得火种时，可造成844%的范围伤害" feature="JobChange_01" />
-	<key id="10300234" level="12" name="焦热" tooltipDescription="每秒产生99%的伤害\n能量爆炸命中时造成924%的额外伤害" feature="JobChange_01" />
-	<key id="10300242" level="12" name="丑陋火精灵" tooltipDescription="火种命中时会造成暴击\n暴击时有51%的概率触发派对时间" feature="JobChange_01" />
-	<key id="10300243" level="12" name="派对时间" tooltipDescription="使用烤肉派对时立即施放\n淋漓畅快地耍一场！" feature="JobChange_01" />
-	<key id="10300252" level="12" name="陨石诱降" tooltipDescription="陨石正向目标地点坠落" feature="JobChange_01" />
-	<key id="10300257" level="12" name="领悟" tooltipDescription="无需消耗火种施展时间和能量\n使用强化火种" feature="JobChange_01" />
-	<key id="10300262" level="12" name="扑通！" tooltipDescription="寒冰精灵正在跟随\n用冰爆代替寒冰矛\n用极限滑冰代替麻酥酥" feature="JobChange_02" />
-	<key id="10300268" level="12" name="冰冻" tooltipDescription="冻住！" feature="JobChange_02" />
-	<key id="10300271" level="12" name="飓风北上中！" tooltipDescription="每秒造成518%的伤害\n每秒每个叠加造成214%的伤害\n获得寒霜时增加叠加" feature="JobChange_02" />
-	<key id="10300275" level="12" name="升龙" tooltipDescription="每0.5秒造成806%的伤害" feature="JobChange_02" />
-	<key id="10300283" level="1" name="消火" tooltipDescription="无法完全燃烧" feature="JobChange_02" />
-	<key id="10300285" level="12" name="完全燃烧" tooltipDescription="火焰攻击力提高110%\n强化能量爆炸" feature="JobChange_02" />
-	<key id="10300292" level="12" name="炽烈火焰" tooltipDescription="每秒造成282%的伤害\n以10%的概率发生爆炸" feature="JobChange_02" />
+	<key id="10300021" level="1" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 21%  화염 대미지" />
+	<key id="10300021" level="1" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 19%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="2" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 21%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="2" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 23%  화염 대미지" />
+	<key id="10300021" level="3" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 25%  화염 대미지" />
+	<key id="10300021" level="3" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 23%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="4" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 27%  화염 대미지" />
+	<key id="10300021" level="4" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 25%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="5" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 29%  화염 대미지" />
+	<key id="10300021" level="5" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 27%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="6" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 29%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="6" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 31%  화염 대미지" />
+	<key id="10300021" level="7" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 31%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="7" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 33%  화염 대미지" />
+	<key id="10300021" level="8" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 33%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="8" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 35%  화염 대미지" />
+	<key id="10300021" level="9" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 35%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="9" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 37%  화염 대미지" />
+	<key id="10300021" level="10" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 37%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="10" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 39%  화염 대미지" />
+	<key id="10300021" level="11" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 39%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="11" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 41%  화염 대미지" />
+	<key id="10300021" level="12" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 41%  화염 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300021" level="12" name="플레임 웨이브" tooltipDescription="강렬한 화염이 몸을 휘감고 있습니다!\n매 초마다 43%  화염 대미지" />
+	<key id="10300031" level="1" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 288% 전격 대미지" />
+	<key id="10300031" level="1" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 317% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="2" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 308% 전격 대미지" />
+	<key id="10300031" level="2" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 340% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="3" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 328% 전격 대미지" />
+	<key id="10300031" level="3" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 363% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="4" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 386% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="4" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 348% 전격 대미지" />
+	<key id="10300031" level="5" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 368% 전격 대미지" />
+	<key id="10300031" level="5" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 409% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="6" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 388% 전격 대미지" />
+	<key id="10300031" level="6" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 432% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="7" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 408% 전격 대미지" />
+	<key id="10300031" level="7" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 455% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="8" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 428% 전격 대미지" />
+	<key id="10300031" level="8" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 478% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="9" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 448% 전격 대미지" />
+	<key id="10300031" level="9" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 501% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="10" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 524% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="10" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 468% 전격 대미지" />
+	<key id="10300031" level="11" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 488% 전격 대미지" />
+	<key id="10300031" level="11" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 547% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="12" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 570% 전격 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300031" level="12" name="체인 라이트닝" tooltipDescription="몸 주위로 전기 에너지가 응축되고 있습니다!\n5회 중첩 시 508% 전격 대미지" />
+	<key id="10300051" level="1" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="1" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="2" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="2" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="3" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="3" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="4" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="4" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="5" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="5" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="6" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="6" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="7" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="7" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="8" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="8" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="9" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="9" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="10" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="10" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="11" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300051" level="11" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="12" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300051" level="12" name="한기" tooltipDescription="한기에 몸이 굳었습니다!\n이동속도 15% 감소\n최대 6회까지 중첩 가능" />
+	<key id="10300052" level="1" name="빙결" tooltipDescription="온 몸이 얼어붙었습니다!\n빙결되어 행동불가" />
+	<key id="10300052" level="1" name="빙결" tooltipDescription="온 몸이 얼어붙었습니다!\n빙결되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="1" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="1" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="2" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="2" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="3" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="3" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="4" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="4" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="5" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="5" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="6" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="6" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="7" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="7" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="8" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="8" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="9" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="9" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="10" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="10" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="11" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="11" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300071" level="12" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" />
+	<key id="10300071" level="12" name="썬더 볼트" tooltipDescription="강력한 전기가 온 몸에 흐르고 있습니다!\n감전되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="1" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 1% 증가\n시전자 0.5% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="1" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 1% 증가\n시전자 0.5% 추가 증가" />
+	<key id="10300091" level="2" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 1.4% 증가\n시전자 0.7% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="2" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 1.4% 증가\n시전자 0.7% 추가 증가" />
+	<key id="10300091" level="3" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 1.8% 증가\n시전자 0.9% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="3" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 1.8% 증가\n시전자 0.9% 추가 증가" />
+	<key id="10300091" level="4" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 2.2% 증가\n시전자 1.1% 추가 증가" />
+	<key id="10300091" level="4" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 2.2% 증가\n시전자 1.1% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="5" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 2.6% 증가\n시전자 1.3% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="5" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 2.6% 증가\n시전자 1.3% 추가 증가" />
+	<key id="10300091" level="6" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 3% 증가\n시전자 1.5% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="6" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 3% 증가\n시전자 1.5% 추가 증가" />
+	<key id="10300091" level="7" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 3.4% 증가\n시전자 1.7% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="7" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 3.4% 증가\n시전자 1.7% 추가 증가" />
+	<key id="10300091" level="8" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 3.8% 증가\n시전자 1.9% 추가 증가" />
+	<key id="10300091" level="8" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 3.8% 증가\n시전자 1.9% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="9" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 4.2% 증가\n시전자 2.1% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="9" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 4.2% 증가\n시전자 2.1% 추가 증가" />
+	<key id="10300091" level="10" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 4.6% 증가\n시전자 2.3% 추가 증가" />
+	<key id="10300091" level="10" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 4.6% 증가\n시전자 2.3% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="11" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 5% 증가\n시전자 2.5% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="11" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 5% 증가\n시전자 2.5% 추가 증가" />
+	<key id="10300091" level="12" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 5.4% 증가\n시전자 2.7% 추가 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300091" level="12" name="집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 5.4% 증가\n시전자 2.7% 추가 증가" />
+	<key id="10300131" level="1" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 6% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="1" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 6% 만큼 대미지 흡수" />
+	<key id="10300131" level="2" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 8% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="2" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 8% 만큼 대미지 흡수" />
+	<key id="10300131" level="3" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 10% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="3" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 10% 만큼 대미지 흡수" />
+	<key id="10300131" level="4" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 12% 만큼 대미지 흡수" />
+	<key id="10300131" level="4" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 12% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="5" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 14% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="5" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 14% 만큼 대미지 흡수" />
+	<key id="10300131" level="6" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 16% 만큼 대미지 흡수" />
+	<key id="10300131" level="6" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 16% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="7" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 18% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="7" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 18% 만큼 대미지 흡수" />
+	<key id="10300131" level="8" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 20% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="8" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 20% 만큼 대미지 흡수" />
+	<key id="10300131" level="9" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 22% 만큼 대미지 흡수" />
+	<key id="10300131" level="9" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 22% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="10" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 24% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="10" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 24% 만큼 대미지 흡수" />
+	<key id="10300131" level="11" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 26% 만큼 대미지 흡수" />
+	<key id="10300131" level="11" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 26% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="12" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 28% 만큼 대미지 흡수" feature="CharacterBalance_01" locale="KR" />
+	<key id="10300131" level="12" name="매직 아머" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 28% 만큼 대미지 흡수" />
+	<key id="10300171" level="1" name="마나 컨트롤" tooltipDescription="마법 공격력 20% 증가\n이동 속도 35% 증가" feature="JobChange_01" />
+	<key id="10300172" level="1" name="마나 컨트롤" tooltipDescription="소모 SP 50% 감소\n이동 속도 35% 증가" feature="JobChange_01" />
+	<key id="10300173" level="1" name="마나 컨트롤" tooltipDescription="소모 SP 50% 감소\n이동 속도 35% 증가" feature="JobChange_01" />
+	<key id="10300182" level="1" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="2" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="3" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="4" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="5" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="6" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="7" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="8" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="9" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="10" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="11" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300182" level="12" name="서리" tooltipDescription="핸디 라이트닝 공격 시 추가 대미지" feature="JobChange_01" />
+	<key id="10300183" level="1" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 233% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="2" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 261% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="3" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 288% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="4" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 315% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="5" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 342% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="6" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 369% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="7" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 397% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="8" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 424% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="9" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 451% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="10" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 478% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="11" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 506% 대미지" feature="JobChange_01" />
+	<key id="10300183" level="12" name="핸디 라이트닝" tooltipDescription="5회 중첩 시 533% 대미지" feature="JobChange_01" />
+	<key id="10300193" level="1" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="2" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="3" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="4" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="5" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="6" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="7" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="8" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="9" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="10" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="11" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300193" level="12" name="아이스크림!" tooltipDescription="아이스크림 타임 재사용 또는 지속시간 종료 시 아이스크림 파괴\n아이스크림 먹고 싶지만 참는 중…" feature="JobChange_01" />
+	<key id="10300201" level="1" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 36% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="2" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 40% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="3" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 44% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="4" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 48% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="5" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 52% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="6" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 56% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="7" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 60% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="8" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 64% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="9" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 68% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="10" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 72% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="11" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 76% 추가 대미지" feature="JobChange_01" />
+	<key id="10300201" level="12" name="번개 충전" tooltipDescription="스킬 재사용 시 번개 충전 1 중첩당 80% 추가 대미지" feature="JobChange_01" />
+	<key id="10300202" level="1" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 76% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="2" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 84% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="3" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 92% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="4" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 100% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="5" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 108% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="6" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 116% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="7" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 124% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="8" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 132% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="9" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 140% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="10" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 148% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="11" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 156% 대미지" feature="JobChange_01" />
+	<key id="10300202" level="12" name="번개 충전" tooltipDescription="1 중첩당 회피율 10%증가\n중첩 시 주변에 164% 대미지" feature="JobChange_01" />
+	<key id="10300211" level="1" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 8% 증가" feature="JobChange_01" />
+	<key id="10300211" level="2" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 16% 증가" feature="JobChange_01" />
+	<key id="10300211" level="3" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 24% 증가" feature="JobChange_01" />
+	<key id="10300211" level="4" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 32% 증가" feature="JobChange_01" />
+	<key id="10300211" level="5" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 40% 증가" feature="JobChange_01" />
+	<key id="10300211" level="6" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 48% 증가" feature="JobChange_01" />
+	<key id="10300211" level="7" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 56% 증가" feature="JobChange_01" />
+	<key id="10300211" level="8" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 64% 증가" feature="JobChange_01" />
+	<key id="10300211" level="9" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 72% 증가" feature="JobChange_01" />
+	<key id="10300211" level="10" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 80% 증가" feature="JobChange_01" />
+	<key id="10300211" level="11" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 88% 증가" feature="JobChange_01" />
+	<key id="10300211" level="12" name="찌릿 치릿!" tooltipDescription="전격 및 냉기 공격력 96% 증가" feature="JobChange_01" />
+	<key id="10300222" level="1" name="불씨" tooltipDescription="매 초 31% 대미지\n불씨 중첩 시 298% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="2" name="불씨" tooltipDescription="매 초 35% 대미지\n불씨 중첩 시 332% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="3" name="불씨" tooltipDescription="매 초 39% 대미지\n불씨 중첩 시 366% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="4" name="불씨" tooltipDescription="매 초 43% 대미지\n불씨 중첩 시 400% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="5" name="불씨" tooltipDescription="매 초 47% 대미지\n불씨 중첩 시 434% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="6" name="불씨" tooltipDescription="매 초 51% 대미지\n불씨 중첩 시 468% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="7" name="불씨" tooltipDescription="매 초 55% 대미지\n불씨 중첩 시 502% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="8" name="불씨" tooltipDescription="매 초 59% 대미지\n불씨 중첩 시 536% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="9" name="불씨" tooltipDescription="매 초 63% 대미지\n불씨 중첩 시 570% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="10" name="불씨" tooltipDescription="매 초 67% 대미지\n불씨 중첩 시 604% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="11" name="불씨" tooltipDescription="매 초 71% 대미지\n불씨 중첩 시 638% 범위 대미지" feature="JobChange_01" />
+	<key id="10300222" level="12" name="불씨" tooltipDescription="매 초 75% 대미지\n불씨 중첩 시 672% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="1" name="불쏘시개" tooltipDescription="매 초 37% 대미지\n불씨 획득 시 371% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="2" name="불쏘시개" tooltipDescription="매 초 41% 대미지\n불씨 획득 시 414% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="3" name="불쏘시개" tooltipDescription="매 초 45% 대미지\n불씨 획득 시 457% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="4" name="불쏘시개" tooltipDescription="매 초 49% 대미지\n불씨 획득 시 500% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="5" name="불쏘시개" tooltipDescription="매 초 53% 대미지\n불씨 획득 시 543% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="6" name="불쏘시개" tooltipDescription="매 초 57% 대미지\n불씨 획득 시 586% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="7" name="불쏘시개" tooltipDescription="매 초 61% 대미지\n불씨 획득 시 629% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="8" name="불쏘시개" tooltipDescription="매 초 65% 대미지\n불씨 획득 시 672% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="9" name="불쏘시개" tooltipDescription="매 초 69% 대미지\n불씨 획득 시 715% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="10" name="불쏘시개" tooltipDescription="매 초 73% 대미지\n불씨 획득 시 758% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="11" name="불쏘시개" tooltipDescription="매 초 77% 대미지\n불씨 획득 시 801% 범위 대미지" feature="JobChange_01" />
+	<key id="10300227" level="12" name="불쏘시개" tooltipDescription="매 초 81% 대미지\n불씨 획득 시 844% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="1" name="노릇 노릇" tooltipDescription="매 초 44% 대미지\n에너지 익스플로전 명중 시 407% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="2" name="노릇 노릇" tooltipDescription="매 초 49% 대미지\n에너지 익스플로전 명중 시 454% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="3" name="노릇 노릇" tooltipDescription="매 초 54% 대미지\n에너지 익스플로전 명중 시 501% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="4" name="노릇 노릇" tooltipDescription="매 초 59% 대미지\n에너지 익스플로전 명중 시 548% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="5" name="노릇 노릇" tooltipDescription="매 초 64% 대미지\n에너지 익스플로전 명중 시 595% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="6" name="노릇 노릇" tooltipDescription="매 초 69% 대미지\n에너지 익스플로전 명중 시 642% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="7" name="노릇 노릇" tooltipDescription="매 초 74% 대미지\n에너지 익스플로전 명중 시 689% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="8" name="노릇 노릇" tooltipDescription="매 초 79% 대미지\n에너지 익스플로전 명중 시 736% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="9" name="노릇 노릇" tooltipDescription="매 초 84% 대미지\n에너지 익스플로전 명중 시 783% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="10" name="노릇 노릇" tooltipDescription="매 초 89% 대미지\n에너지 익스플로전 명중 시 830% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="11" name="노릇 노릇" tooltipDescription="매 초 94% 대미지\n에너지 익스플로전 명중 시 877% 범위 대미지" feature="JobChange_01" />
+	<key id="10300234" level="12" name="노릇 노릇" tooltipDescription="매 초 99% 대미지\n에너지 익스플로전 명중 시 924% 범위 대미지" feature="JobChange_01" />
+	<key id="10300242" level="1" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 22% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="2" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 25% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="3" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 27% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="4" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 30% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="5" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 33% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="6" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 35% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="7" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 38% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="8" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 40% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="9" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 43% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="10" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 46% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="11" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 48% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300242" level="12" name="못난이 불정령" tooltipDescription="불씨 명중 시 확정 크리티컬\n크리티컬 명중 시 51% 확률로 파티 타임 발동" feature="JobChange_01" />
+	<key id="10300243" level="1" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="2" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="3" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="4" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="5" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="6" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="7" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="8" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="9" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="10" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="11" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300243" level="12" name="파티 타임" tooltipDescription="바베큐 파티 사용 시 즉시 시전\n어디 한번 놀아 볼까?!" feature="JobChange_01" />
+	<key id="10300252" level="1" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="2" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="3" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="4" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="5" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="6" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="7" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="8" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="9" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="10" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="11" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300252" level="12" name="운석 유도" tooltipDescription="목표 지점으로 운석 낙하 중" feature="JobChange_01" />
+	<key id="10300257" level="1" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="2" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="3" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="4" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="5" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="6" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="7" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="8" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="9" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="10" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="11" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300257" level="12" name="깨달음" tooltipDescription="불씨 시전 시간 및 SP 소모 없음\n강화된 불씨 사용" feature="JobChange_01" />
+	<key id="10300262" level="1" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="2" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="3" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="4" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="5" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="6" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="7" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="8" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="9" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="10" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="11" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300262" level="12" name="포올!" tooltipDescription="얼음 정령이 따르는 중\n아이스 스피어 대신 아이스 밤 사용\n찌릿 치릿 대신 폴 스케이트 사용" feature="JobChange_02" />
+	<key id="10300268" level="1" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="2" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="3" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="4" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="5" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="6" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="7" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="8" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="9" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="10" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="11" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300268" level="12" name="동결" tooltipDescription="얼음 떙!" feature="JobChange_02" />
+	<key id="10300271" level="1" name="허리케인 북상 중!" tooltipDescription="매 초 232% 범위 대미지\n매 초 중첩 당 93% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="2" name="허리케인 북상 중!" tooltipDescription="매 초 258% 범위 대미지\n매 초 중첩 당 104% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="3" name="허리케인 북상 중!" tooltipDescription="매 초 284% 범위 대미지\n매 초 중첩 당 115% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="4" name="허리케인 북상 중!" tooltipDescription="매 초 310% 범위 대미지\n매 초 중첩 당 126% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="5" name="허리케인 북상 중!" tooltipDescription="매 초 336% 범위 대미지\n매 초 중첩 당 137% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="6" name="허리케인 북상 중!" tooltipDescription="매 초 362% 범위 대미지\n매 초 중첩 당 148% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="7" name="허리케인 북상 중!" tooltipDescription="매 초 388% 범위 대미지\n매 초 중첩 당 159% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="8" name="허리케인 북상 중!" tooltipDescription="매 초 414% 범위 대미지\n매 초 중첩 당 170% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="9" name="허리케인 북상 중!" tooltipDescription="매 초 440% 범위 대미지\n매 초 중첩 당 181% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="10" name="허리케인 북상 중!" tooltipDescription="매 초 466% 범위 대미지\n매 초 중첩 당 192% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="11" name="허리케인 북상 중!" tooltipDescription="매 초 492% 범위 대미지\n매 초 중첩 당 203% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300271" level="12" name="허리케인 북상 중!" tooltipDescription="매 초 518% 범위 대미지\n매 초 중첩 당 214% 대미지\n서리 획득 시 중첩 증가" feature="JobChange_02" />
+	<key id="10300275" level="1" name="용오름" tooltipDescription="매 0.5초 355% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="2" name="용오름" tooltipDescription="매 0.5초 396% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="3" name="용오름" tooltipDescription="매 0.5초 437% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="4" name="용오름" tooltipDescription="매 0.5초 478% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="5" name="용오름" tooltipDescription="매 0.5초 519% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="6" name="용오름" tooltipDescription="매 0.5초 560% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="7" name="용오름" tooltipDescription="매 0.5초 601% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="8" name="용오름" tooltipDescription="매 0.5초 642% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="9" name="용오름" tooltipDescription="매 0.5초 683% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="10" name="용오름" tooltipDescription="매 0.5초 724% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="11" name="용오름" tooltipDescription="매 0.5초 765% 범위 대미지" feature="JobChange_02" />
+	<key id="10300275" level="12" name="용오름" tooltipDescription="매 0.5초 806% 범위 대미지" feature="JobChange_02" />
+	<key id="10300283" level="1" name="소화" tooltipDescription="완전 연소 불가" feature="JobChange_02" />
+	<key id="10300285" level="1" name="완전 연소" tooltipDescription="화염 공격력 22% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="2" name="완전 연소" tooltipDescription="화염 공격력 30% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="3" name="완전 연소" tooltipDescription="화염 공격력 38% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="4" name="완전 연소" tooltipDescription="화염 공격력 46% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="5" name="완전 연소" tooltipDescription="화염 공격력 54% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="6" name="완전 연소" tooltipDescription="화염 공격력 62% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="7" name="완전 연소" tooltipDescription="화염 공격력 70% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="8" name="완전 연소" tooltipDescription="화염 공격력 78% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="9" name="완전 연소" tooltipDescription="화염 공격력 86% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="10" name="완전 연소" tooltipDescription="화염 공격력 94% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="11" name="완전 연소" tooltipDescription="화염 공격력 102% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300285" level="12" name="완전 연소" tooltipDescription="화염 공격력 110% 증가\n에너지 익스플로전 강화" feature="JobChange_02" />
+	<key id="10300292" level="1" name="사나운 불길" tooltipDescription="매 초 128% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="2" name="사나운 불길" tooltipDescription="매 초 142% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="3" name="사나운 불길" tooltipDescription="매 초 156% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="4" name="사나운 불길" tooltipDescription="매 초 170% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="5" name="사나운 불길" tooltipDescription="매 초 184% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="6" name="사나운 불길" tooltipDescription="매 초 198% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="7" name="사나운 불길" tooltipDescription="매 초 212% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="8" name="사나운 불길" tooltipDescription="매 초 226% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="9" name="사나운 불길" tooltipDescription="매 초 240% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="10" name="사나운 불길" tooltipDescription="매 초 254% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="11" name="사나운 불길" tooltipDescription="매 초 268% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
+	<key id="10300292" level="12" name="사나운 불길" tooltipDescription="매 초 282% 대미지\n10% 확률로 폭파" feature="JobChange_02" />
 </ms2>

@@ -11,3 +11,9 @@
 
 # Cygwin/Git-Bash crash dumps
 *.stackdump
+
+# Build artifacts and local scratch
+*.m2d
+*.m2h
+/rebaseline/
+/additionaldescription-*.csv

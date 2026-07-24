@@ -1,29 +1,407 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="10200032" level="1" name="黑暗气息" tooltipDescription="每秒追加恢复1能量" />
-	<key id="10200032" level="2" name="黑暗气息" tooltipDescription="每秒增加1.2点能量恢复" feature="JobChange_01" />
-	<key id="10200061" level="12" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低42%\n跳跃力、移动速度降低42%" />
-	<key id="10200063" level="12" name="威胁眩晕效果" tooltipDescription="暴露于强盛的斗气之中，无法行动" />
-	<key id="10200064" level="12" name="威胁" tooltipDescription="丧失斗志，浑身无力……\n攻击力降低30%" />
-	<key id="10200081" level="12" name="肾上腺素" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加5" />
-	<key id="10200082" level="12" name="肾上腺素第2阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加6" />
-	<key id="10200083" level="12" name="肾上腺素第3阶段" tooltipDescription="失控的黑暗气息！\n每秒能量自然恢复量增加7" />
-	<key id="10200101" level="12" name="坚忍" tooltipDescription="凭借不屈的意志克服极端的环境。\n物理抵抗力及魔法抵抗力提高650" />
-	<key id="10200112" level="12" name="出血" tooltipDescription="受到重创，不停流血。\n每秒受到37%的伤害" />
-	<key id="10200131" level="12" name="黑暗支配者" tooltipDescription="攻击速度、物理攻击力、魔法攻击力提高38%\n所有攻击命中时，能量恢复1" />
-	<key id="10200141" level="12" name="血祭" tooltipDescription="额外获得黑暗力量。\n攻击成功时伤害提高16%\n攻击成功时生命减少1%" />
-	<key id="10200171" level="12" name="浮空猛击" tooltipDescription="跳跃攻击！" feature="JobChange_01" />
-	<key id="10200173" level="12" name="摇摇晃晃" tooltipDescription="移动速度降低20%" feature="JobChange_01" />
-	<key id="10200201" level="12" name="无慈悲" tooltipDescription="立刻使用劈裂头骨3段攻击" feature="JobChange_01" />
-	<key id="10200212" level="12" name="血之狂乱" tooltipDescription="物理攻击力提高31.5%\n血之渴望伤害提高336%\n使用血之渴望时，有30%的概率发动无慈悲" feature="JobChange_01" />
-	<key id="10200221" level="12" name="狂战士之魂" tooltipDescription="攻击速度提高30%\n物理攻击力和暗黑攻击力提高60%\n吸收因地震而龟裂的大地中所藏的黑暗气息" feature="JobChange_01" />
-	<key id="10200224" level="12" name="黑暗缝隙" tooltipDescription="追加获得黑暗气息\n移动速度提高100" feature="JobChange_01" />
-	<key id="10200232" level="12" name="狂风" tooltipDescription="叠加3层时发动飓风" feature="JobChange_01" />
-	<key id="10200233" level="12" name="飓风！" tooltipDescription="碾碎你！" feature="JobChange_01" />
-	<key id="10200243" level="12" name="出血过量" tooltipDescription="每叠加1次，每秒造成118%的伤害" feature="JobChange_01" />
-	<key id="10200265" level="5" name="孤军奋战 5阶段" tooltipDescription="防御力提高10%、物理攻击提高17.5%" feature="JobChange_02" />
-	<key id="10200271" level="12" name="要害攻击" tooltipDescription="眩晕" feature="JobChange_02" />
-	<key id="10200282" level="12" name="血风" tooltipDescription="可进行旋风攻击" feature="JobChange_02" />
-	<key id="10200291" level="12" name="暗黑狂气" tooltipDescription="物理攻击力提高24%" feature="JobChange_02" />
-	<key id="10200292" level="12" name="灵魂侵蚀" tooltipDescription="物理攻击力、魔法攻击力降低42%" feature="JobChange_02" />
+	<key id="10200032" level="1" name="어둠의 기운" tooltipDescription="초당 SP 1 추가 회복" />
+	<key id="10200032" level="1" name="어둠의 기운" tooltipDescription="초당 SP 1 추가 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200032" level="2" name="어둠의 기운" tooltipDescription="초당 SP 1.2 추가 회복" feature="JobChange_01" />
+	<key id="10200061" level="1" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 9% 감소\n점프력, 이동속도 9% 감소" />
+	<key id="10200061" level="1" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 9% 감소\n점프력, 이동속도 9% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="2" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 12% 감소\n점프력, 이동속도 12% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="2" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 12% 감소\n점프력, 이동속도 12% 감소" />
+	<key id="10200061" level="3" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 15% 감소\n점프력, 이동속도 15% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="3" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 15% 감소\n점프력, 이동속도 15% 감소" />
+	<key id="10200061" level="4" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 18% 감소\n점프력, 이동속도 18% 감소" />
+	<key id="10200061" level="4" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 18% 감소\n점프력, 이동속도 18% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="5" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 21% 감소\n점프력, 이동속도 21% 감소" />
+	<key id="10200061" level="5" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 21% 감소\n점프력, 이동속도 21% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="6" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 24% 감소\n점프력, 이동속도 24% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="6" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 24% 감소\n점프력, 이동속도 24% 감소" />
+	<key id="10200061" level="7" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 27% 감소\n점프력, 이동속도 27% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="7" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 27% 감소\n점프력, 이동속도 27% 감소" />
+	<key id="10200061" level="8" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 30% 감소\n점프력, 이동속도 30% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="8" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 30% 감소\n점프력, 이동속도 30% 감소" />
+	<key id="10200061" level="9" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 33% 감소\n점프력, 이동속도 33% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="9" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 33% 감소\n점프력, 이동속도 33% 감소" />
+	<key id="10200061" level="10" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 36% 감소\n점프력, 이동속도 36% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="10" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 36% 감소\n점프력, 이동속도 36% 감소" />
+	<key id="10200061" level="11" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 39% 감소\n점프력, 이동속도 39% 감소" />
+	<key id="10200061" level="11" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 39% 감소\n점프력, 이동속도 39% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200061" level="12" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 42% 감소\n점프력, 이동속도 42% 감소" />
+	<key id="10200061" level="12" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 42% 감소\n점프력, 이동속도 42% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="1" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="1" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="2" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="2" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="3" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="3" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="4" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="4" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="5" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="5" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="6" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="6" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="7" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="7" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="8" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="8" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="9" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="9" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="10" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="10" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="11" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="11" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200063" level="12" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" />
+	<key id="10200063" level="12" name="위협 스턴 효과" tooltipDescription="강력한 투기에 노출되어 행동 불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="1" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 9% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="1" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 9% 감소" />
+	<key id="10200064" level="2" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 12% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="2" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 12% 감소" />
+	<key id="10200064" level="3" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 15% 감소" />
+	<key id="10200064" level="3" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 15% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="4" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 18% 감소" />
+	<key id="10200064" level="4" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 18% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="5" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 21% 감소" />
+	<key id="10200064" level="5" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 21% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="6" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 24% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="6" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 24% 감소" />
+	<key id="10200064" level="7" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 27% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="7" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 27% 감소" />
+	<key id="10200064" level="8" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 30% 감소" />
+	<key id="10200064" level="8" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 30% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="9" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 33% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="9" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 21% 감소" />
+	<key id="10200064" level="10" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 36% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="10" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 24% 감소" />
+	<key id="10200064" level="11" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 27% 감소" />
+	<key id="10200064" level="11" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 39% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="12" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 42% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200064" level="12" name="위협" tooltipDescription="전의를 상실하여 온몸에 힘이 빠집니다...\n공격력 30% 감소" />
+	<key id="10200081" level="1" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 1 증가" />
+	<key id="10200081" level="1" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 1 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="2" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" />
+	<key id="10200081" level="2" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="3" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="3" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" />
+	<key id="10200081" level="4" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" />
+	<key id="10200081" level="4" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="5" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200081" level="5" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="6" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="6" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200081" level="7" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200081" level="7" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="8" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="8" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200081" level="9" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="9" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200081" level="10" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200081" level="10" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="11" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200081" level="11" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200081" level="12" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200081" level="12" name="아드레날린" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="1" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" />
+	<key id="10200082" level="1" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="2" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="2" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 2 증가" />
+	<key id="10200082" level="3" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="3" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200082" level="4" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200082" level="4" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="5" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="5" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200082" level="6" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="6" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200082" level="7" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200082" level="7" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="8" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200082" level="8" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="9" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="9" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200082" level="10" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="10" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200082" level="11" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200082" level="11" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200082" level="12" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 6 증가" />
+	<key id="10200082" level="12" name="아드레날린 2단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 6 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="1" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200083" level="1" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="2" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200083" level="2" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="3" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" />
+	<key id="10200083" level="3" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="4" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="4" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200083" level="5" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="5" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200083" level="6" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="6" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 4 증가" />
+	<key id="10200083" level="7" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200083" level="7" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="8" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200083" level="8" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="9" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="9" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 5 증가" />
+	<key id="10200083" level="10" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 6 증가" />
+	<key id="10200083" level="10" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 6 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="11" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 6 증가" />
+	<key id="10200083" level="11" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 6 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200083" level="12" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 7 증가" />
+	<key id="10200083" level="12" name="아드레날린 3단계" tooltipDescription="어둠의 기운을 통제할 수 없습니다!\n초당 SP 자연 회복량 7 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="1" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 100 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="1" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 100 증가" />
+	<key id="10200101" level="2" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 150 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="2" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 150 증가" />
+	<key id="10200101" level="3" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 200 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="3" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 200 증가" />
+	<key id="10200101" level="4" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 250 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="4" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 250 증가" />
+	<key id="10200101" level="5" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 300 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="5" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 300 증가" />
+	<key id="10200101" level="6" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 350 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="6" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 350 증가" />
+	<key id="10200101" level="7" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 400 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="7" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 400 증가" />
+	<key id="10200101" level="8" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 450 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="8" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 450 증가" />
+	<key id="10200101" level="9" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 500 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="9" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 500 증가" />
+	<key id="10200101" level="10" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 550 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="10" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 550 증가" />
+	<key id="10200101" level="11" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 600 증가" />
+	<key id="10200101" level="11" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 600 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="12" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 650 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200101" level="12" name="인듀어" tooltipDescription="불굴의 의지로 극한의 상황을 견뎌냅니다.\n물리 저항력과 마법 저항력 650 증가" />
+	<key id="10200112" level="1" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 4% 의 대미지" />
+	<key id="10200112" level="1" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 4% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="2" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 7% 의 대미지" />
+	<key id="10200112" level="2" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 7% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="3" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 10% 의 대미지" />
+	<key id="10200112" level="3" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 10% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="4" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 13% 의 대미지" />
+	<key id="10200112" level="4" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 13% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="5" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 16% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="5" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 16% 의 대미지" />
+	<key id="10200112" level="6" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 19% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="6" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 19% 의 대미지" />
+	<key id="10200112" level="7" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 22% 의 대미지" />
+	<key id="10200112" level="7" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 22% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="8" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 25% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="8" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 25% 의 대미지" />
+	<key id="10200112" level="9" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 28% 의 대미지" />
+	<key id="10200112" level="9" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 28% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="10" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 31% 의 대미지" />
+	<key id="10200112" level="10" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 31% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="11" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 34% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="11" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 34% 의 대미지" />
+	<key id="10200112" level="12" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 37% 의 대미지" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200112" level="12" name="출혈" tooltipDescription="깊은 상처를 입어 피를 흘립니다.\n매 초마다 37% 의 대미지" />
+	<key id="10200131" level="1" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 16% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="1" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 17% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="2" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 18% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="2" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 19% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="3" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 20% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="3" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 21% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="4" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 23% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="4" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 22% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="5" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 25% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="5" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 24% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="6" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 27% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="6" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 26% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="7" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 28% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="7" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 29% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="8" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 31% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="8" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 30% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="9" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 32% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="9" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 33% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="10" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 34% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="10" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 35% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="11" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 37% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200131" level="11" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 36% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="12" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 38% 증가\n모든 타격 명중 시 SP 1 회복" />
+	<key id="10200131" level="12" name="어둠의 지배자" tooltipDescription="공격 속도, 물리 공격력, 마법 공격력 39% 증가\n모든 타격 명중 시 SP 1 회복" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="1" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 5% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="1" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 5% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="2" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 6% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="2" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 6% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="3" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 7% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="3" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 7% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="4" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 8% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="4" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 8% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="5" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 9% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="5" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 9% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="6" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 10% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="6" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 10% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="7" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 11% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="7" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 11% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="8" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 12% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="8" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 12% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="9" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 13% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="9" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 13% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="10" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 14% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="10" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 14% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="11" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 15% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="11" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 15% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200141" level="12" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 16% 증가\n공격 성공 시 HP 1% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10200141" level="12" name="피의 제물" tooltipDescription="어둠의 힘을 추가적으로 부여받습니다.\n공격 성공 시 대미지 16% 증가\n공격 성공 시 HP 1% 감소" />
+	<key id="10200171" level="1" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="2" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="3" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="4" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="5" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="6" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="7" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="8" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="9" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="10" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="11" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200171" level="12" name="에어리얼 스매쉬" tooltipDescription="도약 공격!" feature="JobChange_01" />
+	<key id="10200173" level="1" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="2" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="3" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="4" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="5" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="6" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="7" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="8" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="9" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="10" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="11" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200173" level="12" name="비틀거림" tooltipDescription="이동 속도 20% 감소" feature="JobChange_01" />
+	<key id="10200201" level="1" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="2" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="3" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="4" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="5" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="6" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="7" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="8" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="9" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="10" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="11" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200201" level="12" name="무자비함" tooltipDescription="두골 쪼개기 3단계 공격 즉시 사용" feature="JobChange_01" />
+	<key id="10200212" level="1" name="피의 광란" tooltipDescription="물리 공격력 4% 증가\n피의 갈망 대미지 149% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="2" name="피의 광란" tooltipDescription="물리 공격력 6.5% 증가\n피의 갈망 대미지 166% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="3" name="피의 광란" tooltipDescription="물리 공격력 9% 증가\n피의 갈망 대미지 183% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="4" name="피의 광란" tooltipDescription="물리 공격력 11.5% 증가\n피의 갈망 대미지 200% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="5" name="피의 광란" tooltipDescription="물리 공격력 14% 증가\n피의 갈망 대미지 217% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="6" name="피의 광란" tooltipDescription="물리 공격력 16.5% 증가\n피의 갈망 대미지 234% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="7" name="피의 광란" tooltipDescription="물리 공격력 19% 증가\n피의 갈망 대미지 251% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="8" name="피의 광란" tooltipDescription="물리 공격력 21.5% 증가\n피의 갈망 대미지 268% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="9" name="피의 광란" tooltipDescription="물리 공격력 24% 증가\n피의 갈망 대미지 285% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="10" name="피의 광란" tooltipDescription="물리 공격력 26.5% 증가\n피의 갈망 대미지 302% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="11" name="피의 광란" tooltipDescription="물리 공격력 29% 증가\n피의 갈망 대미지 319% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200212" level="12" name="피의 광란" tooltipDescription="물리 공격력 31.5% 증가\n피의 갈망 대미지 336% 증가\n피의 갈망 사용 시 30% 확률로 무자비함 발동" feature="JobChange_01" />
+	<key id="10200221" level="1" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 5% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="2" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 10% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="3" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 15% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="4" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 20% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="5" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 25% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="6" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 30% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="7" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 35% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="8" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 40% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="9" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 45% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="10" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 50% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="11" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 55% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200221" level="12" name="광전사의 혼" tooltipDescription="공격 속도 30% 증가\n물리 공격력 및 암흑 공격력 60% 증가\n지진으로 갈라진 대지에서 어둠의 기운 흡수" feature="JobChange_01" />
+	<key id="10200224" level="1" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="2" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="3" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="4" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="5" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="6" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="7" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="8" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="9" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="10" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="11" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200224" level="12" name="어둠의 틈" tooltipDescription="어둠의 기운 추가 획득\n이동 속도 100 증가" feature="JobChange_01" />
+	<key id="10200232" level="1" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="2" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="3" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="4" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="5" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="6" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="7" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="8" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="9" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="10" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="11" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200232" level="12" name="광풍" tooltipDescription="3 중첩시 돌개 바람 발동" feature="JobChange_01" />
+	<key id="10200233" level="1" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="2" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="3" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="4" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="5" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="6" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="7" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="8" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="9" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="10" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="11" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200233" level="12" name="돌개 바람!" tooltipDescription="갈아 마셔 주마!" feature="JobChange_01" />
+	<key id="10200243" level="1" name="과출혈" tooltipDescription="중첩당 매 초 52% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="2" name="과출혈" tooltipDescription="중첩당 매 초 58% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="3" name="과출혈" tooltipDescription="중첩당 매 초 64% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="4" name="과출혈" tooltipDescription="중첩당 매 초 70% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="5" name="과출혈" tooltipDescription="중첩당 매 초 76% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="6" name="과출혈" tooltipDescription="중첩당 매 초 82% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="7" name="과출혈" tooltipDescription="중첩당 매 초 88% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="8" name="과출혈" tooltipDescription="중첩당 매 초 94% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="9" name="과출혈" tooltipDescription="중첩당 매 초 100% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="10" name="과출혈" tooltipDescription="중첩당 매 초 106% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="11" name="과출혈" tooltipDescription="중첩당 매 초 112% 대미지" feature="JobChange_01" />
+	<key id="10200243" level="12" name="과출혈" tooltipDescription="중첩당 매 초 118% 대미지" feature="JobChange_01" />
+	<key id="10200265" level="1" name="고군 분투 1단계" tooltipDescription="방어력 2%, 물리 공격력 3.5% 증가" feature="JobChange_02" />
+	<key id="10200265" level="2" name="고군 분투 2단계" tooltipDescription="방어력 4%, 물리 공격력 7% 증가" feature="JobChange_02" />
+	<key id="10200265" level="3" name="고군 분투 3단계" tooltipDescription="방어력 6%, 물리 공격력 10.5% 증가" feature="JobChange_02" />
+	<key id="10200265" level="4" name="고군 분투 4단계" tooltipDescription="방어력 8%, 물리 공격력 14% 증가" feature="JobChange_02" />
+	<key id="10200265" level="5" name="고군 분투 5단계" tooltipDescription="방어력 10%, 물리 공격력 17.5% 증가" feature="JobChange_02" />
+	<key id="10200271" level="1" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="2" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="3" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="4" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="5" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="6" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="7" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="8" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="9" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="10" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="11" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200271" level="12" name="급소 타격" tooltipDescription="기절" feature="JobChange_02" />
+	<key id="10200282" level="1" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="2" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="3" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="4" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="5" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="6" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="7" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="8" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="9" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="10" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="11" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200282" level="12" name="피바람" tooltipDescription="회오리 공격 가능" feature="JobChange_02" />
+	<key id="10200291" level="1" name="암흑 광기" tooltipDescription="물리 공격력 2% 증가" feature="JobChange_02" />
+	<key id="10200291" level="2" name="암흑 광기" tooltipDescription="물리 공격력 4% 증가" feature="JobChange_02" />
+	<key id="10200291" level="3" name="암흑 광기" tooltipDescription="물리 공격력 6% 증가" feature="JobChange_02" />
+	<key id="10200291" level="4" name="암흑 광기" tooltipDescription="물리 공격력 8% 증가" feature="JobChange_02" />
+	<key id="10200291" level="5" name="암흑 광기" tooltipDescription="물리 공격력 10% 증가" feature="JobChange_02" />
+	<key id="10200291" level="6" name="암흑 광기" tooltipDescription="물리 공격력 12% 증가" feature="JobChange_02" />
+	<key id="10200291" level="7" name="암흑 광기" tooltipDescription="물리 공격력 14% 증가" feature="JobChange_02" />
+	<key id="10200291" level="8" name="암흑 광기" tooltipDescription="물리 공격력 16% 증가" feature="JobChange_02" />
+	<key id="10200291" level="9" name="암흑 광기" tooltipDescription="물리 공격력 18% 증가" feature="JobChange_02" />
+	<key id="10200291" level="10" name="암흑 광기" tooltipDescription="물리 공격력 20% 증가" feature="JobChange_02" />
+	<key id="10200291" level="11" name="암흑 광기" tooltipDescription="물리 공격력 22% 증가" feature="JobChange_02" />
+	<key id="10200291" level="12" name="암흑 광기" tooltipDescription="물리 공격력 24% 증가" feature="JobChange_02" />
+	<key id="10200292" level="1" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 9% 감소" feature="JobChange_02" />
+	<key id="10200292" level="2" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 12% 감소" feature="JobChange_02" />
+	<key id="10200292" level="3" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 15% 감소" feature="JobChange_02" />
+	<key id="10200292" level="4" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 18% 감소" feature="JobChange_02" />
+	<key id="10200292" level="5" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 21% 감소" feature="JobChange_02" />
+	<key id="10200292" level="6" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 24% 감소" feature="JobChange_02" />
+	<key id="10200292" level="7" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 27% 감소" feature="JobChange_02" />
+	<key id="10200292" level="8" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 30% 감소" feature="JobChange_02" />
+	<key id="10200292" level="9" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 33% 감소" feature="JobChange_02" />
+	<key id="10200292" level="10" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 36% 감소" feature="JobChange_02" />
+	<key id="10200292" level="11" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 39% 감소" feature="JobChange_02" />
+	<key id="10200292" level="12" name="잠식된 영혼" tooltipDescription="물리 공격력, 마법 공격력 42% 감소" feature="JobChange_02" />
 </ms2>

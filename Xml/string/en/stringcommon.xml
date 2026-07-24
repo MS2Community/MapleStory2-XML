@@ -1145,7 +1145,7 @@
 	<key id="s_item_err_skill_level" value="The skill level data is missing." />
 	<key id="s_item_err_puton_skill_samekinds" value="This skill is already equipped." />
 	<key id="s_item_err_puton_vip" value="You must have an active Premium Club membership to use this." />
-	<key id="s_item_err_puton_wedding" value="STRINGCOMMON_S_ITEM_ERR_PUTON_WEDDING_VALUE" />
+	<key id="s_item_err_puton_wedding" value="This item is for weddings only." />
 	<key id="s_item_err_puton_invalid_binding" value="A character&apos;s item can only be worn by that character." />
 	<key id="s_item_err_use_invalid_binding" value="A character&apos;s item can only be used by that character." />
 	<key id="s_word_screenshot" value="Screenshot saved to {0}." />
@@ -2129,7 +2129,7 @@
 	<key id="s_word_item_limit_bind_trade" value="Binds on Trade" />
 	<key id="s_word_item_limit_bind_pet" value="Binds on Summon, Enhancement, or Talent Re-roll" />
 	<key id="s_word_item_limit_vip" value="Premium Club Item" />
-	<key id="s_word_item_limit_wedding" value="STRINGCOMMON_S_WORD_ITEM_LIMIT_WEDDING_VALUE" />
+	<key id="s_word_item_limit_wedding" value="Wedding-only Item" />
 	<key id="s_word_item_limit_moveDisable" value="Can&apos;t Transfer within Account" feature="EnchantReformation01" />
 	<key id="s_word_item_limit_moveDisable_store_in" value="Only {0} Can Withdraw" feature="EnchantReformation01" />
 	<key id="s_word_item_limit_socket_transfer" value="Socket cannot be transferred." />
@@ -3037,7 +3037,7 @@
 	<key id="s_err_cash_recall_not_party" value="You must be in a party to summon." />
 	<key id="s_err_cash_recall_no_guildmember" value="There are no guild members to summon.\nYou can only summon guild members connected to the same world." />
 	<key id="s_err_cash_recall_no_partymember" value="There are no party members to summon.\nYou can only summon party members connected to the same world." />
-	<key id="s_err_cash_recall_no_weddingmember" value="STRINGCOMMON_S_ERR_CASH_RECALL_NO_WEDDINGMEMBER_VALUE" />
+	<key id="s_err_cash_recall_no_weddingmember" value="There is no spouse available to summon.\nOnly a spouse currently connected to the same world can be summoned." />
 	<key id="s_err_cash_recall_overflow" value="Summoning cannot be done in a crowded region." />
 	<key id="s_err_cash_call_cancel" value="The use of {0} was interrupted." />
 	<key id="s_err_cash_recall_cannot_dead" value="You cannot respond while tombstoned\nRevive and try again." />
@@ -3045,7 +3045,7 @@
 	<key id="s_cash_recall_confirm" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt; has opened a portal to &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;.\nDo you want to go there?" />
 	<key id="s_cash_recall_party_notice" value="A party member wants to summon you to their location." />
 	<key id="s_cash_recall_guild_notice" value="You&apos;ve got the guild summon request." />
-	<key id="s_cash_recall_wedding_notice" value="STRINGCOMMON_S_CASH_RECALL_WEDDING_NOTICE_VALUE" />
+	<key id="s_cash_recall_wedding_notice" value="A wedding summon request has arrived." />
 	<key id="s_cash_recall_expired_notice" value="You are unable to respond to the summon request." />
 	<key id="s_cash_recall_end_notice" value="This summon request has already ended." />
 	<key id="s_cash_recall_other_continent" value="You can&apos;t move to another region.\nDestination: {0}" />
@@ -3175,7 +3175,7 @@
 	<key id="s_system_quest_reward_meso" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} Meso(s)&lt;/FONT&gt;" />
 	<key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} Meso(s) + {1} from Hot Time&lt;/FONT&gt;" />
 	<key id="s_system_quest_reward_merat" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} Meret(s)&lt;/FONT&gt;" />
-	<key id="s_system_quest_reward_wedding_exp" value="STRINGCOMMON_S_SYSTEM_QUEST_REWARD_WEDDING_EXP_VALUE" />
+	<key id="s_system_quest_reward_wedding_exp" value="&lt;FONT color=&apos;#&apos;FFB400&gt;{0} Affinity gained&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_title" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Title &quot;{0}&quot;&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_field_enterance" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} entry permission(s)&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_karma" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Treva x{0}&lt;/FONT&gt;" />
@@ -3400,7 +3400,7 @@
 	<key id="s_tooltip_gamemenu_gallery" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Schwanda&apos;s Holiday Gallery {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView Schwanda&apos;s Holiday Gallery event menu." />
 	<key id="s_tooltip_gamemenu_gallery" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Schwanda&apos;s Holiday Gallery {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView Schwanda&apos;s Holiday Gallery event menu." locale="NA" />
 	<key id="s_tooltip_gamemenu_rps" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rock-Paper-Scissors {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView the Rock-Paper-Scissors event window." />
-	<key id="s_tooltip_gamemenu_coupledance" value="STRINGCOMMON_S_TOOLTIP_GAMEMENU_COUPLEDANCE_VALUE" />
+	<key id="s_tooltip_gamemenu_coupledance" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Love Dance Party{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can request a Couple Dance game and receive rewards." />
 	<key id="s_tooltip_gamemenu_characterselect" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Select Character {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nTakes you back to the Character Select Screen." />
 	<key id="s_tooltip_gamemenu_end" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;End Game {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEnds the game." />
 	<key id="s_tooltip_gamemenu_survival" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Mushking Royale {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView information about Mushking Royale or sign up for a match." feature="SurvivalContents01" />
@@ -5993,39 +5993,39 @@
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Winter Burning Event]&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn.\n• This effect lasts from level 10 until 70. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the original character.\n\nAfter leveling a designated burning character to 70, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 12/13/2018 after maintenance to 2/14/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n\n" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Winter Burning Event]&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn.\n• This effect lasts from level 9 until 60. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the character you originally designated first.\n\n•After leveling a designated burning character to 60, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 11/13/2019 after maintenance to 12/11/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" locale="NA" />
 	<key id="s_burning_levelup_event_reward_ui_title" value="Burning" />
-	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_ITEM_DESC_POPUP_VALUE" />
-	<key id="s_burning_levelup_event_jumping_item_notify" value="STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_ITEM_NOTIFY_VALUE" />
-	<key id="s_burning_levelup_event_jumping_complete" value="STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_COMPLETE_VALUE" />
-	<key id="s_action_banner_couple_dance" value="STRINGCOMMON_S_ACTION_BANNER_COUPLE_DANCE_VALUE" />
-	<key id="s_microgame_couple_dance_event_invalid_event" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_EVENT_INVALID_EVENT_VALUE" />
-	<key id="s_microgame_couple_dance_event_ask_close" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_EVENT_ASK_CLOSE_VALUE" />
-	<key id="s_microgame_couple_dance_close" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_CLOSE_VALUE" />
-	<key id="s_microgame_couple_dance_waiting" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_WAITING_VALUE" />
-	<key id="s_microgame_couple_dance_request_recv" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_RECV_VALUE" />
-	<key id="s_microgame_couple_dance_response_decline" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_DECLINE_VALUE" />
-	<key id="s_microgame_couple_dance_response_accept" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_ACCEPT_VALUE" />
-	<key id="s_microgame_couple_dance_failed" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_FAILED_VALUE" />
-	<key id="s_microgame_couple_dance_open_banner_failed_action_key" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_OPEN_BANNER_FAILED_ACTION_KEY_VALUE" />
-	<key id="s_microgame_couple_dance_open_banner_failed_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_OPEN_BANNER_FAILED_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_wrong_distance" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_DISTANCE_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_wrong_position" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_POSITION_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_request_cancel" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_CANCEL_VALUE" />
-	<key id="s_microgame_couple_dance_peer_game_cancel" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_PEER_GAME_CANCEL_VALUE" />
-	<key id="s_microgame_couple_dance_banner_failed_blocked_in_this_field" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_BANNER_FAILED_BLOCKED_IN_THIS_FIELD_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_blocked_in_this_field" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_BLOCKED_IN_THIS_FIELD_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_peer_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_PEER_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_blocked_user" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_BLOCKED_USER_VALUE" />
-	<key id="s_microgame_couple_dance_response_failed_blocked_user" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_FAILED_BLOCKED_USER_VALUE" />
-	<key id="s_microgame_couple_dance_accept_failed_peer_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_ACCEPT_FAILED_PEER_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_start_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_START_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_ready_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_READY_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_select_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_SELECT_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_wait_result_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_WAIT_RESULT_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_success_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_SUCCESS_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_fail_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_FAIL_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_normal_end_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_NORMAL_END_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_good_end_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_GOOD_END_MESSAGE_VALUE" />
+	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="\n• This Level 60 Jump Potion is provided upon completing the tutorial. \n• After using it, you cannot designate another Burning character even if you delete this character.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" />
+	<key id="s_burning_levelup_event_jumping_item_notify" value="Check your inventory now! \n You received a &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 60 Level-Up Potion]&lt;/FONT&gt;. \nUse the item to jump to level 60! \n After jumping, you can benefit from Burning up to level 81.\n\n" />
+	<key id="s_burning_levelup_event_jumping_complete" value="You used the &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 60 Level-Up Potion]&lt;/FONT&gt;! \n\n • You can no longer create another Burning character, even if you delete this character.\n • Complete the job advancement quest for smooth progression.\n • From now until level 81, 1+2 Burning level-ups will apply.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 81 Final Reward]&lt;/FONT&gt;\n " />
+	<key id="s_action_banner_couple_dance" value="Join the Couple Dance" />
+	<key id="s_microgame_couple_dance_event_invalid_event" value="This event cannot be started." />
+	<key id="s_microgame_couple_dance_event_ask_close" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;Closing the window will cancel the Couple Dance listing.&lt;/font&gt;\nAre you sure you want to close the window?" />
+	<key id="s_microgame_couple_dance_close" value="Would you like to cancel the Couple Dance listing?" />
+	<key id="s_microgame_couple_dance_waiting" value="Sending a Couple Dance request to the other player." />
+	<key id="s_microgame_couple_dance_request_recv" value="{0} has requested a Couple Dance." />
+	<key id="s_microgame_couple_dance_response_decline" value="{0} does not want to Couple Dance." />
+	<key id="s_microgame_couple_dance_response_accept" value="Let&apos;s dance together!" />
+	<key id="s_microgame_couple_dance_failed" value="Failed to start Couple Dance" />
+	<key id="s_microgame_couple_dance_open_banner_failed_action_key" value="You cannot post a Couple Dance listing here." />
+	<key id="s_microgame_couple_dance_open_banner_failed_wrong_state" value="You cannot do that in your current state." />
+	<key id="s_microgame_couple_dance_request_failed_wrong_distance" value="You are too far away to do that." />
+	<key id="s_microgame_couple_dance_request_failed_wrong_position" value="You cannot do that from your current position." />
+	<key id="s_microgame_couple_dance_request_failed_wrong_state" value="You cannot do that in your current state." />
+	<key id="s_microgame_couple_dance_request_cancel" value="The other player canceled the Couple Dance request." />
+	<key id="s_microgame_couple_dance_peer_game_cancel" value="The other player ended the Couple Dance game." />
+	<key id="s_microgame_couple_dance_banner_failed_blocked_in_this_field" value="You cannot do that on the current map." />
+	<key id="s_microgame_couple_dance_request_failed_blocked_in_this_field" value="You cannot do that on the current map." />
+	<key id="s_microgame_couple_dance_request_failed_peer_wrong_state" value="The other player is unable to participate in a Couple Dance game." />
+	<key id="s_microgame_couple_dance_request_failed_blocked_user" value="You have blocked this player. Unblock them and try again." />
+	<key id="s_microgame_couple_dance_response_failed_blocked_user" value="A blocked player requested a Couple Dance." />
+	<key id="s_microgame_couple_dance_accept_failed_peer_wrong_state" value="The other player is unable to Couple Dance." />
+	<key id="s_microgame_couple_dance_start_message" value="Starting the Couple Dance game!" />
+	<key id="s_microgame_couple_dance_ready_message" value="Express how you feel with your body." />
+	<key id="s_microgame_couple_dance_select_message" value="Click a button to dance." />
+	<key id="s_microgame_couple_dance_wait_result_message" value="Thump, thump!\nAre our hearts in sync?" />
+	<key id="s_microgame_couple_dance_success_message" value="Our hearts are in sync!\nCould we be a match made in heaven...?" />
+	<key id="s_microgame_couple_dance_fail_message" value="Oh... What a shame!\nStill, that was a wonderful dance." />
+	<key id="s_microgame_couple_dance_normal_end_message" value="Great dancing! Well done!\nSee you again next time." />
+	<key id="s_microgame_couple_dance_good_end_message" value="What a spark! We&apos;re perfectly in sync!\nCould we be a match made in heaven...?" />
 	<key id="s_achieve_disabled_mushkingroyal" value="Purchase the Founder&apos;s Pack to access this." feature="FoundersPackMode" locale="NA" />
 	<key id="s_foundersPack_cannot_use_rpg_mode" value="Purchase the Founder&apos;s Pack to access this." feature="FoundersPackMode" locale="NA" />
 	<key id="s_foundersPack_cannot_use_rpg_mode_before_tutorial" value="You need to complete MapleStory 2&apos;s job tutorial." feature="FoundersPackMode" locale="NA" />
@@ -6111,7 +6111,7 @@
 	<key id="s_dungeon_control_center_require_reward_complete" value="Complete" feature="DungeonFindRenewal01" />
 	<key id="s_dungeon_control_center_recommend_category" value="Recommended Dungeon" feature="DungeonFindRenewal01" />
 	<key id="s_dungeon_search_setting_group_none" value="All Dungeons" />
-	<key id="s_err_cash_recall_not_marriage" value="STRINGCOMMON_S_ERR_CASH_RECALL_NOT_MARRIAGE_VALUE" />
+	<key id="s_err_cash_recall_not_marriage" value="You must be married to use this summon." />
 	<key id="s_watchagame_change_camera" value="Change Camera" />
 	<key id="s_watchagame_reset_camera" value="Stop Spectating" />
 	<key id="s_watchagame_msg_cant_change_camera" value="You cannot switch cameras here." />

@@ -38748,7 +38748,7 @@
 	<key id="212201214002126" name="The request from someone anonymous who dreams of starting a Monster Encyclopedia business is this!&#xA;Defeat various &lt;font color=&quot;#ffd200&quot;&gt;spirit-type monsters&lt;/font&gt; in Maple World and collect information!&#xA;A chance to obtain beautiful Maple petals too! Don&apos;t miss it!" npc="Ruby" />
 	<key id="421173114000131" name="This is no time to stand around chatting.&#xA;We need to deal with those monsters first." locale="KR" />
 	<key id="421173114000130" name="This is an emergency!&#xA;Monsters are rushing in from the Dark Lands even more rapidly!" locale="KR" />
-	<key id="421124303004086" name="Aisha, open the monster barrier in the sewer!&#xA;We need to use the Water Slimes that flowed into the sewer as temporary coolant!" />
+	<key id="421124303004086" name="Aisha, open the monster barrier in the sewer!&#xA;We need to use the Water Slimes that flowed into the sewer as temporary coolant!" npc="PC" />
 	<key id="421200214000145" name="Oh, did you come after receiving the distress signal?&#xA;Well, it doesn&apos;t matter even if you didn&apos;t... As you can see, we are about to perform,&#xA;but because of the monsters, we cannot continue the performance like this.&#xA;Could you take care of those monsters?" locale="KR" />
 	<key id="421200214000146" name="Because of the monsters, we cannot continue the performance like this.&#xA;Could you take care of those monsters?" locale="KR" />
 	<key id="423173514000159" name="You&apos;re back. I heard the situation from the child named Corrin.&#xA;Whether time really stopped because the monsters ate it... we will know if we watch." locale="KR" />
@@ -38786,7 +38786,7 @@
 	<key id="130235021023694" name="Version upgrade complete!&#xA;It will be different from the last test!" npc="Nairin" />
 	<key id="504174817003287" name="Oh! You went to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000423$&lt;/font&gt;?&#xA;I knew right away because you smell like mushroom spores, $MyPCName$.&#xA;You must have completed the mission well, so I&apos;ll give you this as a gift! " />
 	<key id="525183103004965" name="Mission complete.&#xA;Everyone, prepare to withdraw." />
-	<key id="421124303004062" name="Master! Final inspection preparations are complete!" />
+	<key id="421124303004062" name="Master! Final inspection preparations are complete!" npc="Aisha" />
 	<key id="421142405001483" name="Analyzing encrypted directive contents...&#xA;......&#xA;Analysis complete! Detailed contents can now be viewed." />
 	<key id="625204011010985" name="As soon as preparations for the siege are complete, we will begin the all-out attack." feature="LapentaFrontierQuest" />
 	<key id="713172114003697" name="This week&apos;s task is...&#xA;&lt;font color=&quot;#ffd200&quot;&gt;Complete Love Dance Party 10 times&lt;/font&gt;.&#xA;You know how to do it... right? " locale="KR" />
@@ -40028,7 +40028,7 @@
 	<key id="417105222003448" name="(Say that you are from &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt; and came to explore this place at Georg&apos;s request.)" npc="PC" feature="Kritias_Epic02" />
 	<key id="416153812003119" name="All the mining materials found in Maple World grow on this island.&#xA;In other words, you can obtain every mining material without having to wander around Maple World." npc="Donald" feature="Mastery05" />
 	<key id="421124303004176" name="Hah... well, well.&#xA;It seems news of the scientific genius who will already be responsible for the future of Talisker and Maple World has spread widely." />
-	<key id="421124303004125" name="I am different from you, who try to rule Maple World with science!" />
+	<key id="421124303004125" name="I am different from you, who try to rule Maple World with science!" npc="PC" />
 	<key id="429151822003694" name="I have heard your resolve.&#xA;But my plan to make &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt; into a utopia is already prepared.&#xA;You cannot stop anything." feature="Kritias_Epic03" />
 	<key id="417105222003465" name="I am $MyPCName$, from &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt;." npc="PC" feature="Kritias_Epic02" />
 	<key id="429151822003699" name="The black-hooded demon you met is my clone.&#xA;When you tried to seal me, did you think I would do nothing?&#xA;I already knew you were coming, so I separated a part of myself in advance and sent it to &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt;." feature="Kritias_Epic03" />
@@ -41828,7 +41828,105 @@
 	<key id="421010902005078" npc="Evan" name="You&apos;re here.&#xA;It looks like the captain will give us a new mission soon. Get ready." />
 	<key id="421124303004054" npc="PC" name="Ah, yes. I&apos;d call this a success.&#xA;The streetlights and the plaza clock are all operating normally!" />
 	<key id="421124303004055" npc="PC" name="&lt;font size=&apos;30&apos;&gt;The Fusion Core, a generator powered by &apos;Lu,&apos;&#xA;a mineral unique to Edelstein.&lt;/font&gt;" />
-	<key id="421124303004058" npc="PC" />
+	<key id="421124303004058" npc="PC" name="Well, that will soon be a thing of the past!" />
 	<key id="421124303004057" npc="Aisha" name="For those of us who cannot use magic, energy shortages have always been a serious problem." />
 	<key id="421124303004056" npc="PC" name="With this, we can supply Edelstein with a nearly limitless amount of energy." />
+	<key id="421124303004060" npc="Aisha" name="&lt;font size=&apos;50&apos;&gt;Yes, Master!!&lt;/font&gt;" />
+	<key id="421124303004059" npc="PC" name="Then, Aisha, shall we return to the laboratory and perform the Fusion Core&apos;s final inspection?" />
+	<key id="421124303004063" npc="PC" name="Well done! $npcName:11003291[gender:0]$, you&apos;ve really improved, haven&apos;t you?" />
+	<key id="421124303004061" npc="Aisha" name="Let&apos;s head to the laboratory, Master!" />
+	<key id="421124303004066" npc="Aisha" name="&lt;font size=&apos;50&apos;&gt;I believe my IQ is probably around 920, Master!&lt;/font&gt;" />
+	<key id="421124303004064" npc="Aisha" name="&lt;font size=&apos;50&apos;&gt;It&apos;s all thanks to your outstanding guidance, Master!!&lt;/font&gt;" />
+	<key id="421124303004065" name="Heh... $npcName:11003291[gender:0]$, is your IQ around 900 or something?&#xA;To recognize the quality of my guidance so well... Heheh…" npc="PC" />
+	<key id="421124303004067" npc="PC" name="&lt;font size=&apos;50&apos;&gt;(...What? Is she serious...?)&lt;/font&gt;" />
+	<key id="421124303004068" npc="Aisha" name="Master, shall we begin the inspection?" />
+	<key id="421124303004070" npc="PC" name="How does it look, $npcName:11003291[gender:0]$?" />
+	<key id="421124303004071" npc="Aisha" name="Master! Even the way you put out a fire is so commanding!" />
+	<key id="421124303004069" npc="PC" name="All right. First, let&apos;s check whether the Lu ore&apos;s reaction temperature inside the core is appropriate,&#xA;then move on to the next phase." />
+	<key id="421124303004072" npc="PC" name="&lt;font size=&apos;50&apos;&gt;Huff... Huff... That was close...!&lt;/font&gt;" />
+	<key id="421124303004073" npc="Aisha" name="Master...!&#xA;Even the way you extinguish a fire... is incredibly commanding!" />
+	<key id="421124303004075" npc="PC" name="Honestly... Sometimes I wish there were something I wasn&apos;t good at…" />
+	<key id="421124303004076" npc="PC" name="Hehe... Then I suppose it&apos;s about time...&#xA;&lt;font size=&apos;50&apos;&gt;...Ow! Hot! What&apos;s the Fusion Core&apos;s temperature...?&lt;/font&gt;" />
+	<key id="421124303004074" name="You&apos;re skilled not only with cannon &apos;firearms,&apos;&#xA;but with actual &apos;fire extinguishers&apos; too!" npc="Aisha" />
+	<key id="421124303004077" npc="PC" name="$npcName:11003291[gender:0]$, check the thermometer!" />
+	<key id="421124303004078" npc="Aisha" name="Master! I have a report!" />
+	<key id="421124303004080" npc="Aisha" name="&lt;font size=&apos;50&apos;&gt;Our laboratory doesn&apos;t have a thermometer!&lt;/font&gt;" />
+	<key id="421124303004079" npc="PC" name="Yes! Hurry and tell me!" />
+	<key id="421124303004081" npc="PC" name="&lt;font size=&apos;50&apos;&gt;Whoa.&lt;/font&gt;" />
+	<key id="421124303004083" npc="PC" name="Urgh...! It doesn&apos;t matter! If it&apos;s still this hot after we put out the fire,&#xA;then the core must be overheating beyond its permitted limit!" />
+	<key id="421124303004082" name="&lt;font size=&apos;50&apos;&gt;Whoa indeed, Master!&lt;/font&gt;" npc="Aisha" />
+	<key id="421124303004084" npc="PC" name="Urgh... Isn&apos;t there a good solution...?!&#xA;Some way to cool the core…" />
+	<key id="421124303004085" npc="PC" name="...Water Slimes...!&#xA;&lt;font size=&apos;50&apos;&gt;What if we poured Water Slimes on it?!&lt;/font&gt;" />
+	<key id="421124303004089" npc="Aisha" name="Are the Water Slime fragments ready yet, Master?!" />
+	<key id="421124303004087" npc="PC" name="I&apos;ll defeat the Water Slimes and bring you their fragments.&#xA;Pour all of them onto the core!" />
+	<key id="421124303004088" npc="Aisha" name="Yes, Master!!" />
+	<key id="421124303004090" npc="PC" name="It finally feels like the reactor&apos;s temperature is dropping.&#xA;We may not have a thermometer, but someone of my caliber can tell the temperature just by looking." />
+	<key id="421124303004091" npc="PC" name="Water Slimes!&#xA;Honestly... I owe you again, my brilliant brain." />
+	<key id="421124303004093" npc="PC" name="Y-you don&apos;t have to thank it, $npcName:11003291[gender:0]$!" />
+	<key id="421124303004094" npc="Aisha" name="Master, are there any parts that need replacing?" />
+	<key id="421124303004092" name="&lt;font size=&apos;50&apos;&gt;Thank you, Master&apos;s brain!&lt;/font&gt;" npc="Aisha" />
+	<key id="421124303004096" npc="PC" name="Good grief...&#xA;Every fuse is broken…" />
+	<key id="421124303004095" name="Well, I&apos;ll have to run a detailed diagnostic first." npc="PC" />
+	<key id="421124303004098" npc="PC" name="Not bad, $npcName:11003291[gender:0]$.&#xA;Shall we get you some hands-on practice?&#xA;I&apos;ll leave this to—" />
+	<key id="421124303004097" npc="Aisha" name="Then we should replace the fuses first&#xA;and reboot the system terminal, right, Master?" />
+	<key id="421124303004099" npc="Aisha" name="&lt;font size=&apos;40&apos;&gt;Please show me how to do it too!&lt;/font&gt;" />
+	<key id="421124303004101" npc="Aisha" name="Master! Please show me how to do it!" />
+	<key id="421124303004100" npc="PC" name=".........Fine." />
+	<key id="421124303004102" npc="PC" name="Phew... Did you get all that? The Fusion Core series requires meticulous maintenance.&#xA;Remember what you saw so you&apos;ll know how to service it yourself." />
+	<key id="421124303004103" npc="Aisha" name="Um... Master... Once I&apos;ve learned everything...&#xA;will I have to leave you and establish my own workshop...?" />
+	<key id="421124303004104" npc="PC" name="Sigh... Aisha... So you&apos;ve become this attached to me...&#xA;Every relationship has both meetings and partings.&#xA;No matter how much you like me, I can&apos;t keep you by my side forever." />
+	<key id="421124303004106" npc="Aisha" name="&lt;font size=&apos;40&apos;&gt;My own workshop! Hooray! Let&apos;s do this!!&lt;/font&gt;" />
+	<key id="421124303004105" npc="Aisha" name="&lt;font size=&apos;40&apos;&gt;Then I&apos;ll work even harder!!&lt;/font&gt;" />
+	<key id="421124303004107" npc="PC" name="&lt;font size=&apos;40&apos;&gt;Gaaah...!!?!?!?&lt;/font&gt;" />
+	<key id="421124303004109" npc="Aisha" name="Master...!&#xA;Who are those people?!" />
+	<key id="421124303004108" npc="Sigmund" name="It&apos;s been a while, $MyPCName$." />
+	<key id="421124303004111" npc="PC" name="$npcName:11003183[gender:0]$!!&#xA;How dare you show your face in Edelstein!" />
+	<key id="421124303004110" npc="PC" name="I thought this would be a predictable development... but these are some unexpected guests…" />
+	<key id="421124303004112" npc="Sigmund" name="I&apos;m disappointed.&#xA;That&apos;s rather cold of you toward your best friend." />
+	<key id="421124303004113" npc="PC" name="Best friend, my foot!&#xA;You were planning to turn Edelstein into a rebel base!" />
+	<key id="421124303004114" npc="Brighton" name="That base~ You&apos;ve been making good use of it as your workshop.&#xA;Didn&apos;t it work out well for everyone? Hahaha~" />
+	<key id="421124303004116" npc="PC" name="Quiet! You should be grateful you got away with exile!&#xA;Are you planning to incite people again, like last time?&#xA;What are you really doing back here?!" />
+	<key id="421124303004115" npc="Checky" name="And for the record, we are not rebels.&#xA;We are the &apos;Resistance,&apos; standing against the entrenched power of &apos;magic.&apos;" />
+	<key id="421124303004119" npc="Sigmund" name="You called it the Fusion Core, didn&apos;t you?&#xA;It&apos;s quite an interesting device, even if it appears to be a prototype." />
+	<key id="421124303004117" npc="Sigmund" name="What am I doing here...&#xA;Very well, $MyPCName$.&#xA;For old times&apos; sake, I&apos;ll politely request a &apos;negotiation.&apos;" />
+	<key id="421124303004118" npc="Sigmund" name="We&apos;ve learned that you&apos;re using Lu ore to build&#xA;a high-energy reactor." />
+	<key id="421124303004121" npc="Sigmund" name="Hand over the Fusion Core willingly, and at least Edelstein&#xA;will be spared any bloodshed.&#xA;Well? What&apos;s your answer?" />
+	<key id="421124303004120" npc="Sigmund" name="$MyPCName$,&#xA;there is a weapon we must build using your Fusion Core.&#xA;The ultimate strategic weapon to put pressure on Tria…" />
+	<key id="421124303004124" npc="PC" name="My invention isn&apos;t some horrific weapon!&#xA;It&apos;s technology that will give hope to people without magic!" />
+	<key id="421124303004122" npc="PC" name="......$npcName:11003183[gender:0]$, were you always this funny back in school?" />
+	<key id="421124303004123" npc="PC" name="&lt;font size=&apos;40&apos;&gt;Give me a break!!&lt;/font&gt;" />
+	<key id="421124303004126" npc="Sigmund" name="Still an idealist, I see…" />
+	<key id="421124303004127" npc="Sigmund" name="Negotiations have failed.&#xA;$npcName:11003184[gender:0]$, $npcName:11003191[gender:0]$?" />
+	<key id="421124303004128" npc="Brighton" name="Why bother getting our hands dirty?&#xA;Let&apos;s send $npcName:29000260$." />
+	<key id="421124303004129" name="$npcName:29000260$, activate Preset A.&#xA;Commence attack protocol until the designated target is silenced." npc="Checky" />
+	<key id="421124303004131" npc="Aisha" name="Master!! Are you all right?" />
+	<key id="421124303004130" npc="Sigmund" name="Master...! Be careful!&#xA;That robot called Regitron—if you don&apos;t subdue it quickly...!" />
+	<key id="421124303004132" npc="Sigmund" name="Tch... Not bad." />
+	<key id="421124303004134" npc="PC" name="$npcName:11003291[gender:0]$, I couldn&apos;t explain earlier because everything happened so quickly,&#xA;but those people are—" />
+	<key id="421124303004133" npc="PC" name="Those people... When did they build weapons like these...?!" />
+	<key id="421124303004137" npc="PC" name="...Yes.&#xA;But not anymore." />
+	<key id="421124303004136" npc="Aisha" name="They&apos;re all your friends... aren&apos;t they, Master?" />
+	<key id="421124303004135" npc="Aisha" name="I know, Master.&#xA;I saw them in the photograph on your workbench." />
+	<key id="421124303004138" npc="PC" name="Now they&apos;re nothing more than... villains plotting&#xA;to use my invention." />
+	<key id="421124303004139" npc="PC" name="$npcName:11003291[gender:0]$, we have no choice.&#xA;Prepare the H.A.P.P.Y. Protocol." />
+	<key id="421124303004140" npc="Aisha" name="The H.A.P.P.Y. Protocol...&#xA;You don&apos;t mean...?" />
+	<key id="421124303004142" npc="Aisha" name="It&apos;s not a question of whether I can.&#xA;If it&apos;s your order, Master... then I must!" />
+	<key id="421124303004141" npc="PC" name="That&apos;s right. I won&apos;t let my invention be used in a conspiracy.&#xA;Can you do it?" />
+	<key id="421124303004144" npc="Aisha" name="Master! Stay strong!" />
+	<key id="421124303004143" npc="PC" name="All right... I&apos;m counting on you...!" />
+	<key id="421124303004146" npc="PC" name="...Wait a moment... Aisha!&#xA;I feel like I left something important behind... but I can&apos;t remember what." />
+	<key id="421124303004147" npc="Aisha" name="Is anything more important than your life?! Hurry and get out, Master!" />
+	<key id="421124303004145" npc="Aisha" name="Master! The H.A.P.P.Y. Protocol countdown has begun!&#xA;We must get out!" />
+	<key id="421124303004148" npc="PC" name="Hmm... Right!&#xA;Whatever it was, I&apos;m sure it&apos;s all in my head!" />
+	<key id="421124303004149" name="&lt;font size=&apos;40&apos;&gt;$MyPCName$!! What in the world is going on here?!&lt;/font&gt;" npc="Mayor of Edelstein" />
+	<key id="421124303004152" npc="Aisha" name="Whisper... whisper...&#xA;&lt;font size=&apos;40&apos;&gt;(Master...! Why aren&apos;t you mentioning that your friends attacked us...?)&lt;/font&gt;" />
+	<key id="421124303004151" npc="PC" name="So, through entirely standard procedures,&#xA;we resolved a perfectly routine problem... sir." />
+	<key id="421124303004150" npc="PC" name="Uh... Mayor!&#xA;As you can see... there was a minor bug in the Fusion Core…" />
+	<key id="421124303004153" npc="PC" name="Mutter... mutter...&#xA;&lt;font size=&apos;35&apos;&gt;(That&apos;s my problem to handle. No matter what, I can&apos;t sell out my friends.)&lt;/font&gt;" />
+	<key id="421124303004154" npc="Aisha" name="Whisper... whisper...&#xA;&lt;font size=&apos;35&apos;&gt;(Master... Staying loyal even in a situation like this... You&apos;re incredible...!)&lt;/font&gt;" />
+	<key id="421124303004155" npc="PC" name="Mutter... mutter...&#xA;&lt;font size=&apos;35&apos;&gt;(Not even a fortune could make me betray my loyalty... Hehe.)&lt;/font&gt;" />
+	<key id="421124303004157" npc="Mayor of Edelstein" name="As mayor, I can no longer entrust the future of $map:52000107$&#xA;to you and that dangerous Fusion Core." />
+	<key id="421124303004156" npc="Mayor of Edelstein" name="&lt;font size=&apos;40&apos;&gt;Enough whispering!&lt;/font&gt;" />
+	<key id="421124303004158" npc="Mayor of Edelstein" name="Pay &lt;font size=&apos;40&apos;&gt;1.5 billion mesos&lt;/font&gt;&#xA;for the town&apos;s repairs and leave $map:52000107$ immediately! " />
+	<key id="421124303004159" npc="PC" name="1.5 billion...&#xA;&lt;font size=&apos;40&apos;&gt;1.5 billion... mesos?!?!?&lt;/font&gt;" />
 </ms2>

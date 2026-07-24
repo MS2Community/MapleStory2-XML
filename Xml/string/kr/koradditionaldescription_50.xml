@@ -1,27 +1,276 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="10500031" level="1" name="冰箭" tooltipDescription="被冰箭射中，身体变得僵硬。\降低移动速度" />
-	<key id="10500032" level="1" name="冻结" tooltipDescription="全身都被冻住了！\n被冻住，无法行动" />
-	<key id="10500061" level="12" name="锐利之眼" tooltipDescription="看破敌人的弱点。\n暴击命中增加90\n命中增加5" />
-	<key id="10500066" level="12" name="强化锐利之眼" tooltipDescription="准确掌握敌人的弱点。\n暴击命中增加138\n命中增加5" feature="JobChange_01" />
-	<key id="10500072" level="12" name="召唤金鹰" tooltipDescription="受到金鹰的援助。\n敏捷提高7.7%" />
-	<key id="10500081" level="12" name="雄鹰突击" tooltipDescription="鹰爪抓挠！\n每秒产生104%的伤害\n移动速度降低45%\n跳跃力降低45%" />
-	<key id="10500091" level="12" name="雄鹰之魂" tooltipDescription="鹰的精气在全身流淌。\n每秒能量恢复12\n攻击命中时，发动雄鹰支援攻击" />
-	<key id="10500093" level="12" name="凤凰之魂" tooltipDescription="浑身充沛凤凰的精气。\n每秒恢复14点能量\n命中时，发动凤凰支援攻击。" feature="JobChange_02" />
-	<key id="10500111" level="1" name="狙击" tooltipDescription="正在瞄准敌人。\n能量追加恢复量增加1" />
-	<key id="10500171" level="12" name="燃烧箭1段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加1层燃烧箭1段 " feature="JobChange_01" />
-	<key id="10500172" level="12" name="燃烧箭2段" tooltipDescription="熊熊燃烧的箭矢！\n击中敌人时，将叠加2层燃烧箭1段 " feature="JobChange_01" />
-	<key id="10500173" level="12" name="燃烧箭3段" tooltipDescription="强劲的火焰箭在熊熊燃烧！" feature="JobChange_01" />
-	<key id="10500181" level="12" name="集中" tooltipDescription="以暴风般猛烈的攻势发射火焰箭矢！\n物理攻击力提高41%。\n施展技能时，不消耗能量。" feature="JobChange_01" />
-	<key id="10500231" level="12" name="秘珠箭术" tooltipDescription="领悟了弓术的奥秘，使身体机能得到强化。\n防御力穿透提高17%，命中增加12\n可以使用旋风箭、强化螺旋箭" feature="JobChange_01" />
-	<key id="10500232" level="1" name="充能状态" tooltipDescription="风之力量正在渗入弓箭。\n使用风系攻击技能击中敌人时，会叠加1层，最多可叠加10层。\n叠加到10层后会变为解放状态。" feature="JobChange_01" />
-	<key id="10500233" level="1" name="解放状态" tooltipDescription="弓上凝聚了足够的风之力量！\n可以使用秘珠箭术。" feature="JobChange_01" />
-	<key id="10500261" level="12" name="焦热火花" tooltipDescription="凤凰以焦热的火焰烧毁敌人。\n10秒内，敌人每秒受到422%的持续伤害" feature="JobChange_02" />
-	<key id="10500272" level="12" name="凤凰形态" tooltipDescription="受到凤凰的战斗支援。\n暴击命中增加120\n物理伤害增加29%\n敏捷增加19.5%" feature="JobChange_02" />
-	<key id="10500281" level="12" name="弱点感知" tooltipDescription="锋利的攻击使弱点暴露。\n受施展者攻击时，会造成907%的额外伤害，效果持续10秒。" feature="JobChange_02" />
-	<key id="10500291" level="12" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高24%" feature="JobChange_02" />
-	<key id="10500293" level="12" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高82%" feature="JobChange_02" />
-	<key id="10500295" level="1" name="休息时刻" tooltipDescription="金鹰小队正在休息。\n100秒内金鹰小队、金鹰队长效果免疫" feature="JobChange_02" />
-	<key id="10500296" level="12" name="金鹰队长" tooltipDescription="受到金鹰队长的指挥！\n40秒内物理攻击力提高82%" feature="JobChange_02" />
-	<key id="10500298" level="12" name="金鹰小队" tooltipDescription="受到金鹰小队的支援！\n40秒内物理、魔法攻击力提高24%" feature="JobChange_02" />
+	<key id="10500031" level="1" name="아이스 애로우" tooltipDescription="얼음 화살에 맞아 몸이 뻣뻣합니다.\n이동속도 감소" />
+	<key id="10500031" level="1" name="아이스 애로우" tooltipDescription="얼음 화살에 맞아 몸이 뻣뻣합니다.\n이동속도 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500032" level="1" name="빙결" tooltipDescription="온 몸이 얼어붙었습니다!\n빙결되어 행동불가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500032" level="1" name="빙결" tooltipDescription="온 몸이 얼어붙었습니다!\n빙결되어 행동불가" />
+	<key id="10500061" level="1" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 13 증가\n명중 1 증가" />
+	<key id="10500061" level="1" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 13 증가\n명중 1 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="2" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 20 증가\n명중 1 증가" />
+	<key id="10500061" level="2" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 20 증가\n명중 1 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="3" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 27 증가\n명중 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="3" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 27 증가\n명중 2 증가" />
+	<key id="10500061" level="4" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 34 증가\n명중 2 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="4" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 34 증가\n명중 2 증가" />
+	<key id="10500061" level="5" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 41 증가\n명중 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="5" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 41 증가\n명중 3 증가" />
+	<key id="10500061" level="6" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 48 증가\n명중 3 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="6" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 48 증가\n명중 3 증가" />
+	<key id="10500061" level="7" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 55 증가\n명중 4 증가" />
+	<key id="10500061" level="7" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 55 증가\n명중 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="8" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 62 증가\n명중 4 증가" />
+	<key id="10500061" level="8" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 62 증가\n명중 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="9" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 69 증가\n명중 4 증가" />
+	<key id="10500061" level="9" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 69 증가\n명중 4 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="10" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 76 증가\n명중 5 증가" />
+	<key id="10500061" level="10" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 76 증가\n명중 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="11" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 83 증가\n명중 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="11" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 83 증가\n명중 5 증가" />
+	<key id="10500061" level="12" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 90 증가\n명중 5 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500061" level="12" name="샤프 아이즈" tooltipDescription="적의 약점을 간파해 냅니다.\n크리티컬 명중 90 증가\n명중 5 증가" />
+	<key id="10500066" level="1" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 1 증가\n크리티컬 명중 17 증가" feature="JobChange_01" />
+	<key id="10500066" level="2" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 1 증가\n크리티컬 명중 28 증가" feature="JobChange_01" />
+	<key id="10500066" level="3" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 2 증가\n크리티컬 명중 39 증가" feature="JobChange_01" />
+	<key id="10500066" level="4" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 2 증가\n크리티컬 명중 50 증가" feature="JobChange_01" />
+	<key id="10500066" level="5" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 3 증가\n크리티컬 명중 61 증가" feature="JobChange_01" />
+	<key id="10500066" level="6" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 3 증가\n크리티컬 명중 72 증가" feature="JobChange_01" />
+	<key id="10500066" level="7" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 4 증가\n크리티컬 명중 83 증가" feature="JobChange_01" />
+	<key id="10500066" level="8" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 4 증가\n크리티컬 명중 94 증가" feature="JobChange_01" />
+	<key id="10500066" level="9" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 4 증가\n크리티컬 명중 105 증가" feature="JobChange_01" />
+	<key id="10500066" level="10" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 5 증가\n크리티컬 명중 116 증가" feature="JobChange_01" />
+	<key id="10500066" level="11" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 5 증가\n크리티컬 명중 127 증가" feature="JobChange_01" />
+	<key id="10500066" level="12" name="강화 샤프 아이즈" tooltipDescription="적의 약점을 정확히 파악합니다.\n명중 5 증가\n크리티컬 명중 138 증가" feature="JobChange_01" />
+	<key id="10500072" level="1" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 4.4% 증가" />
+	<key id="10500072" level="1" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 4.4% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="2" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 4.7% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="2" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 4.7% 증가" />
+	<key id="10500072" level="3" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="3" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5% 증가" />
+	<key id="10500072" level="4" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5.3% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="4" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5.3% 증가" />
+	<key id="10500072" level="5" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5.6% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="5" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5.6% 증가" />
+	<key id="10500072" level="6" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5.9% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="6" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 5.9% 증가" />
+	<key id="10500072" level="7" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 6.2% 증가" />
+	<key id="10500072" level="7" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 6.2% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="8" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 6.5% 증가" />
+	<key id="10500072" level="8" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 6.5% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="9" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 6.8% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="9" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 6.8% 증가" />
+	<key id="10500072" level="10" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 7.1% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="10" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 7.1% 증가" />
+	<key id="10500072" level="11" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 7.4% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="11" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 7.4% 증가" />
+	<key id="10500072" level="12" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 7.7% 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500072" level="12" name="골든 이글" tooltipDescription="골든 이글이 원호하고 있습니다.\nDEX 7.7% 증가" />
+	<key id="10500081" level="1" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 58% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="1" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 60% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소" />
+	<key id="10500081" level="2" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 62% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="2" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 64% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소" />
+	<key id="10500081" level="3" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 68% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소" />
+	<key id="10500081" level="3" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 66% 의 대미지\n이동 속도 30% 감소\n점프력 30% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="4" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 72% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소" />
+	<key id="10500081" level="4" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 70% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="5" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 76% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소" />
+	<key id="10500081" level="5" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 74% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="6" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 78% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="6" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 80% 의 대미지\n이동 속도 35% 감소\n점프력 35% 감소" />
+	<key id="10500081" level="7" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 82% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="7" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 84% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소" />
+	<key id="10500081" level="8" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 88% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소" />
+	<key id="10500081" level="8" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 86% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="9" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 92% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소" />
+	<key id="10500081" level="9" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 90% 의 대미지\n이동 속도 40% 감소\n점프력 40% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="10" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 96% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소" />
+	<key id="10500081" level="10" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 94% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="11" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 100% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소" />
+	<key id="10500081" level="11" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 98% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500081" level="12" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 104% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소" />
+	<key id="10500081" level="12" name="이글 스트라이크" tooltipDescription="독수리의 발톱에 할퀴었습니다!\n매 초마다 102% 의 대미지\n이동 속도 45% 감소\n점프력 45% 감소" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="1" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 1 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="1" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 1 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="2" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 2 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="2" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 2 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="3" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 3 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="3" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 3 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="4" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 4 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="4" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 4 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="5" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 5 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="5" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 5 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="6" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 6 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="6" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 6 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="7" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 7 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="7" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 7 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="8" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 8 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="8" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 8 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="9" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 9 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="9" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 9 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="10" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 10 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="10" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 10 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="11" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 11 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500091" level="11" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 11 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="12" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 12 회복\n공격 명중 시 독수리 지원공격 발동" />
+	<key id="10500091" level="12" name="독수리의 혼" tooltipDescription="독수리의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 12 회복\n공격 명중 시 독수리 지원공격 발동" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500093" level="1" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 3 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="2" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 4 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="3" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 5 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="4" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 6 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="5" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 7 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="6" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 8 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="7" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 9 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="8" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 10 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="9" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 11 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="10" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 12 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="11" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 13 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500093" level="12" name="피닉스 스피릿" tooltipDescription="신비로운 피닉스의 정기가 온 몸에 흐릅니다.\n매 초마다 SP 14 회복\n공격 명중 시 피닉스 지원 공격 발동" feature="JobChange_02" />
+	<key id="10500111" level="1" name="스나이프" tooltipDescription="정확하게 적을 조준하고 있습니다.\n추가 SP 회복량 1 증가" feature="CharacterBalance_01" locale="KR" />
+	<key id="10500111" level="1" name="스나이프" tooltipDescription="정확하게 적을 조준하고 있습니다.\n추가 SP 회복량 1 증가" />
+	<key id="10500171" level="1" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="2" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="3" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="4" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="5" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="6" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="7" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="8" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="9" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="10" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="11" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500171" level="12" name="타오르는 화살 1단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 1단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="1" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="2" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="3" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="4" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="5" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="6" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="7" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="8" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="9" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="10" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="11" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500172" level="12" name="타오르는 화살 2단계" tooltipDescription="화살이 강하게 타오르고 있습니다.\n적 타격 시 타오르는 화살 2단계 1 중첩 증가 " feature="JobChange_01" />
+	<key id="10500173" level="1" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="2" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="3" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="4" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="5" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="6" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="7" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="8" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="9" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="10" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="11" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500173" level="12" name="타오르는 화살 3단계" tooltipDescription="강렬한 불꽃의 화살이 타오르고 있습니다! " feature="JobChange_01" />
+	<key id="10500181" level="1" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 8% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="2" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 11% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="3" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 14% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="4" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 17% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="5" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 20% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="6" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 23% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="7" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 26% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="8" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 29% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="9" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 32% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="10" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 35% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="11" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 38% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500181" level="12" name="컨센트레이션" tooltipDescription="폭풍처럼 몰아치며 화염 화살을 발사합니다!\n물리 공격력이 41% 증가합니다.\n스킬 사용 시 SP를 소모하지 않습니다. " feature="JobChange_01" />
+	<key id="10500231" level="1" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 6%, 명중 1 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="2" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 7%, 명중 2 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="3" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 8%, 명중 3 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="4" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 9%, 명중 4 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="5" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 10%, 명중 5 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="6" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 11%, 명중 6 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="7" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 12%, 명중 7 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="8" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 13%, 명중 8 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="9" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 14%, 명중 9 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="10" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 15%, 명중 10 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="11" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 16%, 명중 11 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500231" level="12" name="시크릿 오브 아처리" tooltipDescription="궁술의 비밀을 터득해 신체 능력이 강화됩니다.\n방어력 관통 17%, 명중 12 증가\n리볼빙 윈드 애로우, 강화 스파이럴 애로우 사용 가능" feature="JobChange_01" />
+	<key id="10500232" level="1" name="충전 상태" tooltipDescription="활에 바람의 힘이 스며들고 있습니다.\n바람 계열 공격 스킬 타격 시 1 중첩 증가 최대 10 까지 중첩.\n10 중첩 시 해방 상태로 변경됩니다." feature="JobChange_01" />
+	<key id="10500233" level="1" name="해방 상태" tooltipDescription="활에 충분한 바람의 힘이 모였습니다!.\n시크릿 오브 아쳐리 스킬을 사용할 수 있습니다." feature="JobChange_01" />
+	<key id="10500261" level="1" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 202% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="2" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 222% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="3" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 242% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="4" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 262% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="5" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 282% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="6" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 302% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="7" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 322% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="8" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 342% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="9" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 362% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="10" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 382% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="11" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 402% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500261" level="12" name="초열 불꽃" tooltipDescription="피닉스의 초고열 불꽃이 적을 태워버립니다.\n10초 간 매 초마다 422% 의 지속 대미지" feature="JobChange_02" />
+	<key id="10500272" level="1" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 10 증가\n물리 대미지 7% 증가\nDEX 3% 증가" feature="JobChange_02" />
+	<key id="10500272" level="2" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 20 증가\n물리 대미지 9% 증가\nDEX 4.5% 증가" feature="JobChange_02" />
+	<key id="10500272" level="3" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 30 증가\n물리 대미지 11% 증가\nDEX 6% 증가" feature="JobChange_02" />
+	<key id="10500272" level="4" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 40 증가\n물리 대미지 13% 증가\nDEX 7.5% 증가" feature="JobChange_02" />
+	<key id="10500272" level="5" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 50 증가\n물리 대미지 15% 증가\nDEX 9% 증가" feature="JobChange_02" />
+	<key id="10500272" level="6" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 60 증가\n물리 대미지 17% 증가\nDEX 10.5% 증가" feature="JobChange_02" />
+	<key id="10500272" level="7" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 70 증가\n물리 대미지 19% 증가\nDEX 12% 증가" feature="JobChange_02" />
+	<key id="10500272" level="8" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 80 증가\n물리 대미지 21% 증가\nDEX 13.5% 증가" feature="JobChange_02" />
+	<key id="10500272" level="9" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 90 증가\n물리 대미지 23% 증가\nDEX 15% 증가" feature="JobChange_02" />
+	<key id="10500272" level="10" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 100 증가\n물리 대미지 25% 증가\nDEX 16.5% 증가" feature="JobChange_02" />
+	<key id="10500272" level="11" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 110 증가\n물리 대미지 27% 증가\nDEX 18% 증가" feature="JobChange_02" />
+	<key id="10500272" level="12" name="피닉스 폼" tooltipDescription="피닉스가 전투를 지원합니다.\n크리티컬 명중 120 증가\n물리 대미지 29% 증가\nDEX 19.5% 증가" feature="JobChange_02" />
+	<key id="10500281" level="1" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 456% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="2" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 497% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="3" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 538% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="4" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 579% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="5" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 620% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="6" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 661% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="7" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 702% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="8" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 743% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="9" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 784% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="10" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 825% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="11" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 866% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500281" level="12" name="약점 간파" tooltipDescription="날카로운 공격에 의해 약점이 노출됩니다.\n10초 간 시전자에게 피격 시 907% 의 추가 대미지" feature="JobChange_02" />
+	<key id="10500291" level="1" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 2% 증가" feature="JobChange_02" />
+	<key id="10500291" level="2" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 4% 증가" feature="JobChange_02" />
+	<key id="10500291" level="3" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 6% 증가" feature="JobChange_02" />
+	<key id="10500291" level="4" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 8% 증가" feature="JobChange_02" />
+	<key id="10500291" level="5" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 10% 증가" feature="JobChange_02" />
+	<key id="10500291" level="6" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 12% 증가" feature="JobChange_02" />
+	<key id="10500291" level="7" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 14% 증가" feature="JobChange_02" />
+	<key id="10500291" level="8" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 16% 증가" feature="JobChange_02" />
+	<key id="10500291" level="9" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 18% 증가" feature="JobChange_02" />
+	<key id="10500291" level="10" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 20% 증가" feature="JobChange_02" />
+	<key id="10500291" level="11" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 22% 증가" feature="JobChange_02" />
+	<key id="10500291" level="12" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 24% 증가" feature="JobChange_02" />
+	<key id="10500293" level="1" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 16% 증가" feature="JobChange_02" />
+	<key id="10500293" level="2" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 22% 증가" feature="JobChange_02" />
+	<key id="10500293" level="3" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 28% 증가" feature="JobChange_02" />
+	<key id="10500293" level="4" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 34% 증가" feature="JobChange_02" />
+	<key id="10500293" level="5" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 40% 증가" feature="JobChange_02" />
+	<key id="10500293" level="6" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 46% 증가" feature="JobChange_02" />
+	<key id="10500293" level="7" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 52% 증가" feature="JobChange_02" />
+	<key id="10500293" level="8" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 58% 증가" feature="JobChange_02" />
+	<key id="10500293" level="9" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 64% 증가" feature="JobChange_02" />
+	<key id="10500293" level="10" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 70% 증가" feature="JobChange_02" />
+	<key id="10500293" level="11" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 76% 증가" feature="JobChange_02" />
+	<key id="10500293" level="12" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 82% 증가" feature="JobChange_02" />
+	<key id="10500295" level="1" name="휴식 시간" tooltipDescription="이글 스쿼드가 휴식을 취하고 있습니다.\n100초 간 이글 스쿼드, 캡틴 이글 효과 면역" feature="JobChange_02" />
+	<key id="10500296" level="1" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 16% 증가" feature="JobChange_02" />
+	<key id="10500296" level="2" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 22% 증가" feature="JobChange_02" />
+	<key id="10500296" level="3" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 28% 증가" feature="JobChange_02" />
+	<key id="10500296" level="4" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 34% 증가" feature="JobChange_02" />
+	<key id="10500296" level="5" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 40% 증가" feature="JobChange_02" />
+	<key id="10500296" level="6" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 46% 증가" feature="JobChange_02" />
+	<key id="10500296" level="7" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 52% 증가" feature="JobChange_02" />
+	<key id="10500296" level="8" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 58% 증가" feature="JobChange_02" />
+	<key id="10500296" level="9" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 64% 증가" feature="JobChange_02" />
+	<key id="10500296" level="10" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 70% 증가" feature="JobChange_02" />
+	<key id="10500296" level="11" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 76% 증가" feature="JobChange_02" />
+	<key id="10500296" level="12" name="캡틴 이글" tooltipDescription="캡틴 이글의 지휘을 받습니다!\n40초 간 물리 공격력 82% 증가" feature="JobChange_02" />
+	<key id="10500298" level="1" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 2% 증가" feature="JobChange_02" />
+	<key id="10500298" level="2" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 4% 증가" feature="JobChange_02" />
+	<key id="10500298" level="3" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 6% 증가" feature="JobChange_02" />
+	<key id="10500298" level="4" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 8% 증가" feature="JobChange_02" />
+	<key id="10500298" level="5" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 10% 증가" feature="JobChange_02" />
+	<key id="10500298" level="6" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 12% 증가" feature="JobChange_02" />
+	<key id="10500298" level="7" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 14% 증가" feature="JobChange_02" />
+	<key id="10500298" level="8" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 16% 증가" feature="JobChange_02" />
+	<key id="10500298" level="9" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 18% 증가" feature="JobChange_02" />
+	<key id="10500298" level="10" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 20% 증가" feature="JobChange_02" />
+	<key id="10500298" level="11" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 22% 증가" feature="JobChange_02" />
+	<key id="10500298" level="12" name="이글 스쿼드" tooltipDescription="이글 스쿼드의 증원을 받습니다!\n40초 간 물리, 마법 공격력 24% 증가" feature="JobChange_02" />
 </ms2>

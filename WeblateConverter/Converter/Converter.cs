@@ -1779,8 +1779,48 @@ public class Converter {
         Console.WriteLine($"Successfully split skillname.json into multiple XML files based on skill ID ranges");
     }
 
+    // Identifies stale "bare" keys in a level-keyed file: keys with no secondary in the key
+    // (e.g. "100000056--") that carry the secondary value inside their object AND duplicate a
+    // proper compound key ("100000056|5--"). These are historical collapse artifacts; the
+    // compound key is authoritative (it matches the source of truth), so the bare key is dropped.
+    private HashSet<string> CollectStaleBareLevelKeys(JObject jsonObject, string fileName) {
+        var stale = new HashSet<string>();
+        string? secondaryAttr = GetSecondaryKeyAttributeName(fileName);
+        if (secondaryAttr == null) {
+            return stale;
+        }
+
+        var compoundIdentities = new HashSet<string>();
+        foreach (JProperty prop in jsonObject.Properties()) {
+            var (primary, secondary, _, _) = ParseCombinedKey(prop.Name, fileName);
+            if (!string.IsNullOrEmpty(secondary)) {
+                compoundIdentities.Add($"{primary}|{secondary}");
+            }
+        }
+
+        foreach (JProperty prop in jsonObject.Properties()) {
+            var (primary, secondary, _, _) = ParseCombinedKey(prop.Name, fileName);
+            if (!string.IsNullOrEmpty(secondary)) {
+                continue;
+            }
+            if (prop.Value is JObject valueObject
+                && valueObject.TryGetValue(secondaryAttr, out JToken? levelToken)) {
+                string level = levelToken?.ToString() ?? "";
+                if (!string.IsNullOrEmpty(level) && compoundIdentities.Contains($"{primary}|{level}")) {
+                    stale.Add(prop.Name);
+                }
+            }
+        }
+
+        return stale;
+    }
+
     private void ConvertStringAdditionalDescriptionWithSplitting(string jsonContent, string locale) {
         JObject jsonObject = JObject.Parse(jsonContent);
+        HashSet<string> staleBareKeys = CollectStaleBareLevelKeys(jsonObject, "stringadditionaldescription.json");
+        if (staleBareKeys.Count > 0) {
+            Console.WriteLine($"  Dropping {staleBareKeys.Count} stale bare level key(s) (superseded by compound id|level keys)");
+        }
 
         // Create dictionaries to store skill entries for each file
         var skillFiles = new Dictionary<string, List<(int skillId, int level, string key, JToken value)>> {
@@ -1814,6 +1854,9 @@ public class Converter {
         };
 
         foreach ((string combinedKey, JToken? value) in jsonObject) {
+            if (staleBareKeys.Contains(combinedKey)) {
+                continue;
+            }
             try {
                 // Parse the combined key to extract the skill ID
                 var (primaryKey, secondaryKey, feature, localeFromKey) = ParseCombinedKey(combinedKey, "stringadditionaldescription.json");
@@ -1904,6 +1947,10 @@ public class Converter {
 
     private void ConvertStringSkillDescriptionWithSplitting(string jsonContent, string locale) {
         JObject jsonObject = JObject.Parse(jsonContent);
+        HashSet<string> staleBareKeys = CollectStaleBareLevelKeys(jsonObject, "stringskilldescription.json");
+        if (staleBareKeys.Count > 0) {
+            Console.WriteLine($"  Dropping {staleBareKeys.Count} stale bare level key(s) (superseded by compound id|level keys)");
+        }
 
         // Create dictionaries to store skill entries for each file
         var skillFiles = new Dictionary<string, List<(int skillId, int level, string key, JToken value)>> {
@@ -1937,6 +1984,9 @@ public class Converter {
         };
 
         foreach ((string combinedKey, JToken? value) in jsonObject) {
+            if (staleBareKeys.Contains(combinedKey)) {
+                continue;
+            }
             try {
                 // Parse the combined key to extract the skill ID
                 var (primaryKey, secondaryKey, feature, localeFromKey) = ParseCombinedKey(combinedKey, "stringskilldescription.json");

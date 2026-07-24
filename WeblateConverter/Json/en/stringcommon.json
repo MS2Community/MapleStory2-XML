@@ -3441,7 +3441,7 @@
     "value": "You must have an active Premium Club membership to use this."
   },
   "s_item_err_puton_wedding--": {
-    "value": "STRINGCOMMON_S_ITEM_ERR_PUTON_WEDDING_VALUE"
+    "value": "This item is for weddings only."
   },
   "s_item_err_puton_invalid_binding--": {
     "value": "A character's item can only be worn by that character."
@@ -6405,7 +6405,7 @@
     "value": "Premium Club Item"
   },
   "s_word_item_limit_wedding--": {
-    "value": "STRINGCOMMON_S_WORD_ITEM_LIMIT_WEDDING_VALUE"
+    "value": "Wedding-only Item"
   },
   "s_word_item_limit_moveDisable-EnchantReformation01-": {
     "value": "Can't Transfer within Account"
@@ -9144,7 +9144,7 @@
     "value": "There are no party members to summon.\\nYou can only summon party members connected to the same world."
   },
   "s_err_cash_recall_no_weddingmember--": {
-    "value": "STRINGCOMMON_S_ERR_CASH_RECALL_NO_WEDDINGMEMBER_VALUE"
+    "value": "There is no spouse available to summon.\\nOnly a spouse currently connected to the same world can be summoned."
   },
   "s_err_cash_recall_overflow--": {
     "value": "Summoning cannot be done in a crowded region."
@@ -9168,7 +9168,7 @@
     "value": "You've got the guild summon request."
   },
   "s_cash_recall_wedding_notice--": {
-    "value": "STRINGCOMMON_S_CASH_RECALL_WEDDING_NOTICE_VALUE"
+    "value": "A wedding summon request has arrived."
   },
   "s_cash_recall_expired_notice--": {
     "value": "You are unable to respond to the summon request."
@@ -9558,7 +9558,7 @@
     "value": "<FONT color='#'FFB400>Got {0} Meret(s)</FONT>"
   },
   "s_system_quest_reward_wedding_exp--": {
-    "value": "STRINGCOMMON_S_SYSTEM_QUEST_REWARD_WEDDING_EXP_VALUE"
+    "value": "<FONT color='#'FFB400>{0} Affinity gained</FONT>"
   },
   "s_system_achieve_reward_title--": {
     "value": "<FONT color='#'FFB400>Got Title \"{0}\"</FONT>"
@@ -10243,7 +10243,7 @@
     "value": "<FONT color='#FFD200' size='15' >Rock-Paper-Scissors {0}</FONT>\\n<FONT size='3'> </FONT>\\nView the Rock-Paper-Scissors event window."
   },
   "s_tooltip_gamemenu_coupledance--": {
-    "value": "STRINGCOMMON_S_TOOLTIP_GAMEMENU_COUPLEDANCE_VALUE"
+    "value": "<FONT color='#FFD200' size='15' >Love Dance Party{0}</FONT>\\n<FONT size='3'> </FONT>\\nYou can request a Couple Dance game and receive rewards."
   },
   "s_tooltip_gamemenu_characterselect--": {
     "value": "<FONT color='#FFD200' size='15' >Select Character {0}</FONT>\\n<FONT size='3'> </FONT>\\nTakes you back to the Character Select Screen."
@@ -18055,103 +18055,103 @@
     "value": "Burning"
   },
   "s_burning_levelup_event_jumping_item_desc_popup--": {
-    "value": "STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_ITEM_DESC_POPUP_VALUE"
+    "value": "\\n• This Level 60 Jump Potion is provided upon completing the tutorial. \\n• After using it, you cannot designate another Burning character even if you delete this character.\\n\\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>\\n"
   },
   "s_burning_levelup_event_jumping_item_notify--": {
-    "value": "STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_ITEM_NOTIFY_VALUE"
+    "value": "Check your inventory now! \\n You received a <FONT color='#FFD200' size='18' >[Level 60 Level-Up Potion]</FONT>. \\nUse the item to jump to level 60! \\n After jumping, you can benefit from Burning up to level 81.\\n\\n"
   },
   "s_burning_levelup_event_jumping_complete--": {
-    "value": "STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_COMPLETE_VALUE"
+    "value": "You used the <FONT color='#FFD200' size='18' >[Level 60 Level-Up Potion]</FONT>! \\n\\n • You can no longer create another Burning character, even if you delete this character.\\n • Complete the job advancement quest for smooth progression.\\n • From now until level 81, 1+2 Burning level-ups will apply.\\n\\n<FONT color='#FFD200' size='18' >[Level 81 Final Reward]</FONT>\\n "
   },
   "s_action_banner_couple_dance--": {
-    "value": "STRINGCOMMON_S_ACTION_BANNER_COUPLE_DANCE_VALUE"
+    "value": "Join the Couple Dance"
   },
   "s_microgame_couple_dance_event_invalid_event--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_EVENT_INVALID_EVENT_VALUE"
+    "value": "This event cannot be started."
   },
   "s_microgame_couple_dance_event_ask_close--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_EVENT_ASK_CLOSE_VALUE"
+    "value": "<FONT color='#FF5f5f'>Closing the window will cancel the Couple Dance listing.</font>\\nAre you sure you want to close the window?"
   },
   "s_microgame_couple_dance_close--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_CLOSE_VALUE"
+    "value": "Would you like to cancel the Couple Dance listing?"
   },
   "s_microgame_couple_dance_waiting--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_WAITING_VALUE"
+    "value": "Sending a Couple Dance request to the other player."
   },
   "s_microgame_couple_dance_request_recv--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_RECV_VALUE"
+    "value": "{0} has requested a Couple Dance."
   },
   "s_microgame_couple_dance_response_decline--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_DECLINE_VALUE"
+    "value": "{0} does not want to Couple Dance."
   },
   "s_microgame_couple_dance_response_accept--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_ACCEPT_VALUE"
+    "value": "Let's dance together!"
   },
   "s_microgame_couple_dance_failed--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_FAILED_VALUE"
+    "value": "Failed to start Couple Dance"
   },
   "s_microgame_couple_dance_open_banner_failed_action_key--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_OPEN_BANNER_FAILED_ACTION_KEY_VALUE"
+    "value": "You cannot post a Couple Dance listing here."
   },
   "s_microgame_couple_dance_open_banner_failed_wrong_state--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_OPEN_BANNER_FAILED_WRONG_STATE_VALUE"
+    "value": "You cannot do that in your current state."
   },
   "s_microgame_couple_dance_request_failed_wrong_distance--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_DISTANCE_VALUE"
+    "value": "You are too far away to do that."
   },
   "s_microgame_couple_dance_request_failed_wrong_position--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_POSITION_VALUE"
+    "value": "You cannot do that from your current position."
   },
   "s_microgame_couple_dance_request_failed_wrong_state--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_STATE_VALUE"
+    "value": "You cannot do that in your current state."
   },
   "s_microgame_couple_dance_request_cancel--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_CANCEL_VALUE"
+    "value": "The other player canceled the Couple Dance request."
   },
   "s_microgame_couple_dance_peer_game_cancel--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_PEER_GAME_CANCEL_VALUE"
+    "value": "The other player ended the Couple Dance game."
   },
   "s_microgame_couple_dance_banner_failed_blocked_in_this_field--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_BANNER_FAILED_BLOCKED_IN_THIS_FIELD_VALUE"
+    "value": "You cannot do that on the current map."
   },
   "s_microgame_couple_dance_request_failed_blocked_in_this_field--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_BLOCKED_IN_THIS_FIELD_VALUE"
+    "value": "You cannot do that on the current map."
   },
   "s_microgame_couple_dance_request_failed_peer_wrong_state--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_PEER_WRONG_STATE_VALUE"
+    "value": "The other player is unable to participate in a Couple Dance game."
   },
   "s_microgame_couple_dance_request_failed_blocked_user--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_BLOCKED_USER_VALUE"
+    "value": "You have blocked this player. Unblock them and try again."
   },
   "s_microgame_couple_dance_response_failed_blocked_user--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_FAILED_BLOCKED_USER_VALUE"
+    "value": "A blocked player requested a Couple Dance."
   },
   "s_microgame_couple_dance_accept_failed_peer_wrong_state--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_ACCEPT_FAILED_PEER_WRONG_STATE_VALUE"
+    "value": "The other player is unable to Couple Dance."
   },
   "s_microgame_couple_dance_start_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_START_MESSAGE_VALUE"
+    "value": "Starting the Couple Dance game!"
   },
   "s_microgame_couple_dance_ready_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_READY_MESSAGE_VALUE"
+    "value": "Express how you feel with your body."
   },
   "s_microgame_couple_dance_select_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_SELECT_MESSAGE_VALUE"
+    "value": "Click a button to dance."
   },
   "s_microgame_couple_dance_wait_result_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_WAIT_RESULT_MESSAGE_VALUE"
+    "value": "Thump, thump!\\nAre our hearts in sync?"
   },
   "s_microgame_couple_dance_success_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_SUCCESS_MESSAGE_VALUE"
+    "value": "Our hearts are in sync!\\nCould we be a match made in heaven...?"
   },
   "s_microgame_couple_dance_fail_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_FAIL_MESSAGE_VALUE"
+    "value": "Oh... What a shame!\\nStill, that was a wonderful dance."
   },
   "s_microgame_couple_dance_normal_end_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_NORMAL_END_MESSAGE_VALUE"
+    "value": "Great dancing! Well done!\\nSee you again next time."
   },
   "s_microgame_couple_dance_good_end_message--": {
-    "value": "STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_GOOD_END_MESSAGE_VALUE"
+    "value": "What a spark! We're perfectly in sync!\\nCould we be a match made in heaven...?"
   },
   "s_achieve_disabled_mushkingroyal-FoundersPackMode-NA": {
     "value": "Purchase the Founder's Pack to access this."
@@ -18417,7 +18417,7 @@
     "value": "All Dungeons"
   },
   "s_err_cash_recall_not_marriage--": {
-    "value": "STRINGCOMMON_S_ERR_CASH_RECALL_NOT_MARRIAGE_VALUE"
+    "value": "You must be married to use this summon."
   },
   "s_watchagame_change_camera--": {
     "value": "Change Camera"
