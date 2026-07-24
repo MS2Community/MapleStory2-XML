@@ -288,8 +288,8 @@
 	<achieve id="21230129" desc="Receive rewards {0} time(s) for $dungeonTitle:27003001$" complete="Received rewards {0} time(s) for $dungeonTitle:27003001$" manualDesc="" manualComplete="" feature="LapentaDungeon" />
 	<achieve id="21230130" desc="Clear &quot;$dungeonTitle:27003001$&quot;" complete="Cleared &quot;$dungeonTitle:27003001$&quot;" manualDesc="Clear $dungeonTitle:27003001$" manualComplete="Cleared $dungeonTitle:27003001$" feature="LapentaDungeon" />
 	<achieve id="21230131" desc="Survive in the space ruled by your transformed ally" complete="Survived in the space ruled by your transformed ally" manualDesc="Survive the area controlled by a corrupted ally" manualComplete="Survived the area controlled by a corrupted ally" feature="LapentaDungeon" />
-	<achieve id="21230132" desc="Defeat $npcName:24002004$ {0} time(s) in normal adventure dungeon $dungeonTitle:21014001$" complete="Defeated $npcName:24002004$ {0} time(s) in normal adventure dungeon $dungeonTitle:21014001$" manualDesc=" " manualComplete=" " feature="KarkarIsland" locale="NA" />
 	<achieve id="21230132" complete="Chaos [Normal]: Defeated $npc:23000084$ {0} times in &quot;$dungeonTitle:23110001$&quot; so far!" desc="Chaos [Normal]: Defeat $npc:23000084$ {0} times in &quot;$dungeonTitle:23110001$&quot;" feature="DungeonOpen70CH7" />
+	<achieve id="21230132" desc="Defeat $npcName:24002004$ {0} time(s) in normal adventure dungeon $dungeonTitle:21014001$" complete="Defeated $npcName:24002004$ {0} time(s) in normal adventure dungeon $dungeonTitle:21014001$" manualDesc=" " manualComplete=" " feature="KarkarIsland" locale="NA" />
 	<achieve id="21230132" desc="Adventure [Normal]: Defeat $npcName:24002004$ {0} times in &quot;$dungeonTitle:21014001$&quot;" manualDesc=" " manualComplete=" " complete="Adventure [Normal]: Defeated $npcName:24002004$ {0} times in &quot;$dungeonTitle:21014001$&quot;" feature="KarkarIsland" locale="JP" />
 	<achieve id="21230133" desc="Defeat $npcName:24001308$ {0} time(s) in normal adventure dungeon $dungeonTitle:21010001$" complete="Defeated $npcName:24001308$ {0} time(s) in normal adventure dungeon $dungeonTitle:21010001$" manualDesc=" " manualComplete=" " feature="KarkarIsland" locale="NA" />
 	<achieve id="21230133" desc="Adventure [Normal]: Defeat $npcName:24001308$ {0} times in &quot;$dungeonTitle:21010001$&quot;" complete="Adventure [Normal]: Defeated $npcName:24001308$ {0} times in &quot;$dungeonTitle:21010001$&quot;" manualDesc=" " manualComplete=" " feature="KarkarIsland" locale="JP" />
@@ -2047,8 +2047,8 @@
 	<achieve id="23300064" desc="Collect $item:50600222$" complete="Collected $item:50600222$" manualDesc="Acquire $item:50600222$" manualComplete="Acquired $item:50600222$" />
 	<achieve id="23300065" desc="Collect $item:50600221$" complete="Collected $item:50600221$" manualDesc="Acquire $item:50600221$" manualComplete="Acquired $item:50600221$" />
 	<achieve id="23300066" desc="Collect $item:50600217$" complete="Collected $item:50600217$" feature="KarmaTokenItem01" />
-	<achieve id="23300067" desc=" " complete=" " manualDesc="Collect $item:50600022$ and $item:50600024$" manualComplete="Collected $item:50600022$ and $item:50600024$" feature="Season1" locale="NA" />
 	<achieve id="23300067" desc="Collect [Book] $item:39000043$" complete="Collected [Book] $item:39000043$" feature="Season1" />
+	<achieve id="23300067" desc=" " complete=" " manualDesc="Collect $item:50600022$ and $item:50600024$" manualComplete="Collected $item:50600022$ and $item:50600024$" feature="Season1" locale="NA" />
 	<achieve id="23300067" desc=" " manualDesc="Collect $item:50600022$ and $item:50600024$" complete=" " manualComplete="Collected $item:50600022$ and $item:50600024$" feature="Season1" locale="JP" />
 	<achieve id="23300068" desc="Collect $item:50600247$" complete="Collected $item:50600247$" manualDesc="Acquire $item:50600247$" manualComplete="Acquired $item:50600247$" feature="LapentaDungeon" />
 	<achieve id="23300069" desc="Collect $item:40400071$" complete="Collected $item:40400071$" manualDesc="Acquire $item:40400071$" manualComplete="Acquired $item:40400071$" feature="LapentaDungeon" />
@@ -2318,8 +2318,8 @@
 	<achieve id="92000125" manualDesc=" " desc="Complete the quest &quot;$quest:30000380$&quot; 12 times" complete="Completed the quest &quot;$quest:30000380$&quot; 12 times" manualComplete=" " locale="JP" />
 	<achieve id="92000126" complete="Completed the [Decorate the Christmas Tree with Trainee Rudolph] quest 12 times" desc="Complete the [Decorate the Christmas Tree with Trainee Rudolph] quest 12 times" locale="CN" />
 	<achieve id="92000126" manualDesc=" " desc="Complete the quest &quot;$quest:30000381$&quot; 12 times" manualComplete=" " complete="Completed the quest &quot;$quest:30000381$&quot; 12 times" locale="JP" />
-	<achieve id="92000127" desc="Complete the quest &quot;$quest:30000380$&quot; 12 times" complete="Completed the quest &quot;$quest:30000380$&quot; 12 times" manualDesc=" " manualComplete=" " locale="NA" />
 	<achieve id="92000127" desc="Participate in $map:61000022$ {0} times" complete="Participated in $map:61000022$ {0} times" />
+	<achieve id="92000127" desc="Complete the quest &quot;$quest:30000380$&quot; 12 times" complete="Completed the quest &quot;$quest:30000380$&quot; 12 times" manualDesc=" " manualComplete=" " locale="NA" />
 	<achieve id="92000128" desc="Complete the quest &quot;$quest:30000381$&quot; 12 times" complete="Completed the quest &quot;$quest:30000381$&quot; 12 times" manualDesc=" " manualComplete=" " locale="NA" />
 	<achieve id="92000129" complete="Completed the &quot;$quest:80010290$&quot; quest and received 3 $item:20302276$" desc="Complete the &quot;$quest:80010290$&quot; quest and receive 3 $item:20302276$" locale="CN" />
 	<achieve id="92000130" desc="Complete the quest &quot;A Friendly Game of Seek-and-Find&quot; 5 times" complete="Completed the quest &quot;A Friendly Game of Seek-and-Find&quot; 5 times" manualDesc=" " manualComplete=" " locale="NA" />
@@ -2367,8 +2367,8 @@
 	<achieve id="92000152" complete="Participated in the 4th anniversary event and collected commemorative items" desc="Participate in the 4th anniversary event and collect commemorative items" feature="Event" locale="CN" />
 	<achieve id="92000152" manualDesc=" " desc="Complete the quest &quot;$quest:80030220$&quot;" complete="Completed the quest &quot;$quest:80030220$&quot;" manualComplete=" " feature="Event" locale="JP" />
 	<achieve id="92000153" complete="Participated in $map:61000022$ {0} times" desc="Participate in $map:61000022$ {0} times" feature="Event" locale="CN" />
-	<achieve id="92000154" desc="Obtain $item:30001465$ x{0}" complete="Obtained $item:30001465$ x{0}" manualDesc=" " manualComplete=" " feature="Event" locale="NA" />
 	<achieve id="92000154" desc="Inflate Baki&apos;s pool with $item:20302694$ 100 times" complete="Inflated Baki&apos;s pool with $item:20302694$ 100 times" feature="Event" />
+	<achieve id="92000154" desc="Obtain $item:30001465$ x{0}" complete="Obtained $item:30001465$ x{0}" manualDesc=" " manualComplete=" " feature="Event" locale="NA" />
 	<achieve id="92000154" desc="Inflate Baki&apos;s pool with $item:20302698$ 100 times" complete="Inflated Baki&apos;s pool with $item:20302698$ 100 times" feature="Event" locale="CN" />
 	<achieve id="92000155" desc="Use $item:20001734$ x{0}" complete="Used $item:20001734$ x{0}" manualDesc=" " manualComplete=" " feature="Event" locale="NA" />
 	<achieve id="92000155" complete="Drew 20 times in the Abundant Autumn rock-paper-scissors event" desc="Draw 20 times in the Abundant Autumn rock-paper-scissors event" feature="Event" locale="CN" />

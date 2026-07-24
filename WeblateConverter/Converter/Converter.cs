@@ -1252,11 +1252,11 @@ public class Converter {
 
     private IEnumerable<JProperty> OrderJsonProperties(JObject jsonObject, string fileName) {
         var properties = jsonObject.Properties().ToList();
-        var parsedProperties = new List<(JProperty Property, long PrimaryKey, long? SecondaryKey, int Index)>();
+        var parsedProperties = new List<(JProperty Property, long PrimaryKey, long? SecondaryKey, bool HasLocale, int Index)>();
 
         for (int index = 0; index < properties.Count; index++) {
             JProperty property = properties[index];
-            var (primaryKey, secondaryKey, _, _) = ParseCombinedKey(property.Name, fileName);
+            var (primaryKey, secondaryKey, _, locale) = ParseCombinedKey(property.Name, fileName);
 
             if (!long.TryParse(primaryKey, out long numericPrimaryKey)) {
                 return properties;
@@ -1271,12 +1271,17 @@ public class Converter {
                 numericSecondaryKey = parsedSecondaryKey;
             }
 
-            parsedProperties.Add((property, numericPrimaryKey, numericSecondaryKey, index));
+            parsedProperties.Add((property, numericPrimaryKey, numericSecondaryKey, !string.IsNullOrEmpty(locale), index));
         }
 
+        // Within the same id, emit locale-specific entries AFTER generic (no-locale) ones. The
+        // client stores keyed tables last-write-wins, so a matching locale (e.g. NA) then
+        // overwrites the generic entry — while non-matching locales are filtered out and fall
+        // back to the generic. This makes localized translations take precedence in-game.
         return parsedProperties
             .OrderBy(entry => entry.PrimaryKey)
             .ThenBy(entry => entry.SecondaryKey ?? long.MinValue)
+            .ThenBy(entry => entry.HasLocale ? 1 : 0)
             .ThenBy(entry => entry.Index)
             .Select(entry => entry.Property);
     }
