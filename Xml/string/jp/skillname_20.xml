@@ -1,69 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10200001" name="レイジスラッシュ" />
-  <key id="10200002" name="レイジスラッシュ2打" feature="Develop" />
-  <key id="10200003" name="レイジスラッシュ3打" feature="Develop" />
-  <key id="10200004" name="レイジスラッシュ4打" feature="Develop" />
-  <key id="10200005" name="レイジスラッシュ5打" feature="Develop" />
-  <key id="10200011" name="スウィープ" />
-  <key id="10200012" name="スウィープ2打" feature="Develop" />
-  <key id="10200013" name="スウィープ3打" feature="Develop" />
-  <key id="10200014" name="スウィープ4打" feature="Develop" />
-  <key id="10200015" name="スウィープ5打" feature="Develop" />
-  <key id="10200021" name="戦士の一撃" />
-  <key id="10200031" name="闇のオーラ" />
-  <key id="10200041" name="ボイドスラッシュ" />
-  <key id="10200042" name="ボイドスラッシュ2打" feature="Develop" />
-  <key id="10200051" name="血の渇望" />
-  <key id="10200061" name="威嚇" />
-  <key id="10200062" name="威嚇強化型" />
-  <key id="10200063" name="威嚇スタン効果" />
-  <key id="10200071" name="グラウンドクラッシュ" />
-  <key id="10200072" name="グラウンドクラッシュスプラッシュ" feature="Develop" />
-  <key id="10200081" name="アドレナリン" />
-  <key id="10200082" name="アドレナリン2段階" />
-  <key id="10200083" name="アドレナリン3段階" />
-  <key id="10200091" name="エックススラッシュ" />
-  <key id="10200101" name="エンデュア" />
-  <key id="10200111" name="出血" />
-  <key id="10200112" name="出血発動" feature="Develop" />
-  <key id="10200121" name="ラージソードマスタリ" />
-  <key id="10200131" name="ダークコマンダー" />
-  <key id="10200141" name="血の祭物" />
-  <key id="10200151" name="闘争心" />
-  <key id="10200161" name="地震" />
-  <key id="10200162" name="地震スプラッシュ" feature="Develop" />
-  <key id="10200171" name="エアリアルスマッシュ" feature="JobChange_01" />
-  <key id="10200172" name="エアリアルスマッシュ2打" feature="Develop" />
-  <key id="10200181" name="パリーザムーン" feature="JobChange_01" />
-  <key id="10200182" name="パリーザムーン2打" feature="Develop" />
-  <key id="10200183" name="パリーザムーンスプラッシュ" feature="Develop" />
-  <key id="10200184" name="パリーザムーンスプラッシュ2" feature="Develop" />
-  <key id="10200191" name="無限の闇" feature="JobChange_01" />
-  <key id="10200201" name="スカルスプリッター" feature="JobChange_01" />
-  <key id="10200202" name="スカルスプリッター2段階" feature="Develop" />
-  <key id="10200203" name="スカルスプリッター3段階" feature="Develop" />
-  <key id="10200204" name="スカルスプリッター3段階" feature="Develop" />
-  <key id="10200205" name="スカルスプリッター3段階チャージ攻撃" feature="Develop" />
-  <key id="10200206" name="スカルスプリッター3段階チャージ攻撃" feature="Develop" />
-  <key id="10200207" name="戦士の一撃" feature="JobChange_01" />
-  <key id="10200211" name="血の狂乱" feature="JobChange_01" />
-  <key id="10200221" name="狂戦士の魂" feature="JobChange_01" />
-  <key id="10200231" name="突風" feature="JobChange_01" />
-  <key id="10200232" name="突風2打" feature="Develop" />
-  <key id="10200233" name="つむじ風" feature="JobChange_01" />
-  <key id="10200234" name="つむじ風" feature="JobChange_01" />
-  <key id="10200241" name="傷口破壊" feature="JobChange_01" />
-  <key id="10200251" name="ブラッドスラッシュ" feature="JobChange_01" />
-  <key id="10200252" name="ブラッドスラッシュ2打" feature="Develop" />
-  <key id="10200253" name="ブラッドスラッシュ3打" feature="Develop" />
-  <key id="10200254" name="ブラッドスラッシュパッシブ" feature="Develop" />
-  <key id="10200255" name="ダークブラッドスラッシュ" feature="JobChange_01" />
-  <key id="10200256" name="ダークブラッドスラッシュ2打" feature="Develop" />
-  <key id="10200257" name="ブラッドスラッシュ回転攻撃" feature="JobChange_01" />
-  <key id="10200261" name="SKILLNAME_10200261_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200271" name="SKILLNAME_10200271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200281" name="SKILLNAME_10200281_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10200291" name="SKILLNAME_10200291_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200001" name="レイジスラッシュ" />
+	<key id="10200002" name="レイジスラッシュ2打" feature="Develop" />
+	<key id="10200003" name="レイジスラッシュ3打" feature="Develop" />
+	<key id="10200004" name="レイジスラッシュ4打" feature="Develop" />
+	<key id="10200005" name="レイジスラッシュ5打" feature="Develop" />
+	<key id="10200011" name="スウィープ" />
+	<key id="10200012" name="スウィープ2打" feature="Develop" />
+	<key id="10200013" name="スウィープ3打" feature="Develop" />
+	<key id="10200014" name="スウィープ4打" feature="Develop" />
+	<key id="10200015" name="スウィープ5打" feature="Develop" />
+	<key id="10200021" name="戦士の一撃" />
+	<key id="10200031" name="闇のオーラ" />
+	<key id="10200041" name="ボイドスラッシュ" />
+	<key id="10200042" name="ボイドスラッシュ2打" feature="Develop" />
+	<key id="10200051" name="血の渇望" />
+	<key id="10200061" name="威嚇" />
+	<key id="10200062" name="威嚇強化型" />
+	<key id="10200063" name="威嚇スタン効果" />
+	<key id="10200071" name="グラウンドクラッシュ" />
+	<key id="10200072" name="グラウンドクラッシュスプラッシュ" feature="Develop" />
+	<key id="10200081" name="アドレナリン" />
+	<key id="10200082" name="アドレナリン2段階" />
+	<key id="10200083" name="アドレナリン3段階" />
+	<key id="10200091" name="エックススラッシュ" />
+	<key id="10200101" name="エンデュア" />
+	<key id="10200111" name="出血" />
+	<key id="10200112" name="出血発動" feature="Develop" />
+	<key id="10200121" name="ラージソードマスタリ" />
+	<key id="10200131" name="ダークコマンダー" />
+	<key id="10200141" name="血の祭物" />
+	<key id="10200151" name="闘争心" />
+	<key id="10200161" name="地震" />
+	<key id="10200162" name="地震スプラッシュ" feature="Develop" />
+	<key id="10200171" name="エアリアルスマッシュ" feature="JobChange_01" />
+	<key id="10200172" name="エアリアルスマッシュ2打" feature="Develop" />
+	<key id="10200181" name="パリーザムーン" feature="JobChange_01" />
+	<key id="10200182" name="パリーザムーン2打" feature="Develop" />
+	<key id="10200183" name="パリーザムーンスプラッシュ" feature="Develop" />
+	<key id="10200184" name="パリーザムーンスプラッシュ2" feature="Develop" />
+	<key id="10200191" name="無限の闇" feature="JobChange_01" />
+	<key id="10200201" name="スカルスプリッター" feature="JobChange_01" />
+	<key id="10200202" name="スカルスプリッター2段階" feature="Develop" />
+	<key id="10200203" name="スカルスプリッター3段階" feature="Develop" />
+	<key id="10200204" name="スカルスプリッター3段階" feature="Develop" />
+	<key id="10200205" name="スカルスプリッター3段階チャージ攻撃" feature="Develop" />
+	<key id="10200206" name="スカルスプリッター3段階チャージ攻撃" feature="Develop" />
+	<key id="10200207" name="戦士の一撃" feature="JobChange_01" />
+	<key id="10200211" name="血の狂乱" feature="JobChange_01" />
+	<key id="10200221" name="狂戦士の魂" feature="JobChange_01" />
+	<key id="10200231" name="突風" feature="JobChange_01" />
+	<key id="10200232" name="突風2打" feature="Develop" />
+	<key id="10200233" name="つむじ風" feature="JobChange_01" />
+	<key id="10200234" name="つむじ風" feature="JobChange_01" />
+	<key id="10200241" name="傷口破壊" feature="JobChange_01" />
+	<key id="10200251" name="ブラッドスラッシュ" feature="JobChange_01" />
+	<key id="10200252" name="ブラッドスラッシュ2打" feature="Develop" />
+	<key id="10200253" name="ブラッドスラッシュ3打" feature="Develop" />
+	<key id="10200254" name="ブラッドスラッシュパッシブ" feature="Develop" />
+	<key id="10200255" name="ダークブラッドスラッシュ" feature="JobChange_01" />
+	<key id="10200256" name="ダークブラッドスラッシュ2打" feature="Develop" />
+	<key id="10200257" name="ブラッドスラッシュ回転攻撃" feature="JobChange_01" />
+	<key id="10200261" name="SKILLNAME_10200261_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200271" name="SKILLNAME_10200271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200281" name="SKILLNAME_10200281_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10200291" name="SKILLNAME_10200291_NAME:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

@@ -1,905 +1,904 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="15123101" partCount="2" tooltipDescription="STR 10 증가" />
-  <key id="15123101" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123101" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123102" partCount="2" tooltipDescription="STR 10 증가" />
-  <key id="15123102" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123102" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123103" partCount="2" tooltipDescription="INT 10 증가" />
-  <key id="15123103" partCount="4" tooltipDescription="마법공격력 10 증가" />
-  <key id="15123103" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123104" partCount="2" tooltipDescription="INT 10 증가" />
-  <key id="15123104" partCount="4" tooltipDescription="마법공격력 10 증가" />
-  <key id="15123104" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123105" partCount="2" tooltipDescription="DEX 10 증가" />
-  <key id="15123105" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123105" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123106" partCount="2" tooltipDescription="DEX 10 증가" />
-  <key id="15123106" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123106" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123107" partCount="2" tooltipDescription="LUK 10 증가" />
-  <key id="15123107" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123107" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123108" partCount="2" tooltipDescription="LUK 10 증가" />
-  <key id="15123108" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123108" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="15123109" partCount="2" tooltipDescription="STR 10 증가" />
-  <key id="15123109" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="15123109" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="16022501" partCount="3" tooltipDescription="명중 4, 총 대미지 0.03% 증가" />
-  <key id="16042801" partCount="2" tooltipDescription="명중 8 증가, 급속 몸집 증가" />
-  <key id="16042802" partCount="2" tooltipDescription="총 대미지 5.5% 증가" />
-  <key id="16042803" partCount="2" tooltipDescription="일정 확률로 12초 동안 공격 속도 10% 증가" />
-  <key id="16063001" partCount="3" tooltipDescription="이동속도 1%, 물리 공격력 1, 마법 공격력 1 증가" />
-  <key id="16063001" partCount="6" tooltipDescription="명중 2, 보스 대미지 2%, 물리 공격력 2, 마법 공격력 2 증가" />
-  <key id="16063002" partCount="3" tooltipDescription="이동속도 1%, 물리 공격력 1, 마법 공격력 1 증가" />
-  <key id="16063002" partCount="6" tooltipDescription="명중 2, 보스 대미지 2%, 물리 공격력 2, 마법 공격력 2 증가" />
-  <key id="16071401" partCount="2" tooltipDescription="DEX 10 증가" />
-  <key id="16071401" partCount="4" tooltipDescription="물리공격력 10 증가" />
-  <key id="16071401" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
-  <key id="17110812" partCount="3" tooltipDescription="증가" />
-  <key id="17110812" partCount="5" tooltipDescription="증가" />
-  <key id="17110813" partCount="3" tooltipDescription="증가" />
-  <key id="17110813" partCount="5" tooltipDescription="증가" />
-  <key id="17110814" partCount="3" tooltipDescription="증가" />
-  <key id="17110814" partCount="5" tooltipDescription="증가" />
-  <key id="17110815" partCount="3" tooltipDescription="증가" />
-  <key id="17110815" partCount="5" tooltipDescription="증가" />
-  <key id="17110816" partCount="3" tooltipDescription="증가" />
-  <key id="17110816" partCount="5" tooltipDescription="증가" />
-  <key id="17110817" partCount="3" tooltipDescription="증가" />
-  <key id="17110817" partCount="5" tooltipDescription="증가" />
-  <key id="17110818" partCount="3" tooltipDescription="증가" />
-  <key id="17110818" partCount="5" tooltipDescription="증가" />
-  <key id="17110819" partCount="3" tooltipDescription="증가" />
-  <key id="17110819" partCount="5" tooltipDescription="증가" />
-  <key id="17110820" partCount="3" tooltipDescription="증가" />
-  <key id="17110820" partCount="5" tooltipDescription="증가" />
-  <key id="17110821" partCount="3" tooltipDescription="증가" />
-  <key id="17110821" partCount="5" tooltipDescription="증가" />
-  <key id="17110822" partCount="3" tooltipDescription="증가" />
-  <key id="17110822" partCount="5" tooltipDescription="증가" />
-  <key id="17110823" partCount="3" tooltipDescription="증가" />
-  <key id="17110823" partCount="5" tooltipDescription="증가" />
-  <key id="17110824" partCount="3" tooltipDescription="증가" />
-  <key id="17110824" partCount="5" tooltipDescription="증가" />
-  <key id="17110825" partCount="3" tooltipDescription="증가" />
-  <key id="17110825" partCount="5" tooltipDescription="증가" />
-  <key id="17110826" partCount="3" tooltipDescription="증가" />
-  <key id="17110826" partCount="5" tooltipDescription="증가" />
-  <key id="17110827" partCount="3" tooltipDescription="증가" />
-  <key id="17110827" partCount="5" tooltipDescription="증가" />
-  <key id="17110828" partCount="3" tooltipDescription="증가" />
-  <key id="17110828" partCount="5" tooltipDescription="증가" />
-  <key id="17110829" partCount="3" tooltipDescription="증가" />
-  <key id="17110829" partCount="5" tooltipDescription="증가" />
-  <key id="17110830" partCount="3" tooltipDescription="증가" />
-  <key id="17110830" partCount="5" tooltipDescription="증가" />
-  <key id="17110831" partCount="3" tooltipDescription="증가" />
-  <key id="17110831" partCount="5" tooltipDescription="증가" />
-  <key id="17110832" partCount="3" tooltipDescription="증가" />
-  <key id="17110832" partCount="5" tooltipDescription="증가" />
-  <key id="17110833" partCount="3" tooltipDescription="증가" />
-  <key id="17110833" partCount="5" tooltipDescription="증가" />
-  <key id="17110834" partCount="3" tooltipDescription="증가" />
-  <key id="17110835" partCount="3" tooltipDescription="증가" />
-  <key id="17110836" partCount="2" tooltipDescription="증가" />
-  <key id="17110837" partCount="2" tooltipDescription="증가" />
-  <key id="17121101" partCount="2" tooltipDescription="증가" />
-  <key id="17121101" partCount="4" tooltipDescription="증가" />
-  <key id="17121102" partCount="2" tooltipDescription="증가" />
-  <key id="17121102" partCount="4" tooltipDescription="증가" />
-  <key id="17121103" partCount="2" tooltipDescription="증가" />
-  <key id="17121103" partCount="4" tooltipDescription="증가" />
-  <key id="17121104" partCount="2" tooltipDescription="증가" />
-  <key id="17121104" partCount="4" tooltipDescription="증가" />
-  <key id="17121105" partCount="2" tooltipDescription="증가" />
-  <key id="17121105" partCount="4" tooltipDescription="증가" />
-  <key id="17121106" partCount="2" tooltipDescription="증가" />
-  <key id="17121106" partCount="4" tooltipDescription="증가" />
-  <key id="17121107" partCount="2" tooltipDescription="증가" />
-  <key id="17121107" partCount="4" tooltipDescription="증가" />
-  <key id="17121108" partCount="2" tooltipDescription="증가" />
-  <key id="17121108" partCount="4" tooltipDescription="증가" />
-  <key id="17121109" partCount="2" tooltipDescription="증가" />
-  <key id="17121109" partCount="4" tooltipDescription="증가" />
-  <key id="17121110" partCount="2" tooltipDescription="증가" />
-  <key id="17121110" partCount="4" tooltipDescription="증가" />
-  <key id="17121111" partCount="2" tooltipDescription="증가" />
-  <key id="17121111" partCount="4" tooltipDescription="증가" />
-  <key id="18011801" partCount="3" tooltipDescription="증가" />
-  <key id="18011802" partCount="3" tooltipDescription="증가" />
-  <key id="18011803" partCount="2" tooltipDescription="증가" />
-  <key id="18011804" partCount="2" tooltipDescription="증가" />
-  <key id="18011805" partCount="2" tooltipDescription="증가" />
-  <key id="18011805" partCount="4" tooltipDescription="증가" />
-  <key id="18011805" partCount="5" tooltipDescription="증가" />
-  <key id="18011806" partCount="2" tooltipDescription="증가" />
-  <key id="18011806" partCount="4" tooltipDescription="증가" />
-  <key id="18011806" partCount="5" tooltipDescription="증가" />
-  <key id="18011807" partCount="2" tooltipDescription="증가" />
-  <key id="18011807" partCount="4" tooltipDescription="증가" />
-  <key id="18011807" partCount="5" tooltipDescription="증가" />
-  <key id="18011808" partCount="2" tooltipDescription="증가" />
-  <key id="18011808" partCount="4" tooltipDescription="증가" />
-  <key id="18011808" partCount="5" tooltipDescription="증가" />
-  <key id="18011809" partCount="2" tooltipDescription="증가" />
-  <key id="18011809" partCount="4" tooltipDescription="증가" />
-  <key id="18011809" partCount="5" tooltipDescription="증가" />
-  <key id="18011810" partCount="2" tooltipDescription="증가" />
-  <key id="18011810" partCount="4" tooltipDescription="증가" />
-  <key id="18011810" partCount="5" tooltipDescription="증가" />
-  <key id="18011811" partCount="2" tooltipDescription="증가" />
-  <key id="18011811" partCount="4" tooltipDescription="증가" />
-  <key id="18011811" partCount="5" tooltipDescription="증가" />
-  <key id="18011812" partCount="2" tooltipDescription="증가" />
-  <key id="18011812" partCount="4" tooltipDescription="증가" />
-  <key id="18011812" partCount="5" tooltipDescription="증가" />
-  <key id="18011813" partCount="2" tooltipDescription="증가" />
-  <key id="18011813" partCount="4" tooltipDescription="증가" />
-  <key id="18011813" partCount="5" tooltipDescription="증가" />
-  <key id="18011814" partCount="2" tooltipDescription="증가" />
-  <key id="18011814" partCount="4" tooltipDescription="증가" />
-  <key id="18011814" partCount="5" tooltipDescription="증가" />
-  <key id="18011815" partCount="2" tooltipDescription="증가" />
-  <key id="18011815" partCount="4" tooltipDescription="증가" />
-  <key id="18011815" partCount="5" tooltipDescription="증가" />
-  <key id="18011816" partCount="2" tooltipDescription="증가" />
-  <key id="18011816" partCount="4" tooltipDescription="증가" />
-  <key id="18011816" partCount="5" tooltipDescription="증가" />
-  <key id="18011817" partCount="2" tooltipDescription="증가" />
-  <key id="18011817" partCount="4" tooltipDescription="증가" />
-  <key id="18011817" partCount="5" tooltipDescription="증가" />
-  <key id="18011818" partCount="2" tooltipDescription="증가" />
-  <key id="18011818" partCount="4" tooltipDescription="증가" />
-  <key id="18011818" partCount="5" tooltipDescription="증가" />
-  <key id="18011819" partCount="2" tooltipDescription="증가" />
-  <key id="18011819" partCount="4" tooltipDescription="증가" />
-  <key id="18011819" partCount="5" tooltipDescription="증가" />
-  <key id="18011820" partCount="2" tooltipDescription="증가" />
-  <key id="18011820" partCount="4" tooltipDescription="증가" />
-  <key id="18011820" partCount="5" tooltipDescription="증가" />
-  <key id="18011821" partCount="2" tooltipDescription="증가" />
-  <key id="18011821" partCount="4" tooltipDescription="증가" />
-  <key id="18011821" partCount="5" tooltipDescription="증가" />
-  <key id="18011822" partCount="2" tooltipDescription="증가" />
-  <key id="18011822" partCount="4" tooltipDescription="증가" />
-  <key id="18011822" partCount="5" tooltipDescription="증가" />
-  <key id="18011823" partCount="2" tooltipDescription="증가" />
-  <key id="18011823" partCount="4" tooltipDescription="증가" />
-  <key id="18011823" partCount="5" tooltipDescription="증가" />
-  <key id="18011824" partCount="2" tooltipDescription="증가" />
-  <key id="18011824" partCount="4" tooltipDescription="증가" />
-  <key id="18011824" partCount="5" tooltipDescription="증가" />
-  <key id="18011825" partCount="2" tooltipDescription="증가" />
-  <key id="18011825" partCount="4" tooltipDescription="증가" />
-  <key id="18011825" partCount="5" tooltipDescription="증가" />
-  <key id="18011826" partCount="2" tooltipDescription="증가" />
-  <key id="18011826" partCount="4" tooltipDescription="증가" />
-  <key id="18011826" partCount="5" tooltipDescription="증가" />
-  <key id="18011827" partCount="2" tooltipDescription="증가" />
-  <key id="18011827" partCount="4" tooltipDescription="증가" />
-  <key id="18011828" partCount="2" tooltipDescription="증가" />
-  <key id="18011828" partCount="4" tooltipDescription="증가" />
-  <key id="18011829" partCount="2" tooltipDescription="증가" />
-  <key id="18011829" partCount="4" tooltipDescription="증가" />
-  <key id="18011830" partCount="2" tooltipDescription="증가" />
-  <key id="18011830" partCount="4" tooltipDescription="증가" />
-  <key id="18011831" partCount="2" tooltipDescription="증가" />
-  <key id="18011831" partCount="4" tooltipDescription="증가" />
-  <key id="18011832" partCount="2" tooltipDescription="증가" />
-  <key id="18011832" partCount="4" tooltipDescription="증가" />
-  <key id="18011833" partCount="2" tooltipDescription="증가" />
-  <key id="18011833" partCount="4" tooltipDescription="증가" />
-  <key id="18011834" partCount="2" tooltipDescription="증가" />
-  <key id="18011834" partCount="4" tooltipDescription="증가" />
-  <key id="18011835" partCount="2" tooltipDescription="증가" />
-  <key id="18011835" partCount="4" tooltipDescription="증가" />
-  <key id="18011836" partCount="2" tooltipDescription="증가" />
-  <key id="18011836" partCount="4" tooltipDescription="증가" />
-  <key id="18011837" partCount="2" tooltipDescription="증가" />
-  <key id="18011837" partCount="4" tooltipDescription="증가" />
-  <key id="18052834" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052834" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052835" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052835" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052836" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052836" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052837" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052837" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052838" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052838" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052839" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052839" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052840" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052840" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052841" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052841" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052842" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052842" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052843" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052843" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052844" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052844" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052845" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052845" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052846" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052846" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052847" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052847" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052848" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052848" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052849" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052849" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052850" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052850" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052851" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052851" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052852" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052852" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052853" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052853" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052854" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052854" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052855" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052855" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052856" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052856" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052857" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052857" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052858" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052858" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052859" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052859" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052860" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052860" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052861" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052861" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052862" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052862" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052863" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052863" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052864" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052864" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052865" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052865" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052866" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052866" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052867" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052867" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052867" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052868" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052868" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052868" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052869" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052869" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052869" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052870" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052870" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052870" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052871" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052871" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052871" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052872" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052872" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052872" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052873" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052873" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052873" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052874" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052874" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052874" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052875" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052875" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052875" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052876" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052876" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052876" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052877" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052877" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052877" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052878" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052878" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052878" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052879" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052879" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052879" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052880" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052880" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052880" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052881" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052881" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052881" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052882" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052882" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052882" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052883" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052883" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052883" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052884" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052884" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052884" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052885" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052885" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052885" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052886" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052886" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052886" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052887" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052887" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052887" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052888" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052888" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18052888" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18052891" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="18052892" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052893" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="18052894" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052895" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18052896" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="18052897" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061701" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061701" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061702" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061702" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061703" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061703" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061704" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061704" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061705" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061705" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061706" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061706" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061707" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061707" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061708" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061708" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061709" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061709" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061710" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061710" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061711" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061711" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061712" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061712" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061713" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061713" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061714" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061714" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061715" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061715" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061716" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061716" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061717" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061717" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061718" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061718" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061719" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061719" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061720" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061720" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061721" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061721" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061722" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061722" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061723" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061723" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061724" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061724" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061725" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061725" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061726" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061726" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061727" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061727" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061728" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061728" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061729" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061729" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061730" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061730" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061731" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061731" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061732" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061732" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061733" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061733" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061734" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="18061735" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061736" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061736" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061736" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061737" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061737" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061737" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061738" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061738" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061738" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061739" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061739" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061739" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061740" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061740" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061740" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061741" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061741" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061741" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061742" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061742" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061742" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061743" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061743" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061743" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061744" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061744" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061744" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061745" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061745" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061745" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061746" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061746" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061746" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061747" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061747" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061747" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061748" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061748" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061748" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061749" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061749" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061749" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061750" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061750" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061750" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061751" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061751" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061751" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061752" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061752" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061752" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061753" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061753" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061753" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061754" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061754" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061754" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061755" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061755" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061755" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061756" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061756" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061756" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061757" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061757" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="18061757" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="18061758" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="18061759" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18061760" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="18061761" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="18081301" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081301" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081302" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081302" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081303" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081303" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081304" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081304" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081305" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081305" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081306" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081306" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081307" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081307" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081308" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081308" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081309" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081309" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081310" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081310" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081311" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081311" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081312" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081312" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081313" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081313" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081314" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081314" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081315" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081315" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081316" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081316" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081317" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081317" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081318" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081318" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081319" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081319" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081320" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081320" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081321" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081321" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081322" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081322" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081323" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081323" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081324" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081324" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081325" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081325" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081326" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081326" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081327" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081327" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081328" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081328" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081329" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081329" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081330" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081330" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081331" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081331" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081332" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081332" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18081333" partCount="3" tooltipDescription="" feature="Season3" />
-  <key id="18081333" partCount="5" tooltipDescription="" feature="Season3" />
-  <key id="18091401" partCount="3" tooltipDescription="" feature="LegendaryAccessory01" />
-  <key id="18091402" partCount="2" tooltipDescription="" feature="LegendaryAccessory01" />
-  <key id="18091403" partCount="3" tooltipDescription="" feature="LegendaryAccessory01" />
-  <key id="18091404" partCount="2" tooltipDescription="" feature="LegendaryAccessory01" />
-  <key id="18110701" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110702" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110703" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110704" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110705" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110706" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110707" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110708" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110709" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110710" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110711" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18110712" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="18122101" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122102" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122103" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122104" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122105" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122106" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122107" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122108" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122109" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122110" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122111" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122112" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="18122701" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="18122702" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19010301" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010301" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010302" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010302" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010303" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010303" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010304" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010304" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010305" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010305" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010306" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010306" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010307" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010307" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010308" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010308" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010309" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010309" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010310" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010310" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010311" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010311" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010312" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010312" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010313" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010313" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010314" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010314" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010315" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010315" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010316" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010316" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010317" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010317" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010318" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010318" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010319" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010319" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010320" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010320" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010321" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010321" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19010322" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19010322" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011101" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011102" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011103" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011104" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011105" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011106" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011107" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011108" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011109" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011110" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011111" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011112" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011113" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011114" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011115" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011116" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011117" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011118" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011119" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011120" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011121" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011122" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011801" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19011802" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011803" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19011804" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011805" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011805" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011805" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011806" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011806" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011806" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011807" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011807" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011807" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011808" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011808" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011808" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011809" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011809" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011809" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011810" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011810" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011810" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011811" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011811" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011811" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011812" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011812" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011812" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011813" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011813" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011813" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011814" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011814" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011814" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19011815" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19011815" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19011815" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19021801" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021801" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021802" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021802" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021803" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021803" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021804" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021804" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021805" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021805" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021806" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021806" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021807" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021807" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021808" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021808" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021809" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021809" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021810" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021810" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021811" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021811" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021812" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021812" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021813" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021813" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021814" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021814" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021815" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021815" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021816" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021816" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021817" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021817" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021818" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021818" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021819" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021819" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021820" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021820" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021821" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021821" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021822" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021822" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021823" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021823" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021824" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021824" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021825" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021825" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021826" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021826" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021827" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021827" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021828" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021828" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021829" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021829" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021830" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021830" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021831" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021831" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021832" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021832" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021833" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021833" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021834" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="19021835" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021836" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021836" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021836" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021837" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021837" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021837" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021838" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021838" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021838" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021839" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021839" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021839" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021840" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021840" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021840" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021841" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021841" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021841" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021842" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021842" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021842" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021843" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021843" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021843" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021844" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021844" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021844" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021845" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021845" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021845" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021846" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19021846" partCount="4" tooltipDescription="" feature="Level60Item" />
-  <key id="19021846" partCount="5" tooltipDescription="" feature="Level60Item" />
-  <key id="19021847" partCount="3" tooltipDescription="" feature="Level60Item" />
-  <key id="19021848" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19031301" partCount="6" tooltipDescription="" />
-  <key id="19031302" partCount="6" tooltipDescription="" />
-  <key id="19032001" partCount="2" tooltipDescription="" feature="Level60Item" />
-  <key id="19041501" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041502" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041503" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041504" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041505" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041506" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041507" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041508" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041509" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041510" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041511" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19041512" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
-  <key id="19081401" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081402" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081403" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081404" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081405" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081406" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081407" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081408" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081409" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081410" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081411" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081412" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081413" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081414" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081415" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081416" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081417" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081418" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081419" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081420" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081421" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081422" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081423" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081423" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081424" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081424" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081425" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081425" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081426" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081426" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081427" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081427" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081428" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081428" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081429" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081429" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081430" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081430" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081431" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081431" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081432" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081432" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081433" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081433" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081434" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081434" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081435" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081435" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081436" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081436" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081437" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081437" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081438" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081438" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081439" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081439" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081440" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081440" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081441" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081441" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081442" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081442" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081443" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081443" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081444" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081444" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081445" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081446" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081447" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081447" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081447" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081448" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081448" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081448" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081449" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081449" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081449" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081450" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081450" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081450" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081451" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081451" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081451" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081452" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081452" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081452" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081453" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081453" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081453" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081454" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081454" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081454" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081455" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081455" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081455" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081456" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081456" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081456" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081457" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081457" partCount="4" tooltipDescription="" feature="Level70Item" />
-  <key id="19081457" partCount="5" tooltipDescription="" feature="Level70Item" />
-  <key id="19081458" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19081459" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081460" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19081461" partCount="2" tooltipDescription="" feature="Level70Item" />
-  <key id="19110701" partCount="3" tooltipDescription="" feature="Level70Item" />
-  <key id="19110702" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="15123101" partCount="2" tooltipDescription="STR 10 증가" />
+	<key id="15123101" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123101" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123102" partCount="2" tooltipDescription="STR 10 증가" />
+	<key id="15123102" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123102" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123103" partCount="2" tooltipDescription="INT 10 증가" />
+	<key id="15123103" partCount="4" tooltipDescription="마법공격력 10 증가" />
+	<key id="15123103" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123104" partCount="2" tooltipDescription="INT 10 증가" />
+	<key id="15123104" partCount="4" tooltipDescription="마법공격력 10 증가" />
+	<key id="15123104" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123105" partCount="2" tooltipDescription="DEX 10 증가" />
+	<key id="15123105" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123105" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123106" partCount="2" tooltipDescription="DEX 10 증가" />
+	<key id="15123106" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123106" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123107" partCount="2" tooltipDescription="LUK 10 증가" />
+	<key id="15123107" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123107" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123108" partCount="2" tooltipDescription="LUK 10 증가" />
+	<key id="15123108" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123108" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="15123109" partCount="2" tooltipDescription="STR 10 증가" />
+	<key id="15123109" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="15123109" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="16022501" partCount="3" tooltipDescription="명중 4, 총 대미지 0.03% 증가" />
+	<key id="16042801" partCount="2" tooltipDescription="명중 8 증가, 급속 몸집 증가" />
+	<key id="16042802" partCount="2" tooltipDescription="총 대미지 5.5% 증가" />
+	<key id="16042803" partCount="2" tooltipDescription="일정 확률로 12초 동안 공격 속도 10% 증가" />
+	<key id="16063001" partCount="3" tooltipDescription="이동속도 1%, 물리 공격력 1, 마법 공격력 1 증가" />
+	<key id="16063001" partCount="6" tooltipDescription="명중 2, 보스 대미지 2%, 물리 공격력 2, 마법 공격력 2 증가" />
+	<key id="16063002" partCount="3" tooltipDescription="이동속도 1%, 물리 공격력 1, 마법 공격력 1 증가" />
+	<key id="16063002" partCount="6" tooltipDescription="명중 2, 보스 대미지 2%, 물리 공격력 2, 마법 공격력 2 증가" />
+	<key id="16071401" partCount="2" tooltipDescription="DEX 10 증가" />
+	<key id="16071401" partCount="4" tooltipDescription="물리공격력 10 증가" />
+	<key id="16071401" partCount="5" tooltipDescription="스킬 효과 10% 증가" />
+	<key id="17110812" partCount="3" tooltipDescription="증가" />
+	<key id="17110812" partCount="5" tooltipDescription="증가" />
+	<key id="17110813" partCount="3" tooltipDescription="증가" />
+	<key id="17110813" partCount="5" tooltipDescription="증가" />
+	<key id="17110814" partCount="3" tooltipDescription="증가" />
+	<key id="17110814" partCount="5" tooltipDescription="증가" />
+	<key id="17110815" partCount="3" tooltipDescription="증가" />
+	<key id="17110815" partCount="5" tooltipDescription="증가" />
+	<key id="17110816" partCount="3" tooltipDescription="증가" />
+	<key id="17110816" partCount="5" tooltipDescription="증가" />
+	<key id="17110817" partCount="3" tooltipDescription="증가" />
+	<key id="17110817" partCount="5" tooltipDescription="증가" />
+	<key id="17110818" partCount="3" tooltipDescription="증가" />
+	<key id="17110818" partCount="5" tooltipDescription="증가" />
+	<key id="17110819" partCount="3" tooltipDescription="증가" />
+	<key id="17110819" partCount="5" tooltipDescription="증가" />
+	<key id="17110820" partCount="3" tooltipDescription="증가" />
+	<key id="17110820" partCount="5" tooltipDescription="증가" />
+	<key id="17110821" partCount="3" tooltipDescription="증가" />
+	<key id="17110821" partCount="5" tooltipDescription="증가" />
+	<key id="17110822" partCount="3" tooltipDescription="증가" />
+	<key id="17110822" partCount="5" tooltipDescription="증가" />
+	<key id="17110823" partCount="3" tooltipDescription="증가" />
+	<key id="17110823" partCount="5" tooltipDescription="증가" />
+	<key id="17110824" partCount="3" tooltipDescription="증가" />
+	<key id="17110824" partCount="5" tooltipDescription="증가" />
+	<key id="17110825" partCount="3" tooltipDescription="증가" />
+	<key id="17110825" partCount="5" tooltipDescription="증가" />
+	<key id="17110826" partCount="3" tooltipDescription="증가" />
+	<key id="17110826" partCount="5" tooltipDescription="증가" />
+	<key id="17110827" partCount="3" tooltipDescription="증가" />
+	<key id="17110827" partCount="5" tooltipDescription="증가" />
+	<key id="17110828" partCount="3" tooltipDescription="증가" />
+	<key id="17110828" partCount="5" tooltipDescription="증가" />
+	<key id="17110829" partCount="3" tooltipDescription="증가" />
+	<key id="17110829" partCount="5" tooltipDescription="증가" />
+	<key id="17110830" partCount="3" tooltipDescription="증가" />
+	<key id="17110830" partCount="5" tooltipDescription="증가" />
+	<key id="17110831" partCount="3" tooltipDescription="증가" />
+	<key id="17110831" partCount="5" tooltipDescription="증가" />
+	<key id="17110832" partCount="3" tooltipDescription="증가" />
+	<key id="17110832" partCount="5" tooltipDescription="증가" />
+	<key id="17110833" partCount="3" tooltipDescription="증가" />
+	<key id="17110833" partCount="5" tooltipDescription="증가" />
+	<key id="17110834" partCount="3" tooltipDescription="증가" />
+	<key id="17110835" partCount="3" tooltipDescription="증가" />
+	<key id="17110836" partCount="2" tooltipDescription="증가" />
+	<key id="17110837" partCount="2" tooltipDescription="증가" />
+	<key id="17121101" partCount="2" tooltipDescription="증가" />
+	<key id="17121101" partCount="4" tooltipDescription="증가" />
+	<key id="17121102" partCount="2" tooltipDescription="증가" />
+	<key id="17121102" partCount="4" tooltipDescription="증가" />
+	<key id="17121103" partCount="2" tooltipDescription="증가" />
+	<key id="17121103" partCount="4" tooltipDescription="증가" />
+	<key id="17121104" partCount="2" tooltipDescription="증가" />
+	<key id="17121104" partCount="4" tooltipDescription="증가" />
+	<key id="17121105" partCount="2" tooltipDescription="증가" />
+	<key id="17121105" partCount="4" tooltipDescription="증가" />
+	<key id="17121106" partCount="2" tooltipDescription="증가" />
+	<key id="17121106" partCount="4" tooltipDescription="증가" />
+	<key id="17121107" partCount="2" tooltipDescription="증가" />
+	<key id="17121107" partCount="4" tooltipDescription="증가" />
+	<key id="17121108" partCount="2" tooltipDescription="증가" />
+	<key id="17121108" partCount="4" tooltipDescription="증가" />
+	<key id="17121109" partCount="2" tooltipDescription="증가" />
+	<key id="17121109" partCount="4" tooltipDescription="증가" />
+	<key id="17121110" partCount="2" tooltipDescription="증가" />
+	<key id="17121110" partCount="4" tooltipDescription="증가" />
+	<key id="17121111" partCount="2" tooltipDescription="증가" />
+	<key id="17121111" partCount="4" tooltipDescription="증가" />
+	<key id="18011801" partCount="3" tooltipDescription="증가" />
+	<key id="18011802" partCount="3" tooltipDescription="증가" />
+	<key id="18011803" partCount="2" tooltipDescription="증가" />
+	<key id="18011804" partCount="2" tooltipDescription="증가" />
+	<key id="18011805" partCount="2" tooltipDescription="증가" />
+	<key id="18011805" partCount="4" tooltipDescription="증가" />
+	<key id="18011805" partCount="5" tooltipDescription="증가" />
+	<key id="18011806" partCount="2" tooltipDescription="증가" />
+	<key id="18011806" partCount="4" tooltipDescription="증가" />
+	<key id="18011806" partCount="5" tooltipDescription="증가" />
+	<key id="18011807" partCount="2" tooltipDescription="증가" />
+	<key id="18011807" partCount="4" tooltipDescription="증가" />
+	<key id="18011807" partCount="5" tooltipDescription="증가" />
+	<key id="18011808" partCount="2" tooltipDescription="증가" />
+	<key id="18011808" partCount="4" tooltipDescription="증가" />
+	<key id="18011808" partCount="5" tooltipDescription="증가" />
+	<key id="18011809" partCount="2" tooltipDescription="증가" />
+	<key id="18011809" partCount="4" tooltipDescription="증가" />
+	<key id="18011809" partCount="5" tooltipDescription="증가" />
+	<key id="18011810" partCount="2" tooltipDescription="증가" />
+	<key id="18011810" partCount="4" tooltipDescription="증가" />
+	<key id="18011810" partCount="5" tooltipDescription="증가" />
+	<key id="18011811" partCount="2" tooltipDescription="증가" />
+	<key id="18011811" partCount="4" tooltipDescription="증가" />
+	<key id="18011811" partCount="5" tooltipDescription="증가" />
+	<key id="18011812" partCount="2" tooltipDescription="증가" />
+	<key id="18011812" partCount="4" tooltipDescription="증가" />
+	<key id="18011812" partCount="5" tooltipDescription="증가" />
+	<key id="18011813" partCount="2" tooltipDescription="증가" />
+	<key id="18011813" partCount="4" tooltipDescription="증가" />
+	<key id="18011813" partCount="5" tooltipDescription="증가" />
+	<key id="18011814" partCount="2" tooltipDescription="증가" />
+	<key id="18011814" partCount="4" tooltipDescription="증가" />
+	<key id="18011814" partCount="5" tooltipDescription="증가" />
+	<key id="18011815" partCount="2" tooltipDescription="증가" />
+	<key id="18011815" partCount="4" tooltipDescription="증가" />
+	<key id="18011815" partCount="5" tooltipDescription="증가" />
+	<key id="18011816" partCount="2" tooltipDescription="증가" />
+	<key id="18011816" partCount="4" tooltipDescription="증가" />
+	<key id="18011816" partCount="5" tooltipDescription="증가" />
+	<key id="18011817" partCount="2" tooltipDescription="증가" />
+	<key id="18011817" partCount="4" tooltipDescription="증가" />
+	<key id="18011817" partCount="5" tooltipDescription="증가" />
+	<key id="18011818" partCount="2" tooltipDescription="증가" />
+	<key id="18011818" partCount="4" tooltipDescription="증가" />
+	<key id="18011818" partCount="5" tooltipDescription="증가" />
+	<key id="18011819" partCount="2" tooltipDescription="증가" />
+	<key id="18011819" partCount="4" tooltipDescription="증가" />
+	<key id="18011819" partCount="5" tooltipDescription="증가" />
+	<key id="18011820" partCount="2" tooltipDescription="증가" />
+	<key id="18011820" partCount="4" tooltipDescription="증가" />
+	<key id="18011820" partCount="5" tooltipDescription="증가" />
+	<key id="18011821" partCount="2" tooltipDescription="증가" />
+	<key id="18011821" partCount="4" tooltipDescription="증가" />
+	<key id="18011821" partCount="5" tooltipDescription="증가" />
+	<key id="18011822" partCount="2" tooltipDescription="증가" />
+	<key id="18011822" partCount="4" tooltipDescription="증가" />
+	<key id="18011822" partCount="5" tooltipDescription="증가" />
+	<key id="18011823" partCount="2" tooltipDescription="증가" />
+	<key id="18011823" partCount="4" tooltipDescription="증가" />
+	<key id="18011823" partCount="5" tooltipDescription="증가" />
+	<key id="18011824" partCount="2" tooltipDescription="증가" />
+	<key id="18011824" partCount="4" tooltipDescription="증가" />
+	<key id="18011824" partCount="5" tooltipDescription="증가" />
+	<key id="18011825" partCount="2" tooltipDescription="증가" />
+	<key id="18011825" partCount="4" tooltipDescription="증가" />
+	<key id="18011825" partCount="5" tooltipDescription="증가" />
+	<key id="18011826" partCount="2" tooltipDescription="증가" />
+	<key id="18011826" partCount="4" tooltipDescription="증가" />
+	<key id="18011826" partCount="5" tooltipDescription="증가" />
+	<key id="18011827" partCount="2" tooltipDescription="증가" />
+	<key id="18011827" partCount="4" tooltipDescription="증가" />
+	<key id="18011828" partCount="2" tooltipDescription="증가" />
+	<key id="18011828" partCount="4" tooltipDescription="증가" />
+	<key id="18011829" partCount="2" tooltipDescription="증가" />
+	<key id="18011829" partCount="4" tooltipDescription="증가" />
+	<key id="18011830" partCount="2" tooltipDescription="증가" />
+	<key id="18011830" partCount="4" tooltipDescription="증가" />
+	<key id="18011831" partCount="2" tooltipDescription="증가" />
+	<key id="18011831" partCount="4" tooltipDescription="증가" />
+	<key id="18011832" partCount="2" tooltipDescription="증가" />
+	<key id="18011832" partCount="4" tooltipDescription="증가" />
+	<key id="18011833" partCount="2" tooltipDescription="증가" />
+	<key id="18011833" partCount="4" tooltipDescription="증가" />
+	<key id="18011834" partCount="2" tooltipDescription="증가" />
+	<key id="18011834" partCount="4" tooltipDescription="증가" />
+	<key id="18011835" partCount="2" tooltipDescription="증가" />
+	<key id="18011835" partCount="4" tooltipDescription="증가" />
+	<key id="18011836" partCount="2" tooltipDescription="증가" />
+	<key id="18011836" partCount="4" tooltipDescription="증가" />
+	<key id="18011837" partCount="2" tooltipDescription="증가" />
+	<key id="18011837" partCount="4" tooltipDescription="증가" />
+	<key id="18052834" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052834" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052835" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052835" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052836" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052836" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052837" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052837" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052838" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052838" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052839" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052839" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052840" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052840" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052841" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052841" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052842" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052842" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052843" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052843" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052844" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052844" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052845" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052845" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052846" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052846" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052847" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052847" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052848" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052848" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052849" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052849" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052850" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052850" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052851" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052851" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052852" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052852" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052853" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052853" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052854" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052854" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052855" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052855" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052856" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052856" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052857" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052857" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052858" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052858" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052859" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052859" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052860" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052860" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052861" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052861" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052862" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052862" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052863" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052863" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052864" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052864" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052865" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052865" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052866" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052866" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052867" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052867" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052867" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052868" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052868" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052868" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052869" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052869" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052869" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052870" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052870" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052870" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052871" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052871" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052871" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052872" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052872" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052872" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052873" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052873" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052873" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052874" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052874" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052874" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052875" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052875" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052875" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052876" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052876" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052876" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052877" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052877" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052877" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052878" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052878" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052878" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052879" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052879" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052879" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052880" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052880" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052880" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052881" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052881" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052881" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052882" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052882" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052882" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052883" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052883" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052883" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052884" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052884" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052884" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052885" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052885" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052885" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052886" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052886" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052886" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052887" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052887" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052887" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052888" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052888" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18052888" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18052891" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="18052892" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052893" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="18052894" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052895" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18052896" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="18052897" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061701" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061701" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061702" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061702" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061703" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061703" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061704" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061704" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061705" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061705" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061706" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061706" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061707" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061707" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061708" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061708" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061709" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061709" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061710" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061710" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061711" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061711" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061712" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061712" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061713" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061713" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061714" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061714" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061715" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061715" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061716" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061716" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061717" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061717" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061718" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061718" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061719" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061719" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061720" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061720" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061721" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061721" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061722" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061722" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061723" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061723" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061724" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061724" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061725" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061725" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061726" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061726" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061727" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061727" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061728" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061728" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061729" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061729" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061730" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061730" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061731" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061731" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061732" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061732" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061733" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061733" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061734" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="18061735" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061736" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061736" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061736" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061737" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061737" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061737" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061738" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061738" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061738" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061739" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061739" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061739" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061740" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061740" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061740" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061741" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061741" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061741" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061742" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061742" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061742" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061743" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061743" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061743" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061744" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061744" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061744" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061745" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061745" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061745" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061746" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061746" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061746" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061747" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061747" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061747" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061748" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061748" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061748" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061749" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061749" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061749" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061750" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061750" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061750" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061751" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061751" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061751" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061752" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061752" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061752" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061753" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061753" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061753" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061754" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061754" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061754" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061755" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061755" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061755" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061756" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061756" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061756" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061757" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061757" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="18061757" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="18061758" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="18061759" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18061760" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="18061761" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="18081301" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081301" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081302" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081302" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081303" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081303" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081304" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081304" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081305" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081305" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081306" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081306" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081307" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081307" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081308" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081308" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081309" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081309" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081310" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081310" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081311" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081311" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081312" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081312" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081313" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081313" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081314" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081314" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081315" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081315" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081316" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081316" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081317" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081317" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081318" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081318" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081319" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081319" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081320" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081320" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081321" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081321" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081322" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081322" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081323" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081323" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081324" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081324" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081325" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081325" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081326" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081326" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081327" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081327" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081328" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081328" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081329" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081329" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081330" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081330" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081331" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081331" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081332" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081332" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18081333" partCount="3" tooltipDescription="" feature="Season3" />
+	<key id="18081333" partCount="5" tooltipDescription="" feature="Season3" />
+	<key id="18091401" partCount="3" tooltipDescription="" feature="LegendaryAccessory01" />
+	<key id="18091402" partCount="2" tooltipDescription="" feature="LegendaryAccessory01" />
+	<key id="18091403" partCount="3" tooltipDescription="" feature="LegendaryAccessory01" />
+	<key id="18091404" partCount="2" tooltipDescription="" feature="LegendaryAccessory01" />
+	<key id="18110701" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110702" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110703" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110704" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110705" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110706" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110707" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110708" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110709" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110710" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110711" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18110712" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="18122101" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122102" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122103" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122104" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122105" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122106" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122107" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122108" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122109" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122110" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122111" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122112" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="18122701" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="18122702" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19010301" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010301" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010302" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010302" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010303" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010303" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010304" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010304" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010305" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010305" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010306" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010306" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010307" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010307" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010308" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010308" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010309" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010309" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010310" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010310" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010311" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010311" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010312" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010312" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010313" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010313" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010314" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010314" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010315" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010315" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010316" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010316" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010317" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010317" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010318" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010318" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010319" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010319" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010320" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010320" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010321" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010321" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19010322" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19010322" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011101" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011102" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011103" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011104" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011105" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011106" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011107" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011108" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011109" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011110" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011111" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011112" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011113" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011114" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011115" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011116" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011117" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011118" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011119" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011120" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011121" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011122" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011801" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19011802" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011803" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19011804" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011805" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011805" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011805" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011806" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011806" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011806" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011807" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011807" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011807" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011808" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011808" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011808" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011809" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011809" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011809" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011810" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011810" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011810" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011811" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011811" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011811" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011812" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011812" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011812" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011813" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011813" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011813" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011814" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011814" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011814" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19011815" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19011815" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19011815" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19021801" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021801" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021802" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021802" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021803" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021803" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021804" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021804" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021805" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021805" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021806" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021806" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021807" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021807" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021808" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021808" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021809" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021809" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021810" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021810" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021811" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021811" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021812" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021812" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021813" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021813" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021814" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021814" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021815" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021815" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021816" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021816" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021817" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021817" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021818" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021818" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021819" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021819" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021820" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021820" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021821" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021821" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021822" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021822" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021823" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021823" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021824" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021824" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021825" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021825" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021826" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021826" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021827" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021827" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021828" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021828" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021829" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021829" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021830" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021830" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021831" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021831" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021832" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021832" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021833" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021833" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021834" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="19021835" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021836" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021836" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021836" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021837" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021837" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021837" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021838" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021838" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021838" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021839" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021839" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021839" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021840" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021840" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021840" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021841" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021841" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021841" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021842" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021842" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021842" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021843" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021843" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021843" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021844" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021844" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021844" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021845" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021845" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021845" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021846" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19021846" partCount="4" tooltipDescription="" feature="Level60Item" />
+	<key id="19021846" partCount="5" tooltipDescription="" feature="Level60Item" />
+	<key id="19021847" partCount="3" tooltipDescription="" feature="Level60Item" />
+	<key id="19021848" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19031301" partCount="6" tooltipDescription="" />
+	<key id="19031302" partCount="6" tooltipDescription="" />
+	<key id="19032001" partCount="2" tooltipDescription="" feature="Level60Item" />
+	<key id="19041501" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041502" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041503" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041504" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041505" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041506" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041507" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041508" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041509" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041510" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041511" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19041512" partCount="5" tooltipDescription="" feature="PvPRankingDuelMode" />
+	<key id="19081401" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081402" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081403" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081404" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081405" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081406" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081407" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081408" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081409" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081410" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081411" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081412" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081413" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081414" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081415" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081416" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081417" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081418" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081419" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081420" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081421" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081422" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081423" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081423" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081424" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081424" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081425" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081425" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081426" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081426" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081427" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081427" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081428" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081428" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081429" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081429" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081430" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081430" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081431" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081431" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081432" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081432" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081433" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081433" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081434" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081434" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081435" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081435" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081436" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081436" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081437" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081437" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081438" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081438" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081439" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081439" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081440" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081440" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081441" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081441" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081442" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081442" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081443" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081443" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081444" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081444" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081445" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081446" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081447" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081447" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081447" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081448" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081448" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081448" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081449" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081449" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081449" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081450" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081450" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081450" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081451" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081451" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081451" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081452" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081452" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081452" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081453" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081453" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081453" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081454" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081454" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081454" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081455" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081455" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081455" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081456" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081456" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081456" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081457" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081457" partCount="4" tooltipDescription="" feature="Level70Item" />
+	<key id="19081457" partCount="5" tooltipDescription="" feature="Level70Item" />
+	<key id="19081458" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19081459" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081460" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19081461" partCount="2" tooltipDescription="" feature="Level70Item" />
+	<key id="19110701" partCount="3" tooltipDescription="" feature="Level70Item" />
+	<key id="19110702" partCount="2" tooltipDescription="" feature="Level70Item" />
 </ms2>

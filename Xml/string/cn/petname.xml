@@ -1,285 +1,284 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="60000001" name="浅蓝企鹅" />
-  <key id="60000002" name="粉企鹅" />
-  <key id="60000003" name="深蓝企鹅" />
-  <key id="60000004" name="小黄狗" />
-  <key id="60000005" name="小棕狗" />
-  <key id="60000006" name="小灰狗" />
-  <key id="60000007" name="深蓝雏龙" />
-  <key id="60000008" name="浅蓝雏龙" />
-  <key id="60000009" name="蓝色雏龙" />
-  <key id="60000010" name="芝士" />
-  <key id="60000011" name="莫里" />
-  <key id="60000012" name="沙沙" />
-  <key id="60000013" name="小格里芬" />
-  <key id="60000014" name="小格里菲娜" />
-  <key id="60000015" name="小荷鲁斯" />
-  <key id="60000016" name="强健小黑" />
-  <key id="60000017" name="迅捷小黑" />
-  <key id="60000018" name="灵巧小黑" />
-  <key id="60000019" name="小白猫" />
-  <key id="60000020" name="小雷尔诺斯" />
-  <key id="60000021" name="小菲卡诺斯" />
-  <key id="60000022" name="小卡尔奇诺斯" />
-  <key id="60000023" name="米罗" />
-  <key id="60000024" name="塔洛" />
-  <key id="60000025" name="克鲁" />
-  <key id="60000026" name="普普" />
-  <key id="60000027" name="姆姆" />
-  <key id="60000028" name="努努" />
-  <key id="60000029" name="咕咕" />
-  <key id="60000030" name="岁岁" />
-  <key id="60000031" name="橙橙" />
-  <key id="60000032" name="强壮蜜儿" />
-  <key id="60000033" name="敏捷蜜儿" />
-  <key id="60000034" name="灵巧蜜儿" />
-  <key id="60000035" name="强壮小白猫" />
-  <key id="60000036" name="迅捷小白猫" />
-  <key id="60000037" name="灵巧小白猫" />
-  <key id="60000041" name="冷漠迷你缤" />
-  <key id="60000042" name="诡夜节传令马车" />
-  <key id="60000043" name="咩咩羊" />
-  <key id="60000044" name="乳白法老猫" />
-  <key id="60000045" name="可爱法老猫" />
-  <key id="60000046" name="红鼻子驯鹿" />
-  <key id="60000047" name="高傲的狮身人面猫" />
-  <key id="60000048" name="松狮犬" />
-  <key id="60000049" name="彩虹水灵" />
-  <key id="60000050" name="貂" />
-  <key id="60000051" name="迷你土其" />
-  <key id="60000052" name="可爱小南瓜" />
-  <key id="60000053" name="红熊猫" />
-  <key id="60000054" name="跳跳袋鼠" />
-  <key id="60000055" name="蔷薇仙子" />
-  <key id="60000060" name="惊吓猫" />
-  <key id="60000061" name="姜饼" />
-  <key id="60000064" name="野兔" />
-  <key id="61000001" name="蓝蘑菇" feature="Develop" />
-  <key id="61000002" name="绿水灵" feature="PetBattle" />
-  <key id="61000003" name="小黄鸭" feature="Develop" />
-  <key id="61000004" name="金色机械犬" feature="Develop" />
-  <key id="61000005" name="小黄鸭宝宝" feature="PetList_Taming" />
-  <key id="61000006" name="纳隆蛇" feature="Develop" />
-  <key id="61000007" name="红蜗牛" feature="PetBattle" />
-  <key id="61000008" name="毛球" feature="Develop" />
-  <key id="61000009" name="小魔灵" feature="PetList_Taming" />
-  <key id="61000010" name="小猎犬" feature="Develop" />
-  <key id="61000011" name="小弗里德" feature="Develop" />
-  <key id="61000012" name="弗里德" feature="Develop" />
-  <key id="61000013" name="13号宠物" feature="Develop" />
-  <key id="61000014" name="14号宠物" feature="Develop" />
-  <key id="61000015" name="灵魂" feature="Develop" />
-  <key id="61000016" name="绵羊" feature="PetBattle" />
-  <key id="61000017" name="刺蘑菇" feature="Develop" />
-  <key id="61000018" name="木妖" feature="PetBattle" />
-  <key id="61000019" name="土狗" feature="PetBattle" />
-  <key id="61000020" name="灵魂船船员" feature="Develop" />
-  <key id="61000021" name="妮西" feature="Develop" />
-  <key id="61000022" name="埃菲" feature="Develop" />
-  <key id="61000023" name="火焰蝾螈" feature="Develop" />
-  <key id="61000024" name="石蟹" feature="Develop" />
-  <key id="61000025" name="帕拉帕拉猫" feature="Develop" />
-  <key id="61000026" name="小野猪" feature="PetBattle" />
-  <key id="61000027" name="诺喵猫宾克" feature="Develop" />
-  <key id="61000028" name="苹果蒙奇" feature="Develop" />
-  <key id="61000029" name="格绿萌" feature="PetBattle" />
-  <key id="61000030" name="机械少女-D" feature="Develop" />
-  <key id="61000031" name="巨斧少女" feature="Develop" />
-  <key id="61000032" name="棕熊" feature="Develop" />
-  <key id="61000033" name="蓝鬃毛虎" feature="PetList_Taming" />
-  <key id="61000034" name="乐矮超级黄装甲" feature="Develop" />
-  <key id="61000035" name="蓝色木乃伊幼兔" feature="Develop" />
-  <key id="61000036" name="蓝色木乃伊长条兔" feature="Develop" />
-  <key id="61000037" name="深仇冤魂" feature="Develop" />
-  <key id="61000038" name="没落贵族" feature="Develop" />
-  <key id="61000039" name="敲鼓独眼鼠" feature="Develop" />
-  <key id="61000040" name="克洛乌预言者" feature="Develop" />
-  <key id="61000041" name="小棕熊" feature="PetBattle" />
-  <key id="61000042" name="葱头鲁比" feature="Develop" />
-  <key id="61000043" name="恶魔蝙蝠怪" feature="Develop" />
-  <key id="61000044" name="熔岩独眼兽" feature="Develop" />
-  <key id="61000045" name="蓝蘑菇王" feature="Develop" />
-  <key id="61000046" name="仙人掌姑娘" feature="PetList_Taming" />
-  <key id="61000047" name="自生蘑菇" feature="PetBattle" />
-  <key id="61000048" name="熔岩刺兽" feature="Develop" />
-  <key id="61000049" name="莱卡斯传令兵" feature="Develop" />
-  <key id="61000050" name="葱头灵" feature="Develop" />
-  <key id="61000051" name="扎昆(未使用)" feature="Develop" />
-  <key id="61000052" name="便便鸭" feature="Develop" />
-  <key id="61000053" name="喔喔妈妈" feature="Develop" />
-  <key id="61000054" name="蹦蹦小鬼" feature="Develop" />
-  <key id="61000055" name="嗖嗖玩具枪兵" feature="Develop" />
-  <key id="61000056" name="果酱蜂" feature="Develop" />
-  <key id="61000057" name="金刚熊" feature="PetBattle" />
-  <key id="61000058" name="被遗弃的石巨人守护兵" feature="Develop" />
-  <key id="61000059" name="小菜花龟" feature="PetBattle" />
-  <key id="61000060" name="墓穴守护者" feature="Develop" />
-  <key id="61000061" name="海贼蟹" feature="Develop" />
-  <key id="61000062" name="道蛙" feature="Develop" />
-  <key id="61000063" name="风术士兔兔" feature="Develop" />
-  <key id="61000064" name="无言紫袍祭司" feature="Develop" />
-  <key id="61000065" name="天龙巡查兵" feature="Develop" />
-  <key id="61000066" name="66号宠物" feature="Develop" />
-  <key id="61000067" name="贝尔牛" feature="PetList_Taming" />
-  <key id="61000068" name="嘟嘟熊" feature="Develop" />
-  <key id="61000069" name="秃鹫妈妈" feature="Develop" />
-  <key id="61000070" name="伊隆蛇" feature="Develop" />
-  <key id="61000071" name="拉隆蛇" feature="Develop" />
-  <key id="61000072" name="被诅咒的人偶" feature="Develop" />
-  <key id="61000073" name="73号宠物" feature="Develop" />
-  <key id="61000074" name="74号宠物" feature="Develop" />
-  <key id="61000075" name="冰锥鸭" feature="Develop" />
-  <key id="61000076" name="羊角牛" feature="Develop" />
-  <key id="61000077" name="持锤干脆面" feature="PetBattle" />
-  <key id="61000078" name="黄色甲壳虫士兵" feature="Develop" />
-  <key id="61000079" name="炎魔" feature="PetUpdate01" />
-  <key id="61000080" name="蘑菇王" feature="Develop" />
-  <key id="61000081" name="可疑的水灵王" feature="Develop" />
-  <key id="61000082" name="休伊" feature="Develop" />
-  <key id="61000083" name="幽冥机器人R" feature="Develop" />
-  <key id="61000084" name="积木傀儡Y" feature="PetBattle" />
-  <key id="61000085" name="蓝色木乃伊肥兔" feature="Develop" />
-  <key id="61000086" name="深仇冤魂" feature="Develop" />
-  <key id="61000087" name="僵尸蘑菇王" feature="Develop" />
-  <key id="61000088" name="彩虹水灵" feature="Develop" />
-  <key id="61000089" name="鲁贝斯" feature="Develop" />
-  <key id="61000090" name="战争机器-R" feature="Develop" />
-  <key id="61000091" name="眼镜蛇" feature="Develop" />
-  <key id="61000092" name="蜗牛王" feature="Develop" />
-  <key id="61000093" name="艾尔努" feature="Develop" />
-  <key id="61000094" name="魔灵" feature="Develop" />
-  <key id="61000095" name="猎犬" feature="Develop" />
-  <key id="61000096" name="雪狼" feature="PetBattle" />
-  <key id="61000097" name="树怪" feature="PetBattle" />
-  <key id="61000098" name="被污染的史莱姆" feature="PetBattle" />
-  <key id="61000099" name="炸弹蓝地精" feature="PetBattle" />
-  <key id="61000100" name="持铲干脆面" feature="PetBattle" />
-  <key id="61000101" name="铁甲猪" feature="Develop" />
-  <key id="61000102" name="朋克猪" feature="Develop" />
-  <key id="61000103" name="持剑干脆面" feature="Develop" />
-  <key id="61000104" name="荆棘蘑菇" feature="Develop" />
-  <key id="61000105" name="石甲毒蝎" feature="Develop" />
-  <key id="61000106" name="沙岩杖精" feature="Develop" />
-  <key id="61000107" name="小木乃伊" feature="Develop" />
-  <key id="61000108" name="飞天小白猪" feature="Develop" />
-  <key id="61000109" name="锵锵兔" feature="Develop" />
-  <key id="61000110" name="滴答兔" feature="Develop" />
-  <key id="61000111" name="剧毒独角兽" feature="Develop" />
-  <key id="61000112" name="黑色兵卒" feature="Develop" />
-  <key id="61000113" name="黑色车" feature="Develop" />
-  <key id="61000114" name="卡普" feature="Develop" />
-  <key id="61000115" name="白色王后" feature="Develop" />
-  <key id="61000116" name="白色国王" feature="Develop" />
-  <key id="61000117" name="秃鹫爸爸" feature="Develop" />
-  <key id="61000118" name="土豺狼" feature="Develop" />
-  <key id="61000119" name="白色原型机器人-D" feature="Develop" />
-  <key id="61000120" name="倪谷尔管家" feature="Develop" />
-  <key id="61000121" name="赤龙坏鸟帮修炼生" feature="Develop" />
-  <key id="61000122" name="赤龙坏鸟帮导师" feature="Develop" />
-  <key id="61000123" name="火炮羊角牛" feature="Develop" />
-  <key id="61000124" name="凯尔" feature="Develop" />
-  <key id="61000125" name="托罗斯弓手" feature="Develop" />
-  <key id="61000126" name="雷根机器人1号" feature="Develop" />
-  <key id="61000127" name="影子守门人" feature="Develop" />
-  <key id="61000128" name="黄色甲壳虫" feature="Develop" />
-  <key id="61000129" name="鲁夫鲁夫" feature="Develop" />
-  <key id="61000130" name="阿帕奇·杰" feature="Develop" />
-  <key id="61000131" name="疯狂的碗" feature="Develop" />
-  <key id="61000132" name="巴亚特斯卡" feature="Develop" />
-  <key id="61000133" name="利佩机器人1号" feature="Develop" />
-  <key id="61000134" name="影子守卫" feature="Develop" />
-  <key id="61000135" name="影子猎狗" feature="Develop" />
-  <key id="61000136" name="莱卡斯术士" feature="Develop" />
-  <key id="61000137" name="战魔军侦察兵" feature="Develop" />
-  <key id="61000138" name="哈克龙侦察兵" feature="Develop" />
-  <key id="61000139" name="黑色黄昏狐" feature="Develop" />
-  <key id="61000140" name="迷路的灵幻先生" feature="Develop" />
-  <key id="61000141" name="金属街机" feature="Develop" />
-  <key id="61000142" name="金属游戏机" feature="Develop" />
-  <key id="61000143" name="金属掌机" feature="Develop" />
-  <key id="61000144" name="苏丹·莫努斯" feature="Develop" />
-  <key id="61000145" name="库库巴尔" feature="Develop" />
-  <key id="61000146" name="奥托波奇" feature="Develop" />
-  <key id="61000147" name="科亚特" feature="Develop" />
-  <key id="61000148" name="熔岩傀儡" feature="Develop" />
-  <key id="61000149" name="黑暗斯兰夏" feature="Develop" />
-  <key id="61000150" name="托罗斯指挥官" feature="Develop" />
-  <key id="61000151" name="黑色主教大师" feature="Develop" />
-  <key id="61000153" name="剧毒诺拉兹" feature="Pet_70Lv_Taming" />
-  <key id="61000154" name="炮塔MK-I" feature="Pet_70Lv_Taming" />
-  <key id="61000155" name="红魔芋" feature="Pet_70Lv_Taming" />
-  <key id="61000156" name="骷髅战士" feature="Pet_70Lv_Taming" />
-  <key id="61000157" name="蓝色库库" feature="Pet_70Lv_Taming" />
-  <key id="61000158" name="绿色波茵" feature="Pet_70Lv_Taming" />
-  <key id="61000159" name="壮壮莫朗" feature="Pet_70Lv_Taming" />
-  <key id="61000160" name="卫兵MK-II" feature="Pet_70Lv_Taming" />
-  <key id="61000161" name="塔兰MK-I-S" feature="Pet_70Lv_Taming" />
-  <key id="61000162" name="PETNAME_61000162_NAME:[F]Develop" feature="Develop" />
-  <key id="61000163" name="赤红超能猛禽" feature="Pet_70Lv_Taming" />
-  <key id="61000164" name="超能大炮" feature="Pet_70Lv_Taming" />
-  <key id="61000165" name="刺客机器人" feature="Pet_70Lv_Taming" />
-  <key id="61000166" name="蓝色超能霸王龙" feature="Pet_70Lv_Taming" />
-  <key id="61000167" name="粉红蠕虫" feature="Pet_70Lv_Taming" />
-  <key id="61000168" name="暴怒莫朗" feature="Pet_70Lv_Taming" />
-  <key id="61000169" name="骷髅骑士" feature="Pet_70Lv_Taming" />
-  <key id="61000170" name="重型机器人" feature="Pet_70Lv_Taming" />
-  <key id="61100010" name="黑炎龙兽" feature="PetBattle" />
-  <key id="61100020" name="黑爵" feature="PetBattle" />
-  <key id="61100030" name="巴尔坎" feature="PetUpdate01" />
-  <key id="61100031" name="盖尔温特" feature="Develop" />
-  <key id="61100032" name="夏甘特" feature="Develop" />
-  <key id="61100040" name="邪豹" feature="PetUpdate01" />
-  <key id="61100050" name="德布拉克" feature="PetUpdate01" />
-  <key id="61100060" name="船长默克" feature="PetUpdate01" />
-  <key id="61100070" name="帕普拉图斯" feature="PetUpdate01" />
-  <key id="61100080" name="皮皮博士" feature="Develop" />
-  <key id="61100090" name="符文巨神" feature="PetUpdate01" />
-  <key id="61100100" name="季提卡" feature="Gigantica01" />
-  <key id="61100110" name="诅咒之扎昆" feature="Pet_Zakum" />
-  <key id="61100111" name="诅咒之扎昆" feature="Pet_Zakum" />
-  <key id="61100120" name="守护之扎昆" feature="Pet_Zakum" />
-  <key id="61100121" name="守护之扎昆" feature="Pet_Zakum" />
-  <key id="61100130" name="愤怒之扎昆" feature="Pet_Zakum" />
-  <key id="61100131" name="愤怒之扎昆" feature="Pet_Zakum" />
-  <key id="61100132" name="赛琳" feature="Pet_60Lv" />
-  <key id="61100133" name="阿巴诺斯" feature="Pet_60Lv" />
-  <key id="61100134" name="艾尔达" feature="Pet_60Lv" />
-  <key id="61100135" name="无名灵魂" feature="Pet_60Lv" />
-  <key id="61100136" name="巨型马德伦龙牙兵" feature="Pet_60Lv" />
-  <key id="61100137" name="泼布斯" feature="Pet_60Lv" />
-  <key id="61100138" name="夜蚀" feature="Pet_60Lv" />
-  <key id="61100139" name="费艾伦" feature="Pet_60Lv" />
-  <key id="61100140" name="品克缤" feature="Pet_60Lv" />
-  <key id="61100141" name="菲莉雅" feature="Pet_60Lv" />
-  <key id="61100142" name="兰比斯" feature="Pet_60Lv" />
-  <key id="61100143" name="伊修罗" feature="Pet_60Lv" />
-  <key id="61100144" name="强化型炎魔" feature="Pet_70Lv_Boss" />
-  <key id="61100145" name="强化型地狱君主" feature="Pet_70Lv_Boss" />
-  <key id="61100146" name="扎昆之手" feature="Pet_70Lv_Boss" />
-  <key id="61100147" name="佩卡" feature="Pet_70Lv_Boss" />
-  <key id="61100148" name="PETNAME_61100148_NAME:[F]Develop" feature="Develop" />
-  <key id="61100149" name="地狱君主" feature="Pet_Infernog" />
-  <key id="61200001" name="懒惰蘑菇" feature="SurvivalContents01" />
-  <key id="61200002" name="蘑菇大王" feature="WorldChampionMushroom" />
-  <key id="61900001" name="绿蛙" feature="Develop" />
-  <key id="62000001" name="稳重浅蓝企鹅" feature="Develop" />
-  <key id="62000002" name="稳重小黄狗" feature="Develop" />
-  <key id="62000003" name="稳重赤羚龙" feature="Develop" />
-  <key id="62000004" name="稳重小格里芬" feature="Develop" />
-  <key id="62000005" name="稳重雷尔诺斯" feature="Develop" />
-  <key id="62000006" name="稳重小白猫" feature="Develop" />
-  <key id="62000007" name="稳重克鲁" feature="Develop" />
-  <key id="62000008" name="稳重努努" feature="Develop" />
-  <key id="62000009" name="稳重的橙橙" feature="Develop" />
-  <key id="62000010" name="稳重蜜儿" feature="Develop" />
-  <key id="62000011" name="神兽麒麟" feature="PetBattle" />
-  <key id="62000012" name="戴勃" feature="Develop" />
-  <key id="62000013" name="孙悟空" feature="PetBattle" />
-  <key id="62000014" name="红色妖精" feature="Develop" />
-  <key id="62000015" name="品克缤" feature="Develop" />
-  <key id="62900001" name="红嘟嘟" feature="GemPetSkin" />
-  <key id="62900002" name="红帽斗牛犬" feature="PetBattle" />
-  <key id="62999999" name="PETNAME_62999999_NAME:[F]Develop" feature="Develop" />
+	<key id="60000001" name="浅蓝企鹅" />
+	<key id="60000002" name="粉企鹅" />
+	<key id="60000003" name="深蓝企鹅" />
+	<key id="60000004" name="小黄狗" />
+	<key id="60000005" name="小棕狗" />
+	<key id="60000006" name="小灰狗" />
+	<key id="60000007" name="深蓝雏龙" />
+	<key id="60000008" name="浅蓝雏龙" />
+	<key id="60000009" name="蓝色雏龙" />
+	<key id="60000010" name="芝士" />
+	<key id="60000011" name="莫里" />
+	<key id="60000012" name="沙沙" />
+	<key id="60000013" name="小格里芬" />
+	<key id="60000014" name="小格里菲娜" />
+	<key id="60000015" name="小荷鲁斯" />
+	<key id="60000016" name="强健小黑" />
+	<key id="60000017" name="迅捷小黑" />
+	<key id="60000018" name="灵巧小黑" />
+	<key id="60000019" name="小白猫" />
+	<key id="60000020" name="小雷尔诺斯" />
+	<key id="60000021" name="小菲卡诺斯" />
+	<key id="60000022" name="小卡尔奇诺斯" />
+	<key id="60000023" name="米罗" />
+	<key id="60000024" name="塔洛" />
+	<key id="60000025" name="克鲁" />
+	<key id="60000026" name="普普" />
+	<key id="60000027" name="姆姆" />
+	<key id="60000028" name="努努" />
+	<key id="60000029" name="咕咕" />
+	<key id="60000030" name="岁岁" />
+	<key id="60000031" name="橙橙" />
+	<key id="60000032" name="强壮蜜儿" />
+	<key id="60000033" name="敏捷蜜儿" />
+	<key id="60000034" name="灵巧蜜儿" />
+	<key id="60000035" name="强壮小白猫" />
+	<key id="60000036" name="迅捷小白猫" />
+	<key id="60000037" name="灵巧小白猫" />
+	<key id="60000041" name="冷漠迷你缤" />
+	<key id="60000042" name="诡夜节传令马车" />
+	<key id="60000043" name="咩咩羊" />
+	<key id="60000044" name="乳白法老猫" />
+	<key id="60000045" name="可爱法老猫" />
+	<key id="60000046" name="红鼻子驯鹿" />
+	<key id="60000047" name="高傲的狮身人面猫" />
+	<key id="60000048" name="松狮犬" />
+	<key id="60000049" name="彩虹水灵" />
+	<key id="60000050" name="貂" />
+	<key id="60000051" name="迷你土其" />
+	<key id="60000052" name="可爱小南瓜" />
+	<key id="60000053" name="红熊猫" />
+	<key id="60000054" name="跳跳袋鼠" />
+	<key id="60000055" name="蔷薇仙子" />
+	<key id="60000060" name="惊吓猫" />
+	<key id="60000061" name="姜饼" />
+	<key id="60000064" name="野兔" />
+	<key id="61000001" name="蓝蘑菇" feature="Develop" />
+	<key id="61000002" name="绿水灵" feature="PetBattle" />
+	<key id="61000003" name="小黄鸭" feature="Develop" />
+	<key id="61000004" name="金色机械犬" feature="Develop" />
+	<key id="61000005" name="小黄鸭宝宝" feature="PetList_Taming" />
+	<key id="61000006" name="纳隆蛇" feature="Develop" />
+	<key id="61000007" name="红蜗牛" feature="PetBattle" />
+	<key id="61000008" name="毛球" feature="Develop" />
+	<key id="61000009" name="小魔灵" feature="PetList_Taming" />
+	<key id="61000010" name="小猎犬" feature="Develop" />
+	<key id="61000011" name="小弗里德" feature="Develop" />
+	<key id="61000012" name="弗里德" feature="Develop" />
+	<key id="61000013" name="13号宠物" feature="Develop" />
+	<key id="61000014" name="14号宠物" feature="Develop" />
+	<key id="61000015" name="灵魂" feature="Develop" />
+	<key id="61000016" name="绵羊" feature="PetBattle" />
+	<key id="61000017" name="刺蘑菇" feature="Develop" />
+	<key id="61000018" name="木妖" feature="PetBattle" />
+	<key id="61000019" name="土狗" feature="PetBattle" />
+	<key id="61000020" name="灵魂船船员" feature="Develop" />
+	<key id="61000021" name="妮西" feature="Develop" />
+	<key id="61000022" name="埃菲" feature="Develop" />
+	<key id="61000023" name="火焰蝾螈" feature="Develop" />
+	<key id="61000024" name="石蟹" feature="Develop" />
+	<key id="61000025" name="帕拉帕拉猫" feature="Develop" />
+	<key id="61000026" name="小野猪" feature="PetBattle" />
+	<key id="61000027" name="诺喵猫宾克" feature="Develop" />
+	<key id="61000028" name="苹果蒙奇" feature="Develop" />
+	<key id="61000029" name="格绿萌" feature="PetBattle" />
+	<key id="61000030" name="机械少女-D" feature="Develop" />
+	<key id="61000031" name="巨斧少女" feature="Develop" />
+	<key id="61000032" name="棕熊" feature="Develop" />
+	<key id="61000033" name="蓝鬃毛虎" feature="PetList_Taming" />
+	<key id="61000034" name="乐矮超级黄装甲" feature="Develop" />
+	<key id="61000035" name="蓝色木乃伊幼兔" feature="Develop" />
+	<key id="61000036" name="蓝色木乃伊长条兔" feature="Develop" />
+	<key id="61000037" name="深仇冤魂" feature="Develop" />
+	<key id="61000038" name="没落贵族" feature="Develop" />
+	<key id="61000039" name="敲鼓独眼鼠" feature="Develop" />
+	<key id="61000040" name="克洛乌预言者" feature="Develop" />
+	<key id="61000041" name="小棕熊" feature="PetBattle" />
+	<key id="61000042" name="葱头鲁比" feature="Develop" />
+	<key id="61000043" name="恶魔蝙蝠怪" feature="Develop" />
+	<key id="61000044" name="熔岩独眼兽" feature="Develop" />
+	<key id="61000045" name="蓝蘑菇王" feature="Develop" />
+	<key id="61000046" name="仙人掌姑娘" feature="PetList_Taming" />
+	<key id="61000047" name="自生蘑菇" feature="PetBattle" />
+	<key id="61000048" name="熔岩刺兽" feature="Develop" />
+	<key id="61000049" name="莱卡斯传令兵" feature="Develop" />
+	<key id="61000050" name="葱头灵" feature="Develop" />
+	<key id="61000051" name="扎昆(未使用)" feature="Develop" />
+	<key id="61000052" name="便便鸭" feature="Develop" />
+	<key id="61000053" name="喔喔妈妈" feature="Develop" />
+	<key id="61000054" name="蹦蹦小鬼" feature="Develop" />
+	<key id="61000055" name="嗖嗖玩具枪兵" feature="Develop" />
+	<key id="61000056" name="果酱蜂" feature="Develop" />
+	<key id="61000057" name="金刚熊" feature="PetBattle" />
+	<key id="61000058" name="被遗弃的石巨人守护兵" feature="Develop" />
+	<key id="61000059" name="小菜花龟" feature="PetBattle" />
+	<key id="61000060" name="墓穴守护者" feature="Develop" />
+	<key id="61000061" name="海贼蟹" feature="Develop" />
+	<key id="61000062" name="道蛙" feature="Develop" />
+	<key id="61000063" name="风术士兔兔" feature="Develop" />
+	<key id="61000064" name="无言紫袍祭司" feature="Develop" />
+	<key id="61000065" name="天龙巡查兵" feature="Develop" />
+	<key id="61000066" name="66号宠物" feature="Develop" />
+	<key id="61000067" name="贝尔牛" feature="PetList_Taming" />
+	<key id="61000068" name="嘟嘟熊" feature="Develop" />
+	<key id="61000069" name="秃鹫妈妈" feature="Develop" />
+	<key id="61000070" name="伊隆蛇" feature="Develop" />
+	<key id="61000071" name="拉隆蛇" feature="Develop" />
+	<key id="61000072" name="被诅咒的人偶" feature="Develop" />
+	<key id="61000073" name="73号宠物" feature="Develop" />
+	<key id="61000074" name="74号宠物" feature="Develop" />
+	<key id="61000075" name="冰锥鸭" feature="Develop" />
+	<key id="61000076" name="羊角牛" feature="Develop" />
+	<key id="61000077" name="持锤干脆面" feature="PetBattle" />
+	<key id="61000078" name="黄色甲壳虫士兵" feature="Develop" />
+	<key id="61000079" name="炎魔" feature="PetUpdate01" />
+	<key id="61000080" name="蘑菇王" feature="Develop" />
+	<key id="61000081" name="可疑的水灵王" feature="Develop" />
+	<key id="61000082" name="休伊" feature="Develop" />
+	<key id="61000083" name="幽冥机器人R" feature="Develop" />
+	<key id="61000084" name="积木傀儡Y" feature="PetBattle" />
+	<key id="61000085" name="蓝色木乃伊肥兔" feature="Develop" />
+	<key id="61000086" name="深仇冤魂" feature="Develop" />
+	<key id="61000087" name="僵尸蘑菇王" feature="Develop" />
+	<key id="61000088" name="彩虹水灵" feature="Develop" />
+	<key id="61000089" name="鲁贝斯" feature="Develop" />
+	<key id="61000090" name="战争机器-R" feature="Develop" />
+	<key id="61000091" name="眼镜蛇" feature="Develop" />
+	<key id="61000092" name="蜗牛王" feature="Develop" />
+	<key id="61000093" name="艾尔努" feature="Develop" />
+	<key id="61000094" name="魔灵" feature="Develop" />
+	<key id="61000095" name="猎犬" feature="Develop" />
+	<key id="61000096" name="雪狼" feature="PetBattle" />
+	<key id="61000097" name="树怪" feature="PetBattle" />
+	<key id="61000098" name="被污染的史莱姆" feature="PetBattle" />
+	<key id="61000099" name="炸弹蓝地精" feature="PetBattle" />
+	<key id="61000100" name="持铲干脆面" feature="PetBattle" />
+	<key id="61000101" name="铁甲猪" feature="Develop" />
+	<key id="61000102" name="朋克猪" feature="Develop" />
+	<key id="61000103" name="持剑干脆面" feature="Develop" />
+	<key id="61000104" name="荆棘蘑菇" feature="Develop" />
+	<key id="61000105" name="石甲毒蝎" feature="Develop" />
+	<key id="61000106" name="沙岩杖精" feature="Develop" />
+	<key id="61000107" name="小木乃伊" feature="Develop" />
+	<key id="61000108" name="飞天小白猪" feature="Develop" />
+	<key id="61000109" name="锵锵兔" feature="Develop" />
+	<key id="61000110" name="滴答兔" feature="Develop" />
+	<key id="61000111" name="剧毒独角兽" feature="Develop" />
+	<key id="61000112" name="黑色兵卒" feature="Develop" />
+	<key id="61000113" name="黑色车" feature="Develop" />
+	<key id="61000114" name="卡普" feature="Develop" />
+	<key id="61000115" name="白色王后" feature="Develop" />
+	<key id="61000116" name="白色国王" feature="Develop" />
+	<key id="61000117" name="秃鹫爸爸" feature="Develop" />
+	<key id="61000118" name="土豺狼" feature="Develop" />
+	<key id="61000119" name="白色原型机器人-D" feature="Develop" />
+	<key id="61000120" name="倪谷尔管家" feature="Develop" />
+	<key id="61000121" name="赤龙坏鸟帮修炼生" feature="Develop" />
+	<key id="61000122" name="赤龙坏鸟帮导师" feature="Develop" />
+	<key id="61000123" name="火炮羊角牛" feature="Develop" />
+	<key id="61000124" name="凯尔" feature="Develop" />
+	<key id="61000125" name="托罗斯弓手" feature="Develop" />
+	<key id="61000126" name="雷根机器人1号" feature="Develop" />
+	<key id="61000127" name="影子守门人" feature="Develop" />
+	<key id="61000128" name="黄色甲壳虫" feature="Develop" />
+	<key id="61000129" name="鲁夫鲁夫" feature="Develop" />
+	<key id="61000130" name="阿帕奇·杰" feature="Develop" />
+	<key id="61000131" name="疯狂的碗" feature="Develop" />
+	<key id="61000132" name="巴亚特斯卡" feature="Develop" />
+	<key id="61000133" name="利佩机器人1号" feature="Develop" />
+	<key id="61000134" name="影子守卫" feature="Develop" />
+	<key id="61000135" name="影子猎狗" feature="Develop" />
+	<key id="61000136" name="莱卡斯术士" feature="Develop" />
+	<key id="61000137" name="战魔军侦察兵" feature="Develop" />
+	<key id="61000138" name="哈克龙侦察兵" feature="Develop" />
+	<key id="61000139" name="黑色黄昏狐" feature="Develop" />
+	<key id="61000140" name="迷路的灵幻先生" feature="Develop" />
+	<key id="61000141" name="金属街机" feature="Develop" />
+	<key id="61000142" name="金属游戏机" feature="Develop" />
+	<key id="61000143" name="金属掌机" feature="Develop" />
+	<key id="61000144" name="苏丹·莫努斯" feature="Develop" />
+	<key id="61000145" name="库库巴尔" feature="Develop" />
+	<key id="61000146" name="奥托波奇" feature="Develop" />
+	<key id="61000147" name="科亚特" feature="Develop" />
+	<key id="61000148" name="熔岩傀儡" feature="Develop" />
+	<key id="61000149" name="黑暗斯兰夏" feature="Develop" />
+	<key id="61000150" name="托罗斯指挥官" feature="Develop" />
+	<key id="61000151" name="黑色主教大师" feature="Develop" />
+	<key id="61000153" name="剧毒诺拉兹" feature="Pet_70Lv_Taming" />
+	<key id="61000154" name="炮塔MK-I" feature="Pet_70Lv_Taming" />
+	<key id="61000155" name="红魔芋" feature="Pet_70Lv_Taming" />
+	<key id="61000156" name="骷髅战士" feature="Pet_70Lv_Taming" />
+	<key id="61000157" name="蓝色库库" feature="Pet_70Lv_Taming" />
+	<key id="61000158" name="绿色波茵" feature="Pet_70Lv_Taming" />
+	<key id="61000159" name="壮壮莫朗" feature="Pet_70Lv_Taming" />
+	<key id="61000160" name="卫兵MK-II" feature="Pet_70Lv_Taming" />
+	<key id="61000161" name="塔兰MK-I-S" feature="Pet_70Lv_Taming" />
+	<key id="61000162" name="PETNAME_61000162_NAME:[F]Develop" feature="Develop" />
+	<key id="61000163" name="赤红超能猛禽" feature="Pet_70Lv_Taming" />
+	<key id="61000164" name="超能大炮" feature="Pet_70Lv_Taming" />
+	<key id="61000165" name="刺客机器人" feature="Pet_70Lv_Taming" />
+	<key id="61000166" name="蓝色超能霸王龙" feature="Pet_70Lv_Taming" />
+	<key id="61000167" name="粉红蠕虫" feature="Pet_70Lv_Taming" />
+	<key id="61000168" name="暴怒莫朗" feature="Pet_70Lv_Taming" />
+	<key id="61000169" name="骷髅骑士" feature="Pet_70Lv_Taming" />
+	<key id="61000170" name="重型机器人" feature="Pet_70Lv_Taming" />
+	<key id="61100010" name="黑炎龙兽" feature="PetBattle" />
+	<key id="61100020" name="黑爵" feature="PetBattle" />
+	<key id="61100030" name="巴尔坎" feature="PetUpdate01" />
+	<key id="61100031" name="盖尔温特" feature="Develop" />
+	<key id="61100032" name="夏甘特" feature="Develop" />
+	<key id="61100040" name="邪豹" feature="PetUpdate01" />
+	<key id="61100050" name="德布拉克" feature="PetUpdate01" />
+	<key id="61100060" name="船长默克" feature="PetUpdate01" />
+	<key id="61100070" name="帕普拉图斯" feature="PetUpdate01" />
+	<key id="61100080" name="皮皮博士" feature="Develop" />
+	<key id="61100090" name="符文巨神" feature="PetUpdate01" />
+	<key id="61100100" name="季提卡" feature="Gigantica01" />
+	<key id="61100110" name="诅咒之扎昆" feature="Pet_Zakum" />
+	<key id="61100111" name="诅咒之扎昆" feature="Pet_Zakum" />
+	<key id="61100120" name="守护之扎昆" feature="Pet_Zakum" />
+	<key id="61100121" name="守护之扎昆" feature="Pet_Zakum" />
+	<key id="61100130" name="愤怒之扎昆" feature="Pet_Zakum" />
+	<key id="61100131" name="愤怒之扎昆" feature="Pet_Zakum" />
+	<key id="61100132" name="赛琳" feature="Pet_60Lv" />
+	<key id="61100133" name="阿巴诺斯" feature="Pet_60Lv" />
+	<key id="61100134" name="艾尔达" feature="Pet_60Lv" />
+	<key id="61100135" name="无名灵魂" feature="Pet_60Lv" />
+	<key id="61100136" name="巨型马德伦龙牙兵" feature="Pet_60Lv" />
+	<key id="61100137" name="泼布斯" feature="Pet_60Lv" />
+	<key id="61100138" name="夜蚀" feature="Pet_60Lv" />
+	<key id="61100139" name="费艾伦" feature="Pet_60Lv" />
+	<key id="61100140" name="品克缤" feature="Pet_60Lv" />
+	<key id="61100141" name="菲莉雅" feature="Pet_60Lv" />
+	<key id="61100142" name="兰比斯" feature="Pet_60Lv" />
+	<key id="61100143" name="伊修罗" feature="Pet_60Lv" />
+	<key id="61100144" name="强化型炎魔" feature="Pet_70Lv_Boss" />
+	<key id="61100145" name="强化型地狱君主" feature="Pet_70Lv_Boss" />
+	<key id="61100146" name="扎昆之手" feature="Pet_70Lv_Boss" />
+	<key id="61100147" name="佩卡" feature="Pet_70Lv_Boss" />
+	<key id="61100148" name="PETNAME_61100148_NAME:[F]Develop" feature="Develop" />
+	<key id="61100149" name="地狱君主" feature="Pet_Infernog" />
+	<key id="61200001" name="懒惰蘑菇" feature="SurvivalContents01" />
+	<key id="61200002" name="蘑菇大王" feature="WorldChampionMushroom" />
+	<key id="61900001" name="绿蛙" feature="Develop" />
+	<key id="62000001" name="稳重浅蓝企鹅" feature="Develop" />
+	<key id="62000002" name="稳重小黄狗" feature="Develop" />
+	<key id="62000003" name="稳重赤羚龙" feature="Develop" />
+	<key id="62000004" name="稳重小格里芬" feature="Develop" />
+	<key id="62000005" name="稳重雷尔诺斯" feature="Develop" />
+	<key id="62000006" name="稳重小白猫" feature="Develop" />
+	<key id="62000007" name="稳重克鲁" feature="Develop" />
+	<key id="62000008" name="稳重努努" feature="Develop" />
+	<key id="62000009" name="稳重的橙橙" feature="Develop" />
+	<key id="62000010" name="稳重蜜儿" feature="Develop" />
+	<key id="62000011" name="神兽麒麟" feature="PetBattle" />
+	<key id="62000012" name="戴勃" feature="Develop" />
+	<key id="62000013" name="孙悟空" feature="PetBattle" />
+	<key id="62000014" name="红色妖精" feature="Develop" />
+	<key id="62000015" name="品克缤" feature="Develop" />
+	<key id="62900001" name="红嘟嘟" feature="GemPetSkin" />
+	<key id="62900002" name="红帽斗牛犬" feature="PetBattle" />
+	<key id="62999999" name="PETNAME_62999999_NAME:[F]Develop" feature="Develop" />
 </ms2>

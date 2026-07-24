@@ -1,800 +1,799 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="0" name="没有称号" />
-  <key id="1" name="{0}" feature="Club" />
-  <key id="2" name="{0}" feature="Club" />
-  <key id="3" name="{0}" feature="Club" />
-  <key id="10000001" name="见习骑士" />
-  <key id="10000002" name="见习狂战士" />
-  <key id="10000003" name="见习魔法师" />
-  <key id="10000004" name="见习牧师" />
-  <key id="10000005" name="见习弓箭手" />
-  <key id="10000006" name="见习重炮手" />
-  <key id="10000007" name="见习侠盗" />
-  <key id="10000008" name="见习刺客" />
-  <key id="10000009" name="骑士大师" />
-  <key id="10000010" name="狂战士大师" />
-  <key id="10000011" name="大魔法师" />
-  <key id="10000012" name="牧师大师" />
-  <key id="10000013" name="弓箭手大师" />
-  <key id="10000014" name="重炮手大师" />
-  <key id="10000015" name="侠盗大师" />
-  <key id="10000016" name="刺客大师" />
-  <key id="10000017" name="不屈意志" />
-  <key id="10000018" name="刺客" />
-  <key id="10000019" name="拥有熊的力量的" />
-  <key id="10000020" name="屠杀者" />
-  <key id="10000021" name="$map:65000001$支配者" />
-  <key id="10000022" name="$map:65000002$支配者" />
-  <key id="10000023" name="这一地区的疯子" />
-  <key id="10000024" name="百战百胜" />
-  <key id="10000025" name="马拉松选手" />
-  <key id="10000026" name="海狗" />
-  <key id="10000027" name="蜘蛛人" />
-  <key id="10000028" name="乌龟" />
-  <key id="10000029" name="堕落天使" />
-  <key id="10000030" name="流浪者" />
-  <key id="10000031" name="飞行家" />
-  <key id="10000032" name="一脚臭汗的" />
-  <key id="10000033" name="啊噗啊噗" />
-  <key id="10000034" name="正在潜水的" />
-  <key id="10000035" name="满手是汗的" />
-  <key id="10000036" name="攀岩高手" />
-  <key id="10000037" name="禁止沮丧" />
-  <key id="10000038" name="摔破膝盖的" />
-  <key id="10000039" name="跳高选手" />
-  <key id="10000040" name="叹气的" />
-  <key id="10000041" name="晕乎乎的" />
-  <key id="10000042" name="吓跑小鸟的" />
-  <key id="10000043" name="讨厌走路的" />
-  <key id="10000044" name="一路畅通的" />
-  <key id="10000045" name="肌肉强壮的" />
-  <key id="10000046" name="探险家" />
-  <key id="10000047" name="观察者" />
-  <key id="10000048" name="寻宝人" />
-  <key id="10000049" name="黄金寻宝人" />
-  <key id="10000050" name="不速之客" />
-  <key id="10000051" name="阿里卡尔旅客" />
-  <key id="10000052" name="冒险岛守护者" />
-  <key id="10000053" name="逃犯" />
-  <key id="10000054" name="迈出第一步的" />
-  <key id="10000055" name="路灯管理员" />
-  <key id="10000056" name="冰冷城市的" />
-  <key id="10000057" name="鲁莽的" />
-  <key id="10000058" name="脚背上起火的" />
-  <key id="10000059" name="比毒液更毒的" />
-  <key id="10000060" name="影子" />
-  <key id="10000061" name="贤者" />
-  <key id="10000062" name="情圣" />
-  <key id="10000063" name="库巴旺卡征服者" />
-  <key id="10000064" name="陨石清洁工" />
-  <key id="10000065" name="攀爬者" />
-  <key id="10000066" name="冒险岛粉丝" />
-  <key id="10000067" name="废人" />
-  <key id="10000068" name="优雅的美食家" />
-  <key id="10000069" name="破坏者" />
-  <key id="10000070" name="真空吸尘器" />
-  <key id="10000071" name="细心的" />
-  <key id="10000072" name="不灭者" />
-  <key id="10000073" name="白衣天使" />
-  <key id="10000074" name="水蛭" />
-  <key id="10000075" name="蹦极迷" />
-  <key id="10000076" name="无翼的" />
-  <key id="10000077" name="自豪的公会成员" />
-  <key id="10000078" name="购物达人" />
-  <key id="10000079" name="购物狂" />
-  <key id="10000080" name="大富豪" />
-  <key id="10000081" name="铁匠" />
-  <key id="10000082" name="纪念品收藏家" />
-  <key id="10000083" name="坐骑收藏家" />
-  <key id="10000084" name="时尚潮人" />
-  <key id="10000085" name="陷阱大师赛之王" />
-  <key id="10000086" name="终极生存赛之王" />
-  <key id="10000087" name="弹弹海滩之王" />
-  <key id="10000088" name="操控之王" />
-  <key id="10000089" name="田径选手" />
-  <key id="10000090" name="初级驾驶员" />
-  <key id="10000091" name="转圈圈的" />
-  <key id="10000092" name="极速车手" />
-  <key id="10000093" name="开拓者" />
-  <key id="10000094" name="轻浮浪子" />
-  <key id="10000095" name="兴致高昂的" />
-  <key id="10000096" name="炮火中的" />
-  <key id="10000097" name="无用之物" />
-  <key id="10000098" name="豪爽的" />
-  <key id="10000099" name="新人" />
-  <key id="10000100" name="毫不留情的" />
-  <key id="10000101" name="不舍昼夜的" />
-  <key id="10000102" name="无畏的" />
-  <key id="10000103" name="公众之敌" />
-  <key id="10000104" name="哭泣的" />
-  <key id="10000105" name="渴望休战的" />
-  <key id="10000106" name="追星者" />
-  <key id="10000107" name="渴望复仇的" />
-  <key id="10000108" name="屈服的" />
-  <key id="10000109" name="天下无敌" />
-  <key id="10000110" name="迷路的" />
-  <key id="10000111" name="木偶人" />
-  <key id="10000112" name="召唤师" />
-  <key id="10000113" name="修理工" />
-  <key id="10000114" name="宅人" />
-  <key id="10000115" name="双面人" />
-  <key id="10000116" name="等待花开" />
-  <key id="10000117" name="侦探" />
-  <key id="10000118" name="像羽毛一样轻的" />
-  <key id="10000119" name="动作明星" />
-  <key id="10000120" name="太帅了" />
-  <key id="10000121" name="大手大脚" />
-  <key id="10000122" name="想要休息的" />
-  <key id="10000123" name="冠军战第1季参加者" />
-  <key id="10000124" name="创造奇迹的" />
-  <key id="10000125" name="健康守护神" />
-  <key id="10000126" name="爽快的" />
-  <key id="10000127" name="香喷喷的" />
-  <key id="10000128" name="替补" />
-  <key id="10000129" name="啦啦队长" />
-  <key id="10000130" name="冠军战贵宾" />
-  <key id="10000131" name="无情的" />
-  <key id="10000132" name="陆战之星" />
-  <key id="10000133" name="孤独的" />
-  <key id="10000134" name="大英雄" />
-  <key id="10000135" name="踏着节奏的" />
-  <key id="10000136" name="被妈妈喊走的" />
-  <key id="10000137" name="心情不错的" />
-  <key id="10000138" name="贪心的" />
-  <key id="10000139" name="后座乘客" />
-  <key id="10000140" name="协助者" />
-  <key id="10000141" name="好朋友" />
-  <key id="10000142" name="多愁善感的" />
-  <key id="10000143" name="搜索者" />
-  <key id="10000144" name="梦想家" />
-  <key id="10000145" name="牧童" />
-  <key id="10000146" name="长角的" />
-  <key id="10000147" name="月影" />
-  <key id="10000148" name="守护者" />
-  <key id="10000149" name="资深专家" />
-  <key id="10000150" name="活化石" />
-  <key id="10000151" name="自封英雄" />
-  <key id="10000152" name="真正的冠军" />
-  <key id="10000153" name="顶级设计师" />
-  <key id="10000154" name="现在是英雄" />
-  <key id="10000155" name="战斗工兵" />
-  <key id="10000156" name="医务兵" />
-  <key id="10000157" name="枫家牧童" />
-  <key id="10000158" name="明星建筑师" />
-  <key id="10000159" name="太好了" />
-  <key id="10000160" name="时间旅行者" />
-  <key id="10000161" name="自讨苦吃的" />
-  <key id="10000162" name="斗士" />
-  <key id="10000163" name="园艺师" />
-  <key id="10000164" name="勇敢的" />
-  <key id="10000165" name="珍宝岛支配者" />
-  <key id="10000166" name="执着的掠夺者" />
-  <key id="10000167" name="偷袭达人" />
-  <key id="10000168" name="归来的" />
-  <key id="10000169" name="100日同在的" />
-  <key id="10000170" name="成就沉迷者" />
-  <key id="10000171" name="成就达人" />
-  <key id="10000172" name="真正的成就狂热者" />
-  <key id="10000173" name="诚实的" />
-  <key id="10000174" name="应接不暇的" />
-  <key id="10000175" name="强力" />
-  <key id="10000176" name="守护城墙的" />
-  <key id="10000177" name="守护天使" />
-  <key id="10000178" name="充满好奇的" />
-  <key id="10000179" name="知识探求者" />
-  <key id="10000180" name="脑袋抽筋的" />
-  <key id="10000181" name="博学多识" />
-  <key id="10000182" name="聪明伶俐" />
-  <key id="10000183" name="百事通" />
-  <key id="10000184" name="谜题大王" />
-  <key id="10000185" name="冒险岛2荣誉记者" />
-  <key id="10000186" name="头晕目眩的" />
-  <key id="10000187" name="哇哦" />
-  <key id="10000188" name="战个痛快" />
-  <key id="10000189" name="扫除黑暗" />
-  <key id="10000190" name="光之战士" />
-  <key id="10000191" name="初级钓手" />
-  <key id="10000192" name="中级钓手" />
-  <key id="10000193" name="高级钓手" />
-  <key id="10000194" name="专业钓手" />
-  <key id="10000195" name="乐师" />
-  <key id="10000196" name="钓鱼王" />
-  <key id="10000197" name="偷心" />
-  <key id="10000198" name="乐队大师" />
-  <key id="10000199" name="噼里啪啦" />
-  <key id="10000200" name="吉他手" />
-  <key id="10000201" name="甜蜜" />
-  <key id="10000202" name="钢琴家" />
-  <key id="10000203" name="啪嗒啪嗒" />
-  <key id="10000204" name="姜太公" />
-  <key id="10000205" name="钓鱼狂人" />
-  <key id="10000206" name="爱尔兰" />
-  <key id="10000207" name="符文之子" />
-  <key id="10000208" name="冒险岛铁粉" />
-  <key id="10000209" name="跑跑卡丁车" />
-  <key id="10000210" name="吹吧风之国" />
-  <key id="10000211" name="突击风暴精英佣兵" />
-  <key id="10000212" name="邪恶征服者" />
-  <key id="10000213" name="融化心灵的" />
-  <key id="10000214" name="单簧管演奏家" />
-  <key id="10000215" name="半个" />
-  <key id="10000216" name="竖琴演奏家" />
-  <key id="10000217" name="咚咚哒" />
-  <key id="10000218" name="打击乐器演奏家" />
-  <key id="10000219" name="旋律悠扬" />
-  <key id="10000220" name="被旋律触电的" />
-  <key id="10000221" name="粗犷的" />
-  <key id="10000222" name="低音乐手" />
-  <key id="10000223" name="咚咚" />
-  <key id="10000224" name="热情的鼓手" />
-  <key id="10000225" name="农夫" />
-  <key id="10000226" name="温暖的" />
-  <key id="10000227" name="透明人" />
-  <key id="10000228" name="机灵的" />
-  <key id="10000229" name="停下！" />
-  <key id="10000230" name="坐得住的" />
-  <key id="10000231" name="善变的" />
-  <key id="10000232" name="冒2情报通讯员" />
-  <key id="10000233" name="胜负师" feature="PvPRankingDuelMode" />
-  <key id="10000234" name="冠军" feature="PvPRankingDuelMode" />
-  <key id="10000235" name="总冠军" feature="PvPRankingDuelMode" />
-  <key id="10000236" name="疯狂的" />
-  <key id="10000237" name="小提琴家" />
-  <key id="10000238" name="了不起" />
-  <key id="10000239" name="大提琴家" />
-  <key id="10000240" name="清纯的" />
-  <key id="10000241" name="排箫演奏家" />
-  <key id="10000242" name="先驱者" />
-  <key id="10000243" name="特别的" />
-  <key id="10000244" name="师父的爱徒" />
-  <key id="10000245" name="星光远征队" />
-  <key id="10000246" name="冒险岛数据之星" />
-  <key id="10000247" name="呼噜噜" />
-  <key id="10000248" name="公会的工人" />
-  <key id="10000249" name="闪闪发光" />
-  <key id="10000250" name="星星" />
-  <key id="10000251" name="归巢本能" />
-  <key id="10000252" name="周边DIY明星设计师" />
-  <key id="10000253" name="明星冒险家" />
-  <key id="10000254" name="饱含感情的" />
-  <key id="10000255" name="萨克斯管吹奏者" />
-  <key id="10000256" name="布布布布" />
-  <key id="10000257" name="长号手" />
-  <key id="10000258" name="儿童乐队" />
-  <key id="10000259" name="小号手" />
-  <key id="10000260" name="影子远征队员" feature="ShadowExpedition" />
-  <key id="10000261" name="寻路的" feature="ShrineOfGuidance" />
-  <key id="10000262" name="清澈的" />
-  <key id="10000263" name="陶笛演奏者" />
-  <key id="10000264" name="安稳的" />
-  <key id="10000265" name="原声贝斯演奏者" />
-  <key id="10000266" name="两面讨好者" />
-  <key id="10000267" name="电颤琴演奏者" />
-  <key id="10000268" name="轻快的" />
-  <key id="10000269" name="电子琴演奏家" />
-  <key id="10000270" name="备受瞩目的" />
-  <key id="10000271" name="皮克贝斯演奏者" />
-  <key id="10000272" name="满满的" />
-  <key id="10000273" name="钢鼓演奏者" />
-  <key id="10000274" name="初级矿工" />
-  <key id="10000275" name="中级矿工" />
-  <key id="10000276" name="高级矿工" />
-  <key id="10000277" name="专业矿工" />
-  <key id="10000278" name="初级饲养员" />
-  <key id="10000279" name="中级饲养员" />
-  <key id="10000280" name="高级饲养员" />
-  <key id="10000281" name="专业饲养员" />
-  <key id="10000282" name="初级铁匠" />
-  <key id="10000283" name="中级铁匠" />
-  <key id="10000284" name="高级铁匠" />
-  <key id="10000285" name="专业铁匠" />
-  <key id="10000286" name="初级工匠" />
-  <key id="10000287" name="中级工匠" />
-  <key id="10000288" name="高级工匠" />
-  <key id="10000289" name="专业工匠" />
-  <key id="10000290" name="永无止境的" />
-  <key id="10000291" name="宅在家的" />
-  <key id="10000292" name="外面太危险" />
-  <key id="10000293" name="单身狗" />
-  <key id="10000294" name="搬家啦" />
-  <key id="10000295" name="寻找室友" />
-  <key id="10000296" name="探险王" />
-  <key id="10000297" name="创造旋律的" />
-  <key id="10000298" name="双簧管吹奏者" />
-  <key id="10000299" name="弹弦的" />
-  <key id="10000300" name="拨奏大师" />
-  <key id="10000301" name="纤细的" />
-  <key id="10000302" name="大键琴演奏者" />
-  <key id="10000303" name="初级采药人" />
-  <key id="10000304" name="中级采药人" />
-  <key id="10000305" name="高级采药人" />
-  <key id="10000306" name="专业采药人" />
-  <key id="10000307" name="初级农夫" />
-  <key id="10000308" name="中级农夫" />
-  <key id="10000309" name="高级农夫" />
-  <key id="10000310" name="专业农夫" />
-  <key id="10000311" name="初级炼金术士" />
-  <key id="10000312" name="中级炼金术士" />
-  <key id="10000313" name="高级炼金术士" />
-  <key id="10000314" name="专业炼金术士" />
-  <key id="10000315" name="初级厨师" />
-  <key id="10000316" name="中级厨师" />
-  <key id="10000317" name="高级厨师" />
-  <key id="10000318" name="专业厨师" />
-  <key id="10000319" name="让暴风雪平息的" feature="SnowKingdom" />
-  <key id="10000320" name="堕落的" feature="SnowKingdom" />
-  <key id="10000321" name="神秘大海的" feature="PirateOcean" />
-  <key id="10000322" name="沾染上枫叶色彩的英雄" locale="CN" />
-  <key id="10000323" name="心悦 1级" locale="CN" />
-  <key id="10000324" name="心悦 2级" locale="CN" />
-  <key id="10000325" name="心悦 3级" locale="CN" />
-  <key id="10000326" name="一箭双雕" feature="DarkCastle" />
-  <key id="10000327" name="可怕的" feature="DarkCastle" />
-  <key id="10000328" name="逆袭之" feature="DarkCastle" />
-  <key id="10000329" name="甜蜜的" />
-  <key id="10000330" name="谜题真有趣" />
-  <key id="10000331" name="扎昆征服者" feature="Zakum01" />
-  <key id="10000332" name="造梦者" locale="CN" />
-  <key id="10000333" name="杰出音乐成就乐队" locale="CN" />
-  <key id="10000334" name="终测住宅募集家" locale="CN" />
-  <key id="10000335" name="终测服装设计募集家" locale="CN" />
-  <key id="10000336" name="英雄" />
-  <key id="10000337" name="超级英雄" />
-  <key id="10000338" name="最初的骑士" />
-  <key id="10000339" name="最后的骑士" />
-  <key id="10000341" name="2岁冒险岛宝宝" />
-  <key id="10000342" name="初级驯兽师" feature="PetBattle" />
-  <key id="10000343" name="中级驯兽师" feature="Develop" />
-  <key id="10000344" name="高级驯兽师" feature="Develop" />
-  <key id="10000345" name="我们都是好朋友" feature="PetBattle" />
-  <key id="10000350" name="粉红鲑鱼" feature="PinkBean01" />
-  <key id="10000351" name="叮咚叮咚" />
-  <key id="10000352" name="木琴演奏家" />
-  <key id="10000353" name="稍微吃过些玉米的" />
-  <key id="10000354" name="口琴大师" />
-  <key id="10000355" name="终极测试扎昆征服者" locale="CN" />
-  <key id="10000356" name="一个民族" />
-  <key id="10000357" name="No 1" />
-  <key id="10000358" name="No1 Wizard" />
-  <key id="10000359" name="No1 Assasin" />
-  <key id="10000360" name="初出茅庐的" />
-  <key id="10000361" name="你与我的" />
-  <key id="10000362" name="至尊会员" />
-  <key id="10000363" name="Captain" />
-  <key id="10000364" name="与$npc:11003471$相伴的" locale="CN" />
-  <key id="10000365" name="垂涎蘑菇币的" />
-  <key id="10000366" name="WeGame" locale="CN" />
-  <key id="10000367" name="常温动物" feature="GuildRaid01" />
-  <key id="10000368" name="超级野心家" feature="GuildRaid01" />
-  <key id="10000369" name="牛仔" feature="GuildRaid01" />
-  <key id="10000370" name="肉肉征服者" feature="GuildRaid01" />
-  <key id="10000371" name="嘭嘭" />
-  <key id="10000372" name="蘑菇币富翁" />
-  <key id="10000373" name="完成己任的" feature="GuildRaid01" />
-  <key id="10000374" name="蛋蛋富翁" feature="GuildRaid01" />
-  <key id="10000375" name="谨慎的" feature="GuildRaid01" />
-  <key id="10000376" name="厂长" feature="GuildRaid01" />
-  <key id="10000377" name="七色光" feature="GuildRaid01" />
-  <key id="10000378" name="以一当十的传奇" feature="GuildRaid01" />
-  <key id="10000379" name="尝试进阶的" feature="ItemMerge" />
-  <key id="10000380" name="进阶者" feature="ItemMerge" />
-  <key id="10000381" name="疯狂进阶" feature="ItemMerge" />
-  <key id="10000382" name="春季S2" />
-  <key id="10000383" name="ONE TOP " />
-  <key id="10000384" name="BOSS" />
-  <key id="10000385" name="男神" />
-  <key id="10000386" name="同胞" />
-  <key id="10000387" name="枫迷" />
-  <key id="10000388" name="zl区x刺客v" />
-  <key id="10000389" name="1st" />
-  <key id="10000390" name="ASSASSIN" />
-  <key id="10000391" name="首届黑马" locale="CN" />
-  <key id="10000392" name="魔都酷跑之王" feature="MassiveCrazyRunnersShanghai" locale="CN" />
-  <key id="10000393" name="资深冒险家" feature="Mentoring" />
-  <key id="10000394" name="首位扎昆征服者" locale="CN" />
-  <key id="10000395" name="一片丹心" feature="PetRemake01" />
-  <key id="10000396" name="甜咸甜咸" />
-  <key id="10000397" name="最后的防线 深红炎魔猎人" />
-  <key id="10000398" name="地狱君主最后的防线" />
-  <key id="10000399" name="交给我吧" feature="FameContents" />
-  <key id="10000400" name="浮起的" feature="FameContents" />
-  <key id="10000401" name="获得信任的" feature="FameContents" />
-  <key id="10000402" name="新英雄" feature="FameContents" />
-  <key id="10000403" name="传说之" feature="FameContents02" />
-  <key id="10000404" name="不可侵犯的" feature="FameContents02" />
-  <key id="10000405" name="联盟指挥官" feature="FameContents" />
-  <key id="10000406" name="特莱雅之盾" feature="FameContents" />
-  <key id="10000407" name="黑风之影" feature="FameContents" />
-  <key id="10000408" name="警卫队金色箭矢" feature="FameContents" />
-  <key id="10000409" name="名誉神官骑士" feature="FameContents" />
-  <key id="10000410" name="天空堡垒舰队队员" feature="FameContents" />
-  <key id="10000411" name="康达尔特攻队" feature="FameContents" />
-  <key id="10000412" name="夜舞的小猫" feature="FameContents" />
-  <key id="10000413" name="奈林的问题解决专家" feature="FameContents" />
-  <key id="10000414" name="梅森的守护骑士" feature="FameContents" />
-  <key id="10000415" name="D级任务专员" feature="FameContents" />
-  <key id="10000416" name="C级应急组" feature="FameContents" />
-  <key id="10000417" name="B级作战指挥官" feature="FameContents" />
-  <key id="10000418" name="A级机动队员" feature="FameContents" />
-  <key id="10000419" name="S级战术专家" feature="FameContents" />
-  <key id="10000420" name="野战指挥官" feature="FameContents" />
-  <key id="10000421" name="捐赠天使" feature="FameContents" />
-  <key id="10000422" name="联盟的守护者" feature="FameContents" />
-  <key id="10000423" name="春之使者" />
-  <key id="10000424" name="又甜又咸" locale="CN" />
-  <key id="10000425" name="甜蜜的" locale="CN" />
-  <key id="10000426" name="下届舰长" feature="FameChallengeDungeon" />
-  <key id="10000427" name="新任近卫部长" feature="FameChallengeDungeon" />
-  <key id="10000428" name="网络英雄" feature="FameChallengeDungeon" />
-  <key id="10000429" name="制造命运的" feature="FameChallengeDungeon" />
-  <key id="10000430" name="影风特工队" feature="FameChallengeDungeon" />
-  <key id="10000431" name="石头剪刀布KING" locale="CN" />
-  <key id="10000432" name="舰队的王牌" feature="FameChallengeDungeon" />
-  <key id="10000433" name="最黑暗的阴影" feature="FameChallengeDungeon" />
-  <key id="10000434" name="受人认可的" feature="FameChallengeDungeon" />
-  <key id="10000435" name="紧张作弊者" feature="FameChallengeDungeon" />
-  <key id="10000436" name="叮铃当啷" feature="FameChallengeDungeon" />
-  <key id="10000437" name="甜美" />
-  <key id="10000438" name="单身光荣" locale="CN" />
-  <key id="10000439" name="相爱万岁" locale="CN" />
-  <key id="10000440" name="甜美" locale="CN" />
-  <key id="10000441" name="黑暗乐器收藏家" feature="Season1" />
-  <key id="10000442" name="樱花树的主人" />
-  <key id="10000443" name="一起度过1000天的" />
-  <key id="10000444" name="粉丝艺术家" />
-  <key id="10000445" name="今日好友" />
-  <key id="10000446" name="逆风的" feature="SurvivalContents01" />
-  <key id="10000447" name="和平象征" feature="SurvivalContents01" />
-  <key id="10000448" name="$item:20000733$爱好者" feature="SurvivalContents01" />
-  <key id="10000449" name="$item:20000737$爱好者" feature="SurvivalContents01" />
-  <key id="10000450" name="$item:20000902$爱好者" feature="SurvivalContents01" />
-  <key id="10000451" name="$item:20000743$爱好者" feature="SurvivalContents01" />
-  <key id="10000452" name="$item:20000906$爱好者" feature="SurvivalContents01" />
-  <key id="10000453" name="$item:20000897$爱好者" feature="SurvivalContents01" />
-  <key id="10000454" name="$item:20000898$爱好者" feature="SurvivalContents01" />
-  <key id="10000455" name="$item:20000899$爱好者" feature="SurvivalContents01" />
-  <key id="10000456" name="我是盖世无双的" feature="SurvivalContents01" />
-  <key id="10000457" name="全能" feature="SurvivalContents01" />
-  <key id="10000458" name="无情的" feature="SurvivalContents01" />
-  <key id="10000459" name="获得蘑菇大王宠爱的" feature="SurvivalContents01" />
-  <key id="10000460" name="吹竖笛吧" />
-  <key id="10000461" name="竖笛大师" />
-  <key id="10000462" name="发光的钢片琴" />
-  <key id="10000463" name="钢片琴大师" />
-  <key id="10000464" name="涂抹面霜" feature="WorldChampionMushroom" />
-  <key id="10000465" name="刚转职的" feature="JobChange_01" />
-  <key id="10000466" name="彩虹水灵的好友" />
-  <key id="10000467" name="彩虹水灵饲养员" />
-  <key id="10000468" name="最初的转职" feature="JobChange_01" />
-  <key id="10000478" name="反击之" feature="ChronicleDungeon60_01" />
-  <key id="10000479" name="黑化的" feature="ChronicleDungeon60_01" />
-  <key id="10000480" name="均衡摄入的" feature="ChronicleDungeon60_01" />
-  <key id="10000485" name="美丽汪洋之" feature="ChronicleDungeon60_01" />
-  <key id="10000486" name="战胜暴风雪的" feature="ChronicleDungeon60_01" />
-  <key id="10000487" name="阴森的" feature="ChronicleDungeon60_01" />
-  <key id="10000488" name="一举两得" feature="ChronicleDungeon60_01" />
-  <key id="10000489" name="阳光" locale="CN" />
-  <key id="10000490" name="守护你的" feature="JobChange_01" />
-  <key id="10000491" name="砂锅" feature="JobChange_01" />
-  <key id="10000492" name="冷静与热情之间" feature="JobChange_01" />
-  <key id="10000493" name="高压" feature="JobChange_01" />
-  <key id="10000494" name="可怕的眼神" feature="JobChange_01" />
-  <key id="10000495" name="超级级级级级级级" feature="JobChange_01" />
-  <key id="10000496" name="幽灵" feature="JobChange_01" />
-  <key id="10000497" name="影子的影子" feature="JobChange_01" />
-  <key id="10000498" name="不可思议的" feature="JobChange_01" />
-  <key id="10000499" name="胸口重击" feature="JobChange_01" />
-  <key id="10000500" name="神秘主义者" feature="JobChange_01" />
-  <key id="10000501" name="汉字收集家" />
-  <key id="10000502" name="滚烫" />
-  <key id="10000504" name="豪华热销礼包购买人" locale="CN" />
-  <key id="10000505" name="尊享热销礼包购买人" locale="CN" />
-  <key id="10000506" name="尊贵热销礼包购买人" locale="CN" />
-  <key id="10000507" name="尊贵热销礼包购买人" locale="CN" />
-  <key id="10000508" name="TITLENAME_10000508_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000509" name="TITLENAME_10000509_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000510" name="爱情使者" />
-  <key id="10000511" name="太初的人们" feature="SurvivalContents01" />
-  <key id="10000512" name="击败伊修罗的" />
-  <key id="10000513" name="击败兰比斯的" />
-  <key id="10000514" name="击败菲莉雅的" />
-  <key id="10000515" name="TITLENAME_10000515_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000516" name="TITLENAME_10000516_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000517" name="TITLENAME_10000517_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000518" name="TITLENAME_10000518_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000519" name="TITLENAME_10000519_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000520" name="TITLENAME_10000520_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000521" name="TITLENAME_10000521_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000522" name="TITLENAME_10000522_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000523" name="TITLENAME_10000523_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000524" name="TITLENAME_10000524_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000525" name="TITLENAME_10000525_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000526" name="TITLENAME_10000526_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000527" name="TITLENAME_10000527_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000528" name="护卫" feature="LapentaDungeon" />
-  <key id="10000529" name="变化无常的" feature="LapentaDungeon" />
-  <key id="10000530" name="颠倒日夜" feature="LapentaDungeon" />
-  <key id="10000531" name="闪闪发光的豹" feature="LapentaDungeon" />
-  <key id="10000532" name="黑色不死鸟" feature="LapentaDungeon" />
-  <key id="10000533" name="TITLENAME_10000533_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000534" name="TITLENAME_10000534_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000535" name="TITLENAME_10000535_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000536" name="TITLENAME_10000536_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000537" name="与乔迪相伴" />
-  <key id="10000538" name="TITLENAME_10000538_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000539" name="TITLENAME_10000539_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
-  <key id="10000540" name="月光" />
-  <key id="10000540" name="圆月之光" locale="CN" />
-  <key id="10000541" name="秋之祝福力量" locale="CN" />
-  <key id="10000544" name="一闪一闪亮晶晶" feature="WorldChampionMushroom" />
-  <key id="10000545" name="为吃而生" feature="WorldChampionMushroom" />
-  <key id="10000546" name="减肥中" feature="WorldChampionMushroom" />
-  <key id="10000547" name="雕像一般" feature="WorldChampionMushroom" />
-  <key id="10000548" name="会玩的" feature="WorldChampionMushroom" />
-  <key id="10000549" name="闷闷不乐的" feature="WorldChampionMushroom" />
-  <key id="10000550" name="柔软玩具熊" feature="WorldChampionMushroom" />
-  <key id="10000551" name="最喜欢猫了！" feature="WorldChampionMushroom" />
-  <key id="10000552" name="完美的" feature="WorldChampionMushroom" />
-  <key id="10000553" name="七色彩虹" feature="WorldChampionMushroom" />
-  <key id="10000554" name="怪杰" feature="WorldChampionMushroom" />
-  <key id="10000555" name="舞林之王" feature="WorldChampionMushroom" />
-  <key id="10000556" name="明朗的" feature="WorldChampionMushroom" />
-  <key id="10000557" name="富翁" feature="WorldChampionMushroom" />
-  <key id="10000558" name="常胜" feature="WorldChampionMushroom" />
-  <key id="10000559" name="孤独的" feature="WorldChampionMushroom" />
-  <key id="10000560" name="救命！" feature="WorldChampionMushroom" />
-  <key id="10000561" name="衣服架子" feature="WorldChampionMushroom" />
-  <key id="10000562" name="软绵绵" feature="WorldChampionMushroom" />
-  <key id="10000563" name="体弱多病" feature="WorldChampionMushroom" />
-  <key id="10000564" name="欢乐的庆典" locale="CN" />
-  <key id="10000565" name="共度1周年的" locale="CN" />
-  <key id="10000572" name="小南瓜的朋友" />
-  <key id="10000573" name="小南瓜饲养员" />
-  <key id="10000574" name="时间支配者" locale="CN" />
-  <key id="10000575" name="渔夫" feature="Fishing02" />
-  <key id="10000576" name="钓过鱼的" feature="Fishing02" />
-  <key id="10000577" name="虚张声势的" feature="Fishing02" />
-  <key id="10000578" name="鱼大王" feature="Fishing02" />
-  <key id="10000579" name="悠然自得" feature="Fishing02" />
-  <key id="10000580" name="扑空的" feature="Fishing02" />
-  <key id="10000581" name="人鱼" feature="Fishing02" />
-  <key id="10000582" name="喜爱大海的" feature="Fishing02" />
-  <key id="10000583" name="有毒的" feature="Fishing02" />
-  <key id="10000584" name="油腻的" feature="Fishing02" />
-  <key id="10000585" name="瘦弱的" feature="Fishing02" />
-  <key id="10000586" name="热情的钓手" feature="Fishing02" />
-  <key id="10000587" name="蓝天之下" feature="Fishing02" />
-  <key id="10000588" name="迟钝的" feature="Fishing02" />
-  <key id="10000589" name="追随大鱼的" feature="Fishing02" />
-  <key id="10000590" name="坚韧堪比钓鱼线的" feature="Fishing02" />
-  <key id="10000591" name="海产品杀手" feature="Fishing02" />
-  <key id="10000592" name="隐居高手" feature="Fishing02" />
-  <key id="10000593" name="想当钓鱼王的" feature="Fishing02" />
-  <key id="10000594" name="鱼痴" feature="Fishing02" />
-  <key id="10000595" name="枫树的主人" />
-  <key id="10000596" name="咚咚" feature="DrumInstrument" />
-  <key id="10000597" name="大鼓达人" feature="DrumInstrument" />
-  <key id="10000598" name="敲鼓的" feature="DrumInstrument" />
-  <key id="10000599" name="小鼓大师" feature="DrumInstrument" />
-  <key id="10000600" name="铮铮" feature="DrumInstrument" />
-  <key id="10000601" name="铙钹演奏家" feature="DrumInstrument" />
-  <key id="10000602" name="职业钓手" feature="Fishing02" />
-  <key id="10000603" name="冠军钓手" feature="Fishing02" />
-  <key id="10000604" name="克里蒂亚斯钓手" feature="Fishing02" />
-  <key id="10000605" name="克里蒂亚斯鱼类博士" feature="Fishing02" />
-  <key id="10000606" name="呜呜" feature="Fishing02" />
-  <key id="10000607" name="嘤嘤" feature="Fishing02" />
-  <key id="10000608" name="美味海产品" feature="Fishing" />
-  <key id="10000609" name="喜欢钓鱼的" feature="Fishing02" />
-  <key id="10000610" name="天使志愿生" feature="Fishing02" />
-  <key id="10000611" name="蓝色天使" feature="Fishing02" />
-  <key id="10000612" name="游泳健将" feature="Fishing02" />
-  <key id="10000613" name="美貌如花的" feature="Fishing02" />
-  <key id="10000614" name="果冻环" feature="Fishing02" />
-  <key id="10000615" name="充满活力的" feature="Fishing02" />
-  <key id="10000616" name="疑似机械的" feature="Fishing02" />
-  <key id="10000617" name="害羞" feature="Fishing02" />
-  <key id="10000618" name="享受钓鱼乐趣的" feature="Fishing02" />
-  <key id="10000619" name="透明的" feature="Fishing02" />
-  <key id="10000620" name="颜色绮丽" feature="Fishing02" />
-  <key id="10000621" name="轻盈飘逸" feature="Fishing02" />
-  <key id="10000622" name="耀眼钓手" feature="Fishing02" />
-  <key id="10000623" name="如宝石般闪耀的" feature="Fishing02" />
-  <key id="10000624" name="危险鱼类捕手" feature="Fishing02" />
-  <key id="10000625" name="饱经沧桑的" feature="Fishing02" />
-  <key id="10000626" name="古城的主人" feature="Fishing02" />
-  <key id="10000627" name="勇敢钓手" feature="Fishing02" />
-  <key id="10000630" name="翡翠" feature="Fishing02" />
-  <key id="10000631" name="混淆的" feature="Fishing02" />
-  <key id="10000633" name="弓鱼专家" feature="Fishing02" />
-  <key id="10000635" name="美丽又危险的" feature="Fishing02" />
-  <key id="10000636" name="时尚钓手" feature="Fishing02" />
-  <key id="10000637" name="火鸡料理师" />
-  <key id="10000638" name="操纵危险力量的" feature="Lapenshard01" />
-  <key id="10000639" name="今日圣诞老人" />
-  <key id="10000641" name="石头剪刀布达人" locale="CN" />
-  <key id="10000644" name="拥有神秘力量的" />
-  <key id="10000645" name="小猪包厨师" />
-  <key id="10000646" name="幸运福猪" />
-  <key id="10000647" name="幸运儿" />
-  <key id="10000648" name="甜甜甜" />
-  <key id="10000649" name="打起精神来！" feature="LapentaDungeon" />
-  <key id="10000650" name="伊修罗的" feature="LapentaDungeon" />
-  <key id="10000651" name="神圣" feature="JobChange_02" />
-  <key id="10000652" name="血腥" feature="JobChange_02" />
-  <key id="10000653" name="魔幻" feature="JobChange_02" />
-  <key id="10000654" name="高阶" feature="JobChange_02" />
-  <key id="10000655" name="敏锐" feature="JobChange_02" />
-  <key id="10000656" name="亢奋" feature="JobChange_02" />
-  <key id="10000657" name="幽灵" feature="JobChange_02" />
-  <key id="10000658" name="阴影世界" feature="JobChange_02" />
-  <key id="10000659" name="神秘" feature="JobChange_02" />
-  <key id="10000660" name="终极" feature="JobChange_02" />
-  <key id="10000661" name="玄幻" feature="JobChange_02" />
-  <key id="10000662" name="光明守护者" feature="Kritias_2018_12" />
-  <key id="10000663" name="大家的英雄" feature="Kritias_2018_12" />
-  <key id="10000664" name="热爱环境的" feature="Kritias_2018_12" />
-  <key id="10000665" name="平息不灭的" feature="Kritias_Balrog01" />
-  <key id="10000666" name="战胜黑暗的" feature="Kritias_Paika01" />
-  <key id="10000667" name="必灭者" feature="Kritias_Balrog01" />
-  <key id="10000668" name="闪耀的" feature="Kritias_Paika01" />
-  <key id="10000669" name="治虫" feature="Fieldwar01" />
-  <key id="10000670" name="有出息的" feature="Fieldwar01" />
-  <key id="10000671" name="无情的" feature="Fieldwar01" />
-  <key id="10000672" name="军团长" feature="Fieldwar01" />
-  <key id="10000673" name="新大陆，新觉悟" feature="Kritias_2018_12" />
-  <key id="10000674" name="克里蒂亚斯的晨星" feature="Kritias_2018_12" />
-  <key id="10000675" name="克里蒂亚斯的希望" feature="Kritias_2018_12" />
-  <key id="10000676" name="克里蒂亚斯的英雄" feature="Kritias_2018_12" />
-  <key id="10000677" name="克里蒂亚斯特务队特级勇士" feature="Kritias_2018_12" />
-  <key id="10000678" name="克里蒂亚斯调查队首席队员" feature="Kritias_2018_12" />
-  <key id="10000679" name="克里蒂亚斯考察队神官骑士" feature="Kritias_2018_12" />
-  <key id="10000680" name="克里蒂亚斯D级任务专员" feature="Kritias_2018_12" />
-  <key id="10000681" name="克里蒂亚斯C级应急组" feature="Kritias_2018_12" />
-  <key id="10000682" name="克里蒂亚斯B级作战指挥官" feature="Kritias_2018_12" />
-  <key id="10000683" name="克里蒂亚斯A级机动队员" feature="Kritias_2018_12" />
-  <key id="10000684" name="克里蒂亚斯S级战术专家" feature="Kritias_2018_12" />
-  <key id="10000685" name="同盟的守护者" feature="Kritias_Inferno01" />
-  <key id="10000686" name="窃取日记本的" feature="Kritias_2018_12" />
-  <key id="10000687" name="恶魔之树伐木工" feature="Kritias_Zakum01" />
-  <key id="10000688" name="守护克里蒂亚斯的英雄" feature="Kritias_2018_12" />
-  <key id="10000690" name="布里切的猫" feature="Kritias_2018_12" />
-  <key id="10000691" name="梅森的白炎龙" feature="Kritias_2018_12" />
-  <key id="10000692" name="奈林的小可爱" feature="Kritias_2018_12" />
-  <key id="10000693" name="[专属]为了完美模拟！" feature="Kritias_2018_12" />
-  <key id="10000694" name="召唤术士" feature="Gigantica01" />
-  <key id="10000695" name="飞行员" feature="Gigantica01" />
-  <key id="10000696" name="炮兵" feature="Kritias_Balrog01" />
-  <key id="10000697" name="机器人猎手" feature="Gigantica01" />
-  <key id="10000698" name="破坏王" feature="Gigantica01" />
-  <key id="10000699" name="季提卡的主人" feature="Gigantica01" />
-  <key id="10000700" name="塔兰机器人发烧友" feature="Pet_70Lv_Taming" />
-  <key id="10000701" name="机器人" feature="Pet_70Lv_Taming" />
-  <key id="10000702" name="恐龙饲养员" feature="Pet_70Lv_Taming" />
-  <key id="10000703" name="克里蒂亚斯原住民" feature="Pet_70Lv_Taming" />
-  <key id="10000704" name="克里蒂亚斯昆虫学者" feature="Pet_70Lv_Taming" />
-  <key id="10000705" name="警犬的主人" feature="Kritias_2018_12" />
-  <key id="10000706" name="被黑暗吞噬的" feature="Kritias_2018_12" />
-  <key id="10000707" name="洞穴探险家" feature="Kritias_2018_12" />
-  <key id="10000708" name="捧花的冒险家" feature="Kritias_2018_12" />
-  <key id="10000709" name="江湖骗子" feature="Kritias_2018_12" />
-  <key id="10000710" name="我勒个擦" feature="Kritias_2018_12" />
-  <key id="10000711" name="贫困的冒险家" feature="Kritias_2018_12" />
-  <key id="10000712" name="红蔷薇花" locale="CN" />
-  <key id="10000713" name="黄蔷薇花" locale="CN" />
-  <key id="10000714" name="驱魔师" feature="Kritias_Zakum01" />
-  <key id="10000715" name="古代的" feature="Kritias_Inferno01" />
-  <key id="10000716" name="樵夫" feature="Kritias_Zakum01" />
-  <key id="10000717" name="一击必杀" feature="Kritias_Inferno01" />
-  <key id="10000718" name="厉害的朋友" feature="PetEvolution01" />
-  <key id="10000719" name="期待培养" feature="PetEvolution01" />
-  <key id="10000720" name="紫色" feature="PetEvolution01" />
-  <key id="10000721" name="金灿灿的" feature="PetEvolution01" />
-  <key id="10000722" name="嗨哟！嗨哟！" feature="PetEvolution01" />
-  <key id="10000723" name="加油！" feature="PetEvolution01" />
-  <key id="10000724" name="精英" feature="PetEvolution01" />
-  <key id="10000725" name="换乘中" feature="Pet_70Lv" />
-  <key id="10000726" name="制造传说的" feature="Pet_70Lv" />
-  <key id="10000727" name="包揽一切的" feature="PetEvolution01" />
-  <key id="10000728" name="进化的" feature="PetEvolution01" />
-  <key id="10000729" name="奋斗派" feature="PetEvolution01" />
-  <key id="10000730" name="传说收藏家" feature="Pet_70Lv" />
-  <key id="10000731" name="樱花之歌" locale="CN" />
-  <key id="10000733" name="百战百胜的" feature="Event" />
-  <key id="10000734" name="读心的" feature="Event" />
-  <key id="10000735" name="故意输的" feature="Event" />
-  <key id="10000736" name="今日搭档" feature="Event" />
-  <key id="10000737" name="实在的" feature="Fieldwar02" />
-  <key id="10000738" name="身手敏捷的" feature="Fieldwar02" />
-  <key id="10000739" name="踢罐子的" feature="Fieldwar02" />
-  <key id="10000740" name="猎手" feature="Fieldwar02" />
-  <key id="10000743" name="女王缤大战狂人" feature="Colosseum01" />
-  <key id="10000744" name="女王缤的" feature="Colosseum01" />
-  <key id="10000745" name="永远爱你" feature="Event" />
-  <key id="10000746" name="任务！三二一大师" feature="Event" />
-  <key id="10000747" name="华丽的极致" locale="CN" />
-  <key id="10000750" name="樱花树殿堂" feature="Event" locale="CN" />
-  <key id="10000752" name="特级抵抗军" feature="Fame_Geo01" />
-  <key id="10000753" name="$npcName:11004395$的英雄" feature="Fame_Geo01" />
-  <key id="10000754" name="天才黑客" feature="Fame_Geo01" />
-  <key id="10000756" name="早熟的孩子" feature="Kritias02" />
-  <key id="10000757" name="花花公子" feature="Kritias02" />
-  <key id="10000758" name="单恋者" feature="Kritias02" />
-  <key id="10000760" name="烈日阳光" feature="Event" locale="CN" />
-  <key id="10000761" name="穿越时间的" feature="Event" />
-  <key id="10000763" name="小黄鸭的灵魂伴侣" feature="Event" />
-  <key id="10000765" name="最强兵器" feature="Kritias_Turka01" />
-  <key id="10000766" name="巨神破坏者" feature="Kritias_Turka02" />
-  <key id="10000767" name="人类的希望" feature="Kritias_Turka03" />
-  <key id="10000768" name="人类最强" feature="Kritias_Turka01" />
-  <key id="10000769" name="推倒山的" feature="Kritias_Turka02" />
-  <key id="10000770" name="划破黑暗的" feature="Kritias_Turka03" />
-  <key id="10000772" name="TITLENAME_10000772_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000773" name="TITLENAME_10000773_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000774" name="TITLENAME_10000774_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000775" name="TITLENAME_10000775_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000776" name="TITLENAME_10000776_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000777" name="TITLENAME_10000777_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000778" name="TITLENAME_10000778_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000779" name="TITLENAME_10000779_NAME:[F]JPInstrument" feature="JPInstrument" />
-  <key id="10000780" name="亮闪闪" feature="Event" />
-  <key id="10000781" name="马勒奈的意志" feature="Fame_Geo01" />
-  <key id="10000784" name="马托斯的收集者" locale="CN" />
-  <key id="10000785" name="共度2周年的" feature="Event" locale="CN" />
-  <key id="10000786" name="人工智能" feature="Event" />
-  <key id="10000787" name="咏夜之诗" locale="CN" />
-  <key id="10000788" name="比我更惊吓喵" feature="Event" locale="CN" />
-  <key id="10000789" name="吃饭时惊吓喵" feature="Event" locale="CN" />
-  <key id="10000790" name="杰克南瓜灯" feature="Event" locale="CN" />
-  <key id="10000793" name="暖心新郎" feature="Wedding" />
-  <key id="10000794" name="暖心新娘" feature="Wedding" />
-  <key id="10000795" name="深情新郎" feature="Wedding" />
-  <key id="10000796" name="深情新娘" feature="Wedding" />
-  <key id="10000797" name="深思新郎" feature="Wedding" />
-  <key id="10000798" name="深思新娘" feature="Wedding" />
-  <key id="10000799" name="信誉新郎" feature="Wedding" />
-  <key id="10000800" name="信誉新娘" feature="Wedding" />
-  <key id="10000801" name="阳光新郎" feature="Wedding" />
-  <key id="10000802" name="阳光新娘" feature="Wedding" />
-  <key id="10000803" name="月夜新郎" feature="Wedding" />
-  <key id="10000804" name="月夜新娘" feature="Wedding" />
-  <key id="10000805" name="坚毅新郎" feature="Wedding" />
-  <key id="10000806" name="坚毅新娘" feature="Wedding" />
-  <key id="10000807" name="稳重新郎" feature="Wedding" />
-  <key id="10000808" name="稳重新娘" feature="Wedding" />
-  <key id="10000809" name="祝福新郎" feature="Wedding" />
-  <key id="10000810" name="祝福新娘" feature="Wedding" />
-  <key id="10000811" name="耀眼新郎" feature="Wedding" />
-  <key id="10000812" name="耀眼新娘" feature="Wedding" />
-  <key id="10000813" name="温柔新郎" feature="Wedding" />
-  <key id="10000814" name="温柔新娘" feature="Wedding" />
-  <key id="10000815" name="华丽新郎" feature="Wedding" />
-  <key id="10000816" name="华丽新娘" feature="Wedding" />
-  <key id="10000817" name="捉迷藏达人" feature="Event" locale="CN" />
-  <key id="10000822" name="喜迎2020" feature="Event" locale="CN" />
-  <key id="10000823" name="名花有主" feature="Wedding" />
-  <key id="10000824" name="水滴石穿" feature="Wedding" />
-  <key id="10000825" name="铜墙铁壁" feature="Wedding" />
-  <key id="10000826" name="看热闹的" feature="Wedding" />
-  <key id="10000827" name="一片痴心" feature="Wedding" />
-  <key id="10000828" name="照片中" feature="Wedding" />
-  <key id="10000829" name="幻想中的" feature="Wedding" />
-  <key id="10000830" name="海底" feature="Wedding" />
-  <key id="10000831" name="甜蜜猎手" feature="Wedding" />
-  <key id="10000832" name="婚礼舞者" feature="Wedding" />
-  <key id="10000833" name="回归单身" feature="Wedding" />
-  <key id="10000836" name="黑猫" locale="CN" />
-  <key id="10000837" name="白猫" locale="CN" />
-  <key id="10000838" name="无限力量的" feature="UnlimitedEnchant" />
-  <key id="10000839" name="挚爱" feature="Event" locale="CN" />
-  <key id="10000840" name="爱的丘比特" feature="Event" locale="CN" />
-  <key id="10000841" name="想知道真相的" feature="EpicApocalypse01" />
-  <key id="10000842" name="担忧的" feature="EpicApocalypse01" />
-  <key id="10000843" name="幻影中的流浪者" feature="EpicApocalypse01" />
-  <key id="10000844" name="越线的" feature="EpicApocalypse01" />
-  <key id="10000847" name="眼神游戏王" feature="Event" locale="CN" />
-  <key id="10000848" name="探险专家" />
-  <key id="10000854" name="最佳挑战者" />
+	<key id="0" name="没有称号" />
+	<key id="1" name="{0}" feature="Club" />
+	<key id="2" name="{0}" feature="Club" />
+	<key id="3" name="{0}" feature="Club" />
+	<key id="10000001" name="见习骑士" />
+	<key id="10000002" name="见习狂战士" />
+	<key id="10000003" name="见习魔法师" />
+	<key id="10000004" name="见习牧师" />
+	<key id="10000005" name="见习弓箭手" />
+	<key id="10000006" name="见习重炮手" />
+	<key id="10000007" name="见习侠盗" />
+	<key id="10000008" name="见习刺客" />
+	<key id="10000009" name="骑士大师" />
+	<key id="10000010" name="狂战士大师" />
+	<key id="10000011" name="大魔法师" />
+	<key id="10000012" name="牧师大师" />
+	<key id="10000013" name="弓箭手大师" />
+	<key id="10000014" name="重炮手大师" />
+	<key id="10000015" name="侠盗大师" />
+	<key id="10000016" name="刺客大师" />
+	<key id="10000017" name="不屈意志" />
+	<key id="10000018" name="刺客" />
+	<key id="10000019" name="拥有熊的力量的" />
+	<key id="10000020" name="屠杀者" />
+	<key id="10000021" name="$map:65000001$支配者" />
+	<key id="10000022" name="$map:65000002$支配者" />
+	<key id="10000023" name="这一地区的疯子" />
+	<key id="10000024" name="百战百胜" />
+	<key id="10000025" name="马拉松选手" />
+	<key id="10000026" name="海狗" />
+	<key id="10000027" name="蜘蛛人" />
+	<key id="10000028" name="乌龟" />
+	<key id="10000029" name="堕落天使" />
+	<key id="10000030" name="流浪者" />
+	<key id="10000031" name="飞行家" />
+	<key id="10000032" name="一脚臭汗的" />
+	<key id="10000033" name="啊噗啊噗" />
+	<key id="10000034" name="正在潜水的" />
+	<key id="10000035" name="满手是汗的" />
+	<key id="10000036" name="攀岩高手" />
+	<key id="10000037" name="禁止沮丧" />
+	<key id="10000038" name="摔破膝盖的" />
+	<key id="10000039" name="跳高选手" />
+	<key id="10000040" name="叹气的" />
+	<key id="10000041" name="晕乎乎的" />
+	<key id="10000042" name="吓跑小鸟的" />
+	<key id="10000043" name="讨厌走路的" />
+	<key id="10000044" name="一路畅通的" />
+	<key id="10000045" name="肌肉强壮的" />
+	<key id="10000046" name="探险家" />
+	<key id="10000047" name="观察者" />
+	<key id="10000048" name="寻宝人" />
+	<key id="10000049" name="黄金寻宝人" />
+	<key id="10000050" name="不速之客" />
+	<key id="10000051" name="阿里卡尔旅客" />
+	<key id="10000052" name="冒险岛守护者" />
+	<key id="10000053" name="逃犯" />
+	<key id="10000054" name="迈出第一步的" />
+	<key id="10000055" name="路灯管理员" />
+	<key id="10000056" name="冰冷城市的" />
+	<key id="10000057" name="鲁莽的" />
+	<key id="10000058" name="脚背上起火的" />
+	<key id="10000059" name="比毒液更毒的" />
+	<key id="10000060" name="影子" />
+	<key id="10000061" name="贤者" />
+	<key id="10000062" name="情圣" />
+	<key id="10000063" name="库巴旺卡征服者" />
+	<key id="10000064" name="陨石清洁工" />
+	<key id="10000065" name="攀爬者" />
+	<key id="10000066" name="冒险岛粉丝" />
+	<key id="10000067" name="废人" />
+	<key id="10000068" name="优雅的美食家" />
+	<key id="10000069" name="破坏者" />
+	<key id="10000070" name="真空吸尘器" />
+	<key id="10000071" name="细心的" />
+	<key id="10000072" name="不灭者" />
+	<key id="10000073" name="白衣天使" />
+	<key id="10000074" name="水蛭" />
+	<key id="10000075" name="蹦极迷" />
+	<key id="10000076" name="无翼的" />
+	<key id="10000077" name="自豪的公会成员" />
+	<key id="10000078" name="购物达人" />
+	<key id="10000079" name="购物狂" />
+	<key id="10000080" name="大富豪" />
+	<key id="10000081" name="铁匠" />
+	<key id="10000082" name="纪念品收藏家" />
+	<key id="10000083" name="坐骑收藏家" />
+	<key id="10000084" name="时尚潮人" />
+	<key id="10000085" name="陷阱大师赛之王" />
+	<key id="10000086" name="终极生存赛之王" />
+	<key id="10000087" name="弹弹海滩之王" />
+	<key id="10000088" name="操控之王" />
+	<key id="10000089" name="田径选手" />
+	<key id="10000090" name="初级驾驶员" />
+	<key id="10000091" name="转圈圈的" />
+	<key id="10000092" name="极速车手" />
+	<key id="10000093" name="开拓者" />
+	<key id="10000094" name="轻浮浪子" />
+	<key id="10000095" name="兴致高昂的" />
+	<key id="10000096" name="炮火中的" />
+	<key id="10000097" name="无用之物" />
+	<key id="10000098" name="豪爽的" />
+	<key id="10000099" name="新人" />
+	<key id="10000100" name="毫不留情的" />
+	<key id="10000101" name="不舍昼夜的" />
+	<key id="10000102" name="无畏的" />
+	<key id="10000103" name="公众之敌" />
+	<key id="10000104" name="哭泣的" />
+	<key id="10000105" name="渴望休战的" />
+	<key id="10000106" name="追星者" />
+	<key id="10000107" name="渴望复仇的" />
+	<key id="10000108" name="屈服的" />
+	<key id="10000109" name="天下无敌" />
+	<key id="10000110" name="迷路的" />
+	<key id="10000111" name="木偶人" />
+	<key id="10000112" name="召唤师" />
+	<key id="10000113" name="修理工" />
+	<key id="10000114" name="宅人" />
+	<key id="10000115" name="双面人" />
+	<key id="10000116" name="等待花开" />
+	<key id="10000117" name="侦探" />
+	<key id="10000118" name="像羽毛一样轻的" />
+	<key id="10000119" name="动作明星" />
+	<key id="10000120" name="太帅了" />
+	<key id="10000121" name="大手大脚" />
+	<key id="10000122" name="想要休息的" />
+	<key id="10000123" name="冠军战第1季参加者" />
+	<key id="10000124" name="创造奇迹的" />
+	<key id="10000125" name="健康守护神" />
+	<key id="10000126" name="爽快的" />
+	<key id="10000127" name="香喷喷的" />
+	<key id="10000128" name="替补" />
+	<key id="10000129" name="啦啦队长" />
+	<key id="10000130" name="冠军战贵宾" />
+	<key id="10000131" name="无情的" />
+	<key id="10000132" name="陆战之星" />
+	<key id="10000133" name="孤独的" />
+	<key id="10000134" name="大英雄" />
+	<key id="10000135" name="踏着节奏的" />
+	<key id="10000136" name="被妈妈喊走的" />
+	<key id="10000137" name="心情不错的" />
+	<key id="10000138" name="贪心的" />
+	<key id="10000139" name="后座乘客" />
+	<key id="10000140" name="协助者" />
+	<key id="10000141" name="好朋友" />
+	<key id="10000142" name="多愁善感的" />
+	<key id="10000143" name="搜索者" />
+	<key id="10000144" name="梦想家" />
+	<key id="10000145" name="牧童" />
+	<key id="10000146" name="长角的" />
+	<key id="10000147" name="月影" />
+	<key id="10000148" name="守护者" />
+	<key id="10000149" name="资深专家" />
+	<key id="10000150" name="活化石" />
+	<key id="10000151" name="自封英雄" />
+	<key id="10000152" name="真正的冠军" />
+	<key id="10000153" name="顶级设计师" />
+	<key id="10000154" name="现在是英雄" />
+	<key id="10000155" name="战斗工兵" />
+	<key id="10000156" name="医务兵" />
+	<key id="10000157" name="枫家牧童" />
+	<key id="10000158" name="明星建筑师" />
+	<key id="10000159" name="太好了" />
+	<key id="10000160" name="时间旅行者" />
+	<key id="10000161" name="自讨苦吃的" />
+	<key id="10000162" name="斗士" />
+	<key id="10000163" name="园艺师" />
+	<key id="10000164" name="勇敢的" />
+	<key id="10000165" name="珍宝岛支配者" />
+	<key id="10000166" name="执着的掠夺者" />
+	<key id="10000167" name="偷袭达人" />
+	<key id="10000168" name="归来的" />
+	<key id="10000169" name="100日同在的" />
+	<key id="10000170" name="成就沉迷者" />
+	<key id="10000171" name="成就达人" />
+	<key id="10000172" name="真正的成就狂热者" />
+	<key id="10000173" name="诚实的" />
+	<key id="10000174" name="应接不暇的" />
+	<key id="10000175" name="强力" />
+	<key id="10000176" name="守护城墙的" />
+	<key id="10000177" name="守护天使" />
+	<key id="10000178" name="充满好奇的" />
+	<key id="10000179" name="知识探求者" />
+	<key id="10000180" name="脑袋抽筋的" />
+	<key id="10000181" name="博学多识" />
+	<key id="10000182" name="聪明伶俐" />
+	<key id="10000183" name="百事通" />
+	<key id="10000184" name="谜题大王" />
+	<key id="10000185" name="冒险岛2荣誉记者" />
+	<key id="10000186" name="头晕目眩的" />
+	<key id="10000187" name="哇哦" />
+	<key id="10000188" name="战个痛快" />
+	<key id="10000189" name="扫除黑暗" />
+	<key id="10000190" name="光之战士" />
+	<key id="10000191" name="初级钓手" />
+	<key id="10000192" name="中级钓手" />
+	<key id="10000193" name="高级钓手" />
+	<key id="10000194" name="专业钓手" />
+	<key id="10000195" name="乐师" />
+	<key id="10000196" name="钓鱼王" />
+	<key id="10000197" name="偷心" />
+	<key id="10000198" name="乐队大师" />
+	<key id="10000199" name="噼里啪啦" />
+	<key id="10000200" name="吉他手" />
+	<key id="10000201" name="甜蜜" />
+	<key id="10000202" name="钢琴家" />
+	<key id="10000203" name="啪嗒啪嗒" />
+	<key id="10000204" name="姜太公" />
+	<key id="10000205" name="钓鱼狂人" />
+	<key id="10000206" name="爱尔兰" />
+	<key id="10000207" name="符文之子" />
+	<key id="10000208" name="冒险岛铁粉" />
+	<key id="10000209" name="跑跑卡丁车" />
+	<key id="10000210" name="吹吧风之国" />
+	<key id="10000211" name="突击风暴精英佣兵" />
+	<key id="10000212" name="邪恶征服者" />
+	<key id="10000213" name="融化心灵的" />
+	<key id="10000214" name="单簧管演奏家" />
+	<key id="10000215" name="半个" />
+	<key id="10000216" name="竖琴演奏家" />
+	<key id="10000217" name="咚咚哒" />
+	<key id="10000218" name="打击乐器演奏家" />
+	<key id="10000219" name="旋律悠扬" />
+	<key id="10000220" name="被旋律触电的" />
+	<key id="10000221" name="粗犷的" />
+	<key id="10000222" name="低音乐手" />
+	<key id="10000223" name="咚咚" />
+	<key id="10000224" name="热情的鼓手" />
+	<key id="10000225" name="农夫" />
+	<key id="10000226" name="温暖的" />
+	<key id="10000227" name="透明人" />
+	<key id="10000228" name="机灵的" />
+	<key id="10000229" name="停下！" />
+	<key id="10000230" name="坐得住的" />
+	<key id="10000231" name="善变的" />
+	<key id="10000232" name="冒2情报通讯员" />
+	<key id="10000233" name="胜负师" feature="PvPRankingDuelMode" />
+	<key id="10000234" name="冠军" feature="PvPRankingDuelMode" />
+	<key id="10000235" name="总冠军" feature="PvPRankingDuelMode" />
+	<key id="10000236" name="疯狂的" />
+	<key id="10000237" name="小提琴家" />
+	<key id="10000238" name="了不起" />
+	<key id="10000239" name="大提琴家" />
+	<key id="10000240" name="清纯的" />
+	<key id="10000241" name="排箫演奏家" />
+	<key id="10000242" name="先驱者" />
+	<key id="10000243" name="特别的" />
+	<key id="10000244" name="师父的爱徒" />
+	<key id="10000245" name="星光远征队" />
+	<key id="10000246" name="冒险岛数据之星" />
+	<key id="10000247" name="呼噜噜" />
+	<key id="10000248" name="公会的工人" />
+	<key id="10000249" name="闪闪发光" />
+	<key id="10000250" name="星星" />
+	<key id="10000251" name="归巢本能" />
+	<key id="10000252" name="周边DIY明星设计师" />
+	<key id="10000253" name="明星冒险家" />
+	<key id="10000254" name="饱含感情的" />
+	<key id="10000255" name="萨克斯管吹奏者" />
+	<key id="10000256" name="布布布布" />
+	<key id="10000257" name="长号手" />
+	<key id="10000258" name="儿童乐队" />
+	<key id="10000259" name="小号手" />
+	<key id="10000260" name="影子远征队员" feature="ShadowExpedition" />
+	<key id="10000261" name="寻路的" feature="ShrineOfGuidance" />
+	<key id="10000262" name="清澈的" />
+	<key id="10000263" name="陶笛演奏者" />
+	<key id="10000264" name="安稳的" />
+	<key id="10000265" name="原声贝斯演奏者" />
+	<key id="10000266" name="两面讨好者" />
+	<key id="10000267" name="电颤琴演奏者" />
+	<key id="10000268" name="轻快的" />
+	<key id="10000269" name="电子琴演奏家" />
+	<key id="10000270" name="备受瞩目的" />
+	<key id="10000271" name="皮克贝斯演奏者" />
+	<key id="10000272" name="满满的" />
+	<key id="10000273" name="钢鼓演奏者" />
+	<key id="10000274" name="初级矿工" />
+	<key id="10000275" name="中级矿工" />
+	<key id="10000276" name="高级矿工" />
+	<key id="10000277" name="专业矿工" />
+	<key id="10000278" name="初级饲养员" />
+	<key id="10000279" name="中级饲养员" />
+	<key id="10000280" name="高级饲养员" />
+	<key id="10000281" name="专业饲养员" />
+	<key id="10000282" name="初级铁匠" />
+	<key id="10000283" name="中级铁匠" />
+	<key id="10000284" name="高级铁匠" />
+	<key id="10000285" name="专业铁匠" />
+	<key id="10000286" name="初级工匠" />
+	<key id="10000287" name="中级工匠" />
+	<key id="10000288" name="高级工匠" />
+	<key id="10000289" name="专业工匠" />
+	<key id="10000290" name="永无止境的" />
+	<key id="10000291" name="宅在家的" />
+	<key id="10000292" name="外面太危险" />
+	<key id="10000293" name="单身狗" />
+	<key id="10000294" name="搬家啦" />
+	<key id="10000295" name="寻找室友" />
+	<key id="10000296" name="探险王" />
+	<key id="10000297" name="创造旋律的" />
+	<key id="10000298" name="双簧管吹奏者" />
+	<key id="10000299" name="弹弦的" />
+	<key id="10000300" name="拨奏大师" />
+	<key id="10000301" name="纤细的" />
+	<key id="10000302" name="大键琴演奏者" />
+	<key id="10000303" name="初级采药人" />
+	<key id="10000304" name="中级采药人" />
+	<key id="10000305" name="高级采药人" />
+	<key id="10000306" name="专业采药人" />
+	<key id="10000307" name="初级农夫" />
+	<key id="10000308" name="中级农夫" />
+	<key id="10000309" name="高级农夫" />
+	<key id="10000310" name="专业农夫" />
+	<key id="10000311" name="初级炼金术士" />
+	<key id="10000312" name="中级炼金术士" />
+	<key id="10000313" name="高级炼金术士" />
+	<key id="10000314" name="专业炼金术士" />
+	<key id="10000315" name="初级厨师" />
+	<key id="10000316" name="中级厨师" />
+	<key id="10000317" name="高级厨师" />
+	<key id="10000318" name="专业厨师" />
+	<key id="10000319" name="让暴风雪平息的" feature="SnowKingdom" />
+	<key id="10000320" name="堕落的" feature="SnowKingdom" />
+	<key id="10000321" name="神秘大海的" feature="PirateOcean" />
+	<key id="10000322" name="沾染上枫叶色彩的英雄" locale="CN" />
+	<key id="10000323" name="心悦 1级" locale="CN" />
+	<key id="10000324" name="心悦 2级" locale="CN" />
+	<key id="10000325" name="心悦 3级" locale="CN" />
+	<key id="10000326" name="一箭双雕" feature="DarkCastle" />
+	<key id="10000327" name="可怕的" feature="DarkCastle" />
+	<key id="10000328" name="逆袭之" feature="DarkCastle" />
+	<key id="10000329" name="甜蜜的" />
+	<key id="10000330" name="谜题真有趣" />
+	<key id="10000331" name="扎昆征服者" feature="Zakum01" />
+	<key id="10000332" name="造梦者" locale="CN" />
+	<key id="10000333" name="杰出音乐成就乐队" locale="CN" />
+	<key id="10000334" name="终测住宅募集家" locale="CN" />
+	<key id="10000335" name="终测服装设计募集家" locale="CN" />
+	<key id="10000336" name="英雄" />
+	<key id="10000337" name="超级英雄" />
+	<key id="10000338" name="最初的骑士" />
+	<key id="10000339" name="最后的骑士" />
+	<key id="10000341" name="2岁冒险岛宝宝" />
+	<key id="10000342" name="初级驯兽师" feature="PetBattle" />
+	<key id="10000343" name="中级驯兽师" feature="Develop" />
+	<key id="10000344" name="高级驯兽师" feature="Develop" />
+	<key id="10000345" name="我们都是好朋友" feature="PetBattle" />
+	<key id="10000350" name="粉红鲑鱼" feature="PinkBean01" />
+	<key id="10000351" name="叮咚叮咚" />
+	<key id="10000352" name="木琴演奏家" />
+	<key id="10000353" name="稍微吃过些玉米的" />
+	<key id="10000354" name="口琴大师" />
+	<key id="10000355" name="终极测试扎昆征服者" locale="CN" />
+	<key id="10000356" name="一个民族" />
+	<key id="10000357" name="No 1" />
+	<key id="10000358" name="No1 Wizard" />
+	<key id="10000359" name="No1 Assasin" />
+	<key id="10000360" name="初出茅庐的" />
+	<key id="10000361" name="你与我的" />
+	<key id="10000362" name="至尊会员" />
+	<key id="10000363" name="Captain" />
+	<key id="10000364" name="与$npc:11003471$相伴的" locale="CN" />
+	<key id="10000365" name="垂涎蘑菇币的" />
+	<key id="10000366" name="WeGame" locale="CN" />
+	<key id="10000367" name="常温动物" feature="GuildRaid01" />
+	<key id="10000368" name="超级野心家" feature="GuildRaid01" />
+	<key id="10000369" name="牛仔" feature="GuildRaid01" />
+	<key id="10000370" name="肉肉征服者" feature="GuildRaid01" />
+	<key id="10000371" name="嘭嘭" />
+	<key id="10000372" name="蘑菇币富翁" />
+	<key id="10000373" name="完成己任的" feature="GuildRaid01" />
+	<key id="10000374" name="蛋蛋富翁" feature="GuildRaid01" />
+	<key id="10000375" name="谨慎的" feature="GuildRaid01" />
+	<key id="10000376" name="厂长" feature="GuildRaid01" />
+	<key id="10000377" name="七色光" feature="GuildRaid01" />
+	<key id="10000378" name="以一当十的传奇" feature="GuildRaid01" />
+	<key id="10000379" name="尝试进阶的" feature="ItemMerge" />
+	<key id="10000380" name="进阶者" feature="ItemMerge" />
+	<key id="10000381" name="疯狂进阶" feature="ItemMerge" />
+	<key id="10000382" name="春季S2" />
+	<key id="10000383" name="ONE TOP " />
+	<key id="10000384" name="BOSS" />
+	<key id="10000385" name="男神" />
+	<key id="10000386" name="同胞" />
+	<key id="10000387" name="枫迷" />
+	<key id="10000388" name="zl区x刺客v" />
+	<key id="10000389" name="1st" />
+	<key id="10000390" name="ASSASSIN" />
+	<key id="10000391" name="首届黑马" locale="CN" />
+	<key id="10000392" name="魔都酷跑之王" feature="MassiveCrazyRunnersShanghai" locale="CN" />
+	<key id="10000393" name="资深冒险家" feature="Mentoring" />
+	<key id="10000394" name="首位扎昆征服者" locale="CN" />
+	<key id="10000395" name="一片丹心" feature="PetRemake01" />
+	<key id="10000396" name="甜咸甜咸" />
+	<key id="10000397" name="最后的防线 深红炎魔猎人" />
+	<key id="10000398" name="地狱君主最后的防线" />
+	<key id="10000399" name="交给我吧" feature="FameContents" />
+	<key id="10000400" name="浮起的" feature="FameContents" />
+	<key id="10000401" name="获得信任的" feature="FameContents" />
+	<key id="10000402" name="新英雄" feature="FameContents" />
+	<key id="10000403" name="传说之" feature="FameContents02" />
+	<key id="10000404" name="不可侵犯的" feature="FameContents02" />
+	<key id="10000405" name="联盟指挥官" feature="FameContents" />
+	<key id="10000406" name="特莱雅之盾" feature="FameContents" />
+	<key id="10000407" name="黑风之影" feature="FameContents" />
+	<key id="10000408" name="警卫队金色箭矢" feature="FameContents" />
+	<key id="10000409" name="名誉神官骑士" feature="FameContents" />
+	<key id="10000410" name="天空堡垒舰队队员" feature="FameContents" />
+	<key id="10000411" name="康达尔特攻队" feature="FameContents" />
+	<key id="10000412" name="夜舞的小猫" feature="FameContents" />
+	<key id="10000413" name="奈林的问题解决专家" feature="FameContents" />
+	<key id="10000414" name="梅森的守护骑士" feature="FameContents" />
+	<key id="10000415" name="D级任务专员" feature="FameContents" />
+	<key id="10000416" name="C级应急组" feature="FameContents" />
+	<key id="10000417" name="B级作战指挥官" feature="FameContents" />
+	<key id="10000418" name="A级机动队员" feature="FameContents" />
+	<key id="10000419" name="S级战术专家" feature="FameContents" />
+	<key id="10000420" name="野战指挥官" feature="FameContents" />
+	<key id="10000421" name="捐赠天使" feature="FameContents" />
+	<key id="10000422" name="联盟的守护者" feature="FameContents" />
+	<key id="10000423" name="春之使者" />
+	<key id="10000424" name="又甜又咸" locale="CN" />
+	<key id="10000425" name="甜蜜的" locale="CN" />
+	<key id="10000426" name="下届舰长" feature="FameChallengeDungeon" />
+	<key id="10000427" name="新任近卫部长" feature="FameChallengeDungeon" />
+	<key id="10000428" name="网络英雄" feature="FameChallengeDungeon" />
+	<key id="10000429" name="制造命运的" feature="FameChallengeDungeon" />
+	<key id="10000430" name="影风特工队" feature="FameChallengeDungeon" />
+	<key id="10000431" name="石头剪刀布KING" locale="CN" />
+	<key id="10000432" name="舰队的王牌" feature="FameChallengeDungeon" />
+	<key id="10000433" name="最黑暗的阴影" feature="FameChallengeDungeon" />
+	<key id="10000434" name="受人认可的" feature="FameChallengeDungeon" />
+	<key id="10000435" name="紧张作弊者" feature="FameChallengeDungeon" />
+	<key id="10000436" name="叮铃当啷" feature="FameChallengeDungeon" />
+	<key id="10000437" name="甜美" />
+	<key id="10000438" name="单身光荣" locale="CN" />
+	<key id="10000439" name="相爱万岁" locale="CN" />
+	<key id="10000440" name="甜美" locale="CN" />
+	<key id="10000441" name="黑暗乐器收藏家" feature="Season1" />
+	<key id="10000442" name="樱花树的主人" />
+	<key id="10000443" name="一起度过1000天的" />
+	<key id="10000444" name="粉丝艺术家" />
+	<key id="10000445" name="今日好友" />
+	<key id="10000446" name="逆风的" feature="SurvivalContents01" />
+	<key id="10000447" name="和平象征" feature="SurvivalContents01" />
+	<key id="10000448" name="$item:20000733$爱好者" feature="SurvivalContents01" />
+	<key id="10000449" name="$item:20000737$爱好者" feature="SurvivalContents01" />
+	<key id="10000450" name="$item:20000902$爱好者" feature="SurvivalContents01" />
+	<key id="10000451" name="$item:20000743$爱好者" feature="SurvivalContents01" />
+	<key id="10000452" name="$item:20000906$爱好者" feature="SurvivalContents01" />
+	<key id="10000453" name="$item:20000897$爱好者" feature="SurvivalContents01" />
+	<key id="10000454" name="$item:20000898$爱好者" feature="SurvivalContents01" />
+	<key id="10000455" name="$item:20000899$爱好者" feature="SurvivalContents01" />
+	<key id="10000456" name="我是盖世无双的" feature="SurvivalContents01" />
+	<key id="10000457" name="全能" feature="SurvivalContents01" />
+	<key id="10000458" name="无情的" feature="SurvivalContents01" />
+	<key id="10000459" name="获得蘑菇大王宠爱的" feature="SurvivalContents01" />
+	<key id="10000460" name="吹竖笛吧" />
+	<key id="10000461" name="竖笛大师" />
+	<key id="10000462" name="发光的钢片琴" />
+	<key id="10000463" name="钢片琴大师" />
+	<key id="10000464" name="涂抹面霜" feature="WorldChampionMushroom" />
+	<key id="10000465" name="刚转职的" feature="JobChange_01" />
+	<key id="10000466" name="彩虹水灵的好友" />
+	<key id="10000467" name="彩虹水灵饲养员" />
+	<key id="10000468" name="最初的转职" feature="JobChange_01" />
+	<key id="10000478" name="反击之" feature="ChronicleDungeon60_01" />
+	<key id="10000479" name="黑化的" feature="ChronicleDungeon60_01" />
+	<key id="10000480" name="均衡摄入的" feature="ChronicleDungeon60_01" />
+	<key id="10000485" name="美丽汪洋之" feature="ChronicleDungeon60_01" />
+	<key id="10000486" name="战胜暴风雪的" feature="ChronicleDungeon60_01" />
+	<key id="10000487" name="阴森的" feature="ChronicleDungeon60_01" />
+	<key id="10000488" name="一举两得" feature="ChronicleDungeon60_01" />
+	<key id="10000489" name="阳光" locale="CN" />
+	<key id="10000490" name="守护你的" feature="JobChange_01" />
+	<key id="10000491" name="砂锅" feature="JobChange_01" />
+	<key id="10000492" name="冷静与热情之间" feature="JobChange_01" />
+	<key id="10000493" name="高压" feature="JobChange_01" />
+	<key id="10000494" name="可怕的眼神" feature="JobChange_01" />
+	<key id="10000495" name="超级级级级级级级" feature="JobChange_01" />
+	<key id="10000496" name="幽灵" feature="JobChange_01" />
+	<key id="10000497" name="影子的影子" feature="JobChange_01" />
+	<key id="10000498" name="不可思议的" feature="JobChange_01" />
+	<key id="10000499" name="胸口重击" feature="JobChange_01" />
+	<key id="10000500" name="神秘主义者" feature="JobChange_01" />
+	<key id="10000501" name="汉字收集家" />
+	<key id="10000502" name="滚烫" />
+	<key id="10000504" name="豪华热销礼包购买人" locale="CN" />
+	<key id="10000505" name="尊享热销礼包购买人" locale="CN" />
+	<key id="10000506" name="尊贵热销礼包购买人" locale="CN" />
+	<key id="10000507" name="尊贵热销礼包购买人" locale="CN" />
+	<key id="10000508" name="TITLENAME_10000508_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000509" name="TITLENAME_10000509_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000510" name="爱情使者" />
+	<key id="10000511" name="太初的人们" feature="SurvivalContents01" />
+	<key id="10000512" name="击败伊修罗的" />
+	<key id="10000513" name="击败兰比斯的" />
+	<key id="10000514" name="击败菲莉雅的" />
+	<key id="10000515" name="TITLENAME_10000515_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000516" name="TITLENAME_10000516_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000517" name="TITLENAME_10000517_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000518" name="TITLENAME_10000518_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000519" name="TITLENAME_10000519_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000520" name="TITLENAME_10000520_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000521" name="TITLENAME_10000521_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000522" name="TITLENAME_10000522_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000523" name="TITLENAME_10000523_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000524" name="TITLENAME_10000524_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000525" name="TITLENAME_10000525_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000526" name="TITLENAME_10000526_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000527" name="TITLENAME_10000527_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000528" name="护卫" feature="LapentaDungeon" />
+	<key id="10000529" name="变化无常的" feature="LapentaDungeon" />
+	<key id="10000530" name="颠倒日夜" feature="LapentaDungeon" />
+	<key id="10000531" name="闪闪发光的豹" feature="LapentaDungeon" />
+	<key id="10000532" name="黑色不死鸟" feature="LapentaDungeon" />
+	<key id="10000533" name="TITLENAME_10000533_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000534" name="TITLENAME_10000534_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000535" name="TITLENAME_10000535_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000536" name="TITLENAME_10000536_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000537" name="与乔迪相伴" />
+	<key id="10000538" name="TITLENAME_10000538_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000539" name="TITLENAME_10000539_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="10000540" name="月光" />
+	<key id="10000540" name="圆月之光" locale="CN" />
+	<key id="10000541" name="秋之祝福力量" locale="CN" />
+	<key id="10000544" name="一闪一闪亮晶晶" feature="WorldChampionMushroom" />
+	<key id="10000545" name="为吃而生" feature="WorldChampionMushroom" />
+	<key id="10000546" name="减肥中" feature="WorldChampionMushroom" />
+	<key id="10000547" name="雕像一般" feature="WorldChampionMushroom" />
+	<key id="10000548" name="会玩的" feature="WorldChampionMushroom" />
+	<key id="10000549" name="闷闷不乐的" feature="WorldChampionMushroom" />
+	<key id="10000550" name="柔软玩具熊" feature="WorldChampionMushroom" />
+	<key id="10000551" name="最喜欢猫了！" feature="WorldChampionMushroom" />
+	<key id="10000552" name="完美的" feature="WorldChampionMushroom" />
+	<key id="10000553" name="七色彩虹" feature="WorldChampionMushroom" />
+	<key id="10000554" name="怪杰" feature="WorldChampionMushroom" />
+	<key id="10000555" name="舞林之王" feature="WorldChampionMushroom" />
+	<key id="10000556" name="明朗的" feature="WorldChampionMushroom" />
+	<key id="10000557" name="富翁" feature="WorldChampionMushroom" />
+	<key id="10000558" name="常胜" feature="WorldChampionMushroom" />
+	<key id="10000559" name="孤独的" feature="WorldChampionMushroom" />
+	<key id="10000560" name="救命！" feature="WorldChampionMushroom" />
+	<key id="10000561" name="衣服架子" feature="WorldChampionMushroom" />
+	<key id="10000562" name="软绵绵" feature="WorldChampionMushroom" />
+	<key id="10000563" name="体弱多病" feature="WorldChampionMushroom" />
+	<key id="10000564" name="欢乐的庆典" locale="CN" />
+	<key id="10000565" name="共度1周年的" locale="CN" />
+	<key id="10000572" name="小南瓜的朋友" />
+	<key id="10000573" name="小南瓜饲养员" />
+	<key id="10000574" name="时间支配者" locale="CN" />
+	<key id="10000575" name="渔夫" feature="Fishing02" />
+	<key id="10000576" name="钓过鱼的" feature="Fishing02" />
+	<key id="10000577" name="虚张声势的" feature="Fishing02" />
+	<key id="10000578" name="鱼大王" feature="Fishing02" />
+	<key id="10000579" name="悠然自得" feature="Fishing02" />
+	<key id="10000580" name="扑空的" feature="Fishing02" />
+	<key id="10000581" name="人鱼" feature="Fishing02" />
+	<key id="10000582" name="喜爱大海的" feature="Fishing02" />
+	<key id="10000583" name="有毒的" feature="Fishing02" />
+	<key id="10000584" name="油腻的" feature="Fishing02" />
+	<key id="10000585" name="瘦弱的" feature="Fishing02" />
+	<key id="10000586" name="热情的钓手" feature="Fishing02" />
+	<key id="10000587" name="蓝天之下" feature="Fishing02" />
+	<key id="10000588" name="迟钝的" feature="Fishing02" />
+	<key id="10000589" name="追随大鱼的" feature="Fishing02" />
+	<key id="10000590" name="坚韧堪比钓鱼线的" feature="Fishing02" />
+	<key id="10000591" name="海产品杀手" feature="Fishing02" />
+	<key id="10000592" name="隐居高手" feature="Fishing02" />
+	<key id="10000593" name="想当钓鱼王的" feature="Fishing02" />
+	<key id="10000594" name="鱼痴" feature="Fishing02" />
+	<key id="10000595" name="枫树的主人" />
+	<key id="10000596" name="咚咚" feature="DrumInstrument" />
+	<key id="10000597" name="大鼓达人" feature="DrumInstrument" />
+	<key id="10000598" name="敲鼓的" feature="DrumInstrument" />
+	<key id="10000599" name="小鼓大师" feature="DrumInstrument" />
+	<key id="10000600" name="铮铮" feature="DrumInstrument" />
+	<key id="10000601" name="铙钹演奏家" feature="DrumInstrument" />
+	<key id="10000602" name="职业钓手" feature="Fishing02" />
+	<key id="10000603" name="冠军钓手" feature="Fishing02" />
+	<key id="10000604" name="克里蒂亚斯钓手" feature="Fishing02" />
+	<key id="10000605" name="克里蒂亚斯鱼类博士" feature="Fishing02" />
+	<key id="10000606" name="呜呜" feature="Fishing02" />
+	<key id="10000607" name="嘤嘤" feature="Fishing02" />
+	<key id="10000608" name="美味海产品" feature="Fishing" />
+	<key id="10000609" name="喜欢钓鱼的" feature="Fishing02" />
+	<key id="10000610" name="天使志愿生" feature="Fishing02" />
+	<key id="10000611" name="蓝色天使" feature="Fishing02" />
+	<key id="10000612" name="游泳健将" feature="Fishing02" />
+	<key id="10000613" name="美貌如花的" feature="Fishing02" />
+	<key id="10000614" name="果冻环" feature="Fishing02" />
+	<key id="10000615" name="充满活力的" feature="Fishing02" />
+	<key id="10000616" name="疑似机械的" feature="Fishing02" />
+	<key id="10000617" name="害羞" feature="Fishing02" />
+	<key id="10000618" name="享受钓鱼乐趣的" feature="Fishing02" />
+	<key id="10000619" name="透明的" feature="Fishing02" />
+	<key id="10000620" name="颜色绮丽" feature="Fishing02" />
+	<key id="10000621" name="轻盈飘逸" feature="Fishing02" />
+	<key id="10000622" name="耀眼钓手" feature="Fishing02" />
+	<key id="10000623" name="如宝石般闪耀的" feature="Fishing02" />
+	<key id="10000624" name="危险鱼类捕手" feature="Fishing02" />
+	<key id="10000625" name="饱经沧桑的" feature="Fishing02" />
+	<key id="10000626" name="古城的主人" feature="Fishing02" />
+	<key id="10000627" name="勇敢钓手" feature="Fishing02" />
+	<key id="10000630" name="翡翠" feature="Fishing02" />
+	<key id="10000631" name="混淆的" feature="Fishing02" />
+	<key id="10000633" name="弓鱼专家" feature="Fishing02" />
+	<key id="10000635" name="美丽又危险的" feature="Fishing02" />
+	<key id="10000636" name="时尚钓手" feature="Fishing02" />
+	<key id="10000637" name="火鸡料理师" />
+	<key id="10000638" name="操纵危险力量的" feature="Lapenshard01" />
+	<key id="10000639" name="今日圣诞老人" />
+	<key id="10000641" name="石头剪刀布达人" locale="CN" />
+	<key id="10000644" name="拥有神秘力量的" />
+	<key id="10000645" name="小猪包厨师" />
+	<key id="10000646" name="幸运福猪" />
+	<key id="10000647" name="幸运儿" />
+	<key id="10000648" name="甜甜甜" />
+	<key id="10000649" name="打起精神来！" feature="LapentaDungeon" />
+	<key id="10000650" name="伊修罗的" feature="LapentaDungeon" />
+	<key id="10000651" name="神圣" feature="JobChange_02" />
+	<key id="10000652" name="血腥" feature="JobChange_02" />
+	<key id="10000653" name="魔幻" feature="JobChange_02" />
+	<key id="10000654" name="高阶" feature="JobChange_02" />
+	<key id="10000655" name="敏锐" feature="JobChange_02" />
+	<key id="10000656" name="亢奋" feature="JobChange_02" />
+	<key id="10000657" name="幽灵" feature="JobChange_02" />
+	<key id="10000658" name="阴影世界" feature="JobChange_02" />
+	<key id="10000659" name="神秘" feature="JobChange_02" />
+	<key id="10000660" name="终极" feature="JobChange_02" />
+	<key id="10000661" name="玄幻" feature="JobChange_02" />
+	<key id="10000662" name="光明守护者" feature="Kritias_2018_12" />
+	<key id="10000663" name="大家的英雄" feature="Kritias_2018_12" />
+	<key id="10000664" name="热爱环境的" feature="Kritias_2018_12" />
+	<key id="10000665" name="平息不灭的" feature="Kritias_Balrog01" />
+	<key id="10000666" name="战胜黑暗的" feature="Kritias_Paika01" />
+	<key id="10000667" name="必灭者" feature="Kritias_Balrog01" />
+	<key id="10000668" name="闪耀的" feature="Kritias_Paika01" />
+	<key id="10000669" name="治虫" feature="Fieldwar01" />
+	<key id="10000670" name="有出息的" feature="Fieldwar01" />
+	<key id="10000671" name="无情的" feature="Fieldwar01" />
+	<key id="10000672" name="军团长" feature="Fieldwar01" />
+	<key id="10000673" name="新大陆，新觉悟" feature="Kritias_2018_12" />
+	<key id="10000674" name="克里蒂亚斯的晨星" feature="Kritias_2018_12" />
+	<key id="10000675" name="克里蒂亚斯的希望" feature="Kritias_2018_12" />
+	<key id="10000676" name="克里蒂亚斯的英雄" feature="Kritias_2018_12" />
+	<key id="10000677" name="克里蒂亚斯特务队特级勇士" feature="Kritias_2018_12" />
+	<key id="10000678" name="克里蒂亚斯调查队首席队员" feature="Kritias_2018_12" />
+	<key id="10000679" name="克里蒂亚斯考察队神官骑士" feature="Kritias_2018_12" />
+	<key id="10000680" name="克里蒂亚斯D级任务专员" feature="Kritias_2018_12" />
+	<key id="10000681" name="克里蒂亚斯C级应急组" feature="Kritias_2018_12" />
+	<key id="10000682" name="克里蒂亚斯B级作战指挥官" feature="Kritias_2018_12" />
+	<key id="10000683" name="克里蒂亚斯A级机动队员" feature="Kritias_2018_12" />
+	<key id="10000684" name="克里蒂亚斯S级战术专家" feature="Kritias_2018_12" />
+	<key id="10000685" name="同盟的守护者" feature="Kritias_Inferno01" />
+	<key id="10000686" name="窃取日记本的" feature="Kritias_2018_12" />
+	<key id="10000687" name="恶魔之树伐木工" feature="Kritias_Zakum01" />
+	<key id="10000688" name="守护克里蒂亚斯的英雄" feature="Kritias_2018_12" />
+	<key id="10000690" name="布里切的猫" feature="Kritias_2018_12" />
+	<key id="10000691" name="梅森的白炎龙" feature="Kritias_2018_12" />
+	<key id="10000692" name="奈林的小可爱" feature="Kritias_2018_12" />
+	<key id="10000693" name="[专属]为了完美模拟！" feature="Kritias_2018_12" />
+	<key id="10000694" name="召唤术士" feature="Gigantica01" />
+	<key id="10000695" name="飞行员" feature="Gigantica01" />
+	<key id="10000696" name="炮兵" feature="Kritias_Balrog01" />
+	<key id="10000697" name="机器人猎手" feature="Gigantica01" />
+	<key id="10000698" name="破坏王" feature="Gigantica01" />
+	<key id="10000699" name="季提卡的主人" feature="Gigantica01" />
+	<key id="10000700" name="塔兰机器人发烧友" feature="Pet_70Lv_Taming" />
+	<key id="10000701" name="机器人" feature="Pet_70Lv_Taming" />
+	<key id="10000702" name="恐龙饲养员" feature="Pet_70Lv_Taming" />
+	<key id="10000703" name="克里蒂亚斯原住民" feature="Pet_70Lv_Taming" />
+	<key id="10000704" name="克里蒂亚斯昆虫学者" feature="Pet_70Lv_Taming" />
+	<key id="10000705" name="警犬的主人" feature="Kritias_2018_12" />
+	<key id="10000706" name="被黑暗吞噬的" feature="Kritias_2018_12" />
+	<key id="10000707" name="洞穴探险家" feature="Kritias_2018_12" />
+	<key id="10000708" name="捧花的冒险家" feature="Kritias_2018_12" />
+	<key id="10000709" name="江湖骗子" feature="Kritias_2018_12" />
+	<key id="10000710" name="我勒个擦" feature="Kritias_2018_12" />
+	<key id="10000711" name="贫困的冒险家" feature="Kritias_2018_12" />
+	<key id="10000712" name="红蔷薇花" locale="CN" />
+	<key id="10000713" name="黄蔷薇花" locale="CN" />
+	<key id="10000714" name="驱魔师" feature="Kritias_Zakum01" />
+	<key id="10000715" name="古代的" feature="Kritias_Inferno01" />
+	<key id="10000716" name="樵夫" feature="Kritias_Zakum01" />
+	<key id="10000717" name="一击必杀" feature="Kritias_Inferno01" />
+	<key id="10000718" name="厉害的朋友" feature="PetEvolution01" />
+	<key id="10000719" name="期待培养" feature="PetEvolution01" />
+	<key id="10000720" name="紫色" feature="PetEvolution01" />
+	<key id="10000721" name="金灿灿的" feature="PetEvolution01" />
+	<key id="10000722" name="嗨哟！嗨哟！" feature="PetEvolution01" />
+	<key id="10000723" name="加油！" feature="PetEvolution01" />
+	<key id="10000724" name="精英" feature="PetEvolution01" />
+	<key id="10000725" name="换乘中" feature="Pet_70Lv" />
+	<key id="10000726" name="制造传说的" feature="Pet_70Lv" />
+	<key id="10000727" name="包揽一切的" feature="PetEvolution01" />
+	<key id="10000728" name="进化的" feature="PetEvolution01" />
+	<key id="10000729" name="奋斗派" feature="PetEvolution01" />
+	<key id="10000730" name="传说收藏家" feature="Pet_70Lv" />
+	<key id="10000731" name="樱花之歌" locale="CN" />
+	<key id="10000733" name="百战百胜的" feature="Event" />
+	<key id="10000734" name="读心的" feature="Event" />
+	<key id="10000735" name="故意输的" feature="Event" />
+	<key id="10000736" name="今日搭档" feature="Event" />
+	<key id="10000737" name="实在的" feature="Fieldwar02" />
+	<key id="10000738" name="身手敏捷的" feature="Fieldwar02" />
+	<key id="10000739" name="踢罐子的" feature="Fieldwar02" />
+	<key id="10000740" name="猎手" feature="Fieldwar02" />
+	<key id="10000743" name="女王缤大战狂人" feature="Colosseum01" />
+	<key id="10000744" name="女王缤的" feature="Colosseum01" />
+	<key id="10000745" name="永远爱你" feature="Event" />
+	<key id="10000746" name="任务！三二一大师" feature="Event" />
+	<key id="10000747" name="华丽的极致" locale="CN" />
+	<key id="10000750" name="樱花树殿堂" feature="Event" locale="CN" />
+	<key id="10000752" name="特级抵抗军" feature="Fame_Geo01" />
+	<key id="10000753" name="$npcName:11004395$的英雄" feature="Fame_Geo01" />
+	<key id="10000754" name="天才黑客" feature="Fame_Geo01" />
+	<key id="10000756" name="早熟的孩子" feature="Kritias02" />
+	<key id="10000757" name="花花公子" feature="Kritias02" />
+	<key id="10000758" name="单恋者" feature="Kritias02" />
+	<key id="10000760" name="烈日阳光" feature="Event" locale="CN" />
+	<key id="10000761" name="穿越时间的" feature="Event" />
+	<key id="10000763" name="小黄鸭的灵魂伴侣" feature="Event" />
+	<key id="10000765" name="最强兵器" feature="Kritias_Turka01" />
+	<key id="10000766" name="巨神破坏者" feature="Kritias_Turka02" />
+	<key id="10000767" name="人类的希望" feature="Kritias_Turka03" />
+	<key id="10000768" name="人类最强" feature="Kritias_Turka01" />
+	<key id="10000769" name="推倒山的" feature="Kritias_Turka02" />
+	<key id="10000770" name="划破黑暗的" feature="Kritias_Turka03" />
+	<key id="10000772" name="TITLENAME_10000772_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000773" name="TITLENAME_10000773_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000774" name="TITLENAME_10000774_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000775" name="TITLENAME_10000775_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000776" name="TITLENAME_10000776_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000777" name="TITLENAME_10000777_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000778" name="TITLENAME_10000778_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000779" name="TITLENAME_10000779_NAME:[F]JPInstrument" feature="JPInstrument" />
+	<key id="10000780" name="亮闪闪" feature="Event" />
+	<key id="10000781" name="马勒奈的意志" feature="Fame_Geo01" />
+	<key id="10000784" name="马托斯的收集者" locale="CN" />
+	<key id="10000785" name="共度2周年的" feature="Event" locale="CN" />
+	<key id="10000786" name="人工智能" feature="Event" />
+	<key id="10000787" name="咏夜之诗" locale="CN" />
+	<key id="10000788" name="比我更惊吓喵" feature="Event" locale="CN" />
+	<key id="10000789" name="吃饭时惊吓喵" feature="Event" locale="CN" />
+	<key id="10000790" name="杰克南瓜灯" feature="Event" locale="CN" />
+	<key id="10000793" name="暖心新郎" feature="Wedding" />
+	<key id="10000794" name="暖心新娘" feature="Wedding" />
+	<key id="10000795" name="深情新郎" feature="Wedding" />
+	<key id="10000796" name="深情新娘" feature="Wedding" />
+	<key id="10000797" name="深思新郎" feature="Wedding" />
+	<key id="10000798" name="深思新娘" feature="Wedding" />
+	<key id="10000799" name="信誉新郎" feature="Wedding" />
+	<key id="10000800" name="信誉新娘" feature="Wedding" />
+	<key id="10000801" name="阳光新郎" feature="Wedding" />
+	<key id="10000802" name="阳光新娘" feature="Wedding" />
+	<key id="10000803" name="月夜新郎" feature="Wedding" />
+	<key id="10000804" name="月夜新娘" feature="Wedding" />
+	<key id="10000805" name="坚毅新郎" feature="Wedding" />
+	<key id="10000806" name="坚毅新娘" feature="Wedding" />
+	<key id="10000807" name="稳重新郎" feature="Wedding" />
+	<key id="10000808" name="稳重新娘" feature="Wedding" />
+	<key id="10000809" name="祝福新郎" feature="Wedding" />
+	<key id="10000810" name="祝福新娘" feature="Wedding" />
+	<key id="10000811" name="耀眼新郎" feature="Wedding" />
+	<key id="10000812" name="耀眼新娘" feature="Wedding" />
+	<key id="10000813" name="温柔新郎" feature="Wedding" />
+	<key id="10000814" name="温柔新娘" feature="Wedding" />
+	<key id="10000815" name="华丽新郎" feature="Wedding" />
+	<key id="10000816" name="华丽新娘" feature="Wedding" />
+	<key id="10000817" name="捉迷藏达人" feature="Event" locale="CN" />
+	<key id="10000822" name="喜迎2020" feature="Event" locale="CN" />
+	<key id="10000823" name="名花有主" feature="Wedding" />
+	<key id="10000824" name="水滴石穿" feature="Wedding" />
+	<key id="10000825" name="铜墙铁壁" feature="Wedding" />
+	<key id="10000826" name="看热闹的" feature="Wedding" />
+	<key id="10000827" name="一片痴心" feature="Wedding" />
+	<key id="10000828" name="照片中" feature="Wedding" />
+	<key id="10000829" name="幻想中的" feature="Wedding" />
+	<key id="10000830" name="海底" feature="Wedding" />
+	<key id="10000831" name="甜蜜猎手" feature="Wedding" />
+	<key id="10000832" name="婚礼舞者" feature="Wedding" />
+	<key id="10000833" name="回归单身" feature="Wedding" />
+	<key id="10000836" name="黑猫" locale="CN" />
+	<key id="10000837" name="白猫" locale="CN" />
+	<key id="10000838" name="无限力量的" feature="UnlimitedEnchant" />
+	<key id="10000839" name="挚爱" feature="Event" locale="CN" />
+	<key id="10000840" name="爱的丘比特" feature="Event" locale="CN" />
+	<key id="10000841" name="想知道真相的" feature="EpicApocalypse01" />
+	<key id="10000842" name="担忧的" feature="EpicApocalypse01" />
+	<key id="10000843" name="幻影中的流浪者" feature="EpicApocalypse01" />
+	<key id="10000844" name="越线的" feature="EpicApocalypse01" />
+	<key id="10000847" name="眼神游戏王" feature="Event" locale="CN" />
+	<key id="10000848" name="探险专家" />
+	<key id="10000854" name="最佳挑战者" />
 </ms2>

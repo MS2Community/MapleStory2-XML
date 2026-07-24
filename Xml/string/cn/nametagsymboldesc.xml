@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="0" name="" feature="Season1" />
-  <key id="11" name="达到50以上后显示" feature="Season1" />
-  <key id="1" name="穿戴+12卓越级以上的装备后显示" feature="Season1" />
-  <key id="2" name="获得顶级设计师称号后显示" feature="Season1" />
-  <key id="3" name="获得真正的冠军称号后显示" feature="Season1" />
-  <key id="4" name="获得明星建筑师称号后显示" feature="Season1" />
-  <key id="5" name="获得[成就达人] 成就后显示" feature="Season1" />
-  <key id="6" name="获得[又是大鱼！]成就和钓鱼王称号后显示" feature="Fishing" />
-  <key id="7" name="达成[梦想乐师]成就后获得乐师称号后显示" feature="MusicInstrument" />
-  <key id="8" name="NAMETAGSYMBOLDESC_8_NAME:[F]Balrogitem3rd" feature="Balrogitem3rd" />
-  <key id="10" name="获得冒险岛数据之星称号后显示" feature="Season3" locale="CN" />
-  <key id="12" name="会员标志" feature="VIP" />
-  <key id="13" name="腾讯心悦俱乐部专属徽章" feature="Season1" locale="CN" />
-  <key id="14" name="获得[沾染上枫叶色彩的英雄]成就后显示" feature="Season1" locale="CN" />
-  <key id="15" name="获得[扎昆征服者]成就后显示" feature="Zakum01" />
-  <key id="17" name="通过WeGame登录冒险岛2后显示" locale="CN" />
-  <key id="18" name="GM专用徽章" locale="CN" />
-  <key id="19" name="尝试超过200次进阶时显示" feature="ItemMerge" />
-  <key id="20" name="尝试超过500次进阶时显示" feature="ItemMerge" />
-  <key id="21" name="尝试超过1000次进阶时显示" feature="ItemMerge" />
-  <key id="22" name="获得光之战士称号时显示" />
-  <key id="24" name="时隔许久回到游戏的回归角色专属徽章" feature="Mentoring" />
-  <key id="25" name="向本月生日的会员展示" feature="HappyBirthday" locale="CN" />
-  <key id="26" name="使用精锐干事专用补给品时获得" feature="FameContents" locale="CN" />
-  <key id="27" name="开启春之祝福箱时获得" feature="LunaYear2018" />
-  <key id="28" name="在菇岛求生比赛中击倒10人以上的标志" feature="SurvivalContents01" />
-  <key id="29" name="冒险等级达到100时显示" feature="AdventureLevel" />
-  <key id="30" name="转职时显示" feature="JobChange_01" />
-  <key id="31" name="夏日斗燃指定角色专用徽章" locale="CN" />
-  <key id="35" name="获得击败伊修罗的称号时显示" feature="LapentaDungeon" />
-  <key id="36" name="获得击败兰比斯的称号时显示" feature="LapentaDungeon" />
-  <key id="37" name="获得击败菲莉雅的称号时显示" feature="LapentaDungeon" />
-  <key id="38" name="使用乔迪徽章箱后获得" />
-  <key id="39" name="使用秋之祝福箱时获得" locale="CN" />
-  <key id="40" name="开启圆月之光箱子时获得" locale="CN" />
-  <key id="41" name="使用1周年纪念徽章箱后获得" locale="CN" />
-  <key id="42" name="使用帕普拉图斯的钟表箱时获得" locale="CN" />
-  <key id="43" name="获得职业钓手称号时显示" feature="Fishing02" />
-  <key id="44" name="获得冠军钓手称号时显示" feature="Fishing02" />
-  <key id="45" name="魔方水晶10阶段合成成功" feature="Lapenshard01" />
-  <key id="46" name="使用未知新大陆箱后获得" />
-  <key id="48" name="使用红色蔷薇花箱子时获得" locale="CN" />
-  <key id="49" name="使用黄色蔷薇花箱子时获得" locale="CN" />
-  <key id="50" name="开启樱花之歌箱子时获得" locale="CN" />
-  <key id="53" name="使用2周年纪念徽章箱时获得" feature="Event" locale="CN" />
-  <key id="54" name="使用黑猫徽章箱时获得" locale="CN" />
-  <key id="55" name="使用白猫徽章箱时获得" locale="CN" />
-  <key id="58" name="使用GM活动箱时获得" />
+	<key id="0" name="" feature="Season1" />
+	<key id="1" name="穿戴+12卓越级以上的装备后显示" feature="Season1" />
+	<key id="2" name="获得顶级设计师称号后显示" feature="Season1" />
+	<key id="3" name="获得真正的冠军称号后显示" feature="Season1" />
+	<key id="4" name="获得明星建筑师称号后显示" feature="Season1" />
+	<key id="5" name="获得[成就达人] 成就后显示" feature="Season1" />
+	<key id="6" name="获得[又是大鱼！]成就和钓鱼王称号后显示" feature="Fishing" />
+	<key id="7" name="达成[梦想乐师]成就后获得乐师称号后显示" feature="MusicInstrument" />
+	<key id="8" name="NAMETAGSYMBOLDESC_8_NAME:[F]Balrogitem3rd" feature="Balrogitem3rd" />
+	<key id="10" name="获得冒险岛数据之星称号后显示" feature="Season3" locale="CN" />
+	<key id="11" name="达到50以上后显示" feature="Season1" />
+	<key id="12" name="会员标志" feature="VIP" />
+	<key id="13" name="腾讯心悦俱乐部专属徽章" feature="Season1" locale="CN" />
+	<key id="14" name="获得[沾染上枫叶色彩的英雄]成就后显示" feature="Season1" locale="CN" />
+	<key id="15" name="获得[扎昆征服者]成就后显示" feature="Zakum01" />
+	<key id="17" name="通过WeGame登录冒险岛2后显示" locale="CN" />
+	<key id="18" name="GM专用徽章" locale="CN" />
+	<key id="19" name="尝试超过200次进阶时显示" feature="ItemMerge" />
+	<key id="20" name="尝试超过500次进阶时显示" feature="ItemMerge" />
+	<key id="21" name="尝试超过1000次进阶时显示" feature="ItemMerge" />
+	<key id="22" name="获得光之战士称号时显示" />
+	<key id="24" name="时隔许久回到游戏的回归角色专属徽章" feature="Mentoring" />
+	<key id="25" name="向本月生日的会员展示" feature="HappyBirthday" locale="CN" />
+	<key id="26" name="使用精锐干事专用补给品时获得" feature="FameContents" locale="CN" />
+	<key id="27" name="开启春之祝福箱时获得" feature="LunaYear2018" />
+	<key id="28" name="在菇岛求生比赛中击倒10人以上的标志" feature="SurvivalContents01" />
+	<key id="29" name="冒险等级达到100时显示" feature="AdventureLevel" />
+	<key id="30" name="转职时显示" feature="JobChange_01" />
+	<key id="31" name="夏日斗燃指定角色专用徽章" locale="CN" />
+	<key id="35" name="获得击败伊修罗的称号时显示" feature="LapentaDungeon" />
+	<key id="36" name="获得击败兰比斯的称号时显示" feature="LapentaDungeon" />
+	<key id="37" name="获得击败菲莉雅的称号时显示" feature="LapentaDungeon" />
+	<key id="38" name="使用乔迪徽章箱后获得" />
+	<key id="39" name="使用秋之祝福箱时获得" locale="CN" />
+	<key id="40" name="开启圆月之光箱子时获得" locale="CN" />
+	<key id="41" name="使用1周年纪念徽章箱后获得" locale="CN" />
+	<key id="42" name="使用帕普拉图斯的钟表箱时获得" locale="CN" />
+	<key id="43" name="获得职业钓手称号时显示" feature="Fishing02" />
+	<key id="44" name="获得冠军钓手称号时显示" feature="Fishing02" />
+	<key id="45" name="魔方水晶10阶段合成成功" feature="Lapenshard01" />
+	<key id="46" name="使用未知新大陆箱后获得" />
+	<key id="48" name="使用红色蔷薇花箱子时获得" locale="CN" />
+	<key id="49" name="使用黄色蔷薇花箱子时获得" locale="CN" />
+	<key id="50" name="开启樱花之歌箱子时获得" locale="CN" />
+	<key id="53" name="使用2周年纪念徽章箱时获得" feature="Event" locale="CN" />
+	<key id="54" name="使用黑猫徽章箱时获得" locale="CN" />
+	<key id="55" name="使用白猫徽章箱时获得" locale="CN" />
+	<key id="58" name="使用GM活动箱时获得" />
 </ms2>

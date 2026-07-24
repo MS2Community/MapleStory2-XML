@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="10400001" name="천상의 빛" />
-	<key id="10400002" name="심판의 빛" feature="JobChange_01" />
-	<key id="10400003" name="정화의 빛" feature="JobChange_01" />
+	<key id="10400002" name="审判之光" feature="JobChange_01" />
+	<key id="10400003" name="正义之光" feature="JobChange_01" />
 	<key id="10400011" name="홀리 익스플로전" />
+	<key id="10400012" name="SKILLNAME_10400012_NAME:[F]Develop" feature="Develop" />
 	<key id="10400013" name="홀리 익스플로전 EX" />
+	<key id="10400014" name="SKILLNAME_10400014_NAME:[F]Develop" feature="Develop" />
 	<key id="10400021" name="홀 마스터리" />
 	<key id="10400022" name="엔젤 레이 EX" />
 	<key id="10400031" name="홀리 크로스" />
+	<key id="10400032" name="SKILLNAME_10400032_NAME:[F]Develop" feature="Develop" />
 	<key id="10400041" name="실드 오브 아콘" />
+	<key id="10400042" name="SKILLNAME_10400042_NAME:[F]Develop" feature="Develop" />
 	<key id="10400051" name="홀리 심볼" />
+	<key id="10400052" name="SKILLNAME_10400052_NAME:[F]Develop" feature="Develop" />
 	<key id="10400061" name="성역" />
 	<key id="10400071" name="힐" />
-	<key id="10400072" name="힐" feature="JobChange_01" />
+	<key id="10400072" name="治愈之环" feature="JobChange_01" />
+	<key id="10400072" name="힐" />
 	<key id="10400081" name="천상의 수호자" />
 	<key id="10400091" name="천상의 축복" />
+	<key id="10400092" name="SKILLNAME_10400092_NAME:[F]Develop" feature="Develop" />
 	<key id="10400101" name="정화의 물결" />
 	<key id="10400102" name="정화의 물결 EX" />
 	<key id="10400111" name="굳은 믿음" />
@@ -23,19 +30,44 @@
 	<key id="10400141" name="치유 마스터리" />
 	<key id="10400151" name="천상의 날개" />
 	<key id="10400161" name="엔젤 레이" />
-	<key id="10400171" name="심판의 빛" feature="JobChange_01" />
-	<key id="10400181" name="헤븐즈 익스플로전" feature="JobChange_01" />
-	<key id="10400186" name="헤븐즈 익스플로전" feature="JobChange_02" />
-	<key id="10400191" name="빛의 창" feature="JobChange_01" />
-	<key id="10400193" name="빛의 검" feature="JobChange_01" />
-	<key id="10400211" name="디바인 웨이브" feature="JobChange_01" />
-	<key id="10400221" name="정화의 빛" feature="JobChange_01" />
-	<key id="10400231" name="그레이터 힐" feature="JobChange_01" />
-	<key id="10400241" name="생명의 수호자" feature="JobChange_01" />
-	<key id="10400251" name="홀리 포커스" feature="JobChange_01" />
-	<key id="10400261" name="활력" feature="JobChange_01" />
-	<key id="10400271" name="신의 십자가" feature="JobChange_02" />
-	<key id="10400281" name="홀리 익스텐션" feature="JobChange_02" />
-	<key id="10400291" name="홀리 플레이스" feature="JobChange_02" />
-	<key id="10400301" name="신성한 힘" feature="JobChange_02" />
+	<key id="10400171" name="심판의 빛" />
+	<key id="10400171" name="审判之光" feature="JobChange_01" />
+	<key id="10400172" name="심판의 빛" />
+	<key id="10400181" name="苍穹爆" feature="JobChange_01" />
+	<key id="10400181" name="헤븐즈 익스플로전" />
+	<key id="10400182" name="헤븐즈 익스플로전" />
+	<key id="10400183" name="헤븐즈 익스플로전" />
+	<key id="10400184" name="헤븐즈 익스플로전" />
+	<key id="10400186" name="苍穹爆" feature="JobChange_02" />
+	<key id="10400186" name="헤븐즈 익스플로전" />
+	<key id="10400187" name="헤븐즈 익스플로전" />
+	<key id="10400191" name="光明长枪" feature="JobChange_01" />
+	<key id="10400191" name="빛의 창" />
+	<key id="10400192" name="빛의 창" />
+	<key id="10400193" name="光明剑" feature="JobChange_01" />
+	<key id="10400193" name="빛의 검" />
+	<key id="10400194" name="빛의 검" />
+	<key id="10400195" name="빛의 검" />
+	<key id="10400211" name="神圣波" feature="JobChange_01" />
+	<key id="10400211" name="디바인 웨이브" />
+	<key id="10400221" name="正义之光" feature="JobChange_01" />
+	<key id="10400221" name="정화의 빛" />
+	<key id="10400231" name="超强治愈" feature="JobChange_01" />
+	<key id="10400231" name="그레이터 힐" />
+	<key id="10400241" name="生命守护者" feature="JobChange_01" />
+	<key id="10400241" name="생명의 수호자" />
+	<key id="10400243" name="생명의 심판자" />
+	<key id="10400251" name="홀리 포커스" />
+	<key id="10400251" name="神圣聚焦" feature="JobChange_01" />
+	<key id="10400261" name="活力" feature="JobChange_01" />
+	<key id="10400261" name="활력" />
+	<key id="10400271" name="신의 십자가" />
+	<key id="10400271" name="神之十字架" feature="JobChange_02" />
+	<key id="10400281" name="홀리 익스텐션" />
+	<key id="10400281" name="神圣延续" feature="JobChange_02" />
+	<key id="10400291" name="홀리 플레이스" />
+	<key id="10400291" name="神圣领域" feature="JobChange_02" />
+	<key id="10400294" name="홀리 플레이스" />
+	<key id="10400301" name="神圣之赋" feature="JobChange_02" />
+	<key id="10400301" name="신성한 힘" />
 </ms2>

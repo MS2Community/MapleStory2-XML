@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="s_empty_string" value="" />
+	<key id="s_empty_string" value=" " />
 	<key id="s_raw_ngs_init_error" value="An error occurred while executing NGS. ({0:08X})" />
 	<key id="s_number_string_1111" value="{3},{2},{1},{0}" />
 	<key id="s_number_string_1110" value="{3},{2},{1}K" />
@@ -96,9 +96,9 @@
 	<key id="s_err_lack_mentor_token" value="Not enough mentor points." />
 	<key id="s_err_lack_mentee_token" value="Not enough mentee points." />
 	<key id="s_err_lack_star_point" value="Not enough star points." />
-	<key id="s_err_lack_meso_market_token" value="Not enough Meso Tokens." locale="NA" feature="MesoMarketNA" />
-	<key id="s_err_lack_meso_makret_token_ask" value="You don&apos;t have enough Meso Tokens&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;. Do you want to buy some?" locale="NA" feature="MesoMarketNA" />
-	<key id="s_err_lack_meso_makret_token_ask_steam" value="You don&apos;t have enough Meso Tokens&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;. Do you want to know how to get some?" locale="NA" feature="MesoMarketNA" />
+	<key id="s_err_lack_meso_market_token" value="Not enough Meso Tokens." feature="MesoMarketNA" locale="NA" />
+	<key id="s_err_lack_meso_makret_token_ask" value="You don&apos;t have enough Meso Tokens&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;. Do you want to buy some?" feature="MesoMarketNA" locale="NA" />
+	<key id="s_err_lack_meso_makret_token_ask_steam" value="You don&apos;t have enough Meso Tokens&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;. Do you want to know how to get some?" feature="MesoMarketNA" locale="NA" />
 	<key id="s_err_not_learn_skill" value="You have not learned this skill yet." />
 	<key id="s_item_err_code" value="System Error: Item. code = {0}" />
 	<key id="s_err_invalid_item" value="Item not found." />
@@ -146,15 +146,15 @@
 	<key id="s_msg_item_install_bill_board_cant_install" value="You cannot do that here." />
 	<key id="s_msg_item_install_bill_board_invalid_state" value="Currently not available." />
 	<key id="s_msg_item_auto_install_equipment" value="Automatically equipped {0}." feature="AutoNewEquipSet" />
-	<key id="s_msg_item_open_item_box_multiopen_ok" value="Open" feature="" />
-	<key id="s_msg_item_open_item_box_multiopen_title" value="Open Multiple" feature="" />
+	<key id="s_msg_item_open_item_box_multiopen_ok" value="Open" />
+	<key id="s_msg_item_open_item_box_multiopen_title" value="Open Multiple" />
 	<key id="s_msg_item_open_blueprint" value="You about to use {0} to change your home. Once done, these changes can&apos;t be reverted.\n\nProceed?" />
 	<key id="s_notify_currency_overflow" value="You reached the max number of {0} that you can have. {0} x{1} cannot be obtained and will disappear." />
 	<key id="s_err_lack_guild_trophy" value="Not enough guild trophies." />
 	<key id="s_err_lack_guild_require_date" value="You can buy after being in the guild for 7 days." />
 	<key id="s_err_lack_guild_master" value="Only the guild leader can make the purchase." />
 	<key id="s_err_lack_guild_npc_level" value="Upgrade the guild NPC." />
-	<key id="s_err_lack_achieve" value='You must have the &quot;{0}&quot; trophy to do this.' />
+	<key id="s_err_lack_achieve" value="You must earn the [{0}] trophy." />
 	<key id="s_err_lack_fame_alliance" value="You must be {1} by {0}." />
 	<key id="s_err_lack_championship_grade" value="Must be above {0} rank." />
 	<key id="s_err_lack_championship_join_count" value="Must participate more than {0} times." />
@@ -543,9 +543,9 @@
 	<key id="s_party_vote_canceled" value="The vote was canceled." />
 	<key id="s_party_vote_ready_message" value="The party leader has initiated a ready check." />
 	<key id="s_party_vote_ready_message_end" value="The ready check has been completed." />
-	<key id="s_club_create" value='The club &quot;{0}&quot; has been created.' feature="Club" />
-	<key id="s_club_create_ask" value='{0} has invited you to the club &quot;&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;.&quot; Do you want to join this club?' feature="Club" />
-	<key id="s_club_break" value='The club &quot;{0}&quot; has been disbanded.' feature="Club" />
+	<key id="s_club_create" value="The club &quot;{0}&quot; has been created." feature="Club" />
+	<key id="s_club_create_ask" value="{0} has invited you to the club &quot;&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;.&quot; Do you want to join this club?" feature="Club" />
+	<key id="s_club_break" value="The club &quot;{0}&quot; has been disbanded." feature="Club" />
 	<key id="s_club_invite_someone" value="You invited {0} to the {1} club." feature="Club" />
 	<key id="s_club_invite_me" value="{0} has invited you to the &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; club. Do you want to join this club?" feature="Club" />
 	<key id="s_club_invite_cant_me" value="You cannot invite yourself." feature="Club" />
@@ -562,7 +562,7 @@
 	<key id="s_club_notify_logout_member" value="&lt;FONT color=&apos;#938eff&apos;&gt;{0} club member {1} has logged out.&lt;/FONT&gt;" feature="Club" />
 	<key id="s_club_notify_change_master" value="&lt;FONT color=&apos;#938eff&apos;&gt;{1} is now the leader of the {0} club.&lt;/FONT&gt;" feature="Club" />
 	<key id="s_club_notify_change_master_me" value="&lt;FONT color=&apos;#938eff&apos;&gt;You are now the leader of the {0} club.&lt;/FONT&gt;" feature="Club" />
-	<key id="s_club_notify_change_buff" value='&lt;FONT color=&apos;#938eff&apos;&gt;The buff for the club &quot;{0}&quot; has been changed.&lt;/FONT&gt;' feature="Club" />
+	<key id="s_club_notify_change_buff" value="&lt;FONT color=&apos;#938eff&apos;&gt;The buff for the club &quot;{0}&quot; has been changed.&lt;/FONT&gt;" feature="Club" />
 	<key id="s_club_notify_change_name" value="&lt;FONT color=&apos;#938eff&apos;&gt;The {0} club has been renamed {1}.&lt;/FONT&gt;" feature="Club" />
 	<key id="s_club_ui_offline_time_day" value="{0} day(s)" feature="Club" />
 	<key id="s_club_ui_offline_time_hour" value="{0} hour(s)" feature="Club" />
@@ -581,8 +581,8 @@
 	<key id="s_club_ui_current_member" value="({0}/{1} people)" feature="Club" />
 	<key id="s_club_ui_msg_buff_setting" value="Select the club buff you want to apply to your club parties. (Only 1 club buff can be active at any time)." feature="Club" />
 	<key id="s_club_err_unknown" value="Unknown club error" feature="Club" />
-	<key id="s_club_err_create" value='The club &quot;{0}&quot; could not be created.' feature="Club" />
-	<key id="s_club_err_create_reject" value='{0} declined the invitation. The club &quot;{1}&quot; could not be created.' feature="Club" />
+	<key id="s_club_err_create" value="The club &quot;{0}&quot; could not be created." feature="Club" />
+	<key id="s_club_err_create_reject" value="{0} declined the invitation. The club &quot;{1}&quot; could not be created." feature="Club" />
 	<key id="s_club_err_null_club" value="Cannot find the club." feature="Club" />
 	<key id="s_club_err_create_no_party" value="You are either not in a party or not the party leader." feature="Club" />
 	<key id="s_club_err_already_exist" value="That character is already a member of the club." feature="Club" />
@@ -743,7 +743,7 @@
 	<key id="s_guild_ui_championship_history_no_fight_lose" value="Lose by Default" />
 	<key id="s_guild_ui_championship_condition" value="You can apply when more than 3 guild members\nat level {0} or higher are connected." />
 	<key id="s_guild_ui_championship_rating" value="Rank {0} | {1} points" />
-	<key id="s_guild_ui_championship_combat" value=" Battles: {0} Wins: {1} Losses: {2}" />
+	<key id="s_guild_ui_championship_combat" value="Battles: {0} Wins: {1} Losses: {2}" />
 	<key id="s_guild_ui_championship_rank" value="{0} place" />
 	<key id="s_guild_ui_championship_grade_tooltip" value="{0}: {1} points" />
 	<key id="s_guild_ui_championship_really_unregist" value="Do you want to cancel the Guild Battle application?" />
@@ -882,7 +882,7 @@
 	<key id="s_msg_take_item_ugc_cube" value="You obtained {0}." />
 	<key id="s_msg_take_item_count_ugc_cube" value="You obtained {0} x{1}. Find it in your list of Furnishings." />
 	<key id="s_msg_take_exp" value="You got {0} experience. " />
-	<key id="s_msg_take_rest_exp" value=" (Rest experience bonus applied.)" />
+	<key id="s_msg_take_rest_exp" value="(Rest experience bonus applied.)" />
 	<key id="s_msg_take_assist_bonus_exp" value="You got {0} bonus experience. " />
 	<key id="s_msg_take_assist_bonus_exp_system" value="You got an experience bonus for helping defeat a powerful foe. (EXP +{0})" />
 	<key id="s_msg_take_map_exp" value="You got {1} experience for discovering {0}. " />
@@ -911,11 +911,11 @@
 	<key id="s_msg_take_mentor_token" value="You got {0} mentor points." />
 	<key id="s_msg_take_mentee_token" value="You got {0} mentee points." />
 	<key id="s_msg_take_star_point" value="You got {0} star points." />
-	<key id="s_msg_take_meso_market_token" value="You got {0} Meso Tokens." locale="NA" feature="MesoMarketToken" />
+	<key id="s_msg_take_meso_market_token" value="You got {0} Meso Tokens." feature="MesoMarketToken" locale="NA" />
 	<key id="s_msg_party_invite" value="{0} invited you to a party.\nJoin the party?" />
 	<key id="s_msg_popup_time" value="Time Left: {0} sec" />
 	<key id="s_party_ch" value="Ch. {0}" />
-	<key id="s_party_ch_dungeon" value="" />
+	<key id="s_party_ch_dungeon" value="Party Channel Dungeon" />
 	<key id="s_party_err_code" value="System Error: Party, code = {0}, {1}" />
 	<key id="s_party_err_not_exist" value="You cannot invite that player to the party." />
 	<key id="s_party_err_target" value="You cannot invite that player to the party." />
@@ -970,7 +970,7 @@
 	<key id="s_admin_block_create_guild_msgbox_title" value="Guild Creation Notice" />
 	<key id="s_admin_block_create_guild_msgbox_content" value="You are currently prohibited from creating a guild.\n\n[Period]\n{0:04d}/{1}/{2} {3:02d}:{4:02d}:{5:02d} / {6:04d}/{7}/{8} {9:02d}:{10:02d}:{11:02d}\n\n[Reason]\n{12}" />
 	<key id="s_admin_block_transfer_msgbox_title" value="Trade Restriction Notice" />
-	<key id="s_admin_block_transfer_msgbox_content" value="Due to suspicious activity, you have been restricted from trading. To appeal this decision, open a ticket through the MapleStory 2 support page.&#x0A;&#x0A;&lt;b&gt;Period:&lt;/b&gt; {1}/{2}/{0:04d} {3:02d}:{4:02d}:{5:02d} to {7}/{8}/{6:04d} {9:02d}:{10:02d}:{11:02d}&#x0A;&#x0A;&lt;b&gt;Reason:&lt;/b&gt; {12}" />
+	<key id="s_admin_block_transfer_msgbox_content" value="Due to suspicious activity, you have been restricted from trading. To appeal this decision, open a ticket through the MapleStory 2 support page.&#xA;&#xA;&lt;b&gt;Period:&lt;/b&gt; {1}/{2}/{0:04d} {3:02d}:{4:02d}:{5:02d} to {7}/{8}/{6:04d} {9:02d}:{10:02d}:{11:02d}&#xA;&#xA;&lt;b&gt;Reason:&lt;/b&gt; {12}" />
 	<key id="s_admin_block_login" value="Login is prohibited." />
 	<key id="s_admin_block_chat" value="Chat is prohibited." />
 	<key id="s_admin_block_banner_reg" value="Banner registration is prohibited." />
@@ -1074,7 +1074,7 @@
 	<key id="s_msg_ugc_too_many_files" value="There are too many files in this folder.\nOpen the folder and delete some files." />
 	<key id="s_msg_ugc_not_select_reserve" value="No reservation time selected." />
 	<key id="s_msg_ugc_item_edit_complete" value="You created a new design!" />
-	<key id="s_msg_ugc_item_edit_complete_cube" value='You created a new design!\n\nYou can view your new furnishing under the &quot;Design&quot; tab in furnishing mode while inside your home.\n' />
+	<key id="s_msg_ugc_item_edit_complete_cube" value="Item crafted successfully.&#xA;&#xA;The crafted construction item can be found in Construction Mode in your home. " />
 	<key id="s_msg_ugc_item_upload_screenshot" value="Upload your appearance to the community after equipping the created item?" />
 	<key id="s_msg_ugc_home_upload_screenshot" value="Upload your current appearance to the community?" />
 	<key id="s_msg_ugc_cannot_find" value="Error: Template file doesn&apos;t exist." />
@@ -1102,12 +1102,12 @@
 	<key id="s_quest_error_count_limit" value="Up to 60 can be listed. Open the quest window to cancel the listings." />
 	<key id="s_quest_error_invalid_date" value="This quest has expired." />
 	<key id="s_quest_error_fail_complete_by_dead" value="You cannot receive rewards while tombstoned." />
-	<key id="s_quest_error_field_enter_limit" value='You need to complete the quest &quot;{0}&quot; to enter.' />
+	<key id="s_quest_error_field_enter_limit" value="You must complete the {0} quest to enter." />
 	<key id="s_quest_not_selected_reward" value="Select a reward." />
 	<key id="s_quest_boss_notify" value="{0} appeared. Find them on the World Map." />
 	<key id="s_quest_boss_notify_chat" value="[{0:02d}:{1:02d}] {2} appeared. Find them on the World Map." />
 	<key id="s_quest_boss_notify_quest" value="\n&lt;FONT color=&apos;#FFD200&apos;&gt;You have a related quest: {0}&lt;/FONT&gt;" />
-	<key id="s_quest_expired_auto_giveup" value='The quest &quot;{0}&quot; has expired.' />
+	<key id="s_quest_expired_auto_giveup" value="The {0} quest has been removed because the completion period has expired." />
 	<key id="s_quest_complete_ui_effect" value="Quest Completed: {0}" />
 	<key id="s_quest_epic_restart_warning" value="Will you &lt;FONT color=&apos;#FFD200&apos;&gt;Reset all Epic Quests&lt;/FONT&gt;?\nAll of your Epic Quest progress, and the skill and attribute points you have obtained from Epic Quests will be reset, and you will be returned to Lith Harbor. You will be able to regain these points through quest progression. You may only reset epic quest progression &lt;FONT color=&apos;#FFD200&apos;&gt;once per character&lt;/FONT&gt;." />
 	<key id="s_quest_epic_restart_event_end" value="The event period has expired." />
@@ -1145,7 +1145,7 @@
 	<key id="s_item_err_skill_level" value="The skill level data is missing." />
 	<key id="s_item_err_puton_skill_samekinds" value="This skill is already equipped." />
 	<key id="s_item_err_puton_vip" value="You must have an active Premium Club membership to use this." />
-	<key id="s_item_err_puton_wedding" value="STRINGCOMMON_S_ITEM_ERR_PUTON_WEDDING_VALUE" />
+	<key id="s_item_err_puton_wedding" value="This item is for weddings only." />
 	<key id="s_item_err_puton_invalid_binding" value="A character&apos;s item can only be worn by that character." />
 	<key id="s_item_err_use_invalid_binding" value="A character&apos;s item can only be used by that character." />
 	<key id="s_word_screenshot" value="Screenshot saved to {0}." />
@@ -1222,7 +1222,7 @@
 	<key id="s_beauty_msg_coloring_confirm" value="Do you want to place {0} in the shopping cart? &lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;&lt;FONT color=&apos;#FF5F5F&apos;&gt;If you don&apos;t place the dyed item in the shopping cart, its color will return to normal.&lt;/FONT&gt;" />
 	<key id="s_beauty_msg_complete_apply_special_hair" value="You have received a special hairstyle." />
 	<key id="s_beauty_msg_complete_apply_return_coupon" value="Received a Chic Salon Voucher." />
-	<key id="s_beauty_msg_complete_apply_return_coupon_to_mail" value="Received a Chic Salon Voucher." />
+	<key id="s_beauty_msg_complete_apply_return_coupon_to_mail" value="Received a Chic Salon Voucher. " />
 	<key id="s_beauty_msg_bill_warning_special_hair" value="You will get a random hairstyle." />
 	<key id="s_beauty_msg_ask_coupon_and_merat_confirm" value="You don&apos;t have enough vouchers for all of the gear you are trying to dye.\n\nWould you like to use the {2} voucher(s) in your possession, and spend {3} to purchase the missing vouchers?\n" />
 	<key id="s_beauty_msg_ask_coupon_and_rbmerat_confirm" value="You don&apos;t have enough vouchers for all of the equipment you are trying to dye.\n\nYou need {2} vouchers, as well as {3}&lt;Img Src=&apos;export_common_icon_rbmerat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;.\nDo you still want to dye?\n" />
@@ -1369,11 +1369,11 @@
 	<key id="s_char_info_stat_point_by_reason" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Total Reward Attribute Points {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nChapter Rewards: {1} point(s)\nTrophy Rewards: {2} point(s)\nExplored Area Rewards: {3} point(s)\n" />
 	<key id="s_char_info_stat_point_by_reason_with_adventure_level" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Total Attribute Points: {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nFrom Quests: {1}\nFrom Trophies: {2}\nFrom Exploration: {3}\nFrom Prestige Ranks: {4}\n" feature="AdventureLevel" />
 	<key id="s_change_charname_disconnect" value="Your character name has been changed.\nPlease log in again." />
-	<key id="s_change_charname_confirm" value='Do you want to change your character name?\nYou will be logged out so the change can take effect.\n\n&lt;b&gt;Current Name&lt;/b&gt;: &quot;{0}&quot;\n&lt;b&gt;New Name:&lt;/b&gt; &quot;{1}&quot;\n' />
-	<key id="s_change_charname_err_bad_words" value='&quot;{0}&quot; contains inappropriate words.\nPlease enter another name.' />
-	<key id="s_change_charname_err_already_taken" value='The name &quot;{0}&quot; is already in use.' />
+	<key id="s_change_charname_confirm" value="Do you want to change your character name?\nYou will be logged out so the change can take effect.\n\n&lt;b&gt;Current Name&lt;/b&gt;: &quot;{0}&quot;\n&lt;b&gt;New Name:&lt;/b&gt; &quot;{1}&quot;\n" />
+	<key id="s_change_charname_err_bad_words" value="&quot;{0}&quot; contains inappropriate words.\nPlease enter another name." />
+	<key id="s_change_charname_err_already_taken" value="The name &quot;{0}&quot; is already in use." />
 	<key id="s_change_charname_err_consume_item" value="An error occurred with the Character Name Change Voucher." />
-	<key id="s_change_charname_err_system" value='An error occurred while changing the character name to &quot;{0}&quot; (code={1}).\nPlease try again later.' />
+	<key id="s_change_charname_err_system" value="An error occurred while changing the character name to &quot;{0}&quot; (code={1}).\nPlease try again later." />
 	<key id="s_npc_normal" value="Common" />
 	<key id="s_npc_leader" value="Leader" />
 	<key id="s_npc_named" value="Elite" />
@@ -1981,38 +1981,38 @@
 	<key id="s_item_opt_sa_reduce_damage_by_targetmaxhp" value="Health-Based Damage Reduction" />
 	<key id="s_item_opt_sa_reduce_damage_by_targetmaxhp_v" value="Decreases enemy damage based on max health by {0}" />
 	<key id="s_item_opt_sa_reduce_damage_by_targetmaxhp_r" value="Reduces enemy damage by {0:0.1f}% of max health" />
-	<key id="s_item_opt_sa_reduce_meso_revival_fee" value="" />
-	<key id="s_item_opt_sa_reduce_meso_revival_fee_v" value="" />
-	<key id="s_item_opt_sa_reduce_meso_revival_fee_r" value="" />
-	<key id="s_item_opt_sa_improve_riding_run_speed" value="" />
-	<key id="s_item_opt_sa_improve_riding_run_speed_v" value="" />
-	<key id="s_item_opt_sa_improve_riding_run_speed_r" value="" />
-	<key id="s_item_opt_sa_improve_dungeon_reward_meso" value="" />
-	<key id="s_item_opt_sa_improve_dungeon_reward_meso_v" value="" />
-	<key id="s_item_opt_sa_improve_dungeon_reward_meso_r" value="" />
-	<key id="s_item_opt_sa_improve_shop_buying_meso" value="" />
-	<key id="s_item_opt_sa_improve_shop_buying_meso_v" value="" />
-	<key id="s_item_opt_sa_improve_shop_buying_meso_r" value="" />
-	<key id="s_item_opt_sa_improve_itembox_reward_meso" value="" />
-	<key id="s_item_opt_sa_improve_itembox_reward_meso_v" value="" />
-	<key id="s_item_opt_sa_improve_itembox_reward_meso_r" value="" />
-	<key id="s_item_opt_sa_reduce_remakeoption_fee" value="" />
-	<key id="s_item_opt_sa_reduce_remakeoption_fee_v" value="" />
-	<key id="s_item_opt_sa_reduce_remakeoption_fee_r" value="" />
-	<key id="s_item_opt_sa_reduce_airtaxi_fee" value="" />
-	<key id="s_item_opt_sa_reduce_airtaxi_fee_v" value="" />
-	<key id="s_item_opt_sa_reduce_airtaxi_fee_r" value="" />
+	<key id="s_item_opt_sa_reduce_meso_revival_fee" value="Meso Revival Fee Reduction" />
+	<key id="s_item_opt_sa_reduce_meso_revival_fee_v" value="Meso Revival Fee Reduction +{0:d}" />
+	<key id="s_item_opt_sa_reduce_meso_revival_fee_r" value="Meso Revival Fee Reduction +{0:0.1f}%" />
+	<key id="s_item_opt_sa_improve_riding_run_speed" value="Mount Run Speed" />
+	<key id="s_item_opt_sa_improve_riding_run_speed_v" value="Mount Run Speed +{0:d}" />
+	<key id="s_item_opt_sa_improve_riding_run_speed_r" value="Mount Run Speed +{0:0.1f}%" />
+	<key id="s_item_opt_sa_improve_dungeon_reward_meso" value="Dungeon Reward Meso" />
+	<key id="s_item_opt_sa_improve_dungeon_reward_meso_v" value="Dungeon Reward Meso +{0:d}" />
+	<key id="s_item_opt_sa_improve_dungeon_reward_meso_r" value="Dungeon Reward Meso +{0:0.1f}%" />
+	<key id="s_item_opt_sa_improve_shop_buying_meso" value="Shop Purchase Meso Discount" />
+	<key id="s_item_opt_sa_improve_shop_buying_meso_v" value="Shop Purchase Meso Discount +{0:d}" />
+	<key id="s_item_opt_sa_improve_shop_buying_meso_r" value="Shop Purchase Meso Discount +{0:0.1f}%" />
+	<key id="s_item_opt_sa_improve_itembox_reward_meso" value="Item Box Reward Meso" />
+	<key id="s_item_opt_sa_improve_itembox_reward_meso_v" value="Item Box Reward Meso +{0:d}" />
+	<key id="s_item_opt_sa_improve_itembox_reward_meso_r" value="Item Box Reward Meso +{0:0.1f}%" />
+	<key id="s_item_opt_sa_reduce_remakeoption_fee" value="Bonus Stats Reroll Fee Reduction" />
+	<key id="s_item_opt_sa_reduce_remakeoption_fee_v" value="Bonus Stats Reroll Fee Reduction +{0:d}" />
+	<key id="s_item_opt_sa_reduce_remakeoption_fee_r" value="Bonus Stats Reroll Fee Reduction +{0:0.1f}%" />
+	<key id="s_item_opt_sa_reduce_airtaxi_fee" value="Air Taxi Fee Reduction" />
+	<key id="s_item_opt_sa_reduce_airtaxi_fee_v" value="Air Taxi Fee Reduction +{0:d}" />
+	<key id="s_item_opt_sa_reduce_airtaxi_fee_r" value="Air Taxi Fee Reduction +{0:0.1f}%" />
 	<key id="s_item_opt_sa_improve_socket_unlock_probability" value="" />
 	<key id="s_item_opt_sa_improve_socket_unlock_probability_v" value="" />
 	<key id="s_item_opt_sa_improve_socket_unlock_probability_r" value="" />
-	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee" value="" />
-	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee_v" value="" />
-	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee_r" value="" />
-	<key id="s_item_opt_sa_reduce_pet_remakeoption_fee" value="" />
-	<key id="s_item_opt_sa_reduce_pet_remakeoption_fee_v" value="" />
-	<key id="s_item_opt_sa_reduce_pet_remakeoption_fee_r" value="" />
-	<key id="s_item_opt_sa_improve_riding_speed" value="" />
-	<key id="s_item_opt_sa_improve_riding_speed_v" value="" />
+	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee" value="Gemstone Upgrade Fee Reduction" />
+	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee_v" value="Gemstone Upgrade Fee Reduction +{0:d}" />
+	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee_r" value="Gemstone Upgrade Fee Reduction +{0:0.1f}%" />
+	<key id="s_item_opt_sa_reduce_pet_remakeoption_fee" value="Pet Bonus Stats Reroll Fee Reduction" />
+	<key id="s_item_opt_sa_reduce_pet_remakeoption_fee_v" value="Pet Bonus Stats Reroll Fee Reduction +{0:d}" />
+	<key id="s_item_opt_sa_reduce_pet_remakeoption_fee_r" value="Pet Bonus Stats Reroll Fee Reduction +{0:0.1f}%" />
+	<key id="s_item_opt_sa_improve_riding_speed" value="Mount Speed" />
+	<key id="s_item_opt_sa_improve_riding_speed_v" value=" " />
 	<key id="s_item_opt_sa_improve_riding_speed_r" value="" />
 	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee" value="" />
 	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee_v" value="" />
@@ -2075,7 +2075,7 @@
 	<key id="s_word_iconcode_lapenshard_red" value="Red Lapenshard" feature="Lapenshard01" />
 	<key id="s_word_iconcode_lapenshard_blue" value="Blue Lapenshard" feature="Lapenshard01" />
 	<key id="s_word_iconcode_lapenshard_green" value="Green Lapenshard" feature="Lapenshard01" />
-	<key id="s_word_iconcode_capsule" value="Capsule" feature="" />
+	<key id="s_word_iconcode_capsule" value="Capsule" />
 	<key id="s_word_rank_no" value="Item without set rank" />
 	<key id="s_word_rank_01" value="Normal" />
 	<key id="s_word_rank_02" value="Rare" />
@@ -2129,7 +2129,7 @@
 	<key id="s_word_item_limit_bind_trade" value="Binds on Trade" />
 	<key id="s_word_item_limit_bind_pet" value="Binds on Summon, Enhancement, or Talent Re-roll" />
 	<key id="s_word_item_limit_vip" value="Premium Club Item" />
-	<key id="s_word_item_limit_wedding" value="STRINGCOMMON_S_WORD_ITEM_LIMIT_WEDDING_VALUE" />
+	<key id="s_word_item_limit_wedding" value="Wedding-only Item" />
 	<key id="s_word_item_limit_moveDisable" value="Can&apos;t Transfer within Account" feature="EnchantReformation01" />
 	<key id="s_word_item_limit_moveDisable_store_in" value="Only {0} Can Withdraw" feature="EnchantReformation01" />
 	<key id="s_word_item_limit_socket_transfer" value="Socket cannot be transferred." />
@@ -2181,7 +2181,7 @@
 	<key id="s_word_require_skill_level" value="{0} [Level {1}+]" />
 	<key id="s_word_require_skill_level_without_leveloption" value="{0} (Not including skill level increase)" />
 	<key id="s_word_require_player_level" value="Level {0}+" />
-	<key id="s_word_require_quest_completed" value='Complete quest &quot;{0}&quot;' />
+	<key id="s_word_require_quest_completed" value="Complete quest &quot;{0}&quot;" />
 	<key id="s_word_pet_evolution" value="Pet Evolution" feature="PetEvolution01" />
 	<key id="s_word_limit_petcompose" value="Cannot Level Up or Be Used for Fusion" />
 	<key id="s_word_compose_result" value="Creates:" />
@@ -2217,7 +2217,7 @@
 	<key id="s_msg_tooltip_customize_buy_random_color" value="The color will be selected randomly upon purchase." />
 	<key id="s_msg_tooltip_limit_register_meratmarket" value="&lt;FONT color=&apos;#FF4040&apos;&gt;Cannot list in the Design Shop&lt;/FONT&gt;" />
 	<key id="s_msg_tooltip_enable_play_music" value="You can play an instrument." />
-	<key id="s_msg_tooltip_quest_info" value='Required for quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;&quot;.' />
+	<key id="s_msg_tooltip_quest_info" value="Required for quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;&quot;." />
 	<key id="s_msg_tooltip_equip_quest_info" value="&lt;FONT color=&apos;#FFD200&apos;&gt;* Equip the item to start a special quest.&lt;/FONT&gt;" />
 	<key id="s_msg_tooltip_quest_name" value="{0} (Lv. {1})" />
 	<key id="s_msg_tooltip_quest_name_complete" value="{0} (Complete / Lv. {1})" />
@@ -2248,7 +2248,7 @@
 	<key id="s_msg_revival_merat_msg_box" value="Spend {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; to revive on the spot?" />
 	<key id="s_msg_revival_merat_msg_box_cn" value="Spend {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; to revive on the spot?" />
 	<key id="s_msg_revival_merat_not_dead" value="You have already revived." />
-	<key id="s_msg_revival_meso_btn" value="Instant Revive {0} &lt;Img Src=&apos;export_common_icon_meso_h21&apos; vspace=&apos;-7&apos;&gt;&lt;/Img&gt; (Uses Left: {1})" />
+	<key id="s_msg_revival_meso_btn" value="Instant Revive {0} &lt;Img Src=&apos;export_common_icon_meso_h21&apos; vspace=&apos;-7&apos;&gt;&lt;/Img&gt; (Uses Left: {1}) " />
 	<key id="s_msg_revival_meso_event_btn" value="Instant Revive (Event) {0}&lt;Img Src=&apos;export_common_icon_meso_h21&apos; vspace=&apos;-7&apos;&gt;&lt;/Img&gt; " />
 	<key id="s_msg_revival_dungeon_warning" value="Revive in &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;?" />
 	<key id="s_msg_revival_meso_cannot_merat_msg_box" value="You do not have enough mesos. You can use merets may be used to revive instead.\nSpend {0} &lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;to revive in place?" />
@@ -2296,8 +2296,8 @@
 	<key id="s_msg_item_drop" value="How many would you like to discard?" />
 	<key id="s_msg_item_buy" value="How many would you like to purchase?" />
 	<key id="s_msg_item_sell" value="How many would you like to sell?" />
-	<key id="s_msg_quest_item_sell" value='This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nAre you sure you want to sell it?' />
-	<key id="s_msg_quest_item_sell_stack" value='This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nHow many would you like to sell?' />
+	<key id="s_msg_quest_item_sell" value="This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nAre you sure you want to sell it?" />
+	<key id="s_msg_quest_item_sell_stack" value="This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nHow many would you like to sell?" />
 	<key id="s_msg_item_repurchase" value="Purchase again?" />
 	<key id="s_msg_item_sell_request" value="You sold {0}." />
 	<key id="s_msg_item_sell_count_request" value="You sold {0} x{1}." />
@@ -2305,8 +2305,8 @@
 	<key id="s_msg_item_buy_confirm" value="Purchase this item?" />
 	<key id="s_msg_item_buy_confirm_prepaid" value="&lt;FONT color=&apos;#FFD200&apos;&gt;This item can only be purchased with Prepaid NX.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;Average Meso Price:&lt;/FONT&gt; {2} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n&lt;FONT color=&apos;#c0c0c0&apos;&gt;Monthly Meso Purchases:&lt;/FONT&gt; {0}/{1}\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#&apos;&gt;Do you want to purchase this item?&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_msg_item_break" value="How many would you like to dismantle?" />
-	<key id="s_msg_quest_item_drop_stack" value='This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nHow many would you like to discard?' />
-	<key id="s_msg_quest_item_drop" value='This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nAre you sure you want to discard it?' />
+	<key id="s_msg_quest_item_drop_stack" value="This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nHow many would you like to discard?" />
+	<key id="s_msg_quest_item_drop" value="This item is required for the quest &quot;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;.&quot;\n\nAre you sure you want to discard it?" />
 	<key id="s_msg_transfer_bind_pet_summon" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;This pet will become bound to {0} once summoned.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nWill you summon them?\n" />
 	<key id="s_msg_transfer_bind_pet_compose" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;This pet will become bound to {0} if you enhance it.&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nProceed with the enhancement?\n" />
 	<key id="s_msg_transfer_bind_pet_training" value="If you train this pet, it will be bound to {0}.\n\nProceed?\n" />
@@ -2461,7 +2461,7 @@
 	<key id="s_achieve_reward_meso" value="{0} Meso(s)" />
 	<key id="s_achieve_reward_exp" value="{0} exp" />
 	<key id="s_achieve_reward_function" value="Auto-loot available" />
-	<key id="s_achieve_reward_title" value='&quot;{0}&quot; Title' />
+	<key id="s_achieve_reward_title" value="&quot;{0}&quot; Title" />
 	<key id="s_achieve_reward_merat" value="{0} Meret(s)" />
 	<key id="s_achieve_reward_stat_point" value="Attribute Point x{0}" />
 	<key id="s_achieve_reward_skill_point" value="Skill Point x{0}" />
@@ -2469,7 +2469,7 @@
 	<key id="s_achieve_reward_item_buy_auth" value="{0} Unlocked for Purchase" />
 	<key id="s_achieve_reward_coloring" value="{0} Dye Unlocked" />
 	<key id="s_achieve_reward_beauty" value="{0} Unlocked for Purchase" />
-	<key id="s_achieve_reward_dynamicaction" value='&quot;{0}&quot; Emote Unlocked' />
+	<key id="s_achieve_reward_dynamicaction" value="&quot;{0}&quot; Emote Unlocked" />
 	<key id="s_achieve_reward_tab" value="Reward" />
 	<key id="s_achieve_reward_tab_great" value="Emblem" />
 	<key id="s_achieve_renderer_count" value="{0} / {1}" comment="{0} : 업적 카운트 현재 {1} : 업적 카운트 최대" />
@@ -2533,7 +2533,7 @@
 	<key id="s_maid_reserved_word_pay_type_meso" value="{0} mesos" />
 	<key id="s_maid_reserved_word_pay_type_merat" value="{0} Merets" />
 	<key id="s_maid_recipe_item_option" value="Random Attributes: {0}" />
-	<key id="s_maid_recipe_item_option_range" value="Random Attributes: {0} - {1} " />
+	<key id="s_maid_recipe_item_option_range" value="Random Attributes: {0} - {1}" />
 	<key id="s_manufacture_require" value="Closeness Rank {0}+" />
 	<key id="s_manufacture_require_over_max" value="&lt;FONT color=&apos;#C00000&apos; size=&apos;14&apos; &gt;(Hidden) Closeness Lv. {0}+ &lt;/FONT&gt;" />
 	<key id="s_manufacture_detail" value="Craft Time: {0}\nCloseness Granted: {1}" />
@@ -2544,8 +2544,8 @@
 	<key id="s_manufacture_title_status_tooltip" value="Mood {0} | Closeness {1} / {2}" />
 	<key id="s_manufacture_title_status_tooltip_max" value="Mood {0} | Maximum Closeness" />
 	<key id="s_manufacture_progress_hour" value="{0} hr" />
-	<key id="s_manufacture_progress_min" value="{0} min" />
-	<key id="s_manufacture_progress_sec" value="{0} sec" />
+	<key id="s_manufacture_progress_min" value=" {0} min" />
+	<key id="s_manufacture_progress_sec" value=" {0} sec" />
 	<key id="s_manufacture_progress_left" value=" remaining" />
 	<key id="s_manufacture_cancel_confirm" value="If you cancel you order, any materials you have spent will be lost.\nCancel the order?" />
 	<key id="s_manufacture_complete" value="Done" />
@@ -2722,7 +2722,7 @@
 	<key id="s_quest_talk_progress" value="Next\n$key:57$|Close\n$key:1$" />
 	<key id="s_quest_talk_end" value="Close\n$key:57$" />
 	<key id="s_quest_talk_reward_title" value="Quest Reward" />
-	<key id="s_quest_state_init" value="" />
+	<key id="s_quest_state_init" value=" " />
 	<key id="s_quest_state_beginAble" value="Available" />
 	<key id="s_quest_state_progress" value="In Progress" />
 	<key id="s_quest_state_completeAble" value="Complete" />
@@ -2750,7 +2750,7 @@
 	<key id="s_quest_desc_beginable" value="Find $npc:{1}$ in $map:{0}$" />
 	<key id="s_quest_desc_beginable_invalid_field" value="Find $npc:{0}$" />
 	<key id="s_quest_desc_beginable_current_field" value="Find $npc:{0}$ in your current map" />
-	<key id="s_quest_desc_require" value='You must complete &quot;{0}&quot; to begin this quest.' />
+	<key id="s_quest_desc_require" value="You must complete &quot;{0}&quot; to begin this quest." />
 	<key id="s_quest_desc_require_or" value=" Or " />
 	<key id="s_quest_list_quest_name" value="{0} (Lv. {1})" />
 	<key id="s_quest_reward_exp_percent" value="({0:0.2f}%)" />
@@ -2854,9 +2854,9 @@
 	<key id="s_action_owner" value=" - {0}" />
 	<key id="s_action_taxi_call" value="Call taxi" />
 	<key id="s_action_hold" value=" Hold on" />
-	<key id="s_action_hold_end" value="Let go" />
-	<key id="s_action_hold_cart" value="Get on cart" />
-	<key id="s_action_hold_end_cart" value="Get off cart" />
+	<key id="s_action_hold_end" value=" Let go" />
+	<key id="s_action_hold_cart" value=" Get on cart" />
+	<key id="s_action_hold_end_cart" value=" Get off cart" />
 	<key id="s_action_hold_pc" value="Board" />
 	<key id="s_action_hold_pc_end" value="Dismount" />
 	<key id="s_action_cant_pet" value="You can&apos;t summon a pet here." />
@@ -2995,7 +2995,7 @@
 	<key id="s_msg_chat_emoticon_add_failed" value="Failed to add stickers." feature="ChatEmoticon" />
 	<key id="s_msg_chat_emoticon_add_failed_already_exist" value="You can&apos;t add these stickers for one of the following reasons:\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;- This sticker pack has already expired.\n- This sticker pack has a shorter duration than the stickers you already have.\n- You already have the permanent version of this sticker pack.&lt;/FONT&gt;&lt;/a&gt;" feature="ChatEmoticon" />
 	<key id="s_msg_chat_emoticon_add_notify_message" value="Added {0}." feature="ChatEmoticon" />
-	<key id="s_html_chat_user_dungeon_helper" value="&lt;a href={0}&gt;&lt;FONT color=&apos;#ffffff&apos; &gt;Someone&lt;/font&gt;&lt;/a&gt;" />
+	<key id="s_html_chat_user_dungeon_helper" value="&lt;a href={0}&gt;&lt;FONT color=&apos;#ffffff&apos; &gt;Someone&lt;/font&gt;&lt;/a&gt; " />
 	<key id="s_html_chat_user_dungeon_member" value="&lt;a href={0}&gt;A helper&lt;/a&gt; " />
 	<key id="s_html_chat_join_party" value="&lt;a href={0}&gt;&lt;FONT color=&apos;#ffd200&apos;&gt;Join Party&lt;/FONT&gt;&lt;/a&gt;" />
 	<key id="s_html_chat_dungeon_name" value="&lt;a href={0}&gt;&lt;FONT color=&apos;#ffffff&apos; &gt;{2} ({1})&lt;/FONT&gt;&lt;/a&gt;" />
@@ -3037,7 +3037,7 @@
 	<key id="s_err_cash_recall_not_party" value="You must be in a party to summon." />
 	<key id="s_err_cash_recall_no_guildmember" value="There are no guild members to summon.\nYou can only summon guild members connected to the same world." />
 	<key id="s_err_cash_recall_no_partymember" value="There are no party members to summon.\nYou can only summon party members connected to the same world." />
-	<key id="s_err_cash_recall_no_weddingmember" value="STRINGCOMMON_S_ERR_CASH_RECALL_NO_WEDDINGMEMBER_VALUE" />
+	<key id="s_err_cash_recall_no_weddingmember" value="There is no spouse available to summon.\nOnly a spouse currently connected to the same world can be summoned." />
 	<key id="s_err_cash_recall_overflow" value="Summoning cannot be done in a crowded region." />
 	<key id="s_err_cash_call_cancel" value="The use of {0} was interrupted." />
 	<key id="s_err_cash_recall_cannot_dead" value="You cannot respond while tombstoned\nRevive and try again." />
@@ -3045,7 +3045,7 @@
 	<key id="s_cash_recall_confirm" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt; has opened a portal to &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;.\nDo you want to go there?" />
 	<key id="s_cash_recall_party_notice" value="A party member wants to summon you to their location." />
 	<key id="s_cash_recall_guild_notice" value="You&apos;ve got the guild summon request." />
-	<key id="s_cash_recall_wedding_notice" value="STRINGCOMMON_S_CASH_RECALL_WEDDING_NOTICE_VALUE" />
+	<key id="s_cash_recall_wedding_notice" value="A wedding summon request has arrived." />
 	<key id="s_cash_recall_expired_notice" value="You are unable to respond to the summon request." />
 	<key id="s_cash_recall_end_notice" value="This summon request has already ended." />
 	<key id="s_cash_recall_other_continent" value="You can&apos;t move to another region.\nDestination: {0}" />
@@ -3175,8 +3175,8 @@
 	<key id="s_system_quest_reward_meso" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} Meso(s)&lt;/FONT&gt;" />
 	<key id="s_system_quest_reward_meso_with_hottimebonus" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} Meso(s) + {1} from Hot Time&lt;/FONT&gt;" />
 	<key id="s_system_quest_reward_merat" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} Meret(s)&lt;/FONT&gt;" />
-	<key id="s_system_quest_reward_wedding_exp" value="STRINGCOMMON_S_SYSTEM_QUEST_REWARD_WEDDING_EXP_VALUE" />
-	<key id="s_system_achieve_reward_title" value='&lt;FONT color=&apos;#&apos;FFB400&gt;Got Title &quot;{0}&quot;&lt;/FONT&gt;' />
+	<key id="s_system_quest_reward_wedding_exp" value="&lt;FONT color=&apos;#&apos;FFB400&gt;{0} Affinity gained&lt;/FONT&gt;" />
+	<key id="s_system_achieve_reward_title" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Title &quot;{0}&quot;&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_field_enterance" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got {0} entry permission(s)&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_karma" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Treva x{0}&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_honor" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Valor Token x{0}&lt;/FONT&gt;" />
@@ -3226,7 +3226,7 @@
 	<key id="s_worldmap_tooltip_mapname" value="{0}" />
 	<key id="s_worldmap_tooltip_mapname_low" value="{0} / {1}" />
 	<key id="s_worldmap_tooltip_mapname_high" value="&lt;FONT color=&apos;#FF4040&apos;&gt;{0} / {1}&lt;/FONT&gt;" />
-	<key id="s_worldmap_tooltip_fishingspot_low" value=" {0} / Fishing - {1}" />
+	<key id="s_worldmap_tooltip_fishingspot_low" value="{0} / Fishing - {1}" />
 	<key id="s_worldmap_tooltip_fishingspot_high" value="&lt;FONT color=&apos;#FF4040&apos;&gt;{0} / Fishing - {1}&lt;/FONT&gt;" />
 	<key id="s_worldmap_tooltip_dbclick" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Double-click to travel here\nright away on a helicopter.&lt;/FONT&gt;" />
 	<key id="s_worldmap_tooltip_boss" value="{0} / Lv. {1}" />
@@ -3256,7 +3256,7 @@
 	<key id="s_worldmap_search_npc_indoor" value="{0} ({1})" />
 	<key id="s_worldmap_mission_attack_msg" value="Sortie to the {0} region?" />
 	<key id="s_tooltip_exp" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Experience ({0} / {1})&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThis is your current experience, and the experience required to reach the next level.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rest Experience&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou will accrue rest experience while offline or when logged in at your home.\n\nClicking the experience bar will open the &lt;FONT color=&apos;#00AEEF&apos;&gt;Maple Navigator&lt;/FONT&gt; window." />
-	<key id="s_tooltip_rest_exp" value="\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rested&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;b&gt;You are well rested.&lt;/b&gt; You are currently receiving &lt;FONT color=&apos;#00AEEF&apos;&gt;{2}%&lt;/FONT&gt; additional experience. Your accrued rest bonus will last until you are &lt;FONT color=&apos;#00AEEF&apos;&gt;{1:.2f}%&lt;/FONT&gt; of the way through &lt;FONT color=&apos;#00AEEF&apos;&gt;Level {0}&lt;/FONT&gt;." />
+	<key id="s_tooltip_rest_exp" value="\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rested&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;b&gt;You are well rested.&lt;/b&gt; You are currently receiving &lt;FONT color=&apos;#00AEEF&apos;&gt;{2}%&lt;/FONT&gt; additional experience. Your accrued rest bonus will last until you are &lt;FONT color=&apos;#00AEEF&apos;&gt;{1:.2f}%&lt;/FONT&gt; of the way through &lt;FONT color=&apos;#00AEEF&apos;&gt;Level {0}&lt;/FONT&gt;. " />
 	<key id="s_tooltip_adventure_exp" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Prestige Experience ({0} / {1})&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThis is your current prestige experience, and the experience required to reach the next prestige rank. You must be &lt;FONT color=&apos;#00AEEF&apos;&gt;Lv. 50+&lt;/FONT&gt; to earn this kind of experience.\n\nPrestige experience gains are reduced after the first &lt;FONT color=&apos;#00AEEF&apos;&gt;{1} prestige experience&lt;/FONT&gt; you earn each day. This limit is reset &lt;FONT color=&apos;#00AEEF&apos;&gt;every day at midnight&lt;/FONT&gt;. You will also earn a Prestige Reward Box every time you increase your prestige rank.\n\nClicking the prestige experience bar will open the &lt;FONT color=&apos;#00AEEF&apos;&gt;Prestige Rank&lt;/FONT&gt; window." />
 	<key id="s_tooltip_todayword" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;{0}&lt;/FONT&gt;\n{1}" />
 	<key id="s_minimap_icon_quest_completable_epic" value="&lt;img src=&apos;minimap_icon_questicon_completable_epic&apos; vspace=&apos;-5&apos;&gt;&lt;/img&gt;" />
@@ -3400,7 +3400,7 @@
 	<key id="s_tooltip_gamemenu_gallery" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Schwanda&apos;s Holiday Gallery {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView Schwanda&apos;s Holiday Gallery event menu." />
 	<key id="s_tooltip_gamemenu_gallery" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Schwanda&apos;s Holiday Gallery {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView Schwanda&apos;s Holiday Gallery event menu." locale="NA" />
 	<key id="s_tooltip_gamemenu_rps" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rock-Paper-Scissors {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView the Rock-Paper-Scissors event window." />
-	<key id="s_tooltip_gamemenu_coupledance" value="STRINGCOMMON_S_TOOLTIP_GAMEMENU_COUPLEDANCE_VALUE" />
+	<key id="s_tooltip_gamemenu_coupledance" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Love Dance Party{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can request a Couple Dance game and receive rewards." />
 	<key id="s_tooltip_gamemenu_characterselect" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Select Character {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nTakes you back to the Character Select Screen." />
 	<key id="s_tooltip_gamemenu_end" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;End Game {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nEnds the game." />
 	<key id="s_tooltip_gamemenu_survival" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Mushking Royale {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nView information about Mushking Royale or sign up for a match." feature="SurvivalContents01" />
@@ -3457,9 +3457,9 @@
 	<key id="s_itembreak_donation_legendary_item_checkbox" value="Donate Legendary Items" />
 	<key id="s_itembreak_donation_artifact_item" value="Your donation includes &lt;FONT color=&apos;#ff8c37&apos;&gt;Ascendant&lt;/FONT&gt; or better gear. Are you sure you want to donate these items?" feature="EpicItem" />
 	<key id="s_itembreak_donation_artifact_item_checkbox" value="Ascendant items will also be donated." feature="EpicItem" />
-	<key id="s_itembreak_preview_static" value="{0} x{1}" feature="" comment="{0} : 아이템 이름, {1} : 나올 갯수" />
-	<key id="s_itembreak_preview_static_fail" value="Failed to get {0}" feature="" comment="{0} : 아이템 이름" />
-	<key id="s_itembreak_preview_random" value="{0} x{1} - {2}" feature="" comment="{0} : 아이템 이름, {1} - {2}: 나올 갯수(min-max)" />
+	<key id="s_itembreak_preview_static" value="{0} x{1}" comment="{0} : 아이템 이름, {1} : 나올 갯수" />
+	<key id="s_itembreak_preview_static_fail" value="Failed to get {0}" comment="{0} : 아이템 이름" />
+	<key id="s_itembreak_preview_random" value="{0} x{1} - {2}" comment="{0} : 아이템 이름, {1} - {2}: 나올 갯수(min-max)" />
 	<key id="s_recall_user_notify_recall" value="You summoned {0}." />
 	<key id="s_recall_user_notify_confirm_recall" value="You sent a summon request to {0}." />
 	<key id="s_recall_user_notify_recalled" value="You are being summoned by {0}." />
@@ -3550,7 +3550,7 @@
 	<key id="s_msg_blackmarket_complete_register" value="You listed an item on the Black Market.\n(This listing will expire in {0} day(s))\n " />
 	<key id="s_msg_blackmarket_complete_remove" value="Your have canceled your listing. Your items will be returned by mail.\n" />
 	<key id="s_msg_blackmarket_complete_remove_already" value="The item has already been sold.\n" />
-	<key id="s_msg_blackmarket_complete_buy" value="You have purchased items on the Black Market. They will be delivered to your mailbox." />
+	<key id="s_msg_blackmarket_complete_buy" value="You have purchased items on the Black Market. They will be delivered to your mailbox. " />
 	<key id="s_msg_blackmarket_complete_stopsale" value="Item sale canceled.\nPlease check your mailbox." />
 	<key id="s_msg_blackmarket_ask_buy_text_default" value="Purchase this item?" />
 	<key id="s_msg_blackmarket_ask_buy" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;\n\n{1}\n " />
@@ -3565,39 +3565,39 @@
 	<key id="s_mesoMarket_endSellTime" value="Expires at {3:02d}:{4:02d} on {1}/{2}/{0}" />
 	<key id="s_mesoMarket_sellMeso_dropdownItem" value="{0}" />
 	<key id="s_mesoMarket_ask_buy_text" value="Purchase &lt;font color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;for \n&lt;FONT color=&apos;#47FFFF&apos; &gt;{1}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;?" />
-	<key id="s_mesoMarket_ask_buy_text" value="Purchase &lt;font color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; for\n{1}&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;?" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_ask_buy_text" value="Purchase &lt;font color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; for\n{1}&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;?" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_register_notice" value="· Price: Must be within ±20% of average\n· Sale Period: {0} day(s) from listing\n· Sale Fee: {1}% of the sale price\n   (Deducted before payout)\n· Max Listings: {2} per day per account\n   (Resets daily at midnight)\n * Meso sales are conducted in Merets." />
-	<key id="s_mesoMarket_register_notice" value="• Price: Must be within ±20% of average\n• Sale Period: {0} day(s) from listing\n• Daily Listing Limit: {2} per account\n   (Resets daily at midnight)\n• Profits paid in Blue Merets." locale="NA" feature="MesoMarket" />
+	<key id="s_mesoMarket_register_notice" value="• Price: Must be within ±20% of average\n• Sale Period: {0} day(s) from listing\n• Daily Listing Limit: {2} per account\n   (Resets daily at midnight)\n• Profits paid in Blue Merets." feature="MesoMarket" locale="NA" />
 	<key id="s_mesoMarket_sale_range_rate" value="(Within {0}% of the average price)" />
 	<key id="s_mesoMarket_market_price" value="(Average Price) {1} per {0} meso(s) &lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt;" />
-	<key id="s_mesoMarket_market_price" value="Average: {1} &lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;/&gt;" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_market_price" value="Average: {1} &lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;/&gt;" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_listItem_buyMerat" value="&lt;font color=&apos;#4efcfb&apos; &gt;{0}&lt;/font&gt; {1}" />
-	<key id="s_mesoMarket_listItem_buyMerat" value="&lt;font color=&apos;#ffffff&apos; &gt;{0}&lt;/font&gt; {1}" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_listItem_buyMerat" value="&lt;font color=&apos;#ffffff&apos; &gt;{0}&lt;/font&gt; {1}" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_register_count" value="{0}/{1}" />
 	<key id="s_mesoMarket_register_count_per_day" value="Today&apos;s Listings: {0} / {1} (Account)" />
 	<key id="s_mesoMarket_buy_count" value="{0} Purchases (Max {1} Daily)" />
-	<key id="s_mesoMarket_buy_count" value="Monthly Purchase Limit: {0}/{1}" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_buy_count" value="Monthly Purchase Limit: {0}/{1}" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_search_explain" value="Search results show the last {1} transaction(s). Mesos can be purchased {0} time(s) per day." />
-	<key id="s_mesoMarket_search_explain" value="Showing the last {1} transactions. Mesos can be purchased {0} times per month. This limit resets on the 1st of every month." locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_search_explain" value="Showing the last {1} transactions. Mesos can be purchased {0} times per month. This limit resets on the 1st of every month." feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_ask_stopsale" value="Mesos Listed for Sale: &lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Canceling a meso listing will not increase the number of remaining listings you may post today.&lt;/FONT&gt;\nDo you still want to cancel the listing?\n" />
 	<key id="s_mesoMarket_ask_stopsale_expire" value="Mesos Listed for Sale: &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;\nThe listing has expired.\nCollect mesos?\n" />
 	<key id="s_mesoMarket_listItem_sellMesoText" value="[{0}]" />
 	<key id="s_mesoMarket_listItem_unitPrice" value="{1} per {0} meso(s)" />
 	<key id="s_mesoMarket_sale_per_price" value="Price Per {0} Meso(s)" />
-	<key id="s_mesoMarket_sale_per_price" value="Price" locale="NA" feature="MesoMarket" />
+	<key id="s_mesoMarket_sale_per_price" value="Price" feature="MesoMarket" locale="NA" />
 	<key id="s_mesoMarket_mail_to_sender" value="Meso Market" />
 	<key id="s_mesoMarket_mail_to_seller_title" value="Meso Sale Complete" />
 	<key id="s_mesoMarket_mail_to_seller_content" value="The mesos you listed on the Black Market have been sold. Please check the attached amount.\n\nMesos Sold: {0}\nSale Price: {1} Meret(s)\nHandling Fee: {2} Meret(s) ({3}% of the sale price)\n&lt;img src=&apos;export_dotline_brown_f16_276&apos;/&gt;\nProfit: {4} Meret(s)" />
-	<key id="s_mesoMarket_mail_to_seller_content" value="The mesos you listed on the Black Market have been sold. Please check the attached amount.\n\nMesos Sold: {0} &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nSale Price: {1} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nProfit: {4} &lt;img src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_mail_to_seller_content" value="The mesos you listed on the Black Market have been sold. Please check the attached amount.\n\nMesos Sold: {0} &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nSale Price: {1} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nProfit: {4} &lt;img src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_mail_to_buyer_title" value="Meso Purchase Complete" />
 	<key id="s_mesoMarket_mail_to_buyer_content" value="Your Black Market mesos have arrived! Please find them attached to this mail.\n\nMesos Purchased: {0}\nPurchase Price: {1} Merets\n" />
-	<key id="s_mesoMarket_mail_to_buyer_content" value="Your Black Market mesos have arrived! Please find them attached to this mail.\n\nMesos Purchased: {0} &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nPurchase Price: {1} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_mail_to_buyer_content" value="Your Black Market mesos have arrived! Please find them attached to this mail.\n\nMesos Purchased: {0} &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nPurchase Price: {1} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_mail_to_cancel_title" value="Black Market Sale Canceled" />
 	<key id="s_mesoMarket_mail_to_cancel_content" value="The mesos you listed on the Black Market have been returned.\n\nListed Mesos: {0}\n" />
-	<key id="s_mesoMarket_mail_to_cancel_content" value="The mesos you listed on the Black Market have been returned.\n\nListed Mesos: &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;{0}\n" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_mail_to_cancel_content" value="The mesos you listed on the Black Market have been returned.\n\nListed Mesos: &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;{0}\n" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_register_terms_title" value="List mesos on the Black Market?\n&lt;font color=&apos;#c00000&apos;&gt;You can list mesos up to {0} time(s) per day per account.&lt;/font&gt;" />
 	<key id="s_mesoMarket_register_terms_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;Black Market Operations Notice&lt;/FONT&gt;\n\n1) Item Trades\n- Items listed for sale will appear on the sales log for {5} days.\n- Mesos listed on the Black Market can be purchased with merets (except event merets). When the mesos sell, the payout will be provided in the form of event merets.\n-  If the sale is canceled or expires, the mesos will be returned to you via mail.\n- When your mesos are purchased, {6} of the sale price will be deducted as a sales fee during payout calculation.\n- When listing mesos for sale, the price must be within {7}% of the average trade price.\n- You may list mesos on the Black Market at most {8} times per day per account, and purchase mesos up to {9} times per day per account. This limit resets daily at midnight.\n\n2) Item Trades - After listing the item to be sold, it will appear on the sales log for {0} day(s).\n- When listing an item, {1}% of the sale price (max {2} mesos) will be taken as a deposit. The deposit will be returned by mail when the sale is completed, or alongside the item when the listing expires. However, the deposit will not be returned if you cancel the sale yourself.\n- When the sale is canceled or expires, the listed items will be returned to you by mail.\n- When your item sells, {3} of the sale price will be deducted as a sales fee during payout calculation.\n\n3) General Notice\n- Items and mesos sent by mail as the result of a completed sale, expired listing, or canceled listing will be deleted from your mailbox if not claimed within {4} days, the standard expiration period for stored mail..\n- In the event that a problem occurs with the trade, the payout may be restored.\n" />
-	<key id="s_mesoMarket_register_terms_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;Black Market Operations Notice&lt;/FONT&gt;\n\n1) Item Trades\n- Items listed for sale will appear on the sales log for {5} days.\n- Mesos listed on the Black Market can be purchased with Meso Tokens. When the mesos sell, the payout will be provided in the form of blue merets.\n-  If the sale is canceled or expires, the mesos will be returned to you via mail.\n- When listing mesos for sale, the price must be within {7}% of the average trade price.\n- You may list mesos on the Black Market up to {8} times per day per account. This limit resets daily at midnight.\n- You may purchase mesos on the Black Market up to {9} times per month per account. This limit resets on the 1st of every month at midnight.\n\n2) Item Trades - After listing the item to be sold, it will appear on the sales log for {0} day(s).\n- When listing an item, {1}% of the sale price (max {2} mesos) will be taken as a deposit. The deposit will be returned by mail when the sale is completed, or alongside the item when the listing expires. However, the deposit will not be returned if you cancel the sale yourself.\n- When the sale is canceled or expires, the listed items will be returned to you by mail.\n- When your item sells, {3} of the sale price will be deducted as a sales fee during payout calculation.\n\n3) General Notice\n- Items and mesos sent by mail as the result of a completed sale, expired listing, or canceled listing will be deleted from your mailbox if not claimed within {4} days, the standard expiration period for stored mail..\n- In the event that a problem occurs with the trade, the payout may be restored.\n" locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_register_terms_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;Black Market Operations Notice&lt;/FONT&gt;\n\n1) Item Trades\n- Items listed for sale will appear on the sales log for {5} days.\n- Mesos listed on the Black Market can be purchased with Meso Tokens. When the mesos sell, the payout will be provided in the form of blue merets.\n-  If the sale is canceled or expires, the mesos will be returned to you via mail.\n- When listing mesos for sale, the price must be within {7}% of the average trade price.\n- You may list mesos on the Black Market up to {8} times per day per account. This limit resets daily at midnight.\n- You may purchase mesos on the Black Market up to {9} times per month per account. This limit resets on the 1st of every month at midnight.\n\n2) Item Trades - After listing the item to be sold, it will appear on the sales log for {0} day(s).\n- When listing an item, {1}% of the sale price (max {2} mesos) will be taken as a deposit. The deposit will be returned by mail when the sale is completed, or alongside the item when the listing expires. However, the deposit will not be returned if you cancel the sale yourself.\n- When the sale is canceled or expires, the listed items will be returned to you by mail.\n- When your item sells, {3} of the sale price will be deducted as a sales fee during payout calculation.\n\n3) General Notice\n- Items and mesos sent by mail as the result of a completed sale, expired listing, or canceled listing will be deleted from your mailbox if not claimed within {4} days, the standard expiration period for stored mail..\n- In the event that a problem occurs with the trade, the payout may be restored.\n" feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_error_unknown" value="System Error: Black Market Meso Trade code={0}" />
 	<key id="s_mesoMarket_error_errorDB" value="An error occurred with the request. Please try again." />
 	<key id="s_mesoMarket_error_shutDown" value="Meso trading is currently unavailable." />
@@ -3610,7 +3610,7 @@
 	<key id="s_mesoMarket_error_cannotBuyExpireDate" value="The item could not be sold." />
 	<key id="s_mesoMarket_error_maxCountRegister" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;You reached the listing limit for the day.&lt;/FONT&gt;\nNo more mesos can be listed today." />
 	<key id="s_mesoMarket_error_maxCountBuy" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;You reached the Meso purchase limit.&lt;/FONT&gt;\nNo more Mesos can be purchased today." />
-	<key id="s_mesoMarket_error_maxCountBuy" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;You&apos;ve reached your meso purchase limit.&lt;/FONT&gt;\nThe limit is reset on the 1st of every month. You cannot purchase any more mesos this month." locale="NA" feature="MesoMarketNA" />
+	<key id="s_mesoMarket_error_maxCountBuy" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;You&apos;ve reached your meso purchase limit.&lt;/FONT&gt;\nThe limit is reset on the 1st of every month. You cannot purchase any more mesos this month." feature="MesoMarketNA" locale="NA" />
 	<key id="s_mesoMarket_error_invalidSaleMoney" value="Invalid quantity of Mesos to sell." />
 	<key id="s_mesoMarket_error_invalidBuyMerat" value="Your sale price must be within {0}% of the current average price, or between {1} and {2} Meso Tokens." />
 	<key id="s_mesoMarket_error_alreadySoldProduct" value="This item is sold out." />
@@ -3635,7 +3635,7 @@
 	<key id="s_itemenchant_option_prop_event" value="&lt;FONT color=&apos;#FF4040&apos;&gt;(Bonus Basic Rate Event in Progress: {0}% &gt; &lt;/FONT&gt;&lt;FONT color=&apos;#FF5F5F&apos;&gt;{1}%)&lt;/FONT&gt;" />
 	<key id="s_itemenchant_option_low_prop" value="&lt; 1%" />
 	<key id="s_itemenchant_option_damage" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt; (Your gear has become unstable due to a failed attempt. It can no longer be enchanted.)&lt;/font&gt;" />
-	<key id="s_itemenchant_prop_detail" value=" ({0}% + &lt;FONT color=&apos;#78c446&apos;&gt;{1}%&lt;/FONT&gt; + &lt;FONT color=&apos;#78c446&apos;&gt;{2}%&lt;/FONT&gt;)" feature="EnchantReformation01" />
+	<key id="s_itemenchant_prop_detail" value="({0}% + &lt;FONT color=&apos;#78c446&apos;&gt;{1}%&lt;/FONT&gt; + &lt;FONT color=&apos;#78c446&apos;&gt;{2}%&lt;/FONT&gt;)" feature="EnchantReformation01" />
 	<key id="s_itemenchant_option_repair" value="Broken items can be enchanted after repairing them.\nDo you want to use {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; to repair immediately?" />
 	<key id="s_itemenchant_damage_warning" value="&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nDo you want to attempt a &lt;FONT color=&apos;#FFD200&apos;&gt;+{0} enchantment&lt;/FONT&gt;?&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;Success Chance: {1}%&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;If enchantment fails, the gear will become unstable. Unstable gear can no longer be enchanted.\n&lt;/FONT&gt;&lt;FONT color=&apos;#C0C0C0&apos;&gt;Additionally, unstable gear can no longer be traded.&lt;/FONT&gt;&lt;/p&gt;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_itemenchant_success_notice" value="{0} has succeeded in enchanting {1}." />
@@ -3716,7 +3716,7 @@
 	<key id="s_common_date_month_min" value="{1}/{2} {3}:{4:02d}" />
 	<key id="s_common_max_size" value="Max" />
 	<key id="s_common_min_size" value="Min" />
-	<key id="s_common_text_count" value=" Characters" />
+	<key id="s_common_text_count" value="Characters" />
 	<key id="s_common_set" value="{0}-item Set" />
 	<key id="s_common_meso" value="{0} &lt;Img Src=&apos;export_common_icon_meso_h21&apos; vspace=&apos;-6&apos; width=&apos;20&apos; height=&apos;20&apos; /&gt; " />
 	<key id="s_common_merat" value="{0} &lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt; " />
@@ -3793,7 +3793,7 @@
 	<key id="s_field_limit_level_min" value="You must be at least level {0} to do that." />
 	<key id="s_field_limit_gearScore" value="Insufficient gear score." />
 	<key id="s_field_limit_disable_vip" value="Requires active Premium Club membership." />
-	<key id="s_field_limit_achieve" value='You must have the &quot;{0}&quot; trophy to do this.' />
+	<key id="s_field_limit_achieve" value="You must have the &quot;{0}&quot; trophy to do this." />
 	<key id="s_field_limit_admin" value="You cannot go to here at this time." />
 	<key id="s_field_limit_clear_dungeon" value="There&apos;s a dungeon you must clear first." />
 	<key id="s_field_limit_additionalEffect" value="{0} effect required to enter." />
@@ -3893,9 +3893,9 @@
 	<key id="s_dungeonRoom_cooldown_dayOfWeeks" value="- Resets weekly on {0} at midnight \n- Keep in mind that you might not receive rewards if you enter the dungeon before midnight, but clear it after the reset.\n" />
 	<key id="s_dungeonRoom_enterButton_party_enter" value="Enter with Party" />
 	<key id="s_dungeonRoom_enterButton_already_enter" value="Enter Open Dungeon" />
-	<key id="s_dungeonRoom_use_extra_count_item" value='Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/font&gt; to increase the daily reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?' />
-	<key id="s_dungeonRoom_use_extra_count_item_week" value='Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/FONT&gt; to increase the weekly reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?' comment="{0}:아이템 이름, {1}:개수(숫자), {2}:던전 이름" />
-	<key id="s_dungeonRoom_use_extra_count_item_enter" value='Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/font&gt; to increase the daily reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;, and enter the dungeon?' />
+	<key id="s_dungeonRoom_use_extra_count_item" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/font&gt; to increase the daily reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?" />
+	<key id="s_dungeonRoom_use_extra_count_item_week" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/FONT&gt; to increase the weekly reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?" comment="{0}:아이템 이름, {1}:개수(숫자), {2}:던전 이름" />
+	<key id="s_dungeonRoom_use_extra_count_item_enter" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/font&gt; to increase the daily reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;, and enter the dungeon?" />
 	<key id="s_dungeonRoom_expense_reward_common" value="&lt;FONT color=&apos;#FFD400&apos;&gt; Current Reward Count {0}/{1}&lt;/FONT&gt;\n" />
 	<key id="s_dungeonRoom_expense_reward_with_maxcount" value="&lt;FONT color=&apos;#FFD400&apos;&gt;Clears Used: {0}/{1}&lt;/FONT&gt;\n" />
 	<key id="s_dungeonRoom_expense_reward_meso" value="Do you want to get another reward by using up a reward count and\n&lt;FONT color=&apos;#FFB400&apos; &gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;?" />
@@ -3913,7 +3913,7 @@
 	<key id="s_dungeonRoom_reward" value="Daily Clear Count" />
 	<key id="s_dungeonRoom_reward_daily" value="Daily Clear Count" />
 	<key id="s_dungeonRoom_reward_weekly" value="Weekly Clear Count" />
-	<key id="s_dungeonRoom_reward_account" value=" (Account)" />
+	<key id="s_dungeonRoom_reward_account" value="(Account)" />
 	<key id="s_dungeonRoom_reward_round" value="Rounds Cleared: {0} / {1}" comment="{0}:라운드 수, {1}:라운드 수" />
 	<key id="s_dungeonRoom_seasonRankBar_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rank Reward&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThe weekly rank reward is distributed through the mail and resets weekly, on {0} at midnight.\nFor the weekly rank reward, all rank rewards within the period can be earned.\nAfter reaching a rank, rewards for all ranks below it are awarded.\nEach rank reward can only be earned once." />
 	<key id="s_dungeonRoom_seasonSummary_tooltip1" value="Your weekly rewards rank resets every {0} at midnight. &lt;FONT color=&apos;#00AEEF&apos;&gt;Chaos raid (Lv. {1} or higher)&lt;/FONT&gt; rewards are distributed via mail based on your total Dungeon Points.\n" />
@@ -3921,7 +3921,7 @@
 	<key id="s_dungeonRoom_seasonSummary_tooltip2_sub" value=" - Above {0} point(s): &lt;FONT color=&apos;#00aaef&apos;&gt;{1}\n&lt;/FONT&gt;" />
 	<key id="s_dungeonRoom_seasonSummary_tooltip3" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\nTotal Dungeon Points&lt;/FONT&gt;: &lt;FONT color=&apos;#33db17&apos;&gt;{0}&lt;/FONT&gt; / {1}\n" />
 	<key id="s_dungeonRoom_seasonSummary_tooltip3_sub" value=" - ({1}){0}: {2} rank (&lt;FONT color=&apos;#33db17&apos;&gt;{3}&lt;/FONT&gt;/ {4})\n" />
-	<key id="s_dungeonRoom_seasonSummary_tooltip3_none" value="- You haven&apos;t completed any objectives.\n" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip3_none" value=" - You haven&apos;t completed any objectives.\n" />
 	<key id="s_dungeonRoom_clear_count" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Times Cleared:&lt;/FONT&gt; {0}" />
 	<key id="s_dungeonRoom_find_helper_button" value="Get Help" feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_helper_reward_count" value="Coins Collected: {0}" feature="FindDungeonHelp" />
@@ -4082,7 +4082,7 @@
 	<key id="s_meratmarket_buy_success_all" value="Purchase successful!" />
 	<key id="s_meratmarket_buy_success_with_fail" value="Only some of the items were purchased.\nPlease check the details to see which items could not be purchased." />
 	<key id="s_meratmarket_buy_fail_all" value="Unable to complete purchase.\nPlease review your selection." />
-	<key id="s_meratmarket_buy_notice_blueprint" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Purchase price does NOT include the cost of any furnishings you don&apos;t already own. When using this blueprint, you will be charged for any furnishings you&apos;re missing.&lt;/font&gt;&#x0A;&#x0A;Purchase the blueprint?" feature="Blueprint" />
+	<key id="s_meratmarket_buy_notice_blueprint" value="&lt;font color=&apos;#FF5F5F&apos;&gt;Purchase price does NOT include the cost of any furnishings you don&apos;t already own. When using this blueprint, you will be charged for any furnishings you&apos;re missing.&lt;/font&gt;&#xA;&#xA;Purchase the blueprint?" feature="Blueprint" />
 	<key id="s_meratmarket_gift_title" value="Gift Order" />
 	<key id="s_meratmarket_gift_success_row" value="&lt;FONT color=&apos;#8dd502&apos;&gt;[Gift Complete]&lt;/font&gt; {0} | {1}" />
 	<key id="s_meratmarket_gift_fail_row" value="&lt;FONT color=&apos;#ff4040&apos;&gt;[Failed to Gift]&lt;/font&gt; {0} | {1} &lt;FONT color=&apos;#ff4040&apos;&gt;\n     {2}&lt;/font&gt;" />
@@ -4108,7 +4108,7 @@
 	<key id="s_meratmarket_error_not_sale" value="The item could not be sold." />
 	<key id="s_meratmarket_error_not_sale_expired" value="This listing has expired." />
 	<key id="s_meratmarket_error_search_ing" value="Please try again later." />
-	<key id="s_meratmarket_error_search_result_empty" value='No search results for &quot;{0}&quot;.\nTry searching for a different word.' />
+	<key id="s_meratmarket_error_search_result_empty" value="No search results for &quot;{0}&quot;.\nTry searching for a different word." />
 	<key id="s_meratmarket_error_search_result_empty_by_itemlink" value="No search results for the product link [Meret Market:{0}].\nThis item is currently not for sale." />
 	<key id="s_meratmarket_error_search_result_empty_by_banner" value="No search results." />
 	<key id="s_meratmarket_error_search_result_with_ban" value="{0}\nTry searching for a different word." />
@@ -4135,7 +4135,7 @@
 	<key id="s_meratmarket_error_ugc_buy_limit_product_buy_count" value="You have reached the purchase limit on this item and cannot buy any more. (Purchase Limit: {0})" />
 	<key id="s_meratmarket_error_country_limit" value="This item cannot be purchased in the country from which you are connecting." />
 	<key id="s_meratmarket_error_ugc_calculate_invalid_blueprint_item" value="Unable to generate an estimate for that blueprint." feature="Blueprint" />
-	<key id="s_meratmarket_home_desc_period" value="{0} - {1}" feature="MeratMarketNewBM" comment="{0},{1}: s_meratmarket_limited_date" />
+	<key id="s_meratmarket_home_desc_period" value="{0} - {1}" comment="{0},{1}: s_meratmarket_limited_date" feature="MeratMarketNewBM" />
 	<key id="s_meratmarket_bookmark_add_complete" value="{0} has been added as a favorite designer." />
 	<key id="s_meratmarket_bookmark_limit_maxcount" value="You can add up to {0} designers as favorites.\nPlease try again after organizing your favorites list." />
 	<key id="s_meratmarket_bookmark_input_search" value="Please enter the designer you wish to search for." />
@@ -4283,12 +4283,12 @@
 	<key id="s_dps_type_gain_meso" value="Mesos Gained" />
 	<key id="s_partydps_titlebar" value="★ Party ★\n{0}" />
 	<key id="s_partydps_notice_history_prefix" value="&lt;b&gt;Meter - {3}&lt;/b&gt; [{0:02d}:{1:02d}:{2:02d}]" />
-	<key id="s_partydps_notice_history_row" value="[&lt;b&gt;{0}. {1}&lt;/b&gt; — {2}]" />
+	<key id="s_partydps_notice_history_row" value=" [&lt;b&gt;{0}. {1}&lt;/b&gt; — {2}]" />
 	<key id="s_partydps_notice_history_total_time" value=" &lt;b&gt;Elapsed Time:&lt;/b&gt; {0}" />
 	<key id="s_individualdps_titlebar" value="★ Solo ★\n{0}" />
 	<key id="s_chaosdps_titlebar" value="★ Party ★\n{0}" />
 	<key id="s_chaosdps_notice_history_prefix" value="&lt;b&gt;Meter - {3}&lt;/b&gt; [{0:02d}:{1:02d}:{2:02d}]" />
-	<key id="s_chaosdps_notice_history_row" value="[&lt;b&gt;{0}. {1}&lt;/b&gt; — {2}]" />
+	<key id="s_chaosdps_notice_history_row" value=" [&lt;b&gt;{0}. {1}&lt;/b&gt; — {2}]" />
 	<key id="s_chaosdps_notice_history_total_time" value=" &lt;b&gt;Elapsed Time:&lt;/b&gt; {0}" />
 	<key id="s_msgbox_format_profile_char_detail" value="Lv. {0} {1}" />
 	<key id="s_messenger_comfirm_chat_super" value="Would you like to send a Super Chat message?\nThe following item will be consumed:" />
@@ -4445,7 +4445,7 @@
 	<key id="s_render_screen_restoration_failed" value="Failed to restore game screen.\nPlease try restarting the game." />
 	<key id="s_render_graphiccard_error" value="A graphics card error has occurred.\nPlease check your graphics driver." />
 	<key id="s_window_service_auth_error" value="Recognition error. [{0}]" />
-	<key id="s_util_mem_depletion_url" value='&lt;a href=&quot;http://maplestory2.nexon.net&quot;&gt;[Problems may be resolved if you go to the website and go to customer center &gt; FAQ &gt; Operation/Connection &gt; insufficient memory].&lt;/a&gt;' />
+	<key id="s_util_mem_depletion_url" value="&lt;a href=&quot;http://maplestory2.nexon.net&quot;&gt;[Problems may be resolved if you go to the website and go to customer center &gt; FAQ &gt; Operation/Connection &gt; insufficient memory].&lt;/a&gt;" />
 	<key id="s_util_mem_depletion_phyx" value="You do not have enough memory. Recommended specs are 64-bit Windows and 4GB of memory or more." />
 	<key id="s_util_mem_depletion_default" value="You do not have enough memory. Recommended specs are 64-bit Windows and 4GB of memory or more." />
 	<key id="s_enum_dungeon_group_normal" value="Normal Adventure" />
@@ -4473,7 +4473,7 @@
 	<key id="s_partysearch_complete_remove_partysearch" value="Canceled party application." />
 	<key id="s_partysearch_complete_remove_membersearch" value="Removed recruitment listing." />
 	<key id="s_partysearch_ask_party_join_already_memebersearch" value="&lt;FONT color=&apos;#ffd200&apos;&gt;You have already applied for party recruitment.&lt;/Font&gt;\nCancel recruitment to join the party?" />
-	<key id="s_partysearch_err_search_result_empty" value='No search results for &quot;{0}&quot;.\nTry searching for a different word.' />
+	<key id="s_partysearch_err_search_result_empty" value="No search results for &quot;{0}&quot;.\nTry searching for a different word." />
 	<key id="s_partysearch_err_search_result_with_ban" value="{0}\nTry searching for a different word." />
 	<key id="s_partysearch_err_whisper_myself" value="You cannot whisper to yourself." />
 	<key id="s_partysearch_err_party_join_myself" value="You have already joined this party." />
@@ -4647,7 +4647,7 @@
 	<key id="s_fishing_size_large" value="Big" />
 	<key id="s_fishing_size_bigfish" value="Prize Fish" />
 	<key id="s_fishing_fish_habitat" value="Main Habitat: " />
-	<key id="s_fishing_fish_habitat_more" value="\n" />
+	<key id="s_fishing_fish_habitat_more" value=" \n" />
 	<key id="s_fishing_fish_habitat_unknown" value="Unknown\n" />
 	<key id="s_fishing_start_castingbar_text0" value="You cast your line into the water." />
 	<key id="s_fishing_start_castingbar_text1" value="Fish are nipping around the float." />
@@ -4658,11 +4658,11 @@
 	<key id="s_fishing_start_balloon_text1" value="Time to catch a prize fish!" />
 	<key id="s_fishing_start_balloon_text2" value="I have to snag a big one!" />
 	<key id="s_fishing_start_balloon_text3" value="I&apos;ve got a good feeling about this!" />
-	<key id="s_fishing_start_balloon_text4" value="Fishing is all about patience..." />
+	<key id="s_fishing_start_balloon_text4" value="Fishing is all about patience…" />
 	<key id="s_fishing_start_balloon_text5" value="I can catch anything!" />
-	<key id="s_fishing_start_balloon_text6" value="My cats will be happy if I catch this fish..." />
-	<key id="s_fishing_start_balloon_text7" value="When will I land the big one..." />
-	<key id="s_fishing_start_balloon_text8" value="I thought I saw a fin..." />
+	<key id="s_fishing_start_balloon_text6" value="My cats will be happy if I catch this fish…" />
+	<key id="s_fishing_start_balloon_text7" value="When will I land the big one…" />
+	<key id="s_fishing_start_balloon_text8" value="I thought I saw a fin…" />
 	<key id="s_fishing_start_balloon_text9" value="Now&apos;s the time to catch the big one..." />
 	<key id="s_fishing_fishfighting_castingbar_text0" value="Use the action key to center the float." />
 	<key id="s_fishing_fishfighting_balloon_text0" value="Finally a bite!" />
@@ -4697,7 +4697,7 @@
 	<key id="s_itemremake_error_server_fail_apply_option" value="The Bonus Attribute change failed." />
 	<key id="s_itemremake_error_server_fail_lack_lock_consume_item" value="Cannot lock attribute." feature="OptionBlock01" />
 	<key id="s_itemremake_error_server_default" value="Bonus Attributes Modification Error: code=[{0},{1}]" />
-	<key id="s_itemremake_chat_maxoption" value="{0} rolled {2} on their {1}!" />
+	<key id="s_itemremake_chat_maxoption" value="{0} rolled {2} on their {1}! " />
 	<key id="s_itemremake_scroll_already_open" value="A window for that system is already open.\nPlease close the window and try again." />
 	<key id="s_itemremake_scroll_notice_puton_item" value="Select the item you want to use the scroll with." />
 	<key id="s_itemremake_scroll_cur_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;Current Attributes\n{0}&lt;/font&gt;" />
@@ -4798,10 +4798,10 @@
 	<key id="s_tooltip_itemoption_enchant_broken" value="&lt;font color=&apos;#ffd200&apos;&gt;Enchantment Effects&lt;font color=&apos;#ff4040&apos;&gt;(Until {1}/{2}/{0} {3}:{4})&lt;/font&gt;\n{5}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_enchant_exp" value="&lt;font color=&apos;#ffd200&apos;&gt;Enchantment Experience\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_enchant_exp_refund" value="&lt;font color=&apos;#ffd200&apos;&gt;Enchantment Experience Reset &amp; Material Refund Available\n&lt;/font&gt;" feature="Peachy02" />
-	<key id="s_tooltip_itemoption_stat_row" value="  • {0}\n" />
-	<key id="s_tooltip_itemoption_stat_row_best" value="  &lt;font color=&apos;#d659ff&apos;&gt;• {0}&lt;/font&gt;\n" />
-	<key id="s_tooltip_itemoption_stat_row_pet_constant_desc" value="    &lt;b&gt;Base:&lt;/b&gt; {0}   &lt;b&gt;Bonus Per Level:&lt;/b&gt; {2}   &lt;b&gt;Max:&lt;/b&gt; {1}&lt;/font&gt;\n" />
-	<key id="s_tooltip_itemoption_stat_row_pet_disable" value="  &lt;font color=&apos;#707070&apos;&gt;• {0}&lt;/font&gt;\n" />
+	<key id="s_tooltip_itemoption_stat_row" value="• {0}\n" />
+	<key id="s_tooltip_itemoption_stat_row_best" value="&lt;font color=&apos;#d659ff&apos;&gt;• {0}&lt;/font&gt;\n" />
+	<key id="s_tooltip_itemoption_stat_row_pet_constant_desc" value="&lt;b&gt;Base:&lt;/b&gt; {0}   &lt;b&gt;Bonus Per Level:&lt;/b&gt; {2}   &lt;b&gt;Max:&lt;/b&gt; {1}&lt;/font&gt;\n" />
+	<key id="s_tooltip_itemoption_stat_row_pet_disable" value="&lt;font color=&apos;#707070&apos;&gt;• {0}&lt;/font&gt;\n" />
 	<key id="s_tooltip_itemoption_stat_row_pet_level" value="{0} [Pet Lv. {1}]" />
 	<key id="s_tooltip_itemoption_socket" value="&lt;font color=&apos;#9d67ff&apos;&gt;Socket\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_socket_by_pet" value="&lt;font color=&apos;#9d67ff&apos;&gt;Learn Talent\n{0}&lt;/font&gt;" />
@@ -4818,7 +4818,7 @@
 	<key id="s_tooltip_itemoption_setitem_name" value="&lt;font color=&apos;#00d205&apos;&gt;{0} ({1}/{2})\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_setitem_set_title" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&apos;#{0:x}&apos;&gt;{1} Set Items\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_setitem_name_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&apos;#{0:x}&apos;&gt;{1}\n&lt;/font&gt;" />
-	<key id="s_tooltip_itemoption_setitem_stat_row" value="   &lt;font color=&apos;#{0:x}&apos;&gt;• {1}\n&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_setitem_stat_row" value="&lt;font color=&apos;#{0:x}&apos;&gt;• {1}\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_ugcmap_setitem_name" value="&lt;font color=&apos;#00d205&apos;&gt;{0}\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_ugcmap_setitem_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&apos;#{0:x}&apos;&gt;{1}\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemremake_count" value="&lt;font color=&apos;#ffd200&apos;&gt;Can Change Bonus Attributes (Times Changed: {0})&lt;/font&gt;" />
@@ -4852,7 +4852,7 @@
 	<key id="s_play_instrument_ui_button_stop_ready_ensemble" value="Leave Ensemble" />
 	<key id="s_play_instrument_ui_button_stop_ensemble" value="End Ensemble" />
 	<key id="s_play_instrument_ui_need_score" value="You have not selected a music score to play. Please choose one from your inventory." />
-	<key id="s_play_instrument_ui_need_party_for_ensemble" value='&lt;FONT color=&apos;#FF5f5f&apos;&gt;You must join a party to perform with an ensemble.&lt;/font&gt;\nWhen the party leader presses &quot;Play with Ensemble,&quot; any nearby party members who have joined the ensemble will simultaneously perform their prepared music score.' />
+	<key id="s_play_instrument_ui_need_party_for_ensemble" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;You must join a party to perform with an ensemble.&lt;/font&gt;\nWhen the party leader presses &quot;Play with Ensemble,&quot; any nearby party members who have joined the ensemble will simultaneously perform their prepared music score." />
 	<key id="s_play_instrument_ui_unfold_solo_text" value="[Playing Solo] {0}" />
 	<key id="s_play_instrument_ui_unfold_ensemble_text" value="[Playing with Friends] {0}" />
 	<key id="s_play_instrument_invalid_instrument" value="Invalid instrument." />
@@ -4951,7 +4951,7 @@
 	<key id="s_pet_input_name" value="Please name your pet. (Maximum {1} letters.)" comment="{0}:한글글자길이 {1}:글자길이" />
 	<key id="s_pet_tamingnpc_default_perfix_name" value="Hungry" feature="PetBattle" />
 	<key id="s_pet_tamingnpc_max_perfix_name" value="Docile" feature="PetBattle" />
-	<key id="s_pet_tamingnpc_name" value="{0} {1}" feature="PetBattle" comment="{0}:prefix {1}:monstername" />
+	<key id="s_pet_tamingnpc_name" value="{0} {1}" comment="{0}:prefix {1}:monstername" feature="PetBattle" />
 	<key id="s_pet_summon_on" value="You summoned your pet." />
 	<key id="s_pet_summon_off" value="You dismissed your pet." />
 	<key id="s_pet_btn_summon_on" value="Summon" />
@@ -4967,8 +4967,8 @@
 	<key id="s_pet_effect_end_time" value="Lasts for {0}." />
 	<key id="s_pet_additional_desc_name" value="&lt;font color=&apos;#000000&apos;&gt;{0} | &lt;/font&gt;&lt;font color=&apos;#00a2ed&apos;&gt;Passive&lt;/font&gt;" />
 	<key id="s_pet_change_name" value="Rename" />
-	<key id="s_pet_change_name_free" value='You can change your pet&apos;s name once for free.\nChange to &quot;{0}&quot;?' />
-	<key id="s_pet_change_name_merat" value='You need {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt; to change your pet&apos;s name.\nChange to &quot;{1}&quot;?' />
+	<key id="s_pet_change_name_free" value="You can change your pet&apos;s name once for free.\nChange to &quot;{0}&quot;?" />
+	<key id="s_pet_change_name_merat" value="You need {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt; to change your pet&apos;s name.\nChange to &quot;{1}&quot;?" />
 	<key id="s_pet_change_name_same" value="That is already your pet&apos;s name." />
 	<key id="s_pet_change_name_samename" value="That is already the name of your pet." />
 	<key id="s_pet_itemuse_cannot_not_posion" value="You can only set potion items." />
@@ -5055,15 +5055,15 @@
 	<key id="s_usercommand_fmt_home_invite" value="\nHouse invitation: {0}\n- [House Invitation Method] {1} Character name" />
 	<key id="s_usercommand_fmt_help" value="\nHelp: {0}" />
 	<key id="s_chattooltip_fmt" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Chat&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nSend messages to other players through a variety of channels. Using World Chat and Channel Chat cost merets.\n{0}" />
-	<key id="s_chattooltip_fmt_world" value='\nWorld Chat &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_super_world" value='\nSuper Chat  &quot;{0}&quot;' feature="SuperWorldChat" />
-	<key id="s_chattooltip_fmt_ch" value='\nChannel Chat &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_space" value='\nLocal Chat &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_party" value='\nParty Chat &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_guild" value='\nGuild Chat &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_guild_mega" value='\nGuild Alert &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_whisper" value='\nWhisper &quot;{0} + Space + ID&quot;' />
-	<key id="s_chattooltip_fmt_club" value='\nClub &quot;{0} [club name]&quot;' feature="Club" />
+	<key id="s_chattooltip_fmt_world" value="\nWorld Chat &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_super_world" value="\nSuper Chat  &quot;{0}&quot;" feature="SuperWorldChat" />
+	<key id="s_chattooltip_fmt_ch" value="\nChannel Chat &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_space" value="\nLocal Chat &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_party" value="\nParty Chat &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_guild" value="\nGuild Chat &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_guild_mega" value="\nGuild Alert &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_whisper" value="\nWhisper &quot;{0} + Space + ID&quot;" />
+	<key id="s_chattooltip_fmt_club" value="\nClub &quot;{0} [club name]&quot;" feature="Club" />
 	<key id="s_timeevent_common_1" value="Let&apos;s play together! Come find Puzzroon&apos;s Cave in Amherst!" />
 	<key id="s_timeevent_common_4" value="Another event is in progress in Queenstown." />
 	<key id="s_timeevent_common_7" value="Another event is in progress in Queenstown." />
@@ -5105,7 +5105,7 @@
 	<key id="s_selectItemBox_select_ok" value="Selected" />
 	<key id="s_selectItemBox_select_next" value="Next" />
 	<key id="s_gameevent_enterfield_confirm" value="Travel to &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;?" />
-	<key id="s_card_reverse_game_consume_fail" value="Not enough $itemPlural:{0}$." />
+	<key id="s_card_reverse_game_consume_fail" value=" Not enough $itemPlural:{0}$." />
 	<key id="s_card_reverse_game_select_count" value="Selected Card {0}/{1}" />
 	<key id="s_card_reverse_game_close_message" value="You can pick more cards.\nDo you want to quit?" />
 	<key id="s_card_reverse_game_reward_notice" value="{0} got {1} from the Festival House." />
@@ -5329,15 +5329,15 @@
 	<key id="s_ugcmap_fun_survey_abstention" value="Abstained" />
 	<key id="s_ugcmap_fun_survey_dialog" value="Poll" />
 	<key id="s_ugcmap_fun_survey_guide" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; You can create a poll with &lt;b&gt;/poll open &lt;i&gt;TOPIC&lt;/i&gt;&lt;/b&gt; or &lt;b&gt;/poll secret &lt;i&gt;TOPIC&lt;/i&gt;&lt;/b&gt;." />
-	<key id="s_ugcmap_fun_survey_info_head" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; You are in the process of creating the {0} poll &quot;{1}&quot; with the following options:' />
+	<key id="s_ugcmap_fun_survey_info_head" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; You are in the process of creating the {0} poll &quot;{1}&quot; with the following options:" />
 	<key id="s_ugcmap_fun_survey_info_footer" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; You can add options by typing &lt;b&gt;/poll add &lt;i&gt;OPTION&lt;/i&gt;&lt;/b&gt;, or start the poll with &lt;b&gt;/poll start&lt;/b&gt;." />
-	<key id="s_ugcmap_fun_survey_create_success" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; was created.' />
-	<key id="s_ugcmap_fun_survey_create_error" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; could not be created.' />
-	<key id="s_ugcmap_fun_survey_add_success" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The option &quot;{2}&quot; has been added.' />
-	<key id="s_ugcmap_fun_survey_add_error" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The option &quot;{2}&quot; could not be added. ' />
-	<key id="s_ugcmap_fun_survey_start" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; has begun. You can end the poll at any time with &lt;b&gt;/poll end&lt;b&gt;.' />
+	<key id="s_ugcmap_fun_survey_create_success" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; was created." />
+	<key id="s_ugcmap_fun_survey_create_error" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; could not be created." />
+	<key id="s_ugcmap_fun_survey_add_success" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The option &quot;{2}&quot; has been added." />
+	<key id="s_ugcmap_fun_survey_add_error" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The option &quot;{2}&quot; could not be added. " />
+	<key id="s_ugcmap_fun_survey_start" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; has begun. You can end the poll at any time with &lt;b&gt;/poll end&lt;b&gt;." />
 	<key id="s_ugcmap_fun_survey_vote" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; Your  vote has been placed." />
-	<key id="s_ugcmap_fun_survey_end" value='&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; has ended.' />
+	<key id="s_ugcmap_fun_survey_end" value="&lt;font color=&apos;#ffffff&apos;&gt;[Poll]&lt;/font&gt; The {0} poll &quot;{1}&quot; has ended." />
 	<key id="s_ugcmap_fun_survey_result" value="- {0} — {1} vote(s)" />
 	<key id="s_ugcmap_fun_survey_close_without_vote" value="Do you want to exit the poll without voting?" />
 	<key id="s_ugcmap_fun_portal_name_duplicated" value="A portal with the same name already exists." />
@@ -5359,7 +5359,7 @@
 	<key id="s_ugcmap_cant_additionalbuy" value="You cannot buy that furnishing." />
 	<key id="s_ugcmap_admin_only" value="GMs only." />
 	<key id="s_ugcmap_not_allowed_item" value="This item cannot be used." />
-	<key id="s_vip_dialog_remain_time" value="Ends in {0}" />
+	<key id="s_vip_dialog_remain_time" value=" Ends in {0}" />
 	<key id="s_vip_dialog_end_time" value="Membership inactive." />
 	<key id="s_vip_dialog_remain_time_hour" value="Less than an hour remains!" />
 	<key id="s_vip_dialog_get_benefit_item" value="You have received an exclusive Premium item!" />
@@ -5409,7 +5409,7 @@
 	<key id="s_gameranking_party_member_job" value="\n&lt;Img Src=&apos;export_job_icon_partysearch_{0:02d}&apos; vspace=&apos;-6&apos;/&gt; {1} (Lv. {2})" />
 	<key id="s_gameranking_characterinfo" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Character&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;" />
 	<key id="s_gameranking_survivalinfo" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Royale Record&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;" feature="SurvivalContents01" />
-	<key id="s_gameranking_survivalinfo_recent_playtime" value="\nLast Match: {0} ago" feature="SurvivalContents01" />
+	<key id="s_gameranking_survivalinfo_recent_playtime" value="\nLast Match: {0} ago " feature="SurvivalContents01" />
 	<key id="s_gameranking_survivalinfo_win_count" value="\nWins: {0}" feature="SurvivalContents01" />
 	<key id="s_home_option_init" value="Do you want to reset the settings?" />
 	<key id="s_home_option_msg_etc_kickuser" value="Do you want to kick everyone out of the house?" />
@@ -5506,7 +5506,7 @@
 	<key id="s_mastery_autointeraction_lack_item" value="You do not have the {0}." feature="AutoMastery01" />
 	<key id="s_mastery_autointeraction_none_available_count" value="You cannot gather any more from that resource today." feature="AutoMastery01" />
 	<key id="s_spawnnpc_guarantee" value="&lt;font color=&apos;#FF5F5F&apos;&gt;[Spawns at {0}]&lt;/font&gt;" />
-	<key id="s_pvp_arena_close_test_season_msg" value='The master craftsman of Maple Island, called &quot;The Special One,&quot;\nis reparing the arena.\nCome back on January 12!' />
+	<key id="s_pvp_arena_close_test_season_msg" value="The master craftsman of Maple Island, called &quot;The Special One,&quot;\nis reparing the arena.\nCome back on January 12!" />
 	<key id="s_home_save_messagebox" value="Saving to slot number {0}.\nEnter a title for the floor plan." />
 	<key id="s_home_load_messagebox" value="You are about to load the floor plan stored in slot {0}. Be sure to clear your home of any furnishings before you proceed!\n\nLoad floor plan?" />
 	<key id="s_home_blueprint_load_messagebox" value="You are about to load the blueprint stored in slot {0}.\n\nThis will overwrite any blueprint that you are currently working on.\n\nDo you still want to load it?" feature="Blueprint" />
@@ -5592,8 +5592,8 @@
 	<key id="s_mastery_reduce_event" value=" [Speed x{0} event is in progress]" />
 	<key id="s_maple_guide_skip_message" value="Close Maple Guide" />
 	<key id="s_maple_guide_skip_button" value="Skip" />
-	<key id="s_quest_redirect_complete" value='Quest &quot;{0}&quot; completed.' />
-	<key id="s_quest_redirect_accept" value='Quest &quot;{0}&quot; accepted.' />
+	<key id="s_quest_redirect_complete" value="Quest &quot;{0}&quot; completed." />
+	<key id="s_quest_redirect_accept" value="Quest &quot;{0}&quot; accepted." />
 	<key id="s_item_merge_option_material_count_enable" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;/{1}" />
 	<key id="s_item_merge_option_material_count_disable" value="&lt;FONT color=&apos;#C00000&apos;&gt;{0}&lt;/FONT&gt;/{1}" />
 	<key id="s_item_merge_option_grade_current" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;Empowerment Attributes&lt;/FONT&gt;" />
@@ -5615,8 +5615,8 @@
 	<key id="s_msg_item_open_item_box_mergeitem" value="Using this will use &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt; item. All crafting materials will be return. Do you want to use this item? (It will be sent to your mailbox if your inventory is full.)" />
 	<key id="s_item_merge_option_consume_meso" value="{0}&lt;Img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;/&gt;" />
 	<key id="s_item_merge_valid_item" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Can Be Empowered&lt;/FONT&gt;" />
-	<key id="s_item_merge_option_warn" value="This item has already been empowered. If you reattempt empowerment, the existing empowerment attributes will be lost.&#x0A;Do you want to continue?" />
-	<key id="s_item_merge_chat_maxoption" value="{0} rolled {2} on their {1}!" />
+	<key id="s_item_merge_option_warn" value="This item has already been empowered. If you reattempt empowerment, the existing empowerment attributes will be lost.&#xA;Do you want to continue?" />
+	<key id="s_item_merge_chat_maxoption" value="{0} rolled {2} on their {1}! " />
 	<key id="s_word_tab_petinfo" value="Info" feature="PetBase" />
 	<key id="s_word_tab_petcompose" value="Fusion" feature="PetBattle" />
 	<key id="s_word_tab_petcollect" value="Album" feature="PetBattle" />
@@ -5776,13 +5776,13 @@
 	<key id="s_alliance_quest_limit_alliance_delimeter" value=", " />
 	<key id="s_alliance_quest_limit_alliance" value="{1} by {0}" />
 	<key id="s_alliance_quest_limit_alliance_condition" value="Prerequisites: {0}" />
-	<key id="s_alliance_quest_require_condition" value='You need to be at least Lv. {0} and have completed the &quot;{1}&quot; quest.' feature="" />
+	<key id="s_alliance_quest_require_condition" value="You need to be at least Lv. {0} and have completed the &quot;{1}&quot; quest." />
 	<key id="s_alliance_quest_unreq_group_warn" value="You can only complete 1 mission of this type each week. Accept this faction&apos;s mission?" />
 	<key id="s_fame_point_board_time1" value="{0} min ago" />
 	<key id="s_fame_point_board_time2" value="{0:02d}:{1:02d}" />
 	<key id="s_fame_point_board_time3" value="{1}/{2}/{0:04d}" />
 	<key id="s_fame_point_update" value="Faction message boards have been updated." />
-	<key id="s_fame_point_board_warn" value='You must first complete the quest &quot;{0}&quot; to use that.' />
+	<key id="s_fame_point_board_warn" value="You must first complete the quest &quot;{0}&quot; to use that." />
 	<key id="s_fame_point_board_warn2" value="You need to complete the Sky Fortress epic quest to use this." />
 	<key id="s_fame_point_board_max" value="MAX" />
 	<key id="s_sky_fortress_warn_quest" value="You must complete {0} to travel." />
@@ -5916,7 +5916,7 @@
 	<key id="s_maple_survival_ui_notice_firstmatch_char_bind" value="&lt;FONT color=&apos;#c0c0c0&apos; &gt;This character&apos;s name will appear in this season&apos;s ranking.&lt;/FONT&gt;&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;" feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_season_title" value="Season {0}" feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_season_period" value="{1}/{2}/{0:2d} {3:02d}:{4:02d} - {6}/{7}/{5:2d} {8:02d}:{9:02d}" feature="SurvivalContents01" />
-	<key id="s_maple_survival_ui_season_period" value="{1}/{2}/{0:2d} {3:02d}:{4:02d} - {6}/{7}/{5:2d} maintenance" locale="NA" feature="SurvivalContents01" />
+	<key id="s_maple_survival_ui_season_period" value="{1}/{2}/{0:2d} {3:02d}:{4:02d} - {6}/{7}/{5:2d} maintenance" feature="SurvivalContents01" locale="NA" />
 	<key id="s_maple_survival_ui_free_season_title" value="Unranked" feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_free_season_period" value="It&apos;s currently the pre-season." feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_refresh_season_record" value="A new season has begun. Please try again." feature="SurvivalContents01" />
@@ -5953,7 +5953,7 @@
 	<key id="s_maple_survival_in_storm" value="You are being poisoned by sleepy spores. Move to the safe zone!" feature="SurvivalContents01" />
 	<key id="s_maple_survival_game_menu_no_next_period" value="Stay tuned for news on the next update." feature="SurvivalContents01" />
 	<key id="s_maple_survival_game_menu_next_period" value="Available {1}/{2}/{0} {3:02d}:{4:02d}:{5:02d} - {7}/{8}/{6} {9:02d}:{10:02d}:{11:02d}.\nGame is not available outside of operating hours." feature="SurvivalContents01" />
-	<key id="s_maple_survival_game_menu_next_period" value="Available {1}/{2}/{0} {3:02d}:{4:02d}:{5:02d} - {7}/{8}/{6} {9:02d}:{10:02d}:{11:02d}." locale="NA" feature="SurvivalContents01" />
+	<key id="s_maple_survival_game_menu_next_period" value="Available {1}/{2}/{0} {3:02d}:{4:02d}:{5:02d} - {7}/{8}/{6} {9:02d}:{10:02d}:{11:02d}." feature="SurvivalContents01" locale="NA" />
 	<key id="s_maple_survival_pass_buff_improve_kill_exp" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;[Pass]&lt;/FONT&gt; Combat Experience +{0}%" feature="SurvivalContents03" />
 	<key id="s_maple_survival_pass_buff_improve_time_exp" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;[Pass]&lt;/FONT&gt; Survival Experience +{0}%" feature="SurvivalContents03" />
 	<key id="s_maple_survival_event_buff_improve_kill_exp" value="&lt;FONT color=&apos;#00AEEF&apos;&gt;[Event]&lt;/FONT&gt; Combat Experience +{0}%" feature="SurvivalContents03" />
@@ -5971,10 +5971,10 @@
 	<key id="s_world_WorldmapIcon_mushking_appear" value="World Raid - Mushking" />
 	<key id="s_lapenshard_tabname_equip" value="Equip" feature="Lapenshard01" />
 	<key id="s_lapenshard_tabname_upgrade" value="Fusion" feature="Lapenshard01" />
-	<key id="s_lapenshard_tabname_upgrade_success_prob" value="Success Chance: {0:0.2f}%" feature="Lapenshard01" comment="{0}:Success Probability" />
-	<key id="s_lapenshard_tabname_upgrade_input_count" value="How many will you use? (Owned: {0})" feature="Lapenshard01" comment="{0}:item Count" />
+	<key id="s_lapenshard_tabname_upgrade_success_prob" value="Success Chance: {0:0.2f}%" comment="{0}:Success Probability" feature="Lapenshard01" />
+	<key id="s_lapenshard_tabname_upgrade_input_count" value="How many will you use? (Owned: {0})" comment="{0}:item Count" feature="Lapenshard01" />
 	<key id="s_lapenshard_tabname_upgrade_lack_ingredient" value="Not enough materials." feature="Lapenshard01" />
-	<key id="s_lapenshard_open_quest_message" value="You need to complete the epic quest &lt;font color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; to use a lapenshard." feature="Lapenshard01" comment="{0}:Quest Name" />
+	<key id="s_lapenshard_open_quest_message" value="You need to complete the epic quest &lt;font color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; to use a lapenshard." comment="{0}:Quest Name" feature="Lapenshard01" />
 	<key id="s_lapenshard_disable_field" value="You can&apos;t do that in this area." feature="Lapenshard01" />
 	<key id="s_lapenshard_disable_battle" value="You cannot do that during combat." feature="Lapenshard01" />
 	<key id="s_lapenshard_upgraded_item" value="You&apos;re about to use a lapenshard that is tier 2 or better as catalyst. Proceed?" feature="Lapenshard01" />
@@ -5993,46 +5993,46 @@
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Winter Burning Event]&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn.\n• This effect lasts from level 10 until 70. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the original character.\n\nAfter leveling a designated burning character to 70, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 12/13/2018 after maintenance to 2/14/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n\n" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Winter Burning Event]&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn.\n• This effect lasts from level 9 until 60. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the character you originally designated first.\n\n•After leveling a designated burning character to 60, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 11/13/2019 after maintenance to 12/11/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" locale="NA" />
 	<key id="s_burning_levelup_event_reward_ui_title" value="Burning" />
-	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_ITEM_DESC_POPUP_VALUE" />
-	<key id="s_burning_levelup_event_jumping_item_notify" value="STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_ITEM_NOTIFY_VALUE" />
-	<key id="s_burning_levelup_event_jumping_complete" value="STRINGCOMMON_S_BURNING_LEVELUP_EVENT_JUMPING_COMPLETE_VALUE" />
-	<key id="s_action_banner_couple_dance" value="STRINGCOMMON_S_ACTION_BANNER_COUPLE_DANCE_VALUE" />
-	<key id="s_microgame_couple_dance_event_invalid_event" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_EVENT_INVALID_EVENT_VALUE" />
-	<key id="s_microgame_couple_dance_event_ask_close" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_EVENT_ASK_CLOSE_VALUE" />
-	<key id="s_microgame_couple_dance_close" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_CLOSE_VALUE" />
-	<key id="s_microgame_couple_dance_waiting" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_WAITING_VALUE" />
-	<key id="s_microgame_couple_dance_request_recv" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_RECV_VALUE" />
-	<key id="s_microgame_couple_dance_response_decline" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_DECLINE_VALUE" />
-	<key id="s_microgame_couple_dance_response_accept" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_ACCEPT_VALUE" />
-	<key id="s_microgame_couple_dance_failed" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_FAILED_VALUE" />
-	<key id="s_microgame_couple_dance_open_banner_failed_action_key" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_OPEN_BANNER_FAILED_ACTION_KEY_VALUE" />
-	<key id="s_microgame_couple_dance_open_banner_failed_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_OPEN_BANNER_FAILED_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_wrong_distance" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_DISTANCE_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_wrong_position" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_POSITION_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_request_cancel" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_CANCEL_VALUE" />
-	<key id="s_microgame_couple_dance_peer_game_cancel" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_PEER_GAME_CANCEL_VALUE" />
-	<key id="s_microgame_couple_dance_banner_failed_blocked_in_this_field" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_BANNER_FAILED_BLOCKED_IN_THIS_FIELD_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_blocked_in_this_field" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_BLOCKED_IN_THIS_FIELD_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_peer_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_PEER_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_request_failed_blocked_user" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_REQUEST_FAILED_BLOCKED_USER_VALUE" />
-	<key id="s_microgame_couple_dance_response_failed_blocked_user" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_RESPONSE_FAILED_BLOCKED_USER_VALUE" />
-	<key id="s_microgame_couple_dance_accept_failed_peer_wrong_state" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_ACCEPT_FAILED_PEER_WRONG_STATE_VALUE" />
-	<key id="s_microgame_couple_dance_start_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_START_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_ready_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_READY_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_select_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_SELECT_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_wait_result_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_WAIT_RESULT_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_success_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_SUCCESS_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_fail_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_FAIL_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_normal_end_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_NORMAL_END_MESSAGE_VALUE" />
-	<key id="s_microgame_couple_dance_good_end_message" value="STRINGCOMMON_S_MICROGAME_COUPLE_DANCE_GOOD_END_MESSAGE_VALUE" />
+	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="\n• This Level 60 Jump Potion is provided upon completing the tutorial. \n• After using it, you cannot designate another Burning character even if you delete this character.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" />
+	<key id="s_burning_levelup_event_jumping_item_notify" value="Check your inventory now! \n You received a &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 60 Level-Up Potion]&lt;/FONT&gt;. \nUse the item to jump to level 60! \n After jumping, you can benefit from Burning up to level 81.\n\n" />
+	<key id="s_burning_levelup_event_jumping_complete" value="You used the &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 60 Level-Up Potion]&lt;/FONT&gt;! \n\n • You can no longer create another Burning character, even if you delete this character.\n • Complete the job advancement quest for smooth progression.\n • From now until level 81, 1+2 Burning level-ups will apply.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 81 Final Reward]&lt;/FONT&gt;\n " />
+	<key id="s_action_banner_couple_dance" value="Join the Couple Dance" />
+	<key id="s_microgame_couple_dance_event_invalid_event" value="This event cannot be started." />
+	<key id="s_microgame_couple_dance_event_ask_close" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;Closing the window will cancel the Couple Dance listing.&lt;/font&gt;\nAre you sure you want to close the window?" />
+	<key id="s_microgame_couple_dance_close" value="Would you like to cancel the Couple Dance listing?" />
+	<key id="s_microgame_couple_dance_waiting" value="Sending a Couple Dance request to the other player." />
+	<key id="s_microgame_couple_dance_request_recv" value="{0} has requested a Couple Dance." />
+	<key id="s_microgame_couple_dance_response_decline" value="{0} does not want to Couple Dance." />
+	<key id="s_microgame_couple_dance_response_accept" value="Let&apos;s dance together!" />
+	<key id="s_microgame_couple_dance_failed" value="Failed to start Couple Dance" />
+	<key id="s_microgame_couple_dance_open_banner_failed_action_key" value="You cannot post a Couple Dance listing here." />
+	<key id="s_microgame_couple_dance_open_banner_failed_wrong_state" value="You cannot do that in your current state." />
+	<key id="s_microgame_couple_dance_request_failed_wrong_distance" value="You are too far away to do that." />
+	<key id="s_microgame_couple_dance_request_failed_wrong_position" value="You cannot do that from your current position." />
+	<key id="s_microgame_couple_dance_request_failed_wrong_state" value="You cannot do that in your current state." />
+	<key id="s_microgame_couple_dance_request_cancel" value="The other player canceled the Couple Dance request." />
+	<key id="s_microgame_couple_dance_peer_game_cancel" value="The other player ended the Couple Dance game." />
+	<key id="s_microgame_couple_dance_banner_failed_blocked_in_this_field" value="You cannot do that on the current map." />
+	<key id="s_microgame_couple_dance_request_failed_blocked_in_this_field" value="You cannot do that on the current map." />
+	<key id="s_microgame_couple_dance_request_failed_peer_wrong_state" value="The other player is unable to participate in a Couple Dance game." />
+	<key id="s_microgame_couple_dance_request_failed_blocked_user" value="You have blocked this player. Unblock them and try again." />
+	<key id="s_microgame_couple_dance_response_failed_blocked_user" value="A blocked player requested a Couple Dance." />
+	<key id="s_microgame_couple_dance_accept_failed_peer_wrong_state" value="The other player is unable to Couple Dance." />
+	<key id="s_microgame_couple_dance_start_message" value="Starting the Couple Dance game!" />
+	<key id="s_microgame_couple_dance_ready_message" value="Express how you feel with your body." />
+	<key id="s_microgame_couple_dance_select_message" value="Click a button to dance." />
+	<key id="s_microgame_couple_dance_wait_result_message" value="Thump, thump!\nAre our hearts in sync?" />
+	<key id="s_microgame_couple_dance_success_message" value="Our hearts are in sync!\nCould we be a match made in heaven...?" />
+	<key id="s_microgame_couple_dance_fail_message" value="Oh... What a shame!\nStill, that was a wonderful dance." />
+	<key id="s_microgame_couple_dance_normal_end_message" value="Great dancing! Well done!\nSee you again next time." />
+	<key id="s_microgame_couple_dance_good_end_message" value="What a spark! We&apos;re perfectly in sync!\nCould we be a match made in heaven...?" />
 	<key id="s_achieve_disabled_mushkingroyal" value="Purchase the Founder&apos;s Pack to access this." feature="FoundersPackMode" locale="NA" />
 	<key id="s_foundersPack_cannot_use_rpg_mode" value="Purchase the Founder&apos;s Pack to access this." feature="FoundersPackMode" locale="NA" />
 	<key id="s_foundersPack_cannot_use_rpg_mode_before_tutorial" value="You need to complete MapleStory 2&apos;s job tutorial." feature="FoundersPackMode" locale="NA" />
 	<key id="s_gamemode_rpg_disable" value="If you have a &lt;FONT color=&apos;#FFD200&apos;&gt;Founder&apos;s Pack&lt;/FONT&gt;, you can play as soon as &lt;FONT color=&apos;#FFA200&apos;&gt;Head Start&lt;/FONT&gt; begins! Have you picked up yours yet?" feature="SurvivalContents03" locale="NA" />
 	<key id="s_gamemode_rpg_close" value="Close" feature="SurvivalContents03" locale="NA" />
 	<key id="s_founderspack_need" value="Access this by purchasing a Founder&apos;s Pack. Would you like to buy one?" locale="NA" />
-	<key id="s_highlightgamemenu_characterinfo" value="You have unallocated &lt;FONT color=&apos;#FFD200&apos;&gt;Attribute Points&lt;/FONT&gt;. Attribute points can be used to make your character stronger, so be sure to take advantage of them! You can do so from the Character window.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;This indicator will disappear once you have allocated all available Attribute Points.&lt;/FONT&gt;" feature="HighlightGameMenu" />
+	<key id="s_highlightgamemenu_characterinfo" value="You have unallocated &lt;FONT color=&apos;#FFD200&apos;&gt;Attribute Points&lt;/FONT&gt;. Attribute points can be used to make your character stronger, so be sure to take advantage of them! You can do so from the Character window.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;This indicator will disappear once you have allocated all available Attribute Points.&lt;/FONT&gt; " feature="HighlightGameMenu" />
 	<key id="s_highlightgamemenu_inven" value="You&apos;ve picked up some great gear! It&apos;s either got a higher gear score than your currently equipped item... or you don&apos;t have any item equipped to that slot at all! Take a look in your inventory and try it on.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;This indicator will disappear after you equip or sell the newly obtained gear, or after 10 minutes have passed.&lt;/FONT&gt;" feature="HighlightGameMenu" />
 	<key id="s_highlightgamemenu_skillbook" value="You have unallocated &lt;FONT color=&apos;#FFD200&apos;&gt;Skill Points&lt;/FONT&gt;. Skill points are used to learn new skills and empower existing ones. You can do so from the Skills window.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;This indicator will disappear once you have allocated all available Skill Points.&lt;/FONT&gt;" feature="HighlightGameMenu" />
 	<key id="s_highlightgamemenu_mail" value="You&apos;ve got unread mail! You&apos;ll receive items, messages, and important information via the mailbox, so be sure to check it regularly! \n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;This notification will disappear once you have opened all of your mail.&lt;/FONT&gt;" feature="HighlightGameMenu" />
@@ -6111,19 +6111,19 @@
 	<key id="s_dungeon_control_center_require_reward_complete" value="Complete" feature="DungeonFindRenewal01" />
 	<key id="s_dungeon_control_center_recommend_category" value="Recommended Dungeon" feature="DungeonFindRenewal01" />
 	<key id="s_dungeon_search_setting_group_none" value="All Dungeons" />
-	<key id="s_err_cash_recall_not_marriage" value="STRINGCOMMON_S_ERR_CASH_RECALL_NOT_MARRIAGE_VALUE" />
+	<key id="s_err_cash_recall_not_marriage" value="You must be married to use this summon." />
 	<key id="s_watchagame_change_camera" value="Change Camera" />
 	<key id="s_watchagame_reset_camera" value="Stop Spectating" />
 	<key id="s_watchagame_msg_cant_change_camera" value="You cannot switch cameras here." />
 	<key id="s_hideandseek_winner_reward" value="Reward: {0} x{1}" />
 	<key id="s_hideandseek_remain_user" value="Seekers Left: {0}, Hiders Left: {1}" />
-	<key id="s_itemgacha_dialog_title" value="{0}" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_skin" value="Outfit" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_look" value="Appearance" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_specup" value="Catch Up" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_special" value="Special" feature="" />
-	<key id="s_itemgacha_dialog_gacha_endtime" value="Current series sold until {0}/{1}/{2} {3:02d}:{4:02d}:{5:02d}" feature="" />
-	<key id="s_itemgacha_dialog_err_unknown" value="A problem occurred. Please try again." feature="" />
+	<key id="s_itemgacha_dialog_title" value="{0}" />
+	<key id="s_itemgacha_dialog_gacha_type_skin" value="Outfit" />
+	<key id="s_itemgacha_dialog_gacha_type_look" value="Appearance" />
+	<key id="s_itemgacha_dialog_gacha_type_specup" value="Catch Up" />
+	<key id="s_itemgacha_dialog_gacha_type_special" value="Special" />
+	<key id="s_itemgacha_dialog_gacha_endtime" value="Current series sold until {0}/{1}/{2} {3:02d}:{4:02d}:{5:02d}" />
+	<key id="s_itemgacha_dialog_err_unknown" value="A problem occurred. Please try again." />
 	<key id="s_itemgacha_dialog_not_enough_item_shop_link" value="Insufficient items. (Missing Item: {0})\n\nDo you want to purchase more?" />
 	<key id="s_itemgacha_dialog_not_enough_capsulemachine" value="Insufficient items. (Missing Item: {0})" />
 	<key id="s_mentoring_error_is_not_return_user" value="This character is not a returning user." feature="Mentoring" />
@@ -6166,9 +6166,9 @@
 	<key id="s_mentoring_register_mentee" value="You have become a returning user." feature="Mentoring" />
 	<key id="s_mentoring_register_mentor" value="You became a mentor." feature="Mentoring" />
 	<key id="s_mentoring_notify_mentor_request" value="{0} invited you to become their mentee." feature="Mentoring" />
-	<key id="s_mentoring_mentor_register_warn" value="Until {3} {4} {5}\n Assign &lt;FONT color='#FFD200'&gt;{6}&lt;/FONT&gt; as a mentor character.\n\n&lt;FONT color='#FF5F5F'&gt;Once assigned, the character cannot be changed during the event period. &lt;/FONT&gt;Confirm &lt;FONT color='#FFD200'&gt;{6}&lt;/FONT&gt; As the assigned mentor character?" feature="Mentoring" />
-	<key id="s_mentoring_mentee_register_warn" value="Until {3} {4} {5}\n Assign &lt;FONT color='#FFD200'&gt;{6}&lt;/FONT&gt; as a returning character.\n\n&lt;FONT color='#FF5F5F'&gt;Once assigned, the character cannot be changed during the event period. &lt;/FONT&gt;Confirm &lt;FONT color='#FFD200'&gt;{6}&lt;/FONT&gt;As the assigned returning character?" feature="Mentoring" />
-	<key id="s_mentoring_mentor_accept_warn" value="You can only set 1 character as a mentor.\n&lt;FONT color='#FF5F5F'&gt;This cannot be changed until {0} {1} {2}.\n&lt;/FONT&gt;Confirm &lt;FONT color='#FFD200'&gt;{3}&lt;/FONT&gt;if you would like to designate yourself as a mentor?" feature="Mentoring" />
+	<key id="s_mentoring_mentor_register_warn" value="Until {3} {4} {5}\n Assign &lt;FONT color=&apos;#FFD200&apos;&gt;{6}&lt;/FONT&gt; as a mentor character.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Once assigned, the character cannot be changed during the event period. &lt;/FONT&gt;Confirm &lt;FONT color=&apos;#FFD200&apos;&gt;{6}&lt;/FONT&gt; As the assigned mentor character?" feature="Mentoring" />
+	<key id="s_mentoring_mentee_register_warn" value="Until {3} {4} {5}\n Assign &lt;FONT color=&apos;#FFD200&apos;&gt;{6}&lt;/FONT&gt; as a returning character.\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Once assigned, the character cannot be changed during the event period. &lt;/FONT&gt;Confirm &lt;FONT color=&apos;#FFD200&apos;&gt;{6}&lt;/FONT&gt;As the assigned returning character?" feature="Mentoring" />
+	<key id="s_mentoring_mentor_accept_warn" value="You can only set 1 character as a mentor.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;This cannot be changed until {0} {1} {2}.\n&lt;/FONT&gt;Confirm &lt;FONT color=&apos;#FFD200&apos;&gt;{3}&lt;/FONT&gt;if you would like to designate yourself as a mentor?" feature="Mentoring" />
 	<key id="s_wedding_propose_ok" value="You are now engaged to {0}" feature="Wedding" />
 	<key id="s_wedding_hall_reserve_ok" value="{0} Reservation was successful. \n{1}[{2}Meret]" feature="Wedding" />
 	<key id="s_wedding_hall_reserve_cancel_ok" value="Cancel my wedding hall reservation." feature="Wedding" />
@@ -6193,7 +6193,7 @@
 	<key id="s_wedding_result_err_mareriage_state_from" value="You cannot propose to a married character." feature="Wedding" />
 	<key id="s_wedding_result_err_coolingoff_state_from" value="You cannot propose to a character with a divorce in progress." feature="Wedding" />
 	<key id="s_wedding_result_err_propose_cooltime_state_from" value="You cannot propose to a character with less than 48 hours after divorce." feature="Wedding" />
-	<key id="s_wedding_result_err_not_find_propose_item" value="Both characters must have {0} in order to propose." feature="Wedding" />
+	<key id="s_wedding_result_err_not_find_propose_item" value="Both characters must have {0} in order to propose. " feature="Wedding" />
 	<key id="s_wedding_result_err_propose_distance" value="Distance is too far to propose." feature="Wedding" />
 	<key id="s_wedding_result_decline_propose" value="{0} declined your proposal." feature="Wedding" />
 	<key id="s_wedding_result_cancel_propose_from" value="{0} cancelled the proposal." feature="Wedding" />
@@ -6227,7 +6227,7 @@
 	<key id="s_wedding_msg_box_propose_to" value="You have proposed to {0}. \nIf they accept, you both will be engaged." feature="Wedding" />
 	<key id="s_wedding_msg_box_propose_from" value="{0} has proposed to you. \nIf you accept, you both will be engaged. Do you accept?" feature="Wedding" />
 	<key id="s_wedding_state_promise" value="Engaged to {0}\nUntil {1}" feature="Wedding" />
-	<key id="s_wedding_state_marriage" value="Married to {0}\nSince {1}" feature="Wedding" />
+	<key id="s_wedding_state_marriage" value="Married to {0}\nFor {1} days" feature="Wedding" />
 	<key id="s_wedding_state_coolingoff" value="Divorce with {0} is in progress" feature="Wedding" />
 	<key id="s_wedding_reservation_select_page" value="Wedding Hall" feature="Wedding" />
 	<key id="s_wedding_reservation_unknown" value="Cancel" feature="Wedding" />
@@ -6274,11 +6274,11 @@
 	<key id="s_wedding_hall_reservation_select_hall" value="Please select a wedding venue." feature="Wedding" />
 	<key id="s_wedding_hall_reservation_select_time" value="Please select a wedding time." feature="Wedding" />
 	<key id="s_wedding_hall_reservation_paclkage_err" value="There is no reservation where you can change the venue. Check with the other wedding planners or check your reservation time." feature="Wedding" />
-	<key id="s_wedding_visit_confirm" value="&lt;P&gt;&lt;FONT color='#FFA200' size='20' &gt;[{0}-{1}]&lt;/FONT&gt;&lt;/P&gt;&lt;P&gt;Would you like to attend the wedding?&lt;/P&gt;" feature="Wedding" />
+	<key id="s_wedding_visit_confirm" value="&lt;P&gt;&lt;FONT color=&apos;#FFA200&apos; size=&apos;20&apos; &gt;[{0}-{1}]&lt;/FONT&gt;&lt;/P&gt;&lt;P&gt;Would you like to attend the wedding?&lt;/P&gt;" feature="Wedding" />
 	<key id="s_wedding_visit_failed_common" value="You cannot enter the wedding at this time." feature="Wedding" />
 	<key id="s_wedding_visit_failed_dead" value="You cannot attend a wedding while you are tombstoned." feature="Wedding" />
 	<key id="s_wedding_visit_failed_invalid_time" value="It is not possible to enter the wedding at this time." feature="Wedding" />
-	<key id="s_wedding_visit_failed_user_count_limit_exceeded" value="You cannot enter the wedding hall because the ceremony has reached maximum guest capacity." feature="Wedding" />
+	<key id="s_wedding_visit_failed_user_count_limit_exceeded" value="You cannot enter the wedding hall because the ceremony has reached maximum guest capacity. " feature="Wedding" />
 	<key id="s_wedding_visit_failed_user_self_link" value="Special World Chat : You cannot enter your own wedding through the invitation of the item." feature="Wedding" />
 	<key id="s_wedding_visit_failed_disablemap" value="You cannot enter the wedding ceremony in this map." feature="Wedding" />
 	<key id="s_wedding_visit_failed_solo_instance" value="You cannoot enter the wedding ceremony while in a dungeon." feature="Wedding" />
@@ -6288,7 +6288,7 @@
 	<key id="s_err_wedding_chat_cannot_use_complete" value="Special World Chat : wedding items are not available after the wedding is over." feature="Wedding" />
 	<key id="s_wedding_mutual_agree_start_acting" value="Would you like to start the wedding?" feature="Wedding" />
 	<key id="s_wedding_mutual_agree_end_acting" value="Would you like the end the wedding?" feature="Wedding" />
-	<key id="s_wedding_enter_nickname" value="Would you like to marry &lt;FONT color='#FFD200'&gt;{0} &lt;/FONT&gt;?\n결If you would like to get married &lt;FONT color='#FFD200'&gt;confirm below&lt;/FONT&gt;if so. To finish your marriage vow, type your &lt;FONT color='#FFD200'&gt;fiance&apos;ss character name&lt;/FONT&gt;.\nWhen the marriage ceremony is complete, you two will be officially wed." feature="Wedding" />
+	<key id="s_wedding_enter_nickname" value="Would you like to marry &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;?\nTo get married, check &lt;FONT color=&apos;#FFD200&apos;&gt;I Agree&lt;/FONT&gt; below and enter &lt;FONT color=&apos;#FFD200&apos;&gt;the other person’s character name&lt;/FONT&gt; to make your marriage vow.\nOnce the marriage is complete, the two of you will become officially wed." feature="Wedding" />
 	<key id="s_wedding_enter_nickname_confirm_checkbox" value="I accept this marriage." feature="Wedding" />
 	<key id="s_wedding_enter_nickname_error" value="You entered the wrong character name. Please enter the exact name of the character you are marrying." feature="Wedding" />
 	<key id="s_wedding_enter_nickname_confirm_final" value="Would you like to marry {0}? Once married, you cannot divorce until after 30 days, so please decide carefully." feature="Wedding" />
@@ -6328,14 +6328,352 @@
 	<key id="s_wedding_guest_tab_guild" value="Guild" feature="Wedding" />
 	<key id="s_wedding_guest_tab_stranger" value="Direct" feature="Wedding" />
 	<key id="s_wedding_guest_counter" value="Number of people selected: {0} / {1}" feature="Wedding" />
-	<key id="s_unlimited_enchant_fee" value="비용 {0}&lt;Img Src='export_common_icon_meso' vspace='-4'&gt;&lt;/Img&gt;" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_fee" value="비용 {0}&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_invalid_item" value="This item cannot used for limit break." feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_lack_ingredient" value="Insufficient ingredients." feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_lack_meso" value="Insufficient mesos." feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_max_unlimited_grade" value="This equipment has reached the limit break maximum level." feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_system" value="System Error {0}" feature="UnlimitedEnchant" />
 	<key id="s_word_item_unlimited_enchant" value="*{0} {1}" feature="UnlimitedEnchant" />
-	<key id="s_tooltip_itemoption_unlimited" value="&lt;font color='#ffd200'&gt;Limit Break {0}*\n{1}&lt;/font&gt;" feature="UnlimitedEnchant" />
-	<key id="s_msg_item_open_item_box_mergeLV60item" value="Consumes &lt;FONT color='#FFA200'&gt;1개&lt;/FONT&gt; item when used.\nExchanged for 2 Transcendence Crystals that can be used on armor except for suit.\n\nWould you like to continue?\nIf your inventory is full, the contents will be mailed." feature="ItemMergeLV60" />
-	<key id="s_meratmarket_error_add_basket_by_music_score" value="Music scores can only be purchased directly." feature="UGCMarketMusicScore" />
+	<key id="s_tooltip_itemoption_unlimited" value="&lt;font color=&apos;#ffd200&apos;&gt;Limit Break {0}*\n{1}&lt;/font&gt;" feature="UnlimitedEnchant" />
+	<key id="s_msg_item_open_item_box_mergeLV60item" value="Consumes &lt;FONT color=&apos;#FFA200&apos;&gt;1개&lt;/FONT&gt; item when used.\nExchanged for 2 Transcendence Crystals that can be used on armor except for suit.\n\nWould you like to continue?\nIf your inventory is full, the contents will be mailed." feature="ItemMergeLV60" />
+	<key id="s_err_lack_guild_event_fund" value="Insufficient guild funds." />
+	<key id="s_err_shop_expired" value="The shop has expired." />
+	<key id="s_msg_item_open_massive_only_wedding_user" value="Photo shoot and after-party tickets are only available for the bride and groom at the wedding venue." feature="Wedding" />
+	<key id="s_msg_item_active_codi_tab_already_limitless" value="You have already activated the Fashion tab." feature="Skin2tab" />
+	<key id="s_msg_item_active_codi_tab_already_period_use_limitless" value="There is some time remaining on your Fashion tab. Do you still want to use it?" feature="Skin2tab" />
+	<key id="s_msg_item_active_codi_tab_add_period" value="Would you like to add {0} days?" feature="Skin2tab" />
+	<key id="s_msg_item_active_codi_tab_period" value="You can use the fashion tab for {0} days. \nWould you like to use the item? " feature="Skin2tab" />
+	<key id="s_msg_item_open_massive_open_wedding" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[After-Wedding Event]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;p align=&apos;left&apos;&gt;You will use {0}.\n&lt;FONT color=&apos;#5CD1E5&apos; &gt;Use the item to create a portal at your current position and teleport to after-dinner event map.&lt;/FONT&gt;\n\n • After-Wedding Event Map Name : &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{0}&lt;/FONT&gt;\n• Max Players : &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{1}&lt;/FONT&gt;&lt;/FONT&gt; \n • Portal Duration : &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{2}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n • Set Password&lt;FONT color=&apos;#C9C9C9&apos; &gt;Anyone can enter if a password is not set&lt;/FONT&gt;&lt;/p&gt;" feature="Wedding" />
+	<key id="s_notice_unstable_network_state" value="The network connection is unstable.\n Please restart the client." locale="CN" />
+	<key id="s_admin_block_transfer_msgbox_title_kr" value="Trade Restriction Notice" locale="KR" />
+	<key id="s_admin_block_transfer_msgbox_content_kr" value="To protect your account from account theft, etc., \na &quot;transaction restriction&quot; measure has been applied.\n\nYou can trade normally after verifying your identity.\nIf you have difficulty verifying your identity, please contact the customer center.\nWould you like to proceed with verifying your identity?" locale="KR" />
+	<key id="s_buddy_confirm_homeblock_somebody" value="Would you like to block {0} from your home?" />
+	<key id="s_buddy_confirm_del_somebody_from_homeblocklist" value="Do you want to remove {0} from the block list?" />
+	<key id="s_home_block_err_kick" value="You have been forcibly removed because you are added to the other person&apos;s block list." />
+	<key id="s_ugc_uic_error" value="Inappropriate image." />
+	<key id="s_shop_err_change_reset_price" value="Please check the restock amount again." locale="CN" />
+	<key id="s_quest_alliance_accept_all_georg" value="Are you ready? I believe you will do perfectly this time as well." feature="Fame_Geo01" />
+	<key id="s_quest_alliance_complete_all_georg" value="Thanks to you, Humanitas has taken one step closer to victory. I really appreciate it." feature="Fame_Geo01" />
+	<key id="s_html_chat_wedding" value="{0}&lt;P&gt;&lt;Img Src=&apos;{1}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;25&apos;&gt;&lt;/Img&gt;&lt;a href={2}&gt;&lt;FONT color=&apos;#{3:x}&apos; size=&apos;{4}&apos;&gt;[{5}-{6}]&lt;/FONT&gt;&lt;FONT color=&apos;#{7:x}&apos; size=&apos;{8}&apos;&gt;{9}/{10}&lt;/FONT&gt;&lt;/a&gt;&lt;Img Src=&apos;{1}&apos; vspace=&apos;-7&apos; width=&apos;30&apos; height=&apos;25&apos;&gt;&lt;/Img&gt;&lt;/P&gt;&lt;/TEXTFORMAT&gt;" feature="Wedding" />
+	<key id="s_cash_taxi_transfer_advanced" value="You can call helicopters by using the Rotors Walkie-Talkies.\nIf you want to move to an unexplored map,\nyou will need 1 Rotors Walkie-Talkies.\nDo you want to move to &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt; in a helicopter?\n&lt;FONT color=&apos;#FFA200&apos;&gt;Please move to another channel if the current channel is full.&lt;/FONT&gt;" locale="JP" />
+	<key id="s_html_chat_wedding_custom" value="&lt;TEXTFORMAT indent=&apos;{0}&apos; tabStops=&apos;0&apos;&gt;" feature="Wedding" />
+	<key id="s_err_cash_taxi_need_advanced_ticket" value="You need 1 Rotors Walkie-Talkies. You can&amp;apos;t move to an unexplored area with a Free Rotors Walkie-Talkie." locale="JP" />
+	<key id="s_err_cash_taxi_need_advanced_ticket_merat" value="You need 1 Rotors Walkie-Talkies. You can&apos;t move to unexplored areas with Free Rotors Walkie-Talkies.\nWould you like to use {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; to move?" locale="JP" />
+	<key id="s_move_err_wedding_complete" value="The wedding ceremony has ended, so you cannot enter." feature="Wedding" />
+	<key id="s_action_questUserFind" value="Today&apos;s thrilling love~♥ {0}" locale="JP" />
+	<key id="s_home_visit_failed_private" value="The house you are trying to visit is set to private, so you cannot visit." />
+	<key id="s_tooltip_gamemenu_longtermattendgift" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Wake Up Golden Ducky Ball {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can check the Golden Ducky Ball menu in my account." />
+	<key id="s_minimap_tooltip_quest_target_80000422" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000423" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000424" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000425" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000427" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000428" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000430" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000431" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000432" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000433" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000435" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000436" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_action_questUserFind_80000422" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000423" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000424" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000425" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000426" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000427" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000428" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000429" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000431" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000432" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000433" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000434" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000435" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000436" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000437" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000429" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000426" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000434" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000437" value="&lt;FONT color=&apos;#8aff00&apos;&gt;Seek-and-Find Target&lt;/FONT&gt;" locale="KR" />
+	<key id="s_action_questUserFind_80000430" value="Seek-and-Find - Tag {0}" locale="KR" />
+	<key id="s_tooltip_gamemenu_wedding" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Marriage {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nYou can check your marriage information." feature="Wedding" />
+	<key id="s_itemenchant_fee" value="Crystal Fragments Replace Cost {0}&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" />
+	<key id="s_msg_shortcutkey_invalid_already_same_leadskill" value="You cannot equip the same lead skill." feature="LeadSkill" />
+	<key id="s_meratmarket_tooltip_sell_day" value="Until {0} {1} {2}" />
+	<key id="s_meratmarket_error_result_buy_sold_out_changeable" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ All prepared quantities have been exhausted.\nPlease purchase again next time.&lt;/font&gt;" />
+	<key id="s_meratmarket_error_bancheck_desc_or_tags" value="The product description or tags contain words or characters that cannot be used." />
+	<key id="s_pcbang_no_pcbang" value="You can only receive it at Nexon PC cafes." feature="PCBang" />
+	<key id="s_play_instrument_instrument_category_name_37" value="Flute" />
+	<key id="s_play_instrument_instrument_category_name_38" value="Honky-tonk piano" />
+	<key id="s_play_instrument_instrument_category_name_39" value="French horn" />
+	<key id="s_play_instrument_instrument_category_name_40" value="Pipe organ" />
+	<key id="s_itemsocketsystem_error_bind_owner" value="This item is bound to a different character." feature="SkinSocket" />
+	<key id="s_itemsocketsystem_error_invalid_target_transfer" value="This item cannot receive a socket transfer." feature="ItemSocketTransfer01" />
+	<key id="s_itemsocketsystem_error_invalid_target_transfer_null" value="Please select an item to receive the socket transfer." feature="ItemSocketTransfer01" />
+	<key id="s_itemsocketsystem_socket_maxcount" value="+{0} sockets" feature="ItemSocketSystem" />
+	<key id="s_itemsocketsystem_socket_swap_confirm" value="To move all, you need &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;. Do you want to proceed?" feature="ItemSocketSystem" />
+	<key id="s_itemsocketsystem_socket_swap_confirm_free" value="Do you want to move the gemstone?" feature="ItemSocketSystem" />
+	<key id="s_itemsocketsystem_error_swap_lack_price" value="You are lacking &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;." comment="{0}: Number of crystal fragments" feature="ItemSocketSystem" />
+	<key id="s_itemsocketsystem_socket_swap_price" value="{0} x{1}" feature="ItemSocketSystem" />
+	<key id="s_character_ability_point_info_text" value="Characteristic points {0}/{1}" feature="CharacterAbility" />
+	<key id="s_err_not_allow_pvpField" value="You cannot use skills in the battlefield." />
+	<key id="s_treewatering_watering" value="Throw Pumpkin in Cauldron" feature="Event" locale="JP" />
+	<key id="s_treewatering_watering_casting" value="Cauldron Boiling..." feature="Event" locale="JP" />
+	<key id="s_treewatering_emotion" value="Admire the Cauldron" feature="Event" locale="JP" />
+	<key id="s_dungeonRoom_findMember_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Recruit Party Members&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;Click the button to recruit party members to adventure with you in the dungeon.&#xA;If you clear a dungeon with a novice adventurer, you can obtain {0} additional Chivalrous Knight Boxes per day." feature="FindDungeonHelp" locale="CN" />
+	<key id="s_treewatering_emotion_casting" value="Admiring the Cauldron..." feature="Event" locale="JP" />
+	<key id="s_treewatering_no_waterpot" value="You have no rotten pumpkins." feature="Event" locale="JP" />
+	<key id="s_treewatering_emotionreward" value="Admired the cauldron. ({0}/{1})" feature="Event" locale="JP" />
+	<key id="s_treewatering_nomore_emotion_reward" value="You&apos;ve received all daily rewards." feature="Event" locale="JP" />
+	<key id="s_treewatering_wateringreward" value="Threw a pumpkin in the cauldron. ({0}/{1})" feature="Event" locale="JP" />
+	<key id="s_treewatering_nomore_watering_reward" value="You&apos;ve received all daily rewards." feature="Event" locale="JP" />
+	<key id="s_treewatering_watering" value="Water the Cherry Blossom Tree" feature="Event" locale="CN" />
+	<key id="s_treewatering_emotion" value="Bond with the Cherry Blossom Tree" feature="Event" locale="CN" />
+	<key id="s_treewatering_watering_casting" value="Watering the Cherry Blossom Tree..." feature="Event" locale="CN" />
+	<key id="s_treewatering_wateringreward" value="Watered the cherry blossom tree. ({0}/{1})" feature="Event" locale="CN" />
+	<key id="s_treewatering_emotion_casting" value="Bonding with the Cherry Blossom Tree..." feature="Event" locale="CN" />
+	<key id="s_treewatering_emotionreward" value="Bonded with the cherry blossom tree. ({0}/{1})" feature="Event" locale="CN" />
+	<key id="s_treewatering_no_waterpot" value="You have no watering can." feature="Event" locale="CN" />
+	<key id="s_treewatering_nomore_watering_reward" value="You&apos;ve received all daily rewards." feature="Event" locale="CN" />
+	<key id="s_treewatering_nomore_emotion_reward" value="You&apos;ve received all daily rewards." feature="Event" locale="CN" />
+	<key id="s_maple_survival_ui_season_period" value="{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} {8:02d}:{9:02d}" feature="SurvivalContents01" locale="KR" />
+	<key id="s_notify_currency_overflow_period" value="You have exceeded the weekly acquisition limit for {0}. The excess {1} {0} will not be acquired and will disappear." />
+	<key id="s_msg_item_active_codi_tab_max" value="Cannot be used for more than {0} days." feature="Skin2tab" />
+	<key id="s_msg_item_active_codi_tab_limitless" value="You can use this costume item without limit.&#xA;Would you like to use the item? " feature="Skin2tab" />
+	<key id="s_msg_item_active_codi_tab_complete_period" value="{0} days have been added to your costume item&apos;s usage period." feature="Skin2tab" />
+	<key id="s_msg_item_active_codi_tab_complete_limitless" value="You can now use this costume item without limit." feature="Skin2tab" />
+	<key id="s_guild_ui_info_guild_exp_event" value="EXP Gain &lt;FONT color=&apos;#FF4040&apos;&gt;x{0}&lt;/FONT&gt;&#xA;Guild EXP {1} / {2}" />
+	<key id="s_guild_ui_skill_use_skill_event" value="&lt;p align=&apos;center&apos;&gt;Would you like to spend &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_item_90000026&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; to use the &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; skill?&#xA;&#xA;※ Please check the guild fund amount and buff type.&lt;/p&gt;" />
+	<key id="s_msg_chatting_welcome_pubtest1" value="Welcome to the test server. &#xA;The test server may be somewhat unstable,&#xA;and the content here may differ from what will be applied to the official server." locale="CN" />
+	<key id="s_msg_chatting_welcome_pubtest2" value="Welcome to the test server. &#xA;The test server may be somewhat unstable,&#xA;and the content here may differ from what will be applied to the official server." locale="CN" />
+	<key id="s_admin_block_cash_out" value="Hang on! Unusual activity has been detected.&#xA;To protect your valuable items, gifting and item trading have been temporarily disabled.&#xA;You will be able to use them again from {0:02d}/{1:02d}." />
+	<key id="s_item_err_Invalid_slot_codi" value="Only skin items can be equipped in the Outfit tab." feature="Skin2tab" />
+	<key id="s_guild_ui_event_skill_upgrade_popup" value="Use &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_item_90000026&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; to upgrade&#xA;&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; skill to &lt;FONT color=&apos;#FFA200&apos;&gt;Level {2}&lt;/FONT&gt;?&#xA;Do you wish to proceed?" />
+	<key id="s_guild_err_not_enough_guild_event_fund" value="Not enough Guild Event Funds." />
+	<key id="s_item_err_codi_slot" value="Please remove the skin weapon equipped in the Outfit tab&#xA;and try again." feature="Skin2tab" />
+	<key id="s_char_err_wedding" value="Characters currently in engagement, marriage, or divorce proceedings cannot be deleted." feature="Wedding" />
+	<key id="s_beauty_msg_error_product_expired" value="The sale item has changed.&#xA;Please try again." />
+	<key id="s_change_gender_err_wedding" value="Characters currently in engagement, marriage, or divorce proceedings cannot use a Gender Change Coupon." feature="Wedding" />
+	<key id="s_beauty_msg_by_expired_codi" value="The Outfit tab period has expired." feature="Skin2tab" />
+	<key id="s_char_err_shutdown" value="Dear User:&#xA;We apologize. Due to the game&apos;s end of service, new character creation is no longer available in order to protect your rights.&#xA;We ask for your kind understanding." locale="CN" />
+	<key id="s_beauty_msg_exit_by_expired_codi" value="The Outfit tab period has expired. Exiting the editor." feature="Skin2tab" />
+	<key id="s_beauty_msg_wait_by_expired_codi" value="Please try again in a moment." feature="Skin2tab" />
+	<key id="s_char_info_changetab_not_active_codi_tab" value="The Outfit tab is not active." feature="Skin2tab" />
+	<key id="s_login_err_create_account_block" value="Service shutdown is scheduled.&#xA;New accounts can no longer be created." />
+	<key id="s_beauty_msg_restart_by_expired_codi" value="The Outfit tab period has expired. Restarting." feature="Skin2tab" />
+	<key id="s_char_info_codi_tab_expired" value="Period Expired" feature="Skin2tab" />
+	<key id="s_char_info_codi_tab_period_fmt" value="Available Period: {0}" feature="Skin2tab" />
+	<key id="s_msg_rclick_puton_leadskill" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;Right-&lt;FONT color=&apos;#FFD200&apos;&gt;click&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt; to equip a Lead Skill.&lt;/FONT&gt;" />
+	<key id="s_buddy_format_homeblock_count" value="Players blocked from your home: {0}" />
+	<key id="s_msg_rclick_puton_equip_to_skintab" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;Right-&lt;FONT color=&apos;#FFD200&apos;&gt;click&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt; to equip an item to the Skin tab.&lt;/FONT&gt;" feature="Skin2tab" />
+	<key id="s_msg_rclick_puton_equip_to_skintab_with_key" value="&lt;FONT color=&apos;#FFD200&apos;&gt;[{0}]&lt;/FONT&gt; + &lt;FONT color=&apos;#FFFFFF&apos;&gt;Mouse &lt;FONT color=&apos;#FFD200&apos;&gt;right-click&lt;/FONT&gt; to equip to the Skin tab.&lt;/FONT&gt;" feature="Skin2tab" />
+	<key id="s_msg_rclick_puton_equip_to_coditab" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;Right-&lt;FONT color=&apos;#FFD200&apos;&gt;click&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt; to equip an item to the Coord tab.&lt;/FONT&gt;" feature="Skin2tab" />
+	<key id="s_home_block_somebody" value="{0} has been blocked from your home." />
+	<key id="s_home_block_memo_complete" value="Block note for {0} has been updated." />
+	<key id="s_home_block_err_unknown" value="Unable to process the request." />
+	<key id="s_home_block_err_no_user" value="Invalid target." />
+	<key id="s_home_block_del_somebody_from_banlist" value="{0} has been removed from your home block list." />
+	<key id="s_home_block_err_max_block" value="You cannot block any more players." />
+	<key id="s_home_block_err_self_block" value="You cannot block yourself." />
+	<key id="s_home_block_err_already_block" value="This player is already blocked." />
+	<key id="s_home_block_err_enterance_block" value="You cannot enter because you have been added to this player&apos;s home block list." />
+	<key id="s_meratmarket_error_random_create_fail" value="Failed to grant the bonus benefit." />
+	<key id="s_tooltip_gamemenu_pssbshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Avatar Coin Shop {0}&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;You can purchase items using Avatar Coins.&#xA;Avatar Coins can be obtained by disassembling items from Avatar Random Boxes." locale="JP" />
+	<key id="s_meratmarket_error_random_expired" value="The bonus benefit has expired." />
+	<key id="s_dungeonRoom_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Request Help&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;You can request help from experienced adventurers familiar with this dungeon.&#xA;Click the button to find an experienced adventurer to play with!&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Novice Adventurer&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;You are not yet familiar with this dungeon.&#xA;You can become an experienced adventurer once you have cleared this dungeon a certain number of times.&#xA;&lt;FONT color=&apos;#00AAEF&apos;&gt;- {0} or more times" />
+	<key id="s_meratmarket_error_random_already_exist" value="A bonus benefit already exists." />
+	<key id="s_meratmarket_limited_date_second" value="{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}:{5:02d}" comment="{0}:year, {1}:month, {2}:day, {3}:hour {4}:minute {5}:second" />
+	<key id="s_meratmarket_random_sale" value="Secret Deal! {0}% Off" />
+	<key id="s_meratmarket_error_random_payback_not_exist" value="Payback bonus not found." />
+	<key id="s_meratmarket_error_random_coupon_not_exist" value="Discount benefit not found." />
+	<key id="s_meratmarket_random_payback" value="Payback Bonus {0}" />
+	<key id="s_cashshop_gift_comfirm" value="Are you sure you want to gift to &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;?" locale="KR" />
+	<key id="s_weddingchat_use_coupon" value="{0} has been used." feature="Wedding" />
+	<key id="s_meratmarket_limited_limitless" value="Remaining: Unlimited" />
+	<key id="s_meratmarket_limited_desc_end" value="Sale Ends: {0}" />
+	<key id="s_pcbang_play_time2" value="Connected for {0}m" feature="PCBang" />
+	<key id="s_pcbang_play_time1" value="Connected for {0}h {1}m" feature="PCBang" />
+	<key id="s_pcbang_get_play_item" value="{0}&#xA;&lt;font color=&apos;#FFD200&apos;&gt;A PC Bang timed event gift has arrived in your mailbox.&lt;/font&gt;" feature="PCBang" />
+	<key id="s_pcbang_get_gift_item" value="PC Bang exclusive item received." feature="PCBang" />
+	<key id="s_pcbang_cant_tutorial_field" value="Available after completing the tutorial." feature="PCBang" />
+	<key id="s_pcbang_msg_reset_bonus" value="PC Bang benefits have been reset." feature="PCBang" />
+	<key id="s_enum_dungeon_group_item" value="Daily" locale="JP" />
+	<key id="s_enum_dungeon_group_worldBoss" value="World Invasion" feature="WorldBossDungeon" />
+	<key id="s_tooltip_itemmerge_option_range" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
+	<key id="s_enum_dungeon_group_turka" value="Dark Sanctum" feature="TurkaDungeon" />
+	<key id="s_massive_event_name_event_dungeon" value="Mad Doctor&apos;s Lab (Level 50+)" feature="EventMassiveDungeon" />
+	<key id="s_massive_event_name_pvp_dollshouse" value="Doll&apos;s Mansion (PvP)" feature="MassivePVPDollshouse" />
+	<key id="s_itemremake_error_prev_option_item_not_exist" value="Cannot find an item without a selected option change result.&#xA;If you continue, the available option information will be deleted.&#xA;Item Name: {0}" />
+	<key id="s_play_instrument_instrument_category_name_36" value="Marimba" />
+	<key id="s_play_instrument_instrument_category_name_35" value="Fretless Bass Guitar" />
+	<key id="s_itemsocketsystem_socketunlock_msg_ask_unlock_skin_first" value="Expanding the skin socket on this item will&#xA;&lt;FONT color=&apos;#FF4040&apos;&gt;change it to a character-bound state.&lt;/FONT&gt;&#xA;Do you want to expand the skin socket?" feature="SkinSocket" />
+	<key id="s_itemsocketsystem_socketunlock_msg_ask_transfer_skin_first" value="Transferring the socket will change the received skin item&#xA;&lt;FONT color=&apos;#FF4040&apos;&gt;to a character-bound state.&lt;/FONT&gt;&#xA;Do you want to transfer the socket?" feature="ItemSocketTransfer01" />
+	<key id="s_character_ability_character_category_name" value="Character" feature="CharacterAbility" />
+	<key id="s_character_ability_play_and_feature_category_name" value="Adventure" feature="CharacterAbility" />
+	<key id="s_character_ability_quest_and_grow_category_name" value="Quest" feature="CharacterAbility" />
+	<key id="s_character_ability_monster_and_dungeon_category_name" value="Combat" feature="CharacterAbility" />
+	<key id="s_character_ability_character_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Character&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;Enhance your character&apos;s unique abilities." feature="CharacterAbility" />
+	<key id="s_character_ability_content_category_name" value="Life Skills" feature="CharacterAbility" />
+	<key id="s_character_ability_quest_and_grow_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Quest&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;Gain additional bonuses when completing quests." feature="CharacterAbility" />
+	<key id="s_character_ability_monster_and_dungeon_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Combat&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;Learn skills useful for dungeon play or combat against monsters." feature="CharacterAbility" />
+	<key id="s_character_ability_play_and_feature_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Adventure&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;Gain bonuses for adventuring and various activities." feature="CharacterAbility" />
+	<key id="s_character_ability_err_no_meso" value="Not enough Mesos." feature="CharacterAbility" />
+	<key id="s_character_ability_err_no_merat" value="Not enough Merets." feature="CharacterAbility" />
+	<key id="s_character_ability_err_no_abilitypoint" value="Not enough trait points." feature="CharacterAbility" />
+	<key id="s_character_ability_meso_reset_desc" value="Pay the cost to reset your traits.&#xA;&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;/&gt;&#xA;Reset your traits?&#xA;&lt;FONT color=&apos;#C0C0C0&apos;&gt;(Note: After resetting with Mesos, you must wait {0} days&#xA;before you can reset again.)&lt;/font&gt;" feature="CharacterAbility" />
+	<key id="s_character_ability_content_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Life Skills&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;Gain bonuses when using Life Skill content." feature="CharacterAbility" />
+	<key id="s_character_ability_merat_reset_desc" value="&lt;font color=&apos;#FF5F5F&apos;&gt;The trait reset cooldown has not expired.&#xA;You cannot reset your traits yet.&lt;/FONT&gt;&#xA;Please try again after the cooldown ends." feature="CharacterAbility" />
+	<key id="s_character_ability_meso_reset_button" value="Reset" feature="CharacterAbility" />
+	<key id="s_character_ability_merat_reset_button" value=" Reset" feature="CharacterAbility" />
+	<key id="s_character_ability_reset_cooltime_request" value="Would you like to start the trait reset recharge?" feature="CharacterAbility" />
+	<key id="s_character_ability_disabled_quest_desc" value="You must complete the &lt;font color=&apos;#FFD200&apos;&gt;{0} (Level {1}) quest&lt;/FONT&gt; in &lt;font color=&apos;#FFD200&apos;&gt;[{2}] {3}&lt;/FONT&gt; to use traits." feature="CharacterAbility" />
+	<key id="s_character_ability_err_reset_cooltime" value="Trait reset recharge is already complete." feature="CharacterAbility" />
+	<key id="s_character_ability_err_level_reset_cooltime" value="Not available yet." feature="CharacterAbility" />
+	<key id="s_character_ability_reset_cooltime" value="Trait reset recharge is complete." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001021" value="Trait effect: gained bonus EXP." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001020" value="Trait effect: found extra Mesos in a Wooden Treasure Chest." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001019" value="Trait effect: found extra Onyx Crystals in a Golden Treasure Chest." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001014" value="Trait effect: obtained bonus rewards from a monster." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001015" value="Trait effect: obtained an extra Token of Valor." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001023" value="Trait effect: gained bonus Rue." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001024" value="Trait effect: opened an Adventure Level-Up Box an extra time." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001022" value="Trait effect: gained bonus Mesos." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001027" value="Gained bonus EXP and Mastery from a trait effect." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001025" value="Gained bonus EXP from a trait effect." feature="CharacterAbility" />
+	<key id="s_itemsocket_scroll_limit_usepart" value="Usable on {0} equipment" feature="SkinSocket" />
+	<key id="s_additionalEffect_Special_110001029" value="Gained an extra crafting product from a trait effect." feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001028" value="Gained bonus Fractal Crystals from a trait effect." feature="CharacterAbility" />
+	<key id="s_magicscroll_craft_messagebox_title" value="Enchant" feature="MagicScroll01" />
+	<key id="s_mastery_magicscroll_progress" value="Enchanting {0}/{1}" feature="MagicScroll01" />
+	<key id="s_mastery_magicscroll_no_recipe" value="No recipe exists for that slot and grade." feature="MagicScroll01" />
+	<key id="s_magicscroll_craft_messagebox_desc" value="How many would you like to enchant?" feature="MagicScroll01" />
+	<key id="s_magicscroll_word_craft" value="Enchant" feature="MagicScroll01" />
+	<key id="s_mastery_magicscroll_fracto_scroll_tab" value="Fractal Rune" feature="MagicScroll01" />
+	<key id="s_mastery_magicscroll_restore_scroll_tab" value="Stabilization Rune" feature="MagicScroll01" />
+	<key id="s_mastery_magicscroll_enchant_scroll_tab" value="Enchant Rune" feature="MagicScroll01" />
+	<key id="s_mastery_myhome" value="(My Home)" feature="MagicScroll01" />
+	<key id="s_mastery_autogatheringbuff_button" value="Auto Gathering Buff" feature="AutoMastery01" />
+	<key id="s_mastery_magicscroll_protected_scroll_tab" value="Protection Rune" feature="MagicScroll01" />
+	<key id="s_mastery_otherhome" value="(Someone Else&apos;s Home)" feature="MagicScroll01" />
+	<key id="s_mastery_magicscroll_list_state" value="Use on equipment level {0} or below" feature="MagicScroll01" />
+	<key id="s_mastery_autobreedingbuff_button" value="Auto Ranching Buff" feature="AutoMastery01" />
+	<key id="s_mastery_autominingbuff_button" value="Auto Mining Buff" feature="AutoMastery01" />
+	<key id="s_mastery_autofarmingbuff_button" value="Auto Farming Buff" feature="AutoMastery01" />
+	<key id="s_mastery_autointeraction_buff_use" value="Would you like to use {0}?" feature="AutoMastery01" />
+	<key id="s_mastery_autointeraction_lack_buff_item" value="You don&apos;t have any {0}." feature="AutoMastery01" />
+	<key id="s_ugcHousingPoint_Reward_Desc1" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Tier 1 Decoration Gift&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#909090&apos;&gt;Press [Receive] to claim your decoration gift.&#xA;&#xA;&lt;FONT color=&apos;#FFFFFF&apos; &gt;Tier 1 Gift List&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&lt;FONT color=&apos;#909090&apos;&gt;: You can obtain 1 of the following items.&lt;/FONT&gt;&lt;FONT color=&apos;#00A2ED&apos;&gt;&#xA;   - Free Channel Chat Coupon&#xA;   - Beginner&apos;s Golden Bait (1 Hour)&#xA;   - Double EXP Coupon&#xA;   - Interior Cube Box&#xA;   - Red Herb&#xA;&lt;/FONT&gt;" locale="KR" />
+	<key id="s_ugcHousingPoint_Reward_Desc2" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Tier 2 Decoration Gift&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#909090&apos;&gt;Press [Receive] to claim your decoration gift.&#xA;&#xA;&lt;FONT color=&apos;#FFFFFF&apos; &gt;Tier 2 Gift List&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&lt;FONT color=&apos;#909090&apos;&gt;: You can obtain 1 of the following items.&lt;/FONT&gt;&lt;FONT color=&apos;#00A2ED&apos;&gt;&#xA;   - Free Channel Chat Coupon&#xA;   - Beginner&apos;s Golden Bait (1 Hour)&#xA;   - Double EXP Coupon&#xA;   - Interior Cube Box&#xA;   - Orange Herb&#xA;&lt;/FONT&gt;" locale="KR" />
+	<key id="s_ugcHousingPoint_Reward_Desc3" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Tier 3 Decoration Gift&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#909090&apos;&gt;Press [Receive] to claim your decoration gift.&#xA;&#xA;&lt;FONT color=&apos;#FFFFFF&apos; &gt;Tier 3 Gift List&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&lt;FONT color=&apos;#909090&apos;&gt;: You can obtain 1 of the following items.&lt;/FONT&gt;&lt;FONT color=&apos;#00A2ED&apos;&gt;&#xA;   - Free Channel Chat Coupon&#xA;   - Free Lotus Walkie-Talkie&#xA;   - Beginner&apos;s Golden Bait (1 Hour)&#xA;   - Double EXP Coupon&#xA;   - Interior Cube Box&#xA;   - White Herb&#xA;&lt;/FONT&gt;" locale="KR" />
+	<key id="s_lullu_key_showwindow_title_codi_box" value="You can obtain 1 of the following items." locale="CN" />
+	<key id="s_ugcHousingPoint_Reward_Desc5" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Stage 5 Interior Skill Gift&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#909090&apos;&gt;Press [Receive] to claim your Interior Skill Gift.&#xA;&#xA;&lt;FONT color=&apos;#FFFFFF&apos; &gt;Stage 5 Gift List&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&lt;FONT color=&apos;#909090&apos;&gt;: You can obtain 1 of the following items.&lt;/FONT&gt;&lt;FONT color=&apos;#00A2ED&apos;&gt;&#xA;   - Free Channel Chat Coupon&#xA;   - Free Lotus Walkie-Talkie&#xA;   - Beginner&apos;s Golden Bait (1 Hour)&#xA;   - 2x EXP Coupon&#xA;   - Interior Cube Box&#xA;   - Free World Chat Coupon&#xA;   - Premium Red Herb&#xA;&#xA;&lt;FONT color=&apos;#FFFFFF&apos; &gt;Stage 5 Bonus Gift&lt;/FONT&gt;&#xA; &lt;/FONT&gt;&lt;FONT color=&apos;#909090&apos;&gt;: You will additionally obtain 1 of the following items.&lt;/FONT&gt; &lt;/FONT&gt;&lt;/FONT&gt;&lt;FONT color=&apos;#00A2ED&apos;&gt;&#xA;   - Disassembled Cube Fragment&#xA;&lt;/FONT&gt;" locale="KR" />
+	<key id="s_item_merge_option_old_option" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;Previous Option&lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;" />
+	<key id="s_item_merge_option_error_prev_option_item_not_exist" value="Cannot find any items where the most recent Transcendence Option Change result was not selected.&#xA;If you proceed, the selectable option information will be deleted.&#xA;Item Name: {0}" />
+	<key id="s_ugcHousingPoint_Reward_Desc4" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Stage 4 Interior Skill Gift&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#909090&apos;&gt;Press [Receive] to claim your Interior Skill Gift.&#xA;&#xA;&lt;FONT color=&apos;#FFFFFF&apos; &gt;Stage 4 Gift List&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&lt;FONT color=&apos;#909090&apos;&gt;: You can obtain 1 of the following items.&lt;/FONT&gt;&lt;FONT color=&apos;#00A2ED&apos;&gt;&#xA;   - Free Channel Chat Coupon&#xA;   - Free Lotus Walkie-Talkie&#xA;   - Beginner&apos;s Golden Bait (1 Hour)&#xA;   - 2x EXP Coupon&#xA;   - Interior Cube Box&#xA;   - White Herb&#xA;&lt;/FONT&gt;" locale="KR" />
+	<key id="s_quest_alliance_georg" value="Georg" feature="Fame_Geo01" />
+	<key id="s_pet_remake_notice_disable_lock_item_option" value="&lt;p align=&apos;left&apos;&gt;The selected material for locking pet bonus abilities is missing, so the bonus ability lock feature cannot be used.&#xA;&#xA;- $item:30000923$&#xA;- $item:30001345$&lt;/p&gt;" feature="PetRemakeBlock02" />
+	<key id="s_alliance_quest_completion_ticket_count" comment="{0}: Number of Instant Completion Items Required" value="Instant Complete x{0}" feature="FameCompletionTicket" />
+	<key id="s_item_merge_option_new_option" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;New Option&lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;" />
+	<key id="s_alliance_quest_completion_ticket_use" commend="{0}: Instant Complete Ticket item, {1}: Required item quantity" value="{0} ({1}) will be consumed. Would you like to use it?" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_lack" commend="{0}: Instant Complete Ticket item" value="You don&apos;t have enough {0}. Would you like to purchase it from the Meret Market?" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_error" value="Failed to use {0}." commend="{0}: Instant Complete Ticket item" feature="FameCompletionTicket" />
+	<key id="s_gallery_desc_end_date" value="Until maintenance on {1}/{2}/{0}!" />
+	<key id="s_world_champion_reward_title" value="Cumulative Rewards for Defeating Mushking Up to Level {0}" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_step_button" value="Level {0}" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_clear_title" value="All Levels of Mushking Defeated" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_msg_current_field" value="You are already at the Mushking spawn location." feature="WorldChampionMushroom" />
+	<key id="s_world_champion_season_info" value="&lt;FONT color=&apos;#ffd200&apos;&gt;Current Season&lt;/FONT&gt;: Season {0} ({1} ~ {2})" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_msg_move_field" value="Would you like to move to [{0}]?" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_msg_not_found_season" value="There are currently no active World Raids.&#xA;Please wait for a new World Raid!" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_msg_next_season" value="The next season starts on {0}." feature="WorldChampionMushroom" />
+	<key id="s_lapenshard_open_newbie_quest_message" comment="{0}:Quest Name" value="You must complete the &lt;font color=&apos;#FFD200&apos;&gt;{0} Quest&lt;/FONT&gt; to use the Lapenshard." feature="Lapenshard01" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Character Designation]&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#FF5F5F&apos;&gt;Would you like to participate in the Burning Event with character {0}?&lt;/FONT&gt;&#xA;&#xA;• From level 9 to 70, gain +2 additional levels per level-up. &#xA;• Only 1 Burning Character can be designated per account. &#xA;• Once designated, the Burning Character cannot be changed until the character is deleted.&#xA;• After developing a Burning Character to level 70, you cannot designate an additional Burning Character even if the current one is deleted.&#xA;• The Burning Event runs from after the Aug 11, 2022 maintenance until before the Oct 13, 2022 maintenance.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 70 Achievement Reward Guide]&lt;/FONT&gt;" comment="{0}:Character Name" locale="KR" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Jumping + Burning Character Designation]&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#FF5F5F&apos;&gt;Would you like to participate in the Jumping Burning Event with character {0}?&lt;/FONT&gt;&#xA;&#xA;• A potion to jump to level 50 will be provided. &#xA;• From level 50 to 80, gain +2 additional levels per level-up. &#xA;• Only 1 Burning Character can be designated per account. &#xA;• Once designated, the Burning Character cannot be changed until the character is deleted.&#xA;• After using the Level-Up Potion, you cannot designate a Burning Character even if the current one is deleted.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Jumping Potion Guide]&lt;/FONT&gt;" comment="{0}: Character Name" locale="CN" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[What is Burning?]&lt;/FONT&gt;&#xA;&#xA;• You gain +2 additional levels with each level up. &#xA;• The effect applies from level 9 to 70. &#xA;• Only 1 Burning character can be designated per account. &#xA;• A designated Burning character cannot be changed until the character is deleted.&#xA;• After leveling your Burning character to 70, you cannot designate another Burning character even if you delete it.&#xA;• The Burning Event runs until the maintenance on October 13, 2022.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 70 Achievement Reward Info]&lt;/FONT&gt;" locale="KR" />
+	<key id="s_burning_levelup_event_jumping_item_notify" value="Check your inventory now! &#xA; You&apos;ve received a &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 50 Level-Up Potion]&lt;/FONT&gt;. &#xA;Use the item to jump to level 50! &#xA; After jumping, you can burn all the way to level 80." locale="CN" />
+	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="• This is a level 50 jumping potion provided upon completing the tutorial. &#xA;• Once used, you cannot designate a Burning character even if you delete your character.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;" locale="CN" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="After reading the Burning Event details, if you would like to designate {0} as your Burning character, &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;please click &lt;FONT color=&apos;#FFD200&apos;&gt;&apos;OK&apos;&lt;/FONT&gt;." comment="{0}: Character Name" locale="KR" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[What is Jumping+Burning?]&lt;/FONT&gt;&#xA;&#xA;• A potion that lets you jump to level 50 will be provided. &#xA;• From level 50 to 80, you gain +2 additional levels with each level up. &#xA;• Only 1 Burning character can be designated per account. &#xA;• A designated Burning character cannot be changed until the character is deleted.&#xA;• After using the level-up potion, you cannot designate a Burning character even if you delete your character.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Jumping Potion Info]&lt;/FONT&gt;" locale="CN" />
+	<key id="s_payback_dialog_period" value="Period: {0}/{1}/{2} ~ {3}/{4}/{5}" feature="Payback" />
+	<key id="s_lms_checknetcafe_user_count_limit_exceeded" value="Unable to log in because the PC café connection limit has been exceeded." locale="JP" />
+	<key id="s_burning_levelup_event_jumping_complete" value="You have used the &lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 50 Level-Up Potion]&lt;/FONT&gt;! &#xA;&#xA; • You can no longer designate a Burning character, even if you delete your character.&#xA; • Please complete your job change quest for a smoother experience.&#xA; • From now until level 80, the 1+2 Burning level-up bonus is active.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Level 80 Final Reward]&lt;/FONT&gt; " locale="CN" />
+	<key id="s_payback_bill_bottom_button_text" value="Details" feature="Payback" />
+	<key id="s_payback_dialog_status_percent" value="{0}% Payback" feature="Payback" />
+	<key id="s_payback_dialog_status_level" value="{0} Level" feature="Payback" />
+	<key id="s_payback_bill_bottom_detail_text" value="※ Payback Event in Progress!" feature="Payback" />
+	<key id="s_payback_error_reward_time" value="Payback settlement is in progress.&#xA;&#xA;[Settlement Time] 00:00 ~ 00:05 " feature="Payback" />
+	<key id="s_payback_dialog_maret" value="{0} &lt;Img Src=&apos;export_common_icon_bluemerat_large&apos; vspace=&apos;-5&apos;/&gt;&lt;font size=&apos;20&apos; color=&apos;#a0a0a0&apos;&gt; / {1}&lt;/font&gt;" feature="Payback" />
+	<key id="s_tooltip_gamemenu_payback" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Payback{0}&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;You can receive a payback of a portion of the Merets&#xA;spent on Orange Mushroom&apos;s Power-Up Draw." feature="Payback" />
+	<key id="s_payback_dialog_merat_text_red_merat" value="&lt;font color=&apos;#ED442A&apos;&gt;{0} &lt;/font&gt;&lt;Img Src=&apos;export_common_icon_redmerat_large&apos; vspace=&apos;-5&apos;/&gt;&lt;font size=&apos;20&apos; color=&apos;#a0a0a0&apos;&gt; / {1}&lt;/font&gt;" feature="Payback" />
+	<key id="s_alliance_quest_limit_alliance_delimeter" value="," locale="CN" />
+	<key id="s_payback_error_uiopen_end_time" value="The Payback Event has ended." feature="Payback" />
+	<key id="s_longtermattendgift_dialog_point" value="x {0}" />
+	<key id="s_longtermattendgift_dialog_desc" value="Unused Duckyball: Log in after 00:00 every day to receive one Duckyball.&#xA;Open Slot: Regardless of login status, one slot opens each day from the event start date until its end date.&#xA;Place Duckyball: Click the button to use 1 unused Duckyball and fill 1 open slot, and receive rewards based on the number of Duckyballs placed.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; &gt;If all Duckyballs have been placed but open slots remain,&lt;/FONT&gt;&lt;FONT color=&apos;#1E90FF&apos; size=&apos;15&apos; &gt;250 Merets&lt;/FONT&gt;&lt;FONT color=&apos;#FFD200&apos; &gt; can be spent to fill the remaining open slots.&lt;/FONT&gt;&lt;" />
+	<key id="s_longtermattendgift_dialog_title" value="Wake Up! Golden Duckyball! Event ({0} after maintenance ~ {1})" />
+	<key id="s_longtermattendgift_dialog_desc" value="Unused Duckyball: Log in after 00:00 every day to receive one Duckyball.&#xA;Open Slot: Regardless of login status, one slot opens each day from the event start date until its end date.&#xA;Place Duckyball: Click the button to use 1 unused Duckyball and fill 1 open slot, and receive rewards based on the number of Duckyballs placed.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; &gt;If all Duckyballs have been placed but open slots remain,&lt;/FONT&gt;&lt;FONT color=&apos;#1E90FF&apos; size=&apos;15&apos; &gt;1500 Merets&lt;/FONT&gt;&lt;FONT color=&apos;#FFD200&apos; &gt; can be spent to fill the remaining open slots.&lt;/FONT&gt;&lt;" locale="CN" />
+	<key id="s_adventure_protect_err" value="The Adventurer Protection Program is active." />
+	<key id="s_longtermattendgift_dialog_use_merat" value="{0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; will be spent to fill the open slots.&#xA;Do you wish to continue?" />
+	<key id="s_longtermattendgift_dialog_err_msg_attendance_full" value="There are no open slots.&#xA;If you have remaining attendance days, please try again tomorrow." />
+	<key id="s_longtermattendgift_dialog_err_msg_empty_point" value="There are no open slots.&#xA;If you have remaining attendance days, please try again tomorrow. " />
+	<key id="s_longtermattendgift_dialog_invalid_event" value="This event cannot be started." />
+	<key id="s_delete_account_check_msg_step_1" value="I confirm that I have met the above account deletion requirements." />
+	<key id="s_delete_account_terms_step_2" value="Dear User, before officially starting the game account deletion process, please carefully read and agree to the Game Account Deletion Agreement (hereinafter referred to as &apos;this Agreement&apos;). By initiating the deletion process in accordance with our procedures, or by selecting this agreement and clicking Next, you are deemed to have agreed to and accepted all contents of this Agreement. We would like to especially remind you that after deleting your game account on this platform, except as otherwise required by law or this Agreement, your personal information under the game account will be deleted or anonymized, and you will no longer be able to search, access, obtain, continue to use, or retrieve it. Personal information includes but is not limited to the nickname, equipment, achievements, currencies and other virtual items, posts, and items of each character under the account, and you will not have the right to recover such personal information." />
+	<key id="s_delete_account_terms_step_1" value="Dear Player,&#xA;&#xA;Dominica deeply regrets your decision to close your account. To protect the security of your account and assets, please ensure the following conditions are met before your request takes effect. The MapleStory 2 operations team may also review and verify the situation:&#xA;1. Your account is secure and in normal status: No sensitive operations (such as enabling two-step password verification or removing security exemptions) were performed in the 2 weeks prior to your request, and the account has not been suspended for any violations.&#xA;2. Game earnings have been settled or properly handled: Including but not limited to Blue Mushroom currency, Red Mushroom currency, Gold, Tools, Membership benefits, etc. If left unhandled, they will be treated as voluntarily forfeited.&#xA;3. No incomplete transactions: Including Blue Chip recharges and Shop item purchases or consumptions.&#xA;4. No account disputes: Including filed reports, complaints, mediation requests, lawsuits, or other disputes." />
+	<key id="s_delete_account_check_msg_step_2" value="I have read the terms and conditions in detail and agree." />
+	<key id="s_delete_account_hyperlink_msg" value="Game Account Deletion Agreement" />
+	<key id="s_delete_account_terms_step_3" value="To prevent any errors, please confirm once more whether you wish to delete your account and review the consequences after deletion. These consequences include (but are not limited to, please refer to the &apos;Game Account Deletion Agreement&apos;):&#xA;1. Once this account is deleted, it cannot be logged into, used, or recovered. Except as required by law or the Game Account Deletion Agreement, personal information contained in your game account will be deleted or anonymized, and you will not be able to retrieve your personal information or file any claims with us.&#xA;2. This account will lose all earnings or rights that have accrued or may accrue in the future during the use of this game. Please ensure your game earnings and rights have been properly handled before deleting your account. Otherwise, after the account is deleted, we reserve the right to remove all earnings or rights associated with this account, and the resulting consequences shall be your sole responsibility. The aforementioned game earnings or rights include but are not limited to all remaining virtual items, virtual currencies, other virtual goods, and value-added services in the account." />
+	<key id="s_delete_account_terms_step_4" value="Dear User, please provide your actual information to verify your account deletion and ensure account security. This information will only be used for this verification." />
+	<key id="s_delete_account_terms_step_end" value="Please note that this account will have a 60-day lock period. Except as required by law or the deletion agreement, your personal information will be deleted or anonymized after the lock period expires. During this period, please do not log in or use this account to ensure the deletion proceeds correctly. Otherwise, the deletion will be considered canceled." />
+	<key id="s_delete_account_terms_step_end_title" value="Your account deletion request has been successfully submitted." />
+	<key id="s_delete_account_terms_step_4_label1" value="Full Name" />
+	<key id="s_delete_account_terms_step_end_game_button" value="Exit Game" />
+	<key id="s_delete_account_terms_step_4_label2" value="ID Number" />
+	<key id="s_delete_account_result_check_fail_err_db_guild" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; is a member of a guild." />
+	<key id="s_delete_account_result_check_fail_err_db_blcakmarket" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; has items listed on the Black Market." />
+	<key id="s_delete_account_result_check_fail_err_db_ugcmarket" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; has items listed in the Designer&apos;s Shop." />
+	<key id="s_delete_account_result_check_fail_err_select_character" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; is currently selected." />
+	<key id="s_delete_account_result_check_fail_err_characterpending" value="Account deletion request has failed.&#xA;&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; is currently being deleted." />
+	<key id="s_delete_account_result_unknown" value="Account deletion request has failed.&#xA;An unknown error has occurred." />
+	<key id="s_delete_account_result_check_fail_err_db_norow" value="Account deletion request has failed.&#xA;The account to be deleted is invalid." />
+	<key id="s_delete_account_result_check_fail_err_db_wedding" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; is currently in the middle of an engagement, marriage, or divorce process." />
+	<key id="s_delete_account_result_check_fail_err_db_mail" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; has unread mail." />
+	<key id="s_delete_account_result_check_fail_err_db_mesomarket" value="Account deletion request has failed.&#xA;The character &lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; has Mesos listed on the Black Market." />
+	<key id="s_delete_account_cancel_login_success" value="Your account deletion request has been automatically canceled because you logged in during the lock period." />
+	<key id="s_delete_account_check_certid_fail_invalid_certnameid" value="Account deletion request failed.&#xA;The name and ID number for verification are invalid." />
+	<key id="s_delete_account_check_user_cert_id_query_fail" value="Account deletion request failed.&#xA;Identity verification request failed. " />
+	<key id="s_delete_account_cancel_login_fail" value="An error occurred while canceling account deletion." />
+	<key id="s_delete_account_check_session_key_fail" value="Account deletion request failed.&#xA;Unable to retrieve user information." />
+	<key id="s_delete_account_check_user_cert_id_verify_fail" value="Account deletion request failed.&#xA;Identity verification result is invalid." />
+	<key id="s_quest_start_err_has_quest" value="You already have this quest." />
+	<key id="s_quest_start_err_level" value="Your level is too low." />
+	<key id="s_quest_start_err_completed" value="This quest has already been completed." />
+	<key id="s_delete_account_check_certid_fail_invalid_skey" value="Account deletion request failed.&#xA;The session key is invalid." />
+	<key id="s_delete_account_check_certid_fail_invalid_platformsn" value="Account deletion request failed.&#xA;The verification information is invalid." />
+	<key id="s_quest_start_err_invalid" value="Unable to accept the quest." />
+	<key id="s_quest_start_success" value="Quest accepted." />
+	<key id="s_quest_start_msg" value="{0}&#xA;Register quest.&#xA;&#xA;Once registered, the quest cannot be converted back to an item.&#xA;&#xA;Would you like to register it?" />
+	<key id="s_personal_infomaion_agreement_title" value="Notice" />
+	<key id="s_personal_infomaion_agreement_sendlog_content" value="Your account information will be sent to an overseas developer for analysis to provide quality game services and ensure account security. This information will only be used for improving game performance and troubleshooting." />
+	<key id="s_quest_start_title" value="Quest Start Item" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_deny" value="Deny" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_allowed" value="Allow" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_public" value="Public" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_content" value="Please select whether to consent to sharing your personal information for a better game experience.&#xA;(Can also be changed in the game settings page)&#xA;User Info - My Home Info&#xA;Can be set to share with everyone, partially, or not at all" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_detail" value="View Details" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_password" value="Enter Password" />
+	<key id="s_lead_skill_require" value="{0} class character&apos;s equipped weapon at Limit Break level {1} or higher " />
+	<key id="s_lead_skill_from_char" value="&lt;FONT color=&apos;#E26741&apos; &gt;Lead Character: {0}&lt;/FONT&gt;" />
+	<key id="s_pc_info_name_shield" value="Shield" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_input_password" value="Enter the home access password.&#xA;(6 digits only.)" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_private" value="Private" />
+	<key id="s_lead_skill_from_unlimited_level" value="&lt;FONT color=&apos;#E26741&apos; &gt;Lead Character Limit Break Level {0}&lt;/FONT&gt;" />
+	<key id="s_item_repacking_limit_count" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Can be repackaged {0} time(s) (Merchant&apos;s Ribbon required to repack)&lt;/FONT&gt;" feature="ItemRePackingHide" />
+	<key id="s_lead_skill_check_fail_cooltime" value="Cannot switch skills while a skill is on cooldown." />
+	<key id="s_upper_hud_version" value="Beta Build" feature="WaterMark" />
+	<key id="s_meratmarket_buy_fail_music_score_by_merat_grade" value="Cannot purchase sheet music with Merets." feature="UGCMarketMusicScore" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Character Selection]&lt;/FONT&gt;&#xA;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#FF5F5F&apos;&gt;Would you like to participate in the Burning Event with the character {0}?&lt;/FONT&gt;&#xA;&#xA;• Gain an additional +2 levels with each level-up. &#xA;• Effect applies from level 9 to 60. &#xA;• Only 1 Burning Character can be designated per account. &#xA;• The designated Burning Character cannot be changed until the character is deleted.&#xA;&#xA;• After raising your Burning Character to level 60, you cannot designate an additional Burning Character even if you delete the current one.&#xA;• The Burning Event runs until the December 11 maintenance.&#xA;&#xA;&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Final Reward]&lt;/FONT&gt;" comment="{0}: Character Name" locale="JP" />
+	<key id="s_meratmarket_error_add_basket_by_music_score" value="Sheet music can only be purchased directly." feature="UGCMarketMusicScore" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[What is Burning?]&lt;/FONT&gt;&#xA;&#xA;・Gain an additional +2 levels with each level-up.&#xA;・Effect applies from level 9 to 60.&#xA;・Only 1 Burning Character can be designated per account.&#xA;・The designated Burning Character cannot be changed until the character is deleted.&#xA;&#xA;・After raising your Burning Character to level 60, you cannot designate an additional Burning Character even if you delete the current one.&#xA;・The Burning Event runs until the December 11 maintenance." locale="JP" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" comment="{0}: Character Name" value="If you have read and understood the Burning Event details and wish to designate {0} as your Burning Character, press &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;&#xA;&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;Confirm&apos;&lt;/FONT&gt;." locale="JP" />
+	<key id="s_wedding_result_err_wedding_block_age_to" value="Only characters in adult accounts can use the marriage system" feature="WeddingBlockAge" />
+	<key id="s_wedding_result_err_wedding_block_age_from" value="The marriage system can only be used with characters in adult accounts." feature="WeddingBlockAge" />
 </ms2>

@@ -1,188 +1,187 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10700001" level="1" name="卑鄙" tooltipDescription="不择手段！\n强化部分技能\n移动速度提高30%" />
-  <key id="10700011" level="1" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成11%的毒素伤害" />
-  <key id="10700011" level="2" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成12%的毒素伤害" />
-  <key id="10700011" level="3" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成13%的毒素伤害" />
-  <key id="10700011" level="4" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成14%的毒素伤害" />
-  <key id="10700011" level="5" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成15%的毒素伤害" />
-  <key id="10700011" level="6" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成16%的毒素伤害" />
-  <key id="10700011" level="7" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成17%的毒素伤害" />
-  <key id="10700011" level="8" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成18%的毒素伤害" />
-  <key id="10700011" level="9" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成19%的毒素伤害" />
-  <key id="10700011" level="10" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成20%的毒素伤害" />
-  <key id="10700011" level="11" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成21%的毒素伤害" />
-  <key id="10700011" level="12" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成22%的毒素伤害" />
-  <key id="10700031" level="1" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有81%的几率回避敌人的攻击" />
-  <key id="10700031" level="2" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有83%的几率回避敌人的攻击" />
-  <key id="10700031" level="3" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有85%的几率回避敌人的攻击" />
-  <key id="10700031" level="4" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有87%的几率回避敌人的攻击" />
-  <key id="10700031" level="5" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有89%的几率回避敌人的攻击" />
-  <key id="10700031" level="6" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有91%的几率回避敌人的攻击" />
-  <key id="10700031" level="7" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有93%的几率回避敌人的攻击" />
-  <key id="10700031" level="8" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有95%的几率回避敌人的攻击" />
-  <key id="10700031" level="9" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有97%的几率回避敌人的攻击" />
-  <key id="10700031" level="10" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有99%的几率回避敌人的攻击" />
-  <key id="10700031" level="11" name="刀刃之舞" tooltipDescription="以灵活的动作避开敌人的攻击。\n有99%的几率回避敌人的攻击" />
-  <key id="10700031" level="12" name="刀刃之舞" tooltipDescription="以灵活的动作避开敌人的攻击。\n有99%的几率回避敌人的攻击" />
-  <key id="10700051" level="1" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低30%\n跳跃力降低30%" />
-  <key id="10700051" level="2" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10700051" level="3" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10700051" level="4" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10700051" level="5" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10700051" level="6" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
-  <key id="10700051" level="7" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10700051" level="8" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10700051" level="9" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低40%\n跳跃力降低40%" />
-  <key id="10700051" level="10" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低45%\n跳跃力降低45%" />
-  <key id="10700051" level="11" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低45%\n跳跃力降低45%" />
-  <key id="10700051" level="12" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低45%\n跳跃力降低45%" />
-  <key id="10700052" level="1" name="飞燕脚" tooltipDescription="受到强力踢击，失去了意识！\n眩晕，无法行动" />
-  <key id="10700081" level="1" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高13%\n物理攻击力提高8%" />
-  <key id="10700081" level="2" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高14%\n物理攻击力提高9%" />
-  <key id="10700081" level="3" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高15%\n物理攻击力提高10%" />
-  <key id="10700081" level="4" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高16%\n物理攻击力提高11%" />
-  <key id="10700081" level="5" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高17%\n物理攻击力提高12%" />
-  <key id="10700081" level="6" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高18%\n物理攻击力提高13%" />
-  <key id="10700081" level="7" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高19%\n物理攻击力提高14%" />
-  <key id="10700081" level="8" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高20%\n物理攻击力提高15%" />
-  <key id="10700081" level="9" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高21%\n物理攻击力提高16%" />
-  <key id="10700081" level="10" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高22%\n物理攻击力提高17%" />
-  <key id="10700081" level="11" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高23%\n物理攻击力提高18%" />
-  <key id="10700081" level="12" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高24%\n物理攻击力提高19%" />
-  <key id="10700102" level="1" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升4.5%，回避提升6" />
-  <key id="10700102" level="2" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升6%，回避提升7" />
-  <key id="10700102" level="3" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升7.5%，回避提升8" />
-  <key id="10700102" level="4" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升9%，回避提升9" />
-  <key id="10700102" level="5" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升10.5%，回避提升10" />
-  <key id="10700102" level="6" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升12%，回避提升11" />
-  <key id="10700102" level="7" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升13.5%，回避提升12" />
-  <key id="10700102" level="8" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升15%，回避提升13" />
-  <key id="10700102" level="9" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升16.5%，回避提升14" />
-  <key id="10700102" level="10" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升18%，回避提升15" />
-  <key id="10700102" level="11" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升19.5%，回避提升16" />
-  <key id="10700102" level="12" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升21%，回避提升17" />
-  <key id="10700111" level="1" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成35%的毒素伤害" />
-  <key id="10700111" level="2" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成38%的毒素伤害" />
-  <key id="10700111" level="3" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成41%的毒素伤害" />
-  <key id="10700111" level="4" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成44%的毒素伤害" />
-  <key id="10700111" level="5" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成47%的毒素伤害" />
-  <key id="10700111" level="6" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成50%的毒素伤害" />
-  <key id="10700111" level="7" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成53%的毒素伤害" />
-  <key id="10700111" level="8" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成56%的毒素伤害" />
-  <key id="10700111" level="9" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成59%的毒素伤害" />
-  <key id="10700111" level="10" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成62%的毒素伤害" />
-  <key id="10700111" level="11" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成65%的毒素伤害" />
-  <key id="10700111" level="12" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成68%的毒素伤害" />
-  <key id="10700142" level="1" name="战斗计划" tooltipDescription="全神贯注于战斗的时刻。\n发动战斗计划，使物理伤害提高。" feature="JobChange_01" />
-  <key id="10700161" level="1" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害26%" />
-  <key id="10700161" level="2" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害32%" />
-  <key id="10700161" level="3" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害38%" />
-  <key id="10700161" level="4" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害44%" />
-  <key id="10700161" level="5" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害50%" />
-  <key id="10700161" level="6" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害56%" />
-  <key id="10700161" level="7" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害62%" />
-  <key id="10700161" level="8" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害68%" />
-  <key id="10700161" level="9" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害74%" />
-  <key id="10700161" level="10" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害80%" />
-  <key id="10700161" level="11" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害86%" />
-  <key id="10700161" level="12" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害92%" />
-  <key id="10700162" level="1" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低2.6%\n物理攻击力提高11%" />
-  <key id="10700162" level="2" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低3.2%\n物理攻击力提高14%" />
-  <key id="10700162" level="3" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低3.8%\n物理攻击力提高17%" />
-  <key id="10700162" level="4" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低4.4%\n物理攻击力提高20%" />
-  <key id="10700162" level="5" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低5%\n物理攻击力提高23%" />
-  <key id="10700162" level="6" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低5.6%\n物理攻击力提高26%" />
-  <key id="10700162" level="7" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低6.2%\n物理攻击力提高29%" />
-  <key id="10700162" level="8" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低6.8%\n物理攻击力提高32%" />
-  <key id="10700162" level="9" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低7.4%\n物理攻击力提高35%" />
-  <key id="10700162" level="10" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低8%\n物理攻击力提高38%" />
-  <key id="10700162" level="11" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低8.6%\n物理攻击力提高41%" />
-  <key id="10700162" level="12" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低9.2%\n物理攻击力提高44%" />
-  <key id="10700191" level="1" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="2" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="3" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="4" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="5" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="6" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="7" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="8" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="9" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="10" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="11" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700191" level="12" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
-  <key id="10700194" level="1" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高29%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="2" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高31%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="3" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高33%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="4" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高35%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="5" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高37%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="6" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高39%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="7" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高41%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="8" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高43%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="9" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高45%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="10" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高47%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="11" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高49%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700194" level="12" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高51%，移动速度提高10%" feature="JobChange_01" />
-  <key id="10700195" level="1" name="斗战步（投入战斗）" tooltipDescription="储备力量，准备投入下次战斗！" feature="JobChange_01" />
-  <key id="10700231" level="1" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成40%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="2" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成45%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="3" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成50%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="4" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成55%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="5" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成60%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="6" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成65%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="7" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成70%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="8" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成75%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="9" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成80%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="10" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成85%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="11" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成90%的毒素伤害" feature="JobChange_01" />
-  <key id="10700231" level="12" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成95%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="1" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成40%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="2" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成45%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="3" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成50%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="4" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成55%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="5" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成60%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="6" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成65%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="7" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成70%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="8" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成75%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="9" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成80%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="10" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成85%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="11" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成90%的毒素伤害" feature="JobChange_01" />
-  <key id="10700232" level="12" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成95%的毒素伤害" feature="JobChange_01" />
-  <key id="10700282" level="1" name="随机应变" tooltipDescription="攻击速度提高7%，移动速度提高4%" feature="JobChange_02" />
-  <key id="10700282" level="2" name="随机应变" tooltipDescription="攻击速度提高14%，移动速度提高8%" feature="JobChange_02" />
-  <key id="10700282" level="3" name="随机应变" tooltipDescription="攻击速度提高21%，移动速度提高12%" feature="JobChange_02" />
-  <key id="10700282" level="4" name="随机应变" tooltipDescription="攻击速度提高28%，移动速度提高16%" feature="JobChange_02" />
-  <key id="10700282" level="5" name="随机应变" tooltipDescription="攻击速度提高35%，移动速度提高20%" feature="JobChange_02" />
-  <key id="10700282" level="6" name="随机应变" tooltipDescription="攻击速度提高42%，移动速度提高24%" feature="JobChange_02" />
-  <key id="10700282" level="7" name="随机应变" tooltipDescription="攻击速度提高49%，移动速度提高28%" feature="JobChange_02" />
-  <key id="10700282" level="8" name="随机应变" tooltipDescription="攻击速度提高56%，移动速度提高32%" feature="JobChange_02" />
-  <key id="10700282" level="9" name="随机应变" tooltipDescription="攻击速度提高63%，移动速度提高36%" feature="JobChange_02" />
-  <key id="10700282" level="10" name="随机应变" tooltipDescription="攻击速度提高70%，移动速度提高40%" feature="JobChange_02" />
-  <key id="10700282" level="11" name="随机应变" tooltipDescription="攻击速度提高77%，移动速度提高44%" feature="JobChange_02" />
-  <key id="10700282" level="12" name="随机应变" tooltipDescription="攻击速度提高84%，移动速度提高48%" feature="JobChange_02" />
-  <key id="10700283" level="1" name="随机应变" tooltipDescription="物理/魔法攻击力提高6%，物理/魔法抵抗力增加105" feature="JobChange_02" />
-  <key id="10700283" level="2" name="随机应变" tooltipDescription="物理/魔法攻击力提高12%，物理/魔法抵抗力增加135" feature="JobChange_02" />
-  <key id="10700283" level="3" name="随机应变" tooltipDescription="物理/魔法攻击力提高18%，物理/魔法抵抗力增加165" feature="JobChange_02" />
-  <key id="10700283" level="4" name="随机应变" tooltipDescription="物理/魔法攻击力提高24%，物理/魔法抵抗力增加195" feature="JobChange_02" />
-  <key id="10700283" level="5" name="随机应变" tooltipDescription="物理/魔法攻击力提高30%，物理/魔法抵抗力增加225" feature="JobChange_02" />
-  <key id="10700283" level="6" name="随机应变" tooltipDescription="物理/魔法攻击力提高36%，物理/魔法抵抗力增加255" feature="JobChange_02" />
-  <key id="10700283" level="7" name="随机应变" tooltipDescription="物理/魔法攻击力提高42%，物理/魔法抵抗力增加285" feature="JobChange_02" />
-  <key id="10700283" level="8" name="随机应变" tooltipDescription="物理/魔法攻击力提高48%，物理/魔法抵抗力增加315" feature="JobChange_02" />
-  <key id="10700283" level="9" name="随机应变" tooltipDescription="物理/魔法攻击力提高54%，物理/魔法抵抗力增加345" feature="JobChange_02" />
-  <key id="10700283" level="10" name="随机应变" tooltipDescription="物理/魔法攻击力提高60%，物理/魔法抵抗力增加375" feature="JobChange_02" />
-  <key id="10700283" level="11" name="随机应变" tooltipDescription="物理/魔法攻击力提高66%，物理/魔法抵抗力增加405" feature="JobChange_02" />
-  <key id="10700283" level="12" name="随机应变" tooltipDescription="物理/魔法攻击力提高72%，物理/魔法抵抗力增加435" feature="JobChange_02" />
-  <key id="10700284" level="1" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高4%，回避增加4" feature="JobChange_02" />
-  <key id="10700284" level="2" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高8%，回避增加8" feature="JobChange_02" />
-  <key id="10700284" level="3" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高12%，回避增加12" feature="JobChange_02" />
-  <key id="10700284" level="4" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高16%，回避增加16" feature="JobChange_02" />
-  <key id="10700284" level="5" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高20%，回避增加20" feature="JobChange_02" />
-  <key id="10700284" level="6" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高24%，回避增加24" feature="JobChange_02" />
-  <key id="10700284" level="7" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高28%，回避增加28" feature="JobChange_02" />
-  <key id="10700284" level="8" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高32%，回避增加32" feature="JobChange_02" />
-  <key id="10700284" level="9" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高36%，回避增加36" feature="JobChange_02" />
-  <key id="10700284" level="10" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高40%，回避增加40" feature="JobChange_02" />
-  <key id="10700284" level="11" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高44%，回避增加44" feature="JobChange_02" />
-  <key id="10700284" level="12" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高48%，回避增加48" feature="JobChange_02" />
+	<key id="10700001" level="1" name="卑鄙" tooltipDescription="不择手段！\n强化部分技能\n移动速度提高30%" />
+	<key id="10700011" level="1" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成11%的毒素伤害" />
+	<key id="10700011" level="2" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成12%的毒素伤害" />
+	<key id="10700011" level="3" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成13%的毒素伤害" />
+	<key id="10700011" level="4" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成14%的毒素伤害" />
+	<key id="10700011" level="5" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成15%的毒素伤害" />
+	<key id="10700011" level="6" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成16%的毒素伤害" />
+	<key id="10700011" level="7" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成17%的毒素伤害" />
+	<key id="10700011" level="8" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成18%的毒素伤害" />
+	<key id="10700011" level="9" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成19%的毒素伤害" />
+	<key id="10700011" level="10" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成20%的毒素伤害" />
+	<key id="10700011" level="11" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成21%的毒素伤害" />
+	<key id="10700011" level="12" name="毒刃" tooltipDescription="身中剧毒！\n每秒造成22%的毒素伤害" />
+	<key id="10700031" level="1" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有81%的几率回避敌人的攻击" />
+	<key id="10700031" level="2" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有83%的几率回避敌人的攻击" />
+	<key id="10700031" level="3" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有85%的几率回避敌人的攻击" />
+	<key id="10700031" level="4" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有87%的几率回避敌人的攻击" />
+	<key id="10700031" level="5" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有89%的几率回避敌人的攻击" />
+	<key id="10700031" level="6" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有91%的几率回避敌人的攻击" />
+	<key id="10700031" level="7" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有93%的几率回避敌人的攻击" />
+	<key id="10700031" level="8" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有95%的几率回避敌人的攻击" />
+	<key id="10700031" level="9" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有97%的几率回避敌人的攻击" />
+	<key id="10700031" level="10" name="刀刃之舞" tooltipDescription="通过柔软的动作避开敌人的攻击。\n有99%的几率回避敌人的攻击" />
+	<key id="10700031" level="11" name="刀刃之舞" tooltipDescription="以灵活的动作避开敌人的攻击。\n有99%的几率回避敌人的攻击" />
+	<key id="10700031" level="12" name="刀刃之舞" tooltipDescription="以灵活的动作避开敌人的攻击。\n有99%的几率回避敌人的攻击" />
+	<key id="10700051" level="1" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低30%\n跳跃力降低30%" />
+	<key id="10700051" level="2" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10700051" level="3" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10700051" level="4" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10700051" level="5" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10700051" level="6" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低35%\n跳跃力降低35%" />
+	<key id="10700051" level="7" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10700051" level="8" name="飞燕脚" tooltipDescription="受到强力踢击，无法自由控制身体！\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10700051" level="9" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低40%\n跳跃力降低40%" />
+	<key id="10700051" level="10" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低45%\n跳跃力降低45%" />
+	<key id="10700051" level="11" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低45%\n跳跃力降低45%" />
+	<key id="10700051" level="12" name="飞燕脚" tooltipDescription="因强力踢击而无法稳住身形！\n移动速度降低45%\n跳跃力降低45%" />
+	<key id="10700052" level="1" name="飞燕脚" tooltipDescription="受到强力踢击，失去了意识！\n眩晕，无法行动" />
+	<key id="10700081" level="1" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高13%\n物理攻击力提高8%" />
+	<key id="10700081" level="2" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高14%\n物理攻击力提高9%" />
+	<key id="10700081" level="3" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高15%\n物理攻击力提高10%" />
+	<key id="10700081" level="4" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高16%\n物理攻击力提高11%" />
+	<key id="10700081" level="5" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高17%\n物理攻击力提高12%" />
+	<key id="10700081" level="6" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高18%\n物理攻击力提高13%" />
+	<key id="10700081" level="7" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高19%\n物理攻击力提高14%" />
+	<key id="10700081" level="8" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高20%\n物理攻击力提高15%" />
+	<key id="10700081" level="9" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高21%\n物理攻击力提高16%" />
+	<key id="10700081" level="10" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高22%\n物理攻击力提高17%" />
+	<key id="10700081" level="11" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高23%\n物理攻击力提高18%" />
+	<key id="10700081" level="12" name="疾风步" tooltipDescription="像风一般行动迅捷。\n攻击速度和移动速度提高24%\n物理攻击力提高19%" />
+	<key id="10700102" level="1" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升4.5%，回避提升6" />
+	<key id="10700102" level="2" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升6%，回避提升7" />
+	<key id="10700102" level="3" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升7.5%，回避提升8" />
+	<key id="10700102" level="4" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升9%，回避提升9" />
+	<key id="10700102" level="5" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升10.5%，回避提升10" />
+	<key id="10700102" level="6" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升12%，回避提升11" />
+	<key id="10700102" level="7" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升13.5%，回避提升12" />
+	<key id="10700102" level="8" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升15%，回避提升13" />
+	<key id="10700102" level="9" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升16.5%，回避提升14" />
+	<key id="10700102" level="10" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升18%，回避提升15" />
+	<key id="10700102" level="11" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升19.5%，回避提升16" />
+	<key id="10700102" level="12" name="复仇" tooltipDescription="反击的时机！\n物理攻击力和魔法攻击力提升21%，回避提升17" />
+	<key id="10700111" level="1" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成35%的毒素伤害" />
+	<key id="10700111" level="2" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成38%的毒素伤害" />
+	<key id="10700111" level="3" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成41%的毒素伤害" />
+	<key id="10700111" level="4" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成44%的毒素伤害" />
+	<key id="10700111" level="5" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成47%的毒素伤害" />
+	<key id="10700111" level="6" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成50%的毒素伤害" />
+	<key id="10700111" level="7" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成53%的毒素伤害" />
+	<key id="10700111" level="8" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成56%的毒素伤害" />
+	<key id="10700111" level="9" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成59%的毒素伤害" />
+	<key id="10700111" level="10" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成62%的毒素伤害" />
+	<key id="10700111" level="11" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成65%的毒素伤害" />
+	<key id="10700111" level="12" name="剧毒投掷" tooltipDescription="身中剧毒！\n每秒造成68%的毒素伤害" />
+	<key id="10700142" level="1" name="战斗计划" tooltipDescription="全神贯注于战斗的时刻。\n发动战斗计划，使物理伤害提高。" feature="JobChange_01" />
+	<key id="10700161" level="1" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害26%" />
+	<key id="10700161" level="2" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害32%" />
+	<key id="10700161" level="3" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害38%" />
+	<key id="10700161" level="4" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害44%" />
+	<key id="10700161" level="5" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害50%" />
+	<key id="10700161" level="6" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害56%" />
+	<key id="10700161" level="7" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害62%" />
+	<key id="10700161" level="8" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害68%" />
+	<key id="10700161" level="9" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害74%" />
+	<key id="10700161" level="10" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害80%" />
+	<key id="10700161" level="11" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害86%" />
+	<key id="10700161" level="12" name="金币守护" tooltipDescription="利用金币抵挡攻击。\n减少所受伤害92%" />
+	<key id="10700162" level="1" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低2.6%\n物理攻击力提高11%" />
+	<key id="10700162" level="2" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低3.2%\n物理攻击力提高14%" />
+	<key id="10700162" level="3" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低3.8%\n物理攻击力提高17%" />
+	<key id="10700162" level="4" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低4.4%\n物理攻击力提高20%" />
+	<key id="10700162" level="5" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低5%\n物理攻击力提高23%" />
+	<key id="10700162" level="6" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低5.6%\n物理攻击力提高26%" />
+	<key id="10700162" level="7" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低6.2%\n物理攻击力提高29%" />
+	<key id="10700162" level="8" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低6.8%\n物理攻击力提高32%" />
+	<key id="10700162" level="9" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低7.4%\n物理攻击力提高35%" />
+	<key id="10700162" level="10" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低8%\n物理攻击力提高38%" />
+	<key id="10700162" level="11" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低8.6%\n物理攻击力提高41%" />
+	<key id="10700162" level="12" name="金币守护EX" tooltipDescription="利用金币格挡攻击，强化武器。\n敌人造成的伤害降低9.2%\n物理攻击力提高44%" />
+	<key id="10700191" level="1" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="2" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="3" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="4" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="5" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="6" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="7" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="8" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="9" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="10" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="11" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700191" level="12" name="斗战步（牵制）" tooltipDescription="防御力增加10%" feature="JobChange_01" />
+	<key id="10700194" level="1" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高29%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="2" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高31%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="3" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高33%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="4" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高35%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="5" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高37%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="6" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高39%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="7" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高41%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="8" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高43%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="9" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高45%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="10" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高47%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="11" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高49%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700194" level="12" name="斗战步（投入战斗）" tooltipDescription="全神贯注于战斗。\n物理攻击力提高51%，移动速度提高10%" feature="JobChange_01" />
+	<key id="10700195" level="1" name="斗战步（投入战斗）" tooltipDescription="储备力量，准备投入下次战斗！" feature="JobChange_01" />
+	<key id="10700231" level="1" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成40%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="2" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成45%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="3" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成50%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="4" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成55%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="5" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成60%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="6" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成65%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="7" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成70%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="8" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成75%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="9" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成80%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="10" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成85%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="11" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成90%的毒素伤害" feature="JobChange_01" />
+	<key id="10700231" level="12" name="压缩玻璃瓶1" tooltipDescription="身中剧毒！\n每秒造成95%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="1" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成40%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="2" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成45%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="3" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成50%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="4" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成55%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="5" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成60%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="6" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成65%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="7" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成70%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="8" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成75%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="9" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成80%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="10" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成85%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="11" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成90%的毒素伤害" feature="JobChange_01" />
+	<key id="10700232" level="12" name="压缩玻璃瓶2" tooltipDescription="身中剧毒！\n每秒造成95%的毒素伤害" feature="JobChange_01" />
+	<key id="10700282" level="1" name="随机应变" tooltipDescription="攻击速度提高7%，移动速度提高4%" feature="JobChange_02" />
+	<key id="10700282" level="2" name="随机应变" tooltipDescription="攻击速度提高14%，移动速度提高8%" feature="JobChange_02" />
+	<key id="10700282" level="3" name="随机应变" tooltipDescription="攻击速度提高21%，移动速度提高12%" feature="JobChange_02" />
+	<key id="10700282" level="4" name="随机应变" tooltipDescription="攻击速度提高28%，移动速度提高16%" feature="JobChange_02" />
+	<key id="10700282" level="5" name="随机应变" tooltipDescription="攻击速度提高35%，移动速度提高20%" feature="JobChange_02" />
+	<key id="10700282" level="6" name="随机应变" tooltipDescription="攻击速度提高42%，移动速度提高24%" feature="JobChange_02" />
+	<key id="10700282" level="7" name="随机应变" tooltipDescription="攻击速度提高49%，移动速度提高28%" feature="JobChange_02" />
+	<key id="10700282" level="8" name="随机应变" tooltipDescription="攻击速度提高56%，移动速度提高32%" feature="JobChange_02" />
+	<key id="10700282" level="9" name="随机应变" tooltipDescription="攻击速度提高63%，移动速度提高36%" feature="JobChange_02" />
+	<key id="10700282" level="10" name="随机应变" tooltipDescription="攻击速度提高70%，移动速度提高40%" feature="JobChange_02" />
+	<key id="10700282" level="11" name="随机应变" tooltipDescription="攻击速度提高77%，移动速度提高44%" feature="JobChange_02" />
+	<key id="10700282" level="12" name="随机应变" tooltipDescription="攻击速度提高84%，移动速度提高48%" feature="JobChange_02" />
+	<key id="10700283" level="1" name="随机应变" tooltipDescription="物理/魔法攻击力提高6%，物理/魔法抵抗力增加105" feature="JobChange_02" />
+	<key id="10700283" level="2" name="随机应变" tooltipDescription="物理/魔法攻击力提高12%，物理/魔法抵抗力增加135" feature="JobChange_02" />
+	<key id="10700283" level="3" name="随机应变" tooltipDescription="物理/魔法攻击力提高18%，物理/魔法抵抗力增加165" feature="JobChange_02" />
+	<key id="10700283" level="4" name="随机应变" tooltipDescription="物理/魔法攻击力提高24%，物理/魔法抵抗力增加195" feature="JobChange_02" />
+	<key id="10700283" level="5" name="随机应变" tooltipDescription="物理/魔法攻击力提高30%，物理/魔法抵抗力增加225" feature="JobChange_02" />
+	<key id="10700283" level="6" name="随机应变" tooltipDescription="物理/魔法攻击力提高36%，物理/魔法抵抗力增加255" feature="JobChange_02" />
+	<key id="10700283" level="7" name="随机应变" tooltipDescription="物理/魔法攻击力提高42%，物理/魔法抵抗力增加285" feature="JobChange_02" />
+	<key id="10700283" level="8" name="随机应变" tooltipDescription="物理/魔法攻击力提高48%，物理/魔法抵抗力增加315" feature="JobChange_02" />
+	<key id="10700283" level="9" name="随机应变" tooltipDescription="物理/魔法攻击力提高54%，物理/魔法抵抗力增加345" feature="JobChange_02" />
+	<key id="10700283" level="10" name="随机应变" tooltipDescription="物理/魔法攻击力提高60%，物理/魔法抵抗力增加375" feature="JobChange_02" />
+	<key id="10700283" level="11" name="随机应变" tooltipDescription="物理/魔法攻击力提高66%，物理/魔法抵抗力增加405" feature="JobChange_02" />
+	<key id="10700283" level="12" name="随机应变" tooltipDescription="物理/魔法攻击力提高72%，物理/魔法抵抗力增加435" feature="JobChange_02" />
+	<key id="10700284" level="1" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高4%，回避增加4" feature="JobChange_02" />
+	<key id="10700284" level="2" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高8%，回避增加8" feature="JobChange_02" />
+	<key id="10700284" level="3" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高12%，回避增加12" feature="JobChange_02" />
+	<key id="10700284" level="4" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高16%，回避增加16" feature="JobChange_02" />
+	<key id="10700284" level="5" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高20%，回避增加20" feature="JobChange_02" />
+	<key id="10700284" level="6" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高24%，回避增加24" feature="JobChange_02" />
+	<key id="10700284" level="7" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高28%，回避增加28" feature="JobChange_02" />
+	<key id="10700284" level="8" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高32%，回避增加32" feature="JobChange_02" />
+	<key id="10700284" level="9" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高36%，回避增加36" feature="JobChange_02" />
+	<key id="10700284" level="10" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高40%，回避增加40" feature="JobChange_02" />
+	<key id="10700284" level="11" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高44%，回避增加44" feature="JobChange_02" />
+	<key id="10700284" level="12" name="随机应变" tooltipDescription="复仇状态下武器攻击力提高48%，回避增加48" feature="JobChange_02" />
 </ms2>

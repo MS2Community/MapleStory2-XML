@@ -1,189 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="1" name="&lt;FONT color='#FFD200' size='15'&gt;コミュニティ&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nフレンドになりたい冒険者がいる場合、フレンド追加ボタンをクリックすると、フレンドに登録できます。" />
-  <key id="2" name="&lt;FONT color='#FFD200' size='15'&gt;ビューティ&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nヘアスタイル変更、装備染色、整形をしてキャラクターの外見を変更することができます。" />
-  <key id="3" name="&lt;FONT color='#FFD200' size='15'&gt;タクシー&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nタクシー乗り場を発見した後は、いつでもそのタクシー乗り場からタクシーに乗ることができます。" />
-  <key id="4" name="&lt;FONT color='#FFD200' size='15'&gt;自動拾得&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nレベル10を達成すると自動拾得機能を使用することができます。" />
-  <key id="5" name="&lt;FONT color='#FFD200' size='15'&gt;乗り物&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n一生懸命走って、走って&lt;FONT color='#FFD200'&gt;II. 本当のランナー&lt;/FONT&gt;トロフィーを達成すると、乗り物アイテムを獲得できます。" />
-  <key id="6" name="&lt;FONT color='#FFD200' size='15'&gt;釣り&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nペスカーを訪ね&lt;FONT color='#FFD200'&gt;初めての手応え&lt;/FONT&gt;クエストを完了すると釣り竿を獲得できます。\n釣りをして魚図鑑を埋め、アイテムも釣り上げてみてください。" feature="Fishing" />
-  <key id="7" name="&lt;FONT color='#FFD200' size='15'&gt;ケイのイベント&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nケイが進行するイベントが一定時間ごとにオープンします。\nイベントに参加し優勝すると、多くの経験値を獲得できます。" />
-  <key id="8" name="&lt;FONT color='#FFD200' size='15'&gt;アイテムショップ&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nアイテムショップで新商品をチェックしてみてください。" feature="MeratMarket" />
-  <key id="9" name="&lt;FONT color='#FFD200' size='15'&gt;金庫&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nそれぞれの村にいる金庫番に\nアイテムとメルを保管することができます。" />
-  <key id="10" name="&lt;FONT color='#FFD200' size='15'&gt;ダイナミックアクション&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nチャット入力欄の横にあるボタンをクリックすると、ダイナミックアクションを使用できます。" />
-  <key id="11" name="&lt;FONT color='#FFD200' size='15'&gt;アルポンダルポン牧場&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nアルポンダルポン牧場でオオカミリーダーを倒し、子羊を守ってください。" />
-  <key id="12" name="&lt;FONT color='#FFD200' size='15'&gt;ギルド&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nまだギルドに入っていない方は、「ギルドを探す」からギルドに参加することができます。" feature="GuildSystem01" />
-  <key id="13" name="&lt;FONT color='#FFD200' size='15'&gt;メイプルアーケード&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nメイプルアーケードで様々なミニゲームを楽しむことができます。" feature="ArcadeSystem" />
-  <key id="14" />
-  <key id="15" name="&lt;FONT color='#FFD200' size='15'&gt;パーティ探し&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nパーティ探しを通じて、一緒に冒険する仲間を見つけることができます。" />
-  <key id="16" />
-  <key id="17" />
-  <key id="18" />
-  <key id="19" name="&lt;FONT color='#FFD200' size='15'&gt;楽器演奏&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n楽器と楽譜があればいつ、どこでも演奏することができます。\n楽器や楽譜が必要なときは&lt;FONT color='#FFD200'&gt;ロイヤルミュージックアカデミー行政官&lt;/FONT&gt;に会ってみましょう。" feature="MusicInstrument" />
-  <key id="20" name="&lt;FONT color='#FFD200' size='15'&gt;エンチャント&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nエンチャントマスターを訪ねて装備にエンチャントをしてみましょう。もっと強くなれます。" />
-  <key id="21" name="&lt;FONT color='#FFD200' size='15'&gt;ゴルママンション&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nゴルママンションに行って不良ピギーを懲らしめましょう。" />
-  <key id="22" name="&lt;FONT color='#FFD200' size='15'&gt;飛行風船&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n飛行風船でより楽に移動することができます。" />
-  <key id="23" />
-  <key id="24" />
-  <key id="25" />
-  <key id="26" />
-  <key id="27" name="&lt;FONT color='#FFD200' size='15'&gt;分解する&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nオニキス抽出装置を使用してみましょう。&lt;FONT color='#FFD200'&gt;20レベル以上の装備アイテム&lt;/FONT&gt;を分解するとオニキスの結晶を獲得することができます。" />
-  <key id="28" name="&lt;FONT color='#FFD200' size='15'&gt;ブラックマーケット&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nショップでは購入できない貴重なアイテムもブラックマーケットでは見つけることができます。" />
-  <key id="29" />
-  <key id="30" />
-  <key id="31" />
-  <key id="32" name="&lt;FONT color='#FFD200' size='15'&gt;影の扉&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nシャドウゲートの真ん中にある大きな扉の向こうには闇の地があります。" feature="ShadowCataclysm" />
-  <key id="33" />
-  <key id="34" />
-  <key id="35" />
-  <key id="36" />
-  <key id="37" name="&lt;FONT color='#FFD200' size='15'&gt;不動産&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n家を持っている場合、帰還機能を使用できます。まだ家を持っていないなら、エバンズビルでお得な普及型の物件を探してみるのはいかがでしょうか。" />
-  <key id="38" name="&lt;FONT color='#FFD200' size='15'&gt;メイド&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n家にメイドを設置すると、様々な製作アイテムを手に入れることができます。\nトライアのタバサーに話しかければ、メルでメイドを雇用できます。アイテムショップで購入できるメイドもいます。" />
-  <key id="39" />
-  <key id="40" />
-  <key id="41" />
-  <key id="42" />
-  <key id="43" />
-  <key id="44" />
-  <key id="45" />
-  <key id="46" />
-  <key id="47" />
-  <key id="48" />
-  <key id="49" />
-  <key id="50" />
-  <key id="51" />
-  <key id="52" />
-  <key id="53" />
-  <key id="54" />
-  <key id="55" />
-  <key id="56" />
-  <key id="57" />
-  <key id="58" />
-  <key id="59" name="&lt;FONT color='#FFD200' size='15'&gt;飛行船ルミウィンド&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nカルカルアイランドに行くときは飛行船ルミウィンドを利用してください。" feature="KarkarIsland" />
-  <key id="60" />
-  <key id="61" />
-  <key id="62" feature="KarkarIsland" />
-  <key id="63" />
-  <key id="64" />
-  <key id="65" name="&lt;FONT color='#FFD200' size='15'&gt;デイリークエスト&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nクイーンズタウンやルデリーシティでデイリークエストを完了すると\nメルと一緒にルーを獲得することができます。" feature="AricariDailyQ" />
-  <key id="67" name="&lt;FONT color='#FFD200' size='15'&gt;青い星&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n青い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
-  <key id="68" name="&lt;FONT color='#FFD200' size='15'&gt;赤い星&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n赤い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
-  <key id="69" name="&lt;FONT color='#FFD200' size='15'&gt;歪んだ空間の隙間&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n闇の地の深くで影軍団長たちに会えます。" feature="ShadowCrack" />
-  <key id="70" name="&lt;FONT color='#FFD200' size='15'&gt;特性&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n特性を習得してキャラクターの能力を強化することができます。" feature="CharacterAbility" />
-  <key id="71" name="&lt;FONT color='#FFD200' size='15'&gt;ジェムストーン&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nジェムストーンを装着して装備の能力を上げることができます。" feature="ItemSocketSystem" />
-  <key id="73" />
-  <key id="201" feature="KarkarIsland" />
-  <key id="202" feature="BattleField51to55" />
-  <key id="203" feature="BattleField51to55" />
-  <key id="204" feature="KarkarIsland" />
-  <key id="205" />
-  <key id="206" />
-  <key id="207" />
-  <key id="208" feature="TimeAttackDungeon" />
-  <key id="209" />
-  <key id="210" />
-  <key id="211" />
-  <key id="212" />
-  <key id="213" />
-  <key id="214" />
-  <key id="215" />
-  <key id="216" />
-  <key id="217" />
-  <key id="219" />
-  <key id="220" />
-  <key id="221" />
-  <key id="223" />
-  <key id="224" />
-  <key id="225" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="226" />
-  <key id="227" />
-  <key id="228" />
-  <key id="229" />
-  <key id="230" />
-  <key id="231" />
-  <key id="232" />
-  <key id="233" />
-  <key id="234" />
-  <key id="235" />
-  <key id="236" />
-  <key id="237" />
-  <key id="238" />
-  <key id="239" />
-  <key id="240" />
-  <key id="241" />
-  <key id="242" name="&lt;FONT color='#FFD200' size='15'&gt;転職&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n60レベル達成後、[転職する]ボタンを押してエピッククエストを遂行すると各職業に合った転職を進行することができます。" feature="JobChange_01" />
-  <key id="243" name="&lt;FONT color='#FFD200' size='15'&gt;ラペンシャード&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n転職エピッククエストをクリア後、フロンティア財団の会議室でラネモネと会話してください。\n「新たな力、ラペンシャードの活用法」クエストを完了するとラペンシャードシステムを利用することができます。&#xA;" feature="Lapenshard01" />
-  <key id="248" name="&lt;FONT color='#FFD200' size='15'&gt;転職&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n60レベル達成後、[転職する]ボタンを押してエピッククエストを遂行すると各職業に合った転職を進行することができます。" feature="JobChange_01" />
-  <key id="249" name="&lt;FONT color='#FFD200' size='15'&gt;ラペンシャード&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n転職エピッククエストをクリア後、フロンティア財団の会議室でラネモネと会話してください。\n「新たな力、ラペンシャードの活用法」クエストを完了するとラペンシャードシステムを利用することができます。&#xA;" feature="Lapenshard01" />
-  <key id="250" feature="LapentaDungeon" />
-  <key id="251" feature="LapentaDungeon" />
-  <key id="252" feature="LapentaDungeon" />
-  <key id="253" feature="LapentaDungeon" />
-  <key id="254" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="255" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="256" feature="Develop" locale="JP" />
-  <key id="257" name="&lt;FONT color='#FFD200' size='15'&gt;メイプル工房&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\工房で様々なUGCアイテムを製作することができます。" />
-  <key id="258" name="&lt;FONT color='#FFD200' size='15'&gt;探検達成度&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nワールドマップを開くと探検達成度を確認することができます。" />
-  <key id="259" />
-  <key id="260" feature="ItemPartyDungeon" />
-  <key id="261" name="&lt;FONT color='#FFD200' size='15'&gt;ギルドミニゲーム&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nギルドに参加すると、ギルド専用のミニゲームを利用することができます。" feature="GuildMinigame01" />
-  <key id="262" name="&lt;FONT color='#FFD200' size='15'&gt;ギルドクエスト&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nギルドに参加すると、ギルド専用クエストを遂行することができます。" feature="GuildQuest01" />
-  <key id="263" name="&lt;FONT color='#FFD200' size='15'&gt;ギルドハウス&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nギルドハウスをアップグレードさせると、様々な機能を利用することができます。" feature="GuildHouse01" />
-  <key id="264" name="&lt;FONT color='#FFD200' size='15'&gt;クラブ&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n仲間とクラブを作ることができます。" feature="Club" />
-  <key id="265" name="&lt;FONT color='#FFD200' size='15'&gt;生活技術：生産&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n生活技術で様々なアイテムを生産することができます。" feature="Mastery" />
-  <key id="266" name="&lt;FONT color='#FFD200' size='15'&gt;生活技術：製作&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n生活技術で様々なアイテムを製作することができます。" feature="Mastery" />
-  <key id="267" name="&lt;FONT color='#FFD200' size='15'&gt;生活技術：レジャー&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n生活技術で役立つアイテムを獲得することができます。" feature="UGCMapRenewal2" />
-  <key id="268" name="&lt;FONT color='#FFD200' size='15'&gt;生活技術：魔法付与&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n生活技術で価値の高いアイテムを獲得することができます。" feature="MagicScroll01" />
-  <key id="269" name="&lt;FONT color='#FFD200' size='15'&gt;ギルドレイド：ゼノンシステム&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\nギルドに参加すると、専用ダンジョンを利用することができます。" feature="GuildRaid01" />
-  <key id="270" feature="Develop" locale="JP" />
-  <key id="271" name="RECOMMENDCONTENTSTOOLTIP_271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="272" name="RECOMMENDCONTENTSTOOLTIP_272_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-  <key id="273" name="RECOMMENDCONTENTSTOOLTIP_273_NAME:[F]Fieldwar01" feature="Fieldwar01" />
-  <key id="274" name="RECOMMENDCONTENTSTOOLTIP_274_NAME:[F]Gigantica01" feature="Gigantica01" />
-  <key id="275" feature="Kritias_Paika01" />
-  <key id="276" feature="Kritias_Balrog01" />
-  <key id="277" feature="Kritias_Zakum01" />
-  <key id="278" feature="Kritias_Zakum01" />
-  <key id="279" feature="Kritias_Inferno01" />
-  <key id="280" feature="Kritias_Inferno01" />
-  <key id="281" feature="Colosseum01" />
-  <key id="282" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="283" feature="DungeonOpenJP1901" locale="JP" />
-  <key id="284" feature="Develop" locale="JP" />
-  <key id="285" />
-  <key id="286" />
-  <key id="287" />
-  <key id="288" />
-  <key id="289" feature="Kritias_Turka01" />
-  <key id="290" feature="Kritias_Turka02" />
-  <key id="291" feature="Kritias_Turka03" />
-  <key id="297" name="&lt;FONT color='#FFD200' size='15'&gt;デイリークエスト&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nクイーンズタウンおよびルデリーシティでデイリークエストを完了すると、メルとルーを獲得できます。" />
-  <key id="298" name="&lt;FONT color='#FFD200' size='15'&gt;青い星&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n青い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
-  <key id="299" name="&lt;FONT color='#FFD200' size='15'&gt;赤い星&lt;/FONT&gt;\n&lt;FONT size='3'&gt;&lt;/FONT&gt;\n赤い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
-  <key id="1001" name="&lt;FONT color='#FFD200' size='15'&gt;デイリークエスト&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\nクイーンズタウンおよびルデリーシティでデイリークエストを完了すると、メルとルーを獲得できます。" />
-  <key id="1002" name="&lt;FONT color='#FFD200' size='15'&gt;メイプル闘技場&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n他のキャラクターと実力を競いたいあなた！メイプル闘技場で、真の実力を見せてください。" />
-  <key id="1003" name="&lt;FONT color='#FFD200' size='15'&gt;青い星&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n青い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入できます。" />
-  <key id="1004" name="&lt;FONT color='#FFD200' size='15'&gt;赤い星&lt;/FONT&gt;\n&lt;FONT size='3'&gt; &lt;/FONT&gt;\n赤い星を集めて、星の番人ショップに行ってみましょう。様々なアイテムを購入できます。" />
-  <key id="1005" />
-  <key id="1006" />
-  <key id="1007" />
-  <key id="1008" />
-  <key id="1009" />
-  <key id="1010" />
-  <key id="1011" />
-  <key id="1012" />
-  <key id="1013" />
-  <key id="1014" />
-  <key id="1015" />
-  <key id="1016" />
-  <key id="1017" />
-  <key id="1018" />
-  <key id="1019" />
-  <key id="1020" />
-  <key id="1021" />
-  <key id="1022" />
-  <key id="1023" />
-  <key id="1024" />
-  <key id="1025" />
-  <key id="1026" />
+	<key id="1" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;コミュニティ&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nフレンドになりたい冒険者がいる場合、フレンド追加ボタンをクリックすると、フレンドに登録できます。" />
+	<key id="2" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ビューティ&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nヘアスタイル変更、装備染色、整形をしてキャラクターの外見を変更することができます。" />
+	<key id="3" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;タクシー&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nタクシー乗り場を発見した後は、いつでもそのタクシー乗り場からタクシーに乗ることができます。" />
+	<key id="4" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;自動拾得&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nレベル10を達成すると自動拾得機能を使用することができます。" />
+	<key id="5" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;乗り物&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n一生懸命走って、走って&lt;FONT color=&apos;#FFD200&apos;&gt;II. 本当のランナー&lt;/FONT&gt;トロフィーを達成すると、乗り物アイテムを獲得できます。" />
+	<key id="6" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;釣り&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nペスカーを訪ね&lt;FONT color=&apos;#FFD200&apos;&gt;初めての手応え&lt;/FONT&gt;クエストを完了すると釣り竿を獲得できます。\n釣りをして魚図鑑を埋め、アイテムも釣り上げてみてください。" feature="Fishing" />
+	<key id="7" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ケイのイベント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nケイが進行するイベントが一定時間ごとにオープンします。\nイベントに参加し優勝すると、多くの経験値を獲得できます。" />
+	<key id="8" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;アイテムショップ&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nアイテムショップで新商品をチェックしてみてください。" feature="MeratMarket" />
+	<key id="9" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;金庫&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nそれぞれの村にいる金庫番に\nアイテムとメルを保管することができます。" />
+	<key id="10" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ダイナミックアクション&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nチャット入力欄の横にあるボタンをクリックすると、ダイナミックアクションを使用できます。" />
+	<key id="11" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;アルポンダルポン牧場&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nアルポンダルポン牧場でオオカミリーダーを倒し、子羊を守ってください。" />
+	<key id="12" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ギルド&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nまだギルドに入っていない方は、「ギルドを探す」からギルドに参加することができます。" feature="GuildSystem01" />
+	<key id="13" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;メイプルアーケード&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nメイプルアーケードで様々なミニゲームを楽しむことができます。" feature="ArcadeSystem" />
+	<key id="14" />
+	<key id="15" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;パーティ探し&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nパーティ探しを通じて、一緒に冒険する仲間を見つけることができます。" />
+	<key id="16" />
+	<key id="17" />
+	<key id="18" />
+	<key id="19" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;楽器演奏&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n楽器と楽譜があればいつ、どこでも演奏することができます。\n楽器や楽譜が必要なときは&lt;FONT color=&apos;#FFD200&apos;&gt;ロイヤルミュージックアカデミー行政官&lt;/FONT&gt;に会ってみましょう。" feature="MusicInstrument" />
+	<key id="20" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;エンチャント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nエンチャントマスターを訪ねて装備にエンチャントをしてみましょう。もっと強くなれます。" />
+	<key id="21" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ゴルママンション&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nゴルママンションに行って不良ピギーを懲らしめましょう。" />
+	<key id="22" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;飛行風船&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n飛行風船でより楽に移動することができます。" />
+	<key id="23" />
+	<key id="24" />
+	<key id="25" />
+	<key id="26" />
+	<key id="27" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;分解する&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nオニキス抽出装置を使用してみましょう。&lt;FONT color=&apos;#FFD200&apos;&gt;20レベル以上の装備アイテム&lt;/FONT&gt;を分解するとオニキスの結晶を獲得することができます。" />
+	<key id="28" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ブラックマーケット&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nショップでは購入できない貴重なアイテムもブラックマーケットでは見つけることができます。" />
+	<key id="29" />
+	<key id="30" />
+	<key id="31" />
+	<key id="32" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;影の扉&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nシャドウゲートの真ん中にある大きな扉の向こうには闇の地があります。" feature="ShadowCataclysm" />
+	<key id="33" />
+	<key id="34" />
+	<key id="35" />
+	<key id="36" />
+	<key id="37" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;不動産&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n家を持っている場合、帰還機能を使用できます。まだ家を持っていないなら、エバンズビルでお得な普及型の物件を探してみるのはいかがでしょうか。" />
+	<key id="38" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;メイド&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n家にメイドを設置すると、様々な製作アイテムを手に入れることができます。\nトライアのタバサーに話しかければ、メルでメイドを雇用できます。アイテムショップで購入できるメイドもいます。" />
+	<key id="39" />
+	<key id="40" />
+	<key id="41" />
+	<key id="42" />
+	<key id="43" />
+	<key id="44" />
+	<key id="45" />
+	<key id="46" />
+	<key id="47" />
+	<key id="48" />
+	<key id="49" />
+	<key id="50" />
+	<key id="51" />
+	<key id="52" />
+	<key id="53" />
+	<key id="54" />
+	<key id="55" />
+	<key id="56" />
+	<key id="57" />
+	<key id="58" />
+	<key id="59" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;飛行船ルミウィンド&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nカルカルアイランドに行くときは飛行船ルミウィンドを利用してください。" feature="KarkarIsland" />
+	<key id="60" />
+	<key id="61" />
+	<key id="62" feature="KarkarIsland" />
+	<key id="63" />
+	<key id="64" />
+	<key id="65" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;デイリークエスト&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nクイーンズタウンやルデリーシティでデイリークエストを完了すると\nメルと一緒にルーを獲得することができます。" feature="AricariDailyQ" />
+	<key id="67" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;青い星&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n青い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
+	<key id="68" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;赤い星&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n赤い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
+	<key id="69" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;歪んだ空間の隙間&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n闇の地の深くで影軍団長たちに会えます。" feature="ShadowCrack" />
+	<key id="70" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;特性&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n特性を習得してキャラクターの能力を強化することができます。" feature="CharacterAbility" />
+	<key id="71" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ジェムストーン&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nジェムストーンを装着して装備の能力を上げることができます。" feature="ItemSocketSystem" />
+	<key id="73" />
+	<key id="201" feature="KarkarIsland" />
+	<key id="202" feature="BattleField51to55" />
+	<key id="203" feature="BattleField51to55" />
+	<key id="204" feature="KarkarIsland" />
+	<key id="205" />
+	<key id="206" />
+	<key id="207" />
+	<key id="208" feature="TimeAttackDungeon" />
+	<key id="209" />
+	<key id="210" />
+	<key id="211" />
+	<key id="212" />
+	<key id="213" />
+	<key id="214" />
+	<key id="215" />
+	<key id="216" />
+	<key id="217" />
+	<key id="219" />
+	<key id="220" />
+	<key id="221" />
+	<key id="223" />
+	<key id="224" />
+	<key id="225" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="226" />
+	<key id="227" />
+	<key id="228" />
+	<key id="229" />
+	<key id="230" />
+	<key id="231" />
+	<key id="232" />
+	<key id="233" />
+	<key id="234" />
+	<key id="235" />
+	<key id="236" />
+	<key id="237" />
+	<key id="238" />
+	<key id="239" />
+	<key id="240" />
+	<key id="241" />
+	<key id="242" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;転職&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n60レベル達成後、[転職する]ボタンを押してエピッククエストを遂行すると各職業に合った転職を進行することができます。" feature="JobChange_01" />
+	<key id="243" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ラペンシャード&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n転職エピッククエストをクリア後、フロンティア財団の会議室でラネモネと会話してください。\n「新たな力、ラペンシャードの活用法」クエストを完了するとラペンシャードシステムを利用することができます。&#xA;" feature="Lapenshard01" />
+	<key id="248" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;転職&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n60レベル達成後、[転職する]ボタンを押してエピッククエストを遂行すると各職業に合った転職を進行することができます。" feature="JobChange_01" />
+	<key id="249" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ラペンシャード&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n転職エピッククエストをクリア後、フロンティア財団の会議室でラネモネと会話してください。\n「新たな力、ラペンシャードの活用法」クエストを完了するとラペンシャードシステムを利用することができます。&#xA;" feature="Lapenshard01" />
+	<key id="250" feature="LapentaDungeon" />
+	<key id="251" feature="LapentaDungeon" />
+	<key id="252" feature="LapentaDungeon" />
+	<key id="253" feature="LapentaDungeon" />
+	<key id="254" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="255" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="256" feature="Develop" locale="JP" />
+	<key id="257" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;メイプル工房&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\工房で様々なUGCアイテムを製作することができます。" />
+	<key id="258" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;探検達成度&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nワールドマップを開くと探検達成度を確認することができます。" />
+	<key id="259" />
+	<key id="260" feature="ItemPartyDungeon" />
+	<key id="261" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ギルドミニゲーム&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nギルドに参加すると、ギルド専用のミニゲームを利用することができます。" feature="GuildMinigame01" />
+	<key id="262" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ギルドクエスト&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nギルドに参加すると、ギルド専用クエストを遂行することができます。" feature="GuildQuest01" />
+	<key id="263" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ギルドハウス&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nギルドハウスをアップグレードさせると、様々な機能を利用することができます。" feature="GuildHouse01" />
+	<key id="264" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;クラブ&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n仲間とクラブを作ることができます。" feature="Club" />
+	<key id="265" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;生活技術：生産&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n生活技術で様々なアイテムを生産することができます。" feature="Mastery" />
+	<key id="266" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;生活技術：製作&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n生活技術で様々なアイテムを製作することができます。" feature="Mastery" />
+	<key id="267" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;生活技術：レジャー&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n生活技術で役立つアイテムを獲得することができます。" feature="UGCMapRenewal2" />
+	<key id="268" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;生活技術：魔法付与&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n生活技術で価値の高いアイテムを獲得することができます。" feature="MagicScroll01" />
+	<key id="269" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;ギルドレイド：ゼノンシステム&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nギルドに参加すると、専用ダンジョンを利用することができます。" feature="GuildRaid01" />
+	<key id="270" feature="Develop" locale="JP" />
+	<key id="271" name="RECOMMENDCONTENTSTOOLTIP_271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="272" name="RECOMMENDCONTENTSTOOLTIP_272_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="273" name="RECOMMENDCONTENTSTOOLTIP_273_NAME:[F]Fieldwar01" feature="Fieldwar01" />
+	<key id="274" name="RECOMMENDCONTENTSTOOLTIP_274_NAME:[F]Gigantica01" feature="Gigantica01" />
+	<key id="275" feature="Kritias_Paika01" />
+	<key id="276" feature="Kritias_Balrog01" />
+	<key id="277" feature="Kritias_Zakum01" />
+	<key id="278" feature="Kritias_Zakum01" />
+	<key id="279" feature="Kritias_Inferno01" />
+	<key id="280" feature="Kritias_Inferno01" />
+	<key id="281" feature="Colosseum01" />
+	<key id="282" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="283" feature="DungeonOpenJP1901" locale="JP" />
+	<key id="284" feature="Develop" locale="JP" />
+	<key id="285" />
+	<key id="286" />
+	<key id="287" />
+	<key id="288" />
+	<key id="289" feature="Kritias_Turka01" />
+	<key id="290" feature="Kritias_Turka02" />
+	<key id="291" feature="Kritias_Turka03" />
+	<key id="297" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;デイリークエスト&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nクイーンズタウンおよびルデリーシティでデイリークエストを完了すると、メルとルーを獲得できます。" />
+	<key id="298" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;青い星&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n青い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
+	<key id="299" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;赤い星&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n赤い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入することができます。" feature="Season3" />
+	<key id="1001" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;デイリークエスト&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nクイーンズタウンおよびルデリーシティでデイリークエストを完了すると、メルとルーを獲得できます。" />
+	<key id="1002" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;メイプル闘技場&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n他のキャラクターと実力を競いたいあなた！メイプル闘技場で、真の実力を見せてください。" />
+	<key id="1003" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;青い星&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n青い星を集めて星の番人ショップに行ってみましょう。様々なアイテムを購入できます。" />
+	<key id="1004" name="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos;&gt;赤い星&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n赤い星を集めて、星の番人ショップに行ってみましょう。様々なアイテムを購入できます。" />
+	<key id="1005" />
+	<key id="1006" />
+	<key id="1007" />
+	<key id="1008" />
+	<key id="1009" />
+	<key id="1010" />
+	<key id="1011" />
+	<key id="1012" />
+	<key id="1013" />
+	<key id="1014" />
+	<key id="1015" />
+	<key id="1016" />
+	<key id="1017" />
+	<key id="1018" />
+	<key id="1019" />
+	<key id="1020" />
+	<key id="1021" />
+	<key id="1022" />
+	<key id="1023" />
+	<key id="1024" />
+	<key id="1025" />
+	<key id="1026" />
 </ms2>

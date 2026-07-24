@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="0" name="" feature="Season1" />
-	<key id="11" name="50레벨 이상 달성 시 표시" feature="Season1" />
 	<key id="1" name="+12 엑설런트 이상의 장비 장착 시 표시" feature="Season1" />
 	<key id="2" name="탑 디자이너 칭호 획득 시 표시" feature="Season1" />
 	<key id="2" name="탑 디자이너 칭호 획득 시 표시" feature="Season1" locale="NA" />
@@ -15,6 +14,7 @@
 	<key id="9" name="선구자 칭호 획득 시 표시" feature="Season3" locale="KR" />
 	<key id="10" name="메포그래픽 스타 칭호 획득 시 표시" feature="Season3" locale="CN" />
 	<key id="10" name="메포그래픽 스타 칭호 획득 시 표시" feature="Season3" locale="KR" />
+	<key id="11" name="50레벨 이상 달성 시 표시" feature="Season1" />
 	<key id="12" name="프리미엄 클럽 회원에게 표시" feature="VIP" />
 	<key id="13" name="텐센트 VIP 에게 표시" feature="Season1" locale="CN" />
 	<key id="14" name="[단풍에 물든 영웅] 트로피 획득 시 표시" feature="Season1" locale="CN" />
@@ -29,6 +29,7 @@
 	<key id="21" name="초월 1000회 이상 시도 시 표시" feature="ItemMerge" />
 	<key id="22" name="빛의 전사 칭호 획득 시 표시" />
 	<key id="24" name="오랜만에 게임에 돌아온 복귀 캐릭터에게 표시" feature="Mentoring" />
+	<key id="25" name="向本月生日的会员展示" feature="HappyBirthday" locale="CN" />
 	<key id="26" name="정예 요원 전용 보급품 사용 시 획득" feature="FameContents" locale="KR" />
 	<key id="26" name="정예 요원 전용 보급품 사용 시 획득" feature="FameContents" locale="CN" />
 	<key id="27" name="봄의 축복 상자 사용 시 획득" feature="LunaYear2018" />
@@ -41,6 +42,7 @@
 	<key id="31" name="버닝 지정 캐릭터 전용 마크" locale="JP" />
 	<key id="32" name="3세 메린이 칭호 획득 시 표시" locale="KR" />
 	<key id="33" name="파운더스 팩을 구매 시 표시" locale="NA" />
+	<key id="34" name="Unlocked by reaching royale level 5. " feature="SurvivalContents03" locale="NA" />
 	<key id="35" name="이슈라를 쓰러뜨린 칭호 획득 시 표시" feature="LapentaDungeon" />
 	<key id="36" name="렌듀비앙을 쓰러뜨린 칭호 획득 시 표시" feature="LapentaDungeon" />
 	<key id="37" name="유페리아를 쓰러뜨린 칭호 획득 시 표시" feature="LapentaDungeon" />
@@ -55,7 +57,7 @@
 	<key id="44" name="챔피언 낚시꾼 칭호 획득 시 표시" feature="Fishing02" />
 	<key id="45" name="라펜샤드 합성 10단계 성공" feature="Lapenshard01" />
 	<key id="46" name="미지의 신대륙 상자 사용 시 획득" />
-	<key id="47" name="버닝 지정 캐릭터 전용 마크" locale="KR" />
+	<key id="47" name="버닝 지정 캐릭터 전용 마크" />
 	<key id="48" name="붉은 함박꽃 상자 사용 시 획득" locale="CN" />
 	<key id="49" name="노랑 함박꽃 상자 사용 시 획득" locale="CN" />
 	<key id="50" name="벚꽃의 노래 상자 사용 시 획득" locale="KR" />
@@ -69,4 +71,10 @@
 	<key id="56" name="2020 스타 건축가 칭호 획득 시 표시" feature="Event" locale="JP" />
 	<key id="57" name="2020 탑 디자이너 칭호 획득 시 표시" feature="Event" locale="JP" />
 	<key id="58" name="GM 이벤트 상자 사용 시 획득" />
+	<key id="59" name="성실한 더키볼 마크상자 사용 시 획득" />
+	<key id="60" name="별빛 크리스마크 상자 사용 시 획득" />
+	<key id="61" name="포근한 솜뭉치 마크상자 사용 시 획득" />
+	<key id="62" name="어흥 까만 호랑마크 상자 사용 시 획득" />
+	<key id="63" name="용감한 더키 소방대원 마크상자 사용 시 획득" />
+	<key id="64" name="메리 크리스마크상자 사용 시 획득" />
 </ms2>

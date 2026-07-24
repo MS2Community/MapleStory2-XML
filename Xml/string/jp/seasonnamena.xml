@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <season type="MapleSurvival" id="1" name="Pre-Season" feature="SurvivalContents03" />
-  <season type="MapleSurvival_Squad" id="1" name="Pre-Season" feature="SurvivalContents03" />
-  <season />
+	<season id="1" type="MapleSurvival" name="Pre-Season" feature="SurvivalContents03" />
+	<season id="1" type="MapleSurvival_Squad" name="Pre-Season" feature="SurvivalContents03" />
 </ms2>

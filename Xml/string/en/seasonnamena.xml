@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<season type="MapleSurvival" id="1" name="Pre-Season" feature="SurvivalContents03" />
-	<season type="MapleSurvival_Squad" id="1" name="Pre-Season" feature="SurvivalContents03" />
-	<season type="Arcade" contentsid="3" id="65" name="No Season" feature="Event" />
-	<season type="Arcade" contentsid="3" id="66" name="No Season" feature="Event" />
-	<season type="Arcade" contentsid="3" id="67" name="No Season" feature="Event" />
-	<season type="Arcade" contentsid="3" id="68" name="Three, Two, One... Practice" feature="Event" />
-	<season type="Arcade" contentsid="3" id="69" name="Three, Two, One... Week 1" feature="Event" />
-	<season type="Arcade" contentsid="3" id="70" name="Three, Two, One... Week 2" feature="Event" />
-	<season type="Arcade" contentsid="3" id="71" name="Three, Two, One... Week 3" feature="Event" />
-	<season type="Arcade" contentsid="3" id="72" name="Three, Two, One... Week 4" feature="Event" />
-	<season />
+	<season id="1" type="MapleSurvival" name="Pre-Season" feature="SurvivalContents03" />
+	<season id="1" type="MapleSurvival_Squad" name="Pre-Season" feature="SurvivalContents03" />
+	<season id="65" type="Arcade" contentsid="3" name="No Season" feature="Event" />
+	<season id="66" type="Arcade" contentsid="3" name="No Season" feature="Event" />
+	<season id="67" type="Arcade" contentsid="3" name="No Season" feature="Event" />
+	<season id="68" type="Arcade" contentsid="3" name="Three, Two, One... Practice" feature="Event" />
+	<season id="69" type="Arcade" contentsid="3" name="Three, Two, One... Week 1" feature="Event" />
+	<season id="70" type="Arcade" contentsid="3" name="Three, Two, One... Week 2" feature="Event" />
+	<season id="71" type="Arcade" contentsid="3" name="Three, Two, One... Week 3" feature="Event" />
+	<season id="72" type="Arcade" contentsid="3" name="Three, Two, One... Week 4" feature="Event" />
 </ms2>

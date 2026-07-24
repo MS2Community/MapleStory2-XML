@@ -1,0 +1,95 @@
+name: Nightly M2D
+
+on:
+  schedule:
+    # 08:00 UTC daily. Runs against the repository's default branch.
+    - cron: "0 8 * * *"
+  workflow_dispatch: {}
+
+# Only one nightly at a time; a newer run supersedes an in-progress one.
+concurrency:
+  group: nightly-m2d
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # Needed so we can commit the regenerated XML back and push.
+          persist-credentials: true
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+
+      - name: Regenerate translated XML from Weblate JSON
+        env:
+          MS2_REPO_ROOT: ${{ github.workspace }}
+        # Writes in place into Xml/string/<locale>; untranslated files/entries are preserved,
+        # empty translation files are skipped.
+        run: dotnet run --project WeblateConverter -c Release -- json-to-xml-all
+
+      - name: Verify conversion integrity
+        env:
+          MS2_REPO_ROOT: ${{ github.workspace }}
+        # Fails (non-zero) on any structural / key fault, stopping the run before it
+        # commits or packs broken XML. Data-only drift is reported but does not fail.
+        run: dotnet run --project WeblateConverter -c Release -- verify-all
+
+      - name: Detect translation changes
+        id: detect
+        shell: pwsh
+        run: |
+          git add -- Xml
+          git diff --cached --quiet -- Xml
+          # --quiet exits 0 when there are no staged changes, 1 when there are.
+          if ($LASTEXITCODE -eq 0) {
+            "changed=false" >> $env:GITHUB_OUTPUT
+            Write-Host "No translation changes since last run - nothing to publish."
+          } else {
+            "changed=true" >> $env:GITHUB_OUTPUT
+            Write-Host "Translation changes detected."
+          }
+
+      - name: Compute release date
+        if: steps.detect.outputs.changed == 'true'
+        id: meta
+        shell: pwsh
+        run: "\"date=$(Get-Date -Format 'yyyy-MM-dd')\" >> $env:GITHUB_OUTPUT"
+
+      - name: Commit regenerated XML
+        if: steps.detect.outputs.changed == 'true'
+        shell: pwsh
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "[skip ci] Nightly: regenerate translated XML (${{ steps.meta.outputs.date }})"
+          # Actions checks out a detached HEAD; push the new commit to the branch explicitly.
+          git push origin "HEAD:${{ github.ref_name }}"
+
+      - name: Build Xml.m2d
+        if: steps.detect.outputs.changed == 'true'
+        run: cd Tools && .\MS2Create.exe ../Xml ../ Xml MS2F
+
+      - name: Hash Xml.m2d
+        if: steps.detect.outputs.changed == 'true'
+        run: certutil -hashfile Xml.m2d MD5 > Xml.m2d.txt
+
+      - name: Publish nightly release
+        if: steps.detect.outputs.changed == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: nightly-${{ steps.meta.outputs.date }}
+          name: Nightly ${{ steps.meta.outputs.date }}
+          generate_release_notes: true
+          files: |
+            Xml.m2d
+            Xml.m2h
+            Xml.m2d.txt

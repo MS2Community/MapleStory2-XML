@@ -39,6 +39,7 @@
 	<key id="21100038" name="(Account) Runeblade Trainee" />
 	<key id="21100039" name="(Account) Veteran Runeblade" />
 	<key id="21100040" name="(Account) Master Runeblade" />
+	<key id="21100041" name="(Account) Endless Challenge, Level 60!" feature="ExtendLevel65" />
 	<key id="21100042" name="(Account) Endless Challenge, level 70!" feature="ExtendLevel70" />
 	<key id="21100043" name="(Account) Endless Road to 80" feature="ExtendLevel80" />
 	<key id="21100044" name="(Account) Striker Trainee" feature="Striker" />
@@ -52,8 +53,11 @@
 	<key id="21100052" name="(Account) The Adventure Continues" feature="AdventureLevel" />
 	<key id="21100053" name="(Account) A True Adventurer" feature="AdventureLevel" />
 	<key id="21100054" name="Defying Limits" locale="NA" />
+	<key id="21100054" name="Beyond the Limit" locale="JP" />
 	<key id="21100055" name="Self-motivated" locale="NA" />
+	<key id="21100055" name="Ambitious Adventurer" locale="JP" />
 	<key id="21100056" name="True Power" feature="KarkarIsland" locale="NA" />
+	<key id="21100056" name="Release of Inner Power" feature="KarkarIsland" locale="JP" />
 	<key id="21100057" name="Power Hungry" feature="Lapenshard01" />
 	<key id="21100058" name="Try and Try Again" feature="Lapenshard01" />
 	<key id="21100059" name="Power in Hand" feature="Lapenshard01" />
@@ -75,6 +79,7 @@
 	<key id="21100075" name="(Account) Master Soul Binder II" feature="JobChange_02" />
 	<key id="21100076" name="A New Self" feature="JobChange_02" />
 	<key id="21100077" name="A New Power" feature="JobChange_01" locale="NA" />
+	<key id="21100077" name="New Power" feature="JobChange_01" locale="JP" />
 	<key id="21210001" name="Killer Instincts" />
 	<key id="21210002" name="Vegetarian" />
 	<key id="21210003" name="Positively Beastly" />
@@ -94,12 +99,19 @@
 	<key id="21210018" name="Simply Shocking" />
 	<key id="21210019" name="Worst. Birthday. Ever." feature="Season3" />
 	<key id="21210020" name="Lizards of $map:02000004$" feature="Season1" locale="NA" />
+	<key id="21210020" name="Lizard of $map:02000004$" feature="Season1" locale="JP" />
 	<key id="21210021" name="Lizards of $map:02000053$" feature="Season1" locale="NA" />
+	<key id="21210021" name="Lizard of $map:02000053$" feature="Season1" locale="JP" />
 	<key id="21210022" name="For the Peace of $map:02000054$" feature="Season1" locale="NA" />
+	<key id="21210022" name="For the Peace of $map:02000054$" feature="Season1" locale="JP" />
 	<key id="21210023" name="Silencing the $npcNamePlural:21000023$" feature="Season1" locale="NA" />
+	<key id="21210023" name="Noisy $npcName:21000023$" feature="Season1" locale="JP" />
 	<key id="21210024" name="Snake!" feature="KarkarIsland" locale="NA" />
+	<key id="21210024" name="It&apos;s a Snake, a Snake!" feature="KarkarIsland" locale="JP" />
 	<key id="21210025" name="Dragon Slayer" feature="KarkarIsland" locale="NA" />
+	<key id="21210025" name="Dragon Slayer" feature="KarkarIsland" locale="JP" />
 	<key id="21210026" name="The Mall Arcade" feature="KarkarIsland" locale="NA" />
+	<key id="21210026" name="Shopping Joy" feature="KarkarIsland" locale="JP" />
 	<key id="21210027" name="Versus Tairen" feature="Kritias_2018_12" />
 	<key id="21210028" name="A Light in the Dark" feature="Kritias_2018_12" />
 	<key id="21210029" name="Greenification" feature="Kritias_2018_12" />
@@ -224,6 +236,14 @@
 	<key id="21230081" name="All Manor of Haunted" feature="DarkCastle" />
 	<key id="21230082" name="(Account) The Fallen Lumarigon" feature="DarkCastle" />
 	<key id="21230083" name="(Account) Spire&apos;s Ruin" feature="DarkCastle" />
+	<key id="21230084" name="(Account) Remove Zakum&apos;s First Arm in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230085" name="(Account) Remove Zakum&apos;s Second Arm in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230086" name="(Account) Remove Zakum&apos;s Third Arm in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230087" name="(Account) Remove Zakum&apos;s Fourth Arm in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230088" name="(Account) Remove Zakum&apos;s Fifth Arm in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230089" name="(Account) Remove Zakum&apos;s Sixth Arm in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230090" name="(Account) Remove All of Zakum&apos;s Arms in the 3rd Test" feature="Zakum01" locale="CN" />
+	<key id="21230091" name="(Account) Defeat Zakum in the 3rd Test" feature="Zakum01" locale="CN" />
 	<key id="21230092" name="(Account) Pink Beans for Protein" feature="PinkBean01" />
 	<key id="21230093" name="Dance with $npc:23000088$" feature="PinkBean01" />
 	<key id="21230094" name="$npcName:21500670$ Slayer" feature="PinkBean01" />
@@ -264,15 +284,24 @@
 	<key id="21230129" name="Black Lapenta Eruption" feature="LapentaDungeon" />
 	<key id="21230130" name="Runeblade&apos;s Return" feature="LapentaDungeon" />
 	<key id="21230131" name="Stay Alert, Everyone!" feature="LapentaDungeon" />
+	<key id="21230132" name="(Account) The Jet-Black Panther Hidden in Illusion" feature="DungeonOpen70CH7" />
 	<key id="21230132" name="Moonlight Gatekeeper" feature="KarkarIsland" locale="NA" />
+	<key id="21230132" name="Moonlight Gatekeeper" feature="KarkarIsland" locale="JP" />
 	<key id="21230133" name="Came out on Top" feature="KarkarIsland" locale="NA" />
+	<key id="21230133" name="Rampage! $npcName:24001308$" feature="KarkarIsland" locale="JP" />
 	<key id="21230134" name="Breaking the Ice" feature="KarkarIsland" locale="NA" />
+	<key id="21230134" name="Likes Warm Things" feature="KarkarIsland" locale="JP" />
 	<key id="21230135" name="Summoned by Desire" feature="KarkarIsland" locale="NA" />
+	<key id="21230135" name="Monster Summoned by Desire" feature="KarkarIsland" locale="JP" />
 	<key id="21230136" name="Fast and Furious" feature="KarkarIsland" locale="NA" />
+	<key id="21230136" name="Racing Instinct $npcName:22500020$" feature="KarkarIsland" locale="JP" />
 	<key id="21230137" name="Rock &apos;n&apos; Roll with $npcName:21500850$" feature="PinkBean01" />
 	<key id="21230138" name="The Invader&apos;s Demise" feature="DungeonOpenNA1808" locale="NA" />
+	<key id="21230138" name="The Legion&apos;s End" feature="DungeonOpen50CH1" locale="JP" />
 	<key id="21230139" name="The Captain&apos;s Demise" feature="DungeonOpenNA1808" locale="NA" />
+	<key id="21230139" name="The Captain&apos;s End" feature="DungeonOpen50CH2" locale="JP" />
 	<key id="21230140" name="The Mischief Maker&apos;s Demise" feature="DungeonOpenNA1808" locale="NA" />
+	<key id="21230140" name="The Prankster&apos;s End" feature="DungeonOpen50CH3" locale="JP" />
 	<key id="21230141" name="Heart-Wrenching Battle" feature="LapentaDungeon" />
 	<key id="21230142" name="(Account) The Immortal&apos;s End" feature="Kritias_Balrog01" />
 	<key id="21230143" name="(Account) A Wrong Desire" feature="Kritias_Paika01" />
@@ -299,6 +328,13 @@
 	<key id="21230164" name="Unrivaled" feature="Colosseum01" />
 	<key id="21230165" name="Dragon&apos;s Heiress" feature="Colosseum01" />
 	<key id="21230166" name="Queen Bean Rumble Master" feature="Colosseum01" />
+	<key id="21230167" name="(Account) Elite Tyren Weapon" feature="Kritias_Turka01" />
+	<key id="21230168" name="(Account) Colossus Soldier" feature="Kritias_Turka02" />
+	<key id="21230169" name="(Account) Goodbye, Turka!" feature="Kritias_Turka03" />
+	<key id="21230170" name="True Showdown" feature="Colosseum02" />
+	<key id="21230171" name="I Really Wanted to Teach You a Lesson" feature="Colosseum02" />
+	<key id="21230172" name="Child of the Stars" feature="Colosseum02" />
+	<key id="21230173" name="(Account) Vroom Vroom, Poot Poot! Black Bean" feature="BlackBean01" />
 	<key id="21231001" name="Fury Quelled" />
 	<key id="21231002" name="$npc:23000018$ De-horned" />
 	<key id="21231003" name="The One Who Broke $npc:23000019$&apos;s Wings" />
@@ -359,6 +395,9 @@
 	<key id="21231058" name="Determined Strike" feature="Kritias_Inferno01" />
 	<key id="21231059" name="Kick the Can" feature="Fieldwar02" />
 	<key id="21231060" name="Bird or Man?" feature="Fieldwar02" />
+	<key id="21231061" name="The Strongest Power" feature="Kritias_Turka01" />
+	<key id="21231062" name="Bring Down the Mountain" feature="Kritias_Turka02" />
+	<key id="21231063" name="The End of a Long, Long Feud" feature="Kritias_Turka03" />
 	<key id="21232001" name="Ptooey!" />
 	<key id="21232002" name="The Dance of Death" />
 	<key id="21232003" name="Honey, I Shrunk Myself" />
@@ -389,6 +428,7 @@
 	<key id="21250002" name="(Account) Time Attack: Defeat $npc:23000055$" />
 	<key id="21250003" name="(Account) Time Attack: Defeat $npc:23000007$" />
 	<key id="21300001" name="Dark Might" />
+	<key id="21300001" name="Ruler of the Hill" locale="KR" />
 	<key id="21300002" name="The Pain of Failure" />
 	<key id="21300003" name="$map:65000001$ Conqueror" />
 	<key id="21300004" name="On Your Knees!" />
@@ -490,6 +530,21 @@
 	<key id="21300100" name="Survivalist" feature="SurvivalContents03" />
 	<key id="21300101" name="Tactician" feature="SurvivalContents03" />
 	<key id="21300102" name="Manhunter" feature="SurvivalContents03" />
+	<key id="21300103" name="Doll Mansion Participant" />
+	<key id="21300104" name="Boom in One Shot!" />
+	<key id="21300105" name="(Account) Blue Luke Became Gentle" feature="DungeonOS01" />
+	<key id="21300106" name="Even the Blue Flame Extinguished" feature="DungeonOS01" />
+	<key id="21300107" name="We Are One" feature="DungeonOS01" />
+	<key id="21300108" name="I Want to Be Alone." feature="DungeonOS01" />
+	<key id="21300109" name="(Account) Blue Luke Became Quiet" feature="DungeonOS01" />
+	<key id="21300110" name="Check Even an Extinguished Fire" feature="DungeonOS01" />
+	<key id="21300111" name="Oho! It Is Getting Cooler." feature="DungeonOS01" />
+	<key id="21300112" name="Predator of the Mansion" />
+	<key id="21300113" name="Get Off the Stage!" feature="DungeonOS04" />
+	<key id="21300114" name="I Am the Star!" feature="DungeonOS04" />
+	<key id="21300115" name="Born Drummer" feature="DungeonOS04" />
+	<key id="21300116" name="Easy Practice Partner" feature="DungeonOS04" />
+	<key id="21300117" name="A Voice Through the Ceiling" feature="DungeonOS04" />
 	<key id="21400001" name="Great Barrels of Fire" />
 	<key id="21400002" name="Carted Off" />
 	<key id="21400003" name="Barrel Blast" />
@@ -529,6 +584,10 @@
 	<key id="21400037" name="Swing the Leaf" feature="Kritias_2018_12" />
 	<key id="21400038" name="Superhuman Strength" feature="Kritias_2018_12" />
 	<key id="21400039" name="Throw for Today" feature="Kritias_2018_12" />
+	<key id="21400040" name="Throw Without Thinking!" feature="Kritias02" />
+	<key id="21400041" name="Launch the Ener Cart!" feature="Kritias02" />
+	<key id="21400042" name="Detonate the Time Bomb!" feature="Kritias02" />
+	<key id="21400043" name="Swing the Ener Streetlight!" feature="Kritias02" />
 	<key id="22100001" name="A True Marathoner" />
 	<key id="22100002" name="A Seal At Heart" />
 	<key id="22100003" name="Spider-Mapler" />
@@ -919,6 +978,27 @@
 	<key id="22200376" name="Successor of Light" />
 	<key id="22200377" name="A Warm Heart" />
 	<key id="22200378" name="The Golden Chests of $map:02000377$" />
+	<key id="22200379" name="Deeper and Deeper (Stage 1)" feature="ShadowExpedition" />
+	<key id="22200380" name="Deeper and Deeper (Stage 2)" feature="ShadowExpedition" />
+	<key id="22200381" name="Deeper and Deeper (Stage 3)" feature="ShadowExpedition" />
+	<key id="22200382" name="Deeper and Deeper (Stage 4)" feature="ShadowExpedition" />
+	<key id="22200383" name="Deeper and Deeper (Stage 5)" feature="ShadowExpedition" />
+	<key id="22200384" name="Deeper and Deeper (Stage 6)" feature="ShadowExpedition" />
+	<key id="22200385" name="Deeper and Deeper (Stage 7)" feature="ShadowExpedition" />
+	<key id="22200386" name="Deeper and Deeper (Stage 8)" feature="ShadowExpedition" />
+	<key id="22200387" name="Deeper and Deeper (Stage 9)" feature="ShadowExpedition" />
+	<key id="22200388" name="Deeper and Deeper (Stage 10)" feature="ShadowExpedition" />
+	<key id="22200389" name="Deeper and Deeper (Stage 11)" feature="ShadowExpedition" />
+	<key id="22200390" name="Deeper and Deeper (Stage 12)" feature="ShadowExpedition" />
+	<key id="22200391" name="Deeper and Deeper (Stage 13)" feature="ShadowExpedition" />
+	<key id="22200392" name="Deeper and Deeper (Stage 14)" feature="ShadowExpedition" />
+	<key id="22200393" name="Deeper and Deeper (Stage 15)" feature="ShadowExpedition" />
+	<key id="22200394" name="Explore $map:03100000$" feature="ShadowExpedition" />
+	<key id="22200395" name="Deeper and Deeper (Stage 16)" feature="ShadowExpedition2nd" />
+	<key id="22200396" name="Deeper and Deeper (Stage 17)" feature="ShadowExpedition2nd" />
+	<key id="22200397" name="Deeper and Deeper (Stage 18)" feature="ShadowExpedition2nd" />
+	<key id="22200398" name="Deeper and Deeper (Stage 19)" feature="ShadowExpedition2nd" />
+	<key id="22200399" name="Deeper and Deeper (Stage 20)" feature="ShadowExpedition2nd" />
 	<key id="22200400" name="Pathfinder" feature="ShrineOfGuidance" />
 	<key id="22200401" name="Chain Breaker" />
 	<key id="22200402" name="Master of Adventure" />
@@ -959,6 +1039,18 @@
 	<key id="22200437" name="Treasure Huntin&apos; in $dungeonTitle:29005001$" feature="TreasureMap01" />
 	<key id="22200438" name="$dungeonTitle:29004001$ Motherlode" feature="TreasureMap01" />
 	<key id="22200439" name="$dungeonTitle:29005001$ Motherlode" feature="TreasureMap01" />
+	<key id="22200440" name="Golden Treasure Chest of $map:02020013$" feature="Timaion01" />
+	<key id="22200441" name="Golden Treasure Chest of $map:02020014$" feature="Timaion01" />
+	<key id="22200442" name="Golden Treasure Chest of $map:02020016$" feature="Timaion01" />
+	<key id="22200443" name="Golden Treasure Chest of $map:02020011$" feature="Timaion01" />
+	<key id="22200444" name="Golden Treasure Chest of $map:02020017$" feature="Timaion01" />
+	<key id="22200445" name="Golden Treasure Chest of $map:02020018$" feature="Timaion01" />
+	<key id="22200446" name="Golden Treasure Chest of $map:02020002$" feature="Timaion01" />
+	<key id="22200447" name="Golden Treasure Chest of $map:02020001$" feature="Timaion01" />
+	<key id="22200448" name="Golden Treasure Chest of $map:02020003$" feature="Timaion01" />
+	<key id="22200449" name="Golden Treasure Chest of $map:02020006$" feature="Timaion01" />
+	<key id="22200450" name="Golden Treasure Chest of $map:02020004$" feature="Timaion01" />
+	<key id="22200451" name="Golden Treasure Chest of $map:02020010$" feature="Timaion01" />
 	<key id="22200452" name="Beacon of Hope" feature="Season2" />
 	<key id="22200453" name="Rain of Fire" feature="Season3" />
 	<key id="22200454" name="Friend of the Fairfolk" feature="Season1" />
@@ -966,13 +1058,21 @@
 	<key id="22200456" name="Arbiters of Chaos" feature="Season2" />
 	<key id="22200457" name="No Mystery Too Big" feature="Season3" />
 	<key id="22200458" name="$map:02000076$ Adventurer" feature="Season1" locale="NA" />
+	<key id="22200458" name="Adventurer of $map:02000076$" feature="Season1" locale="JP" />
 	<key id="22200459" name="$map:02000054$ Adventurer" feature="Season1" locale="NA" />
+	<key id="22200459" name="Adventurer of $map:02000054$" feature="Season1" locale="JP" />
 	<key id="22200460" name="A Difference of Priorities" feature="Season1" locale="NA" />
+	<key id="22200460" name="Love Can Change!" feature="Season1" locale="JP" />
 	<key id="22200461" name="Unrequited Love" feature="Season1" locale="NA" />
+	<key id="22200461" name="My Heart Is with You" feature="Season1" locale="JP" />
 	<key id="22200462" name="The Wings of Hope" feature="Season1" locale="NA" />
+	<key id="22200462" name="Someday, Surely" feature="Season1" locale="JP" />
 	<key id="22200463" name="A Song of Sorrow" feature="Season1" locale="NA" />
+	<key id="22200463" name="Will You Listen to My Song?" feature="Season1" locale="JP" />
 	<key id="22200464" name="Wolf&apos;s Rest" feature="Season1" locale="NA" />
+	<key id="22200464" name="Hero Sleeping in $map:02000170$" feature="Season1" locale="JP" />
 	<key id="22200465" name="Sweet Temptation" feature="Season1" locale="NA" />
+	<key id="22200465" name="Sweet Temptation" feature="Season1" locale="JP" />
 	<key id="22200466" name="The Golden Chests of $map:02020001$" feature="Kritias_2018_12" />
 	<key id="22200467" name="The Golden Chests of $map:02020003$" feature="Kritias_2018_12" />
 	<key id="22200468" name="The Golden Chests of $map:02020004$" feature="Kritias_2018_12" />
@@ -999,6 +1099,13 @@
 	<key id="22200490" name="Kidel Explorer" feature="Kritias_2018_12" />
 	<key id="22200492" name="Kidel Cartographer" feature="Kritias_2018_12" />
 	<key id="22200493" name="Discover $map:02000487$" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22200493" name="Discover $map:02000487$" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22200494" name="Golden Treasure Chest of $map:02020071$" feature="Kritias02" />
+	<key id="22200495" name="Golden Treasure Chest of $map:02020068$" feature="Kritias02" />
+	<key id="22200496" name="Golden Treasure Chest of $map:02020069$" feature="Kritias02" />
+	<key id="22200497" name="Golden Treasure Chest of $map:02020067$" feature="Kritias02" />
+	<key id="22200498" name="Golden Treasure Chest of $map:02020066$" feature="Kritias02" />
+	<key id="22200499" name="Golden Treasure Chest of $map:02020070$" feature="Kritias02" />
 	<key id="22210001" name="Captain&apos;s Keeper" feature="FameChallengeDungeon" />
 	<key id="22210002" name="Condor Down" feature="FameChallengeDungeon" />
 	<key id="22210003" name="Simulation Complete " feature="FameChallengeDungeon" />
@@ -1013,6 +1120,7 @@
 	<key id="22210014" name="Keeper of the Forest" feature="Season1" />
 	<key id="22210016" name="Hot Hot Hot Tub" feature="Season1" />
 	<key id="22210017" name="(Account) Lessons Learned" feature="ContentsGuide01" />
+	<key id="22210018" name="Commemorating the Summer Version Exclusive Test Server!" feature="JobChangeFGT" />
 	<key id="22210019" name="A Walk in the Park" feature="SurvivalContents03" />
 	<key id="22210020" name="$map:02000499$ Scavenger" feature="SurvivalContents03" />
 	<key id="22210021" name="The View Up High" feature="SurvivalContents03" />
@@ -1024,27 +1132,54 @@
 	<key id="22210027" name="Pop Goes the Mushking" feature="SurvivalContents03" />
 	<key id="22210028" name="Free Climbing in $map:02000499$" feature="SurvivalContents03" />
 	<key id="22210029" name="(Account) Ultimate Train Heist" feature="KarkarIsland" locale="NA" />
+	<key id="22210029" name="(Account) Recapture! Blacknov" feature="KarkarIsland" locale="JP" />
 	<key id="22210030" name="Shopping Master" feature="KarkarIsland" locale="NA" />
+	<key id="22210030" name="Shopping Master" feature="KarkarIsland" locale="JP" />
 	<key id="22210031" name="Desert Fish" feature="KarkarIsland" locale="NA" />
+	<key id="22210031" name="Fish Living in the Desert" feature="KarkarIsland" locale="JP" />
 	<key id="22210032" name="Scent of Lavender" feature="KarkarIsland" locale="NA" />
+	<key id="22210032" name="Scent of Lavender" feature="KarkarIsland" locale="JP" />
 	<key id="22210033" name="Starsand Shine" feature="KarkarIsland" locale="NA" />
+	<key id="22210033" name="Shining Star Sand" feature="KarkarIsland" locale="JP" />
 	<key id="22210034" name="Dragons&apos; Resting Place" feature="KarkarIsland" locale="NA" />
+	<key id="22210034" name="Where Dragons Sleep" feature="KarkarIsland" locale="JP" />
 	<key id="22210035" name="Redsand Desert" feature="KarkarIsland" locale="NA" />
+	<key id="22210035" name="Red Sand Desert" feature="KarkarIsland" locale="JP" />
 	<key id="22210036" name="The Jewel of Karkar" feature="KarkarIsland" locale="NA" />
+	<key id="22210036" name="Heart of Karkar" feature="KarkarIsland" locale="JP" />
 	<key id="22210037" name="Nose Like a Meerkat" feature="KarkarIsland" locale="NA" />
+	<key id="22210037" name="Every Nook and Cranny, Like a Meerkat!" feature="KarkarIsland" locale="JP" />
 	<key id="22210038" name="DJ of the Rails" feature="KarkarIsland" locale="NA" />
+	<key id="22210038" name="Super DJ of $map:02010058$" feature="KarkarIsland" locale="JP" />
 	<key id="22210039" name="$map:02010012$&apos;s Idol" feature="KarkarIsland" locale="NA" />
+	<key id="22210039" name="Idol of $map:02010012$" feature="KarkarIsland" locale="JP" />
 	<key id="22210040" name="Rock &apos;n&apos; Roll Once More" feature="KarkarIsland" locale="NA" />
+	<key id="22210040" name="Rock and Roll Once More" feature="KarkarIsland" locale="JP" />
 	<key id="22210041" name="Desert Bloom" feature="KarkarIsland" locale="NA" />
+	<key id="22210041" name="Red Flower Blooming in the Desert" feature="KarkarIsland" locale="JP" />
 	<key id="22210042" name="You Wouldn&apos;t Understand" feature="KarkarIsland" locale="NA" />
+	<key id="22210042" name="What in the World Happened?" feature="KarkarIsland" locale="JP" />
 	<key id="22210043" name="Legend of the Sea" feature="KarkarIsland" locale="NA" />
+	<key id="22210043" name="Legend of the Karkar Sea" feature="KarkarIsland" locale="JP" />
 	<key id="22210044" name="We Don&apos;t Speak of It" feature="KarkarIsland" locale="NA" />
+	<key id="22210044" name="Forbidden Rumor" feature="KarkarIsland" locale="JP" />
 	<key id="22210045" name="Master of the Rumble" feature="FameChallengeDungeon" locale="NA" />
+	<key id="22210045" name="Challenge! Fortress Rumble" feature="FameChallengeDungeon" locale="JP" />
 	<key id="22210046" name="Into the Cave" feature="Kritias_2018_12" />
 	<key id="22210047" name="In the Flower Garden" feature="Kritias_2018_12" />
 	<key id="22210048" name="Bug Fan" feature="Kritias_2018_12" />
 	<key id="22210049" name="Eureka" feature="Kritias_2018_12" />
 	<key id="22210050" name="Making a Living" feature="Kritias_2018_12" />
+	<key id="22210051" name="There Is a Sad Legend Here" feature="Kritias02" />
+	<key id="22210052" name="The Reality of a Leader" feature="Kritias02" />
+	<key id="22210053" name="Legend of the Morang World" feature="Kritias02" />
+	<key id="22210054" name="Childish Adult" feature="Kritias02" />
+	<key id="22210055" name="An Unimaginable Identity" feature="Kritias02" />
+	<key id="22210056" name="The Casanova of This Area" feature="Kritias02" />
+	<key id="22210057" name="I Will Support Your Love!" feature="Kritias02" />
+	<key id="22210058" name="This Is My Area!" feature="Kritias02" />
+	<key id="22210059" name="Who... Are You...?" feature="Kritias02" />
+	<key id="22210060" name="Karan Karan" feature="Kritias02" />
 	<key id="22300001" name="Troubleshooter" />
 	<key id="22300002" name="Take the Shadow" />
 	<key id="22300003" name="Stopped Clock Tower" />
@@ -1132,66 +1267,127 @@
 	<key id="22300086" name="Beyond Friendship" feature="QuestChapter00" />
 	<key id="22300087" name="A Royal Occasion" feature="Quest2017" />
 	<key id="22300088" name="Forest of Friendship" feature="Season1" locale="NA" />
+	<key id="22300088" name="I Want Friends!" feature="Season1" locale="JP" />
 	<key id="22300089" name="Cats in Love" feature="Season1" locale="NA" />
+	<key id="22300089" name="Cat Blinded by Love" feature="Season1" locale="JP" />
 	<key id="22300090" name="Gainful Employment" feature="Season1" locale="NA" />
+	<key id="22300090" name="A Working Adult Starting Today" feature="Season1" locale="JP" />
 	<key id="22300091" name="Care for a Corn Dog?" feature="Season1" locale="NA" />
+	<key id="22300091" name="How About a Hot Dog?" feature="Season1" locale="JP" />
 	<key id="22300092" name="Pizza Delivery!" feature="Season1" locale="NA" />
+	<key id="22300092" name="Knock Knock! Pizza Delivery" feature="Season1" locale="JP" />
 	<key id="22300093" name="Don&apos;t Lose It Again!" feature="Season1" locale="NA" />
+	<key id="22300093" name="Don&apos;t Lose It Again" feature="Season1" locale="JP" />
 	<key id="22300094" name="Hands-on Herding" feature="Season1" locale="NA" />
+	<key id="22300094" name="Help Alpon Dalpon Ranch!" feature="Season1" locale="JP" />
 	<key id="22300095" name="Blake, My Love" feature="Season1" locale="NA" />
+	<key id="22300095" name="My Favorite Is Hyogi" feature="Season1" locale="JP" />
 	<key id="22300096" name="Jealousy of the Fairfolk" feature="Season1" locale="NA" />
+	<key id="22300096" name="Fairy&apos;s Jealousy" feature="Season1" locale="JP" />
 	<key id="22300097" name="Suffering for Your Art" feature="Season1" locale="NA" />
+	<key id="22300097" name="Pitiful Art... My Heart Falls Apart…" feature="Season1" locale="JP" />
 	<key id="22300098" name="The Fountain of Melody" feature="Season1" locale="NA" />
+	<key id="22300098" name="Fairy of Melody Fountain" feature="Season1" locale="JP" />
 	<key id="22300099" name="Full Moon&apos;s Curse" feature="Season1" locale="NA" />
+	<key id="22300099" name="On the Night of the Full Moon" feature="Season1" locale="JP" />
 	<key id="22300100" name="Grim Vision" feature="Season1" locale="NA" />
+	<key id="22300100" name="Sad Premonition" feature="Season1" locale="JP" />
 	<key id="22300101" name="A Brave Pig" feature="Season1" locale="NA" />
+	<key id="22300101" name="Brave Pig" feature="Season1" locale="JP" />
 	<key id="22300102" name="Hero of $map:02000076$" feature="Season1" />
 	<key id="22300103" name="A Savior&apos;s Power" feature="LapentaDungeon" />
 	<key id="22300104" name="Free Crabby" feature="Season1" locale="NA" />
+	<key id="22300104" name="Sinful $npcName:21000059$" feature="Season1" locale="JP" />
 	<key id="22300105" name="Doon-done" feature="Season1" locale="NA" />
+	<key id="22300105" name="Calm Down, $npcName:23000013$!" feature="Season1" locale="JP" />
 	<key id="22300106" name="Larger than Life" feature="Season1" locale="NA" />
+	<key id="22300106" name="Open Up, Growth Plate" feature="Season1" locale="JP" />
 	<key id="22300107" name="Zero-Sum Love" feature="Season1" locale="NA" />
+	<key id="22300107" name="Men Are from Mars, Women Are from Venus" feature="Season1" locale="JP" />
 	<key id="22300108" name="The Accursed Axe" feature="Season1" locale="NA" />
+	<key id="22300108" name="Dangerous Axe" feature="Season1" locale="JP" />
 	<key id="22300109" name="The Truth is Out There" feature="Season1" locale="NA" />
+	<key id="22300109" name="Can You See It? My Heart" feature="Season1" locale="JP" />
 	<key id="22300110" name="Your Tears Are Delicious" feature="Season1" locale="NA" />
+	<key id="22300110" name="Mysterious Water That Moves Hearts" feature="Season1" locale="JP" />
 	<key id="22300111" name="Butterfly Conservationist" feature="Season1" locale="NA" />
+	<key id="22300111" name="Butterfly Set Free" feature="Season1" locale="JP" />
 	<key id="22300112" name="Star-crossed Love" feature="Season1" locale="NA" />
+	<key id="22300112" name="You in My Memories" feature="Season1" locale="JP" />
 	<key id="22300113" name="Pig-Approved Diet" feature="Season1" locale="NA" />
+	<key id="22300113" name="Eternal Dieter" feature="Season1" locale="JP" />
 	<key id="22300114" name="Wakey-Wakey Boroboro!" feature="Season1" locale="NA" />
+	<key id="22300114" name="Loves Sleeping, Boroboro" feature="Season1" locale="JP" />
 	<key id="22300115" name="Frognapped" feature="Season1" locale="NA" />
+	<key id="22300115" name="Give Back the Frog!" feature="Season1" locale="JP" />
 	<key id="22300116" name="Witch Hunt" feature="Season1" locale="NA" />
+	<key id="22300116" name="Let&apos;s Start the Game" feature="Season1" locale="JP" />
 	<key id="22300117" name="Counter Clock-wise" feature="Season1" locale="NA" />
+	<key id="22300117" name="Toward the Clock Tower" feature="Season1" locale="JP" />
 	<key id="22300118" name="Desert Groove" feature="Season1" locale="NA" />
+	<key id="22300118" name="How Is My Dance?" feature="Season1" locale="JP" />
 	<key id="22300119" name="The Terrible Tohs" feature="Season1" locale="NA" />
+	<key id="22300119" name="Mean-Spirited $npc:22409134$" feature="Season1" locale="JP" />
 	<key id="22300120" name="To a New Land" feature="KarkarIsland" locale="NA" />
+	<key id="22300120" name="To a New Continent" feature="KarkarIsland" locale="JP" />
 	<key id="22300121" name="Red Tape" feature="KarkarIsland" locale="NA" />
+	<key id="22300121" name="Obstruction of Business" feature="KarkarIsland" locale="JP" />
 	<key id="22300122" name="The Mistake" feature="KarkarIsland" locale="NA" />
+	<key id="22300122" name="It Is a Misunderstanding" feature="KarkarIsland" locale="JP" />
 	<key id="22300123" name="$npcName:11000735$&apos;s Hero" feature="KarkarIsland" locale="NA" />
+	<key id="22300123" name="We Will Protect $npcName:11000735$" feature="KarkarIsland" locale="JP" />
 	<key id="22300124" name="Children of the Dragon" feature="KarkarIsland" locale="NA" />
+	<key id="22300124" name="Children of Dragons" feature="KarkarIsland" locale="JP" />
 	<key id="22300125" name="Halt!" feature="KarkarIsland" locale="NA" />
+	<key id="22300125" name="Stop!" feature="KarkarIsland" locale="JP" />
 	<key id="22300126" name="Rail Worker" feature="KarkarIsland" locale="NA" />
+	<key id="22300126" name="Repairs Are Complete" feature="KarkarIsland" locale="JP" />
 	<key id="22300127" name="Island of Lavender" feature="KarkarIsland" locale="NA" />
+	<key id="22300127" name="Lavender-Colored Island" feature="KarkarIsland" locale="JP" />
 	<key id="22300128" name="Be Still, My Heart" feature="KarkarIsland" locale="NA" />
+	<key id="22300128" name="Fluttering Heart" feature="KarkarIsland" locale="JP" />
 	<key id="22300129" name="Photographer for the Day" feature="KarkarIsland" locale="NA" />
+	<key id="22300129" name="Today I Am the Photographer" feature="KarkarIsland" locale="JP" />
 	<key id="22300130" name="Professional Smeller" feature="KarkarIsland" locale="NA" />
+	<key id="22300130" name="Scent Expert" feature="KarkarIsland" locale="JP" />
 	<key id="22300131" name="Night Sky in Bloom" feature="KarkarIsland" locale="NA" />
+	<key id="22300131" name="Flower Holding the Night Sky" feature="KarkarIsland" locale="JP" />
 	<key id="22300132" name="Plunderer of Luxury" feature="KarkarIsland" locale="NA" />
+	<key id="22300132" name="Brand-Name Plunderer" feature="KarkarIsland" locale="JP" />
 	<key id="22300133" name="Snakebite Medicine" feature="KarkarIsland" locale="NA" />
+	<key id="22300133" name="What If a Snake Bites You?" feature="KarkarIsland" locale="JP" />
 	<key id="22300134" name="Karkar Meerkat Patrol" feature="KarkarIsland" locale="NA" />
+	<key id="22300134" name="Karkar Meerkat Scout Team" feature="KarkarIsland" locale="JP" />
 	<key id="22300135" name="Lightless Scion" feature="KarkarIsland" locale="NA" />
+	<key id="22300135" name="Child of Light Who Lost Power" feature="KarkarIsland" locale="JP" />
 	<key id="22300136" name="Sky Fortress" feature="FameContents" locale="NA" />
+	<key id="22300136" name="Sky Fortress, Fortress in the Sky" feature="FameContents" locale="JP" />
 	<key id="22300137" name="Secret of the Seal" feature="Kritias_Epic01" />
 	<key id="22300138" name="New Friend" feature="Kritias_Epic01" />
 	<key id="22300139" name="Song of the Sea" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300139" name="Song of the Blue Sea" feature="LapentaFrontierQuest" locale="JP" />
 	<key id="22300140" name="Aria of the Frozen Heart" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300140" name="Aria of the Frozen Heart" feature="LapentaFrontierQuest" locale="JP" />
 	<key id="22300141" name="Madria&apos;s Fortress" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300141" name="Madria&apos;s Castle" feature="LapentaFrontierQuest" locale="JP" />
 	<key id="22300142" name="Thawing the Ice" feature="LapentaFrontierQuest" locale="NA" />
+	<key id="22300142" name="Melted Ice" feature="LapentaFrontierQuest" locale="JP" />
+	<key id="22300143" name="Finally Reached It!" feature="Kritias_Epic02" />
+	<key id="22300144" name="I Believe This Is Our First Meeting?" feature="Kritias_Epic02" />
+	<key id="22300145" name="An Unexpected Professional Hacker" feature="Kritias_Epic02" />
+	<key id="22300146" name="Her Majesty&apos;s Messenger Bird" feature="Kritias_Epic02" />
+	<key id="22300147" name="What Is That Sound?" feature="EpicApocalypse01" />
+	<key id="22300148" name="Your Majesty, Are You All Right?" feature="EpicApocalypse01" />
+	<key id="22300149" name="Wanderer in the Illusion" feature="EpicApocalypse01" />
+	<key id="22300150" name="To the End of the Limit" feature="EpicApocalypse01" />
 	<key id="22400001" name="The Journey Continues" />
 	<key id="22400002" name="Every End Is a New Beginning" />
 	<key id="22500001" name="Sky Fortress Gopher" feature="FameContents" />
 	<key id="22500002" name="Sky Fortress Crewman" feature="FameContents" />
 	<key id="22500003" name="Sky Fortress Officer" feature="FameContents" />
 	<key id="22500004" name="Sky Fortress&apos;s Hero" feature="FameContents" />
+	<key id="22500005" name="Legend of Sky Fortress" feature="FameContents02" />
+	<key id="22500006" name="Myth of Sky Fortress" feature="FameContents02" />
 	<key id="22500007" name="Alliance Soldier" feature="FameContents" />
 	<key id="22500008" name="Alliance Veteran" feature="FameContents" />
 	<key id="22500009" name="Alliance Officer" feature="FameContents" />
@@ -1234,7 +1430,9 @@
 	<key id="22500046" name="Archer and Aide" feature="FameContents" />
 	<key id="22500047" name="Master of Arcanobabble" feature="FameContents" />
 	<key id="22500048" name="Worker Bee" feature="FameContents" locale="NA" />
+	<key id="22500048" name="Swift-Footed Alliance Hard Worker" feature="FameContents" locale="JP" />
 	<key id="22500049" name="Dedicated Rumbler" feature="FameChallengeDungeon" locale="NA" />
+	<key id="22500049" name="Leave It to Me!" feature="FameChallengeDungeon" locale="JP" />
 	<key id="22501001" name="Kritias Expedition&apos;s Hand" feature="Kritias_2018_12" />
 	<key id="22501002" name="Kritias Expedition&apos;s Light" feature="Kritias_2018_12" />
 	<key id="22501003" name="Kritias Expedition&apos;s Hope" feature="Kritias_2018_12" />
@@ -1278,6 +1476,16 @@
 	<key id="22501041" name="Dark Wind&apos;s Failure" feature="Kritias_2018_12" />
 	<key id="22501042" name="Hero of Kritias" feature="Kritias_2018_12" />
 	<key id="22501043" name="Sky Fortress Furnisher" feature="Kritias_2018_12" />
+	<key id="22501044" name="Take Care of Georg!" feature="Fame_Geo01" />
+	<key id="22501045" name="Savior of Georg" feature="Fame_Geo01" />
+	<key id="22501046" name="Kritias Expert" feature="Fame_Geo01" />
+	<key id="22501047" name="$npcName:11004395$&apos;s S-Rank Agent" feature="Fame_Geo01" />
+	<key id="22501048" name="Fresh New Resistance Member" feature="Fame_Geo01" />
+	<key id="22501049" name="Passionate Hardworking Resistance Member" feature="Fame_Geo01" />
+	<key id="22501050" name="Ace Resistance Member of This Area" feature="Fame_Geo01" />
+	<key id="22501051" name="True Hero of the Resistance" feature="Fame_Geo01" />
+	<key id="22501052" name="The Joy of Promotion" feature="Fame_Geo01" />
+	<key id="22501053" name="Leader of Georg" feature="Fame_Geo01" />
 	<key id="23100001" name="Time Among Friends" />
 	<key id="23100002" name="Good Herb" />
 	<key id="23100003" name="The Wonder-Tonic" />
@@ -1547,10 +1755,13 @@
 	<key id="23100271" name="Expert Chef" feature="MasterySecond" />
 	<key id="23100272" name="Master Chef (1)" feature="MasterySecond" />
 	<key id="23100273" name="Monster Catcher" feature="PetBattle" />
+	<key id="23100274" name="Intermediate Beast Tamer" feature="Develop" />
+	<key id="23100275" name="Advanced Beast Tamer" feature="Develop" />
 	<key id="23100276" name="Monster Tamer" feature="PetBattle" />
 	<key id="23100277" name="Xylophone Savant" />
 	<key id="23100278" name="Harmonica Savant" />
 	<key id="23100279" name="Sparkling Meret-Man" />
+	<key id="23100280" name="(Account) Launch TGP" locale="CN" />
 	<key id="23100281" name="Tooting Meret-Man" />
 	<key id="23100282" name="Rich Meret-Man" />
 	<key id="23100283" name="Ridiculous Exercise Equipment" />
@@ -1560,11 +1771,17 @@
 	<key id="23100287" name="A World of Sweetness" />
 	<key id="23100288" name="Dipped in Chocolate" />
 	<key id="23100289" name="Popping Star Candy" />
+	<key id="23100290" name="Collect All Dark Instruments!" feature="KarmaTokenItem01" />
+	<key id="23100291" name="Collect the Deep Dark Oboe" feature="KarmaTokenItem01" />
+	<key id="23100292" name="Collect the Deep Dark Pizzicato" feature="KarmaTokenItem01" />
+	<key id="23100293" name="Collect the Deep Dark Piano" feature="KarmaTokenItem01" />
+	<key id="23100294" name="Collect the Deep Dark Cello" feature="KarmaTokenItem01" />
 	<key id="23100295" name="A Bowl of Quackers" feature="Season1" />
 	<key id="23100296" name="Blooming Knowledge" feature="Season1" />
 	<key id="23100297" name="Shaking Chair, Pounding Heart" feature="Season1" />
 	<key id="23100298" name="Hop, Shuffle, Quack Quack!" feature="Season1" />
 	<key id="23100299" name="Passionate Fisher" feature="Fishing" />
+	<key id="23100300" name="The More Lights, the Better!" />
 	<key id="23100301" name="(Account) Master of All Trades" feature="Fishing" />
 	<key id="23100302" name="A Musician Possessed" feature="MusicInstrument" />
 	<key id="23100303" name="Trail of Stars" feature="Fishing" />
@@ -1579,21 +1796,37 @@
 	<key id="23100312" name="The Meditator" />
 	<key id="23100313" name="Cup o&apos; Joe" />
 	<key id="23100314" name="The Golden Reel" feature="Fishing" locale="NA" />
+	<key id="23100314" name="Legendary Angler" feature="Fishing" locale="JP" />
 	<key id="23100315" name="Gems of the Sea" feature="Fishing" locale="NA" />
+	<key id="23100315" name="Gem Embraced by Nature" feature="Fishing" locale="JP" />
 	<key id="23100316" name="Adorable Axolotls" feature="Fishing" locale="NA" />
+	<key id="23100316" name="Axolotl of the Clear River" feature="Fishing" locale="JP" />
 	<key id="23100317" name="The Cultured Fisherperson" feature="Fishing" locale="NA" />
+	<key id="23100317" name="Carp, Come Here!" feature="Fishing" locale="JP" />
 	<key id="23100318" name="Shark Master" feature="Fishing" locale="NA" />
+	<key id="23100318" name="Shark Master" feature="Fishing" locale="JP" />
 	<key id="23100319" name="Noble Stallions of the Sea" feature="Fishing" locale="NA" />
+	<key id="23100319" name="Special Seahorse" feature="Fishing" locale="JP" />
 	<key id="23100320" name="Ultimate Extremophiles" feature="Fishing" locale="NA" />
+	<key id="23100320" name="Those Who Rule Lava" feature="Fishing" locale="JP" />
 	<key id="23100321" name="Sages of the Sea" feature="Fishing" locale="NA" />
+	<key id="23100321" name="Messenger of the Dragon King" feature="Fishing" locale="JP" />
 	<key id="23100322" name="The Most Thrilling Catch" feature="Fishing" locale="NA" />
+	<key id="23100322" name="Unforgettable Bite" feature="Fishing" locale="JP" />
 	<key id="23100323" name="Flock Friends" feature="PetBattle" locale="NA" />
+	<key id="23100323" name="Friend from the Ranch" feature="PetBattle" locale="JP" />
 	<key id="23100324" name="The Mining Crew" feature="PetBattle" locale="NA" />
+	<key id="23100324" name="Hey, Did You Bring the Tools?" feature="PetBattle" locale="JP" />
 	<key id="23100325" name="Friends from the Forest" feature="PetBattle" locale="NA" />
+	<key id="23100325" name="Special Friend from the Forest" feature="PetBattle" locale="JP" />
 	<key id="23100326" name="The Snail Warrior" feature="PetBattle" locale="NA" />
+	<key id="23100326" name="Even Snails Can Fight!" feature="PetBattle" locale="JP" />
 	<key id="23100327" name="Dark Pact" feature="PetBattle" locale="NA" />
+	<key id="23100327" name="Darkness Obtained" feature="PetBattle" locale="JP" />
 	<key id="23100328" name="Eternal Heartbeat" feature="PetBattle" locale="NA" />
+	<key id="23100328" name="Unstoppable Red Heart" feature="PetBattle" locale="JP" />
 	<key id="23100329" name="The Lazy Mushroom" feature="PetBattle" locale="NA" />
+	<key id="23100329" name="Lazy Mushroom" feature="PetBattle" locale="JP" />
 	<key id="23100330" name="Master Miner (2)" feature="Mastery06" />
 	<key id="23100331" name="Master Rancher (2)" feature="Mastery06" />
 	<key id="23100332" name="Master Blacksmith (2)" feature="Mastery06" />
@@ -1747,12 +1980,14 @@
 	<key id="23200033" name="Room to Shine" />
 	<key id="23200034" name="No Room to Grow" />
 	<key id="23200035" name="A Lavish Display" />
+	<key id="23200036" name="(Account) Top Designer" locale="CN" />
+	<key id="23200037" name="Beyond Imagination!" feature="ItemMerge" />
 	<key id="23200038" name="Pet Lover" feature="PetRemake01" />
 	<key id="23200039" name="The Perfected Pet" feature="PetRemake01" />
 	<key id="23200040" name="Ready for the Big Leagues" feature="Season1" />
 	<key id="23200041" name="I Need It!" feature="Season1" />
 	<key id="23200042" name="(Account) Royalety" feature="SurvivalContents03" />
-	<key id="23200043" name="Push The Limits" feature="UnlimitedEnchant" />
+	<key id="23200043" name="Challenge the Limit" feature="UnlimitedEnchant" />
 	<key id="23300002" name="Shaggy Lamb" />
 	<key id="23300003" name="Trend-setter" />
 	<key id="23300004" name="$item:39000001$" />
@@ -1809,10 +2044,16 @@
 	<key id="23300057" name="$item:50600116$" />
 	<key id="23300058" name="$item:50600117$" />
 	<key id="23300059" name="$item:35100001$" />
+	<key id="23300060" name="Hero Dyed in Maple Leaves" locale="CN" />
+	<key id="23300061" name="$item:50600214$" feature="Mentoring" />
+	<key id="23300062" name="$item:50600219$" feature="Mentoring" />
 	<key id="23300063" name="$item:50600220$" feature="FindDungeonHelp" />
 	<key id="23300064" name="$item:50600222$" />
 	<key id="23300065" name="$item:50600221$" />
+	<key id="23300066" name="$item:50600217$" feature="KarmaTokenItem01" />
+	<key id="23300067" name="$item:39000043$" />
 	<key id="23300067" name="Lizard Breeder" feature="Season1" locale="NA" />
+	<key id="23300067" name="Jr. Lizard Collector" feature="Season1" locale="JP" />
 	<key id="23300068" name="$item:50600247$" feature="LapentaDungeon" />
 	<key id="23300069" name="$item:40400071$" feature="LapentaDungeon" />
 	<key id="23300070" name="$item:50600302$" feature="Kritias_2018_12" />
@@ -1853,21 +2094,45 @@
 	<key id="23400035" name="Everybody Dance!" />
 	<key id="23400036" name="A Joyous Jig" />
 	<key id="23400037" name="Can&apos;t Stop Groovin&apos;" />
+	<key id="23400038" name="$map:61000010$ Participant" feature="MassiveCrazyRunnersShanghai" locale="CN" />
+	<key id="23400039" name="$map:61000010$!" feature="MassiveCrazyRunnersShanghai" locale="CN" />
+	<key id="23400040" name="$map:61000010$ Victory!" feature="MassiveCrazyRunnersShanghai" locale="CN" />
+	<key id="23400041" name="I Don&apos;t Know, Just Use It" feature="MassiveCrazyRunnersShanghai" locale="CN" />
+	<key id="23400042" name="(Account) Owner of $item:20301443$" locale="CN" />
+	<key id="23400043" name="(Account) Letter Collector" locale="CN" />
+	<key id="23400044" name="(Account) King of Ocean Treasure Exploration" locale="CN" />
+	<key id="23400045" name="(Account) Starlight Falls" locale="CN" />
+	<key id="23400046" name="Participate in the 1st Anniversary World Raid" feature="WorldChampionMushroom" locale="CN" />
+	<key id="23400047" name="(Account) Happy 1st Anniversary!" locale="CN" />
 	<key id="23400048" name="Maple Fanatic" locale="NA" />
+	<key id="23400049" name="(Account) Santa&apos;s Gift" locale="CN" />
+	<key id="23400050" name="Chocolatier of Love" locale="KR" />
+	<key id="23400050" name="Chocolatier of Love" locale="JP" />
+	<key id="23400051" name="Chocolatier of Love" locale="CN" />
 	<key id="23400052" name="Amorous Chocolate" locale="NA" />
+	<key id="23400053" name="(Account) Blueprint Drafter" feature="Blueprint" locale="CN" />
+	<key id="23400054" name="(Account) The Height of Splendor" locale="CN" />
+	<key id="23400055" name="(Account) Royal Darkness" locale="CN" />
 	<key id="23400056" name="Ready or Not, Here I Come!" feature="MassiveHideAndSeek" locale="NA" />
+	<key id="23400056" name="I Can See Your Hair!" feature="MassiveHideAndSeek" locale="KR" />
+	<key id="23400056" name="Hold Your Breath, Not Yet!" feature="MassiveHideAndSeek" locale="JP" />
 	<key id="23400057" name="Hide-and-Seek Expert" feature="MassiveHideAndSeek" locale="NA" />
+	<key id="23400057" name="Master of Hide-and-Seek" feature="MassiveHideAndSeek" locale="KR" />
+	<key id="23400057" name="King of Hide-and-Seek" feature="MassiveHideAndSeek" locale="JP" />
 	<key id="23400058" name="2020 Amorous Chocolate" feature="Event" locale="NA" />
+	<key id="23400058" name="2020 Chocolatier of Love" feature="Event" locale="CN" />
 	<key id="23500001" name="(Account) This Land is My Land" />
 	<key id="23500003" name="(Account) Fixture in the Community" />
 	<key id="23500004" name="(Account) Splish Splash" />
 	<key id="23500005" name="(Account) What&apos;s for Lunch?" />
+	<key id="23500006" name="(Account) Basics of Alchemy" locale="KR" />
 	<key id="23500007" name="(Account) DIY Jewelery Crafting" />
 	<key id="23500008" name="(Account) A Full-time Friend" />
 	<key id="23500009" name="(Account) My Personal Ring Artisan" />
 	<key id="23500010" name="(Account) My Personal Necklace Artisan" />
 	<key id="23500011" name="(Account) My Personal Drink Expert" />
 	<key id="23500012" name="(Account) My Personal Chef" />
+	<key id="23500013" name="(Account) My Maid Is an Alchemist" locale="KR" />
 	<key id="23500014" name="(Account) Did We Just Become Best Friends?" />
 	<key id="23500015" name="(Account) Getting Personal" />
 	<key id="23500016" name="(Account) Star Architect" />
@@ -1880,6 +2145,7 @@
 	<key id="23500023" name="(Account) A Truly Spectacular Home" />
 	<key id="23500024" name="(Account) An Inviting Abode" />
 	<key id="23500025" name="(Account) The Architect" feature="Blueprint" />
+	<key id="23500026" name="(Account) Rolling Scent of the Sea" />
 	<key id="80000001" name="First Visit to the Plastic Surgery Office or Beauty Salon" />
 	<key id="80000002" name="Playing" />
 	<key id="80000003" name="Fairy Outfit Purchase" />
@@ -1888,6 +2154,9 @@
 	<key id="80000006" name="[Season 2] Mushking Crusher" />
 	<key id="80000007" name="[Season 3] Mushking Crusher" />
 	<key id="80000008" name="[Season 4] Mushking Crusher" />
+	<key id="80000009" name="[Season 5] Attack Mushking" feature="WorldChampionMushroom" locale="CN" />
+	<key id="80000010" name="[Season 6] Attack Mushking" feature="WorldChampionMushroom" locale="CN" />
+	<key id="80000011" name="[Season 7] Attack Mushking" feature="WorldChampionMushroom" locale="CN" />
 	<key id="90000006" name="Guild Championship Season 1 Participant" />
 	<key id="90000010" name="Guild Championship Season 1 First Place Guild" />
 	<key id="90000011" name="Guild Championship Season 2 First Place Guild" />
@@ -1936,6 +2205,7 @@
 	<key id="92000005" name="(Account) MapleStory 2 New Record Celebration Gft" />
 	<key id="92000006" name="(Account) Drinking $item:20000317$" />
 	<key id="92000007" name="Santa Peachie&apos;s Holiday Gift" />
+	<key id="92000008" name="Birth of a Rich Person" locale="KR" />
 	<key id="92000009" name="Commence Counterattack, First Achievement!" />
 	<key id="92000010" name="Commence Counterattack, Second Achievement!" />
 	<key id="92000011" name="Sweet Valentine&apos;s Day 1" />
@@ -1945,14 +2215,27 @@
 	<key id="92000015" name="(Account) MapleStory 2 New Record Celebration Gft" />
 	<key id="92000016" name="Catch of the Day!" />
 	<key id="92000017" name="Lucky Key Collector" />
+	<key id="92000018" name="One Who Achieves Dreams" locale="CN" />
+	<key id="92000019" name="3rd Performance Recruiter" locale="CN" />
+	<key id="92000020" name="3rd Housing Recruiter" locale="CN" />
+	<key id="92000021" name="3rd Outfit Design Recruiter" locale="CN" />
 	<key id="92000022" name="The Birth of a Hero" />
 	<key id="92000023" name="The Birth of a Super Hero" />
 	<key id="92000024" name="Maple World&apos;s First Knight" />
 	<key id="92000025" name="Maple World&apos;s Latest Knight" />
+	<key id="92000026" name="(Account) Too Many Arms!" feature="Zakum01" locale="KR" />
 	<key id="92000027" name="Zakum Keep Eating, Eating, Eating" />
 	<key id="92000028" name="Happy 2nd Anniversary!" />
 	<key id="92000029" name="The Pinkest Bean" />
 	<key id="92000030" name="(Account) Mini Bean Bash" />
+	<key id="92000031" name="(Account) Remove Zakum&apos;s First Arm in the 3rd Test" locale="CN" />
+	<key id="92000032" name="(Account) Remove Zakum&apos;s Second Arm in the 3rd Test" locale="CN" />
+	<key id="92000033" name="(Account) Remove Zakum&apos;s Third Arm in the 3rd Test" locale="CN" />
+	<key id="92000034" name="(Account) Remove Zakum&apos;s Fourth Arm in the 3rd Test" locale="CN" />
+	<key id="92000035" name="(Account) Remove Zakum&apos;s Fifth Arm in the 3rd Test" locale="CN" />
+	<key id="92000036" name="(Account) Remove Zakum&apos;s Sixth Arm in the 3rd Test" locale="CN" />
+	<key id="92000037" name="(Account) Remove All of Zakum&apos;s Arms in the 3rd Test" locale="CN" />
+	<key id="92000038" name="(Account) Defeat Zakum in the 3rd Test" locale="CN" />
 	<key id="92000039" name="First Conqueror of the Ancient God Zakum" />
 	<key id="92000040" name="First Conqueror of the Ancient God Zakum" />
 	<key id="92000041" name="First Conqueror of the Ancient God Zakum" />
@@ -1961,6 +2244,10 @@
 	<key id="92000044" name="First Conqueror of the Ancient God Zakum" />
 	<key id="92000045" name="First Conqueror of the Ancient God Zakum" />
 	<key id="92000046" name="First Conqueror of the Ancient God Zakum" />
+	<key id="92000047" name="Fun with $npc:11003471$!" locale="CN" />
+	<key id="92000048" name="Shoot for the Moon" locale="CN" />
+	<key id="92000049" name="Birth of a Rich Person" locale="CN" />
+	<key id="92000050" name="Dark Stream Conqueror" locale="CN" />
 	<key id="92000051" name="The First Pink Bean Punisher" />
 	<key id="92000052" name="The First Pink Bean Punisher" />
 	<key id="92000053" name="The First Pink Bean Punisher" />
@@ -1970,13 +2257,63 @@
 	<key id="92000057" name="The First Pink Bean Punisher" />
 	<key id="92000058" name="The First Pink Bean Punisher" />
 	<key id="92000059" name="The First Pink Bean Punisher" />
+	<key id="92000060" name="Pressing Through the Darkness" locale="CN" />
 	<key id="92000061" name="To Zakum" />
+	<key id="92000062" name="Heart-Pounding Valentine First Gift" locale="KR" />
+	<key id="92000063" name="Heart-Pounding Valentine Second Gift" locale="KR" />
+	<key id="92000064" name="Choco Choco Gift, One!" locale="CN" />
+	<key id="92000065" name="Choco Choco Gift, Two!" locale="CN" />
+	<key id="92000066" name="Choco Choco Gift, Three!" locale="CN" />
+	<key id="92000067" name="Choco Choco Gift, Four!" locale="CN" />
+	<key id="92000068" name="Choco Choco Gift, Five!" locale="CN" />
+	<key id="92000069" name="Choco Choco Gift, Six!" locale="CN" />
+	<key id="92000070" name="Choco Choco Gift, Seven!" locale="CN" />
+	<key id="92000071" name="Choco Choco Gift, Eight!" locale="CN" />
+	<key id="92000072" name="Choco Choco Gift, Nine!" locale="CN" />
+	<key id="92000073" name="Choco Choco Gift, Ten!" locale="CN" />
+	<key id="92000074" name="Choco Choco Gift, Eleven!" locale="CN" />
+	<key id="92000075" name="Choco Choco Gift, Twelve!" locale="CN" />
+	<key id="92000076" name="Choco Choco Gift, Thirteen!" locale="CN" />
+	<key id="92000077" name="Choco Choco Gift, Fourteen!" locale="CN" />
+	<key id="92000078" name="Choco Choco Gift, Fifteen!" locale="CN" />
+	<key id="92000079" name="King of Rock-Paper-Scissors!" locale="CN" />
+	<key id="92000080" name="White Day First Gift" locale="KR" />
+	<key id="92000081" name="White Day Second Gift" locale="KR" />
+	<key id="92000082" name="White Day Third Gift" locale="KR" />
+	<key id="92000083" name="Solo Qualification First Gift" locale="CN" />
+	<key id="92000084" name="Solo Qualification Second Gift" locale="CN" />
+	<key id="92000085" name="Couple Qualification First Gift" locale="CN" />
+	<key id="92000086" name="Couple Qualification Second Gift" locale="CN" />
+	<key id="92000087" name="Solo Qualification First Gift" locale="CN" />
+	<key id="92000088" name="Solo Qualification Second Gift" locale="CN" />
+	<key id="92000089" name="Couple Qualification First Gift" locale="CN" />
+	<key id="92000090" name="Couple Qualification Second Gift" locale="CN" />
 	<key id="92000091" name="Blossom Farmer" />
+	<key id="92000092" name="Together for 1,000 Days" locale="KR" />
+	<key id="92000093" name="Fan Art Artist" locale="KR" />
+	<key id="92000094" name="Not Afraid of Spores!" feature="WorldChampionMushroom" />
 	<key id="92000095" name="Slime-friend" />
+	<key id="92000095" name="Rainbow Slime&apos;s Friend" feature="Event" locale="JP" />
 	<key id="92000096" name="Rainbow Rancher" />
+	<key id="92000096" name="Rainbow Slime Keeper" feature="Event" locale="JP" />
+	<key id="92000098" name="Happy 3rd Anniversary, MapleStory 2!" locale="KR" />
+	<key id="92000099" name="Scorching Sun" locale="CN" />
+	<key id="92000100" name="Luxury Package Buyer" locale="CN" />
+	<key id="92000101" name="Jonhyang Package Buyer" locale="CN" />
+	<key id="92000102" name="Jongwi Package Buyer" locale="CN" />
+	<key id="92000103" name="Supreme Package Buyer" locale="CN" />
+	<key id="92000104" name="September Abundant Autumn Relay First Package Buyer" locale="KR" />
+	<key id="92000105" name="September Abundant Autumn Relay Second Package Buyer" locale="KR" />
+	<key id="92000106" name="September Abundant Autumn Relay Third Package Buyer" locale="KR" />
+	<key id="92000107" name="September Abundant Autumn Relay Fourth Package Buyer" locale="KR" />
+	<key id="92000108" name="1st Anniversary Final Festival" locale="CN" />
 	<key id="92000109" name="Dark Descent Conqueror" locale="NA" />
 	<key id="92000110" name="(Account) Top Designer" locale="NA" />
 	<key id="92000111" name="(Account) Star Architect" locale="NA" />
+	<key id="92000112" name="October Abundant Autumn Relay First Package Buyer" locale="KR" />
+	<key id="92000113" name="October Abundant Autumn Relay Second Package Buyer" locale="KR" />
+	<key id="92000114" name="October Abundant Autumn Relay Third Package Buyer" locale="KR" />
+	<key id="92000115" name="October Abundant Autumn Relay Fourth Package Buyer" locale="KR" />
 	<key id="92000116" name="(Account) Star Pop Party" locale="NA" />
 	<key id="92000117" name="Pumky&apos;s Friend" />
 	<key id="92000118" name="Pumky Rancher" />
@@ -1985,8 +2322,15 @@
 	<key id="92000121" name="Turkeypocalypse" />
 	<key id="92000122" name="Gobblageddon" />
 	<key id="92000123" name="Jump, Jive, and Jingle!" />
+	<key id="92000124" name="Rock-Paper-Scissors Master" locale="CN" />
+	<key id="92000125" name="Christmas Smiling Angel" locale="CN" />
+	<key id="92000125" name="Christmas Smiling Angel" locale="JP" />
+	<key id="92000126" name="Christmas Tree Decorating Mania" locale="CN" />
+	<key id="92000126" name="Christmas Tree Decoration Mania" locale="JP" />
+	<key id="92000127" name="Christmas Dancing Machine!" />
 	<key id="92000127" name="Beaming Angel" locale="NA" />
 	<key id="92000128" name="Ornament Afficionado" locale="NA" />
+	<key id="92000129" name="2019 Happy New Year" locale="CN" />
 	<key id="92000130" name="Found You!" locale="NA" />
 	<key id="92000131" name="Lucky Seeker" locale="NA" />
 	<key id="92000132" name="Pouches of Luck" locale="NA" />
@@ -1995,12 +2339,55 @@
 	<key id="92000135" name="Crushing the Competition" feature="Event" />
 	<key id="92000136" name="Cutting down the Middle" feature="Event" />
 	<key id="92000137" name="Crumpling under Pressure" feature="Event" />
+	<key id="92000138" name="Find My Partner!" feature="Event" locale="KR" />
 	<key id="92000139" name="Slime-friend" feature="Event" locale="NA" />
+	<key id="92000139" name="Promised Victor" feature="Event" locale="KR" />
 	<key id="92000140" name="Rainbow Rancher" feature="Event" locale="NA" />
+	<key id="92000140" name="One Who Sees Through Hearts" feature="Event" locale="KR" />
+	<key id="92000141" name="Find My Partner!" feature="Event" locale="CN" />
+	<key id="92000142" name="One Who Enjoys Duels" feature="Event" locale="KR" />
+	<key id="92000142" name="2019 Star Architect" locale="JP" />
+	<key id="92000143" name="Promised Victor" feature="Event" locale="CN" />
+	<key id="92000143" name="2019 Top Designer" locale="JP" />
+	<key id="92000144" name="Prime Cherry Blossom Tree Spot" feature="Event" locale="CN" />
+	<key id="92000145" name="Maple Newbie Together for the 4th Anniversary" feature="Event" locale="KR" />
 	<key id="92000146" name="Ducky&apos;s Soulmate" feature="Event" />
 	<key id="92000147" name="Getting Friendly" feature="Event" locale="NA" />
+	<key id="92000147" name="Do I Look Like Your Friend?" feature="Event" locale="CN" />
+	<key id="92000147" name="Do I Look Like Your Friend?" feature="Event" locale="KR" />
+	<key id="92000147" name="Before I Knew It, I Was with a Ghost" feature="Event" locale="JP" />
 	<key id="92000148" name="Fish or Else" feature="Event" locale="NA" />
+	<key id="92000148" name="Give Me Fish or I&apos;ll Vanish~" feature="Event" locale="KR" />
+	<key id="92000148" name="Give Me Fish or I&apos;ll Vanish~" feature="Event" locale="CN" />
+	<key id="92000148" name="Give Me More!" feature="Event" locale="JP" />
 	<key id="92000149" name="Pumpkins for Your Cauldron" feature="Event" locale="NA" />
+	<key id="92000149" name="Bubbling Cauldron~ Take This Pumpkin!" feature="Event" locale="CN" />
+	<key id="92000149" name="Bubbling Cauldron~ Take This Pumpkin!" feature="Event" locale="KR" />
+	<key id="92000149" name="Bubbling Cauldron~ Take This Pumpkin!" feature="Event" locale="JP" />
+	<key id="92000150" name="Thanks for Being Together for the 6th Anniversary!" feature="Event" locale="KR" />
+	<key id="92000150" name="Cat Ghost Friendship Log" feature="Event" locale="JP" />
+	<key id="92000151" name="(Account) All-in-One Package Buyer" locale="KR" />
+	<key id="92000151" name="(Account) All-in-One Package Buyer" locale="CN" />
+	<key id="92000152" name="Thanks for Being Together for the 4th Anniversary!" feature="Event" locale="CN" />
+	<key id="92000152" name="Vicious Plant Mania" feature="Event" locale="JP" />
+	<key id="92000153" name="Midwinter Dancing Machine" feature="Event" locale="CN" />
+	<key id="92000154" name="Baki&apos;s Soulmate" feature="Event" />
 	<key id="92000154" name="Merry Kritias" feature="Event" locale="NA" />
+	<key id="92000154" name="Baki&apos;s Soulmate" feature="Event" locale="CN" />
 	<key id="92000155" name="Hello 2020!" feature="Event" locale="NA" />
+	<key id="92000155" name="One Who Sees Through Hearts" feature="Event" locale="CN" />
+	<key id="92000156" name="Today&apos;s Partner" feature="Event" locale="CN" />
+	<key id="92000157" name="One Who Enjoys Duels" feature="Event" locale="CN" />
+	<key id="92000157" name="2020 Star Architect" feature="Event" locale="JP" />
+	<key id="92000158" name="Thanks for Celebrating the 7th Anniversary!" feature="Event" locale="KR" />
+	<key id="92000158" name="2020 Top Designer" feature="Event" locale="JP" />
+	<key id="92000159" name="One Who Uses Telepathy" feature="Event" />
+	<key id="92000160" name="One in Tune with Their Partner" feature="Event" />
+	<key id="92000161" name="One Who Does Not Fear Defeat" feature="Event" />
+	<key id="92000162" name="One Who Sees the Future" feature="Event" />
+	<key id="92000163" name="One in Perfect Sync" feature="Event" />
+	<key id="92000164" name="One Who Truly Enjoys It" feature="Event" />
+	<key id="92000165" name="One Who Has Seen the Future" feature="Event" />
+	<key id="92000166" name="One with Sharp Dynamic Vision" feature="Event" />
+	<key id="92000167" name="One Who Enjoys Defeat" feature="Event" />
 </ms2>

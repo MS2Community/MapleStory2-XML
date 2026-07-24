@@ -1,115 +1,114 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="11000008" name="图尔卡的宝石箱" />
-  <key id="11000009" name="图尔卡的珍贵宝石箱" />
-  <key id="19000017" name="冒险岛商店" />
-  <key id="19000028" name="周边商城" />
-  <key id="19000029" name="大嘴猴" />
-  <key id="31000001" name="道具分解器" />
-  <key id="31000002" name="小黄鸭翻翻乐！" />
-  <key id="31000003" name="活动卡片板" />
-  <key id="31000004" name="查看冒险岛图像" />
-  <key id="31000005" name="小黄鸭翻翻乐！" />
-  <key id="31000010" name="节庆卡片板" />
-  <key id="31000012" name="咩咩的大富翁棋盘" />
-  <key id="60001001" name="铜矿脉" />
-  <key id="60001011" name="铜矿脉" />
-  <key id="60001020" name="铜矿脉" feature="Mastery05" />
-  <key id="60002003" name="锡矿脉" />
-  <key id="60002009" name="锡矿脉" />
-  <key id="60002024" name="锡矿脉" feature="Mastery05" />
-  <key id="60003003" name="锌矿脉" />
-  <key id="60003006" name="锌矿脉" />
-  <key id="60003010" name="锌矿脉" />
-  <key id="60003019" name="锌矿脉" feature="Mastery05" />
-  <key id="60004004" name="银矿脉" />
-  <key id="60004009" name="银矿脉" />
-  <key id="60004021" name="银矿脉" feature="Mastery05" />
-  <key id="60005003" name="铁矿脉" />
-  <key id="60005008" name="铁矿脉" />
-  <key id="60005010" name="铁矿脉" />
-  <key id="60005015" name="铁矿脉" feature="Mastery05" />
-  <key id="60006003" name="铅矿脉" />
-  <key id="60006013" name="铅矿脉" />
-  <key id="60006014" name="铅矿脉" />
-  <key id="60006036" name="铅矿脉" feature="Mastery05" />
-  <key id="60007005" name="镍矿脉" />
-  <key id="60007009" name="镍矿脉" />
-  <key id="60007022" name="镍矿脉" feature="Mastery05" />
-  <key id="60008004" name="黑铁矿脉" />
-  <key id="60008007" name="黑铁矿脉" />
-  <key id="60008021" name="黑铁矿脉" feature="Mastery05" />
-  <key id="60009002" name="钨矿脉" />
-  <key id="60009011" name="钨矿脉" />
-  <key id="60009020" name="钨矿脉" feature="Mastery05" />
-  <key id="60010003" name="金矿脉" />
-  <key id="60010010" name="金矿脉" />
-  <key id="60010020" name="金矿脉" feature="Mastery05" />
-  <key id="60011001" name="铂矿脉" />
-  <key id="60011007" name="铂矿脉" />
-  <key id="60011012" name="铂矿脉" feature="Mastery05" />
-  <key id="60012001" name="钴矿脉" />
-  <key id="60012010" name="钴矿脉" />
-  <key id="60012025" name="钴矿脉" feature="Mastery05" />
-  <key id="60013003" name="钯矿脉" />
-  <key id="60013007" name="钯矿脉" />
-  <key id="60013023" name="钯矿脉" feature="Mastery05" />
-  <key id="60014004" name="秘银矿脉" feature="Mastery06" />
-  <key id="60014009" name="秘银矿脉" feature="Mastery06" />
-  <key id="60014026" name="秘银矿脉" feature="Mastery06" />
-  <key id="60015006" name="山铜矿脉" feature="Mastery06" />
-  <key id="60015025" name="山铜矿脉" feature="Mastery06" />
-  <key id="60019002" name="鲁玛石矿脉" />
-  <key id="60020001" name="古木树桩" />
-  <key id="60021001" name="泥滩珍珠堆" />
-  <key id="60023001" name="马郁兰草" />
-  <key id="60023008" name="马郁兰草" />
-  <key id="60023029" name="马郁兰草" feature="Mastery05" />
-  <key id="60024002" name="薰衣草" />
-  <key id="60024006" name="薰衣草" />
-  <key id="60024029" name="薰衣草" feature="Mastery05" />
-  <key id="60025003" name="牛至草" />
-  <key id="60025006" name="牛至草" />
-  <key id="60025024" name="牛至草" feature="Mastery05" />
-  <key id="60026002" name="香蜂花草" />
-  <key id="60026005" name="香蜂花草" />
-  <key id="60026010" name="香蜂花草" />
-  <key id="60026024" name="香蜂花草" feature="Mastery05" />
-  <key id="60027003" name="柑橘草" />
-  <key id="60027006" name="柑橘草" />
-  <key id="60027024" name="柑橘草" feature="Mastery05" />
-  <key id="60028001" name="茉莉花草" />
-  <key id="60028005" name="茉莉花草" />
-  <key id="60028021" name="茉莉花草" feature="Mastery05" />
-  <key id="60029003" name="澳洲茶树" />
-  <key id="60029005" name="澳洲茶树" />
-  <key id="60029031" name="澳洲茶树" feature="Mastery05" />
-  <key id="60030003" name="樱桃鼠尾草" />
-  <key id="60030004" name="樱桃鼠尾草" />
-  <key id="60030020" name="樱桃鼠尾草" feature="Mastery05" />
-  <key id="60031002" name="广藿香草" />
-  <key id="60031006" name="广藿香草" />
-  <key id="60031027" name="广藿香草" feature="Mastery05" />
-  <key id="60032001" name="迷迭香草" />
-  <key id="60032007" name="迷迭香草" />
-  <key id="60032008" name="迷迭香草" />
-  <key id="60032020" name="迷迭香草" feature="Mastery05" />
-  <key id="60033002" name="欧蓍草" />
-  <key id="60033027" name="欧蓍草" feature="Mastery05" />
-  <key id="60034001" name="罗勒草" />
-  <key id="60034028" name="罗勒草" feature="Mastery05" />
-  <key id="60035003" name="香柠檬草" />
-  <key id="60035007" name="香柠檬草" />
-  <key id="60035019" name="香柠檬草" feature="Mastery05" />
-  <key id="60036001" name="棉花薰衣草" />
-  <key id="60037001" name="菠萝鼠尾草" />
-  <key id="60038001" name="玫瑰老鹳草" />
-  <key id="60039005" name="鹰爪豆" feature="Mastery06" />
-  <key id="60039010" name="鹰爪豆" feature="Mastery06" />
-  <key id="60039014" name="鹰爪豆" feature="Mastery06" />
-  <key id="60039027" name="鹰爪豆" feature="Mastery06" />
-  <key id="60040001" name="百里香" feature="Mastery06" />
-  <key id="60040007" name="百里香" feature="Mastery06" />
-  <key id="60040027" name="百里香" feature="Mastery06" />
+	<key id="11000008" name="图尔卡的宝石箱" />
+	<key id="11000009" name="图尔卡的珍贵宝石箱" />
+	<key id="19000017" name="冒险岛商店" />
+	<key id="19000028" name="周边商城" />
+	<key id="19000029" name="大嘴猴" />
+	<key id="31000001" name="道具分解器" />
+	<key id="31000002" name="小黄鸭翻翻乐！" />
+	<key id="31000003" name="活动卡片板" />
+	<key id="31000004" name="查看冒险岛图像" />
+	<key id="31000005" name="小黄鸭翻翻乐！" />
+	<key id="31000010" name="节庆卡片板" />
+	<key id="31000012" name="咩咩的大富翁棋盘" />
+	<key id="60001001" name="铜矿脉" />
+	<key id="60001011" name="铜矿脉" />
+	<key id="60001020" name="铜矿脉" feature="Mastery05" />
+	<key id="60002003" name="锡矿脉" />
+	<key id="60002009" name="锡矿脉" />
+	<key id="60002024" name="锡矿脉" feature="Mastery05" />
+	<key id="60003003" name="锌矿脉" />
+	<key id="60003006" name="锌矿脉" />
+	<key id="60003010" name="锌矿脉" />
+	<key id="60003019" name="锌矿脉" feature="Mastery05" />
+	<key id="60004004" name="银矿脉" />
+	<key id="60004009" name="银矿脉" />
+	<key id="60004021" name="银矿脉" feature="Mastery05" />
+	<key id="60005003" name="铁矿脉" />
+	<key id="60005008" name="铁矿脉" />
+	<key id="60005010" name="铁矿脉" />
+	<key id="60005015" name="铁矿脉" feature="Mastery05" />
+	<key id="60006003" name="铅矿脉" />
+	<key id="60006013" name="铅矿脉" />
+	<key id="60006014" name="铅矿脉" />
+	<key id="60006036" name="铅矿脉" feature="Mastery05" />
+	<key id="60007005" name="镍矿脉" />
+	<key id="60007009" name="镍矿脉" />
+	<key id="60007022" name="镍矿脉" feature="Mastery05" />
+	<key id="60008004" name="黑铁矿脉" />
+	<key id="60008007" name="黑铁矿脉" />
+	<key id="60008021" name="黑铁矿脉" feature="Mastery05" />
+	<key id="60009002" name="钨矿脉" />
+	<key id="60009011" name="钨矿脉" />
+	<key id="60009020" name="钨矿脉" feature="Mastery05" />
+	<key id="60010003" name="金矿脉" />
+	<key id="60010010" name="金矿脉" />
+	<key id="60010020" name="金矿脉" feature="Mastery05" />
+	<key id="60011001" name="铂矿脉" />
+	<key id="60011007" name="铂矿脉" />
+	<key id="60011012" name="铂矿脉" feature="Mastery05" />
+	<key id="60012001" name="钴矿脉" />
+	<key id="60012010" name="钴矿脉" />
+	<key id="60012025" name="钴矿脉" feature="Mastery05" />
+	<key id="60013003" name="钯矿脉" />
+	<key id="60013007" name="钯矿脉" />
+	<key id="60013023" name="钯矿脉" feature="Mastery05" />
+	<key id="60014004" name="秘银矿脉" feature="Mastery06" />
+	<key id="60014009" name="秘银矿脉" feature="Mastery06" />
+	<key id="60014026" name="秘银矿脉" feature="Mastery06" />
+	<key id="60015006" name="山铜矿脉" feature="Mastery06" />
+	<key id="60015025" name="山铜矿脉" feature="Mastery06" />
+	<key id="60019002" name="鲁玛石矿脉" />
+	<key id="60020001" name="古木树桩" />
+	<key id="60021001" name="泥滩珍珠堆" />
+	<key id="60023001" name="马郁兰草" />
+	<key id="60023008" name="马郁兰草" />
+	<key id="60023029" name="马郁兰草" feature="Mastery05" />
+	<key id="60024002" name="薰衣草" />
+	<key id="60024006" name="薰衣草" />
+	<key id="60024029" name="薰衣草" feature="Mastery05" />
+	<key id="60025003" name="牛至草" />
+	<key id="60025006" name="牛至草" />
+	<key id="60025024" name="牛至草" feature="Mastery05" />
+	<key id="60026002" name="香蜂花草" />
+	<key id="60026005" name="香蜂花草" />
+	<key id="60026010" name="香蜂花草" />
+	<key id="60026024" name="香蜂花草" feature="Mastery05" />
+	<key id="60027003" name="柑橘草" />
+	<key id="60027006" name="柑橘草" />
+	<key id="60027024" name="柑橘草" feature="Mastery05" />
+	<key id="60028001" name="茉莉花草" />
+	<key id="60028005" name="茉莉花草" />
+	<key id="60028021" name="茉莉花草" feature="Mastery05" />
+	<key id="60029003" name="澳洲茶树" />
+	<key id="60029005" name="澳洲茶树" />
+	<key id="60029031" name="澳洲茶树" feature="Mastery05" />
+	<key id="60030003" name="樱桃鼠尾草" />
+	<key id="60030004" name="樱桃鼠尾草" />
+	<key id="60030020" name="樱桃鼠尾草" feature="Mastery05" />
+	<key id="60031002" name="广藿香草" />
+	<key id="60031006" name="广藿香草" />
+	<key id="60031027" name="广藿香草" feature="Mastery05" />
+	<key id="60032001" name="迷迭香草" />
+	<key id="60032007" name="迷迭香草" />
+	<key id="60032008" name="迷迭香草" />
+	<key id="60032020" name="迷迭香草" feature="Mastery05" />
+	<key id="60033002" name="欧蓍草" />
+	<key id="60033027" name="欧蓍草" feature="Mastery05" />
+	<key id="60034001" name="罗勒草" />
+	<key id="60034028" name="罗勒草" feature="Mastery05" />
+	<key id="60035003" name="香柠檬草" />
+	<key id="60035007" name="香柠檬草" />
+	<key id="60035019" name="香柠檬草" feature="Mastery05" />
+	<key id="60036001" name="棉花薰衣草" />
+	<key id="60037001" name="菠萝鼠尾草" />
+	<key id="60038001" name="玫瑰老鹳草" />
+	<key id="60039005" name="鹰爪豆" feature="Mastery06" />
+	<key id="60039010" name="鹰爪豆" feature="Mastery06" />
+	<key id="60039014" name="鹰爪豆" feature="Mastery06" />
+	<key id="60039027" name="鹰爪豆" feature="Mastery06" />
+	<key id="60040001" name="百里香" feature="Mastery06" />
+	<key id="60040007" name="百里香" feature="Mastery06" />
+	<key id="60040027" name="百里香" feature="Mastery06" />
 </ms2>

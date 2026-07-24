@@ -1,112 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10900001" name="烈焰驱动" />
-  <key id="10900011" name="寒冰驱动" />
-  <key id="10900021" name="雷电驱动" />
-  <key id="10900031" name="三连斩" />
-  <key id="10900032" name="火焰三连斩" />
-  <key id="10900033" name="寒冰三连斩" />
-  <key id="10900034" name="闪电三连斩" />
-  <key id="10900041" name="符文控制" />
-  <key id="10900051" name="闪现" />
-  <key id="10900061" name="三重飞刃" />
-  <key id="10900062" name="烈焰三重飞刃" />
-  <key id="10900063" name="寒冰三重飞刃" />
-  <key id="10900064" name="SKILLNAME_10900064_NAME:[F]Develop" feature="Develop" />
-  <key id="10900065" name="闪电三重飞刃" />
-  <key id="10900071" name="剑刃冲击" />
-  <key id="10900072" name="火焰裂地斩" />
-  <key id="10900073" name="SKILLNAME_10900073_NAME:[F]Develop" feature="Develop" />
-  <key id="10900074" name="寒冰裂地斩" />
-  <key id="10900075" name="SKILLNAME_10900075_NAME:[F]Develop" feature="Develop" />
-  <key id="10900076" name="闪电裂地斩" />
-  <key id="10900077" name="SKILLNAME_10900077_NAME:[F]Develop" feature="Develop" />
-  <key id="10900078" name="SKILLNAME_10900078_NAME:[F]Develop" feature="Develop" />
-  <key id="10900081" name="魔力黑洞" />
-  <key id="10900082" name="SKILLNAME_10900082_NAME:[F]Develop" feature="Develop" />
-  <key id="10900091" name="符文盾" />
-  <key id="10900092" name="烈焰符文盾" />
-  <key id="10900093" name="SKILLNAME_10900093_NAME:[F]Develop" feature="Develop" />
-  <key id="10900094" name="寒冰符文盾" />
-  <key id="10900095" name="闪电符文盾" />
-  <key id="10900096" name="SKILLNAME_10900096_NAME:[F]Develop" feature="Develop" />
-  <key id="10900097" name="SKILLNAME_10900097_NAME:[F]Develop" feature="Develop" />
-  <key id="10900101" name="冲锋斩" />
-  <key id="10900102" name="SKILLNAME_10900102_NAME:[F]Develop" feature="Develop" />
-  <key id="10900103" name="火焰冲锋斩" />
-  <key id="10900104" name="SKILLNAME_10900104_NAME:[F]Develop" feature="Develop" />
-  <key id="10900105" name="寒冰冲锋斩" />
-  <key id="10900106" name="SKILLNAME_10900106_NAME:[F]Develop" feature="Develop" />
-  <key id="10900107" name="闪电冲锋斩" />
-  <key id="10900108" name="SKILLNAME_10900108_NAME:[F]Develop" feature="Develop" />
-  <key id="10900111" name="幻影长刀" />
-  <key id="10900112" name="SKILLNAME_10900112_NAME:[F]Develop" feature="Develop" />
-  <key id="10900121" name="月之潜能" />
-  <key id="10900131" name="月之圣命" />
-  <key id="10900141" name="长刀精通" />
-  <key id="10900151" name="无影斩" />
-  <key id="10900152" name="SKILLNAME_10900152_NAME:[F]Develop" feature="Develop" />
-  <key id="10900153" name=" 火焰无影斩" />
-  <key id="10900154" name="SKILLNAME_10900154_NAME:[F]Develop" feature="Develop" />
-  <key id="10900155" name="寒冰无影斩" />
-  <key id="10900156" name="SKILLNAME_10900156_NAME:[F]Develop" feature="Develop" />
-  <key id="10900157" name="闪电无影斩" />
-  <key id="10900158" name="SKILLNAME_10900158_NAME:[F]Develop" feature="Develop" />
-  <key id="10900161" name="符文方阵" />
-  <key id="10900171" name="次元长刀" feature="JobChange_01" />
-  <key id="10900172" name="SKILLNAME_10900172_NAME:[F]Develop" feature="Develop" />
-  <key id="10900173" name="火焰次元长刀" feature="JobChange_01" />
-  <key id="10900174" name="SKILLNAME_10900174_NAME:[F]Develop" feature="Develop" />
-  <key id="10900175" name="寒冰次元剑" feature="JobChange_01" />
-  <key id="10900176" name="SKILLNAME_10900176_NAME:[F]Develop" feature="Develop" />
-  <key id="10900177" name="闪电次元长刀" feature="JobChange_01" />
-  <key id="10900178" name="SKILLNAME_10900178_NAME:[F]Develop" feature="Develop" />
-  <key id="10900181" name="梦幻斩" feature="JobChange_01" />
-  <key id="10900182" name="SKILLNAME_10900182_NAME:[F]Develop" feature="Develop" />
-  <key id="10900183" name="SKILLNAME_10900183_NAME:[F]Develop" feature="Develop" />
-  <key id="10900191" name="符文燃烧" feature="JobChange_01" />
-  <key id="10900192" name="SKILLNAME_10900192_NAME:[F]Develop" feature="Develop" />
-  <key id="10900193" name="火焰符文引燃" feature="JobChange_01" />
-  <key id="10900194" name="SKILLNAME_10900194_NAME:[F]Develop" feature="Develop" />
-  <key id="10900195" name="SKILLNAME_10900195_NAME:[F]Develop" feature="Develop" />
-  <key id="10900196" name="寒气符文引燃" feature="JobChange_01" />
-  <key id="10900197" name="SKILLNAME_10900197_NAME:[F]Develop" feature="Develop" />
-  <key id="10900198" name="闪电符文引燃" feature="JobChange_01" />
-  <key id="10900199" name="SKILLNAME_10900199_NAME:[F]Develop" feature="Develop" />
-  <key id="10900200" name="SKILLNAME_10900200_NAME:[F]Develop" feature="Develop" />
-  <key id="10900201" name="符文启动" feature="JobChange_01" />
-  <key id="10900202" name="SKILLNAME_10900202_NAME:[F]Develop" feature="Develop" />
-  <key id="10900203" name="火焰触发符文" feature="JobChange_01" />
-  <key id="10900204" name="SKILLNAME_10900204_NAME:[F]Develop" feature="Develop" />
-  <key id="10900205" name="寒冰触发符文" feature="JobChange_01" />
-  <key id="10900206" name="SKILLNAME_10900206_NAME:[F]Develop" feature="Develop" />
-  <key id="10900207" name="闪电触发符文" feature="JobChange_01" />
-  <key id="10900208" name="SKILLNAME_10900208_NAME:[F]Develop" feature="Develop" />
-  <key id="10900211" name="五重斩" feature="JobChange_01" />
-  <key id="10900212" name="火焰五重斩" feature="JobChange_01" />
-  <key id="10900213" name="寒冰五重斩" feature="JobChange_01" />
-  <key id="10900214" name="闪电五重斩" feature="JobChange_01" />
-  <key id="10900221" name="长刀鞭" feature="JobChange_01" />
-  <key id="10900222" name="火焰长刀鞭" feature="JobChange_01" />
-  <key id="10900223" name="寒冰剑鞭" feature="JobChange_01" />
-  <key id="10900224" name="SKILLNAME_10900224_NAME:[F]Develop" feature="Develop" />
-  <key id="10900225" name="闪电长刀鞭" feature="JobChange_01" />
-  <key id="10900226" name="SKILLNAME_10900226_NAME:[F]Develop" feature="Develop" />
-  <key id="10900231" name="物理加速" feature="JobChange_01" />
-  <key id="10900232" name="SKILLNAME_10900232_NAME:[F]Develop" feature="Develop" />
-  <key id="10900241" name="长刀专家" feature="JobChange_01" />
-  <key id="10900251" name="符文专家" feature="JobChange_01" />
-  <key id="10900261" name="疯狂闪耀" feature="JobChange_02" />
-  <key id="10900262" name="SKILLNAME_10900262_NAME:[F]Develop" feature="Develop" />
-  <key id="10900263" name="SKILLNAME_10900263_NAME:[F]Develop" feature="Develop" />
-  <key id="10900264" name="SKILLNAME_10900264_NAME:[F]Develop" feature="Develop" />
-  <key id="10900265" name="SKILLNAME_10900265_NAME:[F]Develop" feature="Develop" />
-  <key id="10900266" name="SKILLNAME_10900266_NAME:[F]Develop" feature="Develop" />
-  <key id="10900271" name="刀刃行者" feature="JobChange_02" />
-  <key id="10900281" name="元素转盘" feature="JobChange_02" />
-  <key id="10900291" name="刀锋之门" feature="JobChange_02" />
-  <key id="10900292" name="火焰刀锋之门" feature="JobChange_02" />
-  <key id="10900293" name="寒冰刀锋之门" feature="JobChange_02" />
-  <key id="10900294" name="闪电刀锋之门" feature="JobChange_02" />
+	<key id="10900001" name="烈焰驱动" />
+	<key id="10900011" name="寒冰驱动" />
+	<key id="10900021" name="雷电驱动" />
+	<key id="10900031" name="三连斩" />
+	<key id="10900032" name="火焰三连斩" />
+	<key id="10900033" name="寒冰三连斩" />
+	<key id="10900034" name="闪电三连斩" />
+	<key id="10900041" name="符文控制" />
+	<key id="10900051" name="闪现" />
+	<key id="10900061" name="三重飞刃" />
+	<key id="10900062" name="烈焰三重飞刃" />
+	<key id="10900063" name="寒冰三重飞刃" />
+	<key id="10900064" name="SKILLNAME_10900064_NAME:[F]Develop" feature="Develop" />
+	<key id="10900065" name="闪电三重飞刃" />
+	<key id="10900071" name="剑刃冲击" />
+	<key id="10900072" name="火焰裂地斩" />
+	<key id="10900073" name="SKILLNAME_10900073_NAME:[F]Develop" feature="Develop" />
+	<key id="10900074" name="寒冰裂地斩" />
+	<key id="10900075" name="SKILLNAME_10900075_NAME:[F]Develop" feature="Develop" />
+	<key id="10900076" name="闪电裂地斩" />
+	<key id="10900077" name="SKILLNAME_10900077_NAME:[F]Develop" feature="Develop" />
+	<key id="10900078" name="SKILLNAME_10900078_NAME:[F]Develop" feature="Develop" />
+	<key id="10900081" name="魔力黑洞" />
+	<key id="10900082" name="SKILLNAME_10900082_NAME:[F]Develop" feature="Develop" />
+	<key id="10900091" name="符文盾" />
+	<key id="10900092" name="烈焰符文盾" />
+	<key id="10900093" name="SKILLNAME_10900093_NAME:[F]Develop" feature="Develop" />
+	<key id="10900094" name="寒冰符文盾" />
+	<key id="10900095" name="闪电符文盾" />
+	<key id="10900096" name="SKILLNAME_10900096_NAME:[F]Develop" feature="Develop" />
+	<key id="10900097" name="SKILLNAME_10900097_NAME:[F]Develop" feature="Develop" />
+	<key id="10900101" name="冲锋斩" />
+	<key id="10900102" name="SKILLNAME_10900102_NAME:[F]Develop" feature="Develop" />
+	<key id="10900103" name="火焰冲锋斩" />
+	<key id="10900104" name="SKILLNAME_10900104_NAME:[F]Develop" feature="Develop" />
+	<key id="10900105" name="寒冰冲锋斩" />
+	<key id="10900106" name="SKILLNAME_10900106_NAME:[F]Develop" feature="Develop" />
+	<key id="10900107" name="闪电冲锋斩" />
+	<key id="10900108" name="SKILLNAME_10900108_NAME:[F]Develop" feature="Develop" />
+	<key id="10900111" name="幻影长刀" />
+	<key id="10900112" name="SKILLNAME_10900112_NAME:[F]Develop" feature="Develop" />
+	<key id="10900121" name="月之潜能" />
+	<key id="10900131" name="月之圣命" />
+	<key id="10900141" name="长刀精通" />
+	<key id="10900151" name="无影斩" />
+	<key id="10900152" name="SKILLNAME_10900152_NAME:[F]Develop" feature="Develop" />
+	<key id="10900153" name=" 火焰无影斩" />
+	<key id="10900154" name="SKILLNAME_10900154_NAME:[F]Develop" feature="Develop" />
+	<key id="10900155" name="寒冰无影斩" />
+	<key id="10900156" name="SKILLNAME_10900156_NAME:[F]Develop" feature="Develop" />
+	<key id="10900157" name="闪电无影斩" />
+	<key id="10900158" name="SKILLNAME_10900158_NAME:[F]Develop" feature="Develop" />
+	<key id="10900161" name="符文方阵" />
+	<key id="10900171" name="次元长刀" feature="JobChange_01" />
+	<key id="10900172" name="SKILLNAME_10900172_NAME:[F]Develop" feature="Develop" />
+	<key id="10900173" name="火焰次元长刀" feature="JobChange_01" />
+	<key id="10900174" name="SKILLNAME_10900174_NAME:[F]Develop" feature="Develop" />
+	<key id="10900175" name="寒冰次元剑" feature="JobChange_01" />
+	<key id="10900176" name="SKILLNAME_10900176_NAME:[F]Develop" feature="Develop" />
+	<key id="10900177" name="闪电次元长刀" feature="JobChange_01" />
+	<key id="10900178" name="SKILLNAME_10900178_NAME:[F]Develop" feature="Develop" />
+	<key id="10900181" name="梦幻斩" feature="JobChange_01" />
+	<key id="10900182" name="SKILLNAME_10900182_NAME:[F]Develop" feature="Develop" />
+	<key id="10900183" name="SKILLNAME_10900183_NAME:[F]Develop" feature="Develop" />
+	<key id="10900191" name="符文燃烧" feature="JobChange_01" />
+	<key id="10900192" name="SKILLNAME_10900192_NAME:[F]Develop" feature="Develop" />
+	<key id="10900193" name="火焰符文引燃" feature="JobChange_01" />
+	<key id="10900194" name="SKILLNAME_10900194_NAME:[F]Develop" feature="Develop" />
+	<key id="10900195" name="SKILLNAME_10900195_NAME:[F]Develop" feature="Develop" />
+	<key id="10900196" name="寒气符文引燃" feature="JobChange_01" />
+	<key id="10900197" name="SKILLNAME_10900197_NAME:[F]Develop" feature="Develop" />
+	<key id="10900198" name="闪电符文引燃" feature="JobChange_01" />
+	<key id="10900199" name="SKILLNAME_10900199_NAME:[F]Develop" feature="Develop" />
+	<key id="10900200" name="SKILLNAME_10900200_NAME:[F]Develop" feature="Develop" />
+	<key id="10900201" name="符文启动" feature="JobChange_01" />
+	<key id="10900202" name="SKILLNAME_10900202_NAME:[F]Develop" feature="Develop" />
+	<key id="10900203" name="火焰触发符文" feature="JobChange_01" />
+	<key id="10900204" name="SKILLNAME_10900204_NAME:[F]Develop" feature="Develop" />
+	<key id="10900205" name="寒冰触发符文" feature="JobChange_01" />
+	<key id="10900206" name="SKILLNAME_10900206_NAME:[F]Develop" feature="Develop" />
+	<key id="10900207" name="闪电触发符文" feature="JobChange_01" />
+	<key id="10900208" name="SKILLNAME_10900208_NAME:[F]Develop" feature="Develop" />
+	<key id="10900211" name="五重斩" feature="JobChange_01" />
+	<key id="10900212" name="火焰五重斩" feature="JobChange_01" />
+	<key id="10900213" name="寒冰五重斩" feature="JobChange_01" />
+	<key id="10900214" name="闪电五重斩" feature="JobChange_01" />
+	<key id="10900221" name="长刀鞭" feature="JobChange_01" />
+	<key id="10900222" name="火焰长刀鞭" feature="JobChange_01" />
+	<key id="10900223" name="寒冰剑鞭" feature="JobChange_01" />
+	<key id="10900224" name="SKILLNAME_10900224_NAME:[F]Develop" feature="Develop" />
+	<key id="10900225" name="闪电长刀鞭" feature="JobChange_01" />
+	<key id="10900226" name="SKILLNAME_10900226_NAME:[F]Develop" feature="Develop" />
+	<key id="10900231" name="物理加速" feature="JobChange_01" />
+	<key id="10900232" name="SKILLNAME_10900232_NAME:[F]Develop" feature="Develop" />
+	<key id="10900241" name="长刀专家" feature="JobChange_01" />
+	<key id="10900251" name="符文专家" feature="JobChange_01" />
+	<key id="10900261" name="疯狂闪耀" feature="JobChange_02" />
+	<key id="10900262" name="SKILLNAME_10900262_NAME:[F]Develop" feature="Develop" />
+	<key id="10900263" name="SKILLNAME_10900263_NAME:[F]Develop" feature="Develop" />
+	<key id="10900264" name="SKILLNAME_10900264_NAME:[F]Develop" feature="Develop" />
+	<key id="10900265" name="SKILLNAME_10900265_NAME:[F]Develop" feature="Develop" />
+	<key id="10900266" name="SKILLNAME_10900266_NAME:[F]Develop" feature="Develop" />
+	<key id="10900271" name="刀刃行者" feature="JobChange_02" />
+	<key id="10900281" name="元素转盘" feature="JobChange_02" />
+	<key id="10900291" name="刀锋之门" feature="JobChange_02" />
+	<key id="10900292" name="火焰刀锋之门" feature="JobChange_02" />
+	<key id="10900293" name="寒冰刀锋之门" feature="JobChange_02" />
+	<key id="10900294" name="闪电刀锋之门" feature="JobChange_02" />
 </ms2>

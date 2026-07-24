@@ -62,7 +62,7 @@ foreach (IndividualItemDrop clientDropBox in clientIndividualDropBoxes) {
 
             // fix server item grade
             if (serverItem.grade.Length == 0) {
-                serverItem.grade = [..clientItem.grade];
+                serverItem.grade = [.. clientItem.grade];
             }
         }
 

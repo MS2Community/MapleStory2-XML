@@ -1,52 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="0" name="没有标志" feature="Season1" />
-  <key id="11" name="老兵" feature="Season1" />
-  <key id="1" name="超级强化师" feature="Season1" />
-  <key id="2" name="顶级设计师" feature="Season1" />
-  <key id="3" name="真正的冠军" feature="Season1" />
-  <key id="4" name="明星建筑师" feature="Season1" />
-  <key id="5" name="成就达人" feature="Season1" />
-  <key id="6" name="钓鱼王" feature="Fishing" />
-  <key id="7" name="乐师" feature="MusicInstrument" />
-  <key id="8" name="NAMETAGSYMBOLTITLE_8_NAME:[F]Balrogitem3rd" feature="Balrogitem3rd" />
-  <key id="10" name="冒险岛数据之星" feature="Season3" locale="CN" />
-  <key id="12" name="会员" feature="VIP" />
-  <key id="13" name="心悦会员" feature="Season1" locale="CN" />
-  <key id="14" name="红枫英雄" feature="Season1" locale="CN" />
-  <key id="15" name="扎昆征服者" feature="Zakum01" />
-  <key id="17" name="WeGame达人" locale="CN" />
-  <key id="18" name="GM" locale="CN" />
-  <key id="19" name="尝试进阶的" feature="ItemMerge" />
-  <key id="20" name="进阶者" feature="ItemMerge" />
-  <key id="21" name="疯狂进阶" feature="ItemMerge" />
-  <key id="22" name="光之战士" />
-  <key id="24" name="回头之人" feature="Mentoring" />
-  <key id="25" name="受祝福的生日" feature="HappyBirthday" locale="CN" />
-  <key id="26" name="联盟的守护者" feature="FameContents" locale="CN" />
-  <key id="27" name="黄金焰火蝶" feature="LunaYear2018" />
-  <key id="28" name="菇岛求生" feature="SurvivalContents01" />
-  <key id="29" name="冒险家" feature="AdventureLevel" />
-  <key id="30" name="刚转职的" feature="JobChange_01" />
-  <key id="31" name="夏日斗燃" locale="CN" />
-  <key id="35" name="击败伊修罗的" feature="LapentaDungeon" />
-  <key id="36" name="击败兰比斯的" feature="LapentaDungeon" />
-  <key id="37" name="击败菲莉雅的" feature="LapentaDungeon" />
-  <key id="38" name="乔迪的朋友" />
-  <key id="39" name="秋之祝福" locale="CN" />
-  <key id="40" name="满月" locale="CN" />
-  <key id="41" name="共度1周年的" locale="CN" />
-  <key id="42" name="帕普拉图斯的钟表" locale="CN" />
-  <key id="43" name="职业钓手" feature="Fishing02" />
-  <key id="44" name="冠军钓手" feature="Fishing02" />
-  <key id="45" name="操纵危险力量的" feature="Lapenshard01" />
-  <key id="46" name="神秘的埃内尔" />
-  <key id="48" name="红色蔷薇花的祝福" locale="CN" />
-  <key id="49" name="黄色蔷薇花的祝福" locale="CN" />
-  <key id="50" name="樱花之歌" locale="CN" />
-  <key id="53" name="共度2周年的" feature="Event" locale="CN" />
-  <key id="54" name="黑猫的祝福" locale="CN" />
-  <key id="55" name="白猫的祝福" locale="CN" />
-  <key id="58" name="最佳挑战者" />
+	<key id="0" name="没有标志" feature="Season1" />
+	<key id="1" name="超级强化师" feature="Season1" />
+	<key id="2" name="顶级设计师" feature="Season1" />
+	<key id="3" name="真正的冠军" feature="Season1" />
+	<key id="4" name="明星建筑师" feature="Season1" />
+	<key id="5" name="成就达人" feature="Season1" />
+	<key id="6" name="钓鱼王" feature="Fishing" />
+	<key id="7" name="乐师" feature="MusicInstrument" />
+	<key id="8" name="NAMETAGSYMBOLTITLE_8_NAME:[F]Balrogitem3rd" feature="Balrogitem3rd" />
+	<key id="10" name="冒险岛数据之星" feature="Season3" locale="CN" />
+	<key id="11" name="老兵" feature="Season1" />
+	<key id="12" name="会员" feature="VIP" />
+	<key id="13" name="心悦会员" feature="Season1" locale="CN" />
+	<key id="14" name="红枫英雄" feature="Season1" locale="CN" />
+	<key id="15" name="扎昆征服者" feature="Zakum01" />
+	<key id="17" name="WeGame达人" locale="CN" />
+	<key id="18" name="GM" locale="CN" />
+	<key id="19" name="尝试进阶的" feature="ItemMerge" />
+	<key id="20" name="进阶者" feature="ItemMerge" />
+	<key id="21" name="疯狂进阶" feature="ItemMerge" />
+	<key id="22" name="光之战士" />
+	<key id="24" name="回头之人" feature="Mentoring" />
+	<key id="25" name="受祝福的生日" feature="HappyBirthday" locale="CN" />
+	<key id="26" name="联盟的守护者" feature="FameContents" locale="CN" />
+	<key id="27" name="黄金焰火蝶" feature="LunaYear2018" />
+	<key id="28" name="菇岛求生" feature="SurvivalContents01" />
+	<key id="29" name="冒险家" feature="AdventureLevel" />
+	<key id="30" name="刚转职的" feature="JobChange_01" />
+	<key id="31" name="夏日斗燃" locale="CN" />
+	<key id="35" name="击败伊修罗的" feature="LapentaDungeon" />
+	<key id="36" name="击败兰比斯的" feature="LapentaDungeon" />
+	<key id="37" name="击败菲莉雅的" feature="LapentaDungeon" />
+	<key id="38" name="乔迪的朋友" />
+	<key id="39" name="秋之祝福" locale="CN" />
+	<key id="40" name="满月" locale="CN" />
+	<key id="41" name="共度1周年的" locale="CN" />
+	<key id="42" name="帕普拉图斯的钟表" locale="CN" />
+	<key id="43" name="职业钓手" feature="Fishing02" />
+	<key id="44" name="冠军钓手" feature="Fishing02" />
+	<key id="45" name="操纵危险力量的" feature="Lapenshard01" />
+	<key id="46" name="神秘的埃内尔" />
+	<key id="48" name="红色蔷薇花的祝福" locale="CN" />
+	<key id="49" name="黄色蔷薇花的祝福" locale="CN" />
+	<key id="50" name="樱花之歌" locale="CN" />
+	<key id="53" name="共度2周年的" feature="Event" locale="CN" />
+	<key id="54" name="黑猫的祝福" locale="CN" />
+	<key id="55" name="白猫的祝福" locale="CN" />
+	<key id="58" name="最佳挑战者" />
 </ms2>

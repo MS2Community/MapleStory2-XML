@@ -36,12 +36,12 @@
 	<key id="40501012" level="1" name="기절" tooltipDescription="화염폭발에 의해, 3초간 기절상태가 되었습니다." feature="PirateOcean" />
 	<key id="40501013" level="1" name="속박 준비" tooltipDescription="잠시 후, 큰 피해와 함께 속박 상태가 됩니다." feature="PirateOcean" />
 	<key id="40501014" level="1" name="속박" tooltipDescription="속박 상태가 되어 움직일 수가 없습니다." feature="PirateOcean" />
-	<key id="40600101" level="1" name="격노" tooltipDescription="분노한 상태 입니다.\n받는 피해가 50% 감소하고 빠르게 공격합니다." feature="Season1" />
 	<key id="40600010" level="1" name="기절" tooltipDescription="기절하여 행동 불가" feature="PirateOcean" />
 	<key id="40600013" level="1" name="수면" tooltipDescription="잠자는 동안 행동 불가" feature="PirateOcean" />
 	<key id="40600014" level="1" name="현혹" tooltipDescription="현혹되어 동료를 공격할 수 있습니다.\n물리 및 마법 공격력 감소" feature="PirateOcean" />
 	<key id="40600024" level="1" name="기절" tooltipDescription="강력한 지뢰 충격으로 잠시 기절합니다." feature="Kritias_Turka02" />
 	<key id="40600045" level="1" name="방어상승" tooltipDescription="방패 방어 효과에 의해\n방어력 크게 상승" feature="PirateOcean" />
+	<key id="40600101" level="1" name="격노" tooltipDescription="분노한 상태 입니다.\n받는 피해가 50% 감소하고 빠르게 공격합니다." feature="Season1" />
 	<key id="42030101" level="1" name="느려짐" tooltipDescription="이동 속도가 감소합니다." feature="Fieldwar01" />
 	<key id="42030111" level="1" name="느려짐" tooltipDescription="이동 속도가 감소합니다." feature="Fieldwar01" />
 	<key id="42030121" level="1" name="혼란" tooltipDescription="이동 방향이 반대가 됩니다." feature="Fieldwar01" />
@@ -92,8 +92,8 @@
 	<key id="49218002" level="1" name="공격력 강화" tooltipDescription="공격력이 100% 증가합니다." />
 	<key id="49219001" level="1" name="추가 강화효과" tooltipDescription="공격력이 120% 증가합니다.\n방어력이 120% 증가합니다." />
 	<key id="49287001" level="1" name="깊은 상처" tooltipDescription="지속적으로 출혈 대미지\n방어력이 10% 감소합니다.\n4회 중첩 시 폭발합니다." />
-	<key id="49287003" level="1" name="곪아버린 상처" />
 	<key id="49287002" level="1" name="카운트다운" tooltipDescription="기절하여 행동 불가" />
+	<key id="49287003" level="1" name="곪아버린 상처" />
 	<key id="49287005" level="1" name="각성" tooltipDescription="블리체가 각성합니다.\n각성의 힘으로 데미지가 15% 증가합니다." />
 	<key id="49287005" level="2" name="각성" tooltipDescription="블리체가 각성합니다.\n각성의 힘으로 데미지가 200% 증가합니다." />
 	<key id="49287006" level="1" name="각성" tooltipDescription="샤텐이 각성합니다.\n각성의 힘으로 데미지가 15% 증가합니다." />
@@ -147,7 +147,6 @@
 	<key id="49289071" level="1" name="강해짐" tooltipDescription="전격 파도안에서 홀슈타트의 능력이 상승합니다." feature="Colosseum02" />
 	<key id="49289072" level="1" name="느려짐" tooltipDescription="전격 파도에 닿았습니다. 이동속도가 대폭 감소합니다." feature="Colosseum02" />
 	<key id="49289094" level="1" name="기절" tooltipDescription="기절하여 행동 불가" feature="Colosseum02" />
-	<key id="49990001" level="1" name="민감조작 불가" tooltipDescription="민감조작을 할 수 없습니다" />
 	<key id="49907031" level="1" name="출혈" tooltipDescription="강한 공격에 출혈이 발생했습니다.\n1초마다 3%의 체력이 감소합니다." />
 	<key id="49908001" level="1" name="이속저하" tooltipDescription="이동속도, 공격속도가 20% 감소합니다.\n최대 2회까지 중첩 가능" />
 	<key id="49908211" level="1" name="혼란" tooltipDescription="정신을 차릴 수가 없습니다!\n상하와 좌우 방향이 반대로 바뀝니다." />
@@ -161,6 +160,7 @@
 	<key id="49908651" level="1" name="냉기" tooltipDescription="냉기가 몸을 감쌉니다.\n이동 속도와 공격속도가 50% 감소합니다." />
 	<key id="49908661" level="1" name="감전" tooltipDescription="감전되어 온 몸에 전기가 흐르고 있습니다.\n3초마다 3%의 대미지를 입습니다.\n마법 대미지 저항력이 85% 감소합니다." />
 	<key id="49908671" level="1" name="어둠의 속삭임" tooltipDescription="어둠의 기운이 5초 동안 시야를 방해합니다." />
+	<key id="49990001" level="1" name="민감조작 불가" tooltipDescription="민감조작을 할 수 없습니다" />
 	<key id="49999992" level="1" name="영혼의 도움" tooltipDescription="이동속도, 공격속도가 20% 증가합니다." />
 	<key id="50000001" level="1" name="중독" tooltipDescription="지속적으로 독 대미지" />
 	<key id="50000002" level="1" name="중독" tooltipDescription="지속적으로 독 대미지" />
@@ -661,7 +661,6 @@
 	<key id="50005310" level="1" name="태양빛 저주의 피해" tooltipDescription="지속적으로 저주 대미지가 중첩됨 \n공격력과 명중률이 점차 감소됨" feature="LapentaDungeon" />
 	<key id="50005312" level="1" name="달빛 저주의 피해" tooltipDescription="지속적으로 저주 대미지가 중첩됨 \n공격력과 명중률이 점차 감소됨" feature="LapentaDungeon" />
 	<key id="50005314" level="1" name="레드 라펜타의 보호" tooltipDescription="레드 라펜타의 영향을 받아\n태양빛과 달빛의 저주를 받지 않게 됨\n이슈라의 암흑영역의 피해를 받지 않음" feature="LapentaDungeon" />
-	<key id="50005500" level="1" name="영혼의 속박" tooltipDescription="알 수 없는 강한 힘에 영혼이 속박되었습니다.\n영혼의 속박 상태에서는 모든 비석을 치울 수 없으며 제자리 부활도 사용할 수 없습니다." />
 	<key id="50005319" level="1" name="검은색 페인트의 피해" tooltipDescription="지속적으로 저주 대미지" feature="DungeonOpen70CH5" />
 	<key id="50005320" level="1" name="빨간색 페인트" tooltipDescription="빨간색 영역에 있어야 안전함" feature="DungeonOpen70CH5" />
 	<key id="50005321" level="1" name="노란색 페인트" tooltipDescription="노란색 영역에 있어야 안전함" feature="DungeonOpen70CH5" />
@@ -672,6 +671,7 @@
 	<key id="50005329" level="1" name="공격력 감소" tooltipDescription="공격력 90% 감소" feature="DungeonOpen70CH5" />
 	<key id="50005330" level="1" name="공격력 감소" tooltipDescription="공격력 90% 감소" feature="DungeonOpen70CH5" />
 	<key id="50005331" level="1" name="공격력 감소" tooltipDescription="공격력 90% 감소" feature="DungeonOpen70CH5" />
+	<key id="50005500" level="1" name="영혼의 속박" tooltipDescription="알 수 없는 강한 힘에 영혼이 속박되었습니다.\n영혼의 속박 상태에서는 모든 비석을 치울 수 없으며 제자리 부활도 사용할 수 없습니다." />
 	<key id="50006000" level="1" name="대미지 극 감소 : 화염 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 화염 속성 공격에 매우 약함" feature="Kritias_Zakum01" />
 	<key id="50006001" level="1" name="대미지 극 감소 : 냉기 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 냉기 속성 공격에 매우 약함" feature="Kritias_Zakum01" />
 	<key id="50006002" level="1" name="대미지 극 감소 : 전격 속성 약화" tooltipDescription="보호의 효과로 대미지 99% 감소\n단 전격 속성 공격에 매우 약함" feature="Kritias_Zakum01" />
@@ -864,8 +864,8 @@
 	<key id="60126002" level="1" name="마왕의 분노 : 혹한의 파편" tooltipDescription="일정 범위 내 얼음의 파편이 날아가 적을 공격합니다." />
 	<key id="60127002" level="1" name="마왕의 분노 : 분노의 심판" tooltipDescription="특정 적의 위치에 심판의 번개가 내려쳐 공격합니다." />
 	<key id="60128001" level="1" name="마왕의 분노 : 신성한 구속" tooltipDescription="적을 구속하는 신성한 기운을 발사합니다." />
-	<key id="60128002" level="1" name="신성한 구속" tooltipDescription="구속되어 이동이 불가합니다." />
 	<key id="60128001" level="2" name="마왕의 분노 : 신성한 구속" tooltipDescription="적을 구속하는 신성한 기운을 발사합니다." />
+	<key id="60128002" level="1" name="신성한 구속" tooltipDescription="구속되어 이동이 불가합니다." />
 	<key id="60128002" level="2" name="신성한 구속" tooltipDescription="구속되어 이동이 불가합니다." />
 	<key id="60129001" level="1" name="마왕의 분노 : 암흑 소용돌이" tooltipDescription="어두운 기운이 적을 끌어당깁니다." />
 	<key id="60130001" level="1" name="마왕의 분노 : 착취" tooltipDescription="특정 횟수 만큼 공격을 하면 체력을 회복합니다." />
@@ -904,8 +904,8 @@
 	<key id="61001061" level="1" name="펫 스킬 : 스턴" tooltipDescription="행동 및 이동 불가" />
 	<key id="61100011" level="1" name="펫 스킬 : 이동속도 증가" tooltipDescription="이동속도 5% 증가" />
 	<key id="61100021" level="1" name="펫 스킬 : 공격력 감소" tooltipDescription="공격력 2% 감소" />
-	<key id="61100091" level="1" name="펫 스킬 : 공격력 감소" tooltipDescription="공격력 2% 감소" />
 	<key id="61100090" level="1" name="펫 스킬 : 크리티컬 명중 감소" tooltipDescription="크리티컬 명중 90 감소" />
+	<key id="61100091" level="1" name="펫 스킬 : 공격력 감소" tooltipDescription="공격력 2% 감소" />
 	<key id="61100111" level="1" name="저주의 자쿰" tooltipDescription="방어력 0.3% 감소\n최대 10회까지 중첩" />
 	<key id="61100121" level="1" name="수호의 자쿰" tooltipDescription="체력이 30% 이하일 때, 1200 만큼 피해를 흡수하는 보호막 생성" />
 	<key id="61100132" level="1" name="분노의 자쿰" tooltipDescription="기절하여 행동 불가" />
@@ -948,8 +948,8 @@
 	<key id="62100107" level="1" name="오버파워2형태_제거" tooltipDescription="오버파워2형태_제거" feature="Kritias_Turka01" />
 	<key id="62100107" level="2" name="오버파워2형태_제거" tooltipDescription="오버파워2형태_제거" feature="Kritias_Turka01" />
 	<key id="62100108" level="1" name="오버파워3형태" tooltipDescription="아르케온은 시간이 지날수록 방어력이 증가 합니다." feature="Kritias_Turka01" />
-	<key id="62100109" level="1" name="오버파워3형태" tooltipDescription='시간이 지날수록 방어력이 증가 합니다.\n최대 20회 중첩시, &quot;아르케온 밤&quot; 스킬이 발동되, 모든 플레이어를 몰살시킵니다.\n주변 폭발물에 피해를 입으면 중첩 수치가 떨어집니다.' feature="Kritias_Turka01" />
-	<key id="62100110" level="1" name="아르케온 밤 준비 완료" tooltipDescription='&quot;아르케온 밤&quot; 이 준비 완료 되었습니다. \n곧 모든 플레이어를 몰살 시킬 것입니다.' feature="Kritias_Turka01" />
+	<key id="62100109" level="1" name="오버파워3형태" tooltipDescription="시간이 지날수록 방어력이 증가 합니다.\n최대 20회 중첩시, &quot;아르케온 밤&quot; 스킬이 발동되, 모든 플레이어를 몰살시킵니다.\n주변 폭발물에 피해를 입으면 중첩 수치가 떨어집니다." feature="Kritias_Turka01" />
+	<key id="62100110" level="1" name="아르케온 밤 준비 완료" tooltipDescription="&quot;아르케온 밤&quot; 이 준비 완료 되었습니다. \n곧 모든 플레이어를 몰살 시킬 것입니다." feature="Kritias_Turka01" />
 	<key id="62100111" level="1" name="오버파워3형태_제거" tooltipDescription="오버파워3형태_제거" feature="Kritias_Turka01" />
 	<key id="62100111" level="2" name="오버파워3형태_제거" tooltipDescription="오버파워3형태_제거" feature="Kritias_Turka01" />
 	<key id="62100121" level="1" name="폭주" tooltipDescription="화가난 상태 입니다.\n피해를 입힐 수 없는 상태가 되었습니다." feature="Kritias_Turka01" />
@@ -1125,6 +1125,8 @@
 	<key id="70000173" level="3" name="난투본능" tooltipDescription="적과 아군을 가리지 않고 공격하게 되었습니다!\nHP 증가 및 경직에 면역\n버프 초기화" />
 	<key id="70000173" level="4" name="난투본능" tooltipDescription="적과 아군을 가리지 않고 공격하게 되었습니다!\nHP 증가 및 경직에 면역\n버프 초기화" />
 	<key id="70000174" level="1" name="능력 보정" tooltipDescription="이 몬스터에게는 몬스터 보다 강력한 모험가의 능력치가 보정됩니다." />
+	<key id="70000175" level="1" name="Combat Experience +5%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000176" level="1" name="Combat Experience +10%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
 	<key id="70000177" level="1" name="(이벤트) 필드 대미지 증가" tooltipDescription="물리/마법 대미지가 10% 증가합니다.\n해당 필드에서 나갈 경우 효과가 사라집니다." />
 	<key id="70000177" level="2" name="(이벤트) 필드 대미지 증가" tooltipDescription="물리/마법 대미지가 15% 증가합니다.\n해당 필드에서 나갈 경우 효과가 사라집니다." />
 	<key id="70000177" level="3" name="(이벤트) 필드 대미지 증가" tooltipDescription="물리/마법 대미지가 20% 증가합니다.\n해당 필드에서 나갈 경우 효과가 사라집니다." />
@@ -1134,6 +1136,20 @@
 	<key id="70000177" level="7" name="(이벤트) 필드 대미지 증가" tooltipDescription="물리/마법 대미지가 40% 증가합니다.\n해당 필드에서 나갈 경우 효과가 사라집니다." />
 	<key id="70000177" level="8" name="(이벤트) 필드 대미지 증가" tooltipDescription="물리/마법 대미지가 45% 증가합니다.\n해당 필드에서 나갈 경우 효과가 사라집니다." />
 	<key id="70000177" level="9" name="(이벤트) 필드 대미지 증가" tooltipDescription="물리/마법 대미지가 50% 증가합니다.\n해당 필드에서 나갈 경우 효과가 사라집니다." />
+	<key id="70000178" level="1" name="Combat Experience +15%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000179" level="1" name="Combat Experience +20%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000180" level="1" name="Combat Experience +25%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000181" level="1" name="Combat Experience +30%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000182" level="1" name="Combat Experience +40%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000183" level="1" name="Combat Experience +50%" tooltipDescription="Gain additional combat experience from defeating other players in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000184" level="1" name="Survival Experience +5%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000185" level="1" name="Survival Experience +10%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000186" level="1" name="Survival Experience +15%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000187" level="1" name="Survival Experience +20%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000188" level="1" name="Survival Experience +25%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000189" level="1" name="Survival Experience +30%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000190" level="1" name="Survival Experience +40%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
+	<key id="70000191" level="1" name="Survival Experience +50%" tooltipDescription="Gain additional survival experience in Mushking Royale. This experience contributes to your Royale Level." feature="SurvivalContents03" />
 	<key id="70000202" level="1" name="(이벤트) 카오스 레이드 던전 대미지 증가" tooltipDescription="물리/마법 대미지가 10% 증가합니다.\n던전에서 나갈 경우 효과가 사라집니다." feature="ChaosRaid" />
 	<key id="70000202" level="2" name="(이벤트) 카오스 레이드 던전 대미지 증가" tooltipDescription="물리/마법 대미지가 15% 증가합니다.\n던전에서 나갈 경우 효과가 사라집니다." feature="ChaosRaid" />
 	<key id="70000202" level="3" name="(이벤트) 카오스 레이드 던전 대미지 증가" tooltipDescription="물리/마법 대미지가 20% 증가합니다.\n던전에서 나갈 경우 효과가 사라집니다." feature="ChaosRaid" />
@@ -1151,6 +1167,8 @@
 	<key id="70001051" level="1" name="저체온증 중첩" tooltipDescription="저체온증 증상이 심해지고 있습니다.\n물에 계속 있으면 위험합니다!" feature="SurvivalContents01" />
 	<key id="70001061" level="1" name="추락" tooltipDescription="높은 곳에서 떨어져 크게 다쳤습니다.\n머쉬킹 챔피언십에서 탈락했습니다." feature="SurvivalContents01" />
 	<key id="70001091" level="1" name="추락" tooltipDescription="높은 곳에서 떨어져 크게 다쳤습니다.\n머쉬킹 챔피언십에서 탈락했습니다." feature="SurvivalContents01" />
+	<key id="70001111" level="1" name="Party Pep" tooltipDescription="Use an emote next to a party member to treat their status effects." feature="SurvivalContentsTeam" />
+	<key id="70001121" level="1" name="Party Pep" tooltipDescription="Use an emote next to a party member to treat their status effects." feature="SurvivalContentsTeam" />
 	<key id="70002001" level="1" name="사념의 원한 : 공격력 증가" tooltipDescription="사념의 원한이 쌓여 공격력이 증가합니다." feature="ChronicleDungeon60_01" />
 	<key id="70002011" level="1" name="사념의 원한 : HP 회복" tooltipDescription="사념의 원한이 쌓여 HP를 회복합니다." feature="ChronicleDungeon60_01" />
 	<key id="70002021" level="1" name="사념의 원한 : 공격속도 증가" tooltipDescription="사념의 원한이 쌓여 공격속도가 증가합니다." feature="ChronicleDungeon60_01" />
@@ -1187,6 +1205,23 @@
 	<key id="70002361" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar01" />
 	<key id="70002391" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar02" />
 	<key id="70002401" level="1" name="군단의 결속 : 무적" tooltipDescription="군단이 결속합니다.\n무적 상태입니다." feature="Fieldwar02" />
+	<key id="70002501" level="1" name="拥有资源3" tooltipDescription="拥有资源为3个时施加的增益，开箱使用" feature="Develop" />
+	<key id="70002502" level="1" name="拥有资源6" tooltipDescription="拥有资源为5个时施加的增益，开箱使用" feature="Develop" />
+	<key id="70002503" level="1" name="拥有资源9" tooltipDescription="拥有资源为7个时施加的增益，开箱使用" feature="Develop" />
+	<key id="70002504" level="1" name="累积资源" tooltipDescription="拥有资源累积用" feature="Develop" />
+	<key id="70002511" level="1" name="总资源" tooltipDescription="计算总资源使用 最多20" feature="Develop" />
+	<key id="70002512" level="1" name="KORADDITIONALDESCRIPTION_70002512_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002512_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002521" level="1" name="KORADDITIONALDESCRIPTION_70002521_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002521_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002522" level="1" name="KORADDITIONALDESCRIPTION_70002522_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002522_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002523" level="1" name="KORADDITIONALDESCRIPTION_70002523_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002523_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002524" level="1" name="累积资源" tooltipDescription="拥有资源累积用" feature="Develop" />
+	<key id="70002531" level="1" name="总资源" tooltipDescription="计算总资源使用 最多20" feature="Develop" />
+	<key id="70002532" level="1" name="KORADDITIONALDESCRIPTION_70002532_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002532_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002541" level="1" name="渗透组增益" tooltipDescription="渗透后发放增益" feature="Develop" />
+	<key id="70002551" level="1" name="删除渗透组增益" tooltipDescription="删除渗透对象的增益" feature="Develop" />
+	<key id="70002581" level="1" name="KORADDITIONALDESCRIPTION_70002581_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002581_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002591" level="1" name="KORADDITIONALDESCRIPTION_70002591_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002591_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
+	<key id="70002601" level="1" name="KORADDITIONALDESCRIPTION_70002601_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002601_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
 	<key id="71000007" level="1" name="오르데의 매직 배리어" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n받는 피해량 25% 감소" />
 	<key id="71000008" level="1" name="오르데의 집중의 마법진" tooltipDescription="마법진으로부터 마력을 흡수하였습니다.\n물리 공격력과 마법 공격력 30% 증가" />
 	<key id="71000012" level="1" name="뜨거운 용기" tooltipDescription="몸을 감도는 기운이 느껴집니다." feature="GuildRaid01" />
@@ -1200,8 +1235,9 @@
 	<key id="71000020" level="1" name="가득찬 춤의 정기" tooltipDescription="기운이 가득 차오른 상태입니다." feature="GuildRaid01" />
 	<key id="71000021" level="1" name="가득찬 끈질긴 생명력" tooltipDescription="기운이 가득 차오른 상태입니다." feature="GuildRaid01" />
 	<key id="71000049" level="1" name="태초의 보호막" tooltipDescription="보호막이 있는 동안 피해를 입지 않습니다." feature="SurvivalContents01" />
-	<key id="71000053" level="1" name="태초의 보호막" tooltipDescription="보호막이 있는 동안 피해를 입지 않습니다." feature="SurvivalContents01" />
 	<key id="71000052" level="1" name="위치 추적기" tooltipDescription="미니맵에서 10초 동안 다른 참가자의 위치를 알 수 있습니다." feature="SurvivalContents01" />
+	<key id="71000052" level="2" name="Toady&apos;s Prank" tooltipDescription="Reveals the position of other players on the minimap." feature="SurvivalContentsTeam" />
+	<key id="71000053" level="1" name="태초의 보호막" tooltipDescription="보호막이 있는 동안 피해를 입지 않습니다." feature="SurvivalContents01" />
 	<key id="71000055" level="1" name="이동속도 저하" tooltipDescription="끈적끈적한 바닥 때문에 이동 속도가 느려집니다." feature="SurvivalContents01" />
 	<key id="71000056" level="1" name="게으름 포자" feature="SurvivalContents01" />
 	<key id="71000057" level="1" name="게으름 포자" feature="SurvivalContents01" />
@@ -1215,6 +1251,9 @@
 	<key id="71000065" level="1" name="드높은 체력의 기운" tooltipDescription="체력 100 증가" feature="SurvivalContents01" />
 	<key id="71000066" level="1" name="신속한 이동의 기운" tooltipDescription="이동 속도 20% 증가" feature="SurvivalContents01" />
 	<key id="71000067" level="1" name="멍해짐" tooltipDescription="멍해져서 잠시 이동 속도가 감소합니다." feature="SurvivalContents01" />
+	<key id="71000075" level="1" name="Toady&apos;s Prank" tooltipDescription="Increases movement speed and jump by 200%." feature="SurvivalContentsTeam" />
+	<key id="71000076" level="1" name="Toady&apos;s Prank" tooltipDescription="Decreases skill cooldown by 50%." feature="SurvivalContentsTeam" />
+	<key id="71000077" level="1" name="Special Bravery Aura" tooltipDescription="You&apos;ve received the Mushking&apos;s blessing. Increases physical attack and magic attack by 500%." feature="SurvivalTutorial" />
 	<key id="71001001" level="1" name="중독" tooltipDescription="독성이 있는 늪에 빠져 중독되었습니다." feature="SurvivalContents01" />
 	<key id="71001011" level="1" name="미니 퍼즐 도전자!" tooltipDescription="우연히 마주친 퍼즐에 도전합니다. \n도전자만이 보상을 획득할 자격을 가집니다." feature="Kritias_2018_12" />
 	<key id="71001013" level="1" name="도전 성공!" tooltipDescription="도전에 성공하여 황금상자를 열 수 있습니다. \n(시간이 경과하면 상자를 열 수 없습니다.) " feature="Kritias_2018_12" />
@@ -1247,8 +1286,8 @@
 	<key id="73000007" level="1" name="아르케온 탑승" tooltipDescription="아르케온에 탑승했습니다." feature="Kritias_Turka02" />
 	<key id="73000008" level="1" name="아르케온 탑승" tooltipDescription="아르케온에 탑승했습니다." feature="Kritias_Turka02" />
 	<key id="73000010" level="1" name="아르케온 탑승" tooltipDescription="아르케온에 탑승했습니다." feature="Kritias_Turka02" />
-	<key id="73000011" level="1" name="아르케온 탑승" tooltipDescription="아르케온에 탑승했습니다." feature="Kritias_Turka02" />
 	<key id="73000011" level="1" name="아르케온 델타 탑승" tooltipDescription="아르케온 델타에 탑승했습니다." feature="Kritias_Turka03" />
+	<key id="73000011" level="1" name="아르케온 탑승" tooltipDescription="아르케온에 탑승했습니다." feature="Kritias_Turka02" />
 	<key id="73000012" level="1" name="아르케온 델타 탑승" tooltipDescription="아르케온 델타에 탑승했습니다." feature="Kritias_Turka03" />
 	<key id="73000100" level="1" name="붉은색 코어 에너지" tooltipDescription="붉은색 코어의 힘을 얻어 공격력이 증가합니다." feature="Kritias_Turka02" />
 	<key id="73000101" level="1" name="초록색 코어 에너지" tooltipDescription="초록색 코어의 힘을 얻어 체력이 증가합니다." feature="Kritias_Turka02" />
@@ -1287,6 +1326,19 @@
 	<key id="82000011" level="1" name="현재 HP가 20% 이하이면 머리 위 화살표 생성" />
 	<key id="82000021" level="1" name="주변의 물건 조사 시 3초 간 이동속도 크게 증가\n(실내의 건설/생활기술 자재 조사에는 효과 미적용)" />
 	<key id="82000022" level="1" name="조사원의 펜던트" tooltipDescription="이동속도 크게 증가" />
+	<key id="89000001" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 36.7%" />
+	<key id="89000002" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 : 25.2%" />
+	<key id="89000003" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 49%" />
+	<key id="89000004" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 : 36%" />
+	<key id="89000005" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 2040\n(실적용 804)\nNA 60 엑설런트" />
+	<key id="89000006" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 2750\n펫-KR 70 엑설런트\n장비-레전더리\n전투력 실적용 6500" />
+	<key id="89000007" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 4100\n펫-KR 70 레전더리\n장비-레전더리\n전투력 실적용 9691" />
+	<key id="89000008" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 3150\n펫-CN 70 엑설런트\n장비-레전더리\n전투력 실적용 7445" />
+	<key id="89000009" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 4750\n펫-CN 70 레전더리\n장비-레전더리\n전투력 실적용 11227" />
+	<key id="89000010" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 옵션 : 18%" />
+	<key id="89000011" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 1994\n(실적용 785)\nNA 60 엑설런트" />
+	<key id="89000012" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 4100\n( 실적용 1615)\n펫-KR 70 레전더리" />
+	<key id="89000013" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 4750\n(실적용 1871)\n펫-CN 70 레전더리" />
 	<key id="90000022" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 4 회복" />
 	<key id="90000023" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 4 회복" />
 	<key id="90000024" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 4 회복" />
@@ -1434,6 +1486,7 @@
 	<key id="90000234" level="1" name="마법사의 물약" tooltipDescription="마법 공격력 3% 증가" />
 	<key id="90000235" level="1" name="체력의 물약" tooltipDescription="최대 HP 5% 증가" />
 	<key id="90000236" level="1" name="방어의 물약" tooltipDescription="방어력 3% 증가" />
+	<key id="90000237" level="1" name="목소리 변조" tooltipDescription="헬륨가스를 들이마셔 목소리가 바뀌었습니다." />
 	<key id="90000239" level="1" name="100일의 축복" tooltipDescription="STR 7 증가\nINT 7 증가\nDEX 7 증가\nLUK 7 증가" />
 	<key id="90000240" level="1" name="기념품 효과" tooltipDescription="명중 4 증가" />
 	<key id="90000241" level="1" name="기념품 효과" tooltipDescription="회피 4 증가" />
@@ -1750,6 +1803,8 @@
 	<key id="90000742" level="1" name="지옥불꽃 중화용 마법크림" tooltipDescription="인페르녹의 지옥불꽃으로부터 보호" />
 	<key id="90000743" level="1" name="휴대용 악령 차폐 장치" tooltipDescription="인페르녹의 지옥의 악령으로부터 보호" />
 	<key id="90000746" level="1" name="별가루 초콜릿" tooltipDescription="물리, 마법 공격력 3% 증가, 최대 HP 5% 증가, 이동속도 5% 증가" />
+	<key id="90000747" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 : 34%" />
+	<key id="90000748" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 35%" />
 	<key id="90000749" level="1" name="연주 경험치 2배 쿠폰 (30분)" tooltipDescription="연주 경험치 획득량 2배 증가" />
 	<key id="90000750" level="1" name="황금 나비의 축복" tooltipDescription="보스 공격 시 대미지 3% 증가\n방어력 관통 3% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
 	<key id="90000751" level="1" name="연합의 수호" tooltipDescription="일반 몬스터 공격 시 대미지 3% 증가\n공격속도 3% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
@@ -2136,10 +2191,11 @@
 	<key id="90000827" level="1" name="맛있는 체다 핫도그" tooltipDescription="최대 HP 250 증가" />
 	<key id="90000836" level="1" name="무지개 마그넷 미끼" tooltipDescription="$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001153$$pp:를,을$ 획득할 수 있다." />
 	<key id="90000836" level="1" name="무지개 마그넷 미끼" tooltipDescription="$map:63000060$에서만 사용 가능한 특별한 마그넷 미끼이다. $map:63000060$에서 낚시를 하면 일정 확률로 $item:30001344$$pp:를,을$ 획득할 수 있다." locale="NA" />
+	<key id="90000837" level="1" name="KORADDITIONALDESCRIPTION_90000837_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_90000837_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
 	<key id="90000838" level="1" name="버닝 효과" tooltipDescription="9레벨에서 70레벨까지 1레벨업 시 \n보너스 +2레벨을 적용" />
 	<key id="90000838" level="1" name="버닝 효과" tooltipDescription="9레벨에서 60레벨까지 1레벨업 시 \n보너스 +2레벨을 적용" feature="Event" locale="NA" />
-	<key id="90000838" level="1" name="점핑 버닝 효과" tooltipDescription="60레벨에서 80레벨까지 1레벨업 시 \n보너스 +2레벨을 적용" feature="Event" locale="CN" />
 	<key id="90000838" level="1" name="버닝 효과" tooltipDescription="9레벨에서 60레벨까지 1레벨업 시 \n보너스 +2레벨을 적용" feature="Event" locale="JP" />
+	<key id="90000838" level="1" name="점핑 버닝 효과" tooltipDescription="60레벨에서 80레벨까지 1레벨업 시 \n보너스 +2레벨을 적용" feature="Event" locale="CN" />
 	<key id="90000840" level="1" name="미스릴 체인 메일 장갑" tooltipDescription="축산 생산량 100% 증가" feature="Mastery06" />
 	<key id="90000841" level="1" name="무지개 옷감 주머니" tooltipDescription="채광 생산량 100% 증가" feature="Mastery06" />
 	<key id="90000842" level="1" name="스파티움 결정" tooltipDescription="연금 숙련도 상승량 100% 증가" feature="Mastery06" />
@@ -2153,18 +2209,27 @@
 	<key id="90000850" level="1" name="강화된 SP 강화의 물약" tooltipDescription="최대 SP 30 증가" feature="Mastery06" />
 	<key id="90000851" level="1" name="파인애플 피자" tooltipDescription="공격속도 5% 증가" feature="Mastery06" />
 	<key id="90000852" level="1" name="천국의 크레이프 케이크" tooltipDescription="15분 동안 HP 300 증가\n방어력 6% 증가" feature="Mastery06" />
-	<key id="90000886" level="1" name="말랑말랑 별 젤리" tooltipDescription="매 초마다 HP 122 회복" />
+	<key id="90000855" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 15.7%" />
+	<key id="90000856" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 21.4%" />
 	<key id="90000857" level="1" name="강화된 특제 전사의 물약" tooltipDescription="물리 공격력 4% 증가" feature="Mastery06" />
+	<key id="90000858" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 : 14.4%" />
 	<key id="90000859" level="1" name="따끈따끈 메이플 피자" tooltipDescription="전투력 650 증가" locale="KR" />
 	<key id="90000865" level="1" name="따끈따끈 메이플 피자" tooltipDescription="전투력 200 증가" />
 	<key id="90000867" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 8 회복" />
 	<key id="90000868" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 20 회복" />
+	<key id="90000869" level="1" name="던전 밸런스 테스트" tooltipDescription="특제 전사+마법사 물약 대체" />
+	<key id="90000870" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 42%" />
+	<key id="90000871" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 1994" />
+	<key id="90000872" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 옵션 : 12%" />
 	<key id="90000873" level="1" name="보름달의 기운" tooltipDescription="명중 5 증가\n물리/마법 대미지 3% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
 	<key id="90000873" level="1" name="사나운 맹수" tooltipDescription="명중 5 증가\n물리/마법 대미지 3% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" locale="CN" />
 	<key id="90000874" level="1" name="포자 차단 크림" tooltipDescription="머쉬킹의 포자 중화\n머쉬킹에게 공격 가능" feature="WorldChampionMushroom" />
+	<key id="90000886" level="1" name="말랑말랑 별 젤리" tooltipDescription="매 초마다 HP 122 회복" />
 	<key id="90000888" level="1" name="머쉬킹표 독버섯" tooltipDescription="독버섯의 기운에 쓰러집니다." feature="WorldChampionMushroom" />
 	<key id="90000890" level="1" name="달콤 1주년 케이크" tooltipDescription="물리, 마법 공격력 3% 증가, 최대 HP 5% 증가, 이동속도 5% 증가" feature="WorldChampionMushroom" />
 	<key id="90000901" level="1" name="파풀라투스의 시계" tooltipDescription="물리,마법 공격력 3% 증가\n전투력 250 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
+	<key id="90000908" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 1050\n(실 적용 414)\n50 엘리트" />
+	<key id="90000909" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 1700\n(실 적용 670)\n50 엑설런트" />
 	<key id="90000913" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 80 회복" />
 	<key id="90000914" level="1" name="HP 회복" tooltipDescription="매 초마다 HP 60 회복" />
 	<key id="90000915" level="1" name="신비한 에네르" tooltipDescription="명중 3 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
@@ -2172,14 +2237,30 @@
 	<key id="90000917" level="1" name="격파 축하 폭죽" tooltipDescription="HP 6% 증가\n&lt;font color=&apos;#9FC93C&apos;&gt;격벽 격파를 축하하는 폭죽 효과이다.&lt;/font&gt;" />
 	<key id="90000918" level="1" name="격파 축하 폭죽" tooltipDescription="HP 6% 증가\n&lt;font color=&apos;#9FC93C&apos;&gt;격벽 격파를 축하하는 폭죽 효과이다.&lt;/font&gt;" />
 	<key id="90000919" level="1" name="먹음직한 열매" tooltipDescription="사냥/연주/낚시 경험치 1.5배 획득\n&lt;font color=&apos;#9FC93C&apos;&gt;열매의 달콤한 향이 남았다.&lt;/font&gt;" />
+	<key id="90000920" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드70 레벨 : \n공격력 0%, 방어력 0%" />
+	<key id="90000921" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드71 레벨 : \n공격력 6%, 방어력 6%" />
+	<key id="90000922" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드72 레벨 : \n공격력 12.4%, 방어력 12.4%" />
+	<key id="90000923" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드73 레벨 : \n공격력 19.1%, 방어력 19.1%" />
+	<key id="90000924" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드74 레벨 : \n공격력 26.2%, 방어력 26.2%" />
+	<key id="90000925" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드75 레벨 : \n공격력 33.8%, 방어력 33.8%" />
+	<key id="90000926" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드76 레벨 : \n공격력 41.9%, 방어력 41.9%" />
+	<key id="90000927" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드77 레벨 : \n공격력 50.4%, 방어력 50.4%" />
+	<key id="90000928" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드78 레벨 : \n공격력 59.4%, 방어력 59.4%" />
+	<key id="90000929" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드79 레벨 : \n공격력 68.9%, 방어력 68.9%" />
+	<key id="90000930" level="1" name="던전 밸런스 테스트" tooltipDescription="크리티아스 필드80 레벨 : \n공격력 79.1%, 방어력 79.1%" />
 	<key id="90000933" level="1" name="능력치마크 1" tooltipDescription="크리티컬 대미지 150 증가\n공격속도 4% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
 	<key id="90000934" level="1" name="능력치마크 2" tooltipDescription="보스 공격 시 대미지 7% 증가\nHP 500 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
 	<key id="90000935" level="1" name="능력치마크 3" tooltipDescription="보스 공격 시 대미지 4% 증가\n공격속도 5% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" />
+	<key id="90000936" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 2750\n(실적용 1084)\nKR 70 엑설런트" />
+	<key id="90000937" level="1" name="던전 밸런스 테스트" tooltipDescription="펫 전투력 : 3150\n(실적용 1241)\n펫-CN 70 엑설런트" />
+	<key id="90000938" level="1" name="던전 밸런스 테스트" tooltipDescription="라펜샤드 : 06.0%" />
+	<key id="90000939" level="1" name="던전 밸런스 테스트" tooltipDescription="초월 : 24.4%" />
 	<key id="90000940" level="1" name="핑크 페인트" tooltipDescription="페인트 범벅이 되었습니다" feature="Event" />
 	<key id="90000942" level="1" name="초록 페인트" tooltipDescription="페인트 범벅이 되었습니다" feature="Event" />
 	<key id="90000946" level="1" name="능력치마크 3" tooltipDescription="크리티컬 대미지 120 증가\n방어력 관통 4% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" locale="CN" />
 	<key id="90000947" level="1" name="능력치마크 3" tooltipDescription="공격 속도 5% 증가\n물리/마법 대미지 5% 증가\n&lt;font color=&apos;#00aaef&apos;&gt;전장 및 투기장에서 적용되지 않음&lt;/font&gt;" locale="CN" />
 	<key id="90001001" level="1" name="트라이아에서 이동속도 5% 증가" tooltipDescription="트라이아에서 이동속도 5% 증가" />
+	<key id="90001002" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun.\nRebalances enchants for PvP.\nAttributes set to level 99 values.\nDecreases recovery speed." feature="NAEquipmentBalance_01" />
 	<key id="90001002" level="1" name="투쟁의 의지" tooltipDescription="HP 증가, 유저간 전투에서 경직에 면역\nPvP 시 장비의 인챈트 효과 보정\n99레벨의 스탯으로 보정" />
 	<key id="90001002" level="1" name="투쟁의 의지" tooltipDescription="HP 증가, 유저간 전투에서 경직에 면역\nPvP 시 장비의 인챈트 효과 보정\n99레벨의 스탯으로 보정\n회복량 감소" feature="KREquipmentBalance_01" />
 	<key id="90001005" level="1" name="1번입니다" tooltipDescription="1번입니다" />
@@ -2237,177 +2318,23 @@
 	<key id="90030590" level="1" name="타격 시 일정 확률로 8초 동안 방어력 관통 10% 증가" />
 	<key id="90030591" level="1" name="바르칸트의 날개" tooltipDescription="방어력 관통 10% 증가" />
 	<key id="90030594" level="1" name="별빛의 힘으로 엘리트 몬스터 공격 시 대미지 3% 증가" />
-	<key id="90030595" level="1" name="누타만의 힘으로 타격 시 일정 확률로 HP 20% 회복&#x0A;  단, 전장 및 투기장에서는 효과가 적용되지 않는다." />
-	<key id="90050512" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050522" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050532" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050542" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050552" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050562" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050572" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050582" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050592" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050602" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050612" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050622" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050632" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050672" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050682" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
-	<key id="90050702" level="1" name="전투 중 일정 확률에 따라 일시적으로 몸집 증가" />
-	<key id="90050703" level="1" name="귀여운 더키볼" tooltipDescription="일시적으로 몸집 증가" />
-	<key id="90050711" level="1" name="일정 확률로 12초 동안 공격속도 10% 증가" />
-	<key id="90050712" level="1" name="창피한 더키볼" tooltipDescription="공격속도 10% 증가" />
-	<key id="90050713" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050714" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050715" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050716" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050717" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050718" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050719" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050720" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050721" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050722" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050723" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050724" level="1" name="[옵션 개편을 준비중입니다]" />
-	<key id="90050745" level="1" name="개방된 나르바샨의 힘" tooltipDescription="공격속도 35% 증가" />
-	<key id="90050746" level="1" name="개방된 나르바샨의 힘" tooltipDescription="오랜 시간 나르바샨의 힘에 노출되면 위험하다.\n개방된 나르바샨의 힘 효과를 받을 수 없다." />
-	<key id="90050753" level="1" name="최대 HP 5% 증가" />
-	<key id="90050754" level="1" name="최대 HP 10% 증가" />
-	<key id="90050755" level="1" name="최대 HP 20% 증가" />
-	<key id="90050756" level="1" name="최대 HP 30% 증가" />
-	<key id="90050763" level="1" name="타격 시 3초 간 이동속도 5% 증가\n  단, 투기장 및 전장에서 발동되지 않는다." />
-	<key id="90050764" level="1" name="파풀라투스의 시계태엽" tooltipDescription="이동속도 5% 증가" />
-	<key id="90050765" level="1" name="매 공격 시 HP가 감소하지만, 물리/마법 대미지가 3% 증가 HP 20% 미만이면 적용되지 않으며, 투기장 및 전장에서 발동되지 않는다." />
-	<key id="90050903" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1034 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050891" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1920 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050897" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1920 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050908" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1034 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050893" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050899" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050895" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050901" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050913" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050915" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050917" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050931" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 17% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050919" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 30% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050925" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 30% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050936" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 17% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050921" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050927" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050923" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050929" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050941" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050943" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050945" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
-	<key id="90050977" level="1" name="루모탈 개방" tooltipDescription="공격속도와 모든 대미지 20% 증가" />
-	<key id="90050990" level="1" name="루모탈" tooltipDescription="방어력 1% 감소" />
-	<key id="90050987" level="1" name="라메스톤 파편 효과가 유지되는 동안 전투력 320 증가\n단, 투기장 및 전장에서 발동되지 않는다" tooltipDescription='라메스톤 파편&quot;의 효과가 유지되는 동안 전투력이 320 증가한다. ' />
-	<key id="90050988" level="1" name="라메스톤 파편 효과가 유지되는 동안 전투력 320 증가\n단, 투기장 및 전장에서 발동되지 않는다&#x0A;(양손에 동일한 장비를 착용해야 효과가 적용된다)" />
-	<key id="90050993" level="1" name="초보자용 황금 미끼 사용 시 낚시 경험치 3% 증가" tooltipDescription="초보자용 황금 미끼 사용 시 낚시 경험치 3% 증가" />
-	<key id="90050994" level="1" name="악기 연주 시 경험치 3% 증가" tooltipDescription="악기 연주 시 경험치 3% 증가" />
-	<key id="90050995" level="1" name="타격 시 일정 확률로 10초 동안 물리/마법 공격력 13.5% 증가" tooltipDescription="타격 시 일정 확률로 10초 동안 물리/마법 공격력 13.5% 증가" />
-	<key id="90050996" level="1" name="파이렌시아 : 파도마녀의 암초관" tooltipDescription="물리/마법 공격력 13.5% 증가" />
-	<key id="90050997" level="1" name="엘리트 몬스터 공격 시 대미지 10% 증가" tooltipDescription="엘리트 몬스터 공격 시 대미지 10% 증가" />
-	<key id="90050905" level="1" name="해일의 대거" tooltipDescription="전투력 1034 증가" />
-	<key id="90050907" level="1" name="해일의 대거" tooltipDescription="전투력 2068 증가" />
-	<key id="90050892" level="1" name="해일의 롱소드" tooltipDescription="전투력 1920 증가" />
-	<key id="90050898" level="1" name="해일의 홀" tooltipDescription="전투력 1920 증가" />
-	<key id="90050910" level="1" name="해일의 표창" tooltipDescription="전투력 1034 증가" />
-	<key id="90050912" level="1" name="해일의 표창" tooltipDescription="전투력 2068 증가" />
-	<key id="90050894" level="1" name="해일의 라지소드" tooltipDescription="전투력 2068 증가" />
-	<key id="90050900" level="1" name="해일의 보우" tooltipDescription="전투력 2068 증가" />
-	<key id="90050896" level="1" name="해일의 스태프" tooltipDescription="전투력 2068 증가" />
-	<key id="90050902" level="1" name="해일의 캐논" tooltipDescription="전투력 2068 증가" />
-	<key id="90050914" level="1" name="해일의 블레이드" tooltipDescription="전투력 2068 증가" />
-	<key id="90050916" level="1" name="해일의 너클" tooltipDescription="전투력 2068 증가" />
-	<key id="90050918" level="1" name="해일의 오브" tooltipDescription="전투력 2068 증가" />
-	<key id="90050933" level="1" name="눈보라의 대거" tooltipDescription="무기 공격력 17% 증가" />
-	<key id="90050935" level="1" name="눈보라의 대거" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050920" level="1" name="눈보라의 롱소드" tooltipDescription="무기 공격력 30% 증가" />
-	<key id="90050926" level="1" name="눈보라의 홀" tooltipDescription="무기 공격력 30% 증가" />
-	<key id="90050938" level="1" name="눈보라의 표창" tooltipDescription="무기 공격력 17% 증가" />
-	<key id="90050940" level="1" name="눈보라의 표창" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050922" level="1" name="눈보라의 라지소드" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050928" level="1" name="눈보라의 보우" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050924" level="1" name="눈보라의 스태프" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050930" level="1" name="눈보라의 캐논" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050942" level="1" name="눈보라의 블레이드" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050944" level="1" name="눈보라의 너클" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050946" level="1" name="눈보라의 오브" tooltipDescription="무기 공격력 34% 증가" />
-	<key id="90050885" level="1" name="지상 탈것 탑승 시 이동속도 20% 증가\n  단, 투기장 및 전장에서 적용되지 않는다." />
-	<key id="90050886" level="1" name="반경 9m 이내 적대 대상이 4명 이상일 경우 전투력 520 증가\n단, 투기장 및 전장에서 적용되지 않는다." tooltipDescription="반경 9m 이내 적대 대상이 4명 이상일 경우 전투력 520 증가\n단, 투기장 및 전장에서 적용되지 않는다." />
-	<key id="90050947" level="1" name="체력 10% 증가" />
-	<key id="90050948" level="1" name="타격 시 일정 확률로 15초 동안 공격속도와 이동속도 12% 증가" />
-	<key id="90050949" level="1" name="어둠의 힘" tooltipDescription="공격속도와 이동속도 12% 증가" />
-	<key id="90050953" level="1" name="칠신장의 스냅" tooltipDescription='공격속도 30% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;하수인들에게 더욱 효과적인 꿀밤을 때리기 위해 고안된 마드리아식 마법으로, 손목 스냅에 부분적 광속화를 부여해 고속 공격을 가능하게 만든다.&#x0A;칠신장 스냅이라는 명칭이 다른 칠신장들의 격을 떨어트린다는 다크로드의 말은 깨끗하게 무시되었다.&lt;/font&gt;' />
-	<key id="90050954" level="1" name="지각할 수 없는 자의 축복" tooltipDescription='이동속도 25% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;어둠의 기운으로 몸을 가볍게 하여 움직임을 빠르게 만드는 마법. 마드리아는 주로 칠신장들의 회의에 늦었을 때 사용했다.&lt;/font&gt;' />
-	<key id="90050955" level="1" name="발동 된 칠신명 : 분노" tooltipDescription='모든 공격이 크리티컬 피해로 명중\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아의 칠신명인 &apos;분노&apos;가 발동된 상태로, 모든 공격이 치명적인 피해를 주게 된다. 그녀가 지녔던 장신구만으로도 이런 엄청난 효과를 낼 수 있는 부분은 마드리아의 진정한 힘을 가늠할 수 있는 증거이기도 하다.&lt;/font&gt;' />
-	<key id="90050956" level="1" name="블랙 스틸 코팅" tooltipDescription='물리/마법 저항력 540 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드라칸 성벽에 사용된 흑철 성분을 갑옷 전체에 입히는 마법으로, 물리적인 방어와 마법 저항력이 크게 증가한다.&lt;/font&gt;' />
-	<key id="90050957" level="1" name="영원한 체력의 말괄량이" tooltipDescription='5초 마다 EP 완전 회복\n\n&lt;font color=&quot;#FFD400&quot;&gt;어둠의 기운으로 대사량을 크게 증가시켜 행동에 필요한 에너지를 빠르게 회복시키는 마법. 마드리아가 쉴 새 없이 마드라칸을 뛰어놀 수 있었던 것은 이 마법이 있었기 때문이다.&lt;/font&gt;' />
-	<key id="90050958" level="1" name="군주의 치료" tooltipDescription='매 초마다 HP 330 회복\n\n&lt;font color=&quot;#FFD400&quot;&gt;어둠의 기운이 상처를 막고 지속적으로 회복시키는 마법. 비록 어둠의 에너지를 사용하는 것이지만 뛰어난 치료 마법임은 틀림없다. 물론 마드리아는 자신보단, 그녀에게 시달리던 하수인들에게 자주 사용해주던 마법이다.&lt;/font&gt;' />
-	<key id="90050959" level="1" name="우리 군주가 커졌어요" tooltipDescription='거대화 및 물리/마법 공격력 48% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;일시적으로 몸이 커지는 마법으로, &#x0A;마드리아가 자신의 신체 나이를 20대쯤으로 만들기 위해 고안했으나 단순히 크기만 늘어나버려서 폐기한 마법이다. 만약 의도대로 성공했었다면… \n물론, 몸이 커진 만큼 전투 능력도 그만큼 상승한다.&lt;/font&gt;' />
-	<key id="90050960" level="1" name="우리 군주가 작아졌어요" tooltipDescription='소형화 및 모든 대미지 72% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;일시적으로 몸이 작아지는 마법으로, 마드리아가 자신의 신체 나이를 10대 이하로 만들기 위해 고안했으나 이미 충분히 아이 같은 신체임을 깨달은 뒤로 버려진 마법이다. 여기서 더 어려진다면… \n이라고 상상했다면 트라이아 근위대에 잡혀갈 자격이 충분하다. 물론, 몸이 작아진 만큼 상대의 방어를 파고들 수 있기 때문에 전투 능력이 상승한다. &lt;/font&gt;' />
-	<key id="90050961" level="1" name="마드라칸 댄스 히어로" tooltipDescription='춤을 추자\n\n&lt;font color=&quot;#FFD400&quot;&gt;이 끔찍한 마법은 마드리아가 파티를 열 때 주로 사용한 것으로 마법에 걸린 사람은 미친 듯이 춤을 추고 깊은 허탈감에 빠지게 된다. 마드리아의 하수인들은 이것을 일종의 고문 마법으로 착각했다고 한다.&lt;/font&gt;' />
-	<key id="90050964" level="1" name="실체화 된 분노" tooltipDescription='타격 시 일정 확률로 240%의 추가 대미지를 입힌다\n\n&lt;font color=&quot;#FFD400&quot;&gt;장신구 소유자의 분노가 암흑에너지로 실체화되어 공격 대상에게 치명적인 상처를 남기는 마법. 분노를 실체화 시키는 마법은 공식적으론 존재하지 않으나 마드리아는 그것을 자유자재로 다룬다고 한다.&lt;/font&gt;' />
-	<key id="90050966" level="1" name="그림자 위상 변환" tooltipDescription='회피 50, 모든 대미지 50% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아의 장신구 착용자에게만 적용되는 소규모 위상 변환. 실제 세계에서 물질적인 형태를 감춘다. 이 덕분에 회피력이 크게 증가하고 기습 공격 덕분에 공격력이 상승한다.&lt;/font&gt;' />
-	<key id="90050967" level="1" name="흑철 반사막" tooltipDescription='HP의 5% 만큼 대미지 흡수\n효과가 유지되는 동안 모든 대미지 80% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드라칸 성벽에 사용된 흑철 성분으로 반사막을 형성하는 마법. 마법 사용자에게 들어오는 공격을 흡수하고 더 큰 대미지를 줄 수 있게 강화하는 이 마법은, 사실 마드리아가 루카락스와의 씨름에서 이득을 보려고 만든 것이다.&lt;/font&gt;' />
-	<key id="90050968" level="1" name="생각한다. 고로 나는 사냥한다" tooltipDescription='몬스터 처치 시 경험치 20% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아가 칠신장으로서 성장하는 과정에서 사용되었던 마법으로, 좀 더 빠르게 성장하고자 딴 곳에 정신 팔리지 않고 오로지 몬스터 사냥에만 집중할 수 있게 만들어진 마법이다. 물론, 마드리아의 딴 생각은 마법을 이길 만큼 강력했지만 일반적인 사람이라면 몬스터 사냥에서 좀 더 큰 경험을 얻을 수 있다.&lt;/font&gt;' />
-	<key id="90050969" level="1" name="신경쓰이는 신경계 강화" tooltipDescription='이동속도, 모든 대미지, 공격속도 50% 증가\n이동 조작 반전\n\n&lt;font color=&quot;#FFD400&quot;&gt;모든 말초신경계가 예민해지며 섬세한 감각 하나하나를 모두 다룰 수 있게 되는 마법. 이로 인해 공격과 이동에 필요한 전반적인 신체능력이 향상되나, 신경계가 모두 뒤집어져 몸의 움직임이 반대가 되어버린다. 마드리아의 잘못된 마법 연산 덕분에 영 안 좋은 마법이 되어버렸다.&lt;/font&gt;' />
-	<key id="90050970" level="1" name="칠신장급 취미생활" tooltipDescription='낚시, 연주 경험치 8배 증가\n낚시, 연주 경험치는 최대 8배 이상 증가하지 않는다\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아의 생활이 녹아든 장신구의 힘 덕분에, 인간을 초월한 취미생활을 즐길 수 있게 되는 마법. 짧은 시간이지만, 칠신장급의 낚시와 연주 실력을 갖추고 그에 맞게 큰 경험을 얻게 된다. 칠신장급 낚시와 연주라는 명칭이 다른 칠신장들의 격을 떨어트린다는 다크로드의 말은 깨끗하게 무시되었다.&lt;/font&gt;' />
-	<key id="90050971" level="1" name="군주의 집요한 고문" tooltipDescription='타격 성공 시 1초 동안 피격 대상이 받는 대미지가 5% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;때리면 한 곳만 집요하게 때린다는 마드리아의 철학이 장신구에 각인된 마법으로, 피격받은 대상은 피해가 누적될 때마다 훨씬 큰 고통을 느끼게 된다.&lt;/font&gt;' />
-	<key id="90050972" level="1" name="군주의 집요한 고문" tooltipDescription='받는 대미지 5% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;때리면 한 곳만 집요하게 때린다는 마드리아의 철학이 장신구에 각인된 마법으로, 피격받은 대상은 피해가 누적될 떄마다 훨씬 큰 고통을 느끼게 된다.&lt;/font&gt;' />
-	<key id="90050978" level="1" name="루모탈" tooltipDescription="타격 성공 시 대상의 방어력 1초 동안 1% 감소" />
-	<key id="90050983" level="1" name="스칼렛 로지 하트" tooltipDescription="스칼렛 하트 세트를 입고 일반 공격 및 스킬 사용 시, 4%의 확률로 발동한다. 120초 동안 공격속도가 2% 증가하며, 이 효과는 180초 동안 재발동 하지 않는다." />
-	<key id="90050985" level="1" name="스칼렛 로지 하트" tooltipDescription="스칼렛 하트 세트를 입고 일반 공격 및 스킬 사용 시, 4%의 확률로 발동한다. 120초 동안 공격속도가 2% 증가하며, 이 효과는 180초 동안 재발동 하지 않는다." />
-	<key id="90050986" level="1" name="블루밍 스칼렛 로즈" tooltipDescription="블루밍 스칼렛 하트 버프가 있는 상태에서 타격 성공 시, 4%의 확률로 240%의 무속성 대미지를 입힌다. 같은 대상에게 20초 동안 재발동하지 않는다." />
-	<key id="90050889" level="1" name="타격 시 일정 확률로 15초 동안 전투력 180 증가\n단, 투기장 및 전장에서 발동되지 않는다." />
-	<key id="90050890" level="1" name="세이렌의 노래" tooltipDescription="전투력 180 증가" />
-	<key id="90050887" level="1" name="명중 4 감소" />
-	<key id="90050888" level="1" name="이동속도 5% 감소" />
-	<key id="90050999" level="1" name="루모탈 개방" tooltipDescription="공격속도와 모든 대미지 20% 증가" />
-	<key id="90051000" level="1" name="루모탈" tooltipDescription="타격 성공 시 대상의 방어력 1초 동안 1% 감소" />
-	<key id="90051001" level="1" name="투명 드래곤의 분노" tooltipDescription='투명화 춤추기 상태. 모든 공격을 95% 확률로 회피\n춤춘 후 화가 날 것 같다\n\n&lt;font color=&quot;#FFD400&quot;&gt;이 마법에는 슬픈 전설이 있는데, 마드리아의 강제 댄스 마법에 걸린 루카락스가 모든 것을 포기한 채 그녀를 위한 혼신의 용춤을 보여줬으나, 마드리아는 재미없다며 도로 투명 마법을 걸어버린 사건이 바로 그것이다. 물론, 이 사건 직후 분노한 루카락스가 첨탑의 반을 날려버린 것은 보고되지 않았으나 마드리아는 오히려 이 점을 재미있어 했다고 한다. 이후 마드리아는 이 추억을 잊지 않기 위해 그날 있었던 모든 과정을 마법으로 만들었다.&lt;/font&gt;' />
-	<key id="90051002" level="1" name="투명 드래곤의 분노" tooltipDescription='거대한 분노에 사로잡혔다. \n모든 대미지가 3배 증가하고 이동속도가 50% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;이 마법에는 슬픈 전설이 있는데, 마드리아의 강제 댄스 마법에 걸린 루카락스가 모든 것을 포기한 채 그녀를 위한 혼신의 용춤을 보여줬으나, 마드리아는 재미없다며 도로 투명 마법을 걸어버린 사건이 바로 그것이다. 물론, 이 사건 직후 분노한 루카락스가 첨탑의 반을 날려버린 것은 보고되지 않았으나 마드리아는 오히려 이 점을 재미있어 했다고 한다. 이후 마드리아는 이 추억을 잊지 않기 위해 그날 있었던 모든 과정을 마법으로 만들었다.&lt;/font&gt;' />
-	<key id="90051004" level="1" name="위상 차원의 힘" tooltipDescription='SP 소모 없이 스킬 사용\n\n&lt;font color=&quot;#FFD400&quot;&gt;모든 공격과 마법에 필요한 에너지를 현실 차원이 아닌 위상 차원에서 불러와 사용할 수 있게 만드는 마법으로, 끊임없는 공격과 행동을 할 수 있게 만들어 준다. 비록 마드리아의 장신구를 가진 자는 일시적으로만 사용할 수 있는 능력이지만 마드리아는 언제든 이 능력을 발휘할 수 있다.&lt;/font&gt;' />
-	<key id="90051006" level="1" name="단풍 이펙트 추가" tooltipDescription="단풍 이펙트 추가" />
-	<key id="90051007" level="1" name="마드리아의 변덕" />
-	<key id="90100001" level="1" name="타격 시 20% 확률로 3초 간 흡혈" tooltipDescription="타격 시 20% 확률로 3초 간 흡혈" />
-	<key id="90100002" level="1" name="흡혈" tooltipDescription="적에게 타격하는 대미지의 30%를 흡혈한다." />
-	<key id="90100011" level="1" name="타격 시 20% 확률로 STR 증가" tooltipDescription="타격 시 20% 확률로 STR 증가" />
-	<key id="90100012" level="1" name="STR 증가" tooltipDescription="STR 30% 증가" />
-	<key id="90300001" level="1" name="타격 시 20% 확률로 화상 유발" tooltipDescription="타격 시 20% 확률로 화상 유발" />
-	<key id="90300002" level="1" name="화상" tooltipDescription="대미지의 50%만큼 화상 효과" />
-	<key id="90300011" level="1" name="타격 시 20% 확률로 INT 증가" tooltipDescription="타격 시 20% 확률로 INT 증가" />
-	<key id="90300012" level="1" name="INT 증가" tooltipDescription="INT 30% 증가" />
-	<key id="90400001" level="1" name="타격 시 10% 확률로 빙결 유발" tooltipDescription="타격 시 10% 확률로 빙결 유발" />
-	<key id="90400002" level="1" name="빙결" tooltipDescription="3초 간 얼어붙음" />
-	<key id="90400011" level="1" name="타격 시 20% 확률로 크리티컬 확률 증가" tooltipDescription="타격 시 20% 확률로 크리티컬 확률 증가" />
-	<key id="90400012" level="1" name="크리티컬 확률 증가" tooltipDescription="크리티컬 확률 100% 증가" />
-	<key id="90500001" level="1" name="타격 시 25% 확률로 출혈 유발" tooltipDescription="타격 시 25% 확률로 출혈 유발" />
-	<key id="90500002" level="1" name="출혈" tooltipDescription="대미지의 20%만큼 출혈 효과" />
-	<key id="90500011" level="1" name="타격 시 20% 확률로 공격속도 증가" tooltipDescription="타격 시 20% 확률로 공격속도 증가" />
-	<key id="90500012" level="1" name="공격속도 증가" tooltipDescription="공격속도 스탯 100% 증가" />
-	<key id="90800001" level="1" name="타격 시 20% 확률로 중독 유발" tooltipDescription="타격 시 20% 확률로 중독 유발" />
-	<key id="90800002" level="1" name="중독" tooltipDescription="대미지의 20%만큼 중독 효과" />
-	<key id="90800011" level="1" name="타격 시 10% 확률로 이동속도 증가" tooltipDescription="타격 시 10% 확률로 이동속도 증가" />
-	<key id="90800012" level="1" name="이동속도 증가" tooltipDescription="이동속도 스탯 300% 증가" />
+	<key id="90030595" level="1" name="누타만의 힘으로 타격 시 일정 확률로 HP 20% 회복&#xA;  단, 전장 및 투기장에서는 효과가 적용되지 않는다." />
 	<key id="90050211" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 17% 증가" />
-	<key id="90050221" level="1" name="타격 시 10% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
-	<key id="90050231" level="1" name="타격 시 14% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
-	<key id="90050241" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 17% 증가" />
-	<key id="90050251" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
-	<key id="90050261" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
-	<key id="90050271" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 11% 증가" />
-	<key id="90050283" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 11% 증가" />
 	<key id="90050212" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 17% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050221" level="1" name="타격 시 10% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
 	<key id="90050222" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050231" level="1" name="타격 시 14% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
 	<key id="90050232" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050241" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 17% 증가" />
 	<key id="90050242" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 17% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050251" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
 	<key id="90050252" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050261" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
 	<key id="90050262" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050271" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 11% 증가" />
 	<key id="90050274" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 11% 증가, 전장 및 투기장에서 적용되지 않음" />
 	<key id="90050274" level="2" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가, 전장 및 투기장에서 적용되지 않음" />
+	<key id="90050283" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 11% 증가" />
 	<key id="90050284" level="1" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 11% 증가, 전장 및 투기장에서 적용되지 않음" />
 	<key id="90050284" level="2" name="물리/마법 공격력 증가" tooltipDescription="물리/마법 공격력 22% 증가, 전장 및 투기장에서 적용되지 않음" />
 	<key id="90050291" level="1" name="타격 시 8% 확률로 30초 동안 물리/마법 공격력 22% 증가" />
@@ -2506,6 +2433,37 @@
 	<key id="90050504" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050505" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050506" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050512" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050522" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050532" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050542" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050552" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050562" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050572" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050582" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050592" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050602" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050612" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050622" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050632" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050672" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050682" level="1" name="화염의 기운" tooltipDescription="화염의 기운이 강해지고 있습니다." />
+	<key id="90050702" level="1" name="전투 중 일정 확률에 따라 일시적으로 몸집 증가" />
+	<key id="90050703" level="1" name="귀여운 더키볼" tooltipDescription="일시적으로 몸집 증가" />
+	<key id="90050711" level="1" name="일정 확률로 12초 동안 공격속도 10% 증가" />
+	<key id="90050712" level="1" name="창피한 더키볼" tooltipDescription="공격속도 10% 증가" />
+	<key id="90050713" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050714" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050715" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050716" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050717" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050718" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050719" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050720" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050721" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050722" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050723" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050724" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050725" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050726" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050727" level="1" name="[옵션 개편을 준비중입니다]" />
@@ -2518,6 +2476,15 @@
 	<key id="90050734" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050735" level="1" name="[옵션 개편을 준비중입니다]" />
 	<key id="90050736" level="1" name="[옵션 개편을 준비중입니다]" />
+	<key id="90050745" level="1" name="개방된 나르바샨의 힘" tooltipDescription="공격속도 35% 증가" />
+	<key id="90050746" level="1" name="개방된 나르바샨의 힘" tooltipDescription="오랜 시간 나르바샨의 힘에 노출되면 위험하다.\n개방된 나르바샨의 힘 효과를 받을 수 없다." />
+	<key id="90050753" level="1" name="최대 HP 5% 증가" />
+	<key id="90050754" level="1" name="최대 HP 10% 증가" />
+	<key id="90050755" level="1" name="최대 HP 20% 증가" />
+	<key id="90050756" level="1" name="최대 HP 30% 증가" />
+	<key id="90050763" level="1" name="타격 시 3초 간 이동속도 5% 증가\n  단, 투기장 및 전장에서 발동되지 않는다." />
+	<key id="90050764" level="1" name="파풀라투스의 시계태엽" tooltipDescription="이동속도 5% 증가" />
+	<key id="90050765" level="1" name="매 공격 시 HP가 감소하지만, 물리/마법 대미지가 3% 증가 HP 20% 미만이면 적용되지 않으며, 투기장 및 전장에서 발동되지 않는다." />
 	<key id="90050768" level="1" name="타격 시 일정 확률로 빛나는 힘 발동" />
 	<key id="90050769" level="1" name="빛나는 힘" tooltipDescription="물리/마법 저항력 90, 전투력 144 증가" />
 	<key id="90050770" level="1" name="타격 시 일정 확률로 찬란한 힘 발동" />
@@ -2527,53 +2494,41 @@
 	<key id="90050801" level="1" name="타격 시 일정 확률로 3.5초 동안 SP가 1초마다 15 회복" />
 	<key id="90050802" level="1" name="광포한/맹렬한 전투 롱소드" tooltipDescription="SP가 1초마다 15 회복" />
 	<key id="90050803" level="1" name="광포한/맹렬한 전투 롱소드 발동효과의 지속시간 3.5초 추가" />
+	<key id="90050804" level="1" name="완전 방어 성공시 15초 동안 물리 대미지 2% 증가" />
+	<key id="90050805" level="1" name="극한의 전투 롱소드" tooltipDescription="물리 대미지 증가" />
+	<key id="90050806" level="1" name="극한의 전투 롱소드 발동효과의 물리 대미지 증가량 2% 추가" />
 	<key id="90050807" level="1" name="타격 시 일정 확률로 12초 동안 공격속도와 물리 공격력 6% 증가" />
 	<key id="90050808" level="1" name="광포한/맹렬한 광란 라지소드" tooltipDescription="공격속도와 물리 공격력 증가" />
 	<key id="90050809" level="1" name="광포한/맹렬한 광란 라지소드 발동효과의 공격속도와 물리 공격력 증가량 6% 추가" />
+	<key id="90050810" level="1" name="타격 시 일정 확률로 15초 동안 암흑 속성 대미지 5% 증가" />
+	<key id="90050811" level="1" name="극한의 광란 라지소드" tooltipDescription="암흑 속성 대미지 증가" />
+	<key id="90050812" level="1" name="극한의 광란 라지소드 발동효과의 암흑 속성 대미지 증가량 5% 추가" />
 	<key id="90050813" level="1" name="타격 시 일정 확률로 8초 동안 마법 공격력 8% 증가" />
 	<key id="90050814" level="1" name="광포한/맹렬한 마법 스태프" tooltipDescription="마법 공격력 증가" />
 	<key id="90050815" level="1" name="광포한/맹렬한 마법 스태프 발동효과의 마법 공격력 증가량 16% 추가" />
 	<key id="90050816" level="1" name="광포한/맹렬한 마법 스태프 발동효과의 마법 공격력 증가량 8% 추가" />
-	<key id="90050821" level="1" name="타격 시 일정 확률로 9초 동안 신성 대미지 7.2% 증가" />
-	<key id="90050822" level="1" name="광포한/맹렬한 신성 홀" tooltipDescription="신성 대미지 증가" />
-	<key id="90050823" level="1" name="광포한/맹렬한 신성 홀 발동효과의 신성 대미지 증가량 14.4% 추가" />
-	<key id="90050824" level="1" name="광포한/맹렬한 신성 홀 발동효과의 신성 대미지 증가량 7.2% 추가" />
-	<key id="90050831" level="1" name="타격 시 일정 확률로 15초 동안 크리티컬 명중 300 증가" />
-	<key id="90050832" level="1" name="광포한/맹렬한 집중 활" tooltipDescription="크리티컬 명중 증가" />
-	<key id="90050833" level="1" name="광포한/맹렬한 집중 활 발동효과의 크리티컬 대미지가 300 추가" />
-	<key id="90050834" level="1" name="광포한/맹렬한 집중 활 발동효과의 크리티컬 대미지가 150 추가" />
-	<key id="90050852" level="1" name="제자리에서 1.5초 이상 움직이지 않을 시 무기 공격력 4.5% 증가" tooltipDescription="제자리에서 1.5초 이상 움직이지 않을 시 무기 공격력 증가" />
-	<key id="90050865" level="1" name="광포한/맹렬한 포격 캐논" tooltipDescription="1.5초 이상 움직이지 않을 시 무기 공격력 증가" />
-	<key id="90050853" level="1" name="광포한/맹렬한 포격 캐논 발동효과의 무기 공격력 증가량 9% 추가" />
-	<key id="90050855" level="1" name="광포한/맹렬한 포격 캐논 발동효과의 무기 공격력 증가량 4.5% 추가" />
-	<key id="90050839" level="1" name="적의 공격 회피 시 30초 동안 물리 대미지 2.5% 증가\n광포한/맹렬한 혼란 대거를 양손에 착용해야 발동" />
-	<key id="90050840" level="1" name="광포한/맹렬한 혼란 대거" tooltipDescription="물리 대미지 증가" />
-	<key id="90050841" level="1" name="광포한/맹렬한 혼란 대거 발동효과의 물리 대미지 증가량 5% 추가" />
-	<key id="90050849" level="1" name="타격 시 일정 확률로 크리티컬 대미지 100 증가\n광포한/맹렬한 암살 표창을 양손에 착용해야 발동" />
-	<key id="90050850" level="1" name="광포한/맹렬한 암살 표창" tooltipDescription="크리티컬 대미지 증가" />
-	<key id="90050851" level="1" name="광포한/맹렬한 암살 표창 발동효과의 크리티컬 대미지 증가량 200 추가" />
-	<key id="90050804" level="1" name="완전 방어 성공시 15초 동안 물리 대미지 2% 증가" />
-	<key id="90050805" level="1" name="극한의 전투 롱소드" tooltipDescription="물리 대미지 증가" />
-	<key id="90050806" level="1" name="극한의 전투 롱소드 발동효과의 물리 대미지 증가량 2% 추가" />
-	<key id="90050810" level="1" name="타격 시 일정 확률로 15초 동안 암흑 속성 대미지 5% 증가" />
-	<key id="90050811" level="1" name="극한의 광란 라지소드" tooltipDescription="암흑 속성 대미지 증가" />
-	<key id="90050812" level="1" name="극한의 광란 라지소드 발동효과의 암흑 속성 대미지 증가량 5% 추가" />
 	<key id="90050817" level="1" name="타격 시 일정 확률로 1.6초 동안 SP를 소모하지 않고 스킬 사용" />
 	<key id="90050818" level="1" name="극한의 마법 스태프" tooltipDescription="스킬 사용 시 SP를 소모하지 않음" />
 	<key id="90050819" level="1" name="극한의 마법 스태프 발동효과의 지속시간 3.2초 추가" />
 	<key id="90050820" level="1" name="극한의 마법 스태프 발동효과의 지속시간 1.6초 추가" />
+	<key id="90050821" level="1" name="타격 시 일정 확률로 9초 동안 신성 대미지 7.2% 증가" />
+	<key id="90050822" level="1" name="광포한/맹렬한 신성 홀" tooltipDescription="신성 대미지 증가" />
+	<key id="90050823" level="1" name="광포한/맹렬한 신성 홀 발동효과의 신성 대미지 증가량 14.4% 추가" />
+	<key id="90050824" level="1" name="광포한/맹렬한 신성 홀 발동효과의 신성 대미지 증가량 7.2% 추가" />
 	<key id="90050825" level="1" name="SP가 40% 이상일 때 마법 대미지 2.6% 증가" tooltipDescription="SP가 40% 이상일 때 마법 대미지 증가" />
-	<key id="90050866" level="1" name="극한의 신성 홀" tooltipDescription="마법 대미지 증가" />
 	<key id="90050827" level="1" name="극한의 신성 홀 발동효과의 마법 대미지 증가량 5.2% 추가" />
 	<key id="90050829" level="1" name="극한의 신성 홀 발동효과의 마법 대미지 증가량 2.6% 추가" />
+	<key id="90050831" level="1" name="타격 시 일정 확률로 15초 동안 크리티컬 명중 300 증가" />
+	<key id="90050832" level="1" name="광포한/맹렬한 집중 활" tooltipDescription="크리티컬 명중 증가" />
+	<key id="90050833" level="1" name="광포한/맹렬한 집중 활 발동효과의 크리티컬 대미지가 300 추가" />
+	<key id="90050834" level="1" name="광포한/맹렬한 집중 활 발동효과의 크리티컬 대미지가 150 추가" />
 	<key id="90050835" level="1" name="타격 시 일정 확률로 최대 무기 공격력 8% 증가" />
 	<key id="90050836" level="1" name="극한의 집중 활" tooltipDescription="최대 무기 공격력 증가" />
 	<key id="90050837" level="1" name="극한의 집중 활 발동효과의 최대 무기 공격력 증가량 16% 추가" />
 	<key id="90050838" level="1" name="극한의 집중 활 발동효과의 최대 무기 공격력 증가량 8% 추가" />
-	<key id="90050857" level="1" name="타격 시 일정 확률로 9초 동안 방어 관통력 4.5% 증가" />
-	<key id="90050858" level="1" name="극한의 포격 캐논" tooltipDescription="방어 관통력 증가" />
-	<key id="90050859" level="1" name="극한의 포격 캐논 발동효과의 방어 관통력 증가랑 9% 추가" />
-	<key id="90050860" level="1" name="극한의 포격 캐논 발동효과의 방어 관통력 증가랑 4.5% 추가" />
+	<key id="90050839" level="1" name="적의 공격 회피 시 30초 동안 물리 대미지 2.5% 증가\n광포한/맹렬한 혼란 대거를 양손에 착용해야 발동" />
+	<key id="90050840" level="1" name="광포한/맹렬한 혼란 대거" tooltipDescription="물리 대미지 증가" />
+	<key id="90050841" level="1" name="광포한/맹렬한 혼란 대거 발동효과의 물리 대미지 증가량 5% 추가" />
 	<key id="90050842" level="1" name="타격 시 일정 확률로 6초 동안 독 속성 대미지 3% 증가\n극한의 혼란 대거를 양손에 착용해야 발동" />
 	<key id="90050843" level="1" name="극한의 혼란 대거" tooltipDescription="독 속성 대미지 증가" />
 	<key id="90050844" level="1" name="극한의 혼란 대거 발동효과의 독 속성 대미지 증가 효과량 6% 추가" />
@@ -2581,23 +2536,129 @@
 	<key id="90050846" level="1" name="극한의 암살 표창" tooltipDescription="극한의 암살 표창 타격 중첩 효과" />
 	<key id="90050847" level="1" name="극한의 암살 표창 발동효과의 공격속도와 방어 관통력 증가량 5% 추가" />
 	<key id="90050848" level="1" name="극한의 암살 표창" tooltipDescription="공격속도와 방어 관통력 증가" />
+	<key id="90050849" level="1" name="타격 시 일정 확률로 크리티컬 대미지 100 증가\n광포한/맹렬한 암살 표창을 양손에 착용해야 발동" />
+	<key id="90050850" level="1" name="광포한/맹렬한 암살 표창" tooltipDescription="크리티컬 대미지 증가" />
+	<key id="90050851" level="1" name="광포한/맹렬한 암살 표창 발동효과의 크리티컬 대미지 증가량 200 추가" />
+	<key id="90050852" level="1" name="제자리에서 1.5초 이상 움직이지 않을 시 무기 공격력 4.5% 증가" tooltipDescription="제자리에서 1.5초 이상 움직이지 않을 시 무기 공격력 증가" />
+	<key id="90050853" level="1" name="광포한/맹렬한 포격 캐논 발동효과의 무기 공격력 증가량 9% 추가" />
+	<key id="90050855" level="1" name="광포한/맹렬한 포격 캐논 발동효과의 무기 공격력 증가량 4.5% 추가" />
+	<key id="90050857" level="1" name="타격 시 일정 확률로 9초 동안 방어 관통력 4.5% 증가" />
+	<key id="90050858" level="1" name="극한의 포격 캐논" tooltipDescription="방어 관통력 증가" />
+	<key id="90050859" level="1" name="극한의 포격 캐논 발동효과의 방어 관통력 증가랑 9% 추가" />
+	<key id="90050860" level="1" name="극한의 포격 캐논 발동효과의 방어 관통력 증가랑 4.5% 추가" />
+	<key id="90050865" level="1" name="광포한/맹렬한 포격 캐논" tooltipDescription="1.5초 이상 움직이지 않을 시 무기 공격력 증가" />
+	<key id="90050866" level="1" name="극한의 신성 홀" tooltipDescription="마법 대미지 증가" />
 	<key id="90050867" name="타격 시 일정 확률로 13초 동안 냉기 속성 대미지 8.1% 증가" />
 	<key id="90050868" name="광포한/맹렬한 주술 블레이드" tooltipDescription="냉기 속성 대미지 증가" />
 	<key id="90050869" name="광포한/맹렬한 주술 블레이드 발동효과의 냉기 속성 대미지 증가량 8.1% 추가" />
-	<key id="90050873" name="타격 시 일정 확률로 9초 동안 화염 속성 대미지 8.5% 증가" />
-	<key id="90050874" name="광포한/맹렬한 난투 너클" tooltipDescription="화염 속성 대미지 증가" />
-	<key id="90050875" name="광포한/맹렬한 난투 너클 발동효과의 화염 속성 대미지 증가량 8.5% 추가" />
-	<key id="90050879" name="모든 타격 성공 시 4%의 무속성 대미지 추가" />
-	<key id="90050881" name="광포한/맹렬한 의식 오브로 입히는 무속성 대미지 1.26배 증가" />
 	<key id="90050870" name="타격 시 일정 확률로 12초 동안 전격 속성 대미지 4.5% 증가" />
 	<key id="90050871" name="극한의 주술 블레이드" tooltipDescription="전격 속성 대미지 증가" />
 	<key id="90050872" name="극한의 주술 블레이드 발동효과의 전격 속성 대미지 증가량 4.5% 추가 증가" />
+	<key id="90050873" name="타격 시 일정 확률로 9초 동안 화염 속성 대미지 8.5% 증가" />
+	<key id="90050874" name="광포한/맹렬한 난투 너클" tooltipDescription="화염 속성 대미지 증가" />
+	<key id="90050875" name="광포한/맹렬한 난투 너클 발동효과의 화염 속성 대미지 증가량 8.5% 추가" />
 	<key id="90050876" name="타격 시 일정 확률로 4초 동안 물리 공격력 7.5% 증가하고 슈퍼 아머 획득" />
 	<key id="90050877" name="극한의 난투 너클" tooltipDescription="물리 공격력 증가, 슈퍼 아머 상태" />
 	<key id="90050878" name="극한의 난투 너클 발동효과의 물리 공격력 증가량 7.5% 추가" />
+	<key id="90050879" name="모든 타격 성공 시 4%의 무속성 대미지 추가" />
+	<key id="90050881" name="광포한/맹렬한 의식 오브로 입히는 무속성 대미지 1.26배 증가" />
 	<key id="90050882" name="타격 시 일정 확률로 18초 동안 전투력 95 증가" />
 	<key id="90050883" name="극한의 의식 오브" tooltipDescription="전투력 증가" />
 	<key id="90050884" name="극한의 의식 오브 발동효과의 전투력 증가량 95 추가" />
+	<key id="90050885" level="1" name="지상 탈것 탑승 시 이동속도 20% 증가\n  단, 투기장 및 전장에서 적용되지 않는다." />
+	<key id="90050886" level="1" name="반경 9m 이내 적대 대상이 4명 이상일 경우 전투력 520 증가\n단, 투기장 및 전장에서 적용되지 않는다." tooltipDescription="반경 9m 이내 적대 대상이 4명 이상일 경우 전투력 520 증가\n단, 투기장 및 전장에서 적용되지 않는다." />
+	<key id="90050887" level="1" name="명중 4 감소" />
+	<key id="90050888" level="1" name="이동속도 5% 감소" />
+	<key id="90050889" level="1" name="타격 시 일정 확률로 15초 동안 전투력 180 증가\n단, 투기장 및 전장에서 발동되지 않는다." />
+	<key id="90050890" level="1" name="세이렌의 노래" tooltipDescription="전투력 180 증가" />
+	<key id="90050891" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1920 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050892" level="1" name="해일의 롱소드" tooltipDescription="전투력 1920 증가" />
+	<key id="90050893" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050894" level="1" name="해일의 라지소드" tooltipDescription="전투력 2068 증가" />
+	<key id="90050895" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050896" level="1" name="해일의 스태프" tooltipDescription="전투력 2068 증가" />
+	<key id="90050897" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1920 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050898" level="1" name="해일의 홀" tooltipDescription="전투력 1920 증가" />
+	<key id="90050899" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050900" level="1" name="해일의 보우" tooltipDescription="전투력 2068 증가" />
+	<key id="90050901" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050902" level="1" name="해일의 캐논" tooltipDescription="전투력 2068 증가" />
+	<key id="90050903" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1034 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050905" level="1" name="해일의 대거" tooltipDescription="전투력 1034 증가" />
+	<key id="90050907" level="1" name="해일의 대거" tooltipDescription="전투력 2068 증가" />
+	<key id="90050908" level="1" name="타격 시 일정 확률로 20초 동안 전투력 1034 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050910" level="1" name="해일의 표창" tooltipDescription="전투력 1034 증가" />
+	<key id="90050912" level="1" name="해일의 표창" tooltipDescription="전투력 2068 증가" />
+	<key id="90050913" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050914" level="1" name="해일의 블레이드" tooltipDescription="전투력 2068 증가" />
+	<key id="90050915" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050916" level="1" name="해일의 너클" tooltipDescription="전투력 2068 증가" />
+	<key id="90050917" level="1" name="타격 시 일정 확률로 20초 동안 전투력 2068 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050918" level="1" name="해일의 오브" tooltipDescription="전투력 2068 증가" />
+	<key id="90050919" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 30% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050920" level="1" name="눈보라의 롱소드" tooltipDescription="무기 공격력 30% 증가" />
+	<key id="90050921" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050922" level="1" name="눈보라의 라지소드" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050923" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050924" level="1" name="눈보라의 스태프" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050925" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 30% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050926" level="1" name="눈보라의 홀" tooltipDescription="무기 공격력 30% 증가" />
+	<key id="90050927" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050928" level="1" name="눈보라의 보우" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050929" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050930" level="1" name="눈보라의 캐논" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050931" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 17% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050933" level="1" name="눈보라의 대거" tooltipDescription="무기 공격력 17% 증가" />
+	<key id="90050935" level="1" name="눈보라의 대거" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050936" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 17% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050938" level="1" name="눈보라의 표창" tooltipDescription="무기 공격력 17% 증가" />
+	<key id="90050940" level="1" name="눈보라의 표창" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050941" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050942" level="1" name="눈보라의 블레이드" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050943" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050944" level="1" name="눈보라의 너클" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050945" level="1" name="타격 시 일정 확률로 20초 동안 무기 공격력 34% 증가\n단, 투기장 및 전장에서 발동되지 않는다" />
+	<key id="90050946" level="1" name="눈보라의 오브" tooltipDescription="무기 공격력 34% 증가" />
+	<key id="90050947" level="1" name="체력 10% 증가" />
+	<key id="90050948" level="1" name="타격 시 일정 확률로 15초 동안 공격속도와 이동속도 12% 증가" />
+	<key id="90050949" level="1" name="어둠의 힘" tooltipDescription="공격속도와 이동속도 12% 증가" />
+	<key id="90050953" level="1" name="칠신장의 스냅" tooltipDescription="공격속도 30% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;하수인들에게 더욱 효과적인 꿀밤을 때리기 위해 고안된 마드리아식 마법으로, 손목 스냅에 부분적 광속화를 부여해 고속 공격을 가능하게 만든다.&#xA;칠신장 스냅이라는 명칭이 다른 칠신장들의 격을 떨어트린다는 다크로드의 말은 깨끗하게 무시되었다.&lt;/font&gt;" />
+	<key id="90050954" level="1" name="지각할 수 없는 자의 축복" tooltipDescription="이동속도 25% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;어둠의 기운으로 몸을 가볍게 하여 움직임을 빠르게 만드는 마법. 마드리아는 주로 칠신장들의 회의에 늦었을 때 사용했다.&lt;/font&gt;" />
+	<key id="90050955" level="1" name="발동 된 칠신명 : 분노" tooltipDescription="모든 공격이 크리티컬 피해로 명중\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아의 칠신명인 &apos;분노&apos;가 발동된 상태로, 모든 공격이 치명적인 피해를 주게 된다. 그녀가 지녔던 장신구만으로도 이런 엄청난 효과를 낼 수 있는 부분은 마드리아의 진정한 힘을 가늠할 수 있는 증거이기도 하다.&lt;/font&gt;" />
+	<key id="90050956" level="1" name="블랙 스틸 코팅" tooltipDescription="물리/마법 저항력 540 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드라칸 성벽에 사용된 흑철 성분을 갑옷 전체에 입히는 마법으로, 물리적인 방어와 마법 저항력이 크게 증가한다.&lt;/font&gt;" />
+	<key id="90050957" level="1" name="영원한 체력의 말괄량이" tooltipDescription="5초 마다 EP 완전 회복\n\n&lt;font color=&quot;#FFD400&quot;&gt;어둠의 기운으로 대사량을 크게 증가시켜 행동에 필요한 에너지를 빠르게 회복시키는 마법. 마드리아가 쉴 새 없이 마드라칸을 뛰어놀 수 있었던 것은 이 마법이 있었기 때문이다.&lt;/font&gt;" />
+	<key id="90050958" level="1" name="군주의 치료" tooltipDescription="매 초마다 HP 330 회복\n\n&lt;font color=&quot;#FFD400&quot;&gt;어둠의 기운이 상처를 막고 지속적으로 회복시키는 마법. 비록 어둠의 에너지를 사용하는 것이지만 뛰어난 치료 마법임은 틀림없다. 물론 마드리아는 자신보단, 그녀에게 시달리던 하수인들에게 자주 사용해주던 마법이다.&lt;/font&gt;" />
+	<key id="90050959" level="1" name="우리 군주가 커졌어요" tooltipDescription="거대화 및 물리/마법 공격력 48% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;일시적으로 몸이 커지는 마법으로, &#xA;마드리아가 자신의 신체 나이를 20대쯤으로 만들기 위해 고안했으나 단순히 크기만 늘어나버려서 폐기한 마법이다. 만약 의도대로 성공했었다면… \n물론, 몸이 커진 만큼 전투 능력도 그만큼 상승한다.&lt;/font&gt;" />
+	<key id="90050960" level="1" name="우리 군주가 작아졌어요" tooltipDescription="소형화 및 모든 대미지 72% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;일시적으로 몸이 작아지는 마법으로, 마드리아가 자신의 신체 나이를 10대 이하로 만들기 위해 고안했으나 이미 충분히 아이 같은 신체임을 깨달은 뒤로 버려진 마법이다. 여기서 더 어려진다면… \n이라고 상상했다면 트라이아 근위대에 잡혀갈 자격이 충분하다. 물론, 몸이 작아진 만큼 상대의 방어를 파고들 수 있기 때문에 전투 능력이 상승한다. &lt;/font&gt;" />
+	<key id="90050961" level="1" name="마드라칸 댄스 히어로" tooltipDescription="춤을 추자\n\n&lt;font color=&quot;#FFD400&quot;&gt;이 끔찍한 마법은 마드리아가 파티를 열 때 주로 사용한 것으로 마법에 걸린 사람은 미친 듯이 춤을 추고 깊은 허탈감에 빠지게 된다. 마드리아의 하수인들은 이것을 일종의 고문 마법으로 착각했다고 한다.&lt;/font&gt;" />
+	<key id="90050964" level="1" name="실체화 된 분노" tooltipDescription="타격 시 일정 확률로 240%의 추가 대미지를 입힌다\n\n&lt;font color=&quot;#FFD400&quot;&gt;장신구 소유자의 분노가 암흑에너지로 실체화되어 공격 대상에게 치명적인 상처를 남기는 마법. 분노를 실체화 시키는 마법은 공식적으론 존재하지 않으나 마드리아는 그것을 자유자재로 다룬다고 한다.&lt;/font&gt;" />
+	<key id="90050966" level="1" name="그림자 위상 변환" tooltipDescription="회피 50, 모든 대미지 50% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아의 장신구 착용자에게만 적용되는 소규모 위상 변환. 실제 세계에서 물질적인 형태를 감춘다. 이 덕분에 회피력이 크게 증가하고 기습 공격 덕분에 공격력이 상승한다.&lt;/font&gt;" />
+	<key id="90050967" level="1" name="흑철 반사막" tooltipDescription="HP의 5% 만큼 대미지 흡수\n효과가 유지되는 동안 모든 대미지 80% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드라칸 성벽에 사용된 흑철 성분으로 반사막을 형성하는 마법. 마법 사용자에게 들어오는 공격을 흡수하고 더 큰 대미지를 줄 수 있게 강화하는 이 마법은, 사실 마드리아가 루카락스와의 씨름에서 이득을 보려고 만든 것이다.&lt;/font&gt;" />
+	<key id="90050968" level="1" name="생각한다. 고로 나는 사냥한다" tooltipDescription="몬스터 처치 시 경험치 20% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아가 칠신장으로서 성장하는 과정에서 사용되었던 마법으로, 좀 더 빠르게 성장하고자 딴 곳에 정신 팔리지 않고 오로지 몬스터 사냥에만 집중할 수 있게 만들어진 마법이다. 물론, 마드리아의 딴 생각은 마법을 이길 만큼 강력했지만 일반적인 사람이라면 몬스터 사냥에서 좀 더 큰 경험을 얻을 수 있다.&lt;/font&gt;" />
+	<key id="90050969" level="1" name="신경쓰이는 신경계 강화" tooltipDescription="이동속도, 모든 대미지, 공격속도 50% 증가\n이동 조작 반전\n\n&lt;font color=&quot;#FFD400&quot;&gt;모든 말초신경계가 예민해지며 섬세한 감각 하나하나를 모두 다룰 수 있게 되는 마법. 이로 인해 공격과 이동에 필요한 전반적인 신체능력이 향상되나, 신경계가 모두 뒤집어져 몸의 움직임이 반대가 되어버린다. 마드리아의 잘못된 마법 연산 덕분에 영 안 좋은 마법이 되어버렸다.&lt;/font&gt;" />
+	<key id="90050970" level="1" name="칠신장급 취미생활" tooltipDescription="낚시, 연주 경험치 8배 증가\n낚시, 연주 경험치는 최대 8배 이상 증가하지 않는다\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아의 생활이 녹아든 장신구의 힘 덕분에, 인간을 초월한 취미생활을 즐길 수 있게 되는 마법. 짧은 시간이지만, 칠신장급의 낚시와 연주 실력을 갖추고 그에 맞게 큰 경험을 얻게 된다. 칠신장급 낚시와 연주라는 명칭이 다른 칠신장들의 격을 떨어트린다는 다크로드의 말은 깨끗하게 무시되었다.&lt;/font&gt;" />
+	<key id="90050971" level="1" name="군주의 집요한 고문" tooltipDescription="타격 성공 시 1초 동안 피격 대상이 받는 대미지가 5% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;때리면 한 곳만 집요하게 때린다는 마드리아의 철학이 장신구에 각인된 마법으로, 피격받은 대상은 피해가 누적될 때마다 훨씬 큰 고통을 느끼게 된다.&lt;/font&gt;" />
+	<key id="90050972" level="1" name="군주의 집요한 고문" tooltipDescription="받는 대미지 5% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;때리면 한 곳만 집요하게 때린다는 마드리아의 철학이 장신구에 각인된 마법으로, 피격받은 대상은 피해가 누적될 떄마다 훨씬 큰 고통을 느끼게 된다.&lt;/font&gt;" />
+	<key id="90050977" level="1" name="루모탈 개방" tooltipDescription="공격속도와 모든 대미지 20% 증가" />
+	<key id="90050978" level="1" name="루모탈" tooltipDescription="타격 성공 시 대상의 방어력 1초 동안 1% 감소" />
+	<key id="90050983" level="1" name="스칼렛 로지 하트" tooltipDescription="스칼렛 하트 세트를 입고 일반 공격 및 스킬 사용 시, 4%의 확률로 발동한다. 120초 동안 공격속도가 2% 증가하며, 이 효과는 180초 동안 재발동 하지 않는다." />
+	<key id="90050985" level="1" name="스칼렛 로지 하트" tooltipDescription="스칼렛 하트 세트를 입고 일반 공격 및 스킬 사용 시, 4%의 확률로 발동한다. 120초 동안 공격속도가 2% 증가하며, 이 효과는 180초 동안 재발동 하지 않는다." />
+	<key id="90050986" level="1" name="블루밍 스칼렛 로즈" tooltipDescription="블루밍 스칼렛 하트 버프가 있는 상태에서 타격 성공 시, 4%의 확률로 240%의 무속성 대미지를 입힌다. 같은 대상에게 20초 동안 재발동하지 않는다." />
+	<key id="90050987" level="1" name="라메스톤 파편 효과가 유지되는 동안 전투력 320 증가\n단, 투기장 및 전장에서 발동되지 않는다" tooltipDescription="라메스톤 파편&quot;의 효과가 유지되는 동안 전투력이 320 증가한다. " />
+	<key id="90050988" level="1" name="라메스톤 파편 효과가 유지되는 동안 전투력 320 증가\n단, 투기장 및 전장에서 발동되지 않는다&#xA;(양손에 동일한 장비를 착용해야 효과가 적용된다)" />
+	<key id="90050990" level="1" name="루모탈" tooltipDescription="방어력 1% 감소" />
+	<key id="90050993" level="1" name="초보자용 황금 미끼 사용 시 낚시 경험치 3% 증가" tooltipDescription="초보자용 황금 미끼 사용 시 낚시 경험치 3% 증가" />
+	<key id="90050994" level="1" name="악기 연주 시 경험치 3% 증가" tooltipDescription="악기 연주 시 경험치 3% 증가" />
+	<key id="90050995" level="1" name="타격 시 일정 확률로 10초 동안 물리/마법 공격력 13.5% 증가" tooltipDescription="타격 시 일정 확률로 10초 동안 물리/마법 공격력 13.5% 증가" />
+	<key id="90050996" level="1" name="파이렌시아 : 파도마녀의 암초관" tooltipDescription="물리/마법 공격력 13.5% 증가" />
+	<key id="90050997" level="1" name="엘리트 몬스터 공격 시 대미지 10% 증가" tooltipDescription="엘리트 몬스터 공격 시 대미지 10% 증가" />
+	<key id="90050999" level="1" name="루모탈 개방" tooltipDescription="공격속도와 모든 대미지 20% 증가" />
+	<key id="90051000" level="1" name="루모탈" tooltipDescription="타격 성공 시 대상의 방어력 1초 동안 1% 감소" />
+	<key id="90051001" level="1" name="투명 드래곤의 분노" tooltipDescription="투명화 춤추기 상태. 모든 공격을 95% 확률로 회피\n춤춘 후 화가 날 것 같다\n\n&lt;font color=&quot;#FFD400&quot;&gt;이 마법에는 슬픈 전설이 있는데, 마드리아의 강제 댄스 마법에 걸린 루카락스가 모든 것을 포기한 채 그녀를 위한 혼신의 용춤을 보여줬으나, 마드리아는 재미없다며 도로 투명 마법을 걸어버린 사건이 바로 그것이다. 물론, 이 사건 직후 분노한 루카락스가 첨탑의 반을 날려버린 것은 보고되지 않았으나 마드리아는 오히려 이 점을 재미있어 했다고 한다. 이후 마드리아는 이 추억을 잊지 않기 위해 그날 있었던 모든 과정을 마법으로 만들었다.&lt;/font&gt;" />
+	<key id="90051002" level="1" name="투명 드래곤의 분노" tooltipDescription="거대한 분노에 사로잡혔다. \n모든 대미지가 3배 증가하고 이동속도가 50% 증가\n\n&lt;font color=&quot;#FFD400&quot;&gt;이 마법에는 슬픈 전설이 있는데, 마드리아의 강제 댄스 마법에 걸린 루카락스가 모든 것을 포기한 채 그녀를 위한 혼신의 용춤을 보여줬으나, 마드리아는 재미없다며 도로 투명 마법을 걸어버린 사건이 바로 그것이다. 물론, 이 사건 직후 분노한 루카락스가 첨탑의 반을 날려버린 것은 보고되지 않았으나 마드리아는 오히려 이 점을 재미있어 했다고 한다. 이후 마드리아는 이 추억을 잊지 않기 위해 그날 있었던 모든 과정을 마법으로 만들었다.&lt;/font&gt;" />
+	<key id="90051004" level="1" name="위상 차원의 힘" tooltipDescription="SP 소모 없이 스킬 사용\n\n&lt;font color=&quot;#FFD400&quot;&gt;모든 공격과 마법에 필요한 에너지를 현실 차원이 아닌 위상 차원에서 불러와 사용할 수 있게 만드는 마법으로, 끊임없는 공격과 행동을 할 수 있게 만들어 준다. 비록 마드리아의 장신구를 가진 자는 일시적으로만 사용할 수 있는 능력이지만 마드리아는 언제든 이 능력을 발휘할 수 있다.&lt;/font&gt;" />
+	<key id="90051006" level="1" name="단풍 이펙트 추가" tooltipDescription="단풍 이펙트 추가" />
+	<key id="90051007" level="1" name="마드리아의 변덕" />
 	<key id="90051009" level="1" name="캐릭터의 대기, 뛰기, 걷기, 점프 모션 변경/이펙트 추가" />
 	<key id="90051010" level="1" name="캐릭터의 대기, 뛰기, 걷기, 점프 모션 변경/이펙트 추가" />
 	<key id="90051011" level="1" name="캐릭터의 대기, 뛰기, 걷기, 낙하 모션 변경/이펙트 추가" />
@@ -2606,28 +2667,28 @@
 	<key id="90051014" level="1" name="무기 공격력 4.5% 증가" />
 	<key id="90051015" level="1" name="물리/마법 공격력 4.5% 증가" />
 	<key id="90051016" level="1" name="고통의 계약 성사" />
-	<key id="90051019" level="1" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 10% 증가\n체력 10% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="2" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 11% 증가\n체력 11% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="3" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 12% 증가\n체력 12% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="4" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 13% 증가\n체력 13% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="5" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 14% 증가\n체력 14% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="6" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 15% 증가\n체력 15% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="7" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 16% 증가\n체력 16% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="8" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 17% 증가\n체력 17% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="9" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 18% 증가\n체력 18% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="10" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 19% 증가\n체력 19% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="11" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 20% 증가\n체력 20% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="12" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 21% 증가\n체력 21% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="13" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 22% 증가\n체력 22% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="14" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 23% 증가\n체력 23% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="15" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 24% 증가\n체력 24% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="16" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 25% 증가\n체력 25% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="17" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 26% 증가\n체력 26% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="18" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 27% 증가\n체력 27% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="19" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 28% 증가\n체력 28% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="20" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 29% 증가\n체력 29% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051019" level="21" name="고통의 계약 성사" tooltipDescription='물리/마법 대미지 30% 증가\n체력 30% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;' />
-	<key id="90051020" level="1" name="검은 날개의 음모" tooltipDescription='물리/마법 대미지 100% 증가\n감소된 체력이 추가로 반감\n\n&lt;font color=&quot;#FFD400&quot;&gt;투르카의 장신구가 발현한 최강의 축복, 혹은 최흉의 저주. 이 기운은 사용자의 뜻에 따라 득과 실이 구분되며, 풍문에 따르면 투르카의 극과 극을 달리는 겉모습과도 일맥상통한다고 한다.&lt;/font&gt;' />
+	<key id="90051019" level="1" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 10% 증가\n체력 10% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="2" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 11% 증가\n체력 11% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="3" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 12% 증가\n체력 12% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="4" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 13% 증가\n체력 13% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="5" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 14% 증가\n체력 14% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="6" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 15% 증가\n체력 15% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="7" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 16% 증가\n체력 16% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="8" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 17% 증가\n체력 17% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="9" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 18% 증가\n체력 18% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="10" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 19% 증가\n체력 19% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="11" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 20% 증가\n체력 20% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="12" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 21% 증가\n체력 21% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="13" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 22% 증가\n체력 22% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="14" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 23% 증가\n체력 23% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="15" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 24% 증가\n체력 24% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="16" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 25% 증가\n체력 25% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="17" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 26% 증가\n체력 26% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="18" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 27% 증가\n체력 27% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="19" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 28% 증가\n체력 28% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="20" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 29% 증가\n체력 29% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051019" level="21" name="고통의 계약 성사" tooltipDescription="물리/마법 대미지 30% 증가\n체력 30% 감소\n\n&lt;font color=&quot;#FFD400&quot;&gt;음모의 칠신장, 투르카의 장신구를 통해 맺어진 검은 계약. 이 계약으로 장신구의 사용자는 파괴적인 힘을 얻게 되지만, 이해타산에 밝은 투르카는 계약자의 생명을 이자로 수금한다.&lt;/font&gt;" />
+	<key id="90051020" level="1" name="검은 날개의 음모" tooltipDescription="물리/마법 대미지 100% 증가\n감소된 체력이 추가로 반감\n\n&lt;font color=&quot;#FFD400&quot;&gt;투르카의 장신구가 발현한 최강의 축복, 혹은 최흉의 저주. 이 기운은 사용자의 뜻에 따라 득과 실이 구분되며, 풍문에 따르면 투르카의 극과 극을 달리는 겉모습과도 일맥상통한다고 한다.&lt;/font&gt;" />
 	<key id="90051040" level="1" name="물리/마법 대미지 15% 증가" tooltipDescription="물리/마법 대미지 15% 증가" />
 	<key id="90051041" level="1" name="리버스 레이드에서 입히는 대미지 10% 증가 " tooltipDescription="리버스 레이드에서 입히는 대미지 10% 증가 " />
 	<key id="90051042" level="1" name="리버스 레이드에서 받는 대미지 10% 감소" tooltipDescription="리버스 레이드에서 입히는 대미지 10% 증가 " />
@@ -2748,6 +2809,8 @@
 	<key id="90051286" name="야수의 분노 강화" />
 	<key id="90051292" name="에너지 변이" tooltipDescription="전투력 400 증가" />
 	<key id="90051292" name="에너지 변이" tooltipDescription="전투력 1300 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051292" name="エネルギー変異" tooltipDescription="戦闘力が520増加" feature="NAEquipmentBalance_01" locale="JP" />
+	<key id="90051292" name="Power Surge" tooltipDescription="Increases bonus attack by 520." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051297" name="에너지 변이 강화" />
 	<key id="90051304" name="가속화" tooltipDescription="명중 9, 공격속도 9% 증가" />
 	<key id="90051309" name="가속화 강화" />
@@ -2759,11 +2822,29 @@
 	<key id="90051326" name="시간의 검" feature="LapentaDungeon" />
 	<key id="90051327" name="공간 균열" feature="LapentaDungeon" />
 	<key id="90051328" name="유페리아의 가호" feature="LapentaDungeon" />
+	<key id="90051337" level="1" name="공간의 힘" tooltipDescription="공간의 힘으로 명중이 3, 방어력 관통이 3% 증가합니다." feature="Level60Item" />
+	<key id="90051339" level="1" name="시간의 힘" tooltipDescription="시간의 힘으로 공격속도와 이동속도가 3% 증가합니다." feature="Level60Item" />
 	<key id="90051440" name="기운 안정화" feature="LapentaDungeon" />
+	<key id="90051441" level="1" name="라펜타의 힘" tooltipDescription="라펜타의 힘이 축적되고 있습니다. 모든 피해가 3% 증가합니다." feature="Level60Item" />
 	<key id="90051442" name="강화된 시간의 검" feature="LapentaDungeon" />
 	<key id="90051443" name="강화된 공간 균열" feature="LapentaDungeon" />
 	<key id="90051444" name="강화된 유페리아의 가호" feature="LapentaDungeon" />
 	<key id="90051447" name="라펜샤드에 공명" feature="LapentaDungeon" />
+	<key id="90051470" level="1" name="그림자 사냥꾼" tooltipDescription="물리 공격력과 마법 공격력이 증가합니다." feature="Season3" />
+	<key id="90051494" level="1" name="해적 사냥꾼" tooltipDescription="공격속도가 증가합니다." feature="Season3" />
+	<key id="90051518" level="1" name="기계 사냥꾼" tooltipDescription="물리 대미지와 마법 대미지가 증가합니다." feature="Season3" />
+	<key id="90051543" level="1" name="전투력 250 증가 (전장에서 미적용)" feature="Season3" />
+	<key id="90051544" level="1" name="" feature="Season3" />
+	<key id="90051570" level="1" name="전투력 250 증가, 다크 스트림에서는 2배로 증가 (전장에서 미적용)" feature="Season3" />
+	<key id="90051572" level="1" name="체력 720 증가, 다크스트림에서는 2배로 증가" feature="Season3" />
+	<key id="90051598" level="1" name="극한!!!!!" tooltipDescription="이동속도와 공격속도가 증가합니다." feature="Season3" />
+	<key id="90051599" level="1" name="전투력 250 증가 (전장에서 미적용)" feature="Season3" />
+	<key id="90051600" level="1" name="탈 것 이동속도 5% 증가" feature="Season3" />
+	<key id="90051602" level="1" name="광포의 효과 2배로 증가" feature="Season3" />
+	<key id="90051603" level="1" name="난폭의 효과 2배로 증가" feature="Season3" />
+	<key id="90051604" level="1" name="극한의 효과 2배로 증가" feature="Season3" />
+	<key id="90051605" level="1" name="회복 스킬 효과 10% 증가 (전장에서 미적용)" feature="Season3" />
+	<key id="90051606" level="1" name="SP 10 증가 (전장에서 미적용)" feature="Season3" />
 	<key id="90051616" name="전장 및 투기장에서 HP 1000, 방어력 관통 8% 증가" feature="PvPRankingDuelMode" />
 	<key id="90051617" name="전장 및 투기장에서 HP 2500, 명중 10 증가" feature="PvPRankingDuelMode" />
 	<key id="90051620" level="1" name="영롱한 푸른빛" feature="Level70Item" />
@@ -2783,51 +2864,75 @@
 	<key id="90051651" level="1" name="에너지 보호막" tooltipDescription="시공의 힘이 몸을 감싸 전투력이 증가하고 피격 시 대미지를 흡수합니다." feature="Level70Item" />
 	<key id="90051653" level="1" name="전투력 530 증가 (전장에서 미적용)" feature="Level70Item" locale="CN" />
 	<key id="90051653" level="1" name="전투력 1700 증가 (전장에서 미적용)" feature="KREquipmentBalance_01" locale="KR" />
-	<key id="90051654" level="1" name="전투력 330 증가 (전장에서 미적용)" feature="Level70Item" locale="CN" />
+	<key id="90051653" level="1" name="Increases bonus attack by 640 (not active in battlegrounds)" feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051654" level="1" name="전투력 1050 증가 (전장에서 미적용)" feature="KREquipmentBalance_01" locale="KR" />
-	<key id="90051670" level="1" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="2" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="3" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="4" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="5" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="6" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="7" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="8" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="9" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="10" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051670" level="11" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051654" level="1" name="전투력 330 증가 (전장에서 미적용)" feature="Level70Item" locale="CN" />
+	<key id="90051654" level="1" name="Increases bonus attack by 400 (not active in battlegrounds)" feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="1" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="1" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="1" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051670" level="2" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051670" level="2" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="2" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051670" level="3" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="3" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="3" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="4" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="4" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="4" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051670" level="5" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="5" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="5" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051670" level="6" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051670" level="6" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="6" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051670" level="7" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="7" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="7" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="8" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="8" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="8" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="9" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="9" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="9" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="10" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="10" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="10" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="11" name="Aetherine Trigger" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051670" level="11" name="에네르 트리거" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="11" name="에네르 트리거" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051688" level="1" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="2" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="3" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="4" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="5" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="6" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="7" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="8" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="9" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="10" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
-	<key id="90051688" level="11" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="1" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051688" level="1" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051688" level="2" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="2" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="2" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051688" level="3" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051688" level="3" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="3" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051688" level="4" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="4" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="4" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051688" level="5" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051688" level="5" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051688" level="5" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="6" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051688" level="6" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="6" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051688" level="7" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051688" level="7" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="7" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051688" level="8" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="8" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051688" level="8" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="9" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051688" level="9" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="9" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
 	<key id="90051688" level="10" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="10" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="10" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051688" level="11" name="고대의 힘" tooltipDescription="전투력 830 증가" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="11" name="Ancient Power" tooltipDescription="Increases bonus attack by 1000." feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051688" level="11" name="고대의 힘" tooltipDescription="전투력 2700 증가" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051701" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, STR 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode" />
 	<key id="90051702" level="1" name="전장 및 투기장에서 HP 2000, 방어력 관통 15%, DEX 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode" />
@@ -2838,6 +2943,7 @@
 	<key id="90051746" name="연속 포격" tooltipDescription="명중 8 증가" feature="Level70Item" />
 	<key id="90051806" level="1" name="환영 시공의 힘" tooltipDescription="전투력, 공격속도, 명중 증가" feature="Level70Item" locale="CN" />
 	<key id="90051806" level="1" name="환영 시공의 힘" tooltipDescription="전투력, 공격속도, 명중 증가" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051806" level="1" name="Maddening Space-time Power" tooltipDescription="Increases bonus attack, attack speed, and accuracy" feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051812" name="전투력 1200 증가 (전장에서 미적용)" />
 	<key id="90051813" name="보스 공격 시 대미지 4% 증가" />
 	<key id="90051823" level="1" name="전장 및 투기장에서 HP 48000, 방어력 관통 15%, STR 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode02" />
@@ -2845,6 +2951,31 @@
 	<key id="90051825" level="1" name="전장 및 투기장에서 HP 48000, 방어력 관통 15%, INT 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode02" />
 	<key id="90051826" level="1" name="전장 및 투기장에서 HP 48000, 방어력 관통 15%, LUK 200, 크리티컬 회피 100 증가" feature="PvPRankingDuelMode02" />
 	<key id="90051827" level="1" name="전장 및 투기장에서 HP 92000, 공격속도 15%, 명중 25, 행동 불가 시간 감소 50% 증가" feature="PvPRankingDuelMode02" />
+	<key id="90060002" level="1" name="비열한 노하우" />
+	<key id="90060005" level="1" name="비열한 노하우 1단계" tooltipDescription="공격력 n% 증가" />
+	<key id="90060006" level="1" name="비열한 노하우 2단계" tooltipDescription="공격력 n% 증가" />
+	<key id="90060012" level="1" name="보호막" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 n% 만큼 대미지 흡수" />
+	<key id="90060016" level="1" name="공격 집중" tooltipDescription="1중첩 당 공격력 n% 증가\n피격 시 효과 소멸" />
+	<key id="90100001" level="1" name="타격 시 20% 확률로 3초 간 흡혈" tooltipDescription="타격 시 20% 확률로 3초 간 흡혈" />
+	<key id="90100002" level="1" name="흡혈" tooltipDescription="적에게 타격하는 대미지의 30%를 흡혈한다." />
+	<key id="90100011" level="1" name="타격 시 20% 확률로 STR 증가" tooltipDescription="타격 시 20% 확률로 STR 증가" />
+	<key id="90100012" level="1" name="STR 증가" tooltipDescription="STR 30% 증가" />
+	<key id="90300001" level="1" name="타격 시 20% 확률로 화상 유발" tooltipDescription="타격 시 20% 확률로 화상 유발" />
+	<key id="90300002" level="1" name="화상" tooltipDescription="대미지의 50%만큼 화상 효과" />
+	<key id="90300011" level="1" name="타격 시 20% 확률로 INT 증가" tooltipDescription="타격 시 20% 확률로 INT 증가" />
+	<key id="90300012" level="1" name="INT 증가" tooltipDescription="INT 30% 증가" />
+	<key id="90400001" level="1" name="타격 시 10% 확률로 빙결 유발" tooltipDescription="타격 시 10% 확률로 빙결 유발" />
+	<key id="90400002" level="1" name="빙결" tooltipDescription="3초 간 얼어붙음" />
+	<key id="90400011" level="1" name="타격 시 20% 확률로 크리티컬 확률 증가" tooltipDescription="타격 시 20% 확률로 크리티컬 확률 증가" />
+	<key id="90400012" level="1" name="크리티컬 확률 증가" tooltipDescription="크리티컬 확률 100% 증가" />
+	<key id="90500001" level="1" name="타격 시 25% 확률로 출혈 유발" tooltipDescription="타격 시 25% 확률로 출혈 유발" />
+	<key id="90500002" level="1" name="출혈" tooltipDescription="대미지의 20%만큼 출혈 효과" />
+	<key id="90500011" level="1" name="타격 시 20% 확률로 공격속도 증가" tooltipDescription="타격 시 20% 확률로 공격속도 증가" />
+	<key id="90500012" level="1" name="공격속도 증가" tooltipDescription="공격속도 스탯 100% 증가" />
+	<key id="90800001" level="1" name="타격 시 20% 확률로 중독 유발" tooltipDescription="타격 시 20% 확률로 중독 유발" />
+	<key id="90800002" level="1" name="중독" tooltipDescription="대미지의 20%만큼 중독 효과" />
+	<key id="90800011" level="1" name="타격 시 10% 확률로 이동속도 증가" tooltipDescription="타격 시 10% 확률로 이동속도 증가" />
+	<key id="90800012" level="1" name="이동속도 증가" tooltipDescription="이동속도 스탯 300% 증가" />
 	<key id="91000011" level="1" name="카운터 발동 시 SP 3 회복" />
 	<key id="91000021" level="1" name="광전사의 혼 상태 중에 매 초마다 HP 1.0% 회복" />
 	<key id="91000041" level="1" name="홀리 익스플로전 명중 시 7.0% 추가 대미지" />
@@ -2854,95 +2985,6 @@
 	<key id="91000071" level="1" name="부비 트랩이 명중한 대상에게 1.5초 기절 효과" />
 	<key id="91000072" name="기절" tooltipDescription="기절하여 행동 불가" />
 	<key id="91000091" level="1" name="분신:쉐도우 웹이 명중한 대상의 명중, 회피 6 감소" />
-	<key id="97000001" level="1" name="경험치 증가" tooltipDescription="몬스터 사냥 시, 경험치 20% 추가 획득" />
-	<key id="97000011" level="1" name="공격력 상승" tooltipDescription="물리/마법 공격력 10% 증가" />
-	<key id="97000021" level="1" name="2주년의 축복" tooltipDescription="물리/마법 공격력 10% 증가" />
-	<key id="98000001" level="1" name="결속의 힘" tooltipDescription="든든한 친구를 얻어 힘이 샘솟습니다.\n물리, 마법 공격력 5 증가\n전장 및 투기장에서는 적용되지 않음" />
-	<key id="98000011" level="1" name="가벼운 발걸음" tooltipDescription="신비한 펫의 능력으로 발걸음이 가벼워졌습니다.\n이동속도 5% 증가\n전장 및 투기장에서는 적용되지 않음" />
-	<key id="98000021" level="1" name="흔들리지 않는 믿음" tooltipDescription="캐릭터를 바라보는 펫의 눈이 초롱초롱 빛납니다.\n명중 3 증가\n전장 및 투기장에서는 적용되지 않음" />
-	<key id="99900041" level="1" name="더러움" tooltipDescription="쓰레기를 뒤집어써 몸이 더러워졌습니다\n이동속도 70% 감소" />
-	<key id="99900051" level="1" name="가스중독" tooltipDescription="유독가스에 정신을 잃었습니다\n기절하여 행동 불가" />
-	<key id="99900061" level="1" name="폐기물 중독" tooltipDescription="위험한 폐기물에 노출되었습니다\n매 초마다 독 대미지" />
-	<key id="99900071" level="1" name="화상" tooltipDescription="신성한 불꽃이 온몸을 휘감습니다\n매 초마다 화염 대미지" />
-	<key id="99900131" level="1" name="계란범벅" tooltipDescription="온몸이 계란으로 더러워졌습니다\n명중 30% 감소" />
-	<key id="99900191" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900201" level="1" name="기절" tooltipDescription="기절하여 행동 불가\n매초마다 화염 대미지" />
-	<key id="99900211" level="1" name="더러움" tooltipDescription="냄새나는 물질이 몸에 묻었습니다\n이동속도 70% 감소" />
-	<key id="99900221" level="1" name="더러움" tooltipDescription="냄새나는 물질이 몸에 묻었습니다\n이동속도 70% 감소" />
-	<key id="99900231" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="90000237" level="1" name="목소리 변조" tooltipDescription="헬륨가스를 들이마셔 목소리가 바뀌었습니다." />
-	<key id="99900241" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900251" level="1" name="감전" tooltipDescription="지속적으로 전격 대미지" />
-	<key id="99900261" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900271" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900281" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900282" level="1" name="방어력 감소" tooltipDescription="물리와 마법 대미지 피해 50% 증가" />
-	<key id="99900293" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900322" level="1" name="중독" tooltipDescription="매 초마다 대미지의 30% 만큼 중독 효과" />
-	<key id="99900332" level="1" name="속박" tooltipDescription="가시 넝쿨에 몸이 묶여 행동 불가" />
-	<key id="99900451" level="1" name="보호막" tooltipDescription="모든 방해 효과에 면역" feature="MassiveCrazyRunnersShanghai" />
-	<key id="99900471" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900502" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900512" level="1" name="휘발유 화상" tooltipDescription="휘발유가 몸에 묻었습니다\n지속적으로 화염 대미지" />
-	<key id="99900522" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
-	<key id="99900532" level="1" name="휘발유 화상" tooltipDescription="휘발유가 몸에 묻었습니다\n지속적으로 화염 대미지" />
-	<key id="99900542" level="1" name="동상" tooltipDescription="냉기가 피부 속으로 스며듭니다\n이동속도 70% 감소\n지속적으로 냉기 대미지" />
-	<key id="99900552" level="1" name="기절" tooltipDescription="기절하여 행동불가" />
-	<key id="99900562" level="1" name="기절" tooltipDescription="기절하여 행동불가" />
-	<key id="99900922" level="1" name="화상" tooltipDescription="방어력 30% 감소\n매 초마다 화염 대미지" />
-	<key id="99910340" level="1" name="마크52 프로토타입" tooltipDescription="태초의 버섯 섬에서 발견된 마크52 프로토타입.\n완성형이 아닌 만큼 불안정해 보인다." feature="SurvivalContents02" />
-	<key id="99910372" level="1" name="화상" tooltipDescription="화상을 입어 5초간 불탑니다." feature="Fieldwar01" />
-	<key id="100000001" level="1" name="영혼의 휴식" tooltipDescription="혼자의 힘으로 비석을 치우느라\n기력을 모두 소진했습니다\n기력 회복을 위해 휴식의 시간이 필요합니다" />
-	<key id="100000002" level="1" name="벨마의 심판" tooltipDescription="벨마의 심판으로 처벌을 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 모든 채팅\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n- 악보 생성 및 악기 연주\n- 그 외 커뮤니티 관련 행위\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
-	<key id="100000003" level="1" name="상처 입은 영혼" tooltipDescription="비석을 걷어내니 깊은 상처가 남았습니다.\n상처가 치유되기 전에 또 쓰러지면 강철 비석에 \n깔리게 됩니다." />
-	<key id="100000004" level="1" name="소생의 축복" tooltipDescription="기운을 차릴 때까지 대미지를 입지 않습니다" />
-	<key id="100000005" level="1" name="공간의 틈에서 나오는 중" tooltipDescription="공간의 틈에서 나오고 있는 중입니다\n몸과 정신이 완전히 빠져 나올 때까지\n대미지를 입지 않습니다" />
-	<key id="100000006" name="PC방 접속 효과" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시, 경험치 및 메소 20% 추가 획득\n물리 공격력과 마법 공격력 3%, HP 100 증가\n스탯 버프는 전장에서 적용되지 않습니다." />
-	<key id="100000007" name="전장의 부름" tooltipDescription="전장의 부름을 받아 신병이 되었습니다. \n신병 신분일 때는 다른 전장 신청 불가" />
-	<key id="100000008" level="1" name="벨마의 경고" tooltipDescription="벨마의 경고를 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n- 악보 생성\n- 그 외 커뮤니티 관련 행위\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
-	<key id="100000009" name="쑥쑥 성장 버프" tooltipDescription="몬스터 사냥 및 퀘스트 완료 시, 경험치 10% 추가 획득" />
-	<key id="100000011" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000012" name="세이프라이딩" tooltipDescription="몬스터에게 피격당해도 탈것에서 떨어지지 않습니다." />
-	<key id="100000013" name="수륙양용" tooltipDescription="물에 들어가도 탈것에서 떨어지지 않습니다." />
-	<key id="100000014" name="프리미엄 클럽 혜택" tooltipDescription="- 캐릭터 이동속도 5% 증가 (PVP 지역 제외)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 20% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 메럿 부활 비용 50% 할인\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 프리미엄 전용 던전 및 마크 사용가능\n- 프리미엄 전용 아이템 매일 제공" />
-	<key id="100000016" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000017" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000018" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000019" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000020" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000021" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000022" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000023" name="동지애" tooltipDescription="무작위 모험 던전을 함께할 동료들을 만나 끈끈한 동지애가 생겼습니다. 동지애가 유지되는 동안에는 다른 무작위 모험 던전을 신청할 수 없습니다. 무작위 모험 던전을 클리어하면 사라집니다." />
-	<key id="100000024" name="PC방 버프(브론즈)" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시 경험치 15%, 메소 10% 추가 획득\n물리 공격력과 마법 공격력 2%, HP 100 증가\n연주, 낚시 경험치 2% 추가 획득\n스탯 버프는 전장에서 적용되지 않습니다." />
-	<key id="100000026" name="PC방 버프(골드)" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시 경험치 20%, 메소 15% 추가 획득\n물리 공격력과 마법 공격력 3%, HP 150 증가\n연주, 낚시 경험치 3% 추가 획득\n스탯 버프는 전장에서 적용되지 않습니다." />
-	<key id="100000043" name="프리미엄 클럽 혜택" tooltipDescription="- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 10% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 블랙마켓 아이템 거래 수수료 20% 할인\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 로터스 에어택시 무제한 이용 가능\n- 프리미엄 전용 던전 및 마크 사용 가능\n- 프리미엄 전용 아이템 매일 제공" locale="NA" />
-	<key id="100000043" name="프리미엄 클럽 혜택" tooltipDescription="- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 10% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 블랙마켓 아이템 거래 수수료 20% 할인 (메소 구매 제외)\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 로터스 에어택시 무제한 이용 가능\n- 프리미엄 전용 던전 및 마크 사용 가능\n- 프리미엄 전용 아이템 매일 제공" feature="MesoMarket" locale="NA" />
-	<key id="100000046" name="프리미엄 클럽 혜택(파티 보너스)" tooltipDescription="프리미엄 클럽 혜택을 받는 동료와 파티를 맺어 캐릭터 이동속도 및 지상탈것 이동속도가 5% 증가 (PVP 지역 제외 / 파티 전체 적용)" locale="NA" />
-	<key id="100000047" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000048" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000049" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
-	<key id="100000050" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000051" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000052" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
-	<key id="100000053" name="PC방 버프" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시 경험치 15%, 메소 10% 추가 획득\n물리 공격력과 마법 공격력 2%, HP 100 증가\n스탯 버프는 전장에서 적용되지 않습니다." locale="JP" />
-	<key id="90051337" level="1" name="공간의 힘" tooltipDescription="공간의 힘으로 명중이 3, 방어력 관통이 3% 증가합니다." feature="Level60Item" />
-	<key id="90051339" level="1" name="시간의 힘" tooltipDescription="시간의 힘으로 공격속도와 이동속도가 3% 증가합니다." feature="Level60Item" />
-	<key id="90051441" level="1" name="라펜타의 힘" tooltipDescription="라펜타의 힘이 축적되고 있습니다. 모든 피해가 3% 증가합니다." feature="Level60Item" />
-	<key id="90051470" level="1" name="그림자 사냥꾼" tooltipDescription="물리 공격력과 마법 공격력이 증가합니다." feature="Season3" />
-	<key id="90051494" level="1" name="해적 사냥꾼" tooltipDescription="공격속도가 증가합니다." feature="Season3" />
-	<key id="90051518" level="1" name="기계 사냥꾼" tooltipDescription="물리 대미지와 마법 대미지가 증가합니다." feature="Season3" />
-	<key id="90051598" level="1" name="극한!!!!!" tooltipDescription="이동속도와 공격속도가 증가합니다." feature="Season3" />
-	<key id="90051599" level="1" name="전투력 250 증가 (전장에서 미적용)" feature="Season3" />
-	<key id="90051600" level="1" name="탈 것 이동속도 5% 증가" feature="Season3" />
-	<key id="90051570" level="1" name="전투력 250 증가, 다크 스트림에서는 2배로 증가 (전장에서 미적용)" feature="Season3" />
-	<key id="90051572" level="1" name="체력 720 증가, 다크스트림에서는 2배로 증가" feature="Season3" />
-	<key id="90051543" level="1" name="전투력 250 증가 (전장에서 미적용)" feature="Season3" />
-	<key id="90051544" level="1" name="" feature="Season3" />
-	<key id="90051602" level="1" name="광포의 효과 2배로 증가" feature="Season3" />
-	<key id="90051603" level="1" name="난폭의 효과 2배로 증가" feature="Season3" />
-	<key id="90051604" level="1" name="극한의 효과 2배로 증가" feature="Season3" />
-	<key id="90051605" level="1" name="회복 스킬 효과 10% 증가 (전장에서 미적용)" feature="Season3" />
-	<key id="90051606" level="1" name="SP 10 증가 (전장에서 미적용)" feature="Season3" />
 	<key id="92000026" level="1" name="예리함" tooltipDescription="방어력 관통이 증가합니다." feature="ShadowExpedition" />
 	<key id="92000026" level="2" name="예리함" tooltipDescription="방어력 관통이 증가합니다." feature="ShadowExpedition" />
 	<key id="92000026" level="3" name="예리함" tooltipDescription="방어력 관통이 증가합니다." feature="ShadowExpedition" />
@@ -3270,6 +3312,26 @@
 	<key id="92004004" level="18" name="신앙 증폭" tooltipDescription="신앙이 증폭됩니다.\홀리 크로스의 스킬 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
 	<key id="92004004" level="19" name="신앙 증폭" tooltipDescription="신앙이 증폭됩니다.\홀리 크로스의 스킬 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
 	<key id="92004004" level="20" name="신앙 증폭" tooltipDescription="신앙이 증폭됩니다.\홀리 크로스의 스킬 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="1" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="2" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="3" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="4" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="5" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="6" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="7" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="8" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="9" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="10" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="11" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="12" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="13" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="14" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="15" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="16" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="17" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="18" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="19" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
+	<key id="92004010" level="20" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
 	<key id="92004015" level="1" name="몰아치는 정화" tooltipDescription="정화의 물결이 점점 강화됩니다.\n공격속도 증가\n최대 10회까지 중첩 가능\n10회 중첩 시, 신성 폭발이 발동됩니다." feature="ShadowExpedition" />
 	<key id="92004015" level="2" name="몰아치는 정화" tooltipDescription="정화의 물결이 점점 강화됩니다.\n공격속도 증가\n최대 10회까지 중첩 가능\n10회 중첩 시, 신성 폭발이 발동됩니다." feature="ShadowExpedition" />
 	<key id="92004015" level="3" name="몰아치는 정화" tooltipDescription="정화의 물결이 점점 강화됩니다.\n공격속도 증가\n최대 10회까지 중첩 가능\n10회 중첩 시, 신성 폭발이 발동됩니다." feature="ShadowExpedition" />
@@ -3330,46 +3392,6 @@
 	<key id="92004019" level="18" name="홀리 심볼 강화" tooltipDescription="홀리 심볼이 강화되었습니다.\n모든 공격이 크리티컬로 적중.\n크리티컬 대미지가 증가합니다." feature="ShadowExpedition" />
 	<key id="92004019" level="19" name="홀리 심볼 강화" tooltipDescription="홀리 심볼이 강화되었습니다.\n모든 공격이 크리티컬로 적중.\n크리티컬 대미지가 증가합니다." feature="ShadowExpedition" />
 	<key id="92004019" level="20" name="홀리 심볼 강화" tooltipDescription="홀리 심볼이 강화되었습니다.\n모든 공격이 크리티컬로 적중.\n크리티컬 대미지가 증가합니다." feature="ShadowExpedition" />
-	<key id="92004010" level="1" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="2" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="3" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="4" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="5" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="6" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="7" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="8" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="9" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="10" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="11" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="12" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="13" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="14" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="15" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="16" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="17" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="18" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="19" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004010" level="20" name="심판의 빛" tooltipDescription="공격속도 증가, 생명력 회복\n실드 오브 아콘의 대미지 증가\n최대 5회까지 중첩 가능" feature="ShadowExpedition" />
-	<key id="92004029" level="1" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="2" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="3" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="4" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="5" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="6" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="7" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="8" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="9" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="10" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="11" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="12" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="13" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="14" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="15" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="16" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="17" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="18" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="19" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
-	<key id="92004029" level="20" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
 	<key id="92004023" level="1" name="빛의 방패" tooltipDescription="빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과" feature="ShadowExpedition" />
 	<key id="92004023" level="2" name="빛의 방패" tooltipDescription="빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과" feature="ShadowExpedition" />
 	<key id="92004023" level="3" name="빛의 방패" tooltipDescription="빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과" feature="ShadowExpedition" />
@@ -3390,6 +3412,26 @@
 	<key id="92004023" level="18" name="빛의 방패" tooltipDescription="빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과" feature="ShadowExpedition" />
 	<key id="92004023" level="19" name="빛의 방패" tooltipDescription="빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과" feature="ShadowExpedition" />
 	<key id="92004023" level="20" name="빛의 방패" tooltipDescription="빛의 방패 효과가 부여되었습니다.\n모든 피해량 감소\n피격 시 50% 확률로 성역 효과" feature="ShadowExpedition" />
+	<key id="92004029" level="1" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="2" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="3" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="4" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="5" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="6" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="7" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="8" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="9" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="10" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="11" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="12" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="13" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="14" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="15" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="16" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="17" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="18" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="19" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
+	<key id="92004029" level="20" name="전의상실" tooltipDescription="모든 공격력 감소\n주기적으로 피해를 입습니다." feature="ShadowExpedition" />
 	<key id="92005002" level="1" name="출혈" tooltipDescription="출혈로 인하여 방어력 감소\n주기적으로 대미지를 입습니다." feature="ShadowExpedition" />
 	<key id="92005002" level="2" name="출혈" tooltipDescription="출혈로 인하여 방어력 감소\n주기적으로 대미지를 입습니다." feature="ShadowExpedition" />
 	<key id="92005002" level="3" name="출혈" tooltipDescription="출혈로 인하여 방어력 감소\n주기적으로 대미지를 입습니다." feature="ShadowExpedition" />
@@ -3981,6 +4023,7 @@
 	<key id="92010029" level="18" name="맷집 달련" tooltipDescription="방어력 증가\n최대 5회 중첩 가능" feature="ShadowExpedition" />
 	<key id="92010029" level="19" name="맷집 달련" tooltipDescription="방어력 증가\n최대 5회 중첩 가능" feature="ShadowExpedition" />
 	<key id="92010029" level="20" name="맷집 달련" tooltipDescription="방어력 증가\n최대 5회 중첩 가능" feature="ShadowExpedition" />
+	<key id="92010033" level="1" name="스턴" tooltipDescription="기절하여 행동 불가" feature="ShadowExpedition" />
 	<key id="92011004" level="1" name="애니마르 집중" tooltipDescription="공격 속도 증가\n레이 스톰의 스킬 대미지 증가\n최대 10회 중첩 가능" feature="ShadowExpedition2nd" />
 	<key id="92011004" level="2" name="애니마르 집중" tooltipDescription="공격 속도 증가\n레이 스톰의 스킬 대미지 증가\n최대 10회 중첩 가능" feature="ShadowExpedition2nd" />
 	<key id="92011004" level="3" name="애니마르 집중" tooltipDescription="공격 속도 증가\n레이 스톰의 스킬 대미지 증가\n최대 10회 중첩 가능" feature="ShadowExpedition2nd" />
@@ -4021,26 +4064,6 @@
 	<key id="92011006" level="18" name="애니마르 폭발" tooltipDescription="SP를 소비 하지 않음\n레이 스톰 사용 시 추가 에너지 구체 발사" feature="ShadowExpedition2nd" />
 	<key id="92011006" level="19" name="애니마르 폭발" tooltipDescription="SP를 소비 하지 않음\n레이 스톰 사용 시 추가 에너지 구체 발사" feature="ShadowExpedition2nd" />
 	<key id="92011006" level="20" name="애니마르 폭발" tooltipDescription="SP를 소비 하지 않음\n레이 스톰 사용 시 추가 에너지 구체 발사" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="1" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="2" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="3" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="4" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="5" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="6" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="7" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="8" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="9" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="10" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="11" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="12" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="13" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="14" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="15" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="16" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="17" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="18" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="19" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
-	<key id="92011022" level="20" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
 	<key id="92011014" level="1" name="집중의 잔영" tooltipDescription="공격속도와 이동속도가 증가합니다." feature="ShadowExpedition2nd" />
 	<key id="92011014" level="2" name="집중의 잔영" tooltipDescription="공격속도와 이동속도가 증가합니다." feature="ShadowExpedition2nd" />
 	<key id="92011014" level="3" name="집중의 잔영" tooltipDescription="공격속도와 이동속도가 증가합니다." feature="ShadowExpedition2nd" />
@@ -4061,6 +4084,26 @@
 	<key id="92011014" level="18" name="집중의 잔영" tooltipDescription="공격속도와 이동속도가 증가합니다." feature="ShadowExpedition2nd" />
 	<key id="92011014" level="19" name="집중의 잔영" tooltipDescription="공격속도와 이동속도가 증가합니다." feature="ShadowExpedition2nd" />
 	<key id="92011014" level="20" name="집중의 잔영" tooltipDescription="공격속도와 이동속도가 증가합니다." feature="ShadowExpedition2nd" />
+	<key id="92011022" level="1" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="2" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="3" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="4" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="5" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="6" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="7" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="8" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="9" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="10" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="11" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="12" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="13" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="14" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="15" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="16" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="17" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="18" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="19" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
+	<key id="92011022" level="20" name="화신" tooltipDescription="SP를 소비 하지 않음\n에너지 스트림의 스킬 대미지가 증가\n플래쉬 스트라이크로 타격 시 에너지 스트림 효과" feature="ShadowExpedition2nd" />
 	<key id="92011025" level="1" name="소진" tooltipDescription="대상의 이동속도 및 공격속도가 감소\n매 초마다 피해\n최대 5회 중첩 가능" feature="ShadowExpedition2nd" />
 	<key id="92011025" level="2" name="소진" tooltipDescription="대상의 이동속도 및 공격속도가 감소\n매 초마다 피해\n최대 5회 중첩 가능" feature="ShadowExpedition2nd" />
 	<key id="92011025" level="3" name="소진" tooltipDescription="대상의 이동속도 및 공격속도가 감소\n매 초마다 피해\n최대 5회 중첩 가능" feature="ShadowExpedition2nd" />
@@ -4101,7 +4144,6 @@
 	<key id="92011027" level="18" name="끝없는 순환" tooltipDescription="이동속도 증가, 매 초마다 HP 회복\n최대 20회 중첩 가능" feature="ShadowExpedition2nd" />
 	<key id="92011027" level="19" name="끝없는 순환" tooltipDescription="이동속도 증가, 매 초마다 HP 회복\n최대 20회 중첩 가능" feature="ShadowExpedition2nd" />
 	<key id="92011027" level="20" name="끝없는 순환" tooltipDescription="이동속도 증가, 매 초마다 HP 회복\n최대 20회 중첩 가능" feature="ShadowExpedition2nd" />
-	<key id="92010033" level="1" name="스턴" tooltipDescription="기절하여 행동 불가" feature="ShadowExpedition" />
 	<key id="92900000" level="1" name="원정대의 힘" tooltipDescription="적의 공격에 경직되지 않음" feature="ShadowExpedition" />
 	<key id="92900001" level="1" name="여제의 구원" tooltipDescription="모든 피해에 면역" feature="ShadowExpedition" />
 	<key id="92900002" level="1" name="붉은 늑대의 힘" tooltipDescription="크리티컬 확률 증가\n크리티컬 대미지 증가" feature="ShadowExpedition" />
@@ -4209,147 +4251,45 @@
 	<key id="95000018" level="18" name="95000018 18Lv" tooltipDescription="95000018 18Lv" />
 	<key id="95000018" level="19" name="95000018 19Lv" tooltipDescription="95000018 19Lv" />
 	<key id="95000018" level="20" name="95000018 20Lv" tooltipDescription="95000018 20Lv" />
+	<key id="97000001" level="1" name="경험치 증가" tooltipDescription="몬스터 사냥 시, 경험치 20% 추가 획득" />
+	<key id="97000011" level="1" name="공격력 상승" tooltipDescription="물리/마법 공격력 10% 증가" />
+	<key id="97000021" level="1" name="2주년의 축복" tooltipDescription="물리/마법 공격력 10% 증가" />
+	<key id="98000001" level="1" name="결속의 힘" tooltipDescription="든든한 친구를 얻어 힘이 샘솟습니다.\n물리, 마법 공격력 5 증가\n전장 및 투기장에서는 적용되지 않음" />
+	<key id="98000011" level="1" name="가벼운 발걸음" tooltipDescription="신비한 펫의 능력으로 발걸음이 가벼워졌습니다.\n이동속도 5% 증가\n전장 및 투기장에서는 적용되지 않음" />
+	<key id="98000021" level="1" name="흔들리지 않는 믿음" tooltipDescription="캐릭터를 바라보는 펫의 눈이 초롱초롱 빛납니다.\n명중 3 증가\n전장 및 투기장에서는 적용되지 않음" />
+	<key id="99900041" level="1" name="더러움" tooltipDescription="쓰레기를 뒤집어써 몸이 더러워졌습니다\n이동속도 70% 감소" />
+	<key id="99900051" level="1" name="가스중독" tooltipDescription="유독가스에 정신을 잃었습니다\n기절하여 행동 불가" />
+	<key id="99900061" level="1" name="폐기물 중독" tooltipDescription="위험한 폐기물에 노출되었습니다\n매 초마다 독 대미지" />
+	<key id="99900071" level="1" name="화상" tooltipDescription="신성한 불꽃이 온몸을 휘감습니다\n매 초마다 화염 대미지" />
+	<key id="99900131" level="1" name="계란범벅" tooltipDescription="온몸이 계란으로 더러워졌습니다\n명중 30% 감소" />
+	<key id="99900191" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900201" level="1" name="기절" tooltipDescription="기절하여 행동 불가\n매초마다 화염 대미지" />
+	<key id="99900211" level="1" name="더러움" tooltipDescription="냄새나는 물질이 몸에 묻었습니다\n이동속도 70% 감소" />
+	<key id="99900221" level="1" name="더러움" tooltipDescription="냄새나는 물질이 몸에 묻었습니다\n이동속도 70% 감소" />
+	<key id="99900231" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900241" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900251" level="1" name="감전" tooltipDescription="지속적으로 전격 대미지" />
+	<key id="99900261" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900271" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900281" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900282" level="1" name="방어력 감소" tooltipDescription="물리와 마법 대미지 피해 50% 증가" />
+	<key id="99900293" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900322" level="1" name="중독" tooltipDescription="매 초마다 대미지의 30% 만큼 중독 효과" />
+	<key id="99900332" level="1" name="속박" tooltipDescription="가시 넝쿨에 몸이 묶여 행동 불가" />
+	<key id="99900451" level="1" name="보호막" tooltipDescription="모든 방해 효과에 면역" feature="MassiveCrazyRunnersShanghai" />
+	<key id="99900471" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900502" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900512" level="1" name="휘발유 화상" tooltipDescription="휘발유가 몸에 묻었습니다\n지속적으로 화염 대미지" />
+	<key id="99900522" level="1" name="기절" tooltipDescription="기절하여 행동 불가" />
+	<key id="99900532" level="1" name="휘발유 화상" tooltipDescription="휘발유가 몸에 묻었습니다\n지속적으로 화염 대미지" />
+	<key id="99900542" level="1" name="동상" tooltipDescription="냉기가 피부 속으로 스며듭니다\n이동속도 70% 감소\n지속적으로 냉기 대미지" />
+	<key id="99900552" level="1" name="기절" tooltipDescription="기절하여 행동불가" />
+	<key id="99900562" level="1" name="기절" tooltipDescription="기절하여 행동불가" />
+	<key id="99900922" level="1" name="화상" tooltipDescription="방어력 30% 감소\n매 초마다 화염 대미지" />
 	<key id="99901007" level="1" name="속박" tooltipDescription="가시에 묶여 이동속도가 대폭 감소합니다." />
 	<key id="99901008" level="1" name="속박" tooltipDescription="가시에 묶여 이동속도가 대폭 감소합니다." />
 	<key id="99901009" level="1" name="술에 취함" tooltipDescription="술기운때문에 조작이 맘대로 되지 않습니다." />
 	<key id="99901010" level="1" name="찌릿찌릿" tooltipDescription="몸에 전기가 흘러 지속적인 피해를 입습니다." />
-	<key id="99910161" level="1" name="팬텀 디스트로이어 탑승" tooltipDescription="폭주한 팬텀 디스트로이어에 탑승 했습니다.\n강력한 공격으로 일반몬스터들을 빠르게 처치 할 수 있고, 기간티카의 버프를 리셋 시킬 수 있습니다." feature="Gigantica01" />
-	<key id="90060002" level="1" name="비열한 노하우" />
-	<key id="90060005" level="1" name="비열한 노하우 1단계" tooltipDescription="공격력 n% 증가" />
-	<key id="90060006" level="1" name="비열한 노하우 2단계" tooltipDescription="공격력 n% 증가" />
-	<key id="90060012" level="1" name="보호막" tooltipDescription="마법의 기운이 온 몸을 감쌉니다.\n자신의 최대 HP의 n% 만큼 대미지 흡수" />
-	<key id="90060016" level="1" name="공격 집중" tooltipDescription="1중첩 당 공격력 n% 증가\n피격 시 효과 소멸" />
-	<key id="110000001" level="1" name="함께 낚시해" tooltipDescription="낚시로 획득하는 경험치 2배 증가" />
-	<key id="110000002" level="1" name="함께 연주해" tooltipDescription="연주로 획득하는 경험치 2배 증가" />
-	<key id="110000003" level="1" name="함께 레벨 업" tooltipDescription="몬스터 사냥 시 획득하는 경험치 10% 증가" />
-	<key id="110000004" level="1" name="즐겨요 이벤트" tooltipDescription="MC 케이의 이벤트에서 획득하는 경험치 2배 증가" />
-	<key id="110000005" level="1" name="길드원 소환" tooltipDescription="멀리 떨어져 있는 모든 길드원을 한 자리에 소환" />
-	<key id="110000006" level="1" name="모두가 부자" tooltipDescription="몬스터 사냥 시 획득하는 메소량 30% 증가" />
-	<key id="110000007" level="1" name="함께 또 줍고" tooltipDescription="필드 보스 몬스터 사냥시 아이템 2배 획득" />
-	<key id="110000008" level="1" name="길드의 명예" tooltipDescription="길드 경험치 획득량 50% 증가" />
-	<key id="110000009" level="1" name="길드의 부" tooltipDescription="길드 기금 획득량 50% 증가" />
-	<key id="110000010" level="1" name="모두의 안전" tooltipDescription="모험 던전에서 받는 피해량 20% 감소 (다크 스트림 제외)" />
-	<key id="110000011" level="1" name="모두의 파워" tooltipDescription="모험 던전에서 모든 공격력 20% 증가 (다크 스트림 제외)" />
-	<key id="110000101" level="1" name="길드 하우스 낚시 버프 1단계" tooltipDescription="낚시로 획득하는 경험치 4% 증가" />
-	<key id="110000102" level="1" name="길드 하우스 낚시 버프 2단계" tooltipDescription="낚시로 획득하는 경험치 8% 증가" />
-	<key id="110000103" level="1" name="길드 하우스 낚시 버프 3단계" tooltipDescription="낚시로 획득하는 경험치 12% 증가" />
-	<key id="110000104" level="1" name="길드 하우스 낚시 버프 4단계" tooltipDescription="낚시로 획득하는 경험치 16% 증가" />
-	<key id="110000105" level="1" name="길드 하우스 연주 버프 1단계" tooltipDescription="연주로 획득하는 경험치 4% 증가" />
-	<key id="110000106" level="1" name="길드 하우스 연주 버프 2단계" tooltipDescription="연주로 획득하는 경험치 8% 증가" />
-	<key id="110000107" level="1" name="길드 하우스 연주 버프 3단계" tooltipDescription="연주로 획득하는 경험치 12% 증가" />
-	<key id="110000108" level="1" name="길드 하우스 연주 버프 4단계" tooltipDescription="연주로 획득하는 경험치 16% 증가" />
-	<key id="110000109" level="1" name="길드 하우스 채광 버프 1단계" tooltipDescription="채광량 2배 증가" />
-	<key id="110000110" level="1" name="길드 하우스 채광 버프 2단계" tooltipDescription="채광량 2배 증가" />
-	<key id="110000111" level="1" name="길드 하우스 채광 버프 3단계" tooltipDescription="채광량 2배 증가" />
-	<key id="110000112" level="1" name="길드 하우스 채광 버프 4단계" tooltipDescription="채광량 2배 증가" />
-	<key id="110000113" level="1" name="성장의 주간 - 레벨 1" tooltipDescription="모든 퀘스트 획득 경험치가 30% 증가" />
-	<key id="110000113" level="2" name="성장의 주간 - 레벨 2" tooltipDescription="모든 퀘스트 획득 경험치가 32% 증가" />
-	<key id="110000113" level="3" name="성장의 주간 - 레벨 3" tooltipDescription="모든 퀘스트 획득 경험치가 34% 증가" />
-	<key id="110000113" level="4" name="성장의 주간 - 레벨 4" tooltipDescription="모든 퀘스트 획득 경험치가 36% 증가" />
-	<key id="110000113" level="5" name="성장의 주간 - 레벨 5" tooltipDescription="모든 퀘스트 획득 경험치가 38% 증가" />
-	<key id="110000113" level="6" name="성장의 주간 - 레벨 6" tooltipDescription="모든 퀘스트 획득 경험치가 40% 증가" />
-	<key id="110000113" level="7" name="성장의 주간 - 레벨 7" tooltipDescription="모든 퀘스트 획득 경험치가 42% 증가" />
-	<key id="110000113" level="8" name="성장의 주간 - 레벨 8" tooltipDescription="모든 퀘스트 획득 경험치가 44% 증가" />
-	<key id="110000113" level="9" name="성장의 주간 - 레벨 9" tooltipDescription="모든 퀘스트 획득 경험치가 46% 증가" />
-	<key id="110000113" level="10" name="성장의 주간 - 레벨 10" tooltipDescription="모든 퀘스트 획득 경험치가 48% 증가" />
-	<key id="110000114" level="1" name="PVP 주간 - 레벨 1" tooltipDescription="투기장에서 승리 시 40%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="2" name="PVP 주간 - 레벨 2" tooltipDescription="투기장에서 승리 시 42%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="3" name="PVP 주간 - 레벨 3" tooltipDescription="투기장에서 승리 시 44%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="4" name="PVP 주간 - 레벨 4" tooltipDescription="투기장에서 승리 시 46%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="5" name="PVP 주간 - 레벨 5" tooltipDescription="투기장에서 승리 시 48%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="6" name="PVP 주간 - 레벨 6" tooltipDescription="투기장에서 승리 시 50%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="7" name="PVP 주간 - 레벨 7" tooltipDescription="투기장에서 승리 시 52%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="8" name="PVP 주간 - 레벨 8" tooltipDescription="투기장에서 승리 시 54%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="9" name="PVP 주간 - 레벨 9" tooltipDescription="투기장에서 승리 시 56%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000114" level="10" name="PVP 주간 - 레벨 10" tooltipDescription="투기장에서 승리 시 58%의 확률로 용맹의 증표 2배 획득" />
-	<key id="110000115" level="1" name="전투의 주간 - 레벨 1" tooltipDescription="적에게 입히는 대미지 2.1% 증가" />
-	<key id="110000115" level="2" name="전투의 주간 - 레벨 2" tooltipDescription="적에게 입히는 대미지 2.2% 증가" />
-	<key id="110000115" level="3" name="전투의 주간 - 레벨 3" tooltipDescription="적에게 입히는 대미지 2.3% 증가" />
-	<key id="110000115" level="4" name="전투의 주간 - 레벨 4" tooltipDescription="적에게 입히는 대미지 2.4% 증가" />
-	<key id="110000115" level="5" name="전투의 주간 - 레벨 5" tooltipDescription="적에게 입히는 대미지 2.5% 증가" />
-	<key id="110000115" level="6" name="전투의 주간 - 레벨 6" tooltipDescription="적에게 입히는 대미지 2.6% 증가" />
-	<key id="110000115" level="7" name="전투의 주간 - 레벨 7" tooltipDescription="적에게 입히는 대미지 2.7% 증가" />
-	<key id="110000115" level="8" name="전투의 주간 - 레벨 8" tooltipDescription="적에게 입히는 대미지 2.8% 증가" />
-	<key id="110000115" level="9" name="전투의 주간 - 레벨 9" tooltipDescription="적에게 입히는 대미지 2.9% 증가" />
-	<key id="110000115" level="10" name="전투의 주간 - 레벨 10" tooltipDescription="적에게 입히는 대미지 3% 증가" />
-	<key id="110000116" level="1" name="순회의 주간 - 레벨 1" tooltipDescription="이동속도 3%, 지상 탈것 이동속도 3% 증가" />
-	<key id="110000116" level="2" name="순회의 주간 - 레벨 2" tooltipDescription="이동속도 3%, 지상 탈것 이동속도 4% 증가" />
-	<key id="110000116" level="3" name="순회의 주간 - 레벨 3" tooltipDescription="이동속도 4%, 지상 탈것 이동속도 4% 증가" />
-	<key id="110000116" level="4" name="순회의 주간 - 레벨 4" tooltipDescription="이동속도 4%, 지상 탈것 이동속도 5% 증가" />
-	<key id="110000116" level="5" name="순회의 주간 - 레벨 5" tooltipDescription="이동속도 5%, 지상 탈것 이동속도 5% 증가" />
-	<key id="110000117" level="1" name="명중 강화 - 레벨 1" tooltipDescription="명중 1 증가" />
-	<key id="110000117" level="2" name="명중 강화 - 레벨 2" tooltipDescription="명중 2 증가" />
-	<key id="110000117" level="3" name="명중 강화 - 레벨 3" tooltipDescription="명중 3 증가" />
-	<key id="110000117" level="4" name="명중 강화 - 레벨 4" tooltipDescription="명중 4 증가" />
-	<key id="110000117" level="5" name="명중 강화 - 레벨 5" tooltipDescription="명중 5 증가" />
-	<key id="110000118" level="1" name="HP 강화 - 레벨 1" tooltipDescription="체력 3% 증가" />
-	<key id="110000118" level="2" name="HP 강화 - 레벨 2" tooltipDescription="체력 3.2% 증가" />
-	<key id="110000118" level="3" name="HP 강화 - 레벨 3" tooltipDescription="체력 3.4% 증가" />
-	<key id="110000118" level="4" name="HP 강화 - 레벨 4" tooltipDescription="체력 3.6% 증가" />
-	<key id="110000118" level="5" name="HP 강화 - 레벨 5" tooltipDescription="체력 3.8% 증가" />
-	<key id="110000118" level="6" name="HP 강화 - 레벨 6" tooltipDescription="체력 4% 증가" />
-	<key id="110000118" level="7" name="HP 강화 - 레벨 7" tooltipDescription="체력 4.2% 증가" />
-	<key id="110000118" level="8" name="HP 강화 - 레벨 8" tooltipDescription="체력 4.4% 증가" />
-	<key id="110000118" level="9" name="HP 강화 - 레벨 9" tooltipDescription="체력 4.6% 증가" />
-	<key id="110000118" level="10" name="HP 강화 - 레벨 10" tooltipDescription="체력 4.8% 증가" />
-	<key id="110000119" level="1" name="이동속도 강화 - 레벨 1" tooltipDescription="이동속도 3%, 탈것 이동속도 3% 증가" />
-	<key id="110000119" level="2" name="이동속도 강화 - 레벨 2" tooltipDescription="이동속도 3%, 탈것 이동속도 4% 증가" />
-	<key id="110000119" level="3" name="이동속도 강화 - 레벨 3" tooltipDescription="이동속도 4%, 탈것 이동속도 4% 증가" />
-	<key id="110000119" level="4" name="이동속도 강화 - 레벨 4" tooltipDescription="이동속도 4%, 탈것 이동속도 5% 증가" />
-	<key id="110000119" level="5" name="이동속도 강화 - 레벨 5" tooltipDescription="이동속도 5%, 탈것 이동속도 5% 증가" />
-	<key id="110000120" level="1" name="크리티컬 강화 - 레벨 1" tooltipDescription="크리티컬 명중/크리티컬 회피 30 증가" />
-	<key id="110000120" level="2" name="크리티컬 강화 - 레벨 2" tooltipDescription="크리티컬 명중/크리티컬 회피 32 증가" />
-	<key id="110000120" level="3" name="크리티컬 강화 - 레벨 3" tooltipDescription="크리티컬 명중/크리티컬 회피 34 증가" />
-	<key id="110000120" level="4" name="크리티컬 강화 - 레벨 4" tooltipDescription="크리티컬 명중/크리티컬 회피 36 증가" />
-	<key id="110000120" level="5" name="크리티컬 강화 - 레벨 5" tooltipDescription="크리티컬 명중/크리티컬 회피 38 증가" />
-	<key id="110000120" level="6" name="크리티컬 강화 - 레벨 6" tooltipDescription="크리티컬 명중/크리티컬 회피 40 증가" />
-	<key id="110000120" level="7" name="크리티컬 강화 - 레벨 7" tooltipDescription="크리티컬 명중/크리티컬 회피 42 증가" />
-	<key id="110000120" level="8" name="크리티컬 강화 - 레벨 8" tooltipDescription="크리티컬 명중/크리티컬 회피 44 증가" />
-	<key id="110000120" level="9" name="크리티컬 강화 - 레벨 9" tooltipDescription="크리티컬 명중/크리티컬 회피 46 증가" />
-	<key id="110000120" level="10" name="크리티컬 강화 - 레벨 10" tooltipDescription="크리티컬 명중/크리티컬 회피 48 증가" />
-	<key id="110000121" level="1" name="저항력 관통 강화 - 레벨 1" tooltipDescription="물리/마법 저항력 관통 3% 증가" />
-	<key id="110000121" level="2" name="저항력 관통 강화 - 레벨 2" tooltipDescription="물리/마법 저항력 관통 3.2% 증가" />
-	<key id="110000121" level="3" name="저항력 관통 강화 - 레벨 3" tooltipDescription="물리/마법 저항력 관통 3.4% 증가" />
-	<key id="110000121" level="4" name="저항력 관통 강화 - 레벨 4" tooltipDescription="물리/마법 저항력 관통 3.6% 증가" />
-	<key id="110000121" level="5" name="저항력 관통 강화 - 레벨 5" tooltipDescription="물리/마법 저항력 관통 3.8% 증가" />
-	<key id="110000121" level="6" name="저항력 관통 강화 - 레벨 6" tooltipDescription="물리/마법 저항력 관통 4% 증가" />
-	<key id="110000121" level="7" name="저항력 관통 강화 - 레벨 7" tooltipDescription="물리/마법 저항력 관통 4.2% 증가" />
-	<key id="110000121" level="8" name="저항력 관통 강화 - 레벨 8" tooltipDescription="물리/마법 저항력 관통 4.4% 증가" />
-	<key id="110000121" level="9" name="저항력 관통 강화 - 레벨 9" tooltipDescription="물리/마법 저항력 관통 4.6% 증가" />
-	<key id="110000121" level="10" name="저항력 관통 강화 - 레벨 10" tooltipDescription="물리/마법 저항력 관통 4.8% 증가" />
-	<key id="110001001" level="1" name="HP 및 방어력 증가" tooltipDescription="HP가 &lt;FONT color=&apos;#FFD200&apos;&gt;31&lt;/FONT&gt; 증가하고,\n방어력이 &lt;FONT color=&apos;#FFD200&apos;&gt;11&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001002" level="1" name="물리 저항력 증가" tooltipDescription="물리 저항력이 &lt;FONT color=&apos;#FFD200&apos;&gt;15&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001003" level="1" name="마법 저항력 증가" tooltipDescription="마법 저항력이 &lt;FONT color=&apos;#FFD200&apos;&gt;15&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001004" level="1" name="엘리트 몬스터 대미지 증가" tooltipDescription="엘리트 몬스터에게 주는 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다." feature="CharacterAbility" />
-	<key id="110001005" level="1" name="보스 몬스터 대미지 증가" tooltipDescription="보스 몬스터에게 주는 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다." feature="CharacterAbility" />
-	<key id="110001006" level="1" name="무기 공격력 증가" tooltipDescription="무기 공격력이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001007" level="1" name="명중 증가" tooltipDescription="명중이 &lt;FONT color=&apos;#FFD200&apos;&gt;3&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001008" level="1" name="방어력 관통 증가" tooltipDescription="방어력 관통이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001009" level="1" name="물리 및 마법 대미지 증가" tooltipDescription="물리 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가하고,\n마법 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001010" level="1" name="물리 및 마법 저항력 관통 증가" tooltipDescription="물리 저항력 관통이 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가하고,\n마법 저항력 관통이 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단,전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001011" level="1" name="물리 및 마법 공격력 증가" tooltipDescription="물리 공격력이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가하고,\n마법 공격력이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001012" level="1" name="피격 시 공격속도 증가" tooltipDescription="피격 시 일정 확률로 15초 동안 공격속도가\n&lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001013" level="1" name="엘리트 몬스터에게 피격 시 피해 감소" tooltipDescription="엘리트 몬스터에게 피격당할 경우 받는 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;6%&lt;/FONT&gt; 감소합니다." feature="CharacterAbility" />
-	<key id="110001014" level="1" name="필드 보스 몬스터 처치 시 보너스 획득" tooltipDescription="필드 보스 몬스터를 처치할 경우 일정 확률로 보상을 &lt;FONT color=&apos;#FFD200&apos;&gt;한 번 더&lt;/FONT&gt; 획득합니다." feature="CharacterAbility" />
-	<key id="110001015" level="1" name="투기장 승리 시 용맹의 증표 추가 획득" tooltipDescription="투기장에서 승리했을 때 일정 확률로 용맹의 증표를 &lt;FONT color=&apos;#FFD200&apos;&gt;2배&lt;/FONT&gt;로 획득합니다." feature="CharacterAbility" />
-	<key id="110001016" level="1" name="포션 사용 시 쿨타임 감소" tooltipDescription="포션 재사용 쿨타임이 &lt;FONT color=&apos;#FFD200&apos;&gt;20%&lt;/FONT&gt; 감소합니다." feature="CharacterAbility" />
-	<key id="110001017" level="1" name="엘릭서 사용 시 쿨타임 감소" tooltipDescription="엘릭서 재사용 쿨타임이 &lt;FONT color=&apos;#FFD200&apos;&gt;20%&lt;/FONT&gt; 감소합니다." feature="CharacterAbility" />
-	<key id="110001018" level="1" name="탈것 이동속도 증가" tooltipDescription="탈것을 타고 이동할 때 이동속도가 &lt;FONT color=&apos;#FFD200&apos;&gt;10%&lt;/FONT&gt; 증가합니다." feature="CharacterAbility" />
-	<key id="110001019" level="1" name="황금 보물 상자에서 추가 보너스 획득" tooltipDescription="황금 보물 상자를 열었을 때 일정 확률로 오닉스 결정 &lt;FONT color=&apos;#FFD200&apos;&gt;999개&lt;/FONT&gt;를 추가로 얻습니다." feature="CharacterAbility" />
-	<key id="110001020" level="1" name="나무 보물 상자에서 추가 보너스 획득" tooltipDescription="나무 보물 상자를 열었을 때 일정 확률로 &lt;FONT color=&apos;#FFD200&apos;&gt;100,000메소&lt;/FONT&gt;를 추가로 얻습니다." feature="CharacterAbility" />
-	<key id="110001021" level="1" name="일일 퀘스트에서 추가 경험치 획득" tooltipDescription="일일 퀘스트 완료 시 일정 확률로 받는 경험치가 &lt;FONT color=&apos;#FFD200&apos;&gt;5배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
-	<key id="110001022" level="1" name="일일 퀘스트에서 추가 메소 획득" tooltipDescription="일일 퀘스트 완료 시 일정 확률로 받는 메소가 &lt;FONT color=&apos;#FFD200&apos;&gt;5배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
-	<key id="110001023" level="1" name="일일 퀘스트에서 추가 루 획득" tooltipDescription="일일 퀘스트 완료 시 일정 확률로 받는 루를 &lt;FONT color=&apos;#FFD200&apos;&gt;5배&lt;/FONT&gt;로 받습니다." feature="CharacterAbility" />
-	<key id="110001024" level="1" name="$item:30001133$에서 보너스 보상 획득" tooltipDescription="$item:30001133$$pp:를,을$ 열 때 일정 확률로 &lt;FONT color=&apos;#FFD200&apos;&gt;한 번 더&lt;/FONT&gt; 상자를 열어 보상을 받습니다.\n&lt;FONT color=&apos;#909090&apos;&gt;추가로 얻은 보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001025" level="1" name="악보 연주 시 추가 경험치 획득" tooltipDescription="악보 연주를 완료했을 때 일정 확률로 획득 경험치가 &lt;FONT color=&apos;#FFD200&apos;&gt;3배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
-	<key id="110001026" level="1" name="대도시에서 휴식 경험치 획득 가능" tooltipDescription="대도시에서 머무르고 있을 때에도 휴식 경험치를\n얻을 수 있습니다.\n&lt;FONT color=&apos;#909090&apos;&gt;대도시 : 트라이아, 엘리니아, 페리온, 리스항구,\n헤네시스, 커닝시티, 탈리스커, 루델리 시티, 바베니&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001027" level="1" name="월척 시 경험치 및 숙련도 획득량 증가" tooltipDescription="월척을 낚을 경우 경험치 및 숙련도 획득량이 &lt;FONT color=&apos;#FFD200&apos;&gt;2배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
-	<key id="110001028" level="1" name="인챈트 실패 시 프랙타 결정 추가 획득" tooltipDescription="10단계 이상 인챈트 된 아이템을 11단계 이상으로\n인챈트를 시도해서 실패했을 때 일정 확률로\n프랙타 결정을 &lt;FONT color=&apos;#FFD200&apos;&gt;2배&lt;/FONT&gt; 획득합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001029" level="1" name="반지 제작 대성공 시 아이템 추가 획득" tooltipDescription="반지 제작 시 대성공을 할 경우 일정 확률로 제작\n결과물을 &lt;FONT color=&apos;#FFD200&apos;&gt;하나 더&lt;/FONT&gt; 추가로 얻습니다.\n&lt;FONT color=&apos;#909090&apos;&gt;추가로 얻은 보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.&lt;/FONT&gt;" feature="CharacterAbility" />
-	<key id="110001100" level="1" name="공격속도 3% 증가" tooltipDescription="특성 효과로 공격속도가 3% 증가합니다." feature="CharacterAbility" />
-	<key id="110002001" level="1" name="이동속도 증가" tooltipDescription="동아리원과 파티를 맺으면 이동속도 5% 증가\n단, 전장 및 투기장에서는 적용되지 않음" feature="Club" />
-	<key id="110002002" level="1" name="낚시로 획득하는 경험치 증가" tooltipDescription="동아리원과 파티를 맺으면 낚시로 획득하는 경험치 3% 증가" feature="Club" />
-	<key id="110002003" level="1" name="연주로 획득하는 경험치 증가" tooltipDescription="동아리원과 파티를 맺으면 연주로 획득하는 경험치 3% 증가" feature="Club" />
 	<key id="99910001" level="1" name="아이언 호그 탑승" tooltipDescription="아이언 호그로 전투할 수 있습니다.\n해당 효과가 종료되면, 탑승상태에서 내리게 됩니다." />
 	<key id="99910010" level="1" name="병아리" tooltipDescription="어떤 스킬도 사용할 수 없습니다." />
 	<key id="99910020" level="1" name="마그마 주니어 부기 탑승" tooltipDescription="마그마 주니어 부기로 전투할 수 있습니다.\n해당 효과가 종료되면, 탑승상태에서 내리게 됩니다." />
@@ -4360,13 +4300,41 @@
 	<key id="99910060" level="1" name="슬라임" tooltipDescription="슬라임으로 전투 할 수 있습니다." />
 	<key id="99910061" level="1" name="슬라임 - SP 수급" tooltipDescription="슬라임 - SP 수급" />
 	<key id="99910070" level="1" name="마크52 알파 탑승" tooltipDescription="마크52 알파로 전투 할 수 있습니다." />
-	<key id="99910200" level="1" name="군주의 장난끼" tooltipDescription='개굴~\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아는 심심한 기분이 들 때마다 자신의 하수인들을 개구리로 만들곤 했다. 다만 언제 풀리게 될지는 마드리아 자신도 몰랐기 때문에 하수인들 사이에선 가장 두려운 마법 중 하나로 각인되었다.&lt;/font&gt;' />
+	<key id="99910161" level="1" name="팬텀 디스트로이어 탑승" tooltipDescription="폭주한 팬텀 디스트로이어에 탑승 했습니다.\n강력한 공격으로 일반몬스터들을 빠르게 처치 할 수 있고, 기간티카의 버프를 리셋 시킬 수 있습니다." feature="Gigantica01" />
+	<key id="99910200" level="1" name="군주의 장난끼" tooltipDescription="개굴~\n\n&lt;font color=&quot;#FFD400&quot;&gt;마드리아는 심심한 기분이 들 때마다 자신의 하수인들을 개구리로 만들곤 했다. 다만 언제 풀리게 될지는 마드리아 자신도 몰랐기 때문에 하수인들 사이에선 가장 두려운 마법 중 하나로 각인되었다.&lt;/font&gt;" />
 	<key id="99910210" level="1" name="에너지 슬라임" tooltipDescription="피격 시 반경 3m 이내 에너지를 뿜어 체력을 500, SP를 20 회복시킨다. 효과는 1초 이내 재발동 하지 않는다." />
-	<key id="99920030" level="1" name="다람쥐 암살자 삭제" tooltipDescription="다람쥐 암살자 삭제" />
 	<key id="99910240" level="1" name="코드 : 레라카스 변신" tooltipDescription="$map:02100001$의 바흐람 산에 서식하는 붉은 용 $npc:34000100$의 모습으로 위장합니다." />
 	<key id="99910241" level="1" name="용암 지형 피해 무시" tooltipDescription="바흐람 산의 뜨거운 용암에 피해를 입지 않습니다." />
 	<key id="99910250" level="1" name="무지개 슬라임" tooltipDescription="무지개 슬라임이 되어버렸습니다!\n죽을 때까지 변신을 해제할 수 없습니다." />
 	<key id="99910260" level="1" name="돌연변이 슬라임" tooltipDescription="돌연변이 슬라임이 되어버렸습니다!\n죽을 때까지 변신을 해제할 수 없습니다." />
+	<key id="99910340" level="1" name="마크52 프로토타입" tooltipDescription="태초의 버섯 섬에서 발견된 마크52 프로토타입.\n완성형이 아닌 만큼 불안정해 보인다." feature="SurvivalContents02" />
+	<key id="99910360" level="1" name="MK 52 Prototype" tooltipDescription="Riding a prototype MK 52 found in Mushtopia. Because it&apos;s not fully battle-ready, it has limited battery charge." feature="SurvivalContentsTeam" />
+	<key id="99910372" level="1" name="화상" tooltipDescription="화상을 입어 5초간 불탑니다." feature="Fieldwar01" />
+	<key id="99920003" level="1" name="Sleepy Shroom" tooltipDescription="You became a Sleepy Shroom. This effect can be dispelled by &lt;font color=&quot;#FFD400&quot;&gt;Party Pep&lt;/font&gt;. Ask a party member to &lt;font color=&quot;#FFD400&quot;&gt;perform an emote&lt;/font&gt;!" feature="SurvivalContentsTeam" />
+	<key id="99920030" level="1" name="다람쥐 암살자 삭제" tooltipDescription="다람쥐 암살자 삭제" />
+	<key id="100000001" level="1" name="영혼의 휴식" tooltipDescription="혼자의 힘으로 비석을 치우느라\n기력을 모두 소진했습니다\n기력 회복을 위해 휴식의 시간이 필요합니다" />
+	<key id="100000002" level="1" name="벨마의 심판" tooltipDescription="벨마의 심판으로 처벌을 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 모든 채팅\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n- 악보 생성 및 악기 연주\n- 그 외 커뮤니티 관련 행위\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
+	<key id="100000003" level="1" name="상처 입은 영혼" tooltipDescription="비석을 걷어내니 깊은 상처가 남았습니다.\n상처가 치유되기 전에 또 쓰러지면 강철 비석에 \n깔리게 됩니다." />
+	<key id="100000004" level="1" name="소생의 축복" tooltipDescription="기운을 차릴 때까지 대미지를 입지 않습니다" />
+	<key id="100000005" level="1" name="공간의 틈에서 나오는 중" tooltipDescription="공간의 틈에서 나오고 있는 중입니다\n몸과 정신이 완전히 빠져 나올 때까지\n대미지를 입지 않습니다" />
+	<key id="100000006" name="PC방 접속 효과" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시, 경험치 및 메소 20% 추가 획득\n물리 공격력과 마법 공격력 3%, HP 100 증가\n스탯 버프는 전장에서 적용되지 않습니다." />
+	<key id="100000007" name="전장의 부름" tooltipDescription="전장의 부름을 받아 신병이 되었습니다. \n신병 신분일 때는 다른 전장 신청 불가" />
+	<key id="100000008" level="1" name="벨마의 경고" tooltipDescription="벨마의 경고를 받았습니다.\n일정 시간 동안 커뮤니티 관련 행위가 제한됩니다.\n- 전광판 등록\n- UGC 아이템 제작\n- UGC 아이템 착용\n- 건설 아이템 배치 및 교체\n- 디자이너스 마켓에 아이템 등록\n- 프로필 이미지 변경\n- 길드 마크 변경\n- 캐릭터 이름 변경\n- 편지 보내기\n- 파티 모집 신청글 및 파티 참가 신청글 작성\n- 악보 생성\n- 그 외 커뮤니티 관련 행위\n&lt;font color=&apos;#00aaef&apos;&gt;단, 알리카르 감옥에 가서 잡초를 뽑으며 반성하면 \n형량을 줄일 수 있습니다.&lt;/font&gt;" />
+	<key id="100000009" name="쑥쑥 성장 버프" tooltipDescription="몬스터 사냥 및 퀘스트 완료 시, 경험치 10% 추가 획득" />
+	<key id="100000011" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000012" name="세이프라이딩" tooltipDescription="몬스터에게 피격당해도 탈것에서 떨어지지 않습니다." />
+	<key id="100000013" name="수륙양용" tooltipDescription="물에 들어가도 탈것에서 떨어지지 않습니다." />
+	<key id="100000014" name="프리미엄 클럽 혜택" tooltipDescription="- 캐릭터 이동속도 5% 증가 (PVP 지역 제외)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 20% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 메럿 부활 비용 50% 할인\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 프리미엄 전용 던전 및 마크 사용가능\n- 프리미엄 전용 아이템 매일 제공" />
+	<key id="100000016" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000017" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000018" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000019" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000020" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000021" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000022" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000023" name="동지애" tooltipDescription="무작위 모험 던전을 함께할 동료들을 만나 끈끈한 동지애가 생겼습니다. 동지애가 유지되는 동안에는 다른 무작위 모험 던전을 신청할 수 없습니다. 무작위 모험 던전을 클리어하면 사라집니다." />
+	<key id="100000024" name="PC방 버프(브론즈)" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시 경험치 15%, 메소 10% 추가 획득\n물리 공격력과 마법 공격력 2%, HP 100 증가\n연주, 낚시 경험치 2% 추가 획득\n스탯 버프는 전장에서 적용되지 않습니다." />
+	<key id="100000026" name="PC방 버프(골드)" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시 경험치 20%, 메소 15% 추가 획득\n물리 공격력과 마법 공격력 3%, HP 150 증가\n연주, 낚시 경험치 3% 추가 획득\n스탯 버프는 전장에서 적용되지 않습니다." />
 	<key id="100000028" level="1" name="부활비용 할인" tooltipDescription="5레벨에서 최초로 획득할 수 있습니다.\n부활할 때 소비되는 비용이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;가 할인되고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;50레벨&lt;/font&gt;마다 추가로 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;까지 할인됩니다." />
 	<key id="100000028" level="2" name="부활비용 할인" tooltipDescription="5레벨에서 최초로 획득할 수 있습니다.\n부활할 때 소비되는 비용이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;가 할인되고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;50레벨&lt;/font&gt;마다 추가로 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;까지 할인됩니다." />
 	<key id="100000028" level="3" name="부활비용 할인" tooltipDescription="5레벨에서 최초로 획득할 수 있습니다.\n부활할 때 소비되는 비용이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;가 할인되고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;50레벨&lt;/font&gt;마다 추가로 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;까지 할인됩니다." />
@@ -4619,6 +4587,16 @@
 	<key id="100000042" level="18" name="펫의 추가 능력 변경 재료 감소" tooltipDescription="80레벨에서 최초로 획득할 수 있습니다.\n펫의 추가 능력을 변경할 때 소비되는 재료가 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="PetRemake01" />
 	<key id="100000042" level="19" name="펫의 추가 능력 변경 재료 감소" tooltipDescription="80레벨에서 최초로 획득할 수 있습니다.\n펫의 추가 능력을 변경할 때 소비되는 재료가 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="PetRemake01" />
 	<key id="100000042" level="20" name="펫의 추가 능력 변경 재료 감소" tooltipDescription="80레벨에서 최초로 획득할 수 있습니다.\n펫의 추가 능력을 변경할 때 소비되는 재료가 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="PetRemake01" />
+	<key id="100000043" name="프리미엄 클럽 혜택" tooltipDescription="- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 10% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 블랙마켓 아이템 거래 수수료 20% 할인 (메소 구매 제외)\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 로터스 에어택시 무제한 이용 가능\n- 프리미엄 전용 던전 및 마크 사용 가능\n- 프리미엄 전용 아이템 매일 제공" feature="MesoMarket" locale="NA" />
+	<key id="100000043" name="프리미엄 클럽 혜택" tooltipDescription="- 캐릭터 이동속도 및 지상탈것 이동속도 5% 증가 (PVP 지역 제외 / 파티 전체 적용)\n- 몬스터 사냥 경험치 및 메소 20% 증가\n- 오필리아 인챈트 비용 10% 할인\n- 1:1 메소 거래 수수료 50% 할인\n- 블랙마켓 아이템 거래 수수료 20% 할인\n- 언제 어디서나 은행 금고 즉시 소환 가능\n- 로터스 에어택시 무제한 이용 가능\n- 프리미엄 전용 던전 및 마크 사용 가능\n- 프리미엄 전용 아이템 매일 제공" locale="NA" />
+	<key id="100000046" name="프리미엄 클럽 혜택(파티 보너스)" tooltipDescription="프리미엄 클럽 혜택을 받는 동료와 파티를 맺어 캐릭터 이동속도 및 지상탈것 이동속도가 5% 증가 (PVP 지역 제외 / 파티 전체 적용)" locale="NA" />
+	<key id="100000047" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000048" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000049" name="자동 낚시" tooltipDescription="가만히 기다리기만 해도 자동으로 물고기가 낚입니다. 단, 접속 시에만 버프 유지 시간이 흐릅니다." />
+	<key id="100000050" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000051" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000052" name="자동 연주" tooltipDescription="설정한 악보를 정해진 시간 동안 자동 연주 합니다. 자동 연주 중에는 악보의 연주 가능 횟수가 차감되지 않습니다. 단, 접속 시에만 버프 유지 시간이 흐르며, 독주만 가능합니다." />
+	<key id="100000053" name="PC방 버프" tooltipDescription="언제 어디서나 은행 금고 즉시 소환 가능\n몬스터 사냥 시 경험치 15%, 메소 10% 추가 획득\n물리 공격력과 마법 공격력 2%, HP 100 증가\n스탯 버프는 전장에서 적용되지 않습니다." locale="JP" />
 	<key id="100000055" level="1" name="소켓 확장 크리스탈 파편 재료 감소" tooltipDescription="60레벨에서 최초로 획득할 수 있습니다.\n소켓 확장 시 크리스탈 파편 재료 요구량이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="ItemSocketSystem" />
 	<key id="100000055" level="2" name="소켓 확장 크리스탈 파편 재료 감소" tooltipDescription="60레벨에서 최초로 획득할 수 있습니다.\n소켓 확장 시 크리스탈 파편 재료 요구량이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="ItemSocketSystem" />
 	<key id="100000055" level="3" name="소켓 확장 크리스탈 파편 재료 감소" tooltipDescription="60레벨에서 최초로 획득할 수 있습니다.\n소켓 확장 시 크리스탈 파편 재료 요구량이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="ItemSocketSystem" />
@@ -4630,7 +4608,6 @@
 	<key id="100000055" level="9" name="소켓 확장 크리스탈 파편 재료 감소" tooltipDescription="60레벨에서 최초로 획득할 수 있습니다.\n소켓 확장 시 크리스탈 파편 재료 요구량이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="ItemSocketSystem" />
 	<key id="100000055" level="10" name="소켓 확장 크리스탈 파편 재료 감소" tooltipDescription="60레벨에서 최초로 획득할 수 있습니다.\n소켓 확장 시 크리스탈 파편 재료 요구량이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="ItemSocketSystem" />
 	<key id="100000055" level="11" name="소켓 확장 크리스탈 파편 재료 감소" tooltipDescription="60레벨에서 최초로 획득할 수 있습니다.\n소켓 확장 시 크리스탈 파편 재료 요구량이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;가 감소하고, 이후 &lt;font color=&apos;#ffde00&apos;&gt;30레벨&lt;/font&gt;마다 &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;까지 감소합니다." feature="ItemSocketSystem" />
-	<key id="120010001" level="1" name="셀린의 마음" tooltipDescription="행동 불가" feature="Lapenshard01" />
 	<key id="100000056" level="1" name="부활비용 할인" tooltipDescription="친밀도 1단계에서 최초로 획득할 수 있습니다.\n부활할 때 소비되는 비용이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;가 할인되고, 이후 친밀도 단계 상승 시 마다 추가로 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;까지 할인됩니다." />
 	<key id="100000056" level="2" name="부활비용 할인" tooltipDescription="친밀도 1단계에서 최초로 획득할 수 있습니다.\n부활할 때 소비되는 비용이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;가 할인되고, 이후 친밀도 단계 상승 시 마다 추가로 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;까지 할인됩니다." />
 	<key id="100000056" level="3" name="부활비용 할인" tooltipDescription="친밀도 1단계에서 최초로 획득할 수 있습니다.\n부활할 때 소비되는 비용이 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;가 할인되고, 이후 친밀도 단계 상승 시 마다 추가로 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;까지 할인됩니다." />
@@ -4646,6 +4623,138 @@
 	<key id="100000059" level="1" name="장비의 추가 옵션 변경 재료 감소" tooltipDescription="친밀도 4단계에서 최초로 획득할 수 있습니다.\n장비의 추가 옵션을 변경할 때 소비되는 재료가 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;3%&lt;/font&gt;가 감소하고, 이후 친밀도 단계 상승 시 마다 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;5%&lt;/font&gt;까지 감소합니다." />
 	<key id="100000059" level="2" name="장비의 추가 옵션 변경 재료 감소" tooltipDescription="친밀도 4단계에서 최초로 획득할 수 있습니다.\n장비의 추가 옵션을 변경할 때 소비되는 재료가 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;3%&lt;/font&gt;가 감소하고, 이후 친밀도 단계 상승 시 마다 &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt;씩 최대 &lt;font color=&apos;#ffde00&apos;&gt;5%&lt;/font&gt;까지 감소합니다." />
 	<key id="100000060" level="1" name="젬스톤 합성 재료 감소" tooltipDescription="친밀도 5단계에서 최초로 획득할 수 있습니다.\n젬스톤 합성에 필요한 재료가 최초 획득시 &lt;font color=&apos;#ffde00&apos;&gt;5%&lt;/font&gt;가 감소합니다." feature="ItemSocketSystem" />
+	<key id="110000001" level="1" name="함께 낚시해" tooltipDescription="낚시로 획득하는 경험치 2배 증가" />
+	<key id="110000002" level="1" name="함께 연주해" tooltipDescription="연주로 획득하는 경험치 2배 증가" />
+	<key id="110000003" level="1" name="함께 레벨 업" tooltipDescription="몬스터 사냥 시 획득하는 경험치 10% 증가" />
+	<key id="110000004" level="1" name="즐겨요 이벤트" tooltipDescription="MC 케이의 이벤트에서 획득하는 경험치 2배 증가" />
+	<key id="110000005" level="1" name="길드원 소환" tooltipDescription="멀리 떨어져 있는 모든 길드원을 한 자리에 소환" />
+	<key id="110000006" level="1" name="모두가 부자" tooltipDescription="몬스터 사냥 시 획득하는 메소량 30% 증가" />
+	<key id="110000007" level="1" name="함께 또 줍고" tooltipDescription="필드 보스 몬스터 사냥시 아이템 2배 획득" />
+	<key id="110000008" level="1" name="길드의 명예" tooltipDescription="길드 경험치 획득량 50% 증가" />
+	<key id="110000009" level="1" name="길드의 부" tooltipDescription="길드 기금 획득량 50% 증가" />
+	<key id="110000010" level="1" name="모두의 안전" tooltipDescription="모험 던전에서 받는 피해량 20% 감소 (다크 스트림 제외)" />
+	<key id="110000011" level="1" name="모두의 파워" tooltipDescription="모험 던전에서 모든 공격력 20% 증가 (다크 스트림 제외)" />
+	<key id="110000101" level="1" name="길드 하우스 낚시 버프 1단계" tooltipDescription="낚시로 획득하는 경험치 4% 증가" />
+	<key id="110000102" level="1" name="길드 하우스 낚시 버프 2단계" tooltipDescription="낚시로 획득하는 경험치 8% 증가" />
+	<key id="110000103" level="1" name="길드 하우스 낚시 버프 3단계" tooltipDescription="낚시로 획득하는 경험치 12% 증가" />
+	<key id="110000104" level="1" name="길드 하우스 낚시 버프 4단계" tooltipDescription="낚시로 획득하는 경험치 16% 증가" />
+	<key id="110000105" level="1" name="길드 하우스 연주 버프 1단계" tooltipDescription="연주로 획득하는 경험치 4% 증가" />
+	<key id="110000106" level="1" name="길드 하우스 연주 버프 2단계" tooltipDescription="연주로 획득하는 경험치 8% 증가" />
+	<key id="110000107" level="1" name="길드 하우스 연주 버프 3단계" tooltipDescription="연주로 획득하는 경험치 12% 증가" />
+	<key id="110000108" level="1" name="길드 하우스 연주 버프 4단계" tooltipDescription="연주로 획득하는 경험치 16% 증가" />
+	<key id="110000109" level="1" name="길드 하우스 채광 버프 1단계" tooltipDescription="채광량 2배 증가" />
+	<key id="110000110" level="1" name="길드 하우스 채광 버프 2단계" tooltipDescription="채광량 2배 증가" />
+	<key id="110000111" level="1" name="길드 하우스 채광 버프 3단계" tooltipDescription="채광량 2배 증가" />
+	<key id="110000112" level="1" name="길드 하우스 채광 버프 4단계" tooltipDescription="채광량 2배 증가" />
+	<key id="110000113" level="1" name="성장의 주간 - 레벨 1" tooltipDescription="모든 퀘스트 획득 경험치가 30% 증가" />
+	<key id="110000113" level="2" name="성장의 주간 - 레벨 2" tooltipDescription="모든 퀘스트 획득 경험치가 32% 증가" />
+	<key id="110000113" level="3" name="성장의 주간 - 레벨 3" tooltipDescription="모든 퀘스트 획득 경험치가 34% 증가" />
+	<key id="110000113" level="4" name="성장의 주간 - 레벨 4" tooltipDescription="모든 퀘스트 획득 경험치가 36% 증가" />
+	<key id="110000113" level="5" name="성장의 주간 - 레벨 5" tooltipDescription="모든 퀘스트 획득 경험치가 38% 증가" />
+	<key id="110000113" level="6" name="성장의 주간 - 레벨 6" tooltipDescription="모든 퀘스트 획득 경험치가 40% 증가" />
+	<key id="110000113" level="7" name="성장의 주간 - 레벨 7" tooltipDescription="모든 퀘스트 획득 경험치가 42% 증가" />
+	<key id="110000113" level="8" name="성장의 주간 - 레벨 8" tooltipDescription="모든 퀘스트 획득 경험치가 44% 증가" />
+	<key id="110000113" level="9" name="성장의 주간 - 레벨 9" tooltipDescription="모든 퀘스트 획득 경험치가 46% 증가" />
+	<key id="110000113" level="10" name="성장의 주간 - 레벨 10" tooltipDescription="모든 퀘스트 획득 경험치가 48% 증가" />
+	<key id="110000114" level="1" name="PVP 주간 - 레벨 1" tooltipDescription="투기장에서 승리 시 40%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="2" name="PVP 주간 - 레벨 2" tooltipDescription="투기장에서 승리 시 42%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="3" name="PVP 주간 - 레벨 3" tooltipDescription="투기장에서 승리 시 44%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="4" name="PVP 주간 - 레벨 4" tooltipDescription="투기장에서 승리 시 46%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="5" name="PVP 주간 - 레벨 5" tooltipDescription="투기장에서 승리 시 48%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="6" name="PVP 주간 - 레벨 6" tooltipDescription="투기장에서 승리 시 50%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="7" name="PVP 주간 - 레벨 7" tooltipDescription="투기장에서 승리 시 52%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="8" name="PVP 주간 - 레벨 8" tooltipDescription="투기장에서 승리 시 54%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="9" name="PVP 주간 - 레벨 9" tooltipDescription="투기장에서 승리 시 56%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000114" level="10" name="PVP 주간 - 레벨 10" tooltipDescription="투기장에서 승리 시 58%의 확률로 용맹의 증표 2배 획득" />
+	<key id="110000115" level="1" name="전투의 주간 - 레벨 1" tooltipDescription="적에게 입히는 대미지 2.1% 증가" />
+	<key id="110000115" level="2" name="전투의 주간 - 레벨 2" tooltipDescription="적에게 입히는 대미지 2.2% 증가" />
+	<key id="110000115" level="3" name="전투의 주간 - 레벨 3" tooltipDescription="적에게 입히는 대미지 2.3% 증가" />
+	<key id="110000115" level="4" name="전투의 주간 - 레벨 4" tooltipDescription="적에게 입히는 대미지 2.4% 증가" />
+	<key id="110000115" level="5" name="전투의 주간 - 레벨 5" tooltipDescription="적에게 입히는 대미지 2.5% 증가" />
+	<key id="110000115" level="6" name="전투의 주간 - 레벨 6" tooltipDescription="적에게 입히는 대미지 2.6% 증가" />
+	<key id="110000115" level="7" name="전투의 주간 - 레벨 7" tooltipDescription="적에게 입히는 대미지 2.7% 증가" />
+	<key id="110000115" level="8" name="전투의 주간 - 레벨 8" tooltipDescription="적에게 입히는 대미지 2.8% 증가" />
+	<key id="110000115" level="9" name="전투의 주간 - 레벨 9" tooltipDescription="적에게 입히는 대미지 2.9% 증가" />
+	<key id="110000115" level="10" name="전투의 주간 - 레벨 10" tooltipDescription="적에게 입히는 대미지 3% 증가" />
+	<key id="110000116" level="1" name="순회의 주간 - 레벨 1" tooltipDescription="이동속도 3%, 지상 탈것 이동속도 3% 증가" />
+	<key id="110000116" level="2" name="순회의 주간 - 레벨 2" tooltipDescription="이동속도 3%, 지상 탈것 이동속도 4% 증가" />
+	<key id="110000116" level="3" name="순회의 주간 - 레벨 3" tooltipDescription="이동속도 4%, 지상 탈것 이동속도 4% 증가" />
+	<key id="110000116" level="4" name="순회의 주간 - 레벨 4" tooltipDescription="이동속도 4%, 지상 탈것 이동속도 5% 증가" />
+	<key id="110000116" level="5" name="순회의 주간 - 레벨 5" tooltipDescription="이동속도 5%, 지상 탈것 이동속도 5% 증가" />
+	<key id="110000117" level="1" name="명중 강화 - 레벨 1" tooltipDescription="명중 1 증가" />
+	<key id="110000117" level="2" name="명중 강화 - 레벨 2" tooltipDescription="명중 2 증가" />
+	<key id="110000117" level="3" name="명중 강화 - 레벨 3" tooltipDescription="명중 3 증가" />
+	<key id="110000117" level="4" name="명중 강화 - 레벨 4" tooltipDescription="명중 4 증가" />
+	<key id="110000117" level="5" name="명중 강화 - 레벨 5" tooltipDescription="명중 5 증가" />
+	<key id="110000118" level="1" name="HP 강화 - 레벨 1" tooltipDescription="체력 3% 증가" />
+	<key id="110000118" level="2" name="HP 강화 - 레벨 2" tooltipDescription="체력 3.2% 증가" />
+	<key id="110000118" level="3" name="HP 강화 - 레벨 3" tooltipDescription="체력 3.4% 증가" />
+	<key id="110000118" level="4" name="HP 강화 - 레벨 4" tooltipDescription="체력 3.6% 증가" />
+	<key id="110000118" level="5" name="HP 강화 - 레벨 5" tooltipDescription="체력 3.8% 증가" />
+	<key id="110000118" level="6" name="HP 강화 - 레벨 6" tooltipDescription="체력 4% 증가" />
+	<key id="110000118" level="7" name="HP 강화 - 레벨 7" tooltipDescription="체력 4.2% 증가" />
+	<key id="110000118" level="8" name="HP 강화 - 레벨 8" tooltipDescription="체력 4.4% 증가" />
+	<key id="110000118" level="9" name="HP 강화 - 레벨 9" tooltipDescription="체력 4.6% 증가" />
+	<key id="110000118" level="10" name="HP 강화 - 레벨 10" tooltipDescription="체력 4.8% 증가" />
+	<key id="110000119" level="1" name="이동속도 강화 - 레벨 1" tooltipDescription="이동속도 3%, 탈것 이동속도 3% 증가" />
+	<key id="110000119" level="2" name="이동속도 강화 - 레벨 2" tooltipDescription="이동속도 3%, 탈것 이동속도 4% 증가" />
+	<key id="110000119" level="3" name="이동속도 강화 - 레벨 3" tooltipDescription="이동속도 4%, 탈것 이동속도 4% 증가" />
+	<key id="110000119" level="4" name="이동속도 강화 - 레벨 4" tooltipDescription="이동속도 4%, 탈것 이동속도 5% 증가" />
+	<key id="110000119" level="5" name="이동속도 강화 - 레벨 5" tooltipDescription="이동속도 5%, 탈것 이동속도 5% 증가" />
+	<key id="110000120" level="1" name="크리티컬 강화 - 레벨 1" tooltipDescription="크리티컬 명중/크리티컬 회피 30 증가" />
+	<key id="110000120" level="2" name="크리티컬 강화 - 레벨 2" tooltipDescription="크리티컬 명중/크리티컬 회피 32 증가" />
+	<key id="110000120" level="3" name="크리티컬 강화 - 레벨 3" tooltipDescription="크리티컬 명중/크리티컬 회피 34 증가" />
+	<key id="110000120" level="4" name="크리티컬 강화 - 레벨 4" tooltipDescription="크리티컬 명중/크리티컬 회피 36 증가" />
+	<key id="110000120" level="5" name="크리티컬 강화 - 레벨 5" tooltipDescription="크리티컬 명중/크리티컬 회피 38 증가" />
+	<key id="110000120" level="6" name="크리티컬 강화 - 레벨 6" tooltipDescription="크리티컬 명중/크리티컬 회피 40 증가" />
+	<key id="110000120" level="7" name="크리티컬 강화 - 레벨 7" tooltipDescription="크리티컬 명중/크리티컬 회피 42 증가" />
+	<key id="110000120" level="8" name="크리티컬 강화 - 레벨 8" tooltipDescription="크리티컬 명중/크리티컬 회피 44 증가" />
+	<key id="110000120" level="9" name="크리티컬 강화 - 레벨 9" tooltipDescription="크리티컬 명중/크리티컬 회피 46 증가" />
+	<key id="110000120" level="10" name="크리티컬 강화 - 레벨 10" tooltipDescription="크리티컬 명중/크리티컬 회피 48 증가" />
+	<key id="110000121" level="1" name="저항력 관통 강화 - 레벨 1" tooltipDescription="물리/마법 저항력 관통 3% 증가" />
+	<key id="110000121" level="2" name="저항력 관통 강화 - 레벨 2" tooltipDescription="물리/마법 저항력 관통 3.2% 증가" />
+	<key id="110000121" level="3" name="저항력 관통 강화 - 레벨 3" tooltipDescription="물리/마법 저항력 관통 3.4% 증가" />
+	<key id="110000121" level="4" name="저항력 관통 강화 - 레벨 4" tooltipDescription="물리/마법 저항력 관통 3.6% 증가" />
+	<key id="110000121" level="5" name="저항력 관통 강화 - 레벨 5" tooltipDescription="물리/마법 저항력 관통 3.8% 증가" />
+	<key id="110000121" level="6" name="저항력 관통 강화 - 레벨 6" tooltipDescription="물리/마법 저항력 관통 4% 증가" />
+	<key id="110000121" level="7" name="저항력 관통 강화 - 레벨 7" tooltipDescription="물리/마법 저항력 관통 4.2% 증가" />
+	<key id="110000121" level="8" name="저항력 관통 강화 - 레벨 8" tooltipDescription="물리/마법 저항력 관통 4.4% 증가" />
+	<key id="110000121" level="9" name="저항력 관통 강화 - 레벨 9" tooltipDescription="물리/마법 저항력 관통 4.6% 증가" />
+	<key id="110000121" level="10" name="저항력 관통 강화 - 레벨 10" tooltipDescription="물리/마법 저항력 관통 4.8% 증가" />
+	<key id="110001001" level="1" name="HP 및 방어력 증가" tooltipDescription="HP가 &lt;FONT color=&apos;#FFD200&apos;&gt;31&lt;/FONT&gt; 증가하고,\n방어력이 &lt;FONT color=&apos;#FFD200&apos;&gt;11&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001002" level="1" name="물리 저항력 증가" tooltipDescription="물리 저항력이 &lt;FONT color=&apos;#FFD200&apos;&gt;15&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001003" level="1" name="마법 저항력 증가" tooltipDescription="마법 저항력이 &lt;FONT color=&apos;#FFD200&apos;&gt;15&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001004" level="1" name="엘리트 몬스터 대미지 증가" tooltipDescription="엘리트 몬스터에게 주는 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다." feature="CharacterAbility" />
+	<key id="110001005" level="1" name="보스 몬스터 대미지 증가" tooltipDescription="보스 몬스터에게 주는 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다." feature="CharacterAbility" />
+	<key id="110001006" level="1" name="무기 공격력 증가" tooltipDescription="무기 공격력이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001007" level="1" name="명중 증가" tooltipDescription="명중이 &lt;FONT color=&apos;#FFD200&apos;&gt;3&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001008" level="1" name="방어력 관통 증가" tooltipDescription="방어력 관통이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001009" level="1" name="물리 및 마법 대미지 증가" tooltipDescription="물리 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가하고,\n마법 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001010" level="1" name="물리 및 마법 저항력 관통 증가" tooltipDescription="물리 저항력 관통이 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가하고,\n마법 저항력 관통이 &lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단,전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001011" level="1" name="물리 및 마법 공격력 증가" tooltipDescription="물리 공격력이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가하고,\n마법 공격력이 &lt;FONT color=&apos;#FFD200&apos;&gt;2%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001012" level="1" name="피격 시 공격속도 증가" tooltipDescription="피격 시 일정 확률로 15초 동안 공격속도가\n&lt;FONT color=&apos;#FFD200&apos;&gt;3%&lt;/FONT&gt; 증가합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;단, 전장에서는 적용되지 않습니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001013" level="1" name="엘리트 몬스터에게 피격 시 피해 감소" tooltipDescription="엘리트 몬스터에게 피격당할 경우 받는 대미지가 &lt;FONT color=&apos;#FFD200&apos;&gt;6%&lt;/FONT&gt; 감소합니다." feature="CharacterAbility" />
+	<key id="110001014" level="1" name="필드 보스 몬스터 처치 시 보너스 획득" tooltipDescription="필드 보스 몬스터를 처치할 경우 일정 확률로 보상을 &lt;FONT color=&apos;#FFD200&apos;&gt;한 번 더&lt;/FONT&gt; 획득합니다." feature="CharacterAbility" />
+	<key id="110001015" level="1" name="투기장 승리 시 용맹의 증표 추가 획득" tooltipDescription="투기장에서 승리했을 때 일정 확률로 용맹의 증표를 &lt;FONT color=&apos;#FFD200&apos;&gt;2배&lt;/FONT&gt;로 획득합니다." feature="CharacterAbility" />
+	<key id="110001016" level="1" name="포션 사용 시 쿨타임 감소" tooltipDescription="포션 재사용 쿨타임이 &lt;FONT color=&apos;#FFD200&apos;&gt;20%&lt;/FONT&gt; 감소합니다." feature="CharacterAbility" />
+	<key id="110001017" level="1" name="엘릭서 사용 시 쿨타임 감소" tooltipDescription="엘릭서 재사용 쿨타임이 &lt;FONT color=&apos;#FFD200&apos;&gt;20%&lt;/FONT&gt; 감소합니다." feature="CharacterAbility" />
+	<key id="110001018" level="1" name="탈것 이동속도 증가" tooltipDescription="탈것을 타고 이동할 때 이동속도가 &lt;FONT color=&apos;#FFD200&apos;&gt;10%&lt;/FONT&gt; 증가합니다." feature="CharacterAbility" />
+	<key id="110001019" level="1" name="황금 보물 상자에서 추가 보너스 획득" tooltipDescription="황금 보물 상자를 열었을 때 일정 확률로 오닉스 결정 &lt;FONT color=&apos;#FFD200&apos;&gt;999개&lt;/FONT&gt;를 추가로 얻습니다." feature="CharacterAbility" />
+	<key id="110001020" level="1" name="나무 보물 상자에서 추가 보너스 획득" tooltipDescription="나무 보물 상자를 열었을 때 일정 확률로 &lt;FONT color=&apos;#FFD200&apos;&gt;100,000메소&lt;/FONT&gt;를 추가로 얻습니다." feature="CharacterAbility" />
+	<key id="110001021" level="1" name="일일 퀘스트에서 추가 경험치 획득" tooltipDescription="일일 퀘스트 완료 시 일정 확률로 받는 경험치가 &lt;FONT color=&apos;#FFD200&apos;&gt;5배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
+	<key id="110001022" level="1" name="일일 퀘스트에서 추가 메소 획득" tooltipDescription="일일 퀘스트 완료 시 일정 확률로 받는 메소가 &lt;FONT color=&apos;#FFD200&apos;&gt;5배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
+	<key id="110001023" level="1" name="일일 퀘스트에서 추가 루 획득" tooltipDescription="일일 퀘스트 완료 시 일정 확률로 받는 루를 &lt;FONT color=&apos;#FFD200&apos;&gt;5배&lt;/FONT&gt;로 받습니다." feature="CharacterAbility" />
+	<key id="110001024" level="1" name="$item:30001133$에서 보너스 보상 획득" tooltipDescription="$item:30001133$$pp:를,을$ 열 때 일정 확률로 &lt;FONT color=&apos;#FFD200&apos;&gt;한 번 더&lt;/FONT&gt; 상자를 열어 보상을 받습니다.\n&lt;FONT color=&apos;#909090&apos;&gt;추가로 얻은 보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001025" level="1" name="악보 연주 시 추가 경험치 획득" tooltipDescription="악보 연주를 완료했을 때 일정 확률로 획득 경험치가 &lt;FONT color=&apos;#FFD200&apos;&gt;3배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
+	<key id="110001026" level="1" name="대도시에서 휴식 경험치 획득 가능" tooltipDescription="대도시에서 머무르고 있을 때에도 휴식 경험치를\n얻을 수 있습니다.\n&lt;FONT color=&apos;#909090&apos;&gt;대도시 : 트라이아, 엘리니아, 페리온, 리스항구,\n헤네시스, 커닝시티, 탈리스커, 루델리 시티, 바베니&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001027" level="1" name="월척 시 경험치 및 숙련도 획득량 증가" tooltipDescription="월척을 낚을 경우 경험치 및 숙련도 획득량이 &lt;FONT color=&apos;#FFD200&apos;&gt;2배&lt;/FONT&gt;가 됩니다." feature="CharacterAbility" />
+	<key id="110001028" level="1" name="인챈트 실패 시 프랙타 결정 추가 획득" tooltipDescription="10단계 이상 인챈트 된 아이템을 11단계 이상으로\n인챈트를 시도해서 실패했을 때 일정 확률로\n프랙타 결정을 &lt;FONT color=&apos;#FFD200&apos;&gt;2배&lt;/FONT&gt; 획득합니다.\n&lt;FONT color=&apos;#909090&apos;&gt;보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001029" level="1" name="반지 제작 대성공 시 아이템 추가 획득" tooltipDescription="반지 제작 시 대성공을 할 경우 일정 확률로 제작\n결과물을 &lt;FONT color=&apos;#FFD200&apos;&gt;하나 더&lt;/FONT&gt; 추가로 얻습니다.\n&lt;FONT color=&apos;#909090&apos;&gt;추가로 얻은 보상은 자동으로 소지품에 들어오며,\n소지품이 가득 찬 경우 우편으로 발송됩니다.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001100" level="1" name="공격속도 3% 증가" tooltipDescription="특성 효과로 공격속도가 3% 증가합니다." feature="CharacterAbility" />
+	<key id="110002001" level="1" name="이동속도 증가" tooltipDescription="동아리원과 파티를 맺으면 이동속도 5% 증가\n단, 전장 및 투기장에서는 적용되지 않음" feature="Club" />
+	<key id="110002002" level="1" name="낚시로 획득하는 경험치 증가" tooltipDescription="동아리원과 파티를 맺으면 낚시로 획득하는 경험치 3% 증가" feature="Club" />
+	<key id="110002003" level="1" name="연주로 획득하는 경험치 증가" tooltipDescription="동아리원과 파티를 맺으면 연주로 획득하는 경험치 3% 증가" feature="Club" />
+	<key id="120010001" level="1" name="셀린의 마음" tooltipDescription="행동 불가" feature="Lapenshard01" />
 	<key id="120010002" level="1" name="검은 형제의 에너지" tooltipDescription="초당 158% 대미지" feature="Lapenshard01" />
 	<key id="120010002" level="2" name="검은 형제의 에너지" tooltipDescription="초당 171% 대미지" feature="Lapenshard01" />
 	<key id="120010002" level="3" name="검은 형제의 에너지" tooltipDescription="초당 184% 대미지" feature="Lapenshard01" />

@@ -1,952 +1,951 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="15123101" name="光明守护套装" />
-  <key id="15123102" name="光明战士套装" />
-  <key id="15123103" name="光明魔法套装" />
-  <key id="15123104" name="光明先知套装" />
-  <key id="15123105" name="光明游侠套装" />
-  <key id="15123106" name="光明轰炸套装" />
-  <key id="15123107" name="光明侠盗套装" />
-  <key id="15123108" name="光明杀意套装" />
-  <key id="15123109" name="光明符文套装" />
-  <key id="16022501" name="黑色明星套装" />
-  <key id="16042801" name="可爱小黄鸭宝宝套装" />
-  <key id="16042802" name="帅气小黄鸭宝宝套装" />
-  <key id="16042803" name="害羞的小黄鸭宝宝套装" />
-  <key id="16063001" name="优雅哥特套装" />
-  <key id="16063002" name="优雅哥特套装" />
-  <key id="16071401" name="光明斗者套装" />
-  <key id="16072801" name="伊夫利特仙子套装" />
-  <key id="16072802" name="伊夫利特仙子套装" />
-  <key id="16081101" name="高级意识套装" />
-  <key id="16081102" name="光明炼气套装" />
-  <key id="16082501" name="纯洁婚礼套装" />
-  <key id="16082502" name="纯洁婚礼套装" />
-  <key id="16082503" name="荣耀战斗套装" />
-  <key id="16082504" name="荣耀狂乱套装" />
-  <key id="16082505" name="荣耀魔法套装" />
-  <key id="16082506" name="荣耀神圣套装" />
-  <key id="16082507" name="荣耀之集中套装" />
-  <key id="16082508" name="荣耀炮击套装" />
-  <key id="16082509" name="荣耀混乱套装" />
-  <key id="16082510" name="荣耀暗杀套装" />
-  <key id="16082511" name="荣耀咒术套装" />
-  <key id="16082512" name="荣耀乱斗套装" />
-  <key id="16082513" name="荣耀意识套装" />
-  <key id="16082514" name="永恒之冕·英勇战痕套装" />
-  <key id="16082515" name="永恒之冕·嗜血狂魄套装" />
-  <key id="16082516" name="永恒之冕·无尽吟唱套装" />
-  <key id="16082517" name="永恒之冕·圣光领域套装" />
-  <key id="16082518" name="永恒之冕·凌风乐章套装" />
-  <key id="16082519" name="永恒之冕·连天烽火套装" />
-  <key id="16082520" name="永恒之冕·流星飞舞套装" />
-  <key id="16082521" name="永恒之冕·月影诛心套装" />
-  <key id="16082522" name="永恒之冕·胜利裁决套装" />
-  <key id="16082523" name="永恒之冕·混沌战神套装" />
-  <key id="16082524" name="永恒之冕·万物心念套装" />
-  <key id="16092901" name="高级钻石套装" />
-  <key id="16092902" name="高级玉髓套装" />
-  <key id="16092903" name="肖恩家族荣耀套装" />
-  <key id="16102701" name="血腥吸血鬼套装" />
-  <key id="16102702" name="血腥吸血鬼套装" />
-  <key id="16121501" name="圣诞快乐套装" />
-  <key id="16121502" name="圣诞快乐套装" />
-  <key id="17011201" name="波涛之战斗套装" />
-  <key id="17011202" name="波涛之狂乱套装" />
-  <key id="17011203" name="波涛之魔法套装" />
-  <key id="17011204" name="波涛之神圣套装" />
-  <key id="17011205" name="波涛之集中套装" />
-  <key id="17011206" name="波涛之炮击套装" />
-  <key id="17011207" name="波涛之混乱套装" />
-  <key id="17011208" name="波涛之暗杀套装" />
-  <key id="17011209" name="波涛之咒术套装" />
-  <key id="17011210" name="波涛之乱斗套装" />
-  <key id="17011211" name="波涛之意识套装" />
-  <key id="17011212" name="失落王国之战斗套装" />
-  <key id="17011213" name="失落王国之狂乱套装" />
-  <key id="17011214" name="失落王国之魔法套装" />
-  <key id="17011215" name="失落王国之神圣套装" />
-  <key id="17011216" name="失落王国之集中套装" />
-  <key id="17011217" name="失落王国之炮击套装" />
-  <key id="17011218" name="失落王国之混乱套装" />
-  <key id="17011219" name="失落王国之暗杀套装" />
-  <key id="17011220" name="失落王国之咒术套装" />
-  <key id="17011221" name="失落王国之乱斗套装" />
-  <key id="17011222" name="失落王国之意识套装" />
-  <key id="17011223" name="神龙战斗套装" />
-  <key id="17011224" name="神龙狂乱套装" />
-  <key id="17011225" name="神龙魔法套装" />
-  <key id="17011226" name="神龙神圣套装" />
-  <key id="17011227" name="神龙集中套装" />
-  <key id="17011228" name="神龙炮击套装" />
-  <key id="17011229" name="神龙混乱套装" />
-  <key id="17011230" name="神龙暗杀套装" />
-  <key id="17011231" name="神龙咒术套装" />
-  <key id="17011232" name="神龙乱斗套装" />
-  <key id="17011233" name="神龙意识套装" />
-  <key id="17020901" name="绯红爱心套装" />
-  <key id="17020902" name="绯红爱心套装" />
-  <key id="17020903" name="冒险岛联盟套装" />
-  <key id="17020904" name="冒险岛联盟套装" />
-  <key id="17020905" name="冒险岛联盟套装" />
-  <key id="17020906" name="冒险岛联盟套装" />
-  <key id="17020907" name="冒险岛联盟套装" />
-  <key id="17020908" name="冒险岛联盟套装" />
-  <key id="17020909" name="冒险岛联盟套装" />
-  <key id="17020910" name="冒险岛联盟套装" />
-  <key id="17020911" name="冒险岛联盟套装" />
-  <key id="17020912" name="冒险岛联盟套装" />
-  <key id="17020913" name="冒险岛联盟套装" />
-  <key id="17020914" name="马德拉坎君主套装" />
-  <key id="17030701" name="枫叶套装" />
-  <key id="17030901" name="心花怒放套装" />
-  <key id="17030902" name="心花怒放套装" />
-  <key id="17040401" name="雄伟之翼套装" />
-  <key id="17040402" name="雄伟之翼套装" />
-  <key id="17040601" name="闪亮明星套装" />
-  <key id="17040602" name="闪亮明星套装" />
-  <key id="17053101" name="阴谋套装" />
-  <key id="17062901" name="重生之骑士（LV50）套装" />
-  <key id="17062902" name="重生之狂战士（LV50）套装" />
-  <key id="17062903" name="重生之魔法师（LV50）套装" />
-  <key id="17062904" name="重生之牧师（LV50）套装" />
-  <key id="17062905" name="重生之弓箭手（LV50）套装" />
-  <key id="17062906" name="重生之重炮手（LV50）套装" />
-  <key id="17062907" name="重生之侠盗（LV50）套装" />
-  <key id="17062908" name="重生之刺客（LV50）套装" />
-  <key id="17062909" name="重生之符文剑士（LV50）套装" />
-  <key id="17062910" name="重生之街霸（LV50）套装" />
-  <key id="17062911" name="重生之启灵师（LV50）套装" />
-  <key id="17062912" name="重生之骑士（LV56）套装" />
-  <key id="17062913" name="重生之狂战士（LV56）套装" />
-  <key id="17062914" name="重生之魔法师（LV56）套装" />
-  <key id="17062915" name="重生之牧师（LV56）套装" />
-  <key id="17062916" name="重生之弓箭手（LV56）套装" />
-  <key id="17062917" name="重生之重炮手（LV56）套装" />
-  <key id="17062918" name="重生之侠盗（LV56）套装" />
-  <key id="17062919" name="重生之刺客（LV56）套装" />
-  <key id="17062920" name="重生之符文剑士（LV56）套装" />
-  <key id="17062921" name="重生之刺客（LV56）套装" />
-  <key id="17062922" name="重生之启灵师（LV56）套装" />
-  <key id="17081823" name="月饼套装" />
-  <key id="17083101" name="南瓜巫师套装" />
-  <key id="17083102" name="南瓜巫师套装" />
-  <key id="17090101" name="斯文韩服套装" />
-  <key id="17090102" name="毛绒韩服套装" />
-  <key id="17110801" name="狂暴战斗套装" />
-  <key id="17110802" name="狂暴怒气套装" />
-  <key id="17110803" name="狂暴魔灵套装" />
-  <key id="17110804" name="狂暴神圣套装" />
-  <key id="17110805" name="狂暴疾风套装" />
-  <key id="17110806" name="狂暴炮击套装" />
-  <key id="17110807" name="狂暴混乱套装" />
-  <key id="17110808" name="狂暴暗杀套装" />
-  <key id="17110809" name="狂暴咒术套装" />
-  <key id="17110810" name="狂暴乱斗套装" />
-  <key id="17110811" name="狂暴意志套装" />
-  <key id="17110812" name="不灭血色黄昏套装" />
-  <key id="17110813" name="不灭汲血骨纹套装" />
-  <key id="17110814" name="不灭恩奈斯套装" />
-  <key id="17110815" name="不灭塞比奥斯套装" />
-  <key id="17110816" name="不灭监视者套装" />
-  <key id="17110817" name="不灭凌空飞行套装" />
-  <key id="17110818" name="不灭灵敏之风套装" />
-  <key id="17110819" name="不灭幻影迷踪套装" />
-  <key id="17110820" name="不灭虚无套装" />
-  <key id="17110821" name="不灭战魂套装" />
-  <key id="17110822" name="不灭气息套装" />
-  <key id="17110823" name="重生骑士套装（LV50）" />
-  <key id="17110824" name="重生狂战士套装（LV50）" />
-  <key id="17110825" name="重生魔法师套装（LV50）" />
-  <key id="17110826" name="重生牧师套装（LV50）" />
-  <key id="17110827" name="重生弓箭手套装（LV50）" />
-  <key id="17110828" name="重生重炮手套装（LV50）" />
-  <key id="17110829" name="重生侠盗套装（LV50）" />
-  <key id="17110830" name="重生刺客套装（LV50）" />
-  <key id="17110831" name="重生符文剑士套装（LV50）" />
-  <key id="17110832" name="重生街霸套装（LV50）" />
-  <key id="17110833" name="重生启灵师套装（LV50）" />
-  <key id="17110834" name="冥王星套装" />
-  <key id="17110835" name="火星套装" />
-  <key id="17110836" name="冥王星套装" />
-  <key id="17110837" name="火星套装" />
-  <key id="17112901" name="圣诞之星套装" />
-  <key id="17112902" name="圣诞之星套装" />
-  <key id="17121101" name="荣耀战斗套装" />
-  <key id="17121102" name="荣耀狂乱套装" />
-  <key id="17121103" name="荣耀魔法套装" />
-  <key id="17121104" name="荣耀神圣套装" />
-  <key id="17121105" name="荣耀之集中套装" />
-  <key id="17121106" name="荣耀炮击套装" />
-  <key id="17121107" name="荣耀混乱套装" />
-  <key id="17121108" name="荣耀暗杀套装" />
-  <key id="17121109" name="荣耀咒术套装" />
-  <key id="17121110" name="荣耀乱斗套装" />
-  <key id="17121111" name="荣耀意识套装" />
-  <key id="18011801" name="冥王星套装" />
-  <key id="18011802" name="火星套装" />
-  <key id="18011803" name="冥王星套装" />
-  <key id="18011804" name="火星套装" />
-  <key id="18011501" name="蝴蝶梦套装" />
-  <key id="18011502" name="蝴蝶梦套装" />
-  <key id="18011805" name="深红炎魔战斗套装" />
-  <key id="18011806" name="深红炎魔狂乱套装" />
-  <key id="18011807" name="深红炎魔魔法套装" />
-  <key id="18011808" name="深红炎魔神圣套装" />
-  <key id="18011809" name="深红炎魔集中套装" />
-  <key id="18011810" name="深红炎魔炮击套装" />
-  <key id="18011811" name="深红炎魔混乱套装" />
-  <key id="18011812" name="深红炎魔暗杀套装" />
-  <key id="18011813" name="深红炎魔咒术套装" />
-  <key id="18011814" name="深红炎魔乱斗套装" />
-  <key id="18011815" name="深红炎魔意识套装" />
-  <key id="18011816" name="深红炎魔战斗套装" />
-  <key id="18011817" name="深红炎魔狂乱套装" />
-  <key id="18011818" name="深红炎魔魔法套装" />
-  <key id="18011819" name="深红炎魔神圣套装" />
-  <key id="18011820" name="深红炎魔集中套装" />
-  <key id="18011821" name="深红炎魔炮击套装" />
-  <key id="18011822" name="深红炎魔混乱套装" />
-  <key id="18011823" name="深红炎魔暗杀套装" />
-  <key id="18011824" name="深红炎魔咒术套装" />
-  <key id="18011825" name="深红炎魔乱斗套装" />
-  <key id="18011826" name="深红炎魔意识套装" />
-  <key id="18011827" name="明亮星星战斗套装" />
-  <key id="18011828" name="明亮星星狂乱套装" />
-  <key id="18011829" name="明亮星星魔法套装" />
-  <key id="18011830" name="明亮星星神圣套装" />
-  <key id="18011831" name="明亮星星集中套装" />
-  <key id="18011832" name="明亮星星炮击套装" />
-  <key id="18011833" name="明亮星星混乱套装" />
-  <key id="18011834" name="明亮星星暗杀套装" />
-  <key id="18011835" name="明亮星星咒术套装" />
-  <key id="18011836" name="明亮星星乱斗套装" />
-  <key id="18011837" name="明亮星星意识套装" />
-  <key id="18052834" name="贝希摩斯骑士套装" feature="Level60Item" />
-  <key id="18052835" name="贝希摩斯狂战士套装" feature="Level60Item" />
-  <key id="18052836" name="贝希摩斯魔法师套装" feature="Level60Item" />
-  <key id="18052837" name="贝希摩斯牧师套装" feature="Level60Item" />
-  <key id="18052838" name="贝希摩斯弓箭手套装" feature="Level60Item" />
-  <key id="18052839" name="贝希摩斯重炮手套装" feature="Level60Item" />
-  <key id="18052840" name="贝希摩斯侠盗套装" feature="Level60Item" />
-  <key id="18052841" name="贝希摩斯刺客套装" feature="Level60Item" />
-  <key id="18052842" name="贝希摩斯符文剑士套装" feature="Level60Item" />
-  <key id="18052843" name="贝希摩斯街霸套装" feature="Level60Item" />
-  <key id="18052844" name="贝希摩斯启灵师套装" feature="Level60Item" />
-  <key id="18052845" name="外星骑士套装" feature="Level60Item" />
-  <key id="18052846" name="外星狂战士套装" feature="Level60Item" />
-  <key id="18052847" name="外星魔法师套装" feature="Level60Item" />
-  <key id="18052848" name="外星牧师套装" feature="Level60Item" />
-  <key id="18052849" name="外星弓箭手套装" feature="Level60Item" />
-  <key id="18052850" name="外星重炮手套装" feature="Level60Item" />
-  <key id="18052851" name="外星侠盗套装" feature="Level60Item" />
-  <key id="18052852" name="外星刺客套装" feature="Level60Item" />
-  <key id="18052853" name="外星符文剑士套装" feature="Level60Item" />
-  <key id="18052854" name="外星街霸套装" feature="Level60Item" />
-  <key id="18052855" name="外星启灵师套装" feature="Level60Item" />
-  <key id="18052856" name="漆黑先锋骑士套装" feature="Level60Item" />
-  <key id="18052857" name="漆黑先锋狂战士套装" feature="Level60Item" />
-  <key id="18052858" name="漆黑先锋魔法师套装" feature="Level60Item" />
-  <key id="18052859" name="漆黑先锋牧师套装" feature="Level60Item" />
-  <key id="18052860" name="漆黑先锋弓箭手套装" feature="Level60Item" />
-  <key id="18052861" name="漆黑先锋重炮手套装" feature="Level60Item" />
-  <key id="18052862" name="漆黑先锋侠盗套装" feature="Level60Item" />
-  <key id="18052863" name="漆黑先锋刺客套装" feature="Level60Item" />
-  <key id="18052864" name="漆黑先锋符文剑士套装" feature="Level60Item" />
-  <key id="18052865" name="漆黑先锋街霸套装" feature="Level60Item" />
-  <key id="18052866" name="漆黑先锋启灵师套装" feature="Level60Item" />
-  <key id="18052867" name="至暗骑士套装" feature="Level60Item" />
-  <key id="18052868" name="至暗狂战士套装" feature="Level60Item" />
-  <key id="18052869" name="至暗魔法师套装" feature="Level60Item" />
-  <key id="18052870" name="至暗牧师套装" feature="Level60Item" />
-  <key id="18052871" name="至暗弓箭手套装" feature="Level60Item" />
-  <key id="18052872" name="至暗重炮手套装" feature="Level60Item" />
-  <key id="18052873" name="至暗侠盗套装" feature="Level60Item" />
-  <key id="18052874" name="至暗刺客套装" feature="Level60Item" />
-  <key id="18052875" name="至暗符文剑士套装" feature="Level60Item" />
-  <key id="18052876" name="至暗街霸套装" feature="Level60Item" />
-  <key id="18052877" name="至暗启灵师套装" feature="Level60Item" />
-  <key id="18052878" name="60级史诗级2骑士套装" feature="Level60Item" />
-  <key id="18052879" name="60级史诗级2狂战士套装" feature="Level60Item" />
-  <key id="18052880" name="60级史诗级2魔法师套装" feature="Level60Item" />
-  <key id="18052881" name="60级史诗级2牧师套装" feature="Level60Item" />
-  <key id="18052882" name="60级史诗级2弓箭手套装" feature="Level60Item" />
-  <key id="18052883" name="60级史诗级2重炮手套装" feature="Level60Item" />
-  <key id="18052884" name="60级史诗级2侠盗套装" feature="Level60Item" />
-  <key id="18052885" name="60级史诗级2刺客套装" feature="Level60Item" />
-  <key id="18052886" name="60级史诗级2符文剑士套装" feature="Level60Item" />
-  <key id="18052887" name="60级史诗级2街霸套装" feature="Level60Item" />
-  <key id="18052888" name="60级史诗级2启灵师套装" feature="Level60Item" />
-  <key id="18052891" name="至暗饰品套装" feature="Level60Item" />
-  <key id="18052892" name="至暗饰品套装" feature="Level60Item" />
-  <key id="18052893" name="60级史诗饰品2（耳环、项链、戒指套装）" feature="Level60Item" />
-  <key id="18052894" name="60级史诗饰品2（披风、腰带套装）" feature="Level60Item" />
-  <key id="18052895" name="马德拉坎君主套装" feature="Level60Item" />
-  <key id="18052896" name="百夫长套装" feature="Level60Item" />
-  <key id="18052897" name="百夫长套装" feature="Level60Item" />
-  <key id="18061701" name="贝希摩斯骑士套装" feature="Level60Item" />
-  <key id="18061702" name="贝希摩斯狂战士套装" feature="Level60Item" />
-  <key id="18061703" name="贝希摩斯魔法师套装" feature="Level60Item" />
-  <key id="18061704" name="贝希摩斯牧师套装" feature="Level60Item" />
-  <key id="18061705" name="贝希摩斯弓箭手套装" feature="Level60Item" />
-  <key id="18061706" name="贝希摩斯重炮手套装" feature="Level60Item" />
-  <key id="18061707" name="贝希摩斯侠盗套装" feature="Level60Item" />
-  <key id="18061708" name="贝希摩斯刺客套装" feature="Level60Item" />
-  <key id="18061709" name="贝希摩斯符文剑士套装" feature="Level60Item" />
-  <key id="18061710" name="贝希摩斯街霸套装" feature="Level60Item" />
-  <key id="18061711" name="贝希摩斯启灵师套装" feature="Level60Item" />
-  <key id="18061712" name="外星骑士套装" feature="Level60Item" />
-  <key id="18061713" name="外星狂战士套装" feature="Level60Item" />
-  <key id="18061714" name="外星魔法师套装" feature="Level60Item" />
-  <key id="18061715" name="外星牧师套装" feature="Level60Item" />
-  <key id="18061716" name="外星弓箭手套装" feature="Level60Item" />
-  <key id="18061717" name="外星重炮手套装" feature="Level60Item" />
-  <key id="18061718" name="外星侠盗套装" feature="Level60Item" />
-  <key id="18061719" name="外星刺客套装" feature="Level60Item" />
-  <key id="18061720" name="外星符文剑士套装" feature="Level60Item" />
-  <key id="18061721" name="外星街霸套装" feature="Level60Item" />
-  <key id="18061722" name="外星启灵师套装" feature="Level60Item" />
-  <key id="18061723" name="漆黑先锋骑士套装" feature="Level60Item" />
-  <key id="18061724" name="漆黑先锋狂战士套装" feature="Level60Item" />
-  <key id="18061725" name="漆黑先锋魔法师套装" feature="Level60Item" />
-  <key id="18061726" name="漆黑先锋牧师套装" feature="Level60Item" />
-  <key id="18061727" name="漆黑先锋弓箭手套装" feature="Level60Item" />
-  <key id="18061728" name="漆黑先锋重炮手套装" feature="Level60Item" />
-  <key id="18061729" name="漆黑先锋侠盗套装" feature="Level60Item" />
-  <key id="18061730" name="漆黑先锋刺客套装" feature="Level60Item" />
-  <key id="18061731" name="漆黑先锋符文剑士套装" feature="Level60Item" />
-  <key id="18061732" name="漆黑先锋街霸套装" feature="Level60Item" />
-  <key id="18061733" name="漆黑先锋启灵师套装" feature="Level60Item" />
-  <key id="18061734" name="百夫长套装" feature="Level60Item" />
-  <key id="18061735" name="百夫长套装" feature="Level60Item" />
-  <key id="18061736" name="至暗骑士套装" feature="Level60Item" />
-  <key id="18061737" name="至暗狂战士套装" feature="Level60Item" />
-  <key id="18061738" name="至暗魔法师套装" feature="Level60Item" />
-  <key id="18061739" name="至暗牧师套装" feature="Level60Item" />
-  <key id="18061740" name="至暗弓箭手套装" feature="Level60Item" />
-  <key id="18061741" name="至暗重炮手套装" feature="Level60Item" />
-  <key id="18061742" name="至暗侠盗套装" feature="Level60Item" />
-  <key id="18061743" name="至暗刺客套装" feature="Level60Item" />
-  <key id="18061744" name="至暗符文剑士套装" feature="Level60Item" />
-  <key id="18061745" name="至暗街霸套装" feature="Level60Item" />
-  <key id="18061746" name="至暗启灵师套装" feature="Level60Item" />
-  <key id="18061747" name="60级史诗级2骑士套装" feature="Level60Item" />
-  <key id="18061748" name="60级史诗级2狂战士套装" feature="Level60Item" />
-  <key id="18061749" name="60级史诗级2魔法师套装" feature="Level60Item" />
-  <key id="18061750" name="60级史诗级2牧师套装" feature="Level60Item" />
-  <key id="18061751" name="60级史诗级2弓箭手套装" feature="Level60Item" />
-  <key id="18061752" name="60级史诗级2重炮手套装" feature="Level60Item" />
-  <key id="18061753" name="60级史诗级2侠盗套装" feature="Level60Item" />
-  <key id="18061754" name="60级史诗级2刺客套装" feature="Level60Item" />
-  <key id="18061755" name="60级史诗级2符文剑士套装" feature="Level60Item" />
-  <key id="18061756" name="60级史诗级2街霸套装" feature="Level60Item" />
-  <key id="18061757" name="60级史诗级2启灵师套装" feature="Level60Item" />
-  <key id="18061758" name="至暗饰品套装" feature="Level60Item" />
-  <key id="18061759" name="至暗饰品套装" feature="Level60Item" />
-  <key id="18061760" name="60级史诗饰品2（耳环、项链、戒指套装）" feature="Level60Item" />
-  <key id="18061761" name="60级史诗饰品2（披风、腰带套装）" feature="Level60Item" />
-  <key id="18062801" name="奥林匹斯套装" />
-  <key id="18062802" name="奥林匹斯套装" />
-  <key id="18081301" name="极限战斗套装" feature="Season3" />
-  <key id="18081302" name="极限怒气套装" feature="Season3" />
-  <key id="18081303" name="极限魔灵套装" feature="Season3" />
-  <key id="18081304" name="极限神圣套装" feature="Season3" />
-  <key id="18081305" name="极限集中套装" feature="Season3" />
-  <key id="18081306" name="极限炮击套装" feature="Season3" />
-  <key id="18081307" name="极限混乱套装" feature="Season3" />
-  <key id="18081308" name="极限暗杀套装" feature="Season3" />
-  <key id="18081309" name="极限咒术套装" feature="Season3" />
-  <key id="18081310" name="极限乱斗套装" feature="Season3" />
-  <key id="18081311" name="极限意志套装" feature="Season3" />
-  <key id="18081312" name="傲骨战斗套装" feature="Season3" />
-  <key id="18081313" name="傲骨狂乱套装" feature="Season3" />
-  <key id="18081314" name="傲骨魔法套装" feature="Season3" />
-  <key id="18081315" name="傲骨神圣套装" feature="Season3" />
-  <key id="18081316" name="傲骨集中套装" feature="Season3" />
-  <key id="18081317" name="傲骨炮击套装" feature="Season3" />
-  <key id="18081318" name="傲骨混乱套装" feature="Season3" />
-  <key id="18081319" name="傲骨暗杀套装" feature="Season3" />
-  <key id="18081320" name="傲骨咒术套装" feature="Season3" />
-  <key id="18081321" name="傲骨乱斗套装" feature="Season3" />
-  <key id="18081322" name="傲骨意识套装" feature="Season3" />
-  <key id="18081323" name="狂暴战斗套装" feature="Season3" />
-  <key id="18081324" name="狂暴怒气套装" feature="Season3" />
-  <key id="18081325" name="狂暴魔灵套装" feature="Season3" />
-  <key id="18081326" name="狂暴神圣套装" feature="Season3" />
-  <key id="18081327" name="狂暴疾风套装" feature="Season3" />
-  <key id="18081328" name="狂暴炮击套装" feature="Season3" />
-  <key id="18081329" name="狂暴混乱套装" feature="Season3" />
-  <key id="18081330" name="狂暴暗杀套装" feature="Season3" />
-  <key id="18081331" name="狂暴咒术套装" feature="Season3" />
-  <key id="18081332" name="狂暴乱斗套装" feature="Season3" />
-  <key id="18081333" name="狂暴意志套装" feature="Season3" />
-  <key id="18092001" name="堕落天使套装" />
-  <key id="18092002" name="堕落天使套装" />
-  <key id="18091401" name="冥王星套装" feature="LegendaryAccessory01" />
-  <key id="18091402" name="冥王星套装" feature="LegendaryAccessory01" />
-  <key id="18091403" name="火星套装" feature="LegendaryAccessory01" />
-  <key id="18091404" name="火星套装" feature="LegendaryAccessory01" />
-  <key id="18110701" name="气质战斗套装" feature="PvPRankingDuelMode" />
-  <key id="18110702" name="气质狂乱套装" feature="PvPRankingDuelMode" />
-  <key id="18110703" name="气质魔法套装" feature="PvPRankingDuelMode" />
-  <key id="18110704" name="气质神圣套装" feature="PvPRankingDuelMode" />
-  <key id="18110705" name="气质集中套装" feature="PvPRankingDuelMode" />
-  <key id="18110706" name="气质炮击套装" feature="PvPRankingDuelMode" />
-  <key id="18110707" name="气质混乱套装" feature="PvPRankingDuelMode" />
-  <key id="18110708" name="气质暗杀套装" feature="PvPRankingDuelMode" />
-  <key id="18110709" name="气质咒术套装" feature="PvPRankingDuelMode" />
-  <key id="18110710" name="气质乱斗套装" feature="PvPRankingDuelMode" />
-  <key id="18110711" name="气质意识套装" feature="PvPRankingDuelMode" />
-  <key id="18110712" name="气质饰品套装" feature="PvPRankingDuelMode" />
-  <key id="18112001" name="魔术师套装" />
-  <key id="18112002" name="魔术师套装" />
-  <key id="18122101" name="强化气质战斗套装" feature="Level70Item" />
-  <key id="18122102" name="强化气质狂乱套装" feature="Level70Item" />
-  <key id="18122103" name="强化气质魔法套装" feature="Level70Item" />
-  <key id="18122104" name="强化气质神圣套装" feature="Level70Item" />
-  <key id="18122105" name="强化气质集中套装" feature="Level70Item" />
-  <key id="18122106" name="强化气质炮击套装" feature="Level70Item" />
-  <key id="18122107" name="强化气质混乱套装" feature="Level70Item" />
-  <key id="18122108" name="强化气质暗杀套装" feature="Level70Item" />
-  <key id="18122109" name="强化气质咒术套装" feature="Level70Item" />
-  <key id="18122110" name="强化气质乱斗套装" feature="Level70Item" />
-  <key id="18122111" name="强化气质意识套装" feature="Level70Item" />
-  <key id="18122112" name="强化气质饰品套装" feature="Level70Item" />
-  <key id="18122701" name="克里蒂亚斯魔方水晶饰品套装" feature="Level70Item" />
-  <key id="18122702" name="时空之首饰套装" feature="Level70Item" />
-  <key id="19010301" name="塔兰指挥官勇士骑士套装" feature="Level70Item" />
-  <key id="19010302" name="塔兰指挥官勇士狂战士套装" feature="Level70Item" />
-  <key id="19010303" name="塔兰指挥官勇士魔法师套装" feature="Level70Item" />
-  <key id="19010304" name="塔兰指挥官勇士牧师套装" feature="Level70Item" />
-  <key id="19010305" name="塔兰指挥官勇士弓箭手套装" feature="Level70Item" />
-  <key id="19010306" name="塔兰指挥官勇士重炮手套装" feature="Level70Item" />
-  <key id="19010307" name="塔兰指挥官勇士侠盗套装" feature="Level70Item" />
-  <key id="19010308" name="塔兰指挥官战斗刺客套装" feature="Level70Item" />
-  <key id="19010309" name="塔兰指挥官勇士符文剑士套装" feature="Level70Item" />
-  <key id="19010310" name="塔兰指挥官勇士街霸套装" feature="Level70Item" />
-  <key id="19010311" name="塔兰指挥官勇士启灵师套装" feature="Level70Item" />
-  <key id="19010312" name="古代地狱君主骑士套装" feature="Level70Item" />
-  <key id="19010313" name="古代地狱君主狂战士套装" feature="Level70Item" />
-  <key id="19010314" name="古代地狱君主魔法师套装" feature="Level70Item" />
-  <key id="19010315" name="古代地狱君主牧师套装" feature="Level70Item" />
-  <key id="19010316" name="古代地狱君主弓箭手套装" feature="Level70Item" />
-  <key id="19010317" name="古代地狱君主重炮手套装" feature="Level70Item" />
-  <key id="19010318" name="古代地狱君主侠盗套装" feature="Level70Item" />
-  <key id="19010319" name="古代地狱君主刺客套装" feature="Level70Item" />
-  <key id="19010320" name="古代地狱君主符文剑士套装" feature="Level70Item" />
-  <key id="19010321" name="古代地狱君主街霸套装" feature="Level70Item" />
-  <key id="19010322" name="古代地狱君主启灵师套装" feature="Level70Item" />
-  <key id="19011101" name="塔兰战斗骑士套装" feature="Level70Item" />
-  <key id="19011102" name="塔兰战斗狂战士套装" feature="Level70Item" />
-  <key id="19011103" name="塔兰战斗魔法师套装" feature="Level70Item" />
-  <key id="19011104" name="塔兰战斗牧师套装" feature="Level70Item" />
-  <key id="19011105" name="塔兰战斗弓箭手套装" feature="Level70Item" />
-  <key id="19011106" name="塔兰战斗重炮手套装" feature="Level70Item" />
-  <key id="19011107" name="塔兰战斗侠盗套装" feature="Level70Item" />
-  <key id="19011108" name="塔兰战斗刺客套装" feature="Level70Item" />
-  <key id="19011109" name="塔兰战斗符文剑士套装" feature="Level70Item" />
-  <key id="19011110" name="塔兰战斗街霸套装" feature="Level70Item" />
-  <key id="19011111" name="塔兰战斗启灵师套装" feature="Level70Item" />
-  <key id="19011112" name="古代神龙骑士套装" feature="Level70Item" />
-  <key id="19011113" name="古代神龙狂战士套装" feature="Level70Item" />
-  <key id="19011114" name="古代神龙魔法师套装" feature="Level70Item" />
-  <key id="19011115" name="古代神龙牧师套装" feature="Level70Item" />
-  <key id="19011116" name="古代神龙弓箭手套装" feature="Level70Item" />
-  <key id="19011117" name="古代神龙重炮手套装" feature="Level70Item" />
-  <key id="19011118" name="古代神龙侠盗套装" feature="Level70Item" />
-  <key id="19011119" name="古代神龙刺客套装" feature="Level70Item" />
-  <key id="19011120" name="古代神龙符文剑士套装" feature="Level70Item" />
-  <key id="19011121" name="古代神龙街霸套装" feature="Level70Item" />
-  <key id="19011122" name="古代神龙启灵师套装" feature="Level70Item" />
-  <key id="19011801" name="格奥克·凯伊饰品套装" feature="Level70Item" />
-  <key id="19011802" name="格奥克·凯伊饰品套装" feature="Level70Item" />
-  <key id="19011803" name="塔兰皇家饰品套装" feature="Level70Item" />
-  <key id="19011804" name="塔兰皇家饰品套装" feature="Level70Item" />
-  <key id="19011805" name="塔兰皇家骑士套装" feature="Level70Item" />
-  <key id="19011806" name="塔兰皇家狂战士套装" feature="Level70Item" />
-  <key id="19011807" name="塔兰皇家魔法师套装" feature="Level70Item" />
-  <key id="19011808" name="塔兰皇家牧师套装" feature="Level70Item" />
-  <key id="19011809" name="塔兰皇家弓箭手套装" feature="Level70Item" />
-  <key id="19011810" name="塔兰皇家重炮手套装" feature="Level70Item" />
-  <key id="19011811" name="塔兰皇家侠盗套装" feature="Level70Item" />
-  <key id="19011812" name="塔兰皇家刺客套装" feature="Level70Item" />
-  <key id="19011813" name="塔兰皇家符文剑士套装" feature="Level70Item" />
-  <key id="19011814" name="塔兰皇家街霸套装" feature="Level70Item" />
-  <key id="19011815" name="塔兰皇家启灵师套装" feature="Level70Item" />
-  <key id="19021801" name="贝希摩斯骑士套装" feature="Level60Item" />
-  <key id="19021802" name="贝希摩斯狂战士套装" feature="Level60Item" />
-  <key id="19021803" name="贝希摩斯魔法师套装" feature="Level60Item" />
-  <key id="19021804" name="贝希摩斯牧师套装" feature="Level60Item" />
-  <key id="19021805" name="贝希摩斯弓箭手套装" feature="Level60Item" />
-  <key id="19021806" name="贝希摩斯重炮手套装" feature="Level60Item" />
-  <key id="19021807" name="贝希摩斯侠盗套装" feature="Level60Item" />
-  <key id="19021808" name="贝希摩斯刺客套装" feature="Level60Item" />
-  <key id="19021809" name="贝希摩斯符文剑士套装" feature="Level60Item" />
-  <key id="19021810" name="贝希摩斯街霸套装" feature="Level60Item" />
-  <key id="19021811" name="贝希摩斯启灵师套装" feature="Level60Item" />
-  <key id="19021812" name="外星骑士套装" feature="Level60Item" />
-  <key id="19021813" name="外星狂战士套装" feature="Level60Item" />
-  <key id="19021814" name="外星魔法师套装" feature="Level60Item" />
-  <key id="19021815" name="外星牧师套装" feature="Level60Item" />
-  <key id="19021816" name="外星弓箭手套装" feature="Level60Item" />
-  <key id="19021817" name="外星重炮手套装" feature="Level60Item" />
-  <key id="19021818" name="外星侠盗套装" feature="Level60Item" />
-  <key id="19021819" name="外星刺客套装" feature="Level60Item" />
-  <key id="19021820" name="外星符文剑士套装" feature="Level60Item" />
-  <key id="19021821" name="外星街霸套装" feature="Level60Item" />
-  <key id="19021822" name="外星启灵师套装" feature="Level60Item" />
-  <key id="19021823" name="漆黑先锋骑士套装" feature="Level60Item" />
-  <key id="19021824" name="漆黑先锋狂战士套装" feature="Level60Item" />
-  <key id="19021825" name="漆黑先锋魔法师套装" feature="Level60Item" />
-  <key id="19021826" name="漆黑先锋牧师套装" feature="Level60Item" />
-  <key id="19021827" name="漆黑先锋弓箭手套装" feature="Level60Item" />
-  <key id="19021828" name="漆黑先锋重炮手套装" feature="Level60Item" />
-  <key id="19021829" name="漆黑先锋侠盗套装" feature="Level60Item" />
-  <key id="19021830" name="漆黑先锋刺客套装" feature="Level60Item" />
-  <key id="19021831" name="漆黑先锋符文剑士套装" feature="Level60Item" />
-  <key id="19021832" name="漆黑先锋街霸套装" feature="Level60Item" />
-  <key id="19021833" name="漆黑先锋启灵师套装" feature="Level60Item" />
-  <key id="19021834" name="百夫长套装" feature="Level60Item" />
-  <key id="19021835" name="百夫长套装" feature="Level60Item" />
-  <key id="19021836" name="至暗骑士套装" feature="Level60Item" />
-  <key id="19021837" name="至暗狂战士套装" feature="Level60Item" />
-  <key id="19021838" name="至暗魔法师套装" feature="Level60Item" />
-  <key id="19021839" name="至暗牧师套装" feature="Level60Item" />
-  <key id="19021840" name="至暗弓箭手套装" feature="Level60Item" />
-  <key id="19021841" name="至暗重炮手套装" feature="Level60Item" />
-  <key id="19021842" name="至暗侠盗套装" feature="Level60Item" />
-  <key id="19021843" name="至暗刺客套装" feature="Level60Item" />
-  <key id="19021844" name="至暗符文剑士套装" feature="Level60Item" />
-  <key id="19021845" name="至暗街霸套装" feature="Level60Item" />
-  <key id="19021846" name="至暗启灵师套装" feature="Level60Item" />
-  <key id="19021847" name="至暗饰品套装" feature="Level60Item" />
-  <key id="19021848" name="至暗饰品套装" feature="Level60Item" />
-  <key id="19031301" name="婚礼套装" />
-  <key id="19031302" name="婚礼套装" />
-  <key id="19032001" name="马德拉坎君主套装" feature="Level60Item" />
-  <key id="19042501" name="仙鹟之羽套装" />
-  <key id="19042502" name="仙鹟之羽套装" />
-  <key id="19111901" name="冬日童话套装" />
-  <key id="19111902" name="冬日童话套装" />
-  <key id="19041501" name="强化气质战斗套装" feature="PvPRankingDuelMode" />
-  <key id="19041502" name="强化气质狂乱套装" feature="PvPRankingDuelMode" />
-  <key id="19041503" name="强化气质魔法套装" feature="PvPRankingDuelMode" />
-  <key id="19041504" name="强化气质神圣套装" feature="PvPRankingDuelMode" />
-  <key id="19041505" name="强化气质集中套装" feature="PvPRankingDuelMode" />
-  <key id="19041506" name="强化气质炮击套装" feature="PvPRankingDuelMode" />
-  <key id="19041507" name="强化气质混乱套装" feature="PvPRankingDuelMode" />
-  <key id="19041508" name="强化气质暗杀套装" feature="PvPRankingDuelMode" />
-  <key id="19041509" name="强化气质咒术套装" feature="PvPRankingDuelMode" />
-  <key id="19041510" name="强化气质乱斗套装" feature="PvPRankingDuelMode" />
-  <key id="19041511" name="强化气质意识套装" feature="PvPRankingDuelMode" />
-  <key id="19041512" name="强化气质饰品套装" feature="PvPRankingDuelMode" />
-  <key id="17062001" name="忠诚冒险家的套装" feature="Event" />
-  <key id="19061201" name="水手套装" />
-  <key id="19061202" name="奢华校服套装" />
-  <key id="19061203" name="幼儿园套装" />
-  <key id="19061204" name="车手套装" />
-  <key id="19061205" name="冒险岛棒球套装" />
-  <key id="19061206" name="水手泳装套装" />
-  <key id="19061207" name="小黄鸭桑拿套装" />
-  <key id="19061208" name="山铜套装" />
-  <key id="19061209" name="血色挽歌套装" />
-  <key id="19061210" name="时尚军官套装" />
-  <key id="19061211" name="金色旗袍套装" />
-  <key id="19061212" name="星星海洋套装" />
-  <key id="19061213" name="冒险岛运动服套装" />
-  <key id="19061214" name="狂怒风格套装" />
-  <key id="19061215" name="碧水套装" />
-  <key id="19061216" name="飞行套装" />
-  <key id="19061217" name="铆钉套装" />
-  <key id="19061218" name="武士袍套装" />
-  <key id="19061219" name="骑士团套装" />
-  <key id="19061220" name="创世之信仰套装" />
-  <key id="19061221" name="长虹贯日套装" />
-  <key id="19061222" name="黑色雨燕套装" />
-  <key id="19061223" name="流浪者套装" />
-  <key id="19061224" name="诡夜狂欢套装" />
-  <key id="19061225" name="帅气骨纹套装" />
-  <key id="19061226" name="侦探套装" />
-  <key id="19061227" name="军队套装" />
-  <key id="19061228" name="圣天使套装" />
-  <key id="19061229" name="乘务员套装" />
-  <key id="19061230" name="地狱火套装" />
-  <key id="19061231" name="冰雪精灵套装" />
-  <key id="19061232" name="闪耀之星套装" />
-  <key id="19061233" name="春游套装" />
-  <key id="19061234" name="可爱兔女郎套装" />
-  <key id="19061235" name="黑猫套装" />
-  <key id="19061236" name="狂野火焰套装" />
-  <key id="19061237" name="精神宗主套装" />
-  <key id="19061238" name="运动套装" />
-  <key id="19061239" name="可爱啾啾套装" />
-  <key id="19061240" name="干练斯塔兹套装" />
-  <key id="19061241" name="（网吧）侦探套装" />
-  <key id="19061242" name="（网吧）春游套装" />
-  <key id="19061243" name="胖胖品克缤套装" />
-  <key id="19061244" name="（限时）狮子王套装" />
-  <key id="19061245" name="吉格蒙特套装" />
-  <key id="19061246" name="毛茸兔套装" />
-  <key id="19061247" name="萌萌狗套装" />
-  <key id="19061248" name="可爱碎花套装" />
-  <key id="19061249" name="萌萌兔套装" />
-  <key id="19061250" name="狮子王套装" />
-  <key id="19061251" name="军官套装" />
-  <key id="19061252" name="金色缎带套装" />
-  <key id="19061253" name="朋克霓虹猫套装" />
-  <key id="19061254" name="欢乐暖冬套装" />
-  <key id="19061255" name="雪尾套装" />
-  <key id="19061256" name="绯红爱心套装" />
-  <key id="19061257" name="彩缎韩服套装" />
-  <key id="19061258" name="星光穿梭套装" />
-  <key id="19061259" name="活泼校服套装" />
-  <key id="19061260" name="花花兔套装" />
-  <key id="19061261" name="可爱小熊套装" />
-  <key id="19061262" name="绿披风警卫队套装" />
-  <key id="19061263" name="雪花团套装" />
-  <key id="19061264" name="黑风安腾托套装" />
-  <key id="19061265" name="光明骑士团欧涅斯塔套装" />
-  <key id="19061266" name="棉花糖套装" />
-  <key id="19061267" name="火枪手套装" />
-  <key id="19061268" name="冒险岛联盟套装" />
-  <key id="19061269" name="枫迷套装" />
-  <key id="19061270" name="泡泡满满套装" />
-  <key id="19061271" name="棒球套装" />
-  <key id="19061272" name="黄铜铆钉套装" />
-  <key id="19061273" name="明朗夏日套装" />
-  <key id="19061274" name="向日葵沙滩套装" />
-  <key id="19061275" name="萌萌哒恐龙套装" />
-  <key id="19061276" name="碧水夏日套装" />
-  <key id="19061277" name="高山滑雪套装" />
-  <key id="19061278" name="流氓兔套装" />
-  <key id="19061279" name="越冬套装" />
-  <key id="19061280" name="宇宙飞行师套装" />
-  <key id="19061281" name="热情流浪音乐套装" />
-  <key id="19061282" name="魅力校服套装" />
-  <key id="19061283" name="旅行青蛙套装" />
-  <key id="19061284" name="猫咪管家套装" />
-  <key id="19061285" name="特莱雅近卫队套装" />
-  <key id="19061286" name="朋克牛仔套装" />
-  <key id="19061287" name="勇士部落风套装" />
-  <key id="19061288" name="水手套装" />
-  <key id="19061289" name="奢华校服套装" />
-  <key id="19061290" name="幼儿园套装" />
-  <key id="19061291" name="车手套装" />
-  <key id="19061292" name="冒险岛棒球套装" />
-  <key id="19061293" name="水手泳装套装" />
-  <key id="19061294" name="小黄鸭桑拿套装" />
-  <key id="19061295" name="山铜套装" />
-  <key id="19061296" name="血色挽歌套装" />
-  <key id="19061297" name="时尚军官套装" />
-  <key id="19061298" name="蝴蝶结旗袍套装" />
-  <key id="19061299" name="花花沙滩套装" />
-  <key id="19061301" name="冒险岛运动服套装" />
-  <key id="19061302" name="狂怒风格套装" />
-  <key id="19061303" name="碧水套装" />
-  <key id="19061304" name="飞行套装" />
-  <key id="19061305" name="铆钉套装" />
-  <key id="19061306" name="华丽的绸缎韩服套装" />
-  <key id="19061307" name="骑士团套装" />
-  <key id="19061308" name="创世之信仰套装" />
-  <key id="19061309" name="长虹贯日套装" />
-  <key id="19061310" name="黑色雨燕套装" />
-  <key id="19061311" name="流浪者套装" />
-  <key id="19061312" name="诡夜狂欢套装" />
-  <key id="19061313" name="性感恶魔套装" />
-  <key id="19061314" name="丝带女士套装" />
-  <key id="19061315" name="军队套装" />
-  <key id="19061316" name="圣天使套装" />
-  <key id="19061317" name="乘务员套装" />
-  <key id="19061318" name="地狱火套装" />
-  <key id="19061319" name="冰雪精灵套装" />
-  <key id="19061320" name="闪耀之星套装" />
-  <key id="19061321" name="春游套装" />
-  <key id="19061322" name="可爱兔女郎套装" />
-  <key id="19061323" name="黑猫套装" />
-  <key id="19061324" name="狂野火焰套装" />
-  <key id="19061325" name="精神宗主套装" />
-  <key id="19061326" name="运动套装" />
-  <key id="19061327" name="可爱啾啾套装" />
-  <key id="19061328" name="性感莉莉套装" />
-  <key id="19061329" name="（网吧）春游套装" />
-  <key id="19061330" name="（网吧）奢华校服套装" />
-  <key id="19061331" name="胖胖品克缤套装" />
-  <key id="19061332" name="（限时）狮子王套装" />
-  <key id="19061333" name="吉格蒙特套装" />
-  <key id="19061334" name="毛茸兔套装" />
-  <key id="19061335" name="萌萌狗套装" />
-  <key id="19061336" name="可爱碎花套装" />
-  <key id="19061337" name="萌萌兔套装" />
-  <key id="19061338" name="狮子王套装" />
-  <key id="19061339" name="军官套装" />
-  <key id="19061340" name="金色缎带套装" />
-  <key id="19061341" name="朋克霓虹猫套装" />
-  <key id="19061342" name="欢乐暖冬套装" />
-  <key id="19061343" name="雪尾套装" />
-  <key id="19061344" name="绯红爱心套装" />
-  <key id="19061345" name="彩缎韩服套装" />
-  <key id="19061346" name="星光穿梭套装" />
-  <key id="19061347" name="活泼校服套装" />
-  <key id="19061348" name="花花兔套装" />
-  <key id="19061349" name="可爱小熊套装" />
-  <key id="19061350" name="绿披风警卫队套装" />
-  <key id="19061351" name="雪花团套装" />
-  <key id="19061352" name="黑风安腾托套装" />
-  <key id="19061353" name="光明骑士团欧涅斯塔套装" />
-  <key id="19061354" name="棉花糖套装" />
-  <key id="19061355" name="火枪手套装" />
-  <key id="19061356" name="冒险岛联盟套装" />
-  <key id="19061357" name="枫迷套装" />
-  <key id="19061358" name="泡泡满满套装" />
-  <key id="19061359" name="棒球套装" />
-  <key id="19061360" name="黄铜铆钉套装" />
-  <key id="19061361" name="明朗夏日套装" />
-  <key id="19061362" name="向日葵沙滩套装" />
-  <key id="19061363" name="萌萌哒恐龙套装" />
-  <key id="19061364" name="碧水夏日套装" />
-  <key id="19061365" name="高山滑雪套装" />
-  <key id="19061366" name="流氓兔套装" />
-  <key id="19061367" name="越冬套装" />
-  <key id="19061368" name="宇宙飞行师套装" />
-  <key id="19061369" name="热情流浪音乐套装" />
-  <key id="19061370" name="魅力校服套装" />
-  <key id="19061371" name="旅行青蛙套装" />
-  <key id="19061372" name="猫咪管家套装" />
-  <key id="19061373" name="特莱雅近卫队套装" />
-  <key id="19061374" name="朋克牛仔套装" />
-  <key id="19061375" name="勇士部落风套装" />
-  <key id="19061376" name="海边的浪漫套装" />
-  <key id="19061377" name="海边的浪漫套装" />
-  <key id="19061378" name="魔法学校修炼生套装" />
-  <key id="19061379" name="魔法学校修炼生套装" />
-  <key id="19061380" name="热带风情套装" />
-  <key id="19061381" name="热带风情套装" />
-  <key id="19061382" name="冒险岛四分卫套装" />
-  <key id="19061383" name="冒险岛四分卫套装" />
-  <key id="19061384" name="夏日庆典套装" />
-  <key id="19061385" name="夏日庆典套装" />
-  <key id="19061386" name="特莱雅宫廷厨师套装" />
-  <key id="19061387" name="特莱雅宫廷厨师套装" />
-  <key id="19061388" name="机能型侦察兵套装" />
-  <key id="19061389" name="机能型侦察兵套装" />
-  <key id="19081201" name="活力明星套装" />
-  <key id="19081202" name="活力明星套装" />
-  <key id="19081401" name="塔兰战斗骑士套装" feature="Level70Item" />
-  <key id="19081402" name="塔兰战斗狂战士套装" feature="Level70Item" />
-  <key id="19081403" name="塔兰战斗魔法师套装" feature="Level70Item" />
-  <key id="19081404" name="塔兰战斗牧师套装" feature="Level70Item" />
-  <key id="19081405" name="塔兰战斗弓箭手套装" feature="Level70Item" />
-  <key id="19081406" name="塔兰战斗重炮手套装" feature="Level70Item" />
-  <key id="19081407" name="塔兰战斗侠盗套装" feature="Level70Item" />
-  <key id="19081408" name="塔兰战斗刺客套装" feature="Level70Item" />
-  <key id="19081409" name="塔兰战斗符文剑士套装" feature="Level70Item" />
-  <key id="19081410" name="塔兰战斗街霸套装" feature="Level70Item" />
-  <key id="19081411" name="塔兰战斗启灵师套装" feature="Level70Item" />
-  <key id="19081412" name="古代神龙骑士套装" feature="Level70Item" />
-  <key id="19081413" name="古代神龙狂战士套装" feature="Level70Item" />
-  <key id="19081414" name="古代神龙魔法师套装" feature="Level70Item" />
-  <key id="19081415" name="古代神龙牧师套装" feature="Level70Item" />
-  <key id="19081416" name="古代神龙弓箭手套装" feature="Level70Item" />
-  <key id="19081417" name="古代神龙重炮手套装" feature="Level70Item" />
-  <key id="19081418" name="古代神龙侠盗套装" feature="Level70Item" />
-  <key id="19081419" name="古代神龙刺客套装" feature="Level70Item" />
-  <key id="19081420" name="古代神龙符文剑士套装" feature="Level70Item" />
-  <key id="19081421" name="古代神龙街霸套装" feature="Level70Item" />
-  <key id="19081422" name="古代神龙启灵师套装" feature="Level70Item" />
-  <key id="19081423" name="塔兰指挥官勇士骑士套装" feature="Level70Item" />
-  <key id="19081424" name="塔兰指挥官勇士狂战士套装" feature="Level70Item" />
-  <key id="19081425" name="塔兰指挥官勇士魔法师套装" feature="Level70Item" />
-  <key id="19081426" name="塔兰指挥官勇士牧师套装" feature="Level70Item" />
-  <key id="19081427" name="塔兰指挥官勇士弓箭手套装" feature="Level70Item" />
-  <key id="19081428" name="塔兰指挥官勇士重炮手套装" feature="Level70Item" />
-  <key id="19081429" name="塔兰指挥官勇士侠盗套装" feature="Level70Item" />
-  <key id="19081430" name="塔兰指挥官战斗刺客套装" feature="Level70Item" />
-  <key id="19081431" name="塔兰指挥官勇士符文剑士套装" feature="Level70Item" />
-  <key id="19081432" name="塔兰指挥官勇士街霸套装" feature="Level70Item" />
-  <key id="19081433" name="塔兰指挥官勇士启灵师套装" feature="Level70Item" />
-  <key id="19081434" name="古代地狱君主骑士套装" feature="Level70Item" />
-  <key id="19081435" name="古代地狱君主狂战士套装" feature="Level70Item" />
-  <key id="19081436" name="古代地狱君主魔法师套装" feature="Level70Item" />
-  <key id="19081437" name="古代地狱君主牧师套装" feature="Level70Item" />
-  <key id="19081438" name="古代地狱君主弓箭手套装" feature="Level70Item" />
-  <key id="19081439" name="古代地狱君主重炮手套装" feature="Level70Item" />
-  <key id="19081440" name="古代地狱君主侠盗套装" feature="Level70Item" />
-  <key id="19081441" name="古代地狱君主刺客套装" feature="Level70Item" />
-  <key id="19081442" name="古代地狱君主符文剑士套装" feature="Level70Item" />
-  <key id="19081443" name="古代地狱君主街霸套装" feature="Level70Item" />
-  <key id="19081444" name="古代地狱君主启灵师套装" feature="Level70Item" />
-  <key id="19081445" name="格奥克·凯伊饰品套装" feature="Level70Item" />
-  <key id="19081446" name="格奥克·凯伊饰品套装" feature="Level70Item" />
-  <key id="19081447" name="塔兰皇家骑士套装" feature="Level70Item" />
-  <key id="19081448" name="塔兰皇家狂战士套装" feature="Level70Item" />
-  <key id="19081449" name="塔兰皇家魔法师套装" feature="Level70Item" />
-  <key id="19081450" name="塔兰皇家牧师套装" feature="Level70Item" />
-  <key id="19081451" name="塔兰皇家弓箭手套装" feature="Level70Item" />
-  <key id="19081452" name="塔兰皇家重炮手套装" feature="Level70Item" />
-  <key id="19081453" name="塔兰皇家侠盗套装" feature="Level70Item" />
-  <key id="19081454" name="塔兰皇家刺客套装" feature="Level70Item" />
-  <key id="19081455" name="塔兰皇家符文剑士套装" feature="Level70Item" />
-  <key id="19081456" name="塔兰皇家街霸套装" feature="Level70Item" />
-  <key id="19081457" name="塔兰皇家启灵师套装" feature="Level70Item" />
-  <key id="19081458" name="塔兰皇家饰品套装" feature="Level70Item" />
-  <key id="19081459" name="塔兰皇家饰品套装" feature="Level70Item" />
-  <key id="19081460" name="克里蒂亚斯魔方水晶饰品套装" feature="Level70Item" />
-  <key id="19081461" name="时空之首饰套装" feature="Level70Item" />
-  <key id="19081601" name="白狐套装" />
-  <key id="19081602" name="白狐套装" />
-  <key id="19081603" name="和风夏日浴衣套装" />
-  <key id="19081604" name="和风夏日浴衣套装" />
-  <key id="19081605" name="和风夏日浴衣套装" />
-  <key id="19081606" name="和风夏日浴衣套装" />
-  <key id="19082301" name="蝶恋翩飞套装" />
-  <key id="19082302" name="蝶恋翩飞套装" />
-  <key id="19082801" name="咏夜之诗套装" />
-  <key id="19082802" name="咏夜之诗套装" />
-  <key id="19091801" name="银河星光套装" />
-  <key id="19091802" name="银河星光套装" />
-  <key id="19091803" name="清凉水手套装" />
-  <key id="19091804" name="清凉水手套装" />
-  <key id="19091805" name="中世纪贵族套装" />
-  <key id="19091806" name="中世纪丝带套装" />
-  <key id="19102301" name="精致婚礼套装" feature="Wedding" />
-  <key id="19102302" name="精致婚礼套装" feature="Wedding" />
-  <key id="19102501" name="见习糕点师套装" />
-  <key id="19102502" name="见习糕点师套装" />
-  <key id="19110701" name="幽翼绯影饰品套装" feature="Level70Item" />
-  <key id="19110702" name="幽翼绯影饰品套装" feature="Level70Item" />
-  <key id="20032601" name="SETITEMNAME_20032601_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032602" name="SETITEMNAME_20032602_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032603" name="SETITEMNAME_20032603_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032604" name="SETITEMNAME_20032604_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032605" name="SETITEMNAME_20032605_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032606" name="SETITEMNAME_20032606_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032607" name="SETITEMNAME_20032607_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032608" name="SETITEMNAME_20032608_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032609" name="SETITEMNAME_20032609_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032610" name="SETITEMNAME_20032610_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032611" name="SETITEMNAME_20032611_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="20032612" name="SETITEMNAME_20032612_NAME:[F]Level70Item" feature="Level70Item" />
-  <key id="90000001" name="花式哥特套装" />
-  <key id="90000002" name="花式哥特套装" />
-  <key id="90000003" name="酷萌黑喵校服套装" />
-  <key id="90000004" name="酷萌黑喵校服套装" />
-  <key id="90000007" name="幻梦独角兽套装" />
-  <key id="90000008" name="幻梦独角兽套装" />
-  <key id="90000017" name="冰雪精灵套装" />
-  <key id="90000018" name="冰雪精灵套装" />
-  <key id="90000019" name="摩登韩服套装" />
-  <key id="90000020" name="摩登韩服套装" />
-  <key id="90000023" name="情人节套装" />
-  <key id="90000024" name="情人节套装" />
-  <key id="90000027" name="棉花糖套装" />
-  <key id="90000028" name="棉花糖套装" />
-  <key id="90000031" name="幸福旋律套装" />
-  <key id="90000032" name="幸福旋律套装" />
-  <key id="90000039" name="小红帽套装" />
-  <key id="90000040" name="小红帽套装" />
-  <key id="90000041" name="纯洁婚礼套装" />
-  <key id="90000042" name="纯洁婚礼套装" />
-  <key id="90000043" name="甜心兔兔套装" />
-  <key id="90000044" name="甜心兔兔套装" />
-  <key id="90000045" name="闪亮明星套装" />
-  <key id="90000046" name="闪亮明星套装" />
-  <key id="90000047" name="嘭嘭小丑套装" />
-  <key id="90000048" name="嘭嘭小丑套装" />
-  <key id="90000051" name="甜蜜点心套装" />
-  <key id="90000052" name="甜蜜点心套装" />
-  <key id="90000053" name="蝴蝶君主套装" />
-  <key id="90000054" name="蝴蝶君主套装" />
-  <key id="90000055" name="海鸥海盗团套装" />
-  <key id="90000056" name="海鸥海盗团套装" />
-  <key id="90000059" name="街头说唱套装" />
-  <key id="90000060" name="街头说唱套装" />
-  <key id="90000063" name="蔚蓝航路套装" />
-  <key id="90000064" name="蔚蓝航路套装" />
-  <key id="90000067" name="凉爽一夏套装" />
-  <key id="90000068" name="凉爽一夏套装" />
-  <key id="90000073" name="伊夫利特仙子套装" />
-  <key id="90000074" name="伊夫利特仙子套装" />
-  <key id="90000083" name="甜蜜纸杯蛋糕套装" />
-  <key id="90000084" name="甜蜜纸杯蛋糕套装" />
-  <key id="90000089" name="优雅哥特套装" />
-  <key id="90000090" name="优雅哥特套装" />
-  <key id="90000091" name="南瓜诡夜节套装" />
-  <key id="90000092" name="南瓜诡夜节套装" />
-  <key id="90000093" name="赤色吸血鬼套装" />
-  <key id="90000094" name="赤色吸血鬼套装" />
-  <key id="90000101" name="快乐暖冬套装" />
-  <key id="90000102" name="快乐暖冬套装" />
-  <key id="90000103" name="流氓鼠套装" />
-  <key id="90000104" name="流氓鼠套装" />
-  <key id="90000107" name="医者仁心套装" />
-  <key id="90000108" name="医者仁心套装" />
-  <key id="90000109" name="萌萌狗套装" />
-  <key id="90000110" name="萌萌狗套装" />
-  <key id="90000111" name="闪耀之星套装" />
-  <key id="90000112" name="闪耀之星套装" />
-  <key id="90000113" name="魅力校服套装" />
-  <key id="90000114" name="魅力校服套装" />
-  <key id="90000115" name="特莱雅宫廷画师套装" />
-  <key id="90000116" name="特莱雅宫廷画师套装" />
-  <key id="90000119" name="萌萌兔套装" />
-  <key id="90000120" name="萌萌兔套装" />
-  <key id="90000133" name="街头篮球套装" />
-  <key id="90000134" name="街头篮球套装" />
-  <key id="90000209" name="活泼校服套装" />
-  <key id="90000210" name="活泼校服套装" />
-  <key id="90000261" name="SETITEMNAME_90000261_NAME" />
-  <key id="90000262" name="SETITEMNAME_90000262_NAME" />
-  <key id="90000309" name="温馨的冬季套装" />
-  <key id="90000310" name="温馨的冬季套装" />
-  <key id="90000317" name="永冬之夜套装" />
-  <key id="90000318" name="永冬之夜套装" />
-  <key id="90000327" name="狂野骑士套装" />
-  <key id="90000328" name="狂野骑士套装" />
-  <key id="90000349" name="威风的军乐队套装" />
-  <key id="90000350" name="威风的军乐队套装" />
-  <key id="90000351" name="模范生校服套装" />
-  <key id="90000352" name="模范生校服套装" />
-  <key id="90000353" name="冬日童话套装" />
-  <key id="90000354" name="冬日童话套装" />
-  <key id="90000355" name="仙鹟之羽套装" />
-  <key id="90000356" name="仙鹟之羽套装" />
-  <key id="90000357" name="奥林匹斯套装" />
-  <key id="90000358" name="奥林匹斯套装" />
-  <key id="90000359" name="浪漫婚礼套装" />
-  <key id="90000360" name="浪漫婚礼套装" />
-  <key id="90000361" name="魔术师套装" />
-  <key id="90000362" name="魔术师套装" />
-  <key id="90000367" name="旋舞花滑套装" />
-  <key id="90000368" name="旋舞花滑套装" />
-  <key id="90000381" name="森林精灵套装" />
-  <key id="90000382" name="森林精灵套装" />
-  <key id="90000387" name="璀璨之星套装" />
-  <key id="90000388" name="璀璨之星套装" />
-  <key id="90000389" name="活泼爱丽丝套装" />
-  <key id="90000390" name="活泼爱丽丝套装" />
-  <key id="90000391" name="堕落天使套装" />
-  <key id="90000392" name="堕落天使套装" />
-  <key id="90000393" name="开心的春游套装" />
-  <key id="90000394" name="开心的春游套装" />
-  <key id="90000399" name="咔嗒发条套装" />
-  <key id="90000400" name="咔嗒发条套装" />
-  <key id="90000419" name="心花怒放套装" />
-  <key id="90000420" name="心花怒放套装" />
-  <key id="90000449" name="朋克霓虹猫时装" />
-  <key id="90000450" name="朋克霓虹猫时装" />
-  <key id="91000353" name="变更冬日童话套装动作" />
-  <key id="91000354" name="变更冬日童话套装动作" />
-  <key id="91000355" name="变更仙鹟之羽套装动作" />
-  <key id="91000356" name="变更仙鹟之羽套装动作" />
-  <key id="91000357" name="变更奥林匹斯套装动作" />
-  <key id="91000358" name="变更奥林匹斯套装动作" />
-  <key id="91000359" name="更改婚礼风格动作" />
-  <key id="91000360" name="更改婚礼风格动作" />
-  <key id="91000361" name="变更魔术师套装动作" />
-  <key id="91000362" name="变更魔术师套装动作" />
-  <key id="91000387" name="变更璀璨之星套装动作" />
-  <key id="91000388" name="变更璀璨之星套装动作" />
-  <key id="91000391" name="变更堕落天使套装动作" />
-  <key id="91000392" name="变更堕落天使套装动作" />
+	<key id="15123101" name="光明守护套装" />
+	<key id="15123102" name="光明战士套装" />
+	<key id="15123103" name="光明魔法套装" />
+	<key id="15123104" name="光明先知套装" />
+	<key id="15123105" name="光明游侠套装" />
+	<key id="15123106" name="光明轰炸套装" />
+	<key id="15123107" name="光明侠盗套装" />
+	<key id="15123108" name="光明杀意套装" />
+	<key id="15123109" name="光明符文套装" />
+	<key id="16022501" name="黑色明星套装" />
+	<key id="16042801" name="可爱小黄鸭宝宝套装" />
+	<key id="16042802" name="帅气小黄鸭宝宝套装" />
+	<key id="16042803" name="害羞的小黄鸭宝宝套装" />
+	<key id="16063001" name="优雅哥特套装" />
+	<key id="16063002" name="优雅哥特套装" />
+	<key id="16071401" name="光明斗者套装" />
+	<key id="16072801" name="伊夫利特仙子套装" />
+	<key id="16072802" name="伊夫利特仙子套装" />
+	<key id="16081101" name="高级意识套装" />
+	<key id="16081102" name="光明炼气套装" />
+	<key id="16082501" name="纯洁婚礼套装" />
+	<key id="16082502" name="纯洁婚礼套装" />
+	<key id="16082503" name="荣耀战斗套装" />
+	<key id="16082504" name="荣耀狂乱套装" />
+	<key id="16082505" name="荣耀魔法套装" />
+	<key id="16082506" name="荣耀神圣套装" />
+	<key id="16082507" name="荣耀之集中套装" />
+	<key id="16082508" name="荣耀炮击套装" />
+	<key id="16082509" name="荣耀混乱套装" />
+	<key id="16082510" name="荣耀暗杀套装" />
+	<key id="16082511" name="荣耀咒术套装" />
+	<key id="16082512" name="荣耀乱斗套装" />
+	<key id="16082513" name="荣耀意识套装" />
+	<key id="16082514" name="永恒之冕·英勇战痕套装" />
+	<key id="16082515" name="永恒之冕·嗜血狂魄套装" />
+	<key id="16082516" name="永恒之冕·无尽吟唱套装" />
+	<key id="16082517" name="永恒之冕·圣光领域套装" />
+	<key id="16082518" name="永恒之冕·凌风乐章套装" />
+	<key id="16082519" name="永恒之冕·连天烽火套装" />
+	<key id="16082520" name="永恒之冕·流星飞舞套装" />
+	<key id="16082521" name="永恒之冕·月影诛心套装" />
+	<key id="16082522" name="永恒之冕·胜利裁决套装" />
+	<key id="16082523" name="永恒之冕·混沌战神套装" />
+	<key id="16082524" name="永恒之冕·万物心念套装" />
+	<key id="16092901" name="高级钻石套装" />
+	<key id="16092902" name="高级玉髓套装" />
+	<key id="16092903" name="肖恩家族荣耀套装" />
+	<key id="16102701" name="血腥吸血鬼套装" />
+	<key id="16102702" name="血腥吸血鬼套装" />
+	<key id="16121501" name="圣诞快乐套装" />
+	<key id="16121502" name="圣诞快乐套装" />
+	<key id="17011201" name="波涛之战斗套装" />
+	<key id="17011202" name="波涛之狂乱套装" />
+	<key id="17011203" name="波涛之魔法套装" />
+	<key id="17011204" name="波涛之神圣套装" />
+	<key id="17011205" name="波涛之集中套装" />
+	<key id="17011206" name="波涛之炮击套装" />
+	<key id="17011207" name="波涛之混乱套装" />
+	<key id="17011208" name="波涛之暗杀套装" />
+	<key id="17011209" name="波涛之咒术套装" />
+	<key id="17011210" name="波涛之乱斗套装" />
+	<key id="17011211" name="波涛之意识套装" />
+	<key id="17011212" name="失落王国之战斗套装" />
+	<key id="17011213" name="失落王国之狂乱套装" />
+	<key id="17011214" name="失落王国之魔法套装" />
+	<key id="17011215" name="失落王国之神圣套装" />
+	<key id="17011216" name="失落王国之集中套装" />
+	<key id="17011217" name="失落王国之炮击套装" />
+	<key id="17011218" name="失落王国之混乱套装" />
+	<key id="17011219" name="失落王国之暗杀套装" />
+	<key id="17011220" name="失落王国之咒术套装" />
+	<key id="17011221" name="失落王国之乱斗套装" />
+	<key id="17011222" name="失落王国之意识套装" />
+	<key id="17011223" name="神龙战斗套装" />
+	<key id="17011224" name="神龙狂乱套装" />
+	<key id="17011225" name="神龙魔法套装" />
+	<key id="17011226" name="神龙神圣套装" />
+	<key id="17011227" name="神龙集中套装" />
+	<key id="17011228" name="神龙炮击套装" />
+	<key id="17011229" name="神龙混乱套装" />
+	<key id="17011230" name="神龙暗杀套装" />
+	<key id="17011231" name="神龙咒术套装" />
+	<key id="17011232" name="神龙乱斗套装" />
+	<key id="17011233" name="神龙意识套装" />
+	<key id="17020901" name="绯红爱心套装" />
+	<key id="17020902" name="绯红爱心套装" />
+	<key id="17020903" name="冒险岛联盟套装" />
+	<key id="17020904" name="冒险岛联盟套装" />
+	<key id="17020905" name="冒险岛联盟套装" />
+	<key id="17020906" name="冒险岛联盟套装" />
+	<key id="17020907" name="冒险岛联盟套装" />
+	<key id="17020908" name="冒险岛联盟套装" />
+	<key id="17020909" name="冒险岛联盟套装" />
+	<key id="17020910" name="冒险岛联盟套装" />
+	<key id="17020911" name="冒险岛联盟套装" />
+	<key id="17020912" name="冒险岛联盟套装" />
+	<key id="17020913" name="冒险岛联盟套装" />
+	<key id="17020914" name="马德拉坎君主套装" />
+	<key id="17030701" name="枫叶套装" />
+	<key id="17030901" name="心花怒放套装" />
+	<key id="17030902" name="心花怒放套装" />
+	<key id="17040401" name="雄伟之翼套装" />
+	<key id="17040402" name="雄伟之翼套装" />
+	<key id="17040601" name="闪亮明星套装" />
+	<key id="17040602" name="闪亮明星套装" />
+	<key id="17053101" name="阴谋套装" />
+	<key id="17062001" name="忠诚冒险家的套装" feature="Event" />
+	<key id="17062901" name="重生之骑士（LV50）套装" />
+	<key id="17062902" name="重生之狂战士（LV50）套装" />
+	<key id="17062903" name="重生之魔法师（LV50）套装" />
+	<key id="17062904" name="重生之牧师（LV50）套装" />
+	<key id="17062905" name="重生之弓箭手（LV50）套装" />
+	<key id="17062906" name="重生之重炮手（LV50）套装" />
+	<key id="17062907" name="重生之侠盗（LV50）套装" />
+	<key id="17062908" name="重生之刺客（LV50）套装" />
+	<key id="17062909" name="重生之符文剑士（LV50）套装" />
+	<key id="17062910" name="重生之街霸（LV50）套装" />
+	<key id="17062911" name="重生之启灵师（LV50）套装" />
+	<key id="17062912" name="重生之骑士（LV56）套装" />
+	<key id="17062913" name="重生之狂战士（LV56）套装" />
+	<key id="17062914" name="重生之魔法师（LV56）套装" />
+	<key id="17062915" name="重生之牧师（LV56）套装" />
+	<key id="17062916" name="重生之弓箭手（LV56）套装" />
+	<key id="17062917" name="重生之重炮手（LV56）套装" />
+	<key id="17062918" name="重生之侠盗（LV56）套装" />
+	<key id="17062919" name="重生之刺客（LV56）套装" />
+	<key id="17062920" name="重生之符文剑士（LV56）套装" />
+	<key id="17062921" name="重生之刺客（LV56）套装" />
+	<key id="17062922" name="重生之启灵师（LV56）套装" />
+	<key id="17081823" name="月饼套装" />
+	<key id="17083101" name="南瓜巫师套装" />
+	<key id="17083102" name="南瓜巫师套装" />
+	<key id="17090101" name="斯文韩服套装" />
+	<key id="17090102" name="毛绒韩服套装" />
+	<key id="17110801" name="狂暴战斗套装" />
+	<key id="17110802" name="狂暴怒气套装" />
+	<key id="17110803" name="狂暴魔灵套装" />
+	<key id="17110804" name="狂暴神圣套装" />
+	<key id="17110805" name="狂暴疾风套装" />
+	<key id="17110806" name="狂暴炮击套装" />
+	<key id="17110807" name="狂暴混乱套装" />
+	<key id="17110808" name="狂暴暗杀套装" />
+	<key id="17110809" name="狂暴咒术套装" />
+	<key id="17110810" name="狂暴乱斗套装" />
+	<key id="17110811" name="狂暴意志套装" />
+	<key id="17110812" name="不灭血色黄昏套装" />
+	<key id="17110813" name="不灭汲血骨纹套装" />
+	<key id="17110814" name="不灭恩奈斯套装" />
+	<key id="17110815" name="不灭塞比奥斯套装" />
+	<key id="17110816" name="不灭监视者套装" />
+	<key id="17110817" name="不灭凌空飞行套装" />
+	<key id="17110818" name="不灭灵敏之风套装" />
+	<key id="17110819" name="不灭幻影迷踪套装" />
+	<key id="17110820" name="不灭虚无套装" />
+	<key id="17110821" name="不灭战魂套装" />
+	<key id="17110822" name="不灭气息套装" />
+	<key id="17110823" name="重生骑士套装（LV50）" />
+	<key id="17110824" name="重生狂战士套装（LV50）" />
+	<key id="17110825" name="重生魔法师套装（LV50）" />
+	<key id="17110826" name="重生牧师套装（LV50）" />
+	<key id="17110827" name="重生弓箭手套装（LV50）" />
+	<key id="17110828" name="重生重炮手套装（LV50）" />
+	<key id="17110829" name="重生侠盗套装（LV50）" />
+	<key id="17110830" name="重生刺客套装（LV50）" />
+	<key id="17110831" name="重生符文剑士套装（LV50）" />
+	<key id="17110832" name="重生街霸套装（LV50）" />
+	<key id="17110833" name="重生启灵师套装（LV50）" />
+	<key id="17110834" name="冥王星套装" />
+	<key id="17110835" name="火星套装" />
+	<key id="17110836" name="冥王星套装" />
+	<key id="17110837" name="火星套装" />
+	<key id="17112901" name="圣诞之星套装" />
+	<key id="17112902" name="圣诞之星套装" />
+	<key id="17121101" name="荣耀战斗套装" />
+	<key id="17121102" name="荣耀狂乱套装" />
+	<key id="17121103" name="荣耀魔法套装" />
+	<key id="17121104" name="荣耀神圣套装" />
+	<key id="17121105" name="荣耀之集中套装" />
+	<key id="17121106" name="荣耀炮击套装" />
+	<key id="17121107" name="荣耀混乱套装" />
+	<key id="17121108" name="荣耀暗杀套装" />
+	<key id="17121109" name="荣耀咒术套装" />
+	<key id="17121110" name="荣耀乱斗套装" />
+	<key id="17121111" name="荣耀意识套装" />
+	<key id="18011501" name="蝴蝶梦套装" />
+	<key id="18011502" name="蝴蝶梦套装" />
+	<key id="18011801" name="冥王星套装" />
+	<key id="18011802" name="火星套装" />
+	<key id="18011803" name="冥王星套装" />
+	<key id="18011804" name="火星套装" />
+	<key id="18011805" name="深红炎魔战斗套装" />
+	<key id="18011806" name="深红炎魔狂乱套装" />
+	<key id="18011807" name="深红炎魔魔法套装" />
+	<key id="18011808" name="深红炎魔神圣套装" />
+	<key id="18011809" name="深红炎魔集中套装" />
+	<key id="18011810" name="深红炎魔炮击套装" />
+	<key id="18011811" name="深红炎魔混乱套装" />
+	<key id="18011812" name="深红炎魔暗杀套装" />
+	<key id="18011813" name="深红炎魔咒术套装" />
+	<key id="18011814" name="深红炎魔乱斗套装" />
+	<key id="18011815" name="深红炎魔意识套装" />
+	<key id="18011816" name="深红炎魔战斗套装" />
+	<key id="18011817" name="深红炎魔狂乱套装" />
+	<key id="18011818" name="深红炎魔魔法套装" />
+	<key id="18011819" name="深红炎魔神圣套装" />
+	<key id="18011820" name="深红炎魔集中套装" />
+	<key id="18011821" name="深红炎魔炮击套装" />
+	<key id="18011822" name="深红炎魔混乱套装" />
+	<key id="18011823" name="深红炎魔暗杀套装" />
+	<key id="18011824" name="深红炎魔咒术套装" />
+	<key id="18011825" name="深红炎魔乱斗套装" />
+	<key id="18011826" name="深红炎魔意识套装" />
+	<key id="18011827" name="明亮星星战斗套装" />
+	<key id="18011828" name="明亮星星狂乱套装" />
+	<key id="18011829" name="明亮星星魔法套装" />
+	<key id="18011830" name="明亮星星神圣套装" />
+	<key id="18011831" name="明亮星星集中套装" />
+	<key id="18011832" name="明亮星星炮击套装" />
+	<key id="18011833" name="明亮星星混乱套装" />
+	<key id="18011834" name="明亮星星暗杀套装" />
+	<key id="18011835" name="明亮星星咒术套装" />
+	<key id="18011836" name="明亮星星乱斗套装" />
+	<key id="18011837" name="明亮星星意识套装" />
+	<key id="18052834" name="贝希摩斯骑士套装" feature="Level60Item" />
+	<key id="18052835" name="贝希摩斯狂战士套装" feature="Level60Item" />
+	<key id="18052836" name="贝希摩斯魔法师套装" feature="Level60Item" />
+	<key id="18052837" name="贝希摩斯牧师套装" feature="Level60Item" />
+	<key id="18052838" name="贝希摩斯弓箭手套装" feature="Level60Item" />
+	<key id="18052839" name="贝希摩斯重炮手套装" feature="Level60Item" />
+	<key id="18052840" name="贝希摩斯侠盗套装" feature="Level60Item" />
+	<key id="18052841" name="贝希摩斯刺客套装" feature="Level60Item" />
+	<key id="18052842" name="贝希摩斯符文剑士套装" feature="Level60Item" />
+	<key id="18052843" name="贝希摩斯街霸套装" feature="Level60Item" />
+	<key id="18052844" name="贝希摩斯启灵师套装" feature="Level60Item" />
+	<key id="18052845" name="外星骑士套装" feature="Level60Item" />
+	<key id="18052846" name="外星狂战士套装" feature="Level60Item" />
+	<key id="18052847" name="外星魔法师套装" feature="Level60Item" />
+	<key id="18052848" name="外星牧师套装" feature="Level60Item" />
+	<key id="18052849" name="外星弓箭手套装" feature="Level60Item" />
+	<key id="18052850" name="外星重炮手套装" feature="Level60Item" />
+	<key id="18052851" name="外星侠盗套装" feature="Level60Item" />
+	<key id="18052852" name="外星刺客套装" feature="Level60Item" />
+	<key id="18052853" name="外星符文剑士套装" feature="Level60Item" />
+	<key id="18052854" name="外星街霸套装" feature="Level60Item" />
+	<key id="18052855" name="外星启灵师套装" feature="Level60Item" />
+	<key id="18052856" name="漆黑先锋骑士套装" feature="Level60Item" />
+	<key id="18052857" name="漆黑先锋狂战士套装" feature="Level60Item" />
+	<key id="18052858" name="漆黑先锋魔法师套装" feature="Level60Item" />
+	<key id="18052859" name="漆黑先锋牧师套装" feature="Level60Item" />
+	<key id="18052860" name="漆黑先锋弓箭手套装" feature="Level60Item" />
+	<key id="18052861" name="漆黑先锋重炮手套装" feature="Level60Item" />
+	<key id="18052862" name="漆黑先锋侠盗套装" feature="Level60Item" />
+	<key id="18052863" name="漆黑先锋刺客套装" feature="Level60Item" />
+	<key id="18052864" name="漆黑先锋符文剑士套装" feature="Level60Item" />
+	<key id="18052865" name="漆黑先锋街霸套装" feature="Level60Item" />
+	<key id="18052866" name="漆黑先锋启灵师套装" feature="Level60Item" />
+	<key id="18052867" name="至暗骑士套装" feature="Level60Item" />
+	<key id="18052868" name="至暗狂战士套装" feature="Level60Item" />
+	<key id="18052869" name="至暗魔法师套装" feature="Level60Item" />
+	<key id="18052870" name="至暗牧师套装" feature="Level60Item" />
+	<key id="18052871" name="至暗弓箭手套装" feature="Level60Item" />
+	<key id="18052872" name="至暗重炮手套装" feature="Level60Item" />
+	<key id="18052873" name="至暗侠盗套装" feature="Level60Item" />
+	<key id="18052874" name="至暗刺客套装" feature="Level60Item" />
+	<key id="18052875" name="至暗符文剑士套装" feature="Level60Item" />
+	<key id="18052876" name="至暗街霸套装" feature="Level60Item" />
+	<key id="18052877" name="至暗启灵师套装" feature="Level60Item" />
+	<key id="18052878" name="60级史诗级2骑士套装" feature="Level60Item" />
+	<key id="18052879" name="60级史诗级2狂战士套装" feature="Level60Item" />
+	<key id="18052880" name="60级史诗级2魔法师套装" feature="Level60Item" />
+	<key id="18052881" name="60级史诗级2牧师套装" feature="Level60Item" />
+	<key id="18052882" name="60级史诗级2弓箭手套装" feature="Level60Item" />
+	<key id="18052883" name="60级史诗级2重炮手套装" feature="Level60Item" />
+	<key id="18052884" name="60级史诗级2侠盗套装" feature="Level60Item" />
+	<key id="18052885" name="60级史诗级2刺客套装" feature="Level60Item" />
+	<key id="18052886" name="60级史诗级2符文剑士套装" feature="Level60Item" />
+	<key id="18052887" name="60级史诗级2街霸套装" feature="Level60Item" />
+	<key id="18052888" name="60级史诗级2启灵师套装" feature="Level60Item" />
+	<key id="18052891" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18052892" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18052893" name="60级史诗饰品2（耳环、项链、戒指套装）" feature="Level60Item" />
+	<key id="18052894" name="60级史诗饰品2（披风、腰带套装）" feature="Level60Item" />
+	<key id="18052895" name="马德拉坎君主套装" feature="Level60Item" />
+	<key id="18052896" name="百夫长套装" feature="Level60Item" />
+	<key id="18052897" name="百夫长套装" feature="Level60Item" />
+	<key id="18061701" name="贝希摩斯骑士套装" feature="Level60Item" />
+	<key id="18061702" name="贝希摩斯狂战士套装" feature="Level60Item" />
+	<key id="18061703" name="贝希摩斯魔法师套装" feature="Level60Item" />
+	<key id="18061704" name="贝希摩斯牧师套装" feature="Level60Item" />
+	<key id="18061705" name="贝希摩斯弓箭手套装" feature="Level60Item" />
+	<key id="18061706" name="贝希摩斯重炮手套装" feature="Level60Item" />
+	<key id="18061707" name="贝希摩斯侠盗套装" feature="Level60Item" />
+	<key id="18061708" name="贝希摩斯刺客套装" feature="Level60Item" />
+	<key id="18061709" name="贝希摩斯符文剑士套装" feature="Level60Item" />
+	<key id="18061710" name="贝希摩斯街霸套装" feature="Level60Item" />
+	<key id="18061711" name="贝希摩斯启灵师套装" feature="Level60Item" />
+	<key id="18061712" name="外星骑士套装" feature="Level60Item" />
+	<key id="18061713" name="外星狂战士套装" feature="Level60Item" />
+	<key id="18061714" name="外星魔法师套装" feature="Level60Item" />
+	<key id="18061715" name="外星牧师套装" feature="Level60Item" />
+	<key id="18061716" name="外星弓箭手套装" feature="Level60Item" />
+	<key id="18061717" name="外星重炮手套装" feature="Level60Item" />
+	<key id="18061718" name="外星侠盗套装" feature="Level60Item" />
+	<key id="18061719" name="外星刺客套装" feature="Level60Item" />
+	<key id="18061720" name="外星符文剑士套装" feature="Level60Item" />
+	<key id="18061721" name="外星街霸套装" feature="Level60Item" />
+	<key id="18061722" name="外星启灵师套装" feature="Level60Item" />
+	<key id="18061723" name="漆黑先锋骑士套装" feature="Level60Item" />
+	<key id="18061724" name="漆黑先锋狂战士套装" feature="Level60Item" />
+	<key id="18061725" name="漆黑先锋魔法师套装" feature="Level60Item" />
+	<key id="18061726" name="漆黑先锋牧师套装" feature="Level60Item" />
+	<key id="18061727" name="漆黑先锋弓箭手套装" feature="Level60Item" />
+	<key id="18061728" name="漆黑先锋重炮手套装" feature="Level60Item" />
+	<key id="18061729" name="漆黑先锋侠盗套装" feature="Level60Item" />
+	<key id="18061730" name="漆黑先锋刺客套装" feature="Level60Item" />
+	<key id="18061731" name="漆黑先锋符文剑士套装" feature="Level60Item" />
+	<key id="18061732" name="漆黑先锋街霸套装" feature="Level60Item" />
+	<key id="18061733" name="漆黑先锋启灵师套装" feature="Level60Item" />
+	<key id="18061734" name="百夫长套装" feature="Level60Item" />
+	<key id="18061735" name="百夫长套装" feature="Level60Item" />
+	<key id="18061736" name="至暗骑士套装" feature="Level60Item" />
+	<key id="18061737" name="至暗狂战士套装" feature="Level60Item" />
+	<key id="18061738" name="至暗魔法师套装" feature="Level60Item" />
+	<key id="18061739" name="至暗牧师套装" feature="Level60Item" />
+	<key id="18061740" name="至暗弓箭手套装" feature="Level60Item" />
+	<key id="18061741" name="至暗重炮手套装" feature="Level60Item" />
+	<key id="18061742" name="至暗侠盗套装" feature="Level60Item" />
+	<key id="18061743" name="至暗刺客套装" feature="Level60Item" />
+	<key id="18061744" name="至暗符文剑士套装" feature="Level60Item" />
+	<key id="18061745" name="至暗街霸套装" feature="Level60Item" />
+	<key id="18061746" name="至暗启灵师套装" feature="Level60Item" />
+	<key id="18061747" name="60级史诗级2骑士套装" feature="Level60Item" />
+	<key id="18061748" name="60级史诗级2狂战士套装" feature="Level60Item" />
+	<key id="18061749" name="60级史诗级2魔法师套装" feature="Level60Item" />
+	<key id="18061750" name="60级史诗级2牧师套装" feature="Level60Item" />
+	<key id="18061751" name="60级史诗级2弓箭手套装" feature="Level60Item" />
+	<key id="18061752" name="60级史诗级2重炮手套装" feature="Level60Item" />
+	<key id="18061753" name="60级史诗级2侠盗套装" feature="Level60Item" />
+	<key id="18061754" name="60级史诗级2刺客套装" feature="Level60Item" />
+	<key id="18061755" name="60级史诗级2符文剑士套装" feature="Level60Item" />
+	<key id="18061756" name="60级史诗级2街霸套装" feature="Level60Item" />
+	<key id="18061757" name="60级史诗级2启灵师套装" feature="Level60Item" />
+	<key id="18061758" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18061759" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18061760" name="60级史诗饰品2（耳环、项链、戒指套装）" feature="Level60Item" />
+	<key id="18061761" name="60级史诗饰品2（披风、腰带套装）" feature="Level60Item" />
+	<key id="18062801" name="奥林匹斯套装" />
+	<key id="18062802" name="奥林匹斯套装" />
+	<key id="18081301" name="极限战斗套装" feature="Season3" />
+	<key id="18081302" name="极限怒气套装" feature="Season3" />
+	<key id="18081303" name="极限魔灵套装" feature="Season3" />
+	<key id="18081304" name="极限神圣套装" feature="Season3" />
+	<key id="18081305" name="极限集中套装" feature="Season3" />
+	<key id="18081306" name="极限炮击套装" feature="Season3" />
+	<key id="18081307" name="极限混乱套装" feature="Season3" />
+	<key id="18081308" name="极限暗杀套装" feature="Season3" />
+	<key id="18081309" name="极限咒术套装" feature="Season3" />
+	<key id="18081310" name="极限乱斗套装" feature="Season3" />
+	<key id="18081311" name="极限意志套装" feature="Season3" />
+	<key id="18081312" name="傲骨战斗套装" feature="Season3" />
+	<key id="18081313" name="傲骨狂乱套装" feature="Season3" />
+	<key id="18081314" name="傲骨魔法套装" feature="Season3" />
+	<key id="18081315" name="傲骨神圣套装" feature="Season3" />
+	<key id="18081316" name="傲骨集中套装" feature="Season3" />
+	<key id="18081317" name="傲骨炮击套装" feature="Season3" />
+	<key id="18081318" name="傲骨混乱套装" feature="Season3" />
+	<key id="18081319" name="傲骨暗杀套装" feature="Season3" />
+	<key id="18081320" name="傲骨咒术套装" feature="Season3" />
+	<key id="18081321" name="傲骨乱斗套装" feature="Season3" />
+	<key id="18081322" name="傲骨意识套装" feature="Season3" />
+	<key id="18081323" name="狂暴战斗套装" feature="Season3" />
+	<key id="18081324" name="狂暴怒气套装" feature="Season3" />
+	<key id="18081325" name="狂暴魔灵套装" feature="Season3" />
+	<key id="18081326" name="狂暴神圣套装" feature="Season3" />
+	<key id="18081327" name="狂暴疾风套装" feature="Season3" />
+	<key id="18081328" name="狂暴炮击套装" feature="Season3" />
+	<key id="18081329" name="狂暴混乱套装" feature="Season3" />
+	<key id="18081330" name="狂暴暗杀套装" feature="Season3" />
+	<key id="18081331" name="狂暴咒术套装" feature="Season3" />
+	<key id="18081332" name="狂暴乱斗套装" feature="Season3" />
+	<key id="18081333" name="狂暴意志套装" feature="Season3" />
+	<key id="18091401" name="冥王星套装" feature="LegendaryAccessory01" />
+	<key id="18091402" name="冥王星套装" feature="LegendaryAccessory01" />
+	<key id="18091403" name="火星套装" feature="LegendaryAccessory01" />
+	<key id="18091404" name="火星套装" feature="LegendaryAccessory01" />
+	<key id="18092001" name="堕落天使套装" />
+	<key id="18092002" name="堕落天使套装" />
+	<key id="18110701" name="气质战斗套装" feature="PvPRankingDuelMode" />
+	<key id="18110702" name="气质狂乱套装" feature="PvPRankingDuelMode" />
+	<key id="18110703" name="气质魔法套装" feature="PvPRankingDuelMode" />
+	<key id="18110704" name="气质神圣套装" feature="PvPRankingDuelMode" />
+	<key id="18110705" name="气质集中套装" feature="PvPRankingDuelMode" />
+	<key id="18110706" name="气质炮击套装" feature="PvPRankingDuelMode" />
+	<key id="18110707" name="气质混乱套装" feature="PvPRankingDuelMode" />
+	<key id="18110708" name="气质暗杀套装" feature="PvPRankingDuelMode" />
+	<key id="18110709" name="气质咒术套装" feature="PvPRankingDuelMode" />
+	<key id="18110710" name="气质乱斗套装" feature="PvPRankingDuelMode" />
+	<key id="18110711" name="气质意识套装" feature="PvPRankingDuelMode" />
+	<key id="18110712" name="气质饰品套装" feature="PvPRankingDuelMode" />
+	<key id="18112001" name="魔术师套装" />
+	<key id="18112002" name="魔术师套装" />
+	<key id="18122101" name="强化气质战斗套装" feature="Level70Item" />
+	<key id="18122102" name="强化气质狂乱套装" feature="Level70Item" />
+	<key id="18122103" name="强化气质魔法套装" feature="Level70Item" />
+	<key id="18122104" name="强化气质神圣套装" feature="Level70Item" />
+	<key id="18122105" name="强化气质集中套装" feature="Level70Item" />
+	<key id="18122106" name="强化气质炮击套装" feature="Level70Item" />
+	<key id="18122107" name="强化气质混乱套装" feature="Level70Item" />
+	<key id="18122108" name="强化气质暗杀套装" feature="Level70Item" />
+	<key id="18122109" name="强化气质咒术套装" feature="Level70Item" />
+	<key id="18122110" name="强化气质乱斗套装" feature="Level70Item" />
+	<key id="18122111" name="强化气质意识套装" feature="Level70Item" />
+	<key id="18122112" name="强化气质饰品套装" feature="Level70Item" />
+	<key id="18122701" name="克里蒂亚斯魔方水晶饰品套装" feature="Level70Item" />
+	<key id="18122702" name="时空之首饰套装" feature="Level70Item" />
+	<key id="19010301" name="塔兰指挥官勇士骑士套装" feature="Level70Item" />
+	<key id="19010302" name="塔兰指挥官勇士狂战士套装" feature="Level70Item" />
+	<key id="19010303" name="塔兰指挥官勇士魔法师套装" feature="Level70Item" />
+	<key id="19010304" name="塔兰指挥官勇士牧师套装" feature="Level70Item" />
+	<key id="19010305" name="塔兰指挥官勇士弓箭手套装" feature="Level70Item" />
+	<key id="19010306" name="塔兰指挥官勇士重炮手套装" feature="Level70Item" />
+	<key id="19010307" name="塔兰指挥官勇士侠盗套装" feature="Level70Item" />
+	<key id="19010308" name="塔兰指挥官战斗刺客套装" feature="Level70Item" />
+	<key id="19010309" name="塔兰指挥官勇士符文剑士套装" feature="Level70Item" />
+	<key id="19010310" name="塔兰指挥官勇士街霸套装" feature="Level70Item" />
+	<key id="19010311" name="塔兰指挥官勇士启灵师套装" feature="Level70Item" />
+	<key id="19010312" name="古代地狱君主骑士套装" feature="Level70Item" />
+	<key id="19010313" name="古代地狱君主狂战士套装" feature="Level70Item" />
+	<key id="19010314" name="古代地狱君主魔法师套装" feature="Level70Item" />
+	<key id="19010315" name="古代地狱君主牧师套装" feature="Level70Item" />
+	<key id="19010316" name="古代地狱君主弓箭手套装" feature="Level70Item" />
+	<key id="19010317" name="古代地狱君主重炮手套装" feature="Level70Item" />
+	<key id="19010318" name="古代地狱君主侠盗套装" feature="Level70Item" />
+	<key id="19010319" name="古代地狱君主刺客套装" feature="Level70Item" />
+	<key id="19010320" name="古代地狱君主符文剑士套装" feature="Level70Item" />
+	<key id="19010321" name="古代地狱君主街霸套装" feature="Level70Item" />
+	<key id="19010322" name="古代地狱君主启灵师套装" feature="Level70Item" />
+	<key id="19011101" name="塔兰战斗骑士套装" feature="Level70Item" />
+	<key id="19011102" name="塔兰战斗狂战士套装" feature="Level70Item" />
+	<key id="19011103" name="塔兰战斗魔法师套装" feature="Level70Item" />
+	<key id="19011104" name="塔兰战斗牧师套装" feature="Level70Item" />
+	<key id="19011105" name="塔兰战斗弓箭手套装" feature="Level70Item" />
+	<key id="19011106" name="塔兰战斗重炮手套装" feature="Level70Item" />
+	<key id="19011107" name="塔兰战斗侠盗套装" feature="Level70Item" />
+	<key id="19011108" name="塔兰战斗刺客套装" feature="Level70Item" />
+	<key id="19011109" name="塔兰战斗符文剑士套装" feature="Level70Item" />
+	<key id="19011110" name="塔兰战斗街霸套装" feature="Level70Item" />
+	<key id="19011111" name="塔兰战斗启灵师套装" feature="Level70Item" />
+	<key id="19011112" name="古代神龙骑士套装" feature="Level70Item" />
+	<key id="19011113" name="古代神龙狂战士套装" feature="Level70Item" />
+	<key id="19011114" name="古代神龙魔法师套装" feature="Level70Item" />
+	<key id="19011115" name="古代神龙牧师套装" feature="Level70Item" />
+	<key id="19011116" name="古代神龙弓箭手套装" feature="Level70Item" />
+	<key id="19011117" name="古代神龙重炮手套装" feature="Level70Item" />
+	<key id="19011118" name="古代神龙侠盗套装" feature="Level70Item" />
+	<key id="19011119" name="古代神龙刺客套装" feature="Level70Item" />
+	<key id="19011120" name="古代神龙符文剑士套装" feature="Level70Item" />
+	<key id="19011121" name="古代神龙街霸套装" feature="Level70Item" />
+	<key id="19011122" name="古代神龙启灵师套装" feature="Level70Item" />
+	<key id="19011801" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19011802" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19011803" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19011804" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19011805" name="塔兰皇家骑士套装" feature="Level70Item" />
+	<key id="19011806" name="塔兰皇家狂战士套装" feature="Level70Item" />
+	<key id="19011807" name="塔兰皇家魔法师套装" feature="Level70Item" />
+	<key id="19011808" name="塔兰皇家牧师套装" feature="Level70Item" />
+	<key id="19011809" name="塔兰皇家弓箭手套装" feature="Level70Item" />
+	<key id="19011810" name="塔兰皇家重炮手套装" feature="Level70Item" />
+	<key id="19011811" name="塔兰皇家侠盗套装" feature="Level70Item" />
+	<key id="19011812" name="塔兰皇家刺客套装" feature="Level70Item" />
+	<key id="19011813" name="塔兰皇家符文剑士套装" feature="Level70Item" />
+	<key id="19011814" name="塔兰皇家街霸套装" feature="Level70Item" />
+	<key id="19011815" name="塔兰皇家启灵师套装" feature="Level70Item" />
+	<key id="19021801" name="贝希摩斯骑士套装" feature="Level60Item" />
+	<key id="19021802" name="贝希摩斯狂战士套装" feature="Level60Item" />
+	<key id="19021803" name="贝希摩斯魔法师套装" feature="Level60Item" />
+	<key id="19021804" name="贝希摩斯牧师套装" feature="Level60Item" />
+	<key id="19021805" name="贝希摩斯弓箭手套装" feature="Level60Item" />
+	<key id="19021806" name="贝希摩斯重炮手套装" feature="Level60Item" />
+	<key id="19021807" name="贝希摩斯侠盗套装" feature="Level60Item" />
+	<key id="19021808" name="贝希摩斯刺客套装" feature="Level60Item" />
+	<key id="19021809" name="贝希摩斯符文剑士套装" feature="Level60Item" />
+	<key id="19021810" name="贝希摩斯街霸套装" feature="Level60Item" />
+	<key id="19021811" name="贝希摩斯启灵师套装" feature="Level60Item" />
+	<key id="19021812" name="外星骑士套装" feature="Level60Item" />
+	<key id="19021813" name="外星狂战士套装" feature="Level60Item" />
+	<key id="19021814" name="外星魔法师套装" feature="Level60Item" />
+	<key id="19021815" name="外星牧师套装" feature="Level60Item" />
+	<key id="19021816" name="外星弓箭手套装" feature="Level60Item" />
+	<key id="19021817" name="外星重炮手套装" feature="Level60Item" />
+	<key id="19021818" name="外星侠盗套装" feature="Level60Item" />
+	<key id="19021819" name="外星刺客套装" feature="Level60Item" />
+	<key id="19021820" name="外星符文剑士套装" feature="Level60Item" />
+	<key id="19021821" name="外星街霸套装" feature="Level60Item" />
+	<key id="19021822" name="外星启灵师套装" feature="Level60Item" />
+	<key id="19021823" name="漆黑先锋骑士套装" feature="Level60Item" />
+	<key id="19021824" name="漆黑先锋狂战士套装" feature="Level60Item" />
+	<key id="19021825" name="漆黑先锋魔法师套装" feature="Level60Item" />
+	<key id="19021826" name="漆黑先锋牧师套装" feature="Level60Item" />
+	<key id="19021827" name="漆黑先锋弓箭手套装" feature="Level60Item" />
+	<key id="19021828" name="漆黑先锋重炮手套装" feature="Level60Item" />
+	<key id="19021829" name="漆黑先锋侠盗套装" feature="Level60Item" />
+	<key id="19021830" name="漆黑先锋刺客套装" feature="Level60Item" />
+	<key id="19021831" name="漆黑先锋符文剑士套装" feature="Level60Item" />
+	<key id="19021832" name="漆黑先锋街霸套装" feature="Level60Item" />
+	<key id="19021833" name="漆黑先锋启灵师套装" feature="Level60Item" />
+	<key id="19021834" name="百夫长套装" feature="Level60Item" />
+	<key id="19021835" name="百夫长套装" feature="Level60Item" />
+	<key id="19021836" name="至暗骑士套装" feature="Level60Item" />
+	<key id="19021837" name="至暗狂战士套装" feature="Level60Item" />
+	<key id="19021838" name="至暗魔法师套装" feature="Level60Item" />
+	<key id="19021839" name="至暗牧师套装" feature="Level60Item" />
+	<key id="19021840" name="至暗弓箭手套装" feature="Level60Item" />
+	<key id="19021841" name="至暗重炮手套装" feature="Level60Item" />
+	<key id="19021842" name="至暗侠盗套装" feature="Level60Item" />
+	<key id="19021843" name="至暗刺客套装" feature="Level60Item" />
+	<key id="19021844" name="至暗符文剑士套装" feature="Level60Item" />
+	<key id="19021845" name="至暗街霸套装" feature="Level60Item" />
+	<key id="19021846" name="至暗启灵师套装" feature="Level60Item" />
+	<key id="19021847" name="至暗饰品套装" feature="Level60Item" />
+	<key id="19021848" name="至暗饰品套装" feature="Level60Item" />
+	<key id="19031301" name="婚礼套装" />
+	<key id="19031302" name="婚礼套装" />
+	<key id="19032001" name="马德拉坎君主套装" feature="Level60Item" />
+	<key id="19041501" name="强化气质战斗套装" feature="PvPRankingDuelMode" />
+	<key id="19041502" name="强化气质狂乱套装" feature="PvPRankingDuelMode" />
+	<key id="19041503" name="强化气质魔法套装" feature="PvPRankingDuelMode" />
+	<key id="19041504" name="强化气质神圣套装" feature="PvPRankingDuelMode" />
+	<key id="19041505" name="强化气质集中套装" feature="PvPRankingDuelMode" />
+	<key id="19041506" name="强化气质炮击套装" feature="PvPRankingDuelMode" />
+	<key id="19041507" name="强化气质混乱套装" feature="PvPRankingDuelMode" />
+	<key id="19041508" name="强化气质暗杀套装" feature="PvPRankingDuelMode" />
+	<key id="19041509" name="强化气质咒术套装" feature="PvPRankingDuelMode" />
+	<key id="19041510" name="强化气质乱斗套装" feature="PvPRankingDuelMode" />
+	<key id="19041511" name="强化气质意识套装" feature="PvPRankingDuelMode" />
+	<key id="19041512" name="强化气质饰品套装" feature="PvPRankingDuelMode" />
+	<key id="19042501" name="仙鹟之羽套装" />
+	<key id="19042502" name="仙鹟之羽套装" />
+	<key id="19061201" name="水手套装" />
+	<key id="19061202" name="奢华校服套装" />
+	<key id="19061203" name="幼儿园套装" />
+	<key id="19061204" name="车手套装" />
+	<key id="19061205" name="冒险岛棒球套装" />
+	<key id="19061206" name="水手泳装套装" />
+	<key id="19061207" name="小黄鸭桑拿套装" />
+	<key id="19061208" name="山铜套装" />
+	<key id="19061209" name="血色挽歌套装" />
+	<key id="19061210" name="时尚军官套装" />
+	<key id="19061211" name="金色旗袍套装" />
+	<key id="19061212" name="星星海洋套装" />
+	<key id="19061213" name="冒险岛运动服套装" />
+	<key id="19061214" name="狂怒风格套装" />
+	<key id="19061215" name="碧水套装" />
+	<key id="19061216" name="飞行套装" />
+	<key id="19061217" name="铆钉套装" />
+	<key id="19061218" name="武士袍套装" />
+	<key id="19061219" name="骑士团套装" />
+	<key id="19061220" name="创世之信仰套装" />
+	<key id="19061221" name="长虹贯日套装" />
+	<key id="19061222" name="黑色雨燕套装" />
+	<key id="19061223" name="流浪者套装" />
+	<key id="19061224" name="诡夜狂欢套装" />
+	<key id="19061225" name="帅气骨纹套装" />
+	<key id="19061226" name="侦探套装" />
+	<key id="19061227" name="军队套装" />
+	<key id="19061228" name="圣天使套装" />
+	<key id="19061229" name="乘务员套装" />
+	<key id="19061230" name="地狱火套装" />
+	<key id="19061231" name="冰雪精灵套装" />
+	<key id="19061232" name="闪耀之星套装" />
+	<key id="19061233" name="春游套装" />
+	<key id="19061234" name="可爱兔女郎套装" />
+	<key id="19061235" name="黑猫套装" />
+	<key id="19061236" name="狂野火焰套装" />
+	<key id="19061237" name="精神宗主套装" />
+	<key id="19061238" name="运动套装" />
+	<key id="19061239" name="可爱啾啾套装" />
+	<key id="19061240" name="干练斯塔兹套装" />
+	<key id="19061241" name="（网吧）侦探套装" />
+	<key id="19061242" name="（网吧）春游套装" />
+	<key id="19061243" name="胖胖品克缤套装" />
+	<key id="19061244" name="（限时）狮子王套装" />
+	<key id="19061245" name="吉格蒙特套装" />
+	<key id="19061246" name="毛茸兔套装" />
+	<key id="19061247" name="萌萌狗套装" />
+	<key id="19061248" name="可爱碎花套装" />
+	<key id="19061249" name="萌萌兔套装" />
+	<key id="19061250" name="狮子王套装" />
+	<key id="19061251" name="军官套装" />
+	<key id="19061252" name="金色缎带套装" />
+	<key id="19061253" name="朋克霓虹猫套装" />
+	<key id="19061254" name="欢乐暖冬套装" />
+	<key id="19061255" name="雪尾套装" />
+	<key id="19061256" name="绯红爱心套装" />
+	<key id="19061257" name="彩缎韩服套装" />
+	<key id="19061258" name="星光穿梭套装" />
+	<key id="19061259" name="活泼校服套装" />
+	<key id="19061260" name="花花兔套装" />
+	<key id="19061261" name="可爱小熊套装" />
+	<key id="19061262" name="绿披风警卫队套装" />
+	<key id="19061263" name="雪花团套装" />
+	<key id="19061264" name="黑风安腾托套装" />
+	<key id="19061265" name="光明骑士团欧涅斯塔套装" />
+	<key id="19061266" name="棉花糖套装" />
+	<key id="19061267" name="火枪手套装" />
+	<key id="19061268" name="冒险岛联盟套装" />
+	<key id="19061269" name="枫迷套装" />
+	<key id="19061270" name="泡泡满满套装" />
+	<key id="19061271" name="棒球套装" />
+	<key id="19061272" name="黄铜铆钉套装" />
+	<key id="19061273" name="明朗夏日套装" />
+	<key id="19061274" name="向日葵沙滩套装" />
+	<key id="19061275" name="萌萌哒恐龙套装" />
+	<key id="19061276" name="碧水夏日套装" />
+	<key id="19061277" name="高山滑雪套装" />
+	<key id="19061278" name="流氓兔套装" />
+	<key id="19061279" name="越冬套装" />
+	<key id="19061280" name="宇宙飞行师套装" />
+	<key id="19061281" name="热情流浪音乐套装" />
+	<key id="19061282" name="魅力校服套装" />
+	<key id="19061283" name="旅行青蛙套装" />
+	<key id="19061284" name="猫咪管家套装" />
+	<key id="19061285" name="特莱雅近卫队套装" />
+	<key id="19061286" name="朋克牛仔套装" />
+	<key id="19061287" name="勇士部落风套装" />
+	<key id="19061288" name="水手套装" />
+	<key id="19061289" name="奢华校服套装" />
+	<key id="19061290" name="幼儿园套装" />
+	<key id="19061291" name="车手套装" />
+	<key id="19061292" name="冒险岛棒球套装" />
+	<key id="19061293" name="水手泳装套装" />
+	<key id="19061294" name="小黄鸭桑拿套装" />
+	<key id="19061295" name="山铜套装" />
+	<key id="19061296" name="血色挽歌套装" />
+	<key id="19061297" name="时尚军官套装" />
+	<key id="19061298" name="蝴蝶结旗袍套装" />
+	<key id="19061299" name="花花沙滩套装" />
+	<key id="19061301" name="冒险岛运动服套装" />
+	<key id="19061302" name="狂怒风格套装" />
+	<key id="19061303" name="碧水套装" />
+	<key id="19061304" name="飞行套装" />
+	<key id="19061305" name="铆钉套装" />
+	<key id="19061306" name="华丽的绸缎韩服套装" />
+	<key id="19061307" name="骑士团套装" />
+	<key id="19061308" name="创世之信仰套装" />
+	<key id="19061309" name="长虹贯日套装" />
+	<key id="19061310" name="黑色雨燕套装" />
+	<key id="19061311" name="流浪者套装" />
+	<key id="19061312" name="诡夜狂欢套装" />
+	<key id="19061313" name="性感恶魔套装" />
+	<key id="19061314" name="丝带女士套装" />
+	<key id="19061315" name="军队套装" />
+	<key id="19061316" name="圣天使套装" />
+	<key id="19061317" name="乘务员套装" />
+	<key id="19061318" name="地狱火套装" />
+	<key id="19061319" name="冰雪精灵套装" />
+	<key id="19061320" name="闪耀之星套装" />
+	<key id="19061321" name="春游套装" />
+	<key id="19061322" name="可爱兔女郎套装" />
+	<key id="19061323" name="黑猫套装" />
+	<key id="19061324" name="狂野火焰套装" />
+	<key id="19061325" name="精神宗主套装" />
+	<key id="19061326" name="运动套装" />
+	<key id="19061327" name="可爱啾啾套装" />
+	<key id="19061328" name="性感莉莉套装" />
+	<key id="19061329" name="（网吧）春游套装" />
+	<key id="19061330" name="（网吧）奢华校服套装" />
+	<key id="19061331" name="胖胖品克缤套装" />
+	<key id="19061332" name="（限时）狮子王套装" />
+	<key id="19061333" name="吉格蒙特套装" />
+	<key id="19061334" name="毛茸兔套装" />
+	<key id="19061335" name="萌萌狗套装" />
+	<key id="19061336" name="可爱碎花套装" />
+	<key id="19061337" name="萌萌兔套装" />
+	<key id="19061338" name="狮子王套装" />
+	<key id="19061339" name="军官套装" />
+	<key id="19061340" name="金色缎带套装" />
+	<key id="19061341" name="朋克霓虹猫套装" />
+	<key id="19061342" name="欢乐暖冬套装" />
+	<key id="19061343" name="雪尾套装" />
+	<key id="19061344" name="绯红爱心套装" />
+	<key id="19061345" name="彩缎韩服套装" />
+	<key id="19061346" name="星光穿梭套装" />
+	<key id="19061347" name="活泼校服套装" />
+	<key id="19061348" name="花花兔套装" />
+	<key id="19061349" name="可爱小熊套装" />
+	<key id="19061350" name="绿披风警卫队套装" />
+	<key id="19061351" name="雪花团套装" />
+	<key id="19061352" name="黑风安腾托套装" />
+	<key id="19061353" name="光明骑士团欧涅斯塔套装" />
+	<key id="19061354" name="棉花糖套装" />
+	<key id="19061355" name="火枪手套装" />
+	<key id="19061356" name="冒险岛联盟套装" />
+	<key id="19061357" name="枫迷套装" />
+	<key id="19061358" name="泡泡满满套装" />
+	<key id="19061359" name="棒球套装" />
+	<key id="19061360" name="黄铜铆钉套装" />
+	<key id="19061361" name="明朗夏日套装" />
+	<key id="19061362" name="向日葵沙滩套装" />
+	<key id="19061363" name="萌萌哒恐龙套装" />
+	<key id="19061364" name="碧水夏日套装" />
+	<key id="19061365" name="高山滑雪套装" />
+	<key id="19061366" name="流氓兔套装" />
+	<key id="19061367" name="越冬套装" />
+	<key id="19061368" name="宇宙飞行师套装" />
+	<key id="19061369" name="热情流浪音乐套装" />
+	<key id="19061370" name="魅力校服套装" />
+	<key id="19061371" name="旅行青蛙套装" />
+	<key id="19061372" name="猫咪管家套装" />
+	<key id="19061373" name="特莱雅近卫队套装" />
+	<key id="19061374" name="朋克牛仔套装" />
+	<key id="19061375" name="勇士部落风套装" />
+	<key id="19061376" name="海边的浪漫套装" />
+	<key id="19061377" name="海边的浪漫套装" />
+	<key id="19061378" name="魔法学校修炼生套装" />
+	<key id="19061379" name="魔法学校修炼生套装" />
+	<key id="19061380" name="热带风情套装" />
+	<key id="19061381" name="热带风情套装" />
+	<key id="19061382" name="冒险岛四分卫套装" />
+	<key id="19061383" name="冒险岛四分卫套装" />
+	<key id="19061384" name="夏日庆典套装" />
+	<key id="19061385" name="夏日庆典套装" />
+	<key id="19061386" name="特莱雅宫廷厨师套装" />
+	<key id="19061387" name="特莱雅宫廷厨师套装" />
+	<key id="19061388" name="机能型侦察兵套装" />
+	<key id="19061389" name="机能型侦察兵套装" />
+	<key id="19081201" name="活力明星套装" />
+	<key id="19081202" name="活力明星套装" />
+	<key id="19081401" name="塔兰战斗骑士套装" feature="Level70Item" />
+	<key id="19081402" name="塔兰战斗狂战士套装" feature="Level70Item" />
+	<key id="19081403" name="塔兰战斗魔法师套装" feature="Level70Item" />
+	<key id="19081404" name="塔兰战斗牧师套装" feature="Level70Item" />
+	<key id="19081405" name="塔兰战斗弓箭手套装" feature="Level70Item" />
+	<key id="19081406" name="塔兰战斗重炮手套装" feature="Level70Item" />
+	<key id="19081407" name="塔兰战斗侠盗套装" feature="Level70Item" />
+	<key id="19081408" name="塔兰战斗刺客套装" feature="Level70Item" />
+	<key id="19081409" name="塔兰战斗符文剑士套装" feature="Level70Item" />
+	<key id="19081410" name="塔兰战斗街霸套装" feature="Level70Item" />
+	<key id="19081411" name="塔兰战斗启灵师套装" feature="Level70Item" />
+	<key id="19081412" name="古代神龙骑士套装" feature="Level70Item" />
+	<key id="19081413" name="古代神龙狂战士套装" feature="Level70Item" />
+	<key id="19081414" name="古代神龙魔法师套装" feature="Level70Item" />
+	<key id="19081415" name="古代神龙牧师套装" feature="Level70Item" />
+	<key id="19081416" name="古代神龙弓箭手套装" feature="Level70Item" />
+	<key id="19081417" name="古代神龙重炮手套装" feature="Level70Item" />
+	<key id="19081418" name="古代神龙侠盗套装" feature="Level70Item" />
+	<key id="19081419" name="古代神龙刺客套装" feature="Level70Item" />
+	<key id="19081420" name="古代神龙符文剑士套装" feature="Level70Item" />
+	<key id="19081421" name="古代神龙街霸套装" feature="Level70Item" />
+	<key id="19081422" name="古代神龙启灵师套装" feature="Level70Item" />
+	<key id="19081423" name="塔兰指挥官勇士骑士套装" feature="Level70Item" />
+	<key id="19081424" name="塔兰指挥官勇士狂战士套装" feature="Level70Item" />
+	<key id="19081425" name="塔兰指挥官勇士魔法师套装" feature="Level70Item" />
+	<key id="19081426" name="塔兰指挥官勇士牧师套装" feature="Level70Item" />
+	<key id="19081427" name="塔兰指挥官勇士弓箭手套装" feature="Level70Item" />
+	<key id="19081428" name="塔兰指挥官勇士重炮手套装" feature="Level70Item" />
+	<key id="19081429" name="塔兰指挥官勇士侠盗套装" feature="Level70Item" />
+	<key id="19081430" name="塔兰指挥官战斗刺客套装" feature="Level70Item" />
+	<key id="19081431" name="塔兰指挥官勇士符文剑士套装" feature="Level70Item" />
+	<key id="19081432" name="塔兰指挥官勇士街霸套装" feature="Level70Item" />
+	<key id="19081433" name="塔兰指挥官勇士启灵师套装" feature="Level70Item" />
+	<key id="19081434" name="古代地狱君主骑士套装" feature="Level70Item" />
+	<key id="19081435" name="古代地狱君主狂战士套装" feature="Level70Item" />
+	<key id="19081436" name="古代地狱君主魔法师套装" feature="Level70Item" />
+	<key id="19081437" name="古代地狱君主牧师套装" feature="Level70Item" />
+	<key id="19081438" name="古代地狱君主弓箭手套装" feature="Level70Item" />
+	<key id="19081439" name="古代地狱君主重炮手套装" feature="Level70Item" />
+	<key id="19081440" name="古代地狱君主侠盗套装" feature="Level70Item" />
+	<key id="19081441" name="古代地狱君主刺客套装" feature="Level70Item" />
+	<key id="19081442" name="古代地狱君主符文剑士套装" feature="Level70Item" />
+	<key id="19081443" name="古代地狱君主街霸套装" feature="Level70Item" />
+	<key id="19081444" name="古代地狱君主启灵师套装" feature="Level70Item" />
+	<key id="19081445" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19081446" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19081447" name="塔兰皇家骑士套装" feature="Level70Item" />
+	<key id="19081448" name="塔兰皇家狂战士套装" feature="Level70Item" />
+	<key id="19081449" name="塔兰皇家魔法师套装" feature="Level70Item" />
+	<key id="19081450" name="塔兰皇家牧师套装" feature="Level70Item" />
+	<key id="19081451" name="塔兰皇家弓箭手套装" feature="Level70Item" />
+	<key id="19081452" name="塔兰皇家重炮手套装" feature="Level70Item" />
+	<key id="19081453" name="塔兰皇家侠盗套装" feature="Level70Item" />
+	<key id="19081454" name="塔兰皇家刺客套装" feature="Level70Item" />
+	<key id="19081455" name="塔兰皇家符文剑士套装" feature="Level70Item" />
+	<key id="19081456" name="塔兰皇家街霸套装" feature="Level70Item" />
+	<key id="19081457" name="塔兰皇家启灵师套装" feature="Level70Item" />
+	<key id="19081458" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19081459" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19081460" name="克里蒂亚斯魔方水晶饰品套装" feature="Level70Item" />
+	<key id="19081461" name="时空之首饰套装" feature="Level70Item" />
+	<key id="19081601" name="白狐套装" />
+	<key id="19081602" name="白狐套装" />
+	<key id="19081603" name="和风夏日浴衣套装" />
+	<key id="19081604" name="和风夏日浴衣套装" />
+	<key id="19081605" name="和风夏日浴衣套装" />
+	<key id="19081606" name="和风夏日浴衣套装" />
+	<key id="19082301" name="蝶恋翩飞套装" />
+	<key id="19082302" name="蝶恋翩飞套装" />
+	<key id="19082801" name="咏夜之诗套装" />
+	<key id="19082802" name="咏夜之诗套装" />
+	<key id="19091801" name="银河星光套装" />
+	<key id="19091802" name="银河星光套装" />
+	<key id="19091803" name="清凉水手套装" />
+	<key id="19091804" name="清凉水手套装" />
+	<key id="19091805" name="中世纪贵族套装" />
+	<key id="19091806" name="中世纪丝带套装" />
+	<key id="19102301" name="精致婚礼套装" feature="Wedding" />
+	<key id="19102302" name="精致婚礼套装" feature="Wedding" />
+	<key id="19102501" name="见习糕点师套装" />
+	<key id="19102502" name="见习糕点师套装" />
+	<key id="19110701" name="幽翼绯影饰品套装" feature="Level70Item" />
+	<key id="19110702" name="幽翼绯影饰品套装" feature="Level70Item" />
+	<key id="19111901" name="冬日童话套装" />
+	<key id="19111902" name="冬日童话套装" />
+	<key id="20032601" name="SETITEMNAME_20032601_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032602" name="SETITEMNAME_20032602_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032603" name="SETITEMNAME_20032603_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032604" name="SETITEMNAME_20032604_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032605" name="SETITEMNAME_20032605_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032606" name="SETITEMNAME_20032606_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032607" name="SETITEMNAME_20032607_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032608" name="SETITEMNAME_20032608_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032609" name="SETITEMNAME_20032609_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032610" name="SETITEMNAME_20032610_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032611" name="SETITEMNAME_20032611_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032612" name="SETITEMNAME_20032612_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="90000001" name="花式哥特套装" />
+	<key id="90000002" name="花式哥特套装" />
+	<key id="90000003" name="酷萌黑喵校服套装" />
+	<key id="90000004" name="酷萌黑喵校服套装" />
+	<key id="90000007" name="幻梦独角兽套装" />
+	<key id="90000008" name="幻梦独角兽套装" />
+	<key id="90000017" name="冰雪精灵套装" />
+	<key id="90000018" name="冰雪精灵套装" />
+	<key id="90000019" name="摩登韩服套装" />
+	<key id="90000020" name="摩登韩服套装" />
+	<key id="90000023" name="情人节套装" />
+	<key id="90000024" name="情人节套装" />
+	<key id="90000027" name="棉花糖套装" />
+	<key id="90000028" name="棉花糖套装" />
+	<key id="90000031" name="幸福旋律套装" />
+	<key id="90000032" name="幸福旋律套装" />
+	<key id="90000039" name="小红帽套装" />
+	<key id="90000040" name="小红帽套装" />
+	<key id="90000041" name="纯洁婚礼套装" />
+	<key id="90000042" name="纯洁婚礼套装" />
+	<key id="90000043" name="甜心兔兔套装" />
+	<key id="90000044" name="甜心兔兔套装" />
+	<key id="90000045" name="闪亮明星套装" />
+	<key id="90000046" name="闪亮明星套装" />
+	<key id="90000047" name="嘭嘭小丑套装" />
+	<key id="90000048" name="嘭嘭小丑套装" />
+	<key id="90000051" name="甜蜜点心套装" />
+	<key id="90000052" name="甜蜜点心套装" />
+	<key id="90000053" name="蝴蝶君主套装" />
+	<key id="90000054" name="蝴蝶君主套装" />
+	<key id="90000055" name="海鸥海盗团套装" />
+	<key id="90000056" name="海鸥海盗团套装" />
+	<key id="90000059" name="街头说唱套装" />
+	<key id="90000060" name="街头说唱套装" />
+	<key id="90000063" name="蔚蓝航路套装" />
+	<key id="90000064" name="蔚蓝航路套装" />
+	<key id="90000067" name="凉爽一夏套装" />
+	<key id="90000068" name="凉爽一夏套装" />
+	<key id="90000073" name="伊夫利特仙子套装" />
+	<key id="90000074" name="伊夫利特仙子套装" />
+	<key id="90000083" name="甜蜜纸杯蛋糕套装" />
+	<key id="90000084" name="甜蜜纸杯蛋糕套装" />
+	<key id="90000089" name="优雅哥特套装" />
+	<key id="90000090" name="优雅哥特套装" />
+	<key id="90000091" name="南瓜诡夜节套装" />
+	<key id="90000092" name="南瓜诡夜节套装" />
+	<key id="90000093" name="赤色吸血鬼套装" />
+	<key id="90000094" name="赤色吸血鬼套装" />
+	<key id="90000101" name="快乐暖冬套装" />
+	<key id="90000102" name="快乐暖冬套装" />
+	<key id="90000103" name="流氓鼠套装" />
+	<key id="90000104" name="流氓鼠套装" />
+	<key id="90000107" name="医者仁心套装" />
+	<key id="90000108" name="医者仁心套装" />
+	<key id="90000109" name="萌萌狗套装" />
+	<key id="90000110" name="萌萌狗套装" />
+	<key id="90000111" name="闪耀之星套装" />
+	<key id="90000112" name="闪耀之星套装" />
+	<key id="90000113" name="魅力校服套装" />
+	<key id="90000114" name="魅力校服套装" />
+	<key id="90000115" name="特莱雅宫廷画师套装" />
+	<key id="90000116" name="特莱雅宫廷画师套装" />
+	<key id="90000119" name="萌萌兔套装" />
+	<key id="90000120" name="萌萌兔套装" />
+	<key id="90000133" name="街头篮球套装" />
+	<key id="90000134" name="街头篮球套装" />
+	<key id="90000209" name="活泼校服套装" />
+	<key id="90000210" name="活泼校服套装" />
+	<key id="90000261" name="SETITEMNAME_90000261_NAME" />
+	<key id="90000262" name="SETITEMNAME_90000262_NAME" />
+	<key id="90000309" name="温馨的冬季套装" />
+	<key id="90000310" name="温馨的冬季套装" />
+	<key id="90000317" name="永冬之夜套装" />
+	<key id="90000318" name="永冬之夜套装" />
+	<key id="90000327" name="狂野骑士套装" />
+	<key id="90000328" name="狂野骑士套装" />
+	<key id="90000349" name="威风的军乐队套装" />
+	<key id="90000350" name="威风的军乐队套装" />
+	<key id="90000351" name="模范生校服套装" />
+	<key id="90000352" name="模范生校服套装" />
+	<key id="90000353" name="冬日童话套装" />
+	<key id="90000354" name="冬日童话套装" />
+	<key id="90000355" name="仙鹟之羽套装" />
+	<key id="90000356" name="仙鹟之羽套装" />
+	<key id="90000357" name="奥林匹斯套装" />
+	<key id="90000358" name="奥林匹斯套装" />
+	<key id="90000359" name="浪漫婚礼套装" />
+	<key id="90000360" name="浪漫婚礼套装" />
+	<key id="90000361" name="魔术师套装" />
+	<key id="90000362" name="魔术师套装" />
+	<key id="90000367" name="旋舞花滑套装" />
+	<key id="90000368" name="旋舞花滑套装" />
+	<key id="90000381" name="森林精灵套装" />
+	<key id="90000382" name="森林精灵套装" />
+	<key id="90000387" name="璀璨之星套装" />
+	<key id="90000388" name="璀璨之星套装" />
+	<key id="90000389" name="活泼爱丽丝套装" />
+	<key id="90000390" name="活泼爱丽丝套装" />
+	<key id="90000391" name="堕落天使套装" />
+	<key id="90000392" name="堕落天使套装" />
+	<key id="90000393" name="开心的春游套装" />
+	<key id="90000394" name="开心的春游套装" />
+	<key id="90000399" name="咔嗒发条套装" />
+	<key id="90000400" name="咔嗒发条套装" />
+	<key id="90000419" name="心花怒放套装" />
+	<key id="90000420" name="心花怒放套装" />
+	<key id="90000449" name="朋克霓虹猫时装" />
+	<key id="90000450" name="朋克霓虹猫时装" />
+	<key id="91000353" name="变更冬日童话套装动作" />
+	<key id="91000354" name="变更冬日童话套装动作" />
+	<key id="91000355" name="变更仙鹟之羽套装动作" />
+	<key id="91000356" name="变更仙鹟之羽套装动作" />
+	<key id="91000357" name="变更奥林匹斯套装动作" />
+	<key id="91000358" name="变更奥林匹斯套装动作" />
+	<key id="91000359" name="更改婚礼风格动作" />
+	<key id="91000360" name="更改婚礼风格动作" />
+	<key id="91000361" name="变更魔术师套装动作" />
+	<key id="91000362" name="变更魔术师套装动作" />
+	<key id="91000387" name="变更璀璨之星套装动作" />
+	<key id="91000388" name="变更璀璨之星套装动作" />
+	<key id="91000391" name="变更堕落天使套装动作" />
+	<key id="91000392" name="变更堕落天使套装动作" />
 </ms2>

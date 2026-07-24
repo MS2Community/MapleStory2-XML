@@ -15,8 +15,10 @@
 	<key id="00000013" name="# Character Select Screen - Madria" feature="LobbyMap01" />
 	<key id="00000014" name="# Character Select Screen - Cherry Blossoms" feature="LobbyMap01" />
 	<key id="00000015" name="# Character Select Screen - Summer" feature="LobbyMap01" />
+	<key id="00000016" name="# CN Character Select Screen - September" feature="LobbyMap01" locale="CN" />
 	<key id="00000017" name="# Character Select Screen - Harvest Festival" feature="LobbyMap01" />
 	<key id="00000018" name="# Character Select Screen - Halloween 2017" feature="LobbyMap01" />
+	<key id="00000019" name="# Character Select Screen - Birthday Village" feature="HappyBirthday" />
 	<key id="00000020" name="# Character Select Screen - Kritias" feature="Kritias_2018_12" />
 	<key id="00000021" name="((China Only)) # Character Selection Screen - 2018 Lunar New Year" feature="LobbyMap01" />
 	<key id="00000022" name="# Character Select Screen - Spring 2018" feature="LobbyMap01" />
@@ -62,6 +64,7 @@
 	<key id="02000027" name="Henesys Hospital" feature="CBT" />
 	<key id="02000028" name="Ellinia Hospital" feature="CBT" />
 	<key id="02000029" name="Van Corta" feature="Season1" />
+	<key id="02000030" name="Protect the GM! Event Map" feature="Develop" />
 	<key id="02000031" name="Tria Library" feature="CBT" />
 	<key id="02000032" name="Perion Hospital" feature="CBT" />
 	<key id="02000033" name="Troy Inn" feature="CBT" />
@@ -106,6 +109,7 @@
 	<key id="02000072" name="Elder&apos;s House" feature="CBT" />
 	<key id="02000073" name="Forest Witch&apos;s Shop" feature="CBT" />
 	<key id="02000074" name="Forsaken Hideout" feature="CBT" />
+	<key id="02000075" name="Blank map (Planned)" feature="Develop" />
 	<key id="02000076" name="Henesys" feature="CBT" />
 	<key id="02000077" name="Lupinrock Cave" feature="Quest2017_2" />
 	<key id="02000078" name="Murpagoth Temple" feature="Quest2017_2" />
@@ -156,6 +160,7 @@
 	<key id="02000123" name="Golden Estates Realty" feature="CBT" />
 	<key id="02000124" name="Alikar" feature="CBT" />
 	<key id="02000125" name="Henry&apos;s General Hospital" feature="CBT" />
+	<key id="02000126" name="GM Hill" feature="Develop" />
 	<key id="02000127" name="Amore Wedding Hall" feature="Season1" />
 	<key id="02000128" name="Great Ellin Tree" feature="Season2" />
 	<key id="02000129" name="Fungeeburg Stump" feature="Season2" />
@@ -362,11 +367,17 @@
 	<key id="02000330" name="Run-down Warehouse" feature="Season1" />
 	<key id="02000331" name="Twinkling Path" feature="Season1" />
 	<key id="02000332" name="Ludibrium Clock Tower" feature="ChaosPapulatus" />
+	<key id="02000333" name="Phantasmal Exchange House" feature="Develop" />
 	<key id="02000334" name="Watchtower Rampart" feature="Season3" />
 	<key id="02000335" name="Blaknov No. 1: Cargo Car" feature="KarkarIsland" />
 	<key id="02000336" name="Blaknov No. 1: Cabin" feature="KarkarIsland" />
 	<key id="02000337" name="Blaknov No. 1: Engine Car" feature="KarkarIsland" />
 	<key id="02000338" name="Coldwind Cave" feature="KarkarIsland" />
+	<key id="02000339" name="Halloween House" feature="Develop" />
+	<key id="02000340" name="Halloween House" feature="Develop" />
+	<key id="02000341" name="Halloween House" feature="Develop" />
+	<key id="02000342" name="Halloween House" feature="Develop" />
+	<key id="02000343" name="Halloween House" feature="Develop" />
 	<key id="02000344" name="Amazing Box" feature="Season3" />
 	<key id="02000345" name="Marble Hall" feature="Season3" />
 	<key id="02000346" name="Petrified Brook" feature="Season3" />
@@ -397,6 +408,8 @@
 	<key id="02000371" name="Rune Temple 3F" feature="NutaNuta" />
 	<key id="02000372" name="Forest of Life" feature="NutaNuta" />
 	<key id="02000373" name="Forest of Life" feature="NutaNuta" />
+	<key id="02000374" name="Mad Lab" feature="MadDoctor01" />
+	<key id="02000374" name="Mad Lab" feature="EventBossRush" />
 	<key id="02000375" name="BeyondLink Tris" feature="Kandura" />
 	<key id="02000376" name="Wayfarer&apos;s Garden" feature="ShrineOfGuidance" />
 	<key id="02000377" name="Coco Island" feature="Fishing" />
@@ -408,6 +421,7 @@
 	<key id="02000383" name="Frostpillar Temple" feature="SnowKingdom" />
 	<key id="02000384" name="Madrakan Spire" feature="DarkCastle" />
 	<key id="02000385" name="Premium Dungeon" feature="VIPDungeon" />
+	<key id="02000386" name="Pipi&apos;s Secret Warehouse" feature="ItemDungeon" />
 	<key id="02000387" name="Cathy Mart Part-Time Job" feature="ItemPartyDungeon" />
 	<key id="02000388" name="Croc&apos;s Dock" feature="PirateOcean" />
 	<key id="02000389" name="Grandcrockho Pirate Ship" feature="PirateOcean" />
@@ -425,7 +439,11 @@
 	<key id="02000401" name="Madrakan Ramparts" feature="DarkCastle" />
 	<key id="02000402" name="Revealed Stronghold" feature="DarkCastle" />
 	<key id="02000403" name="Chateau of Grief" feature="DarkCastle" />
+	<key id="02000404" name="Fairybanica" feature="HousingTogether" />
 	<key id="02000405" name="Hellebanican" feature="Season1" />
+	<key id="02000406" name="Elobanica" feature="HousingTogether" />
+	<key id="02000407" name="Kravanica" feature="HousingTogether" />
+	<key id="02000408" name="Ligvanica" feature="HousingTogether" />
 	<key id="02000409" name="Temple of Time" feature="PinkBean01" />
 	<key id="02000410" name="Orbis-Class Ship" feature="CrimsonBalrog01" />
 	<key id="02000411" name="Expedition Base" feature="BattleField56to60" />
@@ -440,6 +458,7 @@
 	<key id="02000420" name="Ludibrium Clock Tower" feature="EventPapulatus" />
 	<key id="02000421" name="Sky Fortress Deck" feature="FameContents" />
 	<key id="02000422" name="Sky Fortress Bridge" feature="FameContents" />
+	<key id="02000423" name="Funny Funny Island" feature="WorldChampionMushroom" />
 	<key id="02000424" name="Berg Island" feature="Mastery05" />
 	<key id="02000425" name="Alkimi Island" feature="Mastery05" />
 	<key id="02000426" name="Ancient Aetherine Mine" feature="Kritias_Zakum01" />
@@ -463,6 +482,7 @@
 	<key id="02000485" name="Madrakan Watchtower" feature="ChronicleDungeon60_01" />
 	<key id="02000486" name="Phase Distortion Nexus" feature="ChronicleDungeon60_01" />
 	<key id="02000487" name="Foundation HQ" feature="ChronicleDungeon60_01" />
+	<key id="02000488" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="02000489" name="Madrakan Spire" feature="DarkCastle" />
 	<key id="02000490" name="Temple of Time" feature="PinkBean01" />
 	<key id="02000491" name="Rune Temple Passage" feature="NutaNuta" />
@@ -472,43 +492,89 @@
 	<key id="02000495" name="Rune Temple 3F" feature="NutaNuta" />
 	<key id="02000496" name="Storm&apos;s Eye" feature="LapentaFrontierQuest" />
 	<key id="02000497" name="Frostpillar Temple" feature="LapentaFrontierQuest" />
+	<key id="02000498" name="Dark Descent 2" feature="Develop" />
 	<key id="02000499" name="Royale Park" feature="SurvivalContents03" />
 	<key id="02000500" name="Shadow Altar" feature="Season3" />
 	<key id="02000501" name="Moonlight Fortress" feature="Season3" />
 	<key id="02000511" name="Frostpillar Temple" feature="SnowKingdom" />
 	<key id="02000521" name="Madrakan Spire" feature="DarkCastle" />
+	<key id="02000522" name="Tronix Bunker of Illusion" feature="DungeonOpen70AH3" />
+	<key id="02000523" name="Baraska Ice Cave of Illusion" feature="DungeonOpen70AH4" />
+	<key id="02000524" name="Blueshade Cave of Illusion" feature="DungeonOpen70CH3" />
+	<key id="02000525" name="Horus&apos;s Nest of Illusion" feature="DungeonOpen70CH4" />
+	<key id="02000526" name="Temple of Immortals of Illusion" feature="DungeonOpen70AH5" />
+	<key id="02000527" name="Hard Shadow Altar of Illusion" feature="DungeonOpen70CH6" />
+	<key id="02000528" name="Normal Shadow Altar of Illusion" feature="DungeonOpen70CH6" />
+	<key id="02000529" name="Forgotten Playground" feature="DungeonOS02" />
 	<key id="02000531" name="Temple of Time" feature="PinkBean01" />
+	<key id="02000532" name="Black Onyx Tower 1st Floor - Lobby" feature="Develop" />
+	<key id="02000533" name="Black Onyx Tower 2nd Floor - Office" feature="Develop" />
+	<key id="02000534" name="Black Onyx Tower 3rd Floor - Data Storage, Strategic Planning Office" feature="Develop" />
+	<key id="02000535" name="Black Onyx Tower 4th Floor - Executive Meeting Room" feature="Develop" />
+	<key id="02000536" name="Level 1 Secret Safe" feature="BlackOnyx" />
+	<key id="02000537" name="Citadel of Abyss" feature="DarkTear" />
+	<key id="02000538" name="Distant Passage" feature="DarkTear" />
+	<key id="02000539" name="Bridge of Silence" feature="DarkTear" />
+	<key id="02000540" name="Temple of Lost Light" feature="DarkTear" />
+	<key id="02000541" name="Path of Flowing Darkness" feature="Develop" />
+	<key id="02000542" name="Prison of Souls" feature="DarkTear" />
+	<key id="02000543" name="Altar of Greed" feature="DarkTear" />
+	<key id="02000544" name="Underground Labyrinth" feature="Develop" />
+	<key id="02000545" name="Cradle of Darkness" feature="DarkTear" />
+	<key id="02000551" name="Run Run Circuit" feature="DungeonOpen70CH5" />
+	<key id="02000552" name="Chip Chop Atelier" feature="DungeonOpen70CH5" />
+	<key id="02000553" name="Black Dungeon 03" feature="Develop" />
+	<key id="02000554" name="Space-Time Rift" feature="EpicApocalypse01" />
+	<key id="02000555" name="Black Onyx Tower" feature="BlackOnyx" />
+	<key id="02000559" name="BeyondLink Tris of Illusion" feature="DungeonOpen70CH7" />
+	<key id="02010001" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010002" name="Ludari City" feature="KarkarIsland" />
+	<key id="02010003" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010004" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010005" name="Small Desert Mud Hut" feature="KarkarIsland" />
 	<key id="02010006" name="Meerkat Patrol Base" feature="KarkarIsland" />
 	<key id="02010007" name="Starflow Cave" feature="KarkarIsland" />
+	<key id="02010008" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010009" name="Ludari Station" feature="KarkarIsland" />
 	<key id="02010010" name="Ludari Mall" feature="KarkarIsland" />
 	<key id="02010011" name="Ludari Promenade" feature="KarkarIsland" />
 	<key id="02010012" name="Paradise Circuit" feature="KarkarIsland" />
+	<key id="02010013" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010014" name="The Deck Skatepark" feature="KarkarIsland" />
+	<key id="02010015" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010016" name="Tuning Motors Showroom" feature="KarkarIsland" />
+	<key id="02010017" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010018" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010019" name="Aquatopia" feature="KarkarIsland" />
 	<key id="02010020" name="Ludari Arena" feature="KarkarIsland" />
 	<key id="02010021" name="Sodden Sands" feature="BattleFieldOnly01" />
 	<key id="02010022" name="Lavender Island" feature="KarkarIsland" />
 	<key id="02010023" name="Redsand Hills" feature="KarkarIsland" />
+	<key id="02010024" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010025" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010026" name="Moonlight Garden" feature="KarkarIsland" />
 	<key id="02010027" name="Nazkar Pyramid" feature="KarkarIsland" />
 	<key id="02010028" name="Nazkar Passageways" feature="KarkarIsland" />
 	<key id="02010029" name="Nazkar Main Hall" feature="KarkarIsland" />
 	<key id="02010030" name="Nazkar Central Chamber" feature="KarkarIsland" />
 	<key id="02010031" name="Winterpine Lake" feature="BattleFieldOnly01" />
+	<key id="02010032" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010033" name="Moonlight Desert" feature="KarkarIsland" />
 	<key id="02010034" name="Nazkar Altar" feature="KarkarIsland" />
+	<key id="02010035" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010036" name="Rainbow Valley" feature="KarkarIsland" />
+	<key id="02010037" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010038" name="East Auto Bridge" feature="KarkarIsland" />
 	<key id="02010039" name="West Auto Bridge" feature="KarkarIsland" />
 	<key id="02010040" name="Labyrinth Corridor" feature="KarkarIsland" />
 	<key id="02010041" name="Halcyon Valley" feature="BattleFieldOnly01" />
+	<key id="02010042" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010043" name="Rizab Island" feature="KarkarIsland" />
+	<key id="02010044" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010045" name="Starsphinx Slopes" feature="BattleFieldOnly01" />
+	<key id="02010046" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010047" name="Sandstar Ruins" feature="KarkarIsland" />
+	<key id="02010048" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010049" name="Waterbug Landing" feature="KarkarIsland" />
 	<key id="02010050" name="Waterbug Park" feature="KarkarIsland" />
 	<key id="02010051" name="Labyrinthine Halls" feature="KarkarIsland" />
@@ -526,21 +592,56 @@
 	<key id="02010063" name="Minar" feature="KarkarIsland" />
 	<key id="02010064" name="Motors Lounge" feature="KarkarIsland" />
 	<key id="02010065" name="Royal Parlor" feature="KarkarIsland" />
+	<key id="02010066" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010067" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010068" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010069" name="Coldwind Cave Mouth" feature="KarkarIsland" />
 	<key id="02010070" name="Illusory Pyramid" feature="KarkarIsland" />
+	<key id="02010071" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010072" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010073" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010074" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010075" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010076" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010077" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010078" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010079" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010080" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010081" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010082" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010083" name="Ninarive Estates" feature="KarkarIsland" />
 	<key id="02010084" name="Tiares Desert" feature="KarkarIsland" />
+	<key id="02010085" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02010086" name="Blaknov No. 2: Cargo Car" feature="KarkarIsland" />
 	<key id="02010087" name="Blaknov No. 2: Engine Car" feature="KarkarIsland" />
+	<key id="02010088" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010089" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010090" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010091" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010092" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010093" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010094" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010095" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010096" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010097" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010098" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010099" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02010100" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02020001" name="Aurora Lake" feature="Kritias_2018_12" />
+	<key id="02020002" name="Storm Battlefield" feature="Timaion01" />
 	<key id="02020003" name="Fields of Perkau" feature="Kritias_2018_12" />
 	<key id="02020004" name="Bonneville" feature="Kritias_2018_12" />
+	<key id="02020005" name="North of the Forgotten Village" feature="Timaion01" />
 	<key id="02020006" name="Kidel Crossing" feature="Kritias_2018_12" />
+	<key id="02020007" name="Time Jungle" feature="Timaion01" />
 	<key id="02020008" name="Leshy Forest" feature="Kritias_2018_12" />
 	<key id="02020009" name="Biome Test Site" feature="Kritias_2018_12" />
 	<key id="02020010" name="Kidel Tairen Base" feature="Kritias_2018_12" />
+	<key id="02020011" name="Lullaby Forest" feature="Timaion01" />
+	<key id="02020012" name="Timaeus" feature="Timaion01" />
 	<key id="02020013" name="Zekeben Road" feature="Kritias_2018_12" />
 	<key id="02020014" name="Biome Research Lab" feature="Kritias_2018_12" />
+	<key id="02020015" name="Underground Maze" feature="Timaion01" />
 	<key id="02020016" name="Arcana Plateau" feature="Kritias_2018_12" />
 	<key id="02020017" name="Abandoned State Building" feature="Kritias_2018_12" />
 	<key id="02020018" name="Tiaman" feature="Kritias_2018_12" />
@@ -563,6 +664,9 @@
 	<key id="02020035" name="Tairen Robot Factory" feature="Kritias_2018_12" />
 	<key id="02020036" name="Wraith&apos;s Foothold" feature="Kritias_2018_12" />
 	<key id="02020037" name="Jupia Road" feature="Kritias_2018_12" />
+	<key id="02020038" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="02020039" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02020040" name="Empty Map (Planned)" feature="Develop" />
 	<key id="02020041" name="Safehold" feature="Kritias_2018_12" />
 	<key id="02020051" name="Dumping Ground" feature="Kritias_2018_12" />
 	<key id="02020061" name="Fields of Perkau" feature="Fieldwar01" />
@@ -570,6 +674,12 @@
 	<key id="02020063" name="Biome Test Site" feature="Fieldwar02" />
 	<key id="02020064" name="Wraith&apos;s Foothold" feature="Fieldwar02" />
 	<key id="02020065" name="Zekeben Road" feature="Fieldwar02" />
+	<key id="02020066" name="Refugee Shelter Gallan" feature="Kritias02" />
+	<key id="02020067" name="Desolate Wasteland" feature="Kritias02" />
+	<key id="02020068" name="Polluted Leshy Forest" feature="Kritias02" />
+	<key id="02020069" name="Greeny Nest" feature="Kritias02" />
+	<key id="02020070" name="Dark Fortress" feature="Kritias02" />
+	<key id="02020071" name="Air Fortress Turkalion" feature="Kritias02" />
 	<key id="02020097" name="Aetherine Citadel" feature="Kritias_Balrog01" />
 	<key id="02020098" name="Tiaman Time Tunnel" feature="Kritias_Inferno01" />
 	<key id="02020100" name="Forest of Sorrow" feature="LapentaDungeon" />
@@ -579,45 +689,82 @@
 	<key id="02020112" name="Winding Halls" feature="LapentaDungeon" />
 	<key id="02020120" name="Terminus of Time" feature="LapentaDungeon" />
 	<key id="02020130" name="Blackshard Nexus" feature="LapentaDungeon" />
+	<key id="02020140" name="Hall of Conspiracy" feature="Kritias_Turka03" />
+	<key id="02020141" name="Crashed Desert" feature="Kritias_Turka03" />
+	<key id="02020142" name="Hall of Conspiracy" feature="Kritias_Turka03" />
+	<key id="02020143" name="Crashed Desert" feature="Kritias_Turka03" />
 	<key id="02020144" name="Emerald Prison" feature="LapentaDungeon" />
 	<key id="02020145" name="Azure Flux" feature="LapentaDungeon" />
 	<key id="02020146" name="Terminus of Time" feature="LapentaDungeon" />
 	<key id="02020147" name="Blackshard Nexus" feature="LapentaDungeon" />
 	<key id="02020200" name="Arcana Delphion" feature="Kritias_Paika01" />
 	<key id="02020201" name="Arcana Delphion" feature="Kritias_Paika01" />
+	<key id="02020300" name="Hidden Hangar" feature="Kritias_Turka01" />
+	<key id="02020301" name="Hidden Hangar" feature="Kritias_Turka01" />
+	<key id="02020310" name="Timaion Corridor" feature="Kritias_Turka02" />
+	<key id="02020311" name="Timaion Defector" feature="Kritias_Turka02" />
 	<key id="02100000" name="L4: Ice Beast&apos;s Den" feature="GuildRaid01" />
 	<key id="02100001" name="L1: Apeullela Outback" feature="GuildRaid01" />
 	<key id="02100002" name="L2: Rainbow Slime Factory" feature="GuildRaid01" />
+	<key id="02100003" name="L?: Cursed Forest" feature="GuildRaid02" />
 	<key id="02100004" name="L3: Battle Arena" feature="GuildRaid01" />
+	<key id="02100005" name="L?: Sleeping Tiger" feature="GuildRaid02" />
+	<key id="02100006" name="L?: Spelunker&apos;s Bane" feature="GuildRaid02" />
+	<key id="02100007" name="L?: Through Fire and Ice" feature="GuildRaid02" />
+	<key id="02100008" name="L?: Temple of Horus" feature="GuildRaid02" />
 	<key id="02100009" name="L5: Eternal Arena" feature="GuildRaid01" />
+	<key id="02200001" name="Chaos of Blue Flames" feature="DungeonOS01" />
+	<key id="02200002" name="The Red Rose Theater" feature="DungeonOS04" />
+	<key id="02990001" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02990002" name="Empty Map (Planned)" feature="Develop" />
+	<key id="02990003" name="Empty Map (Planned)" feature="Develop" />
 	<key id="03000002" name="Deadsville" feature="Season3" />
 	<key id="03000003" name="Savage Crossroads" feature="Season2" />
 	<key id="03000004" name="Gloomy Forest" feature="Season3" />
+	<key id="03000005" name="Mulverin" feature="Develop" />
 	<key id="03000006" name="Black Forest" feature="Season3" />
 	<key id="03000007" name="Piercewind Hills" feature="Season3" />
+	<key id="03000008" name="Kabrium Gap" feature="Develop" />
 	<key id="03000009" name="Stormy Hills" feature="Season3" />
+	<key id="03000010" name="Motabata Highlands" feature="Develop" />
+	<key id="03000011" name="Crimson Circuit" feature="Develop" />
 	<key id="03000013" name="Shadow Fortress" feature="Season3" />
 	<key id="03000014" name="Kabrium Basin" feature="CBT" />
 	<key id="03000015" name="Tumultuous Docks" feature="Season3" />
 	<key id="03000017" name="Specter Woods Trail" feature="Season2" />
+	<key id="03000018" name="Croix&apos;s Fearsome Fortress" feature="Develop" />
 	<key id="03000021" name="Wailing Crag Fortress" feature="Season3" />
 	<key id="03000022" name="Torrava River" feature="Season2" />
+	<key id="03000023" name="Shadow Ellinia" feature="Develop" />
 	<key id="03000024" name="Moldy Hollow" feature="Season3" />
 	<key id="03000036" name="Corrupted Square" feature="Season3" />
 	<key id="03000038" name="Boiling Peaks" feature="Season3" />
 	<key id="03000039" name="Shattofyer River" feature="Season3" />
+	<key id="03000040" name="Baktona Cave" feature="Develop" />
+	<key id="03000041" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="03000042" name="Carmensylva" feature="Develop" />
 	<key id="03000043" name="Obsidian Mount" feature="Season2" />
+	<key id="03000044" name="Mortal Gorge" feature="Develop" />
 	<key id="03000045" name="Bonebridge Ruins" feature="Season3" />
 	<key id="03000046" name="Infernal Hourglass" feature="Season3" />
+	<key id="03000048" name="Haunted Dig Site" feature="Develop" />
+	<key id="03000049" name="Carmela&apos;s Altar" feature="Develop" />
+	<key id="03000050" name="Heron Village" feature="Develop" />
+	<key id="03000051" name="Shattered Perion" feature="Develop" />
+	<key id="03000053" name="Blight Lake" feature="Develop" />
 	<key id="03000054" name="Snagwood Forest" feature="Season2" />
 	<key id="03000056" name="Phantasm Falls" feature="Season3" />
 	<key id="03000057" name="Stormville" feature="Season2" />
 	<key id="03000058" name="Darkstone Quarry" feature="Season2" />
 	<key id="03000059" name="Outlaw&apos;s Overlook" feature="Season2" />
 	<key id="03000060" name="Blazing Forest" feature="KatvanDungeon" />
+	<key id="03000061" name="Felled Eagle Pass" feature="Develop" />
 	<key id="03000062" name="Lith Ruins" feature="Season3" />
+	<key id="03000063" name="Cheliska Bay Wastes" feature="Develop" />
 	<key id="03000064" name="Cozalita Graveyard" feature="Season2" />
+	<key id="03000067" name="Palacka Cliffs" feature="Develop" />
 	<key id="03000076" name="Ravaged Henesys" feature="Season2" />
+	<key id="03000082" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="03000083" name="Bleakshadow Crossing" feature="Season2" />
 	<key id="03000084" name="Bleakshadow Waste Center" feature="Season2" />
 	<key id="03000085" name="Dark Heart" feature="Season2" />
@@ -628,41 +775,140 @@
 	<key id="03000090" name="Sealed Forest" feature="KatvanDungeon" />
 	<key id="03000091" name="Turka&apos;s Watchtower" feature="Season3" />
 	<key id="03000092" name="Melta Dam" feature="CBT" />
+	<key id="03000093" name="Rotted Fang" feature="Develop" />
+	<key id="03000094" name="Scorching Bulwark" feature="Develop" />
+	<key id="03000097" name="Parched Crater" feature="Develop" />
+	<key id="03000100" name="Fractured Kerning City" feature="Develop" />
 	<key id="03000101" name="Calamitysnare" feature="Season3" />
+	<key id="03000102" name="Fool&apos;s Downfall" feature="Develop" />
 	<key id="03000103" name="Infernal Tree" feature="KatvanDungeon" />
 	<key id="03000104" name="Crystal Vale Ruins" feature="Season2" />
+	<key id="03000108" name="Darkrelle Town" feature="Develop" />
 	<key id="03000110" name="Shadow Factory" feature="Season2" />
 	<key id="03000111" name="Beachway 666" feature="Season2" />
+	<key id="03000112" name="Hellion Spring" feature="Develop" />
+	<key id="03000113" name="Crenoa Falls" feature="Develop" />
 	<key id="03000114" name="Tyranny Road Plaza" feature="Season3" />
 	<key id="03000115" name="South Tyranny Road" feature="Season3" />
+	<key id="03000116" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="03000117" name="Victoria&apos;s Rest" feature="Season3" />
 	<key id="03000118" name="North Tyranny Road" feature="Season3" />
+	<key id="03000129" name="Toadstool Stump" feature="Develop" />
 	<key id="03000130" name="Vanished Ruins" feature="Season2" />
+	<key id="03000131" name="Tangled Beanstalk" feature="Develop" />
+	<key id="03000132" name="Morosa Ruins" feature="Develop" />
+	<key id="03000133" name="Deadcliff Temple" feature="Develop" />
 	<key id="03000134" name="Chekarta Chemicals" feature="CBT" />
 	<key id="03000135" name="Blackout Expanse" feature="CBT" />
 	<key id="03000136" name="Occupied Fellowstone" feature="CBT" />
 	<key id="03000137" name="Majore Bog" feature="CBT" />
+	<key id="03000142" name="Tempus Battleground" feature="Develop" />
 	<key id="03000143" name="Debloon Ranch" feature="Season2" />
 	<key id="03000145" name="Dark Cell Virus Center" feature="CBT" />
 	<key id="03000146" name="Picardiv" feature="CBT" />
 	<key id="03000147" name="Silent Streets" feature="Season3" />
+	<key id="03000148" name="Demon&apos;s Ire Tomb" feature="Develop" />
+	<key id="03000162" name="Shadow Core Lab" feature="Develop" />
+	<key id="03000163" name="Shadow Mech Center" feature="Develop" />
+	<key id="03000164" name="Darkstone Bridge" feature="Develop" />
 	<key id="03000165" name="Wallowville" feature="Season3" />
+	<key id="03000166" name="Codus Town" feature="Develop" />
+	<key id="03000167" name="Dustown" feature="Develop" />
+	<key id="03000168" name="Roadrunner Village" feature="Develop" />
+	<key id="03000169" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="03000170" name="Batclaw Canyon" feature="Develop" />
+	<key id="03000171" name="Rankled Cliff" feature="Develop" />
+	<key id="03000172" name="Wailing Wood" feature="Develop" />
+	<key id="03000174" name="Solenops Square" feature="Develop" />
+	<key id="03000175" name="Grisly Hound Hole" feature="Develop" />
+	<key id="03000176" name="Spinner&apos;s Common" feature="Develop" />
+	<key id="03000177" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="03000178" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="03000179" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="03000180" name="Trampled Garden" feature="Develop" />
+	<key id="03000181" name="Dustdevil Keep" feature="Develop" />
+	<key id="03000182" name="Eternal Abyss" feature="Develop" />
+	<key id="03000183" name="Darkshore Coast" feature="Develop" />
+	<key id="03000184" name="Nefarian Province" feature="Develop" />
 	<key id="03000185" name="Bitters Valley" feature="Season3" />
+	<key id="03000187" name="ADM Center" feature="Develop" />
+	<key id="03000192" name="Loathsome Labyrinth" feature="Develop" />
+	<key id="03000200" name="Specter Pass" feature="Develop" />
 	<key id="03000203" name="Storm Forge" feature="Season2" />
+	<key id="03000214" name="Lunaclipse Hold" feature="Develop" />
+	<key id="03000216" name="Broker&apos;s Square" feature="Develop" />
+	<key id="03000217" name="Suffering Spire" feature="Develop" />
+	<key id="03000231" name="Kad Bloumish" feature="Develop" />
+	<key id="03000235" name="Crimson Slave Mine" feature="Develop" />
+	<key id="03000236" name="Roiling Volcano" feature="Develop" />
+	<key id="03000255" name="Kad Station" feature="Develop" />
+	<key id="03000256" name="Solenops Pass" feature="Develop" />
+	<key id="03000257" name="Spoiled Blunge" feature="Develop" />
+	<key id="03000258" name="Tormented Playground" feature="Develop" />
+	<key id="03000259" name="Bloodsap Trail" feature="Develop" />
+	<key id="03000260" name="Blackflower Peak" feature="Develop" />
+	<key id="03000261" name="Crimshawl" feature="Develop" />
+	<key id="03000262" name="Cutlash Hills" feature="Develop" />
+	<key id="03000263" name="Ghastly Lake" feature="Develop" />
+	<key id="03000264" name="Bleakshadow Hill" feature="Develop" />
+	<key id="03000265" name="Bleakshadow Valley" feature="Develop" />
+	<key id="03000266" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="03000267" name="Shrieking Aria Ravine" feature="Develop" />
+	<key id="03000268" name="Cloying Magma Gorge" feature="Develop" />
+	<key id="03000269" name="Metalcoma Test Bunker" feature="Develop" />
+	<key id="03000270" name="Ruined Taliskar" feature="Develop" />
+	<key id="03000271" name="Shadow Train Factory" feature="Develop" />
+	<key id="03000272" name="Bleakshadow Ruins" feature="Develop" />
+	<key id="03000273" name="Black Steamer Brook" feature="Develop" />
+	<key id="03000274" name="Shadowtech Avenue" feature="Develop" />
+	<key id="03000275" name="Rutomic Cyborg Center" feature="Develop" />
+	<key id="03000276" name="Energy Research Institute" feature="Develop" />
+	<key id="03000277" name="Spectral Factory" feature="Develop" />
+	<key id="03000278" name="Weeping Ferry" feature="Develop" />
+	<key id="03000279" name="Skelic Dark Rail" feature="Develop" />
+	<key id="03000280" name="Dark Moon Warren" feature="Develop" />
+	<key id="03000281" name="Unstable Ruins" feature="Timaion01" />
 	<key id="03009001" name="Kabrium Basin Shelter" feature="CBT" />
+	<key id="03009002" name="Majore Bog Shelter" feature="Develop" />
+	<key id="03009003" name="Dark Heart Shelter" feature="Develop" />
+	<key id="03009004" name="Shadow Factory Shelter" feature="Develop" />
 	<key id="03009005" name="Vanished Ruins Shelter" feature="Season2" />
 	<key id="03009006" name="Debloon Ranch Shelter" feature="Season2" />
 	<key id="03009007" name="Black Forest Shelter" feature="Season3" />
 	<key id="03009008" name="Piercewind Shelter" feature="Season3" />
 	<key id="03009009" name="Obsidian Mount Shelter" feature="ShadowCataclysm" />
 	<key id="03009010" name="South Tyranny Road Shelter" feature="Season3" />
+	<key id="03009011" name="Dark Steamerbrook Shelter" feature="Develop" />
+	<key id="03009012" name="Bleakshadow Shelter" feature="Develop" />
+	<key id="03009013" name="Carmensylva Shelter" feature="Develop" />
+	<key id="03009014" name="Darkrelle Town Shelter" feature="Develop" />
 	<key id="03009015" name="Blazing Forest Shelter" feature="KatvanDungeon" />
+	<key id="03009016" name="Shadow Mech Shelter" feature="Develop" />
 	<key id="03009017" name="Secret Shelter" feature="Season3" />
 	<key id="03009018" name="Lumina Checkpoint" feature="Season3" />
+	<key id="03009019" name="03009019" feature="Develop" />
+	<key id="03009020" name="03009020" feature="Develop" />
 	<key id="03009021" name="Baba Powder Lab" feature="CBT" />
 	<key id="03009022" name="Lumina Liberation Hangout" feature="CBT" />
 	<key id="03009023" name="Picardiv Station" feature="CBT" />
 	<key id="03009024" name="Hidden Refuge" feature="CBT" />
+	<key id="03009025" name="03009025" feature="Develop" />
+	<key id="03100000" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100001" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100002" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100003" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100004" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100005" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100006" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100007" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100008" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100009" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100010" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100011" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100012" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100013" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100014" name="Dark Dimensional Passage" feature="ShadowExpedition" />
+	<key id="03100015" name="Dark Dimensional Passage" feature="ShadowExpedition" />
 	<key id="50000001" name="Dungeon Lobby" feature="CBT" />
 	<key id="50000002" name="Hard Adventure Dungeon Lobby" feature="CBT" />
 	<key id="50000003" name="Chaos Raid Dungeon Lobby" feature="CBT" />
@@ -677,11 +923,18 @@
 	<key id="50000012" name="Blackshard Nexus Lobby" feature="LapentaDungeon" />
 	<key id="50000013" name="Queen Bean Rumble Lobby" feature="Colosseum01" />
 	<key id="50000014" name="Chaos Raid Dungeon Lobby" feature="Kritias_Zakum01" />
+	<key id="50000015" name="Turka Dungeon Lobby" feature="Kritias02" />
+	<key id="50000016" name="Illusion Dungeon Lobby" feature="EpicApocalypse01" />
 	<key id="51000001" name="Teraspring Farm" feature="ArcadeSpringFarm" />
+	<key id="51000002" name="Normal Dungeon 02" feature="Develop" />
 	<key id="51000003" name="Simian Sea" feature="ArcadeCrazyMonkeyOcean" />
 	<key id="51000004" name="Three, Two, One... Mission!" feature="Event" />
 	<key id="51000005" name="Face Off!" feature="Event" />
 	<key id="51000006" name="MAPNAME_51000006_NAME:[F]Event" feature="Event" />
+	<key id="51000007" name="Normal Dungeon 07" feature="Develop" />
+	<key id="51000008" name="Normal Dungeon 08" feature="Develop" />
+	<key id="51000009" name="Normal Dungeon 09" feature="Develop" />
+	<key id="51000010" name="Normal Dungeon 10" feature="Develop" />
 	<key id="52000001" name="Forest Cabin" feature="CBT" />
 	<key id="52000002" name="Balmy Farm" feature="Season1" />
 	<key id="52000003" name="Umbral Cavern" feature="Season3" />
@@ -695,6 +948,7 @@
 	<key id="52000011" name="Time Barrier" feature="Season3" />
 	<key id="52000012" name="Shaman&apos;s Grave" feature="Season3" />
 	<key id="52000013" name="Soul Orb" feature="Season3" />
+	<key id="52000014" name="Balrog&apos;s Mind" feature="Balrogitem3rd" />
 	<key id="52000015" name="Underground Tunnel" feature="RuneBlader" />
 	<key id="52000016" name="Ancestors&apos; Tomb" feature="RuneBlader" />
 	<key id="52000017" name="Inner Space" feature="SoulBinder" />
@@ -724,7 +978,16 @@
 	<key id="52000041" name="Stump House" feature="SoulBinder" />
 	<key id="52000042" name="VIP Secret Storage" feature="SoulBinder" />
 	<key id="52000043" name="Glimmering Snowfield" feature="SoulBinder" />
+	<key id="52000044" name="Black Market Logistics Warehouse" feature="DoubleImpactStory" />
+	<key id="52000045" name="Blackstar Headquarters" feature="DoubleImpactStory" />
 	<key id="52000046" name="Abandoned Townhouse" feature="Quest2017" />
+	<key id="52000047" name="Office Corridor" feature="DoubleImpactStory" />
+	<key id="52000048" name="Phantoma Cyborg Center" feature="DoubleImpactStory" />
+	<key id="52000049" name="BeyondLink Core Deck" feature="DoubleImpactStory" />
+	<key id="52000050" name="Knotwood Dojo" feature="DoubleImpactStory" />
+	<key id="52000051" name="Wayfarer&apos;s Garden" feature="DoubleImpactStory" />
+	<key id="52000052" name="Dais Maze" feature="DoubleImpactStory" />
+	<key id="52000053" name="Lamplight Sanctuary" feature="DoubleImpactStory" />
 	<key id="52000054" name="Black Moon Abyss" feature="Season1" />
 	<key id="52000055" name="Dark Wind HQ" feature="Season1" />
 	<key id="52000056" name="Maple Tree Hill" feature="Season1" />
@@ -748,6 +1011,8 @@
 	<key id="52000074" name="Command Center" feature="Season1" />
 	<key id="52000075" name="Palace Dungeon" feature="Season1" />
 	<key id="52000076" name="Root of Darkness" feature="Season1" />
+	<key id="52000077" name="Beyond Time and Space" feature="Develop" />
+	<key id="52000078" name="Moonlight Desert" feature="Develop" />
 	<key id="52000079" name="Abandoned Room" feature="Season1" />
 	<key id="52000080" name="Tundra Outpost" feature="SnowKingdom" />
 	<key id="52000081" name="Ice Cavern" feature="SnowKingdom" />
@@ -857,7 +1122,22 @@
 	<key id="52000185" name="Dark Sanctum" feature="LapentaFrontierQuest" />
 	<key id="52000186" name="Foundation HQ" feature="LapentaFrontierQuest" />
 	<key id="52000187" name="Royale Park Path" feature="SurvivalContents03" />
+	<key id="52000187" name="MushKing Land Entrance" feature="SurvivalTutorial" />
 	<key id="52000188" name="Mysterious Cave" feature="JobChange_02" />
+	<key id="52000189" name="Prisoner&apos;s Tower" feature="EpicApocalypse01" />
+	<key id="52000190" name="Prisoner&apos;s Tower Solitary" feature="EpicApocalypse01" />
+	<key id="52000191" name="Baron&apos;s Prison" feature="EpicApocalypse01" />
+	<key id="52000192" name="Secret Passage" feature="EpicApocalypse01" />
+	<key id="52000193" name="Empress&apos; Bedroom" feature="EpicApocalypse01" />
+	<key id="52000194" name="Rifted Empress&apos; Bedroom" feature="EpicApocalypse01" />
+	<key id="52000195" name="Ereve&apos;s Dream" feature="EpicApocalypse01" />
+	<key id="52000196" name="Prismatic Research Lab" feature="EpicApocalypse01" />
+	<key id="52000197" name="Empress&apos; Bedroom" feature="EpicApocalypse01" />
+	<key id="52000198" name="Prisoner&apos;s Tower" feature="EpicApocalypse01" />
+	<key id="52000199" name="Black Moon Abyss" feature="EpicApocalypse01" />
+	<key id="52000200" name="Empress Audience Chamber" feature="EpicApocalypse01" />
+	<key id="52000201" name="Rifted Empress&apos; Bedroom" feature="EpicApocalypse01" />
+	<key id="52000202" name="Space-Time Rift" feature="EpicApocalypse01" />
 	<key id="52010001" name="Chief Tavan&apos;s House" feature="KarkarIsland" />
 	<key id="52010002" name="Ludari Police Station" feature="KarkarIsland" />
 	<key id="52010003" name="Ereve&apos;s Room" feature="KarkarIsland" />
@@ -881,6 +1161,8 @@
 	<key id="52010021" name="Bistro Startz" feature="KarkarIsland" />
 	<key id="52010022" name="Huntis Federation" feature="KarkarIsland" />
 	<key id="52010023" name="Ludari City" feature="KarkarIsland" />
+	<key id="52010024" name="Quest Dungeon" feature="Develop" />
+	<key id="52010025" name="Quest Dungeon" feature="Develop" />
 	<key id="52010026" name="Healing Forest" feature="Quest2017" />
 	<key id="52010027" name="Gale Valley" feature="Quest2017_2" />
 	<key id="52010028" name="Temple of the Forgotten" feature="Quest2017_2" />
@@ -928,14 +1210,46 @@
 	<key id="52010070" name="Field Hospital" feature="EyeOfLapentaQuest" />
 	<key id="52010071" name="Dark Sanctum" feature="EyeOfLapentaQuest" />
 	<key id="52010072" name="Foundation Meeting Room" feature="EyeOfLapentaQuest" />
+	<key id="52020001" name="Hazy Floating Islands" feature="Timaion01" />
+	<key id="52020002" name="Ladin&apos;s Barracks" feature="Timaion01" />
+	<key id="52020003" name="Fractured Workshop" feature="Timaion01" />
+	<key id="52020004" name="Underground Shelter" feature="Timaion01" />
+	<key id="52020005" name="Abandoned Truck" feature="Timaion01" />
+	<key id="52020006" name="Walls Underground Passageway" feature="Timaion01" />
+	<key id="52020007" name="Spiral Room" feature="Timaion01" />
+	<key id="52020008" name="Spiral Room 1st Floor" feature="Timaion01" />
+	<key id="52020009" name="Unnamed House" feature="Timaion01" />
+	<key id="52020010" name="House of Rewinded Time" feature="Timaion01" />
+	<key id="52020011" name="House of Dreams" feature="Timaion01" />
+	<key id="52020012" name="Hollow Tree" feature="Timaion01" />
+	<key id="52020013" name="Time and Space Fragments" feature="Timaion01" />
+	<key id="52020014" name="Underground Passage" feature="Timaion01" />
+	<key id="52020015" name="Hallway of Dreams" feature="Timaion01" />
+	<key id="52020016" name="Theater of Dreams" feature="Timaion01" />
+	<key id="52020017" name="Theater of Eternal Wandering" feature="Timaion01" />
+	<key id="52020018" name="Nightmare Troy Inn" feature="Timaion01" />
+	<key id="52020019" name="Forgotten Road Outskirts" feature="Timaion01" />
+	<key id="52020020" name="Troy Inn Room 216" feature="Timaion01" />
+	<key id="52020021" name="Troy Inn" feature="Timaion01" />
+	<key id="52020022" name="Orchard Management Office" feature="Timaion01" />
+	<key id="52020023" name="Machine Control Room" feature="Timaion01" />
+	<key id="52020024" name="Underground Forge" feature="Timaion01" />
+	<key id="52020025" name="Underground Escape Route" feature="Timaion01" />
+	<key id="52020026" name="Spiral Room Core" feature="Timaion01" />
+	<key id="52020027" name="Spiral Room Top" feature="Timaion01" />
+	<key id="52020028" name="Acropolis" feature="Timaion01" />
+	<key id="52020029" name="Gate of Truth" feature="Timaion01" />
+	<key id="52020030" name="Tower of Heaven" feature="Timaion01" />
+	<key id="52020031" name="Altar of the Sky" feature="Timaion01" />
+	<key id="52020032" name="Theater of Dreams" feature="Timaion01" />
+	<key id="52020033" name="Sky Fortress in Crisis" feature="Timaion01" />
+	<key id="52020034" name="Quiet Room" feature="Timaion01" />
+	<key id="52020035" name="Ladin&apos;s Barracks" feature="Timaion01" />
 	<key id="52020036" name="Pigming Clan Altar" feature="FameContents" />
 	<key id="52020037" name="Maple Alliance Command" feature="Kritias_Epic01" />
 	<key id="52020038" name="Sky Fortress Bridge" feature="Kritias_Epic01" />
 	<key id="52020039" name="Mannstad Fortress" feature="Kritias_2018_12" />
 	<key id="52020040" name="Sky Fortress Bridge" feature="Kritias_Epic01" />
-	<key id="52100111" name="Forain Cave" feature="Kritias_2018_12" />
-	<key id="52100112" name="Soldieretto Laboratory" feature="Kritias_2018_12" />
-	<key id="52100113" name="Leecher Habitat" feature="Kritias_2018_12" />
 	<key id="52100001" name="Mystic Coral Island" feature="ChronicleDungeon60_01" />
 	<key id="52100002" name="Oracle&apos;s Cave" feature="ChronicleDungeon60_01" />
 	<key id="52100011" name="Croc&apos;s Dock" feature="ChronicleDungeon60_01" />
@@ -966,6 +1280,32 @@
 	<key id="52100108" name="Underground Control Room" feature="Kritias_2018_12" />
 	<key id="52100109" name="Marlene&apos;s Office" feature="Kritias_Epic01" />
 	<key id="52100110" name="Reactor Site" feature="Kritias_Epic01" />
+	<key id="52100111" name="Forain Cave" feature="Kritias_2018_12" />
+	<key id="52100112" name="Soldieretto Laboratory" feature="Kritias_2018_12" />
+	<key id="52100113" name="Leecher Habitat" feature="Kritias_2018_12" />
+	<key id="52100114" name="Kharon Base Tekin" feature="Fame_Geo01" />
+	<key id="52100115" name="Highway Construction Site" feature="Fame_Geo01" />
+	<key id="52100116" name="Kharon Secret Warehouse" feature="Fame_Geo01" />
+	<key id="52100117" name="Corrupted Cave" feature="Fame_Geo01" />
+	<key id="52100118" name="Illegal Weapon Factory" feature="Fame_Geo01" />
+	<key id="52100201" name="Factory Interior" feature="Kritias_Epic02" />
+	<key id="52100202" name="Dark Fortress" feature="Kritias_Epic02" />
+	<key id="52100203" name="Turka Boss Room" feature="Kritias_Epic03" />
+	<key id="52100204" name="Temporary HQ" feature="Kritias_Epic03" />
+	<key id="52100205" name="Jessica&apos;s Office" feature="Kritias_Epic03" />
+	<key id="52100206" name="Black Moon Abyss" feature="Kritias_Epic03" />
+	<key id="52100207" name="Information Dealer&apos;s Room" feature="Kritias_Epic02" />
+	<key id="52100208" name="Air Fortress Turkalion" feature="Kritias_Epic02" />
+	<key id="52100300" name="Hidden Hangar" feature="Kritias_Turka01" />
+	<key id="52100301" name="Hidden Hangar" feature="Kritias_Turka01" />
+	<key id="52100302" name="Timaion&apos;s Hall" feature="Kritias_Turka02" />
+	<key id="52100303" name="Defector Timaion" feature="Kritias_Turka02" />
+	<key id="52100304" name="Crashing Desert" feature="Kritias_Epic03" />
+	<key id="52100305" name="Strange Place" feature="EpicApocalypse03" />
+	<key id="52100400" name="Foundation Meeting Room" feature="EpicApocalypse04" />
+	<key id="52100401" name="Aria Space" feature="EpicApocalypse04" />
+	<key id="52100402" name="Elder&apos;s House" feature="EpicApocalypse04" />
+	<key id="52100404" name="Queen&apos;s Hall" feature="EpicApocalypse04" />
 	<key id="61000001" name="Trap Master" feature="CBT" />
 	<key id="61000002" name="Sole Survivor" feature="CBT" />
 	<key id="61000003" name="Maple OX Quiz" feature="MassiveOxQuiz" />
@@ -974,8 +1314,18 @@
 	<key id="61000006" name="Crazy Runners" feature="CBT" />
 	<key id="61000007" name="Spring Beach" feature="CBT" />
 	<key id="61000008" name="Dance Dance Stop" feature="MassiveDanceDanceStop" />
+	<key id="61000009" name="Mad Doctor&apos;s Laboratory" feature="EventMassiveDungeon" />
 	<key id="61000010" name="Shanghai Crazy Runners" feature="MassiveCrazyRunnersShanghai" />
 	<key id="61000011" name="OX Quiz Stadium" feature="UGCMapOX" />
+	<key id="61000012" name="Bingo Event Map" feature="BingoEvent01" />
+	<key id="61000013" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000014" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000015" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000016" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000017" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000018" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000019" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="61000020" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="61000021" name="Custom OX Quiz" feature="UGCMapOX" />
 	<key id="61000022" name="Holiday Dance, Dance, Stop" feature="MassiveChristmasDanceDanceStop" />
 	<key id="61000023" name="Hide-and-Seek" feature="MassiveHideAndSeek" />
@@ -990,7 +1340,22 @@
 	<key id="61000032" name="Hide-and-Seek" feature="MassiveHideAndSeek" />
 	<key id="61000033" name="Hide-and-Seek" feature="MassiveHideAndSeek" />
 	<key id="61000034" name="Hide-and-Seek" feature="MassiveHideAndSeek" />
+	<key id="61000035" name="Doll&apos;s Mansion" />
+	<key id="61000123" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000124" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000125" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000126" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000127" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000128" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000129" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000130" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000131" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000132" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000133" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000134" name="Hide-and-Seek-M" feature="22_06" />
+	<key id="61000135" name="Doll&apos;s Mansion M" feature="22_06" />
 	<key id="62000000" name="Private Residence" feature="CBT" />
+	<key id="62900000" name="Game Maker (Developer)" feature="UserGeneratedDungeon_01" />
 	<key id="63000001" name="Amherst" feature="CBT" />
 	<key id="63000002" name="Turtcoli Beach" feature="CBT" />
 	<key id="63000003" name="Chief&apos;s House" feature="CBT" />
@@ -1021,12 +1386,19 @@
 	<key id="63000028" name="North Lotus Glade" feature="SoulBinder" />
 	<key id="63000029" name="Crescent Moon Cave" feature="SoulBinder" />
 	<key id="63000030" name="Veiled Light Peak" feature="SoulBinder" />
+	<key id="63000031" name="Okey Dokey House" feature="EventDuckyCardGame" />
+	<key id="63000032" name="Anniversary Venue" feature="EventSlimeCardGame" />
 	<key id="63000033" name="The Waddle Penguin Club" feature="CBT" />
 	<key id="63000034" name="Indoor Souvenir Photo Op" feature="CBT" />
 	<key id="63000035" name="BeyondLink Briefing Room" feature="SoulBinder" />
 	<key id="63000036" name="Veiled Light Peak, A Few Hours Later" feature="SoulBinder" />
+	<key id="63000037" name="Mapleopoly Court" feature="EventDuckyCardGame" />
+	<key id="63000038" name="BeyondLink Tris" feature="DoubleImpactStory" />
+	<key id="63000039" name="BeyondLink Isolation Room" feature="DoubleImpactStory" />
+	<key id="63000040" name="BeyondLink Archives" feature="DoubleImpactStory" />
 	<key id="63000041" name="Mountain Pass" feature="Season1" />
 	<key id="63000042" name="Henry&apos;s General Ward" feature="Season1" />
+	<key id="63000043" name="Maple Festival Square" feature="EventDuckyCardGame" />
 	<key id="63000044" name="Harang Island" feature="ContentsGuide01" />
 	<key id="63000045" name="Nerman Craft Shop" feature="ContentsGuide01" />
 	<key id="63000046" name="Nerman Mine" feature="ContentsGuide01" />
@@ -1036,14 +1408,16 @@
 	<key id="63000050" name="Tria Battlefield" feature="Season1" />
 	<key id="63000051" name="Cherry Blossom Festival" feature="MustBeModified" />
 	<key id="63000052" name="Breezy Gardens" feature="MasterySecond" />
+	<key id="63000053" name="Zakum&apos;s Hall" feature="ChinaRaid" />
+	<key id="63000054" name="Mirror Gate" feature="ReverseRaid01" />
 	<key id="63000055" name="2nd Anniversary Venue" feature="Season1" />
 	<key id="63000056" name="Summer Leaf Hill" feature="ContentsGuide03" />
 	<key id="63000057" name="Ray Event Map" feature="Season1" />
 	<key id="63000058" name="Summer Leaf Central" feature="ContentsGuide03" />
 	<key id="63000059" name="Star Sands Fishing Hole" feature="Season1" />
 	<key id="63000060" name="Rainbow Fishing Hole" feature="Season1" />
-	<key id="63000061" name="MAPNAME_63000061_NAME:[F]Season1" feature="Season1" />
-	<key id="63000062" name="MAPNAME_63000062_NAME:[F]Season1" feature="Season1" />
+	<key id="63000061" name="3rd Anniversary Festival House" feature="Season1" />
+	<key id="63000062" name="Milky Way Garden" feature="Season1" />
 	<key id="63000063" name="Within the Anomaly" feature="LapentaDungeon" />
 	<key id="63000064" name="Maple Hill" feature="Season1" />
 	<key id="63000065" name="Mon Bloody Chouchou Hotel" feature="Season1" />
@@ -1075,10 +1449,23 @@
 	<key id="63000091" name="Kritias Mapleopoly Town" feature="Event" />
 	<key id="63000092" name="Milky Way Garden" feature="Event" />
 	<key id="63000093" name="Happy Kritias" feature="Event" />
+	<key id="63000094" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="63000095" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="63000096" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="63000097" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="63000098" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="63000099" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="63000100" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="64000001" name="Glorious Arena" feature="CBT" />
+	<key id="64000002" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="64000003" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="64000004" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="64000005" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="65000001" name="Red Arena" feature="CBT" />
 	<key id="65000002" name="Crimson Tear Mine" feature="CBT" />
 	<key id="65000003" name="Treasure Island" feature="Season1" />
+	<key id="65000004" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="65000005" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="65010001" name="Woodward Square" feature="PvPRankingDuelMode" />
 	<key id="65010002" name="Driftloop Shore" feature="PvPRankingDuelMode" />
 	<key id="65010003" name="Ellin Falls" feature="PvPRankingDuelMode" />
@@ -1093,6 +1480,7 @@
 	<key id="66000002" name="(Guild) Spring Beach" feature="CBT" />
 	<key id="66000003" name="(Guild) Red Arena" feature="CBT" />
 	<key id="66000004" name="(Guild) Treasure Island" feature="CBT" />
+	<key id="66000005" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="66100001" name="Manovich Castle 1" feature="GuildHouse01" />
 	<key id="66100002" name="Moonlight Sunset Castle 2" feature="GuildHouse01" />
 	<key id="66100003" name="Moonlight Sunset Castle 3" feature="GuildHouse01" />
@@ -1110,7 +1498,10 @@
 	<key id="66100015" name="Manovich Castle 5" feature="GuildHouse01" />
 	<key id="66200001" name="(Guild) Dance, Dance, Stop" feature="GuildMinigame01" />
 	<key id="80000001" name="Fractured Ludibrium" feature="CBT" />
+	<key id="80000002" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="80000003" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="80000004" name="Money Tree Mayhem" feature="CBT" />
+	<key id="80000005" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="80000006" name="Kumbawanka&apos;s Vault" feature="CBT" />
 	<key id="80000007" name="Surnuny&apos;s Dream" feature="CBT" />
 	<key id="80000008" name="Rainbow Slime Factory" feature="CBT" />
@@ -1136,10 +1527,19 @@
 	<key id="82000001" name="Mushtopia" feature="SurvivalContents02" />
 	<key id="82000002" name="Mushtopia" feature="SurvivalContentsTeam" />
 	<key id="82000003" name="Mushtopia" feature="SurvivalContentsTeam" />
+	<key id="82000004" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="82000005" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="82000006" name="Mushtopia" feature="SurvivalContents01" />
+	<key id="82000007" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="82000008" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="82000009" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="82000010" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="82000011" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="82000012" name="Mushtopia" feature="SurvivalContents01" />
 	<key id="83000001" name="Queen&apos;s Parlor" feature="Colosseum01" />
 	<key id="83000002" name="Queen Bean Arena" feature="Colosseum01" />
+	<key id="83000003" name="Queen Bean Arena" feature="Colosseum02" />
+	<key id="84000000" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="84000001" name="Wedding Village" feature="Wedding" />
 	<key id="84000002" name="Divorce Law Firm Happy Ending" feature="Wedding" />
 	<key id="84000003" name="Heart Throb Studio" feature="Wedding" />
@@ -1147,30 +1547,97 @@
 	<key id="84000005" name="Mysterious Treasure Island" feature="Wedding" />
 	<key id="84000006" name="Wedding Pinata" feature="Wedding" />
 	<key id="84000007" name="Wedding Dance Dance Stop" feature="Wedding" />
+	<key id="84000008" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000009" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000010" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="84000011" name="Tria Amore Wedding Hall" feature="Wedding" />
 	<key id="84000012" name="Henesys Harmony Chapel" feature="Wedding" />
 	<key id="84000013" name="Ellinia Love Forest" feature="Wedding" />
 	<key id="84000014" name="Perion Vow Valley" feature="Wedding" />
 	<key id="84000015" name="Ludari Sky Castle" feature="Wedding" />
 	<key id="84000016" name="Luxury Wedding Cruise" feature="Wedding" />
+	<key id="84000017" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000018" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000019" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000020" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="84000021" name="Tria Amore Wedding Hall" feature="Wedding" />
 	<key id="84000022" name="Henesys Harmony Wedding Chapel" feature="Wedding" />
 	<key id="84000023" name="Ellinia Love Forest" feature="Wedding" />
 	<key id="84000024" name="Perion Vow Valley" feature="Wedding" />
 	<key id="84000025" name="Ludari Sky Castle" feature="Wedding" />
 	<key id="84000026" name="Luxury Wedding Cruise" feature="Wedding" />
+	<key id="84000027" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000028" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000029" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000030" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="84000031" name="Tria Amore Wedding Hall" feature="Wedding" />
 	<key id="84000032" name="Henesys Harmony Wedding Chapel" feature="Wedding" />
 	<key id="84000033" name="Ellinia Love Forest" feature="Wedding" />
 	<key id="84000034" name="Perion Vow Valley" feature="Wedding" />
 	<key id="84000035" name="Ludari Sky Castle" feature="Wedding" />
 	<key id="84000036" name="Luxury Wedding Cruise" feature="Wedding" />
+	<key id="84000037" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000038" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000039" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000040" name="Empty Map (In Planning)" feature="Develop" />
 	<key id="84000041" name="Tria Amore Wedding Hall" feature="Wedding" />
 	<key id="84000042" name="Henesys Harmony Wedding Chapel" feature="Wedding" />
 	<key id="84000043" name="Ellinia Love Forest" feature="Wedding" />
 	<key id="84000044" name="Perion Vow Valley" feature="Wedding" />
 	<key id="84000045" name="Ludari Sky Castle" feature="Wedding" />
 	<key id="84000046" name="Luxury Wedding Cruise" feature="Wedding" />
+	<key id="84000047" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000048" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000049" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="84000050" name="Empty Map (In Planning)" feature="Develop" />
+	<key id="99999840" name="# Test_840" feature="Develop" />
+	<key id="99999841" name="# Test_841" feature="Develop" />
+	<key id="99999842" name="# Test_842" feature="Develop" />
+	<key id="99999843" name="# Test_843" feature="Develop" />
+	<key id="99999844" name="# Test_844" feature="Develop" />
+	<key id="99999845" name="# Test_845" feature="Develop" />
+	<key id="99999846" name="# Test_846" feature="Develop" />
+	<key id="99999847" name="# Test_847" feature="Develop" />
+	<key id="99999848" name="# Test_848" feature="Develop" />
+	<key id="99999849" name="# Test_849" feature="Develop" />
+	<key id="99999850" name="# Test_850" feature="Develop" />
+	<key id="99999851" name="# Test_851" feature="Develop" />
+	<key id="99999852" name="# Test_852" feature="Develop" />
+	<key id="99999853" name="# Test_853" feature="Develop" />
+	<key id="99999854" name="# Test_854" feature="Develop" />
+	<key id="99999855" name="# Test_855" feature="Develop" />
+	<key id="99999856" name="# Test_856" feature="Develop" />
+	<key id="99999857" name="# Test_857" feature="Develop" />
+	<key id="99999858" name="# Test_858" feature="Develop" />
+	<key id="99999859" name="# Test_859" feature="Develop" />
+	<key id="99999860" name="# Test_860" feature="Develop" />
+	<key id="99999861" name="# Test_861" feature="Develop" />
+	<key id="99999862" name="# Test_862" feature="Develop" />
+	<key id="99999863" name="# Test_863" feature="Develop" />
+	<key id="99999864" name="# Test_864" feature="Develop" />
+	<key id="99999865" name="# Test_865" feature="Develop" />
+	<key id="99999866" name="# Test_866" feature="Develop" />
+	<key id="99999867" name="# Test_867" feature="Develop" />
+	<key id="99999868" name="# Test_868" feature="Develop" />
+	<key id="99999869" name="# Test_869" feature="Develop" />
+	<key id="99999870" name="treasure chest mechanism01" feature="Develop" />
+	<key id="99999871" name="treasure chest mechanism02" feature="Develop" />
+	<key id="99999872" name="treasure chest mechanism03" feature="Develop" />
+	<key id="99999873" name="treasure chest mechanism04" feature="Develop" />
+	<key id="99999874" name="treasure chest mechanism05" feature="Develop" />
+	<key id="99999875" name="treasure chest mechanism06" feature="Develop" />
+	<key id="99999876" name="treasure chest mechanism07" feature="Develop" />
+	<key id="99999877" name="treasure chest mechanism08" feature="Develop" />
+	<key id="99999878" name="# Test_878" feature="Develop" />
+	<key id="99999879" name="# Test_879" feature="Develop" />
+	<key id="99999880" name="# Test_880" feature="Develop" />
+	<key id="99999881" name="# Test_881" feature="Develop" />
+	<key id="99999882" name="# Test_882" feature="Develop" />
+	<key id="99999883" name="Trigger Test Room" feature="Develop" />
+	<key id="99999884" name="Dungeon Lobby Test" feature="Develop" />
+	<key id="99999885" name="# Test_885" feature="Develop" />
+	<key id="99999886" name="# Test_886" feature="Develop" />
+	<key id="99999887" name="# Test_887" feature="Develop" />
 	<key id="99999888" name="#Test_888" feature="CBT" />
 	<key id="99999889" name="#Test_889" feature="CBT" />
 	<key id="99999890" name="# ChromaKey_White" feature="CBT" />
@@ -1178,9 +1645,105 @@
 	<key id="99999892" name="# ChromaKey_Green" feature="CBT" />
 	<key id="99999893" name="# ChromaKey_Blue" feature="CBT" />
 	<key id="99999894" name="# ChromaKey_Black" feature="CBT" />
+	<key id="99999895" name="# Test 895 #" feature="Develop" />
+	<key id="99999896" name="# Test 896 #" feature="Develop" />
+	<key id="99999897" name="# Test 897 #" feature="Develop" />
+	<key id="99999898" name="# Test 898 #" feature="Develop" />
+	<key id="99999899" name="# Test 899 #" feature="Develop" />
+	<key id="99999900" name="#Trap Master Test Map #" feature="Develop" />
+	<key id="99999901" name="# Test 901 #" feature="Develop" />
+	<key id="99999902" name="# Test 902 #" feature="Develop" />
+	<key id="99999903" name="# Test 903 #" feature="Develop" />
+	<key id="99999904" name="# Test 904 #" feature="Develop" />
+	<key id="99999905" name="Pirate Island Test Map" feature="Develop" />
+	<key id="99999906" name="# Test 906 #" feature="Develop" />
+	<key id="99999907" name="# Test 907 #" feature="Develop" />
+	<key id="99999908" name="# Test 908 #" feature="Develop" />
+	<key id="99999909" name="# Test 909 #" feature="Develop" />
+	<key id="99999910" name="# Test 910 #" feature="Develop" />
+	<key id="99999911" name="# Test 911 #" feature="Develop" />
+	<key id="99999912" name="# Test 912 #" feature="Develop" />
+	<key id="99999913" name="# Test 913 #" feature="Develop" />
+	<key id="99999914" name="# Battle Skill QA #" feature="Develop" />
+	<key id="99999915" name="Video Recording (DO NOT MODIFY!)" feature="Develop" />
+	<key id="99999916" name="# planTest 916" feature="Develop" />
+	<key id="99999917" name="# planTest 917" feature="Develop" />
+	<key id="99999918" name="# planTest 918" feature="Develop" />
 	<key id="99999919" name="Guild Battle Test Map" feature="CBT" />
 	<key id="99999920" name="PvP Test Map" feature="CBT" />
+	<key id="99999921" name="# planTest 921" feature="Develop" />
+	<key id="99999922" name="# planTest 922" feature="Develop" />
+	<key id="99999923" name="# planTest 923" feature="Develop" />
+	<key id="99999924" name="# planTest 924" feature="Develop" />
+	<key id="99999925" name="# planTest 925" feature="Develop" />
+	<key id="99999926" name="# planTest 926" feature="Develop" />
+	<key id="99999927" name="# planTest 927" feature="Develop" />
+	<key id="99999928" name="# planTest 928" feature="Develop" />
+	<key id="99999929" name="# planTest 929" feature="Develop" />
+	<key id="99999930" name="# planTest 930" feature="Develop" />
+	<key id="99999931" name="# planTest 931" feature="Develop" />
+	<key id="99999932" name="# planTest 932" feature="Develop" />
+	<key id="99999933" name="# planTest 933" feature="Develop" />
+	<key id="99999934" name="Object Sound Test Map" feature="Develop" />
+	<key id="99999935" name="Monster Training Ground" feature="Develop" />
 	<key id="99999936" name="# Effect Test Map 01" feature="CBT" />
 	<key id="99999937" name="# Effect Test Map 02" feature="CBT" />
+	<key id="99999938" name="# UGC Build Test (OUTDISE) #" feature="Develop" />
+	<key id="99999939" name="# UGC Build Test (INDISE) #" feature="Develop" />
+	<key id="99999940" name="# BGTest 940" feature="Develop" />
+	<key id="99999941" name="# BGTest 941" feature="Develop" />
+	<key id="99999942" name="# BGTest 942" feature="Develop" />
+	<key id="99999943" name="# BGTest 943" feature="Develop" />
+	<key id="99999944" name="# BGTest 944" feature="Develop" />
+	<key id="99999945" name="# BGTest 945" feature="Develop" />
+	<key id="99999946" name="# BGTest 946" feature="Develop" />
+	<key id="99999947" name="# BGTest 947" feature="Develop" />
+	<key id="99999948" name="# BGTest 948" feature="Develop" />
+	<key id="99999949" name="Trigger Test Map" feature="Develop" />
+	<key id="99999950" name="PvP Room" feature="Develop" />
+	<key id="99999951" name="1vs1 Test Map B" feature="Develop" />
+	<key id="99999952" name="# BGTest 952" feature="Develop" />
+	<key id="99999953" name="# BGTest 953" feature="Develop" />
+	<key id="99999954" name="# BGTest 954 #" feature="Develop" />
+	<key id="99999955" name="# BGTest 955 #" feature="Develop" />
+	<key id="99999956" name="# BGTest 956 #" feature="Develop" />
+	<key id="99999957" name="# BGTest 957 #" feature="Develop" />
+	<key id="99999958" name="# BGTest 958 #" feature="Develop" />
+	<key id="99999959" name="# BGTest 959 #" feature="Develop" />
+	<key id="99999960" name="# BGTest 960 #" feature="Develop" />
+	<key id="99999961" name="# BGTest 961 #" feature="Develop" />
+	<key id="99999962" name="# BGTest 962 #" feature="Develop" />
+	<key id="99999963" name="# BGTest 963 #" feature="Develop" />
+	<key id="99999964" name="# BGTest 964 #" feature="Develop" />
+	<key id="99999965" name="# BGTest 965 #" feature="Develop" />
+	<key id="99999966" name="# BGTest 966 #" feature="Develop" />
+	<key id="99999967" name="# BGTest 967 #" feature="Develop" />
+	<key id="99999968" name="# BGTest 968 #" feature="Develop" />
+	<key id="99999969" name="Character Test" feature="Develop" />
 	<key id="99999970" name="# BGTest 970 #" feature="CBT" />
+	<key id="99999971" name="# BGTest 971 #" feature="Develop" />
+	<key id="99999972" name="# BGTest 972 #" feature="Develop" />
+	<key id="99999973" name="# BGTest 973 #" feature="Develop" />
+	<key id="99999974" name="# BGTest 974 #" feature="Develop" />
+	<key id="99999975" name="# BGTest 975 #" feature="Develop" />
+	<key id="99999976" name="# BGTest 976 #" feature="Develop" />
+	<key id="99999977" name="# BGTest 977 #" feature="Develop" />
+	<key id="99999978" name="Ellinia Tree Cave Layout" feature="Develop" />
+	<key id="99999979" name="# BGTest 979 #" feature="Develop" />
+	<key id="99999980" name="# BGTest 980 #" feature="Develop" />
+	<key id="99999981" name="# BGTest 981 #" feature="Develop" />
+	<key id="99999982" name="# Screenshot Capture #" feature="Develop" />
+	<key id="99999983" name="# BGTest_983 #" feature="Develop" />
+	<key id="99999984" name="# BGTest_984 #" feature="Develop" />
+	<key id="99999985" name="# BGTest_985 #" feature="Develop" />
+	<key id="99999986" name="# BGTest_986 #" feature="Develop" />
+	<key id="99999987" name="# Test_987" feature="Develop" />
+	<key id="99999988" name="# Video Capture 2 #" feature="Develop" />
+	<key id="99999989" name="# Video Capture #" feature="Develop" />
+	<key id="99999990" name="# Skill Video Background 2 #" feature="Develop" />
+	<key id="99999991" name="#DPS Test#" feature="Develop" />
+	<key id="99999992" name="# Test Field (Room) #" feature="Develop" />
+	<key id="99999993" name="# Test Field (Outdoor) #" feature="Develop" />
+	<key id="99999997" name="# Map Generation #" feature="Develop" />
+	<key id="99999999" name="Dark Well Loading Image Capture Map" feature="Develop" />
 </ms2>

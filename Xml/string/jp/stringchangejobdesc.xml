@@ -1,37 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="1010" name="大切な人々を守るために真の騎士として生まれ変わった！\n攻撃と防御のうち1つの戦闘方式を向上させることができます。" feature="JobChange_01" />
-  <key id="1011" name="&lt;font color='#FFD200'&gt;ロングソード特化&lt;/FONT&gt;\n神聖な力が宿るロングソードで敵を制圧します。" feature="JobChange_01" />
-  <key id="1012" name="&lt;font color='#FFD200'&gt;シールド特化&lt;/FONT&gt;\n神聖な力が宿る盾で味方を守ります。" feature="JobChange_01" />
-  <key id="2010" name="ついに目を覚ました怒りの神！\n巨大な武器と闇の力で敵を退治します。" feature="JobChange_01" />
-  <key id="2011" name="&lt;font color='#FFD200'&gt;武器特化&lt;/FONT&gt;\nずっしり重いラージソードを使って攻撃します。" feature="JobChange_01" />
-  <key id="2012" name="&lt;font color='#FFD200'&gt;暗黒特化&lt;/FONT&gt;\n闇の力で素早く攻撃します。" feature="JobChange_01" />
-  <key id="3010" name="食欲爆発！魔力爆発！才能爆発！\nあらゆる属性魔法を自由自在に操って敵を倒します。" feature="JobChange_01" />
-  <key id="3011" name="&lt;font color='#FFD200'&gt;電撃と冷気特化&lt;/FONT&gt;\n電撃と冷気魔法を使って攻撃します。" feature="JobChange_01" />
-  <key id="3012" name="&lt;font color='#FFD200'&gt;火炎特化&lt;/FONT&gt;\nやや遅めの強力な火炎魔法で攻撃します。" feature="JobChange_01" />
-  <key id="4010" name="命の理を極めて覚醒した生命の守護者！\n強力な神聖攻撃と回復魔法で味方をサポートします。" feature="JobChange_01" />
-  <key id="4011" name="&lt;font color='#FFD200'&gt;審判特化&lt;/FONT&gt;\n神の力を借りて敵を裁きます。" feature="JobChange_01" />
-  <key id="4012" name="&lt;font color='#FFD200'&gt;回復特化&lt;/FONT&gt;\n強力な回復効果と強化能力で味方を助けます。" feature="JobChange_01" />
-  <key id="5010" name="ハスターと出会い、新しい力を手に入れた！\n火と風を利用し、多彩な弓術を駆使します。" feature="JobChange_01" />
-  <key id="5011" name="&lt;font color='#FFD200'&gt;速射特化&lt;/FONT&gt;\n速射と爆発的な火力を用いて敵を攻撃します。" feature="JobChange_01" />
-  <key id="5012" name="&lt;font color='#FFD200'&gt;照準特化&lt;/FONT&gt;\n長い射距離と貫通矢を使って強力な一発を放ちます。" feature="JobChange_01" />
-  <key id="6010" name="天才工学者、ラペンシャードを用いた新武器の開発に成功する！\nプラズマエネルギーと各種ミサイルを使用して高い火力を出します。" feature="JobChange_01" />
-  <key id="6011" name="&lt;font color='#FFD200'&gt;ミサイル特化&lt;/FONT&gt;\n固定された場所で高火力の攻撃を繰り広げます。" feature="JobChange_01" />
-  <key id="6012" name="&lt;font color='#FFD200'&gt;プラズマ特化&lt;/FONT&gt;\nプラズマエネルギーで機動力を上げて攻撃します。" feature="JobChange_01" />
-  <key id="7010" name="復讐心に燃える力！\n爆発的な連撃と強力な猛毒を使用します。" feature="JobChange_01" />
-  <key id="7011" name="&lt;font color='#FFD200'&gt;戦闘/毒特化&lt;/FONT&gt;\n素早い連撃と強力な猛毒で敵を攻撃します。" feature="JobChange_01" />
-  <key id="7012" name="&lt;font color='#FFD200'&gt;影特化&lt;/FONT&gt;\nどんな状況でも敵を見逃さず追跡します。" feature="JobChange_01" />
-  <key id="8010" name="失われた記憶の中で覚醒したログス最強の要員！\n強力な手裏剣スキルと闇の術を用いて敵を除去します。" feature="JobChange_01" />
-  <key id="8011" name="&lt;font color='#FFD200'&gt;手裏剣特化&lt;/FONT&gt;\nログスの秘技である強力な手裏剣技を駆使します。" feature="JobChange_01" />
-  <key id="8012" name="&lt;font color='#FFD200'&gt;術法特化&lt;/FONT&gt;\n闇の術を利用して敵の息の根を止めます。" feature="JobChange_01" />
-  <key id="9010" name="テルンカリブの極意を悟った、選ばれし魔法剣士！\n魔法と剣術を組み合わせた華麗なる攻撃を繰り広げます。" feature="JobChange_01" />
-  <key id="9011" name="&lt;font color='#FFD200'&gt;剣術特化&lt;/FONT&gt;\nルーン魔法で剣術を強化し、近くにいる敵に強力な攻撃を繰り広げます。" feature="JobChange_01" />
-  <key id="9012" name="&lt;font color='#FFD200'&gt;ルーン魔法特化&lt;/FONT&gt;\n剣術を組み合わせたルーン魔法で遠くにいる対象も簡単に制圧します。" feature="JobChange_01" />
-  <key id="10010" name="新しい武術を悟った極限の格闘家！\n火炎を加えたパンチとキックで敵を撹乱します。" feature="JobChange_01" />
-  <key id="10011" name="&lt;font color='#FFD200'&gt;パンチ特化&lt;/FONT&gt;\n無差別な連続パンチで攻撃します。" feature="JobChange_01" />
-  <key id="10012" name="&lt;font color='#FFD200'&gt;キック特化&lt;/FONT&gt;\n派手な動きで敵を撹乱し、反撃して会心の一撃を食らわします。" feature="JobChange_01" />
-  <key id="11010" name="ヴィジョンとの結束力を極大化し、その力を手に入れた！\n覚醒マントラを利用して敵を攻撃し、味方をサポートします。" feature="JobChange_01" />
-  <key id="11011" name="&lt;font color='#FFD200'&gt;解放特化&lt;/FONT&gt;\nヴィジョンを実体化し、強力な範囲攻撃で敵を制圧します。" feature="JobChange_01" />
-  <key id="11012" name="&lt;font color='#FFD200'&gt;結束特化&lt;/FONT&gt;\n魂を利用して敵を攻撃するか味方を治癒します。" feature="JobChange_01" />
+	<key id="1010" name="大切な人々を守るために真の騎士として生まれ変わった！\n攻撃と防御のうち1つの戦闘方式を向上させることができます。" feature="JobChange_01" />
+	<key id="1011" name="&lt;font color=&apos;#FFD200&apos;&gt;ロングソード特化&lt;/FONT&gt;\n神聖な力が宿るロングソードで敵を制圧します。" feature="JobChange_01" />
+	<key id="1012" name="&lt;font color=&apos;#FFD200&apos;&gt;シールド特化&lt;/FONT&gt;\n神聖な力が宿る盾で味方を守ります。" feature="JobChange_01" />
+	<key id="2010" name="ついに目を覚ました怒りの神！\n巨大な武器と闇の力で敵を退治します。" feature="JobChange_01" />
+	<key id="2011" name="&lt;font color=&apos;#FFD200&apos;&gt;武器特化&lt;/FONT&gt;\nずっしり重いラージソードを使って攻撃します。" feature="JobChange_01" />
+	<key id="2012" name="&lt;font color=&apos;#FFD200&apos;&gt;暗黒特化&lt;/FONT&gt;\n闇の力で素早く攻撃します。" feature="JobChange_01" />
+	<key id="3010" name="食欲爆発！魔力爆発！才能爆発！\nあらゆる属性魔法を自由自在に操って敵を倒します。" feature="JobChange_01" />
+	<key id="3011" name="&lt;font color=&apos;#FFD200&apos;&gt;電撃と冷気特化&lt;/FONT&gt;\n電撃と冷気魔法を使って攻撃します。" feature="JobChange_01" />
+	<key id="3012" name="&lt;font color=&apos;#FFD200&apos;&gt;火炎特化&lt;/FONT&gt;\nやや遅めの強力な火炎魔法で攻撃します。" feature="JobChange_01" />
+	<key id="4010" name="命の理を極めて覚醒した生命の守護者！\n強力な神聖攻撃と回復魔法で味方をサポートします。" feature="JobChange_01" />
+	<key id="4011" name="&lt;font color=&apos;#FFD200&apos;&gt;審判特化&lt;/FONT&gt;\n神の力を借りて敵を裁きます。" feature="JobChange_01" />
+	<key id="4012" name="&lt;font color=&apos;#FFD200&apos;&gt;回復特化&lt;/FONT&gt;\n強力な回復効果と強化能力で味方を助けます。" feature="JobChange_01" />
+	<key id="5010" name="ハスターと出会い、新しい力を手に入れた！\n火と風を利用し、多彩な弓術を駆使します。" feature="JobChange_01" />
+	<key id="5011" name="&lt;font color=&apos;#FFD200&apos;&gt;速射特化&lt;/FONT&gt;\n速射と爆発的な火力を用いて敵を攻撃します。" feature="JobChange_01" />
+	<key id="5012" name="&lt;font color=&apos;#FFD200&apos;&gt;照準特化&lt;/FONT&gt;\n長い射距離と貫通矢を使って強力な一発を放ちます。" feature="JobChange_01" />
+	<key id="6010" name="天才工学者、ラペンシャードを用いた新武器の開発に成功する！\nプラズマエネルギーと各種ミサイルを使用して高い火力を出します。" feature="JobChange_01" />
+	<key id="6011" name="&lt;font color=&apos;#FFD200&apos;&gt;ミサイル特化&lt;/FONT&gt;\n固定された場所で高火力の攻撃を繰り広げます。" feature="JobChange_01" />
+	<key id="6012" name="&lt;font color=&apos;#FFD200&apos;&gt;プラズマ特化&lt;/FONT&gt;\nプラズマエネルギーで機動力を上げて攻撃します。" feature="JobChange_01" />
+	<key id="7010" name="復讐心に燃える力！\n爆発的な連撃と強力な猛毒を使用します。" feature="JobChange_01" />
+	<key id="7011" name="&lt;font color=&apos;#FFD200&apos;&gt;戦闘/毒特化&lt;/FONT&gt;\n素早い連撃と強力な猛毒で敵を攻撃します。" feature="JobChange_01" />
+	<key id="7012" name="&lt;font color=&apos;#FFD200&apos;&gt;影特化&lt;/FONT&gt;\nどんな状況でも敵を見逃さず追跡します。" feature="JobChange_01" />
+	<key id="8010" name="失われた記憶の中で覚醒したログス最強の要員！\n強力な手裏剣スキルと闇の術を用いて敵を除去します。" feature="JobChange_01" />
+	<key id="8011" name="&lt;font color=&apos;#FFD200&apos;&gt;手裏剣特化&lt;/FONT&gt;\nログスの秘技である強力な手裏剣技を駆使します。" feature="JobChange_01" />
+	<key id="8012" name="&lt;font color=&apos;#FFD200&apos;&gt;術法特化&lt;/FONT&gt;\n闇の術を利用して敵の息の根を止めます。" feature="JobChange_01" />
+	<key id="9010" name="テルンカリブの極意を悟った、選ばれし魔法剣士！\n魔法と剣術を組み合わせた華麗なる攻撃を繰り広げます。" feature="JobChange_01" />
+	<key id="9011" name="&lt;font color=&apos;#FFD200&apos;&gt;剣術特化&lt;/FONT&gt;\nルーン魔法で剣術を強化し、近くにいる敵に強力な攻撃を繰り広げます。" feature="JobChange_01" />
+	<key id="9012" name="&lt;font color=&apos;#FFD200&apos;&gt;ルーン魔法特化&lt;/FONT&gt;\n剣術を組み合わせたルーン魔法で遠くにいる対象も簡単に制圧します。" feature="JobChange_01" />
+	<key id="10010" name="新しい武術を悟った極限の格闘家！\n火炎を加えたパンチとキックで敵を撹乱します。" feature="JobChange_01" />
+	<key id="10011" name="&lt;font color=&apos;#FFD200&apos;&gt;パンチ特化&lt;/FONT&gt;\n無差別な連続パンチで攻撃します。" feature="JobChange_01" />
+	<key id="10012" name="&lt;font color=&apos;#FFD200&apos;&gt;キック特化&lt;/FONT&gt;\n派手な動きで敵を撹乱し、反撃して会心の一撃を食らわします。" feature="JobChange_01" />
+	<key id="11010" name="ヴィジョンとの結束力を極大化し、その力を手に入れた！\n覚醒マントラを利用して敵を攻撃し、味方をサポートします。" feature="JobChange_01" />
+	<key id="11011" name="&lt;font color=&apos;#FFD200&apos;&gt;解放特化&lt;/FONT&gt;\nヴィジョンを実体化し、強力な範囲攻撃で敵を制圧します。" feature="JobChange_01" />
+	<key id="11012" name="&lt;font color=&apos;#FFD200&apos;&gt;結束特化&lt;/FONT&gt;\n魂を利用して敵を攻撃するか味方を治癒します。" feature="JobChange_01" />
 </ms2>

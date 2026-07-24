@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="s_empty_string" value="" />
 	<key id="s_raw_ngs_init_error" value="NGS 실행 중 오류가 발생했습니다. ({0:08X})" />
@@ -61,7 +61,6 @@
 	<key id="s_err_dropitem_pickfail_ownership" value="내 아이템이 아닙니다." />
 	<key id="s_err_invalid_shortkey_code" value="단축키 설정이 필요합니다." />
 	<key id="s_msg_item_upgrade_disabled" value="인챈트가 불가능한 아이템입니다." />
-	<key id="s_msg_item_use_only_shadowcontinent" value="쉐도우 월드에서만 사용할 수 있습니다." />
 	<key id="s_msg_item_remove_expired_item_in_inventory" value="사용 기간이 만료된 아이템이 있습니다.\n이 탭의 아이템을 자동으로 정렬하면서 &lt;FONT color=&apos;#FFA200&apos;&gt;사용기간이 만료된 모든 아이템까지 함께 삭제&lt;/FONT&gt;하시겠습니까?" />
 	<key id="s_err_check_survival_with" value="현재 {0}탭은 사용할 수 없습니다." feature="SurvivalContents01" />
 	<key id="s_err_gender" value="성별이 달라 사용할 수 없습니다." />
@@ -69,7 +68,6 @@
 	<key id="s_word_item_notuse_hpfull" value="HP가 이미 가득 찬 상태입니다." />
 	<key id="s_word_item_notuse_spfull" value="SP가 이미 가득 찬 상태입니다." />
 	<key id="s_word_item_notuse_epfull" value="EP가 이미 가득 찬 상태입니다." />
-	<key id="s_item_err_use_low_level" value="레벨이 낮아 사용할 수 없습니다." />
 	<key id="s_item_invalid_function_item" value="사용할 수 없는 아이템 입니다." />
 	<key id="s_item_invalid_do_not_have" value="사용할 수 있는 아이템이 없습니다." />
 	<key id="s_item_invalid_function_item_this_field" value="해당 필드에서 사용할 수 없는 아이템 입니다." />
@@ -96,11 +94,14 @@
 	<key id="s_err_lack_mentor_token" value="멘토 포인트가 부족합니다." />
 	<key id="s_err_lack_mentee_token" value="멘티 포인트가 부족합니다." />
 	<key id="s_err_lack_star_point" value="별 포인트가 부족합니다." />
+	<key id="s_err_lack_guild_event_fund" value="이벤트 길드 기금이 부족합니다." />
 	<key id="s_err_not_learn_skill" value="아직 습득하지 않은 스킬입니다." />
+	<key id="s_err_not_allow_pvpField" value="전장에서는 전직 스킬을 사용 할 수 없습니다" />
 	<key id="s_item_err_code" value="시스템 오류 : 아이템. code = {0}" />
 	<key id="s_err_invalid_item" value="아이템이 존재하지 않습니다." />
 	<key id="s_err_invalid_item_cannot_buy_by_period" value="구매 가능 기간이 아닙니다." />
 	<key id="s_err_lack_shopitem" value="재고가 부족합니다." />
+	<key id="s_err_shop_expired" value="상점이 만료되었습니다." />
 	<key id="s_msg_item_upgrade_level" value="레벨 {0} 업그레이드" />
 	<key id="s_msg_item_upgrade_failed" value="주문서가 희미한 빛을 내며 사라져 버렸습니다." />
 	<key id="s_msg_item_upgrade_complete" value="주문서가 밝게 빛나더니 신비로운 힘이 전해졌습니다." />
@@ -152,10 +153,11 @@
 	<key id="s_msg_item_install_bill_board_cant_install" value="이 곳에서는 사용할 수 없습니다." />
 	<key id="s_msg_item_install_bill_board_invalid_state" value="현재는 사용할 수 없습니다." />
 	<key id="s_msg_item_auto_install_equipment" value="{0}$pp:를,을$ 자동 장착 했습니다." feature="AutoNewEquipSet" />
-	<key id="s_msg_item_open_item_box_multiopen_ok" value="열기" feature="" />
-	<key id="s_msg_item_open_item_box_multiopen_title" value="상자 여러 개 열기" feature="" />
+	<key id="s_msg_item_open_item_box_multiopen_ok" value="열기" />
+	<key id="s_msg_item_open_item_box_multiopen_title" value="상자 여러 개 열기" />
 	<key id="s_msg_item_open_blueprint" value="[{0}]을 사용하여 내 집을\n변경합니다.\n사용 후 변경점은 되돌릴 수 없습니다.\n정말[{0}]을 사용하시겠습니까?" />
 	<key id="s_notify_currency_overflow" value="{0}의 소지한도가 초과하여 초과한 {0} {1}개는 획득되지 않고 사라집니다." />
+	<key id="s_notify_currency_overflow_period" value="{0}의 주간 획득 상한 개수를 초과하여 초과한 {0} {1}개는 획득되지 않고 사라집니다." />
 	<key id="s_err_lack_guild_trophy" value="길드 트로피가 부족합니다." />
 	<key id="s_err_lack_guild_require_date" value="길드에 가입한 뒤 7일 후부터 구매할 수 있습니다." />
 	<key id="s_err_lack_guild_master" value="길드장만 구입할 수 있습니다." />
@@ -778,15 +780,18 @@
 	<key id="s_guild_ui_skill_require_level" value="{0}레벨" />
 	<key id="s_guild_ui_event_max_user_count" value="최대 인원 {0}명" />
 	<key id="s_guild_ui_info_guild_exp" value="길드 경험치 {0} / {1}" />
+	<key id="s_guild_ui_info_guild_exp_event" value="획득시 경험치 &lt;FONT color=&apos;#FF4040&apos;&gt;x{0}배&lt;/FONT&gt;\n길드 경험치 {1} / {2}" />
 	<key id="s_guild_ui_info_guild_exp_max" value="길드 경험치 MAX" />
 	<key id="s_guild_ui_info_guild_exp_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;길드 경험치&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n- 출석 시 획득\n- 미니 게임 대전 참여 시 획득\n- 길드 퀘스트 완료 시 획득\n" />
 	<key id="s_guild_ui_info_guild_fund_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;길드 기금\n최대금액: {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n길드 레벨이 2, 5, 8, 11, 15에 도달 시 길드 기금 최대치가 증가합니다.\n\n- 출석 시 획득\n- 기부 시 획득\n- 미니 게임 대전 참여 시 획득\n- 길드 퀘스트 완료 시 획득\n" />
 	<key id="s_guild_ui_info_guild_raid_tooltip" value="- 길드 레이드 클리어 시 획득" />
 	<key id="s_guild_ui_search_search_name" value="검색할 이름을 입력하세요." />
 	<key id="s_guild_ui_skill_use_skill" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_icon_guild_fund&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; 스킬을 사용하시겠습니까?\n\n※ 길드 기금 금액과 버프 종류를 꼭 확인해주세요.&lt;/p&gt;" />
+	<key id="s_guild_ui_skill_use_skill_event" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_item_90000026&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; 스킬을 사용하시겠습니까?\n\n※ 길드 기금 금액과 버프 종류를 꼭 확인해주세요.&lt;/p&gt;" />
 	<key id="s_guild_ui_skill_use_personal_skill" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; 스킬을 사용하시겠습니까?\n\n※ 사용 시 메소가 소비됩니다." />
 	<key id="s_guild_ui_skill_use_skill_term_agree" value="주의 사항을 충분히 읽고 확인했습니다." />
 	<key id="s_guild_ui_skill_upgrade_popup" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_icon_guild_fund&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여\n&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; 스킬을 &lt;FONT color=&apos;#FFA200&apos;&gt;레벨 {2}&lt;/FONT&gt; 스킬로\n업그레이드를 진행하시겠습니까?" />
+	<key id="s_guild_ui_event_skill_upgrade_popup" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_item_90000026&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여\n&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; 스킬을 &lt;FONT color=&apos;#FFA200&apos;&gt;레벨 {2}&lt;/FONT&gt; 스킬로\n업그레이드를 진행하시겠습니까?" />
 	<key id="s_guild_ui_house_upgrade_upgrade" value="업그레이드\n{0} &lt;Img Src=&apos;export_icon_guild_fund&apos; vspace=&apos;-6&apos;&gt;&lt;/Img&gt;" />
 	<key id="s_guild_ui_house_change_theme" value="테마 변경\n{0} &lt;Img Src=&apos;export_icon_guild_fund&apos; vspace=&apos;-6&apos;&gt;&lt;/Img&gt;" />
 	<key id="s_guild_ui_house_use_upgrade" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_icon_guild_fund&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 &lt;FONT color=&apos;#FFA200&apos;&gt;{2}&lt;/FONT&gt; 테마로 업그레이드 하시겠습니까?" />
@@ -844,6 +849,7 @@
 	<key id="s_guild_err_fail_this_field" value="대상이 초대 받을 수 없는 위치에 있습니다." />
 	<key id="s_guild_err_not_enough_guild_level" value="길드 레벨이 부족합니다." />
 	<key id="s_guild_err_not_enough_guild_fund" value="길드 기금이 부족합니다." />
+	<key id="s_guild_err_not_enough_guild_event_fund" value="길드 이벤트 기금이 부족합니다." />
 	<key id="s_guild_err_cannot_use_skill" value="지금은 길드 스킬을 사용할 수 없습니다." />
 	<key id="s_guild_err_cannot_open_event_create_date" value="길드를 생성한지 24시간 이후에 사용할 수 있습니다." />
 	<key id="s_guild_err_too_short_to_search" value="최소 2글자 이상 입력해주세요." />
@@ -966,10 +972,11 @@
 	<key id="s_admin_block_velma_ugc_endtime_dec" value="벨마의 경고 시간이 {0}초 줄어들었습니다." />
 	<key id="s_admin_block_velma_ugc_msgbox_title" value="벨마의 경고 안내" />
 	<key id="s_admin_block_velma_ugc_msgbox_content" value="벨마의 경고로 기능이 제한된 상태입니다.\n\n[제재기간]\n{0:04d}년 {1}월 {2}일 {3:02d}시 {4:02d}분 {5:02d}초 ~ {6:04d}년 {7}월 {8}일 {9:02d}시 {10:02d}분 {11:02d}초\n\n[제재사유]\n{12}" />
+	<key id="s_admin_block_cash_out" value="잠깐! 평소와 다른 활동이 탐지되었어요.\n소중한 아이템을 보호하기 위해 선물하기와 아이템 거래를 잠시 막아두었습니다.\n{0:02d}/{1:02d}부터 다시 이용하실 수 있습니다." />
 	<key id="s_admin_block_create_guild_msgbox_title" value="길드 생성 제한 안내" />
 	<key id="s_admin_block_create_guild_msgbox_content" value="길드 생성이 제한된 상태입니다.\n\n[제재기간]\n{0:04d}년 {1}월 {2}일 {3:02d}시 {4:02d}분 {5:02d}초 ~ {6:04d}년 {7}월 {8}일 {9:02d}시 {10:02d}분 {11:02d}초\n\n[제재사유]\n{12}" />
 	<key id="s_admin_block_transfer_msgbox_title_kr" value="거래 제한 안내" locale="KR" />
-	<key id="s_admin_block_transfer_msgbox_content_kr" value='모험가님의 계정을 계정도용피해 등으로부터\n보호하기 위해 &quot;거래제한&quot; 조치가 적용되었습니다.\n\n본인인증 후 정상적으로 거래하실 수 있습니다.\n본인인증이 어렵다면 고객센터로 문의 부탁드립니다.\n본인인증을 진행하시겠습니까?' locale="KR" />
+	<key id="s_admin_block_transfer_msgbox_content_kr" value="모험가님의 계정을 계정도용피해 등으로부터\n보호하기 위해 &quot;거래제한&quot; 조치가 적용되었습니다.\n\n본인인증 후 정상적으로 거래하실 수 있습니다.\n본인인증이 어렵다면 고객센터로 문의 부탁드립니다.\n본인인증을 진행하시겠습니까?" locale="KR" />
 	<key id="s_admin_block_transfer_msgbox_title" value="거래 제한 안내" />
 	<key id="s_admin_block_transfer_msgbox_content" value="거래가 제한된 상태입니다.\n\n[제재기간]\n{0:04d}년 {1}월 {2}일 {3:02d}시 {4:02d}분 {5:02d}초 ~ {6:04d}년 {7}월 {8}일 {9:02d}시 {10:02d}분 {11:02d}초\n\n[제재사유]\n{12}" />
 	<key id="s_admin_block_login" value="로그인이 제한된 상태입니다." />
@@ -995,8 +1002,10 @@
 	<key id="s_gamehelper_voice_chat_enter" value="음성 채팅 방에 입장하셨습니다." />
 	<key id="s_gamehelper_voice_chat_leave" value="음성 채팅 방에서 퇴장하셨습니다." />
 	<key id="s_buddy_confirm_ban_somebody" value="{0} 님을 차단 하시겠습니까?" />
+	<key id="s_buddy_confirm_homeblock_somebody" value="{0} 님을 내 집에서 차단 하시겠습니까?" />
 	<key id="s_buddy_confirm_del_somebody_from_list" value="{0} 님을 친구 목록에서 삭제하시겠습니까?" />
 	<key id="s_buddy_confirm_del_somebody_from_banlist" value="{0} 님을 차단 목록에서 삭제하시겠습니까?" />
+	<key id="s_buddy_confirm_del_somebody_from_homeblocklist" value="{0} 님을 차단 목록에서 삭제하시겠습니까?" />
 	<key id="s_login_err_connect" value="접속할 수 없습니다.\n(code = {0})" />
 	<key id="s_login_err_disconnected" value="서버와 연결이 끊어졌습니다.\n({0})" />
 	<key id="s_notice_bypass" value="서버와 연결이 끊어졌습니다.\n({0})\n다시 접속하시겠습니까?" />
@@ -1094,8 +1103,6 @@
 	<key id="s_ugc_upload_ok_banner_sch" value="전광판을 예약했습니다." />
 	<key id="s_ugc_upload_ok_banner" value="벽보를 등록했습니다." />
 	<key id="s_ugc_upload_must_profile" value="아이템을 더블 클릭해서 이미지를 재등록해주세요. " feature="Blueprint" />
-	<key id="s_myhouse_address_with_room" value="{0} {1}동 {2}호" />
-	<key id="s_myhouse_name_with_room" value="{0}동 {1}호 {2}" />
 	<key id="s_ugc_confirm_destroy_bank" value="보관된 아이템은 소지품으로 이동됩니다.\n보관함을 회수하시겠습니까?" />
 	<key id="s_ugc_confirm_destroy_fittingdoll" value="마네킹에 장착된 아이템은 소지품으로 이동되거나 별도 우편으로 발송해 드립니다.\n마네킹을 회수하시겠습니까?" />
 	<key id="s_ugc_confirm_destroy_fittingdoll_v2" value="마네킹에 장착된 아이템은 소지품으로 이동되거나 별도 우편으로 발송해 드립니다.\n마네킹에 장착된 아이템 중 삭제된 캐릭터에 귀속된 아이템은 삭제됩니다.\n마네킹을 회수하시겠습니까?" />
@@ -1209,11 +1216,13 @@
 	<key id="s_char_err_meso_market_count" value="블랙마켓에 등록된 메소가 있어, 캐릭터를 삭제할 수 없습니다." />
 	<key id="s_char_err_next_delete_char_date" value="캐릭터를 삭제할 수 없습니다.\n{0}에 캐릭터 삭제 가능합니다." comment="{0}: 2018-01-00 00:00:00 시간 포맷" />
 	<key id="s_char_err_wedding" value="약혼, 결혼, 이혼 조정 중 상태인 캐릭터는 삭제할 수 없습니다." feature="Wedding" />
+	<key id="s_char_err_shutdown" value="친애하는 유저분께:\n죄송합니다. 게임의 서비스 종료로 귀하의 권익에 영향을 미치지 않도록 더 이상 새로운 캐릭터 생성 기능을 사용할 수 없습니다.\n너그러운 양해를 구합니다." locale="CN" />
 	<key id="s_msg_admin_input_accountsn" value="접속할 accountsn을 입력해 주세요." />
 	<key id="s_beauty_skin_name" value="피부 변경" />
 	<key id="s_beauty_notice_hide_cap_by_transp_badge" value="투명 배지로 모자를 가린 상태입니다." />
 	<key id="s_beauty_msg_back_game_no_save" value="변경 사항을 &lt;FONT color=&apos;#FF5F5F&apos;&gt;저장하지 않고&lt;/FONT&gt;\n게임으로 돌아갑니다." />
 	<key id="s_beauty_msg_error_code" value="시스템 오류가 발생했습니다. code = {0}\n게임으로 돌아갑니다." />
+	<key id="s_beauty_msg_error_product_expired" value="판매 상품이 변경되었습니다.\n다시 시도해주세요." />
 	<key id="s_beauty_tooltip_price" value="{0}\n{1}" />
 	<key id="s_beauty_tooltip_price_with_requirelevel" value="{0}\n{1} 레벨 이상\n{2}" comment="{0}:아이템 이름, {1}:레벨 제한, {2}:가격" />
 	<key id="s_beauty_tooltip_price_with_achieve" value="{0}\n&lt;FONT color=&apos;#FF0000&apos;&gt;{1}&lt;/FONT&gt;\n{2}" comment="{0}:아이템 이름, {1}:트로피제한, {2}:가격" />
@@ -1296,6 +1305,7 @@
 	<key id="s_login_err_main_atl" value="현재 서비스는 본인확인된 회원에 한하여 서비스 이용이 가능합니다." />
 	<key id="s_login_err_auto_external_block" value="고객님의 계정은 구계정입니다.\n구계정은 최초 1회 본인 인증이 필요합니다.\n\n본인인증 후, 정상적으로 게임 이용이 가능하십니다." />
 	<key id="s_login_err_tencent_signature" value="게임 인증에 실패했습니다.\n게임을 다시 실행해 주세요." />
+	<key id="s_login_err_create_account_block" value="서비스 종료가 예정되어\n신규 계정은 더 이상 생성할 수 없습니다." />
 	<key id="s_login_err_nxa_ticket" value="게임 인증에 실패했습니다.\n게임을 다시 실행해 주세요." />
 	<key id="s_login_err_nxa_launcher" value="런처가 정상 실행 중이고, 로그인 상태인지 확인해 주세요." />
 	<key id="s_ah_err_close" value="서버와 연결이 끊어졌습니다.\n({0}{1})" />
@@ -1380,11 +1390,11 @@
 	<key id="s_char_info_codi_tab_period_fmt" value="이용 가능 기간:{0}" feature="Skin2tab" />
 	<key id="s_char_info_codi_tab_expired" value="이용 기간 만료" feature="Skin2tab" />
 	<key id="s_change_charname_disconnect" value="캐릭터 이름이 변경되었습니다.\n적용을 위해 접속을 종료합니다." />
-	<key id="s_change_charname_confirm" value='캐릭터 이름을 변경하시겠습니까?\n이름이 변경되면 접속이 종료됩니다.\n\n기존 이름 : &quot;{0}&quot;\n변경할 이름 : &quot;{1}&quot;\n' />
-	<key id="s_change_charname_err_bad_words" value='&quot;{0}&quot;에 부적절한 단어가 포함돼 있습니다.\n다른 캐릭터 이름을 입력해주세요.' />
-	<key id="s_change_charname_err_already_taken" value='&quot;{0}&quot; 이름은 이미 사용 중입니다.' />
+	<key id="s_change_charname_confirm" value="캐릭터 이름을 변경하시겠습니까?\n이름이 변경되면 접속이 종료됩니다.\n\n기존 이름 : &quot;{0}&quot;\n변경할 이름 : &quot;{1}&quot;\n" />
+	<key id="s_change_charname_err_bad_words" value="&quot;{0}&quot;에 부적절한 단어가 포함돼 있습니다.\n다른 캐릭터 이름을 입력해주세요." />
+	<key id="s_change_charname_err_already_taken" value="&quot;{0}&quot; 이름은 이미 사용 중입니다." />
 	<key id="s_change_charname_err_consume_item" value="캐릭터 이름 변경권 사용 중 오류가 발생하였습니다." />
-	<key id="s_change_charname_err_system" value='캐릭터명을 &quot;{0}&quot;으로 변경하는 도중 오류가 발생하였습니다(code={1}).\n잠시 후 다시 시도해주세요.' />
+	<key id="s_change_charname_err_system" value="캐릭터명을 &quot;{0}&quot;으로 변경하는 도중 오류가 발생하였습니다(code={1}).\n잠시 후 다시 시도해주세요." />
 	<key id="s_npc_normal" value="일반" />
 	<key id="s_npc_leader" value="리더" />
 	<key id="s_npc_named" value="엘리트" />
@@ -1545,9 +1555,6 @@
 	<key id="s_item_opt_sa_improve_acquire_questreward_exp" value="퀘스트 완료 시 얻는 경험치 증가" />
 	<key id="s_item_opt_sa_improve_acquire_questreward_exp_v" value="퀘스트 완료 시 얻는 경험치 {0} 증가" />
 	<key id="s_item_opt_sa_improve_acquire_questreward_exp_r" value="퀘스트 완료 시 얻는 경험치 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_improve_acquire_questreward_meso" value="퀘스트 완료 시 얻는 메소 증가" />
-	<key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="퀘스트 완료 시 얻는 메소 {0:d} 증가" />
-	<key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="퀘스트 완료 시 얻는 메소 {0:0.1f}% 증가" />
 	<key id="s_item_opt_sa_improve_npckill_dropitem_incrate" value="처치 시 얻는 아이템 드랍 확률 증가" />
 	<key id="s_item_opt_sa_improve_npckill_dropitem_incrate_v" value="처치 시 얻는 아이템 드랍 확률 {0:d} 증가" />
 	<key id="s_item_opt_sa_improve_npckill_dropitem_incrate_r" value="처치 시 얻는 아이템 드랍 확률 {0:0.1f}% 증가" />
@@ -1557,9 +1564,6 @@
 	<key id="s_item_opt_sa_improve_speed_dash" value="대쉬 거리 증가" />
 	<key id="s_item_opt_sa_improve_speed_dash_v" value="대쉬 거리 증가 {0:d}" />
 	<key id="s_item_opt_sa_improve_speed_dash_r" value="대쉬 거리 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_improve_acquire_potion" value="물약 발견 확률 증가" />
-	<key id="s_item_opt_sa_improve_acquire_potion_v" value="물약 발견 확률 증가 {0:d}" />
-	<key id="s_item_opt_sa_improve_acquire_potion_r" value="물약 발견 확률 {0:0.1f}% 증가" />
 	<key id="s_item_opt_sa_improve_acquire_equipment" value="장비 발견 확률 증가" />
 	<key id="s_item_opt_sa_improve_acquire_equipment_v" value="장비 발견 확률 {0:d} 증가" />
 	<key id="s_item_opt_sa_improve_acquire_equipment_r" value="장비 발견 확률 {0:0.1f}% 증가" />
@@ -1569,9 +1573,6 @@
 	<key id="s_item_opt_sa_improve_damage_normalNpc" value="일반 몬스터 공격 시 대미지 증가" />
 	<key id="s_item_opt_sa_improve_damage_normalNpc_v" value="일반 몬스터 공격 시 대미지 증가 {0:d}" />
 	<key id="s_item_opt_sa_improve_damage_normalNpc_r" value="일반 몬스터 공격 시 대미지 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_improve_damage_leaderNpc" value="리더 몬스터 공격 시 대미지 증가" />
-	<key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="리더 몬스터 공격 시 대미지 증가 {0:d}" />
-	<key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="리더 몬스터 공격 시 대미지 {0:0.1f}% 증가" />
 	<key id="s_item_opt_sa_improve_damage_namedNpc" value="엘리트 몬스터 공격 시 대미지 증가" />
 	<key id="s_item_opt_sa_improve_damage_namedNpc_v" value="엘리트 몬스터 공격 시 대미지 증가 {0:d}" />
 	<key id="s_item_opt_sa_improve_damage_namedNpc_r" value="엘리트 몬스터 공격 시 대미지 {0:0.1f}% 증가" />
@@ -1770,9 +1771,7 @@
 	<key id="s_item_opt_sa_skill_levelup_tier_13" value="40레벨 습득 스킬 레벨 증가" />
 	<key id="s_item_opt_sa_skill_levelup_tier_14" value="43레벨 습득 스킬 레벨 증가" />
 	<key id="s_item_opt_sa_skill_levelup_tier_v" value="{0} : {1}Lv +{2}" />
-	<key id="s_item_opt_sa_skill_levelup_tier_r" value="{0} : {1}Lv +{2}" />
 	<key id="s_item_opt_sa_skill_levelup_tier_v_active" value="&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;" />
-	<key id="s_item_opt_sa_skill_levelup_tier_r_active" value="&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;" />
 	<key id="s_item_opt_sa_improve_massive_ox_exp" value="메이플 OX 퀴즈쇼 경험치 증가" />
 	<key id="s_item_opt_sa_improve_massive_ox_exp_v" value="메이플 OX 퀴즈쇼 경험치 {0} 증가" />
 	<key id="s_item_opt_sa_improve_massive_ox_exp_r" value="메이플 OX 퀴즈쇼 경험치 {0:0.1f}% 증가" />
@@ -1854,45 +1853,12 @@
 	<key id="s_item_opt_sa_improve_glide_vertical_velocity" value="비행 탈것 상승 속도 증가" />
 	<key id="s_item_opt_sa_improve_glide_vertical_velocity_v" value="비행 탈것 상승 속도 {0} 증가" />
 	<key id="s_item_opt_sa_improve_glide_vertical_velocity_r" value="비행 탈것 상승 속도 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000018" value="수정중" />
-	<key id="s_item_opt_sa_additionaleffect_95000018_v" value="수정중 {0} lv" />
-	<key id="s_item_opt_sa_additionaleffect_95000018_r" value="수정중 {0:0.1f}%" />
 	<key id="s_item_opt_sa_additionaleffect_95000012" value="타격 시 대상 방어력 약화 효과" />
 	<key id="s_item_opt_sa_additionaleffect_95000012_v" value="타격 시 대상 방어력 약화 효과 - 레벨 {0}" />
 	<key id="s_item_opt_sa_additionaleffect_95000012_r" value="타격 시 대상 방어력 약화 효과 - 레벨 {0:0.1f}%" />
 	<key id="s_item_opt_sa_additionaleffect_95000014" value="타격 시 대상 공격력 약화 효과" />
 	<key id="s_item_opt_sa_additionaleffect_95000014_v" value="타격 시 대상 공격력 약화 효과 - 레벨 {0}" />
 	<key id="s_item_opt_sa_additionaleffect_95000014_r" value="타격 시 대상 공격력 약화 효과 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000020" value="5m 이내 적이 1명인 경우 총 대미지 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000020_v" value="5m 이내 적이 1명인 경우 총 대미지 증가 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000020_r" value="5m 이내 적이 1명인 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000021" value="5m 이내 적이 3명 이상인 경우 총 대미지 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000021_v" value="5m 이내 적이 3명 이상인 경우 총 대미지 증가 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000021_r" value="5m 이내 적이 3명 이상인 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000022" value="SP가 80 이상인 경우 총 대미지 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000022_v" value="SP가 80 이상인 경우 총 대미지 증가 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000022_r" value="SP가 80 이상인 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000023" value="EP가 가득 찬 경우 총 대미지 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000023_v" value="EP가 가득 찬 경우 총 대미지 증가 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000023_r" value="EP가 가득 찬 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000024" value="약초류 효과가 유지되는 동안 총 대미지 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000024_v" value="약초류 효과가 유지되는 동안 총 대미지 증가 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000024_r" value="약초류 효과가 유지되는 동안 총 대미지 증가 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000025" value="필드 보스 타격 시 대미지 증가" />
-	<key id="s_item_opt_sa_additionaleffect_95000025_v" value="필드 보스 타격 시 대미지 증가 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000025_r" value="필드 보스 타격 시 대미지 증가 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000026" value="95000026" />
-	<key id="s_item_opt_sa_additionaleffect_95000026_v" value="95000026 {0} lv" />
-	<key id="s_item_opt_sa_additionaleffect_95000026_r" value="95000026 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000027" value="95000027" />
-	<key id="s_item_opt_sa_additionaleffect_95000027_v" value="95000027 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000027_r" value="95000027 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000028" value="95000028" />
-	<key id="s_item_opt_sa_additionaleffect_95000028_v" value="95000028 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000028_r" value="95000028 - 레벨 {0:0.1f}%" />
-	<key id="s_item_opt_sa_additionaleffect_95000029" value="95000029" />
-	<key id="s_item_opt_sa_additionaleffect_95000029_v" value="95000029 - 레벨 {0}" />
-	<key id="s_item_opt_sa_additionaleffect_95000029_r" value="95000029 - 레벨 {0:0.1f}%" />
 	<key id="s_item_opt_sa_reduce_recovery_ep_inv" value="EP 회복 주기 감소" />
 	<key id="s_item_opt_sa_reduce_recovery_ep_inv_v" value="EP 회복 주기 {0} 감소" />
 	<key id="s_item_opt_sa_reduce_recovery_ep_inv_r" value="EP 회복 주기 {0:0.1f}% 감소" />
@@ -1962,15 +1928,6 @@
 	<key id="s_item_opt_sa_improve_recovery_ball" value="EP, SP 구슬 회복량 증가" />
 	<key id="s_item_opt_sa_improve_recovery_ball_v" value="EP, SP 구슬 회복량 {0} 증가" />
 	<key id="s_item_opt_sa_improve_recovery_ball_r" value="EP, SP 구슬 회복량 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_improve_fieldboss_kill_exp" value="필드 보스 처치 시 경험치 증가" />
-	<key id="s_item_opt_sa_improve_fieldboss_kill_exp_v" value="필드 보스 처치 시 경험치 {0} 증가" />
-	<key id="s_item_opt_sa_improve_fieldboss_kill_exp_r" value="필드 보스 처치 시 경험치 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_improve_fieldboss_kill_drop" value="필드 보스 처치 시 아이템 드랍확률 증가" />
-	<key id="s_item_opt_sa_improve_fieldboss_kill_drop_v" value="필드 보스 처치 시 아이템 드랍확률 {0} 증가" />
-	<key id="s_item_opt_sa_improve_fieldboss_kill_drop_r" value="필드 보스 처치 시 아이템 드랍확률 {0:0.1f}% 증가" />
-	<key id="s_item_opt_sa_reduce_fieldboss_recive_damage" value="필드 보스에게 피격 시 대미지 감소" />
-	<key id="s_item_opt_sa_reduce_fieldboss_recive_damage_v" value="필드 보스에게 피격 시 대미지 {0} 감소" />
-	<key id="s_item_opt_sa_reduce_fieldboss_recive_damage_r" value="필드 보스에게 피격 시 대미지 {0:0.1f}% 감소" />
 	<key id="s_item_opt_sa_additionaleffect_95000016" value="95000016" />
 	<key id="s_item_opt_sa_additionaleffect_95000016_v" value="95000029 - 레벨 {0}" />
 	<key id="s_item_opt_sa_additionaleffect_95000016_r" value="95000029 - 레벨 {0:0.1f}%" />
@@ -2013,9 +1970,6 @@
 	<key id="s_item_opt_sa_reduce_airtaxi_fee" value="" />
 	<key id="s_item_opt_sa_reduce_airtaxi_fee_v" value="" />
 	<key id="s_item_opt_sa_reduce_airtaxi_fee_r" value="" />
-	<key id="s_item_opt_sa_improve_socket_unlock_probability" value="" />
-	<key id="s_item_opt_sa_improve_socket_unlock_probability_v" value="" />
-	<key id="s_item_opt_sa_improve_socket_unlock_probability_r" value="" />
 	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee" value="" />
 	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee_v" value="" />
 	<key id="s_item_opt_sa_reduce_gemstone_upgrade_fee_r" value="" />
@@ -2028,7 +1982,6 @@
 	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee" value="" />
 	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee_v" value="" />
 	<key id="s_item_opt_sa_reduce_gameitem_socket_unlock_fee_r" value="" />
-	<key id="s_item_opt_has_additional_effect" value="{0}" />
 	<key id="s_item_tooltip_icon_code_param2" value="{0} {1}" comment="{0}:ItemRank {1}:ItemType" />
 	<key id="s_item_tooltip_icon_code_param3" value="{0} {1} {2}" comment="{0}:ItemRank {1}:Etc(designed,Cash ..) {2}:ItemType" />
 	<key id="s_word_iconcode_none" value="알수없음" />
@@ -2086,7 +2039,7 @@
 	<key id="s_word_iconcode_lapenshard_red" value="레드 라펜샤드" feature="Lapenshard01" />
 	<key id="s_word_iconcode_lapenshard_blue" value="블루 라펜샤드" feature="Lapenshard01" />
 	<key id="s_word_iconcode_lapenshard_green" value="그린 라펜샤드" feature="Lapenshard01" />
-	<key id="s_word_iconcode_capsule" value="캡슐" feature="" />
+	<key id="s_word_iconcode_capsule" value="캡슐" />
 	<key id="s_word_rank_no" value="등급 설정 안한 아이템" />
 	<key id="s_word_rank_01" value="노멀" />
 	<key id="s_word_rank_02" value="레어" />
@@ -2137,7 +2090,6 @@
 	<key id="s_word_item_limit_bind_get" value="획득 시 캐릭터 귀속" />
 	<key id="s_word_item_limit_bind_equip" value="착용 시 캐릭터 귀속" />
 	<key id="s_word_item_limit_bind_use" value="사용 시 캐릭터 귀속" />
-	<key id="s_word_item_limit_bind_trade" value="거래 시 캐릭터 귀속" />
 	<key id="s_word_item_limit_bind_pet" value="펫 소환, 성장, 능력 변경 시 캐릭터 귀속" />
 	<key id="s_word_item_limit_vip" value="프리미엄 클럽 전용 아이템" />
 	<key id="s_word_item_limit_wedding" value="웨딩 전용 아이템" />
@@ -2148,7 +2100,6 @@
 	<key id="s_word_skill" value="스킬" />
 	<key id="s_word_skill_active" value="액티브" />
 	<key id="s_word_skill_passive" value="패시브" />
-	<key id="s_word_skill_move" value="액션" />
 	<key id="s_word_cooltime" value="쿨타임 {0}초" />
 	<key id="s_word_needs" value="필요 무기 : {0}" />
 	<key id="s_word_enable_jobs" value="직업 : {0}" />
@@ -2182,7 +2133,6 @@
 	<key id="s_word_element_darkness" value="암흑" />
 	<key id="s_word_element_poison" value="독" />
 	<key id="s_word_item_damage" value="&lt;FONT color=&apos;#FF0000&apos;&gt;{0}동안 인챈트 불가&lt;/FONT&gt;" />
-	<key id="s_word_item_stat_zero" value="1 미만" />
 	<key id="s_word_unuse" value="사용안함" />
 	<key id="s_word_learn_require_condition" value="[습득 조건]" />
 	<key id="s_word_require_skill_level" value="{0} 레벨 {1} 이상" />
@@ -2218,6 +2168,7 @@
 	<key id="s_msg_rclick_item_merge_revert" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 초월 옵션을 제거할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_rclick_item_extraction" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 아이템 외형을 추출할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_rclick_pet_extraction" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 아이템 외형을 추출할 수 있습니다.&lt;/FONT&gt;" />
+	<key id="s_msg_rclick_puton_leadskill" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;우클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 리드스킬을 장착할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_dclick_usable" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;더블클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 사용할 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_dclick_readable" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;더블클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 읽을 수 있습니다.&lt;/FONT&gt;" />
 	<key id="s_msg_dclick_open_shop" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;마우스 &lt;FONT color=&apos;#FFD200&apos;&gt;더블클릭&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;으로 상점을 열 수 있습니다.&lt;/FONT&gt;" />
@@ -2282,6 +2233,7 @@
 	<key id="s_buddy_format_mapuser_count" value="{0}\n접속자 수: {1}명" />
 	<key id="s_buddy_format_recv_count" value="받은 요청: {0}명" />
 	<key id="s_buddy_format_ban_count" value="차단한 사람: {0}명" />
+	<key id="s_buddy_format_homeblock_count" value="내 집 차단한 사람: {0}명" />
 	<key id="s_buddy_format_buddy_count" value="접속한 친구: &lt;FONT color=&apos;#00A2ED&apos;&gt;{0}&lt;/FONT&gt; / {1}명" />
 	<key id="s_buddy_err_miss_id" value="잘못된 대상입니다." />
 	<key id="s_buddy_err_empty_id" value="캐릭터 이름을 입력해 주세요." />
@@ -2299,6 +2251,16 @@
 	<key id="s_buddy_err_my_id_ex" value="자기 자신을 추가할 수 없습니다." />
 	<key id="s_buddy_err_already_request_somebody" value="{0} 님에게 이미 친구 요청한 상태입니다." />
 	<key id="s_buddy_err_already_receive_from_this_char" value="이미 나에게 친구 요청을 한 캐릭터입니다.\n친구 창을 확인하세요." />
+	<key id="s_home_block_somebody" value="{0} 님을 내 집에서 차단했습니다." />
+	<key id="s_home_block_del_somebody_from_banlist" value="{0} 님이 내 집 차단 목록에서 삭제됐습니다." />
+	<key id="s_home_block_memo_complete" value="{0} 님에 대한 차단 메모를 편집했습니다." />
+	<key id="s_home_block_err_unknown" value="요청을 수행할 수 없습니다." />
+	<key id="s_home_block_err_no_user" value="잘못된 대상입니다." />
+	<key id="s_home_block_err_self_block" value="자기 자신을 차단할 수 없습니다." />
+	<key id="s_home_block_err_already_block" value="이미 차단한 유저입니다." />
+	<key id="s_home_block_err_max_block" value="더 이상 차단할 수 없습니다." />
+	<key id="s_home_block_err_enterance_block" value="상대방의 집 차단목록에 추가되어 입장할 수 없습니다." />
+	<key id="s_home_block_err_kick" value="상대방의 집 차단목록에 추가되어 강제 퇴장되었습니다." />
 	<key id="s_msg_crystal_upgrade_empty" value="업그레이드 할 수 있는 크리스탈이 없습니다." />
 	<key id="s_msg_crystal_upgrade_disabled" value="강화 할 수 있는 크리스탈이 아닙니다." />
 	<key id="s_msg_crystal_upgrade_complete" value="강화가 완료됐습니다." />
@@ -2327,11 +2289,6 @@
 	<key id="s_msg_transfer_bind_when_equip" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;착용 시 {0}에게 귀속됩니다.&lt;/FONT&gt;\n거래 가능 횟수가 남은 경우도 거래 불가로 변경됩니다.\n\n착용하시겠습니까?" />
 	<key id="s_msg_transfer_bind_when_transform" value="착용 시 귀속되는 아이템이 갈아입기에 포함되어 있습니다. \n착용하시겠습니까?" />
 	<key id="s_msg_skillbook_learn_messagebox" value="스킬을 배우시겠습니까?" />
-	<key id="s_msg_skillbook_learn_notexistslot" value="비어있는 보조 스킬 슬롯이 없어서 배울 수 없습니다." />
-	<key id="s_msg_skillbook_error_job" value="직업이 달라 배울 수 없습니다." />
-	<key id="s_msg_skillbook_error_level" value="아직 배울 수 있는 레벨이 아닙니다." />
-	<key id="s_msg_skillbook_error_master" value="이미 배운 스킬입니다." />
-	<key id="s_msg_skillbook_error_expired" value="만료된 아이템입니다." />
 	<key id="s_msg_skillbook_reset_desc" value="스킬을 초기화하시겠습니까?\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;[현재 탭에 분배한 스킬 포인트를 회수합니다.]&lt;/FONT&gt;" />
 	<key id="s_msg_skillbook_apply_skill" value="스킬을 저장했습니다." />
 	<key id="s_msg_skillbook_auto_distribute_skill" value="자동 분배를 완료했습니다." />
@@ -2648,6 +2605,7 @@
 	<key id="s_ugc_itemedit_error_invalid_design" value="잘못된 디자인 아이템입니다." />
 	<key id="s_ugc_itemedit_error_invalid_selected_design" value="디자인을 선택해주세요." />
 	<key id="s_ugc_itemedit_error_change_price" value="제작 수수료가 변경된 디자인입니다.\n다시 시도해 주세요." />
+	<key id="s_ugc_uic_error" value="부적절한 이미지입니다." />
 	<key id="s_title_shop" value="{0}의 상점" />
 	<key id="s_title_gacha_shop" value="캡슐 상점 : {0}" />
 	<key id="s_title_buyitem" value="아이템 구매" />
@@ -3007,7 +2965,7 @@
 	<key id="s_msg_chat_emoticon_item_use_description_warning" value="&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;단, 이미 등록된 이모티콘이 있을 경우 자동으로 더 긴 기간으로 교체됩니다.&lt;/FONT&gt;&lt;/a&gt;" feature="ChatEmoticon" />
 	<key id="s_msg_chat_emoticon_print_failed" value="이모티콘 출력을 실패했습니다." feature="ChatEmoticon" />
 	<key id="s_msg_chat_emoticon_add_failed" value="이모티콘 등록에 실패했습니다." feature="ChatEmoticon" />
-	<key id="s_msg_chat_emoticon_add_failed_already_exist" value="이모티콘을 등록할 수 없습니다.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;사용 기간이 없는 이모티콘이 이미 등록되어 있거나, &#x0A;  지금 등록하려는 이모티콘의 사용 기간이 등록된 이모티콘보다 더 짧습니다.&lt;/FONT&gt;&lt;/a&gt;" feature="ChatEmoticon" />
+	<key id="s_msg_chat_emoticon_add_failed_already_exist" value="이모티콘을 등록할 수 없습니다.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;사용 기간이 없는 이모티콘이 이미 등록되어 있거나, &#xA;  지금 등록하려는 이모티콘의 사용 기간이 등록된 이모티콘보다 더 짧습니다.&lt;/FONT&gt;&lt;/a&gt;" feature="ChatEmoticon" />
 	<key id="s_msg_chat_emoticon_add_notify_message" value="{0}$pp:를,을$ 등록했습니다." feature="ChatEmoticon" />
 	<key id="s_html_chat_user_dungeon_helper" value="&lt;a href={0}&gt;[도움이 필요한 모험가]&lt;/a&gt; " />
 	<key id="s_html_chat_user_dungeon_member" value="&lt;a href={0}&gt;[동료를 구하는 모험가]&lt;/a&gt; " />
@@ -3352,6 +3310,7 @@
 	<key id="s_home_visit_failed_homeless" value="이 집은 방문할 수 없습니다." />
 	<key id="s_home_visit_failed_disablemap" value="이 곳에서는 다른 사람의 집을 방문할 수 없습니다." />
 	<key id="s_home_visit_failed_myhome" value="내 집으로는 이동할 수 없습니다." />
+	<key id="s_home_visit_failed_private" value="방문하려는 집이 비공개 상태이므로 방문할 수 없습니다." />
 	<key id="s_home_invite_confirm" value="{0} 님이 집에 초대했습니다.\n바로 방문하시겠습니까?" />
 	<key id="s_home_invite_accept" value="{0} 님이 집 초대를 수락했습니다." />
 	<key id="s_home_invite_reject" value="{0} 님이 집 초대를 거절했습니다." />
@@ -3440,6 +3399,7 @@
 	<key id="s_tooltip_gamemenu_adventurebar" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;모험바 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메이플스토리2를 한층 더 재미있게 \n즐길 수 있도록 도와주는 정보들을 \n볼 수 있습니다. " />
 	<key id="s_tooltip_gamemenu_stampevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;스탬프 이벤트 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n메이플스토리2를 재미있게 즐기면서 \n스탬프를 찍어 보세요.\n스탬프를 모으면 선물이 기다리고 있어요!" />
 	<key id="s_tooltip_gamemenu_attendgift" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;출석 체크 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 계정의 출석 체크 기록을 확인할 수 있습니다." />
+	<key id="s_tooltip_gamemenu_longtermattendgift" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;깨어나 황금 더키볼 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n내 계정의 황금더키볼 메뉴를 확인할 수 있습니다." />
 	<key id="s_tooltip_gamemenu_pet" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;펫{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n펫 정보를 볼수 있습니다." />
 	<key id="s_tooltip_gamemenu_live_cam" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;생방송{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n생방송을 볼수 있습니다." />
 	<key id="s_tooltip_gamemenu_time_run_event" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;시간과의 달리기{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n시간과의 달리기 메뉴를 확인할 수 있습니다." />
@@ -3507,9 +3467,9 @@
 	<key id="s_itembreak_donation_legendary_item_checkbox" value="레전더리 아이템도 기부하겠습니다." />
 	<key id="s_itembreak_donation_artifact_item" value="&lt;FONT color=&apos;#ff8c37&apos;&gt;에픽&lt;/FONT&gt; 등급 이상의 아이템이 포함되어 있습니다.\n정말 기부 하시겠습니까?" feature="EpicItem" />
 	<key id="s_itembreak_donation_artifact_item_checkbox" value="에픽 아이템도 기부하겠습니다." feature="EpicItem" />
-	<key id="s_itembreak_preview_static" value="{0} X {1}" feature="" comment="{0} : 아이템 이름, {1} : 나올 갯수" />
-	<key id="s_itembreak_preview_static_fail" value="{0} 획득 실패" feature="" comment="{0} : 아이템 이름" />
-	<key id="s_itembreak_preview_random" value="{0} X {1} - {2}" feature="" comment="{0} : 아이템 이름, {1} - {2}: 나올 갯수(min-max)" />
+	<key id="s_itembreak_preview_static" value="{0} X {1}" comment="{0} : 아이템 이름, {1} : 나올 갯수" />
+	<key id="s_itembreak_preview_static_fail" value="{0} 획득 실패" comment="{0} : 아이템 이름" />
+	<key id="s_itembreak_preview_random" value="{0} X {1} - {2}" comment="{0} : 아이템 이름, {1} - {2}: 나올 갯수(min-max)" />
 	<key id="s_recall_user_notify_recall" value="{0} 님을 소환했습니다." />
 	<key id="s_recall_user_notify_confirm_recall" value="{0} 님에게 소환 요청을 했습니다." />
 	<key id="s_recall_user_notify_recalled" value="{0} 님이 당신을 강제 소환합니다." />
@@ -3616,7 +3576,7 @@
 	<key id="s_mesoMarket_sellMeso_dropdownItem" value="{0}" />
 	<key id="s_mesoMarket_ask_buy_text" value="&lt;font color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;를\n&lt;FONT color=&apos;#47FFFF&apos; &gt;{1}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;에 구입하시겠습니까?" />
 	<key id="s_mesoMarket_register_notice" value="· 판매 가격 : 평균 가격의 ±20% 이내\n· 판매 기간 : 등록 신청  후 {0}일간 \n· 판매 수수료 : 판매 금액의 {1}%\n   (판매 대금 지급 시 차감)\n· 메소 등록 횟수 제한 : 계정 당 1일 {2}회\n   (매일 밤 12시 초기화)\n※메소 판매 금액은 게임 메럿으로 지급" />
-	<key id="s_mesoMarket_register_notice" value="· 판매 가격 : 평균 가격의 ±20% 이내\n· 판매 기간 : 등록 신청  후 {0}일간 \n· 메소 등록 횟수 제한 : 계정 당 1일 {2}회\n   (매일 밤 12시 초기화)\n※메소 판매 금액은 블루 메럿으로 지급" locale="NA" feature="MesoMarket" />
+	<key id="s_mesoMarket_register_notice" value="· 판매 가격 : 평균 가격의 ±20% 이내\n· 판매 기간 : 등록 신청  후 {0}일간 \n· 메소 등록 횟수 제한 : 계정 당 1일 {2}회\n   (매일 밤 12시 초기화)\n※메소 판매 금액은 블루 메럿으로 지급" feature="MesoMarket" locale="NA" />
 	<key id="s_mesoMarket_sale_range_rate" value="(평균 가격의 {0}% 이내)" />
 	<key id="s_mesoMarket_market_price" value="(평균 가격) {0} 메소 당 {1} &lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;/&gt;" />
 	<key id="s_mesoMarket_listItem_buyMerat" value="&lt;font color=&apos;#4efcfb&apos; &gt;{0}&lt;/font&gt; {1}" />
@@ -3629,7 +3589,7 @@
 	<key id="s_mesoMarket_listItem_sellMesoText" value="[{0}]" />
 	<key id="s_mesoMarket_listItem_unitPrice" value="{0} 메소 당 {1}" />
 	<key id="s_mesoMarket_sale_per_price" value="{0} 메소 당 판매 가격" />
-	<key id="s_mesoMarket_sale_per_price" value="메소 판매 가격" locale="NA" feature="MesoMarket" />
+	<key id="s_mesoMarket_sale_per_price" value="메소 판매 가격" feature="MesoMarket" locale="NA" />
 	<key id="s_mesoMarket_mail_to_sender" value="블랙마켓 트레이더" />
 	<key id="s_mesoMarket_mail_to_seller_title" value="[블랙마켓] 메소 판매 완료" />
 	<key id="s_mesoMarket_mail_to_seller_content" value="블랙마켓에 등록한 메소가 판매됐습니다.\n첨부 금액을 확인해 주세요.\n\n판매 메소: {0}\n판매 가격: {1} 메럿\n판매 수수료: - {2}메럿(판매 금액의 {3}%)\n&lt;img src=&apos;export_dotline_brown_f16_276&apos;/&gt;\n정산 금액: {4}메럿" />
@@ -3676,6 +3636,7 @@
 	<key id="s_itemenchant_option_low_prop" value="1% 미만" />
 	<key id="s_itemenchant_option_damage" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt; (실패 시 장비가 불안정하게 되어 더 이상 인챈트 할 수 없습니다.)" />
 	<key id="s_itemenchant_prop_detail" value="( {0}% + &lt;FONT color=&apos;#78c446&apos;&gt;{1}%&lt;/FONT&gt; + &lt;FONT color=&apos;#78c446&apos;&gt;{2}%&lt;/FONT&gt; )" feature="EnchantReformation01" />
+	<key id="s_itemenchant_fee" value="크리스탈 파편 대체비용 {0}&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" />
 	<key id="s_itemenchant_option_repair" value="고장난 아이템은 수리 후 인챈트할 수 있습니다.\n{0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 사용하여 즉시 수리하시겠습니까?" />
 	<key id="s_itemenchant_damage_warning" value="&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;+{0} 인챈트&lt;/FONT&gt;를 시도하시겠습니까?&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;성공 확률 : {1}%&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;인챈트 실패 시 장비가 불안정하게 됩니다.\n불안정한 장비는 더 이상 인챈트 할 수 없습니다.\n&lt;/FONT&gt;&lt;FONT color=&apos;#C0C0C0&apos;&gt; 불안정하게 된 장비는 거래 할 수 없습니다.&lt;/FONT&gt;&lt;/p&gt;&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n" />
 	<key id="s_itemenchant_success_notice" value="{0} 님이 {1} 인챈트에 성공했습니다." />
@@ -3894,6 +3855,7 @@
 	<key id="s_msg_shortcutkey_error" value="패시브 스킬은 퀵슬롯에 등록할 수 없습니다." />
 	<key id="s_msg_shortcutkey_invalid_lapenshard" value="퀵슬롯에 등록할 수 없는 라펜샤드입니다." feature="Lapenshard01" />
 	<key id="s_msg_shortcutkey_invalid_already_same_lapenshard" value="동일한 라펜샤드는 착용할 수 없습니다." feature="Lapenshard01" />
+	<key id="s_msg_shortcutkey_invalid_already_same_leadskill" value="동일한 리드스킬은 착용할 수 없습니다." feature="LeadSkill" />
 	<key id="s_bootypopup_buff_duration" value="버프 지속시간 {0}분" />
 	<key id="s_field_enteracne_dungeon_boss_tooltip" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;" />
 	<key id="s_field_enteracne_party_status_unknown" value="알 수 없음" />
@@ -3938,7 +3900,6 @@
 	<key id="s_dungeonRoom_expense_reward_no_meso" value="메소가 부족하여 추가 보상획득을 할 수 없습니다." />
 	<key id="s_dungeonRoom_expense_reward_item" value="보상 획득 횟수 1회와\n던전 소탕권 {0}개를 소비하여\n보상을 한 번 더 획득하시겠습니까?" />
 	<key id="s_dungeonRoom_expense_reward_no_item" value="던전 소탕권이 부족하여 추가 보상을 획득할 수 없습니다." />
-	<key id="s_dungeonRoom_itemBuff_notify" value="해당 던전에 추가 보상이 지급됩니다. " />
 	<key id="s_dungeonRoom_chaos_revive_panelty" value="제자리 부활하여 영혼 부활의 저주에 걸렸습니다." />
 	<key id="s_dungeonRoom_lack_extra_ticket" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 아이템이 부족합니다.\n메럿마켓에서 아이템을 구매하시겠습니까?" />
 	<key id="s_dungeonRoom_event_reward_count" value="&lt;FONT color=&apos;#909090&apos;&gt;| &lt;/FONT&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;이벤트 {0} / {1} &lt;/FONT&gt;" />
@@ -3950,12 +3911,6 @@
 	<key id="s_dungeonRoom_reward_account" value="(계정 보상)" />
 	<key id="s_dungeonRoom_reward_round" value="클리어한 라운드 : {0} / 전체 라운드 수 : {1}" comment="{0}:라운드 수, {1}:라운드 수" />
 	<key id="s_dungeonRoom_seasonRankBar_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;랭크 보상&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n주간 랭크 보상은 우편으로 지급되며 매주 {0} 0시에 초기화됩니다.\n주간 랭크 보상은 기간 내 달성하는 모든 랭크 보상을 획득할 수 있습니다.\n상위 랭크 달성 시 하위 랭크 보상도 함께 획득합니다.\n각 랭크 보상은 1회만 획득 가능합니다." />
-	<key id="s_dungeonRoom_seasonSummary_tooltip1" value="주간 랭크 달성도는 매주 {0} 0시에 초기화되며 &lt;FONT color=&apos;#00AEEF&apos;&gt;카오스 레이드({1}레벨이상)&lt;/FONT&gt; 던전의 \n랭크 합산 점수에 따라 우편으로 보상이 지급됩니다.\n" />
-	<key id="s_dungeonRoom_seasonSummary_tooltip2" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\n보상 정보\n&lt;/FONT&gt;" />
-	<key id="s_dungeonRoom_seasonSummary_tooltip2_sub" value=" - {0}점 이상 : &lt;FONT color=&apos;#00aaef&apos;&gt;{1}\n&lt;/FONT&gt;" />
-	<key id="s_dungeonRoom_seasonSummary_tooltip3" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\n던전별 주간 달성도&lt;/FONT&gt; : &lt;FONT color=&apos;#33db17&apos;&gt;{0}&lt;/FONT&gt; / {1}\n" />
-	<key id="s_dungeonRoom_seasonSummary_tooltip3_sub" value=" - ({1}){0} : {2}랭크 (&lt;FONT color=&apos;#33db17&apos;&gt;{3}&lt;/FONT&gt;/ {4})\n" />
-	<key id="s_dungeonRoom_seasonSummary_tooltip3_none" value=" - 랭크 정보가 없습니다.\n" />
 	<key id="s_dungeonRoom_clear_count" value="&lt;FONT color=&apos;#ffd200&apos;&gt;내 클리어 현황: &lt;/FONT&gt; {0}회" />
 	<key id="s_dungeonRoom_find_helper_button" value="도움 요청" feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_helper_reward_count" value="코인 획득 횟수 {0}" feature="FindDungeonHelp" />
@@ -3971,6 +3926,7 @@
 	<key id="s_dungeonRoom_missionBar_tooltip_item" value="{0} 랭크: {1}점 이상\n" />
 	<key id="s_dungeonRoom_findMember_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;파티원 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n버튼을 클릭해서 던전을 함께 모험할 파티원을 모집할 수 있습니다." feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_findMember_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;파티원 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n버튼을 클릭해서 던전을 함께 모험할 파티원을 모집할 수 있습니다.\n초보 모험가와 함께 클리어할 경우, 친절한 기사 상자를 \n하루 {0}회 추가로 획득할 수 있습니다." feature="FindDungeonHelp" locale="CN" />
+	<key id="s_dungeonRoom_findHelper_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;도움 요청&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n이 던전에 익숙한 숙련 모험가에게 도움을 요청할 수 있습니다.\n버튼을 클릭해서 함께 플레이할 숙련 모험가를 찾아보세요!\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;초보 모험가&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n아직 이 던전을 플레이하는 데 익숙하지 않습니다.\n던전 클리어 횟수가 일정 이상이 되면 숙련 모험가가 될 수 있습니다.\n&lt;FONT color=&apos;#00AAEF&apos;&gt;- {0}회 이상\n" />
 	<key id="s_dungeonRoom_party_status_tooltip" value="{0}{1}\n" />
 	<key id="s_dungeonRoom_addExtraRewardCount" value="보상 횟수 추가\n({0}/{1})" />
 	<key id="s_dungeonRoom_unionRewardInfo" value="- &lt;FONT color=&apos;#00A2ED&apos;&gt;{0}&lt;/FONT&gt; 던전의 보상 획득 횟수가 공유됩니다." comment="{0}:던전 이름" />
@@ -4061,6 +4017,7 @@
 	<key id="s_blueprint_msg_item_edit_complete" value="아이템을 제작했습니다." />
 	<key id="s_meratmarket_tooltip_sell_count" value="{0}개" />
 	<key id="s_meratmarket_tooltip_sell_date" value="{0}년 {1}월 {2}일 {3:02d}시 {4:02d}분까지" />
+	<key id="s_meratmarket_tooltip_sell_day" value="{0}년 {1}월 {2}일까지" />
 	<key id="s_meratmarket_tooltip_bookmark" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;{0} 님의 디자인 보기&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n{0} 님이 디자이너스샵에 등록한\n상품 목록을 모아 볼 수 있습니다." />
 	<key id="s_meratmarket_tooltip_myshop_calculate" value="&lt;font color=&apos;#8dd502&apos;&gt;이번달 누적 판매 금액 : {0}&lt;/font&gt;\n\n[누적 판매금액에 따른 수수료 부과비율]\n{1}" />
 	<key id="s_meratmarket_tooltip_myshop_calculate" value="&lt;font color=&apos;#8dd502&apos;&gt;이번달 누적 판매 금액 : {0}&lt;/font&gt;\n판매 수수료는 판매 금액의 25% 입니다." locale="NA" />
@@ -4096,6 +4053,7 @@
 	<key id="s_meratmarket_error_result_buy_count" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 아이템 개수가 잘못되었습니다.&lt;/font&gt;" />
 	<key id="s_meratmarket_error_result_buy_not_sale" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 판매 중인 상품이 아닙니다.&lt;/font&gt;" />
 	<key id="s_meratmarket_error_result_buy_sold_out_limitedbundle" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 더 이상 구매할 수 없습니다.&lt;/font&gt;" />
+	<key id="s_meratmarket_error_result_buy_sold_out_changeable" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 준비한 수량이 모두 소진되었습니다.\n다음에 다시 구매해주세요.&lt;/font&gt;" />
 	<key id="s_meratmarket_error_result_buy_ing" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 잠시 후에 다시 시도해 주세요.&lt;/font&gt;" />
 	<key id="s_meratmarket_error_result_buy_achieve_complete" value="트로피 조건을 확인해 주세요." />
 	<key id="s_meratmarket_error_result_buy_error" value="&lt;FONT color=&apos;#909090&apos; &gt;▶ 시스템 오류로 구매하지 못했습니다. (code = {0})&lt;/font&gt;" />
@@ -4136,6 +4094,7 @@
 	<key id="s_meratmarket_error_register_blocked_ugcitem" value="제재된 아이템은 마켓에 등록할 수 없습니다." />
 	<key id="s_meratmarket_error_bancheck_desc" value="상품 설명에 사용할 수 없는 단어 또는 문자가 포함되어 있습니다." />
 	<key id="s_meratmarket_error_bancheck_tags" value="태그에 사용할 수 없는 단어 또는 문자가 포함되어 있습니다." />
+	<key id="s_meratmarket_error_bancheck_desc_or_tags" value="상품 설명 또는 태그에 사용할 수 없는 단어 또는 문자가 포함되어 있습니다." />
 	<key id="s_meratmarket_error_common" value="시스템 오류 : 메럿 마켓을 이용할 수 없습니다. Code = {0}" />
 	<key id="s_meratmarket_error_already_sale" value="아이템을 삭제할 수 없습니다." />
 	<key id="s_meratmarket_error_not_sale" value="판매하지 않는 상품입니다." />
@@ -4168,7 +4127,14 @@
 	<key id="s_meratmarket_error_ugc_buy_limit_product_buy_count" value="이 상품은 계정에서 {0}번 이상 구매했습니다. 추가 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_country_limit" value="이 상품은 현재 접속중인 국가(IP)에서는 구매할 수 없습니다." />
 	<key id="s_meratmarket_error_ugc_calculate_invalid_blueprint_item" value="견적서를 볼 수 없는 아이템입니다." feature="Blueprint" />
-	<key id="s_meratmarket_home_desc_period" value="{0} ~ {1}" feature="MeratMarketNewBM" comment="{0},{1}: s_meratmarket_limited_date" />
+	<key id="s_meratmarket_error_random_create_fail" value="보너스 혜택 지급에 실패하였습니다." />
+	<key id="s_meratmarket_error_random_already_exist" value="보너스 혜택이 이미 존재합니다." />
+	<key id="s_meratmarket_error_random_expired" value="보너스 혜택의 사용기한이 만료되었습니다." />
+	<key id="s_meratmarket_error_random_payback_not_exist" value="페이백 보너스를 찾을 수 없습니다." />
+	<key id="s_meratmarket_error_random_coupon_not_exist" value="할인 혜택을 찾을 수 없습니다." />
+	<key id="s_meratmarket_random_payback" value="페이백 보너스 {0}" />
+	<key id="s_meratmarket_random_sale" value="시크릿 혜택! {0}% 할인" />
+	<key id="s_meratmarket_home_desc_period" value="{0} ~ {1}" comment="{0},{1}: s_meratmarket_limited_date" feature="MeratMarketNewBM" />
 	<key id="s_meratmarket_bookmark_add_complete" value="{0} 님을 즐겨찾는 디자이너로 등록했습니다." />
 	<key id="s_meratmarket_bookmark_limit_maxcount" value="최대 {0}명까지만 즐겨찾기에 등록할 수 있습니다.\n즐겨찾기 목록을 정리한 후 다시 시도해 주세요." />
 	<key id="s_meratmarket_bookmark_input_search" value="검색하고 싶은 디자이너 이름을 입력해 주세요." />
@@ -4202,6 +4168,7 @@
 	<key id="s_meratmarket_limited_buylimit_level_range" value="{0} ~ {1}레벨만 구매가능" />
 	<key id="s_meratmarket_limited_buylimit_level_only" value="{0}레벨만 구매가능" />
 	<key id="s_meratmarket_limited_date" value="{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}" comment="{0}:년, {1}:월, {2}:일, {3}:시 {4}:분" />
+	<key id="s_meratmarket_limited_date_second" value="{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}:{5:02d}" comment="{0}:년, {1}:월, {2}:일, {3}:시 {4}:분 {5}:초" />
 	<key id="s_meratmarket_limited_buylimit_noreset_account" value="계정당 {0}회 구매가능" />
 	<key id="s_meratmarket_limited_buylimit_noreset_character" value="캐릭터당 {0}회 구매가능" />
 	<key id="s_meratmarket_limited_buylimit_day_account" value="일일 계정당 {0}회 구매가능 (매일 0시 초기화)" />
@@ -4212,6 +4179,8 @@
 	<key id="s_meratmarket_limited_buylimit_month_character" value="매월 캐릭터당 {0}회 구매가능 (매월 1일 0시 초기화)" />
 	<key id="s_meratmarket_limited_remain" value="잔여개수: {0}개" />
 	<key id="s_meratmarket_limited_soldout" value="재고없음" />
+	<key id="s_meratmarket_limited_limitless" value="잔여 개수 : 무제한" />
+	<key id="s_meratmarket_limited_desc_end" value="판매기한: {0}" />
 	<key id="s_meratmarket_register_limit_desc" value="상품 설명을 {0}자 이내로 입력해주세요." />
 	<key id="s_meratmarket_register_sale_day" value="{0}일" />
 	<key id="s_meratmarket_register_ad_hour_and_price" value="72시간 (+{0} &lt;img src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;)" />
@@ -4346,7 +4315,6 @@
 	<key id="s_room_exit_massive_event" value="{0}에서 나가기" />
 	<key id="s_room_exit_pvp_zone" value="전장 떠나기" />
 	<key id="s_room_exit_arcade" value="아케이드에서 나가기" />
-	<key id="s_room_exit_maple_survival" value="머쉬킹 챔피언십 나가기" feature="SurvivalContents01" />
 	<key id="s_room_exit_name_17" value="군단전에서 나가기" desc="mapType:17(군단전) 나갈때 메시지" />
 	<key id="s_room_exit_msg_design" value="꾸미기 모드에서 나가기" />
 	<key id="s_room_exit_msg_blueprint" value="블루프린트 모드에서 나가기" feature="Blueprint" />
@@ -4359,7 +4327,6 @@
 	<key id="s_room_exit_msg_pvp_zone" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;10초 후 자동으로 전장을 떠납니다.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_pvp_field" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;10초 후 자동으로 메이플 월드로 이동합니다.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_arcade" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;아케이드를 포기하고 밖으로 이동합니다.&lt;/font&gt;" />
-	<key id="s_room_exit_msg_maple_survival" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;머쉬킹 챔피언십을 포기하고 밖으로 이동합니다.&lt;/font&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;\n매치 도중 종료 시 보상은 받지 못 하며,\n랭킹은 현재 등수를 기준으로 적용됩니다.&lt;/font&gt;" feature="SurvivalContents01" />
 	<key id="s_room_exit_msg_17" value="[{0}] 군단전을 포기하고 밖으로 이동합니다." desc="mapType:17(군단전) 나갈때 메시지 {0}:맵이름" />
 	<key id="s_itemlink_meratmarket" value="[메럿마켓: {0}]" />
 	<key id="s_itemlink_cashshop" value="[캐시샵 : {0}]" />
@@ -4471,7 +4438,7 @@
 	<key id="s_home_password_expire_date_chat_msg" value="비밀번호 설정이 해제됐습니다." />
 	<key id="s_home_password_user_out_button" value="나가기" />
 	<key id="s_home_commend_success" value="이 집의 주인을 스타 건축가로 추천했습니다." />
-	<key id="s_home_commend_send_confirm" value="&lt;FONT color=&apos;#FFD200&apos; &gt;이 집의 주인을 스타 건축가로 추천하겠습니까?&lt;/FONT&gt;\n추천 시 집 주인의 건축가 점수가 올라갑니다.&#x0A;&#x09;계정 당 하루에 한 명만 추천 할 수 있고,\n추천 후 취소할 수 없습니다." />
+	<key id="s_home_commend_send_confirm" value="&lt;FONT color=&apos;#FFD200&apos; &gt;이 집의 주인을 스타 건축가로 추천하겠습니까?&lt;/FONT&gt;\n추천 시 집 주인의 건축가 점수가 올라갑니다.&#xA;&#x9;계정 당 하루에 한 명만 추천 할 수 있고,\n추천 후 취소할 수 없습니다." />
 	<key id="s_team_pvp_red_team_name" value="&lt;FONT color=&apos;#ff6262&apos;&gt;레드팀&lt;/FONT&gt;" />
 	<key id="s_team_pvp_blue_team_name" value="&lt;FONT color=&apos;#59bbff&apos;&gt;블루팀&lt;/FONT&gt;" />
 	<key id="s_team_pvp_north" value="북부를" />
@@ -4487,7 +4454,7 @@
 	<key id="s_render_screen_restoration_failed" value="게임 화면 복구에 실패 하였습니다.\n프로그램을 다시 실행해주세요." />
 	<key id="s_render_graphiccard_error" value="그래픽 카드 오류가 발생하였습니다.\n그래픽 드라이버를 확인해 주세요." />
 	<key id="s_window_service_auth_error" value="인증 에러 입니다. [{0}]" />
-	<key id="s_util_mem_depletion_url" value='&lt;a href=&quot;http://maplestory2.nexon.com&quot;&gt;[고객센터 &gt; FAQ &gt; 실행/접속 &gt; 메모리 부족]을 통해 문제를 해결하실 수 있습니다.&lt;/a&gt;' />
+	<key id="s_util_mem_depletion_url" value="&lt;a href=&quot;http://maplestory2.nexon.com&quot;&gt;[고객센터 &gt; FAQ &gt; 실행/접속 &gt; 메모리 부족]을 통해 문제를 해결하실 수 있습니다.&lt;/a&gt;" />
 	<key id="s_util_mem_depletion_phyx" value="컴퓨터에 메모리가 부족합니다. 64bit 윈도우 램 4GB 이상을 권장합니다." />
 	<key id="s_util_mem_depletion_default" value="컴퓨터에 메모리가 부족합니다. 64bit 윈도우 램 4GB 이상을 권장합니다." />
 	<key id="s_enum_dungeon_group_normal" value="모험[일반]" />
@@ -4599,6 +4566,7 @@
 	<key id="s_massive_event_name_boomboom_ocean" value="붐붐 오션" />
 	<key id="s_massive_event_name_crazy_runner_shanghai" value="상해 크레이지 러너즈" />
 	<key id="s_massive_event_name_hideandseek" value="숨바꼭질" />
+	<key id="s_massive_event_name_pvp_dollshouse" value="인형의 저택(PvP)" feature="MassivePVPDollshouse" />
 	<key id="s_massive_event_name_red_arena" value="붉은 결투장(PvP)" />
 	<key id="s_massive_event_name_blood_mine" value="피눈물 광산(PvP)" />
 	<key id="s_massive_event_name_treasure_island" value="바르보사의 보물섬(PvP)" />
@@ -4742,13 +4710,13 @@
 	<key id="s_itemremake_error_server_fail_apply_option" value="추가 옵션 변경에 실패했습니다." />
 	<key id="s_itemremake_error_server_fail_lack_lock_consume_item" value="옵션 잠금을 할 수 없습니다." feature="OptionBlock01" />
 	<key id="s_itemremake_error_server_default" value="추가 옵션 변경 에러: code=[{0},{1}]" />
+	<key id="s_itemremake_error_prev_option_item_not_exist" value="최근 옵션변경 결과를 선택하지 않은 아이템을 찾을 수 없습니다.\n계속 진행하는 경우, 선택 가능한 옵션정보가 삭제됩니다.\n아이템 이름 : {0}" />
 	<key id="s_itemremake_chat_maxoption" value="{0}님의 {1}에 {2}가 나왔습니다. " />
 	<key id="s_itemremake_scroll_already_open" value="이미 열려있는 창이 있습니다. 창을 닫고 다시 시도해 주세요." />
 	<key id="s_itemremake_scroll_notice_puton_item" value="주문서를 사용할 아이템을 올려 주세요." />
 	<key id="s_itemremake_scroll_cur_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;현재 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_new_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;새로운 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_final_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;변경된 옵션\n{0}&lt;/font&gt;" />
-	<key id="s_itemremake_scroll_main_option_with_color" value="&lt;font color=&apos;#ffffff&apos;&gt;{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_pet_cur_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;현재 능력\n{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_pet_new_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;새로운 능력\n{0}&lt;/font&gt;" />
 	<key id="s_itemremake_scroll_pet_final_option" value="&lt;font color=&apos;#91a8ff&apos;&gt;변경된 능력\n{0}&lt;/font&gt;" />
@@ -4766,18 +4734,6 @@
 	<key id="s_itemremake_scroll_desc_add_option_pet_value_o" value="추가 능력 수치가 변경됩니다." />
 	<key id="s_itemremake_scroll_desc_add_option_pet_value_high" value="추가 능력 수치가 높은 수치로 변경됩니다." />
 	<key id="s_itemremake_scroll_desc_add_option_pet_value_max" value="추가 능력 수치가 최대치로 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_kind_o" value="기본 옵션 종류가 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_kind_x" value="기본 옵션 종류가 변경되지 않습니다." />
-	<key id="s_itemremake_scroll_desc_main_option_value_x" value="기본 옵션 수치가 변경되지 않습니다." />
-	<key id="s_itemremake_scroll_desc_main_option_value_o" value="기본 옵션 수치가 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_value_high" value="기본 옵션 수치가 높은 수치로 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_value_max" value="기본 옵션 수치가 최대치로 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_pet_kind_o" value="기본 능력 종류가 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_pet_kind_x" value="기본 능력 종류가 변경되지 않습니다." />
-	<key id="s_itemremake_scroll_desc_main_option_pet_value_x" value="기본 능력 수치가 변경되지 않습니다." />
-	<key id="s_itemremake_scroll_desc_main_option_pet_value_o" value="기본 능력 수치가 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_pet_value_high" value="기본 능력 수치가 높은 수치로 변경됩니다." />
-	<key id="s_itemremake_scroll_desc_main_option_pet_value_max" value="기본 능력 수치가 최대치로 변경됩니다." />
 	<key id="s_itemremake_scroll_desc_represent_wap_value_o" value="무기 최대 공격력 옵션이 있을 경우, 무기 공격력 수치가 변경됩니다." />
 	<key id="s_itemremake_scroll_limit" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#c909090&apos;&gt;{0}\n{1} 등급\n{2}&lt;/font&gt;&lt;/p&gt;" />
 	<key id="s_itemremake_scroll_limit_add" value=", {0}" />
@@ -4823,7 +4779,6 @@
 	<key id="s_tooltip_buylimit_month_account" value="계정당 매월 {0}회 구매할 수 있습니다.\n(매월 1일  0시 초기화)" />
 	<key id="s_tooltip_buylimit_month_character" value="캐릭터당 매월 {0}회 구매할 수 있습니다.\n(매월 1일 0시 초기화)" />
 	<key id="s_tooltip_itemoption_kinds_constant" value="&lt;font color=&apos;#ffffff&apos;&gt;기본 옵션\n{0}&lt;/font&gt;" />
-	<key id="s_tooltip_itemoption_kinds_static" value="&lt;font color=&apos;#ffffff&apos;&gt;기본 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_random" value="&lt;font color=&apos;#91a8ff&apos;&gt;추가 옵션\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_random_nohead" value="&lt;font color=&apos;#91a8ff&apos;&gt;{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_title" value="&lt;font color=&apos;#84ffef&apos;&gt;\n타이틀 옵션\n{0}&lt;/font&gt;" />
@@ -4841,8 +4796,6 @@
 	<key id="s_tooltip_itemoption_stat_row" value="· {0}\n" />
 	<key id="s_tooltip_itemoption_stat_row_best" value="&lt;font color=&apos;#d659ff&apos;&gt;· {0}&lt;/font&gt;\n" />
 	<key id="s_tooltip_itemoption_stat_row_pet_constant_desc" value="&lt;font color=&apos;#707070&apos;&gt;   [잠재력: {0} ~ {1}, 펫 Lv. 당 + {2}]&lt;/font&gt;\n" />
-	<key id="s_tooltip_itemoption_stat_row_pet_disable" value="&lt;font color=&apos;#707070&apos;&gt;· {0}&lt;/font&gt;\n" />
-	<key id="s_tooltip_itemoption_stat_row_pet_level" value="{0} [펫 Lv. {1}]" />
 	<key id="s_tooltip_itemoption_socket" value="&lt;font color=&apos;#9d67ff&apos;&gt;소켓\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_socket_by_pet" value="&lt;font color=&apos;#9d67ff&apos;&gt;학습 능력\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_socket_row_stat" value="· &lt;img src=&apos;{0}&apos; vspace=&apos;-6&apos;&gt;{3} {1}&lt;/img&gt;{2}\n" />
@@ -4863,8 +4816,7 @@
 	<key id="s_tooltip_itemoption_ugcmap_setitem_row" value="&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;font color=&apos;#{0:x}&apos;&gt;{1}\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemremake_count" value="&lt;font color=&apos;#ffd200&apos;&gt;추가 옵션 변경 가능 (누적 변경 횟수 : {0}회)&lt;/font&gt;" />
 	<key id="s_tooltip_itemremake_enable" value="&lt;font color=&apos;#ffd200&apos;&gt;추가 옵션 변경 가능&lt;/font&gt;" />
-	<key id="s_tooltip_itemmerge_option_range_v" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
-	<key id="s_tooltip_itemmerge_option_range_f" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
+	<key id="s_tooltip_itemmerge_option_range" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
 	<key id="s_tooltip_petremake_count" value="&lt;font color=&apos;#ffd200&apos;&gt;추가 능력 변경 가능 (누적 변경 횟수 : {0}회)&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_tooltip_petremake_enable" value="&lt;font color=&apos;#ffd200&apos;&gt;추가 능력 변경 가능&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_tooltip_fmt_in_package_money" value="{0} ({1})" comment="{0}:재화이름, {1}:수량" />
@@ -4938,6 +4890,12 @@
 	<key id="s_play_instrument_instrument_category_name_28" value="심벌즈" feature="drumInstrument" />
 	<key id="s_play_instrument_instrument_category_name_29" value="큰북" feature="drumInstrument" />
 	<key id="s_play_instrument_instrument_category_name_30" value="작은북" feature="drumInstrument" />
+	<key id="s_play_instrument_instrument_category_name_35" value="프렛리스 베이스 기타" />
+	<key id="s_play_instrument_instrument_category_name_36" value="마림바" />
+	<key id="s_play_instrument_instrument_category_name_37" value="플루트" />
+	<key id="s_play_instrument_instrument_category_name_38" value="홍키통크 피아노" />
+	<key id="s_play_instrument_instrument_category_name_39" value="프렌치 호른" />
+	<key id="s_play_instrument_instrument_category_name_40" value="파이프 오르간" />
 	<key id="s_writemusic_complete_make" value="악보 제작을 완료했습니다." />
 	<key id="s_writemusic_playline_show_per_time" value="시간으로 보기" />
 	<key id="s_writemusic_playline_show_per_bar" value="마디로 보기" />
@@ -4987,7 +4945,7 @@
 	<key id="s_pet_input_name" value="펫의 이름을 지어주세요.\n(한글 {0}자, 영문 {1}자까지 입력할 수 있습니다.)" comment="{0}:한글글자길이 {1}:글자길이" />
 	<key id="s_pet_tamingnpc_default_perfix_name" value="배고픈" feature="PetBattle" />
 	<key id="s_pet_tamingnpc_max_perfix_name" value="온순한" feature="PetBattle" />
-	<key id="s_pet_tamingnpc_name" value="{0} {1}" feature="PetBattle" comment="{0}:prefix {1}:monstername" />
+	<key id="s_pet_tamingnpc_name" value="{0} {1}" comment="{0}:prefix {1}:monstername" feature="PetBattle" />
 	<key id="s_pet_summon_on" value="펫을 소환했습니다." />
 	<key id="s_pet_summon_off" value="펫을 소환 해제했습니다." />
 	<key id="s_pet_btn_summon_on" value="소환" />
@@ -5091,15 +5049,15 @@
 	<key id="s_usercommand_fmt_home_invite" value="\n집 초대 : {0}\n- [집초대 방법] {1} 캐릭터이름" />
 	<key id="s_usercommand_fmt_help" value="\n도움말 : {0}" />
 	<key id="s_chattooltip_fmt" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;채팅 타입 설정&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n명령어를 사용하여 다양한 채팅을 사용할 수 있습니다.\n월드 대화와 채널 대화는 메럿을 소모 합니다.\n{0}" />
-	<key id="s_chattooltip_fmt_world" value='\n월드 대화  &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_super_world" value='\n슈퍼 월드 대화  &quot;{0}&quot;' feature="SuperWorldChat" />
-	<key id="s_chattooltip_fmt_ch" value='\n채널 대화  &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_space" value='\n지역 대화  &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_party" value='\n파티 대화  &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_guild" value='\n길드 대화  &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_guild_mega" value='\n길드 확성기  &quot;{0}&quot;' />
-	<key id="s_chattooltip_fmt_whisper" value='\n귓속말  &quot;{0} + 스페이스 + 아이디&quot;' />
-	<key id="s_chattooltip_fmt_club" value='\n동아리  &quot;{0} + 스페이스 + 동아리이름&quot;' feature="Club" />
+	<key id="s_chattooltip_fmt_world" value="\n월드 대화  &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_super_world" value="\n슈퍼 월드 대화  &quot;{0}&quot;" feature="SuperWorldChat" />
+	<key id="s_chattooltip_fmt_ch" value="\n채널 대화  &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_space" value="\n지역 대화  &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_party" value="\n파티 대화  &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_guild" value="\n길드 대화  &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_guild_mega" value="\n길드 확성기  &quot;{0}&quot;" />
+	<key id="s_chattooltip_fmt_whisper" value="\n귓속말  &quot;{0} + 스페이스 + 아이디&quot;" />
+	<key id="s_chattooltip_fmt_club" value="\n동아리  &quot;{0} + 스페이스 + 동아리이름&quot;" feature="Club" />
 	<key id="s_timeevent_common_1" value="같이 놀자! 암허스트에서 퍼즈룬의 동굴을 찾아와!" />
 	<key id="s_timeevent_common_4" value="퀸즈 타운에서 이벤트가 진행 중입니다." />
 	<key id="s_timeevent_common_7" value="퀸즈 타운에서 이벤트가 진행 중입니다." />
@@ -5198,7 +5156,7 @@
 	<key id="s_itemsocketsystem_socket_swap_confirm" value="모두 이동하려면 &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 필요합니다. 이동하시겠습니까?" feature="ItemSocketSystem" />
 	<key id="s_itemsocketsystem_socket_swap_confirm_free" value="젬스톤을 이동하시겠습니까?" feature="ItemSocketSystem" />
 	<key id="s_itemsocketsystem_socket_swap_price" value="{0} {1}개" feature="ItemSocketSystem" />
-	<key id="s_itemsocketsystem_error_swap_lack_price" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 부족합니다." feature="ItemSocketSystem" comment="{0}:크리스탈 파편 갯수" />
+	<key id="s_itemsocketsystem_error_swap_lack_price" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt; 부족합니다." comment="{0}:크리스탈 파편 갯수" feature="ItemSocketSystem" />
 	<key id="s_itemsocketsystem_gemstoneupgrade_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}%&lt;/FONT&gt;할인 이벤트 중" feature="ItemSocketSystem" />
 	<key id="s_itemsocketsystem_gemstoneupgrade_sa_sale_desc" value="재료 &lt;FONT color=&apos;#FF4040&apos;&gt;{0:0.1f}%&lt;/FONT&gt;할인 효과 적용 중" feature="ItemSocketSystem" />
 	<key id="s_itemsocketsystem_socketunlock_row_socket_stat" value="&lt;img src=&apos;{0}&apos; vspace=&apos;-6&apos;&gt;{2}&lt;font color=&apos;#9d67ff&apos;&gt; {1}&lt;/font&gt;&lt;/img&gt;" feature="ItemSocketSystem" />
@@ -5410,15 +5368,15 @@
 	<key id="s_ugcmap_fun_survey_abstention" value="기권" />
 	<key id="s_ugcmap_fun_survey_dialog" value="설문조사" />
 	<key id="s_ugcmap_fun_survey_guide" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; /survey open [주제] 혹은 /survey secret [주제] 로 설문을 만들 수 있습니다." />
-	<key id="s_ugcmap_fun_survey_info_head" value='&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 만들고 있으며, 다음 선택지가 추가되어 있습니다.' />
+	<key id="s_ugcmap_fun_survey_info_head" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 만들고 있으며, 다음 선택지가 추가되어 있습니다." />
 	<key id="s_ugcmap_fun_survey_info_footer" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; /survey add [항목] 명령으로 선택지를 추가하거나 /survey start 로 설문을 시작할 수 있습니다." />
-	<key id="s_ugcmap_fun_survey_create_success" value='&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 만들었습니다.' />
-	<key id="s_ugcmap_fun_survey_create_error" value='&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문 생성에 실패했습니다.' />
+	<key id="s_ugcmap_fun_survey_create_success" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 만들었습니다." />
+	<key id="s_ugcmap_fun_survey_create_error" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문 생성에 실패했습니다." />
 	<key id="s_ugcmap_fun_survey_add_success" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {2} 항목을 추가했습니다." />
 	<key id="s_ugcmap_fun_survey_add_error" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {2} 항목 추가에 실패했습니다. " />
-	<key id="s_ugcmap_fun_survey_start" value='&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 시작했습니다. /survey end 로 설문을 종료할 수 있습니다.' />
+	<key id="s_ugcmap_fun_survey_start" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 시작했습니다. /survey end 로 설문을 종료할 수 있습니다." />
 	<key id="s_ugcmap_fun_survey_vote" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; 투표했습니다." />
-	<key id="s_ugcmap_fun_survey_end" value='&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 종료합니다.' />
+	<key id="s_ugcmap_fun_survey_end" value="&lt;font color=&apos;#ffffff&apos;&gt;[설문]&lt;/font&gt; {0} &quot;{1}&quot; 설문을 종료합니다." />
 	<key id="s_ugcmap_fun_survey_result" value="- {0}: {1} 표" />
 	<key id="s_ugcmap_fun_survey_close_without_vote" value="투표하지 않고 닫으시겠어요?" />
 	<key id="s_ugcmap_fun_portal_name_duplicated" value="같은 이름의 포털이 이미 있습니다." />
@@ -5596,8 +5554,14 @@
 	<key id="s_mastery_automining_button" value="자동 채광" feature="AutoMastery01" />
 	<key id="s_mastery_autofarming_button" value="자동 재배" feature="AutoMastery01" />
 	<key id="s_mastery_autobreeding_button" value="자동 축산" feature="AutoMastery01" />
+	<key id="s_mastery_autogatheringbuff_button" value="자동 채집 버프" feature="AutoMastery01" />
+	<key id="s_mastery_autominingbuff_button" value="자동 채광 버프" feature="AutoMastery01" />
+	<key id="s_mastery_autofarmingbuff_button" value="자동 재배 버프" feature="AutoMastery01" />
+	<key id="s_mastery_autobreedingbuff_button" value="자동 축산 버프" feature="AutoMastery01" />
 	<key id="s_mastery_autointeraction_lack_item" value="{0}이 없습니다." feature="AutoMastery01" />
+	<key id="s_mastery_autointeraction_lack_buff_item" value="{0}아이템이 없습니다." feature="AutoMastery01" />
 	<key id="s_mastery_autointeraction_none_available_count" value="오늘은 더 이상 생산할 수 없습니다." feature="AutoMastery01" />
+	<key id="s_mastery_autointeraction_buff_use" value="{0}$pp:를,을$ 사용하시겠습니까?" feature="AutoMastery01" />
 	<key id="s_spawnnpc_guarantee" value="&lt;font color=&apos;#FF5F5F&apos;&gt;[등장 예정 {0}]&lt;/font&gt;" />
 	<key id="s_pvp_arena_close_test_season_msg" value="메이플 아일랜드의 숙련된 장인 &apos;스페셜 원&apos;이\n투기장을 수리하고 있습니다.\n1월 12일에 만나요" />
 	<key id="s_home_save_messagebox" value="현재 상태를 {0}번 슬롯에 저장합니다.\n\n저장 메모를 입력하세요" />
@@ -5710,12 +5674,15 @@
 	<key id="s_item_merge_option_error_lack_meso" value="메소가 부족합니다." />
 	<key id="s_item_merge_option_error_unknown" value="시스템 오류" />
 	<key id="s_item_merge_option_revert" value="{0} 아이템의 초월 옵션을 제거하였습니다." />
+	<key id="s_item_merge_option_error_prev_option_item_not_exist" value="최근 초월옵션변경 결과를 선택하지 않은 아이템을 찾을 수 없습니다.\n계속 진행하는 경우, 선택 가능한 옵션정보가 삭제됩니다.\n아이템 이름 : {0}" />
 	<key id="s_msg_item_open_item_box_mergeitem" value="사용 시 아이템이 &lt;FONT color=&apos;#FFA200&apos;&gt;1개&lt;/FONT&gt; 소모됩니다.\n제작 시 사용된 재료를 돌려 받습니다.\n\n아이템을 사용하시겠습니까?\n소지품이 가득 찬 경우에는 우편으로 발송됩니다." />
 	<key id="s_msg_item_open_item_box_mergeLV60item" value="사용 시 아이템이 &lt;FONT color=&apos;#FFA200&apos;&gt;1개&lt;/FONT&gt; 소모됩니다.\n전신을 제외한 방어구에 사용가능한 초월 수정 2개로 교환됩니다.\n\n아이템을 사용하시겠습니까?\n소지품이 가득 찬 경우에는 우편으로 발송됩니다." feature="ItemMergeLV60" />
 	<key id="s_item_merge_option_consume_meso" value="{0}&lt;Img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;/&gt;" />
 	<key id="s_item_merge_valid_item" value="&lt;FONT color=&apos;#FFD200&apos;&gt;초월 가능&lt;/FONT&gt;" />
 	<key id="s_item_merge_option_warn" value="이미 초월된 아이템입니다. 초월 재시도 시 기존 초월 옵션은 삭제됩니다. 진행하시겠습니까?" />
 	<key id="s_item_merge_chat_maxoption" value="{0}님의 {1}에 {2}가 나왔습니다. " />
+	<key id="s_item_merge_option_old_option" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;이전 옵션&lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;" />
+	<key id="s_item_merge_option_new_option" value="&lt;FONT color=&apos;#FFFFFF&apos;&gt;새로운 옵션&lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;" />
 	<key id="s_word_tab_petinfo" value="펫 정보" feature="PetBase" />
 	<key id="s_word_tab_petcompose" value="펫 합성" feature="PetBattle" />
 	<key id="s_word_tab_petcollect" value="펫 도감" feature="PetBattle" />
@@ -5921,7 +5888,7 @@
 	<key id="s_alliance_quest_limit_alliance_delimeter" value="," locale="CN" />
 	<key id="s_alliance_quest_limit_alliance" value="{0} 세력 평판 {1}" />
 	<key id="s_alliance_quest_limit_alliance_condition" value="{0} 이상 시 평판 퀘스트를 진행할 수 있습니다." />
-	<key id="s_alliance_quest_require_condition" value="레벨 {0} 이상이고, {1} 퀘스트를 완료해야 합니다." feature="" />
+	<key id="s_alliance_quest_require_condition" value="레벨 {0} 이상이고, {1} 퀘스트를 완료해야 합니다." />
 	<key id="s_alliance_quest_unreq_group_warn" value="이 임무는 한 주에 1개 세력에서만 진행할 수 있습니다. 진행하시겠습니까?" />
 	<key id="s_alliance_quest_completion_ticket_count" value="X{0} 즉시 완료" comment="{0} : 즉시 완료 아이템 필요 갯수" feature="FameCompletionTicket" />
 	<key id="s_alliance_quest_completion_ticket_lack" value="{0}이 부족합니다. 메럿마켓에서 아이템을 구매하시겠습니까?" commend="{0} : 즉시완료권 아이템" feature="FameCompletionTicket" />
@@ -5960,6 +5927,7 @@
 	<key id="s_cutscene_skip_msg_nextState" value="연출을 중단하고 다음 단계로 넘어갑니다. 그래도 진행하시겠습니까?" />
 	<key id="s_galleryevent_cannot_open_card" value="카드를 열 수 없습니다." />
 	<key id="s_galleryevent_invalid_event" value="진행할 수 없는 이벤트입니다." />
+	<key id="s_gallery_desc_end_date" value="{0}년 {1}월 {2}일 점검 전까지!" />
 	<key id="s_item_treasure_map_button_appraise" value="감정하기" />
 	<key id="s_item_treasure_map_button_back" value="돌아가기" />
 	<key id="s_item_treasure_map_appraise_cost" value="감정비용 : {0} 메소" />
@@ -6081,8 +6049,8 @@
 	<key id="s_maple_survival_ui_notice_firstmatch_char_bind" value="&lt;FONT color=&apos;#c0c0c0&apos; &gt;이번 시즌 랭킹에는 이 캐릭터 이름이 표시됩니다.&lt;/FONT&gt;&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;" feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_season_title" value="{0} 시즌" feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_season_period" value="{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} {8:02d}:{9:02d}" feature="SurvivalContents01" />
-	<key id="s_maple_survival_ui_season_period" value="{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} {8:02d}:{9:02d}" locale="KR" feature="SurvivalContents01" />
-	<key id="s_maple_survival_ui_season_period" value="{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} 점검 전" locale="NA" feature="SurvivalContents01" />
+	<key id="s_maple_survival_ui_season_period" value="{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} {8:02d}:{9:02d}" feature="SurvivalContents01" locale="KR" />
+	<key id="s_maple_survival_ui_season_period" value="{0:2d}.{1:02d}.{2:02d} {3:02d}:{4:02d} ~ {5:02d}.{6:02d}.{7:02d} 점검 전" feature="SurvivalContents01" locale="NA" />
 	<key id="s_maple_survival_ui_free_season_title" value="프리 시즌" feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_free_season_period" value="시즌 기간이 아닐 때, 프리시즌이 진행됩니다." feature="SurvivalContents01" />
 	<key id="s_maple_survival_ui_refresh_season_record" value="시즌이 변경 되었습니다.\n다시 시도해주세요" feature="SurvivalContents01" />
@@ -6095,7 +6063,7 @@
 	<key id="s_maple_survival_in_storm" value="게으름 포자에 중독되었습니다. 안전 영역으로 이동하세요!" feature="SurvivalContents01" />
 	<key id="s_maple_survival_game_menu_no_next_period" value="다음 업데이트를 기다려주세요." feature="SurvivalContents01" />
 	<key id="s_maple_survival_game_menu_next_period" value="{0}년 {1}월 {2}일 {3:02d}:{4:02d}:{5:02d} ~ {6}년 {7}월 {8}일 {9:02d}:{10:02d}:{11:02d}일에 이용할 수 있습니다.\n기간 중에도 이용 시간 전인 경우 이용하실 수 없습니다." feature="SurvivalContents01" />
-	<key id="s_maple_survival_game_menu_next_period" value="{0}년 {1}월 {2}일 {3:02d}:{4:02d}:{5:02d} ~ {6}년 {7}월 {8}일 {9:02d}:{10:02d}:{11:02d}일에 이용할 수 있습니다." locale="NA" feature="SurvivalContents01" />
+	<key id="s_maple_survival_game_menu_next_period" value="{0}년 {1}월 {2}일 {3:02d}:{4:02d}:{5:02d} ~ {6}년 {7}월 {8}일 {9:02d}:{10:02d}:{11:02d}일에 이용할 수 있습니다." feature="SurvivalContents01" locale="NA" />
 	<key id="s_adventure_level_level" value="{0} 레벨" />
 	<key id="s_adventure_level_stat_reward" value="&lt;font color=&apos;#FFD400&apos;&gt;{0} 스탯 포인트 획득&lt;/font&gt;\n캐릭터 정보창에서 스탯 포인트를 사용할 수 있습니다.\n스탯 포인트는 모험레벨을 달성하는 즉시 지급됩니다." />
 	<key id="s_adventure_level_mission_NameKey" value="모험레벨 {0} 레벨 업 하기" feature="AdventureLevelMission" />
@@ -6112,10 +6080,11 @@
 	<key id="s_world_WorldmapIcon_mushking_appear" value="월드 레이드 머쉬킹" />
 	<key id="s_lapenshard_tabname_equip" value="장착" feature="Lapenshard01" />
 	<key id="s_lapenshard_tabname_upgrade" value="합성" feature="Lapenshard01" />
-	<key id="s_lapenshard_tabname_upgrade_success_prob" value="성공 확률 {0:0.2f}%" feature="Lapenshard01" comment="{0}:Success Probability" />
-	<key id="s_lapenshard_tabname_upgrade_input_count" value="사용할 개수 입력 (현재 보유 개수 : {0}개)" feature="Lapenshard01" comment="{0}:item Count" />
+	<key id="s_lapenshard_tabname_upgrade_success_prob" value="성공 확률 {0:0.2f}%" comment="{0}:Success Probability" feature="Lapenshard01" />
+	<key id="s_lapenshard_tabname_upgrade_input_count" value="사용할 개수 입력 (현재 보유 개수 : {0}개)" comment="{0}:item Count" feature="Lapenshard01" />
 	<key id="s_lapenshard_tabname_upgrade_lack_ingredient" value="재료가 부족합니다." feature="Lapenshard01" />
-	<key id="s_lapenshard_open_quest_message" value="&lt;font color=&apos;#FFD200&apos;&gt;[에픽] {0} 퀘스트&lt;/FONT&gt;를 완료해야 라펜샤드를 사용할 수 있습니다." feature="Lapenshard01" comment="{0}:Quest Name" />
+	<key id="s_lapenshard_open_quest_message" value="&lt;font color=&apos;#FFD200&apos;&gt;[에픽] {0} 퀘스트&lt;/FONT&gt;를 완료해야 라펜샤드를 사용할 수 있습니다." comment="{0}:Quest Name" feature="Lapenshard01" />
+	<key id="s_lapenshard_open_newbie_quest_message" value="&lt;font color=&apos;#FFD200&apos;&gt;{0} 퀘스트&lt;/FONT&gt;를 완료해야 라펜샤드를 사용할 수 있습니다." comment="{0}:Quest Name" feature="Lapenshard01" />
 	<key id="s_lapenshard_disable_field" value="해당 지역에서는 사용할 수 없습니다." feature="Lapenshard01" />
 	<key id="s_lapenshard_disable_battle" value="전투 중에는 사용할 수 없습니다." feature="Lapenshard01" />
 	<key id="s_lapenshard_upgraded_item" value="2단계 이상의 라펜샤드가 재료로 사용됩니다.\n정말 재료로 사용하시겠습니까?" feature="Lapenshard01" />
@@ -6128,19 +6097,11 @@
 	<key id="s_msg_nurturing_eat_success" value="{0}에게 먹이를 주었습니다.({1}/{2})" />
 	<key id="s_msg_nurturing_eat_success_nocount" value="{0}에게 먹이를 주었습니다." />
 	<key id="s_msg_nurturing_play_success" value="{0}$pp:와,과$ 놀아 주었습니다.({1}/{2})" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑+버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 점핑 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 60레벨까지 점핑할 수 있는 포션이 지급됩니다. \n• 60레벨부터 81레벨까지 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 레벨업 포션을 사용한 후에는 버닝 캐릭터를 삭제하여도 버닝 캐릭터를 지정하실 수 없습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑 물약 안내]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 9레벨부터 70레벨까지 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n•버닝 캐릭터를 70레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 2020년 6월 25일 점검 후 ~ 7월 29일 자정까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[70레벨달성 보상 안내]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 윈터 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 윈터 버닝 이벤트는 2019년 11월 13일 점검 후 ~ 12월 11일 점검 전까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 최종 보상]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="NA" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 9레벨부터 70레벨까지 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n•버닝 캐릭터를 70레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 2022년 08월 11일 점검 후 ~ 2022년 10월 13일 점검전까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[70레벨 달성 보상 안내]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="KR" />
 	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑+버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 점핑 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 50레벨까지 점핑할 수 있는 포션이 지급됩니다. \n• 50레벨부터 80레벨까지 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 레벨업 포션을 사용한 후에는 버닝 캐릭터를 삭제하여도 버닝 캐릭터를 지정하실 수 없습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑 물약 안내]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="CN" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2레벨을 추가 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n• 버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 12월 11일 점검 전까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 최종 보상]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="JP" />
-	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\n점핑+버닝 이벤트에 대한 내용을 숙지하고 {0} 캐릭터를 버닝 캐릭터로 지정하시려면 &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;확인&apos;&lt;/FONT&gt;을 눌러 주세요." comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\n버닝 이벤트에 대한 내용을 숙지하고 {0} 캐릭터를 버닝 캐릭터로 지정하시려면 &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;확인&apos;&lt;/FONT&gt;을 눌러 주세요." comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\n버닝 이벤트에 대한 내용을 숙지하고 {0} 캐릭터를 버닝 캐릭터로 지정하시려면 &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;확인&apos;&lt;/FONT&gt;을 눌러 주세요." comment="{0}:캐릭터 이름" locale="JP" />
-	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 레벨업 포션을 사용한 후에는 버닝 캐릭터를 삭제하여도 버닝 캐릭터를 지정하실 수 없습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑 물약 안내]&lt;/FONT&gt;\n\n" />
-	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2레벨을 추가 획득합니다. \n• 레벨 9에서 70까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 버닝 캐릭터를 70레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 7월 29일 자정까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[70레벨달성 보상 안내]&lt;/FONT&gt;\n\n" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\n버닝 이벤트에 대한 내용을 숙지하고 {0} 캐릭터를 버닝 캐릭터로 지정하시려면 &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;확인&apos;&lt;/FONT&gt;을 눌러 주세요." comment="{0}:캐릭터 이름" locale="KR" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2레벨을 추가 획득합니다. \n• 레벨 9에서 70까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 버닝 캐릭터를 70레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 2022년 10월 13일 점검전까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[70레벨 달성 보상 안내]&lt;/FONT&gt;\n\n" locale="KR" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑+버닝이란?]&lt;/FONT&gt;\n\n• 50레벨까지 점핑할 수 있는 포션이 지급됩니다. \n• 50레벨부터 80레벨까지 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 레벨업 포션을 사용한 후에는 버닝 캐릭터를 삭제하여도 버닝 캐릭터를 지정하실 수 없습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[점핑 물약 안내]&lt;/FONT&gt;\n\n" locale="CN" />
-	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[윈터 버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 윈터 버닝 이벤트는 2019년 11월 13일 점검 후 ~ 12월 11일 점검 전까지 진행됩니다." locale="NA" />
-	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2레벨을 추가 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n• 버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 12월 11일 점검 전까지 진행됩니다." locale="JP" />
 	<key id="s_burning_levelup_event_reward_ui_title" value="버닝달성" />
 	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="\n• 튜토리얼 완료 시 제공되는 60레벨 점핑 물약입니다. \n• 사용 시 캐릭터를 삭제해도 버닝 캐릭터를 다시 지정할 수 없습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[최종 보상]&lt;/FONT&gt;\n" />
 	<key id="s_burning_levelup_event_jumping_item_desc_popup" value="\n• 튜토리얼 완료 시 제공되는 50레벨 점핑 물약입니다. \n• 사용 시 캐릭터를 삭제해도 버닝 캐릭터를 다시 지정할 수 없습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[최종 보상]&lt;/FONT&gt;\n" locale="CN" />
@@ -6355,6 +6316,8 @@
 	<key id="s_wedding_hall_reservation_cancel_request" value="{0}님이 결혼식 예약을 취소하려고 합니다.\n취소에 동의하면 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰을 지급해 드립니다.\n예약 취소에 동의하시겠어요?" feature="Wedding" />
 	<key id="s_wedding_hall_reservation_cancel_no_refund_not_find_partner" value="{0}님이 같은 맵에 접속해 있지 않아 결혼 예약 취소 동의를 받을 수 없습니다. 이 경우, 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰이 지급되지 않습니다.\n그래도 결혼식 예약을 취소하시겠어요?" feature="Wedding" />
 	<key id="s_wedding_hall_reservation_cancel_no_refund_decline" value="{0}님이 결혼식 예약 취소에 동의하지 않았습니다. 이 경우, 추후 동일 등급의 결혼식장을 예약할 수 있는 무료 예약 쿠폰이 지급되지 않습니다. \n그래도 결혼식 예약을 취소하시겠어요?" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_cancel_new_not_find_partner" value="{0}님이 같은 맵에 접속해 있지 않아 결혼 예약 취소 동의를 받을 수 없습니다. 결혼식 예약을 취소할 수 없습니다." feature="Wedding" />
+	<key id="s_wedding_hall_reservation_cancel_new_refund_decline" value="{0}님이 결혼식 예약 취소에 동의하지 않았습니다. 결혼식 예약을 취소할 수 없습니다." feature="Wedding" />
 	<key id="s_wedding_hall_reservation_select_hall" value="결혼식장을 선택해 주세요." feature="Wedding" />
 	<key id="s_wedding_hall_reservation_select_time" value="결혼식 시간을 선택해 주세요." feature="Wedding" />
 	<key id="s_wedding_hall_reservation_paclkage_err" value="예약 변경을 할 수 있는 결혼식장이 없습니다. 다른 웨딩 플래너를 만나보거나, 결혼식을 예약했던 시간을 다시 확인해 주세요." feature="Wedding" />
@@ -6432,13 +6395,286 @@
 	<key id="s_payback_bill_bottom_button_text" value="자세히 보기" feature="Payback" />
 	<key id="s_tooltip_gamemenu_payback" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;페이백{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n주황버섯의 파워업 뽑기에 소모한 메럿의 일부를\n페이백 받을 수 있습니다." feature="Payback" />
 	<key id="s_payback_error_reward_time" value="페이백 정산 작업 중입니다.\n\n[정산 작업 시간] 00:00 ~ 00:05 " feature="Payback" />
-	<key id="s_itemgacha_dialog_title" value="{0}" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_skin" value="스킨" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_look" value="외형" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_specup" value="스펙업" feature="" />
-	<key id="s_itemgacha_dialog_gacha_type_special" value="스페셜" feature="" />
-	<key id="s_itemgacha_dialog_gacha_endtime" value="{0}/{1}/{2} {3:02d}:{4:02d}:{5:02d}까지 판매" feature="" />
-	<key id="s_itemgacha_dialog_err_unknown" value="문제가 발생하였습니다. 다시 한번 시도해주세요." feature="" />
+	<key id="s_payback_error_uiopen_end_time" value="페이백 이벤트가 종료 되었습니다." feature="Payback" />
+	<key id="s_itemgacha_dialog_title" value="{0}" />
+	<key id="s_itemgacha_dialog_gacha_type_skin" value="스킨" />
+	<key id="s_itemgacha_dialog_gacha_type_look" value="외형" />
+	<key id="s_itemgacha_dialog_gacha_type_specup" value="스펙업" />
+	<key id="s_itemgacha_dialog_gacha_type_special" value="스페셜" />
+	<key id="s_itemgacha_dialog_gacha_endtime" value="{0}/{1}/{2} {3:02d}:{4:02d}:{5:02d}까지 판매" />
+	<key id="s_itemgacha_dialog_err_unknown" value="문제가 발생하였습니다. 다시 한번 시도해주세요." />
 	<key id="s_itemgacha_dialog_not_enough_item_shop_link" value="{0} 아이템이 부족합니다.\n구매하러 가시겠습니까?" />
 	<key id="s_itemgacha_dialog_not_enough_capsulemachine" value="{0} 아이템이 부족합니다." />
+	<key id="s_longtermattendgift_dialog_title" value="깨어나! 황금더키볼! 이벤트 ({0}점검후 ~ {1})" />
+	<key id="s_longtermattendgift_dialog_desc" value="넣지 않은 더키볼 : 매일 00:00시 이후 접속하면 더키볼 하나를 지급받습니다.\n열린 빈칸 : 접속 유무와 상관 없이 이벤트 시작일로부터 종료시 까지 한 칸씩 더키볼을 넣을 수 있는 칸이 열립니다.\n더키볼 넣기 : 버튼을 클릭하면 넣지 않은 더키볼 1개와 열린 빈칸 1개가 차감되며, 넣은 더키볼 수에 따른 보상을 지급 받습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; &gt;더키볼을 다 넣어도 열린 빈칸이 남은 경우&lt;/FONT&gt;&lt;FONT color=&apos;#1E90FF&apos; size=&apos;15&apos; &gt;250메럿&lt;/FONT&gt;&lt;FONT color=&apos;#FFD200&apos; &gt;을 소모하여 열린 빈칸을 채울 수 있습니다.&lt;/FONT&gt;&lt;" />
+	<key id="s_longtermattendgift_dialog_desc" value="넣지 않은 더키볼 : 매일 00:00시 이후 접속하면 더키볼 하나를 지급받습니다.\n열린 빈칸 : 접속 유무와 상관 없이 이벤트 시작일로부터 종료시 까지 한 칸씩 더키볼을 넣을 수 있는 칸이 열립니다.\n더키볼 넣기 : 버튼을 클릭하면 넣지 않은 더키볼 1개와 열린 빈칸 1개가 차감되며, 넣은 더키볼 수에 따른 보상을 지급 받습니다.\n\n&lt;FONT color=&apos;#FFD200&apos; &gt;더키볼을 다 넣어도 열린 빈칸이 남은 경우&lt;/FONT&gt;&lt;FONT color=&apos;#1E90FF&apos; size=&apos;15&apos; &gt;1500메럿&lt;/FONT&gt;&lt;FONT color=&apos;#FFD200&apos; &gt;을 소모하여 열린 빈칸을 채울 수 있습니다.&lt;/FONT&gt;&lt;" locale="CN" />
+	<key id="s_longtermattendgift_dialog_point" value="X {0}" />
+	<key id="s_longtermattendgift_dialog_err_msg_empty_point" value="열린 빈칸이 없습니다.\n아직 남은 출석일이 있다면, 내일 다시 시도하세요. " />
+	<key id="s_longtermattendgift_dialog_err_msg_attendance_full" value="열린 빈칸이 없습니다.\n아직 남은 출석일이 있다면, 내일 다시 시도 하세요." />
+	<key id="s_longtermattendgift_dialog_use_merat" value="열린 빈칸을 채우기 위해 {0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;을 소진합니다.\n계속 하시겠습니까?" />
+	<key id="s_longtermattendgift_dialog_invalid_event" value="진행할 수 없는 이벤트입니다." />
+	<key id="s_adventure_protect_err" value="모험가 보호 프로그램 작동중입니다." />
+	<key id="s_delete_account_check_msg_step_1" value="상기 탈퇴 조건을 충족했음을 확인했습니다." />
+	<key id="s_delete_account_check_msg_step_2" value="약관 내용을 상세하게 읽었으며 동의합니다." />
+	<key id="s_delete_account_hyperlink_msg" value="게임 계정 해지 규약" />
+	<key id="s_delete_account_terms_step_1" value="친애하는 도민, 도미니카는 귀하의 탈퇴에 대해 깊은 유감을 표합니다. 귀하의 계좌번호와 재산안전을 위하여 제출하신 청구서가 효력을 발생하기 전에, 조건을 충족하였음을 확실히 해 주십시오. 모험도2 운영진도 상황을 보고 검증하실 수 있습니다:\n1, 계좌번호가 보안 및 정상 사용상태입니다: 귀하의 청구전 2주 동안 비밀번호 2단계 개설, 보안 면제 조작 등 민감한 운영사항이 없습니다.계정이 위반되지 않은 기간 \n2, 게임 수익이 결제되었거나, 타당하게 처리됨: 포함하되 블루 버섯 화폐, 레드 버섯 화폐, 금화, 도구, 회원권익 등의 수익에 한하지 않습니다.처리하지 않을 경우 귀하의 자발적 포기 등의 수익으로 간주하여 주시기 바랍니다.\n3, 계좌번호 미완료 상태 없음: 블루칩 충전, 구매 및 소비 쇼핑몰 도구 포함 \n4, 계좌번호 분쟁 없음: 신고 접수, 신고, 중재, 소송 등 분쟁" />
+	<key id="s_delete_account_terms_step_2" value="존경하는 이용자 여러분, 본 게임에 대한 게임 계정 로그아웃 프로세스를 본격적으로 시작하시기 전에, 게임 계정 로그아웃 약정(이하 &quot;본 약정&quot;이라 함)을 반드시 자세히 읽어보시고 동의해 주시기 바랍니다.당신이 우리의 로그아웃 절차에 따라 로그아웃 프로세스를 시작하거나, 또는 본 프로토콜을 선택하고 다음 작업을 클릭하는 것은 당신이 이미 본 프로토콜의 전체 내용을 동의하고 준수한다고 간주하는 것입니다.우리는 특별히 당신에게 \n에서 이 게임 계정을 해지한 후 법률 법규와 본 약정이 따로 정해져 있는 것 외에 귀하의 게임 계정의 개인정보는 삭제 또는 익명화 처리될 것이며, 귀하는 더 이상 검색, 방문, 획득, 계속 사용 및 찾을 수 없으며, 개인정보는 계정 아래 각 캐릭터의 닉네임, 장비, 성취, 통화 및 기타 가상화 도구, 게시물, 아이템, 찾기에 제한되지 않으며, 개인정보를 찾을 권한이 없습니다." />
+	<key id="s_delete_account_terms_step_3" value="오작동을 방지하기 위하여 계정 해지여부를 다시 한번 확인하시고 로그아웃 후의 영향을 확인하시기 바랍니다.해당 영향에는 (&apos;게임 계정 해지 약정&apos;을 참조)만 해당되지 않습니다:\n1. 이 계정이 해지되면 로그인 및 이용이 불가능하고 복구할 수 없습니다.법률법규나 게임계정 말소 약정 외에 귀하의 게임계좌에 포함된 개인정보는 삭제 또는 익명화 처리되며 귀하의 개인정보를 찾을 수 없으며, 저희에게 청구할 권한이 없습니다.\n2, 이 계정은 본 게임의 이용기간 동안 발생했거나 미래에 발생할 수 있는 모든 수익 또는 이권을 소멸합니다.이에 따라, 본 게임 계정을 해지하기 전에 귀하의 게임 수익이나 이권이 적절히 처리되었는지 확인하여 주시기 바랍니다.그렇지 않으면, 계좌의 해지 후, 우리는 이 계좌의 모든 수익 또는 권익을 제거 처리할 권리가 있으며, 이로 인해 발생하는 결과는 당신이 스스로 책임져야 합니다.전술한 게임의 수익이나 권익에는 계정 내에 남아 있는 모든 게임의 가상 도구, 가상 화폐 및 기타 가상 물품과 부가가치 서비스에 국한되지 않는다." />
+	<key id="s_delete_account_terms_step_4" value="사용자 여러분, 계정 보안을 위해 계정 해지 확인을 위해 실제 정보를 제공하시기 바랍니다. 이 정보는 이 확인에만 사용됩니다." />
+	<key id="s_delete_account_terms_step_end" value="해당 계정은 60일의 잠금기간이 있음을 유의하시기 바랍니다.법 규정과 해지 약정의 경우를 제외하고, 잠금 기간이 만료된 후에 해지, 삭제 또는 익명화를 완료하여 귀하의 개인정보를 처리하겠습니다.이 기간동안에 당신은 로그아웃이 잘 되도록 로그인하거나 이 계정을 사용하지 마세요. 그렇지 않으면 로그아웃이 취소된 것으로 간주됩니다." />
+	<key id="s_delete_account_terms_step_end_title" value="탈퇴 신청이 성공적으로 접수되었습니다." />
+	<key id="s_delete_account_terms_step_end_game_button" value="게임 나가기" />
+	<key id="s_delete_account_terms_step_4_label1" value="성명" />
+	<key id="s_delete_account_terms_step_4_label2" value="신분번호" />
+	<key id="s_delete_account_result_check_fail_err_characterpending" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 현재 삭제 진행중입니다." />
+	<key id="s_delete_account_result_check_fail_err_select_character" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 현재 선택되어 있습니다." />
+	<key id="s_delete_account_result_check_fail_err_db_blcakmarket" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 블랙마켓에 등록한 아이템이 있습니다." />
+	<key id="s_delete_account_result_check_fail_err_db_guild" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 길드에 가입되어 있습니다." />
+	<key id="s_delete_account_result_check_fail_err_db_ugcmarket" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 디자이너스샵에 등록한 아이템이 있습니다." />
+	<key id="s_delete_account_result_check_fail_err_db_wedding" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 약혼, 결혼, 이혼 조정 중인 상태입니다." />
+	<key id="s_delete_account_result_check_fail_err_db_mail" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터에 읽지 않은 메일들이 있습니다." />
+	<key id="s_delete_account_result_check_fail_err_db_mesomarket" value="계정 해지 신청이 실패하였습니다.\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0}&lt;/FONT&gt; 캐릭터가 블랙마켓에 등록한 메소가 있습니다." />
+	<key id="s_delete_account_result_check_fail_err_db_norow" value="계정 해지 신청이 실패하였습니다.\n삭제할 계정이 올바르지 않습니다." />
+	<key id="s_delete_account_result_unknown" value="계정 해지 신청이 실패하였습니다.\n알수 없는 오류가 발생하였습니다." />
+	<key id="s_delete_account_cancel_login_success" value="잠금 기간에 재접속한 관계로 탈퇴 신청이 자동적으로 취소되었습니다." />
+	<key id="s_delete_account_cancel_login_fail" value="계정 탈퇴 취소에 오류가 있어서 실패하였습니다." />
+	<key id="s_delete_account_check_session_key_fail" value="계정 해지 신청이 실패하였습니다.\n사용자 정보를 조회할 수 없습니다." />
+	<key id="s_delete_account_check_user_cert_id_query_fail" value="계정 해지 신청이 실패하였습니다.\n신분 인증 요청에 실패하였습니다. " />
+	<key id="s_delete_account_check_user_cert_id_verify_fail" value="계정 해지 신청이 실패하였습니다.\n신분 인증 결과가 올바르지 않습니다." />
+	<key id="s_delete_account_check_certid_fail_invalid_certnameid" value="계정 해지 신청이 실패하였습니다.\n인증할 이름과 신분번호가 올바르지 않습니다." />
+	<key id="s_delete_account_check_certid_fail_invalid_skey" value="계정 해지 신청이 실패하였습니다.\n세션키가 올바르지 않습니다." />
+	<key id="s_delete_account_check_certid_fail_invalid_platformsn" value="계정 해지 신청이 실패하였습니다.\n인증할 정보가 올바르지 않습니다." />
+	<key id="s_quest_start_err_has_quest" value="이미 퀘스트를 가지고 있습니다." />
+	<key id="s_quest_start_err_completed" value="이미 수행한 퀘스트 입니다." />
+	<key id="s_quest_start_err_level" value="레벨이 낮아서 사용 할 수 없습니다." />
+	<key id="s_quest_start_err_invalid" value="퀘스트를 수락을 할 수 없습니다." />
+	<key id="s_quest_start_success" value="퀘스트가 수락 되었습니다." />
+	<key id="s_quest_start_title" value="퀘스트 시작 아이템" />
+	<key id="s_quest_start_msg" value="{0}\n퀘스트를 등록 합니다.\n\n등록된 퀘스트는 다시 아이템으로 되돌릴 수 없습니다.\n\n등록 하시겠습니까?" />
+	<key id="s_personal_infomaion_agreement_title" value="알림" />
+	<key id="s_personal_infomaion_agreement_sendlog_content" value="양질의 게임 서비스 제공과 계정 보안을 위해 계정 정보를 해외 개발사에 전송하여 분석합니다. 정보는 게임성능 개선 및 문제해결을 위해서만 사용됩니다." />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_allowed" value="허용" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_deny" value="거절" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_detail" value="상세보기" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_content" value="더 나은 게임 체험을 위해 개인 정보 공개 동의여부를 선택해 주십시오.\n(게임 설정 페이지에서도 변경 가능합니다)\n유저 정보 - 내집 정보\n전체/부분/아무에게도 공개하지 않도록 설정 가능" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_public" value="공개" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_password" value="비번 입력" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_private" value="비공개" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_input_password" value="홈 권한 비밀번호를 입력하십시오.\n(숫자 6자리만 가능합니다.)" />
+	<key id="s_pc_info_name_shield" value="보호막" />
+	<key id="s_lead_skill_require" value="{0} 직업의 캐릭터 장착 무기의 한계돌파 {1}단계 이상 " />
+	<key id="s_lead_skill_from_char" value="&lt;FONT color=&apos;#E26741&apos; &gt;리드 캐릭터 : {0}&lt;/FONT&gt;" />
+	<key id="s_lead_skill_from_unlimited_level" value="&lt;FONT color=&apos;#E26741&apos; &gt;리드 캐릭터 한계돌파 {0}단계&lt;/FONT&gt;" />
+	<key id="s_lead_skill_check_fail_cooltime" value="스킬 쿨타임 도중에 스킬을 교체할 수 없습니다." />
+	<key id="s_msg_item_use_only_shadowcontinent" value="쉐도우 월드에서만 사용할 수 있습니다." />
+	<key id="s_item_err_use_low_level" value="레벨이 낮아 사용할 수 없습니다." />
+	<key id="s_err_lack_meso_market_token" value="메소 토큰이 부족합니다." feature="MesoMarketNA" locale="NA" />
+	<key id="s_err_lack_meso_makret_token_ask" value="You don&apos;t have enough Meso Tokens&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;. Do you want to buy some?" feature="MesoMarketNA" locale="NA" />
+	<key id="s_err_lack_meso_makret_token_ask_steam" value="You don&apos;t have enough Meso Tokens&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;. Do you want to know how to get some?" feature="MesoMarketNA" locale="NA" />
+	<key id="s_word_item_title_create" value="武器の封印が解かれ、隠されていた能力を発見しました。" />
+	<key id="s_cannot_charge_merat" value="蘑菇币不足。" feature="MeratMarketClosing" />
+	<key id="s_msg_take_meso_market_token" value="You got {0} Meso Tokens." feature="MesoMarketToken" locale="NA" />
+	<key id="s_party_err_vote_cannot_kick_vote_only_dungeon" value="只能在副本中战斗期间使用。" feature="PartyVoteKick" />
+	<key id="s_party_err_dungeon_match_another" value="STRINGCOMMON_S_PARTY_ERR_DUNGEON_MATCH_ANOTHER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_party_err_isNotChief" value="STRINGCOMMON_S_PARTY_ERR_ISNOTCHIEF_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_party_err_hasOfflineUser" value="STRINGCOMMON_S_PARTY_ERR_HASOFFLINEUSER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_party_err_inside_survival" value="STRINGCOMMON_S_PARTY_ERR_INSIDE_SURVIVAL_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_party_err_another_matching" value="STRINGCOMMON_S_PARTY_ERR_ANOTHER_MATCHING_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_party_err_survival_has_solo_register" value="STRINGCOMMON_S_PARTY_ERR_SURVIVAL_HAS_SOLO_REGISTER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_myhouse_address_with_room" value="{0} {1}동 {2}호" />
+	<key id="s_myhouse_name_with_room" value="{0}동 {1}호 {2}" />
+	<key id="s_char_err_founderspack" value="STRINGCOMMON_S_CHAR_ERR_FOUNDERSPACK_VALUE:[F]FoundersPackMode" feature="FoundersPackMode" />
+	<key id="s_beauty_msg_error_color" value="无法使用该颜色。" feature="NaColorSystem" />
+	<key id="s_item_opt_sa_improve_acquire_questreward_meso" value="퀘스트 완료 시 얻는 메소 증가" />
+	<key id="s_item_opt_sa_improve_acquire_questreward_meso_v" value="퀘스트 완료 시 얻는 메소 {0:d} 증가" />
+	<key id="s_item_opt_sa_improve_acquire_questreward_meso_r" value="퀘스트 완료 시 얻는 메소 {0:0.1f}% 증가" />
+	<key id="s_item_opt_sa_improve_acquire_potion" value="물약 발견 확률 증가" />
+	<key id="s_item_opt_sa_improve_acquire_potion_v" value="물약 발견 확률 증가 {0:d}" />
+	<key id="s_item_opt_sa_improve_acquire_potion_r" value="물약 발견 확률 {0:0.1f}% 증가" />
+	<key id="s_item_opt_sa_improve_damage_leaderNpc" value="리더 몬스터 공격 시 대미지 증가" />
+	<key id="s_item_opt_sa_improve_damage_leaderNpc_v" value="리더 몬스터 공격 시 대미지 증가 {0:d}" />
+	<key id="s_item_opt_sa_improve_damage_leaderNpc_r" value="리더 몬스터 공격 시 대미지 {0:0.1f}% 증가" />
+	<key id="s_item_opt_sa_skill_levelup_tier_r" value="{0} : {1}Lv +{2}" />
+	<key id="s_item_opt_sa_skill_levelup_tier_r_active" value="&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;" />
+	<key id="s_item_opt_sa_additionaleffect_95000018" value="수정중" />
+	<key id="s_item_opt_sa_additionaleffect_95000018_v" value="수정중 {0} lv" />
+	<key id="s_item_opt_sa_additionaleffect_95000018_r" value="수정중 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000020" value="5m 이내 적이 1명인 경우 총 대미지 증가" />
+	<key id="s_item_opt_sa_additionaleffect_95000020_v" value="5m 이내 적이 1명인 경우 총 대미지 증가 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000020_r" value="5m 이내 적이 1명인 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000021" value="5m 이내 적이 3명 이상인 경우 총 대미지 증가" />
+	<key id="s_item_opt_sa_additionaleffect_95000021_v" value="5m 이내 적이 3명 이상인 경우 총 대미지 증가 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000021_r" value="5m 이내 적이 3명 이상인 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000022" value="SP가 80 이상인 경우 총 대미지 증가" />
+	<key id="s_item_opt_sa_additionaleffect_95000022_v" value="SP가 80 이상인 경우 총 대미지 증가 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000022_r" value="SP가 80 이상인 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000023" value="EP가 가득 찬 경우 총 대미지 증가" />
+	<key id="s_item_opt_sa_additionaleffect_95000023_v" value="EP가 가득 찬 경우 총 대미지 증가 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000023_r" value="EP가 가득 찬 경우 총 대미지 증가 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000024" value="약초류 효과가 유지되는 동안 총 대미지 증가" />
+	<key id="s_item_opt_sa_additionaleffect_95000024_v" value="약초류 효과가 유지되는 동안 총 대미지 증가 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000024_r" value="약초류 효과가 유지되는 동안 총 대미지 증가 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000025" value="필드 보스 타격 시 대미지 증가" />
+	<key id="s_item_opt_sa_additionaleffect_95000025_v" value="필드 보스 타격 시 대미지 증가 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000025_r" value="필드 보스 타격 시 대미지 증가 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000026" value="95000026" />
+	<key id="s_item_opt_sa_additionaleffect_95000026_v" value="95000026 {0} lv" />
+	<key id="s_item_opt_sa_additionaleffect_95000026_r" value="95000026 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000027" value="95000027" />
+	<key id="s_item_opt_sa_additionaleffect_95000027_v" value="95000027 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000027_r" value="95000027 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000028" value="95000028" />
+	<key id="s_item_opt_sa_additionaleffect_95000028_v" value="95000028 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000028_r" value="95000028 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_additionaleffect_95000029" value="95000029" />
+	<key id="s_item_opt_sa_additionaleffect_95000029_v" value="95000029 - 레벨 {0}" />
+	<key id="s_item_opt_sa_additionaleffect_95000029_r" value="95000029 - 레벨 {0:0.1f}%" />
+	<key id="s_item_opt_sa_improve_fieldboss_kill_exp" value="필드 보스 처치 시 경험치 증가" />
+	<key id="s_item_opt_sa_improve_fieldboss_kill_exp_v" value="필드 보스 처치 시 경험치 {0} 증가" />
+	<key id="s_item_opt_sa_improve_fieldboss_kill_exp_r" value="필드 보스 처치 시 경험치 {0:0.1f}% 증가" />
+	<key id="s_item_opt_sa_improve_fieldboss_kill_drop" value="필드 보스 처치 시 아이템 드랍확률 증가" />
+	<key id="s_item_opt_sa_improve_fieldboss_kill_drop_v" value="필드 보스 처치 시 아이템 드랍확률 {0} 증가" />
+	<key id="s_item_opt_sa_improve_fieldboss_kill_drop_r" value="필드 보스 처치 시 아이템 드랍확률 {0:0.1f}% 증가" />
+	<key id="s_item_opt_sa_reduce_fieldboss_recive_damage" value="필드 보스에게 피격 시 대미지 감소" />
+	<key id="s_item_opt_sa_reduce_fieldboss_recive_damage_v" value="필드 보스에게 피격 시 대미지 {0} 감소" />
+	<key id="s_item_opt_sa_reduce_fieldboss_recive_damage_r" value="필드 보스에게 피격 시 대미지 {0:0.1f}% 감소" />
+	<key id="s_item_opt_sa_improve_socket_unlock_probability" value="" />
+	<key id="s_item_opt_sa_improve_socket_unlock_probability_v" value="" />
+	<key id="s_item_opt_sa_improve_socket_unlock_probability_r" value="" />
+	<key id="s_item_opt_has_additional_effect" value="{0}" />
+	<key id="s_word_item_limit_bind_trade" value="거래 시 캐릭터 귀속" />
+	<key id="s_word_skill_move" value="액션" />
+	<key id="s_word_item_title_none" value="鈍くなった{0}" />
+	<key id="s_word_item_title_kill" value="{0}人を倒した{1}" />
+	<key id="s_word_item_title_master" value="封印が解かれた{0}" />
+	<key id="s_word_item_title_status" value="{0}{1}%増加" />
+	<key id="s_word_item_title_hidden" value="封印された能力" />
+	<key id="s_word_item_stat_zero" value="1 미만" />
+	<key id="s_msg_skillbook_learn_notexistslot" value="비어있는 보조 스킬 슬롯이 없어서 배울 수 없습니다." />
+	<key id="s_msg_skillbook_error_job" value="직업이 달라 배울 수 없습니다." />
+	<key id="s_msg_skillbook_error_level" value="아직 배울 수 있는 레벨이 아닙니다." />
+	<key id="s_msg_skillbook_error_master" value="이미 배운 스킬입니다." />
+	<key id="s_msg_skillbook_error_expired" value="만료된 아이템입니다." />
+	<key id="s_action_pickup" value="アイテム拾得" />
+	<key id="s_move_err_InsideSurvivalSquad" value="STRINGCOMMON_S_MOVE_ERR_INSIDESURVIVALSQUAD_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_tooltip_gamemenu_mushking_royal" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;マッシュキングチャンピオンシップ&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nマッシュキングチャンピオンシップの情報確認および参加申請を行うことができます。" />
+	<key id="s_eventtag_gamemenu_mushking_royal_buff" value="STRINGCOMMON_S_EVENTTAG_GAMEMENU_MUSHKING_ROYAL_BUFF_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_mesoMarket_ask_buy_text" value="Purchase &lt;font color=&apos;#FFB400&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt; for\n{1}&lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;?" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_market_price" value="Average: {1} &lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;/&gt;" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_listItem_buyMerat" value="&lt;font color=&apos;#ffffff&apos; &gt;{0}&lt;/font&gt; {1}" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_buy_count" value="Monthly Purchase Limit: {0}/{1}" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_search_explain" value="Showing the last {1} transactions. Mesos can be purchased {0} times per month. This limit resets on the 1st of every month." feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_mail_to_seller_content" value="The mesos you listed on the Black Market have been sold. Please check the attached amount.\n\nMesos Sold: {0} &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nSale Price: {1} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nProfit: {4} &lt;img src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_mail_to_buyer_content" value="Your Black Market mesos have arrived! Please find them attached to this mail.\n\nMesos Purchased: {0} &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\nPurchase Price: {1} &lt;img src=&apos;export_common_icon_meso_market_token&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;\n" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_mail_to_cancel_content" value="The mesos you listed on the Black Market have been returned.\n\nListed Mesos: &lt;img src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/img&gt;{0}\n" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_register_terms_content" value="&lt;FONT color=&apos;#C0C0C0&apos; size=&apos;15&apos; &gt;Black Market Operations Notice&lt;/FONT&gt;\n\n1) Item Trades\n- Items listed for sale will appear on the sales log for {5} days.\n- Mesos listed on the Black Market can be purchased with Meso Tokens. When the mesos sell, the payout will be provided in the form of blue merets.\n-  If the sale is canceled or expires, the mesos will be returned to you via mail.\n- When listing mesos for sale, the price must be within {7}% of the average trade price.\n- You may list mesos on the Black Market up to {8} times per day per account. This limit resets daily at midnight.\n- You may purchase mesos on the Black Market up to {9} times per month per account. This limit resets on the 1st of every month at midnight.\n\n2) Item Trades - After listing the item to be sold, it will appear on the sales log for {0} day(s).\n- When listing an item, {1}% of the sale price (max {2} mesos) will be taken as a deposit. The deposit will be returned by mail when the sale is completed, or alongside the item when the listing expires. However, the deposit will not be returned if you cancel the sale yourself.\n- When the sale is canceled or expires, the listed items will be returned to you by mail.\n- When your item sells, {3} of the sale price will be deducted as a sales fee during payout calculation.\n\n3) General Notice\n- Items and mesos sent by mail as the result of a completed sale, expired listing, or canceled listing will be deleted from your mailbox if not claimed within {4} days, the standard expiration period for stored mail..\n- In the event that a problem occurs with the trade, the payout may be restored.\n" feature="MesoMarketNA" locale="NA" />
+	<key id="s_mesoMarket_error_maxCountBuy" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;You&apos;ve reached your meso purchase limit.&lt;/FONT&gt;\nThe limit is reset on the 1st of every month. You cannot purchase any more mesos this month." feature="MesoMarketNA" locale="NA" />
+	<key id="s_item_repacking_pet_limit_count" value="STRINGCOMMON_S_ITEM_REPACKING_PET_LIMIT_COUNT_VALUE:[F]PetRePackingHide" feature="PetRePackingHide" />
+	<key id="s_common_gacha_item_name" value="{0} ({1}次)" />
+	<key id="s_room_dungeon_error_used_reset_united_reward" value="本周已重置过奖励次数。\n请在周五晚上12点以后再尝试。" feature="DungeonRewardCountJoin02" />
+	<key id="s_room_dungeon_error_still_have_united_reawrd" value="每周奖励次数有剩余。\n请在用光每周奖励次数后，再次尝试。" feature="DungeonRewardCountJoin02" />
+	<key id="s_room_dungeon_error_shutdown_united_reawrd_reset" value="(Beta)当前处于初始化每周奖励次数的外部测试时间，已暂停使用。" feature="DungeonRewardCountJoin02" />
+	<key id="s_dungeonRoom_itemBuff_notify" value="해당 던전에 추가 보상이 지급됩니다. " />
+	<key id="s_dungeonRoom_use_extra_coupon" value="&lt;FONT color=&apos;#FFD200&apos;&gt;[{0}]&lt;/FONT&gt;使用" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip1" value="주간 랭크 달성도는 매주 {0} 0시에 초기화되며 &lt;FONT color=&apos;#00AEEF&apos;&gt;카오스 레이드({1}레벨이상)&lt;/FONT&gt; 던전의 \n랭크 합산 점수에 따라 우편으로 보상이 지급됩니다.\n" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip2" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\n보상 정보\n&lt;/FONT&gt;" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip2_sub" value=" - {0}점 이상 : &lt;FONT color=&apos;#00aaef&apos;&gt;{1}\n&lt;/FONT&gt;" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip3" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\n던전별 주간 달성도&lt;/FONT&gt; : &lt;FONT color=&apos;#33db17&apos;&gt;{0}&lt;/FONT&gt; / {1}\n" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip3_sub" value=" - ({1}){0} : {2}랭크 (&lt;FONT color=&apos;#33db17&apos;&gt;{3}&lt;/FONT&gt;/ {4})\n" />
+	<key id="s_dungeonRoom_seasonSummary_tooltip3_none" value=" - 랭크 정보가 없습니다.\n" />
+	<key id="s_dungeonSearch_confirm_united_reward_reset" value="消耗完每周奖励次数后，每周可以重置一次（限账号内一个角色）。\n\n&lt;FONT color=&apos;#00A2ED&apos;&gt;完成一次重置后，需要等到周五晚上12点以后才能再次重置。&lt;/FONT&gt;\n\n需要重置当前角色的每周奖励次数吗？" feature="DungeonRewardCountJoin02" />
+	<key id="s_dungeonSearch_success_united_reward_reset" value="已重置每周奖励次数。" feature="DungeonRewardCountJoin02" />
+	<key id="s_room_exit_maple_survival" value="머쉬킹 챔피언십 나가기" feature="SurvivalContents01" />
+	<key id="s_room_exit_msg_maple_survival" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;머쉬킹 챔피언십을 포기하고 밖으로 이동합니다.&lt;/font&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;\n매치 도중 종료 시 보상은 받지 못 하며,\n랭킹은 현재 등수를 기준으로 적용됩니다.&lt;/font&gt;" feature="SurvivalContents01" />
+	<key id="s_enchantscroll_desc_disable_break" value="STRINGCOMMON_S_ENCHANTSCROLL_DESC_DISABLE_BREAK_VALUE:[F]EnchantDisableBreak01" feature="EnchantDisableBreak01" />
+	<key id="s_itemremake_scroll_main_option_with_color" value="&lt;font color=&apos;#ffffff&apos;&gt;{0}&lt;/font&gt;" />
+	<key id="s_itemremake_scroll_desc_main_option_kind_o" value="기본 옵션 종류가 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_kind_x" value="기본 옵션 종류가 변경되지 않습니다." />
+	<key id="s_itemremake_scroll_desc_main_option_value_x" value="기본 옵션 수치가 변경되지 않습니다." />
+	<key id="s_itemremake_scroll_desc_main_option_value_o" value="기본 옵션 수치가 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_value_high" value="기본 옵션 수치가 높은 수치로 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_value_max" value="기본 옵션 수치가 최대치로 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_pet_kind_o" value="기본 능력 종류가 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_pet_kind_x" value="기본 능력 종류가 변경되지 않습니다." />
+	<key id="s_itemremake_scroll_desc_main_option_pet_value_x" value="기본 능력 수치가 변경되지 않습니다." />
+	<key id="s_itemremake_scroll_desc_main_option_pet_value_o" value="기본 능력 수치가 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_pet_value_high" value="기본 능력 수치가 높은 수치로 변경됩니다." />
+	<key id="s_itemremake_scroll_desc_main_option_pet_value_max" value="기본 능력 수치가 최대치로 변경됩니다." />
+	<key id="s_itemremake_scroll_notice_item_condition" value="只能用于属性变更券说明中标明的道具" feature="ItemRemakeOption02" />
+	<key id="s_itemremake_scroll_notice_item_condition_pet" value="只能用于附加能力变更券说明中标识的宠物" feature="ItemRemakeOption02" />
+	<key id="s_tooltip_itemoption_kinds_static" value="&lt;font color=&apos;#ffffff&apos;&gt;기본 옵션\n{0}&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_kinds_merge_2step" value="&lt;font color=&apos;#FF5400&apos;&gt;{0}&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_kinds_merge_3step" value="&lt;font color=&apos;#FF5400&apos;&gt;{0}&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_kinds_merge_4step" value="&lt;font color=&apos;#FF5400&apos;&gt;{0}&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_kinds_merge_5step" value="&lt;font color=&apos;#FF5400&apos;&gt;{0}&lt;/font&gt;" />
+	<key id="s_tooltip_itemoption_stat_row_pet_disable" value="&lt;font color=&apos;#707070&apos;&gt;· {0}&lt;/font&gt;\n" />
+	<key id="s_tooltip_itemoption_stat_row_pet_level" value="{0} [펫 Lv. {1}]" />
+	<key id="s_tooltip_itemmerge_option_range_v" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
+	<key id="s_tooltip_itemmerge_option_range_f" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}~{2}&lt;/font&gt;" />
+	<key id="s_play_instrument_instrument_category_name_31" value="STRINGCOMMON_S_PLAY_INSTRUMENT_INSTRUMENT_CATEGORY_NAME_31_VALUE:[F]JPInstrument" feature="JPInstrument" />
+	<key id="s_play_instrument_instrument_category_name_32" value="STRINGCOMMON_S_PLAY_INSTRUMENT_INSTRUMENT_CATEGORY_NAME_32_VALUE:[F]JPInstrument" feature="JPInstrument" />
+	<key id="s_play_instrument_instrument_category_name_33" value="STRINGCOMMON_S_PLAY_INSTRUMENT_INSTRUMENT_CATEGORY_NAME_33_VALUE:[F]JPInstrument" feature="JPInstrument" />
+	<key id="s_play_instrument_instrument_category_name_34" value="STRINGCOMMON_S_PLAY_INSTRUMENT_INSTRUMENT_CATEGORY_NAME_34_VALUE:[F]JPInstrument" feature="JPInstrument" />
+	<key id="s_itemsocketsystem_socket_maxcount" value="+{0}個のソケット" />
+	<key id="s_pesca_promotion_reward" value="[佩斯卡的礼物]获得了额外奖励{0}。" feature="promotionContents01" />
+	<key id="s_stefan_promotion_reward" value="[安森的礼物]获得了额外奖励{0}。" feature="promotionContents01" />
+	<key id="s_maple_survival_learn_skin" value="STRINGCOMMON_S_MAPLE_SURVIVAL_LEARN_SKIN_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_skin_already_learn" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SKIN_ALREADY_LEARN_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_buy_paid_pass" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_BUY_PAID_PASS_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_reward_complete_tooltip" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_REWARD_COMPLETE_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_observer_not_exist_alive_party_member" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_OBSERVER_NOT_EXIST_ALIVE_PARTY_MEMBER_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_info_mode_solo" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_INFO_MODE_SOLO_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_ui_info_mode_squad" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_INFO_MODE_SQUAD_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_ui_info_mode_cant_in_party" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_INFO_MODE_CANT_IN_PARTY_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_ui_info_mode_cant_registed" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_INFO_MODE_CANT_REGISTED_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_ui_skin_category1" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_CATEGORY1_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_category2" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_CATEGORY2_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_category3" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_CATEGORY3_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_err_no_select_item" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_ERR_NO_SELECT_ITEM_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_err_already_puton" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_ERR_ALREADY_PUTON_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_err_not_puton" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_ERR_NOT_PUTON_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_err_not_here" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_ERR_NOT_HERE_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_ui_skin_tooltip" value="STRINGCOMMON_S_MAPLE_SURVIVAL_UI_SKIN_TOOLTIP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_pass_gain_nothing" value="STRINGCOMMON_S_MAPLE_SURVIVAL_PASS_GAIN_NOTHING_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_pass_gain_normal" value="STRINGCOMMON_S_MAPLE_SURVIVAL_PASS_GAIN_NORMAL_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_pass_gain_paid" value="STRINGCOMMON_S_MAPLE_SURVIVAL_PASS_GAIN_PAID_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_error_squad_register_over_count" value="STRINGCOMMON_S_MAPLE_SURVIVAL_ERROR_SQUAD_REGISTER_OVER_COUNT_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_error_squad_register_only_party_chief" value="STRINGCOMMON_S_MAPLE_SURVIVAL_ERROR_SQUAD_REGISTER_ONLY_PARTY_CHIEF_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_error_not_here" value="STRINGCOMMON_S_MAPLE_SURVIVAL_ERROR_NOT_HERE_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_error_solo_join_have_no_party" value="STRINGCOMMON_S_MAPLE_SURVIVAL_ERROR_SOLO_JOIN_HAVE_NO_PARTY_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_squad_finish" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_FINISH_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_squad_finish_observer" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_FINISH_OBSERVER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_pass_buff_improve_kill_exp" value="STRINGCOMMON_S_MAPLE_SURVIVAL_PASS_BUFF_IMPROVE_KILL_EXP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_pass_buff_improve_time_exp" value="STRINGCOMMON_S_MAPLE_SURVIVAL_PASS_BUFF_IMPROVE_TIME_EXP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_event_buff_improve_kill_exp" value="STRINGCOMMON_S_MAPLE_SURVIVAL_EVENT_BUFF_IMPROVE_KILL_EXP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_event_buff_improve_time_exp" value="STRINGCOMMON_S_MAPLE_SURVIVAL_EVENT_BUFF_IMPROVE_TIME_EXP_VALUE:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="s_maple_survival_squad_match_notify_joinUser" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_MATCH_NOTIFY_JOINUSER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_squad_match_notify_leaveUser" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_MATCH_NOTIFY_LEAVEUSER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_squad_match_notify_logoutUser" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_MATCH_NOTIFY_LOGOUTUSER_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_squad_register_squad" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_REGISTER_SQUAD_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_maple_survival_squad_unregister_squad" value="STRINGCOMMON_S_MAPLE_SURVIVAL_SQUAD_UNREGISTER_SQUAD_VALUE:[F]SurvivalContentsTeam" feature="SurvivalContentsTeam" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 9레벨부터 70레벨까지 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n•버닝 캐릭터를 70레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 2020년 6월 25일 점검 후 ~ 7월 29일 자정까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[70레벨달성 보상 안내]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 윈터 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 윈터 버닝 이벤트는 2019년 11월 13일 점검 후 ~ 12월 11일 점검 전까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 최종 보상]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="NA" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\n버닝 이벤트에 대한 내용을 숙지하고 {0} 캐릭터를 버닝 캐릭터로 지정하시려면 &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;확인&apos;&lt;/FONT&gt;을 눌러 주세요." comment="{0}:캐릭터 이름" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2레벨을 추가 획득합니다. \n• 레벨 9에서 70까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n• 버닝 캐릭터를 70레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 7월 29일 자정까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[70레벨달성 보상 안내]&lt;/FONT&gt;\n\n" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[윈터 버닝이란?]&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2의 추가 레벨을 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 윈터 버닝 이벤트는 2019년 11월 13일 점검 후 ~ 12월 11일 점검 전까지 진행됩니다." locale="NA" />
+	<key id="s_achieve_disabled_mushkingroyal" value="Purchase the Founder&apos;s Pack to access this." feature="FoundersPackMode" locale="NA" />
+	<key id="s_foundersPack_cannot_use_rpg_mode" value="Purchase the Founder&apos;s Pack to access this." feature="FoundersPackMode" locale="NA" />
+	<key id="s_foundersPack_cannot_use_rpg_mode_before_tutorial" value="메이플스토리2의 직업 튜토리얼을 완료해야 합니다." feature="FoundersPackMode" locale="NA" />
+	<key id="s_gamemode_rpg_disable" value="&lt;FONT color=&apos;#FFD200&apos;&gt;파운더스 팩&lt;/FONT&gt;이 있으시다면, &lt;FONT color=&apos;#FFA200&apos;&gt;헤드 스타트&lt;/FONT&gt;가 시작되자마자 바로 플레이하실 수 있습니다! 혹시 구매하셨나요?" feature="SurvivalContents03" locale="NA" />
+	<key id="s_gamemode_rpg_close" value="Close" feature="SurvivalContents03" locale="NA" />
+	<key id="s_discord_msg_party" value="STRINGCOMMON_S_DISCORD_MSG_PARTY_VALUE:[F]Discord" feature="Discord" />
+	<key id="s_discord_msg_solo" value="STRINGCOMMON_S_DISCORD_MSG_SOLO_VALUE:[F]Discord" feature="Discord" />
+	<key id="s_discord_msg_details" value="STRINGCOMMON_S_DISCORD_MSG_DETAILS_VALUE:[F]Discord" feature="Discord" />
+	<key id="s_discord_msg_standby" value="STRINGCOMMON_S_DISCORD_MSG_STANDBY_VALUE:[F]Discord" feature="Discord" />
+	<key id="s_discord_msg_move_field" value="STRINGCOMMON_S_DISCORD_MSG_MOVE_FIELD_VALUE:[F]Discord" feature="Discord" />
+	<key id="s_item_repacking_limit_count" value="&lt;FONT color=&apos;#FFD200&apos;&gt;可再包装 {0}次(再包装时需要交易商丝带)&lt;/FONT&gt;" feature="ItemRePackingHide" />
+	<key id="s_upper_hud_version" value="Beta Build" feature="WaterMark" />
+	<key id="s_meratmarket_buy_fail_music_score_by_merat_grade" value="无法用红蘑菇币购买乐谱。" feature="UGCMarketMusicScore" />
+	<key id="s_meratmarket_error_add_basket_by_music_score" value="乐谱只能够直接购买。" feature="UGCMarketMusicScore" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 캐릭터 지정]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} 캐릭터로 버닝 이벤트에 참여하시겠습니까?&lt;/FONT&gt;\n\n• 1회 레벨업마다 +2레벨을 추가 획득합니다. \n• 레벨 9에서 60까지 효과가 적용됩니다. \n• 버닝 캐릭터는 계정 당 1개만 지정 가능합니다. \n• 지정된 버닝 캐릭터는 캐릭터 삭제 전까지 변경할 수 없습니다.\n\n• 버닝 캐릭터를 60레벨까지 육성한 후에는 버닝 캐릭터를 삭제하여도 추가로 버닝 캐릭터를 지정하실 수 없습니다.\n• 버닝 이벤트는 12월 11일 점검 전까지 진행됩니다.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[버닝 최종 보상]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="JP" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\n버닝 이벤트에 대한 내용을 숙지하고 {0} 캐릭터를 버닝 캐릭터로 지정하시려면 &lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;&apos;확인&apos;&lt;/FONT&gt;을 눌러 주세요." comment="{0}:캐릭터 이름" locale="JP" />
+	<key id="s_buring_levelup_envent_desc_popup" value="&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[バーニングとは？]&lt;/FONT&gt;\n\n・1回レベルアップするたびに+2レベルを追加獲得します。\n・レベル9から60まで効果が適用されます。\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\n\n・バーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\n・バーニングイベントは12月11日メンテナンス前まで開催されます。" locale="JP" />
+	<key id="s_wedding_result_err_wedding_block_age_to" value="Only characters in adult accounts can use the marriage system" feature="WeddingBlockAge" />
+	<key id="s_wedding_result_err_wedding_block_age_from" value="The marriage system can only be used with characters in adult accounts." feature="WeddingBlockAge" />
 </ms2>

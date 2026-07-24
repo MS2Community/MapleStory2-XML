@@ -1,49 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10100001" name="クロススイング" />
-  <key id="10100011" name="トルネードスラッシュ" />
-  <key id="10100021" name="ホーリーストライク" />
-  <key id="10100031" name="ドリールブレイド" />
-  <key id="10100041" name="勝利の歓声" />
-  <key id="10100051" name="シールドウォール" />
-  <key id="10100052" name="シールドウォールスプラッシュ" feature="Develop" />
-  <key id="10100061" name="アイアンディフェンス" />
-  <key id="10100062" name="アイアンディフェンス解除" />
-  <key id="10100071" name="スローイングシールド" />
-  <key id="10100081" name="騎士の意志" />
-  <key id="10100082" name="騎士の意志スプラッシュ" feature="Develop" />
-  <key id="10100091" name="突撃" />
-  <key id="10100101" name="信念の守護者" />
-  <key id="10100102" name="信念の守護者スプラッシュ" feature="Develop" />
-  <key id="10100111" name="ロングソードマスタリ" />
-  <key id="10100121" name="シールドマスタリ" />
-  <key id="10100131" name="タイフーンスラッシュ" />
-  <key id="10100141" name="ミリオンスティング" />
-  <key id="10100142" name="ミリオンスティング2打" feature="Develop" />
-  <key id="10100151" name="アイアンシールド" />
-  <key id="10100161" name="シールドアッパー" />
-  <key id="10100171" name="信念の一撃" feature="JobChange_01" />
-  <key id="10100172" name="信念の一撃2打" feature="Develop" />
-  <key id="10100173" name="信念の一撃3打" feature="Develop" />
-  <key id="10100181" name="ディヴァインリベンジ" feature="JobChange_01" />
-  <key id="10100191" name="ライトブリンガー" feature="JobChange_01" />
-  <key id="10100192" name="ライトブリンガースプラッシュ" feature="Develop" />
-  <key id="10100201" name="ガーディアンズウィング" feature="JobChange_01" />
-  <key id="10100203" name="SKILLNAME_10100203_NAME:[F]Develop" feature="Develop" />
-  <key id="10100211" name="サイクロンシールド" feature="JobChange_01" />
-  <key id="10100212" name="サイクロンシールドスプラッシュ" feature="Develop" />
-  <key id="10100221" name="ヘブンスジャッジメント" feature="JobChange_01" />
-  <key id="10100231" name="デュエルタクティクス" feature="JobChange_01" />
-  <key id="10100233" name="デュエルタクティクス1次ステータス増加" feature="Develop" />
-  <key id="10100241" name="ソードスタンストレーニング" feature="JobChange_01" />
-  <key id="10100251" name="シールドスタンストレーニング" feature="JobChange_01" />
-  <key id="10100261" name="SKILLNAME_10100261_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10100271" name="SKILLNAME_10100271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10100272" name="SKILLNAME_10100272_NAME:[F]Develop" feature="Develop" />
-  <key id="10100281" name="SKILLNAME_10100281_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10100291" name="SKILLNAME_10100291_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10100292" name="SKILLNAME_10100292_NAME:[F]Develop" feature="Develop" />
-  <key id="10100293" name="SKILLNAME_10100293_NAME:[F]Develop" feature="Develop" />
-  <key id="10100294" name="SKILLNAME_10100294_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10100001" name="クロススイング" />
+	<key id="10100011" name="トルネードスラッシュ" />
+	<key id="10100021" name="ホーリーストライク" />
+	<key id="10100031" name="ドリールブレイド" />
+	<key id="10100041" name="勝利の歓声" />
+	<key id="10100051" name="シールドウォール" />
+	<key id="10100052" name="シールドウォールスプラッシュ" feature="Develop" />
+	<key id="10100061" name="アイアンディフェンス" />
+	<key id="10100062" name="アイアンディフェンス解除" />
+	<key id="10100071" name="スローイングシールド" />
+	<key id="10100081" name="騎士の意志" />
+	<key id="10100082" name="騎士の意志スプラッシュ" feature="Develop" />
+	<key id="10100091" name="突撃" />
+	<key id="10100101" name="信念の守護者" />
+	<key id="10100102" name="信念の守護者スプラッシュ" feature="Develop" />
+	<key id="10100111" name="ロングソードマスタリ" />
+	<key id="10100121" name="シールドマスタリ" />
+	<key id="10100131" name="タイフーンスラッシュ" />
+	<key id="10100141" name="ミリオンスティング" />
+	<key id="10100142" name="ミリオンスティング2打" feature="Develop" />
+	<key id="10100151" name="アイアンシールド" />
+	<key id="10100161" name="シールドアッパー" />
+	<key id="10100171" name="信念の一撃" feature="JobChange_01" />
+	<key id="10100172" name="信念の一撃2打" feature="Develop" />
+	<key id="10100173" name="信念の一撃3打" feature="Develop" />
+	<key id="10100181" name="ディヴァインリベンジ" feature="JobChange_01" />
+	<key id="10100191" name="ライトブリンガー" feature="JobChange_01" />
+	<key id="10100192" name="ライトブリンガースプラッシュ" feature="Develop" />
+	<key id="10100201" name="ガーディアンズウィング" feature="JobChange_01" />
+	<key id="10100203" name="SKILLNAME_10100203_NAME:[F]Develop" feature="Develop" />
+	<key id="10100211" name="サイクロンシールド" feature="JobChange_01" />
+	<key id="10100212" name="サイクロンシールドスプラッシュ" feature="Develop" />
+	<key id="10100221" name="ヘブンスジャッジメント" feature="JobChange_01" />
+	<key id="10100231" name="デュエルタクティクス" feature="JobChange_01" />
+	<key id="10100233" name="デュエルタクティクス1次ステータス増加" feature="Develop" />
+	<key id="10100241" name="ソードスタンストレーニング" feature="JobChange_01" />
+	<key id="10100251" name="シールドスタンストレーニング" feature="JobChange_01" />
+	<key id="10100261" name="SKILLNAME_10100261_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10100271" name="SKILLNAME_10100271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10100272" name="SKILLNAME_10100272_NAME:[F]Develop" feature="Develop" />
+	<key id="10100281" name="SKILLNAME_10100281_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10100291" name="SKILLNAME_10100291_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10100292" name="SKILLNAME_10100292_NAME:[F]Develop" feature="Develop" />
+	<key id="10100293" name="SKILLNAME_10100293_NAME:[F]Develop" feature="Develop" />
+	<key id="10100294" name="SKILLNAME_10100294_NAME:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

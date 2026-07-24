@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="15123101" name="루미 드 코르 세트" />
 	<key id="15123102" name="루미 드 라비에스 세트" />
@@ -9,6 +9,8 @@
 	<key id="15123107" name="루미 드 에레보스 세트" />
 	<key id="15123108" name="루미 드 시카 세트" />
 	<key id="15123109" name="루미 드 폴루스 세트" />
+	<key id="15123110" name="빛나는 눈꽃 세트" />
+	<key id="15123111" name="빛나는 눈꽃 세트" />
 	<key id="16022501" name="블랙스타 레코즈 세트" />
 	<key id="16042801" name="귀여운 더키볼 세트" />
 	<key id="16042802" name="시크한 더키볼 세트" />
@@ -106,7 +108,8 @@
 	<key id="17040601" name="샤인 스타 세트" />
 	<key id="17040602" name="샤인 스타 세트" />
 	<key id="17053101" name="음모의 세트" />
-	<key id="17062001" name="성실한 모험가의 세트" feature="Event" />
+	<key id="17062001" name="성실한 모험가의 세트" />
+	<key id="17062001" name="忠诚冒险家的套装" feature="Event" />
 	<key id="17062901" name="리버스 나이트(LV50) 세트" />
 	<key id="17062902" name="리버스 버서커(LV50) 세트" />
 	<key id="17062903" name="리버스 위자드(LV50) 세트" />
@@ -223,320 +226,622 @@
 	<key id="18011835" name="브라이트 스타의 주술 세트" />
 	<key id="18011836" name="브라이트 스타의 난투 세트" />
 	<key id="18011837" name="브라이트 스타의 의식 세트" />
-	<key id="18052834" name="베히모스 나이트 세트" feature="Level60Item" />
-	<key id="18052835" name="베히모스 버서커 세트" feature="Level60Item" />
-	<key id="18052836" name="베히모스 위자드 세트" feature="Level60Item" />
-	<key id="18052837" name="베히모스 프리스트 세트" feature="Level60Item" />
-	<key id="18052838" name="베히모스 레인저 세트" feature="Level60Item" />
-	<key id="18052839" name="베히모스 헤비거너 세트" feature="Level60Item" />
-	<key id="18052840" name="베히모스 시프 세트" feature="Level60Item" />
-	<key id="18052841" name="베히모스 어쌔신 세트" feature="Level60Item" />
-	<key id="18052842" name="베히모스 룬블레이더 세트" feature="Level60Item" />
-	<key id="18052843" name="베히모스 스트라이커 세트" feature="Level60Item" />
-	<key id="18052844" name="베히모스 소울바인더 세트" feature="Level60Item" />
-	<key id="18052845" name="에일리온 나이트 세트" feature="Level60Item" />
-	<key id="18052846" name="에일리온 버서커 세트" feature="Level60Item" />
-	<key id="18052847" name="에일리온 위자드 세트" feature="Level60Item" />
-	<key id="18052848" name="에일리온 프리스트 세트" feature="Level60Item" />
-	<key id="18052849" name="에일리온 레인저 세트" feature="Level60Item" />
-	<key id="18052850" name="에일리온 헤비거너 세트" feature="Level60Item" />
-	<key id="18052851" name="에일리온 시프 세트" feature="Level60Item" />
-	<key id="18052852" name="에일리온 어쌔신 세트" feature="Level60Item" />
-	<key id="18052853" name="에일리온 룬블레이더 세트" feature="Level60Item" />
-	<key id="18052854" name="에일리온 스트라이커 세트" feature="Level60Item" />
-	<key id="18052855" name="에일리온 소울바인더 세트" feature="Level60Item" />
-	<key id="18052856" name="블랙 뱅가드 나이트 세트" feature="Level60Item" />
-	<key id="18052857" name="블랙 뱅가드 버서커 세트" feature="Level60Item" />
-	<key id="18052858" name="블랙 뱅가드 위자드 세트" feature="Level60Item" />
-	<key id="18052859" name="블랙 뱅가드 프리스트 세트" feature="Level60Item" />
-	<key id="18052860" name="블랙 뱅가드 레인저 세트" feature="Level60Item" />
-	<key id="18052861" name="블랙 뱅가드 헤비거너 세트" feature="Level60Item" />
-	<key id="18052862" name="블랙 뱅가드 시프 세트" feature="Level60Item" />
-	<key id="18052863" name="블랙 뱅가드 어쌔신 세트" feature="Level60Item" />
-	<key id="18052864" name="블랙 뱅가드 룬블레이더 세트" feature="Level60Item" />
-	<key id="18052865" name="블랙 뱅가드 스트라이커 세트" feature="Level60Item" />
-	<key id="18052866" name="블랙 뱅가드 소울바인더 세트" feature="Level60Item" />
-	<key id="18052867" name="블랙퓨리티 나이트 세트" feature="Level60Item" />
-	<key id="18052868" name="블랙퓨리티 버서커 세트" feature="Level60Item" />
-	<key id="18052869" name="블랙퓨리티 위자드 세트" feature="Level60Item" />
-	<key id="18052870" name="블랙퓨리티 프리스트 세트" feature="Level60Item" />
-	<key id="18052871" name="블랙퓨리티 레인저 세트" feature="Level60Item" />
-	<key id="18052872" name="블랙퓨리티 헤비거너 세트" feature="Level60Item" />
-	<key id="18052873" name="블랙퓨리티 시프 세트" feature="Level60Item" />
-	<key id="18052874" name="블랙퓨리티 어쌔신 세트" feature="Level60Item" />
-	<key id="18052875" name="블랙퓨리티 룬블레이더 세트" feature="Level60Item" />
-	<key id="18052876" name="블랙퓨리티 스트라이커 세트" feature="Level60Item" />
-	<key id="18052877" name="블랙퓨리티 소울바인더 세트" feature="Level60Item" />
-	<key id="18052878" name="60레벨 에픽 2 나이트 세트" feature="Level60Item" />
-	<key id="18052879" name="60레벨 에픽 2 버서커 세트" feature="Level60Item" />
-	<key id="18052880" name="60레벨 에픽 2 위자드 세트" feature="Level60Item" />
-	<key id="18052881" name="60레벨 에픽 2 프리스트 세트" feature="Level60Item" />
-	<key id="18052882" name="60레벨 에픽 2 레인저 세트" feature="Level60Item" />
-	<key id="18052883" name="60레벨 에픽 2 헤비거너 세트" feature="Level60Item" />
-	<key id="18052884" name="60레벨 에픽 2 시프 세트" feature="Level60Item" />
-	<key id="18052885" name="60레벨 에픽 2 어쌔신 세트" feature="Level60Item" />
-	<key id="18052886" name="60레벨 에픽 2 룬블레이더 세트" feature="Level60Item" />
-	<key id="18052887" name="60레벨 에픽 2 스트라이커 세트" feature="Level60Item" />
-	<key id="18052888" name="60레벨 에픽 2 소울바인더 세트" feature="Level60Item" />
-	<key id="18052891" name="블랙퓨리티 액세서리 세트" feature="Level60Item" />
-	<key id="18052892" name="블랙퓨리티 액세서리 세트" feature="Level60Item" />
-	<key id="18052893" name="60레벨 에픽 악세서리 2 귀고리, 목걸이, 반지 세트" feature="Level60Item" />
-	<key id="18052894" name="60레벨 에픽 악세서리 2 망토, 벨트 세트" feature="Level60Item" />
-	<key id="18052895" name="마드라칸 군주 세트" feature="Level60Item" />
-	<key id="18052896" name="센츄리온 세트" feature="Level60Item" />
-	<key id="18052897" name="센츄리온 세트" feature="Level60Item" />
-	<key id="18061701" name="베히모스 나이트 세트" feature="Level60Item" />
-	<key id="18061702" name="베히모스 버서커 세트" feature="Level60Item" />
-	<key id="18061703" name="베히모스 위자드 세트" feature="Level60Item" />
-	<key id="18061704" name="베히모스 프리스트 세트" feature="Level60Item" />
-	<key id="18061705" name="베히모스 레인저 세트" feature="Level60Item" />
-	<key id="18061706" name="베히모스 헤비거너 세트" feature="Level60Item" />
-	<key id="18061707" name="베히모스 시프 세트" feature="Level60Item" />
-	<key id="18061708" name="베히모스 어쌔신 세트" feature="Level60Item" />
-	<key id="18061709" name="베히모스 룬블레이더 세트" feature="Level60Item" />
-	<key id="18061710" name="베히모스 스트라이커 세트" feature="Level60Item" />
-	<key id="18061711" name="베히모스 소울바인더 세트" feature="Level60Item" />
-	<key id="18061712" name="에일리온 나이트 세트" feature="Level60Item" />
-	<key id="18061713" name="에일리온 버서커 세트" feature="Level60Item" />
-	<key id="18061714" name="에일리온 위자드 세트" feature="Level60Item" />
-	<key id="18061715" name="에일리온 프리스트 세트" feature="Level60Item" />
-	<key id="18061716" name="에일리온 레인저 세트" feature="Level60Item" />
-	<key id="18061717" name="에일리온 헤비거너 세트" feature="Level60Item" />
-	<key id="18061718" name="에일리온 시프 세트" feature="Level60Item" />
-	<key id="18061719" name="에일리온 어쌔신 세트" feature="Level60Item" />
-	<key id="18061720" name="에일리온 룬블레이더 세트" feature="Level60Item" />
-	<key id="18061721" name="에일리온 스트라이커 세트" feature="Level60Item" />
-	<key id="18061722" name="에일리온 소울바인더 세트" feature="Level60Item" />
-	<key id="18061723" name="블랙 뱅가드 나이트 세트" feature="Level60Item" />
-	<key id="18061724" name="블랙 뱅가드 버서커 세트" feature="Level60Item" />
-	<key id="18061725" name="블랙 뱅가드 위자드 세트" feature="Level60Item" />
-	<key id="18061726" name="블랙 뱅가드 프리스트 세트" feature="Level60Item" />
-	<key id="18061727" name="블랙 뱅가드 레인저 세트" feature="Level60Item" />
-	<key id="18061728" name="블랙 뱅가드 헤비거너 세트" feature="Level60Item" />
-	<key id="18061729" name="블랙 뱅가드 시프 세트" feature="Level60Item" />
-	<key id="18061730" name="블랙 뱅가드 어쌔신 세트" feature="Level60Item" />
-	<key id="18061731" name="블랙 뱅가드 룬블레이더 세트" feature="Level60Item" />
-	<key id="18061732" name="블랙 뱅가드 스트라이커 세트" feature="Level60Item" />
-	<key id="18061733" name="블랙 뱅가드 소울바인더 세트" feature="Level60Item" />
-	<key id="18061734" name="센츄리온 세트" feature="Level60Item" />
-	<key id="18061735" name="센츄리온 세트" feature="Level60Item" />
-	<key id="18061736" name="블랙퓨리티 나이트 세트" feature="Level60Item" />
-	<key id="18061737" name="블랙퓨리티 버서커 세트" feature="Level60Item" />
-	<key id="18061738" name="블랙퓨리티 위자드 세트" feature="Level60Item" />
-	<key id="18061739" name="블랙퓨리티 프리스트 세트" feature="Level60Item" />
-	<key id="18061740" name="블랙퓨리티 레인저 세트" feature="Level60Item" />
-	<key id="18061741" name="블랙퓨리티 헤비거너 세트" feature="Level60Item" />
-	<key id="18061742" name="블랙퓨리티 시프 세트" feature="Level60Item" />
-	<key id="18061743" name="블랙퓨리티 어쌔신 세트" feature="Level60Item" />
-	<key id="18061744" name="블랙퓨리티 룬블레이더 세트" feature="Level60Item" />
-	<key id="18061745" name="블랙퓨리티 스트라이커 세트" feature="Level60Item" />
-	<key id="18061746" name="블랙퓨리티 소울바인더 세트" feature="Level60Item" />
-	<key id="18061747" name="60레벨 에픽 2 나이트 세트" feature="Level60Item" />
-	<key id="18061748" name="60레벨 에픽 2 버서커 세트" feature="Level60Item" />
-	<key id="18061749" name="60레벨 에픽 2 위자드 세트" feature="Level60Item" />
-	<key id="18061750" name="60레벨 에픽 2 프리스트 세트" feature="Level60Item" />
-	<key id="18061751" name="60레벨 에픽 2 레인저 세트" feature="Level60Item" />
-	<key id="18061752" name="60레벨 에픽 2 헤비거너 세트" feature="Level60Item" />
-	<key id="18061753" name="60레벨 에픽 2 시프 세트" feature="Level60Item" />
-	<key id="18061754" name="60레벨 에픽 2 어쌔신 세트" feature="Level60Item" />
-	<key id="18061755" name="60레벨 에픽 2 룬블레이더 세트" feature="Level60Item" />
-	<key id="18061756" name="60레벨 에픽 2 스트라이커 세트" feature="Level60Item" />
-	<key id="18061757" name="60레벨 에픽 2 소울바인더 세트" feature="Level60Item" />
-	<key id="18061758" name="블랙퓨리티 액세서리 세트" feature="Level60Item" />
-	<key id="18061759" name="블랙퓨리티 액세서리 세트" feature="Level60Item" />
-	<key id="18061760" name="60레벨 에픽 악세서리 2 귀고리, 목걸이, 반지 세트" feature="Level60Item" />
-	<key id="18061761" name="60레벨 에픽 악세서리 2 망토, 벨트 세트" feature="Level60Item" />
+	<key id="18052834" name="베히모스 나이트 세트" />
+	<key id="18052834" name="贝希摩斯骑士套装" feature="Level60Item" />
+	<key id="18052835" name="베히모스 버서커 세트" />
+	<key id="18052835" name="贝希摩斯狂战士套装" feature="Level60Item" />
+	<key id="18052836" name="베히모스 위자드 세트" />
+	<key id="18052836" name="贝希摩斯魔法师套装" feature="Level60Item" />
+	<key id="18052837" name="베히모스 프리스트 세트" />
+	<key id="18052837" name="贝希摩斯牧师套装" feature="Level60Item" />
+	<key id="18052838" name="베히모스 레인저 세트" />
+	<key id="18052838" name="贝希摩斯弓箭手套装" feature="Level60Item" />
+	<key id="18052839" name="베히모스 헤비거너 세트" />
+	<key id="18052839" name="贝希摩斯重炮手套装" feature="Level60Item" />
+	<key id="18052840" name="베히모스 시프 세트" />
+	<key id="18052840" name="贝希摩斯侠盗套装" feature="Level60Item" />
+	<key id="18052841" name="베히모스 어쌔신 세트" />
+	<key id="18052841" name="贝希摩斯刺客套装" feature="Level60Item" />
+	<key id="18052842" name="베히모스 룬블레이더 세트" />
+	<key id="18052842" name="贝希摩斯符文剑士套装" feature="Level60Item" />
+	<key id="18052843" name="베히모스 스트라이커 세트" />
+	<key id="18052843" name="贝希摩斯街霸套装" feature="Level60Item" />
+	<key id="18052844" name="베히모스 소울바인더 세트" />
+	<key id="18052844" name="贝希摩斯启灵师套装" feature="Level60Item" />
+	<key id="18052845" name="에일리온 나이트 세트" />
+	<key id="18052845" name="外星骑士套装" feature="Level60Item" />
+	<key id="18052846" name="에일리온 버서커 세트" />
+	<key id="18052846" name="外星狂战士套装" feature="Level60Item" />
+	<key id="18052847" name="에일리온 위자드 세트" />
+	<key id="18052847" name="外星魔法师套装" feature="Level60Item" />
+	<key id="18052848" name="에일리온 프리스트 세트" />
+	<key id="18052848" name="外星牧师套装" feature="Level60Item" />
+	<key id="18052849" name="에일리온 레인저 세트" />
+	<key id="18052849" name="外星弓箭手套装" feature="Level60Item" />
+	<key id="18052850" name="에일리온 헤비거너 세트" />
+	<key id="18052850" name="外星重炮手套装" feature="Level60Item" />
+	<key id="18052851" name="에일리온 시프 세트" />
+	<key id="18052851" name="外星侠盗套装" feature="Level60Item" />
+	<key id="18052852" name="에일리온 어쌔신 세트" />
+	<key id="18052852" name="外星刺客套装" feature="Level60Item" />
+	<key id="18052853" name="에일리온 룬블레이더 세트" />
+	<key id="18052853" name="外星符文剑士套装" feature="Level60Item" />
+	<key id="18052854" name="에일리온 스트라이커 세트" />
+	<key id="18052854" name="外星街霸套装" feature="Level60Item" />
+	<key id="18052855" name="에일리온 소울바인더 세트" />
+	<key id="18052855" name="外星启灵师套装" feature="Level60Item" />
+	<key id="18052856" name="블랙 뱅가드 나이트 세트" />
+	<key id="18052856" name="漆黑先锋骑士套装" feature="Level60Item" />
+	<key id="18052857" name="블랙 뱅가드 버서커 세트" />
+	<key id="18052857" name="漆黑先锋狂战士套装" feature="Level60Item" />
+	<key id="18052858" name="블랙 뱅가드 위자드 세트" />
+	<key id="18052858" name="漆黑先锋魔法师套装" feature="Level60Item" />
+	<key id="18052859" name="블랙 뱅가드 프리스트 세트" />
+	<key id="18052859" name="漆黑先锋牧师套装" feature="Level60Item" />
+	<key id="18052860" name="블랙 뱅가드 레인저 세트" />
+	<key id="18052860" name="漆黑先锋弓箭手套装" feature="Level60Item" />
+	<key id="18052861" name="블랙 뱅가드 헤비거너 세트" />
+	<key id="18052861" name="漆黑先锋重炮手套装" feature="Level60Item" />
+	<key id="18052862" name="블랙 뱅가드 시프 세트" />
+	<key id="18052862" name="漆黑先锋侠盗套装" feature="Level60Item" />
+	<key id="18052863" name="블랙 뱅가드 어쌔신 세트" />
+	<key id="18052863" name="漆黑先锋刺客套装" feature="Level60Item" />
+	<key id="18052864" name="블랙 뱅가드 룬블레이더 세트" />
+	<key id="18052864" name="漆黑先锋符文剑士套装" feature="Level60Item" />
+	<key id="18052865" name="블랙 뱅가드 스트라이커 세트" />
+	<key id="18052865" name="漆黑先锋街霸套装" feature="Level60Item" />
+	<key id="18052866" name="블랙 뱅가드 소울바인더 세트" />
+	<key id="18052866" name="漆黑先锋启灵师套装" feature="Level60Item" />
+	<key id="18052867" name="블랙퓨리티 나이트 세트" />
+	<key id="18052867" name="至暗骑士套装" feature="Level60Item" />
+	<key id="18052868" name="블랙퓨리티 버서커 세트" />
+	<key id="18052868" name="至暗狂战士套装" feature="Level60Item" />
+	<key id="18052869" name="블랙퓨리티 위자드 세트" />
+	<key id="18052869" name="至暗魔法师套装" feature="Level60Item" />
+	<key id="18052870" name="블랙퓨리티 프리스트 세트" />
+	<key id="18052870" name="至暗牧师套装" feature="Level60Item" />
+	<key id="18052871" name="블랙퓨리티 레인저 세트" />
+	<key id="18052871" name="至暗弓箭手套装" feature="Level60Item" />
+	<key id="18052872" name="블랙퓨리티 헤비거너 세트" />
+	<key id="18052872" name="至暗重炮手套装" feature="Level60Item" />
+	<key id="18052873" name="블랙퓨리티 시프 세트" />
+	<key id="18052873" name="至暗侠盗套装" feature="Level60Item" />
+	<key id="18052874" name="블랙퓨리티 어쌔신 세트" />
+	<key id="18052874" name="至暗刺客套装" feature="Level60Item" />
+	<key id="18052875" name="블랙퓨리티 룬블레이더 세트" />
+	<key id="18052875" name="至暗符文剑士套装" feature="Level60Item" />
+	<key id="18052876" name="블랙퓨리티 스트라이커 세트" />
+	<key id="18052876" name="至暗街霸套装" feature="Level60Item" />
+	<key id="18052877" name="블랙퓨리티 소울바인더 세트" />
+	<key id="18052877" name="至暗启灵师套装" feature="Level60Item" />
+	<key id="18052878" name="60레벨 에픽 2 나이트 세트" />
+	<key id="18052878" name="60级史诗级2骑士套装" feature="Level60Item" />
+	<key id="18052879" name="60레벨 에픽 2 버서커 세트" />
+	<key id="18052879" name="60级史诗级2狂战士套装" feature="Level60Item" />
+	<key id="18052880" name="60레벨 에픽 2 위자드 세트" />
+	<key id="18052880" name="60级史诗级2魔法师套装" feature="Level60Item" />
+	<key id="18052881" name="60레벨 에픽 2 프리스트 세트" />
+	<key id="18052881" name="60级史诗级2牧师套装" feature="Level60Item" />
+	<key id="18052882" name="60레벨 에픽 2 레인저 세트" />
+	<key id="18052882" name="60级史诗级2弓箭手套装" feature="Level60Item" />
+	<key id="18052883" name="60레벨 에픽 2 헤비거너 세트" />
+	<key id="18052883" name="60级史诗级2重炮手套装" feature="Level60Item" />
+	<key id="18052884" name="60레벨 에픽 2 시프 세트" />
+	<key id="18052884" name="60级史诗级2侠盗套装" feature="Level60Item" />
+	<key id="18052885" name="60레벨 에픽 2 어쌔신 세트" />
+	<key id="18052885" name="60级史诗级2刺客套装" feature="Level60Item" />
+	<key id="18052886" name="60레벨 에픽 2 룬블레이더 세트" />
+	<key id="18052886" name="60级史诗级2符文剑士套装" feature="Level60Item" />
+	<key id="18052887" name="60레벨 에픽 2 스트라이커 세트" />
+	<key id="18052887" name="60级史诗级2街霸套装" feature="Level60Item" />
+	<key id="18052888" name="60레벨 에픽 2 소울바인더 세트" />
+	<key id="18052888" name="60级史诗级2启灵师套装" feature="Level60Item" />
+	<key id="18052891" name="블랙퓨리티 액세서리 세트" />
+	<key id="18052891" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18052892" name="블랙퓨리티 액세서리 세트" />
+	<key id="18052892" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18052893" name="60레벨 에픽 악세서리 2 귀고리, 목걸이, 반지 세트" />
+	<key id="18052893" name="60级史诗饰品2（耳环、项链、戒指套装）" feature="Level60Item" />
+	<key id="18052894" name="60레벨 에픽 악세서리 2 망토, 벨트 세트" />
+	<key id="18052894" name="60级史诗饰品2（披风、腰带套装）" feature="Level60Item" />
+	<key id="18052895" name="马德拉坎君主套装" feature="Level60Item" />
+	<key id="18052896" name="센츄리온 세트" />
+	<key id="18052896" name="百夫长套装" feature="Level60Item" />
+	<key id="18052897" name="센츄리온 세트" />
+	<key id="18052897" name="百夫长套装" feature="Level60Item" />
+	<key id="18061701" name="베히모스 나이트 세트" />
+	<key id="18061701" name="贝希摩斯骑士套装" feature="Level60Item" />
+	<key id="18061702" name="베히모스 버서커 세트" />
+	<key id="18061702" name="贝希摩斯狂战士套装" feature="Level60Item" />
+	<key id="18061703" name="베히모스 위자드 세트" />
+	<key id="18061703" name="贝希摩斯魔法师套装" feature="Level60Item" />
+	<key id="18061704" name="베히모스 프리스트 세트" />
+	<key id="18061704" name="贝希摩斯牧师套装" feature="Level60Item" />
+	<key id="18061705" name="베히모스 레인저 세트" />
+	<key id="18061705" name="贝希摩斯弓箭手套装" feature="Level60Item" />
+	<key id="18061706" name="베히모스 헤비거너 세트" />
+	<key id="18061706" name="贝希摩斯重炮手套装" feature="Level60Item" />
+	<key id="18061707" name="베히모스 시프 세트" />
+	<key id="18061707" name="贝希摩斯侠盗套装" feature="Level60Item" />
+	<key id="18061708" name="베히모스 어쌔신 세트" />
+	<key id="18061708" name="贝希摩斯刺客套装" feature="Level60Item" />
+	<key id="18061709" name="베히모스 룬블레이더 세트" />
+	<key id="18061709" name="贝希摩斯符文剑士套装" feature="Level60Item" />
+	<key id="18061710" name="베히모스 스트라이커 세트" />
+	<key id="18061710" name="贝希摩斯街霸套装" feature="Level60Item" />
+	<key id="18061711" name="베히모스 소울바인더 세트" />
+	<key id="18061711" name="贝希摩斯启灵师套装" feature="Level60Item" />
+	<key id="18061712" name="에일리온 나이트 세트" />
+	<key id="18061712" name="外星骑士套装" feature="Level60Item" />
+	<key id="18061713" name="에일리온 버서커 세트" />
+	<key id="18061713" name="外星狂战士套装" feature="Level60Item" />
+	<key id="18061714" name="에일리온 위자드 세트" />
+	<key id="18061714" name="外星魔法师套装" feature="Level60Item" />
+	<key id="18061715" name="에일리온 프리스트 세트" />
+	<key id="18061715" name="外星牧师套装" feature="Level60Item" />
+	<key id="18061716" name="에일리온 레인저 세트" />
+	<key id="18061716" name="外星弓箭手套装" feature="Level60Item" />
+	<key id="18061717" name="에일리온 헤비거너 세트" />
+	<key id="18061717" name="外星重炮手套装" feature="Level60Item" />
+	<key id="18061718" name="에일리온 시프 세트" />
+	<key id="18061718" name="外星侠盗套装" feature="Level60Item" />
+	<key id="18061719" name="에일리온 어쌔신 세트" />
+	<key id="18061719" name="外星刺客套装" feature="Level60Item" />
+	<key id="18061720" name="에일리온 룬블레이더 세트" />
+	<key id="18061720" name="外星符文剑士套装" feature="Level60Item" />
+	<key id="18061721" name="에일리온 스트라이커 세트" />
+	<key id="18061721" name="外星街霸套装" feature="Level60Item" />
+	<key id="18061722" name="에일리온 소울바인더 세트" />
+	<key id="18061722" name="外星启灵师套装" feature="Level60Item" />
+	<key id="18061723" name="블랙 뱅가드 나이트 세트" />
+	<key id="18061723" name="漆黑先锋骑士套装" feature="Level60Item" />
+	<key id="18061724" name="블랙 뱅가드 버서커 세트" />
+	<key id="18061724" name="漆黑先锋狂战士套装" feature="Level60Item" />
+	<key id="18061725" name="블랙 뱅가드 위자드 세트" />
+	<key id="18061725" name="漆黑先锋魔法师套装" feature="Level60Item" />
+	<key id="18061726" name="블랙 뱅가드 프리스트 세트" />
+	<key id="18061726" name="漆黑先锋牧师套装" feature="Level60Item" />
+	<key id="18061727" name="블랙 뱅가드 레인저 세트" />
+	<key id="18061727" name="漆黑先锋弓箭手套装" feature="Level60Item" />
+	<key id="18061728" name="블랙 뱅가드 헤비거너 세트" />
+	<key id="18061728" name="漆黑先锋重炮手套装" feature="Level60Item" />
+	<key id="18061729" name="블랙 뱅가드 시프 세트" />
+	<key id="18061729" name="漆黑先锋侠盗套装" feature="Level60Item" />
+	<key id="18061730" name="블랙 뱅가드 어쌔신 세트" />
+	<key id="18061730" name="漆黑先锋刺客套装" feature="Level60Item" />
+	<key id="18061731" name="블랙 뱅가드 룬블레이더 세트" />
+	<key id="18061731" name="漆黑先锋符文剑士套装" feature="Level60Item" />
+	<key id="18061732" name="블랙 뱅가드 스트라이커 세트" />
+	<key id="18061732" name="漆黑先锋街霸套装" feature="Level60Item" />
+	<key id="18061733" name="블랙 뱅가드 소울바인더 세트" />
+	<key id="18061733" name="漆黑先锋启灵师套装" feature="Level60Item" />
+	<key id="18061734" name="센츄리온 세트" />
+	<key id="18061734" name="百夫长套装" feature="Level60Item" />
+	<key id="18061735" name="센츄리온 세트" />
+	<key id="18061735" name="百夫长套装" feature="Level60Item" />
+	<key id="18061736" name="블랙퓨리티 나이트 세트" />
+	<key id="18061736" name="至暗骑士套装" feature="Level60Item" />
+	<key id="18061737" name="블랙퓨리티 버서커 세트" />
+	<key id="18061737" name="至暗狂战士套装" feature="Level60Item" />
+	<key id="18061738" name="블랙퓨리티 위자드 세트" />
+	<key id="18061738" name="至暗魔法师套装" feature="Level60Item" />
+	<key id="18061739" name="블랙퓨리티 프리스트 세트" />
+	<key id="18061739" name="至暗牧师套装" feature="Level60Item" />
+	<key id="18061740" name="블랙퓨리티 레인저 세트" />
+	<key id="18061740" name="至暗弓箭手套装" feature="Level60Item" />
+	<key id="18061741" name="블랙퓨리티 헤비거너 세트" />
+	<key id="18061741" name="至暗重炮手套装" feature="Level60Item" />
+	<key id="18061742" name="블랙퓨리티 시프 세트" />
+	<key id="18061742" name="至暗侠盗套装" feature="Level60Item" />
+	<key id="18061743" name="블랙퓨리티 어쌔신 세트" />
+	<key id="18061743" name="至暗刺客套装" feature="Level60Item" />
+	<key id="18061744" name="블랙퓨리티 룬블레이더 세트" />
+	<key id="18061744" name="至暗符文剑士套装" feature="Level60Item" />
+	<key id="18061745" name="블랙퓨리티 스트라이커 세트" />
+	<key id="18061745" name="至暗街霸套装" feature="Level60Item" />
+	<key id="18061746" name="블랙퓨리티 소울바인더 세트" />
+	<key id="18061746" name="至暗启灵师套装" feature="Level60Item" />
+	<key id="18061747" name="60레벨 에픽 2 나이트 세트" />
+	<key id="18061747" name="60级史诗级2骑士套装" feature="Level60Item" />
+	<key id="18061748" name="60레벨 에픽 2 버서커 세트" />
+	<key id="18061748" name="60级史诗级2狂战士套装" feature="Level60Item" />
+	<key id="18061749" name="60레벨 에픽 2 위자드 세트" />
+	<key id="18061749" name="60级史诗级2魔法师套装" feature="Level60Item" />
+	<key id="18061750" name="60레벨 에픽 2 프리스트 세트" />
+	<key id="18061750" name="60级史诗级2牧师套装" feature="Level60Item" />
+	<key id="18061751" name="60레벨 에픽 2 레인저 세트" />
+	<key id="18061751" name="60级史诗级2弓箭手套装" feature="Level60Item" />
+	<key id="18061752" name="60레벨 에픽 2 헤비거너 세트" />
+	<key id="18061752" name="60级史诗级2重炮手套装" feature="Level60Item" />
+	<key id="18061753" name="60레벨 에픽 2 시프 세트" />
+	<key id="18061753" name="60级史诗级2侠盗套装" feature="Level60Item" />
+	<key id="18061754" name="60레벨 에픽 2 어쌔신 세트" />
+	<key id="18061754" name="60级史诗级2刺客套装" feature="Level60Item" />
+	<key id="18061755" name="60레벨 에픽 2 룬블레이더 세트" />
+	<key id="18061755" name="60级史诗级2符文剑士套装" feature="Level60Item" />
+	<key id="18061756" name="60레벨 에픽 2 스트라이커 세트" />
+	<key id="18061756" name="60级史诗级2街霸套装" feature="Level60Item" />
+	<key id="18061757" name="60레벨 에픽 2 소울바인더 세트" />
+	<key id="18061757" name="60级史诗级2启灵师套装" feature="Level60Item" />
+	<key id="18061758" name="블랙퓨리티 액세서리 세트" />
+	<key id="18061758" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18061759" name="블랙퓨리티 액세서리 세트" />
+	<key id="18061759" name="至暗饰品套装" feature="Level60Item" />
+	<key id="18061760" name="60레벨 에픽 악세서리 2 귀고리, 목걸이, 반지 세트" />
+	<key id="18061760" name="60级史诗饰品2（耳环、项链、戒指套装）" feature="Level60Item" />
+	<key id="18061761" name="60레벨 에픽 악세서리 2 망토, 벨트 세트" />
+	<key id="18061761" name="60级史诗饰品2（披风、腰带套装）" feature="Level60Item" />
 	<key id="18062801" name="올림포스 세트" />
 	<key id="18062802" name="올림포스 세트" />
-	<key id="18081301" name="극한의 전투 세트" feature="Season3" />
-	<key id="18081302" name="극한의 광란 세트" feature="Season3" />
-	<key id="18081303" name="극한의 마법 세트" feature="Season3" />
-	<key id="18081304" name="극한의 신성 세트" feature="Season3" />
-	<key id="18081305" name="극한의 집중 세트" feature="Season3" />
-	<key id="18081306" name="극한의 포격 세트" feature="Season3" />
-	<key id="18081307" name="극한의 혼란 세트" feature="Season3" />
-	<key id="18081308" name="극한의 암살 세트" feature="Season3" />
-	<key id="18081309" name="극한의 주술 세트" feature="Season3" />
-	<key id="18081310" name="극한의 난투 세트" feature="Season3" />
-	<key id="18081311" name="극한의 의식 세트" feature="Season3" />
-	<key id="18081312" name="난폭한 전투 세트" feature="Season3" />
-	<key id="18081313" name="난폭한 광란 세트" feature="Season3" />
-	<key id="18081314" name="난폭한 마법 세트" feature="Season3" />
-	<key id="18081315" name="난폭한 신성 세트" feature="Season3" />
-	<key id="18081316" name="난폭한 집중 세트" feature="Season3" />
-	<key id="18081317" name="난폭한 포격 세트" feature="Season3" />
-	<key id="18081318" name="난폭한 혼란 세트" feature="Season3" />
-	<key id="18081319" name="난폭한 암살 세트" feature="Season3" />
-	<key id="18081320" name="난폭한 주술 세트" feature="Season3" />
-	<key id="18081321" name="난폭한 난투 세트" feature="Season3" />
-	<key id="18081322" name="난폭한 의식 세트" feature="Season3" />
-	<key id="18081323" name="광포한 전투 세트" feature="Season3" />
-	<key id="18081324" name="광포한 광란 세트" feature="Season3" />
-	<key id="18081325" name="광포한 마법 세트" feature="Season3" />
-	<key id="18081326" name="광포한 신성 세트" feature="Season3" />
-	<key id="18081327" name="광포한 집중 세트" feature="Season3" />
-	<key id="18081328" name="광포한 포격 세트" feature="Season3" />
-	<key id="18081329" name="광포한 혼란 세트" feature="Season3" />
-	<key id="18081330" name="광포한 암살 세트" feature="Season3" />
-	<key id="18081331" name="광포한 주술 세트" feature="Season3" />
-	<key id="18081332" name="광포한 난투 세트" feature="Season3" />
-	<key id="18081333" name="광포한 의식 세트" feature="Season3" />
-	<key id="18091401" name="플루토 세트" feature="LegendaryAccessory01" />
-	<key id="18091402" name="플루토 세트" feature="LegendaryAccessory01" />
+	<key id="18081301" name="극한의 전투 세트" />
+	<key id="18081301" name="极限战斗套装" feature="Season3" />
+	<key id="18081302" name="극한의 광란 세트" />
+	<key id="18081302" name="极限怒气套装" feature="Season3" />
+	<key id="18081303" name="극한의 마법 세트" />
+	<key id="18081303" name="极限魔灵套装" feature="Season3" />
+	<key id="18081304" name="극한의 신성 세트" />
+	<key id="18081304" name="极限神圣套装" feature="Season3" />
+	<key id="18081305" name="극한의 집중 세트" />
+	<key id="18081305" name="极限集中套装" feature="Season3" />
+	<key id="18081306" name="극한의 포격 세트" />
+	<key id="18081306" name="极限炮击套装" feature="Season3" />
+	<key id="18081307" name="극한의 혼란 세트" />
+	<key id="18081307" name="极限混乱套装" feature="Season3" />
+	<key id="18081308" name="극한의 암살 세트" />
+	<key id="18081308" name="极限暗杀套装" feature="Season3" />
+	<key id="18081309" name="극한의 주술 세트" />
+	<key id="18081309" name="极限咒术套装" feature="Season3" />
+	<key id="18081310" name="극한의 난투 세트" />
+	<key id="18081310" name="极限乱斗套装" feature="Season3" />
+	<key id="18081311" name="극한의 의식 세트" />
+	<key id="18081311" name="极限意志套装" feature="Season3" />
+	<key id="18081312" name="난폭한 전투 세트" />
+	<key id="18081312" name="傲骨战斗套装" feature="Season3" />
+	<key id="18081313" name="난폭한 광란 세트" />
+	<key id="18081313" name="傲骨狂乱套装" feature="Season3" />
+	<key id="18081314" name="난폭한 마법 세트" />
+	<key id="18081314" name="傲骨魔法套装" feature="Season3" />
+	<key id="18081315" name="난폭한 신성 세트" />
+	<key id="18081315" name="傲骨神圣套装" feature="Season3" />
+	<key id="18081316" name="난폭한 집중 세트" />
+	<key id="18081316" name="傲骨集中套装" feature="Season3" />
+	<key id="18081317" name="난폭한 포격 세트" />
+	<key id="18081317" name="傲骨炮击套装" feature="Season3" />
+	<key id="18081318" name="난폭한 혼란 세트" />
+	<key id="18081318" name="傲骨混乱套装" feature="Season3" />
+	<key id="18081319" name="난폭한 암살 세트" />
+	<key id="18081319" name="傲骨暗杀套装" feature="Season3" />
+	<key id="18081320" name="난폭한 주술 세트" />
+	<key id="18081320" name="傲骨咒术套装" feature="Season3" />
+	<key id="18081321" name="난폭한 난투 세트" />
+	<key id="18081321" name="傲骨乱斗套装" feature="Season3" />
+	<key id="18081322" name="난폭한 의식 세트" />
+	<key id="18081322" name="傲骨意识套装" feature="Season3" />
+	<key id="18081323" name="광포한 전투 세트" />
+	<key id="18081323" name="狂暴战斗套装" feature="Season3" />
+	<key id="18081324" name="광포한 광란 세트" />
+	<key id="18081324" name="狂暴怒气套装" feature="Season3" />
+	<key id="18081325" name="광포한 마법 세트" />
+	<key id="18081325" name="狂暴魔灵套装" feature="Season3" />
+	<key id="18081326" name="광포한 신성 세트" />
+	<key id="18081326" name="狂暴神圣套装" feature="Season3" />
+	<key id="18081327" name="광포한 집중 세트" />
+	<key id="18081327" name="狂暴疾风套装" feature="Season3" />
+	<key id="18081328" name="광포한 포격 세트" />
+	<key id="18081328" name="狂暴炮击套装" feature="Season3" />
+	<key id="18081329" name="광포한 혼란 세트" />
+	<key id="18081329" name="狂暴混乱套装" feature="Season3" />
+	<key id="18081330" name="광포한 암살 세트" />
+	<key id="18081330" name="狂暴暗杀套装" feature="Season3" />
+	<key id="18081331" name="광포한 주술 세트" />
+	<key id="18081331" name="狂暴咒术套装" feature="Season3" />
+	<key id="18081332" name="광포한 난투 세트" />
+	<key id="18081332" name="狂暴乱斗套装" feature="Season3" />
+	<key id="18081333" name="광포한 의식 세트" />
+	<key id="18081333" name="狂暴意志套装" feature="Season3" />
+	<key id="18091401" name="플루토 세트" />
+	<key id="18091401" name="冥王星套装" feature="LegendaryAccessory01" />
+	<key id="18091402" name="플루토 세트" />
+	<key id="18091402" name="冥王星套装" feature="LegendaryAccessory01" />
 	<key id="18091403" name="마르스 세트" feature="LegendaryAccessory01" />
 	<key id="18091404" name="마르스 세트" feature="LegendaryAccessory01" />
 	<key id="18092001" name="타락천사 세트" />
 	<key id="18092002" name="타락천사 세트" />
-	<key id="18110701" name="품위의 전투 세트" feature="PvPRankingDuelMode" />
-	<key id="18110702" name="품위의 광란 세트" feature="PvPRankingDuelMode" />
-	<key id="18110703" name="품위의 마법 세트" feature="PvPRankingDuelMode" />
-	<key id="18110704" name="품위의 신성 세트" feature="PvPRankingDuelMode" />
-	<key id="18110705" name="품위의 집중 세트" feature="PvPRankingDuelMode" />
-	<key id="18110706" name="품위의 포격 세트" feature="PvPRankingDuelMode" />
-	<key id="18110707" name="품위의 혼란 세트" feature="PvPRankingDuelMode" />
-	<key id="18110708" name="품위의 암살 세트" feature="PvPRankingDuelMode" />
-	<key id="18110709" name="품위의 주술 세트" feature="PvPRankingDuelMode" />
-	<key id="18110710" name="품위의 난투 세트" feature="PvPRankingDuelMode" />
-	<key id="18110711" name="품위의 의식 세트" feature="PvPRankingDuelMode" />
-	<key id="18110712" name="품위의 액세서리 세트" feature="PvPRankingDuelMode" />
+	<key id="18110701" name="품위의 전투 세트" />
+	<key id="18110701" name="气质战斗套装" feature="PvPRankingDuelMode" />
+	<key id="18110702" name="품위의 광란 세트" />
+	<key id="18110702" name="气质狂乱套装" feature="PvPRankingDuelMode" />
+	<key id="18110703" name="품위의 마법 세트" />
+	<key id="18110703" name="气质魔法套装" feature="PvPRankingDuelMode" />
+	<key id="18110704" name="품위의 신성 세트" />
+	<key id="18110704" name="气质神圣套装" feature="PvPRankingDuelMode" />
+	<key id="18110705" name="품위의 집중 세트" />
+	<key id="18110705" name="气质集中套装" feature="PvPRankingDuelMode" />
+	<key id="18110706" name="품위의 포격 세트" />
+	<key id="18110706" name="气质炮击套装" feature="PvPRankingDuelMode" />
+	<key id="18110707" name="품위의 혼란 세트" />
+	<key id="18110707" name="气质混乱套装" feature="PvPRankingDuelMode" />
+	<key id="18110708" name="품위의 암살 세트" />
+	<key id="18110708" name="气质暗杀套装" feature="PvPRankingDuelMode" />
+	<key id="18110709" name="품위의 주술 세트" />
+	<key id="18110709" name="气质咒术套装" feature="PvPRankingDuelMode" />
+	<key id="18110710" name="품위의 난투 세트" />
+	<key id="18110710" name="气质乱斗套装" feature="PvPRankingDuelMode" />
+	<key id="18110711" name="품위의 의식 세트" />
+	<key id="18110711" name="气质意识套装" feature="PvPRankingDuelMode" />
+	<key id="18110712" name="품위의 액세서리 세트" />
+	<key id="18110712" name="气质饰品套装" feature="PvPRankingDuelMode" />
 	<key id="18112001" name="일루셔니스트 세트" />
 	<key id="18112002" name="일루셔니스트 세트" />
-	<key id="18122101" name="강화된 품위의 전투 세트" feature="Level70Item" />
-	<key id="18122102" name="강화된 품위의 광란 세트" feature="Level70Item" />
-	<key id="18122103" name="강화된 품위의 마법 세트" feature="Level70Item" />
-	<key id="18122104" name="강화된 품위의 신성 세트" feature="Level70Item" />
-	<key id="18122105" name="강화된 품위의 집중 세트" feature="Level70Item" />
-	<key id="18122106" name="강화된 품위의 포격 세트" feature="Level70Item" />
-	<key id="18122107" name="강화된 품위의 혼란 세트" feature="Level70Item" />
-	<key id="18122108" name="강화된 품위의 암살 세트" feature="Level70Item" />
-	<key id="18122109" name="강화된 품위의 주술 세트" feature="Level70Item" />
-	<key id="18122110" name="강화된 품위의 난투 세트" feature="Level70Item" />
-	<key id="18122111" name="강화된 품위의 의식 세트" feature="Level70Item" />
-	<key id="18122112" name="강화된 품위의 액세서리 세트" feature="Level70Item" />
-	<key id="18122701" name="크리티아스 라펜샤드 액세서리 세트" feature="Level70Item" />
-	<key id="18122702" name="시공의 힘 액세서리 세트" feature="Level70Item" />
-	<key id="19010301" name="타이렌 커맨더 컴뱃 나이트 세트" feature="Level70Item" />
-	<key id="19010302" name="타이렌 커맨더 컴뱃 버서커 세트" feature="Level70Item" />
-	<key id="19010303" name="타이렌 커맨더 컴뱃 위자드 세트" feature="Level70Item" />
-	<key id="19010304" name="타이렌 커맨더 컴뱃 프리스트 세트" feature="Level70Item" />
-	<key id="19010305" name="타이렌 커맨더 컴뱃 레인저 세트" feature="Level70Item" />
-	<key id="19010306" name="타이렌 커맨더 컴뱃 헤비거너 세트" feature="Level70Item" />
-	<key id="19010307" name="타이렌 커맨더 컴뱃 시프 세트" feature="Level70Item" />
-	<key id="19010308" name="타이렌 커맨더 컴뱃 어쌔신 세트" feature="Level70Item" />
-	<key id="19010309" name="타이렌 커맨더 컴뱃 룬블레이더 세트" feature="Level70Item" />
-	<key id="19010310" name="타이렌 커맨더 컴뱃 스트라이커 세트" feature="Level70Item" />
-	<key id="19010311" name="타이렌 커맨더 컴뱃 소울바인더 세트" feature="Level70Item" />
-	<key id="19010312" name="안티크 인페누크 나이트 세트" feature="Level70Item" />
-	<key id="19010313" name="안티크 인페누크 버서커 세트" feature="Level70Item" />
-	<key id="19010314" name="안티크 인페누크 위자드 세트" feature="Level70Item" />
-	<key id="19010315" name="안티크 인페누크 프리스트 세트" feature="Level70Item" />
-	<key id="19010316" name="안티크 인페누크 레인저 세트" feature="Level70Item" />
-	<key id="19010317" name="안티크 인페누크 헤비거너 세트" feature="Level70Item" />
-	<key id="19010318" name="안티크 인페누크 시프 세트" feature="Level70Item" />
-	<key id="19010319" name="안티크 인페누크 어쌔신 세트" feature="Level70Item" />
-	<key id="19010320" name="안티크 인페누크 룬블레이더 세트" feature="Level70Item" />
-	<key id="19010321" name="안티크 인페누크 스트라이커 세트" feature="Level70Item" />
-	<key id="19010322" name="안티크 인페누크 소울바인더 세트" feature="Level70Item" />
-	<key id="19011101" name="타이렌 컴뱃 나이트 세트" feature="Level70Item" />
-	<key id="19011102" name="타이렌 컴뱃 버서커 세트" feature="Level70Item" />
-	<key id="19011103" name="타이렌 컴뱃 위자드 세트" feature="Level70Item" />
-	<key id="19011104" name="타이렌 컴뱃 프리스트 세트" feature="Level70Item" />
-	<key id="19011105" name="타이렌 컴뱃 레인저 세트" feature="Level70Item" />
-	<key id="19011106" name="타이렌 컴뱃 헤비거너 세트" feature="Level70Item" />
-	<key id="19011107" name="타이렌 컴뱃 시프 세트" feature="Level70Item" />
-	<key id="19011108" name="타이렌 컴뱃 어쌔신 세트" feature="Level70Item" />
-	<key id="19011109" name="타이렌 컴뱃 룬블레이더 세트" feature="Level70Item" />
-	<key id="19011110" name="타이렌 컴뱃 스트라이커 세트" feature="Level70Item" />
-	<key id="19011111" name="타이렌 컴뱃 소울바인더 세트" feature="Level70Item" />
-	<key id="19011112" name="안티크 에라곤 나이트 세트" feature="Level70Item" />
-	<key id="19011113" name="안티크 에라곤 버서커 세트" feature="Level70Item" />
-	<key id="19011114" name="안티크 에라곤 위자드 세트" feature="Level70Item" />
-	<key id="19011115" name="안티크 에라곤 프리스트 세트" feature="Level70Item" />
-	<key id="19011116" name="안티크 에라곤 레인저 세트" feature="Level70Item" />
-	<key id="19011117" name="안티크 에라곤 헤비거너 세트" feature="Level70Item" />
-	<key id="19011118" name="안티크 에라곤 시프 세트" feature="Level70Item" />
-	<key id="19011119" name="안티크 에라곤 어쌔신 세트" feature="Level70Item" />
-	<key id="19011120" name="안티크 에라곤 룬블레이더 세트" feature="Level70Item" />
-	<key id="19011121" name="안티크 에라곤 스트라이커 세트" feature="Level70Item" />
-	<key id="19011122" name="안티크 에라곤 소울바인더 세트" feature="Level70Item" />
-	<key id="19011801" name="게오르크 카이 액세서리 세트" feature="Level70Item" />
-	<key id="19011802" name="게오르크 카이 액세서리 세트" feature="Level70Item" />
-	<key id="19011803" name="타이렌 로열 액세서리 세트" feature="Level70Item" />
-	<key id="19011804" name="타이렌 로열 액세서리 세트" feature="Level70Item" />
-	<key id="19011805" name="타이렌 로열 나이트 세트" feature="Level70Item" />
-	<key id="19011806" name="타이렌 로열 버서커 세트" feature="Level70Item" />
-	<key id="19011807" name="타이렌 로열 위자드 세트" feature="Level70Item" />
-	<key id="19011808" name="타이렌 로열 프리스트 세트" feature="Level70Item" />
-	<key id="19011809" name="타이렌 로열 레인저 세트" feature="Level70Item" />
-	<key id="19011810" name="타이렌 로열 헤비거너 세트" feature="Level70Item" />
-	<key id="19011811" name="타이렌 로열 시프 세트" feature="Level70Item" />
-	<key id="19011812" name="타이렌 로열 어쌔신 세트" feature="Level70Item" />
-	<key id="19011813" name="타이렌 로열 룬블레이더 세트" feature="Level70Item" />
-	<key id="19011814" name="타이렌 로열 스트라이커 세트" feature="Level70Item" />
-	<key id="19011815" name="타이렌 로열 소울바인더 세트" feature="Level70Item" />
-	<key id="19021801" name="베히모스 나이트 세트" feature="Level60Item" />
-	<key id="19021802" name="베히모스 버서커 세트" feature="Level60Item" />
-	<key id="19021803" name="베히모스 위자드 세트" feature="Level60Item" />
-	<key id="19021804" name="베히모스 프리스트 세트" feature="Level60Item" />
-	<key id="19021805" name="베히모스 레인저 세트" feature="Level60Item" />
-	<key id="19021806" name="베히모스 헤비거너 세트" feature="Level60Item" />
-	<key id="19021807" name="베히모스 시프 세트" feature="Level60Item" />
-	<key id="19021808" name="베히모스 어쌔신 세트" feature="Level60Item" />
-	<key id="19021809" name="베히모스 룬블레이더 세트" feature="Level60Item" />
-	<key id="19021810" name="베히모스 스트라이커 세트" feature="Level60Item" />
-	<key id="19021811" name="베히모스 소울바인더 세트" feature="Level60Item" />
-	<key id="19021812" name="에일리온 나이트 세트" feature="Level60Item" />
-	<key id="19021813" name="에일리온 버서커 세트" feature="Level60Item" />
-	<key id="19021814" name="에일리온 위자드 세트" feature="Level60Item" />
-	<key id="19021815" name="에일리온 프리스트 세트" feature="Level60Item" />
-	<key id="19021816" name="에일리온 레인저 세트" feature="Level60Item" />
-	<key id="19021817" name="에일리온 헤비거너 세트" feature="Level60Item" />
-	<key id="19021818" name="에일리온 시프 세트" feature="Level60Item" />
-	<key id="19021819" name="에일리온 어쌔신 세트" feature="Level60Item" />
-	<key id="19021820" name="에일리온 룬블레이더 세트" feature="Level60Item" />
-	<key id="19021821" name="에일리온 스트라이커 세트" feature="Level60Item" />
-	<key id="19021822" name="에일리온 소울바인더 세트" feature="Level60Item" />
-	<key id="19021823" name="블랙 뱅가드 나이트 세트" feature="Level60Item" />
-	<key id="19021824" name="블랙 뱅가드 버서커 세트" feature="Level60Item" />
-	<key id="19021825" name="블랙 뱅가드 위자드 세트" feature="Level60Item" />
-	<key id="19021826" name="블랙 뱅가드 프리스트 세트" feature="Level60Item" />
-	<key id="19021827" name="블랙 뱅가드 레인저 세트" feature="Level60Item" />
-	<key id="19021828" name="블랙 뱅가드 헤비거너 세트" feature="Level60Item" />
-	<key id="19021829" name="블랙 뱅가드 시프 세트" feature="Level60Item" />
-	<key id="19021830" name="블랙 뱅가드 어쌔신 세트" feature="Level60Item" />
-	<key id="19021831" name="블랙 뱅가드 룬블레이더 세트" feature="Level60Item" />
-	<key id="19021832" name="블랙 뱅가드 스트라이커 세트" feature="Level60Item" />
-	<key id="19021833" name="블랙 뱅가드 소울바인더 세트" feature="Level60Item" />
-	<key id="19021834" name="센츄리온 세트" feature="Level60Item" />
-	<key id="19021835" name="센츄리온 세트" feature="Level60Item" />
-	<key id="19021836" name="블랙퓨리티 나이트 세트" feature="Level60Item" />
-	<key id="19021837" name="블랙퓨리티 버서커 세트" feature="Level60Item" />
-	<key id="19021838" name="블랙퓨리티 위자드 세트" feature="Level60Item" />
-	<key id="19021839" name="블랙퓨리티 프리스트 세트" feature="Level60Item" />
-	<key id="19021840" name="블랙퓨리티 레인저 세트" feature="Level60Item" />
-	<key id="19021841" name="블랙퓨리티 헤비거너 세트" feature="Level60Item" />
-	<key id="19021842" name="블랙퓨리티 시프 세트" feature="Level60Item" />
-	<key id="19021843" name="블랙퓨리티 어쌔신 세트" feature="Level60Item" />
-	<key id="19021844" name="블랙퓨리티 룬블레이더 세트" feature="Level60Item" />
-	<key id="19021845" name="블랙퓨리티 스트라이커 세트" feature="Level60Item" />
-	<key id="19021846" name="블랙퓨리티 소울바인더 세트" feature="Level60Item" />
-	<key id="19021847" name="블랙퓨리티 액세서리 세트" feature="Level60Item" />
-	<key id="19021848" name="블랙퓨리티 액세서리 세트" feature="Level60Item" />
+	<key id="18122101" name="강화된 품위의 전투 세트" />
+	<key id="18122101" name="强化气质战斗套装" feature="Level70Item" />
+	<key id="18122102" name="강화된 품위의 광란 세트" />
+	<key id="18122102" name="强化气质狂乱套装" feature="Level70Item" />
+	<key id="18122103" name="강화된 품위의 마법 세트" />
+	<key id="18122103" name="强化气质魔法套装" feature="Level70Item" />
+	<key id="18122104" name="강화된 품위의 신성 세트" />
+	<key id="18122104" name="强化气质神圣套装" feature="Level70Item" />
+	<key id="18122105" name="강화된 품위의 집중 세트" />
+	<key id="18122105" name="强化气质集中套装" feature="Level70Item" />
+	<key id="18122106" name="강화된 품위의 포격 세트" />
+	<key id="18122106" name="强化气质炮击套装" feature="Level70Item" />
+	<key id="18122107" name="강화된 품위의 혼란 세트" />
+	<key id="18122107" name="强化气质混乱套装" feature="Level70Item" />
+	<key id="18122108" name="강화된 품위의 암살 세트" />
+	<key id="18122108" name="强化气质暗杀套装" feature="Level70Item" />
+	<key id="18122109" name="강화된 품위의 주술 세트" />
+	<key id="18122109" name="强化气质咒术套装" feature="Level70Item" />
+	<key id="18122110" name="강화된 품위의 난투 세트" />
+	<key id="18122110" name="强化气质乱斗套装" feature="Level70Item" />
+	<key id="18122111" name="강화된 품위의 의식 세트" />
+	<key id="18122111" name="强化气质意识套装" feature="Level70Item" />
+	<key id="18122112" name="강화된 품위의 액세서리 세트" />
+	<key id="18122112" name="强化气质饰品套装" feature="Level70Item" />
+	<key id="18122701" name="크리티아스 라펜샤드 액세서리 세트" />
+	<key id="18122701" name="克里蒂亚斯魔方水晶饰品套装" feature="Level70Item" />
+	<key id="18122702" name="시공의 힘 액세서리 세트" />
+	<key id="18122702" name="时空之首饰套装" feature="Level70Item" />
+	<key id="19010301" name="타이렌 커맨더 컴뱃 나이트 세트" />
+	<key id="19010301" name="塔兰指挥官勇士骑士套装" feature="Level70Item" />
+	<key id="19010302" name="타이렌 커맨더 컴뱃 버서커 세트" />
+	<key id="19010302" name="塔兰指挥官勇士狂战士套装" feature="Level70Item" />
+	<key id="19010303" name="타이렌 커맨더 컴뱃 위자드 세트" />
+	<key id="19010303" name="塔兰指挥官勇士魔法师套装" feature="Level70Item" />
+	<key id="19010304" name="타이렌 커맨더 컴뱃 프리스트 세트" />
+	<key id="19010304" name="塔兰指挥官勇士牧师套装" feature="Level70Item" />
+	<key id="19010305" name="타이렌 커맨더 컴뱃 레인저 세트" />
+	<key id="19010305" name="塔兰指挥官勇士弓箭手套装" feature="Level70Item" />
+	<key id="19010306" name="타이렌 커맨더 컴뱃 헤비거너 세트" />
+	<key id="19010306" name="塔兰指挥官勇士重炮手套装" feature="Level70Item" />
+	<key id="19010307" name="타이렌 커맨더 컴뱃 시프 세트" />
+	<key id="19010307" name="塔兰指挥官勇士侠盗套装" feature="Level70Item" />
+	<key id="19010308" name="타이렌 커맨더 컴뱃 어쌔신 세트" />
+	<key id="19010308" name="塔兰指挥官战斗刺客套装" feature="Level70Item" />
+	<key id="19010309" name="타이렌 커맨더 컴뱃 룬블레이더 세트" />
+	<key id="19010309" name="塔兰指挥官勇士符文剑士套装" feature="Level70Item" />
+	<key id="19010310" name="타이렌 커맨더 컴뱃 스트라이커 세트" />
+	<key id="19010310" name="塔兰指挥官勇士街霸套装" feature="Level70Item" />
+	<key id="19010311" name="타이렌 커맨더 컴뱃 소울바인더 세트" />
+	<key id="19010311" name="塔兰指挥官勇士启灵师套装" feature="Level70Item" />
+	<key id="19010312" name="안티크 인페누크 나이트 세트" />
+	<key id="19010312" name="古代地狱君主骑士套装" feature="Level70Item" />
+	<key id="19010313" name="안티크 인페누크 버서커 세트" />
+	<key id="19010313" name="古代地狱君主狂战士套装" feature="Level70Item" />
+	<key id="19010314" name="안티크 인페누크 위자드 세트" />
+	<key id="19010314" name="古代地狱君主魔法师套装" feature="Level70Item" />
+	<key id="19010315" name="안티크 인페누크 프리스트 세트" />
+	<key id="19010315" name="古代地狱君主牧师套装" feature="Level70Item" />
+	<key id="19010316" name="안티크 인페누크 레인저 세트" />
+	<key id="19010316" name="古代地狱君主弓箭手套装" feature="Level70Item" />
+	<key id="19010317" name="안티크 인페누크 헤비거너 세트" />
+	<key id="19010317" name="古代地狱君主重炮手套装" feature="Level70Item" />
+	<key id="19010318" name="안티크 인페누크 시프 세트" />
+	<key id="19010318" name="古代地狱君主侠盗套装" feature="Level70Item" />
+	<key id="19010319" name="안티크 인페누크 어쌔신 세트" />
+	<key id="19010319" name="古代地狱君主刺客套装" feature="Level70Item" />
+	<key id="19010320" name="안티크 인페누크 룬블레이더 세트" />
+	<key id="19010320" name="古代地狱君主符文剑士套装" feature="Level70Item" />
+	<key id="19010321" name="안티크 인페누크 스트라이커 세트" />
+	<key id="19010321" name="古代地狱君主街霸套装" feature="Level70Item" />
+	<key id="19010322" name="안티크 인페누크 소울바인더 세트" />
+	<key id="19010322" name="古代地狱君主启灵师套装" feature="Level70Item" />
+	<key id="19011101" name="타이렌 컴뱃 나이트 세트" />
+	<key id="19011101" name="塔兰战斗骑士套装" feature="Level70Item" />
+	<key id="19011102" name="타이렌 컴뱃 버서커 세트" />
+	<key id="19011102" name="塔兰战斗狂战士套装" feature="Level70Item" />
+	<key id="19011103" name="타이렌 컴뱃 위자드 세트" />
+	<key id="19011103" name="塔兰战斗魔法师套装" feature="Level70Item" />
+	<key id="19011104" name="타이렌 컴뱃 프리스트 세트" />
+	<key id="19011104" name="塔兰战斗牧师套装" feature="Level70Item" />
+	<key id="19011105" name="타이렌 컴뱃 레인저 세트" />
+	<key id="19011105" name="塔兰战斗弓箭手套装" feature="Level70Item" />
+	<key id="19011106" name="타이렌 컴뱃 헤비거너 세트" />
+	<key id="19011106" name="塔兰战斗重炮手套装" feature="Level70Item" />
+	<key id="19011107" name="타이렌 컴뱃 시프 세트" />
+	<key id="19011107" name="塔兰战斗侠盗套装" feature="Level70Item" />
+	<key id="19011108" name="타이렌 컴뱃 어쌔신 세트" />
+	<key id="19011108" name="塔兰战斗刺客套装" feature="Level70Item" />
+	<key id="19011109" name="타이렌 컴뱃 룬블레이더 세트" />
+	<key id="19011109" name="塔兰战斗符文剑士套装" feature="Level70Item" />
+	<key id="19011110" name="타이렌 컴뱃 스트라이커 세트" />
+	<key id="19011110" name="塔兰战斗街霸套装" feature="Level70Item" />
+	<key id="19011111" name="타이렌 컴뱃 소울바인더 세트" />
+	<key id="19011111" name="塔兰战斗启灵师套装" feature="Level70Item" />
+	<key id="19011112" name="안티크 에라곤 나이트 세트" />
+	<key id="19011112" name="古代神龙骑士套装" feature="Level70Item" />
+	<key id="19011113" name="안티크 에라곤 버서커 세트" />
+	<key id="19011113" name="古代神龙狂战士套装" feature="Level70Item" />
+	<key id="19011114" name="안티크 에라곤 위자드 세트" />
+	<key id="19011114" name="古代神龙魔法师套装" feature="Level70Item" />
+	<key id="19011115" name="안티크 에라곤 프리스트 세트" />
+	<key id="19011115" name="古代神龙牧师套装" feature="Level70Item" />
+	<key id="19011116" name="안티크 에라곤 레인저 세트" />
+	<key id="19011116" name="古代神龙弓箭手套装" feature="Level70Item" />
+	<key id="19011117" name="안티크 에라곤 헤비거너 세트" />
+	<key id="19011117" name="古代神龙重炮手套装" feature="Level70Item" />
+	<key id="19011118" name="안티크 에라곤 시프 세트" />
+	<key id="19011118" name="古代神龙侠盗套装" feature="Level70Item" />
+	<key id="19011119" name="안티크 에라곤 어쌔신 세트" />
+	<key id="19011119" name="古代神龙刺客套装" feature="Level70Item" />
+	<key id="19011120" name="안티크 에라곤 룬블레이더 세트" />
+	<key id="19011120" name="古代神龙符文剑士套装" feature="Level70Item" />
+	<key id="19011121" name="안티크 에라곤 스트라이커 세트" />
+	<key id="19011121" name="古代神龙街霸套装" feature="Level70Item" />
+	<key id="19011122" name="안티크 에라곤 소울바인더 세트" />
+	<key id="19011122" name="古代神龙启灵师套装" feature="Level70Item" />
+	<key id="19011801" name="게오르크 카이 액세서리 세트" />
+	<key id="19011801" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19011802" name="게오르크 카이 액세서리 세트" />
+	<key id="19011802" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19011803" name="타이렌 로열 액세서리 세트" />
+	<key id="19011803" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19011804" name="타이렌 로열 액세서리 세트" />
+	<key id="19011804" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19011805" name="타이렌 로열 나이트 세트" />
+	<key id="19011805" name="塔兰皇家骑士套装" feature="Level70Item" />
+	<key id="19011806" name="타이렌 로열 버서커 세트" />
+	<key id="19011806" name="塔兰皇家狂战士套装" feature="Level70Item" />
+	<key id="19011807" name="타이렌 로열 위자드 세트" />
+	<key id="19011807" name="塔兰皇家魔法师套装" feature="Level70Item" />
+	<key id="19011808" name="타이렌 로열 프리스트 세트" />
+	<key id="19011808" name="塔兰皇家牧师套装" feature="Level70Item" />
+	<key id="19011809" name="타이렌 로열 레인저 세트" />
+	<key id="19011809" name="塔兰皇家弓箭手套装" feature="Level70Item" />
+	<key id="19011810" name="타이렌 로열 헤비거너 세트" />
+	<key id="19011810" name="塔兰皇家重炮手套装" feature="Level70Item" />
+	<key id="19011811" name="타이렌 로열 시프 세트" />
+	<key id="19011811" name="塔兰皇家侠盗套装" feature="Level70Item" />
+	<key id="19011812" name="타이렌 로열 어쌔신 세트" />
+	<key id="19011812" name="塔兰皇家刺客套装" feature="Level70Item" />
+	<key id="19011813" name="타이렌 로열 룬블레이더 세트" />
+	<key id="19011813" name="塔兰皇家符文剑士套装" feature="Level70Item" />
+	<key id="19011814" name="타이렌 로열 스트라이커 세트" />
+	<key id="19011814" name="塔兰皇家街霸套装" feature="Level70Item" />
+	<key id="19011815" name="타이렌 로열 소울바인더 세트" />
+	<key id="19011815" name="塔兰皇家启灵师套装" feature="Level70Item" />
+	<key id="19021801" name="베히모스 나이트 세트" />
+	<key id="19021801" name="贝希摩斯骑士套装" feature="Level60Item" />
+	<key id="19021802" name="베히모스 버서커 세트" />
+	<key id="19021802" name="贝希摩斯狂战士套装" feature="Level60Item" />
+	<key id="19021803" name="베히모스 위자드 세트" />
+	<key id="19021803" name="贝希摩斯魔法师套装" feature="Level60Item" />
+	<key id="19021804" name="베히모스 프리스트 세트" />
+	<key id="19021804" name="贝希摩斯牧师套装" feature="Level60Item" />
+	<key id="19021805" name="베히모스 레인저 세트" />
+	<key id="19021805" name="贝希摩斯弓箭手套装" feature="Level60Item" />
+	<key id="19021806" name="베히모스 헤비거너 세트" />
+	<key id="19021806" name="贝希摩斯重炮手套装" feature="Level60Item" />
+	<key id="19021807" name="베히모스 시프 세트" />
+	<key id="19021807" name="贝希摩斯侠盗套装" feature="Level60Item" />
+	<key id="19021808" name="베히모스 어쌔신 세트" />
+	<key id="19021808" name="贝希摩斯刺客套装" feature="Level60Item" />
+	<key id="19021809" name="베히모스 룬블레이더 세트" />
+	<key id="19021809" name="贝希摩斯符文剑士套装" feature="Level60Item" />
+	<key id="19021810" name="베히모스 스트라이커 세트" />
+	<key id="19021810" name="贝希摩斯街霸套装" feature="Level60Item" />
+	<key id="19021811" name="베히모스 소울바인더 세트" />
+	<key id="19021811" name="贝希摩斯启灵师套装" feature="Level60Item" />
+	<key id="19021812" name="에일리온 나이트 세트" />
+	<key id="19021812" name="外星骑士套装" feature="Level60Item" />
+	<key id="19021813" name="에일리온 버서커 세트" />
+	<key id="19021813" name="外星狂战士套装" feature="Level60Item" />
+	<key id="19021814" name="에일리온 위자드 세트" />
+	<key id="19021814" name="外星魔法师套装" feature="Level60Item" />
+	<key id="19021815" name="에일리온 프리스트 세트" />
+	<key id="19021815" name="外星牧师套装" feature="Level60Item" />
+	<key id="19021816" name="에일리온 레인저 세트" />
+	<key id="19021816" name="外星弓箭手套装" feature="Level60Item" />
+	<key id="19021817" name="에일리온 헤비거너 세트" />
+	<key id="19021817" name="外星重炮手套装" feature="Level60Item" />
+	<key id="19021818" name="에일리온 시프 세트" />
+	<key id="19021818" name="外星侠盗套装" feature="Level60Item" />
+	<key id="19021819" name="에일리온 어쌔신 세트" />
+	<key id="19021819" name="外星刺客套装" feature="Level60Item" />
+	<key id="19021820" name="에일리온 룬블레이더 세트" />
+	<key id="19021820" name="外星符文剑士套装" feature="Level60Item" />
+	<key id="19021821" name="에일리온 스트라이커 세트" />
+	<key id="19021821" name="外星街霸套装" feature="Level60Item" />
+	<key id="19021822" name="에일리온 소울바인더 세트" />
+	<key id="19021822" name="外星启灵师套装" feature="Level60Item" />
+	<key id="19021823" name="블랙 뱅가드 나이트 세트" />
+	<key id="19021823" name="漆黑先锋骑士套装" feature="Level60Item" />
+	<key id="19021824" name="블랙 뱅가드 버서커 세트" />
+	<key id="19021824" name="漆黑先锋狂战士套装" feature="Level60Item" />
+	<key id="19021825" name="블랙 뱅가드 위자드 세트" />
+	<key id="19021825" name="漆黑先锋魔法师套装" feature="Level60Item" />
+	<key id="19021826" name="블랙 뱅가드 프리스트 세트" />
+	<key id="19021826" name="漆黑先锋牧师套装" feature="Level60Item" />
+	<key id="19021827" name="블랙 뱅가드 레인저 세트" />
+	<key id="19021827" name="漆黑先锋弓箭手套装" feature="Level60Item" />
+	<key id="19021828" name="블랙 뱅가드 헤비거너 세트" />
+	<key id="19021828" name="漆黑先锋重炮手套装" feature="Level60Item" />
+	<key id="19021829" name="블랙 뱅가드 시프 세트" />
+	<key id="19021829" name="漆黑先锋侠盗套装" feature="Level60Item" />
+	<key id="19021830" name="블랙 뱅가드 어쌔신 세트" />
+	<key id="19021830" name="漆黑先锋刺客套装" feature="Level60Item" />
+	<key id="19021831" name="블랙 뱅가드 룬블레이더 세트" />
+	<key id="19021831" name="漆黑先锋符文剑士套装" feature="Level60Item" />
+	<key id="19021832" name="블랙 뱅가드 스트라이커 세트" />
+	<key id="19021832" name="漆黑先锋街霸套装" feature="Level60Item" />
+	<key id="19021833" name="블랙 뱅가드 소울바인더 세트" />
+	<key id="19021833" name="漆黑先锋启灵师套装" feature="Level60Item" />
+	<key id="19021834" name="센츄리온 세트" />
+	<key id="19021834" name="百夫长套装" feature="Level60Item" />
+	<key id="19021835" name="센츄리온 세트" />
+	<key id="19021835" name="百夫长套装" feature="Level60Item" />
+	<key id="19021836" name="블랙퓨리티 나이트 세트" />
+	<key id="19021836" name="至暗骑士套装" feature="Level60Item" />
+	<key id="19021837" name="블랙퓨리티 버서커 세트" />
+	<key id="19021837" name="至暗狂战士套装" feature="Level60Item" />
+	<key id="19021838" name="블랙퓨리티 위자드 세트" />
+	<key id="19021838" name="至暗魔法师套装" feature="Level60Item" />
+	<key id="19021839" name="블랙퓨리티 프리스트 세트" />
+	<key id="19021839" name="至暗牧师套装" feature="Level60Item" />
+	<key id="19021840" name="블랙퓨리티 레인저 세트" />
+	<key id="19021840" name="至暗弓箭手套装" feature="Level60Item" />
+	<key id="19021841" name="블랙퓨리티 헤비거너 세트" />
+	<key id="19021841" name="至暗重炮手套装" feature="Level60Item" />
+	<key id="19021842" name="블랙퓨리티 시프 세트" />
+	<key id="19021842" name="至暗侠盗套装" feature="Level60Item" />
+	<key id="19021843" name="블랙퓨리티 어쌔신 세트" />
+	<key id="19021843" name="至暗刺客套装" feature="Level60Item" />
+	<key id="19021844" name="블랙퓨리티 룬블레이더 세트" />
+	<key id="19021844" name="至暗符文剑士套装" feature="Level60Item" />
+	<key id="19021845" name="블랙퓨리티 스트라이커 세트" />
+	<key id="19021845" name="至暗街霸套装" feature="Level60Item" />
+	<key id="19021846" name="블랙퓨리티 소울바인더 세트" />
+	<key id="19021846" name="至暗启灵师套装" feature="Level60Item" />
+	<key id="19021847" name="블랙퓨리티 액세서리 세트" />
+	<key id="19021847" name="至暗饰品套装" feature="Level60Item" />
+	<key id="19021848" name="블랙퓨리티 액세서리 세트" />
+	<key id="19021848" name="至暗饰品套装" feature="Level60Item" />
 	<key id="19031301" name="웨딩데이 세트" />
 	<key id="19031302" name="웨딩데이 세트" />
-	<key id="19032001" name="마드라칸 군주 세트" feature="Level60Item" />
-	<key id="19041501" name="강화된 품위의 전투 세트" feature="PvPRankingDuelMode" />
-	<key id="19041502" name="강화된 품위의 광란 세트" feature="PvPRankingDuelMode" />
-	<key id="19041503" name="강화된 품위의 마법 세트" feature="PvPRankingDuelMode" />
-	<key id="19041504" name="강화된 품위의 신성 세트" feature="PvPRankingDuelMode" />
-	<key id="19041505" name="강화된 품위의 집중 세트" feature="PvPRankingDuelMode" />
-	<key id="19041506" name="강화된 품위의 포격 세트" feature="PvPRankingDuelMode" />
-	<key id="19041507" name="강화된 품위의 혼란 세트" feature="PvPRankingDuelMode" />
-	<key id="19041508" name="강화된 품위의 암살 세트" feature="PvPRankingDuelMode" />
-	<key id="19041509" name="강화된 품위의 주술 세트" feature="PvPRankingDuelMode" />
-	<key id="19041510" name="강화된 품위의 난투 세트" feature="PvPRankingDuelMode" />
-	<key id="19041511" name="강화된 품위의 의식 세트" feature="PvPRankingDuelMode" />
-	<key id="19041512" name="강화된 품위의 액세서리 세트" feature="PvPRankingDuelMode" />
+	<key id="19032001" name="马德拉坎君主套装" feature="Level60Item" />
+	<key id="19041501" name="강화된 품위의 전투 세트" />
+	<key id="19041501" name="强化气质战斗套装" feature="PvPRankingDuelMode" />
+	<key id="19041502" name="강화된 품위의 광란 세트" />
+	<key id="19041502" name="强化气质狂乱套装" feature="PvPRankingDuelMode" />
+	<key id="19041503" name="강화된 품위의 마법 세트" />
+	<key id="19041503" name="强化气质魔法套装" feature="PvPRankingDuelMode" />
+	<key id="19041504" name="강화된 품위의 신성 세트" />
+	<key id="19041504" name="强化气质神圣套装" feature="PvPRankingDuelMode" />
+	<key id="19041505" name="강화된 품위의 집중 세트" />
+	<key id="19041505" name="强化气质集中套装" feature="PvPRankingDuelMode" />
+	<key id="19041506" name="강화된 품위의 포격 세트" />
+	<key id="19041506" name="强化气质炮击套装" feature="PvPRankingDuelMode" />
+	<key id="19041507" name="강화된 품위의 혼란 세트" />
+	<key id="19041507" name="强化气质混乱套装" feature="PvPRankingDuelMode" />
+	<key id="19041508" name="강화된 품위의 암살 세트" />
+	<key id="19041508" name="强化气质暗杀套装" feature="PvPRankingDuelMode" />
+	<key id="19041509" name="강화된 품위의 주술 세트" />
+	<key id="19041509" name="强化气质咒术套装" feature="PvPRankingDuelMode" />
+	<key id="19041510" name="강화된 품위의 난투 세트" />
+	<key id="19041510" name="强化气质乱斗套装" feature="PvPRankingDuelMode" />
+	<key id="19041511" name="강화된 품위의 의식 세트" />
+	<key id="19041511" name="强化气质意识套装" feature="PvPRankingDuelMode" />
+	<key id="19041512" name="강화된 품위의 액세서리 세트" />
+	<key id="19041512" name="强化气质饰品套装" feature="PvPRankingDuelMode" />
 	<key id="19042501" name="오드리 튜튜 세트" />
 	<key id="19042502" name="오드리 튜튜 세트" />
 	<key id="19061201" name="마린 세트" />
@@ -638,6 +943,7 @@
 	<key id="19061297" name="밀리샤 룩 세트" />
 	<key id="19061298" name="리본 장식 치파오 세트" />
 	<key id="19061299" name="플로럴 비치 세트" />
+	<key id="19061300" name="몽실 토끼 세트" />
 	<key id="19061301" name="메이플 운동복 세트" />
 	<key id="19061302" name="프렌지 룩 세트" />
 	<key id="19061303" name="아쿠아 세트" />
@@ -727,69 +1033,135 @@
 	<key id="19061387" name="트라이아 궁중 셰프 세트" />
 	<key id="19061388" name="테크웨어 스카우트 세트" />
 	<key id="19061389" name="테크웨어 스카우트 세트" />
+	<key id="19061390" name="몽실 토끼 세트" />
+	<key id="19061391" name="오버 윈터 세트" />
+	<key id="19061392" name="오버 윈터 세트" />
+	<key id="19061393" name="통통 핑크빈 세트" />
+	<key id="19061394" name="통통 핑크빈 세트" />
 	<key id="19081201" name="에너제틱 스타 세트" />
 	<key id="19081202" name="에너제틱 스타 세트" />
-	<key id="19081401" name="타이렌 컴뱃 나이트 세트" feature="Level70Item" />
-	<key id="19081402" name="타이렌 컴뱃 버서커 세트" feature="Level70Item" />
-	<key id="19081403" name="타이렌 컴뱃 위자드 세트" feature="Level70Item" />
-	<key id="19081404" name="타이렌 컴뱃 프리스트 세트" feature="Level70Item" />
-	<key id="19081405" name="타이렌 컴뱃 레인저 세트" feature="Level70Item" />
-	<key id="19081406" name="타이렌 컴뱃 헤비거너 세트" feature="Level70Item" />
-	<key id="19081407" name="타이렌 컴뱃 시프 세트" feature="Level70Item" />
-	<key id="19081408" name="타이렌 컴뱃 어쌔신 세트" feature="Level70Item" />
-	<key id="19081409" name="타이렌 컴뱃 룬블레이더 세트" feature="Level70Item" />
-	<key id="19081410" name="타이렌 컴뱃 스트라이커 세트" feature="Level70Item" />
-	<key id="19081411" name="타이렌 컴뱃 소울바인더 세트" feature="Level70Item" />
-	<key id="19081412" name="안티크 에라곤 나이트 세트" feature="Level70Item" />
-	<key id="19081413" name="안티크 에라곤 버서커 세트" feature="Level70Item" />
-	<key id="19081414" name="안티크 에라곤 위자드 세트" feature="Level70Item" />
-	<key id="19081415" name="안티크 에라곤 프리스트 세트" feature="Level70Item" />
-	<key id="19081416" name="안티크 에라곤 레인저 세트" feature="Level70Item" />
-	<key id="19081417" name="안티크 에라곤 헤비거너 세트" feature="Level70Item" />
-	<key id="19081418" name="안티크 에라곤 시프 세트" feature="Level70Item" />
-	<key id="19081419" name="안티크 에라곤 어쌔신 세트" feature="Level70Item" />
-	<key id="19081420" name="안티크 에라곤 룬블레이더 세트" feature="Level70Item" />
-	<key id="19081421" name="안티크 에라곤 스트라이커 세트" feature="Level70Item" />
-	<key id="19081422" name="안티크 에라곤 소울바인더 세트" feature="Level70Item" />
-	<key id="19081423" name="타이렌 커맨더 컴뱃 나이트 세트" feature="Level70Item" />
-	<key id="19081424" name="타이렌 커맨더 컴뱃 버서커 세트" feature="Level70Item" />
-	<key id="19081425" name="타이렌 커맨더 컴뱃 위자드 세트" feature="Level70Item" />
-	<key id="19081426" name="타이렌 커맨더 컴뱃 프리스트 세트" feature="Level70Item" />
-	<key id="19081427" name="타이렌 커맨더 컴뱃 레인저 세트" feature="Level70Item" />
-	<key id="19081428" name="타이렌 커맨더 컴뱃 헤비거너 세트" feature="Level70Item" />
-	<key id="19081429" name="타이렌 커맨더 컴뱃 시프 세트" feature="Level70Item" />
-	<key id="19081430" name="타이렌 커맨더 컴뱃 어쌔신 세트" feature="Level70Item" />
-	<key id="19081431" name="타이렌 커맨더 컴뱃 룬블레이더 세트" feature="Level70Item" />
-	<key id="19081432" name="타이렌 커맨더 컴뱃 스트라이커 세트" feature="Level70Item" />
-	<key id="19081433" name="타이렌 커맨더 컴뱃 소울바인더 세트" feature="Level70Item" />
-	<key id="19081434" name="안티크 인페누크 나이트 세트" feature="Level70Item" />
-	<key id="19081435" name="안티크 인페누크 버서커 세트" feature="Level70Item" />
-	<key id="19081436" name="안티크 인페누크 위자드 세트" feature="Level70Item" />
-	<key id="19081437" name="안티크 인페누크 프리스트 세트" feature="Level70Item" />
-	<key id="19081438" name="안티크 인페누크 레인저 세트" feature="Level70Item" />
-	<key id="19081439" name="안티크 인페누크 헤비거너 세트" feature="Level70Item" />
-	<key id="19081440" name="안티크 인페누크 시프 세트" feature="Level70Item" />
-	<key id="19081441" name="안티크 인페누크 어쌔신 세트" feature="Level70Item" />
-	<key id="19081442" name="안티크 인페누크 룬블레이더 세트" feature="Level70Item" />
-	<key id="19081443" name="안티크 인페누크 스트라이커 세트" feature="Level70Item" />
-	<key id="19081444" name="안티크 인페누크 소울바인더 세트" feature="Level70Item" />
-	<key id="19081445" name="게오르크 카이 액세서리 세트" feature="Level70Item" />
-	<key id="19081446" name="게오르크 카이 액세서리 세트" feature="Level70Item" />
-	<key id="19081447" name="타이렌 로열 나이트 세트" feature="Level70Item" />
-	<key id="19081448" name="타이렌 로열 버서커 세트" feature="Level70Item" />
-	<key id="19081449" name="타이렌 로열 위자드 세트" feature="Level70Item" />
-	<key id="19081450" name="타이렌 로열 프리스트 세트" feature="Level70Item" />
-	<key id="19081451" name="타이렌 로열 레인저 세트" feature="Level70Item" />
-	<key id="19081452" name="타이렌 로열 헤비거너 세트" feature="Level70Item" />
-	<key id="19081453" name="타이렌 로열 시프 세트" feature="Level70Item" />
-	<key id="19081454" name="타이렌 로열 어쌔신 세트" feature="Level70Item" />
-	<key id="19081455" name="타이렌 로열 룬블레이더 세트" feature="Level70Item" />
-	<key id="19081456" name="타이렌 로열 스트라이커 세트" feature="Level70Item" />
-	<key id="19081457" name="타이렌 로열 소울바인더 세트" feature="Level70Item" />
-	<key id="19081458" name="타이렌 로열 액세서리 세트" feature="Level70Item" />
-	<key id="19081459" name="타이렌 로열 액세서리 세트" feature="Level70Item" />
-	<key id="19081460" name="크리티아스 라펜샤드 액세서리 세트" feature="Level70Item" />
-	<key id="19081461" name="시공의 힘 액세서리 세트" feature="Level70Item" />
+	<key id="19081401" name="타이렌 컴뱃 나이트 세트" />
+	<key id="19081401" name="塔兰战斗骑士套装" feature="Level70Item" />
+	<key id="19081402" name="타이렌 컴뱃 버서커 세트" />
+	<key id="19081402" name="塔兰战斗狂战士套装" feature="Level70Item" />
+	<key id="19081403" name="타이렌 컴뱃 위자드 세트" />
+	<key id="19081403" name="塔兰战斗魔法师套装" feature="Level70Item" />
+	<key id="19081404" name="타이렌 컴뱃 프리스트 세트" />
+	<key id="19081404" name="塔兰战斗牧师套装" feature="Level70Item" />
+	<key id="19081405" name="타이렌 컴뱃 레인저 세트" />
+	<key id="19081405" name="塔兰战斗弓箭手套装" feature="Level70Item" />
+	<key id="19081406" name="타이렌 컴뱃 헤비거너 세트" />
+	<key id="19081406" name="塔兰战斗重炮手套装" feature="Level70Item" />
+	<key id="19081407" name="타이렌 컴뱃 시프 세트" />
+	<key id="19081407" name="塔兰战斗侠盗套装" feature="Level70Item" />
+	<key id="19081408" name="타이렌 컴뱃 어쌔신 세트" />
+	<key id="19081408" name="塔兰战斗刺客套装" feature="Level70Item" />
+	<key id="19081409" name="타이렌 컴뱃 룬블레이더 세트" />
+	<key id="19081409" name="塔兰战斗符文剑士套装" feature="Level70Item" />
+	<key id="19081410" name="타이렌 컴뱃 스트라이커 세트" />
+	<key id="19081410" name="塔兰战斗街霸套装" feature="Level70Item" />
+	<key id="19081411" name="타이렌 컴뱃 소울바인더 세트" />
+	<key id="19081411" name="塔兰战斗启灵师套装" feature="Level70Item" />
+	<key id="19081412" name="안티크 에라곤 나이트 세트" />
+	<key id="19081412" name="古代神龙骑士套装" feature="Level70Item" />
+	<key id="19081413" name="안티크 에라곤 버서커 세트" />
+	<key id="19081413" name="古代神龙狂战士套装" feature="Level70Item" />
+	<key id="19081414" name="안티크 에라곤 위자드 세트" />
+	<key id="19081414" name="古代神龙魔法师套装" feature="Level70Item" />
+	<key id="19081415" name="안티크 에라곤 프리스트 세트" />
+	<key id="19081415" name="古代神龙牧师套装" feature="Level70Item" />
+	<key id="19081416" name="안티크 에라곤 레인저 세트" />
+	<key id="19081416" name="古代神龙弓箭手套装" feature="Level70Item" />
+	<key id="19081417" name="안티크 에라곤 헤비거너 세트" />
+	<key id="19081417" name="古代神龙重炮手套装" feature="Level70Item" />
+	<key id="19081418" name="안티크 에라곤 시프 세트" />
+	<key id="19081418" name="古代神龙侠盗套装" feature="Level70Item" />
+	<key id="19081419" name="안티크 에라곤 어쌔신 세트" />
+	<key id="19081419" name="古代神龙刺客套装" feature="Level70Item" />
+	<key id="19081420" name="안티크 에라곤 룬블레이더 세트" />
+	<key id="19081420" name="古代神龙符文剑士套装" feature="Level70Item" />
+	<key id="19081421" name="안티크 에라곤 스트라이커 세트" />
+	<key id="19081421" name="古代神龙街霸套装" feature="Level70Item" />
+	<key id="19081422" name="안티크 에라곤 소울바인더 세트" />
+	<key id="19081422" name="古代神龙启灵师套装" feature="Level70Item" />
+	<key id="19081423" name="타이렌 커맨더 컴뱃 나이트 세트" />
+	<key id="19081423" name="塔兰指挥官勇士骑士套装" feature="Level70Item" />
+	<key id="19081424" name="타이렌 커맨더 컴뱃 버서커 세트" />
+	<key id="19081424" name="塔兰指挥官勇士狂战士套装" feature="Level70Item" />
+	<key id="19081425" name="타이렌 커맨더 컴뱃 위자드 세트" />
+	<key id="19081425" name="塔兰指挥官勇士魔法师套装" feature="Level70Item" />
+	<key id="19081426" name="타이렌 커맨더 컴뱃 프리스트 세트" />
+	<key id="19081426" name="塔兰指挥官勇士牧师套装" feature="Level70Item" />
+	<key id="19081427" name="타이렌 커맨더 컴뱃 레인저 세트" />
+	<key id="19081427" name="塔兰指挥官勇士弓箭手套装" feature="Level70Item" />
+	<key id="19081428" name="타이렌 커맨더 컴뱃 헤비거너 세트" />
+	<key id="19081428" name="塔兰指挥官勇士重炮手套装" feature="Level70Item" />
+	<key id="19081429" name="타이렌 커맨더 컴뱃 시프 세트" />
+	<key id="19081429" name="塔兰指挥官勇士侠盗套装" feature="Level70Item" />
+	<key id="19081430" name="타이렌 커맨더 컴뱃 어쌔신 세트" />
+	<key id="19081430" name="塔兰指挥官战斗刺客套装" feature="Level70Item" />
+	<key id="19081431" name="타이렌 커맨더 컴뱃 룬블레이더 세트" />
+	<key id="19081431" name="塔兰指挥官勇士符文剑士套装" feature="Level70Item" />
+	<key id="19081432" name="타이렌 커맨더 컴뱃 스트라이커 세트" />
+	<key id="19081432" name="塔兰指挥官勇士街霸套装" feature="Level70Item" />
+	<key id="19081433" name="타이렌 커맨더 컴뱃 소울바인더 세트" />
+	<key id="19081433" name="塔兰指挥官勇士启灵师套装" feature="Level70Item" />
+	<key id="19081434" name="안티크 인페누크 나이트 세트" />
+	<key id="19081434" name="古代地狱君主骑士套装" feature="Level70Item" />
+	<key id="19081435" name="안티크 인페누크 버서커 세트" />
+	<key id="19081435" name="古代地狱君主狂战士套装" feature="Level70Item" />
+	<key id="19081436" name="안티크 인페누크 위자드 세트" />
+	<key id="19081436" name="古代地狱君主魔法师套装" feature="Level70Item" />
+	<key id="19081437" name="안티크 인페누크 프리스트 세트" />
+	<key id="19081437" name="古代地狱君主牧师套装" feature="Level70Item" />
+	<key id="19081438" name="안티크 인페누크 레인저 세트" />
+	<key id="19081438" name="古代地狱君主弓箭手套装" feature="Level70Item" />
+	<key id="19081439" name="안티크 인페누크 헤비거너 세트" />
+	<key id="19081439" name="古代地狱君主重炮手套装" feature="Level70Item" />
+	<key id="19081440" name="안티크 인페누크 시프 세트" />
+	<key id="19081440" name="古代地狱君主侠盗套装" feature="Level70Item" />
+	<key id="19081441" name="안티크 인페누크 어쌔신 세트" />
+	<key id="19081441" name="古代地狱君主刺客套装" feature="Level70Item" />
+	<key id="19081442" name="안티크 인페누크 룬블레이더 세트" />
+	<key id="19081442" name="古代地狱君主符文剑士套装" feature="Level70Item" />
+	<key id="19081443" name="안티크 인페누크 스트라이커 세트" />
+	<key id="19081443" name="古代地狱君主街霸套装" feature="Level70Item" />
+	<key id="19081444" name="안티크 인페누크 소울바인더 세트" />
+	<key id="19081444" name="古代地狱君主启灵师套装" feature="Level70Item" />
+	<key id="19081445" name="게오르크 카이 액세서리 세트" />
+	<key id="19081445" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19081446" name="게오르크 카이 액세서리 세트" />
+	<key id="19081446" name="格奥克·凯伊饰品套装" feature="Level70Item" />
+	<key id="19081447" name="타이렌 로열 나이트 세트" />
+	<key id="19081447" name="塔兰皇家骑士套装" feature="Level70Item" />
+	<key id="19081448" name="타이렌 로열 버서커 세트" />
+	<key id="19081448" name="塔兰皇家狂战士套装" feature="Level70Item" />
+	<key id="19081449" name="타이렌 로열 위자드 세트" />
+	<key id="19081449" name="塔兰皇家魔法师套装" feature="Level70Item" />
+	<key id="19081450" name="타이렌 로열 프리스트 세트" />
+	<key id="19081450" name="塔兰皇家牧师套装" feature="Level70Item" />
+	<key id="19081451" name="타이렌 로열 레인저 세트" />
+	<key id="19081451" name="塔兰皇家弓箭手套装" feature="Level70Item" />
+	<key id="19081452" name="타이렌 로열 헤비거너 세트" />
+	<key id="19081452" name="塔兰皇家重炮手套装" feature="Level70Item" />
+	<key id="19081453" name="타이렌 로열 시프 세트" />
+	<key id="19081453" name="塔兰皇家侠盗套装" feature="Level70Item" />
+	<key id="19081454" name="타이렌 로열 어쌔신 세트" />
+	<key id="19081454" name="塔兰皇家刺客套装" feature="Level70Item" />
+	<key id="19081455" name="타이렌 로열 룬블레이더 세트" />
+	<key id="19081455" name="塔兰皇家符文剑士套装" feature="Level70Item" />
+	<key id="19081456" name="타이렌 로열 스트라이커 세트" />
+	<key id="19081456" name="塔兰皇家街霸套装" feature="Level70Item" />
+	<key id="19081457" name="타이렌 로열 소울바인더 세트" />
+	<key id="19081457" name="塔兰皇家启灵师套装" feature="Level70Item" />
+	<key id="19081458" name="타이렌 로열 액세서리 세트" />
+	<key id="19081458" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19081459" name="타이렌 로열 액세서리 세트" />
+	<key id="19081459" name="塔兰皇家饰品套装" feature="Level70Item" />
+	<key id="19081460" name="크리티아스 라펜샤드 액세서리 세트" />
+	<key id="19081460" name="克里蒂亚斯魔方水晶饰品套装" feature="Level70Item" />
+	<key id="19081461" name="시공의 힘 액세서리 세트" />
+	<key id="19081461" name="时空之首饰套装" feature="Level70Item" />
 	<key id="19081601" name="백여우 세트" />
 	<key id="19081602" name="백여우 세트" />
 	<key id="19081603" name="일본 여름 전통 의상 세트" />
@@ -806,26 +1178,90 @@
 	<key id="19091804" name="쿨링쿨링 마린 세트" />
 	<key id="19091805" name="중세 귀족 세트" />
 	<key id="19091806" name="중세 리본 세트" />
-	<key id="19102301" name="스페셜 웨딩 세트" feature="Wedding" />
-	<key id="19102302" name="스페셜 웨딩 세트" feature="Wedding" />
+	<key id="19102301" name="스페셜 웨딩 세트" />
+	<key id="19102301" name="精致婚礼套装" feature="Wedding" />
+	<key id="19102302" name="스페셜 웨딩 세트" />
+	<key id="19102302" name="精致婚礼套装" feature="Wedding" />
 	<key id="19102501" name="견습 파티셰 세트" />
 	<key id="19102502" name="견습 파티셰 세트" />
-	<key id="19110701" name="파이어 프리즘 액세서리 세트" feature="Level70Item" />
-	<key id="19110702" name="파이어 프리즘 액세서리 세트" feature="Level70Item" />
+	<key id="19110701" name="파이어 프리즘 액세서리 세트" />
+	<key id="19110701" name="幽翼绯影饰品套装" feature="Level70Item" />
+	<key id="19110702" name="파이어 프리즘 액세서리 세트" />
+	<key id="19110702" name="幽翼绯影饰品套装" feature="Level70Item" />
+	<key id="19110703" name="크리스탈 샤인드 액세서리 세트" />
+	<key id="19110704" name="크리스탈 샤인드 액세서리 세트" />
 	<key id="19111901" name="겨울동화 세트" />
 	<key id="19111902" name="겨울동화 세트" />
-	<key id="20032601" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032602" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032603" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032604" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032605" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032606" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032607" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032608" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032609" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032610" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032611" name="낡은 투기장의 방어구 세트" feature="Level70Item" />
-	<key id="20032612" name="낡은 투기장의 액세서리 세트" feature="Level70Item" />
+	<key id="20032601" name="낡은 투기장의 방어구 세트" />
+	<key id="20032601" name="SETITEMNAME_20032601_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032602" name="낡은 투기장의 방어구 세트" />
+	<key id="20032602" name="SETITEMNAME_20032602_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032603" name="낡은 투기장의 방어구 세트" />
+	<key id="20032603" name="SETITEMNAME_20032603_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032604" name="낡은 투기장의 방어구 세트" />
+	<key id="20032604" name="SETITEMNAME_20032604_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032605" name="낡은 투기장의 방어구 세트" />
+	<key id="20032605" name="SETITEMNAME_20032605_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032606" name="낡은 투기장의 방어구 세트" />
+	<key id="20032606" name="SETITEMNAME_20032606_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032607" name="낡은 투기장의 방어구 세트" />
+	<key id="20032607" name="SETITEMNAME_20032607_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032608" name="낡은 투기장의 방어구 세트" />
+	<key id="20032608" name="SETITEMNAME_20032608_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032609" name="낡은 투기장의 방어구 세트" />
+	<key id="20032609" name="SETITEMNAME_20032609_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032610" name="낡은 투기장의 방어구 세트" />
+	<key id="20032610" name="SETITEMNAME_20032610_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032611" name="낡은 투기장의 방어구 세트" />
+	<key id="20032611" name="SETITEMNAME_20032611_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="20032612" name="낡은 투기장의 액세서리 세트" />
+	<key id="20032612" name="SETITEMNAME_20032612_NAME:[F]Level70Item" feature="Level70Item" />
+	<key id="21022501" name="오퍼레이터 세트 (남)" />
+	<key id="21022502" name="오퍼레이터 세트 (여)" />
+	<key id="21032401" name="상큼 레몬 세트 (남)" />
+	<key id="21032402" name="상큼 레몬 세트 (여)" />
+	<key id="21042701" name="러블리 츄츄 세트 (남)" />
+	<key id="21042702" name="러블리 츄츄 세트 (여)" />
+	<key id="21042703" name="검은 고양이 세트 (남)" />
+	<key id="21042704" name="검은 고양이 세트 (여)" />
+	<key id="21082501" name="블러디 뱀파이어 세트" />
+	<key id="21082502" name="블러디 뱀파이어 세트" />
+	<key id="21082503" name="개구쟁이 꼬마 악마 세트" />
+	<key id="21082504" name="개구쟁이 꼬마 악마 세트" />
+	<key id="21082505" name="스터드 룩 세트" />
+	<key id="21082506" name="스터드 룩 세트" />
+	<key id="21082601" name="로열 다크니스 세트" />
+	<key id="21082602" name="로열 다크니스 세트" />
+	<key id="21083001" name="다크문 키튼 세트" />
+	<key id="21083002" name="다크문 키튼 세트" />
+	<key id="21090101" name="스트리트 래퍼 세트" />
+	<key id="21090102" name="스트리트 래퍼 세트" />
+	<key id="21090103" name="하트 버니 세트" />
+	<key id="21090104" name="하트 버니 세트" />
+	<key id="21090105" name="페리오닉 세트" />
+	<key id="21090106" name="페리오닉 세트" />
+	<key id="21090201" name="아기 공룡 세트" />
+	<key id="21090202" name="아기 공룡 세트" />
+	<key id="21090203" name="인페르노 룩 세트" />
+	<key id="21090204" name="인페르노 룩 세트" />
+	<key id="21101901" name="로열 아라비안 세트" />
+	<key id="21101902" name="로열 아라비안 세트" />
+	<key id="21102101" name="은하수 별빛 세트" />
+	<key id="21102102" name="은하수 별빛 세트" />
+	<key id="21102103" name="팬시 고딕 세트" />
+	<key id="21102104" name="팬시 고딕 세트" />
+	<key id="21102105" name="눈꽃뭉치 세트" />
+	<key id="21102106" name="눈꽃뭉치 세트" />
+	<key id="21102107" name="스위트 드림 세트" />
+	<key id="21102108" name="스위트 드림 세트" />
+	<key id="21111101" name="로맨틱 웨딩 세트" />
+	<key id="21111102" name="로맨틱 웨딩 세트" />
+	<key id="21121601" name="미스터리 클럽 세트" />
+	<key id="21121602" name="미스터리 클럽 세트" />
+	<key id="21121603" name="오리엔탈 엔젤 세트" />
+	<key id="21121604" name="오리엔탈 엔젤 세트" />
+	<key id="21121605" name="천계의 선인 세트" />
+	<key id="21121606" name="천계의 선녀 세트" />
 	<key id="90000001" name="팬시 고딕 세트" />
 	<key id="90000002" name="팬시 고딕 세트" />
 	<key id="90000003" name="다크캣 펑키 교복 세트" />
@@ -896,6 +1332,10 @@
 	<key id="90000210" name="발랄한 교복 세트" />
 	<key id="90000261" name="썸머 래쉬가드 세트" />
 	<key id="90000262" name="썸머 래쉬가드 세트" />
+	<key id="90000265" name="밀리터리 세트" />
+	<key id="90000296" name="밀리터리 세트" />
+	<key id="90000303" name="할로할로 세트" />
+	<key id="90000304" name="할로할로 세트" />
 	<key id="90000309" name="포근한 겨울 세트" />
 	<key id="90000310" name="포근한 겨울 세트" />
 	<key id="90000317" name="로열 윈터 세트" />
@@ -912,12 +1352,18 @@
 	<key id="90000356" name="오드리 튜튜 세트" />
 	<key id="90000357" name="올림포스 세트" />
 	<key id="90000358" name="올림포스 세트" />
-	<key id="90000359" name="로맨틱 웨딩 세트" />
-	<key id="90000360" name="로맨틱 웨딩 세트" />
+	<key id="90000359" name="浪漫婚礼套装" />
+	<key id="90000360" name="浪漫婚礼套装" />
 	<key id="90000361" name="일루셔니스트 세트" />
 	<key id="90000362" name="일루셔니스트 세트" />
 	<key id="90000367" name="댄싱 그레이스 세트" />
 	<key id="90000368" name="댄싱 그레이스 세트" />
+	<key id="90000369" name="세이레네스 세트" />
+	<key id="90000370" name="세이레네스 세트" />
+	<key id="90000373" name="커닝시티 역무원 세트" />
+	<key id="90000374" name="커닝시티 역무원 세트" />
+	<key id="90000375" name="쿰바왕카 세트" />
+	<key id="90000376" name="쿰바왕카 세트" />
 	<key id="90000377" name="장난꾸러기 요정 세트" />
 	<key id="90000378" name="장난꾸러기 요정 세트" />
 	<key id="90000381" name="숲의 정령 세트" />
@@ -930,12 +1376,51 @@
 	<key id="90000392" name="타락천사 세트" />
 	<key id="90000393" name="신나는 봄나들이 세트" />
 	<key id="90000394" name="신나는 봄나들이 세트" />
+	<key id="90000395" name="포근한 솜뭉치 세트" />
+	<key id="90000396" name="포근한 솜뭉치 세트" />
+	<key id="90000397" name="커닝 경찰 세트" />
+	<key id="90000398" name="커닝 경찰 세트" />
 	<key id="90000399" name="째깍째깍 태엽 세트" />
 	<key id="90000400" name="째깍째깍 태엽 세트" />
+	<key id="90000415" name="가을 소풍 세트" />
+	<key id="90000416" name="가을 소풍 세트" />
+	<key id="90000417" name="프리스타일 아노락 세트" />
+	<key id="90000418" name="프리스타일 아노락 세트" />
 	<key id="90000419" name="플로리아 페어리 세트" />
 	<key id="90000420" name="플로리아 페어리 세트" />
+	<key id="90000427" name="메이플로드 승마복 세트" />
+	<key id="90000428" name="메이플로드 승마복 세트" />
+	<key id="90000429" name="커닝 집배원 세트" />
+	<key id="90000430" name="커닝 집배원 세트" />
+	<key id="90000431" name="폴 래빗 세트" />
+	<key id="90000432" name="폴 래빗 세트" />
 	<key id="90000449" name="펑키 네온 캣 옵션 룩 세트" />
 	<key id="90000450" name="펑키 네온 캣 옵션 룩 세트" />
+	<key id="90000459" name="궁중 예복 세트" feature="ItemKR" />
+	<key id="90000460" name="궁중 예복 세트" feature="ItemKR" />
+	<key id="90000461" name="색동 한복 세트" feature="ItemKR" />
+	<key id="90000462" name="색동 한복 세트" feature="ItemKR" />
+	<key id="90000463" name="보름달 한복 세트" feature="ItemKR" />
+	<key id="90000464" name="보름달 한복 세트" feature="ItemKR" />
+	<key id="90000469" name="금사 운룡 세트" />
+	<key id="90000470" name="금사 운룡 세트" />
+	<key id="90000471" name="깨어난 더키볼 세트" />
+	<key id="90000472" name="통통 블랙빈 세트" />
+	<key id="90000473" name="통통 블랙빈 세트" />
+	<key id="90000474" name="개구쟁이 꼬마 악마 세트" />
+	<key id="90000475" name="개구쟁이 꼬마 악마 세트" />
+	<key id="90000492" name="스위트 드림 세트" />
+	<key id="90000493" name="스위트 드림 세트" />
+	<key id="90000494" name="용감한 더키 소방대원 세트" />
+	<key id="90000495" name="용감한 더키 소방대원 세트" />
+	<key id="90000496" name="스트리트 래퍼 세트" />
+	<key id="90000497" name="스트리트 래퍼 세트" />
+	<key id="90000498" name="하트 버니 세트" />
+	<key id="90000499" name="하트 버니 세트" />
+	<key id="90000500" name="아기 공룡 세트" />
+	<key id="90000501" name="아기 공룡 세트" />
+	<key id="90000503" name="인페르노 룩 세트" />
+	<key id="90000504" name="인페르노 룩 세트" />
 	<key id="91000353" name="겨울동화 눈꽃 모션 변경" />
 	<key id="91000354" name="겨울동화 눈꽃 모션 변경" />
 	<key id="91000355" name="오드리 튜튜 모션 변경" />

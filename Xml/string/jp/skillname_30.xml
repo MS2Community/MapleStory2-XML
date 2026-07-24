@@ -1,73 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10300001" name="マジッククロー" />
-  <key id="10300011" name="ファイアトルネード" />
-  <key id="10300012" name="ファイアトルネードスプラッシュ" feature="Develop" />
-  <key id="10300021" name="フレイムウェーブ" />
-  <key id="10300031" name="チェーンライトニング" />
-  <key id="10300041" name="エネルギーエクスプロージョン" />
-  <key id="10300042" name="エネルギーエクスプロージョンスプラッシュ" feature="Develop" />
-  <key id="10300043" name="エネルギーエクスプロージョン" feature="JobChange_02" />
-  <key id="10300044" name="エネルギーエクスプロージョンスプラッシュ" feature="Develop" />
-  <key id="10300051" name="アイススピア" />
-  <key id="10300052" name="アイススピアスプラッシュ" feature="Develop" />
-  <key id="10300061" name="マナリカバリー" />
-  <key id="10300071" name="サンダーボルト" />
-  <key id="10300081" name="テレポート" />
-  <key id="10300091" name="集中の魔法陣" />
-  <key id="10300092" name="集中の魔法陣スプラッシュ" feature="Develop" />
-  <key id="10300101" name="フレイムロード" />
-  <key id="10300111" name="フロストロード" />
-  <key id="10300121" name="ライトニングロード" />
-  <key id="10300131" name="マジックアーマー" />
-  <key id="10300132" name="マジックアーマー発動" feature="Develop" />
-  <key id="10300141" name="アイスストライク" />
-  <key id="10300142" name="アイスストライクスプラッシュ" feature="Develop" />
-  <key id="10300151" name="エレメンタルマスター" />
-  <key id="10300161" name="マナドリフト" />
-  <key id="10300171" name="マナコントロール" feature="JobChange_01" />
-  <key id="10300181" name="デュエルキャスト" feature="JobChange_01" />
-  <key id="10300182" name="デュエルキャスト" feature="JobChange_01" />
-  <key id="10300183" name="デュエルキャスト" feature="JobChange_01" />
-  <key id="10300191" name="アイスクリームタイム！" feature="JobChange_01" />
-  <key id="10300192" name="アイスクリームタイムスプラッシュ" feature="Develop" />
-  <key id="10300193" name="ライトニングセンサー" feature="JobChange_01" />
-  <key id="10300194" name="ライトニングセンサースプラッシュ" feature="Develop" />
-  <key id="10300195" name="破片センサー" feature="Develop" />
-  <key id="10300196" name="破片センサースプラッシュ" feature="Develop" />
-  <key id="10300197" name="破片センサー2" feature="Develop" />
-  <key id="10300198" name="アイスクリームタイム！(破壊用)" feature="JobChange_01" />
-  <key id="10300199" name="持続時間表示スプラッシュ" feature="Develop" />
-  <key id="10300201" name="マグネチックフィールド" feature="JobChange_01" />
-  <key id="10300202" name="マグネチックフィールドスプラッシュ" feature="Develop" />
-  <key id="10300203" name="コールライトニング" feature="JobChange_01" />
-  <key id="10300204" name="コールライトニングスプラッシュ" feature="Develop" />
-  <key id="10300211" name="パーフェクトストーム" feature="JobChange_01" />
-  <key id="10300212" name="パーフェクトストーム2段階" feature="Develop" />
-  <key id="10300213" name="パーフェクトストーム3段階成功" feature="Develop" />
-  <key id="10300214" name="パーフェクトストーム失敗" feature="Develop" />
-  <key id="10300215" name="パーフェクトストーム成功スプラッシュ" feature="Develop" />
-  <key id="10300221" name="火種" feature="JobChange_01" />
-  <key id="10300222" name="火種" feature="JobChange_01" />
-  <key id="10300223" name="火種" feature="JobChange_01" />
-  <key id="10300224" name="火種" feature="JobChange_01" />
-  <key id="10300225" name="火種" feature="JobChange_01" />
-  <key id="10300231" name="バーベキューパーティ" feature="JobChange_01" />
-  <key id="10300232" name="バーベキューパーティ" feature="JobChange_01" />
-  <key id="10300233" name="バーベキューパーティ" feature="JobChange_01" />
-  <key id="10300234" name="バーベキューパーティ" feature="JobChange_01" />
-  <key id="10300235" name="バーベキューパーティ" feature="JobChange_01" />
-  <key id="10300241" name="火遊び" feature="JobChange_01" />
-  <key id="10300251" name="リトルメテオ" feature="JobChange_01" />
-  <key id="10300252" name="リトルメテオ" feature="JobChange_01" />
-  <key id="10300253" name="リトルメテオ" feature="JobChange_01" />
-  <key id="10300254" name="リトルメテオ" feature="JobChange_01" />
-  <key id="10300255" name="リトルメテオ" feature="JobChange_01" />
-  <key id="10300261" name="SKILLNAME_10300261_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10300262" name="SKILLNAME_10300262_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10300266" name="SKILLNAME_10300266_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10300271" name="SKILLNAME_10300271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10300281" name="SKILLNAME_10300281_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10300291" name="SKILLNAME_10300291_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10300001" name="マジッククロー" />
+	<key id="10300011" name="ファイアトルネード" />
+	<key id="10300012" name="ファイアトルネードスプラッシュ" feature="Develop" />
+	<key id="10300021" name="フレイムウェーブ" />
+	<key id="10300031" name="チェーンライトニング" />
+	<key id="10300041" name="エネルギーエクスプロージョン" />
+	<key id="10300042" name="エネルギーエクスプロージョンスプラッシュ" feature="Develop" />
+	<key id="10300043" name="エネルギーエクスプロージョン" feature="JobChange_02" />
+	<key id="10300044" name="エネルギーエクスプロージョンスプラッシュ" feature="Develop" />
+	<key id="10300051" name="アイススピア" />
+	<key id="10300052" name="アイススピアスプラッシュ" feature="Develop" />
+	<key id="10300061" name="マナリカバリー" />
+	<key id="10300071" name="サンダーボルト" />
+	<key id="10300081" name="テレポート" />
+	<key id="10300091" name="集中の魔法陣" />
+	<key id="10300092" name="集中の魔法陣スプラッシュ" feature="Develop" />
+	<key id="10300101" name="フレイムロード" />
+	<key id="10300111" name="フロストロード" />
+	<key id="10300121" name="ライトニングロード" />
+	<key id="10300131" name="マジックアーマー" />
+	<key id="10300132" name="マジックアーマー発動" feature="Develop" />
+	<key id="10300141" name="アイスストライク" />
+	<key id="10300142" name="アイスストライクスプラッシュ" feature="Develop" />
+	<key id="10300151" name="エレメンタルマスター" />
+	<key id="10300161" name="マナドリフト" />
+	<key id="10300171" name="マナコントロール" feature="JobChange_01" />
+	<key id="10300181" name="デュエルキャスト" feature="JobChange_01" />
+	<key id="10300182" name="デュエルキャスト" feature="JobChange_01" />
+	<key id="10300183" name="デュエルキャスト" feature="JobChange_01" />
+	<key id="10300191" name="アイスクリームタイム！" feature="JobChange_01" />
+	<key id="10300192" name="アイスクリームタイムスプラッシュ" feature="Develop" />
+	<key id="10300193" name="ライトニングセンサー" feature="JobChange_01" />
+	<key id="10300194" name="ライトニングセンサースプラッシュ" feature="Develop" />
+	<key id="10300195" name="破片センサー" feature="Develop" />
+	<key id="10300196" name="破片センサースプラッシュ" feature="Develop" />
+	<key id="10300197" name="破片センサー2" feature="Develop" />
+	<key id="10300198" name="アイスクリームタイム！(破壊用)" feature="JobChange_01" />
+	<key id="10300199" name="持続時間表示スプラッシュ" feature="Develop" />
+	<key id="10300201" name="マグネチックフィールド" feature="JobChange_01" />
+	<key id="10300202" name="マグネチックフィールドスプラッシュ" feature="Develop" />
+	<key id="10300203" name="コールライトニング" feature="JobChange_01" />
+	<key id="10300204" name="コールライトニングスプラッシュ" feature="Develop" />
+	<key id="10300211" name="パーフェクトストーム" feature="JobChange_01" />
+	<key id="10300212" name="パーフェクトストーム2段階" feature="Develop" />
+	<key id="10300213" name="パーフェクトストーム3段階成功" feature="Develop" />
+	<key id="10300214" name="パーフェクトストーム失敗" feature="Develop" />
+	<key id="10300215" name="パーフェクトストーム成功スプラッシュ" feature="Develop" />
+	<key id="10300221" name="火種" feature="JobChange_01" />
+	<key id="10300222" name="火種" feature="JobChange_01" />
+	<key id="10300223" name="火種" feature="JobChange_01" />
+	<key id="10300224" name="火種" feature="JobChange_01" />
+	<key id="10300225" name="火種" feature="JobChange_01" />
+	<key id="10300231" name="バーベキューパーティ" feature="JobChange_01" />
+	<key id="10300232" name="バーベキューパーティ" feature="JobChange_01" />
+	<key id="10300233" name="バーベキューパーティ" feature="JobChange_01" />
+	<key id="10300234" name="バーベキューパーティ" feature="JobChange_01" />
+	<key id="10300235" name="バーベキューパーティ" feature="JobChange_01" />
+	<key id="10300241" name="火遊び" feature="JobChange_01" />
+	<key id="10300251" name="リトルメテオ" feature="JobChange_01" />
+	<key id="10300252" name="リトルメテオ" feature="JobChange_01" />
+	<key id="10300253" name="リトルメテオ" feature="JobChange_01" />
+	<key id="10300254" name="リトルメテオ" feature="JobChange_01" />
+	<key id="10300255" name="リトルメテオ" feature="JobChange_01" />
+	<key id="10300261" name="SKILLNAME_10300261_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10300262" name="SKILLNAME_10300262_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10300266" name="SKILLNAME_10300266_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10300271" name="SKILLNAME_10300271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10300281" name="SKILLNAME_10300281_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10300291" name="SKILLNAME_10300291_NAME:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

@@ -1,683 +1,411 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
+	<key id="10000101" name="[开发]限时挑战" feature="Develop" />
+	<key id="10000201" name="[开发]不死" feature="Develop" />
+	<key id="10000301" name="[开发]消灭首领" feature="Develop" />
+	<key id="10000401" name="[开发]恢复药水使用限制" feature="Develop" />
+	<key id="10000501" name="[开发]不被首领技能击中" feature="Develop" />
+	<key id="10000601" name="[开发]不使用体力" feature="Develop" />
+	<key id="10000701" name="[开发]不使用能量" feature="Develop" />
+	<key id="10000801" name="[开发]不使用魔法盾" feature="Develop" />
+	<key id="10000901" name="[开发]获得特定增益" feature="Develop" />
+	<key id="10001001" name="[开发]最后一击消灭首领 " feature="Develop" />
+	<key id="10001101" name="[开发]发动互动物体" feature="Develop" />
+	<key id="10001201" name="[开发]不被击中" feature="Develop" />
+	<key id="10001301" name="[开发]在副本中造成伤害" feature="Develop" />
+	<key id="10001401" name="[开发]摧毁鸡笼" feature="Develop" />
+	<key id="10001501" name="DUNGEONMISSIONNAME_10001501_NAME:[F]Develop" feature="Develop" />
 	<key id="20004000" name="(파티)$npc:23090005$ 처치" feature="DungeonRank01" />
 	<key id="20004001" name="(파티)10분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="80004001" name="(파티)20분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="90004001" name="(파티)7분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
 	<key id="20004002" name="용암에 빠지면 감점" feature="DungeonRank01" />
 	<key id="20004003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="20004004" name="낙석에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20004005" name="파멸의 갈고리에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23004000" name="(파티)$npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="23004001" name="(파티)5분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="23004002" name="(파티)10분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="83004001" name="(파티)5분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="83004002" name="(파티)10분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
-	<key id="23004003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="23004004" name="낙석에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23004005" name="죽음의 폭발에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20007001" name="(파티)8분 내에 $npc:23000071$ 파괴" feature="Zakum01" />
 	<key id="20007002" name="(파티)12분 내에 $npc:23000071$ 파괴" feature="Zakum01" />
 	<key id="20007003" name="(파티)$npc:23000071$ 파괴" feature="Zakum01" />
 	<key id="20007004" name="(파티)자쿰의 팔 파괴" feature="Zakum01" />
 	<key id="20007005" name="비석에 깔리면 감점" feature="Zakum01" />
+	<key id="20007006" name="（组队）在5分钟内摧毁$npc:23000071$" feature="Zakum02" />
 	<key id="20014000" name="(파티)$npc:23000011$ 처치" feature="DungeonRank01" />
 	<key id="20014001" name="(파티)13분 내에 $npc:23000011$ 처치" feature="DungeonRank01" />
-	<key id="80014001" name="(파티)9분 내에 $npc:23000011$ 처치" feature="DungeonRank01" />
-	<key id="90014001" name="(파티)7분 내에 $npc:23000011$ 처치" feature="DungeonRank01" />
 	<key id="20014002" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="20014003" name="화상 치료하기" feature="DungeonRank01" />
 	<key id="20014004" name="꼬리로 바닥치기에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20014005" name="레이저 브레스에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20016000" name="(파티)$npc:23000052$ 처치" feature="DungeonRank01" />
 	<key id="20016001" name="(파티)13분 내에 $npc:23000052$ 처치" feature="DungeonRank01" />
-	<key id="80016001" name="(파티)20분 내에 $npc:23000052$ 처치" feature="DungeonRank01" />
-	<key id="90016001" name="(파티)7분 내에 $npc:23000052$ 처치" feature="DungeonRank01" />
 	<key id="20016002" name="화상에 걸리면 감점" feature="DungeonRank01" />
 	<key id="20016003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="20016004" name="죽음의 레이저에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20016005" name="화염의 소용돌이에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20018000" name="(파티)$npc:23000068$ 처치" feature="DungeonRank01" />
 	<key id="20018001" name="(파티)13분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="80018001" name="(파티)20분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="90018001" name="(파티)7분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
 	<key id="20018002" name="(파티)몬스터 처치" feature="DungeonRank01" />
 	<key id="20018003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="20018004" name="검기 충격파에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20018005" name="마법진에 떨어지는 칼날에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23018000" name="(파티)$npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="23018001" name="(파티)5분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="83018001" name="(파티)3분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="23018002" name="(파티)10분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="83018002" name="(파티)6분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
-	<key id="23018003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="23018004" name="검기 충격파에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23018005" name="마법진에 떨어지는 칼날에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20019000" name="(파티)$npc:23000080$ 처치" feature="DungeonRank01" />
 	<key id="20019001" name="(파티)13분 내에 $npc:23000080$ 처치" feature="DungeonRank01" />
-	<key id="80019001" name="(파티)20분 내에 $npc:23000080$ 처치" feature="DungeonRank01" />
-	<key id="90019001" name="(파티)7분 내에 $npc:23000080$ 처치" feature="DungeonRank01" />
 	<key id="20019002" name="소인화되면 감점" feature="DungeonRank01" />
 	<key id="20019003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="20019004" name="고드름에 맞으면 감점" feature="DungeonRank01" />
 	<key id="20019005" name="낙뢰에 맞으면 감점" feature="DungeonRank01" />
+	<key id="20020000" name="(파티)$npc:23000082$ 처치" feature="DungeonRank01" />
+	<key id="20020001" name="(파티)13분 내에 $npc:23000082$ 처치" feature="DungeonRank01" />
+	<key id="20020002" name="명중 감소 효과에 걸리면 감점" feature="DungeonRank01" />
+	<key id="20020003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="20020004" name="내려찍는 검에 맞으면 감점" feature="DungeonRank01" />
+	<key id="20020005" name="소울 버스터에 맞으면 감점" feature="DungeonRank01" />
+	<key id="20021001" name="(파티)8분 내에 $npc:23000083$ 처치" feature="DungeonRank01" />
+	<key id="20021002" name="얼음 큐브에 갇히면 감점" feature="DungeonRank01" />
+	<key id="20021003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="20021004" name="냉기 충격파에 맞으면 감점" feature="DungeonRank01" />
+	<key id="20021005" name="크리스탈 레이저에 맞으면 감점" feature="DungeonRank01" />
+	<key id="20022001" name="(파티)15분 내에 $npc:23000064$ 처치" feature="DungeonRank01" />
+	<key id="20022002" name="(파티)$npc:21500640$ 처치" feature="DungeonRank01" />
+	<key id="20022003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="20022004" name="그림자 불꽃을 밟으면 감점" feature="DungeonRank01" />
+	<key id="20022005" name="쉐도우 브레스에 맞으면 감점" feature="DungeonRank01" />
+	<key id="20023001" name="(파티)8분 내에 $npc:23000088$ 제압" feature="PinkBean01" />
+	<key id="20023002" name="(파티)12분 내에 $npc:23000088$ 제압" feature="PinkBean01" />
+	<key id="20023003" name="(파티)$npc:23000088$ 제압" feature="PinkBean01" />
+	<key id="20023004" name="(파티)$npc:21500670$ 처치" feature="PinkBean01" />
+	<key id="20023005" name="비석에 깔리면 감점" feature="PinkBean01" />
+	<key id="20024001" name="(파티)5분 내에 $npc:23000085$ 처치" feature="DungeonOpen70CH7" />
+	<key id="20024002" name="(파티)10분 내에 $npc:23000085$ 처치" feature="DungeonOpen70CH7" />
+	<key id="20024003" name="비석에 깔리면 감점" feature="DungeonOpen70CH7" />
+	<key id="20024004" name="내려찍는 검에 맞으면 감점" feature="DungeonOpen70CH7" />
+	<key id="20024005" name="소울 버스터에 맞으면 감점" feature="DungeonOpen70CH7" />
+	<key id="23004000" name="(파티)$npc:23090005$ 처치" feature="DungeonRank01" />
+	<key id="23004001" name="(파티)5분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
+	<key id="23004002" name="(파티)10분 내에 $npc:23090005$ 처치" feature="DungeonRank01" />
+	<key id="23004003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="23004004" name="낙석에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23004005" name="죽음의 폭발에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23006000" name="(파티)$npc:23000007$ 처치" feature="DungeonRank01" />
+	<key id="23006001" name="(파티)5분 내에 $npc:23000007$ 처치" feature="DungeonRank01" />
+	<key id="23006002" name="(파티)10분 내에 $npc:23000007$ 처치" feature="DungeonRank01" />
+	<key id="23006003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="23006004" name="SP봉인 효과에 걸리면 감점" feature="DungeonRank01" />
+	<key id="23006005" name="쉐도우 레이저에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23006006" name="DUNGEONMISSIONNAME_23006006_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23006006" name="(パーティ) $npc:23000007$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23006007" name="DUNGEONMISSIONNAME_23006007_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23006007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
+	<key id="23006008" name="DUNGEONMISSIONNAME_23006008_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23006008" name="(パーティ) 7人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23006009" name="DUNGEONMISSIONNAME_23006009_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23006009" name="(パーティ) 4人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23007000" name="DUNGEONMISSIONNAME_23007000_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23007000" name="(パーティ) $npc:23200016$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23007001" name="DUNGEONMISSIONNAME_23007001_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23007001" name="(パーティ) 5分以内に$npc:23200016$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23007002" name="DUNGEONMISSIONNAME_23007002_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23007002" name="(パーティ) 10分以内に$npc:23200016$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23008000" name="DUNGEONMISSIONNAME_23008000_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23008000" name="(パーティ) $npc:23200017$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23008001" name="DUNGEONMISSIONNAME_23008001_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23008001" name="(パーティ) 5分以内に$npc:23200017$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23008002" name="DUNGEONMISSIONNAME_23008002_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23008002" name="(パーティ) 10分以内に$npc:23200017$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23010000" name="(파티)$npc:23000015$ 처치" feature="DungeonRank01" />
+	<key id="23010001" name="(파티)5분 내에 $npc:23000015$ 처치" feature="DungeonRank01" />
+	<key id="23010002" name="(파티)10분 내에 $npc:23000015$ 처치" feature="DungeonRank01" />
+	<key id="23010003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="23010004" name="배치기에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23010005" name="초강력 갈고리포에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23010006" name="DUNGEONMISSIONNAME_23010006_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23010006" name="(パーティ) $npc:23000015$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23010007" name="DUNGEONMISSIONNAME_23010007_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23010007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
+	<key id="23010008" name="DUNGEONMISSIONNAME_23010008_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23010008" name="(パーティ) 7人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23010009" name="DUNGEONMISSIONNAME_23010009_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23010009" name="(パーティ) 4人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23011001" name="(파티)5분 내에 $npc:23000077$ 처치" feature="DungeonRank01" />
+	<key id="23011002" name="(파티)10분 내에 $npc:23000077$ 처치" feature="DungeonRank01" />
+	<key id="23011003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="23011004" name="손바닥으로 바닥 치기에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23011005" name="차원의 레이저에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23011006" name="DUNGEONMISSIONNAME_23011006_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23011006" name="(パーティ) $npc:23200077$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23011007" name="DUNGEONMISSIONNAME_23011007_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23011007" name="碑石に敷かれると減点" feature="DungeonRank01" locale="JP" />
+	<key id="23011008" name="DUNGEONMISSIONNAME_23011008_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23011008" name="(パーティ) 8人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23011009" name="DUNGEONMISSIONNAME_23011009_NAME:[F]DungeonOpenNA1808" feature="DungeonOpenNA1808" />
+	<key id="23011009" name="(パーティ) 5人以下でクリア" feature="DungeonRank01" locale="JP" />
+	<key id="23011010" name="(パーティ) $npc:23200076$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23011011" name="(パーティ) 5分以内に$npc:23200076$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23011012" name="(パーティ) 10分以内に$npc:23200076$退治" feature="DungeonRank01" locale="JP" />
+	<key id="23018000" name="(파티)$npc:23000068$ 처치" feature="DungeonRank01" />
+	<key id="23018001" name="(파티)5분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
+	<key id="23018002" name="(파티)10분 내에 $npc:23000068$ 처치" feature="DungeonRank01" />
+	<key id="23018003" name="비석에 깔리면 감점" feature="DungeonRank01" />
+	<key id="23018004" name="검기 충격파에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23018005" name="마법진에 떨어지는 칼날에 맞으면 감점" feature="DungeonRank01" />
 	<key id="23019000" name="(파티)$npc:23000080$ 처치" feature="DungeonRank01" />
 	<key id="23019001" name="(파티)5분 내에 $npc:23000080$ 처치" feature="DungeonRank01" />
 	<key id="23019002" name="(파티)10분 내에 $npc:23000080$ 처치" feature="DungeonRank01" />
 	<key id="23019003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="23019004" name="고드름에 맞으면 감점" feature="DungeonRank01" />
 	<key id="23019005" name="낙뢰에 맞으면 감점" feature="DungeonRank01" />
-	<key id="20020000" name="(파티)$npc:23000082$ 처치" feature="DungeonRank01" />
-	<key id="20020001" name="(파티)13분 내에 $npc:23000082$ 처치" feature="DungeonRank01" />
-	<key id="80020001" name="(파티)20분 내에 $npc:23000082$ 처치" feature="DungeonRank01" />
-	<key id="90020001" name="(파티)7분 내에 $npc:23000082$ 처치" feature="DungeonRank01" />
-	<key id="20020002" name="명중 감소 효과에 걸리면 감점" feature="DungeonRank01" />
-	<key id="20020003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="20020004" name="내려찍는 검에 맞으면 감점" feature="DungeonRank01" />
-	<key id="20020005" name="소울 버스터에 맞으면 감점" feature="DungeonRank01" />
 	<key id="23020001" name="(파티)5분 내에 $npc:23000082$ 처치" feature="DungeonRank01" />
 	<key id="23020002" name="(파티)10분 내에 $npc:23000082$ 처치" feature="DungeonRank01" />
 	<key id="23020003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="23020004" name="내려찍는 검에 맞으면 감점" feature="DungeonRank01" />
 	<key id="23020005" name="소울 버스터에 맞으면 감점" feature="DungeonRank01" />
-	<key id="20021001" name="(파티)8분 내에 $npc:23000083$ 처치" feature="DungeonRank01" />
-	<key id="20021002" name="얼음 큐브에 갇히면 감점" feature="DungeonRank01" />
-	<key id="20021003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="20021004" name="냉기 충격파에 맞으면 감점" feature="DungeonRank01" />
-	<key id="20021005" name="크리스탈 레이저에 맞으면 감점" feature="DungeonRank01" />
 	<key id="23021000" name="(파티)$npc:23000083$ 처치" feature="DungeonRank01" />
 	<key id="23021001" name="(파티)7분 내에 $npc:23000083$ 처치" feature="DungeonRank01" />
 	<key id="23021003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="23021004" name="얼음 큐브에 갇히면 감점" feature="DungeonRank01" />
 	<key id="23021005" name="냉기 충격파에 맞으면 감점" feature="DungeonRank01" />
 	<key id="23021006" name="크리스탈 레이저에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23021007" name="(파티)$npc:23000114$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23021008" name="(파티)7명 이하로 클리어" feature="DungeonRank01" locale="NA" />
-	<key id="23021009" name="(파티)4명 이하로 클리어" feature="DungeonRank01" locale="NA" />
-	<key id="23021010" name="비석에 깔리면 감점" feature="DungeonRank01" locale="NA" />
-	<key id="23021007" name="(파티)$npc:23000114$ 처치" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23021008" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23021009" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23021010" name="비석에 깔리면 감점" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23021007" name="(파티)$npc:23000114$ 처치" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23021008" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23021009" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23021010" name="비석에 깔리면 감점" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23021007" name="(파티)$npc:23000114$ 처치" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="23021008" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="23021009" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="23021010" name="비석에 깔리면 감점" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="20022001" name="(파티)15분 내에 $npc:23000064$ 처치" feature="DungeonRank01" />
-	<key id="20022002" name="(파티)$npc:21500640$ 처치" feature="DungeonRank01" />
-	<key id="20022003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="20022004" name="그림자 불꽃을 밟으면 감점" feature="DungeonRank01" />
-	<key id="20022005" name="쉐도우 브레스에 맞으면 감점" feature="DungeonRank01" />
+	<key id="23021007" name="(Party) Defeat $npc:23000114$" feature="DungeonRank01" locale="NA" />
+	<key id="23021007" name="(パーティ) $npc:23000114$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23021008" name="(Party) Clear in a party 7 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23021008" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23021009" name="(Party) Clear in a party 4 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23021009" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23021010" name="Don&apos;t get tombstoned" feature="DungeonRank01" locale="NA" />
+	<key id="23021010" name="碑石に敷かれると減点" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23022000" name="(파티)$npc:23000064$ 처치" feature="DungeonRank01" />
 	<key id="23022001" name="(파티)7분 내에 $npc:23000064$ 처치" feature="DungeonRank01" />
 	<key id="23022003" name="비석에 깔리면 감점" feature="DungeonRank01" />
 	<key id="23022004" name="그림자 불꽃을 밟으면 감점" feature="DungeonRank01" />
 	<key id="23022005" name="쉐도우 브레스에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23022006" name="(파티)$npc:23200067$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23022007" name="(파티)7명 이하로 클리어" feature="DungeonRank01" locale="NA" />
-	<key id="23022008" name="(파티)4명 이하로 클리어" feature="DungeonRank01" locale="NA" />
-	<key id="23022009" name="비석에 깔리면 감점" feature="DungeonRank01" locale="NA" />
-	<key id="23022006" name="(파티)$npc:23200067$ 처치" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23022007" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23022008" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23022009" name="비석에 깔리면 감점" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23022006" name="(파티)$npc:23200067$ 처치" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23022007" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23022008" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23022009" name="비석에 깔리면 감점" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23022006" name="(파티)$npc:23200067$ 처치" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23022007" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23022008" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23022009" name="비석에 깔리면 감점" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23006000" name="(파티)$npc:23000007$ 처치" feature="DungeonRank01" />
-	<key id="23006001" name="(파티)5분 내에 $npc:23000007$ 처치" feature="DungeonRank01" />
-	<key id="23006002" name="(파티)10분 내에 $npc:23000007$ 처치" feature="DungeonRank01" />
-	<key id="83006001" name="(파티)3분 내에 $npc:23000007$ 처치" feature="DungeonRank01" />
-	<key id="83006002" name="(파티)6분 내에 $npc:23000007$ 처치" feature="DungeonRank01" />
-	<key id="23006003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="23006004" name="SP봉인 효과에 걸리면 감점" feature="DungeonRank01" />
-	<key id="23006005" name="쉐도우 레이저에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23006006" name="(파티)$npc:23000007$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23006007" name="비석에 깔리면 감점" feature="DungeonRank01" locale="JP" />
-	<key id="23006008" name="(파티)7명 이하로 클리어" feature="DungeonRank01" locale="JP" />
-	<key id="23006009" name="(파티)4명 이하로 클리어" feature="DungeonRank01" locale="JP" />
-	<key id="23007000" name="(파티)$npc:23200016$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23007001" name="(파티)5분 내에 $npc:23200016$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23007002" name="(파티)10분 내에 $npc:23200016$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23006006" name="(파티)$npc:23000007$ 처치" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23006007" name="비석에 깔리면 감점" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23006008" name="(파티)7명 이하로 클리어" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23006009" name="(파티)4명 이하로 클리어" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23007000" name="(파티)$npc:23200016$ 처치" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23007001" name="(파티)5분 내에 $npc:23200016$ 처치" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23007002" name="(파티)10분 내에 $npc:23200016$ 처치" feature="DungeonOpen50CH1" locale="TH" />
-	<key id="23006006" name="(파티)$npc:23000007$ 처치" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23006007" name="비석에 깔리면 감점" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23006008" name="(파티)7명 이하로 클리어" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23006009" name="(파티)4명 이하로 클리어" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23007000" name="(파티)$npc:23200016$ 처치" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23007001" name="(파티)5분 내에 $npc:23200016$ 처치" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23007002" name="(파티)10분 내에 $npc:23200016$ 처치" feature="DungeonOpen50CH1" locale="TW" />
-	<key id="23010000" name="(파티)$npc:23000015$ 처치" feature="DungeonRank01" />
-	<key id="23010001" name="(파티)5분 내에 $npc:23000015$ 처치" feature="DungeonRank01" />
-	<key id="23010002" name="(파티)10분 내에 $npc:23000015$ 처치" feature="DungeonRank01" />
-	<key id="83010001" name="(파티)6분 내에 $npc:23000015$ 처치" feature="DungeonRank01" />
-	<key id="83010002" name="(파티)12분 내에 $npc:23000015$ 처치" feature="DungeonRank01" />
-	<key id="23010003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="23010004" name="배치기에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23010005" name="초강력 갈고리포에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23010006" name="(파티)$npc:23000015$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23010007" name="비석에 깔리면 감점" feature="DungeonRank01" locale="JP" />
-	<key id="23010008" name="(파티)7명 이하로 클리어" feature="DungeonRank01" locale="JP" />
-	<key id="23010009" name="(파티)4명 이하로 클리어" feature="DungeonRank01" locale="JP" />
-	<key id="23008000" name="(파티)$npc:23200017$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23008001" name="(파티)5분 내에 $npc:23200017$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23008002" name="(파티)10분 내에 $npc:23200017$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23010006" name="(파티)$npc:23000015$ 처치" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23010007" name="비석에 깔리면 감점" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23010008" name="(파티)7명 이하로 클리어" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23010009" name="(파티)4명 이하로 클리어" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23008000" name="(파티)$npc:23200017$ 처치" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23008001" name="(파티)5분 내에 $npc:23200017$ 처치" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23008002" name="(파티)10분 내에 $npc:23200017$ 처치" feature="DungeonOpen50CH2" locale="TH" />
-	<key id="23010006" name="(파티)$npc:23000015$ 처치" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23010007" name="비석에 깔리면 감점" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23010008" name="(파티)7명 이하로 클리어" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23010009" name="(파티)4명 이하로 클리어" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23008000" name="(파티)$npc:23200017$ 처치" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23008001" name="(파티)5분 내에 $npc:23200017$ 처치" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23008002" name="(파티)10분 내에 $npc:23200017$ 처치" feature="DungeonOpen50CH2" locale="TW" />
-	<key id="23011001" name="(파티)5분 내에 $npc:23000077$ 처치" feature="DungeonRank01" />
-	<key id="23011002" name="(파티)10분 내에 $npc:23000077$ 처치" feature="DungeonRank01" />
-	<key id="23011003" name="비석에 깔리면 감점" feature="DungeonRank01" />
-	<key id="23011004" name="손바닥으로 바닥 치기에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23011005" name="차원의 레이저에 맞으면 감점" feature="DungeonRank01" />
-	<key id="23011006" name="(파티)$npc:23200077$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23011007" name="비석에 깔리면 감점" feature="DungeonRank01" locale="JP" />
-	<key id="23011008" name="(파티)8명 이하로 클리어" feature="DungeonRank01" locale="JP" />
-	<key id="23011009" name="(파티)5명 이하로 클리어" feature="DungeonRank01" locale="JP" />
-	<key id="23011010" name="(파티)$npc:23200076$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23011011" name="(파티)5분 내에 $npc:23200076$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23011012" name="(파티)10분 내에 $npc:23200076$ 처치" feature="DungeonRank01" locale="JP" />
-	<key id="23011006" name="(파티)$npc:23200077$ 처치" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="23011007" name="비석에 깔리면 감점" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="23011008" name="(파티)8명 이하로 클리어" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="23011009" name="(파티)5명 이하로 클리어" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="23011006" name="(파티)$npc:23200077$ 처치" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="23011007" name="비석에 깔리면 감점" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="23011008" name="(파티)8명 이하로 클리어" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="23011009" name="(파티)5명 이하로 클리어" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="20023001" name="(파티)8분 내에 $npc:23000088$ 제압" feature="PinkBean01" />
-	<key id="20023002" name="(파티)12분 내에 $npc:23000088$ 제압" feature="PinkBean01" />
-	<key id="20023003" name="(파티)$npc:23000088$ 제압" feature="PinkBean01" />
-	<key id="20023004" name="(파티)$npc:21500670$ 처치" feature="PinkBean01" />
-	<key id="20023005" name="비석에 깔리면 감점" feature="PinkBean01" />
+	<key id="23022006" name="(Party) Defeat $npc:23200067$" feature="DungeonRank01" locale="NA" />
+	<key id="23022006" name="(パーティ) $npc:23200067$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23022007" name="(Party) Clear in a party 7 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23022007" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23022008" name="(Party) Clear in a party 4 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23022008" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23022009" name="Don&apos;t get tombstoned" feature="DungeonRank01" locale="NA" />
+	<key id="23022009" name="碑石に敷かれると減点" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23023000" name="(파티)$npc:23000088$ 처치" feature="PinkBean01" />
 	<key id="23023001" name="(파티)7분 내에 $npc:23000088$ 제압" feature="PinkBean01" />
 	<key id="23023003" name="비석에 깔리면 감점" feature="PinkBean01" />
 	<key id="23023004" name="확성기에 맞아 춤추면 감점" feature="PinkBean01" />
 	<key id="23023005" name="빛기둥 마법에 맞으면 감점" feature="PinkBean01" />
-	<key id="23023006" name="(파티)$npc:23000115$ 처치" feature="PinkBean01" locale="NA" />
-	<key id="23023007" name="(파티)7명 이하로 클리어" feature="PinkBean01" locale="NA" />
-	<key id="23023008" name="(파티)4명 이하로 클리어" feature="PinkBean01" locale="NA" />
-	<key id="23023009" name="비석에 깔리면 감점" feature="PinkBean01" locale="NA" />
-	<key id="23023006" name="(파티)$npc:23000115$ 처치" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23023007" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23023008" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23023009" name="비석에 깔리면 감점" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23023006" name="(파티)$npc:23000115$ 처치" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23023007" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23023008" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23023009" name="비석에 깔리면 감점" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23023006" name="(파티)$npc:23000115$ 처치" feature="DungeonOpen60CH3" locale="TW" />
-	<key id="23023007" name="(파티)7명 이하로 클리어" feature="DungeonOpen60CH3" locale="TW" />
-	<key id="23023008" name="(파티)4명 이하로 클리어" feature="DungeonOpen60CH3" locale="TW" />
-	<key id="23023009" name="비석에 깔리면 감점" feature="DungeonOpen60CH3" locale="TW" />
+	<key id="23023006" name="(Party) Defeat $npc:23000115$" feature="PinkBean01" locale="NA" />
+	<key id="23023006" name="(パーティ) $npc:23000115$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23023007" name="(Party) Clear in a party 7 or fewer" feature="PinkBean01" locale="NA" />
+	<key id="23023007" name="(パーティ) 7人以下でクリア" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23023008" name="(Party) Clear in a party 4 or fewer" feature="PinkBean01" locale="NA" />
+	<key id="23023008" name="(パーティ) 4人以下でクリア" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23023009" name="Don&apos;t get tombstoned" feature="PinkBean01" locale="NA" />
+	<key id="23023009" name="碑石に敷かれると減点" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23024000" name="(파티)$npc:23000072$ 처치" feature="Kritias_Zakum01" />
-	<key id="23024001" name="(파티)5분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" />
-	<key id="23024002" name="(파티)10분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024000" name="(组队)击败$npc:23000072$" feature="Kritias_Zakum01" locale="CN" />
+	<key id="23024001" name="(파티)6분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024001" name="(组队)6分钟内击败$npc:23000072$" feature="Kritias_Zakum01" locale="CN" />
+	<key id="23024002" name="(파티)12분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024002" name="(组队)12分钟内击败$npc:23000072$" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024003" name="비석에 깔리면 감점" feature="Kritias_Zakum01" />
+	<key id="23024003" name="变成墓碑时减分" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024004" name="(파티)$npc:23000073$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024004" name="(组队)击败$npc:23000073$" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024005" name="(파티)5분 내에 $npc:23000073$ 처치" feature="Kritias_Zakum01" />
+	<key id="23024005" name="(组队)5分钟内击败$npc:23000073$" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024006" name="(파티)10분 내에 $npc:23000073$ 처치" feature="Kritias_Zakum01" />
-	<key id="23024000" name="(파티)$npc:23000072$ 처치" feature="Kritias_Zakum01" locale="CN" />
-	<key id="23024001" name="(파티)6분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" locale="CN" />
-	<key id="23024002" name="(파티)12분 내에 $npc:23000072$ 처치" feature="Kritias_Zakum01" locale="CN" />
-	<key id="23024003" name="비석에 깔리면 감점" feature="Kritias_Zakum01" locale="CN" />
-	<key id="23024004" name="(파티)$npc:23000073$ 처치" feature="Kritias_Zakum01" locale="CN" />
-	<key id="23024005" name="(파티)5분 내에 $npc:23000073$ 처치" feature="Kritias_Zakum01" locale="CN" />
-	<key id="23024006" name="(파티)10분 내에 $npc:23000073$ 처치" feature="Kritias_Zakum01" locale="CN" />
+	<key id="23024006" name="(组队)10分钟内击败$npc:23000073$" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23025000" name="(파티)$npc:23000150$ 처치" feature="Kritias_Inferno01" />
-	<key id="23025001" name="(파티)5분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" />
-	<key id="23025002" name="(파티)10분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025000" name="(组队)击败$npc:23000150$" feature="Kritias_Inferno01" locale="CN" />
+	<key id="23025001" name="(파티)6분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025001" name="(组队)6分钟内击败$npc:23000150$" feature="Kritias_Inferno01" locale="CN" />
+	<key id="23025002" name="(파티)12분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025002" name="(组队)12分钟内击败$npc:23000150$" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025003" name="비석에 깔리면 감점" feature="Kritias_Inferno01" />
+	<key id="23025003" name="变成墓碑时减分" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025004" name="(파티)$npc:23000151$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025004" name="(组队)击败$npc:23000151$" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025005" name="(파티)5분 내에 $npc:23000151$ 처치" feature="Kritias_Inferno01" />
+	<key id="23025005" name="(组队)5分钟内$npc:23000151$" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025006" name="(파티)10분 내에 $npc:23000151$ 처치" feature="Kritias_Inferno01" />
-	<key id="23025000" name="(파티)$npc:23000150$ 처치" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23025001" name="(파티)6분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23025002" name="(파티)12분 내에 $npc:23000150$ 처치" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23025003" name="비석에 깔리면 감점" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23025004" name="(파티)$npc:23000151$ 처치" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23025005" name="(파티)5분 내에 $npc:23000151$ 처치" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23025006" name="(파티)10분 내에 $npc:23000151$ 처치" feature="Kritias_Inferno01" locale="CN" />
-	<key id="23026000" name="(파티)$npc:23502011$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23026001" name="(파티)5분 내에 $npc:23502011$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23026002" name="(파티)10분 내에 $npc:23502011$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23026000" name="(파티)$npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23026001" name="(파티)5분 내에 $npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23026002" name="(파티)10분 내에 $npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="JP" />
-	<key id="23026000" name="(파티)$npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23026001" name="(파티)5분 내에 $npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23026002" name="(파티)10분 내에 $npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="TH" />
-	<key id="23026000" name="(파티)$npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="23026001" name="(파티)5분 내에 $npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="23026002" name="(파티)10분 내에 $npc:23502011$ 처치" feature="DungeonOpen60CH1" locale="TW" />
-	<key id="23027000" name="(파티)$npc:23502003$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23027001" name="(파티)5분 내에 $npc:23502003$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23027002" name="(파티)10분 내에 $npc:23502003$ 처치" feature="DungeonRank01" locale="NA" />
-	<key id="23027000" name="(파티)$npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23027001" name="(파티)5분 내에 $npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23027002" name="(파티)10분 내에 $npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="JP" />
-	<key id="23027000" name="(파티)$npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23027001" name="(파티)5분 내에 $npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23027002" name="(파티)10분 내에 $npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="TH" />
-	<key id="23027000" name="(파티)$npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23027001" name="(파티)5분 내에 $npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23027002" name="(파티)10분 내에 $npc:23502003$ 처치" feature="DungeonOpen60CH2" locale="TW" />
-	<key id="23028000" name="(파티)$npc:23502021$ 처치" feature="PinkBean01" locale="NA" />
-	<key id="23028001" name="(파티)5분 내에 $npc:23502021$ 처치" feature="PinkBean01" locale="NA" />
-	<key id="23028002" name="(파티)10분 내에 $npc:23502021$ 처치" feature="PinkBean01" locale="NA" />
-	<key id="23028000" name="(파티)$npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23028001" name="(파티)5분 내에 $npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23028002" name="(파티)10분 내에 $npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="JP" />
-	<key id="23028000" name="(파티)$npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23028001" name="(파티)5분 내에 $npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23028002" name="(파티)10분 내에 $npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="TH" />
-	<key id="23028000" name="(파티)$npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="TW" />
-	<key id="23028001" name="(파티)5분 내에 $npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="TW" />
-	<key id="23028002" name="(파티)10분 내에 $npc:23502021$ 처치" feature="DungeonOpen60CH3" locale="TW" />
-	<key id="24090001" name="(파티)인페르녹 24억 대미지" feature="CrimsonBalrog01" />
-	<key id="24090002" name="(파티)인페르녹 20억 대미지" feature="CrimsonBalrog01" />
-	<key id="24090003" name="(파티)15분 동안 생존" feature="CrimsonBalrog01" />
-	<key id="24090004" name="(파티)인페르녹의 실드 무력화" feature="CrimsonBalrog01" />
-	<key id="24090005" name="인페르녹 5000만 대미지" feature="CrimsonBalrog01" />
-	<key id="24090006" name="인페르녹 50만 대미지" feature="CrimsonBalrog01" />
-	<key id="24090007" name="(파티)전함의 측면 파괴" feature="CrimsonBalrog01" />
-	<key id="24090008" name="비석에 깔리면 감점" feature="CrimsonBalrog01" />
-	<key id="24090011" name="(파티)인페르녹 40억 대미지" feature="CrimsonBalrog01" />
-	<key id="24090012" name="(파티)인페르녹 15억 대미지" feature="CrimsonBalrog01" />
-	<key id="24090013" name="(파티)15분 동안 생존" feature="CrimsonBalrog01" />
-	<key id="24090014" name="(파티)인페르녹의 실드 무력화" feature="CrimsonBalrog01" />
-	<key id="24090015" name="인페르녹 2500만 대미지" feature="CrimsonBalrog01" />
-	<key id="24090016" name="인페르녹 25만 대미지" feature="CrimsonBalrog01" />
-	<key id="24090017" name="(파티)전함의 측면 파괴" feature="CrimsonBalrog01" />
-	<key id="24090018" name="비석에 깔리면 감점" feature="CrimsonBalrog01" />
-	<key id="24090019" name="(파티)$npc:23000140$ 처치" feature="CrimsonBalrog01" locale="JP" />
-	<key id="24090020" name="비석에 깔리면 감점" feature="CrimsonBalrog01" locale="JP" />
-	<key id="24090021" name="(파티)8명 이하로 클리어" feature="CrimsonBalrog01" locale="JP" />
-	<key id="24090022" name="(파티)5명 이하로 클리어" feature="CrimsonBalrog01" locale="JP" />
-	<key id="24090019" name="(파티)$npc:23000140$ 처치" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="24090020" name="비석에 깔리면 감점" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="24090021" name="(파티)8명 이하로 클리어" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="24090022" name="(파티)5명 이하로 클리어" feature="DungeonOpen50CH3" locale="TH" />
-	<key id="24090019" name="(파티)$npc:23000140$ 처치" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="24090020" name="비석에 깔리면 감점" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="24090021" name="(파티)8명 이하로 클리어" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="24090022" name="(파티)5명 이하로 클리어" feature="DungeonOpen50CH3" locale="TW" />
-	<key id="24091001" name="블리체 체력 5% 감소" feature="FameChallengeDungeon" />
-	<key id="24091002" name="블리체 체력 20% 감소" feature="FameChallengeDungeon" />
-	<key id="24091003" name="블리체 체력 60% 감소" feature="FameChallengeDungeon" />
-	<key id="24091004" name="블리체에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24091005" name="3분내 블리체에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24091006" name="70초내 블리체에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24091007" name="블리체 체력 25% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24091008" name="블리체 체력 50% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24091009" name="블리체 체력 75% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24091010" name="4분 30초내 블리체에게 승리하기" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24091007" name="블리체 체력 25% 감소" feature="DungeonOpen50FR5" locale="TH" />
-	<key id="24091008" name="블리체 체력 50% 감소" feature="DungeonOpen50FR5" locale="TH" />
-	<key id="24091009" name="블리체 체력 75% 감소" feature="DungeonOpen50FR5" locale="TH" />
-	<key id="24091010" name="4분 30초내 블리체에게 승리하기" feature="DungeonOpen50FR5" locale="TH" />
-	<key id="24091007" name="블리체 체력 25% 감소" feature="DungeonOpen50FR5" locale="TW" />
-	<key id="24091008" name="블리체 체력 50% 감소" feature="DungeonOpen50FR5" locale="TW" />
-	<key id="24091009" name="블리체 체력 75% 감소" feature="DungeonOpen50FR5" locale="TW" />
-	<key id="24091010" name="4분 30초내 블리체에게 승리하기" feature="DungeonOpen50FR5" locale="TW" />
-	<key id="24092001" name="콘대르 체력 5% 감소" feature="FameChallengeDungeon" />
-	<key id="24092002" name="콘대르 체력 20% 감소" feature="FameChallengeDungeon" />
-	<key id="24092003" name="콘대르 체력 60% 감소" feature="FameChallengeDungeon" />
-	<key id="24092004" name="콘대르에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24092005" name="3분내 콘대르에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24092006" name="70초내 콘대르에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24092007" name="콘대르 체력 25% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24092008" name="콘대르 체력 50% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24092009" name="콘대르 체력 75% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24092010" name="4분 30초내 콘대르에게 승리하기" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24092007" name="콘대르 체력 25% 감소" feature="DungeonOpen50FR4" locale="TH" />
-	<key id="24092008" name="콘대르 체력 50% 감소" feature="DungeonOpen50FR4" locale="TH" />
-	<key id="24092009" name="콘대르 체력 75% 감소" feature="DungeonOpen50FR4" locale="TH" />
-	<key id="24092010" name="4분 30초내 콘대르에게 승리하기" feature="DungeonOpen50FR4" locale="TH" />
-	<key id="24092007" name="콘대르 체력 25% 감소" feature="DungeonOpen50FR4" locale="TW" />
-	<key id="24092008" name="콘대르 체력 50% 감소" feature="DungeonOpen50FR4" locale="TW" />
-	<key id="24092009" name="콘대르 체력 75% 감소" feature="DungeonOpen50FR4" locale="TW" />
-	<key id="24092010" name="4분 30초내 콘대르에게 승리하기" feature="DungeonOpen50FR4" locale="TW" />
-	<key id="24093001" name="라운드 1 클리어" feature="FameChallengeDungeon" />
-	<key id="24093002" name="라운드 2 클리어" feature="FameChallengeDungeon" />
-	<key id="24093003" name="라운드 4 클리어" feature="FameChallengeDungeon" />
-	<key id="24093004" name="라운드 5 클리어" feature="FameChallengeDungeon" />
-	<key id="24093005" name="3분내 라운드 5 클리어" feature="FameChallengeDungeon" />
-	<key id="24093006" name="70초내 라운드 5 클리어" feature="FameChallengeDungeon" />
-	<key id="24093007" name="4분 30초분내 라운드 5 클리어" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24093007" name="4분 30초분내 라운드 5 클리어" feature="DungeonOpen50FR1" locale="TH" />
-	<key id="24093007" name="4분 30초분내 라운드 5 클리어" feature="DungeonOpen50FR1" locale="TW" />
-	<key id="24094001" name="메이슨 체력 5% 감소" feature="FameChallengeDungeon" />
-	<key id="24094002" name="메이슨 체력 20% 감소" feature="FameChallengeDungeon" />
-	<key id="24094003" name="메이슨 체력 60% 감소" feature="FameChallengeDungeon" />
-	<key id="24094004" name="메이슨에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24094005" name="3분내 메이슨에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24094006" name="70초내 메이슨에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24094007" name="메이슨 체력 25% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24094008" name="메이슨 체력 50% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24094009" name="메이슨 체력 75% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24094010" name="4분 30초내 메이슨에게 승리하기" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24094007" name="메이슨 체력 25% 감소" feature="DungeonOpen50FR2" locale="TH" />
-	<key id="24094008" name="메이슨 체력 50% 감소" feature="DungeonOpen50FR2" locale="TH" />
-	<key id="24094009" name="메이슨 체력 75% 감소" feature="DungeonOpen50FR2" locale="TH" />
-	<key id="24094010" name="4분 30초내 메이슨에게 승리하기" feature="DungeonOpen50FR2" locale="TH" />
-	<key id="24094007" name="메이슨 체력 25% 감소" feature="DungeonOpen50FR2" locale="TW" />
-	<key id="24094008" name="메이슨 체력 50% 감소" feature="DungeonOpen50FR2" locale="TW" />
-	<key id="24094009" name="메이슨 체력 75% 감소" feature="DungeonOpen50FR2" locale="TW" />
-	<key id="24094010" name="4분 30초내 메이슨에게 승리하기" feature="DungeonOpen50FR2" locale="TW" />
-	<key id="24095001" name="샤텐 체력 5% 감소" feature="FameChallengeDungeon" />
-	<key id="24095002" name="샤텐 체력 20% 감소" feature="FameChallengeDungeon" />
-	<key id="24095003" name="샤텐 체력 60% 감소" feature="FameChallengeDungeon" />
-	<key id="24095004" name="샤텐에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24095005" name="3분내 샤텐에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24095006" name="70초내 샤텐에게 승리하기" feature="FameChallengeDungeon" />
-	<key id="24095007" name="샤텐 체력 25% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24095008" name="샤텐 체력 50% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24095009" name="샤텐 체력 75% 감소" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24095010" name="4분 30초내 샤텐에게 승리하기" feature="FameChallengeDungeon" locale="JP" />
-	<key id="24095007" name="샤텐 체력 25% 감소" feature="DungeonOpen50FR3" locale="TH" />
-	<key id="24095008" name="샤텐 체력 50% 감소" feature="DungeonOpen50FR3" locale="TH" />
-	<key id="24095009" name="샤텐 체력 75% 감소" feature="DungeonOpen50FR3" locale="TH" />
-	<key id="24095010" name="4분 30초내 샤텐에게 승리하기" feature="DungeonOpen50FR3" locale="TH" />
-	<key id="24095007" name="샤텐 체력 25% 감소" feature="DungeonOpen50FR3" locale="TW" />
-	<key id="24095008" name="샤텐 체력 50% 감소" feature="DungeonOpen50FR3" locale="TW" />
-	<key id="24095009" name="샤텐 체력 75% 감소" feature="DungeonOpen50FR3" locale="TW" />
-	<key id="24095010" name="4분 30초내 샤텐에게 승리하기" feature="DungeonOpen50FR3" locale="TW" />
+	<key id="23025006" name="(组队)10分钟内$npc:23000151$" feature="Kritias_Inferno01" locale="CN" />
+	<key id="23026000" name="(Party) Defeat $npc:23502011$" feature="DungeonRank01" locale="NA" />
+	<key id="23026000" name="(パーティ) $npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23026001" name="(Party) Defeat $npc:23502011$ within 5 min" feature="DungeonRank01" locale="NA" />
+	<key id="23026001" name="(パーティ) 5分以内に$npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23026002" name="(Party) Defeat $npc:23502011$ within 10 min" feature="DungeonRank01" locale="NA" />
+	<key id="23026002" name="(パーティ) 10分以内に$npc:23502011$退治" feature="DungeonOpen60CH1" locale="JP" />
+	<key id="23027000" name="(Party) Defeat $npc:23502003$" feature="DungeonRank01" locale="NA" />
+	<key id="23027000" name="(パーティ) $npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23027001" name="(Party) Defeat $npc:23502003$ within 5 min" feature="DungeonRank01" locale="NA" />
+	<key id="23027001" name="(パーティ) 5分以内に$npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23027002" name="(Party) Defeat $npc:23502003$ within 10 min" feature="DungeonRank01" locale="NA" />
+	<key id="23027002" name="(パーティ) 10分以内に$npc:23502003$退治" feature="DungeonOpen60CH2" locale="JP" />
+	<key id="23028000" name="(Party) Defeat $npc:23502021$" feature="PinkBean01" locale="NA" />
+	<key id="23028000" name="(パーティ) $npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23028001" name="(Party) Defeat $npc:23502021$ within 5 min" feature="PinkBean01" locale="NA" />
+	<key id="23028001" name="(パーティ) 5分以内に$npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
+	<key id="23028002" name="(Party) Defeat $npc:23502021$ within 10 min" feature="PinkBean01" locale="NA" />
+	<key id="23028002" name="(パーティ) 10分以内に$npc:23502021$退治" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23031000" name="(파티)$npc:21420101$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23031000" name="(Party) Defeat $npc:21420101$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031000" name="(パーティ) $npc:21420101$退治" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031001" name="(파티)$npc:21420102$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23031001" name="(Party) Defeat $npc:21420102$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031001" name="(パーティ) $npc:21420102$退治" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031002" name="(파티)5분 내에 $npc:21420101$, $npc:21420102$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23031002" name="(Party) Defeat $npc:21420101$ &amp; $npc:21420102$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031002" name="(パーティ) 5分内に$npc:21420101$、$npc:21420102$退治" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031004" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23031004" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031004" name="碑石に敷かれると減点" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031005" name="파도 공격에 맞으면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23031005" name="Don&apos;t get hit by a wave attack" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031005" name="波攻撃に当たると減点" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031006" name="$npc:21420101$의 돌진 찌르기에 맞으면 감점" feature="ChronicleDungeon60_01" />
-	<key id="23031000" name="(파티)$npc:21420101$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23031001" name="(파티)$npc:21420102$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23031002" name="(파티)5분 내에 $npc:21420101$, $npc:21420102$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23031004" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23031005" name="파도 공격에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23031006" name="$npc:21420101$의 돌진 찌르기에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23031000" name="(파티)$npc:21420101$ 처치" feature="DungeonOpen60AH1" locale="JP" />
-	<key id="23031001" name="(파티)$npc:21420102$ 처치" feature="DungeonOpen60AH1" locale="JP" />
-	<key id="23031002" name="(파티)5분 내에 $npc:21420101$, $npc:21420102$ 처치" feature="DungeonOpen60AH1" locale="JP" />
-	<key id="23031004" name="비석에 깔리면 감점" feature="DungeonOpen60AH1" locale="JP" />
-	<key id="23031005" name="파도 공격에 맞으면 감점" feature="DungeonOpen60AH1" locale="JP" />
-	<key id="23031006" name="$npc:21420101$의 돌진 찌르기에 맞으면 감점" feature="DungeonOpen60AH1" locale="JP" />
-	<key id="23031000" name="(파티)$npc:21420101$ 처치" feature="DungeonOpen60AH1" locale="TH" />
-	<key id="23031001" name="(파티)$npc:21420102$ 처치" feature="DungeonOpen60AH1" locale="TH" />
-	<key id="23031002" name="(파티)5분 내에 $npc:21420101$, $npc:21420102$ 처치" feature="DungeonOpen60AH1" locale="TH" />
-	<key id="23031004" name="비석에 깔리면 감점" feature="DungeonOpen60AH1" locale="TH" />
-	<key id="23031005" name="파도 공격에 맞으면 감점" feature="DungeonOpen60AH1" locale="TH" />
-	<key id="23031006" name="$npc:21420101$의 돌진 찌르기에 맞으면 감점" feature="DungeonOpen60AH1" locale="TH" />
-	<key id="23031000" name="(파티)$npc:21420101$ 처치" feature="DungeonOpen60AH1" locale="TW" />
-	<key id="23031001" name="(파티)$npc:21420102$ 처치" feature="DungeonOpen60AH1" locale="TW" />
-	<key id="23031002" name="(파티)5분 내에 $npc:21420101$, $npc:21420102$ 처치" feature="DungeonOpen60AH1" locale="TW" />
-	<key id="23031004" name="비석에 깔리면 감점" feature="DungeonOpen60AH1" locale="TW" />
-	<key id="23031005" name="파도 공격에 맞으면 감점" feature="DungeonOpen60AH1" locale="TW" />
-	<key id="23031006" name="$npc:21420101$의 돌진 찌르기에 맞으면 감점" feature="DungeonOpen60AH1" locale="TW" />
+	<key id="23031006" name="Don&apos;t get hit by $npc:21420101$&apos;s charging stab" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031006" name="$npc:21420101$の突進に当たると減点" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23032000" name="(파티)$npc:21420207$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23032000" name="(Party) Defeat $npc:21420207$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032000" name="(パーティ) $npc:21420207$退治" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032001" name="(파티)5분 내에 $npc:21420207$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23032001" name="(Party) Defeat $npc:21420207$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032001" name="(パーティ) 5分以内に$npc:21420207$退治" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23032003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032003" name="碑石に敷かれると減点" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032004" name="$npc:21420207$의 파도 충격파에 맞으면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23032004" name="Don&apos;t get hit by $npc:21420207$&apos;s cresting shockwave" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032004" name="$npc:21420207$の波衝撃波に当たると減点" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032005" name="$npc:21420207$의 물대포에 맞으면 감점" feature="ChronicleDungeon60_01" />
-	<key id="23032000" name="(파티)$npc:21420207$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23032001" name="(파티)5분 내에 $npc:21420207$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23032003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23032004" name="$npc:21420207$의 파도 충격파에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23032005" name="$npc:21420207$의 물대포에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23032000" name="(파티)$npc:21420207$ 처치" feature="DungeonOpen60AH2" locale="JP" />
-	<key id="23032001" name="(파티)5분 내에 $npc:21420207$ 처치" feature="DungeonOpen60AH2" locale="JP" />
-	<key id="23032003" name="비석에 깔리면 감점" feature="DungeonOpen60AH2" locale="JP" />
-	<key id="23032004" name="$npc:21420207$의 파도 충격파에 맞으면 감점" feature="DungeonOpen60AH2" locale="JP" />
-	<key id="23032005" name="$npc:21420207$의 물대포에 맞으면 감점" feature="DungeonOpen60AH2" locale="JP" />
-	<key id="23032000" name="(파티)$npc:21420207$ 처치" feature="DungeonOpen60AH2" locale="TH" />
-	<key id="23032001" name="(파티)5분 내에 $npc:21420207$ 처치" feature="DungeonOpen60AH2" locale="TH" />
-	<key id="23032003" name="비석에 깔리면 감점" feature="DungeonOpen60AH2" locale="TH" />
-	<key id="23032004" name="$npc:21420207$의 파도 충격파에 맞으면 감점" feature="DungeonOpen60AH2" locale="TH" />
-	<key id="23032005" name="$npc:21420207$의 물대포에 맞으면 감점" feature="DungeonOpen60AH2" locale="TH" />
-	<key id="23032000" name="(파티)$npc:21420207$ 처치" feature="DungeonOpen60AH2" locale="TW" />
-	<key id="23032001" name="(파티)5분 내에 $npc:21420207$ 처치" feature="DungeonOpen60AH2" locale="TW" />
-	<key id="23032003" name="비석에 깔리면 감점" feature="DungeonOpen60AH2" locale="TW" />
-	<key id="23032004" name="$npc:21420207$의 파도 충격파에 맞으면 감점" feature="DungeonOpen60AH2" locale="TW" />
-	<key id="23032005" name="$npc:21420207$의 물대포에 맞으면 감점" feature="DungeonOpen60AH2" locale="TW" />
+	<key id="23032005" name="Don&apos;t get hit by $npc:21420207$&apos;s water cannon" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032005" name="$npc:21420207$の水鉄砲に当たると減点" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23033000" name="(파티)$npc:21420329$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23033000" name="(Party) Defeat $npc:21420329$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033000" name="(パーティ) $npc:21420329$退治" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23033001" name="(파티)6분 내에 $npc:21420329$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23033001" name="(Party) Defeat $npc:21420329$ within 6 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033001" name="(パーティ) 6分以内に$npc:21420329$退治" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23033003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23033003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033003" name="碑石に敷かれると減点" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23033004" name="$npc:21420329$의 바닥 냉기 폭발에 맞으면 감점" feature="ChronicleDungeon60_01" />
-	<key id="23033000" name="(파티)$npc:21420329$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23033001" name="(파티)6분 내에 $npc:21420329$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23033003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23033004" name="$npc:21420329$의 바닥 냉기 폭발에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23033000" name="(파티)$npc:21420329$ 처치" feature="DungeonOpen60AH3" locale="JP" />
-	<key id="23033001" name="(파티)6분 내에 $npc:21420329$ 처치" feature="DungeonOpen60AH3" locale="JP" />
-	<key id="23033003" name="비석에 깔리면 감점" feature="DungeonOpen60AH3" locale="JP" />
-	<key id="23033004" name="$npc:21420329$의 바닥 냉기 폭발에 맞으면 감점" feature="DungeonOpen60AH3" locale="JP" />
-	<key id="23033000" name="(파티)$npc:21420329$ 처치" feature="DungeonOpen60AH3" locale="TH" />
-	<key id="23033001" name="(파티)6분 내에 $npc:21420329$ 처치" feature="DungeonOpen60AH3" locale="TH" />
-	<key id="23033003" name="비석에 깔리면 감점" feature="DungeonOpen60AH3" locale="TH" />
-	<key id="23033004" name="$npc:21420329$의 바닥 냉기 폭발에 맞으면 감점" feature="DungeonOpen60AH3" locale="TH" />
-	<key id="23033000" name="(파티)$npc:21420329$ 처치" feature="DungeonOpen60AH3" locale="TW" />
-	<key id="23033001" name="(파티)6분 내에 $npc:21420329$ 처치" feature="DungeonOpen60AH3" locale="TW" />
-	<key id="23033003" name="비석에 깔리면 감점" feature="DungeonOpen60AH3" locale="TW" />
-	<key id="23033004" name="$npc:21420329$의 바닥 냉기 폭발에 맞으면 감점" feature="DungeonOpen60AH3" locale="TW" />
+	<key id="23033004" name="Don&apos;t get hit by $npc:21420329$&apos;s icy ground blast" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033004" name="$npc:21420329$の地面冷気爆発に当たると減点" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23034000" name="(파티)$npc:21420514$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23034000" name="(Party) Defeat $npc:21420514$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034000" name="(パーティ) $npc:21420514$退治" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23034001" name="(파티)5분 내에 $npc:21421514$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23034001" name="(Party) Defeat $npc:21421514$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034001" name="(パーティ) 5分以内に$npc:21421514$退治" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23034003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23034003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034003" name="碑石に敷かれると減点" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23034004" name="$npc:21420514$의 레이저 공격에 맞으면 감점" feature="ChronicleDungeon60_01" />
-	<key id="23034000" name="(파티)$npc:21420514$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23034001" name="(파티)5분 내에 $npc:21421514$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23034003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23034004" name="$npc:21420514$의 레이저 공격에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23034000" name="(파티)$npc:21420514$ 처치" feature="DungeonOpen60AH4" locale="JP" />
-	<key id="23034001" name="(파티)5분 내에 $npc:21421514$ 처치" feature="DungeonOpen60AH4" locale="JP" />
-	<key id="23034003" name="비석에 깔리면 감점" feature="DungeonOpen60AH4" locale="JP" />
-	<key id="23034004" name="$npc:21420514$의 레이저 공격에 맞으면 감점" feature="DungeonOpen60AH4" locale="JP" />
-	<key id="23034000" name="(파티)$npc:21420514$ 처치" feature="DungeonOpen60AH4" locale="TH" />
-	<key id="23034001" name="(파티)5분 내에 $npc:21421514$ 처치" feature="DungeonOpen60AH4" locale="TH" />
-	<key id="23034003" name="비석에 깔리면 감점" feature="DungeonOpen60AH4" locale="TH" />
-	<key id="23034004" name="$npc:21420514$의 레이저 공격에 맞으면 감점" feature="DungeonOpen60AH4" locale="TH" />
-	<key id="23034000" name="(파티)$npc:21420514$ 처치" feature="DungeonOpen60AH4" locale="TW" />
-	<key id="23034001" name="(파티)5분 내에 $npc:21421514$ 처치" feature="DungeonOpen60AH4" locale="TW" />
-	<key id="23034003" name="비석에 깔리면 감점" feature="DungeonOpen60AH4" locale="TW" />
-	<key id="23034004" name="$npc:21420514$의 레이저 공격에 맞으면 감점" feature="DungeonOpen60AH4" locale="TW" />
+	<key id="23034004" name="Don&apos;t get hit by $npc:21420514$&apos;s laser attack" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034004" name="$npc:21420514$のレーザー攻撃に当たると減点" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23035000" name="(파티)$npc:21420401$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23035000" name="(Party) Defeat $npc:21420401$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035000" name="(パーティ) $npc:21420401$退治" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23035001" name="(파티)5분 내에 $npc:21420401$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23035001" name="(Party) Defeat $npc:21420401$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035001" name="(パーティ) 5分以内に$npc:21420401$退治" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23035003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23035003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035003" name="碑石に敷かれると減点" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23035004" name="$npc:21420401$의 충격파에 맞으면 감점" feature="ChronicleDungeon60_01" />
-	<key id="23035000" name="(파티)$npc:21420401$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23035001" name="(파티)5분 내에 $npc:21420401$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23035003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23035004" name="$npc:21420401$의 충격파에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23035000" name="(파티)$npc:21420401$ 처치" feature="DungeonOpen60AH5" locale="JP" />
-	<key id="23035001" name="(파티)5분 내에 $npc:21420401$ 처치" feature="DungeonOpen60AH5" locale="JP" />
-	<key id="23035003" name="비석에 깔리면 감점" feature="DungeonOpen60AH5" locale="JP" />
-	<key id="23035004" name="$npc:21420401$의 충격파에 맞으면 감점" feature="DungeonOpen60AH5" locale="JP" />
-	<key id="23035000" name="(파티)$npc:21420401$ 처치" feature="DungeonOpen60AH5" locale="TH" />
-	<key id="23035001" name="(파티)5분 내에 $npc:21420401$ 처치" feature="DungeonOpen60AH5" locale="TH" />
-	<key id="23035003" name="비석에 깔리면 감점" feature="DungeonOpen60AH5" locale="TH" />
-	<key id="23035004" name="$npc:21420401$의 충격파에 맞으면 감점" feature="DungeonOpen60AH5" locale="TH" />
-	<key id="23035000" name="(파티)$npc:21420401$ 처치" feature="DungeonOpen60AH5" locale="TW" />
-	<key id="23035001" name="(파티)5분 내에 $npc:21420401$ 처치" feature="DungeonOpen60AH5" locale="TW" />
-	<key id="23035003" name="비석에 깔리면 감점" feature="DungeonOpen60AH5" locale="TW" />
-	<key id="23035004" name="$npc:21420401$의 충격파에 맞으면 감점" feature="DungeonOpen60AH5" locale="TW" />
+	<key id="23035004" name="Don&apos;t get hit by $npc:21420401$&apos;s shockwave" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035004" name="$npc:21420401$の衝撃波に当たると減点" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23036000" name="(파티)$npc:21420626$, $npc:21420627$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23036000" name="(Party) Defeat $npc:21420626$ &amp; $npc:21420627$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036000" name="(パーティ) $npc:21420626$、$npc:21420627$退治" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036001" name="(파티)5분 내에 $npc:21420626$, $npc:21420627$ 처치" feature="ChronicleDungeon60_01" />
+	<key id="23036001" name="(Party) Defeat $npc:21420626$ &amp; $npc:21420627$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036001" name="(パーティ) 5分内に$npc:21420626$、$npc:21420627$退治" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23036003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036003" name="碑石に敷かれると減点" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036004" name="바닥 전기에 맞으면 감점" feature="ChronicleDungeon60_01" />
+	<key id="23036004" name="Don&apos;t touch electrified ground" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036004" name="地面電気に当たると減点" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036005" name="날라다닌 후, 착지 충격파에 맞으면 감점" feature="ChronicleDungeon60_01" />
-	<key id="23036000" name="(파티)$npc:21420626$, $npc:21420627$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23036001" name="(파티)5분 내에 $npc:21420626$, $npc:21420627$ 처치" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23036003" name="비석에 깔리면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23036004" name="바닥 전기에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23036005" name="날라다닌 후, 착지 충격파에 맞으면 감점" feature="ChronicleDungeon60_01" locale="NA" />
-	<key id="23036000" name="(파티)$npc:21420626$, $npc:21420627$ 처치" feature="DungeonOpen60AH6" locale="JP" />
-	<key id="23036001" name="(파티)5분 내에 $npc:21420626$, $npc:21420627$ 처치" feature="DungeonOpen60AH6" locale="JP" />
-	<key id="23036003" name="비석에 깔리면 감점" feature="DungeonOpen60AH6" locale="JP" />
-	<key id="23036004" name="바닥 전기에 맞으면 감점" feature="DungeonOpen60AH6" locale="JP" />
-	<key id="23036005" name="날라다닌 후, 착지 충격파에 맞으면 감점" feature="DungeonOpen60AH6" locale="JP" />
-	<key id="23036000" name="(파티)$npc:21420626$, $npc:21420627$ 처치" feature="DungeonOpen60AH6" locale="TH" />
-	<key id="23036001" name="(파티)5분 내에 $npc:21420626$, $npc:21420627$ 처치" feature="DungeonOpen60AH6" locale="TH" />
-	<key id="23036003" name="비석에 깔리면 감점" feature="DungeonOpen60AH6" locale="TH" />
-	<key id="23036004" name="바닥 전기에 맞으면 감점" feature="DungeonOpen60AH6" locale="TH" />
-	<key id="23036005" name="날라다닌 후, 착지 충격파에 맞으면 감점" feature="DungeonOpen60AH6" locale="TH" />
-	<key id="23036000" name="(파티)$npc:21420626$, $npc:21420627$ 처치" feature="DungeonOpen60AH6" locale="TW" />
-	<key id="23036001" name="(파티)5분 내에 $npc:21420626$, $npc:21420627$ 처치" feature="DungeonOpen60AH6" locale="TW" />
-	<key id="23036003" name="비석에 깔리면 감점" feature="DungeonOpen60AH6" locale="TW" />
-	<key id="23036004" name="바닥 전기에 맞으면 감점" feature="DungeonOpen60AH6" locale="TW" />
-	<key id="23036005" name="날라다닌 후, 착지 충격파에 맞으면 감점" feature="DungeonOpen60AH6" locale="TW" />
+	<key id="23036005" name="Don&apos;t get hit by shockwave when boss lands" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036005" name="飛び回った後、着地衝撃波に当たると減点" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23037000" name="(파티)$npc:23000113$ 처치" feature="LapentaDungeon" />
+	<key id="23037000" name="(Party) Defeat $npc:23000113$" feature="LapentaDungeon" locale="NA" />
+	<key id="23037000" name="(パーティ) $npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037001" name="(파티)10분 15초 내에 $npc:23000113$ 처치" feature="LapentaDungeon" />
 	<key id="23037002" name="(파티)4분 15초 내에 $npc:23000113$ 처치" feature="LapentaDungeon" />
 	<key id="23037003" name="비석에 깔리면 감점" feature="LapentaDungeon" />
+	<key id="23037003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23037003" name="碑石に敷かれると減点" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037004" name="(파티)6초 내에 스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23037004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23037004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23037005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23037005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037006" name="(파티)10분 45초 내에 $npc:23000113$ 처치" feature="LapentaDungeon" />
+	<key id="23037006" name="(Party) Defeat $npc:23000113$ within 10 min and 45 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23037006" name="(パーティ) 10分45秒以内に$npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037007" name="(파티)5분 45초 내에 $npc:23000113$ 처치" feature="LapentaDungeon" />
-	<key id="23037000" name="(파티)$npc:23000113$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23037003" name="비석에 깔리면 감점" feature="LapentaDungeon" locale="NA" />
-	<key id="23037004" name="(파티)6초 내에 스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23037005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23037006" name="(파티)10분 45초 내에 $npc:23000113$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23037007" name="(파티)5분 45초 내에 $npc:23000113$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23037000" name="(파티)$npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="JP" />
-	<key id="23037003" name="비석에 깔리면 감점" feature="DungeonOpen60EL3" locale="JP" />
-	<key id="23037004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL3" locale="JP" />
-	<key id="23037005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL3" locale="JP" />
-	<key id="23037006" name="(파티)10분 45초 내에 $npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="JP" />
-	<key id="23037007" name="(파티)5분 45초 내에 $npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="JP" />
-	<key id="23037000" name="(파티)$npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="TH" />
-	<key id="23037003" name="비석에 깔리면 감점" feature="DungeonOpen60EL3" locale="TH" />
-	<key id="23037004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL3" locale="TH" />
-	<key id="23037005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL3" locale="TH" />
-	<key id="23037006" name="(파티)10분 45초 내에 $npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="TH" />
-	<key id="23037007" name="(파티)5분 45초 내에 $npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="TH" />
-	<key id="23037000" name="(파티)$npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="TW" />
-	<key id="23037003" name="비석에 깔리면 감점" feature="DungeonOpen60EL3" locale="TW" />
-	<key id="23037004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL3" locale="TW" />
-	<key id="23037005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL3" locale="TW" />
-	<key id="23037006" name="(파티)10분 45초 내에 $npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="TW" />
-	<key id="23037007" name="(파티)5분 45초 내에 $npc:23000113$ 처치" feature="DungeonOpen60EL3" locale="TW" />
+	<key id="23037007" name="(Party) Defeat $npc:23000113$ within 5 min and 45 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23037007" name="(パーティ) 5分45秒以内に$npc:23000113$退治" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23038000" name="(파티)$npc:23501001$ 처치" feature="LapentaDungeon" />
+	<key id="23038000" name="(Party) Defeat $npc:23501001$" feature="LapentaDungeon" locale="NA" />
+	<key id="23038000" name="(パーティ) $npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038001" name="(파티)6분 내에 $npc:23501001$ 처치" feature="LapentaDungeon" />
 	<key id="23038002" name="(파티)2분 15초내에 $npc:23501001$ 처치" feature="LapentaDungeon" />
 	<key id="23038003" name="비석에 깔리면 감점" feature="LapentaDungeon" />
+	<key id="23038003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23038003" name="碑石に敷かれると減点" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038004" name="(파티)6초 내에 스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23038004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23038004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23038005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23038005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038006" name="(파티)6분 15초 내에 $npc:23501001$ 처치" feature="LapentaDungeon" />
+	<key id="23038006" name="(Party) Defeat $npc:23501001$ within 6 min and 15 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23038006" name="(パーティ) 6分15秒以内に$npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038007" name="(파티)3분 30초 내에 $npc:23501001$ 처치" feature="LapentaDungeon" />
-	<key id="23038000" name="(파티)$npc:23501001$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23038003" name="비석에 깔리면 감점" feature="LapentaDungeon" locale="NA" />
-	<key id="23038004" name="(파티)6초 내에 스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23038005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23038006" name="(파티)6분 15초 내에 $npc:23501001$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23038007" name="(파티)3분 30초 내에 $npc:23501001$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23038000" name="(파티)$npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="JP" />
-	<key id="23038003" name="비석에 깔리면 감점" feature="DungeonOpen60EL1" locale="JP" />
-	<key id="23038004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL1" locale="JP" />
-	<key id="23038005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL1" locale="JP" />
-	<key id="23038006" name="(파티)6분 15초 내에 $npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="JP" />
-	<key id="23038007" name="(파티)3분 30초 내에 $npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="JP" />
-	<key id="23038000" name="(파티)$npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="TH" />
-	<key id="23038003" name="비석에 깔리면 감점" feature="DungeonOpen60EL1" locale="TH" />
-	<key id="23038004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL1" locale="TH" />
-	<key id="23038005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL1" locale="TH" />
-	<key id="23038006" name="(파티)6분 15초 내에 $npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="TH" />
-	<key id="23038007" name="(파티)3분 30초 내에 $npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="TH" />
-	<key id="23038000" name="(파티)$npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="TW" />
-	<key id="23038003" name="비석에 깔리면 감점" feature="DungeonOpen60EL1" locale="TW" />
-	<key id="23038004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL1" locale="TW" />
-	<key id="23038005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL1" locale="TW" />
-	<key id="23038006" name="(파티)6분 15초 내에 $npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="TW" />
-	<key id="23038007" name="(파티)3분 30초 내에 $npc:23501001$ 처치" feature="DungeonOpen60EL1" locale="TW" />
+	<key id="23038007" name="(Party) Defeat $npc:23501001$ within 3 min and 30 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23038007" name="(パーティ) 3分30秒以内に$npc:23501001$退治" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23039000" name="(파티)$npc:23501011$ 처치" feature="LapentaDungeon" />
+	<key id="23039000" name="(Party) Defeat $npc:23501011$" feature="LapentaDungeon" locale="NA" />
+	<key id="23039000" name="(パーティ) $npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039001" name="(파티)6분 내에 $npc:23501011$ 처치" feature="LapentaDungeon" />
 	<key id="23039002" name="(파티)5분 30초 내에 $npc:23501011$ 처치" feature="LapentaDungeon" />
 	<key id="23039003" name="비석에 깔리면 감점" feature="LapentaDungeon" />
+	<key id="23039003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23039003" name="碑石に敷かれると減点" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039004" name="(파티)6초 내에 스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23039004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23039004" name="(パーティ) 6秒以内にスキルブレイクに成功" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23039005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23039005" name="(パーティ) スキルブレイクに成功" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039006" name="(파티)6분 15초 내에 $npc:23501011$ 처치" feature="LapentaDungeon" />
+	<key id="23039006" name="(Party) Defeat $npc:23501011$ within 6 min and 15 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23039006" name="(パーティ) 6分15秒以内に$npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039007" name="(파티)5분 30초 내에 $npc:23501011$ 처치" feature="LapentaDungeon" />
-	<key id="23039000" name="(파티)$npc:23501011$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23039003" name="비석에 깔리면 감점" feature="LapentaDungeon" locale="NA" />
-	<key id="23039004" name="(파티)6초 내에 스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23039005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23039006" name="(파티)6분 15초 내에 $npc:23501011$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23039007" name="(파티)5분 30초 내에 $npc:23501011$ 처치" feature="LapentaDungeon" locale="NA" />
-	<key id="23039000" name="(파티)$npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="JP" />
-	<key id="23039003" name="비석에 깔리면 감점" feature="DungeonOpen60EL2" locale="JP" />
-	<key id="23039004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL2" locale="JP" />
-	<key id="23039005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL2" locale="JP" />
-	<key id="23039006" name="(파티)6분 15초 내에 $npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="JP" />
-	<key id="23039007" name="(파티)5분 30초 내에 $npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="JP" />
-	<key id="23039000" name="(파티)$npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="TH" />
-	<key id="23039003" name="비석에 깔리면 감점" feature="DungeonOpen60EL2" locale="TH" />
-	<key id="23039004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL2" locale="TH" />
-	<key id="23039005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL2" locale="TH" />
-	<key id="23039006" name="(파티)6분 15초 내에 $npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="TH" />
-	<key id="23039007" name="(파티)5분 30초 내에 $npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="TH" />
-	<key id="23039000" name="(파티)$npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="TW" />
-	<key id="23039003" name="비석에 깔리면 감점" feature="DungeonOpen60EL2" locale="TW" />
-	<key id="23039004" name="(파티)6초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL2" locale="TW" />
-	<key id="23039005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL2" locale="TW" />
-	<key id="23039006" name="(파티)6분 15초 내에 $npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="TW" />
-	<key id="23039007" name="(파티)5분 30초 내에 $npc:23501011$ 처치" feature="DungeonOpen60EL2" locale="TW" />
+	<key id="23039007" name="(Party) Defeat $npc:23501011$ within 5 min and 30 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23039007" name="(パーティ) 5分30秒以内に$npc:23501011$退治" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23040000" name="(파티)$map:02020130$ 정복" feature="LapentaDungeon" />
+	<key id="23040000" name="(Party) Clear $map:02020130$" feature="LapentaDungeon" locale="NA" />
+	<key id="23040000" name="DUNGEONMISSIONNAME_23040000_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040001" name="(파티)13분 내에 $map:02020130$ 정복" feature="LapentaDungeon" />
 	<key id="23040002" name="(파티)6분 30초 내에 $map:02020130$ 정복" feature="LapentaDungeon" />
 	<key id="23040003" name="비석에 깔리면 감점" feature="LapentaDungeon" />
+	<key id="23040003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23040003" name="碑石に敷かれると減点" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040004" name="(파티)3곳 모두 8초 내에 스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23040004" name="(Party) Skill break each boss within 8 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23040004" name="DUNGEONMISSIONNAME_23040004_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" />
+	<key id="23040005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23040005" name="DUNGEONMISSIONNAME_23040005_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040006" name="(파티)11분 45초 내에 $map:02020130$ 정복" feature="LapentaDungeon" />
+	<key id="23040006" name="Clear within 11 min 45 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23040006" name="DUNGEONMISSIONNAME_23040006_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040007" name="(파티)7분 30초 내에 $map:02020130$ 정복" feature="LapentaDungeon" />
-	<key id="23040000" name="(파티)$map:02020130$ 정복" feature="LapentaDungeon" locale="NA" />
-	<key id="23040003" name="비석에 깔리면 감점" feature="LapentaDungeon" locale="NA" />
-	<key id="23040004" name="(파티)3곳 모두 8초 내에 스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23040005" name="(파티)스킬 브레이크 성공" feature="LapentaDungeon" locale="NA" />
-	<key id="23040006" name="(파티)11분 45초 내에 $map:02020130$ 정복" feature="LapentaDungeon" locale="NA" />
-	<key id="23040007" name="(파티)7분 30초 내에 $map:02020130$ 정복" feature="LapentaDungeon" locale="NA" />
-	<key id="23040000" name="(파티)$map:02020130$ 정복" feature="DungeonOpen60EL4" locale="JP" />
-	<key id="23040003" name="비석에 깔리면 감점" feature="DungeonOpen60EL4" locale="JP" />
-	<key id="23040004" name="(파티)3곳 모두 8초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL4" locale="JP" />
-	<key id="23040005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL4" locale="JP" />
-	<key id="23040006" name="(파티)11분 45초 내에 $map:02020130$ 정복" feature="DungeonOpen60EL4" locale="JP" />
-	<key id="23040007" name="(파티)7분 30초 내에 $map:02020130$ 정복" feature="DungeonOpen60EL4" locale="JP" />
-	<key id="23040000" name="(파티)$map:02020130$ 정복" feature="DungeonOpen60EL4" locale="TH" />
-	<key id="23040003" name="비석에 깔리면 감점" feature="DungeonOpen60EL4" locale="TH" />
-	<key id="23040004" name="(파티)3곳 모두 8초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL4" locale="TH" />
-	<key id="23040005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL4" locale="TH" />
-	<key id="23040006" name="(파티)11분 45초 내에 $map:02020130$ 정복" feature="DungeonOpen60EL4" locale="TH" />
-	<key id="23040007" name="(파티)7분 30초 내에 $map:02020130$ 정복" feature="DungeonOpen60EL4" locale="TH" />
-	<key id="23040000" name="(파티)$map:02020130$ 정복" feature="DungeonOpen60EL4" locale="TW" />
-	<key id="23040003" name="비석에 깔리면 감점" feature="DungeonOpen60EL4" locale="TW" />
-	<key id="23040004" name="(파티)3곳 모두 8초 내에 스킬 브레이크 성공" feature="DungeonOpen60EL4" locale="TW" />
-	<key id="23040005" name="(파티)스킬 브레이크 성공" feature="DungeonOpen60EL4" locale="TW" />
-	<key id="23040006" name="(파티)11분 45초 내에 $map:02020130$ 정복" feature="DungeonOpen60EL4" locale="TW" />
-	<key id="23040007" name="(파티)7분 30초 내에 $map:02020130$ 정복" feature="DungeonOpen60EL4" locale="TW" />
+	<key id="23040007" name="Clear within 7 min 30 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23040007" name="DUNGEONMISSIONNAME_23040007_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23050000" name="(파티)$npc:23090006$ 처치" feature="Kritias_Balrog01" />
 	<key id="23050001" name="(파티)8분 내에 $npc:23090006$ 처치" feature="Kritias_Balrog01" />
 	<key id="23050002" name="(파티)4분 내에 $npc:23090006$ 처치" feature="Kritias_Balrog01" />
@@ -700,10 +428,6 @@
 	<key id="23090001" name="(파티) 12분 내에 $npc:23000122$ 처치" feature="Kritias_Turka03" />
 	<key id="23090002" name="(파티) 8분 내에 $npc:23000122$ 처치" feature="Kritias_Turka03" />
 	<key id="23090003" name="비석에 깔리면 감점" feature="Kritias_Turka03" />
-	<key id="29006001" name="(파티)$npc:23000076$ 처치" feature="EventPapulatus" />
-	<key id="29006002" name="(파티)8분 30초 내에 $npc:23000076$ 처치" feature="EventPapulatus" />
-	<key id="29006003" name="(파티)6분 내에 $npc:23000076$ 처치" feature="EventPapulatus" />
-	<key id="29006004" name="비석에 깔리면 감점" feature="EventPapulatus" />
 	<key id="23100000" name="(파티)$npc:23500001$ 처치" feature="DungeonOpen70AH3" />
 	<key id="23100001" name="(파티)7분 내에 $npc:23500001$ 처치" feature="DungeonOpen70AH3" />
 	<key id="23100002" name="(파티)4분 내에 $npc:23500001$ 처치" feature="DungeonOpen70AH3" />
@@ -735,4 +459,168 @@
 	<key id="23140004" name="(파티)$npc:23000108$ 처치" feature="DungeonOpen70CH5" />
 	<key id="23140005" name="(파티)5분 내에 $npc:23000108$ 처치" feature="DungeonOpen70CH5" />
 	<key id="23140006" name="(파티)10분 내에 $npc:23000108$ 처치" feature="DungeonOpen70CH5" />
+	<key id="23150000" name="(파티)$map:02000374$ 정복" feature="MadDoctor01" />
+	<key id="23150001" name="(파티)5분 내에 $map:02000374$ 정복" feature="MadDoctor01" />
+	<key id="23150002" name="(파티)10분 내에 $map:02000374$ 정복" feature="MadDoctor01" />
+	<key id="23150003" name="비석에 깔리면 감점" feature="MadDoctor01" />
+	<key id="23160000" name="(파티)$npc:23090007$ 처치" feature="DungeonOpen70AH5" />
+	<key id="23160001" name="(파티)8분 내에 $npc:23090007$ 처치" feature="DungeonOpen70AH5" />
+	<key id="23160002" name="(파티)4분 내에 $npc:23090007$ 처치" feature="DungeonOpen70AH5" />
+	<key id="23160003" name="비석에 깔리면 감점" feature="DungeonOpen70AH5" />
+	<key id="23160004" name="바닥 화염 폭발에 맞으면 감점" feature="DungeonOpen70AH5" />
+	<key id="23170000" name="(파티)$npc:23200009$ 처치" feature="DungeonOpen70CH6" />
+	<key id="23170001" name="(파티)5분 내에 $npc:23200009$ 처치" feature="DungeonOpen70CH6" />
+	<key id="23170002" name="(파티)10분 내에 $npc:23200009$ 처치" feature="DungeonOpen70CH6" />
+	<key id="23170003" name="비석에 깔리면 감점" feature="DungeonOpen70CH6" />
+	<key id="23170004" name="SP봉인 효과에 걸리면 감점" feature="DungeonOpen70CH6" />
+	<key id="23170005" name="(파티)$npc:23200008$ 처치" feature="DungeonOpen70CH6" />
+	<key id="23170006" name="(파티)5분 내에 $npc:23200008$ 처치" feature="DungeonOpen70CH6" />
+	<key id="23170007" name="(파티)10분 내에 $npc:23200008$ 처치" feature="DungeonOpen70CH6" />
+	<key id="23170008" name="비석에 깔리면 감점" feature="DungeonOpen70CH6" />
+	<key id="23170009" name="SP봉인 효과에 걸리면 감점" feature="DungeonOpen70CH6" />
+	<key id="23170010" name="쉐도우 레이저에 맞으면 감점" feature="DungeonOpen70CH6" />
+	<key id="23180000" name="(파티)$npc:23000160$ 혹은 $npc:23000161$ 처치" feature="DungeonOS02" />
+	<key id="23180001" name="(파티)5분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치" feature="DungeonOS02" />
+	<key id="23180002" name="(파티)10분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치" feature="DungeonOS02" />
+	<key id="23180003" name="비석에 깔리면 감점" feature="DungeonOS02" />
+	<key id="23180004" name="$npc:23000160$의 확성기에 맞으면 감점" feature="DungeonOS02" />
+	<key id="23180005" name="(파티)$npc:23000160$ 혹은 $npc:23000161$ 처치" feature="DungeonOS02" />
+	<key id="23180006" name="(파티)5분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치" feature="DungeonOS02" />
+	<key id="23180007" name="(파티)10분 내에 $npc:23000160$ 혹은 $npc:23000161$ 처치" feature="DungeonOS02" />
+	<key id="23180008" name="비석에 깔리면 감점" feature="DungeonOS02" />
+	<key id="23180009" name="$npc:23000160$의 확성기에 맞으면 감점" feature="DungeonOS02" />
+	<key id="23180010" name="$npc:23000160$의 빛 기둥 공격에 맞으면 감점" feature="DungeonOS02" />
+	<key id="23190000" name="(파티)$npc:23000400$ 처치" feature="DungeonOS01" />
+	<key id="23190001" name="(파티)5분 내에 $npc:23000400$ 처치" feature="DungeonOS01" />
+	<key id="23190002" name="(파티)10분 내에 $npc:23000400$ 처치" feature="DungeonOS01" />
+	<key id="23190003" name="비석에 깔리면 감점" feature="DungeonOS01" />
+	<key id="23190004" name="$npc:23000400$의 화염포에 맞으면 감점" feature="DungeonOS01" />
+	<key id="23190005" name="$npc:23000400$가 화염 충격파를 시전하면 감점" feature="DungeonOS01" />
+	<key id="23190006" name="$npc:23000430$의 공격력 버프 얻기" feature="DungeonOS01" />
+	<key id="23190007" name="(파티)$npc:23000401$ 처치" feature="DungeonOS01" />
+	<key id="23190008" name="(파티)5분 내에 $npc:23000401$ 처치" feature="DungeonOS01" />
+	<key id="23190009" name="(파티)10분 내에 $npc:23000401$ 처치" feature="DungeonOS01" />
+	<key id="23190010" name="비석에 깔리면 감점" feature="DungeonOS01" />
+	<key id="23190011" name="$npc:23000401$의 화염포에 맞으면 감점" feature="DungeonOS01" />
+	<key id="23190012" name="$npc:23000401$가 화염 충격파를 시전하면 감점" feature="DungeonOS01" />
+	<key id="23190013" name="$npc:23000431$의 공격력 버프 얻기" feature="DungeonOS01" />
+	<key id="23200001" name="(파티)$npc:44100001$ 처치" feature="DungeonOS04" />
+	<key id="23200002" name="(파티)5분 내에 $npc:44100001$ 처치" feature="DungeonOS04" />
+	<key id="23200003" name="(파티)10분 내에 $npc:44100001$ 처치" feature="DungeonOS04" />
+	<key id="23200004" name="비석에 깔리면 감점" feature="DungeonOS04" />
+	<key id="23200005" name="$npc:44100001$의 발성 연습에 맞으면 감점" feature="DungeonOS04" />
+	<key id="23200006" name="$npc:44100001$의 덩굴에 묶이면 감점" feature="DungeonOS04" />
+	<key id="23200007" name="$npc:44100001$의 스포트라이트 아래에서 다이나믹 액션 사용하기" feature="DungeonOS04" />
+	<key id="24090001" name="(파티)인페르녹 24억 대미지" feature="CrimsonBalrog01" />
+	<key id="24090002" name="(파티)인페르녹 20억 대미지" feature="CrimsonBalrog01" />
+	<key id="24090003" name="(파티)15분 동안 생존" feature="CrimsonBalrog01" />
+	<key id="24090004" name="(파티)인페르녹의 실드 무력화" feature="CrimsonBalrog01" />
+	<key id="24090005" name="인페르녹 5000만 대미지" feature="CrimsonBalrog01" />
+	<key id="24090006" name="인페르녹 50만 대미지" feature="CrimsonBalrog01" />
+	<key id="24090007" name="(파티)전함의 측면 파괴" feature="CrimsonBalrog01" />
+	<key id="24090008" name="비석에 깔리면 감점" feature="CrimsonBalrog01" />
+	<key id="24090011" name="(파티)인페르녹 40억 대미지" feature="CrimsonBalrog01" />
+	<key id="24090012" name="(파티)인페르녹 15억 대미지" feature="CrimsonBalrog01" />
+	<key id="24090013" name="(파티)15분 동안 생존" feature="CrimsonBalrog01" />
+	<key id="24090014" name="(파티)인페르녹의 실드 무력화" feature="CrimsonBalrog01" />
+	<key id="24090015" name="인페르녹 2500만 대미지" feature="CrimsonBalrog01" />
+	<key id="24090016" name="인페르녹 25만 대미지" feature="CrimsonBalrog01" />
+	<key id="24090017" name="(파티)전함의 측면 파괴" feature="CrimsonBalrog01" />
+	<key id="24090018" name="비석에 깔리면 감점" feature="CrimsonBalrog01" />
+	<key id="24090019" name="DUNGEONMISSIONNAME_24090019_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24090019" name="(パーティ) $npc:23000140$退治" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24090020" name="DUNGEONMISSIONNAME_24090020_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24090020" name="碑石に敷かれると減点" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24090021" name="DUNGEONMISSIONNAME_24090021_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24090021" name="(パーティ) 8人以下でクリア" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24090022" name="DUNGEONMISSIONNAME_24090022_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24090022" name="(パーティ) 5人以下でクリア" feature="CrimsonBalrog01" locale="JP" />
+	<key id="24091001" name="블리체 체력 5% 감소" feature="FameChallengeDungeon" />
+	<key id="24091002" name="블리체 체력 20% 감소" feature="FameChallengeDungeon" />
+	<key id="24091003" name="블리체 체력 60% 감소" feature="FameChallengeDungeon" />
+	<key id="24091004" name="블리체에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24091005" name="3분내 블리체에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24091006" name="70초내 블리체에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24091007" name="DUNGEONMISSIONNAME_24091007_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24091007" name="ブリーチェのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24091008" name="DUNGEONMISSIONNAME_24091008_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24091008" name="ブリーチェのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24091009" name="DUNGEONMISSIONNAME_24091009_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24091009" name="ブリーチェのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24091010" name="DUNGEONMISSIONNAME_24091010_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24091010" name="4分30秒以内にブリーチェに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092001" name="콘대르 체력 5% 감소" feature="FameChallengeDungeon" />
+	<key id="24092002" name="콘대르 체력 20% 감소" feature="FameChallengeDungeon" />
+	<key id="24092003" name="콘대르 체력 60% 감소" feature="FameChallengeDungeon" />
+	<key id="24092004" name="콘대르에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24092005" name="3분내 콘대르에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24092006" name="70초내 콘대르에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24092007" name="DUNGEONMISSIONNAME_24092007_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24092007" name="コンドールのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092008" name="DUNGEONMISSIONNAME_24092008_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24092008" name="コンドールのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092009" name="DUNGEONMISSIONNAME_24092009_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24092009" name="コンドールのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24092010" name="DUNGEONMISSIONNAME_24092010_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24092010" name="4分30秒以内にコンドールに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24093001" name="라운드 1 클리어" feature="FameChallengeDungeon" />
+	<key id="24093002" name="라운드 2 클리어" feature="FameChallengeDungeon" />
+	<key id="24093003" name="라운드 4 클리어" feature="FameChallengeDungeon" />
+	<key id="24093004" name="라운드 5 클리어" feature="FameChallengeDungeon" />
+	<key id="24093005" name="3분내 라운드 5 클리어" feature="FameChallengeDungeon" />
+	<key id="24093006" name="70초내 라운드 5 클리어" feature="FameChallengeDungeon" />
+	<key id="24093007" name="DUNGEONMISSIONNAME_24093007_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24093007" name="4分30秒分以内にラウンド5クリア" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094001" name="메이슨 체력 5% 감소" feature="FameChallengeDungeon" />
+	<key id="24094002" name="메이슨 체력 20% 감소" feature="FameChallengeDungeon" />
+	<key id="24094003" name="메이슨 체력 60% 감소" feature="FameChallengeDungeon" />
+	<key id="24094004" name="메이슨에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24094005" name="3분내 메이슨에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24094006" name="70초내 메이슨에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24094007" name="DUNGEONMISSIONNAME_24094007_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24094007" name="メイソンのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094008" name="DUNGEONMISSIONNAME_24094008_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24094008" name="メイソンのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094009" name="DUNGEONMISSIONNAME_24094009_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24094009" name="メイソンのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24094010" name="DUNGEONMISSIONNAME_24094010_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24094010" name="4分30秒以内にメイソンに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095001" name="샤텐 체력 5% 감소" feature="FameChallengeDungeon" />
+	<key id="24095002" name="샤텐 체력 20% 감소" feature="FameChallengeDungeon" />
+	<key id="24095003" name="샤텐 체력 60% 감소" feature="FameChallengeDungeon" />
+	<key id="24095004" name="샤텐에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24095005" name="3분내 샤텐에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24095006" name="70초내 샤텐에게 승리하기" feature="FameChallengeDungeon" />
+	<key id="24095007" name="DUNGEONMISSIONNAME_24095007_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24095007" name="シャテンのHP25%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095008" name="DUNGEONMISSIONNAME_24095008_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24095008" name="シャテンのHP50%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095009" name="DUNGEONMISSIONNAME_24095009_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24095009" name="シャテンのHP75%減少" feature="FameChallengeDungeon" locale="JP" />
+	<key id="24095010" name="DUNGEONMISSIONNAME_24095010_NAME:[F]DungeonOpenNA1901" feature="DungeonOpenNA1901" />
+	<key id="24095010" name="4分30秒以内にシャテンに勝利する" feature="FameChallengeDungeon" locale="JP" />
+	<key id="29006001" name="(파티)$npc:23000076$ 처치" feature="EventPapulatus" />
+	<key id="29006002" name="(파티)8분 30초 내에 $npc:23000076$ 처치" feature="EventPapulatus" />
+	<key id="29006003" name="(파티)6분 내에 $npc:23000076$ 처치" feature="EventPapulatus" />
+	<key id="29006004" name="비석에 깔리면 감점" feature="EventPapulatus" />
+	<key id="80004001" name="（组队）20分钟内消灭$npc:23090005$" feature="DungeonRank01" />
+	<key id="80014001" name="（组队）9分钟内消灭$npc:23000011$" feature="DungeonRank01" />
+	<key id="80016001" name="（组队）20分钟内消灭$npc:23000052$" feature="DungeonRank01" />
+	<key id="80018001" name="（组队）20分钟内消灭$npc:23000068$" feature="DungeonRank01" />
+	<key id="80019001" name="（组队）20分钟内消灭$npc:23000080$" feature="DungeonRank01" />
+	<key id="80020001" name="（组队）20分钟内消灭$npc:23000082$" feature="DungeonRank01" />
+	<key id="83004001" name="（组队）5分钟内消灭$npc:23090005$" feature="DungeonRank01" />
+	<key id="83004002" name="（组队）10分钟内消灭$npc:23090005$" feature="DungeonRank01" />
+	<key id="83006001" name="（组队）3分钟内消灭$npc:23000007$" feature="DungeonRank01" />
+	<key id="83006002" name="（组队）6分钟内消灭$npc:23000007$" feature="DungeonRank01" />
+	<key id="83010001" name="（组队）6分钟内消灭$npc:23000015$" feature="DungeonRank01" />
+	<key id="83010002" name="（组队）12分钟内消灭$npc:23000015$" feature="DungeonRank01" />
+	<key id="83018001" name="（组队）3分钟内消灭$npc:23000068$" feature="DungeonRank01" />
+	<key id="83018002" name="（组队）6分钟内消灭$npc:23000068$" feature="DungeonRank01" />
+	<key id="90004001" name="（组队）在7分钟内消灭$npc:23090005$" feature="DungeonRank01" />
+	<key id="90014001" name="（组队）在7分钟内消灭$npc:23000011$" feature="DungeonRank01" />
+	<key id="90016001" name="（组队）7分钟内消灭$npc:23000052$" feature="DungeonRank01" />
+	<key id="90018001" name="（组队）7分钟内消灭$npc:23000068$" feature="DungeonRank01" />
+	<key id="90019001" name="（组队）7分钟内消灭$npc:23000080$" feature="DungeonRank01" />
+	<key id="90020001" name="（组队）7分钟内消灭$npc:23000082$" feature="DungeonRank01" />
 </ms2>

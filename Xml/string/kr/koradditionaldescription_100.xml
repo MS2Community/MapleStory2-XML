@@ -1,106 +1,205 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="11000042" level="1" name="길로틴" tooltipDescription="강렬한 진동에 몸을 움직이기 힘듭니다!\n이동속도와 점프력 30% 감소" feature="Striker" />
+	<key id="11000042" level="1" name="길로틴" tooltipDescription="강렬한 진동에 몸을 움직이기 힘듭니다!\n이동속도와 점프력 30% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000051" level="1" name="가드 대쉬" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치 타입 스킬 공격 대미지 5% 증가" feature="Striker" />
+	<key id="11000051" level="1" name="가드 대쉬" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치 타입 스킬 공격 대미지 5% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000053" level="1" name="가드 대쉬 EX" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치, 킥 타입 스킬 공격 대미지 10% 증가" feature="JobChange_01" />
 	<key id="11000055" level="1" name="가드 대쉬 EX" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치, 킥 타입 스킬 공격 대미지 10% 증가" feature="JobChange_01" />
 	<key id="11000081" level="1" name="스탠스 체인지" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 콤비네이션, 비트 다운, 라이징 킥, 길로틴\n스킬들을 변환 형태로 발동" feature="Striker" />
+	<key id="11000081" level="1" name="스탠스 체인지" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 콤비네이션, 비트 다운, 라이징 킥, 길로틴\n스킬들을 변환 형태로 발동" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="1" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 10% 증가" feature="Striker" />
+	<key id="11000101" level="1" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 10% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 5% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="2" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 12% 증가" feature="Striker" />
+	<key id="11000101" level="2" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 12% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 10% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="3" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 14% 증가" feature="Striker" />
+	<key id="11000101" level="3" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 14% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 15% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="4" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 16% 증가" feature="Striker" />
+	<key id="11000101" level="4" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 16% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 20% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="5" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 18% 증가" feature="Striker" />
+	<key id="11000101" level="5" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 18% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 25% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="6" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 20% 증가" feature="Striker" />
+	<key id="11000101" level="6" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 20% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 30% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="7" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 22% 증가" feature="Striker" />
+	<key id="11000101" level="7" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 22% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 35% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="8" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 24% 증가" feature="Striker" />
+	<key id="11000101" level="8" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 24% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 40% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="9" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 26% 증가" feature="Striker" />
+	<key id="11000101" level="9" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 26% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 45% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="10" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 28% 증가" feature="Striker" />
+	<key id="11000101" level="10" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 28% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 50% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="11" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 30% 증가" feature="Striker" />
+	<key id="11000101" level="11" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 30% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 55% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000101" level="12" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 32% 증가" feature="Striker" />
+	<key id="11000101" level="12" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 32% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="1" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 90 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="1" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 90 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="2" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 120 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="2" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 120 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="3" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 150 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="3" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 150 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="4" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 180 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="4" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 180 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="5" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 210 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="5" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 210 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="6" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 240 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="6" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 240 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="7" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 270 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="7" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 270 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="8" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 300 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="8" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 300 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="9" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 330 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="9" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 330 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="10" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 360 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="10" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 360 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="11" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 390 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="11" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 390 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000121" level="12" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 420 증가\n이동속도 60% 감소" feature="Striker" />
+	<key id="11000121" level="12" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 420 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="1" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 3회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="1" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 3회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="2" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 4회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="2" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 4회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="3" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 5회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="3" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 5회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="4" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 6회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="4" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 6회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="5" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 7회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="5" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 7회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="6" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 8회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="6" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 8회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="7" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 9회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="7" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 9회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="8" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 10회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="8" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 10회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="9" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 11회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="9" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 11회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="10" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 12회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="10" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 12회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="11" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 13회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="11" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 13회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000123" level="12" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 14회까지 중첩 가능" feature="Striker" />
+	<key id="11000123" level="12" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 14회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 5% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 5% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 8% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 8% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 9% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 9% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 10% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 10% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 11% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 11% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 12% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 12% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 13% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 13% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000151" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 14% 증가\n이동속도 10% 증가" feature="Striker" />
+	<key id="11000151" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 14% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.8% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.8% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.4% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.4% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3.6% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3.6% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4.2% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4.2% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4.8% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4.8% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 5.4% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 5.4% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6.6% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6.6% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7.2% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7.2% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7.8% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7.8% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000152" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 8.4% 증가\n이동속도 6% 증가" feature="Striker" />
+	<key id="11000152" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 8.4% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 0.6% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 0.6% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 0.8% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 0.8% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.2% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.2% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.4% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.4% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.6% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.6% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.8% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.8% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.2% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.2% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.4% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.4% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.6% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.6% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000153" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.8% 증가\n이동속도 2% 증가" feature="Striker" />
+	<key id="11000153" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.8% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="1" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 1 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="1" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 1 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="2" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 2 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="2" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 2 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="3" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 3 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="3" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 3 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="4" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 4 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="4" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 4 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="5" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 5 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="5" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 5 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="6" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 6 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="6" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 6 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="7" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 7 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="7" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 7 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="8" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 8 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="8" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 8 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="9" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 9 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="9" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 9 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="10" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 10 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="10" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 10 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="11" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 11 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="11" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 11 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000161" level="12" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 12 증가\n공격 성공 시 대상의 회피 4 감소" feature="Striker" />
+	<key id="11000161" level="12" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 12 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="1" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="1" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="2" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="2" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="3" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="3" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="4" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="4" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="5" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="5" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="6" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="6" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="7" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="7" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="8" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="8" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="9" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="9" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="10" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="10" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="11" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="11" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000162" level="12" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="Striker" />
+	<key id="11000162" level="12" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 	<key id="11000171" level="1" name="펀치 체인지 스탠스" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 계열 스킬들을 변환 형태로 발동" feature="JobChange_01" />
 	<key id="11000171" level="2" name="펀치 체인지 스탠스" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 계열 스킬들을 변환 형태로 발동" feature="JobChange_01" />
 	<key id="11000171" level="3" name="펀치 체인지 스탠스" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 계열 스킬들을 변환 형태로 발동" feature="JobChange_01" />
@@ -174,8 +273,6 @@
 	<key id="11000213" level="11" name="혈도 개방 3단계" tooltipDescription="체내의 혈이 개방된 상태입니다!\n물리 공격력 115% 증가\n공격 속도 20% 증가\n물리, 마법 저항력 225 증가\n원 인치 펀치 사용 가능" feature="JobChange_01" />
 	<key id="11000213" level="12" name="혈도 개방 3단계" tooltipDescription="체내의 혈이 개방된 상태입니다!\n물리 공격력 125% 증가\n공격 속도 20% 증가\n물리, 마법 저항력 225 증가\n원 인치 펀치 사용 가능" feature="JobChange_01" />
 	<key id="11000218" level="1" name="뒤틀림 1단계" tooltipDescription="체내의 혈이 엉망으로 뒤틀렸습니다.\n30초 동안 혈도 개방 재사용 불가." feature="JobChange_01" />
-	<key id="11000302" level="1" name="뒤틀림 2단계" tooltipDescription="체내의 혈이 엉망으로 뒤틀렸습니다.\n40초 동안 혈도 개방 재사용 불가." feature="JobChange_01" />
-	<key id="11000303" level="1" name="뒤틀림 3단계" tooltipDescription="체내의 혈이 엉망으로 뒤틀렸습니다.\n50초 동안 혈도 개방 재사용 불가." feature="JobChange_01" />
 	<key id="11000241" level="1" name="킥 체인지 스탠스" tooltipDescription="전투 자세를 변경하였습니다.\n일부 킥 계열 스킬들을 EX형태로 발동" feature="JobChange_01" />
 	<key id="11000241" level="2" name="킥 체인지 스탠스" tooltipDescription="전투 자세를 변경하였습니다.\n일부 킥 계열 스킬들을 EX형태로 발동" feature="JobChange_01" />
 	<key id="11000241" level="3" name="킥 체인지 스탠스" tooltipDescription="전투 자세를 변경하였습니다.\n일부 킥 계열 스킬들을 EX형태로 발동" feature="JobChange_01" />
@@ -214,6 +311,8 @@
 	<key id="11000281" level="12" name="반격 자세" tooltipDescription="반격 자세를 유지합니다!\n물리, 마법 저항력 1200 증가\n슈퍼아머 효과" feature="JobChange_01" />
 	<key id="11000286" level="1" name="자신감" tooltipDescription="적의 공격에 반격을 성공하여 자신감이 상승합니다!\n20초간 공격속도 10%, 물리 공격력 10% 증가" feature="JobChange_01" />
 	<key id="11000291" level="1" name="히트 사이클링" tooltipDescription="연속 공격으로 적을 압도합니다.\n1 중첩 당 물리 공격력 1%, SP회복 1 증가\n최대 10 중첩까지 증가" feature="JobChange_01" />
+	<key id="11000302" level="1" name="뒤틀림 2단계" tooltipDescription="체내의 혈이 엉망으로 뒤틀렸습니다.\n40초 동안 혈도 개방 재사용 불가." feature="JobChange_01" />
+	<key id="11000303" level="1" name="뒤틀림 3단계" tooltipDescription="체내의 혈이 엉망으로 뒤틀렸습니다.\n50초 동안 혈도 개방 재사용 불가." feature="JobChange_01" />
 	<key id="11000312" level="1" name="혈도 개방EX 1단계" tooltipDescription="자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 8%, 물리/마법 저항력 150 증가" feature="JobChange_02" />
 	<key id="11000312" level="2" name="혈도 개방EX 1단계" tooltipDescription="자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 12%, 물리/마법 저항력 150 증가" feature="JobChange_02" />
 	<key id="11000312" level="3" name="혈도 개방EX 1단계" tooltipDescription="자신의 모든 혈을 능숙하게 다룹니다!\n공격속도 15%, 물리 공격력 16%, 물리/마법 저항력 150 증가" feature="JobChange_02" />
@@ -240,103 +339,4 @@
 	<key id="11000316" level="11" name="혈도 개방EX 2단계" tooltipDescription="모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 72%, 물리/마법 저항력 225 증가" feature="JobChange_02" />
 	<key id="11000316" level="12" name="혈도 개방EX 2단계" tooltipDescription="모든 혈을 개방해 신체 능력이 폭발적으로 증가합니다!\n공격속도 20%, 물리 공격력 78%, 물리/마법 저항력 225 증가" feature="JobChange_02" />
 	<key id="11000319" level="1" name="뒤틀림 2단계" tooltipDescription="체내의 혈의 개방으로 잠시동안 뒤틀립니다.\n40초 동안 혈도 개방EX, 한계 돌파, 패턴 브레이크, 투혼 재사용 불가." feature="JobChange_02" />
-	<key id="11000042" level="1" name="길로틴" tooltipDescription="강렬한 진동에 몸을 움직이기 힘듭니다!\n이동속도와 점프력 30% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000051" level="1" name="가드 대쉬" tooltipDescription="가드를 하며 적의 빈틈을 노리고 있습니다!\n펀치 타입 스킬 공격 대미지 5% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000081" level="1" name="스탠스 체인지" tooltipDescription="전투 자세를 변경하였습니다.\n펀치 콤비네이션, 비트 다운, 라이징 킥, 길로틴\n스킬들을 변환 형태로 발동" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="1" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 10% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 5% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="2" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 12% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 10% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="3" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 14% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 15% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="4" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 16% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 20% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="5" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 18% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 25% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="6" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 20% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 30% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="7" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 22% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 35% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="8" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 24% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 40% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="9" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 26% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 45% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="10" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 28% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 50% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="11" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 30% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 55% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000101" level="12" name="한계돌파" tooltipDescription="신체의 한계를 넘어선 능력을 발휘합니다!\n공격속도와 이동속도 30% 증가\n물리/마법 대미지 32% 증가\n체인지 스탠스에서 강화형으로 발동하는 스킬의 쿨타임이 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="1" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 90 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="2" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 120 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="3" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 150 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="4" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 180 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="5" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 210 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="6" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 240 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="7" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 270 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="8" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 300 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="9" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 330 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="10" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 360 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="11" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 390 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000121" level="12" name="투혼" tooltipDescription="적의 공격을 굳건히 버텨냅니다!\n물리/마법 저항력 420 증가\n이동속도 60% 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="1" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 3회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="2" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 4회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="3" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 5회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="4" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 6회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="5" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 7회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="6" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 8회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="7" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 9회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="8" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 10회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="9" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 11회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="10" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 12회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="11" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 13회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000123" level="12" name="복수심" tooltipDescription="복수심에 불타오르고 있습니다!\n공격 대미지 4% 증가\n최대 14회까지 중첩 가능" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 5% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 8% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 9% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 10% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 11% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 12% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 13% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000151" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 14% 증가\n이동속도 10% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.8% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.4% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 3.6% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4.2% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 4.8% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 5.4% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 6.6% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7.2% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 7.8% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000152" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 8.4% 증가\n이동속도 6% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="1" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 0.6% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="2" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 0.8% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="3" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="4" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.2% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="5" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.4% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="6" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.6% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="7" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 1.8% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="8" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="9" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.2% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="10" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.4% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="11" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.6% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000153" level="12" name="페이스 컨트롤" tooltipDescription="강한 정신력으로 더 강력한 힘을 발휘합니다.\n공격 대미지 2.8% 증가\n이동속도 2% 증가" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="1" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 1 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="2" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 2 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="3" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 3 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="4" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 4 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="5" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 5 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="6" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 6 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="7" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 7 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="8" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 8 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="9" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 9 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="10" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 10 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="11" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 11 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000161" level="12" name="패턴 브레이크" tooltipDescription="적의 움직임을 꿰뚫고 있습니다!\n명중 12 증가\n공격 성공 시 대상의 회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="1" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="2" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="3" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="4" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="5" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="6" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="7" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="8" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="9" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="10" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="11" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
-	<key id="11000162" level="12" name="패턴 브레이크" tooltipDescription="회피 4 감소" feature="CharacterBalance_Striker_01" locale="KR" />
 </ms2>

@@ -1,622 +1,3796 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<key id="11000001" name="장로" />
-	<key id="11000005" name="도서관장" />
-	<key id="11000007" name="소대장" />
-	<key id="11000012" name="택배기사" />
-	<key id="11000015" name="자경대장" />
-	<key id="11000027" name="백색의" />
-	<key id="11000031" name="대마법사" />
-	<key id="11000038" name="닥터" />
-	<key id="11000052" name="촌장" />
-	<key id="11000053" name="먹보" />
-	<key id="11000065" name="시장" />
-	<key id="11000070" name="닥터" />
-	<key id="11000071" name="닥터" />
-	<key id="11000072" name="닥터" />
-	<key id="11000074" name="왕실 총리" />
-	<key id="11000075" name="여제" />
-	<key id="11000076" name="기사단장" />
-	<key id="11000077" name="다크윈드" />
-	<key id="11000097" name="보부상" />
-	<key id="11000117" name="보부상" />
-	<key id="11000119" name="근위대장" />
-	<key id="11000121" name="연구조교" />
-	<key id="11000124" name="약학박사" />
-	<key id="11000125" name="유전학 박사" />
-	<key id="11000128" name="왕실 짐꾼" />
-	<key id="11000129" name="왕실 짐꾼" />
-	<key id="11000136" name="늑대소녀" />
-	<key id="11000145" name="시간 여행자" />
-	<key id="11000146" name="시간 여행자" />
-	<key id="11000157" name="근위대원" />
-	<key id="11000158" name="근위대원" />
-	<key id="11000159" name="근위대원" />
-	<key id="11000160" name="안내원" />
-	<key id="11000164" name="왕실 짐꾼" />
-	<key id="11000169" name="무기고 경비병" />
-	<key id="11000170" name="보부상" />
-	<key id="11000171" name="고물대장" />
-	<key id="11000172" name="경비원" />
-	<key id="11000173" name="브로커" />
-	<key id="11000179" name="보부상" />
-	<key id="11000180" name="고물상 잡부" />
-	<key id="11000181" name="고물상 잡부" />
-	<key id="11000185" name="중개인" />
-	<key id="11000190" name="약초꾼" />
-	<key id="11000192" name="나무꾼" />
-	<key id="11000203" name="나무꾼" />
-	<key id="11000207" name="일꾼" />
-	<key id="11000208" name="다크윈드" />
-	<key id="11000214" name="신원미상" />
-	<key id="11000215" name="다크윈드" />
-	<key id="11000216" name="시위대" />
-	<key id="11000217" name="메이드" />
-	<key id="11000220" name="감독관" />
-	<key id="11000241" name="케이블카 안내원" />
-	<key id="11000242" name="구름까페 주인장" />
-	<key id="11000245" name="감독관" />
-	<key id="11000254" name="헤어스타일 상담사" />
-	<key id="11000258" name="다크윈드" />
-	<key id="11000260" name="다크윈드" />
-	<key id="11000261" name="닥터" />
-	<key id="11000264" name="연금술사" />
-	<key id="11000265" name="마법학자" />
-	<key id="11000266" name="다크윈드 지휘관" />
-	<key id="11000273" name="닥터" />
-	<key id="11000274" name="닥터" />
-	<key id="11000275" name="닥터" />
-	<key id="11000280" name="근위대원" />
-	<key id="11000281" name="지질학자" />
-	<key id="11000283" name="점쟁이" />
-	<key id="11000284" name="요정" />
-	<key id="11000292" name="보부상" />
-	<key id="11000293" name="나무요정" />
-	<key id="11000298" name="요정" />
-	<key id="11000299" name="농사꾼" />
-	<key id="11000300" name="보부상" />
-	<key id="11000301" name="공사 감독" />
-	<key id="11000302" name="수습 제사장" />
-	<key id="11000303" name="주술사" />
-	<key id="11000304" name="탐욕마녀" />
-	<key id="11000324" name="감정표현 코치" />
-	<key id="11000325" name="홍보 사원" />
-	<key id="11000327" name="고고학자" />
-	<key id="11000328" name="골동품 수집가" />
-	<key id="11000337" name="백색의" />
-	<key id="11000338" name="제빵사" />
-	<key id="11000339" name="벨보이" />
-	<key id="11000340" name="지배인" />
-	<key id="11000341" name="마드모아젤" />
-	<key id="11000350" name="보부상" />
-	<key id="11000352" name="공원 경비원" />
-	<key id="11000353" name="공사 감독" />
-	<key id="11000358" name="건달" />
-	<key id="11000362" name="어부" />
-	<key id="11000365" name="조직원" />
-	<key id="11000374" name="늑대잡이" />
-	<key id="11000375" name="왕실 짐꾼" />
-	<key id="11000393" name="수도관리인" />
-	<key id="11000394" name="캐시마트 직원" />
-	<key id="11000400" name="관리소장" />
-	<key id="11000402" name="보부상" />
-	<key id="11000403" name="보부상" />
-	<key id="11000406" name="아이돌" />
-	<key id="11000419" name="닥터" />
-	<key id="11000433" name="양치기 소년" />
-	<key id="11000436" name="닥터" />
-	<key id="11000444" name="탐험가" />
-	<key id="11000479" name="음악가" />
-	<key id="11000480" name="채석장 감독관" />
-	<key id="11000484" name="보부상" />
-	<key id="11000504" name="마드모아젤" />
-	<key id="11000514" name="교도소장" />
-	<key id="11000515" name="트레이더 사무장" />
-	<key id="11000520" name="관리소장" />
-	<key id="11000521" name="교도소장" />
-	<key id="11000524" name="다크윈드" />
-	<key id="11000534" name="검시관" />
-	<key id="11000546" name="보부상" />
-	<key id="11000547" name="자경단원" />
-	<key id="11000548" name="자경단원" />
-	<key id="11000549" name="늑대잡이" />
-	<key id="11000551" name="근위대원" />
-	<key id="11000582" name="닥터" />
-	<key id="11000583" name="닥터" />
-	<key id="11000584" name="닥터" />
-	<key id="11000594" name="연구소장" />
-	<key id="11000596" name="요정" />
-	<key id="11000601" name="수호사제" />
-	<key id="11000602" name="근위대 추적단" />
-	<key id="11000603" name="근위대 추적단" />
-	<key id="11000607" name="보부상" />
-	<key id="11000608" name="수호사제" />
-	<key id="11000609" name="보부상" />
-	<key id="11000610" name="조직원" />
-	<key id="11000613" name="루미나 해방군" />
-	<key id="11000614" name="루미나 해방군" />
-	<key id="11000615" name="루미나 해방군" />
-	<key id="11000616" name="루미나 해방군" />
-	<key id="11000617" name="근위대원" />
-	<key id="11000631" name="교도관" />
-	<key id="11000632" name="교도관" />
-	<key id="11000633" name="교도관" />
-	<key id="11000658" name="닥터" />
-	<key id="11000667" name="브로커" />
-	<key id="11000668" name="브로커" />
-	<key id="11000669" name="브로커" />
-	<key id="11000672" name="자경대장" />
-	<key id="11000675" name="검투사" />
-	<key id="11000677" name="요정" />
-	<key id="11000701" name="자경대장" />
-	<key id="11000702" name="근위대장" />
-	<key id="11000703" name="자경단원" />
-	<key id="11000712" name="꼬마 거북" />
-	<key id="11000713" name="아빠 거북" />
-	<key id="11000736" name="요정" />
-	<key id="11000737" name="검객" />
-	<key id="11000738" name="검객" />
-	<key id="11000739" name="검객" />
-	<key id="11000744" name="마녀" />
-	<key id="11000745" name="마녀" />
-	<key id="11000746" name="숲속의 마녀" />
-	<key id="11000762" name="닥터" />
-	<key id="11000763" name="아이돌" />
-	<key id="11000782" name="탐험가" />
-	<key id="11000795" name="캐시마트 직원" />
-	<key id="11000806" name="화공학자" />
-	<key id="11000813" name="보부상" />
-	<key id="11000814" name="보부상" />
-	<key id="11000828" name="보부상" />
-	<key id="11000829" name="보부상" />
-	<key id="11000837" name="수호군" />
-	<key id="11000839" name="루미나 해방군" />
-	<key id="11000841" name="루미나 해방군" />
-	<key id="11000842" name="루미나 해방군" />
-	<key id="11000843" name="연구소장" />
-	<key id="11000844" name="어린" />
-	<key id="11000848" name="공학박사" />
-	<key id="11000862" name="왕실 총리" />
-	<key id="11000868" name="수습 연구원" />
-	<key id="11000869" name="시간공학자" />
-	<key id="11000870" name="연구원" />
-	<key id="11000871" name="연구원" />
-	<key id="11000874" name="거북도사" />
-	<key id="11000885" name="달토끼" />
-	<key id="11000892" name="숲의 요정" />
-	<key id="11000893" name="빛의 요정" />
-	<key id="11000894" name="바람의 요정" />
-	<key id="11000895" name="피추피추의 공중정원" />
-	<key id="11000898" name="닥터" />
-	<key id="11000899" name="닥터" />
-	<key id="11000911" name="생명공학 박사" />
-	<key id="11000930" name="어미 새" />
-	<key id="11000931" name="늑대" />
-	<key id="11000947" name="닥터" />
-	<key id="11000948" name="닥터" />
-	<key id="11000949" name="닥터" />
-	<key id="11000950" name="닥터" />
-	<key id="11000958" name="농부" />
-	<key id="11000959" name="정찰대원" />
-	<key id="11000961" name="자경단원" />
-	<key id="11000962" name="자경단원" />
-	<key id="11000963" name="보부상" />
-	<key id="11000972" name="자경단원" />
-	<key id="11000974" name="요리 연구가" />
-	<key id="11000975" name="농부" />
-	<key id="11000976" name="무림고수" />
-	<key id="11000977" name="제사장" />
-	<key id="11000980" name="보부상" />
-	<key id="11000984" name="마법사" />
-	<key id="11000985" name="공학박사" />
-	<key id="11000987" name="감독관" />
-	<key id="11001002" name="이벤트 도우미" />
-	<key id="11001002" name="이벤트 도우미" locale="CN" feature="Season1" />
-	<key id="11001003" name="이벤트 도우미" />
-	<key id="11001010" name="인턴 사원" />
-	<key id="11001016" name="안데센 왕국 임금" />
-	<key id="11001028" name="연구소장" />
-	<key id="11001031" name="연구인턴" />
-	<key id="11001032" name="센터장" />
-	<key id="11001040" name="탐사대원" />
-	<key id="11001041" name="예언가" />
-	<key id="11001043" name="보안요원" />
-	<key id="11001046" name="주술사" />
-	<key id="11001047" name="감독관" />
-	<key id="11001057" name="시간공학자" />
-	<key id="11001062" name="카오닉스 수집가" />
-	<key id="11001068" name="경호원" />
-	<key id="11001078" name="먹보" />
-	<key id="11001079" name="죄수" />
-	<key id="11001080" name="정찰대장" />
-	<key id="11001084" name="정찰대원" />
-	<key id="11001087" name="닥터" />
-	<key id="11001088" name="닥터" />
-	<key id="11001089" name="닥터" />
-	<key id="11001090" name="닥터" />
-	<key id="11001091" name="닥터" />
-	<key id="11001097" name="공학자" />
-	<key id="11001099" name="자경대장" />
-	<key id="11001101" name="닥터" />
-	<key id="11001110" name="루미나 해방군" />
-	<key id="11001117" name="숲의 요정" />
-	<key id="11001118" name="바니걸" />
-	<key id="11001119" name="바니걸" />
-	<key id="11001123" name="택배기사" />
-	<key id="11001125" name="드로이드" />
-	<key id="11001129" name="인부" />
-	<key id="11001130" name="약초꾼" />
-	<key id="11001131" name="탐사대원" />
-	<key id="11001132" name="피난민" />
-	<key id="11001133" name="보부상" />
-	<key id="11001138" name="피난민" />
-	<key id="11001139" name="가죽 세공사" />
-	<key id="11001140" name="인부" />
-	<key id="11001141" name="영지 관리인" />
-	<key id="11001143" name="고고학자" />
-	<key id="11001144" name="점쟁이" />
-	<key id="11001146" name="엄마의" />
-	<key id="11001147" name="엄마의" />
-	<key id="11001148" name="무기 수집가" />
-	<key id="11001176" name="수석 디자이너" />
-	<key id="11001177" name="자경단원" />
-	<key id="11001178" name="농장주" />
+	<key id="02040998" />
+	<key id="02040999" />
+	<key id="11000001" name="장로" feature="Season1" />
+	<key id="11000001" name="长老" />
+	<key id="11000002" />
+	<key id="11000003" />
+	<key id="11000004" />
+	<key id="11000005" name="도서관장" feature="Season1" />
+	<key id="11000005" name="图书馆馆长" />
+	<key id="11000006" />
+	<key id="11000007" name="소대장" feature="Season1" />
+	<key id="11000007" name="小队长" />
+	<key id="11000008" />
+	<key id="11000009" />
+	<key id="11000010" />
+	<key id="11000011" />
+	<key id="11000012" name="택배기사" feature="Season1" />
+	<key id="11000012" name="快递师傅" />
+	<key id="11000013" />
+	<key id="11000014" />
+	<key id="11000015" name="자경대장" feature="Season1" />
+	<key id="11000015" name="警卫队长" />
+	<key id="11000016" />
+	<key id="11000017" />
+	<key id="11000018" />
+	<key id="11000019" />
+	<key id="11000020" />
+	<key id="11000021" />
+	<key id="11000022" />
+	<key id="11000023" />
+	<key id="11000024" />
+	<key id="11000025" />
+	<key id="11000026" />
+	<key id="11000027" name="백색의" feature="Season1" />
+	<key id="11000027" name="白色的" />
+	<key id="11000028" />
+	<key id="11000029" />
+	<key id="11000030" />
+	<key id="11000031" name="대마법사" feature="Season1" />
+	<key id="11000031" name="大魔法师" />
+	<key id="11000032" />
+	<key id="11000033" />
+	<key id="11000034" />
+	<key id="11000035" />
+	<key id="11000036" />
+	<key id="11000037" />
+	<key id="11000038" name="닥터" feature="Season1" />
+	<key id="11000038" name="医生" />
+	<key id="11000039" />
+	<key id="11000040" />
+	<key id="11000041" />
+	<key id="11000042" />
+	<key id="11000043" />
+	<key id="11000044" />
+	<key id="11000045" />
+	<key id="11000046" />
+	<key id="11000047" />
+	<key id="11000048" />
+	<key id="11000049" />
+	<key id="11000050" />
+	<key id="11000051" />
+	<key id="11000052" name="촌장" feature="Season1" />
+	<key id="11000052" name="村长" />
+	<key id="11000053" name="먹보" feature="Season1" />
+	<key id="11000053" name="贪吃鬼" />
+	<key id="11000054" />
+	<key id="11000055" />
+	<key id="11000056" />
+	<key id="11000057" />
+	<key id="11000058" />
+	<key id="11000059" />
+	<key id="11000060" />
+	<key id="11000061" />
+	<key id="11000062" />
+	<key id="11000063" />
+	<key id="11000064" />
+	<key id="11000065" name="시장" feature="Season1" />
+	<key id="11000065" name="市长" />
+	<key id="11000066" />
+	<key id="11000067" />
+	<key id="11000068" />
+	<key id="11000069" />
+	<key id="11000070" name="닥터" feature="Season1" />
+	<key id="11000070" name="医生" />
+	<key id="11000071" name="닥터" feature="Season1" />
+	<key id="11000071" name="医生" />
+	<key id="11000072" name="닥터" feature="Season1" />
+	<key id="11000072" name="医生" />
+	<key id="11000073" />
+	<key id="11000074" name="왕실 총리" feature="Season1" />
+	<key id="11000074" name="王室总理" />
+	<key id="11000075" name="여제" feature="Season1" />
+	<key id="11000075" name="女王" />
+	<key id="11000076" name="기사단장" feature="Season1" />
+	<key id="11000076" name="骑士团团长" />
+	<key id="11000077" name="다크윈드" feature="Season1" />
+	<key id="11000077" name="黑风" />
+	<key id="11000078" />
+	<key id="11000079" />
+	<key id="11000080" />
+	<key id="11000081" />
+	<key id="11000082" />
+	<key id="11000083" />
+	<key id="11000084" />
+	<key id="11000085" />
+	<key id="11000086" />
+	<key id="11000087" />
+	<key id="11000088" />
+	<key id="11000089" />
+	<key id="11000090" />
+	<key id="11000091" />
+	<key id="11000092" />
+	<key id="11000093" />
+	<key id="11000094" />
+	<key id="11000095" />
+	<key id="11000096" />
+	<key id="11000097" name="보부상" feature="Season1" />
+	<key id="11000097" name="行脚商人" />
+	<key id="11000098" />
+	<key id="11000099" />
+	<key id="11000100" />
+	<key id="11000101" />
+	<key id="11000102" />
+	<key id="11000103" />
+	<key id="11000104" />
+	<key id="11000105" />
+	<key id="11000106" />
+	<key id="11000107" />
+	<key id="11000108" />
+	<key id="11000109" />
+	<key id="11000110" />
+	<key id="11000111" />
+	<key id="11000112" />
+	<key id="11000113" />
+	<key id="11000114" />
+	<key id="11000115" />
+	<key id="11000116" />
+	<key id="11000117" name="보부상" feature="Season1" />
+	<key id="11000117" name="行脚商人" />
+	<key id="11000118" />
+	<key id="11000119" name="근위대장" feature="Season1" />
+	<key id="11000119" name="近卫队长" />
+	<key id="11000120" />
+	<key id="11000121" name="연구조교" feature="Season1" />
+	<key id="11000121" name="研究助理" />
+	<key id="11000122" />
+	<key id="11000123" />
+	<key id="11000124" name="약학박사" feature="Season1" />
+	<key id="11000124" name="药学博士" />
+	<key id="11000125" name="유전학 박사" feature="Season1" />
+	<key id="11000125" name="遗传学博士" />
+	<key id="11000126" />
+	<key id="11000127" />
+	<key id="11000128" name="왕실 짐꾼" feature="Season1" />
+	<key id="11000128" name="王室挑夫" />
+	<key id="11000129" name="왕실 짐꾼" feature="Season1" />
+	<key id="11000129" name="王室挑夫" />
+	<key id="11000130" />
+	<key id="11000131" />
+	<key id="11000132" />
+	<key id="11000133" />
+	<key id="11000134" />
+	<key id="11000135" />
+	<key id="11000136" name="늑대소녀" feature="Season1" />
+	<key id="11000136" name="狼人少女" />
+	<key id="11000137" />
+	<key id="11000138" />
+	<key id="11000139" />
+	<key id="11000140" />
+	<key id="11000141" />
+	<key id="11000142" />
+	<key id="11000143" />
+	<key id="11000144" />
+	<key id="11000145" name="시간 여행자" feature="Season1" />
+	<key id="11000145" name="时间旅行者" />
+	<key id="11000146" name="시간 여행자" feature="Season1" />
+	<key id="11000146" name="时间旅行者" />
+	<key id="11000147" />
+	<key id="11000148" />
+	<key id="11000149" />
+	<key id="11000150" />
+	<key id="11000151" />
+	<key id="11000152" />
+	<key id="11000153" />
+	<key id="11000154" />
+	<key id="11000155" />
+	<key id="11000156" />
+	<key id="11000157" name="근위대원" feature="Season1" />
+	<key id="11000157" name="近卫队员" />
+	<key id="11000158" name="근위대원" feature="Season1" />
+	<key id="11000158" name="近卫队员" />
+	<key id="11000159" name="근위대원" feature="Season1" />
+	<key id="11000159" name="近卫队员" />
+	<key id="11000160" name="안내원" feature="Season1" />
+	<key id="11000160" name="向导" />
+	<key id="11000161" />
+	<key id="11000162" />
+	<key id="11000163" />
+	<key id="11000164" name="왕실 짐꾼" feature="Season1" />
+	<key id="11000164" name="王室挑夫" />
+	<key id="11000165" />
+	<key id="11000166" />
+	<key id="11000167" />
+	<key id="11000168" />
+	<key id="11000169" name="무기고 경비병" feature="Season1" />
+	<key id="11000169" name="武器库警卫兵" />
+	<key id="11000170" name="보부상" feature="Season1" />
+	<key id="11000170" name="行脚商人" />
+	<key id="11000171" name="고물대장" feature="Season1" />
+	<key id="11000171" name="考古队长" />
+	<key id="11000172" name="경비원" feature="Season1" />
+	<key id="11000172" name="警卫员" />
+	<key id="11000173" name="브로커" feature="Season1" />
+	<key id="11000173" name="掮客" />
+	<key id="11000174" />
+	<key id="11000175" />
+	<key id="11000176" />
+	<key id="11000177" />
+	<key id="11000178" />
+	<key id="11000179" name="보부상" feature="Season1" />
+	<key id="11000179" name="行脚商人" />
+	<key id="11000180" name="고물상 잡부" feature="Season1" />
+	<key id="11000180" name="旧货商杂役" />
+	<key id="11000181" name="고물상 잡부" feature="Season1" />
+	<key id="11000181" name="旧货商杂役" />
+	<key id="11000182" />
+	<key id="11000183" />
+	<key id="11000184" />
+	<key id="11000185" name="중개인" feature="Season1" />
+	<key id="11000185" name="中介" />
+	<key id="11000186" />
+	<key id="11000187" />
+	<key id="11000188" />
+	<key id="11000189" />
+	<key id="11000190" name="약초꾼" feature="Season1" />
+	<key id="11000190" name="采药人" />
+	<key id="11000191" />
+	<key id="11000192" name="나무꾼" feature="Season1" />
+	<key id="11000192" name="樵夫" />
+	<key id="11000193" />
+	<key id="11000194" />
+	<key id="11000195" />
+	<key id="11000196" />
+	<key id="11000197" />
+	<key id="11000198" />
+	<key id="11000199" />
+	<key id="11000200" />
+	<key id="11000201" />
+	<key id="11000202" />
+	<key id="11000203" name="나무꾼" feature="Season1" />
+	<key id="11000203" name="樵夫" />
+	<key id="11000204" />
+	<key id="11000205" />
+	<key id="11000206" />
+	<key id="11000207" name="일꾼" feature="Season1" />
+	<key id="11000207" name="工人" />
+	<key id="11000208" name="다크윈드" feature="Season1" />
+	<key id="11000208" name="黑风" />
+	<key id="11000209" />
+	<key id="11000210" />
+	<key id="11000211" />
+	<key id="11000212" />
+	<key id="11000213" />
+	<key id="11000214" name="신원미상" feature="Season1" />
+	<key id="11000214" name="身份不详" />
+	<key id="11000215" name="다크윈드" feature="Season1" />
+	<key id="11000215" name="黑风" />
+	<key id="11000216" name="시위대" feature="Season1" />
+	<key id="11000216" name="侍卫队" />
+	<key id="11000217" name="메이드" feature="Season1" />
+	<key id="11000217" name="管家" />
+	<key id="11000218" />
+	<key id="11000219" />
+	<key id="11000220" name="감독관" feature="Season1" />
+	<key id="11000220" name="监督官" />
+	<key id="11000221" />
+	<key id="11000222" />
+	<key id="11000223" />
+	<key id="11000224" />
+	<key id="11000225" />
+	<key id="11000226" />
+	<key id="11000227" />
+	<key id="11000228" />
+	<key id="11000229" />
+	<key id="11000230" />
+	<key id="11000231" />
+	<key id="11000232" />
+	<key id="11000233" />
+	<key id="11000234" />
+	<key id="11000235" />
+	<key id="11000236" />
+	<key id="11000237" />
+	<key id="11000238" />
+	<key id="11000239" />
+	<key id="11000240" />
+	<key id="11000241" name="케이블카 안내원" feature="Season1" />
+	<key id="11000241" name="缆车向导" />
+	<key id="11000242" name="구름까페 주인장" feature="Season1" />
+	<key id="11000242" name="白云咖啡馆店主" />
+	<key id="11000243" />
+	<key id="11000244" />
+	<key id="11000245" name="감독관" feature="Season1" />
+	<key id="11000245" name="监督官" />
+	<key id="11000246" />
+	<key id="11000247" />
+	<key id="11000248" />
+	<key id="11000249" />
+	<key id="11000250" />
+	<key id="11000251" />
+	<key id="11000252" />
+	<key id="11000253" />
+	<key id="11000254" name="헤어스타일 상담사" feature="Season1" />
+	<key id="11000254" name="发型咨询师" />
+	<key id="11000255" />
+	<key id="11000256" />
+	<key id="11000257" />
+	<key id="11000258" name="다크윈드" feature="Season1" />
+	<key id="11000258" name="黑风" />
+	<key id="11000259" />
+	<key id="11000260" name="다크윈드" feature="Season1" />
+	<key id="11000260" name="黑风" />
+	<key id="11000261" name="닥터" feature="Season1" />
+	<key id="11000261" name="医生" />
+	<key id="11000262" />
+	<key id="11000263" />
+	<key id="11000264" name="연금술사" feature="Season1" />
+	<key id="11000264" name="炼金术士" />
+	<key id="11000265" name="마법학자" feature="Season1" />
+	<key id="11000265" name="魔法学者" />
+	<key id="11000266" name="다크윈드 지휘관" feature="Season1" />
+	<key id="11000266" name="黑风指挥官" />
+	<key id="11000267" />
+	<key id="11000268" />
+	<key id="11000269" />
+	<key id="11000270" />
+	<key id="11000271" />
+	<key id="11000272" />
+	<key id="11000273" name="닥터" feature="Season1" />
+	<key id="11000273" name="医生" />
+	<key id="11000274" name="닥터" feature="Season1" />
+	<key id="11000274" name="医生" />
+	<key id="11000275" name="닥터" feature="Season1" />
+	<key id="11000275" name="医生" />
+	<key id="11000276" />
+	<key id="11000277" />
+	<key id="11000278" />
+	<key id="11000279" />
+	<key id="11000280" name="근위대원" feature="Season1" />
+	<key id="11000280" name="近卫队员" />
+	<key id="11000281" name="지질학자" feature="Season1" />
+	<key id="11000281" name="地质学家" />
+	<key id="11000282" />
+	<key id="11000283" name="점쟁이" feature="Season1" />
+	<key id="11000283" name="算命师" />
+	<key id="11000284" name="요정" feature="Season1" />
+	<key id="11000284" name="妖精" />
+	<key id="11000285" />
+	<key id="11000286" />
+	<key id="11000287" />
+	<key id="11000288" />
+	<key id="11000289" />
+	<key id="11000290" />
+	<key id="11000291" />
+	<key id="11000292" name="보부상" feature="Season1" />
+	<key id="11000292" name="行脚商人" />
+	<key id="11000293" name="나무요정" feature="Season1" />
+	<key id="11000293" name="树精" />
+	<key id="11000294" />
+	<key id="11000295" />
+	<key id="11000296" />
+	<key id="11000297" />
+	<key id="11000298" name="요정" feature="Season1" />
+	<key id="11000298" name="妖精" />
+	<key id="11000299" name="농사꾼" feature="Season1" />
+	<key id="11000299" name="庄稼人" />
+	<key id="11000300" name="보부상" feature="Season1" />
+	<key id="11000300" name="行脚商人" />
+	<key id="11000301" name="공사 감독" feature="Season1" />
+	<key id="11000301" name="监工" />
+	<key id="11000302" name="수습 제사장" feature="Season1" />
+	<key id="11000302" name="实习祭司长" />
+	<key id="11000303" name="주술사" feature="Season1" />
+	<key id="11000303" name="咒术师" />
+	<key id="11000304" name="탐욕마녀" feature="Season1" />
+	<key id="11000304" name="贪婪魔女" />
+	<key id="11000305" />
+	<key id="11000306" />
+	<key id="11000307" />
+	<key id="11000308" />
+	<key id="11000309" />
+	<key id="11000310" />
+	<key id="11000311" />
+	<key id="11000312" />
+	<key id="11000313" />
+	<key id="11000314" />
+	<key id="11000315" />
+	<key id="11000316" />
+	<key id="11000317" />
+	<key id="11000318" />
+	<key id="11000319" />
+	<key id="11000320" />
+	<key id="11000321" />
+	<key id="11000322" />
+	<key id="11000323" />
+	<key id="11000324" name="감정표현 코치" feature="Season1" />
+	<key id="11000324" name="情感表达教练" />
+	<key id="11000325" name="홍보 사원" feature="Season1" />
+	<key id="11000325" name="宣传职员" />
+	<key id="11000326" />
+	<key id="11000327" name="고고학자" feature="Season1" />
+	<key id="11000327" name="考古学家" />
+	<key id="11000328" name="골동품 수집가" feature="Season1" />
+	<key id="11000328" name="古董收藏家" />
+	<key id="11000329" />
+	<key id="11000330" />
+	<key id="11000331" />
+	<key id="11000332" />
+	<key id="11000333" />
+	<key id="11000334" />
+	<key id="11000335" />
+	<key id="11000336" />
+	<key id="11000337" name="백색의" feature="Season1" />
+	<key id="11000337" name="白色的" />
+	<key id="11000338" name="제빵사" feature="Season1" />
+	<key id="11000338" name="面包师" />
+	<key id="11000339" name="벨보이" feature="Season1" />
+	<key id="11000339" name="门童" />
+	<key id="11000340" name="지배인" feature="Season1" />
+	<key id="11000340" name="管家" />
+	<key id="11000341" name="마드모아젤" feature="Season1" />
+	<key id="11000341" name="女士" />
+	<key id="11000342" />
+	<key id="11000343" />
+	<key id="11000344" />
+	<key id="11000345" />
+	<key id="11000346" />
+	<key id="11000347" />
+	<key id="11000348" />
+	<key id="11000349" />
+	<key id="11000350" name="보부상" feature="Season1" />
+	<key id="11000350" name="行脚商人" />
+	<key id="11000351" />
+	<key id="11000352" name="공원 경비원" feature="Season1" />
+	<key id="11000352" name="公园警卫员" />
+	<key id="11000353" name="공사 감독" feature="Season1" />
+	<key id="11000353" name="监工" />
+	<key id="11000354" />
+	<key id="11000355" />
+	<key id="11000356" />
+	<key id="11000357" />
+	<key id="11000358" name="건달" feature="Season1" />
+	<key id="11000358" name="地痞" />
+	<key id="11000359" />
+	<key id="11000360" />
+	<key id="11000361" />
+	<key id="11000362" name="어부" feature="Season1" />
+	<key id="11000362" name="渔夫" />
+	<key id="11000363" />
+	<key id="11000364" />
+	<key id="11000365" name="조직원" feature="Season1" />
+	<key id="11000365" name="组织成员" />
+	<key id="11000366" />
+	<key id="11000367" />
+	<key id="11000368" />
+	<key id="11000369" />
+	<key id="11000370" />
+	<key id="11000371" />
+	<key id="11000372" />
+	<key id="11000373" />
+	<key id="11000374" name="늑대잡이" feature="Season1" />
+	<key id="11000374" name="猎狼人" />
+	<key id="11000375" name="왕실 짐꾼" feature="Season1" />
+	<key id="11000375" name="王室挑夫" />
+	<key id="11000376" />
+	<key id="11000377" />
+	<key id="11000378" />
+	<key id="11000379" />
+	<key id="11000380" />
+	<key id="11000381" />
+	<key id="11000382" />
+	<key id="11000383" />
+	<key id="11000384" />
+	<key id="11000385" />
+	<key id="11000386" />
+	<key id="11000387" />
+	<key id="11000388" />
+	<key id="11000389" />
+	<key id="11000390" />
+	<key id="11000391" />
+	<key id="11000392" />
+	<key id="11000393" name="수도관리인" feature="Season1" />
+	<key id="11000393" name="供水管理员" />
+	<key id="11000394" name="캐시마트 직원" feature="Season1" />
+	<key id="11000394" name="便利店职员" />
+	<key id="11000395" />
+	<key id="11000396" />
+	<key id="11000397" />
+	<key id="11000398" />
+	<key id="11000399" />
+	<key id="11000400" name="관리소장" feature="Season1" />
+	<key id="11000400" name="管理所所长" />
+	<key id="11000401" />
+	<key id="11000402" name="보부상" feature="Season1" />
+	<key id="11000402" name="行脚商人" />
+	<key id="11000403" name="보부상" feature="Season1" />
+	<key id="11000403" name="行脚商人" />
+	<key id="11000404" />
+	<key id="11000405" />
+	<key id="11000406" name="아이돌" feature="Season1" />
+	<key id="11000406" name="明星" />
+	<key id="11000407" />
+	<key id="11000408" />
+	<key id="11000409" />
+	<key id="11000410" />
+	<key id="11000411" />
+	<key id="11000412" />
+	<key id="11000413" />
+	<key id="11000414" />
+	<key id="11000415" />
+	<key id="11000416" />
+	<key id="11000417" />
+	<key id="11000418" />
+	<key id="11000419" name="닥터" feature="Season1" />
+	<key id="11000419" name="医生" />
+	<key id="11000420" />
+	<key id="11000421" />
+	<key id="11000422" />
+	<key id="11000423" />
+	<key id="11000424" />
+	<key id="11000425" />
+	<key id="11000426" />
+	<key id="11000427" />
+	<key id="11000428" />
+	<key id="11000429" />
+	<key id="11000430" />
+	<key id="11000431" />
+	<key id="11000432" />
+	<key id="11000433" name="양치기 소년" feature="Season1" />
+	<key id="11000433" name="放羊少年" />
+	<key id="11000434" />
+	<key id="11000435" />
+	<key id="11000436" name="닥터" feature="Season1" />
+	<key id="11000436" name="医生" />
+	<key id="11000437" />
+	<key id="11000438" />
+	<key id="11000439" />
+	<key id="11000440" />
+	<key id="11000441" />
+	<key id="11000442" />
+	<key id="11000443" />
+	<key id="11000444" name="탐험가" feature="Season1" />
+	<key id="11000444" name="探险家" />
+	<key id="11000445" />
+	<key id="11000446" />
+	<key id="11000447" />
+	<key id="11000448" />
+	<key id="11000449" />
+	<key id="11000450" />
+	<key id="11000451" />
+	<key id="11000452" />
+	<key id="11000453" />
+	<key id="11000454" />
+	<key id="11000455" />
+	<key id="11000456" />
+	<key id="11000457" />
+	<key id="11000458" />
+	<key id="11000459" />
+	<key id="11000460" />
+	<key id="11000461" />
+	<key id="11000462" />
+	<key id="11000463" />
+	<key id="11000464" />
+	<key id="11000465" />
+	<key id="11000466" />
+	<key id="11000467" />
+	<key id="11000468" />
+	<key id="11000469" />
+	<key id="11000470" />
+	<key id="11000471" />
+	<key id="11000472" />
+	<key id="11000473" />
+	<key id="11000474" />
+	<key id="11000475" />
+	<key id="11000476" />
+	<key id="11000477" />
+	<key id="11000478" />
+	<key id="11000479" name="음악가" feature="Season1" />
+	<key id="11000479" name="音乐家" />
+	<key id="11000480" name="채석장 감독관" feature="Season1" />
+	<key id="11000480" name="采石场监督官" />
+	<key id="11000481" />
+	<key id="11000482" />
+	<key id="11000483" />
+	<key id="11000484" name="보부상" feature="Season1" />
+	<key id="11000484" name="行脚商人" />
+	<key id="11000485" />
+	<key id="11000486" />
+	<key id="11000487" />
+	<key id="11000488" />
+	<key id="11000489" />
+	<key id="11000490" />
+	<key id="11000491" />
+	<key id="11000492" />
+	<key id="11000493" />
+	<key id="11000494" />
+	<key id="11000495" />
+	<key id="11000496" />
+	<key id="11000497" />
+	<key id="11000498" />
+	<key id="11000499" />
+	<key id="11000500" />
+	<key id="11000501" />
+	<key id="11000502" />
+	<key id="11000503" />
+	<key id="11000504" name="마드모아젤" feature="KarkarIsland" />
+	<key id="11000504" name="女士" />
+	<key id="11000505" />
+	<key id="11000506" />
+	<key id="11000507" />
+	<key id="11000508" />
+	<key id="11000509" />
+	<key id="11000510" />
+	<key id="11000511" />
+	<key id="11000512" />
+	<key id="11000513" />
+	<key id="11000514" name="교도소장" feature="Season1" />
+	<key id="11000514" name="管教所所长" />
+	<key id="11000515" name="트레이더 사무장" feature="Season1" />
+	<key id="11000515" name="商务秘书长" />
+	<key id="11000516" />
+	<key id="11000517" />
+	<key id="11000518" />
+	<key id="11000519" />
+	<key id="11000520" name="관리소장" feature="Season1" />
+	<key id="11000520" name="管理所所长" />
+	<key id="11000521" name="교도소장" feature="Season1" />
+	<key id="11000521" name="管教所所长" />
+	<key id="11000522" />
+	<key id="11000523" />
+	<key id="11000524" name="다크윈드" feature="Season1" />
+	<key id="11000524" name="黑风" />
+	<key id="11000525" />
+	<key id="11000526" />
+	<key id="11000527" />
+	<key id="11000528" />
+	<key id="11000529" />
+	<key id="11000530" />
+	<key id="11000531" />
+	<key id="11000532" />
+	<key id="11000533" />
+	<key id="11000534" name="검시관" feature="Season1" />
+	<key id="11000534" name="验尸官" />
+	<key id="11000535" />
+	<key id="11000536" />
+	<key id="11000537" />
+	<key id="11000538" />
+	<key id="11000539" />
+	<key id="11000540" />
+	<key id="11000541" />
+	<key id="11000542" />
+	<key id="11000543" />
+	<key id="11000544" />
+	<key id="11000545" />
+	<key id="11000546" name="보부상" feature="Season1" />
+	<key id="11000546" name="行脚商人" />
+	<key id="11000547" name="자경단원" feature="Season1" />
+	<key id="11000547" name="警卫队员" />
+	<key id="11000548" name="자경단원" feature="Season1" />
+	<key id="11000548" name="警卫队员" />
+	<key id="11000549" name="늑대잡이" feature="Season1" />
+	<key id="11000549" name="猎狼人" />
+	<key id="11000550" />
+	<key id="11000551" name="근위대원" feature="Season1" />
+	<key id="11000551" name="近卫队员" />
+	<key id="11000552" />
+	<key id="11000553" />
+	<key id="11000554" />
+	<key id="11000555" />
+	<key id="11000556" />
+	<key id="11000557" />
+	<key id="11000558" />
+	<key id="11000559" />
+	<key id="11000560" />
+	<key id="11000561" />
+	<key id="11000562" />
+	<key id="11000563" />
+	<key id="11000564" />
+	<key id="11000565" />
+	<key id="11000566" />
+	<key id="11000567" />
+	<key id="11000568" />
+	<key id="11000569" />
+	<key id="11000570" />
+	<key id="11000571" />
+	<key id="11000572" />
+	<key id="11000573" />
+	<key id="11000574" />
+	<key id="11000575" />
+	<key id="11000576" />
+	<key id="11000577" />
+	<key id="11000578" />
+	<key id="11000579" />
+	<key id="11000580" />
+	<key id="11000581" />
+	<key id="11000582" name="닥터" feature="Season1" />
+	<key id="11000582" name="医生" />
+	<key id="11000583" name="닥터" feature="Season1" />
+	<key id="11000583" name="医生" />
+	<key id="11000584" name="닥터" feature="Season1" />
+	<key id="11000584" name="医生" />
+	<key id="11000585" />
+	<key id="11000586" />
+	<key id="11000587" />
+	<key id="11000588" />
+	<key id="11000589" />
+	<key id="11000590" />
+	<key id="11000591" />
+	<key id="11000592" />
+	<key id="11000593" />
+	<key id="11000594" name="연구소장" feature="Season1" />
+	<key id="11000594" name="研究所所长" />
+	<key id="11000595" />
+	<key id="11000596" name="요정" feature="Season1" />
+	<key id="11000596" name="妖精" />
+	<key id="11000597" />
+	<key id="11000598" />
+	<key id="11000599" />
+	<key id="11000600" />
+	<key id="11000601" name="수호사제" feature="Season1" />
+	<key id="11000601" name="守护祭司" />
+	<key id="11000602" name="근위대 추적단" feature="Season1" />
+	<key id="11000602" name="近卫队追踪团" />
+	<key id="11000603" name="근위대 추적단" feature="Season1" />
+	<key id="11000603" name="近卫队追踪团" />
+	<key id="11000604" />
+	<key id="11000605" />
+	<key id="11000606" />
+	<key id="11000607" name="보부상" feature="Season1" />
+	<key id="11000607" name="行脚商人" />
+	<key id="11000608" name="수호사제" feature="Season1" />
+	<key id="11000608" name="守护祭司" />
+	<key id="11000609" name="보부상" feature="Season1" />
+	<key id="11000609" name="行脚商人" />
+	<key id="11000610" name="조직원" feature="Season1" />
+	<key id="11000610" name="组织成员" />
+	<key id="11000611" />
+	<key id="11000612" />
+	<key id="11000613" name="루미나 해방군" feature="Season1" />
+	<key id="11000613" name="鲁米纳军人" />
+	<key id="11000614" name="루미나 해방군" feature="Season1" />
+	<key id="11000614" name="鲁米纳军人" />
+	<key id="11000615" name="루미나 해방군" feature="Season1" />
+	<key id="11000615" name="鲁米纳军人" />
+	<key id="11000616" name="루미나 해방군" feature="Season1" />
+	<key id="11000616" name="鲁米纳军人" />
+	<key id="11000617" name="근위대원" feature="Season1" />
+	<key id="11000617" name="近卫队员" />
+	<key id="11000618" />
+	<key id="11000619" />
+	<key id="11000620" />
+	<key id="11000621" />
+	<key id="11000622" />
+	<key id="11000623" />
+	<key id="11000624" />
+	<key id="11000625" />
+	<key id="11000626" />
+	<key id="11000627" />
+	<key id="11000628" />
+	<key id="11000629" />
+	<key id="11000630" />
+	<key id="11000631" name="교도관" feature="Season1" />
+	<key id="11000631" name="管教员" />
+	<key id="11000632" name="교도관" feature="Season1" />
+	<key id="11000632" name="管教员" />
+	<key id="11000633" name="교도관" feature="Season1" />
+	<key id="11000633" name="管教员" />
+	<key id="11000634" />
+	<key id="11000635" />
+	<key id="11000636" />
+	<key id="11000637" />
+	<key id="11000638" />
+	<key id="11000639" />
+	<key id="11000640" />
+	<key id="11000641" />
+	<key id="11000642" />
+	<key id="11000643" />
+	<key id="11000644" />
+	<key id="11000645" />
+	<key id="11000646" />
+	<key id="11000647" />
+	<key id="11000648" />
+	<key id="11000649" />
+	<key id="11000650" />
+	<key id="11000651" />
+	<key id="11000652" />
+	<key id="11000653" />
+	<key id="11000654" />
+	<key id="11000655" />
+	<key id="11000656" />
+	<key id="11000657" />
+	<key id="11000658" name="닥터" feature="Season1" />
+	<key id="11000658" name="医生" />
+	<key id="11000659" />
+	<key id="11000660" />
+	<key id="11000661" />
+	<key id="11000662" />
+	<key id="11000663" />
+	<key id="11000664" />
+	<key id="11000665" />
+	<key id="11000666" />
+	<key id="11000667" name="브로커" feature="Season1" />
+	<key id="11000667" name="掮客" />
+	<key id="11000668" name="브로커" feature="Season1" />
+	<key id="11000668" name="掮客" />
+	<key id="11000669" name="브로커" feature="Season1" />
+	<key id="11000669" name="掮客" />
+	<key id="11000670" />
+	<key id="11000671" />
+	<key id="11000672" name="자경대장" feature="Season1" />
+	<key id="11000672" name="警卫队长" />
+	<key id="11000673" />
+	<key id="11000674" />
+	<key id="11000675" name="검투사" feature="Season1" />
+	<key id="11000675" name="剑斗士" />
+	<key id="11000676" />
+	<key id="11000677" name="요정" feature="Season1" />
+	<key id="11000677" name="妖精" />
+	<key id="11000678" />
+	<key id="11000679" />
+	<key id="11000680" />
+	<key id="11000681" />
+	<key id="11000682" />
+	<key id="11000683" />
+	<key id="11000684" />
+	<key id="11000685" />
+	<key id="11000686" />
+	<key id="11000687" />
+	<key id="11000688" />
+	<key id="11000689" />
+	<key id="11000690" />
+	<key id="11000691" />
+	<key id="11000692" />
+	<key id="11000693" />
+	<key id="11000694" />
+	<key id="11000695" />
+	<key id="11000696" />
+	<key id="11000697" />
+	<key id="11000698" />
+	<key id="11000699" />
+	<key id="11000700" />
+	<key id="11000701" name="자경대장" feature="Season1" />
+	<key id="11000701" name="警卫队长" />
+	<key id="11000702" name="근위대장" feature="Season1" />
+	<key id="11000702" name="近卫队长" />
+	<key id="11000703" name="자경단원" feature="Season1" />
+	<key id="11000703" name="警卫队员" />
+	<key id="11000704" />
+	<key id="11000705" />
+	<key id="11000706" />
+	<key id="11000707" />
+	<key id="11000708" />
+	<key id="11000709" />
+	<key id="11000710" />
+	<key id="11000711" />
+	<key id="11000712" name="꼬마 거북" feature="Season1" />
+	<key id="11000712" name="小乌龟" />
+	<key id="11000713" name="아빠 거북" feature="Season1" />
+	<key id="11000713" name="乌龟爸爸" />
+	<key id="11000714" />
+	<key id="11000715" />
+	<key id="11000716" />
+	<key id="11000717" />
+	<key id="11000718" />
+	<key id="11000719" />
+	<key id="11000720" />
+	<key id="11000721" />
+	<key id="11000722" />
+	<key id="11000723" />
+	<key id="11000724" />
+	<key id="11000725" />
+	<key id="11000726" />
+	<key id="11000727" />
+	<key id="11000728" />
+	<key id="11000729" />
+	<key id="11000730" />
+	<key id="11000731" />
+	<key id="11000732" />
+	<key id="11000733" />
+	<key id="11000734" />
+	<key id="11000735" />
+	<key id="11000736" name="요정" feature="Season1" />
+	<key id="11000736" name="妖精" />
+	<key id="11000737" name="검객" feature="Season1" />
+	<key id="11000737" name="剑客" />
+	<key id="11000738" name="검객" feature="Season1" />
+	<key id="11000738" name="剑客" />
+	<key id="11000739" name="검객" feature="Season1" />
+	<key id="11000739" name="剑客" />
+	<key id="11000740" />
+	<key id="11000741" />
+	<key id="11000742" />
+	<key id="11000743" />
+	<key id="11000744" name="마녀" feature="Season1" />
+	<key id="11000744" name="魔女" />
+	<key id="11000745" name="마녀" feature="Season1" />
+	<key id="11000745" name="魔女" />
+	<key id="11000746" name="숲속의 마녀" feature="Season1" />
+	<key id="11000746" name="森林魔女" />
+	<key id="11000747" />
+	<key id="11000748" />
+	<key id="11000749" />
+	<key id="11000750" />
+	<key id="11000751" />
+	<key id="11000752" />
+	<key id="11000753" />
+	<key id="11000754" />
+	<key id="11000755" />
+	<key id="11000756" />
+	<key id="11000757" />
+	<key id="11000758" />
+	<key id="11000759" />
+	<key id="11000760" />
+	<key id="11000761" />
+	<key id="11000762" name="닥터" feature="Season1" />
+	<key id="11000762" name="医生" />
+	<key id="11000763" name="明星" />
+	<key id="11000764" />
+	<key id="11000765" />
+	<key id="11000766" />
+	<key id="11000767" />
+	<key id="11000768" />
+	<key id="11000769" />
+	<key id="11000770" />
+	<key id="11000771" />
+	<key id="11000772" />
+	<key id="11000773" />
+	<key id="11000774" />
+	<key id="11000775" />
+	<key id="11000776" />
+	<key id="11000777" />
+	<key id="11000778" />
+	<key id="11000779" />
+	<key id="11000780" />
+	<key id="11000781" />
+	<key id="11000782" name="탐험가" feature="Season1" />
+	<key id="11000782" name="探险家" />
+	<key id="11000783" />
+	<key id="11000784" />
+	<key id="11000785" />
+	<key id="11000786" />
+	<key id="11000787" />
+	<key id="11000788" />
+	<key id="11000789" />
+	<key id="11000790" />
+	<key id="11000791" />
+	<key id="11000792" />
+	<key id="11000793" />
+	<key id="11000794" />
+	<key id="11000795" name="캐시마트 직원" feature="Season1" />
+	<key id="11000795" name="便利店职员" />
+	<key id="11000796" />
+	<key id="11000797" />
+	<key id="11000798" />
+	<key id="11000799" />
+	<key id="11000800" />
+	<key id="11000801" />
+	<key id="11000802" />
+	<key id="11000803" />
+	<key id="11000804" />
+	<key id="11000805" />
+	<key id="11000806" name="화공학자" feature="Season1" />
+	<key id="11000806" name="化学家" />
+	<key id="11000807" />
+	<key id="11000808" />
+	<key id="11000809" />
+	<key id="11000810" />
+	<key id="11000811" />
+	<key id="11000812" />
+	<key id="11000813" name="보부상" feature="Season1" />
+	<key id="11000813" name="行脚商人" />
+	<key id="11000814" name="보부상" feature="Season1" />
+	<key id="11000814" name="行脚商人" />
+	<key id="11000815" />
+	<key id="11000816" />
+	<key id="11000817" />
+	<key id="11000818" />
+	<key id="11000819" />
+	<key id="11000820" />
+	<key id="11000821" />
+	<key id="11000822" />
+	<key id="11000823" />
+	<key id="11000824" />
+	<key id="11000825" />
+	<key id="11000826" />
+	<key id="11000827" />
+	<key id="11000828" name="보부상" feature="Season1" />
+	<key id="11000828" name="行脚商人" />
+	<key id="11000829" name="보부상" feature="Season1" />
+	<key id="11000829" name="行脚商人" />
+	<key id="11000830" />
+	<key id="11000831" />
+	<key id="11000832" />
+	<key id="11000833" />
+	<key id="11000834" />
+	<key id="11000835" />
+	<key id="11000836" />
+	<key id="11000837" name="수호군" feature="Season1" />
+	<key id="11000837" name="守护军" />
+	<key id="11000838" />
+	<key id="11000839" name="루미나 해방군" feature="Season1" />
+	<key id="11000839" name="鲁米纳军人" />
+	<key id="11000840" />
+	<key id="11000841" name="루미나 해방군" feature="Season1" />
+	<key id="11000841" name="鲁米纳军人" />
+	<key id="11000842" name="루미나 해방군" feature="Season1" />
+	<key id="11000842" name="鲁米纳军人" />
+	<key id="11000843" name="연구소장" feature="Season1" />
+	<key id="11000843" name="研究所所长" />
+	<key id="11000844" name="어린" feature="Season1" />
+	<key id="11000844" name="年幼的" />
+	<key id="11000845" />
+	<key id="11000846" />
+	<key id="11000847" />
+	<key id="11000848" name="공학박사" feature="Season1" />
+	<key id="11000848" name="工程博士" />
+	<key id="11000849" />
+	<key id="11000850" />
+	<key id="11000851" />
+	<key id="11000852" />
+	<key id="11000853" />
+	<key id="11000854" />
+	<key id="11000855" />
+	<key id="11000856" />
+	<key id="11000857" />
+	<key id="11000858" />
+	<key id="11000859" />
+	<key id="11000860" />
+	<key id="11000861" />
+	<key id="11000862" name="왕실 총리" feature="Season1" />
+	<key id="11000862" name="王室总理" />
+	<key id="11000863" />
+	<key id="11000864" />
+	<key id="11000865" />
+	<key id="11000866" />
+	<key id="11000867" />
+	<key id="11000868" name="수습 연구원" feature="Season1" />
+	<key id="11000868" name="实习研究员" />
+	<key id="11000869" name="시간공학자" feature="Season1" />
+	<key id="11000869" name="时间工程师" />
+	<key id="11000870" name="연구원" feature="Season1" />
+	<key id="11000870" name="研究员" />
+	<key id="11000871" name="연구원" feature="Season1" />
+	<key id="11000871" name="研究员" />
+	<key id="11000872" />
+	<key id="11000873" />
+	<key id="11000874" name="거북도사" feature="Season1" />
+	<key id="11000874" name="乌龟道士" />
+	<key id="11000875" />
+	<key id="11000876" />
+	<key id="11000877" />
+	<key id="11000878" />
+	<key id="11000879" />
+	<key id="11000880" />
+	<key id="11000881" />
+	<key id="11000882" />
+	<key id="11000883" />
+	<key id="11000884" />
+	<key id="11000885" name="달토끼" feature="Season1" />
+	<key id="11000885" name="玉兔" />
+	<key id="11000886" />
+	<key id="11000887" />
+	<key id="11000888" />
+	<key id="11000889" />
+	<key id="11000890" />
+	<key id="11000891" />
+	<key id="11000892" name="숲의 요정" feature="Season1" />
+	<key id="11000892" name="森林妖精" />
+	<key id="11000893" name="빛의 요정" feature="Season1" />
+	<key id="11000893" name="光明妖精" />
+	<key id="11000894" name="바람의 요정" feature="Season1" />
+	<key id="11000894" name="狂风妖精" />
+	<key id="11000895" name="피추피추의 공중정원" feature="Season1" />
+	<key id="11000895" name="空中庭院" />
+	<key id="11000896" />
+	<key id="11000897" />
+	<key id="11000898" name="닥터" feature="Season1" />
+	<key id="11000898" name="医生" />
+	<key id="11000899" name="닥터" feature="Season1" />
+	<key id="11000899" name="医生" />
+	<key id="11000900" />
+	<key id="11000901" />
+	<key id="11000902" />
+	<key id="11000903" />
+	<key id="11000904" />
+	<key id="11000905" />
+	<key id="11000906" />
+	<key id="11000907" />
+	<key id="11000908" />
+	<key id="11000909" />
+	<key id="11000910" />
+	<key id="11000911" name="생명공학 박사" feature="Season1" />
+	<key id="11000911" name="生命工程博士" />
+	<key id="11000912" />
+	<key id="11000913" />
+	<key id="11000914" />
+	<key id="11000915" />
+	<key id="11000916" />
+	<key id="11000917" />
+	<key id="11000918" />
+	<key id="11000919" />
+	<key id="11000920" />
+	<key id="11000921" />
+	<key id="11000922" />
+	<key id="11000923" />
+	<key id="11000924" />
+	<key id="11000925" />
+	<key id="11000926" />
+	<key id="11000927" />
+	<key id="11000928" />
+	<key id="11000929" />
+	<key id="11000930" name="어미 새" feature="Season1" />
+	<key id="11000930" name="鸟妈妈" />
+	<key id="11000931" name="늑대" feature="Season1" />
+	<key id="11000931" name="狼" />
+	<key id="11000932" />
+	<key id="11000933" />
+	<key id="11000934" />
+	<key id="11000935" />
+	<key id="11000936" />
+	<key id="11000937" />
+	<key id="11000938" />
+	<key id="11000939" />
+	<key id="11000940" />
+	<key id="11000941" />
+	<key id="11000942" />
+	<key id="11000943" />
+	<key id="11000944" />
+	<key id="11000945" />
+	<key id="11000946" />
+	<key id="11000947" name="닥터" feature="Season1" />
+	<key id="11000947" name="医生" />
+	<key id="11000948" name="닥터" feature="Season1" />
+	<key id="11000948" name="医生" />
+	<key id="11000949" name="닥터" feature="Season1" />
+	<key id="11000949" name="医生" />
+	<key id="11000950" name="닥터" feature="Season1" />
+	<key id="11000950" name="医生" />
+	<key id="11000951" />
+	<key id="11000952" />
+	<key id="11000953" />
+	<key id="11000954" />
+	<key id="11000955" />
+	<key id="11000956" />
+	<key id="11000957" />
+	<key id="11000958" name="농부" feature="Season1" />
+	<key id="11000958" name="农夫" />
+	<key id="11000959" name="정찰대원" feature="Season1" />
+	<key id="11000959" name="侦查队员" />
+	<key id="11000960" />
+	<key id="11000961" name="자경단원" feature="Season1" />
+	<key id="11000961" name="警卫队员" />
+	<key id="11000962" name="자경단원" feature="Season1" />
+	<key id="11000962" name="警卫队员" />
+	<key id="11000963" name="보부상" feature="Season1" />
+	<key id="11000963" name="行脚商人" />
+	<key id="11000964" />
+	<key id="11000965" />
+	<key id="11000966" />
+	<key id="11000967" />
+	<key id="11000968" />
+	<key id="11000969" />
+	<key id="11000970" />
+	<key id="11000971" />
+	<key id="11000972" name="자경단원" feature="Season1" />
+	<key id="11000972" name="警卫队员" />
+	<key id="11000973" />
+	<key id="11000974" name="요리 연구가" feature="Season1" />
+	<key id="11000974" name="烹饪研究家" />
+	<key id="11000975" name="농부" feature="Season1" />
+	<key id="11000975" name="农夫" />
+	<key id="11000976" name="무림고수" feature="Season1" />
+	<key id="11000976" name="武林高手" />
+	<key id="11000977" name="제사장" feature="Season1" />
+	<key id="11000977" name="祭司长" />
+	<key id="11000978" />
+	<key id="11000979" />
+	<key id="11000980" name="보부상" feature="Season1" />
+	<key id="11000980" name="行脚商人" />
+	<key id="11000981" />
+	<key id="11000982" />
+	<key id="11000983" />
+	<key id="11000984" name="마법사" feature="Season1" />
+	<key id="11000984" name="魔法师" />
+	<key id="11000985" name="공학박사" feature="Season1" />
+	<key id="11000985" name="工程博士" />
+	<key id="11000986" />
+	<key id="11000987" name="감독관" feature="Season1" />
+	<key id="11000987" name="监督官" />
+	<key id="11000988" />
+	<key id="11000989" />
+	<key id="11000990" />
+	<key id="11000991" />
+	<key id="11000992" />
+	<key id="11000993" />
+	<key id="11000994" />
+	<key id="11000995" />
+	<key id="11000996" />
+	<key id="11000997" />
+	<key id="11000998" />
+	<key id="11000999" />
+	<key id="11001000" />
+	<key id="11001001" />
+	<key id="11001002" name="이벤트 도우미" feature="Season1" />
+	<key id="11001002" name="活动向导" />
+	<key id="11001002" name="이벤트 도우미" feature="Season1" locale="CN" />
+	<key id="11001003" name="이벤트 도우미" feature="Season1" />
+	<key id="11001003" name="活动向导" />
+	<key id="11001004" />
+	<key id="11001005" />
+	<key id="11001006" />
+	<key id="11001007" />
+	<key id="11001008" />
+	<key id="11001009" />
+	<key id="11001010" name="인턴 사원" feature="Season1" />
+	<key id="11001010" name="实习职员" />
+	<key id="11001011" />
+	<key id="11001012" />
+	<key id="11001013" />
+	<key id="11001014" />
+	<key id="11001015" />
+	<key id="11001016" name="안데센 왕국 임금" feature="Season1" />
+	<key id="11001016" name="安德森王国君主" />
+	<key id="11001017" />
+	<key id="11001018" />
+	<key id="11001019" />
+	<key id="11001020" />
+	<key id="11001021" />
+	<key id="11001022" />
+	<key id="11001023" />
+	<key id="11001024" />
+	<key id="11001025" />
+	<key id="11001026" />
+	<key id="11001027" />
+	<key id="11001028" name="연구소장" feature="Season1" />
+	<key id="11001028" name="研究所所长" />
+	<key id="11001029" />
+	<key id="11001030" />
+	<key id="11001031" name="연구인턴" feature="Season1" />
+	<key id="11001031" name="研究实习生" />
+	<key id="11001032" name="센터장" feature="Season1" />
+	<key id="11001032" name="中心负责人" />
+	<key id="11001033" />
+	<key id="11001034" />
+	<key id="11001035" />
+	<key id="11001036" />
+	<key id="11001037" />
+	<key id="11001038" />
+	<key id="11001039" />
+	<key id="11001040" name="탐사대원" feature="Season1" />
+	<key id="11001040" name="考察队队员" />
+	<key id="11001041" name="예언가" feature="Season1" />
+	<key id="11001041" name="预言家" />
+	<key id="11001042" />
+	<key id="11001043" name="보안요원" feature="Season1" />
+	<key id="11001043" name="保安" />
+	<key id="11001044" />
+	<key id="11001045" />
+	<key id="11001046" name="주술사" feature="Season1" />
+	<key id="11001046" name="咒术师" />
+	<key id="11001047" name="감독관" feature="Season1" />
+	<key id="11001047" name="监督官" />
+	<key id="11001048" />
+	<key id="11001049" />
+	<key id="11001050" />
+	<key id="11001051" />
+	<key id="11001052" />
+	<key id="11001053" />
+	<key id="11001054" />
+	<key id="11001055" />
+	<key id="11001056" />
+	<key id="11001057" name="시간공학자" feature="Season1" />
+	<key id="11001057" name="时间工程师" />
+	<key id="11001058" />
+	<key id="11001059" />
+	<key id="11001060" />
+	<key id="11001061" />
+	<key id="11001062" name="카오닉스 수집가" feature="Season1" />
+	<key id="11001062" name="混沌玛瑙收藏家" />
+	<key id="11001063" />
+	<key id="11001064" />
+	<key id="11001065" />
+	<key id="11001066" />
+	<key id="11001067" />
+	<key id="11001068" name="경호원" feature="Season1" />
+	<key id="11001068" name="保镖" />
+	<key id="11001069" />
+	<key id="11001070" />
+	<key id="11001071" />
+	<key id="11001072" />
+	<key id="11001073" />
+	<key id="11001074" />
+	<key id="11001075" />
+	<key id="11001076" />
+	<key id="11001077" />
+	<key id="11001078" name="먹보" feature="Season1" />
+	<key id="11001078" name="贪吃鬼" />
+	<key id="11001079" name="죄수" feature="Season1" />
+	<key id="11001079" name="罪犯" />
+	<key id="11001080" name="정찰대장" feature="KarkarIsland" />
+	<key id="11001080" name="侦查队长" />
+	<key id="11001081" />
+	<key id="11001082" />
+	<key id="11001083" />
+	<key id="11001084" name="정찰대원" feature="KarkarIsland" />
+	<key id="11001084" name="侦查队员" />
+	<key id="11001085" />
+	<key id="11001086" />
+	<key id="11001087" name="医生" />
+	<key id="11001088" name="医生" />
+	<key id="11001089" name="医生" />
+	<key id="11001090" name="医生" />
+	<key id="11001091" name="닥터" feature="Season1" />
+	<key id="11001091" name="医生" />
+	<key id="11001092" />
+	<key id="11001093" />
+	<key id="11001094" />
+	<key id="11001095" />
+	<key id="11001096" />
+	<key id="11001097" name="공학자" feature="Season1" />
+	<key id="11001097" name="工程师" />
+	<key id="11001098" />
+	<key id="11001099" name="자경대장" feature="Season1" />
+	<key id="11001099" name="警卫队长" />
+	<key id="11001100" />
+	<key id="11001101" name="医生" />
+	<key id="11001102" />
+	<key id="11001103" />
+	<key id="11001104" />
+	<key id="11001105" />
+	<key id="11001106" />
+	<key id="11001107" />
+	<key id="11001108" />
+	<key id="11001109" />
+	<key id="11001110" name="루미나 해방군" feature="Season1" />
+	<key id="11001110" name="鲁米纳军人" />
+	<key id="11001111" />
+	<key id="11001112" />
+	<key id="11001113" />
+	<key id="11001114" />
+	<key id="11001115" />
+	<key id="11001116" />
+	<key id="11001117" name="숲의 요정" feature="Season1" />
+	<key id="11001117" name="森林妖精" />
+	<key id="11001118" name="바니걸" feature="Season1" />
+	<key id="11001118" name="兔女郎" />
+	<key id="11001119" name="바니걸" feature="Season1" />
+	<key id="11001119" name="兔女郎" />
+	<key id="11001120" />
+	<key id="11001121" />
+	<key id="11001122" />
+	<key id="11001123" name="택배기사" feature="Season1" />
+	<key id="11001123" name="快递师傅" />
+	<key id="11001124" />
+	<key id="11001125" name="드로이드" feature="Season1" />
+	<key id="11001125" name="机器人" />
+	<key id="11001126" />
+	<key id="11001127" />
+	<key id="11001128" />
+	<key id="11001129" name="인부" feature="Season1" />
+	<key id="11001129" name="工人" />
+	<key id="11001130" name="약초꾼" feature="Season1" />
+	<key id="11001130" name="采药人" />
+	<key id="11001131" name="탐사대원" feature="Season1" />
+	<key id="11001131" name="考察队队员" />
+	<key id="11001132" name="피난민" feature="Season1" />
+	<key id="11001132" name="难民" />
+	<key id="11001133" name="보부상" feature="Season1" />
+	<key id="11001133" name="行脚商人" />
+	<key id="11001134" />
+	<key id="11001135" />
+	<key id="11001136" />
+	<key id="11001137" />
+	<key id="11001138" name="피난민" feature="Season1" />
+	<key id="11001138" name="难民" />
+	<key id="11001139" name="가죽 세공사" feature="Season1" />
+	<key id="11001139" name="皮革工匠" />
+	<key id="11001140" name="인부" feature="Season1" />
+	<key id="11001140" name="工人" />
+	<key id="11001141" name="영지 관리인" feature="Season1" />
+	<key id="11001141" name="营地管理员" />
+	<key id="11001142" />
+	<key id="11001143" name="고고학자" feature="Season1" />
+	<key id="11001143" name="考古学家" />
+	<key id="11001144" name="점쟁이" feature="Season1" />
+	<key id="11001144" name="胆小鬼" />
+	<key id="11001145" />
+	<key id="11001146" name="엄마의" feature="Season1" />
+	<key id="11001146" name="妈妈的" />
+	<key id="11001147" name="엄마의" feature="Season1" />
+	<key id="11001147" name="妈妈的" />
+	<key id="11001148" name="무기 수집가" feature="Season1" />
+	<key id="11001148" name="武器收藏家" />
+	<key id="11001149" />
+	<key id="11001150" />
+	<key id="11001151" />
+	<key id="11001152" />
+	<key id="11001153" />
+	<key id="11001154" />
+	<key id="11001155" />
+	<key id="11001156" />
+	<key id="11001157" />
+	<key id="11001158" />
+	<key id="11001159" />
+	<key id="11001160" />
+	<key id="11001161" />
+	<key id="11001162" />
+	<key id="11001163" />
+	<key id="11001164" />
+	<key id="11001165" />
+	<key id="11001166" />
+	<key id="11001167" />
+	<key id="11001168" />
+	<key id="11001169" />
+	<key id="11001170" />
+	<key id="11001171" />
+	<key id="11001172" />
+	<key id="11001173" />
+	<key id="11001174" />
+	<key id="11001175" />
+	<key id="11001176" name="수석 디자이너" feature="ContentsGuide01" />
+	<key id="11001176" name="首席设计师" />
+	<key id="11001177" name="자경단원" feature="Season1" />
+	<key id="11001177" name="警卫队员" />
+	<key id="11001178" name="농장주" feature="Season1" />
+	<key id="11001178" name="农场主" />
+	<key id="11001179" />
+	<key id="11001180" />
+	<key id="11001181" />
+	<key id="11001182" />
+	<key id="11001183" />
+	<key id="11001184" />
+	<key id="11001185" />
+	<key id="11001186" />
+	<key id="11001187" />
+	<key id="11001188" />
+	<key id="11001189" />
+	<key id="11001190" />
+	<key id="11001191" name="PD" feature="Season1" />
 	<key id="11001191" name="PD" />
-	<key id="11001192" name="막내 작가" />
-	<key id="11001193" name="조명 감독" />
-	<key id="11001194" name="촬영 스태프" />
-	<key id="11001195" name="스타일리스트" />
-	<key id="11001196" name="지원팀" />
-	<key id="11001210" name="탐구자" />
-	<key id="11001211" name="대장장이" />
-	<key id="11001214" name="촌장" />
-	<key id="11001230" name="단장 대리" />
-	<key id="11001234" name="척후병" />
-	<key id="11001238" name="마녀" />
-	<key id="11001248" name="단장 대리" />
-	<key id="11001249" name="척후병" />
-	<key id="11001261" name="유물 복원가" />
-	<key id="11001262" name="정보 중개인" />
-	<key id="11001266" name="테룬칼리브" />
-	<key id="11001268" name="테룬칼리브" />
-	<key id="11001275" name="조수" />
-	<key id="11001276" name="발명가" />
-	<key id="11001277" name="유물 복원가" />
-	<key id="11001278" name="추격대원" />
-	<key id="11001282" name="테룬칼리브" />
-	<key id="11001299" name="기사단장" />
-	<key id="11001300" name="기사단장" />
-	<key id="11001301" name="여제" />
-	<key id="11001302" name="여제" />
-	<key id="11001303" name="수호사제" />
-	<key id="11001304" name="대마법사" />
-	<key id="11001305" name="장로" />
-	<key id="11001308" name="골동품 수집상" />
-	<key id="11001309" name="경찰관" />
-	<key id="11001310" name="근위대원" />
-	<key id="11001311" name="근위대원" />
-	<key id="11001312" name="근위대원" />
-	<key id="11001314" name="모로파파 부족장" />
-	<key id="11001315" name="모로파파 부족" />
-	<key id="11001316" name="신녀" />
-	<key id="11001317" name="신녀" />
-	<key id="11001324" name="닥터" />
-	<key id="11001341" name="킬코스 직원" />
-	<key id="11001342" name="W.H.A 직원" />
-	<key id="11001343" name="라이프 가드" />
-	<key id="11001344" name="교도관" />
-	<key id="11001345" name="교도소장" />
-	<key id="11001349" name="지배인" />
-	<key id="11001355" name="정찰대원" />
-	<key id="11001356" name="바니걸" />
-	<key id="11001370" name="모노레일 기장" />
-	<key id="11001374" name="수행 비서" />
-	<key id="11001375" name="판매원" />
-	<key id="11001376" name="촬영감독" />
-	<key id="11001377" name="매니저" />
-	<key id="11001378" name="격투 선수" />
-	<key id="11001379" name="보안 직원" />
-	<key id="11001381" name="위원장" />
-	<key id="11001382" name="흑성회 요원" />
-	<key id="11001386" name="마을 장로" />
-	<key id="11001387" name="마을 주민" />
-	<key id="11001388" name="마을 주민" />
-	<key id="11001389" name="마을 주민" />
-	<key id="11001390" name="마을 주민" />
-	<key id="11001391" name="환자" />
-	<key id="11001392" name="환자" />
-	<key id="11001393" name="사랑에 빠진 거지" />
-	<key id="11001396" name="천재 소녀" />
-	<key id="11001397" name="모로파파 부족" />
-	<key id="11001399" name="정찰대 24조 조장" />
-	<key id="11001400" name="인부" />
-	<key id="11001401" name="인부" />
-	<key id="11001406" name="수색반장" />
-	<key id="11001407" name="유령" />
-	<key id="11001408" name="정찰대장" />
-	<key id="11001409" name="훈련반장" />
-	<key id="11001410" name="비서" />
-	<key id="11001411" name="비서" />
-	<key id="11001412" name="환자" />
-	<key id="11001430" name="별에서 온" />
-	<key id="11001431" name="노을 여우" />
-	<key id="11001433" name="소년" />
-	<key id="11001434" name="고고학자" />
-	<key id="11001443" name="닥터" />
-	<key id="11001448" name="여제" />
-	<key id="11001458" name="흑성회 조직원" />
-	<key id="11001473" name="고고학자" />
-	<key id="11001474" name="고고학자" />
-	<key id="11001478" name="여제" />
-	<key id="11001483" name="겁쟁이" />
+	<key id="11001192" name="막내 작가" feature="Season1" />
+	<key id="11001192" name="老幺编剧" />
+	<key id="11001193" name="조명 감독" feature="Season1" />
+	<key id="11001193" name="灯光指导" />
+	<key id="11001194" name="촬영 스태프" feature="Season1" />
+	<key id="11001194" name="拍摄工作人员" />
+	<key id="11001195" name="스타일리스트" feature="Season1" />
+	<key id="11001195" name="造型师" />
+	<key id="11001196" name="지원팀" feature="Season1" />
+	<key id="11001196" name="后勤组" />
+	<key id="11001197" />
+	<key id="11001198" />
+	<key id="11001199" />
+	<key id="11001200" />
+	<key id="11001201" />
+	<key id="11001202" />
+	<key id="11001203" />
+	<key id="11001204" />
+	<key id="11001205" />
+	<key id="11001206" />
+	<key id="11001207" />
+	<key id="11001208" />
+	<key id="11001209" />
+	<key id="11001210" name="탐구자" feature="Balrogitem1st" />
+	<key id="11001210" name="探索者" />
+	<key id="11001211" name="대장장이" feature="Balrogitem1st" />
+	<key id="11001211" name="铁匠" />
+	<key id="11001212" />
+	<key id="11001213" />
+	<key id="11001214" name="촌장" feature="Season1" />
+	<key id="11001214" name="村长" />
+	<key id="11001215" />
+	<key id="11001216" />
+	<key id="11001217" />
+	<key id="11001218" />
+	<key id="11001219" />
+	<key id="11001220" />
+	<key id="11001221" />
+	<key id="11001222" />
+	<key id="11001223" />
+	<key id="11001224" />
+	<key id="11001225" />
+	<key id="11001226" />
+	<key id="11001227" />
+	<key id="11001228" />
+	<key id="11001229" />
+	<key id="11001230" name="단장 대리" feature="RuneBlader" />
+	<key id="11001230" name="代理团长" />
+	<key id="11001231" />
+	<key id="11001232" />
+	<key id="11001233" />
+	<key id="11001234" name="척후병" feature="RuneBlader" />
+	<key id="11001234" name="侦察兵" />
+	<key id="11001235" />
+	<key id="11001236" />
+	<key id="11001237" />
+	<key id="11001238" name="마녀" feature="KatvanDungeon" />
+	<key id="11001238" name="魔女" />
+	<key id="11001239" />
+	<key id="11001240" />
+	<key id="11001241" />
+	<key id="11001242" />
+	<key id="11001243" />
+	<key id="11001244" />
+	<key id="11001245" />
+	<key id="11001246" />
+	<key id="11001247" />
+	<key id="11001248" name="단장 대리" feature="RuneBlader" />
+	<key id="11001248" name="代理团长" />
+	<key id="11001249" name="척후병" feature="RuneBlader" />
+	<key id="11001249" name="侦察兵" />
+	<key id="11001250" />
+	<key id="11001251" />
+	<key id="11001252" />
+	<key id="11001253" />
+	<key id="11001254" />
+	<key id="11001255" />
+	<key id="11001256" />
+	<key id="11001257" />
+	<key id="11001258" />
+	<key id="11001259" />
+	<key id="11001260" />
+	<key id="11001261" name="유물 복원가" feature="RuneBlader" />
+	<key id="11001261" name="遗物复原家" />
+	<key id="11001262" name="정보 중개인" feature="Quest2017" />
+	<key id="11001262" name="信息中介" />
+	<key id="11001263" />
+	<key id="11001264" />
+	<key id="11001265" />
+	<key id="11001266" name="테룬칼리브" feature="RuneBlader" />
+	<key id="11001266" name="影刃会" />
+	<key id="11001267" />
+	<key id="11001268" name="테룬칼리브" feature="RuneBlader" />
+	<key id="11001268" name="影刃会" />
+	<key id="11001269" />
+	<key id="11001270" />
+	<key id="11001271" />
+	<key id="11001272" />
+	<key id="11001273" />
+	<key id="11001274" />
+	<key id="11001275" name="조수" feature="KarkarIsland" />
+	<key id="11001275" name="助手" />
+	<key id="11001276" name="발명가" feature="KarkarIsland" />
+	<key id="11001276" name="发明家" />
+	<key id="11001277" name="유물 복원가" feature="RuneBlader" />
+	<key id="11001277" name="遗物复原家" />
+	<key id="11001278" name="추격대원" feature="RuneBlader" />
+	<key id="11001278" name="追击队员" />
+	<key id="11001279" />
+	<key id="11001280" />
+	<key id="11001281" />
+	<key id="11001282" name="테룬칼리브" feature="RuneBlader" />
+	<key id="11001282" name="影刃会" />
+	<key id="11001283" />
+	<key id="11001284" />
+	<key id="11001285" />
+	<key id="11001286" />
+	<key id="11001287" />
+	<key id="11001288" />
+	<key id="11001289" />
+	<key id="11001290" />
+	<key id="11001291" />
+	<key id="11001292" />
+	<key id="11001293" />
+	<key id="11001294" />
+	<key id="11001295" />
+	<key id="11001296" />
+	<key id="11001297" />
+	<key id="11001298" />
+	<key id="11001299" name="기사단장" feature="KarkarIsland" />
+	<key id="11001299" name="骑士团团长" />
+	<key id="11001300" name="기사단장" feature="KarkarIsland" />
+	<key id="11001300" name="骑士团团长" />
+	<key id="11001301" name="여제" feature="KarkarIsland" />
+	<key id="11001301" name="女王" />
+	<key id="11001302" name="여제" feature="KarkarIsland" />
+	<key id="11001302" name="女王" />
+	<key id="11001303" name="수호사제" feature="KarkarIsland" />
+	<key id="11001303" name="守护祭司" />
+	<key id="11001304" name="대마법사" feature="KarkarIsland" />
+	<key id="11001304" name="大魔法师" />
+	<key id="11001305" name="장로" feature="KarkarIsland" />
+	<key id="11001305" name="长老" />
+	<key id="11001306" />
+	<key id="11001307" />
+	<key id="11001308" name="골동품 수집상" feature="KarkarIsland" />
+	<key id="11001308" name="古董收集商" />
+	<key id="11001309" name="경찰관" feature="KarkarIsland" />
+	<key id="11001309" name="警察" />
+	<key id="11001310" name="근위대원" feature="KarkarIsland" />
+	<key id="11001310" name="近卫队员" />
+	<key id="11001311" name="근위대원" feature="KarkarIsland" />
+	<key id="11001311" name="近卫队员" />
+	<key id="11001312" name="근위대원" feature="KarkarIsland" />
+	<key id="11001312" name="近卫队员" />
+	<key id="11001313" />
+	<key id="11001314" name="모로파파 부족장" feature="KarkarIsland" />
+	<key id="11001314" name="萌茸茸部族族长" />
+	<key id="11001315" name="모로파파 부족" feature="KarkarIsland" />
+	<key id="11001315" name="萌茸茸部族" />
+	<key id="11001316" name="신녀" feature="KarkarIsland" />
+	<key id="11001316" name="神女" />
+	<key id="11001317" name="신녀" feature="KarkarIsland" />
+	<key id="11001317" name="神女" />
+	<key id="11001318" />
+	<key id="11001319" />
+	<key id="11001320" />
+	<key id="11001321" />
+	<key id="11001322" />
+	<key id="11001323" />
+	<key id="11001324" name="닥터" feature="KarkarIsland" />
+	<key id="11001324" name="医生" />
+	<key id="11001325" />
+	<key id="11001326" />
+	<key id="11001327" />
+	<key id="11001328" />
+	<key id="11001329" />
+	<key id="11001330" />
+	<key id="11001331" />
+	<key id="11001332" />
+	<key id="11001333" />
+	<key id="11001334" />
+	<key id="11001335" />
+	<key id="11001336" />
+	<key id="11001337" />
+	<key id="11001338" />
+	<key id="11001339" />
+	<key id="11001340" />
+	<key id="11001341" name="킬코스 직원" feature="KarkarIsland" />
+	<key id="11001341" name="齐尔克斯职员" />
+	<key id="11001342" name="W.H.A 직원" feature="KarkarIsland" />
+	<key id="11001342" name="W.H.A员工" />
+	<key id="11001343" name="라이프 가드" feature="KarkarIsland" />
+	<key id="11001343" name="护卫" />
+	<key id="11001344" name="교도관" feature="KarkarIsland" />
+	<key id="11001344" name="管教员" />
+	<key id="11001345" name="교도소장" feature="KarkarIsland" />
+	<key id="11001345" name="管教所所长" />
+	<key id="11001346" />
+	<key id="11001347" />
+	<key id="11001348" />
+	<key id="11001349" name="지배인" feature="KarkarIsland" />
+	<key id="11001349" name="经理" />
+	<key id="11001350" />
+	<key id="11001351" />
+	<key id="11001352" />
+	<key id="11001353" />
+	<key id="11001354" />
+	<key id="11001355" name="정찰대원" feature="KarkarIsland" />
+	<key id="11001355" name="侦查队员" />
+	<key id="11001356" name="바니걸" feature="KarkarIsland" />
+	<key id="11001356" name="兔女郎" />
+	<key id="11001357" />
+	<key id="11001358" />
+	<key id="11001359" />
+	<key id="11001360" />
+	<key id="11001361" />
+	<key id="11001362" />
+	<key id="11001363" />
+	<key id="11001364" />
+	<key id="11001365" />
+	<key id="11001366" />
+	<key id="11001367" />
+	<key id="11001368" />
+	<key id="11001369" />
+	<key id="11001370" name="모노레일 기장" feature="KarkarIsland" />
+	<key id="11001370" name="单轨车机长" />
+	<key id="11001371" />
+	<key id="11001372" />
+	<key id="11001373" />
+	<key id="11001374" name="수행 비서" feature="KarkarIsland" />
+	<key id="11001374" name="执行秘书" />
+	<key id="11001375" name="판매원" feature="KarkarIsland" />
+	<key id="11001375" name="售货员" />
+	<key id="11001376" name="촬영감독" feature="KarkarIsland" />
+	<key id="11001376" name="拍摄导演" />
+	<key id="11001377" name="매니저" feature="KarkarIsland" />
+	<key id="11001377" name="经纪人" />
+	<key id="11001378" name="격투 선수" feature="KarkarIsland" />
+	<key id="11001378" name="格斗选手" />
+	<key id="11001379" name="보안 직원" feature="KarkarIsland" />
+	<key id="11001379" name="保安职员" />
+	<key id="11001380" />
+	<key id="11001381" name="위원장" feature="KarkarIsland" />
+	<key id="11001381" name="委员长" />
+	<key id="11001382" name="흑성회 요원" feature="KarkarIsland" />
+	<key id="11001382" name="黑星会要员" />
+	<key id="11001383" />
+	<key id="11001384" />
+	<key id="11001385" />
+	<key id="11001386" name="마을 장로" feature="KarkarIsland" />
+	<key id="11001386" name="村庄长老" />
+	<key id="11001387" name="마을 주민" feature="KarkarIsland" />
+	<key id="11001387" name="村民" />
+	<key id="11001388" name="마을 주민" feature="KarkarIsland" />
+	<key id="11001388" name="村民" />
+	<key id="11001389" name="마을 주민" feature="KarkarIsland" />
+	<key id="11001389" name="村民" />
+	<key id="11001390" name="마을 주민" feature="KarkarIsland" />
+	<key id="11001390" name="村民" />
+	<key id="11001391" name="환자" feature="KarkarIsland" />
+	<key id="11001391" name="患者" />
+	<key id="11001392" name="환자" feature="KarkarIsland" />
+	<key id="11001392" name="患者" />
+	<key id="11001393" name="사랑에 빠진 거지" feature="KarkarIsland" />
+	<key id="11001393" name="坠入爱河的乞丐" />
+	<key id="11001394" />
+	<key id="11001395" />
+	<key id="11001396" name="천재 소녀" feature="KarkarIsland" />
+	<key id="11001396" name="天才少女" />
+	<key id="11001397" name="모로파파 부족" feature="KarkarIsland" />
+	<key id="11001397" name="萌茸茸部族" />
+	<key id="11001398" />
+	<key id="11001399" name="정찰대 24조 조장" feature="KarkarIsland" />
+	<key id="11001399" name="侦查队24组族长" />
+	<key id="11001400" name="인부" feature="KarkarIsland" />
+	<key id="11001400" name="工人" />
+	<key id="11001401" name="인부" feature="KarkarIsland" />
+	<key id="11001401" name="工人" />
+	<key id="11001402" />
+	<key id="11001403" />
+	<key id="11001404" />
+	<key id="11001405" />
+	<key id="11001406" name="수색반장" feature="KarkarIsland" />
+	<key id="11001406" name="搜索队队长" />
+	<key id="11001407" name="유령" feature="KarkarIsland" />
+	<key id="11001407" name="幽灵" />
+	<key id="11001408" name="정찰대장" feature="KarkarIsland" />
+	<key id="11001408" name="侦查队长" />
+	<key id="11001409" name="훈련반장" feature="KarkarIsland" />
+	<key id="11001409" name="训练队队长" />
+	<key id="11001410" name="비서" feature="KarkarIsland" />
+	<key id="11001410" name="秘书" />
+	<key id="11001411" name="비서" feature="KarkarIsland" />
+	<key id="11001411" name="秘书" />
+	<key id="11001412" name="환자" feature="KarkarIsland" />
+	<key id="11001412" name="患者" />
+	<key id="11001413" />
+	<key id="11001414" />
+	<key id="11001415" />
+	<key id="11001416" />
+	<key id="11001417" />
+	<key id="11001418" />
+	<key id="11001419" />
+	<key id="11001420" />
+	<key id="11001421" />
+	<key id="11001422" />
+	<key id="11001423" />
+	<key id="11001424" />
+	<key id="11001425" />
+	<key id="11001426" />
+	<key id="11001427" />
+	<key id="11001428" />
+	<key id="11001429" />
+	<key id="11001430" name="별에서 온" feature="KarkarIsland" />
+	<key id="11001430" name="来自星星的" />
+	<key id="11001431" name="노을 여우" feature="KarkarIsland" />
+	<key id="11001431" name="黄昏狐" />
+	<key id="11001432" />
+	<key id="11001433" name="소년" feature="KarkarIsland" />
+	<key id="11001433" name="少年" />
+	<key id="11001434" name="고고학자" feature="KarkarIsland" />
+	<key id="11001434" name="考古学家" />
+	<key id="11001435" />
+	<key id="11001436" />
+	<key id="11001437" />
+	<key id="11001438" />
+	<key id="11001439" />
+	<key id="11001440" />
+	<key id="11001441" />
+	<key id="11001442" />
+	<key id="11001443" name="닥터" feature="KarkarIsland" />
+	<key id="11001443" name="医生" />
+	<key id="11001444" />
+	<key id="11001445" />
+	<key id="11001446" />
+	<key id="11001447" />
+	<key id="11001448" name="여제" feature="KarkarIsland" />
+	<key id="11001448" name="女王" />
+	<key id="11001449" />
+	<key id="11001450" />
+	<key id="11001451" />
+	<key id="11001452" />
+	<key id="11001453" />
+	<key id="11001454" />
+	<key id="11001455" />
+	<key id="11001456" />
+	<key id="11001457" />
+	<key id="11001458" name="흑성회 조직원" feature="KarkarIsland" />
+	<key id="11001458" name="黑星会成员" />
+	<key id="11001459" />
+	<key id="11001460" />
+	<key id="11001461" />
+	<key id="11001462" />
+	<key id="11001463" />
+	<key id="11001464" />
+	<key id="11001465" />
+	<key id="11001466" />
+	<key id="11001467" />
+	<key id="11001468" />
+	<key id="11001469" />
+	<key id="11001470" />
+	<key id="11001471" />
+	<key id="11001472" />
+	<key id="11001473" name="고고학자" feature="KarkarIsland" />
+	<key id="11001473" name="考古学家" />
+	<key id="11001474" name="고고학자" feature="KarkarIsland" />
+	<key id="11001474" name="考古学家" />
+	<key id="11001475" />
+	<key id="11001476" />
+	<key id="11001477" />
+	<key id="11001478" name="여제" feature="KarkarIsland" />
+	<key id="11001478" name="女王" />
+	<key id="11001479" />
+	<key id="11001480" />
+	<key id="11001481" />
+	<key id="11001482" />
+	<key id="11001483" name="겁쟁이" feature="KarkarIsland" />
+	<key id="11001483" name="胆小鬼" />
 	<key id="11001484" name="이벤트 도우미" />
-	<key id="11001485" name="주술사" />
-	<key id="11001490" name="여제" />
-	<key id="11001502" name="먹보" />
-	<key id="11001520" name="별빛 원정대" />
-	<key id="11001521" name="별빛 원정대" />
-	<key id="11001522" name="별빛 원정대" />
-	<key id="11001547" name="투신" />
-	<key id="11001556" name="마스터" />
-	<key id="11001557" name="대제자" />
-	<key id="11001619" name="사무장" />
-	<key id="11001620" name="사무장" />
-	<key id="11001622" name="투신" />
-	<key id="11001625" name="투신" />
-	<key id="11001626" name="경기 진행자" />
-	<key id="11001628" name="사무장" />
-	<key id="11001630" name="투신" />
-	<key id="11001657" name="대제자" />
-	<key id="11001659" name="대제자" />
-	<key id="11001661" name="마스터" />
-	<key id="11001663" name="여제" />
-	<key id="11001665" name="왕실 총리" />
-	<key id="11001666" name="근위대장" />
-	<key id="11001668" name="주치의" />
-	<key id="11001669" name="바니걸" />
-	<key id="11001670" name="바니걸" />
-	<key id="11001671" name="대제자" />
-	<key id="11001672" name="대제자" />
-	<key id="11001690" name="사무장" />
-	<key id="11001696" name="바텐더" />
-	<key id="11001697" name="매니저" />
-	<key id="11001700" name="근위대원" />
-	<key id="11001715" name="대제자" />
-	<key id="11001716" name="대제자" />
-	<key id="11001717" name="대제자" />
-	<key id="11001718" name="대제자" />
-	<key id="11001719" name="대제자" />
-	<key id="11001720" name="대제자" />
-	<key id="11001721" name="대제자" />
-	<key id="11001722" name="대제자" />
-	<key id="11001742" name="대제자" />
-	<key id="11001762" name="대제자" />
-	<key id="11001763" name="대제자" />
-	<key id="11001771" name="대제자" />
-	<key id="11001772" name="대제자" />
-	<key id="11001773" name="대제자" />
-	<key id="11001774" name="대제자" />
-	<key id="11001790" name="대제자" />
-	<key id="11001791" name="대제자" />
-	<key id="11001792" name="대제자" />
-	<key id="11001806" name="대제자" />
+	<key id="11001485" name="주술사" feature="KarkarIsland" />
+	<key id="11001485" name="咒术师" />
+	<key id="11001486" />
+	<key id="11001487" />
+	<key id="11001488" />
+	<key id="11001489" />
+	<key id="11001490" name="여제" feature="KarkarIsland" />
+	<key id="11001490" name="女王" />
+	<key id="11001491" />
+	<key id="11001492" />
+	<key id="11001493" />
+	<key id="11001494" />
+	<key id="11001495" />
+	<key id="11001496" />
+	<key id="11001497" />
+	<key id="11001498" />
+	<key id="11001499" />
+	<key id="11001500" />
+	<key id="11001501" />
+	<key id="11001502" name="먹보" feature="KarkarIsland" />
+	<key id="11001502" name="贪吃鬼" />
+	<key id="11001503" />
+	<key id="11001504" />
+	<key id="11001505" />
+	<key id="11001506" />
+	<key id="11001507" />
+	<key id="11001508" />
+	<key id="11001509" />
+	<key id="11001510" />
+	<key id="11001511" />
+	<key id="11001512" />
+	<key id="11001515" />
+	<key id="11001516" />
+	<key id="11001517" />
+	<key id="11001518" />
+	<key id="11001519" />
+	<key id="11001520" name="별빛 원정대" feature="NutaNuta" />
+	<key id="11001520" name="星光远征队" />
+	<key id="11001521" name="별빛 원정대" feature="NutaNuta" />
+	<key id="11001521" name="星光远征队" />
+	<key id="11001522" name="별빛 원정대" feature="NutaNuta" />
+	<key id="11001522" name="星光远征队" />
+	<key id="11001523" />
+	<key id="11001524" />
+	<key id="11001525" />
+	<key id="11001526" />
+	<key id="11001527" />
+	<key id="11001528" />
+	<key id="11001529" />
+	<key id="11001530" />
+	<key id="11001531" />
+	<key id="11001532" />
+	<key id="11001533" />
+	<key id="11001534" />
+	<key id="11001535" />
+	<key id="11001536" />
+	<key id="11001537" />
+	<key id="11001538" />
+	<key id="11001539" />
+	<key id="11001540" />
+	<key id="11001541" />
+	<key id="11001542" />
+	<key id="11001543" />
+	<key id="11001544" />
+	<key id="11001545" />
+	<key id="11001546" />
+	<key id="11001547" name="투신" feature="Striker" />
+	<key id="11001547" name="斗神" />
+	<key id="11001548" />
+	<key id="11001549" />
+	<key id="11001550" />
+	<key id="11001551" />
+	<key id="11001552" />
+	<key id="11001553" />
+	<key id="11001554" />
+	<key id="11001555" />
+	<key id="11001556" name="마스터" feature="SoulBinder" />
+	<key id="11001556" name="大师" />
+	<key id="11001557" name="대제자" feature="SoulBinder" />
+	<key id="11001557" name="大弟子" />
+	<key id="11001558" />
+	<key id="11001559" />
+	<key id="11001560" />
+	<key id="11001561" />
+	<key id="11001562" />
+	<key id="11001563" />
+	<key id="11001564" />
+	<key id="11001565" />
+	<key id="11001566" />
+	<key id="11001567" />
+	<key id="11001568" />
+	<key id="11001569" />
+	<key id="11001570" />
+	<key id="11001571" />
+	<key id="11001572" />
+	<key id="11001573" />
+	<key id="11001574" />
+	<key id="11001575" />
+	<key id="11001576" />
+	<key id="11001577" />
+	<key id="11001578" />
+	<key id="11001579" />
+	<key id="11001580" />
+	<key id="11001581" />
+	<key id="11001582" />
+	<key id="11001583" />
+	<key id="11001584" />
+	<key id="11001585" />
+	<key id="11001586" />
+	<key id="11001587" />
+	<key id="11001588" />
+	<key id="11001589" />
+	<key id="11001590" />
+	<key id="11001591" />
+	<key id="11001592" />
+	<key id="11001593" />
+	<key id="11001594" />
+	<key id="11001595" />
+	<key id="11001596" />
+	<key id="11001597" />
+	<key id="11001598" />
+	<key id="11001599" />
+	<key id="11001600" />
+	<key id="11001601" />
+	<key id="11001602" />
+	<key id="11001603" />
+	<key id="11001604" />
+	<key id="11001605" />
+	<key id="11001606" />
+	<key id="11001607" />
+	<key id="11001608" />
+	<key id="11001609" />
+	<key id="11001610" />
+	<key id="11001611" />
+	<key id="11001612" />
+	<key id="11001613" />
+	<key id="11001614" />
+	<key id="11001615" />
+	<key id="11001616" />
+	<key id="11001617" />
+	<key id="11001618" />
+	<key id="11001619" name="사무장" feature="Striker" />
+	<key id="11001619" name="事务长" />
+	<key id="11001620" name="사무장" feature="Striker" />
+	<key id="11001620" name="事务长" />
+	<key id="11001621" />
+	<key id="11001622" name="투신" feature="Striker" />
+	<key id="11001622" name="斗神" />
+	<key id="11001623" />
+	<key id="11001624" />
+	<key id="11001625" name="투신" feature="Striker" />
+	<key id="11001625" name="斗神" />
+	<key id="11001626" name="경기 진행자" feature="Striker" />
+	<key id="11001626" name="比赛负责人" />
+	<key id="11001627" />
+	<key id="11001628" name="사무장" feature="Striker" />
+	<key id="11001628" name="事务长" />
+	<key id="11001629" />
+	<key id="11001630" name="투신" feature="Striker" />
+	<key id="11001630" name="斗神" />
+	<key id="11001631" />
+	<key id="11001632" />
+	<key id="11001633" />
+	<key id="11001634" />
+	<key id="11001635" />
+	<key id="11001636" />
+	<key id="11001637" />
+	<key id="11001638" />
+	<key id="11001639" />
+	<key id="11001640" />
+	<key id="11001641" />
+	<key id="11001642" />
+	<key id="11001643" />
+	<key id="11001644" />
+	<key id="11001645" />
+	<key id="11001646" />
+	<key id="11001647" />
+	<key id="11001648" />
+	<key id="11001649" />
+	<key id="11001650" />
+	<key id="11001651" />
+	<key id="11001652" />
+	<key id="11001653" />
+	<key id="11001654" />
+	<key id="11001655" />
+	<key id="11001656" />
+	<key id="11001657" name="대제자" feature="SoulBinder" />
+	<key id="11001657" name="大弟子" />
+	<key id="11001658" />
+	<key id="11001659" name="대제자" feature="SoulBinder" />
+	<key id="11001659" name="大弟子" />
+	<key id="11001660" />
+	<key id="11001661" name="마스터" feature="SoulBinder" />
+	<key id="11001661" name="大师" />
+	<key id="11001662" />
+	<key id="11001663" name="여제" feature="Season1" />
+	<key id="11001663" name="女王" />
+	<key id="11001664" />
+	<key id="11001665" name="왕실 총리" feature="Season1" />
+	<key id="11001665" name="王室总理" />
+	<key id="11001666" name="근위대장" feature="Season1" />
+	<key id="11001666" name="近卫队长" />
+	<key id="11001667" />
+	<key id="11001668" name="주치의" feature="UGCMapRenewal" />
+	<key id="11001668" name="主治医生" />
+	<key id="11001669" name="바니걸" feature="Season1" />
+	<key id="11001669" name="兔女郎" />
+	<key id="11001670" name="바니걸" feature="Season1" />
+	<key id="11001670" name="兔女郎" />
+	<key id="11001671" name="대제자" feature="SoulBinder" />
+	<key id="11001671" name="大弟子" />
+	<key id="11001672" name="대제자" feature="SoulBinder" />
+	<key id="11001672" name="大弟子" />
+	<key id="11001673" />
+	<key id="11001674" />
+	<key id="11001675" />
+	<key id="11001676" />
+	<key id="11001677" />
+	<key id="11001678" />
+	<key id="11001679" />
+	<key id="11001680" />
+	<key id="11001681" />
+	<key id="11001682" />
+	<key id="11001684" />
+	<key id="11001686" />
+	<key id="11001687" />
+	<key id="11001688" />
+	<key id="11001689" />
+	<key id="11001690" name="사무장" feature="Striker" />
+	<key id="11001690" name="事务长" />
+	<key id="11001691" />
+	<key id="11001692" />
+	<key id="11001693" />
+	<key id="11001694" />
+	<key id="11001695" />
+	<key id="11001696" name="调酒师" />
+	<key id="11001697" name="经纪人" />
+	<key id="11001698" />
+	<key id="11001699" />
+	<key id="11001700" name="근위대원" feature="ShadowExpedition" />
+	<key id="11001700" name="近卫队员" />
+	<key id="11001701" />
+	<key id="11001702" />
+	<key id="11001703" />
+	<key id="11001704" />
+	<key id="11001705" />
+	<key id="11001706" />
+	<key id="11001707" />
+	<key id="11001708" />
+	<key id="11001709" />
+	<key id="11001710" />
+	<key id="11001711" />
+	<key id="11001712" />
+	<key id="11001713" />
+	<key id="11001714" />
+	<key id="11001715" name="대제자" feature="SoulBinder" />
+	<key id="11001715" name="大弟子" />
+	<key id="11001716" name="대제자" feature="SoulBinder" />
+	<key id="11001716" name="大弟子" />
+	<key id="11001717" name="대제자" feature="SoulBinder" />
+	<key id="11001717" name="大弟子" />
+	<key id="11001718" name="대제자" feature="SoulBinder" />
+	<key id="11001718" name="大弟子" />
+	<key id="11001719" name="대제자" feature="SoulBinder" />
+	<key id="11001719" name="大弟子" />
+	<key id="11001720" name="대제자" feature="SoulBinder" />
+	<key id="11001720" name="大弟子" />
+	<key id="11001721" name="대제자" feature="SoulBinder" />
+	<key id="11001721" name="大弟子" />
+	<key id="11001722" name="대제자" feature="SoulBinder" />
+	<key id="11001722" name="大弟子" />
+	<key id="11001723" />
+	<key id="11001724" />
+	<key id="11001725" />
+	<key id="11001726" />
+	<key id="11001727" />
+	<key id="11001728" />
+	<key id="11001729" />
+	<key id="11001730" />
+	<key id="11001731" />
+	<key id="11001732" />
+	<key id="11001733" />
+	<key id="11001734" />
+	<key id="11001735" />
+	<key id="11001736" />
+	<key id="11001737" />
+	<key id="11001738" />
+	<key id="11001739" />
+	<key id="11001740" />
+	<key id="11001741" />
+	<key id="11001742" name="대제자" feature="SoulBinder" />
+	<key id="11001742" name="大弟子" />
+	<key id="11001743" />
+	<key id="11001744" />
+	<key id="11001745" />
+	<key id="11001746" />
+	<key id="11001747" />
+	<key id="11001748" />
+	<key id="11001749" />
+	<key id="11001750" />
+	<key id="11001751" />
+	<key id="11001752" />
+	<key id="11001753" />
+	<key id="11001754" />
+	<key id="11001755" />
+	<key id="11001756" />
+	<key id="11001757" />
+	<key id="11001758" />
+	<key id="11001759" />
+	<key id="11001760" />
+	<key id="11001761" />
+	<key id="11001762" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001762" name="大弟子" />
+	<key id="11001763" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001763" name="大弟子" />
+	<key id="11001764" />
+	<key id="11001765" />
+	<key id="11001766" />
+	<key id="11001767" />
+	<key id="11001768" />
+	<key id="11001769" />
+	<key id="11001770" />
+	<key id="11001771" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001771" name="大弟子" />
+	<key id="11001772" name="대제자" feature="ShrineOfGuidance" />
+	<key id="11001772" name="大弟子" />
+	<key id="11001773" name="대제자" feature="ShrineOfGuidance" />
+	<key id="11001773" name="大弟子" />
+	<key id="11001774" name="대제자" feature="ShrineOfGuidance" />
+	<key id="11001774" name="大弟子" />
+	<key id="11001775" />
+	<key id="11001776" />
+	<key id="11001777" />
+	<key id="11001778" />
+	<key id="11001779" />
+	<key id="11001780" />
+	<key id="11001781" />
+	<key id="11001782" />
+	<key id="11001783" />
+	<key id="11001784" />
+	<key id="11001785" />
+	<key id="11001786" />
+	<key id="11001787" />
+	<key id="11001788" />
+	<key id="11001789" />
+	<key id="11001790" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001790" name="大弟子" />
+	<key id="11001791" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001791" name="大弟子" />
+	<key id="11001792" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001792" name="大弟子" />
+	<key id="11001793" />
+	<key id="11001794" />
+	<key id="11001795" />
+	<key id="11001796" />
+	<key id="11001797" />
+	<key id="11001798" />
+	<key id="11001799" />
+	<key id="11001800" />
+	<key id="11001801" />
+	<key id="11001802" />
+	<key id="11001803" />
+	<key id="11001804" />
+	<key id="11001805" />
+	<key id="11001806" name="대제자" feature="DoubleImpactStory" />
+	<key id="11001806" name="大弟子" />
+	<key id="11001807" />
+	<key id="11001808" />
+	<key id="11001809" />
+	<key id="11001810" />
+	<key id="11001811" />
+	<key id="11001812" />
+	<key id="11001813" />
+	<key id="11001814" />
+	<key id="11001815" />
+	<key id="11001816" />
+	<key id="11001817" />
+	<key id="11001818" />
+	<key id="11001819" />
+	<key id="11001820" />
+	<key id="11001821" />
+	<key id="11001822" />
+	<key id="11001823" />
+	<key id="11001824" />
+	<key id="11001825" />
+	<key id="11001826" />
+	<key id="11001827" />
+	<key id="11001828" />
+	<key id="11001829" />
+	<key id="11001830" />
+	<key id="11001831" />
+	<key id="11001832" />
+	<key id="11001833" />
+	<key id="11001834" />
+	<key id="11001835" />
+	<key id="11001836" name="PD" feature="Season1" />
 	<key id="11001836" name="PD" />
-	<key id="11001838" name="수습 근위대원" />
-	<key id="11001839" name="수습 근위대원" />
-	<key id="11001840" name="수습 근위대원" />
-	<key id="11001841" name="수습 근위대원" />
-	<key id="11001842" name="근위병" />
-	<key id="11001843" name="부상병" />
-	<key id="11001861" name="낚시꾼" />
-	<key id="11001862" name="낚시꾼" />
-	<key id="11001863" name="낚시꾼" />
-	<key id="11001865" name="악기상" />
-	<key id="11001867" name="세공사" />
-	<key id="11001868" name="세공사" />
-	<key id="11001869" name="세공사" />
-	<key id="11001870" name="네르만 길드장" />
-	<key id="11001872" name="발명가" />
-	<key id="11001873" name="발명가" />
-	<key id="11001874" name="조수" />
-	<key id="11001876" name="수석 집사" />
-	<key id="11001877" name="농장주" />
-	<key id="11001878" name="불꽃남자" />
+	<key id="11001837" />
+	<key id="11001838" name="수습 근위대원" feature="Season1" />
+	<key id="11001838" name="实习近卫队员" />
+	<key id="11001839" name="수습 근위대원" feature="Season1" />
+	<key id="11001839" name="实习近卫队员" />
+	<key id="11001840" name="수습 근위대원" feature="Season1" />
+	<key id="11001840" name="实习近卫队员" />
+	<key id="11001841" name="수습 근위대원" feature="Season1" />
+	<key id="11001841" name="实习近卫队员" />
+	<key id="11001842" name="근위병" feature="Season1" />
+	<key id="11001842" name="近卫兵" />
+	<key id="11001843" name="부상병" feature="Season1" />
+	<key id="11001843" name="伤兵" />
+	<key id="11001844" />
+	<key id="11001845" />
+	<key id="11001846" />
+	<key id="11001847" />
+	<key id="11001848" />
+	<key id="11001849" />
+	<key id="11001850" />
+	<key id="11001851" />
+	<key id="11001852" />
+	<key id="11001853" />
+	<key id="11001854" />
+	<key id="11001855" />
+	<key id="11001856" />
+	<key id="11001857" />
+	<key id="11001858" />
+	<key id="11001859" />
+	<key id="11001860" />
+	<key id="11001861" name="낚시꾼" feature="ContentsGuide01" />
+	<key id="11001861" name="钓手" />
+	<key id="11001862" name="낚시꾼" feature="ContentsGuide01" />
+	<key id="11001862" name="钓手" />
+	<key id="11001863" name="낚시꾼" feature="ContentsGuide01" />
+	<key id="11001863" name="钓手" />
+	<key id="11001864" />
+	<key id="11001865" name="악기상" feature="ContentsGuide01" />
+	<key id="11001865" name="乐器商人" />
+	<key id="11001866" />
+	<key id="11001867" name="세공사" feature="ContentsGuide01" />
+	<key id="11001867" name="工匠" />
+	<key id="11001868" name="세공사" feature="ContentsGuide01" />
+	<key id="11001868" name="工匠" />
+	<key id="11001869" name="세공사" feature="ContentsGuide01" />
+	<key id="11001869" name="工匠" />
+	<key id="11001870" name="네르만 길드장" feature="ContentsGuide01" />
+	<key id="11001870" name="奈尔曼公会长" />
+	<key id="11001871" />
+	<key id="11001872" name="발명가" feature="ContentsGuide01" />
+	<key id="11001872" name="发明家" />
+	<key id="11001873" name="발명가" feature="ContentsGuide01" />
+	<key id="11001873" name="发明家" />
+	<key id="11001874" name="조수" feature="ContentsGuide01" />
+	<key id="11001874" name="助手" />
+	<key id="11001875" />
+	<key id="11001876" name="수석 집사" feature="ContentsGuide01" />
+	<key id="11001876" name="首席管家" />
+	<key id="11001877" name="농장주" feature="ContentsGuide01" />
+	<key id="11001877" name="农场主" />
+	<key id="11001878" name="불꽃남자" feature="Season1" />
+	<key id="11001878" name="烟花男子" />
+	<key id="11001879" />
+	<key id="11001880" />
+	<key id="11001881" />
+	<key id="11001882" />
+	<key id="11001883" />
+	<key id="11001884" />
+	<key id="11001885" />
+	<key id="11001886" />
+	<key id="11001887" />
+	<key id="11001888" name="PD" feature="Season1" />
 	<key id="11001888" name="PD" />
-	<key id="11001889" name="자경대장" />
-	<key id="11001901" name="기사단장" />
-	<key id="11001967" name="수습 근위대원" />
-	<key id="11002000" name="주치의" />
-	<key id="11002002" name="주치의" />
-	<key id="11002003" name="주치의" />
-	<key id="11002004" name="주치의" />
-	<key id="11002005" name="주치의" />
-	<key id="11002006" name="주치의" />
-	<key id="11002007" name="주치의" />
-	<key id="11002008" name="주치의" />
-	<key id="11002009" name="주치의" />
-	<key id="11002010" name="주치의" />
-	<key id="11002011" name="주치의" />
-	<key id="11002012" name="주치의" />
-	<key id="11002013" name="주치의" />
-	<key id="11002014" name="주치의" />
-	<key id="11002015" name="주치의" />
-	<key id="11002016" name="주치의" />
-	<key id="11002020" name="캐시마트 직원" />
-	<key id="11002035" name="캐시마트 직원" />
-	<key id="11002036" name="캐시마트 직원" />
-	<key id="11002037" name="캐시마트 직원" />
-	<key id="11002038" name="캐시마트 직원" />
-	<key id="11002040" name="주치의" />
-	<key id="11002041" name="주치의" />
-	<key id="11002042" name="주치의" />
-	<key id="11002043" name="주치의" />
-	<key id="11002044" name="주치의" />
-	<key id="11002045" name="주치의" />
-	<key id="11002046" name="주치의" />
-	<key id="11002047" name="주치의" />
-	<key id="11002048" name="주치의" />
-	<key id="11002049" name="주치의" />
-	<key id="11003054" name="기사단장" />
-	<key id="11003059" name="보급대원" />
-	<key id="11003063" name="약초꾼" />
-	<key id="11003069" name="눈의 여왕" />
-	<key id="11003074" name="눈의 여왕" />
-	<key id="11003075" name="서리왕" />
-	<key id="11003079" name="길드 사무장" />
-	<key id="11003080" name="탐험가" />
+	<key id="11001889" name="자경대장" feature="Season1" />
+	<key id="11001889" name="警卫队长" />
+	<key id="11001890" />
+	<key id="11001891" />
+	<key id="11001892" />
+	<key id="11001893" />
+	<key id="11001894" />
+	<key id="11001895" />
+	<key id="11001896" />
+	<key id="11001897" />
+	<key id="11001898" />
+	<key id="11001899" />
+	<key id="11001900" />
+	<key id="11001901" name="기사단장" feature="Season1" />
+	<key id="11001901" name="骑士团团长" />
+	<key id="11001902" />
+	<key id="11001903" />
+	<key id="11001904" />
+	<key id="11001905" />
+	<key id="11001906" />
+	<key id="11001907" />
+	<key id="11001908" />
+	<key id="11001909" />
+	<key id="11001910" />
+	<key id="11001911" />
+	<key id="11001912" />
+	<key id="11001913" />
+	<key id="11001914" />
+	<key id="11001915" />
+	<key id="11001916" />
+	<key id="11001917" />
+	<key id="11001918" />
+	<key id="11001919" />
+	<key id="11001920" />
+	<key id="11001921" />
+	<key id="11001922" />
+	<key id="11001923" />
+	<key id="11001924" />
+	<key id="11001925" />
+	<key id="11001926" />
+	<key id="11001927" />
+	<key id="11001928" />
+	<key id="11001929" />
+	<key id="11001930" />
+	<key id="11001931" />
+	<key id="11001932" />
+	<key id="11001933" />
+	<key id="11001934" />
+	<key id="11001935" />
+	<key id="11001936" />
+	<key id="11001937" />
+	<key id="11001938" />
+	<key id="11001939" />
+	<key id="11001940" />
+	<key id="11001941" />
+	<key id="11001942" />
+	<key id="11001943" />
+	<key id="11001944" />
+	<key id="11001945" />
+	<key id="11001946" />
+	<key id="11001947" />
+	<key id="11001948" />
+	<key id="11001949" />
+	<key id="11001950" />
+	<key id="11001951" />
+	<key id="11001952" />
+	<key id="11001953" />
+	<key id="11001954" />
+	<key id="11001955" />
+	<key id="11001956" />
+	<key id="11001957" />
+	<key id="11001958" />
+	<key id="11001959" />
+	<key id="11001960" />
+	<key id="11001961" />
+	<key id="11001962" />
+	<key id="11001963" />
+	<key id="11001964" />
+	<key id="11001965" />
+	<key id="11001966" />
+	<key id="11001967" name="수습 근위대원" feature="Season1" />
+	<key id="11001967" name="实习近卫队员" />
+	<key id="11001968" />
+	<key id="11001969" />
+	<key id="11001970" />
+	<key id="11001971" />
+	<key id="11001972" />
+	<key id="11001973" />
+	<key id="11001974" />
+	<key id="11001975" />
+	<key id="11001976" />
+	<key id="11001977" />
+	<key id="11001978" />
+	<key id="11001979" />
+	<key id="11001980" />
+	<key id="11001981" />
+	<key id="11001982" />
+	<key id="11001983" />
+	<key id="11001984" />
+	<key id="11001985" />
+	<key id="11001986" />
+	<key id="11001987" />
+	<key id="11001988" />
+	<key id="11001989" />
+	<key id="11001990" />
+	<key id="11001991" />
+	<key id="11001992" />
+	<key id="11001993" />
+	<key id="11001994" />
+	<key id="11001995" />
+	<key id="11001996" />
+	<key id="11001997" />
+	<key id="11001998" />
+	<key id="11001999" />
+	<key id="11002000" name="주치의" feature="Season1" />
+	<key id="11002000" name="主治医生" />
+	<key id="11002001" />
+	<key id="11002002" name="주치의" feature="Season1" />
+	<key id="11002002" name="主治医生" />
+	<key id="11002003" name="주치의" feature="Season1" />
+	<key id="11002003" name="主治医生" />
+	<key id="11002004" name="주치의" feature="Season1" />
+	<key id="11002004" name="主治医生" />
+	<key id="11002005" name="주치의" feature="Season1" />
+	<key id="11002005" name="主治医生" />
+	<key id="11002006" name="주치의" feature="Season1" />
+	<key id="11002006" name="主治医生" />
+	<key id="11002007" name="주치의" feature="Season1" />
+	<key id="11002007" name="主治医生" />
+	<key id="11002008" name="주치의" feature="Season1" />
+	<key id="11002008" name="主治医生" />
+	<key id="11002009" name="주치의" feature="Season1" />
+	<key id="11002009" name="主治医生" />
+	<key id="11002010" name="주치의" feature="Season1" />
+	<key id="11002010" name="主治医生" />
+	<key id="11002011" name="주치의" feature="Season1" />
+	<key id="11002011" name="主治医生" />
+	<key id="11002012" name="주치의" feature="Season1" />
+	<key id="11002012" name="主治医生" />
+	<key id="11002013" name="주치의" feature="Season1" />
+	<key id="11002013" name="主治医生" />
+	<key id="11002014" name="주치의" feature="Season1" />
+	<key id="11002014" name="主治医生" />
+	<key id="11002015" name="주치의" feature="Season1" />
+	<key id="11002015" name="主治医生" />
+	<key id="11002016" name="주치의" feature="Season1" />
+	<key id="11002016" name="主治医生" />
+	<key id="11002017" />
+	<key id="11002018" />
+	<key id="11002019" />
+	<key id="11002020" name="캐시마트 직원" feature="Season1" />
+	<key id="11002020" name="便利店职员" />
+	<key id="11002021" />
+	<key id="11002022" />
+	<key id="11002023" />
+	<key id="11002024" />
+	<key id="11002025" />
+	<key id="11002026" />
+	<key id="11002027" />
+	<key id="11002028" />
+	<key id="11002029" />
+	<key id="11002030" />
+	<key id="11002031" />
+	<key id="11002032" />
+	<key id="11002033" />
+	<key id="11002034" />
+	<key id="11002035" name="캐시마트 직원" feature="Season1" />
+	<key id="11002035" name="便利店职员" />
+	<key id="11002036" name="캐시마트 직원" feature="Season1" />
+	<key id="11002036" name="便利店职员" />
+	<key id="11002037" name="캐시마트 직원" feature="Season1" />
+	<key id="11002037" name="便利店职员" />
+	<key id="11002038" name="캐시마트 직원" feature="Season1" />
+	<key id="11002038" name="便利店职员" />
+	<key id="11002039" />
+	<key id="11002040" name="주치의" feature="KarkarIsland" />
+	<key id="11002040" name="主治医生" />
+	<key id="11002041" name="주치의" feature="KarkarIsland" />
+	<key id="11002041" name="主治医生" />
+	<key id="11002042" name="주치의" feature="KarkarIsland" />
+	<key id="11002042" name="主治医生" />
+	<key id="11002043" name="주치의" feature="KarkarIsland" />
+	<key id="11002043" name="主治医生" />
+	<key id="11002044" name="주치의" feature="KarkarIsland" />
+	<key id="11002044" name="主治医生" />
+	<key id="11002045" name="주치의" feature="KarkarIsland" />
+	<key id="11002045" name="主治医生" />
+	<key id="11002046" name="주치의" feature="KarkarIsland" />
+	<key id="11002046" name="主治医生" />
+	<key id="11002047" name="주치의" feature="KarkarIsland" />
+	<key id="11002047" name="主治医生" />
+	<key id="11002048" name="주치의" feature="KarkarIsland" />
+	<key id="11002048" name="主治医生" />
+	<key id="11002049" name="주치의" feature="KarkarIsland" />
+	<key id="11002049" name="主治医生" />
+	<key id="11002050" />
+	<key id="11002051" />
+	<key id="11002052" />
+	<key id="11002053" />
+	<key id="11002054" />
+	<key id="11002055" />
+	<key id="11002056" />
+	<key id="11002057" />
+	<key id="11002058" />
+	<key id="11002059" />
+	<key id="11002060" />
+	<key id="11002061" />
+	<key id="11002062" />
+	<key id="11002063" />
+	<key id="11002064" />
+	<key id="11003001" />
+	<key id="11003002" />
+	<key id="11003003" />
+	<key id="11003004" />
+	<key id="11003005" />
+	<key id="11003006" />
+	<key id="11003007" />
+	<key id="11003008" />
+	<key id="11003009" />
+	<key id="11003010" />
+	<key id="11003011" />
+	<key id="11003012" />
+	<key id="11003013" />
+	<key id="11003014" />
+	<key id="11003015" />
+	<key id="11003016" />
+	<key id="11003017" />
+	<key id="11003018" />
+	<key id="11003019" />
+	<key id="11003020" />
+	<key id="11003021" />
+	<key id="11003022" />
+	<key id="11003023" />
+	<key id="11003024" />
+	<key id="11003025" />
+	<key id="11003026" />
+	<key id="11003027" />
+	<key id="11003028" />
+	<key id="11003029" />
+	<key id="11003030" />
+	<key id="11003031" />
+	<key id="11003032" />
+	<key id="11003033" />
+	<key id="11003034" />
+	<key id="11003035" />
+	<key id="11003036" />
+	<key id="11003037" />
+	<key id="11003038" />
+	<key id="11003039" />
+	<key id="11003040" />
+	<key id="11003041" />
+	<key id="11003042" />
+	<key id="11003043" />
+	<key id="11003044" />
+	<key id="11003045" />
+	<key id="11003046" />
+	<key id="11003047" />
+	<key id="11003048" />
+	<key id="11003049" />
+	<key id="11003050" />
+	<key id="11003051" />
+	<key id="11003052" />
+	<key id="11003053" />
+	<key id="11003054" name="기사단장" feature="SnowKingdom" />
+	<key id="11003054" name="骑士团团长" />
+	<key id="11003055" />
+	<key id="11003056" />
+	<key id="11003057" />
+	<key id="11003058" />
+	<key id="11003059" name="보급대원" feature="SnowKingdom" />
+	<key id="11003059" name="补给队员" />
+	<key id="11003060" />
+	<key id="11003061" />
+	<key id="11003062" />
+	<key id="11003063" name="약초꾼" feature="SnowKingdom" />
+	<key id="11003063" name="采药人" />
+	<key id="11003064" />
+	<key id="11003065" />
+	<key id="11003066" />
+	<key id="11003067" />
+	<key id="11003068" />
+	<key id="11003069" name="눈의 여왕" feature="SnowKingdom" />
+	<key id="11003069" name="雪之女王" />
+	<key id="11003070" />
+	<key id="11003071" />
+	<key id="11003072" />
+	<key id="11003073" />
+	<key id="11003074" name="눈의 여왕" feature="SnowKingdom" />
+	<key id="11003074" name="雪之女王" />
+	<key id="11003075" name="서리왕" feature="SnowKingdom" />
+	<key id="11003075" name="霜王" />
+	<key id="11003076" />
+	<key id="11003077" />
+	<key id="11003078" />
+	<key id="11003079" name="길드 사무장" feature="ContentsGuide01" />
+	<key id="11003079" name="公会事务长" />
+	<key id="11003080" name="탐험가" feature="PirateOcean" />
+	<key id="11003080" name="探险家" />
+	<key id="11003081" />
+	<key id="11003082" />
+	<key id="11003083" />
+	<key id="11003084" />
+	<key id="11003085" />
+	<key id="11003086" />
+	<key id="11003087" />
+	<key id="11003088" />
+	<key id="11003089" />
+	<key id="11003090" />
+	<key id="11003091" />
 	<key id="11003092" name="연주 신청 도우미" />
-	<key id="11003093" name="기사단장" />
-	<key id="11003094" name="다크윈드 대장" />
-	<key id="11003095" name="자경대장" />
-	<key id="11003096" name="기사단장" />
-	<key id="11003121" name="근위대장" />
-	<key id="11003122" name="자경대장" />
-	<key id="11003126" name="놀이섬 도우미" />
-	<key id="11003127" name="비밀기사단" />
-	<key id="11003139" name="이벤트 도우미" />
-	<key id="11003142" name="별에서 온" />
-	<key id="11003143" name="연금술사" />
+	<key id="11003093" name="기사단장" feature="DarkCastle" />
+	<key id="11003093" name="骑士团团长" />
+	<key id="11003094" name="다크윈드 대장" feature="DarkCastle" />
+	<key id="11003094" name="黑风队长" />
+	<key id="11003095" name="자경대장" feature="DarkCastle" />
+	<key id="11003095" name="警卫队长" />
+	<key id="11003096" name="기사단장" feature="DarkCastle" />
+	<key id="11003096" name="骑士团团长" />
+	<key id="11003097" />
+	<key id="11003098" />
+	<key id="11003099" />
+	<key id="11003100" />
+	<key id="11003101" />
+	<key id="11003102" />
+	<key id="11003103" />
+	<key id="11003104" />
+	<key id="11003105" />
+	<key id="11003106" />
+	<key id="11003107" />
+	<key id="11003108" />
+	<key id="11003109" />
+	<key id="11003110" />
+	<key id="11003111" />
+	<key id="11003112" />
+	<key id="11003113" />
+	<key id="11003114" />
+	<key id="11003115" />
+	<key id="11003116" />
+	<key id="11003117" />
+	<key id="11003118" />
+	<key id="11003119" />
+	<key id="11003120" />
+	<key id="11003121" name="근위대장" feature="DarkCastle" />
+	<key id="11003121" name="近卫队长" />
+	<key id="11003122" name="자경대장" feature="DarkCastle" />
+	<key id="11003122" name="警卫队长" />
+	<key id="11003123" />
+	<key id="11003124" />
+	<key id="11003125" />
+	<key id="11003126" name="游乐园帮手" />
+	<key id="11003127" name="비밀기사단" feature="DarkCastle" />
+	<key id="11003127" name="秘密骑士团" />
+	<key id="11003128" />
+	<key id="11003129" />
+	<key id="11003130" />
+	<key id="11003131" />
+	<key id="11003132" />
+	<key id="11003133" />
+	<key id="11003134" />
+	<key id="11003135" />
+	<key id="11003136" />
+	<key id="11003137" />
+	<key id="11003138" />
+	<key id="11003139" name="活动向导" />
+	<key id="11003140" />
+	<key id="11003141" />
+	<key id="11003142" name="별에서 온" feature="ContentsGuide02" />
+	<key id="11003142" name="来自星星的" />
+	<key id="11003143" name="연금술사" feature="ContentsGuide02" />
+	<key id="11003143" name="炼金术士" />
+	<key id="11003144" />
+	<key id="11003145" />
+	<key id="11003146" />
+	<key id="11003147" />
+	<key id="11003148" />
+	<key id="11003149" />
 	<key id="11003150" name="도서관장" />
-	<key id="11003151" name="근위대장" />
-	<key id="11003163" name="왕실 관리인" />
-	<key id="11003164" name="수습 근위대원" />
-	<key id="11003165" name="근위대장" />
-	<key id="11003166" name="수습 근위대원" />
-	<key id="11003169" name="수습 근위대원" />
-	<key id="11003170" name="수습 근위대원" />
-	<key id="11003172" name="수습 근위대원" />
-	<key id="11003173" name="다크윈드 사령관" />
-	<key id="11003178" name="수습 근위대원" />
-	<key id="11003186" name="수습 근위대원" />
-	<key id="11003187" name="브로커" />
-	<key id="11003188" name="수습 근위대원" />
-	<key id="11003193" name="정보 중개인" />
-	<key id="11003194" name="브로커" />
-	<key id="11003195" name="다크윈드 대장" />
-	<key id="11003196" name="다크윈드 대장" />
-	<key id="11003198" name="수습 근위대원" />
-	<key id="11003199" name="수습 근위대원" />
-	<key id="11003200" name="다크윈드 대장" />
-	<key id="11003201" name="다크윈드 대장" />
-	<key id="11003202" name="수습 근위대원" />
-	<key id="11003203" name="수습 근위대원" />
-	<key id="11003218" name="수습 근위대원" />
-	<key id="11003220" name="수습 근위대원" />
-	<key id="11003221" name="장로" />
-	<key id="11003222" name="자경대장" />
-	<key id="11003238" name="자경대장" />
-	<key id="11003239" name="장로" />
-	<key id="11003241" name="브로커" />
-	<key id="11003243" name="자경단원" />
-	<key id="11003245" name="자경대장" />
-	<key id="11003246" name="근위대장" />
-	<key id="11003247" name="수습 근위대원" />
-	<key id="11003250" name="대마법사" />
-	<key id="11003264" name="도서관장" />
-	<key id="11003266" name="근위대원" />
-	<key id="11003267" name="기사단장" />
-	<key id="11003268" name="연금술사" />
-	<key id="11003269" name="소대장" />
-	<key id="11003270" name="다크윈드 지휘관" />
-	<key id="11003274" name="교도소장" />
-	<key id="11003281" name="대마법사" />
-	<key id="11003283" name="대마법사" />
-	<key id="11003284" name="대마법사" />
-	<key id="11003306" name="대마법사" />
-	<key id="11003307" name="장로" />
-	<key id="11003308" name="장로" />
-	<key id="11003309" name="자경대장" />
-	<key id="11003314" name="대마법사" />
-	<key id="11003319" name="자경대장" />
-	<key id="11003320" name="기사" />
-	<key id="11003328" name="기사단장" />
-	<key id="11003330" name="수호사제" />
-	<key id="11003331" name="수호사제" />
+	<key id="11003151" name="근위대장" feature="Quest2017" />
+	<key id="11003151" name="近卫队长" />
+	<key id="11003152" />
+	<key id="11003153" />
+	<key id="11003154" />
+	<key id="11003155" />
+	<key id="11003156" />
+	<key id="11003157" />
+	<key id="11003158" />
+	<key id="11003159" />
+	<key id="11003160" />
+	<key id="11003161" />
+	<key id="11003162" />
+	<key id="11003163" name="왕실 관리인" feature="Quest2017" />
+	<key id="11003163" name="王室管理员" />
+	<key id="11003164" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003164" name="实习近卫队员" />
+	<key id="11003165" name="근위대장" feature="Quest2017" />
+	<key id="11003165" name="近卫队长" />
+	<key id="11003166" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003166" name="实习近卫队员" />
+	<key id="11003167" />
+	<key id="11003168" />
+	<key id="11003169" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003169" name="实习近卫队员" />
+	<key id="11003170" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003170" name="实习近卫队员" />
+	<key id="11003171" />
+	<key id="11003172" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003172" name="实习近卫队员" />
+	<key id="11003173" name="다크윈드 사령관" feature="Quest2017" />
+	<key id="11003173" name="黑风司令官" />
+	<key id="11003174" />
+	<key id="11003175" />
+	<key id="11003176" />
+	<key id="11003177" />
+	<key id="11003178" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003178" name="实习近卫队员" />
+	<key id="11003179" />
+	<key id="11003180" />
+	<key id="11003181" />
+	<key id="11003182" />
+	<key id="11003183" />
+	<key id="11003184" />
+	<key id="11003185" />
+	<key id="11003186" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003186" name="实习近卫队员" />
+	<key id="11003187" name="브로커" feature="Quest2017" />
+	<key id="11003187" name="掮客" />
+	<key id="11003188" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003188" name="实习近卫队员" />
+	<key id="11003189" />
+	<key id="11003190" />
+	<key id="11003191" />
+	<key id="11003192" />
+	<key id="11003193" name="정보 중개인" feature="Quest2017" />
+	<key id="11003193" name="信息中介" />
+	<key id="11003194" name="브로커" feature="Quest2017" />
+	<key id="11003194" name="掮客" />
+	<key id="11003195" name="다크윈드 대장" feature="Quest2017" />
+	<key id="11003195" name="黑风队长" />
+	<key id="11003196" name="다크윈드 대장" feature="Quest2017" />
+	<key id="11003196" name="黑风队长" />
+	<key id="11003197" />
+	<key id="11003198" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003198" name="实习近卫队员" />
+	<key id="11003199" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003199" name="实习近卫队员" />
+	<key id="11003200" name="다크윈드 대장" feature="Quest2017" />
+	<key id="11003200" name="黑风队长" />
+	<key id="11003201" name="다크윈드 대장" feature="Quest2017" />
+	<key id="11003201" name="黑风队长" />
+	<key id="11003202" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003202" name="实习近卫队员" />
+	<key id="11003203" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003203" name="实习近卫队员" />
+	<key id="11003204" />
+	<key id="11003205" />
+	<key id="11003206" />
+	<key id="11003207" />
+	<key id="11003208" />
+	<key id="11003209" />
+	<key id="11003210" />
+	<key id="11003211" />
+	<key id="11003212" />
+	<key id="11003213" />
+	<key id="11003214" />
+	<key id="11003215" />
+	<key id="11003216" />
+	<key id="11003217" />
+	<key id="11003218" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003218" name="实习近卫队员" />
+	<key id="11003219" />
+	<key id="11003220" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003220" name="实习近卫队员" />
+	<key id="11003221" name="장로" feature="Season1" />
+	<key id="11003221" name="长老" />
+	<key id="11003222" name="자경대장" feature="Season1" />
+	<key id="11003222" name="警卫队长" />
+	<key id="11003223" />
+	<key id="11003224" />
+	<key id="11003225" />
+	<key id="11003226" />
+	<key id="11003227" />
+	<key id="11003228" />
+	<key id="11003229" />
+	<key id="11003230" />
+	<key id="11003231" />
+	<key id="11003232" />
+	<key id="11003233" />
+	<key id="11003234" />
+	<key id="11003235" />
+	<key id="11003236" />
+	<key id="11003237" />
+	<key id="11003238" name="자경대장" feature="Quest2017" />
+	<key id="11003238" name="警卫队长" />
+	<key id="11003239" name="장로" feature="Quest2017" />
+	<key id="11003239" name="长老" />
+	<key id="11003240" />
+	<key id="11003241" name="브로커" feature="Quest2017" />
+	<key id="11003241" name="掮客" />
+	<key id="11003242" />
+	<key id="11003243" name="자경단원" feature="Quest2017" />
+	<key id="11003243" name="警卫队员" />
+	<key id="11003244" />
+	<key id="11003245" name="자경대장" feature="Quest2017" />
+	<key id="11003245" name="警卫队长" />
+	<key id="11003246" name="근위대장" feature="Quest2017" />
+	<key id="11003246" name="近卫队长" />
+	<key id="11003247" name="수습 근위대원" feature="Quest2017" />
+	<key id="11003247" name="实习近卫队员" />
+	<key id="11003248" />
+	<key id="11003249" />
+	<key id="11003250" name="대마법사" feature="Quest2017" />
+	<key id="11003250" name="大魔法师" />
+	<key id="11003251" />
+	<key id="11003252" />
+	<key id="11003253" />
+	<key id="11003254" />
+	<key id="11003255" />
+	<key id="11003256" />
+	<key id="11003257" />
+	<key id="11003258" />
+	<key id="11003259" />
+	<key id="11003260" />
+	<key id="11003261" />
+	<key id="11003262" />
+	<key id="11003263" />
+	<key id="11003264" name="도서관장" feature="Quest2017" />
+	<key id="11003264" name="图书馆馆长" />
+	<key id="11003265" />
+	<key id="11003266" name="근위대원" feature="Quest2017" />
+	<key id="11003266" name="近卫队员" />
+	<key id="11003267" name="기사단장" feature="Quest2017" />
+	<key id="11003267" name="骑士团团长" />
+	<key id="11003268" name="연금술사" feature="Quest2017" />
+	<key id="11003268" name="炼金术士" />
+	<key id="11003269" name="소대장" feature="Quest2017" />
+	<key id="11003269" name="小队长" />
+	<key id="11003270" name="다크윈드 지휘관" feature="Quest2017" />
+	<key id="11003270" name="黑风指挥官" />
+	<key id="11003272" />
+	<key id="11003273" />
+	<key id="11003274" name="교도소장" feature="Season1" />
+	<key id="11003274" name="管教所所长" />
+	<key id="11003275" />
+	<key id="11003276" />
+	<key id="11003277" />
+	<key id="11003278" />
+	<key id="11003279" />
+	<key id="11003280" />
+	<key id="11003281" name="대마법사" feature="Quest2017" />
+	<key id="11003281" name="大魔法师" />
+	<key id="11003282" />
+	<key id="11003283" name="대마법사" feature="Season1" />
+	<key id="11003283" name="大魔法师" />
+	<key id="11003284" name="대마법사" feature="Season1" />
+	<key id="11003284" name="大魔法师" />
+	<key id="11003285" />
+	<key id="11003286" />
+	<key id="11003287" />
+	<key id="11003288" />
+	<key id="11003289" />
+	<key id="11003290" />
+	<key id="11003291" />
+	<key id="11003292" />
+	<key id="11003293" />
+	<key id="11003294" />
+	<key id="11003295" />
+	<key id="11003296" />
+	<key id="11003297" />
+	<key id="11003298" />
+	<key id="11003299" />
+	<key id="11003300" />
+	<key id="11003301" />
+	<key id="11003302" />
+	<key id="11003303" />
+	<key id="11003304" />
+	<key id="11003305" />
+	<key id="11003306" name="대마법사" feature="Season1" />
+	<key id="11003306" name="大魔法师" />
+	<key id="11003307" name="장로" feature="Quest2017" />
+	<key id="11003307" name="长老" />
+	<key id="11003308" name="장로" feature="Quest2017" />
+	<key id="11003308" name="长老" />
+	<key id="11003309" name="자경대장" feature="Quest2017" />
+	<key id="11003309" name="警卫队长" />
+	<key id="11003310" />
+	<key id="11003311" />
+	<key id="11003312" />
+	<key id="11003313" />
+	<key id="11003314" name="대마법사" feature="Quest2017" />
+	<key id="11003314" name="大魔法师" />
+	<key id="11003315" />
+	<key id="11003316" />
+	<key id="11003317" />
+	<key id="11003318" />
+	<key id="11003319" name="자경대장" feature="Season1" />
+	<key id="11003319" name="警卫队长" />
+	<key id="11003320" name="기사" feature="JobIntro" />
+	<key id="11003320" name="骑士" />
+	<key id="11003321" />
+	<key id="11003322" />
+	<key id="11003323" />
+	<key id="11003324" />
+	<key id="11003325" />
+	<key id="11003326" />
+	<key id="11003327" />
+	<key id="11003328" name="기사단장" feature="JobIntro" />
+	<key id="11003328" name="骑士团团长" />
+	<key id="11003329" />
+	<key id="11003330" name="수호사제" feature="JobIntro" />
+	<key id="11003330" name="守护祭司" />
+	<key id="11003331" name="수호사제" feature="JobIntro" />
+	<key id="11003331" name="守护祭司" />
+	<key id="11003332" />
+	<key id="11003333" />
 	<key id="11003334" name="브로커" />
-	<key id="11003361" name="장로" />
-	<key id="11003432" name="도서관장" />
-	<key id="11003435" name="대마법사" />
-	<key id="11003437" name="도서관장" />
-	<key id="11003538" name="연구원" />
-	<key id="11003539" name="연구원" />
-	<key id="11003540" name="연구원" />
-	<key id="11003541" name="연구원" />
-	<key id="11003542" name="연구원" />
-	<key id="11003590" name="근위대원" />
-	<key id="11003591" name="왕실 관리인" />
-	<key id="11003592" name="근위대원" />
-	<key id="11003594" name="보부상" />
-	<key id="11003599" name="왕녀" />
-	<key id="11003600" name="안개의 기사" />
-	<key id="11003602" name="덜렁이" />
-	<key id="11003603" name="시계 악마" />
-	<key id="11003604" name="시계 악마" />
-	<key id="11003605" name="시계 악마" />
-	<key id="11003610" name="시계 악마" />
-	<key id="11003611" name="안개의 기사" />
-	<key id="11003612" name="안개의 기사" />
-	<key id="11003613" name="왕녀" />
-	<key id="11003614" name="왕녀" />
-	<key id="11003615" name="마리오네트" />
-	<key id="11003616" name="안개의 기사" />
-	<key id="11003617" name="안개의 기사" />
-	<key id="11003618" name="안개의 기사" />
-	<key id="11003620" name="몽환의 인형술사" />
-	<key id="11003621" name="몽환의 인형술사" />
-	<key id="11003623" name="왕녀" />
-	<key id="11003624" name="마리오네트" />
-	<key id="11003625" name="안개의 기사" />
-	<key id="11003651" name="근위대원" />
-	<key id="11003652" name="연금술사" />
-	<key id="11003653" name="근위대원" />
-	<key id="11003654" name="연구원" />
-	<key id="11003655" name="연구원" />
-	<key id="11003656" name="연구원" />
-	<key id="11003657" name="연구원" />
-	<key id="11003670" name="연구원" />
-	<key id="11003674" name="왕녀" />
-	<key id="11003675" name="수호기사" />
-	<key id="11003676" name="연구원" />
-	<key id="11003677" name="연구원" />
-	<key id="11003712" name="안개의 기사" />
-	<key id="11003713" name="마리오네트" />
-	<key id="11003714" name="마리오네트" />
-	<key id="11003715" name="마리오네트" />
-	<key id="11003717" name="프로그래머" />
-	<key id="11003723" name="왕실 관리인" />
-	<key id="11003724" name="근위대원" />
-	<key id="11003726" name="보부상" />
-	<key id="11003738" name="연구원" />
-	<key id="11003743" name="블랙스타 스캐빈저 대장" />
-	<key id="11003744" name="블랙스타 스캐빈저 작업반장" />
-	<key id="11003750" name="연구원" />
-	<key id="11003760" name="왕녀" />
+	<key id="11003335" />
+	<key id="11003336" />
+	<key id="11003337" />
+	<key id="11003338" />
+	<key id="11003339" />
+	<key id="11003340" />
+	<key id="11003341" />
+	<key id="11003342" />
+	<key id="11003343" />
+	<key id="11003344" />
+	<key id="11003345" />
+	<key id="11003346" />
+	<key id="11003347" />
+	<key id="11003348" />
+	<key id="11003349" />
+	<key id="11003350" />
+	<key id="11003351" />
+	<key id="11003352" />
+	<key id="11003353" />
+	<key id="11003354" />
+	<key id="11003355" />
+	<key id="11003356" />
+	<key id="11003357" />
+	<key id="11003358" />
+	<key id="11003359" />
+	<key id="11003360" />
+	<key id="11003361" name="장로" feature="Quest2017" />
+	<key id="11003361" name="长老" />
+	<key id="11003362" />
+	<key id="11003363" />
+	<key id="11003364" />
+	<key id="11003365" />
+	<key id="11003366" />
+	<key id="11003367" />
+	<key id="11003368" />
+	<key id="11003369" />
+	<key id="11003370" />
+	<key id="11003371" />
+	<key id="11003372" />
+	<key id="11003373" />
+	<key id="11003374" />
+	<key id="11003375" />
+	<key id="11003376" />
+	<key id="11003377" />
+	<key id="11003378" />
+	<key id="11003379" />
+	<key id="11003380" />
+	<key id="11003381" />
+	<key id="11003382" />
+	<key id="11003383" />
+	<key id="11003384" />
+	<key id="11003385" />
+	<key id="11003386" />
+	<key id="11003387" />
+	<key id="11003388" />
+	<key id="11003389" />
+	<key id="11003390" />
+	<key id="11003391" />
+	<key id="11003392" />
+	<key id="11003393" />
+	<key id="11003394" />
+	<key id="11003395" />
+	<key id="11003396" />
+	<key id="11003397" />
+	<key id="11003398" />
+	<key id="11003399" />
+	<key id="11003400" />
+	<key id="11003401" />
+	<key id="11003402" />
+	<key id="11003403" />
+	<key id="11003404" />
+	<key id="11003405" />
+	<key id="11003406" />
+	<key id="11003407" />
+	<key id="11003408" />
+	<key id="11003409" />
+	<key id="11003410" />
+	<key id="11003411" />
+	<key id="11003412" />
+	<key id="11003413" />
+	<key id="11003414" />
+	<key id="11003415" />
+	<key id="11003416" />
+	<key id="11003417" />
+	<key id="11003418" />
+	<key id="11003419" />
+	<key id="11003420" />
+	<key id="11003421" />
+	<key id="11003422" />
+	<key id="11003423" />
+	<key id="11003424" />
+	<key id="11003425" />
+	<key id="11003426" />
+	<key id="11003427" />
+	<key id="11003428" />
+	<key id="11003429" />
+	<key id="11003430" />
+	<key id="11003431" />
+	<key id="11003432" name="도서관장" feature="Quest2017_2" />
+	<key id="11003432" name="图书馆馆长" />
+	<key id="11003433" />
+	<key id="11003434" />
+	<key id="11003435" name="대마법사" feature="Quest2017_2" />
+	<key id="11003435" name="大魔法师" />
+	<key id="11003436" />
+	<key id="11003437" name="도서관장" feature="Quest2017_2" />
+	<key id="11003437" name="图书馆馆长" />
+	<key id="11003438" />
+	<key id="11003439" />
+	<key id="11003440" />
+	<key id="11003441" />
+	<key id="11003442" />
+	<key id="11003443" />
+	<key id="11003444" />
+	<key id="11003445" />
+	<key id="11003446" />
+	<key id="11003447" />
+	<key id="11003448" />
+	<key id="11003449" />
+	<key id="11003450" />
+	<key id="11003451" />
+	<key id="11003452" />
+	<key id="11003453" />
+	<key id="11003454" />
+	<key id="11003455" />
+	<key id="11003456" />
+	<key id="11003457" />
+	<key id="11003458" />
+	<key id="11003459" />
+	<key id="11003460" />
+	<key id="11003461" />
+	<key id="11003462" />
+	<key id="11003463" />
+	<key id="11003464" />
+	<key id="11003465" />
+	<key id="11003466" />
+	<key id="11003467" />
+	<key id="11003468" />
+	<key id="11003469" />
+	<key id="11003470" />
+	<key id="11003471" />
+	<key id="11003472" />
+	<key id="11003473" />
+	<key id="11003474" />
+	<key id="11003475" />
+	<key id="11003476" />
+	<key id="11003477" />
+	<key id="11003478" />
+	<key id="11003479" />
+	<key id="11003480" />
+	<key id="11003481" />
+	<key id="11003482" />
+	<key id="11003483" />
+	<key id="11003484" />
+	<key id="11003485" />
+	<key id="11003486" />
+	<key id="11003487" />
+	<key id="11003488" />
+	<key id="11003489" />
+	<key id="11003490" />
+	<key id="11003491" />
+	<key id="11003492" />
+	<key id="11003493" />
+	<key id="11003494" />
+	<key id="11003495" />
+	<key id="11003496" />
+	<key id="11003497" />
+	<key id="11003498" />
+	<key id="11003499" />
+	<key id="11003500" />
+	<key id="11003501" />
+	<key id="11003502" />
+	<key id="11003503" />
+	<key id="11003504" />
+	<key id="11003505" />
+	<key id="11003506" />
+	<key id="11003507" />
+	<key id="11003508" />
+	<key id="11003509" />
+	<key id="11003510" />
+	<key id="11003511" />
+	<key id="11003512" />
+	<key id="11003513" />
+	<key id="11003514" />
+	<key id="11003515" />
+	<key id="11003516" />
+	<key id="11003517" />
+	<key id="11003518" />
+	<key id="11003519" />
+	<key id="11003520" />
+	<key id="11003521" />
+	<key id="11003522" />
+	<key id="11003523" />
+	<key id="11003524" />
+	<key id="11003525" />
+	<key id="11003526" />
+	<key id="11003527" />
+	<key id="11003528" />
+	<key id="11003529" />
+	<key id="11003530" />
+	<key id="11003531" />
+	<key id="11003532" />
+	<key id="11003533" />
+	<key id="11003534" />
+	<key id="11003535" />
+	<key id="11003536" />
+	<key id="11003537" />
+	<key id="11003538" name="研究员" />
+	<key id="11003539" name="研究员" />
+	<key id="11003540" name="研究员" />
+	<key id="11003541" name="研究员" />
+	<key id="11003542" name="研究员" />
+	<key id="11003543" />
+	<key id="11003544" />
+	<key id="11003545" />
+	<key id="11003546" />
+	<key id="11003547" />
+	<key id="11003548" />
+	<key id="11003549" />
+	<key id="11003550" />
+	<key id="11003551" />
+	<key id="11003552" />
+	<key id="11003553" />
+	<key id="11003554" />
+	<key id="11003555" />
+	<key id="11003556" />
+	<key id="11003557" />
+	<key id="11003558" />
+	<key id="11003559" />
+	<key id="11003560" />
+	<key id="11003561" />
+	<key id="11003562" />
+	<key id="11003563" />
+	<key id="11003564" />
+	<key id="11003565" />
+	<key id="11003566" />
+	<key id="11003567" />
+	<key id="11003568" />
+	<key id="11003569" />
+	<key id="11003570" />
+	<key id="11003571" />
+	<key id="11003572" />
+	<key id="11003582" />
+	<key id="11003583" />
+	<key id="11003584" />
+	<key id="11003585" />
+	<key id="11003586" />
+	<key id="11003587" />
+	<key id="11003588" />
+	<key id="11003589" />
+	<key id="11003590" name="近卫队员" />
+	<key id="11003591" name="王室管理员" />
+	<key id="11003592" name="近卫队员" />
+	<key id="11003593" />
+	<key id="11003594" name="行脚商人" />
+	<key id="11003595" />
+	<key id="11003596" />
+	<key id="11003597" />
+	<key id="11003598" />
+	<key id="11003599" name="公主" />
+	<key id="11003600" name="雾霭骑士" />
+	<key id="11003601" />
+	<key id="11003602" name="冒失鬼" />
+	<key id="11003603" name="时钟恶魔" />
+	<key id="11003604" name="时钟恶魔" />
+	<key id="11003605" name="时钟恶魔" />
+	<key id="11003606" />
+	<key id="11003607" />
+	<key id="11003608" />
+	<key id="11003609" />
+	<key id="11003610" name="时钟恶魔" />
+	<key id="11003611" name="雾霭骑士" />
+	<key id="11003612" name="雾霭骑士" />
+	<key id="11003613" name="公主" />
+	<key id="11003614" name="公主" />
+	<key id="11003615" name="木偶" />
+	<key id="11003616" name="雾霭骑士" />
+	<key id="11003617" name="雾霭骑士" />
+	<key id="11003618" name="雾霭骑士" />
+	<key id="11003619" />
+	<key id="11003620" name="梦幻的人偶术士" />
+	<key id="11003621" name="梦幻的人偶术士" />
+	<key id="11003622" />
+	<key id="11003623" name="公主" />
+	<key id="11003624" name="木偶" />
+	<key id="11003625" name="雾霭骑士" />
+	<key id="11003626" />
+	<key id="11003627" />
+	<key id="11003628" />
+	<key id="11003633" />
+	<key id="11003634" />
+	<key id="11003635" />
+	<key id="11003636" />
+	<key id="11003637" />
+	<key id="11003638" />
+	<key id="11003639" />
+	<key id="11003640" />
+	<key id="11003641" />
+	<key id="11003642" />
+	<key id="11003643" />
+	<key id="11003644" />
+	<key id="11003645" />
+	<key id="11003646" />
+	<key id="11003647" />
+	<key id="11003648" />
+	<key id="11003649" />
+	<key id="11003650" />
+	<key id="11003651" name="近卫队员" />
+	<key id="11003652" name="炼金术士" />
+	<key id="11003653" name="近卫队员" />
+	<key id="11003654" name="研究员" />
+	<key id="11003655" name="研究员" />
+	<key id="11003656" name="研究员" />
+	<key id="11003657" name="研究员" />
+	<key id="11003658" />
+	<key id="11003659" />
+	<key id="11003660" />
+	<key id="11003661" />
+	<key id="11003662" />
+	<key id="11003663" />
+	<key id="11003664" />
+	<key id="11003665" />
+	<key id="11003666" />
+	<key id="11003667" />
+	<key id="11003668" />
+	<key id="11003669" />
+	<key id="11003670" name="研究员" />
+	<key id="11003671" />
+	<key id="11003672" />
+	<key id="11003673" />
+	<key id="11003674" name="公主" />
+	<key id="11003675" name="守护骑士" />
+	<key id="11003676" name="研究员" />
+	<key id="11003677" name="研究员" />
+	<key id="11003678" />
+	<key id="11003679" />
+	<key id="11003680" />
+	<key id="11003681" />
+	<key id="11003682" />
+	<key id="11003683" />
+	<key id="11003684" />
+	<key id="11003685" />
+	<key id="11003686" />
+	<key id="11003687" />
+	<key id="11003688" />
+	<key id="11003689" />
+	<key id="11003690" />
+	<key id="11003691" />
+	<key id="11003692" />
+	<key id="11003693" />
+	<key id="11003694" />
+	<key id="11003695" />
+	<key id="11003696" />
+	<key id="11003697" />
+	<key id="11003698" />
+	<key id="11003699" />
+	<key id="11003700" />
+	<key id="11003701" />
+	<key id="11003702" />
+	<key id="11003703" />
+	<key id="11003704" />
+	<key id="11003705" />
+	<key id="11003706" />
+	<key id="11003707" />
+	<key id="11003708" />
+	<key id="11003709" />
+	<key id="11003710" />
+	<key id="11003711" />
+	<key id="11003712" name="雾霭骑士" />
+	<key id="11003713" name="木偶" />
+	<key id="11003714" name="木偶" />
+	<key id="11003715" name="木偶" />
+	<key id="11003716" />
+	<key id="11003717" name="程序器" />
+	<key id="11003718" />
+	<key id="11003719" />
+	<key id="11003720" />
+	<key id="11003721" />
+	<key id="11003722" />
+	<key id="11003723" name="王室管理员" />
+	<key id="11003724" name="近卫队员" />
+	<key id="11003725" />
+	<key id="11003726" name="行脚商人" />
+	<key id="11003727" />
+	<key id="11003728" />
+	<key id="11003729" />
+	<key id="11003730" />
+	<key id="11003731" />
+	<key id="11003732" />
+	<key id="11003733" />
+	<key id="11003734" />
+	<key id="11003735" />
+	<key id="11003736" />
+	<key id="11003737" />
+	<key id="11003738" name="研究员" />
+	<key id="11003739" />
+	<key id="11003740" />
+	<key id="11003741" />
+	<key id="11003742" />
+	<key id="11003743" name="黑星清道夫队长" />
+	<key id="11003744" name="黑星清道夫工作班长" />
+	<key id="11003745" />
+	<key id="11003746" />
+	<key id="11003747" />
+	<key id="11003748" />
+	<key id="11003749" />
+	<key id="11003750" name="研究员" />
+	<key id="11003751" />
+	<key id="11003752" />
+	<key id="11003753" />
+	<key id="11003754" />
+	<key id="11003755" />
+	<key id="11003756" />
+	<key id="11003757" />
+	<key id="11003758" />
+	<key id="11003759" />
+	<key id="11003760" name="公主" />
+	<key id="11003761" />
+	<key id="11003762" />
+	<key id="11003763" />
+	<key id="11003764" />
+	<key id="11003765" />
+	<key id="11003766" />
+	<key id="11003767" />
+	<key id="11003768" />
+	<key id="11003769" />
+	<key id="11003770" />
+	<key id="11003771" />
+	<key id="11003772" />
+	<key id="11003773" />
+	<key id="11003774" />
 	<key id="11003775" />
-	<key id="11003796" name="연구원" />
-	<key id="11003803" name="보부상" />
-	<key id="11003804" name="보부상" />
-	<key id="11003805" name="보부상" />
-	<key id="11003806" name="보부상" />
-	<key id="11003807" name="보부상" />
-	<key id="11003809" name="닥터" />
-	<key id="11003810" name="마녀" />
-	<key id="11003811" name="기사단장" />
-	<key id="11003870" name="베르크 섬 관리인" />
-	<key id="11003871" name="광부" />
-	<key id="11003872" name="광부" />
-	<key id="11003873" name="광부" />
-	<key id="11003876" name="항해사" />
-	<key id="11003877" name="항해사" />
-	<key id="11003878" name="알키미 가든 관리인" />
-	<key id="11003879" name="정원사" />
-	<key id="11003882" name="경비병" />
+	<key id="11003776" />
+	<key id="11003777" />
+	<key id="11003778" />
+	<key id="11003779" />
+	<key id="11003780" />
+	<key id="11003781" />
+	<key id="11003782" />
+	<key id="11003783" />
+	<key id="11003784" />
+	<key id="11003785" />
+	<key id="11003786" />
+	<key id="11003787" />
+	<key id="11003788" />
+	<key id="11003789" />
+	<key id="11003790" />
+	<key id="11003791" />
+	<key id="11003792" />
+	<key id="11003793" />
+	<key id="11003794" />
+	<key id="11003795" />
+	<key id="11003796" name="研究员" />
+	<key id="11003799" />
+	<key id="11003800" />
+	<key id="11003801" />
+	<key id="11003802" />
+	<key id="11003803" name="行脚商人" />
+	<key id="11003804" name="行脚商人" />
+	<key id="11003805" name="行脚商人" />
+	<key id="11003806" name="行脚商人" />
+	<key id="11003807" name="行脚商人" />
+	<key id="11003808" />
+	<key id="11003809" name="医生" />
+	<key id="11003810" name="마녀" feature="Pet_Zakum" />
+	<key id="11003810" name="魔女" />
+	<key id="11003811" name="骑士团团长" />
+	<key id="11003812" />
+	<key id="11003813" />
+	<key id="11003814" />
+	<key id="11003815" />
+	<key id="11003816" />
+	<key id="11003817" />
+	<key id="11003818" />
+	<key id="11003819" />
+	<key id="11003820" />
+	<key id="11003821" />
+	<key id="11003822" />
+	<key id="11003823" />
+	<key id="11003824" />
+	<key id="11003825" />
+	<key id="11003826" />
+	<key id="11003827" />
+	<key id="11003828" />
+	<key id="11003829" />
+	<key id="11003830" />
+	<key id="11003831" />
+	<key id="11003832" />
+	<key id="11003833" />
+	<key id="11003834" />
+	<key id="11003835" />
+	<key id="11003836" />
+	<key id="11003837" />
+	<key id="11003838" />
+	<key id="11003839" />
+	<key id="11003840" />
+	<key id="11003841" />
+	<key id="11003842" />
+	<key id="11003843" />
+	<key id="11003844" />
+	<key id="11003845" />
+	<key id="11003846" />
+	<key id="11003847" />
+	<key id="11003848" />
+	<key id="11003849" />
+	<key id="11003850" />
+	<key id="11003851" />
+	<key id="11003852" />
+	<key id="11003853" />
+	<key id="11003854" />
+	<key id="11003855" />
+	<key id="11003856" />
+	<key id="11003857" />
+	<key id="11003858" />
+	<key id="11003859" />
+	<key id="11003860" />
+	<key id="11003861" />
+	<key id="11003862" />
+	<key id="11003863" />
+	<key id="11003864" />
+	<key id="11003865" />
+	<key id="11003866" />
+	<key id="11003867" />
+	<key id="11003868" />
+	<key id="11003869" />
+	<key id="11003870" name="베르크 섬 관리인" feature="Mastery05" />
+	<key id="11003870" name="贝尔格岛管理员" />
+	<key id="11003871" name="광부" feature="Mastery05" />
+	<key id="11003871" name="矿工" />
+	<key id="11003872" name="광부" feature="Mastery05" />
+	<key id="11003872" name="矿工" />
+	<key id="11003873" name="광부" feature="Mastery05" />
+	<key id="11003873" name="矿工" />
+	<key id="11003874" />
+	<key id="11003875" />
+	<key id="11003876" name="항해사" feature="Mastery05" />
+	<key id="11003876" name="航海士" />
+	<key id="11003877" name="항해사" feature="Mastery05" />
+	<key id="11003877" name="航海士" />
+	<key id="11003878" name="알키미 가든 관리인" feature="Mastery05" />
+	<key id="11003878" name="阿基米花园管理员" />
+	<key id="11003879" name="정원사" feature="Mastery05" />
+	<key id="11003879" name="园艺师" />
+	<key id="11003880" />
+	<key id="11003881" />
+	<key id="11003882" name="경비병" feature="WorldChampionMushroom" />
+	<key id="11003882" name="警卫兵" />
+	<key id="11003883" />
+	<key id="11003884" />
+	<key id="11003885" />
+	<key id="11003886" />
+	<key id="11003887" />
+	<key id="11003888" />
+	<key id="11003889" />
+	<key id="11003890" />
+	<key id="11003891" />
+	<key id="11003892" />
+	<key id="11003893" />
+	<key id="11003894" />
+	<key id="11003895" />
+	<key id="11003896" />
+	<key id="11003897" />
+	<key id="11003898" />
+	<key id="11003899" />
+	<key id="11003900" />
+	<key id="11003901" />
+	<key id="11003902" />
+	<key id="11003903" />
+	<key id="11003904" />
+	<key id="11003905" />
+	<key id="11003906" />
+	<key id="11003907" />
+	<key id="11003908" />
+	<key id="11003909" />
+	<key id="11003910" />
+	<key id="11003911" />
+	<key id="11003912" />
+	<key id="11003913" />
+	<key id="11003914" />
+	<key id="11003915" />
+	<key id="11003916" />
+	<key id="11003917" />
+	<key id="11003918" />
+	<key id="11003919" />
+	<key id="11003920" />
+	<key id="11003921" />
+	<key id="11003922" />
+	<key id="11003923" />
+	<key id="11003924" />
+	<key id="11003925" />
+	<key id="11003926" />
+	<key id="11003927" />
+	<key id="11003928" />
+	<key id="11003929" />
+	<key id="11003930" />
+	<key id="11003931" />
+	<key id="11003932" />
+	<key id="11003933" />
+	<key id="11003934" />
+	<key id="11003935" />
+	<key id="11003936" />
+	<key id="11003937" />
+	<key id="11003938" />
+	<key id="11003939" />
+	<key id="11003940" />
+	<key id="11003941" />
+	<key id="11003942" />
+	<key id="11003943" />
+	<key id="11003944" />
+	<key id="11003945" />
+	<key id="11003946" />
+	<key id="11003947" />
+	<key id="11003948" />
+	<key id="11003949" />
+	<key id="11003950" />
+	<key id="11003951" />
+	<key id="11003952" />
+	<key id="11003953" />
+	<key id="11003954" />
+	<key id="11003955" />
+	<key id="11003956" />
+	<key id="11003957" />
+	<key id="11003958" />
+	<key id="11003959" />
+	<key id="11003960" />
+	<key id="11003961" />
+	<key id="11003962" />
+	<key id="11003963" />
+	<key id="11003964" />
+	<key id="11003965" />
+	<key id="11003966" />
+	<key id="11003967" />
+	<key id="11003968" />
+	<key id="11003969" />
+	<key id="11003970" />
+	<key id="11003971" />
+	<key id="11003972" />
+	<key id="11003973" />
+	<key id="11003974" />
+	<key id="11003975" />
+	<key id="11003976" />
+	<key id="11003977" />
+	<key id="11003978" />
+	<key id="11003979" />
+	<key id="11003980" />
+	<key id="11003981" />
+	<key id="11003982" />
+	<key id="11003983" />
+	<key id="11003984" />
+	<key id="11003985" />
+	<key id="11003986" />
+	<key id="11003987" />
+	<key id="11003988" />
+	<key id="11003989" />
+	<key id="11003990" />
+	<key id="11003991" />
+	<key id="11003992" />
+	<key id="11003993" />
+	<key id="11003994" />
+	<key id="11003995" />
+	<key id="11003996" />
+	<key id="11003997" />
+	<key id="11003998" />
+	<key id="11003999" />
+	<key id="11004000" />
+	<key id="11004001" />
+	<key id="11004002" />
+	<key id="11004003" />
+	<key id="11004004" />
+	<key id="11004005" />
+	<key id="11004006" />
+	<key id="11004007" />
+	<key id="11004008" />
+	<key id="11004009" />
+	<key id="11004010" />
+	<key id="11004011" />
+	<key id="11004012" />
+	<key id="11004013" />
+	<key id="11004014" />
+	<key id="11004015" />
+	<key id="11004016" />
+	<key id="11004017" />
+	<key id="11004018" />
+	<key id="11004019" />
+	<key id="11004020" />
+	<key id="11004021" />
+	<key id="11004022" />
+	<key id="11004023" />
+	<key id="11004024" />
+	<key id="11004025" />
+	<key id="11004026" />
+	<key id="11004027" />
+	<key id="11004028" />
+	<key id="11004029" />
+	<key id="11004030" />
+	<key id="11004031" />
+	<key id="11004032" />
+	<key id="11004033" />
+	<key id="11004034" />
+	<key id="11004035" />
+	<key id="11004036" />
+	<key id="11004037" />
+	<key id="11004038" />
+	<key id="11004039" />
+	<key id="11004040" />
+	<key id="11004041" />
+	<key id="11004042" />
+	<key id="11004043" />
+	<key id="11004044" />
+	<key id="11004045" />
+	<key id="11004046" />
+	<key id="11004047" />
+	<key id="11004048" />
+	<key id="11004049" />
+	<key id="11004050" />
+	<key id="11004051" />
+	<key id="11004052" />
+	<key id="11004053" />
+	<key id="11004054" />
+	<key id="11004055" />
+	<key id="11004056" />
+	<key id="11004057" />
+	<key id="11004058" />
+	<key id="11004059" />
+	<key id="11004060" />
+	<key id="11004061" />
+	<key id="11004062" />
+	<key id="11004069" name="NPCTITLE_11004069_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004069" name="Beloved" locale="NA" />
+	<key id="11004069" name="恋に落ちた" locale="JP" />
+	<key id="11004079" name="NPCTITLE_11004079_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004079" name="Bored" locale="NA" />
+	<key id="11004079" name="退屈な" locale="JP" />
+	<key id="11004083" name="NPCTITLE_11004083_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004083" name="Geothermal Engineer" locale="NA" />
+	<key id="11004083" name="溶岩研究員" locale="JP" />
 	<key id="11004099" name="사랑에 빠진" />
 	<key id="11004100" name="사랑에 빠진" />
 	<key id="11004101" name="사랑스런" />
 	<key id="11004102" name="사랑스런" />
+	<key id="11004103" />
 	<key id="11004104" name="행복한" />
 	<key id="11004105" name="행복한" />
+	<key id="11004106" />
+	<key id="11004107" />
+	<key id="11004108" />
+	<key id="11004109" />
+	<key id="11004110" />
+	<key id="11004111" />
+	<key id="11004112" />
+	<key id="11004113" />
+	<key id="11004114" />
+	<key id="11004115" />
+	<key id="11004116" />
+	<key id="11004117" />
+	<key id="11004118" />
+	<key id="11004119" />
+	<key id="11004120" />
+	<key id="11004121" />
+	<key id="11004122" />
+	<key id="11004123" />
+	<key id="11004124" />
+	<key id="11004125" />
+	<key id="11004126" />
+	<key id="11004127" />
+	<key id="11004128" />
+	<key id="11004129" />
+	<key id="11004130" />
+	<key id="11004131" />
+	<key id="11004132" />
+	<key id="11004133" />
+	<key id="11004134" />
+	<key id="11004135" />
+	<key id="11004136" />
+	<key id="11004137" />
+	<key id="11004138" />
+	<key id="11004139" />
+	<key id="11004140" />
+	<key id="11004141" />
+	<key id="11004142" />
+	<key id="11004143" />
+	<key id="11004144" />
+	<key id="11004145" />
+	<key id="11004146" />
+	<key id="11004147" />
+	<key id="11004148" />
+	<key id="11004149" />
+	<key id="11004150" />
+	<key id="11004151" />
+	<key id="11004152" />
+	<key id="11004153" />
+	<key id="11004154" />
+	<key id="11004155" />
+	<key id="11004156" />
+	<key id="11004157" />
+	<key id="11004158" />
+	<key id="11004159" />
+	<key id="11004160" />
+	<key id="11004161" />
+	<key id="11004162" />
+	<key id="11004163" />
+	<key id="11004164" />
+	<key id="11004165" />
+	<key id="11004166" />
+	<key id="11004167" />
+	<key id="11004168" />
+	<key id="11004169" />
+	<key id="11004170" />
+	<key id="11004171" />
+	<key id="11004172" />
+	<key id="11004173" />
+	<key id="11004174" />
+	<key id="11004175" />
+	<key id="11004176" />
+	<key id="11004177" />
+	<key id="11004178" />
+	<key id="11004179" />
+	<key id="11004180" />
+	<key id="11004181" />
+	<key id="11004182" />
+	<key id="11004183" />
+	<key id="11004184" />
+	<key id="11004185" />
+	<key id="11004186" />
+	<key id="11004187" />
+	<key id="11004188" />
+	<key id="11004189" />
+	<key id="11004190" />
+	<key id="11004191" />
+	<key id="11004192" />
+	<key id="11004193" />
+	<key id="11004194" />
+	<key id="11004195" />
+	<key id="11004196" />
+	<key id="11004197" />
+	<key id="11004198" />
+	<key id="11004199" />
+	<key id="11004200" />
+	<key id="11004201" />
+	<key id="11004202" />
+	<key id="11004203" />
+	<key id="11004204" />
+	<key id="11004205" />
+	<key id="11004214" />
+	<key id="11004215" />
+	<key id="11004216" />
+	<key id="11004223" name="NPCTITLE_11004223_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="11004224" name="NPCTITLE_11004224_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="11004225" name="NPCTITLE_11004225_NAME:[F]SurvivalContents03" feature="SurvivalContents03" />
+	<key id="11004229" />
 	<key id="11004230" />
+	<key id="11004231" />
+	<key id="11004243" />
+	<key id="11004252" name="NPCTITLE_11004252_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004252" name="" locale="NA" />
+	<key id="11004252" name="観察者" locale="JP" />
+	<key id="11004253" name="NPCTITLE_11004253_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004253" name="" locale="NA" />
+	<key id="11004253" name="ルミナ解放軍" locale="JP" />
+	<key id="11004258" name="NPCTITLE_11004258_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004258" name="Researcher" locale="NA" />
+	<key id="11004258" name="研究員" locale="JP" />
+	<key id="11004265" name="NPCTITLE_11004265_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004265" name="DJ" feature="KarkarIsland" locale="NA" />
+	<key id="11004265" name="DJ" feature="KarkarIsland" locale="JP" />
+	<key id="11004266" name="NPCTITLE_11004266_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004266" name="" feature="KarkarIsland" locale="NA" />
+	<key id="11004266" name="ミュージシャン" feature="KarkarIsland" locale="JP" />
+	<key id="11004267" name="NPCTITLE_11004267_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004267" name="" feature="KarkarIsland" locale="NA" />
+	<key id="11004267" name="レースクイーン" feature="KarkarIsland" locale="JP" />
+	<key id="11004270" name="NPCTITLE_11004270_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004270" name="Director" feature="KarkarIsland" locale="NA" />
+	<key id="11004270" name="研究所長" feature="KarkarIsland" locale="JP" />
+	<key id="11004274" name="NPCTITLE_11004274_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004274" name="Cheerful" feature="KarkarIsland" locale="NA" />
+	<key id="11004274" name="幸せな" feature="KarkarIsland" locale="JP" />
 	<key id="11004289" name="마드모아젤" feature="Season1" />
 	<key id="11004290" name="지배인" feature="Season1" />
 	<key id="11004291" name="벨보이" feature="Season1" />
@@ -628,6 +3802,7 @@
 	<key id="11004308" name="꼬마 유령" feature="Season1" />
 	<key id="11004310" name="꼬마 유령" feature="Season1" />
 	<key id="11004311" name="꼬마 유령" feature="Season1" />
+	<key id="11004317" />
 	<key id="11004318" name="닥터" feature="Season1" />
 	<key id="11004386" name="부관" feature="Kritias_Epic01" />
 	<key id="11004387" name="사냥꾼" feature="Kritias_Epic01" />
@@ -643,9 +3818,29 @@
 	<key id="11004433" name="게오르크 요원" feature="Kritias_Epic01" />
 	<key id="11004441" name="고고학자" feature="TreasureMap01" />
 	<key id="11004451" name="닥터" feature="Kritias_2018_12" />
+	<key id="11004456" />
 	<key id="11004457" name="승무원" feature="Kritias_2018_12" />
 	<key id="11004458" name="승무원" feature="Kritias_2018_12" />
 	<key id="11004459" name="승무원" feature="Kritias_2018_12" />
+	<key id="11004460" />
+	<key id="11004461" />
+	<key id="11004462" />
+	<key id="11004463" />
+	<key id="11004464" />
+	<key id="11004465" />
+	<key id="11004466" />
+	<key id="11004467" />
+	<key id="11004468" />
+	<key id="11004469" />
+	<key id="11004470" />
+	<key id="11004471" />
+	<key id="11004472" />
+	<key id="11004473" />
+	<key id="11004474" />
+	<key id="11004475" />
+	<key id="11004476" />
+	<key id="11004477" />
+	<key id="11004478" />
 	<key id="11004479" name="탐사대원" feature="Kritias_2018_12" />
 	<key id="11004480" name="탐사대원" feature="Kritias_2018_12" />
 	<key id="11004481" name="탐사대원" feature="Kritias_2018_12" />
@@ -667,19 +3862,53 @@
 	<key id="11004497" name="어류학자" feature="Kritias_2018_12" />
 	<key id="11004498" name="문학가" feature="Kritias_2018_12" />
 	<key id="11004499" name="건축학자" feature="Kritias_2018_12" />
+	<key id="11004500" />
+	<key id="11004501" />
+	<key id="11004502" />
+	<key id="11004503" />
+	<key id="11004505" />
+	<key id="11004506" />
+	<key id="11004507" />
+	<key id="11004508" />
+	<key id="11004509" />
+	<key id="11004510" />
+	<key id="11004511" />
+	<key id="11004512" />
+	<key id="11004513" />
+	<key id="11004514" />
+	<key id="11004515" />
+	<key id="11004516" />
 	<key id="11004527" name="생태 연구원" feature="Kritias_2018_12" />
 	<key id="11004528" name="생태 연구원" feature="Kritias_2018_12" />
 	<key id="11004529" name="생태 연구원" feature="Kritias_2018_12" />
 	<key id="11004530" name="그린후드 요원" feature="Kritias_2018_12" />
+	<key id="11004535" />
+	<key id="11004536" />
+	<key id="11004537" />
+	<key id="11004538" />
+	<key id="11004539" />
+	<key id="11004540" />
 	<key id="11004541" name="스카이 포트리스 연구팀" feature="Kritias_2018_12" />
 	<key id="11004542" name="스카이 포트리스 연구팀" feature="Kritias_2018_12" />
 	<key id="11004543" name="스카이 포트리스 연구팀" feature="Kritias_2018_12" />
-	<key id="11004552" name="이벤트 도우미" />
-	<key id="11004557" name="핑크핑크" />
+	<key id="11004545" />
+	<key id="11004546" />
+	<key id="11004547" />
+	<key id="11004552" name="이벤트 도우미" feature="Season1" />
+	<key id="11004552" name="活动向导" />
+	<key id="11004553" />
+	<key id="11004554" />
+	<key id="11004557" name="핑크핑크" feature="Event" />
+	<key id="11004557" name="品克品克" />
+	<key id="11004558" />
 	<key id="11004574" name="난민 리더" feature="Kritias_Epic02" />
 	<key id="11004576" name="정보 상인" feature="Kritias_Epic02" />
-	<key id="11004618" name="케르베스 단장" />
-	<key id="11004619" name="케르베스 단장 부관" />
+	<key id="11004618" name="케르베스 단장" feature="Fame_Geo01" />
+	<key id="11004618" name="凯勒贝斯团长" />
+	<key id="11004619" name="케르베스 단장 부관" feature="Fame_Geo01" />
+	<key id="11004619" name="凯勒贝斯团长副官" />
+	<key id="11004625" />
+	<key id="11004637" />
 	<key id="11004662" name="흑성회 간부 직속" />
 	<key id="11004663" name="시간 여행자" feature="Event" />
 	<key id="11004666" name="대제자" feature="Event" />
@@ -687,12 +3916,13 @@
 	<key id="11004669" name="소년" feature="Event" />
 	<key id="11004672" name="별에서 온" feature="Event" />
 	<key id="11004673" name="노을 여우" feature="Event" />
+	<key id="11004674" />
 	<key id="11004685" name="벨보이" feature="Event" />
 	<key id="11004688" name="안내원" feature="BlackOnyx" />
 	<key id="11004689" name="안내원" feature="BlackOnyx" />
 	<key id="11004690" name="트레이더" feature="BlackOnyx" />
 	<key id="11004694" name="장물아비" feature="BlackOnyx" />
-	<key id="11004695" name="보부상" locale="CN" feature="Event" />
+	<key id="11004695" name="보부상" feature="Event" locale="CN" />
 	<key id="11004696" name="딜러" feature="BlackOnyx" />
 	<key id="11004697" name="웨이터" feature="BlackOnyx" />
 	<key id="11004698" name="마담" feature="BlackOnyx" />
@@ -700,9 +3930,24 @@
 	<key id="11004701" name="고대 유적 발굴 전문가" feature="BlackOnyx" />
 	<key id="11004702" name="카르카르 사업가" feature="BlackOnyx" />
 	<key id="11004703" name="고대 에너지 연구가" feature="BlackOnyx" />
-	<key id="11004718" name="아이돌" />
+	<key id="11004718" name="아이돌" feature="Event" />
+	<key id="11004718" name="明星" />
 	<key id="11004720" name="근위대 경비병" feature="Event" />
 	<key id="11004726" name="방송작가" feature="Event" />
+	<key id="11004728" />
+	<key id="11004729" name="NPCTITLE_11004729_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004729" name="恋に落ちた" feature="Event" locale="JP" />
+	<key id="11004730" name="NPCTITLE_11004730_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004730" name="恋に落ちた" feature="Event" locale="JP" />
+	<key id="11004731" name="NPCTITLE_11004731_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004731" name="幸せな" feature="Event" locale="JP" />
+	<key id="11004732" name="NPCTITLE_11004732_NAME:[F]GlobalNpc" feature="GlobalNpc" />
+	<key id="11004732" name="幸せな" feature="Event" locale="JP" />
+	<key id="11004734" />
+	<key id="11004735" />
+	<key id="11004736" />
+	<key id="11004737" />
+	<key id="11004742" />
 	<key id="11004778" name="왕실 총리" feature="EpicApocalypse01" />
 	<key id="11004779" name="왕실 총리" feature="EpicApocalypse01" />
 	<key id="11004780" name="왕실 총리" feature="EpicApocalypse01" />
@@ -712,9 +3957,32 @@
 	<key id="11004784" name="수호사제" feature="EpicApocalypse01" />
 	<key id="11004785" name="여제" feature="EpicApocalypse01" />
 	<key id="11004786" name="여제" feature="EpicApocalypse01" />
-	<key id="11200000" name="닥터" />
-	<key id="11200005" name="길드 사무장" />
-	<key id="21450004" name="흑성회 간부 직속" />
-	<key id="21450005" name="흑성회 간부 직속" />
-	<key id="21450006" name="흑성회 간부 직속" />
+	<key id="11004844" name="보부상" feature="Event" locale="CN" />
+	<key id="11004845" name="보부상" feature="Event" locale="KR" />
+	<key id="11004846" name="도움을 청하는" feature="Event" />
+	<key id="11004847" name="알키미 가든 관리인" feature="Event" />
+	<key id="11004848" name="알키미 가든 관리인" feature="Event" />
+	<key id="11004849" name="알키미 가든 관리인" feature="Event" />
+	<key id="11004850" name="알키미 가든 관리인" feature="Event" />
+	<key id="11200000" name="닥터" feature="GuildHouse01" />
+	<key id="11200000" name="医生" />
+	<key id="11200001" />
+	<key id="11200002" />
+	<key id="11200003" />
+	<key id="11200004" />
+	<key id="11200005" name="길드 사무장" feature="GuildQuest01" />
+	<key id="11200005" name="公会事务长" />
+	<key id="11200006" />
+	<key id="11400001" />
+	<key id="11400002" />
+	<key id="11500001" name="이벤트 도우미" feature="Season1" />
+	<key id="11500002" name="이벤트 도우미" feature="Season1" />
+	<key id="11500003" name="이벤트 상인" feature="Event" />
+	<key id="21000001" />
+	<key id="21450004" name="흑성회 간부 직속" feature="BlackOnyx" />
+	<key id="21450004" name="黑星会干部直属" />
+	<key id="21450005" name="흑성회 간부 직속" feature="BlackOnyx" />
+	<key id="21450005" name="黑星会干部直属" />
+	<key id="21450006" name="흑성회 간부 직속" feature="BlackOnyx" />
+	<key id="21450006" name="黑星会干部直属" />
 </ms2>

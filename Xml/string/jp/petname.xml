@@ -1,285 +1,284 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="60000001" name="ペンペン" />
-  <key id="60000002" name="ピンキー" />
-  <key id="60000003" name="ディンゴ" />
-  <key id="60000004" name="ウェルシュ" />
-  <key id="60000005" name="チョコ" />
-  <key id="60000006" name="コーギー" />
-  <key id="60000007" name="ドラコ" />
-  <key id="60000008" name="グラコ" />
-  <key id="60000009" name="ブラコ" />
-  <key id="60000010" name="チーズ" />
-  <key id="60000011" name="モーリー" />
-  <key id="60000012" name="シャシャ" />
-  <key id="60000013" name="プチグリフォン" />
-  <key id="60000014" name="プチグリフィーナ" />
-  <key id="60000015" name="プチホルス" />
-  <key id="60000016" name="丈夫なカミ" />
-  <key id="60000017" name="素早いカミ" />
-  <key id="60000018" name="賢いカミ" />
-  <key id="60000019" name="ビビ" />
-  <key id="60000020" name="プチレルノス" />
-  <key id="60000021" name="プチペカノス" />
-  <key id="60000022" name="プチカルキノス" />
-  <key id="60000023" name="ミロー" />
-  <key id="60000024" name="タロ" />
-  <key id="60000025" name="クロ" />
-  <key id="60000026" name="ププー" />
-  <key id="60000027" name="ムム" />
-  <key id="60000028" name="ヌヌ" />
-  <key id="60000029" name="コッコ" />
-  <key id="60000030" name="アリ" />
-  <key id="60000031" name="ピピ" />
-  <key id="60000032" name="丈夫なブヒ" />
-  <key id="60000033" name="素早いブヒ" />
-  <key id="60000034" name="賢いブヒ" />
-  <key id="60000035" name="丈夫なビビ" />
-  <key id="60000036" name="素早いビビ" />
-  <key id="60000037" name="賢いビビ" />
-  <key id="60000041" name="ふてくされたミニビーン" />
-  <key id="60000042" name="ハロウィンの伝令馬車" />
-  <key id="60000043" name="もこもこめぇめぇ" />
-  <key id="60000044" name="血色の良いファラオキャット" />
-  <key id="60000045" name="かわいいファラオキャット" />
-  <key id="60000046" name="赤い鼻のルドルフ" />
-  <key id="60000047" name="つんつんスフィンクスキャット" />
-  <key id="60000048" name="チャウチャウ" />
-  <key id="60000049" name="レインボースライム" />
-  <key id="60000050" name="ミング" />
-  <key id="60000051" name="プチターキー" />
-  <key id="60000052" name="リトルパンプキー" />
-  <key id="60000053" name="レッサーパンダ" />
-  <key id="60000054" name="ぴょんぴょんカンガルー" />
-  <key id="60000055" name="花の妖精" />
-  <key id="60000060" name="ビビりネコゴースト" />
-  <key id="60000061" name="ジンジャーブレッド" />
-  <key id="60000064" name="野ウサギ" />
-  <key id="61000001" name="青いキノコ" feature="Develop" />
-  <key id="61000002" name="スライム" feature="PetBattle" />
-  <key id="61000003" name="ダッキー" feature="Develop" />
-  <key id="61000004" name="オーバーロイR" feature="Develop" />
-  <key id="61000005" name="ダッキーボール" feature="PetList_Taming" />
-  <key id="61000006" name="にょろりんスネーク" feature="Develop" />
-  <key id="61000007" name="赤いデンデン" feature="PetBattle" />
-  <key id="61000008" name="エラン" feature="Develop" />
-  <key id="61000009" name="Jr.ブギ" feature="PetList_Taming" />
-  <key id="61000010" name="Jr.ブルドッグ" feature="Develop" />
-  <key id="61000011" name="Jr.フリルド" feature="Develop" />
-  <key id="61000012" name="プリルド" feature="Develop" />
-  <key id="61000013" name="ペット13号" feature="Develop" />
-  <key id="61000014" name="ペット14号" feature="Develop" />
-  <key id="61000015" name="レース" feature="Develop" />
-  <key id="61000016" name="バク" feature="PetBattle" />
-  <key id="61000017" name="ツノキノコ" feature="Develop" />
-  <key id="61000018" name="スタンプ" feature="PetBattle" />
-  <key id="61000019" name="ケルベ" feature="PetBattle" />
-  <key id="61000020" name="ヘキサパス船員" feature="Develop" />
-  <key id="61000021" name="ニクシー" feature="Develop" />
-  <key id="61000022" name="エフィー" feature="Develop" />
-  <key id="61000023" name="フレイムサラマンダー" feature="Develop" />
-  <key id="61000024" name="ストーンクラビ" feature="Develop" />
-  <key id="61000025" name="パラパラキャット" feature="Develop" />
-  <key id="61000026" name="ベビーボア" feature="PetBattle" />
-  <key id="61000027" name="イエローキャットフィンクス" feature="Develop" />
-  <key id="61000028" name="アップルモンキー" feature="Develop" />
-  <key id="61000029" name="グルモン" feature="PetBattle" />
-  <key id="61000030" name="ネオロイド-D" feature="Develop" />
-  <key id="61000031" name="マッドオネット" feature="Develop" />
-  <key id="61000032" name="ムサベツベア" feature="Develop" />
-  <key id="61000033" name="プロテウス" feature="PetList_Taming" />
-  <key id="61000034" name="タイムブラーク・エル" feature="Develop" />
-  <key id="61000035" name="パニックプチラビット" feature="Develop" />
-  <key id="61000036" name="パニックスリムラビット" feature="Develop" />
-  <key id="61000037" name="深い怨恨" feature="Develop" />
-  <key id="61000038" name="没落した貴族" feature="Develop" />
-  <key id="61000039" name="片目のラッティー" feature="Develop" />
-  <key id="61000040" name="クロウ予言者" feature="Develop" />
-  <key id="61000041" name="ベビームサベツベア" feature="PetBattle" />
-  <key id="61000042" name="オニロビ" feature="Develop" />
-  <key id="61000043" name="デビルスティジ" feature="Develop" />
-  <key id="61000044" name="エビルアイ" feature="Develop" />
-  <key id="61000045" name="ブルーママシュ" feature="Develop" />
-  <key id="61000046" name="プラッカ" feature="PetList_Taming" />
-  <key id="61000047" name="自生キノコ" feature="PetBattle" />
-  <key id="61000048" name="マグマトプスリバー" feature="Develop" />
-  <key id="61000049" name="レラカス伝令兵" feature="Develop" />
-  <key id="61000050" name="オニリン" feature="Develop" />
-  <key id="61000051" name="ジャクム(未使用)" feature="Develop" />
-  <key id="61000052" name="ラバーカップダック" feature="Develop" />
-  <key id="61000053" name="コッコ・ザ・マミーハンド" feature="Develop" />
-  <key id="61000054" name="青月のちびキョンシー" feature="Develop" />
-  <key id="61000055" name="シュッシュットイランサー" feature="Develop" />
-  <key id="61000056" name="ゼリービー" feature="Develop" />
-  <key id="61000057" name="ウルジャ" feature="PetBattle" />
-  <key id="61000058" name="見捨てられたバヤール守護兵" feature="Develop" />
-  <key id="61000059" name="ベビーコリー" feature="PetBattle" />
-  <key id="61000060" name="墓の守護者" feature="Develop" />
-  <key id="61000061" name="スカルクラビ" feature="Develop" />
-  <key id="61000062" name="ゲッコーランサー" feature="Develop" />
-  <key id="61000063" name="風使いラパン" feature="Develop" />
-  <key id="61000064" name="キロ・カー" feature="Develop" />
-  <key id="61000065" name="ドラコン巡察兵" feature="Develop" />
-  <key id="61000066" name="ペット66号" feature="Develop" />
-  <key id="61000067" name="ベルカウ" feature="PetList_Taming" />
-  <key id="61000068" name="プップーテニー" feature="Develop" />
-  <key id="61000069" name="ママキヨ" feature="Develop" />
-  <key id="61000070" name="イランスネーク" feature="Develop" />
-  <key id="61000071" name="ランランスネーク" feature="Develop" />
-  <key id="61000072" name="呪われたブードゥー人形" feature="Develop" />
-  <key id="61000073" name="ペット73号" feature="Develop" />
-  <key id="61000074" name="ペット74号" feature="Develop" />
-  <key id="61000075" name="つららダック" feature="Develop" />
-  <key id="61000076" name="ポーングラッド" feature="Develop" />
-  <key id="61000077" name="トウィンコ" feature="PetBattle" />
-  <key id="61000078" name="スピアカカ" feature="Develop" />
-  <key id="61000079" name="バルログ" feature="PetUpdate01" />
-  <key id="61000080" name="ママシュ" feature="Develop" />
-  <key id="61000081" name="謎のスーパースライム" feature="Develop" />
-  <key id="61000082" name="ヒューイ" feature="Develop" />
-  <key id="61000083" name="ディストロボR" feature="Develop" />
-  <key id="61000084" name="ブロックゴーレム Y" feature="PetBattle" />
-  <key id="61000085" name="パニックベアラビット" feature="Develop" />
-  <key id="61000086" name="深い怨恨" feature="Develop" />
-  <key id="61000087" name="ゾンビママシュ" feature="Develop" />
-  <key id="61000088" name="レインボースライム" feature="Develop" />
-  <key id="61000089" name="ルベス" feature="Develop" />
-  <key id="61000090" name="パワーモモットR" feature="Develop" />
-  <key id="61000091" name="コブラ" feature="Develop" />
-  <key id="61000092" name="マノ" feature="Develop" />
-  <key id="61000093" name="エリーヌ" feature="Develop" />
-  <key id="61000094" name="ブギ" feature="Develop" />
-  <key id="61000095" name="ラッシュブル" feature="Develop" />
-  <key id="61000096" name="ヴォルフ" feature="PetBattle" />
-  <key id="61000097" name="ウッディー" feature="PetBattle" />
-  <key id="61000098" name="汚染されたジェライム" feature="PetBattle" />
-  <key id="61000099" name="コボルコ" feature="PetBattle" />
-  <key id="61000100" name="トウィンク" feature="PetBattle" />
-  <key id="61000101" name="アイアンピグ" feature="Develop" />
-  <key id="61000102" name="ファンキーピグ" feature="Develop" />
-  <key id="61000103" name="トウィンカ" feature="Develop" />
-  <key id="61000104" name="マシュミン" feature="Develop" />
-  <key id="61000105" name="スコルピー" feature="Develop" />
-  <key id="61000106" name="トゥンバシャモス" feature="Develop" />
-  <key id="61000107" name="リトルマミー" feature="Develop" />
-  <key id="61000108" name="クリムゾンロサ" feature="Develop" />
-  <key id="61000109" name="ジャーンコニー" feature="Develop" />
-  <key id="61000110" name="カチカチラビット" feature="Develop" />
-  <key id="61000111" name="ポイズンパロス" feature="Develop" />
-  <key id="61000112" name="ブラックポーン" feature="Develop" />
-  <key id="61000113" name="ブラックルーク" feature="Develop" />
-  <key id="61000114" name="カポー" feature="Develop" />
-  <key id="61000115" name="ホワイトクイーン" feature="Develop" />
-  <key id="61000116" name="ホワイトキング" feature="Develop" />
-  <key id="61000117" name="パパキヨ" feature="Develop" />
-  <key id="61000118" name="リカオ" feature="Develop" />
-  <key id="61000119" name="プロトイド-D" feature="Develop" />
-  <key id="61000120" name="ニクールメイド" feature="Develop" />
-  <key id="61000121" name="赤龍顎拳団修練生" feature="Develop" />
-  <key id="61000122" name="赤龍顎拳団師匠" feature="Develop" />
-  <key id="61000123" name="ポーングラッド・ブーム" feature="Develop" />
-  <key id="61000124" name="カル" feature="Develop" />
-  <key id="61000125" name="トロス射手" feature="Develop" />
-  <key id="61000126" name="レガン・ロボティクス1号" feature="Develop" />
-  <key id="61000127" name="影の門番" feature="Develop" />
-  <key id="61000128" name="イエローウィンカ" feature="Develop" />
-  <key id="61000129" name="ルプルプ" feature="Develop" />
-  <key id="61000130" name="アパチジャブ" feature="Develop" />
-  <key id="61000131" name="クレイジーボウル" feature="Develop" />
-  <key id="61000132" name="バヤトスカット" feature="Develop" />
-  <key id="61000133" name="リフェ・ロボティクス1号" feature="Develop" />
-  <key id="61000134" name="影の番人" feature="Develop" />
-  <key id="61000135" name="影の狩猟犬" feature="Develop" />
-  <key id="61000136" name="レラカス呪術師" feature="Develop" />
-  <key id="61000137" name="全魔軍偵察兵" feature="Develop" />
-  <key id="61000138" name="ドレイコ偵察兵" feature="Develop" />
-  <key id="61000139" name="黒い黄昏のキツネ" feature="Develop" />
-  <key id="61000140" name="迷子の幻影道師" feature="Develop" />
-  <key id="61000141" name="パンパンジョイ" feature="Develop" />
-  <key id="61000142" name="チッチジョイ" feature="Develop" />
-  <key id="61000143" name="ポンポンジョイ" feature="Develop" />
-  <key id="61000144" name="スルターンモヌス" feature="Develop" />
-  <key id="61000145" name="ククバル" feature="Develop" />
-  <key id="61000146" name="オクトパチ" feature="Develop" />
-  <key id="61000147" name="コアター" feature="Develop" />
-  <key id="61000148" name="ラヴァゴーレム" feature="Develop" />
-  <key id="61000149" name="ダークスラシャン" feature="Develop" />
-  <key id="61000150" name="トロス指揮官" feature="Develop" />
-  <key id="61000151" name="ブラックビショップマスター" feature="Develop" />
-  <key id="61000153" name="猛毒ノラージュ" feature="Pet_70Lv_Taming" />
-  <key id="61000154" name="タレットMK-I" feature="Pet_70Lv_Taming" />
-  <key id="61000155" name="赤いアルム" feature="Pet_70Lv_Taming" />
-  <key id="61000156" name="ソルジャーレト" feature="Pet_70Lv_Taming" />
-  <key id="61000157" name="青いクゥーク" feature="Pet_70Lv_Taming" />
-  <key id="61000158" name="グリーンポイン" feature="Pet_70Lv_Taming" />
-  <key id="61000159" name="丈夫なモラン" feature="Pet_70Lv_Taming" />
-  <key id="61000160" name="ガードMK-II" feature="Pet_70Lv_Taming" />
-  <key id="61000161" name="タイレンMK-I-S" feature="Pet_70Lv_Taming" />
-  <key id="61000162" name="ピンクラフレシア" feature="Develop" />
-  <key id="61000163" name="レッドメカラプター" feature="Pet_70Lv_Taming" />
-  <key id="61000164" name="メカキャノン" feature="Pet_70Lv_Taming" />
-  <key id="61000165" name="キラーヒュロット" feature="Pet_70Lv_Taming" />
-  <key id="61000166" name="ブルーメカティラノ" feature="Pet_70Lv_Taming" />
-  <key id="61000167" name="ピンクニョロリン" feature="Pet_70Lv_Taming" />
-  <key id="61000168" name="ぷんすかモラン" feature="Pet_70Lv_Taming" />
-  <key id="61000169" name="ナイトレト" feature="Pet_70Lv_Taming" />
-  <key id="61000170" name="ヘビーヒュロット" feature="Pet_70Lv_Taming" />
-  <key id="61100010" name="ピロス・ファード" feature="PetBattle" />
-  <key id="61100020" name="カボ" feature="PetBattle" />
-  <key id="61100030" name="バルカント" feature="PetUpdate01" />
-  <key id="61100031" name="ゲルオント" feature="Develop" />
-  <key id="61100032" name="シャガント" feature="Develop" />
-  <key id="61100040" name="カンドゥラ" feature="PetUpdate01" />
-  <key id="61100050" name="デボラク" feature="PetUpdate01" />
-  <key id="61100060" name="キャプテン・モク" feature="PetUpdate01" />
-  <key id="61100070" name="ビシャスプラント" feature="PetUpdate01" />
-  <key id="61100080" name="Dr.ピピ" feature="Develop" />
-  <key id="61100090" name="ヌタマン" feature="PetUpdate01" />
-  <key id="61100100" name="ギガンティカ" feature="Gigantica01" />
-  <key id="61100110" name="呪いのジャクム" feature="Pet_Zakum" />
-  <key id="61100111" name="呪いのジャクム" feature="Pet_Zakum" />
-  <key id="61100120" name="守護のジャクム" feature="Pet_Zakum" />
-  <key id="61100121" name="守護のジャクム" feature="Pet_Zakum" />
-  <key id="61100130" name="怒りのジャクム" feature="Pet_Zakum" />
-  <key id="61100131" name="怒りのジャクム" feature="Pet_Zakum" />
-  <key id="61100132" name="セリン" feature="Pet_60Lv" />
-  <key id="61100133" name="アルバノス" feature="Pet_60Lv" />
-  <key id="61100134" name="エルダ" feature="Pet_60Lv" />
-  <key id="61100135" name="ヴェノムスピリット" feature="Pet_60Lv" />
-  <key id="61100136" name="ギガンティック・マドロン・スパトイ" feature="Pet_60Lv" />
-  <key id="61100137" name="フォボス" feature="Pet_60Lv" />
-  <key id="61100138" name="ルカラックス" feature="Pet_60Lv" />
-  <key id="61100139" name="ビエルン" feature="Pet_60Lv" />
-  <key id="61100140" name="ピンクビーン" feature="Pet_60Lv" />
-  <key id="61100141" name="ユペリア" feature="Pet_60Lv" />
-  <key id="61100142" name="レンデュビアン" feature="Pet_60Lv" />
-  <key id="61100143" name="イシュラ" feature="Pet_60Lv" />
-  <key id="61100144" name="強化型バルログ" feature="Pet_70Lv_Boss" />
-  <key id="61100145" name="強化型インフェルノック" feature="Pet_70Lv_Boss" />
-  <key id="61100146" name="ジャクムの手" feature="Pet_70Lv_Boss" />
-  <key id="61100147" name="ペイカ" feature="Pet_70Lv_Boss" />
-  <key id="61100148" name="トゥルカ" feature="Develop" />
-  <key id="61100149" name="インフェルノック" feature="Pet_Infernog" />
-  <key id="61200001" name="ナマケキノコ" feature="SurvivalContents01" />
-  <key id="61200002" name="マッシュキング" feature="WorldChampionMushroom" />
-  <key id="61900001" name="PETNAME_61900001_NAME:[F]Develop" feature="Develop" />
-  <key id="62000001" name="頼もしいペンペン" feature="Develop" />
-  <key id="62000002" name="頼もしいウェルシュ" feature="Develop" />
-  <key id="62000003" name="頼もしレッドドラコ" feature="Develop" />
-  <key id="62000004" name="頼もしいプチグリフォン" feature="Develop" />
-  <key id="62000005" name="頼もしいレルノス" feature="Develop" />
-  <key id="62000006" name="頼もしいビビ" feature="Develop" />
-  <key id="62000007" name="頼もしいクロ" feature="Develop" />
-  <key id="62000008" name="頼もしいヌヌ" feature="Develop" />
-  <key id="62000009" name="頼もしいピピ" feature="Develop" />
-  <key id="62000010" name="頼もしいブヒ" feature="Develop" />
-  <key id="62000011" name="神獣麒麟" feature="PetBattle" />
-  <key id="62000012" name="デーヴ" feature="Develop" />
-  <key id="62000013" name="孫悟空" feature="PetBattle" />
-  <key id="62000014" name="赤い妖精" feature="Develop" />
-  <key id="62000015" name="ピンクビーン" feature="Develop" />
-  <key id="62900001" name="QQペンギン" feature="GemPetSkin" />
-  <key id="62900002" name="ホンマオズブルドッグ" feature="PetBattle" />
-  <key id="62999999" name="PETNAME_62999999_NAME:[F]Develop" feature="Develop" />
+	<key id="60000001" name="ペンペン" />
+	<key id="60000002" name="ピンキー" />
+	<key id="60000003" name="ディンゴ" />
+	<key id="60000004" name="ウェルシュ" />
+	<key id="60000005" name="チョコ" />
+	<key id="60000006" name="コーギー" />
+	<key id="60000007" name="ドラコ" />
+	<key id="60000008" name="グラコ" />
+	<key id="60000009" name="ブラコ" />
+	<key id="60000010" name="チーズ" />
+	<key id="60000011" name="モーリー" />
+	<key id="60000012" name="シャシャ" />
+	<key id="60000013" name="プチグリフォン" />
+	<key id="60000014" name="プチグリフィーナ" />
+	<key id="60000015" name="プチホルス" />
+	<key id="60000016" name="丈夫なカミ" />
+	<key id="60000017" name="素早いカミ" />
+	<key id="60000018" name="賢いカミ" />
+	<key id="60000019" name="ビビ" />
+	<key id="60000020" name="プチレルノス" />
+	<key id="60000021" name="プチペカノス" />
+	<key id="60000022" name="プチカルキノス" />
+	<key id="60000023" name="ミロー" />
+	<key id="60000024" name="タロ" />
+	<key id="60000025" name="クロ" />
+	<key id="60000026" name="ププー" />
+	<key id="60000027" name="ムム" />
+	<key id="60000028" name="ヌヌ" />
+	<key id="60000029" name="コッコ" />
+	<key id="60000030" name="アリ" />
+	<key id="60000031" name="ピピ" />
+	<key id="60000032" name="丈夫なブヒ" />
+	<key id="60000033" name="素早いブヒ" />
+	<key id="60000034" name="賢いブヒ" />
+	<key id="60000035" name="丈夫なビビ" />
+	<key id="60000036" name="素早いビビ" />
+	<key id="60000037" name="賢いビビ" />
+	<key id="60000041" name="ふてくされたミニビーン" />
+	<key id="60000042" name="ハロウィンの伝令馬車" />
+	<key id="60000043" name="もこもこめぇめぇ" />
+	<key id="60000044" name="血色の良いファラオキャット" />
+	<key id="60000045" name="かわいいファラオキャット" />
+	<key id="60000046" name="赤い鼻のルドルフ" />
+	<key id="60000047" name="つんつんスフィンクスキャット" />
+	<key id="60000048" name="チャウチャウ" />
+	<key id="60000049" name="レインボースライム" />
+	<key id="60000050" name="ミング" />
+	<key id="60000051" name="プチターキー" />
+	<key id="60000052" name="リトルパンプキー" />
+	<key id="60000053" name="レッサーパンダ" />
+	<key id="60000054" name="ぴょんぴょんカンガルー" />
+	<key id="60000055" name="花の妖精" />
+	<key id="60000060" name="ビビりネコゴースト" />
+	<key id="60000061" name="ジンジャーブレッド" />
+	<key id="60000064" name="野ウサギ" />
+	<key id="61000001" name="青いキノコ" feature="Develop" />
+	<key id="61000002" name="スライム" feature="PetBattle" />
+	<key id="61000003" name="ダッキー" feature="Develop" />
+	<key id="61000004" name="オーバーロイR" feature="Develop" />
+	<key id="61000005" name="ダッキーボール" feature="PetList_Taming" />
+	<key id="61000006" name="にょろりんスネーク" feature="Develop" />
+	<key id="61000007" name="赤いデンデン" feature="PetBattle" />
+	<key id="61000008" name="エラン" feature="Develop" />
+	<key id="61000009" name="Jr.ブギ" feature="PetList_Taming" />
+	<key id="61000010" name="Jr.ブルドッグ" feature="Develop" />
+	<key id="61000011" name="Jr.フリルド" feature="Develop" />
+	<key id="61000012" name="プリルド" feature="Develop" />
+	<key id="61000013" name="ペット13号" feature="Develop" />
+	<key id="61000014" name="ペット14号" feature="Develop" />
+	<key id="61000015" name="レース" feature="Develop" />
+	<key id="61000016" name="バク" feature="PetBattle" />
+	<key id="61000017" name="ツノキノコ" feature="Develop" />
+	<key id="61000018" name="スタンプ" feature="PetBattle" />
+	<key id="61000019" name="ケルベ" feature="PetBattle" />
+	<key id="61000020" name="ヘキサパス船員" feature="Develop" />
+	<key id="61000021" name="ニクシー" feature="Develop" />
+	<key id="61000022" name="エフィー" feature="Develop" />
+	<key id="61000023" name="フレイムサラマンダー" feature="Develop" />
+	<key id="61000024" name="ストーンクラビ" feature="Develop" />
+	<key id="61000025" name="パラパラキャット" feature="Develop" />
+	<key id="61000026" name="ベビーボア" feature="PetBattle" />
+	<key id="61000027" name="イエローキャットフィンクス" feature="Develop" />
+	<key id="61000028" name="アップルモンキー" feature="Develop" />
+	<key id="61000029" name="グルモン" feature="PetBattle" />
+	<key id="61000030" name="ネオロイド-D" feature="Develop" />
+	<key id="61000031" name="マッドオネット" feature="Develop" />
+	<key id="61000032" name="ムサベツベア" feature="Develop" />
+	<key id="61000033" name="プロテウス" feature="PetList_Taming" />
+	<key id="61000034" name="タイムブラーク・エル" feature="Develop" />
+	<key id="61000035" name="パニックプチラビット" feature="Develop" />
+	<key id="61000036" name="パニックスリムラビット" feature="Develop" />
+	<key id="61000037" name="深い怨恨" feature="Develop" />
+	<key id="61000038" name="没落した貴族" feature="Develop" />
+	<key id="61000039" name="片目のラッティー" feature="Develop" />
+	<key id="61000040" name="クロウ予言者" feature="Develop" />
+	<key id="61000041" name="ベビームサベツベア" feature="PetBattle" />
+	<key id="61000042" name="オニロビ" feature="Develop" />
+	<key id="61000043" name="デビルスティジ" feature="Develop" />
+	<key id="61000044" name="エビルアイ" feature="Develop" />
+	<key id="61000045" name="ブルーママシュ" feature="Develop" />
+	<key id="61000046" name="プラッカ" feature="PetList_Taming" />
+	<key id="61000047" name="自生キノコ" feature="PetBattle" />
+	<key id="61000048" name="マグマトプスリバー" feature="Develop" />
+	<key id="61000049" name="レラカス伝令兵" feature="Develop" />
+	<key id="61000050" name="オニリン" feature="Develop" />
+	<key id="61000051" name="ジャクム(未使用)" feature="Develop" />
+	<key id="61000052" name="ラバーカップダック" feature="Develop" />
+	<key id="61000053" name="コッコ・ザ・マミーハンド" feature="Develop" />
+	<key id="61000054" name="青月のちびキョンシー" feature="Develop" />
+	<key id="61000055" name="シュッシュットイランサー" feature="Develop" />
+	<key id="61000056" name="ゼリービー" feature="Develop" />
+	<key id="61000057" name="ウルジャ" feature="PetBattle" />
+	<key id="61000058" name="見捨てられたバヤール守護兵" feature="Develop" />
+	<key id="61000059" name="ベビーコリー" feature="PetBattle" />
+	<key id="61000060" name="墓の守護者" feature="Develop" />
+	<key id="61000061" name="スカルクラビ" feature="Develop" />
+	<key id="61000062" name="ゲッコーランサー" feature="Develop" />
+	<key id="61000063" name="風使いラパン" feature="Develop" />
+	<key id="61000064" name="キロ・カー" feature="Develop" />
+	<key id="61000065" name="ドラコン巡察兵" feature="Develop" />
+	<key id="61000066" name="ペット66号" feature="Develop" />
+	<key id="61000067" name="ベルカウ" feature="PetList_Taming" />
+	<key id="61000068" name="プップーテニー" feature="Develop" />
+	<key id="61000069" name="ママキヨ" feature="Develop" />
+	<key id="61000070" name="イランスネーク" feature="Develop" />
+	<key id="61000071" name="ランランスネーク" feature="Develop" />
+	<key id="61000072" name="呪われたブードゥー人形" feature="Develop" />
+	<key id="61000073" name="ペット73号" feature="Develop" />
+	<key id="61000074" name="ペット74号" feature="Develop" />
+	<key id="61000075" name="つららダック" feature="Develop" />
+	<key id="61000076" name="ポーングラッド" feature="Develop" />
+	<key id="61000077" name="トウィンコ" feature="PetBattle" />
+	<key id="61000078" name="スピアカカ" feature="Develop" />
+	<key id="61000079" name="バルログ" feature="PetUpdate01" />
+	<key id="61000080" name="ママシュ" feature="Develop" />
+	<key id="61000081" name="謎のスーパースライム" feature="Develop" />
+	<key id="61000082" name="ヒューイ" feature="Develop" />
+	<key id="61000083" name="ディストロボR" feature="Develop" />
+	<key id="61000084" name="ブロックゴーレム Y" feature="PetBattle" />
+	<key id="61000085" name="パニックベアラビット" feature="Develop" />
+	<key id="61000086" name="深い怨恨" feature="Develop" />
+	<key id="61000087" name="ゾンビママシュ" feature="Develop" />
+	<key id="61000088" name="レインボースライム" feature="Develop" />
+	<key id="61000089" name="ルベス" feature="Develop" />
+	<key id="61000090" name="パワーモモットR" feature="Develop" />
+	<key id="61000091" name="コブラ" feature="Develop" />
+	<key id="61000092" name="マノ" feature="Develop" />
+	<key id="61000093" name="エリーヌ" feature="Develop" />
+	<key id="61000094" name="ブギ" feature="Develop" />
+	<key id="61000095" name="ラッシュブル" feature="Develop" />
+	<key id="61000096" name="ヴォルフ" feature="PetBattle" />
+	<key id="61000097" name="ウッディー" feature="PetBattle" />
+	<key id="61000098" name="汚染されたジェライム" feature="PetBattle" />
+	<key id="61000099" name="コボルコ" feature="PetBattle" />
+	<key id="61000100" name="トウィンク" feature="PetBattle" />
+	<key id="61000101" name="アイアンピグ" feature="Develop" />
+	<key id="61000102" name="ファンキーピグ" feature="Develop" />
+	<key id="61000103" name="トウィンカ" feature="Develop" />
+	<key id="61000104" name="マシュミン" feature="Develop" />
+	<key id="61000105" name="スコルピー" feature="Develop" />
+	<key id="61000106" name="トゥンバシャモス" feature="Develop" />
+	<key id="61000107" name="リトルマミー" feature="Develop" />
+	<key id="61000108" name="クリムゾンロサ" feature="Develop" />
+	<key id="61000109" name="ジャーンコニー" feature="Develop" />
+	<key id="61000110" name="カチカチラビット" feature="Develop" />
+	<key id="61000111" name="ポイズンパロス" feature="Develop" />
+	<key id="61000112" name="ブラックポーン" feature="Develop" />
+	<key id="61000113" name="ブラックルーク" feature="Develop" />
+	<key id="61000114" name="カポー" feature="Develop" />
+	<key id="61000115" name="ホワイトクイーン" feature="Develop" />
+	<key id="61000116" name="ホワイトキング" feature="Develop" />
+	<key id="61000117" name="パパキヨ" feature="Develop" />
+	<key id="61000118" name="リカオ" feature="Develop" />
+	<key id="61000119" name="プロトイド-D" feature="Develop" />
+	<key id="61000120" name="ニクールメイド" feature="Develop" />
+	<key id="61000121" name="赤龍顎拳団修練生" feature="Develop" />
+	<key id="61000122" name="赤龍顎拳団師匠" feature="Develop" />
+	<key id="61000123" name="ポーングラッド・ブーム" feature="Develop" />
+	<key id="61000124" name="カル" feature="Develop" />
+	<key id="61000125" name="トロス射手" feature="Develop" />
+	<key id="61000126" name="レガン・ロボティクス1号" feature="Develop" />
+	<key id="61000127" name="影の門番" feature="Develop" />
+	<key id="61000128" name="イエローウィンカ" feature="Develop" />
+	<key id="61000129" name="ルプルプ" feature="Develop" />
+	<key id="61000130" name="アパチジャブ" feature="Develop" />
+	<key id="61000131" name="クレイジーボウル" feature="Develop" />
+	<key id="61000132" name="バヤトスカット" feature="Develop" />
+	<key id="61000133" name="リフェ・ロボティクス1号" feature="Develop" />
+	<key id="61000134" name="影の番人" feature="Develop" />
+	<key id="61000135" name="影の狩猟犬" feature="Develop" />
+	<key id="61000136" name="レラカス呪術師" feature="Develop" />
+	<key id="61000137" name="全魔軍偵察兵" feature="Develop" />
+	<key id="61000138" name="ドレイコ偵察兵" feature="Develop" />
+	<key id="61000139" name="黒い黄昏のキツネ" feature="Develop" />
+	<key id="61000140" name="迷子の幻影道師" feature="Develop" />
+	<key id="61000141" name="パンパンジョイ" feature="Develop" />
+	<key id="61000142" name="チッチジョイ" feature="Develop" />
+	<key id="61000143" name="ポンポンジョイ" feature="Develop" />
+	<key id="61000144" name="スルターンモヌス" feature="Develop" />
+	<key id="61000145" name="ククバル" feature="Develop" />
+	<key id="61000146" name="オクトパチ" feature="Develop" />
+	<key id="61000147" name="コアター" feature="Develop" />
+	<key id="61000148" name="ラヴァゴーレム" feature="Develop" />
+	<key id="61000149" name="ダークスラシャン" feature="Develop" />
+	<key id="61000150" name="トロス指揮官" feature="Develop" />
+	<key id="61000151" name="ブラックビショップマスター" feature="Develop" />
+	<key id="61000153" name="猛毒ノラージュ" feature="Pet_70Lv_Taming" />
+	<key id="61000154" name="タレットMK-I" feature="Pet_70Lv_Taming" />
+	<key id="61000155" name="赤いアルム" feature="Pet_70Lv_Taming" />
+	<key id="61000156" name="ソルジャーレト" feature="Pet_70Lv_Taming" />
+	<key id="61000157" name="青いクゥーク" feature="Pet_70Lv_Taming" />
+	<key id="61000158" name="グリーンポイン" feature="Pet_70Lv_Taming" />
+	<key id="61000159" name="丈夫なモラン" feature="Pet_70Lv_Taming" />
+	<key id="61000160" name="ガードMK-II" feature="Pet_70Lv_Taming" />
+	<key id="61000161" name="タイレンMK-I-S" feature="Pet_70Lv_Taming" />
+	<key id="61000162" name="ピンクラフレシア" feature="Develop" />
+	<key id="61000163" name="レッドメカラプター" feature="Pet_70Lv_Taming" />
+	<key id="61000164" name="メカキャノン" feature="Pet_70Lv_Taming" />
+	<key id="61000165" name="キラーヒュロット" feature="Pet_70Lv_Taming" />
+	<key id="61000166" name="ブルーメカティラノ" feature="Pet_70Lv_Taming" />
+	<key id="61000167" name="ピンクニョロリン" feature="Pet_70Lv_Taming" />
+	<key id="61000168" name="ぷんすかモラン" feature="Pet_70Lv_Taming" />
+	<key id="61000169" name="ナイトレト" feature="Pet_70Lv_Taming" />
+	<key id="61000170" name="ヘビーヒュロット" feature="Pet_70Lv_Taming" />
+	<key id="61100010" name="ピロス・ファード" feature="PetBattle" />
+	<key id="61100020" name="カボ" feature="PetBattle" />
+	<key id="61100030" name="バルカント" feature="PetUpdate01" />
+	<key id="61100031" name="ゲルオント" feature="Develop" />
+	<key id="61100032" name="シャガント" feature="Develop" />
+	<key id="61100040" name="カンドゥラ" feature="PetUpdate01" />
+	<key id="61100050" name="デボラク" feature="PetUpdate01" />
+	<key id="61100060" name="キャプテン・モク" feature="PetUpdate01" />
+	<key id="61100070" name="ビシャスプラント" feature="PetUpdate01" />
+	<key id="61100080" name="Dr.ピピ" feature="Develop" />
+	<key id="61100090" name="ヌタマン" feature="PetUpdate01" />
+	<key id="61100100" name="ギガンティカ" feature="Gigantica01" />
+	<key id="61100110" name="呪いのジャクム" feature="Pet_Zakum" />
+	<key id="61100111" name="呪いのジャクム" feature="Pet_Zakum" />
+	<key id="61100120" name="守護のジャクム" feature="Pet_Zakum" />
+	<key id="61100121" name="守護のジャクム" feature="Pet_Zakum" />
+	<key id="61100130" name="怒りのジャクム" feature="Pet_Zakum" />
+	<key id="61100131" name="怒りのジャクム" feature="Pet_Zakum" />
+	<key id="61100132" name="セリン" feature="Pet_60Lv" />
+	<key id="61100133" name="アルバノス" feature="Pet_60Lv" />
+	<key id="61100134" name="エルダ" feature="Pet_60Lv" />
+	<key id="61100135" name="ヴェノムスピリット" feature="Pet_60Lv" />
+	<key id="61100136" name="ギガンティック・マドロン・スパトイ" feature="Pet_60Lv" />
+	<key id="61100137" name="フォボス" feature="Pet_60Lv" />
+	<key id="61100138" name="ルカラックス" feature="Pet_60Lv" />
+	<key id="61100139" name="ビエルン" feature="Pet_60Lv" />
+	<key id="61100140" name="ピンクビーン" feature="Pet_60Lv" />
+	<key id="61100141" name="ユペリア" feature="Pet_60Lv" />
+	<key id="61100142" name="レンデュビアン" feature="Pet_60Lv" />
+	<key id="61100143" name="イシュラ" feature="Pet_60Lv" />
+	<key id="61100144" name="強化型バルログ" feature="Pet_70Lv_Boss" />
+	<key id="61100145" name="強化型インフェルノック" feature="Pet_70Lv_Boss" />
+	<key id="61100146" name="ジャクムの手" feature="Pet_70Lv_Boss" />
+	<key id="61100147" name="ペイカ" feature="Pet_70Lv_Boss" />
+	<key id="61100148" name="トゥルカ" feature="Develop" />
+	<key id="61100149" name="インフェルノック" feature="Pet_Infernog" />
+	<key id="61200001" name="ナマケキノコ" feature="SurvivalContents01" />
+	<key id="61200002" name="マッシュキング" feature="WorldChampionMushroom" />
+	<key id="61900001" name="PETNAME_61900001_NAME:[F]Develop" feature="Develop" />
+	<key id="62000001" name="頼もしいペンペン" feature="Develop" />
+	<key id="62000002" name="頼もしいウェルシュ" feature="Develop" />
+	<key id="62000003" name="頼もしレッドドラコ" feature="Develop" />
+	<key id="62000004" name="頼もしいプチグリフォン" feature="Develop" />
+	<key id="62000005" name="頼もしいレルノス" feature="Develop" />
+	<key id="62000006" name="頼もしいビビ" feature="Develop" />
+	<key id="62000007" name="頼もしいクロ" feature="Develop" />
+	<key id="62000008" name="頼もしいヌヌ" feature="Develop" />
+	<key id="62000009" name="頼もしいピピ" feature="Develop" />
+	<key id="62000010" name="頼もしいブヒ" feature="Develop" />
+	<key id="62000011" name="神獣麒麟" feature="PetBattle" />
+	<key id="62000012" name="デーヴ" feature="Develop" />
+	<key id="62000013" name="孫悟空" feature="PetBattle" />
+	<key id="62000014" name="赤い妖精" feature="Develop" />
+	<key id="62000015" name="ピンクビーン" feature="Develop" />
+	<key id="62900001" name="QQペンギン" feature="GemPetSkin" />
+	<key id="62900002" name="ホンマオズブルドッグ" feature="PetBattle" />
+	<key id="62999999" name="PETNAME_62999999_NAME:[F]Develop" feature="Develop" />
 </ms2>

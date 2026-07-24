@@ -1,65 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 파싱해서 사용하는 데이터이니 직접 수정하지 마세요 -->
 <ms2>
-  <key id="10600001" name="ガトリングファイア" />
-  <key id="10600002" name="ガトリングファイア2打" feature="Develop" />
-  <key id="10600003" name="ガトリングファイア3打" feature="Develop" />
-  <key id="10600011" name="ロケットランチャー" />
-  <key id="10600012" name="ロケットランチャースプラッシュ" feature="Develop" />
-  <key id="10600013" name="ロケットランチャースプラッシュ2" feature="Develop" />
-  <key id="10600021" name="ブルズアイ" />
-  <key id="10600031" name="ホーミングミサイル" />
-  <key id="10600041" name="エレクトリックブラスト" />
-  <key id="10600042" name="エレクトリックブラスト2段階" feature="Develop" />
-  <key id="10600043" name="エレクトリックブラスト3段階" feature="Develop" />
-  <key id="10600044" name="連射型エレクトリックブラスト" />
-  <key id="10600051" name="グレネード" />
-  <key id="10600052" name="グレネードスプラッシュ" feature="Develop" />
-  <key id="10600061" name="マグネチックボム" />
-  <key id="10600062" name="マグネチックボムスプラッシュ" feature="Develop" />
-  <key id="10600071" name="リロード" />
-  <key id="10600081" name="ブラストジャンプ" />
-  <key id="10600091" name="メディカルキット" />
-  <key id="10600092" name="メディカルキットスプラッシュ" feature="Develop" />
-  <key id="10600101" name="バレットシャワー" />
-  <key id="10600102" name="バレットシャワー2打" feature="Develop" />
-  <key id="10600111" name="バレットアップグレード" />
-  <key id="10600121" name="M-BOMB" />
-  <key id="10600122" name="M-BOMB スプラッシュ" feature="Develop" />
-  <key id="10600123" name="M-BOMB スプラッシュ2" feature="Develop" />
-  <key id="10600131" name="サテライト" />
-  <key id="10600132" name="サテライトスプラッシュ" feature="Develop" />
-  <key id="10600133" name="サテライトスプラッシュ発動" feature="Develop" />
-  <key id="10600134" name="サテライトスプラッシュ追加発動" feature="Develop" />
-  <key id="10600141" name="ミサイルアップグレード" />
-  <key id="10600151" name="パルスエネルギーアップグレード" />
-  <key id="10600161" name="ブラストチャージキット" />
-  <key id="10600171" name="プラズマチェーン" feature="JobChange_01" />
-  <key id="10600172" name="プラズマチェーン移動速度パッシブ" feature="Develop" />
-  <key id="10600181" name="集中射撃" feature="JobChange_01" />
-  <key id="10600191" name="ハイパーギガランチャー" feature="JobChange_01" />
-  <key id="10600192" name="ハイパーギガランチャー移動速度パッシブ" feature="Develop" />
-  <key id="10600201" name="ファイアボンバー" feature="JobChange_01" />
-  <key id="10600202" name="ファイアボンバースプラッシュ" feature="Develop" />
-  <key id="10600203" name="ファイアボンバースプラッシュ2" feature="Develop" />
-  <key id="10600204" name="ファイアボンバースプラッシュ3" feature="Develop" />
-  <key id="10600211" name="スカイハンター" feature="JobChange_01" />
-  <key id="10600212" name="SKILLNAME_10600212_NAME:[F]Develop" feature="Develop" />
-  <key id="10600213" name="スカイハンターバリアパッシブ" feature="Develop" />
-  <key id="10600221" name="リトルアーモリー" feature="JobChange_01" />
-  <key id="10600222" name="リトルアーモリースプラッシュ" feature="Develop" />
-  <key id="10600223" name="リトルアーモリー1次ステータス増加" feature="Develop" />
-  <key id="10600231" name="デモリッションキャノン" feature="JobChange_01" />
-  <key id="10600232" name="デモリッションキャノンスプラッシュ" feature="Develop" />
-  <key id="10600233" name="デモリッションキャノンスプラッシュ2" feature="Develop" />
-  <key id="10600241" name="プラズマジェネレータ" feature="JobChange_01" />
-  <key id="10600251" name="ミサイルスーパーチャージャー" feature="JobChange_01" />
-  <key id="10600261" name="SKILLNAME_10600261_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10600262" name="SKILLNAME_10600262_NAME:[F]Develop" feature="Develop" />
-  <key id="10600271" name="SKILLNAME_10600271_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10600281" name="SKILLNAME_10600281_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10600282" name="SKILLNAME_10600282_NAME:[F]Develop" feature="Develop" />
-  <key id="10600283" name="SKILLNAME_10600283_NAME:[F]Develop" feature="Develop" />
-  <key id="10600291" name="SKILLNAME_10600291_NAME:[F]JobChange_02" feature="JobChange_02" />
-  <key id="10600292" name="SKILLNAME_10600292_NAME:[F]Develop" feature="Develop" />
+	<key id="10600001" name="ガトリングファイア" />
+	<key id="10600002" name="ガトリングファイア2打" feature="Develop" />
+	<key id="10600003" name="ガトリングファイア3打" feature="Develop" />
+	<key id="10600011" name="ロケットランチャー" />
+	<key id="10600012" name="ロケットランチャースプラッシュ" feature="Develop" />
+	<key id="10600013" name="ロケットランチャースプラッシュ2" feature="Develop" />
+	<key id="10600021" name="ブルズアイ" />
+	<key id="10600031" name="ホーミングミサイル" />
+	<key id="10600041" name="エレクトリックブラスト" />
+	<key id="10600042" name="エレクトリックブラスト2段階" feature="Develop" />
+	<key id="10600043" name="エレクトリックブラスト3段階" feature="Develop" />
+	<key id="10600044" name="連射型エレクトリックブラスト" />
+	<key id="10600051" name="グレネード" />
+	<key id="10600052" name="グレネードスプラッシュ" feature="Develop" />
+	<key id="10600061" name="マグネチックボム" />
+	<key id="10600062" name="マグネチックボムスプラッシュ" feature="Develop" />
+	<key id="10600071" name="リロード" />
+	<key id="10600081" name="ブラストジャンプ" />
+	<key id="10600091" name="メディカルキット" />
+	<key id="10600092" name="メディカルキットスプラッシュ" feature="Develop" />
+	<key id="10600101" name="バレットシャワー" />
+	<key id="10600102" name="バレットシャワー2打" feature="Develop" />
+	<key id="10600111" name="バレットアップグレード" />
+	<key id="10600121" name="M-BOMB" />
+	<key id="10600122" name="M-BOMB スプラッシュ" feature="Develop" />
+	<key id="10600123" name="M-BOMB スプラッシュ2" feature="Develop" />
+	<key id="10600131" name="サテライト" />
+	<key id="10600132" name="サテライトスプラッシュ" feature="Develop" />
+	<key id="10600133" name="サテライトスプラッシュ発動" feature="Develop" />
+	<key id="10600134" name="サテライトスプラッシュ追加発動" feature="Develop" />
+	<key id="10600141" name="ミサイルアップグレード" />
+	<key id="10600151" name="パルスエネルギーアップグレード" />
+	<key id="10600161" name="ブラストチャージキット" />
+	<key id="10600171" name="プラズマチェーン" feature="JobChange_01" />
+	<key id="10600172" name="プラズマチェーン移動速度パッシブ" feature="Develop" />
+	<key id="10600181" name="集中射撃" feature="JobChange_01" />
+	<key id="10600191" name="ハイパーギガランチャー" feature="JobChange_01" />
+	<key id="10600192" name="ハイパーギガランチャー移動速度パッシブ" feature="Develop" />
+	<key id="10600201" name="ファイアボンバー" feature="JobChange_01" />
+	<key id="10600202" name="ファイアボンバースプラッシュ" feature="Develop" />
+	<key id="10600203" name="ファイアボンバースプラッシュ2" feature="Develop" />
+	<key id="10600204" name="ファイアボンバースプラッシュ3" feature="Develop" />
+	<key id="10600211" name="スカイハンター" feature="JobChange_01" />
+	<key id="10600212" name="SKILLNAME_10600212_NAME:[F]Develop" feature="Develop" />
+	<key id="10600213" name="スカイハンターバリアパッシブ" feature="Develop" />
+	<key id="10600221" name="リトルアーモリー" feature="JobChange_01" />
+	<key id="10600222" name="リトルアーモリースプラッシュ" feature="Develop" />
+	<key id="10600223" name="リトルアーモリー1次ステータス増加" feature="Develop" />
+	<key id="10600231" name="デモリッションキャノン" feature="JobChange_01" />
+	<key id="10600232" name="デモリッションキャノンスプラッシュ" feature="Develop" />
+	<key id="10600233" name="デモリッションキャノンスプラッシュ2" feature="Develop" />
+	<key id="10600241" name="プラズマジェネレータ" feature="JobChange_01" />
+	<key id="10600251" name="ミサイルスーパーチャージャー" feature="JobChange_01" />
+	<key id="10600261" name="SKILLNAME_10600261_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10600262" name="SKILLNAME_10600262_NAME:[F]Develop" feature="Develop" />
+	<key id="10600271" name="SKILLNAME_10600271_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10600281" name="SKILLNAME_10600281_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10600282" name="SKILLNAME_10600282_NAME:[F]Develop" feature="Develop" />
+	<key id="10600283" name="SKILLNAME_10600283_NAME:[F]Develop" feature="Develop" />
+	<key id="10600291" name="SKILLNAME_10600291_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="10600292" name="SKILLNAME_10600292_NAME:[F]Develop" feature="Develop" />
 </ms2>

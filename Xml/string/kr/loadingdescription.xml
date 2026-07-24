@@ -1,337 +1,363 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<tip id="1" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="때때로 상인에게 말을 걸어보세요.\n말을 건 이상, 사기 싫어도 사야 합니다." />
-	<tip id="3" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="혹시 즉시 입고가 가능한 상점인가요?\n즉시 입고를 누르면 새로운 상품이 들어옵니다." />
-	<tip id="4" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="친구의 집에 놀러가 보세요." />
-	<tip id="5" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="맵 곳곳에 있는 대지를 계약하고 싶다면 대지 앞에 있는 집 아이콘을 클릭해서 계약할 수 있습니다." />
-	<tip id="6" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메인 메뉴에서 [내 집] 버튼을 누르면 바로 내 집 실내로 이동할 수 있습니다." />
-	<tip id="7" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험가 주거 지원 정책으로 누구나 자신의 집을 가질 수 있습니다." />
-	<tip id="8" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대지를 계약한 후 건물을 설치하면 입구를 통해 내 집 실내로 들어갈 수 있습니다." />
-	<tip id="9" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 사람의 집에 놀러가서 방명록을 적어 보세요." />
-	<tip id="10" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집에서 매일 매일 장식도 선물을 받아 보세요.\n장식도 점수를 높이면 더 좋은 선물을 받을 수 있습니다." />
-	<tip id="11" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인테리어 레벨이 올라가면 더 많은 건설 자재를 설치할 수 있습니다." />
-	<tip id="12" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설 모드에서 건설 자재를 바로 구입해서 꾸밀 수 있습니다." />
-	<tip id="13" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="꾸미기 모드에서는 건설 자재가 없어도 자유롭게 꾸며볼 수 있습니다." />
-	<tip id="14" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집의 도면을 자유롭게 저장하고 불러올 수 있습니다." />
-	<tip id="15" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드의 내 집 설정에서 비밀번호 설정을 하거나 분위기를 바꿔볼 수 있습니다." />
-	<tip id="16" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드의 내 집 설정에서 우리 집의 규칙을 정할 수 있습니다." />
-	<tip id="17" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드에서 확장하기로 내 집 실내 크기와 높이를 확장할 수 있습니다." />
-	<tip id="18" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="장식도 선물은 하루에 한 번만 받을 수 있습니다.\n선물을 받기 전에 장식도 점수를 최대한 올려보세요." />
-	<tip id="19" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집 근처에서 B 키를 누르면 건설 모드가 시작되며, 집에 아이템을 배치할 수 있습니다." />
-	<tip id="20" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집에 건설 자재를 배치해서 꾸며보세요." />
-	<tip id="21" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 배치한 아이템의 방향이 마음에 들지 않을 때는 배치된 아이템을 회전하면 됩니다." />
-	<tip id="22" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드에서는 건설 자재가 없다면 바로 구입해서 설치할 수 있습니다." />
-	<tip id="26" locale="" feature="UGCMapRenewal" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집 안으로 들어갔다가 밖으로 나오면 언제든지 원래 있던 위치로 돌아옵니다." />
-	<tip id="27" locale="" feature="UGCMapRenewal" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="일부 건설 자재는 특별한 트로피를 달성해야 설치할 수 있습니다." />
-	<tip id="28" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 기념품을 배치해 두면 특별한 효과를 받을 수도 있습니다." />
-	<tip id="29" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 마네킹을 배치해서 장비를 입혀두거나 내 옷과 바꿔입어 보세요." />
-	<tip id="30" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 배치된 TV를 조사해서 TV를 켜고 끌 수 있습니다." />
-	<tip id="31" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이플 공방에서 나만의 디자인이 들어간 아이템을 만들어 볼 수 있습니다." />
-	<tip id="32" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="의상뿐 아니라 건설 아이템도 디자인할 수 있습니다." />
-	<tip id="33" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 올린 내 디자인 아이템을 다른 플레이어가 구입할 수도 있습니다." />
-	<tip id="33" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 올린 내 디자인 아이템을 다른 플레이어가 구입할 수도 있습니다." />
-	<tip id="34" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 이름이 적힌 아이템을 만들어서 입고 다닐 수 있습니다." />
-	<tip id="35" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자인 아이템으로 나만의 개성을 표현해 보세요." />
-	<tip id="36" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 디자인 아이템을 판매하면,\n제작비와 수수료를 제외한 판매 금액을 받을 수 있습니다." />
-	<tip id="36" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 디자인 아이템을 판매하면,\n제작비와 수수료를 제외한 판매 금액을 받을 수 있습니다." />
-	<tip id="37" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세련된 외모로 바꾸고 싶을 때는 $map:02000107$에 방문해 보세요." />
-	<tip id="38" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 헤어샵, 성형외과에서 외모를 꾸밀 수 있습니다." />
-	<tip id="39" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$에서 헤어, 얼굴, 피부색 등 나의 외모를 꾸밀 수 있습니다." />
-	<tip id="40" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 $map:52000010$에서 성형을 할 수 있습니다." />
-	<tip id="41" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 $map:52000008$에서 헤어를 바꿀 수 있습니다." />
-	<tip id="42" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 $map:52000008$에 있는 메이크업 아티스트 $npc:11000256$에게 메이크업을 맡겨보세요." />
-	<tip id="43" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:52000009$의 $npc:11000257$$pp:는,은$ 장비 아이템에 어떤 색상이라도 염색할 수 있다고 합니다." />
-	<tip id="44" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="지금 바로 $map:02000107$에서 헤어, 얼굴, 피부색을 바꿔보세요!" />
-	<tip id="45" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="마을 곳곳의 전광판을 조사하여 원하는 이미지를 올릴 수 있습니다." />
-	<tip id="46" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전광판에 이미지를 올리려면 최소 3시간 전에는 예약을 해야 합니다." />
-	<tip id="47" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$, $map:2000100$ 같은 대도시를 비롯해 월드 곳곳에\n시간대 별로 예약 가능한 전광판이 있습니다." />
-	<tip id="48" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전광판은 누구나 예약할 수 있습니다." />
-	<tip id="49" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="캐릭터 정보에서 프로필 설정 버튼을 눌러 원하는 이미지를 프로필로 등록할 수 있습니다." />
-	<tip id="50" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="새로운 마을에 도착했다면, 장비 상점을 구경할 차례입니다." />
-	<tip id="51" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F12 키를 누르면 다이나믹 액션을 할 수 있습니다." />
-	<tip id="51" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F12 키를 누르면 다이나믹 액션을 할 수 있습니다." />
-	<tip id="51" locale="NA" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F5 키를 누르면 다이나믹 액션을 할 수 있습니다." />
-	<tip id="51" locale="JP" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F5 키를 누르면 다이나믹 액션을 할 수 있습니다." />
-	<tip id="51" locale="TH" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F5 키를 누르면 다이나믹 액션을 할 수 있습니다." />
-	<tip id="51" locale="TW" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F5 키를 누르면 다이나믹 액션을 할 수 있습니다." />
-	<tip id="52" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="꾸미기 모드에서는 트리거 에디터 및 마네킹과 같은 특수한 자재는 이용할 수 없고, 설치만 할 수 있습니다." />
-	<tip id="53" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="슬라임의 귀여운 외모에 속으면 안됩니다." />
-	<tip id="54" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="활을 쏠 때 화살은 필요 없습니다." />
-	<tip id="55" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="표창은 충전하지 않아도 됩니다." />
-	<tip id="56" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="액티브 스킬을 사용하려면 SP가 필요합니다." />
-	<tip id="59" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="새로운 스킬을 배우면 퀵슬롯에 올려서 사용하세요." />
-	<tip id="61" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석에 깔렸을 때, 다른 사람이 나의 비석을 때려주면 제자리에서 일어날 수 있습니다." />
-	<tip id="62" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물약을 얻었다면 퀵슬롯에 올린 후 사용하세요." />
-	<tip id="64" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="오른손과 왼손에 각각 다른 표창을 착용할 수 있습니다." />
-	<tip id="65" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="표창은 오른손과 왼손 양쪽 다 착용할 수 있습니다." />
-	<tip id="66" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="오른손과 왼손에 각각 다른 단검을 착용할 수 있습니다." />
-	<tip id="67" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="한 손에 하나씩 다른 단검을 착용할 수 있습니다." />
-	<tip id="70" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="부활 후 상처 입은 영혼의 지배를 벗어나기까지 어느 정도 시간이 필요합니다." />
-	<tip id="71" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="부활 후 상처 입은 영혼 상태가 유지되는 동안 또다시 HP가 0이 되면 강철 비석에 깔리게 됩니다." />
-	<tip id="72" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석에 깔렸을 때 제자리에서 부활할 수도 있습니다.\n단, 제자리 부활을 위해서는 메소 또는 메럿이 필요합니다." />
-	<tip id="74" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="가끔씩 필드에 나타나는 모자로 들어가면, 공간의 틈을 발견할 수 있습니다." />
-	<tip id="75" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="필드에서 우연히 발견한 모자로 들어가면, 다양한 보너스 스테이지를 즐길 수 있습니다." />
-	<tip id="76" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="아이언 호그의 갑옷은 튼튼하기로 유명합니다." />
-	<tip id="77" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="개미굴에는 개미가 없습니다." />
-	<tip id="78" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="굽이치는 협곡의 지배자 $npc:22000022$$pp:는,은$ 사실 여자입니다." />
-	<tip id="80" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="약초를 먹으면 HP가 서서히 회복됩니다." />
-	<tip id="81" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="HP가 가득 차 있으면 포션을 사용할 수 없습니다." />
-	<tip id="82" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="사악한 요정인 $npc:22000003$$pp:와,과$ $npc:22000004$$pp:는,은$ 자매 지간입니다." />
-	<tip id="83" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:23000019$$pp:와,과$ $npc:23000020$$pp:는,은$ 부부지간입니다." />
-	<tip id="84" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="환경설정의 키설정에서 키보드 설정을 바꿀 수 있습니다." />
-	<tip id="87" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="벽을 향해 점프해 보세요.\n벽에 매달릴 수 있습니다." />
-	<tip id="89" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Alt 키 또는 C 키를 눌러 점프할 수 있습니다." />
-	<tip id="90" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Ctrl 키 또는 X 키로 공격할 수 있습니다." />
-	<tip id="92" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Z 키를 누르면 아이템을 주울 수 있습니다." />
-	<tip id="93" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="사다리 근처에서 위 방향키를 누르면 사다리에 매달릴 수 있습니다." />
-	<tip id="94" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000083$에서 신호등을 뽑아 휘둘러도\n공공 기물 파손죄가 적용되진 않습니다." />
-	<tip id="97" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵을 활용하면 많은 정보를 얻을 수 있습니다." />
-	<tip id="98" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="택시 정류장의 위치를 확인하려면 월드맵을 열어보세요." />
-	<tip id="99" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵을 열면, 시작 가능한 퀘스트가 어느 맵에 있는지 확인할 수 있습니다." />
-	<tip id="100" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵에서 내가 있는 맵을 확인할 수 있습니다." />
-	<tip id="101" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵에서 보스가 등장한 맵을 확인할 수 있습니다." />
-	<tip id="102" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="지금 어디에 사람들이 많이 모여있는지 궁금하지 않은가요? \n월드맵에서 핫플레이스를 확인해보세요." />
-	<tip id="103" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="의사는 주로 대도시나 병원에서 만날 수 있습니다." />
-	<tip id="104" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="의사에게 치료받으면 즉시 컨디션을 회복할 수 있습니다." />
-	<tip id="105" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="스킬 포인트가 있다면 스킬창을 열어서\n스킬을 배우거나 업그레이드할 수 있습니다." />
-	<tip id="110" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="트로피를 달성하면 칭호를 얻을 수도 있습니다. " />
-	<tip id="113" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="택시 정류장을 조사하여, 이미 발견한 다른 택시 정류장으로 이동할 수 있습니다." />
-	<tip id="114" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="25레벨이 되면 모범 택시를 이용할 수 있습니다." />
-	<tip id="115" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모범 택시는 부르면 바로 도착합니다." />
-	<tip id="116" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로터스 에어 택시를 이용하면 월드맵의 어느 곳이나 바로 이동할 수 있습니다." />
-	<tip id="117" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭하면 귓속말, 친구 추가, 파티 초대, 거래 등 다양한 일을 할 수 있습니다." />
-	<tip id="118" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="지나가는 캐릭터를 우클릭해서 파티에 초대해 보세요." />
-	<tip id="119" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="최대 10명이 함께 파티를 맺을 수 있습니다." />
-	<tip id="120" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="커뮤니티 창에서는 같은 맵에 접속한 사람들을 확인할 수 있습니다." />
-	<tip id="121" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭하거나 커뮤니티 창에서 친구 추가를 할 수 있습니다." />
-	<tip id="122" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭해서 파티 초대를 할 수 있습니다." />
-	<tip id="123" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭해서 차단하면 그 캐릭터가 보내는 각종 메시지를 차단할 수 있습니다." />
-	<tip id="124" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭해서 1:1 거래를 할 수 있습니다." />
-	<tip id="125" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="TAB 키를 누르면 미니맵을 크게 볼 수 있습니다." />
-	<tip id="126" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미니맵의 아이콘에 마우스를 오버하면 NPC나 맵의 이름을 확인할 수 있습니다." />
-	<tip id="127" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미니맵의 우측 상단에 설정 버튼을 눌러 여러 가지 정보를 보거나 숨길 수 있습니다." />
-	<tip id="128" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미니맵 상단에 나와 같은 맵에 접속하고 있는 캐릭터가 표시됩니다." />
-	<tip id="131" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="가까이 다가갔을 때 붙잡을 수 있는 몬스터도 있습니다." />
-	<tip id="133" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="탈것 아이템을 더블클릭하여 사용할 수 있습니다." />
-	<tip id="134" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="탈것 아이템을 퀵슬롯에 지정한 후 사용하면 탑승할 수 있습니다." />
-	<tip id="135" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="탈것을 타고 X 키를 누르면 탈것의 고유 스킬을 사용할 수 있습니다." />
-	<tip id="137" locale="" feature="UGCMapRenewal" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집 안에서 언제든지 금고를 이용하거나 주치의를 부를 수 있습니다." />
-	<tip id="138" locale="" feature="UGCMapRenewal" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집 실내에서 접속을 종료하면\n접속하지 않은 시간 동안 휴식 경험치를 얻을 수 있습니다." />
-	<tip id="139" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창의 탭에서 마우스 우클릭으로 채팅창 설정을 할 수 있습니다." />
-	<tip id="140" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 아이템을 링크 하려면 소지품을 열고 아이템에 Shift+마우스 클릭해 보세요." />
-	<tip id="141" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅을 입력할 때 Tab키를 누르면 \n채팅 대상을 손쉽게 변경할 수 있습니다." />
-	<tip id="142" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에서 월드 확성기나 채널 확성기를 사용하려면 메럿이 필요합니다." />
-	<tip id="143" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="파티원과 함께 싸우면 더 빨리 몬스터를 처치할 수 있습니다." />
-	<tip id="144" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모르는 사람이 엘리트, 보스 몬스터와 싸우고 있다면\n그냥 지나치지 마세요!" />
-	<tip id="145" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엘리트, 보스 몬스터와 같이 강한 몬스터를 만났다면\n모두 함께 힘을 합쳐 싸우세요." />
-	<tip id="146" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엘리트, 보스 몬스터와 같이 강한 몬스터와 싸울 때에는\n모두 다 함께 힘을 모아야 합니다." />
-	<tip id="147" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="파티를 맺지 않았더라도 다른 사람과 같이\n엘리트, 보스 몬스터를 공격하면 함께 전리품을 얻을 수 있습니다." />
-	<tip id="148" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엘리트, 보스 몬스터와 싸울 때에는 다른 이들과 파티를 맺지 않아도\n함께 싸워 전리품을 얻을 수 있습니다." />
-	<tip id="149" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓에서 액션 수강증을 구입하면 새로운 액션을 배울 수 있습니다." />
-	<tip id="149" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓에서 액션 수강증을 구입하면 새로운 액션을 배울 수 있습니다." />
-	<tip id="150" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석에 깔렸을 때는 경험치를 획득할 수 없습니다." />
-	<tip id="151" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석이 된 상태에서 부활하면 잠시 동안 피해를 입지 않습니다." />
-	<tip id="152" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 플레이어가 비석을 때려 게이지를 없애면 제자리에서 부활합니다." />
-	<tip id="153" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전투불능에서 부활해 상처 입은 영혼의 지배를 받는 상태에서 HP가 0이 되면 강철 비석이 됩니다." />
-	<tip id="154" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="강철 비석이 되면 다른 사람의 도움을 받을 수 없습니다." />
-	<tip id="155" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="가까운 거리는 건강을 위해 걸어 다니세요." />
-	<tip id="156" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="특별 우편이 도착했다면 꼭 확인해 보세요." />
-	<tip id="157" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$의 경비병들이 쌍둥이라는 소문은 사실이 아닙니다." />
-	<tip id="158" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000374$의 성별은 아무도 모릅니다." />
-	<tip id="159" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000106$$pp:는,은$ 내 남자에게만 따뜻한 여자입니다." />
-	<tip id="160" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="눈앞에 레버가 있다면, 당기세요." />
-	<tip id="161" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="예쁘게 꾸민 자신의 모습을 더 잘 살펴보고 싶다면 마우스 휠을 이용해 카메라를 줌인해 보세요." />
-	<tip id="162" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="사람의 발길이 닿지 않은 곳에 가면 보물 상자가 있을지도 모릅니다." />
-	<tip id="163" locale="" feature="UGCMapRenewal" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집에 머무르고 있으면 휴식 경험치를 얻을 수 있습니다." />
-	<tip id="164" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="땅에 떨어진 아이템이나 메소는 90초가 지나면 사라집니다." />
-	<tip id="165" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="평소에 잘 살피지 못한 곳을 둘러보세요. 황금 보물 상자가 있을지도 모릅니다." />
-	<tip id="166" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전광판에서 이상한 사진을 발견했다면 마우스 우클릭으로 신고할 수 있습니다." />
-	<tip id="167" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/파티초대 캐릭터이름&apos;을 입력하면\n이름이 입력된 캐릭터를 파티에 초대할 수 있습니다." />
-	<tip id="168" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/파티탈퇴&apos;를 입력하면\n가입돼 있는 파티에서 탈퇴할 수 있습니다." />
-	<tip id="169" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드를 생성하려면 G키를 눌러보세요." />
-	<tip id="170" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="마음이 맞는 친구들과 함께 길드를 만들어보세요." />
-	<tip id="171" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드 트로피는 내 길드에 속한 모든 길드원의 트로피 총합입니다." />
-	<tip id="172" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$에 있는 명예의 깃발에는 \n길드 트로피 순위 1위, 개인 트로피 1위, 메이플 투기장 1위가 보여집니다." />
-	<tip id="173" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000100$에 있는 명예의 깃발에는 \n트로피 순위 1, 2, 3위 길드의 길드 마크가 새겨집니다." />
-	<tip id="174" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000023$에 있는 명예의 깃발에는 \n개인 트로피 순위 1, 2, 3위의 프로필 사진이 새겨집니다." />
-	<tip id="175" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$에 있는 명예의 깃발에는 \n길드 트로피와 개인 트로피 1, 2, 3위가 보여집니다." />
-	<tip id="176" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text=" $map:02000051$에 있는 명예의 깃발에는 \n메이플 투기장 1, 2, 3위의 길드 마크가 새겨집니다." />
-	<tip id="177" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000217$에 있는 명예의 깃발에는 \n길드 챔피언십 1, 2, 3위의 길드 마크가 새겨집니다." />
-	<tip id="178" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="명예의 깃발은 하루에 한 번씩 순위가 갱신됩니다." />
-	<tip id="179" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="명예의 깃발을 조사하면 메이뷰에서 자세한 순위를 확인할 수 있습니다." />
-	<tip id="180" locale="" feature="UGCMapRenewal" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="저장된 도면을 불러오면 자동으로 기존에 설치된 자재를 모두 치우고 저장된 자재로 재설치해 줍니다." />
-	<tip id="181" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/길드초대 캐릭터이름&apos;을 입력하면\n이름이 입력된 캐릭터를 내가 속한 길드에 초대할 수 있습니다." />
-	<tip id="185" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000508$$pp:는,은$ 여러 가지 이유로 인기가 많습니다." />
-	<tip id="186" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000203$에 있는 대장장이 $npc:11000508$$pp:는,은$ 아이템을 더 강하게 만들어 줍니다." />
-	<tip id="188" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 플레이어와 전투 시에는 인챈트로 증가된 장비 효과가 보정됩니다." />
-	<tip id="189" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$$pp:는,은$ 철딱서니가 없습니다." />
-	<tip id="190" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$$pp:는,은$ 대지주 슈아브리체 가문의 외동딸입니다." />
-	<tip id="193" locale="" feature="NAstringMassive" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$에서는 고레벨 캐릭터들이 1:1로 실력을 겨룰 수 있습니다." />
-	<tip id="194" locale="" feature="NAstringMassive" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$의 승자는 계속 새로운 도전자를 맞이할 수 있습니다." />
-	<tip id="195" locale="" feature="NAstringMassive" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000002$에서는 최대 10명의 캐릭터가 실력을 겨룰 수 있습니다." />
-	<tip id="199" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터에게 불편을 주는 이가 있다면 신고하세요." />
-	<tip id="200" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="보고 싶지 않은 이미지가 전광판에 올라와 있다면 \n전광판을 우클릭해 신고할 수 있습니다." />
-	<tip id="201" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="불쾌한 말을 하는 사람의 채팅을 신고하면 \n신고한 이후부터 그 사람의 채팅이 블라인드 처리됩니다." />
-	<tip id="202" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="불쾌한 전광판 이미지나 프로필 이미지를 신고하면 \n그 이후부터 이미지가 블라인드 처리됩니다." />
-	<tip id="203" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$$pp:는,은$ 지금까지 단 한 명의 탈옥수도 용납하지 않았다고 합니다." />
-	<tip id="204" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$에게 보석금을 주면 감옥을 나올 수 있다는 \n소문이 있지만 사실은 확인되지 않았습니다." />
-	<tip id="205" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="허위 신고는 강력한 처벌을 받으니 주의하세요." />
-	<tip id="206" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="타인에게 반복적으로 피해를 입힌 경우 벨마의 심판을 받게 됩니다." />
-	<tip id="207" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="벨마의 심판을 받게 되면 채팅, UGC 이용 등이 제한됩니다." />
-	<tip id="208" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="감옥에서 반성의 노역을 하면 벨마의 심판에서\n좀 더 빨리 벗어날 수 있습니다." />
-	<tip id="209" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="허위 신고를 할 경우 허위 신고자가 감옥에 갈 수 있습니다." />
-	<tip id="210" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000062$에 있는 $npc:11000585$$pp:가,이$ 감옥 투어를 보내준다고 합니다." />
-	<tip id="211" locale="" feature="CharacterAbility" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="50레벨이 되면 특성의 힘을 개방할 수 있습니다." />
-	<tip id="212" locale="" feature="CharacterAbility" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="50레벨 이후부터 레벨이 오를 때마다 특성 포인트를 얻을 수 있습니다." />
-	<tip id="215" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="친구나 길드원을 초대해 그룹 대화를 해보세요." />
-	<tip id="216" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000216$에서는 엑설런트 이상 등급의 아이템도 거래할 수 있습니다." />
-	<tip id="217" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="흑성회가 $map:02000216$$pp:를,을$ 운영하고 있다는 사실은 공공연한 비밀입니다." />
-	<tip id="218" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 프로필에서 메이드의 이름과 주인을 부를 때의 호칭을 설정할 수 있습니다." />
-	<tip id="219" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드를 대신해 집안 일을 해 줄 수는 없습니다." />
-	<tip id="220" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000790$, $npc:11000792$처럼 연금술이 특기인 메이드도 있습니다." />
-	<tip id="221" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000770$, $npc:11000780$처럼 요리가 특기인 메이드도 있습니다." />
-	<tip id="222" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000787$, $npc:11000779$처럼 음료 제조가 특기인 메이드도 있습니다." />
-	<tip id="223" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000789$, $npc:11000512$처럼 목걸이 제작이 특기인 메이드도 있습니다." />
-	<tip id="224" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000777$, $npc:11000544$처럼 반지 제작이 특기인 메이드도 있습니다." />
-	<tip id="225" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 $npc:11000770$$pp:가,이$ 가장 자신 있어 하는 요리는 특제 장어 구이입니다." />
-	<tip id="226" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 $npc:11000786$에게 $npc:11000015$$pp:는,은$ 동경의 대상입니다." />
-	<tip id="227" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 $npc:11000777$$pp:는,은$ $npc:11000075$의 애완 고양이인 $npc:11000708$의 후손입니다." />
-	<tip id="228" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집사 $npc:11000787$$pp:는,은$ $map:02000100$의 어느 바에서 바텐더로 일한 적이 있다고 합니다." />
-	<tip id="229" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집사 $npc:11000791$의 이야기 보따리가 가득한 건\n그가 보부상으로 일하며 온갖 소문을 주워들었기 때문입니다." />
-	<tip id="230" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집사 $npc:11000790$$pp:가,이$ 봐 주는 점괘는 믿을 게 못 됩니다." />
-	<tip id="231" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사마다 제작 특기가 다릅니다." />
-	<tip id="232" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 연금술, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
-	<tip id="233" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="드림네이즈는 빅토리아 드림을 꿈꾸는 젊은이들을 위한 인재 양성 교육 기관입니다." />
-	<tip id="234" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="투명 배지를 이용하면 장착한 장비의 외형을 숨길 수 있습니다." />
-	<tip id="235" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="기념품 버프는 동시에 하나만 받을 수 있습니다." />
-	<tip id="236" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="몸이 찌뿌둥하다면 집에 샤워부스를 설치해 보세요." />
-	<tip id="237" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 /? 를 써 보세요. 채팅 관련 명령어를 알 수 있어요." />
-	<tip id="238" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="바른 말 고운 말을 사용합시다." />
-	<tip id="239" locale="" feature="SkinSocket" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="스킨 아이템을 분해하면 스페셜 스킨 크리스탈을,\n20레벨 이상 장비 아이템을 분해하면 오닉스 결정을 얻을 수 있습니다." />
-	<tip id="240" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엑설런트 이상 등급의 아이템을 분해하면 $item:40100024$$pp:를,을$ 얻을 수 있습니다." />
-	<tip id="241" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드의 최대 인원은 길드 레벨이 높아질수록 늘어나며, 최대 70명까지 늘어날 수 있습니다." />
-	<tip id="243" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000145$$pp:는,은$ 미래에서 왔다고 합니다." />
-	<tip id="244" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000144$에게서 $item:13200028$$pp:를,을$ 얻을 수 있습니다." />
-	<tip id="246" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓의 디자이너스 샵에서\n다른 플레이어들이 디자인한 아이템들을 구입할 수 있습니다." />
-	<tip id="246" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓의 디자이너스 샵에서\n다른 플레이어들이 디자인한 아이템들을 구입할 수 있습니다." />
-	<tip id="247" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에서 다른 플레이어들에게 내 디자인을 판매해 보세요." />
-	<tip id="247" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에서 다른 플레이어들에게 내 디자인을 판매해 보세요." />
-	<tip id="248" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="1:1 거래하기를 통해 메소 거래가 가능합니다.\n단, 거래 금액의 일정 부분이 수수료로 부과됩니다." />
-	<tip id="249" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="무기는 직업과 상관없이 착용 가능하며,\n다른 직업의 무기를 착용하면 X키를 이용한 일반 공격만 가능합니다." />
-	<tip id="250" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="우편으로 아이템 및 메소를 선물할 수 없습니다." />
-	<tip id="251" locale="KR" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="권리침해센터에서 UGC 관련 피해를 신고할 수 있습니다." />
-	<tip id="252" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='궁금한 몬스터를 채팅창에서 &quot;/검색 몬스터이름&quot; 으로 검색해보세요.' />
-	<tip id="253" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로제타 뷰티살롱의 거울을 이용하여 모자를 돌려 쓸 수 있습니다." />
-	<tip id="254" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text='상점에서 장비 아이템 아이콘을 &quot;Shift + 우클릭&quot; 하면\n해당 아이템을 착용했을 때 모습을 미리 확인할 수 있습니다.' />
-	<tip id="255" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 플레이어 캐릭터를 마우스 우클릭하여 해당 캐릭터의 정보를 볼 수 있습니다." />
-	<tip id="256" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/채널이동 채널번호&apos;를 입력하면\n손쉽게 채널을 변경할 수 있습니다." />
-	<tip id="257" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 검기와 룬 주술의 융합을 통해 극의를 깨치고자 합니다." />
-	<tip id="258" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 주술의 선지자 지브릿타와 최강의 검사 펠기아는\n&apos;테룬칼리브&apos;라는 룬 블레이더 조직을 함께 설립했습니다." />
-	<tip id="259" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="칼리브 8검은 절대적인 무위를 입증한 여덟 명의\n룬 블레이더에게만 부여되는 영광스러운 칭호입니다." />
-	<tip id="260" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$$pp:는,은$ 올곧은 성품과 반듯한 외모를 지녀\n칼리브 8검 중 가장 많은 추종자를 거느리고 있습니다." />
-	<tip id="261" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 대지에 머무르고 있는 선조들의 혼,\n이른바 바즈의 가르침을 중시합니다." />
-	<tip id="262" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더가 새로운 스킬을 연마하기 위해서는\n선조들이 남긴 바즈의 지혜가 필요합니다." />
-	<tip id="263" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 블레이드라는 날카로운 검을 사용합니다." />
-	<tip id="264" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 블레이드에 화염, 냉기, 전격\n속성을 부여하여 싸울 수 있습니다." />
-	<tip id="265" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 신비로운 룬의 힘을\n전투 상황에서 다채롭게 사용할 수 있습니다." />
-	<tip id="266" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$의 무뚝뚝함은 칼리브 아일랜드의 여심을 흔들고 있습니다." />
-	<tip id="267" locale="" feature="RuneBlader" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npcName:11001230$에게 배꼽이 없다는 소문은 사실이 아닙니다." />
-	<tip id="268" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$$pp:가,이$ 과거에는 월척만 낚는 낚시꾼이었다는 소문이 있습니다." />
-	<tip id="269" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$item:40100024$$pp:가,이$ 알고 보니 전복이라는 풍문은 사실이 아닙니다." />
-	<tip id="270" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="높은 등급의 물고기는 도망가 버릴 확률도 높습니다." />
-	<tip id="271" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="수영할 수 있는 곳이라면 어디든 낚시를 할 수 있습니다.\n단, 물속에서는 낚싯대를 던질 수 없습니다." />
-	<tip id="272" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미끼를 사용하면 낚시 성공 확률을 높일 수 있습니다." />
-	<tip id="273" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="보다 커다란 물고기를 유혹하는 미끼가 있다는 소문입니다." />
-	<tip id="274" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기가 어디 사는지 알고 싶다면 물고기 도감을 펼쳐보세요." />
-	<tip id="275" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="높은 단계의 낚시터에서 잡히는 물고기일수록\n여러 번 잡아야 낚시 숙련도를 올릴 수 있습니다." />
-	<tip id="276" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기는 각자 사는 곳이 다릅니다." />
-	<tip id="277" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시를 하다 보면 특별한 아이템을 낚을지도 모릅니다." />
-	<tip id="278" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기를 낚으면 경험치를 얻을 수 있습니다." />
-	<tip id="279" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기의 등급이 높을수록 희귀합니다." />
-	<tip id="280" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시꾼 단계가 올라갈수록 찌의 모양이 화려해집니다." />
-	<tip id="281" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시로 물고기만 낚을 수 있는 것은 아닙니다." />
-	<tip id="282" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵 툴팁으로 어느 맵에 어떤 단계의 낚시터가 있는지 확인할 수 있습니다." />
-	<tip id="283" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$$pp:가,이$ $map:02000002$에서 낚시용품을 팔고 있습니다." />
-	<tip id="284" locale="" feature="KarkarIsland" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001449$$pp:가,이$ $map:02010002$에서 낚시용품을 팔고 있습니다." />
-	<tip id="285" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시왕이 되고 싶다면, 어디든 보이는 물에 낚싯대를 던지세요!" />
-	<tip id="286" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="움직이는 장소에서는 낚시를 할 수 없습니다." />
-	<tip id="287" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="보다 희귀한 물고기를 모여들게 하는\n특별한 미끼가 있다는 소문입니다." />
-	<tip id="288" locale="" feature="Fishing" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 낚시꾼 단계에 맞는 물고기를 낚아야 \n낚시 숙련도를 올릴 수 있습니다." />
-	<tip id="289" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미의 마스코트는 더키와 더키볼입니다." />
-	<tip id="290" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미 회장 디디아나는 노래하는 더키를 보고\n영감을 얻어 음악의 대중화에 뜻을 두게 되었다고 합니다." />
-	<tip id="291" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미에서는 음악의 대중화를 위해\n누구나 연주할 수 있는 악기와 악보를 판매하고 있습니다." />
-	<tip id="292" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미 행정관 $npc:11001320$$pp:와,과$ $npc:11001322$$pp:는,은$\n절친한 친구 사이입니다." />
-	<tip id="293" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 사람들이 만든 악보를 구입해서 연주할 수 있습니다." />
-	<tip id="294" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 가지고 있다면 근처에 있는 파티원과 합주를 할 수도 있습니다." />
-	<tip id="295" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="빈 악보를 사용해서 나만의 곡을 만들어 볼 수 있습니다." />
-	<tip id="296" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악보를 많이 연주해서 숙련도가 높아지면\n더 화려한 액션으로 악기를 연주합니다." />
-	<tip id="297" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 사용해 악보 없이 즉흥 연주를 할 수 있습니다." />
-	<tip id="298" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 사용해 가지고 있는 악보로\n악보 연주를 할 수 있습니다." />
-	<tip id="299" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 연주하면 근처의 다른 사람들도 연주를 들을 수 있습니다." />
-	<tip id="300" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="연주 소리를 듣기 싫다면\n환경 설정 내 사운드 탭에서 악기 연주 소리를 줄여 주세요." />
-	<tip id="301" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="차단한 캐릭터의 연주 소리는 들을 수 없습니다." />
-	<tip id="302" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$의 $npc:11001320$$pp:와,과$ $map:02010002$의 $npc:11001322$$pp:는,은$\n피아노와 기타를 비롯한 다양한 악기를 판매하고 있습니다." />
-	<tip id="303" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="연주와 관련된 물품을 구입하려면 $map:02000001$에서 $npc:11001320$$pp:를,을$ 만나보세요." />
-	<tip id="304" locale="" feature="MusicInstrument" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="연주와 관련된 물품을 구입하려면\n$map:02010002$에 있는 $npc:11001322$$pp:를,을$ 만나보세요." />
-	<tip id="305" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." />
-	<tip id="306" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." />
-	<tip id="307" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." />
-	<tip id="308" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." />
-	<tip id="309" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." />
-	<tip id="310" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." />
-	<tip id="311" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드 가입 후 다양한 플레이를 통해 \n길드 경험치를 획득할 수 있습니다." />
-	<tip id="320" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드 스킬의 효과는 길드에 가입한 뒤 \n24시간 이후부터 누릴 수 있습니다." />
-	<tip id="321" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드원끼리 언제든 이벤트를 즐겨보세요." />
-	<tip id="322" locale="" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드를 생성하고 24시간 이후부터 길드 이벤트를 시작할 수 있습니다." />
-	<tip id="324" locale="" feature="ItemSocketSystem" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="젬스톤을 분해하면 업그레이드 재료가 되는\n쥬얼 더스트를 얻을 수 있습니다." />
-	<tip id="325" locale="" feature="ItemSocketSystem" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="젬스톤을 업그레이드해서\n더 상위 등급의 젬스톤을 얻을 수 있습니다." />
-	<tip id="326" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="하루에 채광으로 얻을 수 있는 광석의 양은 광맥마다 다릅니다." />
-	<tip id="327" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 숙련도가 높아지면\n이전보다 더 많은 광석을 캘 수 있습니다.  " />
-	<tip id="328" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 숙련도는 채광을 성공했을 때 상승합니다." />
-	<tip id="329" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광할 수 있는 광맥이 어디에 있는지 알고 싶다면\n생활 메뉴의 채광 탭을 살펴보세요." />
-	<tip id="330" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광으로 광석을 캐면 경험치를 얻을 수 있습니다." />
-	<tip id="331" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵 툴팁으로 어느 맵에 어떤 광맥이 있는지 확인할 수 있습니다." />
-	<tip id="332" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 도구를 사용하면 채광 시 더 많은 광석을 획득 할 수 있습니다. " />
-	<tip id="333" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 도구는 대장을 통해 만들 수 있습니다." />
-	<tip id="334" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모든 광맥마다 채광할 수 있는 숙련 단계가 정해져 있습니다. " />
-	<tip id="335" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="하루에 축산으로 얻을 수 있는 생산물의 양은 동물마다 다릅니다." />
-	<tip id="336" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산 숙련도가 높아지면\n이전보다 더 많은 생산물을 얻을 수 있습니다.  " />
-	<tip id="339" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산으로 생산물을 거두면 경험치를 얻을 수 있습니다." />
-	<tip id="340" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설 메뉴의 축산 탭에서 원하는 동물의 축사를 건설할 수 있습니다. " />
-	<tip id="341" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산 도구를 사용하면 더 많은 생산물을 획득 할 수 있습니다. " />
-	<tip id="342" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산 도구는 세공을 통해 만들 수 있습니다." />
-	<tip id="343" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모든 축산 동물마다 사료를 줄 수 있는 숙련 단계가 정해져 있습니다. " />
-	<tip id="344" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장 숙련도가 높아지면\n제작에 필요한 재료 수가 줄어듭니다." />
-	<tip id="345" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장으로 만들 수 있는 아이템이 알고 싶다면\n생활 메뉴의 대장 탭을 살펴보세요." />
-	<tip id="346" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장으로 아이템을 제작하면 경험치를 얻을 수 있습니다." />
-	<tip id="347" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장 숙련도는 아이템을 제작하면 상승합니다." />
-	<tip id="348" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장으로 제작하는 아이템의 재료는\n채광이나 축산을 통해 얻을 수 있습니다." />
-	<tip id="350" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 만들 수 있는 아이템이 알고 싶다면\n생활 메뉴의 세공 탭을 살펴보세요." />
-	<tip id="351" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 아이템을 제작하면 경험치를 얻을 수 있습니다." />
-	<tip id="352" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공 숙련도는 아이템을 제작하면 상승합니다." />
-	<tip id="353" locale="" feature="Mastery" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 제작하는 아이템의 재료는\n채광이나 축산을 통해 얻을 수 있습니다." />
-	<tip id="357" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬은 생활기술의 마법부여를 통해 얻을 수 있습니다." />
-	<tip id="363" locale="" feature="MagicScroll01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬을 사용하면 원하는 장비를\n한번에 높은 단계로 인챈트 할 수 있습니다." />
-	<tip id="366" locale="CN" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
-	<tip id="366" locale="NA" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
-	<tip id="366" locale="JP" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
-	<tip id="366" locale="TH" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
-	<tip id="366" locale="TW" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." />
-	<tip id="367" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="계정에서 처음으로 캐릭터가 50레벨을 달성했을 때 모험레벨이 시작됩니다." />
-	<tip id="368" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험레벨은 계정내 모든 캐릭터가 공유하는 레벨입니다." />
-	<tip id="369" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="50레벨이상 캐릭터는 캐릭터 경험치를 얻을 때 모험경험치도 함께 획득하게 됩니다." />
-	<tip id="370" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험레벨을 레벨업할 때마다 보상상자를 얻을 수 있습니다." />
-	<tip id="371" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험레벨을 달성하여 보상으로 얻은 캐릭터 스탯은 50레벨이상 캐릭터만 사용할 수 있습니다." />
-	<tip id="372" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험능력의 효과는 계정내 모든 캐릭터에게 동일하게 적용됩니다." />
-	<tip id="373" locale="" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="하루에 최대로 획득할 수 있는 모험경험치는 제한이 있습니다." />
-	<tip id="374" locale="" feature="EnchantReformation01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엑설런트 이상 등급의 장비는 인챈트 11단계부터\n인챈트 하는 장비와 동일한 장비를 인챈트 재료로 요구합니다." />
-	<tip id="375" locale="" feature="EnchantReformation01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트를 시도하다 실패하면, 인챈트 성공 확률 증가 포인트가\n인챈트를 시도한 장비에 쌓이게 됩니다." />
-	<tip id="376" locale="" feature="EnchantReformation01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="토드의 연마석은 인챈트 재료로 요구되는 장비와 동일한 효과를 발휘합니다." />
-	<tip id="377" locale="NA" feature="PetBattle" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Make sure to feed your pet every day! They&apos;ll make you a lot stronger!" />
-	<tip id="378" locale="NA" feature="ItemSocketSystem" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Accessory gemstones raise your power significantly." />
-	<tip id="379" locale="NA" feature="FindDungeonHelp" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Struggling with a dungeon or a raid? Ask for assistance using the Dungeon Helper system!" />
-	<tip id="380" locale="NA" feature="AdventureLevel" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Don&apos;t forget to claim your weekly Prestige Rewards!" />
-	<tip id="381" locale="NA" feature="" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="House souvenirs can improve your attack or defense temporarily for free." />
-	<tip id="382" locale="NA" feature="GuildSystem01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Guilds offer useful buffs and rewards for its members!" />
-	<tip id="383" locale="NA" feature="DungeonFindRenewal01" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use the Party Finder menu to help you get into an organized group." />
+	<tip id="1" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="때때로 상인에게 말을 걸어보세요.\n말을 건 이상, 사기 싫어도 사야 합니다." />
+	<tip id="3" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="혹시 즉시 입고가 가능한 상점인가요?\n즉시 입고를 누르면 새로운 상품이 들어옵니다." />
+	<tip id="4" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="친구의 집에 놀러가 보세요." />
+	<tip id="5" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="맵 곳곳에 있는 대지를 계약하고 싶다면 대지 앞에 있는 집 아이콘을 클릭해서 계약할 수 있습니다." />
+	<tip id="6" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메인 메뉴에서 [내 집] 버튼을 누르면 바로 내 집 실내로 이동할 수 있습니다." />
+	<tip id="7" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험가 주거 지원 정책으로 누구나 자신의 집을 가질 수 있습니다." />
+	<tip id="8" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대지를 계약한 후 건물을 설치하면 입구를 통해 내 집 실내로 들어갈 수 있습니다." />
+	<tip id="9" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 사람의 집에 놀러가서 방명록을 적어 보세요." />
+	<tip id="10" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집에서 매일 매일 장식도 선물을 받아 보세요.\n장식도 점수를 높이면 더 좋은 선물을 받을 수 있습니다." />
+	<tip id="11" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인테리어 레벨이 올라가면 더 많은 건설 자재를 설치할 수 있습니다." />
+	<tip id="12" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설 모드에서 건설 자재를 바로 구입해서 꾸밀 수 있습니다." />
+	<tip id="13" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="꾸미기 모드에서는 건설 자재가 없어도 자유롭게 꾸며볼 수 있습니다." />
+	<tip id="14" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집의 도면을 자유롭게 저장하고 불러올 수 있습니다." />
+	<tip id="15" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드의 내 집 설정에서 비밀번호 설정을 하거나 분위기를 바꿔볼 수 있습니다." />
+	<tip id="16" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드의 내 집 설정에서 우리 집의 규칙을 정할 수 있습니다." />
+	<tip id="17" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드에서 확장하기로 내 집 실내 크기와 높이를 확장할 수 있습니다." />
+	<tip id="18" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="장식도 선물은 하루에 한 번만 받을 수 있습니다.\n선물을 받기 전에 장식도 점수를 최대한 올려보세요." />
+	<tip id="19" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집 근처에서 B 키를 누르면 건설 모드가 시작되며, 집에 아이템을 배치할 수 있습니다." />
+	<tip id="20" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집에 건설 자재를 배치해서 꾸며보세요." />
+	<tip id="21" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 배치한 아이템의 방향이 마음에 들지 않을 때는 배치된 아이템을 회전하면 됩니다." />
+	<tip id="22" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설모드에서는 건설 자재가 없다면 바로 구입해서 설치할 수 있습니다." />
+	<tip id="24" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="行脚商人会在人群聚集的活动地图上出售物品。" feature="Develop" />
+	<tip id="25" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="在行脚商人那里可以买到稀有物品。" feature="Develop" />
+	<tip id="26" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집 안으로 들어갔다가 밖으로 나오면 언제든지 원래 있던 위치로 돌아옵니다." feature="UGCMapRenewal" />
+	<tip id="27" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="일부 건설 자재는 특별한 트로피를 달성해야 설치할 수 있습니다." feature="UGCMapRenewal" />
+	<tip id="28" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 기념품을 배치해 두면 특별한 효과를 받을 수도 있습니다." />
+	<tip id="29" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 마네킹을 배치해서 장비를 입혀두거나 내 옷과 바꿔입어 보세요." />
+	<tip id="30" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집에 배치된 TV를 조사해서 TV를 켜고 끌 수 있습니다." />
+	<tip id="31" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이플 공방에서 나만의 디자인이 들어간 아이템을 만들어 볼 수 있습니다." />
+	<tip id="32" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="의상뿐 아니라 건설 아이템도 디자인할 수 있습니다." />
+	<tip id="33" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 올린 내 디자인 아이템을 다른 플레이어가 구입할 수도 있습니다." locale="KR" />
+	<tip id="33" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 올린 내 디자인 아이템을 다른 플레이어가 구입할 수도 있습니다." locale="CN" />
+	<tip id="34" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 이름이 적힌 아이템을 만들어서 입고 다닐 수 있습니다." />
+	<tip id="35" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자인 아이템으로 나만의 개성을 표현해 보세요." />
+	<tip id="36" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 디자인 아이템을 판매하면,\n제작비와 수수료를 제외한 판매 금액을 받을 수 있습니다." locale="KR" />
+	<tip id="36" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에 디자인 아이템을 판매하면,\n제작비와 수수료를 제외한 판매 금액을 받을 수 있습니다." locale="CN" />
+	<tip id="37" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세련된 외모로 바꾸고 싶을 때는 $map:02000107$에 방문해 보세요." />
+	<tip id="38" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 헤어샵, 성형외과에서 외모를 꾸밀 수 있습니다." />
+	<tip id="39" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$에서 헤어, 얼굴, 피부색 등 나의 외모를 꾸밀 수 있습니다." />
+	<tip id="40" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 $map:52000010$에서 성형을 할 수 있습니다." />
+	<tip id="41" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 $map:52000008$에서 헤어를 바꿀 수 있습니다." />
+	<tip id="42" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000107$의 $map:52000008$에 있는 메이크업 아티스트 $npc:11000256$에게 메이크업을 맡겨보세요." />
+	<tip id="43" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:52000009$의 $npc:11000257$$pp:는,은$ 장비 아이템에 어떤 색상이라도 염색할 수 있다고 합니다." />
+	<tip id="44" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="지금 바로 $map:02000107$에서 헤어, 얼굴, 피부색을 바꿔보세요!" />
+	<tip id="45" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="마을 곳곳의 전광판을 조사하여 원하는 이미지를 올릴 수 있습니다." />
+	<tip id="46" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전광판에 이미지를 올리려면 최소 3시간 전에는 예약을 해야 합니다." />
+	<tip id="47" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$, $map:2000100$ 같은 대도시를 비롯해 월드 곳곳에\n시간대 별로 예약 가능한 전광판이 있습니다." />
+	<tip id="48" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전광판은 누구나 예약할 수 있습니다." />
+	<tip id="49" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="캐릭터 정보에서 프로필 설정 버튼을 눌러 원하는 이미지를 프로필로 등록할 수 있습니다." />
+	<tip id="50" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="새로운 마을에 도착했다면, 장비 상점을 구경할 차례입니다." />
+	<tip id="51" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F12 키를 누르면 다이나믹 액션을 할 수 있습니다." />
+	<tip id="51" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1 ~ F12 키를 누르면 다이나믹 액션을 할 수 있습니다." locale="CN" />
+	<tip id="51" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Express yourself by performing an emote with the F1 - F5 keys." locale="NA" />
+	<tip id="51" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="F1～F5キーを押すとダイナミックアクションを使うことができます。" locale="JP" />
+	<tip id="52" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="꾸미기 모드에서는 트리거 에디터 및 마네킹과 같은 특수한 자재는 이용할 수 없고, 설치만 할 수 있습니다." />
+	<tip id="53" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="슬라임의 귀여운 외모에 속으면 안됩니다." />
+	<tip id="54" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="활을 쏠 때 화살은 필요 없습니다." />
+	<tip id="55" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="표창은 충전하지 않아도 됩니다." />
+	<tip id="56" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="액티브 스킬을 사용하려면 SP가 필요합니다." />
+	<tip id="59" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="새로운 스킬을 배우면 퀵슬롯에 올려서 사용하세요." />
+	<tip id="61" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석에 깔렸을 때, 다른 사람이 나의 비석을 때려주면 제자리에서 일어날 수 있습니다." />
+	<tip id="62" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물약을 얻었다면 퀵슬롯에 올린 후 사용하세요." />
+	<tip id="63" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="据说开发出了能抵抗影子毒气的划时代的新药。" feature="Develop" />
+	<tip id="64" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="오른손과 왼손에 각각 다른 표창을 착용할 수 있습니다." />
+	<tip id="65" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="표창은 오른손과 왼손 양쪽 다 착용할 수 있습니다." />
+	<tip id="66" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="오른손과 왼손에 각각 다른 단검을 착용할 수 있습니다." />
+	<tip id="67" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="한 손에 하나씩 다른 단검을 착용할 수 있습니다." />
+	<tip id="70" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="부활 후 상처 입은 영혼의 지배를 벗어나기까지 어느 정도 시간이 필요합니다." />
+	<tip id="71" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="부활 후 상처 입은 영혼 상태가 유지되는 동안 또다시 HP가 0이 되면 강철 비석에 깔리게 됩니다." />
+	<tip id="72" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석에 깔렸을 때 제자리에서 부활할 수도 있습니다.\n단, 제자리 부활을 위해서는 메소 또는 메럿이 필요합니다." />
+	<tip id="74" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="가끔씩 필드에 나타나는 모자로 들어가면, 공간의 틈을 발견할 수 있습니다." />
+	<tip id="75" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="필드에서 우연히 발견한 모자로 들어가면, 다양한 보너스 스테이지를 즐길 수 있습니다." />
+	<tip id="76" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="아이언 호그의 갑옷은 튼튼하기로 유명합니다." />
+	<tip id="77" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="개미굴에는 개미가 없습니다." />
+	<tip id="78" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="굽이치는 협곡의 지배자 $npc:22000022$$pp:는,은$ 사실 여자입니다." />
+	<tip id="80" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="약초를 먹으면 HP가 서서히 회복됩니다." />
+	<tip id="81" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="HP가 가득 차 있으면 포션을 사용할 수 없습니다." />
+	<tip id="82" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="사악한 요정인 $npc:22000003$$pp:와,과$ $npc:22000004$$pp:는,은$ 자매 지간입니다." />
+	<tip id="83" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:23000019$$pp:와,과$ $npc:23000020$$pp:는,은$ 부부지간입니다." />
+	<tip id="84" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="환경설정의 키설정에서 키보드 설정을 바꿀 수 있습니다." />
+	<tip id="87" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="벽을 향해 점프해 보세요.\n벽에 매달릴 수 있습니다." />
+	<tip id="88" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="攀爬者喜欢高处。" feature="Develop" />
+	<tip id="89" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Alt 키 또는 C 키를 눌러 점프할 수 있습니다." />
+	<tip id="90" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Ctrl 키 또는 X 키로 공격할 수 있습니다." />
+	<tip id="91" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="如果拾取大量道具，就可以自动收取道具。" feature="Develop" />
+	<tip id="92" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Z 키를 누르면 아이템을 주울 수 있습니다." />
+	<tip id="93" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="사다리 근처에서 위 방향키를 누르면 사다리에 매달릴 수 있습니다." />
+	<tip id="94" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000083$에서 신호등을 뽑아 휘둘러도\n공공 기물 파손죄가 적용되진 않습니다." />
+	<tip id="97" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵을 활용하면 많은 정보를 얻을 수 있습니다." />
+	<tip id="98" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="택시 정류장의 위치를 확인하려면 월드맵을 열어보세요." />
+	<tip id="99" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵을 열면, 시작 가능한 퀘스트가 어느 맵에 있는지 확인할 수 있습니다." />
+	<tip id="100" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵에서 내가 있는 맵을 확인할 수 있습니다." />
+	<tip id="101" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵에서 보스가 등장한 맵을 확인할 수 있습니다." />
+	<tip id="102" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="지금 어디에 사람들이 많이 모여있는지 궁금하지 않은가요? \n월드맵에서 핫플레이스를 확인해보세요." />
+	<tip id="103" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="의사는 주로 대도시나 병원에서 만날 수 있습니다." />
+	<tip id="104" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="의사에게 치료받으면 즉시 컨디션을 회복할 수 있습니다." />
+	<tip id="105" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="스킬 포인트가 있다면 스킬창을 열어서\n스킬을 배우거나 업그레이드할 수 있습니다." />
+	<tip id="110" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="트로피를 달성하면 칭호를 얻을 수도 있습니다. " />
+	<tip id="112" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="靠近并发现出租车停车场后就能使用。" feature="Develop" />
+	<tip id="113" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="택시 정류장을 조사하여, 이미 발견한 다른 택시 정류장으로 이동할 수 있습니다." />
+	<tip id="114" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="25레벨이 되면 모범 택시를 이용할 수 있습니다." />
+	<tip id="115" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모범 택시는 부르면 바로 도착합니다." />
+	<tip id="116" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로터스 에어 택시를 이용하면 월드맵의 어느 곳이나 바로 이동할 수 있습니다." />
+	<tip id="117" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭하면 귓속말, 친구 추가, 파티 초대, 거래 등 다양한 일을 할 수 있습니다." />
+	<tip id="118" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="지나가는 캐릭터를 우클릭해서 파티에 초대해 보세요." />
+	<tip id="119" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="최대 10명이 함께 파티를 맺을 수 있습니다." />
+	<tip id="120" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="커뮤니티 창에서는 같은 맵에 접속한 사람들을 확인할 수 있습니다." />
+	<tip id="121" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭하거나 커뮤니티 창에서 친구 추가를 할 수 있습니다." />
+	<tip id="122" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭해서 파티 초대를 할 수 있습니다." />
+	<tip id="123" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭해서 차단하면 그 캐릭터가 보내는 각종 메시지를 차단할 수 있습니다." />
+	<tip id="124" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터를 우클릭해서 1:1 거래를 할 수 있습니다." />
+	<tip id="125" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="TAB 키를 누르면 미니맵을 크게 볼 수 있습니다." />
+	<tip id="126" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미니맵의 아이콘에 마우스를 오버하면 NPC나 맵의 이름을 확인할 수 있습니다." />
+	<tip id="127" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미니맵의 우측 상단에 설정 버튼을 눌러 여러 가지 정보를 보거나 숨길 수 있습니다." />
+	<tip id="128" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미니맵 상단에 나와 같은 맵에 접속하고 있는 캐릭터가 표시됩니다." />
+	<tip id="131" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="가까이 다가갔을 때 붙잡을 수 있는 몬스터도 있습니다." />
+	<tip id="133" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="탈것 아이템을 더블클릭하여 사용할 수 있습니다." />
+	<tip id="134" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="탈것 아이템을 퀵슬롯에 지정한 후 사용하면 탑승할 수 있습니다." />
+	<tip id="135" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="탈것을 타고 X 키를 누르면 탈것의 고유 스킬을 사용할 수 있습니다." />
+	<tip id="137" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집 안에서 언제든지 금고를 이용하거나 주치의를 부를 수 있습니다." feature="UGCMapRenewal" />
+	<tip id="138" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집 실내에서 접속을 종료하면\n접속하지 않은 시간 동안 휴식 경험치를 얻을 수 있습니다." feature="UGCMapRenewal" />
+	<tip id="139" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창의 탭에서 마우스 우클릭으로 채팅창 설정을 할 수 있습니다." />
+	<tip id="140" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 아이템을 링크 하려면 소지품을 열고 아이템에 Shift+마우스 클릭해 보세요." />
+	<tip id="141" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅을 입력할 때 Tab키를 누르면 \n채팅 대상을 손쉽게 변경할 수 있습니다." />
+	<tip id="142" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에서 월드 확성기나 채널 확성기를 사용하려면 메럿이 필요합니다." />
+	<tip id="143" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="파티원과 함께 싸우면 더 빨리 몬스터를 처치할 수 있습니다." />
+	<tip id="144" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모르는 사람이 엘리트, 보스 몬스터와 싸우고 있다면\n그냥 지나치지 마세요!" />
+	<tip id="145" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엘리트, 보스 몬스터와 같이 강한 몬스터를 만났다면\n모두 함께 힘을 합쳐 싸우세요." />
+	<tip id="146" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엘리트, 보스 몬스터와 같이 강한 몬스터와 싸울 때에는\n모두 다 함께 힘을 모아야 합니다." />
+	<tip id="147" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="파티를 맺지 않았더라도 다른 사람과 같이\n엘리트, 보스 몬스터를 공격하면 함께 전리품을 얻을 수 있습니다." />
+	<tip id="148" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엘리트, 보스 몬스터와 싸울 때에는 다른 이들과 파티를 맺지 않아도\n함께 싸워 전리품을 얻을 수 있습니다." />
+	<tip id="149" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓에서 액션 수강증을 구입하면 새로운 액션을 배울 수 있습니다." locale="KR" />
+	<tip id="149" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓에서 액션 수강증을 구입하면 새로운 액션을 배울 수 있습니다." locale="CN" />
+	<tip id="150" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석에 깔렸을 때는 경험치를 획득할 수 없습니다." />
+	<tip id="151" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="비석이 된 상태에서 부활하면 잠시 동안 피해를 입지 않습니다." />
+	<tip id="152" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 플레이어가 비석을 때려 게이지를 없애면 제자리에서 부활합니다." />
+	<tip id="153" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전투불능에서 부활해 상처 입은 영혼의 지배를 받는 상태에서 HP가 0이 되면 강철 비석이 됩니다." />
+	<tip id="154" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="강철 비석이 되면 다른 사람의 도움을 받을 수 없습니다." />
+	<tip id="155" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="가까운 거리는 건강을 위해 걸어 다니세요." />
+	<tip id="156" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="특별 우편이 도착했다면 꼭 확인해 보세요." />
+	<tip id="157" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:2000001$의 경비병들이 쌍둥이라는 소문은 사실이 아닙니다." />
+	<tip id="158" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000374$의 성별은 아무도 모릅니다." />
+	<tip id="159" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000106$$pp:는,은$ 내 남자에게만 따뜻한 여자입니다." />
+	<tip id="160" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="눈앞에 레버가 있다면, 당기세요." />
+	<tip id="161" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="예쁘게 꾸민 자신의 모습을 더 잘 살펴보고 싶다면 마우스 휠을 이용해 카메라를 줌인해 보세요." />
+	<tip id="162" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="사람의 발길이 닿지 않은 곳에 가면 보물 상자가 있을지도 모릅니다." />
+	<tip id="163" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 집에 머무르고 있으면 휴식 경험치를 얻을 수 있습니다." feature="UGCMapRenewal" />
+	<tip id="164" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="땅에 떨어진 아이템이나 메소는 90초가 지나면 사라집니다." />
+	<tip id="165" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="평소에 잘 살피지 못한 곳을 둘러보세요. 황금 보물 상자가 있을지도 모릅니다." />
+	<tip id="166" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="전광판에서 이상한 사진을 발견했다면 마우스 우클릭으로 신고할 수 있습니다." />
+	<tip id="167" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/파티초대 캐릭터이름&apos;을 입력하면\n이름이 입력된 캐릭터를 파티에 초대할 수 있습니다." />
+	<tip id="168" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/파티탈퇴&apos;를 입력하면\n가입돼 있는 파티에서 탈퇴할 수 있습니다." />
+	<tip id="169" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드를 생성하려면 G키를 눌러보세요." />
+	<tip id="170" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="마음이 맞는 친구들과 함께 길드를 만들어보세요." />
+	<tip id="171" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드 트로피는 내 길드에 속한 모든 길드원의 트로피 총합입니다." />
+	<tip id="172" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$에 있는 명예의 깃발에는 \n길드 트로피 순위 1위, 개인 트로피 1위, 메이플 투기장 1위가 보여집니다." />
+	<tip id="173" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000100$에 있는 명예의 깃발에는 \n트로피 순위 1, 2, 3위 길드의 길드 마크가 새겨집니다." />
+	<tip id="174" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000023$에 있는 명예의 깃발에는 \n개인 트로피 순위 1, 2, 3위의 프로필 사진이 새겨집니다." />
+	<tip id="175" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000064$에 있는 명예의 깃발에는 \n길드 트로피와 개인 트로피 1, 2, 3위가 보여집니다." />
+	<tip id="176" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text=" $map:02000051$에 있는 명예의 깃발에는 \n메이플 투기장 1, 2, 3위의 길드 마크가 새겨집니다." />
+	<tip id="177" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000217$에 있는 명예의 깃발에는 \n길드 챔피언십 1, 2, 3위의 길드 마크가 새겨집니다." />
+	<tip id="178" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="명예의 깃발은 하루에 한 번씩 순위가 갱신됩니다." />
+	<tip id="179" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="명예의 깃발을 조사하면 메이뷰에서 자세한 순위를 확인할 수 있습니다." />
+	<tip id="180" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="저장된 도면을 불러오면 자동으로 기존에 설치된 자재를 모두 치우고 저장된 자재로 재설치해 줍니다." feature="UGCMapRenewal" />
+	<tip id="181" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/길드초대 캐릭터이름&apos;을 입력하면\n이름이 입력된 캐릭터를 내가 속한 길드에 초대할 수 있습니다." />
+	<tip id="185" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000508$$pp:는,은$ 여러 가지 이유로 인기가 많습니다." />
+	<tip id="186" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000203$에 있는 대장장이 $npc:11000508$$pp:는,은$ 아이템을 더 강하게 만들어 줍니다." />
+	<tip id="187" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="装备强化等级达到一定程度之后，假如继续强化装备的话可能会受损，\n受损的装备不能再进行强化。" feature="Develop" locale="CN" />
+	<tip id="188" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 플레이어와 전투 시에는 인챈트로 증가된 장비 효과가 보정됩니다." />
+	<tip id="189" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$$pp:는,은$ 철딱서니가 없습니다." />
+	<tip id="190" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$$pp:는,은$ 대지주 슈아브리체 가문의 외동딸입니다." />
+	<tip id="191" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="把$item:40100023$交给$npc:11000511$，\n可以交换她从家里带来的珍贵古董。" feature="Develop" />
+	<tip id="192" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000511$的侍女梅琳一直在忙着包装用来交换$item:40100023$的装备。" feature="Develop" />
+	<tip id="193" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$에서는 고레벨 캐릭터들이 1:1로 실력을 겨룰 수 있습니다." feature="NAstringMassive" />
+	<tip id="194" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000001$의 승자는 계속 새로운 도전자를 맞이할 수 있습니다." feature="NAstringMassive" />
+	<tip id="195" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:65000002$에서는 최대 10명의 캐릭터가 실력을 겨룰 수 있습니다." feature="NAstringMassive" />
+	<tip id="199" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 캐릭터에게 불편을 주는 이가 있다면 신고하세요." />
+	<tip id="200" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="보고 싶지 않은 이미지가 전광판에 올라와 있다면 \n전광판을 우클릭해 신고할 수 있습니다." />
+	<tip id="201" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="불쾌한 말을 하는 사람의 채팅을 신고하면 \n신고한 이후부터 그 사람의 채팅이 블라인드 처리됩니다." />
+	<tip id="202" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="불쾌한 전광판 이미지나 프로필 이미지를 신고하면 \n그 이후부터 이미지가 블라인드 처리됩니다." />
+	<tip id="203" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$$pp:는,은$ 지금까지 단 한 명의 탈옥수도 용납하지 않았다고 합니다." />
+	<tip id="204" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000514$에게 보석금을 주면 감옥을 나올 수 있다는 \n소문이 있지만 사실은 확인되지 않았습니다." />
+	<tip id="205" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="허위 신고는 강력한 처벌을 받으니 주의하세요." />
+	<tip id="206" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="타인에게 반복적으로 피해를 입힌 경우 벨마의 심판을 받게 됩니다." />
+	<tip id="207" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="벨마의 심판을 받게 되면 채팅, UGC 이용 등이 제한됩니다." />
+	<tip id="208" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="감옥에서 반성의 노역을 하면 벨마의 심판에서\n좀 더 빨리 벗어날 수 있습니다." />
+	<tip id="209" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="허위 신고를 할 경우 허위 신고자가 감옥에 갈 수 있습니다." />
+	<tip id="210" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000062$에 있는 $npc:11000585$$pp:가,이$ 감옥 투어를 보내준다고 합니다." />
+	<tip id="211" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="50레벨이 되면 특성의 힘을 개방할 수 있습니다." feature="CharacterAbility" />
+	<tip id="212" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="50레벨 이후부터 레벨이 오를 때마다 특성 포인트를 얻을 수 있습니다." feature="CharacterAbility" />
+	<tip id="215" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="친구나 길드원을 초대해 그룹 대화를 해보세요." />
+	<tip id="216" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000216$에서는 엑설런트 이상 등급의 아이템도 거래할 수 있습니다." />
+	<tip id="217" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="흑성회가 $map:02000216$$pp:를,을$ 운영하고 있다는 사실은 공공연한 비밀입니다." />
+	<tip id="218" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 프로필에서 메이드의 이름과 주인을 부를 때의 호칭을 설정할 수 있습니다." />
+	<tip id="219" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드를 대신해 집안 일을 해 줄 수는 없습니다." />
+	<tip id="220" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000790$, $npc:11000792$처럼 연금술이 특기인 메이드도 있습니다." locale="KR" />
+	<tip id="221" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000770$, $npc:11000780$처럼 요리가 특기인 메이드도 있습니다." />
+	<tip id="222" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000787$, $npc:11000779$처럼 음료 제조가 특기인 메이드도 있습니다." />
+	<tip id="223" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000789$, $npc:11000512$처럼 목걸이 제작이 특기인 메이드도 있습니다." />
+	<tip id="224" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000777$, $npc:11000544$처럼 반지 제작이 특기인 메이드도 있습니다." />
+	<tip id="225" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 $npc:11000770$$pp:가,이$ 가장 자신 있어 하는 요리는 특제 장어 구이입니다." />
+	<tip id="226" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 $npc:11000786$에게 $npc:11000015$$pp:는,은$ 동경의 대상입니다." />
+	<tip id="227" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드 $npc:11000777$$pp:는,은$ $npc:11000075$의 애완 고양이인 $npc:11000708$의 후손입니다." />
+	<tip id="228" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집사 $npc:11000787$$pp:는,은$ $map:02000100$의 어느 바에서 바텐더로 일한 적이 있다고 합니다." />
+	<tip id="229" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집사 $npc:11000791$의 이야기 보따리가 가득한 건\n그가 보부상으로 일하며 온갖 소문을 주워들었기 때문입니다." />
+	<tip id="230" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="집사 $npc:11000790$$pp:가,이$ 봐 주는 점괘는 믿을 게 못 됩니다." />
+	<tip id="231" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사마다 제작 특기가 다릅니다." />
+	<tip id="232" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 연금술, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." locale="KR" />
+	<tip id="233" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="드림네이즈는 빅토리아 드림을 꿈꾸는 젊은이들을 위한 인재 양성 교육 기관입니다." />
+	<tip id="234" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="투명 배지를 이용하면 장착한 장비의 외형을 숨길 수 있습니다." />
+	<tip id="235" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="기념품 버프는 동시에 하나만 받을 수 있습니다." />
+	<tip id="236" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="몸이 찌뿌둥하다면 집에 샤워부스를 설치해 보세요." />
+	<tip id="237" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 /? 를 써 보세요. 채팅 관련 명령어를 알 수 있어요." />
+	<tip id="238" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="바른 말 고운 말을 사용합시다." />
+	<tip id="239" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="스킨 아이템을 분해하면 스페셜 스킨 크리스탈을,\n20레벨 이상 장비 아이템을 분해하면 오닉스 결정을 얻을 수 있습니다." feature="SkinSocket" />
+	<tip id="240" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엑설런트 이상 등급의 아이템을 분해하면 $item:40100024$$pp:를,을$ 얻을 수 있습니다." />
+	<tip id="241" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드의 최대 인원은 길드 레벨이 높아질수록 늘어나며, 최대 70명까지 늘어날 수 있습니다." />
+	<tip id="242" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="据说$npc:11000284$丢失了水晶鞋。" feature="Develop" />
+	<tip id="243" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000145$$pp:는,은$ 미래에서 왔다고 합니다." />
+	<tip id="244" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000144$에게서 $item:13200028$$pp:를,을$ 얻을 수 있습니다." />
+	<tip id="246" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓의 디자이너스 샵에서\n다른 플레이어들이 디자인한 아이템들을 구입할 수 있습니다." locale="KR" />
+	<tip id="246" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메럿 마켓의 디자이너스 샵에서\n다른 플레이어들이 디자인한 아이템들을 구입할 수 있습니다." locale="CN" />
+	<tip id="247" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에서 다른 플레이어들에게 내 디자인을 판매해 보세요." locale="KR" />
+	<tip id="247" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="디자이너스 샵에서 다른 플레이어들에게 내 디자인을 판매해 보세요." locale="CN" />
+	<tip id="248" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="1:1 거래하기를 통해 메소 거래가 가능합니다.\n단, 거래 금액의 일정 부분이 수수료로 부과됩니다." />
+	<tip id="249" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="무기는 직업과 상관없이 착용 가능하며,\n다른 직업의 무기를 착용하면 X키를 이용한 일반 공격만 가능합니다." />
+	<tip id="250" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="우편으로 아이템 및 메소를 선물할 수 없습니다." />
+	<tip id="251" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="권리침해센터에서 UGC 관련 피해를 신고할 수 있습니다." locale="KR" />
+	<tip id="252" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="궁금한 몬스터를 채팅창에서 &quot;/검색 몬스터이름&quot; 으로 검색해보세요." />
+	<tip id="253" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로제타 뷰티살롱의 거울을 이용하여 모자를 돌려 쓸 수 있습니다." />
+	<tip id="254" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="상점에서 장비 아이템 아이콘을 &quot;Shift + 우클릭&quot; 하면\n해당 아이템을 착용했을 때 모습을 미리 확인할 수 있습니다." />
+	<tip id="255" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 플레이어 캐릭터를 마우스 우클릭하여 해당 캐릭터의 정보를 볼 수 있습니다." />
+	<tip id="256" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채팅창에 &apos;/채널이동 채널번호&apos;를 입력하면\n손쉽게 채널을 변경할 수 있습니다." />
+	<tip id="257" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 검기와 룬 주술의 융합을 통해 극의를 깨치고자 합니다." feature="RuneBlader" />
+	<tip id="258" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 주술의 선지자 지브릿타와 최강의 검사 펠기아는\n&apos;테룬칼리브&apos;라는 룬 블레이더 조직을 함께 설립했습니다." feature="RuneBlader" />
+	<tip id="259" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="칼리브 8검은 절대적인 무위를 입증한 여덟 명의\n룬 블레이더에게만 부여되는 영광스러운 칭호입니다." feature="RuneBlader" />
+	<tip id="260" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$$pp:는,은$ 올곧은 성품과 반듯한 외모를 지녀\n칼리브 8검 중 가장 많은 추종자를 거느리고 있습니다." feature="RuneBlader" />
+	<tip id="261" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 대지에 머무르고 있는 선조들의 혼,\n이른바 바즈의 가르침을 중시합니다." feature="RuneBlader" />
+	<tip id="262" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더가 새로운 스킬을 연마하기 위해서는\n선조들이 남긴 바즈의 지혜가 필요합니다." feature="RuneBlader" />
+	<tip id="263" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 블레이드라는 날카로운 검을 사용합니다." feature="RuneBlader" />
+	<tip id="264" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 블레이드에 화염, 냉기, 전격\n속성을 부여하여 싸울 수 있습니다." feature="RuneBlader" />
+	<tip id="265" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="룬 블레이더는 신비로운 룬의 힘을\n전투 상황에서 다채롭게 사용할 수 있습니다." feature="RuneBlader" />
+	<tip id="266" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001229$의 무뚝뚝함은 칼리브 아일랜드의 여심을 흔들고 있습니다." feature="RuneBlader" />
+	<tip id="267" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npcName:11001230$에게 배꼽이 없다는 소문은 사실이 아닙니다." feature="RuneBlader" />
+	<tip id="268" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$$pp:가,이$ 과거에는 월척만 낚는 낚시꾼이었다는 소문이 있습니다." feature="Fishing" />
+	<tip id="269" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$item:40100024$$pp:가,이$ 알고 보니 전복이라는 풍문은 사실이 아닙니다." feature="Fishing" />
+	<tip id="270" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="높은 등급의 물고기는 도망가 버릴 확률도 높습니다." feature="Fishing" />
+	<tip id="271" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="수영할 수 있는 곳이라면 어디든 낚시를 할 수 있습니다.\n단, 물속에서는 낚싯대를 던질 수 없습니다." feature="Fishing" />
+	<tip id="272" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="미끼를 사용하면 낚시 성공 확률을 높일 수 있습니다." feature="Fishing" />
+	<tip id="273" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="보다 커다란 물고기를 유혹하는 미끼가 있다는 소문입니다." feature="Fishing" />
+	<tip id="274" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기가 어디 사는지 알고 싶다면 물고기 도감을 펼쳐보세요." feature="Fishing" />
+	<tip id="275" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="높은 단계의 낚시터에서 잡히는 물고기일수록\n여러 번 잡아야 낚시 숙련도를 올릴 수 있습니다." feature="Fishing" />
+	<tip id="276" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기는 각자 사는 곳이 다릅니다." feature="Fishing" />
+	<tip id="277" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시를 하다 보면 특별한 아이템을 낚을지도 모릅니다." feature="Fishing" />
+	<tip id="278" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기를 낚으면 경험치를 얻을 수 있습니다." feature="Fishing" />
+	<tip id="279" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="물고기의 등급이 높을수록 희귀합니다." feature="Fishing" />
+	<tip id="280" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시꾼 단계가 올라갈수록 찌의 모양이 화려해집니다." feature="Fishing" />
+	<tip id="281" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시로 물고기만 낚을 수 있는 것은 아닙니다." feature="Fishing" />
+	<tip id="282" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵 툴팁으로 어느 맵에 어떤 단계의 낚시터가 있는지 확인할 수 있습니다." feature="Fishing" />
+	<tip id="283" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11000781$$pp:가,이$ $map:02000002$에서 낚시용품을 팔고 있습니다." feature="Fishing" />
+	<tip id="284" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$npc:11001449$$pp:가,이$ $map:02010002$에서 낚시용품을 팔고 있습니다." feature="KarkarIsland" />
+	<tip id="285" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="낚시왕이 되고 싶다면, 어디든 보이는 물에 낚싯대를 던지세요!" feature="Fishing" />
+	<tip id="286" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="움직이는 장소에서는 낚시를 할 수 없습니다." feature="Fishing" />
+	<tip id="287" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="보다 희귀한 물고기를 모여들게 하는\n특별한 미끼가 있다는 소문입니다." feature="Fishing" />
+	<tip id="288" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="내 낚시꾼 단계에 맞는 물고기를 낚아야 \n낚시 숙련도를 올릴 수 있습니다." feature="Fishing" />
+	<tip id="289" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미의 마스코트는 더키와 더키볼입니다." feature="MusicInstrument" />
+	<tip id="290" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미 회장 디디아나는 노래하는 더키를 보고\n영감을 얻어 음악의 대중화에 뜻을 두게 되었다고 합니다." feature="MusicInstrument" />
+	<tip id="291" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미에서는 음악의 대중화를 위해\n누구나 연주할 수 있는 악기와 악보를 판매하고 있습니다." feature="MusicInstrument" />
+	<tip id="292" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="로얄 뮤직 아카데미 행정관 $npc:11001320$$pp:와,과$ $npc:11001322$$pp:는,은$\n절친한 친구 사이입니다." feature="MusicInstrument" />
+	<tip id="293" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="다른 사람들이 만든 악보를 구입해서 연주할 수 있습니다." feature="MusicInstrument" />
+	<tip id="294" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 가지고 있다면 근처에 있는 파티원과 합주를 할 수도 있습니다." feature="MusicInstrument" />
+	<tip id="295" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="빈 악보를 사용해서 나만의 곡을 만들어 볼 수 있습니다." feature="MusicInstrument" />
+	<tip id="296" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악보를 많이 연주해서 숙련도가 높아지면\n더 화려한 액션으로 악기를 연주합니다." feature="MusicInstrument" />
+	<tip id="297" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 사용해 악보 없이 즉흥 연주를 할 수 있습니다." feature="MusicInstrument" />
+	<tip id="298" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 사용해 가지고 있는 악보로\n악보 연주를 할 수 있습니다." feature="MusicInstrument" />
+	<tip id="299" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="악기를 연주하면 근처의 다른 사람들도 연주를 들을 수 있습니다." feature="MusicInstrument" />
+	<tip id="300" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="연주 소리를 듣기 싫다면\n환경 설정 내 사운드 탭에서 악기 연주 소리를 줄여 주세요." feature="MusicInstrument" />
+	<tip id="301" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="차단한 캐릭터의 연주 소리는 들을 수 없습니다." feature="MusicInstrument" />
+	<tip id="302" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="$map:02000001$의 $npc:11001320$$pp:와,과$ $map:02010002$의 $npc:11001322$$pp:는,은$\n피아노와 기타를 비롯한 다양한 악기를 판매하고 있습니다." feature="MusicInstrument" />
+	<tip id="303" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="연주와 관련된 물품을 구입하려면 $map:02000001$에서 $npc:11001320$$pp:를,을$ 만나보세요." feature="MusicInstrument" />
+	<tip id="304" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="연주와 관련된 물품을 구입하려면\n$map:02010002$에 있는 $npc:11001322$$pp:를,을$ 만나보세요." feature="MusicInstrument" />
+	<tip id="305" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." locale="CN" />
+	<tip id="306" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." locale="CN" />
+	<tip id="307" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." locale="CN" />
+	<tip id="308" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." locale="CN" />
+	<tip id="309" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." locale="CN" />
+	<tip id="310" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="중국 전용 툴팁. 번역할 필요 없음." locale="CN" />
+	<tip id="311" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드 가입 후 다양한 플레이를 통해 \n길드 경험치를 획득할 수 있습니다." />
+	<tip id="312" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="如果加入了公会，每小时 \n都能获得公会经验值。" feature="Develop" />
+	<tip id="313" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="如果加入了公会，每次参加 MC凯的活动\n都能获得公会经验值。" feature="Develop" />
+	<tip id="314" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="如果加入了公会，每次消灭首领怪物\n都能获得公会经验值。" feature="Develop" />
+	<tip id="315" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="和其他公会成员一起消灭首领怪物就能额外获得 \n公会经验值。" feature="Develop" />
+	<tip id="316" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="我获得的公会经验值将显示为公会活动指数。" feature="Develop" />
+	<tip id="317" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="公会贡献度每周初始化。" feature="Develop" />
+	<tip id="318" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="获得的公会经验值将按一定比率转换为公会基金。" feature="Develop" />
+	<tip id="319" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="搜集公会基金就能购买公会技能。" feature="Develop" />
+	<tip id="320" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드 스킬의 효과는 길드에 가입한 뒤 \n24시간 이후부터 누릴 수 있습니다." />
+	<tip id="321" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드원끼리 언제든 이벤트를 즐겨보세요." />
+	<tip id="322" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="길드를 생성하고 24시간 이후부터 길드 이벤트를 시작할 수 있습니다." />
+	<tip id="323" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="公会活动指数每周初始化一次。" feature="Develop" />
+	<tip id="324" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="젬스톤을 분해하면 업그레이드 재료가 되는\n쥬얼 더스트를 얻을 수 있습니다." feature="ItemSocketSystem" />
+	<tip id="325" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="젬스톤을 업그레이드해서\n더 상위 등급의 젬스톤을 얻을 수 있습니다." feature="ItemSocketSystem" />
+	<tip id="326" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="하루에 채광으로 얻을 수 있는 광석의 양은 광맥마다 다릅니다." feature="Mastery" />
+	<tip id="327" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 숙련도가 높아지면\n이전보다 더 많은 광석을 캘 수 있습니다.  " feature="Mastery" />
+	<tip id="328" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 숙련도는 채광을 성공했을 때 상승합니다." feature="Mastery" />
+	<tip id="329" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광할 수 있는 광맥이 어디에 있는지 알고 싶다면\n생활 메뉴의 채광 탭을 살펴보세요." feature="Mastery" />
+	<tip id="330" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광으로 광석을 캐면 경험치를 얻을 수 있습니다." feature="Mastery" />
+	<tip id="331" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="월드맵 툴팁으로 어느 맵에 어떤 광맥이 있는지 확인할 수 있습니다." feature="Mastery" />
+	<tip id="332" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 도구를 사용하면 채광 시 더 많은 광석을 획득 할 수 있습니다. " feature="Mastery" />
+	<tip id="333" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="채광 도구는 대장을 통해 만들 수 있습니다." feature="Mastery" />
+	<tip id="334" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모든 광맥마다 채광할 수 있는 숙련 단계가 정해져 있습니다. " feature="Mastery" />
+	<tip id="335" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="하루에 축산으로 얻을 수 있는 생산물의 양은 동물마다 다릅니다." feature="Mastery" />
+	<tip id="336" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산 숙련도가 높아지면\n이전보다 더 많은 생산물을 얻을 수 있습니다.  " feature="Mastery" />
+	<tip id="339" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산으로 생산물을 거두면 경험치를 얻을 수 있습니다." feature="Mastery" />
+	<tip id="340" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="건설 메뉴의 축산 탭에서 원하는 동물의 축사를 건설할 수 있습니다. " feature="Mastery" />
+	<tip id="341" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산 도구를 사용하면 더 많은 생산물을 획득 할 수 있습니다. " feature="Mastery" />
+	<tip id="342" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="축산 도구는 세공을 통해 만들 수 있습니다." feature="Mastery" />
+	<tip id="343" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모든 축산 동물마다 사료를 줄 수 있는 숙련 단계가 정해져 있습니다. " feature="Mastery" />
+	<tip id="344" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장 숙련도가 높아지면\n제작에 필요한 재료 수가 줄어듭니다." feature="Mastery" />
+	<tip id="345" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장으로 만들 수 있는 아이템이 알고 싶다면\n생활 메뉴의 대장 탭을 살펴보세요." feature="Mastery" />
+	<tip id="346" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장으로 아이템을 제작하면 경험치를 얻을 수 있습니다." feature="Mastery" />
+	<tip id="347" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장 숙련도는 아이템을 제작하면 상승합니다." feature="Mastery" />
+	<tip id="348" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="대장으로 제작하는 아이템의 재료는\n채광이나 축산을 통해 얻을 수 있습니다." feature="Mastery" />
+	<tip id="350" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 만들 수 있는 아이템이 알고 싶다면\n생활 메뉴의 세공 탭을 살펴보세요." feature="Mastery" />
+	<tip id="351" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 아이템을 제작하면 경험치를 얻을 수 있습니다." feature="Mastery" />
+	<tip id="352" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공 숙련도는 아이템을 제작하면 상승합니다." feature="Mastery" />
+	<tip id="353" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="세공으로 제작하는 아이템의 재료는\n채광이나 축산을 통해 얻을 수 있습니다." feature="Mastery" />
+	<tip id="354" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="通过寻找随机副本队伍可以轻松遇到队员，\n也能挑战符合自己水平的副本。" feature="Develop" />
+	<tip id="355" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="如果通关随机副本，\n就能获得随机奖励。" feature="Develop" />
+	<tip id="356" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_356_TEXT:[F]Develop" feature="Develop" />
+	<tip id="357" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬은 생활기술의 마법부여를 통해 얻을 수 있습니다." feature="MagicScroll01" />
+	<tip id="358" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_358_TEXT:[F]Develop" feature="Develop" />
+	<tip id="359" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_359_TEXT:[F]Develop" feature="Develop" />
+	<tip id="360" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_360_TEXT:[F]Develop" feature="Develop" />
+	<tip id="361" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_361_TEXT:[F]Develop" feature="Develop" />
+	<tip id="362" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_362_TEXT:[F]Develop" feature="Develop" />
+	<tip id="363" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트 룬을 사용하면 원하는 장비를\n한번에 높은 단계로 인챈트 할 수 있습니다." feature="MagicScroll01" />
+	<tip id="364" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_364_TEXT:[F]Develop" feature="Develop" />
+	<tip id="365" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="LOADINGDESCRIPTION_365_TEXT:[F]Develop" feature="Develop" />
+	<tip id="366" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="메이드나 집사는 요리, 음료 제조, 목걸이 제작, 반지 제작 중에서 한 가지 특기를 갖고 있습니다." locale="CN" />
+	<tip id="366" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Each assistant is proficient in one of the following crafts: cooking, drink-mixing, necklace-making, or ring-making." locale="NA" />
+	<tip id="366" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="メイドや執事は料理、飲料製造、ネックレス製作、指輪製作のうち1つの得意分野があります。" locale="JP" />
+	<tip id="367" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="계정에서 처음으로 캐릭터가 50레벨을 달성했을 때 모험레벨이 시작됩니다." feature="AdventureLevel" />
+	<tip id="368" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험레벨은 계정내 모든 캐릭터가 공유하는 레벨입니다." feature="AdventureLevel" />
+	<tip id="369" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="50레벨이상 캐릭터는 캐릭터 경험치를 얻을 때 모험경험치도 함께 획득하게 됩니다." feature="AdventureLevel" />
+	<tip id="370" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험레벨을 레벨업할 때마다 보상상자를 얻을 수 있습니다." feature="AdventureLevel" />
+	<tip id="371" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험레벨을 달성하여 보상으로 얻은 캐릭터 스탯은 50레벨이상 캐릭터만 사용할 수 있습니다." feature="AdventureLevel" />
+	<tip id="372" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="모험능력의 효과는 계정내 모든 캐릭터에게 동일하게 적용됩니다." feature="AdventureLevel" />
+	<tip id="373" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="하루에 최대로 획득할 수 있는 모험경험치는 제한이 있습니다." feature="AdventureLevel" />
+	<tip id="374" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="엑설런트 이상 등급의 장비는 인챈트 11단계부터\n인챈트 하는 장비와 동일한 장비를 인챈트 재료로 요구합니다." feature="EnchantReformation01" />
+	<tip id="375" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="인챈트를 시도하다 실패하면, 인챈트 성공 확률 증가 포인트가\n인챈트를 시도한 장비에 쌓이게 됩니다." feature="EnchantReformation01" />
+	<tip id="376" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="토드의 연마석은 인챈트 재료로 요구되는 장비와 동일한 효과를 발휘합니다." feature="EnchantReformation01" />
+	<tip id="377" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="타인의 개인정보를 유포하거나 이용하는 행위는 운영정책 위반으로 게임 이용이 제한될 수 있습니다." locale="KR" />
+	<tip id="377" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Make sure to feed your pet every day! They&apos;ll make you a lot stronger!" feature="PetBattle" locale="NA" />
+	<tip id="378" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Accessory gemstones raise your power significantly." feature="ItemSocketSystem" locale="NA" />
+	<tip id="379" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Struggling with a dungeon or a raid? Ask for assistance using the Dungeon Helper system!" feature="FindDungeonHelp" locale="NA" />
+	<tip id="380" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Don&apos;t forget to claim your weekly Prestige Rewards!" feature="AdventureLevel" locale="NA" />
+	<tip id="381" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="House souvenirs can improve your attack or defense temporarily for free." locale="NA" />
+	<tip id="382" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Guilds offer useful buffs and rewards for their members!" feature="GuildSystem01" locale="NA" />
+	<tip id="383" startTime="0-0-0-0-0-0" endTime="0-0-0-0-0-0" text="Use the Party Finder menu to help you get into an organized group." feature="DungeonFindRenewal01" locale="NA" />
 </ms2>

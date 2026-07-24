@@ -1,458 +1,432 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-  <key id="1001" name="おすすめ商品" />
-  <key id="1002" name="全体" />
-  <key id="1003" name="全体" />
-  <key id="1004" name="装備" />
-  <key id="1005" name="全体" />
-  <key id="1006" name="建設" />
-  <key id="1007" name="全体" />
-  <key id="1008" name="材料" />
-  <key id="1009" name="乗り物" />
-  <key id="1010" name="その他" />
-  <key id="1011" name="バッジ" />
-  <key id="1012" name="鍵" />
-  <key id="1013" name="クーポン" />
-  <key id="1014" name="ペット" />
-  <key id="1015" name="新規商品" />
-  <key id="1016" name="ラペンシャード" feature="Lapenshard01" />
-  <key id="1017" name="絵文字" />
-  <key id="2000" name="全身服" />
-  <key id="2001" name="服(上)" />
-  <key id="2002" name="服(下)" />
-  <key id="2003" name="帽子" />
-  <key id="2004" name="マント" />
-  <key id="2005" name="靴" />
-  <key id="2006" name="グローブ" />
-  <key id="2007" name="顔飾り" />
-  <key id="2008" name="目の飾り" />
-  <key id="2009" name="イヤリング" />
-  <key id="2010" name="ネックレス" />
-  <key id="2011" name="指輪" />
-  <key id="2012" name="片手武器" />
-  <key id="2013" name="両手武器" />
-  <key id="2014" name="補助装備" />
-  <key id="2015" name="ポーション" />
-  <key id="2016" name="デザイン衣装" />
-  <key id="2017" name="武器" />
-  <key id="2018" name="防具" />
-  <key id="2019" name="生活用品" />
-  <key id="2020" name="フルーツジュース" />
-  <key id="2021" name="リーキーズルック" />
-  <key id="2022" name="クール家具" />
-  <key id="2023" name="ベルト" />
-  <key id="2024" name="武器" />
-  <key id="2025" name="アクセサリ" />
-  <key id="2026" name="スキルブック" />
-  <key id="2027" name="お菓子" />
-  <key id="2028" name="おもちゃ" />
-  <key id="2029" name="応援グッズ" />
-  <key id="2030" name="スペシャルアバター" />
-  <key id="2031" name="アバター" />
-  <key id="2032" name="おやつ" />
-  <key id="2033" name="バーベキュー" />
-  <key id="2034" name="飲み物" />
-  <key id="2035" name="ラグジュアリーダイニング" />
-  <key id="2036" name="甘い実" />
-  <key id="2037" name="水着" />
-  <key id="2038" name="スペシャル衣装" />
-  <key id="2039" name="ボックス" />
-  <key id="2040" name="自動車" />
-  <key id="2041" name="モンスター" />
-  <key id="2042" name="工芸材料" />
-  <key id="2043" name="食材" />
-  <key id="2044" name="錬金材料" />
-  <key id="2045" name="その他材料" />
-  <key id="2046" name="超越材料" />
-  <key id="2047" name="超越呪文書" />
-  <key id="2048" name="ジェムストーン" />
-  <key id="2049" name="ルミストーン" />
-  <key id="2050" name="写真集" />
-  <key id="2051" name="メイプルコミックス" />
-  <key id="2052" name="エリニウムジェムストーン" />
-  <key id="2053" name="呪文書" />
-  <key id="2054" name="パッケージ" />
-  <key id="2060" name="名誉の武器" />
-  <key id="2061" name="名誉の防具" />
-  <key id="2062" name="名誉の乗り物" />
-  <key id="2070" name="トレバアバター" />
-  <key id="2071" name="トレバ武器" />
-  <key id="2072" name="トレバ防具" />
-  <key id="2073" name="トレバ乗り物" />
-  <key id="2074" name="デザイン原本" />
-  <key id="2075" name="マネキン" />
-  <key id="2076" name="スペシャル武器" />
-  <key id="2077" name="イベント商品" />
-  <key id="2078" name="鉱物" />
-  <key id="2079" name="楽器" />
-  <key id="2080" name="楽譜" />
-  <key id="2081" name="釣り道具" />
-  <key id="2082" name="スクロール" />
-  <key id="2083" name="ダンジョン袋" />
-  <key id="2084" name="道具" />
-  <key id="2085" name="フード" />
-  <key id="2090" name="闘技場武器" />
-  <key id="2091" name="闘技場防具" />
-  <key id="2092" name="闘技場装飾品" />
-  <key id="2093" name="闘技場アバター" />
-  <key id="2094" name="闘技場乗り物" />
-  <key id="2095" name="闘技場戦利品" />
-  <key id="2096" name="空の乗り物" />
-  <key id="2100" name="ブループリント" feature="BlueprintMarket" />
-  <key id="3000" name="飾り用建物" />
-  <key id="3001" name="地形" />
-  <key id="3002" name="インテリア小物" />
-  <key id="3003" name="フィッティングドール" />
-  <key id="3004" name="乗り物" />
-  <key id="3005" name="記念品" />
-  <key id="3006" name="金庫" />
-  <key id="3007" name="モンスターボックス" />
-  <key id="3008" name="特産品" />
-  <key id="3009" name="生活、家電" />
-  <key id="3010" name="木" />
-  <key id="3011" name="草、花、キノコ" />
-  <key id="3012" name="階段キューブ" />
-  <key id="3013" name="独特な商品" />
-  <key id="3014" name="記念品" />
-  <key id="3015" name="アクション受講証" />
-  <key id="3016" name="エンピラル" />
-  <key id="3017" name="ビューティクーポン" />
-  <key id="3018" name="マネキン" />
-  <key id="3019" name="モンスター乗り物" />
-  <key id="3020" name="多目的保管箱" />
-  <key id="3021" name="収納型家具" />
-  <key id="3022" name="室内がある建物" />
-  <key id="3023" name="室外パッケージ" />
-  <key id="3024" name="室内パッケージ" />
-  <key id="3025" name="ターボジープ" />
-  <key id="3026" name="ライダーチョッパー" />
-  <key id="3027" name="建物" />
-  <key id="3028" name="キューブ" />
-  <key id="3029" name="デコ" />
-  <key id="3030" name="製作道具" />
-  <key id="3031" name="工芸道具" />
-  <key id="3032" name="錬金道具" />
-  <key id="3033" name="調理道具" />
-  <key id="3034" name="武器" />
-  <key id="3035" name="防具" />
-  <key id="3036" name="武器呪文書" />
-  <key id="3037" name="防具呪文書" />
-  <key id="3038" name="その他" />
-  <key id="3039" name="クーポンおよび呪文書" />
-  <key id="3040" name="アバターセット" />
-  <key id="3041" name="アバター単品" />
-  <key id="3042" name="ゴールドマッシュコイン" />
-  <key id="3043" name="シルバーマッシュコイン" />
-  <key id="3044" name="ブロンズマッシュコイン" />
-  <key id="3045" name="宝石" />
-  <key id="3046" name="特別商品" />
-  <key id="3047" name="メダル" feature="SurvivalContents03" />
-  <key id="3048" name="クラッカー" feature="SurvivalContents03" />
-  <key id="3049" name="欠片" />
-  <key id="3050" name="呪文書(帽子)" feature="Peachy02" />
-  <key id="3051" name="呪文書(上下)" feature="Peachy02" />
-  <key id="3052" name="呪文書(グローブ、靴)" feature="Peachy02" />
-  <key id="4000" name="装置" />
-  <key id="9001" name="組み立て式建物" />
-  <key id="9002" name="平屋" />
-  <key id="9003" name="園芸小物" />
-  <key id="9004" name="地形" />
-  <key id="9005" name="構造物" />
-  <key id="9006" name="壁飾り" />
-  <key id="9007" name="家具" />
-  <key id="9008" name="浴室" />
-  <key id="9009" name="インテリア" />
-  <key id="9010" name="電気製品" />
-  <key id="9011" name="産業" />
-  <key id="9012" name="DIY" />
-  <key id="9100" name="1階" />
-  <key id="9101" name="中間階層" />
-  <key id="9102" name="屋上" />
-  <key id="9103" name="室内がある平屋" />
-  <key id="9104" name="カスタマイズ平屋" />
-  <key id="9105" name="木" />
-  <key id="9106" name="草、花" />
-  <key id="9107" name="花壇、植木鉢" />
-  <key id="9108" name="庭の装飾" />
-  <key id="9109" name="壁" />
-  <key id="9110" name="床" />
-  <key id="9111" name="傾斜路" />
-  <key id="9112" name="窓" />
-  <key id="9113" name="門" />
-  <key id="9114" name="フェンス" />
-  <key id="9115" name="階段、窓、壁" />
-  <key id="9116" name="はしご" />
-  <key id="9117" name="ドアキューブ" />
-  <key id="9118" name="フレイム" />
-  <key id="9119" name="装飾品" />
-  <key id="9120" name="棚" />
-  <key id="9121" name="額縁" />
-  <key id="9122" name="壁鏡" />
-  <key id="9123" name="カーテン" />
-  <key id="9124" name="照明" />
-  <key id="9125" name="フレイム" />
-  <key id="9126" name="ベッド" />
-  <key id="9127" name="収納" />
-  <key id="9128" name="テーブル" />
-  <key id="9129" name="イス" />
-  <key id="9130" name="ソファ" />
-  <key id="9131" name="リビンググッズ" />
-  <key id="9132" name="照明、暖房" />
-  <key id="9133" name="生活用品" />
-  <key id="9134" name="キッチングッズ" />
-  <key id="9135" name="装飾品" />
-  <key id="9136" name="制御機器" />
-  <key id="9137" name="生活家電" />
-  <key id="9138" name="マネキン、保管箱" />
-  <key id="9139" name="統合保管箱" />
-  <key id="9140" name="専用保管箱" />
-  <key id="9141" name="基本資材" />
-  <key id="9142" name="フェンス" />
-  <key id="9143" name="インテリア" />
-  <key id="9144" name="寝室、クローゼット" />
-  <key id="9145" name="書斎" />
-  <key id="9146" name="食堂" />
-  <key id="9147" name="トイレ" />
-  <key id="9148" name="納屋" />
-  <key id="9149" name="室内インテリア" />
-  <key id="9150" name="庭のテーマ" />
-  <key id="9151" name="距離" />
-  <key id="9152" name="室外インテリア" />
-  <key id="9153" name="平屋" />
-  <key id="9154" name="組み立て式" />
-  <key id="9155" name="組み立て式上層階" />
-  <key id="9156" name="平屋" />
-  <key id="9157" name="室内" />
-  <key id="9158" name="室外" />
-  <key id="9159" name="メイド" />
-  <key id="9160" name="建物" />
-  <key id="9161" name="メイド雇用" />
-  <key id="9162" name="クーポン使用" />
-  <key id="9163" name="右手武器" />
-  <key id="9164" name="左手武器" />
-  <key id="9165" name="両手武器" />
-  <key id="9166" name="インテリア工事券" />
-  <key id="9167" name="室外パッケージ" />
-  <key id="9168" name="室内パッケージ" />
-  <key id="9169" name="9X9" />
-  <key id="9170" name="12X12" />
-  <key id="9171" name="インテリア小物" />
-  <key id="9900" name="男性衣類" />
-  <key id="9901" name="女性衣類" />
-  <key id="9902" name="男女共用衣類" />
-  <key id="9903" name="デザインキューブ" />
-  <key id="9904" name="イベント帽子" />
-  <key id="9905" name="クリスマス小物" />
-  <key id="9907" name="イベント乗り物" />
-  <key id="9906" name="サンタパパの愛蔵品" />
-  <key id="9908" name="サンタパパのおやつ" />
-  <key id="9909" name="ミステリーボックス" />
-  <key id="9910" name="袋" />
-  <key id="9911" name="販売アイテム" />
-  <key id="9912" name="分解可能" />
-  <key id="9999" name="★ おすすめ" />
-  <key id="10000" name="パッケージ" />
-  <!--블랙마켓 카테고리-->
-  <key id="30000" name="&lt;全体&gt;" />
-  <key id="31000" name="武器" />
-  <key id="31100" name="&lt;全体&gt;" />
-  <key id="31130" name="鈍器" />
-  <key id="31131" name="短剣" />
-  <key id="31132" name="ロングソード" />
-  <key id="31133" name="セプター" />
-  <key id="31134" name="手裏剣" />
-  <key id="31150" name="ラージソード" />
-  <key id="31151" name="弓" />
-  <key id="31152" name="スタッフ" />
-  <key id="31153" name="キャノン" />
-  <key id="31154" name="ブレイド" />
-  <key id="31155" name="ナックル" feature="Striker" />
-  <key id="31156" name="オーブ" feature="SoulBinder" />
-  <key id="31140" name="法典" />
-  <key id="31141" name="盾" />
-  <key id="32000" name="防具" />
-  <key id="32100" name="&lt;全体&gt;" />
-  <key id="32122" name="全身服" />
-  <key id="32114" name="服(上)" />
-  <key id="32115" name="服(下)" />
-  <key id="32113" name="帽子" />
-  <key id="32118" name="マント" />
-  <key id="32117" name="靴" />
-  <key id="32116" name="グローブ" />
-  <key id="32121" name="ベルト" />
-  <key id="32112" name="イヤリング" />
-  <key id="32119" name="ネックレス" />
-  <key id="32120" name="指輪" />
-  <key id="33000" name="アバター武器" />
-  <key id="33100" name="&lt;全体&gt;" />
-  <key id="33130" name="鈍器" />
-  <key id="33131" name="短剣" />
-  <key id="33132" name="ロングソード" />
-  <key id="33133" name="セプター" />
-  <key id="33134" name="手裏剣" />
-  <key id="33150" name="ラージソード" />
-  <key id="33151" name="弓" />
-  <key id="33152" name="スタッフ" />
-  <key id="33153" name="キャノン" />
-  <key id="33154" name="ブレイド" />
-  <key id="33155" name="ナックル" feature="Striker" />
-  <key id="33156" name="オーブ" feature="SoulBinder" />
-  <key id="33140" name="法典" />
-  <key id="33141" name="盾" />
-  <key id="34000" name="アバター防具" />
-  <key id="34100" name="&lt;全体&gt;" />
-  <key id="34122" name="全身服" />
-  <key id="34114" name="服(上)" />
-  <key id="34115" name="服(下)" />
-  <key id="34113" name="帽子" />
-  <key id="34118" name="マント" />
-  <key id="34117" name="靴" />
-  <key id="34116" name="グローブ" />
-  <key id="34110" name="顔飾り" />
-  <key id="34111" name="雪の飾り" />
-  <key id="34112" name="イヤリング" />
-  <key id="35100" name="アバターパッケージ" />
-  <key id="35200" name="ペット全体" />
-  <key id="35201" name="· ペット" />
-  <key id="35202" name="· 捕獲道具" />
-  <key id="35300" name="乗り物全体" />
-  <key id="35301" name="· 地上の乗り物" />
-  <key id="35303" name="・空の乗り物" />
-  <key id="35302" name="· 乗り物パッケージ" />
-  <key id="36000" name="建設全体" />
-  <key id="36001" name="· 地形" />
-  <key id="36002" name="· 建物" />
-  <key id="36003" name="· デコ" />
-  <key id="36004" name="· 建設パッケージ" />
-  <key id="38100" name="釣り" />
-  <key id="38200" name="演奏" />
-  <key id="39100" name="ストーリーブック" />
-  <key id="37000" name="ポーション" />
-  <key id="37100" name="バフポーション" />
-  <key id="37200" name="スクロール" />
-  <key id="37300" name="クリスタル" />
-  <key id="37400" name="ジェムストーン" />
-  <key id="37500" name="バッジ" />
-  <key id="37600" name="アクション受講証" />
-  <key id="39000" name="その他" />
-  <!--프리미엄 샵-->
-  <key id="40000" name="パッケージ" />
-  <key id="40100" name="アバター" />
-  <key id="40101" name="武器" />
-  <key id="40102" name="帽子" />
-  <key id="40103" name="全身服" />
-  <key id="40104" name="服(上)" />
-  <key id="40105" name="服(下)" />
-  <key id="40106" name="グローブ" />
-  <key id="40107" name="靴" />
-  <key id="40108" name="マント" />
-  <key id="40109" name="アクセサリ" />
-  <key id="40110" name="スタイルボックスアバター" />
-  <key id="40200" name="召喚" />
-  <key id="40201" name="地上の乗り物" />
-  <key id="40202" name="空の乗り物" />
-  <key id="40203" name="ペット" />
-  <key id="40204" name="エサ" />
-  <key id="40300" name="機能、消費" />
-  <key id="40301" name="機能" locale="JP" />
-  <key id="40302" name="消費" locale="JP" />
-  <key id="40400" name="エモーション" />
-  <key id="40500" name="バッジ " />
-  <key id="40600" name="生活" />
-  <!--메이플 공방-->
-  <key id="60000" name="&lt;全体&gt;" />
-  <key id="60001" name="武器" />
-  <key id="60002" name="帽子" />
-  <key id="60003" name="全身服" />
-  <key id="60004" name="服(上)" />
-  <key id="60005" name="服(下)" />
-  <key id="60006" name="グローブ" />
-  <key id="60007" name="靴" />
-  <key id="60008" name="マント" />
-  <key id="60009" name="アクセサリ" />
-  <key id="60010" name="建設" />
-  <key id="60011" name="乗り物" />
-  <!--3주년 상점-->
-  <key id="60012" name="3周年ボックス" />
-  <!--신규 가챠-->
-  <!--키 ID 규칙: 가챠ID(6자리)+탭번호(2자리)-->
-  <!--스킨가챠는 세트 이름이 탭이므로 매번 새로 제작합니다-->
-  <!-- 스킨 가챠 11월 1차 -->
-  <key id="10100101" name="ロイヤルダークネスセット" />
-  <key id="10100102" name="ファンシーゴシックセット" />
-  <key id="10100103" name="ラブリーチュチュセット" />
-  <key id="10100104" name="その他" />
-  <!-- 스킨 가챠 11월 1차 -->
-  <key id="10100201" name="ダークキャットファンキー制服セット" />
-  <key id="10100202" name="テックウェアスカウトセット" />
-  <key id="10100203" name="マシュマロセット" />
-  <key id="10100204" name="その他" />
-  <!-- 스킨 가챠 12월 1차 -->
-  <key id="10100301" name="ユニコーンチャンピオンセット" />
-  <key id="10100302" name="スノーテールセット" />
-  <key id="10100303" name="オーバーウィンターセット" />
-  <key id="10100304" name="その他" />
-  <!-- 스킨 가챠 12월 2차 -->
-  <key id="10100401" name="ロイヤルウィンターセット" />
-  <key id="10100402" name="メリーメリークリスマスセット" />
-  <key id="10100403" name="ハッピークリスマスセット" />
-  <key id="10100404" name="その他" />
-  <!-- 스킨 가챠 1월 1차 -->
-  <key id="10100501" name="ダンシンググレースセット" />
-  <key id="10100502" name="フローズンフェアリーセット" />
-  <key id="10100503" name="チューチューセット" />
-  <key id="10100504" name="その他" />
-  <!-- 스킨 가챠 1월 2차 -->
-  <key id="10100601" name="バレンタインセット" />
-  <key id="10100602" name="キュートブロッサムセット" />
-  <key id="10100603" name="ドクターハートセット" />
-  <key id="10100604" name="その他" />
-  <!-- 스킨 가챠 2월 1차 -->
-  <key id="10100701" name="ハッピーメロディセット" />
-  <key id="10100702" name="ピュアウェディングセット" />
-  <key id="10100703" name="ココパピーセット" />
-  <key id="10100704" name="その他" />
-  <!-- 스킨 가챠 2월 2차 -->
-  <key id="10100801" name="コットンキャンディパジャマセット" />
-  <key id="10100802" name="エレガントゴシックセット" />
-  <key id="10100803" name="優等生制服セット" />
-  <key id="10100804" name="その他" />
-  <!-- 스킨 가챠 3월 1차 -->
-  <key id="10100901" name="アドミラルバタフライセット" />
-  <key id="10100902" name="中世貴族セット" />
-  <key id="10100903" name="トライア王宮画家セット" />
-  <key id="10100904" name="その他" />
-  <!-- 스킨 가챠 3월 2차 -->
-  <key id="10101001" name="パンパンピエロセット" />
-  <key id="10101002" name="レッドライディングフードセット" />
-  <key id="10101003" name="トウィンクルスターセット" />
-  <key id="10101004" name="その他" />
-  <!--외형 가챠는 공용으로 사용합니다-->
-  <!--외형 가챠 코인샵-->
-  <key id="10200101" name="乗り物" />
-  <key id="10200102" name="バッジ" />
-  <key id="10200103" name="アクション受講証" />
-  <key id="10200104" name="その他" />
-  <!-- 스페셜 가챠 2019년 12월 KR -->
-  <key id="10400101" name="ウィンターフェアリーテールセット" />
-  <key id="10400102" name="オードリーテュテュセット" />
-  <key id="10400103" name="オリンポスセット" />
-  <key id="10400104" name="その他" />
-  <!-- 스페셜 가챠 2020년 1월 KR -->
-  <key id="10400201" name="モダン韓服セット" />
-  <key id="10400202" name="ビューティクーポン" />
-  <key id="10400203" name="その他" />
-  <!-- 스페셜 가챠 2019년 12월 CN -->
-  <!-- 스페셜 가챠 2019년 12월 NA -->
-  <!-- 스페셜 가챠 2019년 12월 JP -->
-  <key id="10430101" name="ウィンターフェアリーテールセット" locale="JP" />
-  <key id="10430102" name="グロースターセット" locale="JP" />
-  <key id="10430103" name="イリュージョニストセット" locale="JP" />
-  <key id="10430104" name="その他" locale="JP" />
-  <!-- 스페셜 가챠 2020년 2월 NA -->
-  <!-- 스페셜 가챠 2020년 2월 JP -->
-  <key id="10430201" name="オードリーテュテュセット" locale="JP" />
-  <key id="10430202" name="オリンポスセット" locale="JP" />
-  <key id="10430203" name="フローリアフェアリーセット" locale="JP" />
-  <key id="10430204" name="その他" locale="JP" />
+	<key id="1001" name="おすすめ商品" />
+	<key id="1002" name="全体" />
+	<key id="1003" name="全体" />
+	<key id="1004" name="装備" />
+	<key id="1005" name="全体" />
+	<key id="1006" name="建設" />
+	<key id="1007" name="全体" />
+	<key id="1008" name="材料" />
+	<key id="1009" name="乗り物" />
+	<key id="1010" name="その他" />
+	<key id="1011" name="バッジ" />
+	<key id="1012" name="鍵" />
+	<key id="1013" name="クーポン" />
+	<key id="1014" name="ペット" />
+	<key id="1015" name="新規商品" />
+	<key id="1016" name="ラペンシャード" feature="Lapenshard01" />
+	<key id="1017" name="絵文字" />
+	<key id="2000" name="全身服" />
+	<key id="2001" name="服(上)" />
+	<key id="2002" name="服(下)" />
+	<key id="2003" name="帽子" />
+	<key id="2004" name="マント" />
+	<key id="2005" name="靴" />
+	<key id="2006" name="グローブ" />
+	<key id="2007" name="顔飾り" />
+	<key id="2008" name="目の飾り" />
+	<key id="2009" name="イヤリング" />
+	<key id="2010" name="ネックレス" />
+	<key id="2011" name="指輪" />
+	<key id="2012" name="片手武器" />
+	<key id="2013" name="両手武器" />
+	<key id="2014" name="補助装備" />
+	<key id="2015" name="ポーション" />
+	<key id="2016" name="デザイン衣装" />
+	<key id="2017" name="武器" />
+	<key id="2018" name="防具" />
+	<key id="2019" name="生活用品" />
+	<key id="2020" name="フルーツジュース" />
+	<key id="2021" name="リーキーズルック" />
+	<key id="2022" name="クール家具" />
+	<key id="2023" name="ベルト" />
+	<key id="2024" name="武器" />
+	<key id="2025" name="アクセサリ" />
+	<key id="2026" name="スキルブック" />
+	<key id="2027" name="お菓子" />
+	<key id="2028" name="おもちゃ" />
+	<key id="2029" name="応援グッズ" />
+	<key id="2030" name="スペシャルアバター" />
+	<key id="2031" name="アバター" />
+	<key id="2032" name="おやつ" />
+	<key id="2033" name="バーベキュー" />
+	<key id="2034" name="飲み物" />
+	<key id="2035" name="ラグジュアリーダイニング" />
+	<key id="2036" name="甘い実" />
+	<key id="2037" name="水着" />
+	<key id="2038" name="スペシャル衣装" />
+	<key id="2039" name="ボックス" />
+	<key id="2040" name="自動車" />
+	<key id="2041" name="モンスター" />
+	<key id="2042" name="工芸材料" />
+	<key id="2043" name="食材" />
+	<key id="2044" name="錬金材料" />
+	<key id="2045" name="その他材料" />
+	<key id="2046" name="超越材料" />
+	<key id="2047" name="超越呪文書" />
+	<key id="2048" name="ジェムストーン" />
+	<key id="2049" name="ルミストーン" />
+	<key id="2050" name="写真集" />
+	<key id="2051" name="メイプルコミックス" />
+	<key id="2052" name="エリニウムジェムストーン" />
+	<key id="2053" name="呪文書" />
+	<key id="2054" name="パッケージ" />
+	<key id="2060" name="名誉の武器" />
+	<key id="2061" name="名誉の防具" />
+	<key id="2062" name="名誉の乗り物" />
+	<key id="2070" name="トレバアバター" />
+	<key id="2071" name="トレバ武器" />
+	<key id="2072" name="トレバ防具" />
+	<key id="2073" name="トレバ乗り物" />
+	<key id="2074" name="デザイン原本" />
+	<key id="2075" name="マネキン" />
+	<key id="2076" name="スペシャル武器" />
+	<key id="2077" name="イベント商品" />
+	<key id="2078" name="鉱物" />
+	<key id="2079" name="楽器" />
+	<key id="2080" name="楽譜" />
+	<key id="2081" name="釣り道具" />
+	<key id="2082" name="スクロール" />
+	<key id="2083" name="ダンジョン袋" />
+	<key id="2084" name="道具" />
+	<key id="2085" name="フード" />
+	<key id="2090" name="闘技場武器" />
+	<key id="2091" name="闘技場防具" />
+	<key id="2092" name="闘技場装飾品" />
+	<key id="2093" name="闘技場アバター" />
+	<key id="2094" name="闘技場乗り物" />
+	<key id="2095" name="闘技場戦利品" />
+	<key id="2096" name="空の乗り物" />
+	<key id="2100" name="ブループリント" feature="BlueprintMarket" />
+	<key id="3000" name="飾り用建物" />
+	<key id="3001" name="地形" />
+	<key id="3002" name="インテリア小物" />
+	<key id="3003" name="フィッティングドール" />
+	<key id="3004" name="乗り物" />
+	<key id="3005" name="記念品" />
+	<key id="3006" name="金庫" />
+	<key id="3007" name="モンスターボックス" />
+	<key id="3008" name="特産品" />
+	<key id="3009" name="生活、家電" />
+	<key id="3010" name="木" />
+	<key id="3011" name="草、花、キノコ" />
+	<key id="3012" name="階段キューブ" />
+	<key id="3013" name="独特な商品" />
+	<key id="3014" name="記念品" />
+	<key id="3015" name="アクション受講証" />
+	<key id="3016" name="エンピラル" />
+	<key id="3017" name="ビューティクーポン" />
+	<key id="3018" name="マネキン" />
+	<key id="3019" name="モンスター乗り物" />
+	<key id="3020" name="多目的保管箱" />
+	<key id="3021" name="収納型家具" />
+	<key id="3022" name="室内がある建物" />
+	<key id="3023" name="室外パッケージ" />
+	<key id="3024" name="室内パッケージ" />
+	<key id="3025" name="ターボジープ" />
+	<key id="3026" name="ライダーチョッパー" />
+	<key id="3027" name="建物" />
+	<key id="3028" name="キューブ" />
+	<key id="3029" name="デコ" />
+	<key id="3030" name="製作道具" />
+	<key id="3031" name="工芸道具" />
+	<key id="3032" name="錬金道具" />
+	<key id="3033" name="調理道具" />
+	<key id="3034" name="武器" />
+	<key id="3035" name="防具" />
+	<key id="3036" name="武器呪文書" />
+	<key id="3037" name="防具呪文書" />
+	<key id="3038" name="その他" />
+	<key id="3039" name="クーポンおよび呪文書" />
+	<key id="3040" name="アバターセット" />
+	<key id="3041" name="アバター単品" />
+	<key id="3042" name="ゴールドマッシュコイン" />
+	<key id="3043" name="シルバーマッシュコイン" />
+	<key id="3044" name="ブロンズマッシュコイン" />
+	<key id="3045" name="宝石" />
+	<key id="3046" name="特別商品" />
+	<key id="3047" name="メダル" feature="SurvivalContents03" />
+	<key id="3048" name="クラッカー" feature="SurvivalContents03" />
+	<key id="3049" name="欠片" />
+	<key id="3050" name="呪文書(帽子)" feature="Peachy02" />
+	<key id="3051" name="呪文書(上下)" feature="Peachy02" />
+	<key id="3052" name="呪文書(グローブ、靴)" feature="Peachy02" />
+	<key id="4000" name="装置" />
+	<key id="9001" name="組み立て式建物" />
+	<key id="9002" name="平屋" />
+	<key id="9003" name="園芸小物" />
+	<key id="9004" name="地形" />
+	<key id="9005" name="構造物" />
+	<key id="9006" name="壁飾り" />
+	<key id="9007" name="家具" />
+	<key id="9008" name="浴室" />
+	<key id="9009" name="インテリア" />
+	<key id="9010" name="電気製品" />
+	<key id="9011" name="産業" />
+	<key id="9012" name="DIY" />
+	<key id="9100" name="1階" />
+	<key id="9101" name="中間階層" />
+	<key id="9102" name="屋上" />
+	<key id="9103" name="室内がある平屋" />
+	<key id="9104" name="カスタマイズ平屋" />
+	<key id="9105" name="木" />
+	<key id="9106" name="草、花" />
+	<key id="9107" name="花壇、植木鉢" />
+	<key id="9108" name="庭の装飾" />
+	<key id="9109" name="壁" />
+	<key id="9110" name="床" />
+	<key id="9111" name="傾斜路" />
+	<key id="9112" name="窓" />
+	<key id="9113" name="門" />
+	<key id="9114" name="フェンス" />
+	<key id="9115" name="階段、窓、壁" />
+	<key id="9116" name="はしご" />
+	<key id="9117" name="ドアキューブ" />
+	<key id="9118" name="フレイム" />
+	<key id="9119" name="装飾品" />
+	<key id="9120" name="棚" />
+	<key id="9121" name="額縁" />
+	<key id="9122" name="壁鏡" />
+	<key id="9123" name="カーテン" />
+	<key id="9124" name="照明" />
+	<key id="9125" name="フレイム" />
+	<key id="9126" name="ベッド" />
+	<key id="9127" name="収納" />
+	<key id="9128" name="テーブル" />
+	<key id="9129" name="イス" />
+	<key id="9130" name="ソファ" />
+	<key id="9131" name="リビンググッズ" />
+	<key id="9132" name="照明、暖房" />
+	<key id="9133" name="生活用品" />
+	<key id="9134" name="キッチングッズ" />
+	<key id="9135" name="装飾品" />
+	<key id="9136" name="制御機器" />
+	<key id="9137" name="生活家電" />
+	<key id="9138" name="マネキン、保管箱" />
+	<key id="9139" name="統合保管箱" />
+	<key id="9140" name="専用保管箱" />
+	<key id="9141" name="基本資材" />
+	<key id="9142" name="フェンス" />
+	<key id="9143" name="インテリア" />
+	<key id="9144" name="寝室、クローゼット" />
+	<key id="9145" name="書斎" />
+	<key id="9146" name="食堂" />
+	<key id="9147" name="トイレ" />
+	<key id="9148" name="納屋" />
+	<key id="9149" name="室内インテリア" />
+	<key id="9150" name="庭のテーマ" />
+	<key id="9151" name="距離" />
+	<key id="9152" name="室外インテリア" />
+	<key id="9153" name="平屋" />
+	<key id="9154" name="組み立て式" />
+	<key id="9155" name="組み立て式上層階" />
+	<key id="9156" name="平屋" />
+	<key id="9157" name="室内" />
+	<key id="9158" name="室外" />
+	<key id="9159" name="メイド" />
+	<key id="9160" name="建物" />
+	<key id="9161" name="メイド雇用" />
+	<key id="9162" name="クーポン使用" />
+	<key id="9163" name="右手武器" />
+	<key id="9164" name="左手武器" />
+	<key id="9165" name="両手武器" />
+	<key id="9166" name="インテリア工事券" />
+	<key id="9167" name="室外パッケージ" />
+	<key id="9168" name="室内パッケージ" />
+	<key id="9169" name="9X9" />
+	<key id="9170" name="12X12" />
+	<key id="9171" name="インテリア小物" />
+	<key id="9900" name="男性衣類" />
+	<key id="9901" name="女性衣類" />
+	<key id="9902" name="男女共用衣類" />
+	<key id="9903" name="デザインキューブ" />
+	<key id="9904" name="イベント帽子" />
+	<key id="9905" name="クリスマス小物" />
+	<key id="9906" name="サンタパパの愛蔵品" />
+	<key id="9907" name="イベント乗り物" />
+	<key id="9908" name="サンタパパのおやつ" />
+	<key id="9909" name="ミステリーボックス" />
+	<key id="9910" name="袋" />
+	<key id="9911" name="販売アイテム" />
+	<key id="9912" name="分解可能" />
+	<key id="9999" name="★ おすすめ" />
+	<key id="10000" name="パッケージ" />
+	<key id="30000" name="&lt;全体&gt;" />
+	<key id="31000" name="武器" />
+	<key id="31100" name="&lt;全体&gt;" />
+	<key id="31130" name="鈍器" />
+	<key id="31131" name="短剣" />
+	<key id="31132" name="ロングソード" />
+	<key id="31133" name="セプター" />
+	<key id="31134" name="手裏剣" />
+	<key id="31140" name="法典" />
+	<key id="31141" name="盾" />
+	<key id="31150" name="ラージソード" />
+	<key id="31151" name="弓" />
+	<key id="31152" name="スタッフ" />
+	<key id="31153" name="キャノン" />
+	<key id="31154" name="ブレイド" />
+	<key id="31155" name="ナックル" feature="Striker" />
+	<key id="31156" name="オーブ" feature="SoulBinder" />
+	<key id="32000" name="防具" />
+	<key id="32100" name="&lt;全体&gt;" />
+	<key id="32112" name="イヤリング" />
+	<key id="32113" name="帽子" />
+	<key id="32114" name="服(上)" />
+	<key id="32115" name="服(下)" />
+	<key id="32116" name="グローブ" />
+	<key id="32117" name="靴" />
+	<key id="32118" name="マント" />
+	<key id="32119" name="ネックレス" />
+	<key id="32120" name="指輪" />
+	<key id="32121" name="ベルト" />
+	<key id="32122" name="全身服" />
+	<key id="33000" name="アバター武器" />
+	<key id="33100" name="&lt;全体&gt;" />
+	<key id="33130" name="鈍器" />
+	<key id="33131" name="短剣" />
+	<key id="33132" name="ロングソード" />
+	<key id="33133" name="セプター" />
+	<key id="33134" name="手裏剣" />
+	<key id="33140" name="法典" />
+	<key id="33141" name="盾" />
+	<key id="33150" name="ラージソード" />
+	<key id="33151" name="弓" />
+	<key id="33152" name="スタッフ" />
+	<key id="33153" name="キャノン" />
+	<key id="33154" name="ブレイド" />
+	<key id="33155" name="ナックル" feature="Striker" />
+	<key id="33156" name="オーブ" feature="SoulBinder" />
+	<key id="34000" name="アバター防具" />
+	<key id="34100" name="&lt;全体&gt;" />
+	<key id="34110" name="顔飾り" />
+	<key id="34111" name="雪の飾り" />
+	<key id="34112" name="イヤリング" />
+	<key id="34113" name="帽子" />
+	<key id="34114" name="服(上)" />
+	<key id="34115" name="服(下)" />
+	<key id="34116" name="グローブ" />
+	<key id="34117" name="靴" />
+	<key id="34118" name="マント" />
+	<key id="34122" name="全身服" />
+	<key id="35100" name="アバターパッケージ" />
+	<key id="35200" name="ペット全体" />
+	<key id="35201" name="· ペット" />
+	<key id="35202" name="· 捕獲道具" />
+	<key id="35300" name="乗り物全体" />
+	<key id="35301" name="· 地上の乗り物" />
+	<key id="35302" name="· 乗り物パッケージ" />
+	<key id="35303" name="・空の乗り物" />
+	<key id="36000" name="建設全体" />
+	<key id="36001" name="· 地形" />
+	<key id="36002" name="· 建物" />
+	<key id="36003" name="· デコ" />
+	<key id="36004" name="· 建設パッケージ" />
+	<key id="37000" name="ポーション" />
+	<key id="37100" name="バフポーション" />
+	<key id="37200" name="スクロール" />
+	<key id="37300" name="クリスタル" />
+	<key id="37400" name="ジェムストーン" />
+	<key id="37500" name="バッジ" />
+	<key id="37600" name="アクション受講証" />
+	<key id="38100" name="釣り" />
+	<key id="38200" name="演奏" />
+	<key id="39000" name="その他" />
+	<key id="39100" name="ストーリーブック" />
+	<key id="40000" name="パッケージ" />
+	<key id="40100" name="アバター" />
+	<key id="40101" name="武器" />
+	<key id="40102" name="帽子" />
+	<key id="40103" name="全身服" />
+	<key id="40104" name="服(上)" />
+	<key id="40105" name="服(下)" />
+	<key id="40106" name="グローブ" />
+	<key id="40107" name="靴" />
+	<key id="40108" name="マント" />
+	<key id="40109" name="アクセサリ" />
+	<key id="40110" name="スタイルボックスアバター" />
+	<key id="40200" name="召喚" />
+	<key id="40201" name="地上の乗り物" />
+	<key id="40202" name="空の乗り物" />
+	<key id="40203" name="ペット" />
+	<key id="40204" name="エサ" />
+	<key id="40300" name="機能、消費" />
+	<key id="40301" name="機能" locale="JP" />
+	<key id="40302" name="消費" locale="JP" />
+	<key id="40400" name="エモーション" />
+	<key id="40500" name="バッジ " />
+	<key id="40600" name="生活" />
+	<key id="60000" name="&lt;全体&gt;" />
+	<key id="60001" name="武器" />
+	<key id="60002" name="帽子" />
+	<key id="60003" name="全身服" />
+	<key id="60004" name="服(上)" />
+	<key id="60005" name="服(下)" />
+	<key id="60006" name="グローブ" />
+	<key id="60007" name="靴" />
+	<key id="60008" name="マント" />
+	<key id="60009" name="アクセサリ" />
+	<key id="60010" name="建設" />
+	<key id="60011" name="乗り物" />
+	<key id="60012" name="3周年ボックス" />
+	<key id="10100101" name="ロイヤルダークネスセット" />
+	<key id="10100102" name="ファンシーゴシックセット" />
+	<key id="10100103" name="ラブリーチュチュセット" />
+	<key id="10100104" name="その他" />
+	<key id="10100201" name="ダークキャットファンキー制服セット" />
+	<key id="10100202" name="テックウェアスカウトセット" />
+	<key id="10100203" name="マシュマロセット" />
+	<key id="10100204" name="その他" />
+	<key id="10100301" name="ユニコーンチャンピオンセット" />
+	<key id="10100302" name="スノーテールセット" />
+	<key id="10100303" name="オーバーウィンターセット" />
+	<key id="10100304" name="その他" />
+	<key id="10100401" name="ロイヤルウィンターセット" />
+	<key id="10100402" name="メリーメリークリスマスセット" />
+	<key id="10100403" name="ハッピークリスマスセット" />
+	<key id="10100404" name="その他" />
+	<key id="10100501" name="ダンシンググレースセット" />
+	<key id="10100502" name="フローズンフェアリーセット" />
+	<key id="10100503" name="チューチューセット" />
+	<key id="10100504" name="その他" />
+	<key id="10100601" name="バレンタインセット" />
+	<key id="10100602" name="キュートブロッサムセット" />
+	<key id="10100603" name="ドクターハートセット" />
+	<key id="10100604" name="その他" />
+	<key id="10100701" name="ハッピーメロディセット" />
+	<key id="10100702" name="ピュアウェディングセット" />
+	<key id="10100703" name="ココパピーセット" />
+	<key id="10100704" name="その他" />
+	<key id="10100801" name="コットンキャンディパジャマセット" />
+	<key id="10100802" name="エレガントゴシックセット" />
+	<key id="10100803" name="優等生制服セット" />
+	<key id="10100804" name="その他" />
+	<key id="10100901" name="アドミラルバタフライセット" />
+	<key id="10100902" name="中世貴族セット" />
+	<key id="10100903" name="トライア王宮画家セット" />
+	<key id="10100904" name="その他" />
+	<key id="10101001" name="パンパンピエロセット" />
+	<key id="10101002" name="レッドライディングフードセット" />
+	<key id="10101003" name="トウィンクルスターセット" />
+	<key id="10101004" name="その他" />
+	<key id="10200101" name="乗り物" />
+	<key id="10200102" name="バッジ" />
+	<key id="10200103" name="アクション受講証" />
+	<key id="10200104" name="その他" />
+	<key id="10400101" name="ウィンターフェアリーテールセット" />
+	<key id="10400102" name="オードリーテュテュセット" />
+	<key id="10400103" name="オリンポスセット" />
+	<key id="10400104" name="その他" />
+	<key id="10400201" name="モダン韓服セット" />
+	<key id="10400202" name="ビューティクーポン" />
+	<key id="10400203" name="その他" />
+	<key id="10430101" name="ウィンターフェアリーテールセット" locale="JP" />
+	<key id="10430102" name="グロースターセット" locale="JP" />
+	<key id="10430103" name="イリュージョニストセット" locale="JP" />
+	<key id="10430104" name="その他" locale="JP" />
+	<key id="10430201" name="オードリーテュテュセット" locale="JP" />
+	<key id="10430202" name="オリンポスセット" locale="JP" />
+	<key id="10430203" name="フローリアフェアリーセット" locale="JP" />
+	<key id="10430204" name="その他" locale="JP" />
 </ms2>

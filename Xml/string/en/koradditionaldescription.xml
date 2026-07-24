@@ -36,11 +36,11 @@
 	<key id="40501012" level="1" name="Stunned" tooltipDescription="Stunned for 3 sec by a fiery explosion." feature="PirateOcean" />
 	<key id="40501013" level="1" name="Nearly Hampered" tooltipDescription="After a short delay, you’ll become hampered and take significant damage." feature="PirateOcean" />
 	<key id="40501014" level="1" name="Hampered" tooltipDescription="Hampered and unable to move." feature="PirateOcean" />
-	<key id="40600101" level="1" name="Enraged" tooltipDescription="Enraged. Damage taken is reduced by 50%, and attack speed is increased." feature="Season1" />
 	<key id="40600010" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="PirateOcean" />
 	<key id="40600013" level="1" name="Asleep" tooltipDescription="Unable to act while sleeping." feature="PirateOcean" />
 	<key id="40600014" level="1" name="Confused" tooltipDescription="Dazed. May attack allies. Physical and magic attack reduced." feature="PirateOcean" />
 	<key id="40600045" level="1" name="Defense Bonus" tooltipDescription="Protected by a shield. Defense drastically increased." feature="PirateOcean" />
+	<key id="40600101" level="1" name="Enraged" tooltipDescription="Enraged. Damage taken is reduced by 50%, and attack speed is increased." feature="Season1" />
 	<key id="42030101" level="1" name="Slow" tooltipDescription="Reduces movement speed." feature="Fieldwar01" />
 	<key id="42030111" level="1" name="Slow" tooltipDescription="Reduces movement speed." feature="Fieldwar01" />
 	<key id="42030121" level="1" name="Confusion" tooltipDescription="Swaps movement direction." feature="Fieldwar01" />
@@ -91,8 +91,8 @@
 	<key id="49218002" level="1" name="Attack Boost" tooltipDescription="Increases attack by 100%." />
 	<key id="49219001" level="1" name="Bonus Boost" tooltipDescription="Increases attack by 120%. Increases defense by 120%." />
 	<key id="49287001" level="1" name="Deep Wound" tooltipDescription="Inflicts bleed damage over time. Decreases defense by 10%. Explodes at 4 stacks." />
-	<key id="49287003" level="1" name="Festering Wound" />
 	<key id="49287002" level="1" name="Countdown" tooltipDescription="Stunned and unable to act." />
+	<key id="49287003" level="1" name="Festering Wound" />
 	<key id="49287005" level="1" name="Soldier&apos;s Discipline" tooltipDescription="Unlocks Veliche&apos;s power, increasing damage by 15%." />
 	<key id="49287005" level="2" name="Soldier&apos;s Discipline" tooltipDescription="Unlocks Veliche&apos;s power, increasing damage by 200%." />
 	<key id="49287006" level="1" name="Agent&apos;s Edge" tooltipDescription="Unlocks Schatten&apos;s power, increasing damage by 15%." />
@@ -143,7 +143,6 @@
 	<key id="49289062" level="1" name="Speed Reduction" tooltipDescription="Movement speed has been reduced." feature="Colosseum01" />
 	<key id="49289063" level="1" name="Extreme Concentration" tooltipDescription="Defense is significantly increased with extreme concentration." feature="Colosseum01" />
 	<key id="49289064" level="1" name="Extreme Concentration" tooltipDescription="Bolsters your defense for several seconds through careful concentration." feature="Colosseum01" />
-	<key id="49990001" level="1" name="Sensitive Operation Impossible" tooltipDescription="Sensitive operations cannot be executed." />
 	<key id="49907031" level="1" name="Bleeding" tooltipDescription="Bleeding from a powerful attack. Decreases health by 3% every second." />
 	<key id="49908001" level="1" name="Speed Down" tooltipDescription="Decreases movement speed and attack speed by 20%. Stacks up to 2 times." />
 	<key id="49908211" level="1" name="Confusion" tooltipDescription="Confused! Inverts up and down, left and right." />
@@ -157,6 +156,7 @@
 	<key id="49908651" level="1" name="Ice" tooltipDescription="Encased in ice. Decreases movement speed and attack speed by 50%." />
 	<key id="49908661" level="1" name="Electrified" tooltipDescription="A bad case of the zappies. Receives 3% damage every 3 seconds. Decreases magic resistance by 85%." />
 	<key id="49908671" level="1" name="Whispers of Darkness" tooltipDescription="A dark aura obstructs sight for 5 seconds." />
+	<key id="49990001" level="1" name="Sensitive Operation Impossible" tooltipDescription="Sensitive operations cannot be executed." />
 	<key id="49999992" level="1" name="Soul Boosted" tooltipDescription="Increases movement and attack speeds by 20%." />
 	<key id="50000001" level="1" name="Poisoned" tooltipDescription="Inflicts continuous poison damage." />
 	<key id="50000002" level="1" name="Poisoned" tooltipDescription="Inflicts continuous poison damage." />
@@ -516,10 +516,6 @@
 	<key id="50001655" level="1" name="Accuracy Down" tooltipDescription="Reduces accuracy by 85%." feature="LapentaDungeon" />
 	<key id="50001656" level="1" name="Accuracy Down" tooltipDescription="Reduces accuracy by 70%." feature="CrimsonBalrog01" />
 	<key id="50001657" level="1" name="Accuracy Down" tooltipDescription="Reduces accuracy by 25%. Stacks up to 3 times." feature="Kritias_Inferno01" />
-	<key id="50001658" level="1" name="Reception Dance" tooltipDescription="Forced to dance and unable to act." feature="Wedding" />
-	<key id="50001659" level="1" name="Reception Dance" tooltipDescription="Forced to dance and unable to act." feature="Wedding" />
-	<key id="50001660" level="1" name="Reception Dance" tooltipDescription="Forced to dance and unable to act." feature="Wedding" />
-	<key id="50001661" level="1" name="Pint-sized" tooltipDescription="Reduces body size by 50%." feature="Wedding" />
 	<key id="50002000" level="1" name="Health Down" tooltipDescription="Decreases max health by 10%. Stacks up to 5 times." />
 	<key id="50002100" level="1" name="Silence" tooltipDescription="Unable to use skills. Normal attacks can still be used." />
 	<key id="50002101" level="1" name="Confusion" tooltipDescription="The laws of physics grow muddled in your head. Inverses up and down, left and right." />
@@ -809,8 +805,8 @@
 	<key id="60126002" level="1" name="Demonic Rage: Blades of Ice" tooltipDescription="Fires damaging ice shards at nearby foes." />
 	<key id="60127002" level="1" name="Demonic Rage: Bolt of Judgement" tooltipDescription="Stikes the target with bolts of lightning." />
 	<key id="60128001" level="1" name="Demonic Rage: Holy Restraint" tooltipDescription="Releases a bolt of holy power that restrains." />
-	<key id="60128002" level="1" name="Holy Restraint" tooltipDescription="Restrained and unable to move." />
 	<key id="60128001" level="2" name="Demonic Rage: Holy Restraint" tooltipDescription="Releases a bolt of holy power that restrains." />
+	<key id="60128002" level="1" name="Holy Restraint" tooltipDescription="Restrained and unable to move." />
 	<key id="60128002" level="2" name="Holy Restraint" tooltipDescription="Restrained and unable to move." />
 	<key id="60129001" level="1" name="Demonic Rage: Dark Vortex" tooltipDescription="Summons a vortex of darkness to draw foes in." />
 	<key id="60130001" level="1" name="Demonic Rage: Vigor" tooltipDescription="Recovers health upon striking its target." />
@@ -849,8 +845,8 @@
 	<key id="61001061" level="1" name="Pet Trick: Stun" tooltipDescription="Unable to act or move." />
 	<key id="61100011" level="1" name="Pet Trick: Movement Speed Up" tooltipDescription="Increases movement speed by 5%." />
 	<key id="61100021" level="1" name="Pet Trick: Attack Down" tooltipDescription="Physical &amp; magic attack reduced by 2%." />
-	<key id="61100091" level="1" name="Pet Trick: Attack Down" tooltipDescription="Reduces attack by 2%." />
 	<key id="61100090" level="1" name="Pet Trick: Critical Rate Down" tooltipDescription="Decreases critical rate by 90." />
+	<key id="61100091" level="1" name="Pet Trick: Attack Down" tooltipDescription="Reduces attack by 2%." />
 	<key id="61100111" level="1" name="Zakum the Accursed" tooltipDescription="Reduces defense by 0.3%. Stacks up to 10 times." />
 	<key id="61100121" level="1" name="Zakum the Stalwart" tooltipDescription="When health is below 30%, creates a shield that absorbs up to 1200 damage." />
 	<key id="61100132" level="1" name="Zakum the Furious" tooltipDescription="Stunned and unable to act." />
@@ -1116,9 +1112,9 @@
 	<key id="71000020" level="1" name="Seasoned Essence of Dance" tooltipDescription="Brimming with energy!" feature="GuildRaid01" />
 	<key id="71000021" level="1" name="Seasoned Enduring Health" tooltipDescription="Brimming with energy!" feature="GuildRaid01" />
 	<key id="71000049" level="1" name="Protective Shield" tooltipDescription="You take no damage as long as this shield is active." feature="SurvivalContents01" />
-	<key id="71000053" level="1" name="Protective Shield" tooltipDescription="You take no damage as long as this shield is active." feature="SurvivalContents01" />
 	<key id="71000052" level="1" name="Position Tracker" tooltipDescription="Reveals other players&apos; positions on the minimap for 10 sec." feature="SurvivalContents01" />
 	<key id="71000052" level="2" name="Toady&apos;s Prank" tooltipDescription="Reveals the position of other players on the minimap." feature="SurvivalContentsTeam" />
+	<key id="71000053" level="1" name="Protective Shield" tooltipDescription="You take no damage as long as this shield is active." feature="SurvivalContents01" />
 	<key id="71000055" level="1" name="Sticky Shoes" tooltipDescription="Your movement speed is reduced from stepping in something sticky." feature="SurvivalContents01" />
 	<key id="71000056" level="1" name="Sleepy Spore" feature="SurvivalContents01" />
 	<key id="71000057" level="1" name="Sleepy Spore" feature="SurvivalContents01" />
@@ -1336,6 +1332,7 @@
 	<key id="90000234" level="1" name="Mage Tonic" tooltipDescription="Increases magic attack by 3%." />
 	<key id="90000235" level="1" name="Health Tonic" tooltipDescription="Increases max health by 5%." />
 	<key id="90000236" level="1" name="Defense Tonic" tooltipDescription="Increases defense by 3%." />
+	<key id="90000237" level="1" name="Balloon Voice" tooltipDescription="Voice changed via the inhalation of helium gas." />
 	<key id="90000239" level="1" name="100th Day Blessing" tooltipDescription="Increases strength by 7.\nIncreases intelligence by 7.\nIncreases dexterity by 7.\nIncreases luck by 7." />
 	<key id="90000240" level="1" name="Souvenir" tooltipDescription="Increases accuracy by 4." />
 	<key id="90000241" level="1" name="Souvenir" tooltipDescription="Increases evasion by 4." />
@@ -2052,12 +2049,12 @@
 	<key id="90000850" level="1" name="Enhanced Spirit Boost Tonic" tooltipDescription="Increases maximum spirit by 30" feature="Mastery06" />
 	<key id="90000851" level="1" name="Pineapple Pizza" tooltipDescription="Increases attack speed by 5%" feature="Mastery06" />
 	<key id="90000852" level="1" name="Heavenly Crepe Cake" tooltipDescription="Increases health by 300 for 15 min. \nIncreases defense by 6%." feature="Mastery06" />
-	<key id="90000886" level="1" name="Soft Star Jelly" tooltipDescription="Restores 122 health every sec." />
 	<key id="90000857" level="1" name="Enhanced Special Warrior Tonic" tooltipDescription="Increases physical attack by 4%" feature="Mastery06" />
 	<key id="90000865" level="1" name="Piping Hot Pizza" tooltipDescription="Increases bonus attack by 200." />
 	<key id="90000867" level="1" name="Health Recovery" tooltipDescription="Restores 8 health every sec." />
 	<key id="90000868" level="1" name="Health Recovery" tooltipDescription="Restores 20 health every sec." />
 	<key id="90000873" level="1" name="Full Moon&apos;s Power" tooltipDescription="Increases accuracy by 5.\nIncreases physical and magic damage by 3%.\n&lt;font color=&apos;#00aaef&apos;&gt;Not active in battlegrounds or arenas.&lt;/font&gt;" />
+	<key id="90000886" level="1" name="Soft Star Jelly" tooltipDescription="Restores 122 health every sec." />
 	<key id="90000901" level="1" name="Papulatus&apos;s Clock" tooltipDescription="Increases physical and magic attack by 3%. Increases bonus attack by 250\n&lt;font color=&apos;#00aaef&apos;&gt;Not active in battlegrounds or arenas.&lt;/font&gt;" />
 	<key id="90000913" level="1" name="Health Recovery" tooltipDescription="Restores 80 health every sec." />
 	<key id="90000914" level="1" name="Health Recovery" tooltipDescription="Restores 60 health every sec." />
@@ -2124,176 +2121,22 @@
 	<key id="90030591" level="1" name="Varrekant&apos;s Wings" tooltipDescription="Increases piercing by 10%." />
 	<key id="90030594" level="1" name="Attacking an elite monster with Starlight power increases their damage taken by 3%." />
 	<key id="90030595" level="1" name="Chance to recover 20% health upon attacking with the power of Nutaman. Not active in battlegrounds or arenas." />
-	<key id="90050512" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050522" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050532" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050542" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050552" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050562" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050572" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050582" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050592" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050602" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050612" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050622" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050632" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050672" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050682" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
-	<key id="90050702" level="1" name="May temporarily turn into a giant during combat." />
-	<key id="90050703" level="1" name="Cute Ducky Ball" tooltipDescription="Suddenly giant-ified!" />
-	<key id="90050711" level="1" name="Chance to increase attack speed by 10% for 12 sec." />
-	<key id="90050712" level="1" name="Embarrassed Ducky Ball" tooltipDescription="Increases attack speed by 10%." />
-	<key id="90050713" level="1" name="[Options are being revised]" />
-	<key id="90050714" level="1" name="[Options are being revised]" />
-	<key id="90050715" level="1" name="[Options are being revised]" />
-	<key id="90050716" level="1" name="[Options are being revised]" />
-	<key id="90050717" level="1" name="[Options are being revised]" />
-	<key id="90050718" level="1" name="[Options are being revised]" />
-	<key id="90050719" level="1" name="[Options are being revised]" />
-	<key id="90050720" level="1" name="[Options are being revised]" />
-	<key id="90050721" level="1" name="[Options are being revised]" />
-	<key id="90050722" level="1" name="[Options are being revised]" />
-	<key id="90050723" level="1" name="[Options are being revised]" />
-	<key id="90050724" level="1" name="[Options are being revised]" />
-	<key id="90050745" level="1" name="Unleashed Narubashan Strength" tooltipDescription="Increases attack speed by 35%." />
-	<key id="90050746" level="1" name="Unleashed Narubashan Strength" tooltipDescription="Prolonged exposure to Narubashan strength is dangerous. \nMay be affected by Unleashed Narubashan Strength." />
-	<key id="90050753" level="1" name="Increases max health by 5%." />
-	<key id="90050754" level="1" name="Increases max health by 10%." />
-	<key id="90050755" level="1" name="Increases max health by 20%." />
-	<key id="90050756" level="1" name="Increases max health by 30%." />
-	<key id="90050763" level="1" name="Increases movement speed by 5% for 3 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050764" level="1" name="Papulatus&apos;s Wind-up Key" tooltipDescription="Increases movement speed by 5%." />
-	<key id="90050765" level="1" name="Decreases health on every hit, but grants a 3% physical and magic damage buff. The effect disappears when your health is less than 20%. Not active in battlegrounds or arenas." />
-	<key id="90050903" level="1" name="Chance to increase bonus attack by 1034 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050891" level="1" name="Chance to increase bonus attack by 1920 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050897" level="1" name="Chance to increase bonus attack by 1920 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050908" level="1" name="Chance to increase bonus attack by 1034 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050893" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050899" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050895" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050901" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050913" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050915" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050917" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050931" level="1" name="Chance to increase weapon attack by 17% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050919" level="1" name="Chance to increase weapon attack by 30% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050925" level="1" name="Chance to increase weapon attack by 30% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050936" level="1" name="Chance to increase weapon attack by 17% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050921" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050927" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050923" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050929" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050941" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050943" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050945" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
-	<key id="90050977" level="1" name="Release Light-touched" tooltipDescription="Increases attack speed and all damage by 20%." />
-	<key id="90050990" level="1" name="Light-touched" tooltipDescription="Decreases defense by 1%." />
-	<key id="90050987" level="1" name="Increases bonus attack by 320 when the Lumenstone Shard effect is active. \nNot active in battlegrounds or arenas." tooltipDescription="Increases bonus attack by 320 when the Lumenstone Shard effect is active. " />
-	<key id="90050988" level="1" name="Increases bonus attack by 320 when the Lumenstone Shard effect is active. Must have one equipped in both hands to gain this effect. \nNot active in battlegrounds or arenas." />
-	<key id="90050993" level="1" name="Increases fishing experience by 3% after using the Beginner&apos;s Golden Lure." tooltipDescription="Increases fishing experience by 3% after using the Beginner&apos;s Golden Lure." />
-	<key id="90050994" level="1" name="Increases experience by 3% after performing with an instrument." tooltipDescription="Increases experience by 3% after performing with an instrument." />
-	<key id="90050995" level="1" name="Chance to increase physical and magic attack by 13.5% for 10 sec on hit." tooltipDescription="Chance to increase physical and magic attack by 13.5% for 10 sec on hit." />
-	<key id="90050996" level="1" name="Pyrenthia the Witch Crown" tooltipDescription="Increases physical and magic attack by 13.5%." />
-	<key id="90050997" level="1" name="Increases the damage dealt to elite monsters by 10%." tooltipDescription="Increases the damage dealt to elite monsters by 10%." />
-	<key id="90050905" level="1" name="Tsunami Dagger" tooltipDescription="Increases bonus attack by 1034." />
-	<key id="90050907" level="1" name="Tsunami Dagger" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050892" level="1" name="Tsunami Longsword" tooltipDescription="Increases bonus attack by 1920." />
-	<key id="90050898" level="1" name="Tsunami Scepter" tooltipDescription="Increases bonus attack by 1920." />
-	<key id="90050910" level="1" name="Tsunami Thrown Weapon" tooltipDescription="Increases bonus attack by 1034." />
-	<key id="90050912" level="1" name="Tsunami Thrown Weapon" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050894" level="1" name="Tsunami Greatsword" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050900" level="1" name="Tsunami Bow" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050896" level="1" name="Tsunami Staff" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050902" level="1" name="Tsunami Cannon" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050914" level="1" name="Tsunami Blade" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050916" level="1" name="Tsunami Knuckles" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050918" level="1" name="Tsunami Orb" tooltipDescription="Increases bonus attack by 2068." />
-	<key id="90050933" level="1" name="Blizzard Dagger" tooltipDescription="Increases weapon attack by 17%." />
-	<key id="90050935" level="1" name="Blizzard Dagger" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050920" level="1" name="Blizzard Longsword" tooltipDescription="Increases weapon attack by 30%." />
-	<key id="90050926" level="1" name="Blizzard Scepter" tooltipDescription="Increases weapon attack by 30%." />
-	<key id="90050938" level="1" name="Blizzard Thrown Weapon" tooltipDescription="Increases weapon attack by 17%." />
-	<key id="90050940" level="1" name="Blizzard Thrown Weapon" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050922" level="1" name="Blizzard Greatsword" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050928" level="1" name="Blizzard Bow" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050924" level="1" name="Blizzard Staff" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050930" level="1" name="Blizzard Cannon" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050942" level="1" name="Blizzard Blade" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050944" level="1" name="Blizzard Knuckles" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050946" level="1" name="Blizzard Orb" tooltipDescription="Increases weapon attack by 34%." />
-	<key id="90050885" level="1" name="Increases movement speed by 20% on ground mounts. \nNot active in battlegrounds or arenas." />
-	<key id="90050886" level="1" name="Increases bonus attack by 520 when there are more than 4 targets within 9 m.\nNot active in battlegrounds or arenas." tooltipDescription="Increases bonus attack by 520 when there are more than 4 targets within 9 m.\nNot active in battlegrounds or arenas." />
-	<key id="90050947" level="1" name="Increases health by 10%" />
-	<key id="90050948" level="1" name="Chance to increase attack speed and movement speed by 12% for 15 sec on hit." />
-	<key id="90050949" level="1" name="Power of Darkness" tooltipDescription="Increases attack speed and movement speed by 12%." />
-	<key id="90050953" level="1" name="All In the Wrist" tooltipDescription='Increases attack speed by 30%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;To properly motivate her henchmen, Madria added a lightning sharp snap to the flick of her wrist, creating an effective, high speed attack.&lt;/font&gt;' />
-	<key id="90050954" level="1" name="Blessing of Punctuality" tooltipDescription='Increases movement speed by 25%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark aura lightens the body, allowing faster movement. Madria used this whenever she was late for a meeting, which was often.&lt;/font&gt;' />
-	<key id="90050955" level="1" name="Toying with Gods: Rage" tooltipDescription='All attacks become critical.\n\n&lt;font color=&quot;#FFD400&quot;&gt;When Madria&apos;s mad, watch out! That even one of her trinkets possess this much power reveals how deadly she truly is.&lt;/font&gt;' />
-	<key id="90050956" level="1" name="Black Steel Polish" tooltipDescription='Increases physical and magic resistance by 540. \n\n&lt;font color=&quot;#FFD400&quot;&gt;The magic coating this armor is the same as the kind used on Madria&apos;s castle walls.&lt;/font&gt;' />
-	<key id="90050957" level="1" name="Eternal Fitness" tooltipDescription='Completely restores stamina every 5 sec.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Quickens metabolism, restoring energy faster than usual. This enabled Madria to keep a close eye on all parts of her domain.&lt;/font&gt;' />
-	<key id="90050958" level="1" name="Monarch&apos;s Treatment" tooltipDescription='Recovers 330 health every sec.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark magic treatment that heals injuries. Madria used this magic on her henchmen far more than she used it on herself.&lt;/font&gt;' />
-	<key id="90050959" level="1" name="Giant Monarch" tooltipDescription='Turns you into a giant, and increases physical and magic attack by 48%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria was trying to make herself grow older and discarded this spell when it made her grow bigger instead. \nA larger body means more muscle mass, which means more combat ability.&lt;/font&gt;' />
-	<key id="90050960" level="1" name="Mini Monarch" tooltipDescription='Shrinks, and increases all damage by 72%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria intended to use this spell to make herself look like a 10-year-old, then realized that she already did, so she ditched it. \nWith a smaller body, it&apos;s easier to sneak past enemy defense, which enhances combat ability.&lt;/font&gt;' />
-	<key id="90050961" level="1" name="Party Dance" tooltipDescription='You can dance if you want to. And even if you don&apos;t.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria whips out this terrifying magic at parties, forcing people to dance until they collapse. Her henchman categorize this magic as a form of torture, but it&apos;s not certain that&apos;s what she intended.&lt;/font&gt;' />
-	<key id="90050964" level="1" name="Materialized Rage" tooltipDescription='Chance of dealing 24% additional damage on hit.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Magic in the form of materialized rage is said to be impossible, yet Madria is able to control this type of magic at will.&lt;/font&gt;' />
-	<key id="90050966" level="1" name="Shadow Phase Shift" tooltipDescription='Increases evasion and all damage by 50%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;The true form of this ornament cannot be seen with the naked eye.&lt;/font&gt;' />
-	<key id="90050967" level="1" name="Black Iron Reflective" tooltipDescription='Absorbs damage equivalent to 5% of health. Increases all damage by 80% when this effect is active.\n\n&lt;font color=&quot;#FFD400&quot;&gt;This magic is the same as the one used on Madria&apos;s castle walls. She created it to win a wrestling match against Lukarax.&lt;/font&gt;' />
-	<key id="90050968" level="1" name="I Think. Therefore, I Hunt." tooltipDescription='Increases monster slaying experience by 20%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria created this magic to help her stay focused when she trained, so that she could become one of the Seven Commanders. She could easily have overcome the spell with a single thought, but a normal person would&apos;ve been totally enthralled by the drive to gain more and more experience.&lt;/font&gt;' />
-	<key id="90050969" level="1" name="Nervous System Overload" tooltipDescription='Increases movement speed, all damage, and attack speed by 50%, but inverts movement.\n\n&lt;font color=&quot;#FFD400&quot;&gt;This magic enhances your senses, granting a wealth of abilities, but due to a slight miscalculation on Madria&apos;s part, it also flips the nervous system. Due to that, it&apos;s become a rather inferior spell.&lt;/font&gt;' />
-	<key id="90050970" level="1" name="Lavish Lifestyle" tooltipDescription='Increases fishing and performance experience by 700%. This skill will not enhance experience past 700%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;With this magic, anyone can live the lavish life of leisure that Madria enjoys, even if it&apos;s just for a short time.&lt;/font&gt;' />
-	<key id="90050971" level="1" name="Monarch&apos;s Incessant Poking" tooltipDescription='Increases damage taken by the target by 5% for 1 sec on hit.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria has a philosophy: keep whacking on the same spot, and it&apos;ll really start to hurt. This magic is a reflection of that.&lt;/font&gt;' />
-	<key id="90050972" level="1" name="Monarch&apos;s Incessant Poking" tooltipDescription='Increases damage taken by 5%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria has a philosophy: keep whacking on the same spot, and it&apos;ll really start to hurt. The target of these attacks can attest to that.&lt;/font&gt;' />
-	<key id="90050978" level="1" name="Light-touched" tooltipDescription="Decreases target defense by 1% for 1 sec on hit." />
-	<key id="90050983" level="1" name="Scarlet Rose Heart" tooltipDescription="Grants a 4% chance when wearing the Scarlet Heart set to increase attack speed by 2% for 120 sec. This can only occur once every 180 sec." />
-	<key id="90050985" level="1" name="Scarlet Rose Heart" tooltipDescription="Grants a 4% chance when wearing the Scarlet Heart set to increase attack speed by 2% for 120 sec. This can only occur once every 180 sec." />
-	<key id="90050986" level="1" name="Blooming Scarlet Rose" tooltipDescription="Grants a 4% chance when the Blooming Scarlet Rose buff is active to deal 240% on hit. This can only occur once every 20 sec." />
-	<key id="90050889" level="1" name="Chance to increase bonus attack by 180 for 15 sec on hit.\nNot active in battlegrounds or arenas." />
-	<key id="90050890" level="1" name="Siren Song" tooltipDescription="Increases bonus attack by 180." />
-	<key id="90050887" level="1" name="Decreases accuracy by 4." />
-	<key id="90050888" level="1" name="Decreases movement speed by 5%." />
-	<key id="90050999" level="1" name="Release Light-touched" tooltipDescription="Increases attack speed and all damage by 20%." />
-	<key id="90051000" level="1" name="Light-touched" tooltipDescription="Decreases target defense by 1% for 1 sec on hit." />
-	<key id="90051001" level="1" name="Invisible Dragon&apos;s Rage" tooltipDescription='Dancing invisibly. Has a 95% chance to evade all attacks. Will be furious after the dance ends. \n\n&lt;font color=&quot;#FFD400&quot;&gt;This spell has a tragic story attached to it. Lukarax gave up everything to perform a dragon dance for Madria. She found it yawn-worthy, until she placed him under a spell that forced him to keep dancing. Although it wasn&apos;t reported, afterwards Lukarax crushed half of Madria&apos;s castle spires, enraged. She thought it rather amusing, and to remember the day&apos;s events, created this little piece of magic. &lt;/font&gt;' />
-	<key id="90051002" level="1" name="Invisible Dragon&apos;s Rage" tooltipDescription='Caught in a fit of fury.\nTriples all damage and increases movement speed by 50%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;This spell has a tragic story attached to it. Lukarax gave up everything to perform a dragon dance for Madria. She found it yawn-worthy, until she placed him under a spell that forced him to keep dancing. Although it wasn&apos;t reported, afterwards Lukarax crushed half of Madria&apos;s castle spires, enraged. She thought it rather amusing, and to remember the day&apos;s events, created this little piece of magic. &lt;/font&gt;' />
-	<key id="90051004" level="1" name="Phase Dimension Strength" tooltipDescription='Can use skills without consuming spirit.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Drawing power from a separate dimension, this magic allows endless attacks and actions. Although Madria&apos;s ornament temporarily grants anyone who wears it this power, Madria has this ability all the time.&lt;/font&gt;' />
-	<key id="90051006" level="1" name="Autumn Effect Added" tooltipDescription="Autumn Effect Added" />
-	<key id="90051007" level="1" name="Madria&apos;s Whim" />
-	<key id="90100001" level="1" name="Has a 20% chance to drain health for 3 sec on hit." tooltipDescription="Has a 20% chance to drain health for 3 sec on hit." />
-	<key id="90100002" level="1" name="Drain Health" tooltipDescription="Drains health equivalent to 30% of the damage dealt to target." />
-	<key id="90100011" level="1" name="20% chance to increase strength on hit." tooltipDescription="20% chance to increase strength on hit." />
-	<key id="90100012" level="1" name="Strength Up" tooltipDescription="Increases strength by 30%." />
-	<key id="90300001" level="1" name="20% chance to inflict burn on hit." tooltipDescription="20% chance to inflict burn on hit." />
-	<key id="90300002" level="1" name="Burning" tooltipDescription="Burns for 50% of damage." />
-	<key id="90300011" level="1" name="20% chance to increase intelligence on hit." tooltipDescription="20% chance to increase intelligence on hit." />
-	<key id="90300012" level="1" name="Intelligence Up" tooltipDescription="Increases intelligence by 30%." />
-	<key id="90400001" level="1" name="10% chance to inflict burn on hit." tooltipDescription="10% chance to inflict burn on hit." />
-	<key id="90400002" level="1" name="Frozen" tooltipDescription="Frozen for 3 sec." />
-	<key id="90400011" level="1" name="20% chance to increase critical rate on hit." tooltipDescription="20% chance to increase critical rate on hit." />
-	<key id="90400012" level="1" name="Critical Rate Up" tooltipDescription="Increases critical rate by 100%." />
-	<key id="90500001" level="1" name="25% chance to inflict bleeding on hit." tooltipDescription="25% chance to inflict bleeding on hit." />
-	<key id="90500002" level="1" name="Deep Cuts" tooltipDescription="Bleeds for 20% of damage." />
-	<key id="90500011" level="1" name="20% chance to increase attack speed on hit." tooltipDescription="20% chance to increase attack speed on hit." />
-	<key id="90500012" level="1" name="Attack Speed Up" tooltipDescription="Increases attack speed by 100%." />
-	<key id="90800001" level="1" name="20% chance to inflict poison on hit." tooltipDescription="20% chance to inflict poison on hit." />
-	<key id="90800002" level="1" name="Poisoned" tooltipDescription="Poisons for 20% of damage." />
-	<key id="90800011" level="1" name="10% chance to increase movement speed on hit." tooltipDescription="10% chance to increase movement speed on hit." />
-	<key id="90800012" level="1" name="Movement Speed Up" tooltipDescription="Increases movement speed by 300%." />
 	<key id="90050211" level="1" name="Has a 8% chance to increase physical and magic attack by 17% for 30 sec on hit." />
-	<key id="90050221" level="1" name="Has a 10% chance to increase physical and magic attack by 22% for 30 sec on hit." />
-	<key id="90050231" level="1" name="Has a 14% chance to increase physical and magic attack by 22% for 30 sec on hit." />
-	<key id="90050241" level="1" name="Has a 8% chance to increase physical and magic attack by 17% for 30 sec on hit." />
-	<key id="90050251" level="1" name="Has a 8% chance to increase physical and magic attack by 22% for 30 sec on hit." />
-	<key id="90050261" level="1" name="Has a 8% chance to increase physical and magic attack by 22% for 30 sec on hit." />
-	<key id="90050271" level="1" name="Has a 8% chance to increase physical and magic attack by 11% for 30 sec on hit." />
-	<key id="90050283" level="1" name="Has a 8% chance to increase physical and magic attack by 11% for 30 sec on hit." />
 	<key id="90050212" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 17%. Not active in battlegrounds or arenas." />
+	<key id="90050221" level="1" name="Has a 10% chance to increase physical and magic attack by 22% for 30 sec on hit." />
 	<key id="90050222" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 22%. Not active in battlegrounds or arenas." />
+	<key id="90050231" level="1" name="Has a 14% chance to increase physical and magic attack by 22% for 30 sec on hit." />
 	<key id="90050232" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 22%. Not active in battlegrounds or arenas." />
+	<key id="90050241" level="1" name="Has a 8% chance to increase physical and magic attack by 17% for 30 sec on hit." />
 	<key id="90050242" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 17%. Not active in battlegrounds or arenas." />
+	<key id="90050251" level="1" name="Has a 8% chance to increase physical and magic attack by 22% for 30 sec on hit." />
 	<key id="90050252" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 22%. Not active in battlegrounds or arenas." />
+	<key id="90050261" level="1" name="Has a 8% chance to increase physical and magic attack by 22% for 30 sec on hit." />
 	<key id="90050262" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 22%. Not active in battlegrounds or arenas." />
+	<key id="90050271" level="1" name="Has a 8% chance to increase physical and magic attack by 11% for 30 sec on hit." />
 	<key id="90050274" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 11%. Not active in battlegrounds or arenas." />
 	<key id="90050274" level="2" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 22%. Not active in battlegrounds or arenas." />
+	<key id="90050283" level="1" name="Has a 8% chance to increase physical and magic attack by 11% for 30 sec on hit." />
 	<key id="90050284" level="1" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 11%. Not active in battlegrounds or arenas." />
 	<key id="90050284" level="2" name="Physical, Magic Attack Up" tooltipDescription="Increases physical and magic attack by 22%. Not active in battlegrounds or arenas." />
 	<key id="90050291" level="1" name="Has a 8% chance to increase physical and magic attack by 22% for 30 sec on hit." />
@@ -2392,6 +2235,37 @@
 	<key id="90050504" level="1" name="[Options are being revised]" />
 	<key id="90050505" level="1" name="[Options are being revised]" />
 	<key id="90050506" level="1" name="[Options are being revised]" />
+	<key id="90050512" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050522" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050532" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050542" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050552" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050562" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050572" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050582" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050592" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050602" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050612" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050622" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050632" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050672" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050682" level="1" name="Flame Orb" tooltipDescription="A Flame Orb has formed." />
+	<key id="90050702" level="1" name="May temporarily turn into a giant during combat." />
+	<key id="90050703" level="1" name="Cute Ducky Ball" tooltipDescription="Suddenly giant-ified!" />
+	<key id="90050711" level="1" name="Chance to increase attack speed by 10% for 12 sec." />
+	<key id="90050712" level="1" name="Embarrassed Ducky Ball" tooltipDescription="Increases attack speed by 10%." />
+	<key id="90050713" level="1" name="[Options are being revised]" />
+	<key id="90050714" level="1" name="[Options are being revised]" />
+	<key id="90050715" level="1" name="[Options are being revised]" />
+	<key id="90050716" level="1" name="[Options are being revised]" />
+	<key id="90050717" level="1" name="[Options are being revised]" />
+	<key id="90050718" level="1" name="[Options are being revised]" />
+	<key id="90050719" level="1" name="[Options are being revised]" />
+	<key id="90050720" level="1" name="[Options are being revised]" />
+	<key id="90050721" level="1" name="[Options are being revised]" />
+	<key id="90050722" level="1" name="[Options are being revised]" />
+	<key id="90050723" level="1" name="[Options are being revised]" />
+	<key id="90050724" level="1" name="[Options are being revised]" />
 	<key id="90050725" level="1" name="[Options are being revised]" />
 	<key id="90050726" level="1" name="[Options are being revised]" />
 	<key id="90050727" level="1" name="[Options are being revised]" />
@@ -2404,6 +2278,15 @@
 	<key id="90050734" level="1" name="[Options are being revised]" />
 	<key id="90050735" level="1" name="[Options are being revised]" />
 	<key id="90050736" level="1" name="[Options are being revised]" />
+	<key id="90050745" level="1" name="Unleashed Narubashan Strength" tooltipDescription="Increases attack speed by 35%." />
+	<key id="90050746" level="1" name="Unleashed Narubashan Strength" tooltipDescription="Prolonged exposure to Narubashan strength is dangerous. \nMay be affected by Unleashed Narubashan Strength." />
+	<key id="90050753" level="1" name="Increases max health by 5%." />
+	<key id="90050754" level="1" name="Increases max health by 10%." />
+	<key id="90050755" level="1" name="Increases max health by 20%." />
+	<key id="90050756" level="1" name="Increases max health by 30%." />
+	<key id="90050763" level="1" name="Increases movement speed by 5% for 3 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050764" level="1" name="Papulatus&apos;s Wind-up Key" tooltipDescription="Increases movement speed by 5%." />
+	<key id="90050765" level="1" name="Decreases health on every hit, but grants a 3% physical and magic damage buff. The effect disappears when your health is less than 20%. Not active in battlegrounds or arenas." />
 	<key id="90050768" level="1" name="Has a chance to activate Shining Force on hit." />
 	<key id="90050769" level="1" name="Shining Force" tooltipDescription="Increases physical and magic resistance by 90 and bonus attack by 144." />
 	<key id="90050770" level="1" name="Has a chance to activate Potent Precision on hit." />
@@ -2413,53 +2296,41 @@
 	<key id="90050801" level="1" name="Chance to recover 15 spirit every sec for 3.5 sec on hit." />
 	<key id="90050802" level="1" name="Panic/Fervor Longsword" tooltipDescription="Recovers 15 spirit every sec." />
 	<key id="90050803" level="1" name="Extends the triggered effect of Panic or Fervor longswords by 3.5 sec." />
+	<key id="90050804" level="1" name="Increases physical damage by 2% for 15 sec. when perfect guard is successful." />
+	<key id="90050805" level="1" name="Extreme Combat Longsword" tooltipDescription="Increases physical damage." />
+	<key id="90050806" level="1" name="Adds 2% physical damage to the triggered effect of the Barbaric Extreme Longsword." />
 	<key id="90050807" level="1" name="Chance to increase attack speed and physical attack by 6% for 12 sec on hit." />
 	<key id="90050808" level="1" name="Panic/Fervor Greatsword" tooltipDescription="Increases attack speed and physical attack." />
 	<key id="90050809" level="1" name="Adds 6% attack speed and physical damage to the triggered effect of Panic or Fervor greatswords." />
+	<key id="90050810" level="1" name="Chance to increase dark damage by 5% for 15 sec on hit." />
+	<key id="90050811" level="1" name="Extreme Frenzy Greatsword" tooltipDescription="Increases dark damage." />
+	<key id="90050812" level="1" name="Adds 5% dark damage to the triggered effect of the Frenzied Greatsword." />
 	<key id="90050813" level="1" name="Chance to increase magic attack by 8% for 8 sec on hit." />
 	<key id="90050814" level="1" name="Magical Panic/Fervor Staff" tooltipDescription="Increases magic attack." />
 	<key id="90050815" level="1" name="Adds 6% magic attack to the triggered effect of Panic or Fervor staves." />
 	<key id="90050816" level="1" name="Adds 8% magic attack to the triggered effect of Magical Panic or Magical Fervor staves." />
-	<key id="90050821" level="1" name="Chance to increase holy damage by 7.2% for 9 sec on hit." />
-	<key id="90050822" level="1" name="Holy Panic/Fervor Scepter" tooltipDescription="Holy Damage Bonus" />
-	<key id="90050823" level="1" name="Adds 14.4% holy damage to the triggered effect of Holy Panic or Holy Fervor scepters." />
-	<key id="90050824" level="1" name="Adds 7.2% holy damage to the triggered effect of Holy Panic or Holy Fervor scepters." />
-	<key id="90050831" level="1" name="Chance to increase critical rate by 300 for 15 sec on hit." />
-	<key id="90050832" level="1" name="Calculating Panic/Fervor Bow" tooltipDescription="Increases critical rate." />
-	<key id="90050833" level="1" name="Adds 300 critical damage to the triggered effect of Calculating Panic or Calculating Fervor bows." />
-	<key id="90050834" level="1" name="Adds 150 critical damage to the triggered effect of Calculating Panic or Calculating Fervor bows." />
-	<key id="90050852" level="1" name="Increases weapon attack by 4.5% when still for at least 1.5 sec." tooltipDescription="Increases weapon attack when still for at least 1.5 sec." />
-	<key id="90050865" level="1" name="Explosive Panic/Fervor Cannon" tooltipDescription="Increases weapon attack when still for at least 1.5 sec." />
-	<key id="90050853" level="1" name="Adds 9% weapon attack to the triggered effect of Explosive Panic or Explosive Fervor cannons." />
-	<key id="90050855" level="1" name="Adds 4.5% weapon attack to the triggered effect of Explosive Panic or Explosive Fervor cannons." />
-	<key id="90050839" level="1" name="Increases physical damage by 2.5% for 30 sec after evading an attack. \nMust have a Chaotic Panic/Fervor Dagger equipped in both hands." />
-	<key id="90050840" level="1" name="Chaotic Panic/Fervor Dagger" tooltipDescription="Increases physical damage." />
-	<key id="90050841" level="1" name="Adds 5% physical damage to the triggered effect of Chaotic Panic or Chaotic Fervor daggers." />
-	<key id="90050849" level="1" name="Chance to increase critical damage by 100 on hit.\nMust have a Panic/Fervor Throwing Star equipped in both hands." />
-	<key id="90050850" level="1" name="Panic/Fervor Throwing Star" tooltipDescription="Increases critical damage." />
-	<key id="90050851" level="1" name="Adds 200 critical damage to the triggered effect of Panic or Fervor throwing stars." />
-	<key id="90050804" level="1" name="Increases physical damage by 2% for 15 sec. when perfect guard is successful." />
-	<key id="90050805" level="1" name="Extreme Combat Longsword" tooltipDescription="Increases physical damage." />
-	<key id="90050806" level="1" name="Adds 2% physical damage to the triggered effect of the Barbaric Extreme Longsword." />
-	<key id="90050810" level="1" name="Chance to increase dark damage by 5% for 15 sec on hit." />
-	<key id="90050811" level="1" name="Extreme Frenzy Greatsword" tooltipDescription="Increases dark damage." />
-	<key id="90050812" level="1" name="Adds 5% dark damage to the triggered effect of the Frenzied Greatsword." />
 	<key id="90050817" level="1" name="Chance to use skills without consuming spirit for 1.6 sec on hit." />
 	<key id="90050818" level="1" name="Extreme Magic Staff" tooltipDescription="Using skills doesn&apos;t consume spirit." />
 	<key id="90050819" level="1" name="Extends the triggered effect of the Magical Extreme Staff by 3.2 sec." />
 	<key id="90050820" level="1" name="Extends the triggered effect of the Magical Extreme Staff by 1.6 sec." />
+	<key id="90050821" level="1" name="Chance to increase holy damage by 7.2% for 9 sec on hit." />
+	<key id="90050822" level="1" name="Holy Panic/Fervor Scepter" tooltipDescription="Holy Damage Bonus" />
+	<key id="90050823" level="1" name="Adds 14.4% holy damage to the triggered effect of Holy Panic or Holy Fervor scepters." />
+	<key id="90050824" level="1" name="Adds 7.2% holy damage to the triggered effect of Holy Panic or Holy Fervor scepters." />
 	<key id="90050825" level="1" name="Magic damage increases by 2.6% when spirit is over 40%." tooltipDescription="Magic damage increases when spirit is over 40%." />
-	<key id="90050866" level="1" name="Extreme Holy Scepter" tooltipDescription="Increases magic damage." />
 	<key id="90050827" level="1" name="Adds 5.2% magic damage to the triggered effect of the Holy Extreme Scepter." />
 	<key id="90050829" level="1" name="Adds 2.6% magic damage to the triggered effect of the Holy Extreme Scepter." />
+	<key id="90050831" level="1" name="Chance to increase critical rate by 300 for 15 sec on hit." />
+	<key id="90050832" level="1" name="Calculating Panic/Fervor Bow" tooltipDescription="Increases critical rate." />
+	<key id="90050833" level="1" name="Adds 300 critical damage to the triggered effect of Calculating Panic or Calculating Fervor bows." />
+	<key id="90050834" level="1" name="Adds 150 critical damage to the triggered effect of Calculating Panic or Calculating Fervor bows." />
 	<key id="90050835" level="1" name="Chance to increase max weapon attack by 8% on hit." />
 	<key id="90050836" level="1" name="Extreme Focus Bow" tooltipDescription="Increases max weapon attack." />
 	<key id="90050837" level="1" name="Adds 16% weapon attack to the triggered effect of the Calculating Extreme Bow." />
 	<key id="90050838" level="1" name="Adds 8% weapon attack to the triggered effect of the Calculating Extreme Bow." />
-	<key id="90050857" level="1" name="Chance to increase piercing by 4.5% for 9 sec on hit." />
-	<key id="90050858" level="1" name="Extreme Explosive Cannon" tooltipDescription="Increases piercing." />
-	<key id="90050859" level="1" name="Adds 19% piercing to the triggered effect of Explosive Extreme Cannon." />
-	<key id="90050860" level="1" name="Adds 4.5% piercing to the triggered effect of Explosive Extreme Cannon." />
+	<key id="90050839" level="1" name="Increases physical damage by 2.5% for 30 sec after evading an attack. \nMust have a Chaotic Panic/Fervor Dagger equipped in both hands." />
+	<key id="90050840" level="1" name="Chaotic Panic/Fervor Dagger" tooltipDescription="Increases physical damage." />
+	<key id="90050841" level="1" name="Adds 5% physical damage to the triggered effect of Chaotic Panic or Chaotic Fervor daggers." />
 	<key id="90050842" level="1" name="Chance to increase poison damage by 3% for 6 sec on hit.\nMust have an Extreme Chaos Dagger equipped in both hands." />
 	<key id="90050843" level="1" name="Extreme Chaos Dagger" tooltipDescription="Increases poison damage." />
 	<key id="90050844" level="1" name="Adds 6% poison damage to the triggered effect of Chaotic Extreme Dagger." />
@@ -2467,23 +2338,129 @@
 	<key id="90050846" level="1" name="Extreme Lethal Throwing Star" tooltipDescription="Extreme Lethal Throwing Star Stacked Hit Effect" />
 	<key id="90050847" level="1" name="Adds 5% attack speed and piercing to the triggered effect of the Lethal Extreme Throwing Star" />
 	<key id="90050848" level="1" name="Extreme Lethal Throwing Star" tooltipDescription="Increases attack speed and piercing." />
+	<key id="90050849" level="1" name="Chance to increase critical damage by 100 on hit.\nMust have a Panic/Fervor Throwing Star equipped in both hands." />
+	<key id="90050850" level="1" name="Panic/Fervor Throwing Star" tooltipDescription="Increases critical damage." />
+	<key id="90050851" level="1" name="Adds 200 critical damage to the triggered effect of Panic or Fervor throwing stars." />
+	<key id="90050852" level="1" name="Increases weapon attack by 4.5% when still for at least 1.5 sec." tooltipDescription="Increases weapon attack when still for at least 1.5 sec." />
+	<key id="90050853" level="1" name="Adds 9% weapon attack to the triggered effect of Explosive Panic or Explosive Fervor cannons." />
+	<key id="90050855" level="1" name="Adds 4.5% weapon attack to the triggered effect of Explosive Panic or Explosive Fervor cannons." />
+	<key id="90050857" level="1" name="Chance to increase piercing by 4.5% for 9 sec on hit." />
+	<key id="90050858" level="1" name="Extreme Explosive Cannon" tooltipDescription="Increases piercing." />
+	<key id="90050859" level="1" name="Adds 19% piercing to the triggered effect of Explosive Extreme Cannon." />
+	<key id="90050860" level="1" name="Adds 4.5% piercing to the triggered effect of Explosive Extreme Cannon." />
+	<key id="90050865" level="1" name="Explosive Panic/Fervor Cannon" tooltipDescription="Increases weapon attack when still for at least 1.5 sec." />
+	<key id="90050866" level="1" name="Extreme Holy Scepter" tooltipDescription="Increases magic damage." />
 	<key id="90050867" name="Chance to increase ice damage by 8.1% for 13 sec on hit." />
 	<key id="90050868" name="Sorcerous Panic/Fervor Blade" tooltipDescription="Increases ice damage." />
 	<key id="90050869" name="Adds 4.5% ice damage to Sorcerous Frenzied or Sorcerous Fervor blades." />
-	<key id="90050873" name="Chance to increase fire  damage by 8.5% for 9 sec on hit." />
-	<key id="90050874" name="Brawling Panic/Fervor Knuckles" tooltipDescription="Increases fire damage." />
-	<key id="90050875" name="Adds 8.5% fire damage to the triggered effect of Brawling Panic or Brawling Fervor knuckles." />
-	<key id="90050879" name="Inflicts 4% additional damage on all successful hits" />
-	<key id="90050881" name="Increases damage dealt by Ritualistic Panic/Fervor Orbs by 26%." />
 	<key id="90050870" name="Chance to increase electric damage by 4.5% for 12 sec on hit." />
 	<key id="90050871" name="Extreme Sorcery Blade" tooltipDescription="Increases electric damage." />
 	<key id="90050872" name="Adds 4.5% electric damage to the triggered effect of the Sorcerous Extreme Blade." />
+	<key id="90050873" name="Chance to increase fire  damage by 8.5% for 9 sec on hit." />
+	<key id="90050874" name="Brawling Panic/Fervor Knuckles" tooltipDescription="Increases fire damage." />
+	<key id="90050875" name="Adds 8.5% fire damage to the triggered effect of Brawling Panic or Brawling Fervor knuckles." />
 	<key id="90050876" name="Chance on hit to increase physical attack by 7.5% for 4 sec and gain Knockback Immunity." />
 	<key id="90050877" name="Brawling Extreme Knuckles" tooltipDescription="Increases physical damage, grants Knockback Immunity." />
 	<key id="90050878" name="Adds 7.5% physical damage to the triggered effect of the Brawling Extreme Knuckles." />
+	<key id="90050879" name="Inflicts 4% additional damage on all successful hits" />
+	<key id="90050881" name="Increases damage dealt by Ritualistic Panic/Fervor Orbs by 26%." />
 	<key id="90050882" name="Chance to increase bonus attack by 95 for 18 sec on hit." />
 	<key id="90050883" name="Extreme Ritual Orb" tooltipDescription="Increases bonus attack" />
 	<key id="90050884" name="Adds 95 bonus attack to the triggered effect of the Ritualistic Extreme Orb." />
+	<key id="90050885" level="1" name="Increases movement speed by 20% on ground mounts. \nNot active in battlegrounds or arenas." />
+	<key id="90050886" level="1" name="Increases bonus attack by 520 when there are more than 4 targets within 9 m.\nNot active in battlegrounds or arenas." tooltipDescription="Increases bonus attack by 520 when there are more than 4 targets within 9 m.\nNot active in battlegrounds or arenas." />
+	<key id="90050887" level="1" name="Decreases accuracy by 4." />
+	<key id="90050888" level="1" name="Decreases movement speed by 5%." />
+	<key id="90050889" level="1" name="Chance to increase bonus attack by 180 for 15 sec on hit.\nNot active in battlegrounds or arenas." />
+	<key id="90050890" level="1" name="Siren Song" tooltipDescription="Increases bonus attack by 180." />
+	<key id="90050891" level="1" name="Chance to increase bonus attack by 1920 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050892" level="1" name="Tsunami Longsword" tooltipDescription="Increases bonus attack by 1920." />
+	<key id="90050893" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050894" level="1" name="Tsunami Greatsword" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050895" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050896" level="1" name="Tsunami Staff" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050897" level="1" name="Chance to increase bonus attack by 1920 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050898" level="1" name="Tsunami Scepter" tooltipDescription="Increases bonus attack by 1920." />
+	<key id="90050899" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050900" level="1" name="Tsunami Bow" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050901" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050902" level="1" name="Tsunami Cannon" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050903" level="1" name="Chance to increase bonus attack by 1034 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050905" level="1" name="Tsunami Dagger" tooltipDescription="Increases bonus attack by 1034." />
+	<key id="90050907" level="1" name="Tsunami Dagger" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050908" level="1" name="Chance to increase bonus attack by 1034 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050910" level="1" name="Tsunami Thrown Weapon" tooltipDescription="Increases bonus attack by 1034." />
+	<key id="90050912" level="1" name="Tsunami Thrown Weapon" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050913" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050914" level="1" name="Tsunami Blade" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050915" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050916" level="1" name="Tsunami Knuckles" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050917" level="1" name="Chance to increase bonus attack by 2068 for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050918" level="1" name="Tsunami Orb" tooltipDescription="Increases bonus attack by 2068." />
+	<key id="90050919" level="1" name="Chance to increase weapon attack by 30% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050920" level="1" name="Blizzard Longsword" tooltipDescription="Increases weapon attack by 30%." />
+	<key id="90050921" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050922" level="1" name="Blizzard Greatsword" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050923" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050924" level="1" name="Blizzard Staff" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050925" level="1" name="Chance to increase weapon attack by 30% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050926" level="1" name="Blizzard Scepter" tooltipDescription="Increases weapon attack by 30%." />
+	<key id="90050927" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050928" level="1" name="Blizzard Bow" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050929" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050930" level="1" name="Blizzard Cannon" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050931" level="1" name="Chance to increase weapon attack by 17% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050933" level="1" name="Blizzard Dagger" tooltipDescription="Increases weapon attack by 17%." />
+	<key id="90050935" level="1" name="Blizzard Dagger" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050936" level="1" name="Chance to increase weapon attack by 17% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050938" level="1" name="Blizzard Thrown Weapon" tooltipDescription="Increases weapon attack by 17%." />
+	<key id="90050940" level="1" name="Blizzard Thrown Weapon" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050941" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050942" level="1" name="Blizzard Blade" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050943" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050944" level="1" name="Blizzard Knuckles" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050945" level="1" name="Chance to increase weapon attack by 34% for 20 sec on hit. \nNot active in battlegrounds or arenas." />
+	<key id="90050946" level="1" name="Blizzard Orb" tooltipDescription="Increases weapon attack by 34%." />
+	<key id="90050947" level="1" name="Increases health by 10%" />
+	<key id="90050948" level="1" name="Chance to increase attack speed and movement speed by 12% for 15 sec on hit." />
+	<key id="90050949" level="1" name="Power of Darkness" tooltipDescription="Increases attack speed and movement speed by 12%." />
+	<key id="90050953" level="1" name="All In the Wrist" tooltipDescription="Increases attack speed by 30%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;To properly motivate her henchmen, Madria added a lightning sharp snap to the flick of her wrist, creating an effective, high speed attack.&lt;/font&gt;" />
+	<key id="90050954" level="1" name="Blessing of Punctuality" tooltipDescription="Increases movement speed by 25%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark aura lightens the body, allowing faster movement. Madria used this whenever she was late for a meeting, which was often.&lt;/font&gt;" />
+	<key id="90050955" level="1" name="Toying with Gods: Rage" tooltipDescription="All attacks become critical.\n\n&lt;font color=&quot;#FFD400&quot;&gt;When Madria&apos;s mad, watch out! That even one of her trinkets possess this much power reveals how deadly she truly is.&lt;/font&gt;" />
+	<key id="90050956" level="1" name="Black Steel Polish" tooltipDescription="Increases physical and magic resistance by 540. \n\n&lt;font color=&quot;#FFD400&quot;&gt;The magic coating this armor is the same as the kind used on Madria&apos;s castle walls.&lt;/font&gt;" />
+	<key id="90050957" level="1" name="Eternal Fitness" tooltipDescription="Completely restores stamina every 5 sec.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Quickens metabolism, restoring energy faster than usual. This enabled Madria to keep a close eye on all parts of her domain.&lt;/font&gt;" />
+	<key id="90050958" level="1" name="Monarch&apos;s Treatment" tooltipDescription="Recovers 330 health every sec.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark magic treatment that heals injuries. Madria used this magic on her henchmen far more than she used it on herself.&lt;/font&gt;" />
+	<key id="90050959" level="1" name="Giant Monarch" tooltipDescription="Turns you into a giant, and increases physical and magic attack by 48%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria was trying to make herself grow older and discarded this spell when it made her grow bigger instead. \nA larger body means more muscle mass, which means more combat ability.&lt;/font&gt;" />
+	<key id="90050960" level="1" name="Mini Monarch" tooltipDescription="Shrinks, and increases all damage by 72%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria intended to use this spell to make herself look like a 10-year-old, then realized that she already did, so she ditched it. \nWith a smaller body, it&apos;s easier to sneak past enemy defense, which enhances combat ability.&lt;/font&gt;" />
+	<key id="90050961" level="1" name="Party Dance" tooltipDescription="You can dance if you want to. And even if you don&apos;t.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria whips out this terrifying magic at parties, forcing people to dance until they collapse. Her henchman categorize this magic as a form of torture, but it&apos;s not certain that&apos;s what she intended.&lt;/font&gt;" />
+	<key id="90050964" level="1" name="Materialized Rage" tooltipDescription="Chance of dealing 24% additional damage on hit.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Magic in the form of materialized rage is said to be impossible, yet Madria is able to control this type of magic at will.&lt;/font&gt;" />
+	<key id="90050966" level="1" name="Shadow Phase Shift" tooltipDescription="Increases evasion and all damage by 50%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;The true form of this ornament cannot be seen with the naked eye.&lt;/font&gt;" />
+	<key id="90050967" level="1" name="Black Iron Reflective" tooltipDescription="Absorbs damage equivalent to 5% of health. Increases all damage by 80% when this effect is active.\n\n&lt;font color=&quot;#FFD400&quot;&gt;This magic is the same as the one used on Madria&apos;s castle walls. She created it to win a wrestling match against Lukarax.&lt;/font&gt;" />
+	<key id="90050968" level="1" name="I Think. Therefore, I Hunt." tooltipDescription="Increases monster slaying experience by 20%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria created this magic to help her stay focused when she trained, so that she could become one of the Seven Commanders. She could easily have overcome the spell with a single thought, but a normal person would&apos;ve been totally enthralled by the drive to gain more and more experience.&lt;/font&gt;" />
+	<key id="90050969" level="1" name="Nervous System Overload" tooltipDescription="Increases movement speed, all damage, and attack speed by 50%, but inverts movement.\n\n&lt;font color=&quot;#FFD400&quot;&gt;This magic enhances your senses, granting a wealth of abilities, but due to a slight miscalculation on Madria&apos;s part, it also flips the nervous system. Due to that, it&apos;s become a rather inferior spell.&lt;/font&gt;" />
+	<key id="90050970" level="1" name="Lavish Lifestyle" tooltipDescription="Increases fishing and performance experience by 700%. This skill will not enhance experience past 700%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;With this magic, anyone can live the lavish life of leisure that Madria enjoys, even if it&apos;s just for a short time.&lt;/font&gt;" />
+	<key id="90050971" level="1" name="Monarch&apos;s Incessant Poking" tooltipDescription="Increases damage taken by the target by 5% for 1 sec on hit.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria has a philosophy: keep whacking on the same spot, and it&apos;ll really start to hurt. This magic is a reflection of that.&lt;/font&gt;" />
+	<key id="90050972" level="1" name="Monarch&apos;s Incessant Poking" tooltipDescription="Increases damage taken by 5%. \n\n&lt;font color=&quot;#FFD400&quot;&gt;Madria has a philosophy: keep whacking on the same spot, and it&apos;ll really start to hurt. The target of these attacks can attest to that.&lt;/font&gt;" />
+	<key id="90050977" level="1" name="Release Light-touched" tooltipDescription="Increases attack speed and all damage by 20%." />
+	<key id="90050978" level="1" name="Light-touched" tooltipDescription="Decreases target defense by 1% for 1 sec on hit." />
+	<key id="90050983" level="1" name="Scarlet Rose Heart" tooltipDescription="Grants a 4% chance when wearing the Scarlet Heart set to increase attack speed by 2% for 120 sec. This can only occur once every 180 sec." />
+	<key id="90050985" level="1" name="Scarlet Rose Heart" tooltipDescription="Grants a 4% chance when wearing the Scarlet Heart set to increase attack speed by 2% for 120 sec. This can only occur once every 180 sec." />
+	<key id="90050986" level="1" name="Blooming Scarlet Rose" tooltipDescription="Grants a 4% chance when the Blooming Scarlet Rose buff is active to deal 240% on hit. This can only occur once every 20 sec." />
+	<key id="90050987" level="1" name="Increases bonus attack by 320 when the Lumenstone Shard effect is active. \nNot active in battlegrounds or arenas." tooltipDescription="Increases bonus attack by 320 when the Lumenstone Shard effect is active. " />
+	<key id="90050988" level="1" name="Increases bonus attack by 320 when the Lumenstone Shard effect is active. Must have one equipped in both hands to gain this effect. \nNot active in battlegrounds or arenas." />
+	<key id="90050990" level="1" name="Light-touched" tooltipDescription="Decreases defense by 1%." />
+	<key id="90050993" level="1" name="Increases fishing experience by 3% after using the Beginner&apos;s Golden Lure." tooltipDescription="Increases fishing experience by 3% after using the Beginner&apos;s Golden Lure." />
+	<key id="90050994" level="1" name="Increases experience by 3% after performing with an instrument." tooltipDescription="Increases experience by 3% after performing with an instrument." />
+	<key id="90050995" level="1" name="Chance to increase physical and magic attack by 13.5% for 10 sec on hit." tooltipDescription="Chance to increase physical and magic attack by 13.5% for 10 sec on hit." />
+	<key id="90050996" level="1" name="Pyrenthia the Witch Crown" tooltipDescription="Increases physical and magic attack by 13.5%." />
+	<key id="90050997" level="1" name="Increases the damage dealt to elite monsters by 10%." tooltipDescription="Increases the damage dealt to elite monsters by 10%." />
+	<key id="90050999" level="1" name="Release Light-touched" tooltipDescription="Increases attack speed and all damage by 20%." />
+	<key id="90051000" level="1" name="Light-touched" tooltipDescription="Decreases target defense by 1% for 1 sec on hit." />
+	<key id="90051001" level="1" name="Invisible Dragon&apos;s Rage" tooltipDescription="Dancing invisibly. Has a 95% chance to evade all attacks. Will be furious after the dance ends. \n\n&lt;font color=&quot;#FFD400&quot;&gt;This spell has a tragic story attached to it. Lukarax gave up everything to perform a dragon dance for Madria. She found it yawn-worthy, until she placed him under a spell that forced him to keep dancing. Although it wasn&apos;t reported, afterwards Lukarax crushed half of Madria&apos;s castle spires, enraged. She thought it rather amusing, and to remember the day&apos;s events, created this little piece of magic. &lt;/font&gt;" />
+	<key id="90051002" level="1" name="Invisible Dragon&apos;s Rage" tooltipDescription="Caught in a fit of fury.\nTriples all damage and increases movement speed by 50%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;This spell has a tragic story attached to it. Lukarax gave up everything to perform a dragon dance for Madria. She found it yawn-worthy, until she placed him under a spell that forced him to keep dancing. Although it wasn&apos;t reported, afterwards Lukarax crushed half of Madria&apos;s castle spires, enraged. She thought it rather amusing, and to remember the day&apos;s events, created this little piece of magic. &lt;/font&gt;" />
+	<key id="90051004" level="1" name="Phase Dimension Strength" tooltipDescription="Can use skills without consuming spirit.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Drawing power from a separate dimension, this magic allows endless attacks and actions. Although Madria&apos;s ornament temporarily grants anyone who wears it this power, Madria has this ability all the time.&lt;/font&gt;" />
+	<key id="90051006" level="1" name="Autumn Effect Added" tooltipDescription="Autumn Effect Added" />
+	<key id="90051007" level="1" name="Madria&apos;s Whim" />
 	<key id="90051009" level="1" name="Changes your idle, run, walk, and jump animations." />
 	<key id="90051010" level="1" name="Changes your idle, run, walk, and jump animations." />
 	<key id="90051011" level="1" name="Changes or adds effects for the character&apos;s idle, run, walk, and fall motions." />
@@ -2492,28 +2469,28 @@
 	<key id="90051014" level="1" name="Increases weapon attack by 4.5%." />
 	<key id="90051015" level="1" name="Increases physical and magic attack by 4.5%." />
 	<key id="90051016" level="1" name="Sealed Pact of Agony" />
-	<key id="90051019" level="1" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 10%.\nDecreases health by 10%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="2" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 11%.\nDecreases health by 11%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="3" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 12%.\nDecreases health by 12%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="4" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 13%.\nDecreases health by 13%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="5" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 14%.\nDecreases health by 14%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="6" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 15%.\nDecreases health by 15%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="7" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 16%.\nDecreases health by 16%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="8" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 17%.\nDecreases health by 17%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="9" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 18%.\nDecreases health by 18%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="10" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 19%.\nDecreases health by 19%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="11" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 20%.\nDecreases health by 20%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="12" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 21%.\nDecreases health by 21%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="13" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 22%.\nDecreases health by 22%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="14" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 23%.\nDecreases health by 23%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="15" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 24%.\nDecreases health by 24%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="16" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 25%.\nDecreases health by 25%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="17" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 26%.\nDecreases health by 26%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="18" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 27%.\nDecreases health by 27%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="19" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 28%.\nDecreases health by 28%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="20" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 29%.\nDecreases health by 29%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051019" level="21" name="Sealed Pact of Agony" tooltipDescription='Increases physical and magic damage by 30%.\nDecreases health by 30%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;' />
-	<key id="90051020" level="1" name="Black Wings Intrigue" tooltipDescription='Increases physical and magic damage by 100%. Decreases health by half.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Are the effects of Turka&apos;s trinket a blessing or a curse? A perfect reflection of Turka&apos;s two-sided appearance.&lt;/font&gt;' />
+	<key id="90051019" level="1" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 10%.\nDecreases health by 10%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="2" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 11%.\nDecreases health by 11%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="3" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 12%.\nDecreases health by 12%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="4" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 13%.\nDecreases health by 13%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="5" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 14%.\nDecreases health by 14%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="6" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 15%.\nDecreases health by 15%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="7" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 16%.\nDecreases health by 16%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="8" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 17%.\nDecreases health by 17%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="9" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 18%.\nDecreases health by 18%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="10" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 19%.\nDecreases health by 19%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="11" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 20%.\nDecreases health by 20%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="12" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 21%.\nDecreases health by 21%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="13" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 22%.\nDecreases health by 22%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="14" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 23%.\nDecreases health by 23%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="15" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 24%.\nDecreases health by 24%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="16" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 25%.\nDecreases health by 25%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="17" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 26%.\nDecreases health by 26%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="18" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 27%.\nDecreases health by 27%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="19" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 28%.\nDecreases health by 28%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="20" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 29%.\nDecreases health by 29%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051019" level="21" name="Sealed Pact of Agony" tooltipDescription="Increases physical and magic damage by 30%.\nDecreases health by 30%.\n\n&lt;font color=&quot;#FFD400&quot;&gt;A dark pact made with Turka, commander of intrigue. The pact grants tremendous power to anyone who wears this item, but Turka collects a portion of the wearer&apos;s life as payment.&lt;/font&gt;" />
+	<key id="90051020" level="1" name="Black Wings Intrigue" tooltipDescription="Increases physical and magic damage by 100%. Decreases health by half.\n\n&lt;font color=&quot;#FFD400&quot;&gt;Are the effects of Turka&apos;s trinket a blessing or a curse? A perfect reflection of Turka&apos;s two-sided appearance.&lt;/font&gt;" />
 	<key id="90051040" level="1" name="Increases physical and magic damage by 15%" tooltipDescription="Increases physical and magic damage by 15%" />
 	<key id="90051041" level="1" name="Increases damage by 10% in reverse raids " tooltipDescription="Increases damage by 10% in reverse raids " />
 	<key id="90051042" level="1" name="Decreases damage taken by 10% in reverse raids" tooltipDescription="Increases damage by 10% in reverse raids " />
@@ -2644,11 +2621,29 @@
 	<key id="90051326" name="Sword of Time" feature="LapentaDungeon" />
 	<key id="90051327" name="Space Rift" feature="LapentaDungeon" />
 	<key id="90051328" name="Eupheria&apos;s Protection" feature="LapentaDungeon" />
+	<key id="90051337" level="1" name="Chaotic Energies - Space" tooltipDescription="Increases accuracy by 3 and piercing by 3%." feature="Level60Item" />
+	<key id="90051339" level="1" name="Chaotic Energies - Time" tooltipDescription="Increases attack speed and movement speed by 3%." feature="Level60Item" />
 	<key id="90051440" name="Power Rebirth" feature="LapentaDungeon" />
+	<key id="90051441" level="1" name="Energy Stabilization" tooltipDescription="Increases all damage by 3%." feature="Level60Item" />
 	<key id="90051442" name="Exalted Sword of Time" feature="LapentaDungeon" />
 	<key id="90051443" name="Exalted Space Rift" feature="LapentaDungeon" />
 	<key id="90051444" name="Exalted Eupheria&apos;s Protection" feature="LapentaDungeon" />
 	<key id="90051447" name="Lapenshard Resonance" feature="LapentaDungeon" />
+	<key id="90051470" level="1" name="Shadow Hunter" tooltipDescription="Increases physical attack and magic attack." feature="Season3" />
+	<key id="90051494" level="1" name="Pirate Hunter" tooltipDescription="Increases attack speed." feature="Season3" />
+	<key id="90051518" level="1" name="Machine Hunter" tooltipDescription="Increases physical damage and magic damage." feature="Season3" />
+	<key id="90051543" level="1" name="Increases bonus attack by 250 (not active in battlegrounds)" feature="Season3" />
+	<key id="90051544" level="1" name="" feature="Season3" />
+	<key id="90051570" level="1" name="Increases bonus attack by 250, doubled in Dark Descent (not active in battlegrounds)" feature="Season3" />
+	<key id="90051572" level="1" name="Increases health by 720, doubled in Dark Descent." feature="Season3" />
+	<key id="90051598" level="1" name="Extremity" tooltipDescription="Increases movement and attack speeds." feature="Season3" />
+	<key id="90051599" level="1" name="Increases bonus attack by 250 (not active in battlegrounds)" feature="Season3" />
+	<key id="90051600" level="1" name="Increases mount speed by 5%." feature="Season3" />
+	<key id="90051602" level="1" name="Doubles Panic effects." feature="Season3" />
+	<key id="90051603" level="1" name="Doubles Rage effects." feature="Season3" />
+	<key id="90051604" level="1" name="Doubles Extreme effects." feature="Season3" />
+	<key id="90051605" level="1" name="Increases recovery skill effects by 10% (not active in battlegrounds)" feature="Season3" />
+	<key id="90051606" level="1" name="Increases spirit by 10 (not active in battlegrounds)" feature="Season3" />
 	<key id="90051616" name="Increases health by 1,000 and piercing by 8% in battlegrounds and arenas." feature="PvPRankingDuelMode" />
 	<key id="90051617" name="Increases health by 2500 and accuracy by 10 in battlegrounds and arenas" feature="PvPRankingDuelMode" />
 	<key id="90051620" level="1" name="Intense Blue Glow" feature="Level70Item" />
@@ -2699,6 +2694,31 @@
 	<key id="90051806" level="1" name="Maddening Space-time Power" tooltipDescription="Increases bonus attack, attack speed, and accuracy" feature="NAEquipmentBalance_01" locale="NA" />
 	<key id="90051812" name="Increases bonus attack by 1,200 (not active in battlegrounds)" />
 	<key id="90051813" name="Increases the damage dealt to boss monsters by 4%" />
+	<key id="90060002" level="1" name="Sly Knowledge" />
+	<key id="90060005" level="1" name="Sly Knowledge 1" tooltipDescription="Increases attack by n%." />
+	<key id="90060006" level="1" name="Sly Knowledge 2" tooltipDescription="Increases attack by n%." />
+	<key id="90060012" level="1" name="Shield" tooltipDescription="Absorbs damage equal to n% of your max health." />
+	<key id="90060016" level="1" name="Attack Focus" tooltipDescription="Increases attack by n% per stack. Effect disappears when hit." />
+	<key id="90100001" level="1" name="Has a 20% chance to drain health for 3 sec on hit." tooltipDescription="Has a 20% chance to drain health for 3 sec on hit." />
+	<key id="90100002" level="1" name="Drain Health" tooltipDescription="Drains health equivalent to 30% of the damage dealt to target." />
+	<key id="90100011" level="1" name="20% chance to increase strength on hit." tooltipDescription="20% chance to increase strength on hit." />
+	<key id="90100012" level="1" name="Strength Up" tooltipDescription="Increases strength by 30%." />
+	<key id="90300001" level="1" name="20% chance to inflict burn on hit." tooltipDescription="20% chance to inflict burn on hit." />
+	<key id="90300002" level="1" name="Burning" tooltipDescription="Burns for 50% of damage." />
+	<key id="90300011" level="1" name="20% chance to increase intelligence on hit." tooltipDescription="20% chance to increase intelligence on hit." />
+	<key id="90300012" level="1" name="Intelligence Up" tooltipDescription="Increases intelligence by 30%." />
+	<key id="90400001" level="1" name="10% chance to inflict burn on hit." tooltipDescription="10% chance to inflict burn on hit." />
+	<key id="90400002" level="1" name="Frozen" tooltipDescription="Frozen for 3 sec." />
+	<key id="90400011" level="1" name="20% chance to increase critical rate on hit." tooltipDescription="20% chance to increase critical rate on hit." />
+	<key id="90400012" level="1" name="Critical Rate Up" tooltipDescription="Increases critical rate by 100%." />
+	<key id="90500001" level="1" name="25% chance to inflict bleeding on hit." tooltipDescription="25% chance to inflict bleeding on hit." />
+	<key id="90500002" level="1" name="Deep Cuts" tooltipDescription="Bleeds for 20% of damage." />
+	<key id="90500011" level="1" name="20% chance to increase attack speed on hit." tooltipDescription="20% chance to increase attack speed on hit." />
+	<key id="90500012" level="1" name="Attack Speed Up" tooltipDescription="Increases attack speed by 100%." />
+	<key id="90800001" level="1" name="20% chance to inflict poison on hit." tooltipDescription="20% chance to inflict poison on hit." />
+	<key id="90800002" level="1" name="Poisoned" tooltipDescription="Poisons for 20% of damage." />
+	<key id="90800011" level="1" name="10% chance to increase movement speed on hit." tooltipDescription="10% chance to increase movement speed on hit." />
+	<key id="90800012" level="1" name="Movement Speed Up" tooltipDescription="Increases movement speed by 300%." />
 	<key id="91000011" level="1" name="Recovers 3 spirit when performing counterattacks." />
 	<key id="91000021" level="1" name="Restores 1.0% health every sec when Raging Soul is active." />
 	<key id="91000041" level="1" name="Inflicts 7% additional damage when Holy Blast is used." />
@@ -2708,95 +2728,6 @@
 	<key id="91000071" level="1" name="Stuns booby trapped victims for 1.5 sec." />
 	<key id="91000072" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="91000091" level="1" name="Mirror Image: Decrease the accuracy and evasion of Shadow Web targets by 6." />
-	<key id="97000001" level="1" name="Experience Up" tooltipDescription="Increases experience earned from hunting monsters by 20%." />
-	<key id="97000011" level="1" name="Attack Up" tooltipDescription="Increases physical and magic attack by 10%." />
-	<key id="97000021" level="1" name="KORADDITIONALDESCRIPTION_97000021_1_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_97000021_1_TOOLTIPDESCRIPTION" />
-	<key id="98000001" level="1" name="Mighty Bond" tooltipDescription="Brimming with trust and good faith. \nIncreases physical and magic attack by 5. \nNot active on battlegrounds or arenas." />
-	<key id="98000011" level="1" name="Fleet Footed" tooltipDescription="Your steps feel lighter, thanks to your companion. \nIncreases movement speed by 5%.\nNot active on battlegrounds or arenas." />
-	<key id="98000021" level="1" name="Unerring Trust" tooltipDescription="The trust you see in the eyes of your companion motivates you. \nIncreases accuracy by 3.\nNot active on battlegrounds or arenas." />
-	<key id="99900041" level="1" name="Dirty" tooltipDescription="Ugh and ewww. \nDecreases movement speed by 70%." />
-	<key id="99900051" level="1" name="Poisonous Gas" tooltipDescription="Unconscious.\nStunned and unable to act." />
-	<key id="99900061" level="1" name="Toxic Waste" tooltipDescription="Practically glowing... \nInflicts poison damage every sec." />
-	<key id="99900071" level="1" name="Burning" tooltipDescription="Surrounding in a holy flame.\nInflicts fire damage every sec." />
-	<key id="99900131" level="1" name="Egged" tooltipDescription="Smelly and covered in egg.\nDecreases accuracy by 30%." />
-	<key id="99900191" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900201" level="1" name="Stunned" tooltipDescription="Unable to act.\nInflicts fire damage every sec." />
-	<key id="99900211" level="1" name="Dirty" tooltipDescription="Stinky! Yuck! \nDecreases movement speed by 70%." />
-	<key id="99900221" level="1" name="Dirty" tooltipDescription="Stinky! Yuck! \nDecreases movement speed by 70%." />
-	<key id="99900231" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="90000237" level="1" name="Balloon Voice" tooltipDescription="Voice changed via the inhalation of helium gas." />
-	<key id="99900241" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900251" level="1" name="Electrified" tooltipDescription="Inflicts continuous electric damage." />
-	<key id="99900261" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900271" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900281" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900282" level="1" name="Defense Down" tooltipDescription="Increases physical and magic damage taken by 50%." />
-	<key id="99900293" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900322" level="1" name="Poisoned" tooltipDescription="Inflicts poison damage equivalent to 30% damage every sec." />
-	<key id="99900332" level="1" name="Trapped" tooltipDescription="Trapped in thorny vines and unable to act." />
-	<key id="99900451" level="1" name="Shield" tooltipDescription="Grants immunity to all interference effect" feature="MassiveCrazyRunnersShanghai" />
-	<key id="99900471" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900502" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900512" level="1" name="Gas Fire" tooltipDescription="Caked in gasoline.\nInflicts continuous fire damage." />
-	<key id="99900522" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900532" level="1" name="Gas Fire" tooltipDescription="Caked in gasoline.\nInflicts continuous fire damage." />
-	<key id="99900542" level="1" name="Frostbite" tooltipDescription="Chilled to the bone.\nDecreases movement speed by 70%. \nInflicts continuous ice damage." />
-	<key id="99900552" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900562" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
-	<key id="99900922" level="1" name="Burning" tooltipDescription="Decreases defense by 30%. \nInflicts fire damage every sec." />
-	<key id="99910340" level="1" name="MK 52 Prototype" tooltipDescription="Riding a prototype MK 52 found in Mushtopia. Because it&apos;s not fully battle-ready, it has limited battery charge." feature="SurvivalContents02" />
-	<key id="99910360" level="1" name="MK 52 Prototype" tooltipDescription="Riding a prototype MK 52 found in Mushtopia. Because it&apos;s not fully battle-ready, it has limited battery charge." feature="SurvivalContentsTeam" />
-	<key id="99910372" level="1" name="Burning" tooltipDescription="On fire for 5 sec." feature="Fieldwar01" />
-	<key id="100000001" level="1" name="Soul&apos;s Respite" tooltipDescription="You&apos;ve used up all your energy moving the tombstone. You need some time to rest." />
-	<key id="100000002" level="1" name="Penalty" tooltipDescription="You have been given a Penalty. You&apos;ll be temporarily restricted from the following community activities:\n- Chatting\n- Reserving displays\n- Creating UGC items\n- Applying UGC items\n- Placing and exchanging furnishings\n- Listing items in the Designer Shop\n- Changing character portraits\n- Changing guild emblems\n- Changing character names\n- Sending mail\n- Creating and requesting to join parties\n- Creating musical scores and playing instruments\n- All other community activities\n&lt;font color=&apos;#00aaef&apos;&gt;If you spend time reflecting and pulling weeds at Alikar, perhaps your sentence can be shortened.&lt;/font&gt;" />
-	<key id="100000003" level="1" name="Tombshocked" tooltipDescription="Your brush with death has left you weakened. If you are defeated again before you&apos;ve recovered, you&apos;ll be crushed beneath the weight of a metal tombstone." />
-	<key id="100000004" level="1" name="Close Call" tooltipDescription="Immune to damage for a short time." />
-	<key id="100000005" level="1" name="Pocket Realm Departure" tooltipDescription="You&apos;re leaving the Pocket Realm. You will not take any damage until your body and mind are completely free." />
-	<key id="100000006" name="PC Cafe Connection Effect" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 20% additional experience and mesos when hunting, 3% extra physical attack and magic attack, and 100 extra health. Does not apply to battlegrounds." />
-	<key id="100000007" name="Call of the Battleground" tooltipDescription="A recruit to the battleground, you can not request another battleground." />
-	<key id="100000008" level="1" name="Citation" tooltipDescription="You have been given a Citation. You&apos;ll be temporarily restricted from the following community activities:\n- Reserving displays\n- Creating UGC items\n- Applying UGC items\n- Placing and exchanging furnishings\n- Listing items in the Designer Shop\n- Changing character portraits\n- Changing guild emblems\n- Changing character names\n- Sending mail\n- Creating and requesting to join parties\n- Creating musical scores\n- All other community activities\n&lt;font color=&apos;#00aaef&apos;&gt;If you spend time reflecting and pulling weeds at Alikar, perhaps your sentence can be shortened.&lt;/font&gt;" />
-	<key id="100000009" name="Fast Growth Buff" tooltipDescription="Grants an extra 10% experience when hunting monsters and completing quests." />
-	<key id="100000011" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000012" name="Safe Riding" tooltipDescription="You won&apos;t fall off your mount, even when attacked by monsters." />
-	<key id="100000013" name="Amphibious Riding" tooltipDescription="You won&apos;t fall off your mount, even when in water." />
-	<key id="100000014" name="Premium Club Benefits" tooltipDescription="- Increases movement by 5% (excluding PvP areas)\n- Grants 20% extra experience and mesos when hunting \n- Reduces Ophelia enchant catalyst costs by 20% \n- Reduces meso handling fees for trade by 50% \n- Reduces merat revival costs by 50%\n- Can summon the Bank Safe instantly at any place \n- Grants access to premium dungeons &amp; insignia \n- Grants daily premium items" />
-	<key id="100000016" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000017" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000018" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000019" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000020" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000021" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000022" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000023" name="Comradery" tooltipDescription="You found allies to play through a random adventure dungeon with you, and a special bond has blossomed!\n\n&lt;b&gt;While this effect is active, you cannot search for another random adventure dungeon. This status effect will disappear once your party has cleared the random adventure dungeon.&lt;/b&gt;" />
-	<key id="100000024" name="((China Only)) PC Cafe Buff (Bronze)" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 15% additional experience and 10% additional mesos when hunting, 2% extra physical attack and magic attack, 100 extra health, and 2% additional experience for performing and fishing. Does not apply to battlegrounds." />
-	<key id="100000026" name="((China Only)) PC Cafe Buff (Gold)" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 20% additional experience and 15% additional mesos when hunting, 3% extra physical attack and magic attack, 150 extra health, and 3% additional experience for performing and fishing. Does not apply to battlegrounds." />
-	<key id="100000043" name="Premium Club Benefits" tooltipDescription="- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20%\n- Can summon the Bank Safe instantly at any place\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons &amp; insignia\n- Grants daily premium items" locale="NA" />
-	<key id="100000043" name="Premium Club Benefits" tooltipDescription="- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20% (excluding the Meso Market)\n- Can summon the Bank Safe instantly anywhere\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons &amp; insignia\n- Grants daily premium items" feature="MesoMarket" locale="NA" />
-	<key id="100000046" name="Premium Club Benefits (Party Bonus)" tooltipDescription="Increases movement and ground mount speeds by 5% for being in a party with a Premium Club member (excluding PvP areas; applies to party)" locale="NA" />
-	<key id="100000047" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000048" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000049" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000050" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000051" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000052" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="90051337" level="1" name="Chaotic Energies - Space" tooltipDescription="Increases accuracy by 3 and piercing by 3%." feature="Level60Item" />
-	<key id="90051339" level="1" name="Chaotic Energies - Time" tooltipDescription="Increases attack speed and movement speed by 3%." feature="Level60Item" />
-	<key id="90051441" level="1" name="Energy Stabilization" tooltipDescription="Increases all damage by 3%." feature="Level60Item" />
-	<key id="90051470" level="1" name="Shadow Hunter" tooltipDescription="Increases physical attack and magic attack." feature="Season3" />
-	<key id="90051494" level="1" name="Pirate Hunter" tooltipDescription="Increases attack speed." feature="Season3" />
-	<key id="90051518" level="1" name="Machine Hunter" tooltipDescription="Increases physical damage and magic damage." feature="Season3" />
-	<key id="90051598" level="1" name="Extremity" tooltipDescription="Increases movement and attack speeds." feature="Season3" />
-	<key id="90051599" level="1" name="Increases bonus attack by 250 (not active in battlegrounds)" feature="Season3" />
-	<key id="90051600" level="1" name="Increases mount speed by 5%." feature="Season3" />
-	<key id="90051570" level="1" name="Increases bonus attack by 250, doubled in Dark Descent (not active in battlegrounds)" feature="Season3" />
-	<key id="90051572" level="1" name="Increases health by 720, doubled in Dark Descent." feature="Season3" />
-	<key id="90051543" level="1" name="Increases bonus attack by 250 (not active in battlegrounds)" feature="Season3" />
-	<key id="90051544" level="1" name="" feature="Season3" />
-	<key id="90051602" level="1" name="Doubles Panic effects." feature="Season3" />
-	<key id="90051603" level="1" name="Doubles Rage effects." feature="Season3" />
-	<key id="90051604" level="1" name="Doubles Extreme effects." feature="Season3" />
-	<key id="90051605" level="1" name="Increases recovery skill effects by 10% (not active in battlegrounds)" feature="Season3" />
-	<key id="90051606" level="1" name="Increases spirit by 10 (not active in battlegrounds)" feature="Season3" />
 	<key id="95000012" level="1" name="Weaken Defense (Level 1)" tooltipDescription="95000012 (Level 1)" />
 	<key id="95000012" level="2" name="Weaken Defense (Level 2)" tooltipDescription="95000012 (Level 2)" />
 	<key id="95000012" level="3" name="Weaken Defense (Level 3)" tooltipDescription="95000012 (Level 3)" />
@@ -2897,118 +2828,45 @@
 	<key id="95000018" level="18" name="95000018 (Level 18)" tooltipDescription="95000018 (Level 18)" />
 	<key id="95000018" level="19" name="95000018 (Level 19)" tooltipDescription="95000018 (Level 19)" />
 	<key id="95000018" level="20" name="95000018 (Level 20)" tooltipDescription="95000018 (Level 20)" />
+	<key id="97000001" level="1" name="Experience Up" tooltipDescription="Increases experience earned from hunting monsters by 20%." />
+	<key id="97000011" level="1" name="Attack Up" tooltipDescription="Increases physical and magic attack by 10%." />
+	<key id="97000021" level="1" name="KORADDITIONALDESCRIPTION_97000021_1_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_97000021_1_TOOLTIPDESCRIPTION" />
+	<key id="98000001" level="1" name="Mighty Bond" tooltipDescription="Brimming with trust and good faith. \nIncreases physical and magic attack by 5. \nNot active on battlegrounds or arenas." />
+	<key id="98000011" level="1" name="Fleet Footed" tooltipDescription="Your steps feel lighter, thanks to your companion. \nIncreases movement speed by 5%.\nNot active on battlegrounds or arenas." />
+	<key id="98000021" level="1" name="Unerring Trust" tooltipDescription="The trust you see in the eyes of your companion motivates you. \nIncreases accuracy by 3.\nNot active on battlegrounds or arenas." />
+	<key id="99900041" level="1" name="Dirty" tooltipDescription="Ugh and ewww. \nDecreases movement speed by 70%." />
+	<key id="99900051" level="1" name="Poisonous Gas" tooltipDescription="Unconscious.\nStunned and unable to act." />
+	<key id="99900061" level="1" name="Toxic Waste" tooltipDescription="Practically glowing... \nInflicts poison damage every sec." />
+	<key id="99900071" level="1" name="Burning" tooltipDescription="Surrounding in a holy flame.\nInflicts fire damage every sec." />
+	<key id="99900131" level="1" name="Egged" tooltipDescription="Smelly and covered in egg.\nDecreases accuracy by 30%." />
+	<key id="99900191" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900201" level="1" name="Stunned" tooltipDescription="Unable to act.\nInflicts fire damage every sec." />
+	<key id="99900211" level="1" name="Dirty" tooltipDescription="Stinky! Yuck! \nDecreases movement speed by 70%." />
+	<key id="99900221" level="1" name="Dirty" tooltipDescription="Stinky! Yuck! \nDecreases movement speed by 70%." />
+	<key id="99900231" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900241" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900251" level="1" name="Electrified" tooltipDescription="Inflicts continuous electric damage." />
+	<key id="99900261" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900271" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900281" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900282" level="1" name="Defense Down" tooltipDescription="Increases physical and magic damage taken by 50%." />
+	<key id="99900293" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900322" level="1" name="Poisoned" tooltipDescription="Inflicts poison damage equivalent to 30% damage every sec." />
+	<key id="99900332" level="1" name="Trapped" tooltipDescription="Trapped in thorny vines and unable to act." />
+	<key id="99900451" level="1" name="Shield" tooltipDescription="Grants immunity to all interference effect" feature="MassiveCrazyRunnersShanghai" />
+	<key id="99900471" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900502" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900512" level="1" name="Gas Fire" tooltipDescription="Caked in gasoline.\nInflicts continuous fire damage." />
+	<key id="99900522" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900532" level="1" name="Gas Fire" tooltipDescription="Caked in gasoline.\nInflicts continuous fire damage." />
+	<key id="99900542" level="1" name="Frostbite" tooltipDescription="Chilled to the bone.\nDecreases movement speed by 70%. \nInflicts continuous ice damage." />
+	<key id="99900552" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900562" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="99900922" level="1" name="Burning" tooltipDescription="Decreases defense by 30%. \nInflicts fire damage every sec." />
 	<key id="99901007" level="1" name="Hampered" tooltipDescription="Entangled in thorns, sharply reducing movement speed." />
 	<key id="99901008" level="1" name="Hampered" tooltipDescription="Entangled in thorns, sharply reducing movement speed." />
 	<key id="99901009" level="1" name="Woozy" tooltipDescription="You aren&apos;t feeling so well, and you&apos;ve become disoriented." />
 	<key id="99901010" level="1" name="Static Charge" tooltipDescription="Electricity flows throughout your body, inflicting continuous damage." />
-	<key id="99910161" level="1" name="Mount Phantom Destroyer" tooltipDescription="You mounted a Phantom Destroyer. Its powerful attacks quickly defeat common enemies and reset Gigantica&apos;s buff." feature="Gigantica01" />
-	<key id="99920003" level="1" name="Sleepy Shroom" tooltipDescription='You became a Sleepy Shroom. This effect can be dispelled by &lt;font color=&quot;#FFD400&quot;&gt;Party Pep&lt;/font&gt;. Ask a party member to &lt;font color=&quot;#FFD400&quot;&gt;perform an emote&lt;/font&gt;!' feature="SurvivalContentsTeam" />
-	<key id="90060002" level="1" name="Sly Knowledge" />
-	<key id="90060005" level="1" name="Sly Knowledge 1" tooltipDescription="Increases attack by n%." />
-	<key id="90060006" level="1" name="Sly Knowledge 2" tooltipDescription="Increases attack by n%." />
-	<key id="90060012" level="1" name="Shield" tooltipDescription="Absorbs damage equal to n% of your max health." />
-	<key id="90060016" level="1" name="Attack Focus" tooltipDescription="Increases attack by n% per stack. Effect disappears when hit." />
-	<key id="110000001" level="1" name="Gone Fishin&apos;" tooltipDescription="Doubles fishing experience." />
-	<key id="110000002" level="1" name="Jamming" tooltipDescription="Doubles performance experience." />
-	<key id="110000003" level="1" name="Monster Hunting" tooltipDescription="Increases experience earned from hunting monsters by 10%." />
-	<key id="110000004" level="1" name="Fun With Events" tooltipDescription="Doubles experience earned from MC Kay&apos;s events." />
-	<key id="110000005" level="1" name="Summon Guild" tooltipDescription="Summon all guild members to one location." />
-	<key id="110000006" level="1" name="Get Rich Quick" tooltipDescription="Increases mesos earned from hunting monsters by 30%." />
-	<key id="110000007" level="1" name="Seeing Double" tooltipDescription="Doubles world boss item drops." />
-	<key id="110000008" level="1" name="Guild Honor" tooltipDescription="Increases guild experience by 50%." />
-	<key id="110000009" level="1" name="Guild Wealth" tooltipDescription="Increases funds earned by 50%." />
-	<key id="110000010" level="1" name="Group Guard" tooltipDescription="Decreases damage taken in adventure dungeons (excluding Dark Descent) by 20%" />
-	<key id="110000011" level="1" name="Group Power" tooltipDescription="Increases attack in adventure dungeons (excluding Dark Descent) by 20%" />
-	<key id="110000101" level="1" name="Guild Fishing 1" tooltipDescription="Increases fishing experience by 4%." />
-	<key id="110000102" level="1" name="Guild Hall Fishing 2" tooltipDescription="Increases fishing experience by 8%." />
-	<key id="110000103" level="1" name="Guild Hall Fishing 3" tooltipDescription="Increases fishing experience by 12%." />
-	<key id="110000104" level="1" name="Guild Hall Fishing 4" tooltipDescription="Increases fishing experience by 16%." />
-	<key id="110000105" level="1" name="Guild Performing 1" tooltipDescription="Increases performing experience by 4%." />
-	<key id="110000106" level="1" name="Guild Hall Performing 2" tooltipDescription="Increases performing experience by 8%." />
-	<key id="110000107" level="1" name="Guild Hall Performing 3" tooltipDescription="Increases performing experience by 12%." />
-	<key id="110000108" level="1" name="Guild Hall Performing 4" tooltipDescription="Increases performing experience by 16%." />
-	<key id="110000109" level="1" name="Guild Hall Mining 1" tooltipDescription="Doubles mining quantity." />
-	<key id="110000110" level="1" name="Guild Hall Mining 2" tooltipDescription="Doubles mining quantity." />
-	<key id="110000111" level="1" name="Guild Hall Mining 3" tooltipDescription="Doubles mining quantity." />
-	<key id="110000112" level="1" name="Guild Hall Mining 4" tooltipDescription="Doubles mining quantity." />
-	<key id="110000113" level="1" name="Guild Questing (Lv. 1)" tooltipDescription="Increases quest experience earned by 30%" />
-	<key id="110000113" level="2" name="Guild Questing (Lv. 2)" tooltipDescription="Increases quest experience earned by 32%" />
-	<key id="110000113" level="3" name="Guild Questing (Lv. 3)" tooltipDescription="Increases quest experience earned by 34%" />
-	<key id="110000113" level="4" name="Guild Questing (Lv. 4)" tooltipDescription="Increases quest experience earned by 36%" />
-	<key id="110000113" level="5" name="Guild Questing (Lv. 5)" tooltipDescription="Increases quest experience earned by 38%" />
-	<key id="110000113" level="6" name="Guild Questing (Lv. 6)" tooltipDescription="Increases quest experience earned by 40%" />
-	<key id="110000113" level="7" name="Guild Questing (Lv. 7)" tooltipDescription="Increases quest experience earned by 42%" />
-	<key id="110000113" level="8" name="Guild Questing (Lv. 8)" tooltipDescription="Increases quest experience earned by 44%" />
-	<key id="110000113" level="9" name="Guild Questing (Lv. 9)" tooltipDescription="Increases quest experience earned by 46%" />
-	<key id="110000113" level="10" name="Guild Questing (Lv. 10)" tooltipDescription="Increases quest experience earned by 48%" />
-	<key id="110000114" level="1" name="Guild PvP (Lv. 1)" tooltipDescription="40% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="2" name="Guild PvP (Lv. 2)" tooltipDescription="42% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="3" name="Guild PvP (Lv. 3)" tooltipDescription="44% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="4" name="Guild PvP (Lv. 4)" tooltipDescription="46% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="5" name="Guild PvP (Lv. 5)" tooltipDescription="48% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="6" name="Guild PvP (Lv. 6)" tooltipDescription="50% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="7" name="Guild PvP (Lv. 7)" tooltipDescription="52% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="8" name="Guild PvP (Lv. 8)" tooltipDescription="54% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="9" name="Guild PvP (Lv. 9)" tooltipDescription="56% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000114" level="10" name="Guild PvP (Lv. 10)" tooltipDescription="58% chance to double Valor Tokens upon winning in the arena." />
-	<key id="110000115" level="1" name="Guild Combat (Lv. 1)" tooltipDescription="Increases damage by 2.1%" />
-	<key id="110000115" level="2" name="Guild Combat (Lv. 2)" tooltipDescription="Increases damage by 2.2%" />
-	<key id="110000115" level="3" name="Guild Combat (Lv. 3)" tooltipDescription="Increases damage by 2.3%" />
-	<key id="110000115" level="4" name="Guild Combat (Lv. 4)" tooltipDescription="Increases damage by 2.4%" />
-	<key id="110000115" level="5" name="Guild Combat (Lv. 5)" tooltipDescription="Increases damage by 2.5%" />
-	<key id="110000115" level="6" name="Guild Combat (Lv. 6)" tooltipDescription="Increases damage by 2.6%" />
-	<key id="110000115" level="7" name="Guild Combat (Lv. 7)" tooltipDescription="Increases damage by 2.7%" />
-	<key id="110000115" level="8" name="Guild Combat (Lv. 8)" tooltipDescription="Increases damage by 2.8%" />
-	<key id="110000115" level="9" name="Guild Combat (Lv. 9)" tooltipDescription="Increases damage by 2.9%" />
-	<key id="110000115" level="10" name="Guild Combat (Lv. 10)" tooltipDescription="Increases damage by 3%" />
-	<key id="110000116" level="1" name="Guild Mobility (Lv. 1)" tooltipDescription="Increases move speed by 3% &amp; ground mounts by 3%" />
-	<key id="110000116" level="2" name="Guild Mobility (Lv. 2)" tooltipDescription="Increases move speed by 3% &amp; ground mounts by 4%" />
-	<key id="110000116" level="3" name="Guild Mobility (Lv. 3)" tooltipDescription="Increases move speed by 4% &amp; ground mounts by 4%" />
-	<key id="110000116" level="4" name="Guild Mobility (Lv. 4)" tooltipDescription="Increases move speed by 4% &amp; ground mounts by 5%" />
-	<key id="110000116" level="5" name="Guild Mobility (Lv. 5)" tooltipDescription="Increases move speed by 5% &amp; ground mounts by 5%" />
-	<key id="110000117" level="1" name="Accuracy Boost (Lv. 1)" tooltipDescription="Increases accuracy by 1." />
-	<key id="110000117" level="2" name="Accuracy Boost (Lv. 2)" tooltipDescription="Increases accuracy by 2." />
-	<key id="110000117" level="3" name="Accuracy Boost (Lv. 3)" tooltipDescription="Increases accuracy by 3." />
-	<key id="110000117" level="4" name="Accuracy Boost (Lv. 4)" tooltipDescription="Increases accuracy by 4." />
-	<key id="110000117" level="5" name="Accuracy Boost (Lv. 5)" tooltipDescription="Increases accuracy by 5." />
-	<key id="110000118" level="1" name="Health Boost (Lv. 1)" tooltipDescription="Increases health by 3%" />
-	<key id="110000118" level="2" name="Health Boost (Lv. 2)" tooltipDescription="Increases health by 3.2%" />
-	<key id="110000118" level="3" name="Health Boost (Lv. 3)" tooltipDescription="Increases health by 3.4%" />
-	<key id="110000118" level="4" name="Health Boost (Lv. 4)" tooltipDescription="Increases health by 3.6%" />
-	<key id="110000118" level="5" name="Health Boost (Lv. 5)" tooltipDescription="Increases health by 3.8%" />
-	<key id="110000118" level="6" name="Health Boost (Lv. 6)" tooltipDescription="Increases health by 4%" />
-	<key id="110000118" level="7" name="Health Boost (Lv. 7)" tooltipDescription="Increases health by 4.2%" />
-	<key id="110000118" level="8" name="Health Boost (Lv. 8)" tooltipDescription="Increases health by 4.4%" />
-	<key id="110000118" level="9" name="Health Boost (Lv. 9)" tooltipDescription="Increases health by 4.6%" />
-	<key id="110000118" level="10" name="Health Boost (Lv. 10)" tooltipDescription="Increases health by 4.8%" />
-	<key id="110000119" level="1" name="Movement Boost (Lv. 1)" tooltipDescription="Increases move speed by 3% and all mounts by 3%" />
-	<key id="110000119" level="2" name="Movement Boost (Lv. 2)" tooltipDescription="Increases move speed by 3% and all mounts by 4%" />
-	<key id="110000119" level="3" name="Movement Boost (Lv. 3)" tooltipDescription="Increases move speed by 4% and all mounts by 4%" />
-	<key id="110000119" level="4" name="Movement Boost (Lv. 4)" tooltipDescription="Increases move speed by 4% and all mounts by 5%" />
-	<key id="110000119" level="5" name="Movement Boost (Lv. 5)" tooltipDescription="Increases move speed by 5% and all mounts by 5%" />
-	<key id="110000120" level="1" name="Critical Boost (Lv. 1)" tooltipDescription="Increases critical rate and critical evasion by 30" />
-	<key id="110000120" level="2" name="Critical Boost (Lv. 2)" tooltipDescription="Increases critical rate and critical evasion by 32" />
-	<key id="110000120" level="3" name="Critical Boost (Lv. 3)" tooltipDescription="Increases critical rate and critical evasion by 34" />
-	<key id="110000120" level="4" name="Critical Boost (Lv. 4)" tooltipDescription="Increases critical rate and critical evasion by 36" />
-	<key id="110000120" level="5" name="Critical Boost (Lv. 5)" tooltipDescription="Increases critical rate and critical evasion by 38" />
-	<key id="110000120" level="6" name="Critical Boost (Lv. 6)" tooltipDescription="Increases critical rate and critical evasion by 40" />
-	<key id="110000120" level="7" name="Critical Boost (Lv. 7)" tooltipDescription="Increases critical rate and critical evasion by 42" />
-	<key id="110000120" level="8" name="Critical Boost (Lv. 8)" tooltipDescription="Increases critical rate and critical evasion by 44" />
-	<key id="110000120" level="9" name="Critical Boost (Lv. 9)" tooltipDescription="Increases critical rate and critical evasion by 46" />
-	<key id="110000120" level="10" name="Critical Boost (Lv. 10)" tooltipDescription="Increases critical rate and critical evasion by 48" />
-	<key id="110000121" level="1" name="Piercing Boost (Lv. 1)" tooltipDescription="Increases physical and magic piercing by 3%" />
-	<key id="110000121" level="2" name="Piercing Boost (Lv. 2)" tooltipDescription="Increases physical and magic piercing by 3.2%" />
-	<key id="110000121" level="3" name="Piercing Boost (Lv. 3)" tooltipDescription="Increases physical and magic piercing by 3.4%" />
-	<key id="110000121" level="4" name="Piercing Boost (Lv. 4)" tooltipDescription="Increases physical and magic piercing by 3.6%" />
-	<key id="110000121" level="5" name="Piercing Boost (Lv. 5)" tooltipDescription="Increases physical and magic piercing by 3.8%" />
-	<key id="110000121" level="6" name="Piercing Boost (Lv. 6)" tooltipDescription="Increases physical and magic piercing by 4%" />
-	<key id="110000121" level="7" name="Piercing Boost (Lv. 7)" tooltipDescription="Increases physical and magic piercing by 4.2%" />
-	<key id="110000121" level="8" name="Piercing Boost (Lv. 8)" tooltipDescription="Increases physical and magic piercing by 4.4%" />
-	<key id="110000121" level="9" name="Piercing Boost (Lv. 9)" tooltipDescription="Increases physical and magic piercing by 4.6%" />
-	<key id="110000121" level="10" name="Piercing Boost (Lv. 10)" tooltipDescription="Increases physical and magic piercing by 4.8%" />
-	<key id="110002001" level="1" name="Movement Speed Up" tooltipDescription="Increases movement speed by 5% while in a party with club members. Disabled in battlegrounds and the arena." feature="Club" />
-	<key id="110002002" level="1" name="Fishing Experience Up" tooltipDescription="Increases fishing experience gained by 3% while in a party with club members." feature="Club" />
-	<key id="110002003" level="1" name="Performance Experience Up" tooltipDescription="Increases performance experience gained by 3% while in a party with club members." feature="Club" />
 	<key id="99910001" level="1" name="Mount Iron Hog" tooltipDescription="Allows you to enter combat with the Iron Hog.\nYou&apos;ll be removed when the effect ends." />
 	<key id="99910010" level="1" name="Chick" tooltipDescription="Unable to use skills." />
 	<key id="99910020" level="1" name="Lil Magma Boogie" tooltipDescription="Ride into battle on the back of a Lil Magma Boogie." />
@@ -3019,13 +2877,41 @@
 	<key id="99910060" level="1" name="Slime" tooltipDescription="Allows you to enter combat with a slime." />
 	<key id="99910061" level="1" name="Slime - Spirit Supply" tooltipDescription="Slime - Spirit Supply" />
 	<key id="99910070" level="1" name="Mount MK 52 Alpha" tooltipDescription="Allows you to enter combat with the MK 52 Alpha." />
-	<key id="99910200" level="1" name="Monarch&apos;s Prank" tooltipDescription='Ribbit!\n\n&lt;font color=&quot;#FFD400&quot;&gt;When Madria was especially bored, she would transform her henchmen into frogs. Nobody knew when, or if, they would transform back. Hence, this became one of her most feared skills.&lt;/font&gt;' />
+	<key id="99910161" level="1" name="Mount Phantom Destroyer" tooltipDescription="You mounted a Phantom Destroyer. Its powerful attacks quickly defeat common enemies and reset Gigantica&apos;s buff." feature="Gigantica01" />
+	<key id="99910200" level="1" name="Monarch&apos;s Prank" tooltipDescription="Ribbit!\n\n&lt;font color=&quot;#FFD400&quot;&gt;When Madria was especially bored, she would transform her henchmen into frogs. Nobody knew when, or if, they would transform back. Hence, this became one of her most feared skills.&lt;/font&gt;" />
 	<key id="99910210" level="1" name="Energy Slime" tooltipDescription="Releases energy 3 m around you on hit, which restores 500 health and 20 spirit. This can only occur once every 1 sec." />
-	<key id="99920030" level="1" name="Squirrel Assassin Removal" tooltipDescription="Squirrel Assassin Removal" />
 	<key id="99910240" level="1" name="Override Code: Singewing Transformation" tooltipDescription="Disguised as one of the $npcNamePlural:34000100$ from $map:02100001$&apos;s Bahram Mountain." />
 	<key id="99910241" level="1" name="Lava Immunity" tooltipDescription="Immune to damage from the lava of Bahram Mountain." />
 	<key id="99910250" level="1" name="Rainbow King Slime" tooltipDescription="You&apos;ve turned into a rainbow slime! Transformation ends upon death." />
 	<key id="99910260" level="1" name="Mutant Slime" tooltipDescription="You&apos;ve turned into mutant slime! Transformation ends upon death." />
+	<key id="99910340" level="1" name="MK 52 Prototype" tooltipDescription="Riding a prototype MK 52 found in Mushtopia. Because it&apos;s not fully battle-ready, it has limited battery charge." feature="SurvivalContents02" />
+	<key id="99910360" level="1" name="MK 52 Prototype" tooltipDescription="Riding a prototype MK 52 found in Mushtopia. Because it&apos;s not fully battle-ready, it has limited battery charge." feature="SurvivalContentsTeam" />
+	<key id="99910372" level="1" name="Burning" tooltipDescription="On fire for 5 sec." feature="Fieldwar01" />
+	<key id="99920003" level="1" name="Sleepy Shroom" tooltipDescription="You became a Sleepy Shroom. This effect can be dispelled by &lt;font color=&quot;#FFD400&quot;&gt;Party Pep&lt;/font&gt;. Ask a party member to &lt;font color=&quot;#FFD400&quot;&gt;perform an emote&lt;/font&gt;!" feature="SurvivalContentsTeam" />
+	<key id="99920030" level="1" name="Squirrel Assassin Removal" tooltipDescription="Squirrel Assassin Removal" />
+	<key id="100000001" level="1" name="Soul&apos;s Respite" tooltipDescription="You&apos;ve used up all your energy moving the tombstone. You need some time to rest." />
+	<key id="100000002" level="1" name="Penalty" tooltipDescription="You have been given a Penalty. You&apos;ll be temporarily restricted from the following community activities:\n- Chatting\n- Reserving displays\n- Creating UGC items\n- Applying UGC items\n- Placing and exchanging furnishings\n- Listing items in the Designer Shop\n- Changing character portraits\n- Changing guild emblems\n- Changing character names\n- Sending mail\n- Creating and requesting to join parties\n- Creating musical scores and playing instruments\n- All other community activities\n&lt;font color=&apos;#00aaef&apos;&gt;If you spend time reflecting and pulling weeds at Alikar, perhaps your sentence can be shortened.&lt;/font&gt;" />
+	<key id="100000003" level="1" name="Tombshocked" tooltipDescription="Your brush with death has left you weakened. If you are defeated again before you&apos;ve recovered, you&apos;ll be crushed beneath the weight of a metal tombstone." />
+	<key id="100000004" level="1" name="Close Call" tooltipDescription="Immune to damage for a short time." />
+	<key id="100000005" level="1" name="Pocket Realm Departure" tooltipDescription="You&apos;re leaving the Pocket Realm. You will not take any damage until your body and mind are completely free." />
+	<key id="100000006" name="PC Cafe Connection Effect" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 20% additional experience and mesos when hunting, 3% extra physical attack and magic attack, and 100 extra health. Does not apply to battlegrounds." />
+	<key id="100000007" name="Call of the Battleground" tooltipDescription="A recruit to the battleground, you can not request another battleground." />
+	<key id="100000008" level="1" name="Citation" tooltipDescription="You have been given a Citation. You&apos;ll be temporarily restricted from the following community activities:\n- Reserving displays\n- Creating UGC items\n- Applying UGC items\n- Placing and exchanging furnishings\n- Listing items in the Designer Shop\n- Changing character portraits\n- Changing guild emblems\n- Changing character names\n- Sending mail\n- Creating and requesting to join parties\n- Creating musical scores\n- All other community activities\n&lt;font color=&apos;#00aaef&apos;&gt;If you spend time reflecting and pulling weeds at Alikar, perhaps your sentence can be shortened.&lt;/font&gt;" />
+	<key id="100000009" name="Fast Growth Buff" tooltipDescription="Grants an extra 10% experience when hunting monsters and completing quests." />
+	<key id="100000011" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000012" name="Safe Riding" tooltipDescription="You won&apos;t fall off your mount, even when attacked by monsters." />
+	<key id="100000013" name="Amphibious Riding" tooltipDescription="You won&apos;t fall off your mount, even when in water." />
+	<key id="100000014" name="Premium Club Benefits" tooltipDescription="- Increases movement by 5% (excluding PvP areas)\n- Grants 20% extra experience and mesos when hunting \n- Reduces Ophelia enchant catalyst costs by 20% \n- Reduces meso handling fees for trade by 50% \n- Reduces merat revival costs by 50%\n- Can summon the Bank Safe instantly at any place \n- Grants access to premium dungeons &amp; insignia \n- Grants daily premium items" />
+	<key id="100000016" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000017" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000018" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000019" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000020" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000021" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000022" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000023" name="Comradery" tooltipDescription="You found allies to play through a random adventure dungeon with you, and a special bond has blossomed!\n\n&lt;b&gt;While this effect is active, you cannot search for another random adventure dungeon. This status effect will disappear once your party has cleared the random adventure dungeon.&lt;/b&gt;" />
+	<key id="100000024" name="((China Only)) PC Cafe Buff (Bronze)" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 15% additional experience and 10% additional mesos when hunting, 2% extra physical attack and magic attack, 100 extra health, and 2% additional experience for performing and fishing. Does not apply to battlegrounds." />
+	<key id="100000026" name="((China Only)) PC Cafe Buff (Gold)" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 20% additional experience and 15% additional mesos when hunting, 3% extra physical attack and magic attack, 150 extra health, and 3% additional experience for performing and fishing. Does not apply to battlegrounds." />
 	<key id="100000028" level="1" name="Revive Discount" tooltipDescription="Unlocked at rank 5.\nGrants a &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt; reduction to revival fees, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;50&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;." />
 	<key id="100000028" level="2" name="Revive Discount" tooltipDescription="Unlocked at rank 5.\nGrants a &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt; reduction to revival fees, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;50&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;." />
 	<key id="100000028" level="3" name="Revive Discount" tooltipDescription="Unlocked at rank 5.\nGrants a &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt; reduction to revival fees, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;50&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;." />
@@ -3278,6 +3164,15 @@
 	<key id="100000042" level="18" name="Pet Retraining Efficiency" tooltipDescription="Unlocked at rank 80.\nReduces the number of catalysts required to re-roll pet bonus abilities by &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="PetRemake01" />
 	<key id="100000042" level="19" name="Pet Retraining Efficiency" tooltipDescription="Unlocked at rank 80.\nReduces the number of catalysts required to re-roll pet bonus abilities by &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="PetRemake01" />
 	<key id="100000042" level="20" name="Pet Retraining Efficiency" tooltipDescription="Unlocked at rank 80.\nReduces the number of catalysts required to re-roll pet bonus abilities by &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="PetRemake01" />
+	<key id="100000043" name="Premium Club Benefits" tooltipDescription="- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20% (excluding the Meso Market)\n- Can summon the Bank Safe instantly anywhere\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons &amp; insignia\n- Grants daily premium items" feature="MesoMarket" locale="NA" />
+	<key id="100000043" name="Premium Club Benefits" tooltipDescription="- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20%\n- Can summon the Bank Safe instantly at any place\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons &amp; insignia\n- Grants daily premium items" locale="NA" />
+	<key id="100000046" name="Premium Club Benefits (Party Bonus)" tooltipDescription="Increases movement and ground mount speeds by 5% for being in a party with a Premium Club member (excluding PvP areas; applies to party)" locale="NA" />
+	<key id="100000047" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000048" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000049" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
+	<key id="100000050" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000051" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000052" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
 	<key id="100000055" level="1" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
 	<key id="100000055" level="2" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
 	<key id="100000055" level="3" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
@@ -3289,22 +3184,123 @@
 	<key id="100000055" level="9" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
 	<key id="100000055" level="10" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
 	<key id="100000055" level="11" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
+	<key id="100000056" level="1" name="Revival Fee Discount" tooltipDescription="Unlocked at Affinity Stage 1.\nReduces revival fees by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;." />
+	<key id="100000056" level="2" name="Revival Fee Discount" tooltipDescription="Unlocked at Affinity Stage 1.\nReduces revival fees by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;." />
+	<key id="100000056" level="3" name="Revival Fee Discount" tooltipDescription="Unlocked at Affinity Stage 1.\nReduces revival fees by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;." />
+	<key id="100000056" level="4" name="Revival Fee Discount" tooltipDescription="Unlocked at Affinity Stage 1.\nReduces revival fees by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;." />
+	<key id="100000056" level="5" name="Revival Fee Discount" tooltipDescription="Unlocked at Affinity Stage 1.\nReduces revival fees by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;10%&lt;/font&gt;." />
+	<key id="100000057" level="1" name="Socket Efficiency" tooltipDescription="Unlocked at Affinity Stage 2.\nReduces the Crystal Fragments required to expand sockets by &lt;font color=&apos;#ffde00&apos;&gt;1.0%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum reduction of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." feature="ItemSocketSystem" />
+	<key id="100000057" level="2" name="Socket Efficiency" tooltipDescription="Unlocked at Affinity Stage 2.\nReduces the Crystal Fragments required to expand sockets by &lt;font color=&apos;#ffde00&apos;&gt;1.0%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum reduction of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." feature="ItemSocketSystem" />
+	<key id="100000057" level="3" name="Socket Efficiency" tooltipDescription="Unlocked at Affinity Stage 2.\nReduces the Crystal Fragments required to expand sockets by &lt;font color=&apos;#ffde00&apos;&gt;1.0%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum reduction of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." feature="ItemSocketSystem" />
+	<key id="100000057" level="4" name="Socket Efficiency" tooltipDescription="Unlocked at Affinity Stage 2.\nReduces the Crystal Fragments required to expand sockets by &lt;font color=&apos;#ffde00&apos;&gt;1.0%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum reduction of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." feature="ItemSocketSystem" />
+	<key id="100000058" level="1" name="Ground Mount Speed" tooltipDescription="Unlocked at Affinity Stage 3.\nIncreases ground mount movement speed by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum increase of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." />
+	<key id="100000058" level="2" name="Ground Mount Speed" tooltipDescription="Unlocked at Affinity Stage 3.\nIncreases ground mount movement speed by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum increase of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." />
+	<key id="100000058" level="3" name="Ground Mount Speed" tooltipDescription="Unlocked at Affinity Stage 3.\nIncreases ground mount movement speed by &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt; with each Affinity Stage increase, up to a maximum increase of &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt;." />
+	<key id="100000059" level="1" name="Bonus Attribute Material Reduction" tooltipDescription="Unlocked at Affinity Stage 4.\nReduces materials consumed when changing equipment bonus attributes by &lt;font color=&apos;#ffde00&apos;&gt;3%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum reduction of &lt;font color=&apos;#ffde00&apos;&gt;5%&lt;/font&gt;." />
+	<key id="100000059" level="2" name="Bonus Attribute Material Reduction" tooltipDescription="Unlocked at Affinity Stage 4.\nReduces materials consumed when changing equipment bonus attributes by &lt;font color=&apos;#ffde00&apos;&gt;3%&lt;/font&gt; when first acquired, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; with each Affinity Stage increase, up to a maximum reduction of &lt;font color=&apos;#ffde00&apos;&gt;5%&lt;/font&gt;." />
+	<key id="100000060" level="1" name="Gemstone Fusion Material Reduction" tooltipDescription="Unlocked at Affinity Stage 5.\nReduces materials required for gemstone fusion by &lt;font color=&apos;#ffde00&apos;&gt;5%&lt;/font&gt; when first acquired." feature="ItemSocketSystem" />
+	<key id="110000001" level="1" name="Gone Fishin&apos;" tooltipDescription="Doubles fishing experience." />
+	<key id="110000002" level="1" name="Jamming" tooltipDescription="Doubles performance experience." />
+	<key id="110000003" level="1" name="Monster Hunting" tooltipDescription="Increases experience earned from hunting monsters by 10%." />
+	<key id="110000004" level="1" name="Fun With Events" tooltipDescription="Doubles experience earned from MC Kay&apos;s events." />
+	<key id="110000005" level="1" name="Summon Guild" tooltipDescription="Summon all guild members to one location." />
+	<key id="110000006" level="1" name="Get Rich Quick" tooltipDescription="Increases mesos earned from hunting monsters by 30%." />
+	<key id="110000007" level="1" name="Seeing Double" tooltipDescription="Doubles world boss item drops." />
+	<key id="110000008" level="1" name="Guild Honor" tooltipDescription="Increases guild experience by 50%." />
+	<key id="110000009" level="1" name="Guild Wealth" tooltipDescription="Increases funds earned by 50%." />
+	<key id="110000010" level="1" name="Group Guard" tooltipDescription="Decreases damage taken in Adventure Dungeons (excluding Dark Descent) by 20%." />
+	<key id="110000011" level="1" name="Group Power" tooltipDescription="Increases attack power in Adventure Dungeons (excluding Dark Descent) by 20%." />
+	<key id="110000101" level="1" name="Guild Hall Fishing 1" tooltipDescription="Increases fishing experience by 4%." />
+	<key id="110000102" level="1" name="Guild Hall Fishing 2" tooltipDescription="Increases fishing experience by 8%." />
+	<key id="110000103" level="1" name="Guild Hall Fishing 3" tooltipDescription="Increases fishing experience by 12%." />
+	<key id="110000104" level="1" name="Guild Hall Fishing 4" tooltipDescription="Increases fishing experience by 16%." />
+	<key id="110000105" level="1" name="Guild Hall Performing 1" tooltipDescription="Increases performance experience by 4%." />
+	<key id="110000106" level="1" name="Guild Hall Performing 2" tooltipDescription="Increases performance experience by 8%." />
+	<key id="110000107" level="1" name="Guild Hall Performing 3" tooltipDescription="Increases performance experience by 12%." />
+	<key id="110000108" level="1" name="Guild Hall Performing 4" tooltipDescription="Increases performance experience by 16%." />
+	<key id="110000109" level="1" name="Guild Hall Mining 1" tooltipDescription="Doubles mining yield." />
+	<key id="110000110" level="1" name="Guild Hall Mining 2" tooltipDescription="Doubles mining yield." />
+	<key id="110000111" level="1" name="Guild Hall Mining 3" tooltipDescription="Doubles mining yield." />
+	<key id="110000112" level="1" name="Guild Hall Mining 4" tooltipDescription="Doubles mining yield." />
+	<key id="110000113" level="1" name="Guild Questing (Lv. 1)" tooltipDescription="Increases quest experience earned by 30%" />
+	<key id="110000113" level="2" name="Guild Questing (Lv. 2)" tooltipDescription="Increases quest experience earned by 32%" />
+	<key id="110000113" level="3" name="Guild Questing (Lv. 3)" tooltipDescription="Increases quest experience earned by 34%" />
+	<key id="110000113" level="4" name="Guild Questing (Lv. 4)" tooltipDescription="Increases quest experience earned by 36%" />
+	<key id="110000113" level="5" name="Guild Questing (Lv. 5)" tooltipDescription="Increases quest experience earned by 38%" />
+	<key id="110000113" level="6" name="Guild Questing (Lv. 6)" tooltipDescription="Increases quest experience earned by 40%" />
+	<key id="110000113" level="7" name="Guild Questing (Lv. 7)" tooltipDescription="Increases quest experience earned by 42%" />
+	<key id="110000113" level="8" name="Guild Questing (Lv. 8)" tooltipDescription="Increases quest experience earned by 44%" />
+	<key id="110000113" level="9" name="Guild Questing (Lv. 9)" tooltipDescription="Increases quest experience earned by 46%" />
+	<key id="110000113" level="10" name="Guild Questing (Lv. 10)" tooltipDescription="Increases quest experience earned by 48%" />
+	<key id="110000114" level="1" name="Guild PvP (Lv. 1)" tooltipDescription="40% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="2" name="Guild PvP (Lv. 2)" tooltipDescription="42% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="3" name="Guild PvP (Lv. 3)" tooltipDescription="44% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="4" name="Guild PvP (Lv. 4)" tooltipDescription="46% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="5" name="Guild PvP (Lv. 5)" tooltipDescription="48% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="6" name="Guild PvP (Lv. 6)" tooltipDescription="50% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="7" name="Guild PvP (Lv. 7)" tooltipDescription="52% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="8" name="Guild PvP (Lv. 8)" tooltipDescription="54% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="9" name="Guild PvP (Lv. 9)" tooltipDescription="56% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000114" level="10" name="Guild PvP (Lv. 10)" tooltipDescription="58% chance to double Valor Tokens upon winning in the arena." />
+	<key id="110000115" level="1" name="Guild Combat (Lv. 1)" tooltipDescription="Increases damage by 2.1%" />
+	<key id="110000115" level="2" name="Guild Combat (Lv. 2)" tooltipDescription="Increases damage by 2.2%" />
+	<key id="110000115" level="3" name="Guild Combat (Lv. 3)" tooltipDescription="Increases damage by 2.3%" />
+	<key id="110000115" level="4" name="Guild Combat (Lv. 4)" tooltipDescription="Increases damage by 2.4%" />
+	<key id="110000115" level="5" name="Guild Combat (Lv. 5)" tooltipDescription="Increases damage by 2.5%" />
+	<key id="110000115" level="6" name="Guild Combat (Lv. 6)" tooltipDescription="Increases damage by 2.6%" />
+	<key id="110000115" level="7" name="Guild Combat (Lv. 7)" tooltipDescription="Increases damage by 2.7%" />
+	<key id="110000115" level="8" name="Guild Combat (Lv. 8)" tooltipDescription="Increases damage by 2.8%" />
+	<key id="110000115" level="9" name="Guild Combat (Lv. 9)" tooltipDescription="Increases damage by 2.9%" />
+	<key id="110000115" level="10" name="Guild Combat (Lv. 10)" tooltipDescription="Increases damage by 3%" />
+	<key id="110000116" level="1" name="Guild Mobility (Lv. 1)" tooltipDescription="Increases move speed by 3% &amp; ground mounts by 3%" />
+	<key id="110000116" level="2" name="Guild Mobility (Lv. 2)" tooltipDescription="Increases move speed by 3% &amp; ground mounts by 4%" />
+	<key id="110000116" level="3" name="Guild Mobility (Lv. 3)" tooltipDescription="Increases move speed by 4% &amp; ground mounts by 4%" />
+	<key id="110000116" level="4" name="Guild Mobility (Lv. 4)" tooltipDescription="Increases move speed by 4% &amp; ground mounts by 5%" />
+	<key id="110000116" level="5" name="Guild Mobility (Lv. 5)" tooltipDescription="Increases move speed by 5% &amp; ground mounts by 5%" />
+	<key id="110000117" level="1" name="Accuracy Boost (Lv. 1)" tooltipDescription="Increases accuracy by 1." />
+	<key id="110000117" level="2" name="Accuracy Boost (Lv. 2)" tooltipDescription="Increases accuracy by 2." />
+	<key id="110000117" level="3" name="Accuracy Boost (Lv. 3)" tooltipDescription="Increases accuracy by 3." />
+	<key id="110000117" level="4" name="Accuracy Boost (Lv. 4)" tooltipDescription="Increases accuracy by 4." />
+	<key id="110000117" level="5" name="Accuracy Boost (Lv. 5)" tooltipDescription="Increases accuracy by 5." />
+	<key id="110000118" level="1" name="Health Boost (Lv. 1)" tooltipDescription="Increases health by 3%" />
+	<key id="110000118" level="2" name="Health Boost (Lv. 2)" tooltipDescription="Increases health by 3.2%" />
+	<key id="110000118" level="3" name="Health Boost (Lv. 3)" tooltipDescription="Increases health by 3.4%" />
+	<key id="110000118" level="4" name="Health Boost (Lv. 4)" tooltipDescription="Increases health by 3.6%" />
+	<key id="110000118" level="5" name="Health Boost (Lv. 5)" tooltipDescription="Increases health by 3.8%" />
+	<key id="110000118" level="6" name="Health Boost (Lv. 6)" tooltipDescription="Increases health by 4%" />
+	<key id="110000118" level="7" name="Health Boost (Lv. 7)" tooltipDescription="Increases health by 4.2%" />
+	<key id="110000118" level="8" name="Health Boost (Lv. 8)" tooltipDescription="Increases health by 4.4%" />
+	<key id="110000118" level="9" name="Health Boost (Lv. 9)" tooltipDescription="Increases health by 4.6%" />
+	<key id="110000118" level="10" name="Health Boost (Lv. 10)" tooltipDescription="Increases health by 4.8%" />
+	<key id="110000119" level="1" name="Movement Boost (Lv. 1)" tooltipDescription="Increases move speed by 3% and all mounts by 3%" />
+	<key id="110000119" level="2" name="Movement Boost (Lv. 2)" tooltipDescription="Increases move speed by 3% and all mounts by 4%" />
+	<key id="110000119" level="3" name="Movement Boost (Lv. 3)" tooltipDescription="Increases move speed by 4% and all mounts by 4%" />
+	<key id="110000119" level="4" name="Movement Boost (Lv. 4)" tooltipDescription="Increases move speed by 4% and all mounts by 5%" />
+	<key id="110000119" level="5" name="Movement Boost (Lv. 5)" tooltipDescription="Increases move speed by 5% and all mounts by 5%" />
+	<key id="110000120" level="1" name="Critical Boost (Lv. 1)" tooltipDescription="Increases critical rate and critical evasion by 30" />
+	<key id="110000120" level="2" name="Critical Boost (Lv. 2)" tooltipDescription="Increases critical rate and critical evasion by 32" />
+	<key id="110000120" level="3" name="Critical Boost (Lv. 3)" tooltipDescription="Increases critical rate and critical evasion by 34" />
+	<key id="110000120" level="4" name="Critical Boost (Lv. 4)" tooltipDescription="Increases critical rate and critical evasion by 36" />
+	<key id="110000120" level="5" name="Critical Boost (Lv. 5)" tooltipDescription="Increases critical rate and critical evasion by 38" />
+	<key id="110000120" level="6" name="Critical Boost (Lv. 6)" tooltipDescription="Increases critical rate and critical evasion by 40" />
+	<key id="110000120" level="7" name="Critical Boost (Lv. 7)" tooltipDescription="Increases critical rate and critical evasion by 42" />
+	<key id="110000120" level="8" name="Critical Boost (Lv. 8)" tooltipDescription="Increases critical rate and critical evasion by 44" />
+	<key id="110000120" level="9" name="Critical Boost (Lv. 9)" tooltipDescription="Increases critical rate and critical evasion by 46" />
+	<key id="110000120" level="10" name="Critical Boost (Lv. 10)" tooltipDescription="Increases critical rate and critical evasion by 48" />
+	<key id="110000121" level="1" name="Piercing Boost (Lv. 1)" tooltipDescription="Increases physical and magic piercing by 3%" />
+	<key id="110000121" level="2" name="Piercing Boost (Lv. 2)" tooltipDescription="Increases physical and magic piercing by 3.2%" />
+	<key id="110000121" level="3" name="Piercing Boost (Lv. 3)" tooltipDescription="Increases physical and magic piercing by 3.4%" />
+	<key id="110000121" level="4" name="Piercing Boost (Lv. 4)" tooltipDescription="Increases physical and magic piercing by 3.6%" />
+	<key id="110000121" level="5" name="Piercing Boost (Lv. 5)" tooltipDescription="Increases physical and magic piercing by 3.8%" />
+	<key id="110000121" level="6" name="Piercing Boost (Lv. 6)" tooltipDescription="Increases physical and magic piercing by 4%" />
+	<key id="110000121" level="7" name="Piercing Boost (Lv. 7)" tooltipDescription="Increases physical and magic piercing by 4.2%" />
+	<key id="110000121" level="8" name="Piercing Boost (Lv. 8)" tooltipDescription="Increases physical and magic piercing by 4.4%" />
+	<key id="110000121" level="9" name="Piercing Boost (Lv. 9)" tooltipDescription="Increases physical and magic piercing by 4.6%" />
+	<key id="110000121" level="10" name="Piercing Boost (Lv. 10)" tooltipDescription="Increases physical and magic piercing by 4.8%" />
+	<key id="110002001" level="1" name="Movement Speed Up" tooltipDescription="Increases movement speed by 5% while in a party with club members. Disabled in battlegrounds and the arena." feature="Club" />
+	<key id="110002002" level="1" name="Fishing Experience Up" tooltipDescription="Increases fishing experience gained by 3% while in a party with club members." feature="Club" />
+	<key id="110002003" level="1" name="Performance Experience Up" tooltipDescription="Increases performance experience gained by 3% while in a party with club members." feature="Club" />
 	<key id="120010001" level="1" name="Celine&apos;s Heart" tooltipDescription="Unable to act." feature="Lapenshard01" />
-	<key id="100000056" level="1" name="KORADDITIONALDESCRIPTION_100000056_1_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000056_1_TOOLTIPDESCRIPTION" />
-	<key id="100000056" level="2" name="KORADDITIONALDESCRIPTION_100000056_2_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000056_2_TOOLTIPDESCRIPTION" />
-	<key id="100000056" level="3" name="KORADDITIONALDESCRIPTION_100000056_3_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000056_3_TOOLTIPDESCRIPTION" />
-	<key id="100000056" level="4" name="KORADDITIONALDESCRIPTION_100000056_4_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000056_4_TOOLTIPDESCRIPTION" />
-	<key id="100000056" level="5" name="KORADDITIONALDESCRIPTION_100000056_5_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000056_5_TOOLTIPDESCRIPTION" />
-	<key id="100000057" level="1" name="KORADDITIONALDESCRIPTION_100000057_1_NAME:[F]ItemSocketSystem" tooltipDescription="KORADDITIONALDESCRIPTION_100000057_1_TOOLTIPDESCRIPTION:[F]ItemSocketSystem" feature="ItemSocketSystem" />
-	<key id="100000057" level="2" name="KORADDITIONALDESCRIPTION_100000057_2_NAME:[F]ItemSocketSystem" tooltipDescription="KORADDITIONALDESCRIPTION_100000057_2_TOOLTIPDESCRIPTION:[F]ItemSocketSystem" feature="ItemSocketSystem" />
-	<key id="100000057" level="3" name="KORADDITIONALDESCRIPTION_100000057_3_NAME:[F]ItemSocketSystem" tooltipDescription="KORADDITIONALDESCRIPTION_100000057_3_TOOLTIPDESCRIPTION:[F]ItemSocketSystem" feature="ItemSocketSystem" />
-	<key id="100000057" level="4" name="KORADDITIONALDESCRIPTION_100000057_4_NAME:[F]ItemSocketSystem" tooltipDescription="KORADDITIONALDESCRIPTION_100000057_4_TOOLTIPDESCRIPTION:[F]ItemSocketSystem" feature="ItemSocketSystem" />
-	<key id="100000058" level="1" name="KORADDITIONALDESCRIPTION_100000058_1_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000058_1_TOOLTIPDESCRIPTION" />
-	<key id="100000058" level="2" name="KORADDITIONALDESCRIPTION_100000058_2_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000058_2_TOOLTIPDESCRIPTION" />
-	<key id="100000058" level="3" name="KORADDITIONALDESCRIPTION_100000058_3_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000058_3_TOOLTIPDESCRIPTION" />
-	<key id="100000059" level="1" name="KORADDITIONALDESCRIPTION_100000059_1_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000059_1_TOOLTIPDESCRIPTION" />
-	<key id="100000059" level="2" name="KORADDITIONALDESCRIPTION_100000059_2_NAME" tooltipDescription="KORADDITIONALDESCRIPTION_100000059_2_TOOLTIPDESCRIPTION" />
-	<key id="100000060" level="1" name="KORADDITIONALDESCRIPTION_100000060_1_NAME:[F]ItemSocketSystem" tooltipDescription="KORADDITIONALDESCRIPTION_100000060_1_TOOLTIPDESCRIPTION:[F]ItemSocketSystem" feature="ItemSocketSystem" />
 	<key id="120010002" level="1" name="Pride Bolt" tooltipDescription="158% damage per second." feature="Lapenshard01" />
 	<key id="120010002" level="2" name="Pride Bolt" tooltipDescription="171% damage per second." feature="Lapenshard01" />
 	<key id="120010002" level="3" name="Pride Bolt" tooltipDescription="184% damage per second." feature="Lapenshard01" />

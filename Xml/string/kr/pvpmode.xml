@@ -1,32 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
-	<PVPMessage key="DualWin1" msg="s_dualwin1" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin2" msg="s_dualwin2" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin3" msg="s_dualwin3" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin4" msg="s_dualwin4" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin5" msg="s_dualwin5" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin6" msg="s_dualwin6" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin7" msg="s_dualwin7" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin8" msg="s_dualwin8" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualWin9" msg="s_dualwin9" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="DualPreparePlayer" msg="s_dualprepareplayer" sound="" isWorldMessage="false" />
-	<PVPMessage key="DualStartCombat" msg="s_dualstartcombat" sound="" isWorldMessage="false" />
-	<PVPMessage key="DualWinnerMessage" msg="s_dualwinnermessage" sound="" isWorldMessage="false" />
-	<PVPMessage key="DualLoserMessage" msg="s_duallosermessage" sound="" isWorldMessage="false" />
-	<PVPMessage key="FreeForAllWin" msg="s_freeforallwin" sound="BattleField_NoticeWinner" isWorldMessage="false" />
-	<PVPMessage key="GuildDualPrepare" msg="s_guilddualprepare" sound="" isWorldMessage="false" />
-	<PVPMessage key="GuildDualStartCombat" msg="s_guilddualstartcombat" sound="trade_lock" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyCombat" msg="s_guildteamnotifycombat" sound="" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyLastCombat" msg="s_guildteamnotifylastcombat" sound="" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyGameStart" msg="s_guildteamnotifygamestart" sound="system_notice_GuildBattleGuide01" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyGameStartDetail1" msg="s_guildteamnotifygamestartdetail1" sound="" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyGameStartDetail2" msg="s_guildteamnotifygamestartdetail2" sound="" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyGameStartDetail3" msg="s_guildteamnotifygamestartdetail3" sound="system_notice_GuildBattleGuide02" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyPreparePlayer" msg="s_guildteamnotifyprepareplayer" sound="system_notice_GuildBattleGuide03" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamNotifyPrepareArena" msg="s_guildteamnotifypreparearena" sound="system_notice_GuildBattleGuide04" isWorldMessage="false" />
-	<PVPMessage key="GuildTeamStartCombat" msg="s_guildteamstartcombat" sound="" isWorldMessage="false" />
-	<PVPMessage key="TeamNotifyGameDetail1" msg="s_teamnotifygamedetail1" sound="" isWorldMessage="false" />
-	<PVPMessage key="TeamNotifyGameDetail2" msg="s_teamnotifygamedetail2" sound="" isWorldMessage="false" />
-	<PVPMessage key="TeamNotifyGameDetail3" msg="s_teamnotifygamedetail3" sound="" isWorldMessage="false" />
-	<PVPMessage key="TeamPrepare" msg="s_teamprepare" sound="" isWorldMessage="false" />
+	<PVPMessage key="DualWin1" msg="s_dualwin1" sound="trade_lock" />
+	<PVPMessage key="DualWin2" msg="s_dualwin2" sound="trade_lock" />
+	<PVPMessage key="DualWin3" msg="s_dualwin3" sound="trade_lock" />
+	<PVPMessage key="DualWin4" msg="s_dualwin4" sound="trade_lock" />
+	<PVPMessage key="DualWin5" msg="s_dualwin5" sound="trade_lock" />
+	<PVPMessage key="DualWin6" msg="s_dualwin6" sound="trade_lock" />
+	<PVPMessage key="DualWin7" msg="s_dualwin7" sound="trade_lock" />
+	<PVPMessage key="DualWin8" msg="s_dualwin8" sound="trade_lock" />
+	<PVPMessage key="DualWin9" msg="s_dualwin9" sound="trade_lock" />
+	<PVPMessage key="DualPreparePlayer" msg="s_dualprepareplayer" sound="" />
+	<PVPMessage key="DualStartCombat" msg="s_dualstartcombat" sound="" />
+	<PVPMessage key="DualWinnerMessage" msg="s_dualwinnermessage" sound="" />
+	<PVPMessage key="DualLoserMessage" msg="s_duallosermessage" sound="" />
+	<PVPMessage key="FreeForAllWin" msg="s_freeforallwin" sound="BattleField_NoticeWinner" />
+	<PVPMessage key="OnePunchWin" msg="s_onepunchwin" sound="BattleField_NoticeWinner" />
+	<PVPMessage key="GuildDualPrepare" msg="s_guilddualprepare" sound="" />
+	<PVPMessage key="GuildDualStartCombat" msg="s_guilddualstartcombat" sound="trade_lock" />
+	<PVPMessage key="GuildTeamNotifyCombat" msg="s_guildteamnotifycombat" sound="" />
+	<PVPMessage key="GuildTeamNotifyLastCombat" msg="s_guildteamnotifylastcombat" sound="" />
+	<PVPMessage key="GuildTeamNotifyGameStart" msg="s_guildteamnotifygamestart" sound="system_notice_GuildBattleGuide01" />
+	<PVPMessage key="GuildTeamNotifyGameStartDetail1" msg="s_guildteamnotifygamestartdetail1" sound="" />
+	<PVPMessage key="GuildTeamNotifyGameStartDetail2" msg="s_guildteamnotifygamestartdetail2" sound="" />
+	<PVPMessage key="GuildTeamNotifyGameStartDetail3" msg="s_guildteamnotifygamestartdetail3" sound="system_notice_GuildBattleGuide02" />
+	<PVPMessage key="GuildTeamNotifyPreparePlayer" msg="s_guildteamnotifyprepareplayer" sound="system_notice_GuildBattleGuide03" />
+	<PVPMessage key="GuildTeamNotifyPrepareArena" msg="s_guildteamnotifypreparearena" sound="system_notice_GuildBattleGuide04" />
+	<PVPMessage key="GuildTeamStartCombat" msg="s_guildteamstartcombat" sound="" />
+	<PVPMessage key="TeamNotifyGameDetail1" msg="s_teamnotifygamedetail1" sound="" />
+	<PVPMessage key="TeamNotifyGameDetail2" msg="s_teamnotifygamedetail2" sound="" />
+	<PVPMessage key="TeamNotifyGameDetail3" msg="s_teamnotifygamedetail3" sound="" />
+	<PVPMessage key="TeamPrepare" msg="s_teamprepare" sound="" />
 </ms2>
