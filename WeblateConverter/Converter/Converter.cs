@@ -1203,14 +1203,14 @@ public class Converter {
         var groups = new Dictionary<string, List<string>>();
         foreach (JProperty prop in jsonObject.Properties()) {
             var (primary, secondary, feature, locale) = ParseCombinedKey(prop.Name, fileName);
+            // Only integer-keyed tables collide on leading zeros. If ANY id is non-numeric the
+            // file is string-keyed (e.g. stringtrigger, where "0123" and "123" are distinct keys),
+            // so leave the whole file alone.
             if (!long.TryParse(primary, out long numericPrimary)) {
-                continue;
+                return new HashSet<string>();
             }
-            string normalizedSecondary = "";
-            if (!string.IsNullOrEmpty(secondary)) {
-                if (!long.TryParse(secondary, out long numericSecondary)) {
-                    continue;
-                }
+            string normalizedSecondary = secondary;
+            if (!string.IsNullOrEmpty(secondary) && long.TryParse(secondary, out long numericSecondary)) {
                 normalizedSecondary = numericSecondary.ToString();
             }
 
