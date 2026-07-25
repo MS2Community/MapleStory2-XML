@@ -1195,26 +1195,34 @@ public class Converter {
         return files;
     }
 
-    // The client parses string-table ids as integers, so keys that differ only by leading zeros
-    // (e.g. "2040998" vs "02040998") collide to the same entry and the last one loaded wins.
-    // Returns the keys to drop, keeping the zero-padded canonical form (longest key string) — which
-    // matches the source of truth / KMS convention — so the intended entry is the one that survives.
+    // Files CONFIRMED (in the client binary) to look up their table by integer id, so keys that
+    // differ only by leading zeros ("2040998" vs "02040998") collide to one entry. Only these are
+    // deduped. Do NOT add a file here without verifying it: many all-numeric tables are actually
+    // string-keyed (e.g. scriptquest, whose 16-20 digit ids overflow an int and whose "0123"/"123"
+    // are DISTINCT quest lines), and deduping those would drop real, distinct strings.
+    private static readonly HashSet<string> IntegerKeyedFiles = new(StringComparer.OrdinalIgnoreCase) {
+        "npcname.json", "npcnameplural.json"
+    };
+
+    // Returns the keys to drop for a confirmed integer-keyed file, keeping the zero-padded canonical
+    // form (longest key string, which matches the source of truth) so the intended entry survives.
     private HashSet<string> CollectNumericCollisionKeysToDrop(JObject jsonObject, string fileName) {
+        if (!IntegerKeyedFiles.Contains(fileName)) {
+            return new HashSet<string>();
+        }
+
         var groups = new Dictionary<string, List<string>>();
         foreach (JProperty prop in jsonObject.Properties()) {
             var (primary, secondary, feature, locale) = ParseCombinedKey(prop.Name, fileName);
-            if (!long.TryParse(primary, out long numericPrimary)) {
+            if (!primary.All(char.IsDigit)) {
                 continue;
             }
-            string normalizedSecondary = "";
-            if (!string.IsNullOrEmpty(secondary)) {
-                if (!long.TryParse(secondary, out long numericSecondary)) {
-                    continue;
-                }
-                normalizedSecondary = numericSecondary.ToString();
+            string normalizedSecondary = secondary;
+            if (!string.IsNullOrEmpty(secondary) && secondary.All(char.IsDigit)) {
+                normalizedSecondary = secondary.TrimStart('0');
             }
 
-            string identity = $"{numericPrimary}|{normalizedSecondary}|{feature}|{locale}";
+            string identity = $"{primary.TrimStart('0')}|{normalizedSecondary}|{feature}|{locale}";
             if (!groups.TryGetValue(identity, out List<string>? list)) {
                 list = new List<string>();
                 groups[identity] = list;
