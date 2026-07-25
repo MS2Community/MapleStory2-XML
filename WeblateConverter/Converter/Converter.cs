@@ -181,6 +181,13 @@ public class Converter {
                 }
             }
 
+            // 1b. Numeric id collisions — keys differing only by leading zeros collide in-game;
+            //     the converter drops the non-canonical ones, but surface them as a data warning.
+            HashSet<string> collisions = CollectNumericCollisionKeysToDrop(json, jsonFile.Name);
+            if (collisions.Count > 0) {
+                Console.WriteLine($"  [DATA]   {jsonFile.Name}: {collisions.Count} leading-zero id collision(s) dropped (keeping the padded form)");
+            }
+
             // 2. Structural comparison against the source XML (skip fan-out/synthetic files
             //    and empty translation files, which have nothing to compare).
             if (SplitOrCombinedJson.Contains(jsonFile.Name) || json.Count == 0) {
@@ -1188,8 +1195,55 @@ public class Converter {
         return files;
     }
 
+    // The client parses string-table ids as integers, so keys that differ only by leading zeros
+    // (e.g. "2040998" vs "02040998") collide to the same entry and the last one loaded wins.
+    // Returns the keys to drop, keeping the zero-padded canonical form (longest key string) — which
+    // matches the source of truth / KMS convention — so the intended entry is the one that survives.
+    private HashSet<string> CollectNumericCollisionKeysToDrop(JObject jsonObject, string fileName) {
+        var groups = new Dictionary<string, List<string>>();
+        foreach (JProperty prop in jsonObject.Properties()) {
+            var (primary, secondary, feature, locale) = ParseCombinedKey(prop.Name, fileName);
+            if (!long.TryParse(primary, out long numericPrimary)) {
+                continue;
+            }
+            string normalizedSecondary = "";
+            if (!string.IsNullOrEmpty(secondary)) {
+                if (!long.TryParse(secondary, out long numericSecondary)) {
+                    continue;
+                }
+                normalizedSecondary = numericSecondary.ToString();
+            }
+
+            string identity = $"{numericPrimary}|{normalizedSecondary}|{feature}|{locale}";
+            if (!groups.TryGetValue(identity, out List<string>? list)) {
+                list = new List<string>();
+                groups[identity] = list;
+            }
+            list.Add(prop.Name);
+        }
+
+        var drop = new HashSet<string>();
+        foreach (List<string> collision in groups.Values) {
+            if (collision.Count < 2) {
+                continue;
+            }
+            // Keep the longest key string (most zero-padding = canonical); drop the rest.
+            string keep = collision.OrderByDescending(k => k.Length).ThenBy(k => k, StringComparer.Ordinal).First();
+            foreach (string key in collision) {
+                if (key != keep) {
+                    drop.Add(key);
+                }
+            }
+        }
+        return drop;
+    }
+
     private string ConvertJsonToXml(string jsonContent, string fileName) {
         JObject jsonObject = JObject.Parse(jsonContent);
+
+        // Drop keys that collide with another under the client's integer id parsing (leading-zero
+        // variants like "2040998" vs "02040998") so only the canonical padded entry is emitted.
+        HashSet<string> collisionDrops = CollectNumericCollisionKeysToDrop(jsonObject, fileName);
 
         var xmlDoc = new XmlDocument();
 
@@ -1204,6 +1258,9 @@ public class Converter {
 
         foreach (JProperty property in OrderJsonProperties(jsonObject, fileName)) {
             string combinedKey = property.Name;
+            if (collisionDrops.Contains(combinedKey)) {
+                continue;
+            }
             JToken? value = property.Value;
 
             // Parse the combined key to extract primary key, secondary key, feature, and locale

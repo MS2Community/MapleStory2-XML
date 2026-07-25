@@ -25,9 +25,7 @@
 	<key id="0102150812003005" npc="PC" name="……" feature="Timaion01" />
 	<key id="0102150812003006" npc="미카엘" name="&lt;font color=&quot;#909090&quot;&gt;（越想越觉得有意思。要不再观察一阵子？）&lt;/font&gt;" feature="Timaion01" />
 	<key id="0102162112002202" npc="pc" name="说不知道怎么制作。" />
-	<key id="102162112002202" name="他说他不知道该怎么做。" npc="电脑" />
 	<key id="0102162112002203" npc="민트" name="啊……是吗？&#xA;如果你还没制作过$item:33000063$……就先尝试一下吧。&#xA;只要能熟练制作$item:33000063$，制作&lt;font color=&quot;#ffd200&quot;&gt;$item:33000064$&lt;/font&gt;应该也就没什么问题了。" />
-	<key id="102162112002203" npc="米特" name="啊…是吗？  &#xA;如果你还没有制作过$item:33000063$的话…那就先试着制作那个吧。  &#xA;熟悉$item:33000063$的制作后，制作&lt;font color=&quot;#ffd200&quot;&gt;$item:33000064$&lt;/font&gt;也会变得不难。" />
 	<key id="0102171112003015" npc="틱토그" name="想打听什么，尽管问！&#xA;我都告诉你！" feature="Timaion01" />
 	<key id="0102171112003016" npc="pc" name="打听含有异常力量的碎片。" feature="Timaion01" />
 	<key id="0102171112003017" npc="pc" name="问它为什么被打坏丢弃了。" feature="Timaion01" />
@@ -91,33 +89,19 @@
 	<key id="0103091012003073" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;（居然不吃这套……。）&lt;/font&gt;" feature="Timaion01" />
 	<key id="0103092312003074" npc="미카엘" name="哎呀……，瞧我这嘴，一不小心差点儿伤到你的自尊了。" feature="Timaion01" />
 	<key id="0104185521028654" npc="메이슨" name="居然被外貌蒙骗，换做是我，绝不会发生这种事情。" feature="Kritias_2018_12" />
-	<key id="104185521028654" npc="梅森" name="我永远不会被外表所欺骗。" feature="Kritias_2018_12" />
 	<key id="0104185521028655" npc="PC" name="啊啊……。" feature="Kritias_2018_12" />
-	<key id="104185521028655" npc="NPC" name="啊啊……" feature="Kritias_2018_12" />
 	<key id="0104185521028656" npc="메이슨" name="首先得避免队员们反复受伤，你去&lt;font color=&quot;#ffd200&quot;&gt;$map:02020029$&lt;/font&gt;把他们狠狠教训一下吧！" feature="Kritias_2018_12" />
-	<key id="104185521028656" npc="梅森" name="首先，为了避免队员们反复受伤，请您前往&lt;font color=&quot;#ffd200&quot;&gt;$map:02020029$&lt;/font&gt;$pp2:，好好教训他们一下吗？" feature="Kritias_2018_12" />
 	<key id="0104185521028657" npc="PC" name="怎么亲自……？" feature="Kritias_2018_12" />
-	<key id="104185521028657" npc="NPC" name="为什么直接…？" feature="Kritias_2018_12" />
 	<key id="0104185521028658" npc="메이슨" name="呼……又得我亲口说吗？" feature="Kritias_2018_12" />
-	<key id="104185521028658" npc="梅森" name="呼……我还需要再说一遍吗？" feature="Kritias_2018_12" />
 	<key id="0104185521028660" npc="PC" name="（估计队员们有一阵子不会靠近&lt;font color=&quot;#ffd200&quot;&gt;$npcName:25020005$&lt;/font&gt;了。）" feature="Kritias_2018_12" />
-	<key id="104185521028660" npc="NPC" name="（有一段时间，特工们说他们可能永远不会接近&lt;font color=&quot;#ffd200&quot;&gt; $npcName:25020005$ &lt;/font&gt; ）" feature="Kritias_2018_12" />
 	<key id="0104185521028661" npc="메이슨" name="那就好。&#xA;我也会再次提醒队员们多注意的。" feature="Kritias_2018_12" />
-	<key id="104185521028661" npc="梅森" name="真是太好了。我也会再一次提醒队员们。" feature="Kritias_2018_12" />
 	<key id="0104192919010134" npc="블리체" name="$MyPCName$队员，在&lt;font color=&quot;#ffd200&quot;&gt;$map:02020041$&lt;/font&gt;这个地方是第一次呢。" feature="Kritias_2018_12" />
-	<key id="104192919010134" npc="布里切" name="$MyPCName$ 成员。&#xA;这是我第一次来这里， &lt;font color=&quot;#ffd200&quot;&gt; $map:02020041$ &lt;/font&gt;" feature="Kritias_2018_12" />
 	<key id="0104192919010135" npc="PC" name="（询问是否为$map:02020041$这个地方的名字。）" feature="Kritias_2018_12" />
-	<key id="104192919010135" npc="PC" name="($map:02020041$?询问这是否是该地区的名称。)" feature="Kritias_2018_12" />
 	<key id="0104192919010136" npc="블리체" name="对，为了探索&lt;font color=&quot;#ffd200&quot;&gt;未知的大陆——克里蒂亚斯&lt;/font&gt;，我们认为需要一个据点。&#xA;问了格奥克，给我们推荐了这里。" feature="Kritias_2018_12" />
-	<key id="104192919010136" name="正确的。&#xA;我们&lt;font color=&quot;#ffd200&quot;&gt;决定需要一个定居点来探索未知的克里底亚大陆&lt;/font&gt;&#xA;我问了乔治，他推荐了这个地方。" npc="布里切" feature="Kritias_2018_12" />
 	<key id="0104192919010137" npc="블리체" name="平安的到达克里蒂亚斯，找到了定居的地方，同时我们也在寻找可以帮忙的人。&#xA;这一切都要感谢你，$MyPCName$。" feature="Kritias_2018_12" />
-	<key id="104192919010137" npc="布里切" name="我们安全抵达克里蒂亚斯，找到了定居点，并找到了帮手来帮助我们。&#xA;这一切都要感谢你，$MyPCName$。" feature="Kritias_2018_12" />
 	<key id="0104192919010138" npc="PC" name="（说只是做了应该做的事）" feature="Kritias_2018_12" />
-	<key id="104192919010138" npc="PC" name="（他说他只是做了他必须做的事。）" feature="Kritias_2018_12" />
 	<key id="0104192919010139" npc="블리체" name="是吗？那么我立刻安排下个任务吧。" feature="Kritias_2018_12" />
-	<key id="104192919010139" npc="布里切" name="是吗？那么我可以直接给你下一个任务了。" feature="Kritias_2018_12" />
 	<key id="0104192919010140" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;（快点！）&lt;/font&gt;" feature="Kritias_2018_12" />
-	<key id="104192919010140" npc="PC" feature="Kritias_2018_12" />
 	<key id="0104192919010141" npc="블리체" name="你去&lt;font color=&quot;#ffd200&quot;&gt;$map:02020029$&lt;/font&gt;调查魔焰之翼军团的动态。" feature="Kritias_2018_12" />
 	<key id="0104192919010142" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;（魔焰之翼军团的踪迹……怎么才能找到呢?）&lt;/font&gt;" feature="Kritias_2018_12" />
 	<key id="0104192919010143" npc="PC" name="&lt;font color=&quot;#909090&quot;&gt;（这里很宽广，恐怕会有不明生物……）&lt;/font&gt;" feature="Kritias_2018_12" />
