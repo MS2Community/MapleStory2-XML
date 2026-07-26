@@ -39,6 +39,7 @@
 	<key id="40600010" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="PirateOcean" />
 	<key id="40600013" level="1" name="Asleep" tooltipDescription="Unable to act while sleeping." feature="PirateOcean" />
 	<key id="40600014" level="1" name="Confused" tooltipDescription="Dazed. May attack allies. Physical and magic attack reduced." feature="PirateOcean" />
+	<key id="40600024" level="1" name="Stunned" tooltipDescription="Stunned briefly by the impact of a powerful land mine." feature="Kritias_Turka02" />
 	<key id="40600045" level="1" name="Defense Bonus" tooltipDescription="Protected by a shield. Defense drastically increased." feature="PirateOcean" />
 	<key id="40600101" level="1" name="Enraged" tooltipDescription="Enraged. Damage taken is reduced by 50%, and attack speed is increased." feature="Season1" />
 	<key id="42030101" level="1" name="Slow" tooltipDescription="Reduces movement speed." feature="Fieldwar01" />
@@ -143,6 +144,9 @@
 	<key id="49289062" level="1" name="Speed Reduction" tooltipDescription="Movement speed has been reduced." feature="Colosseum01" />
 	<key id="49289063" level="1" name="Extreme Concentration" tooltipDescription="Defense is significantly increased with extreme concentration." feature="Colosseum01" />
 	<key id="49289064" level="1" name="Extreme Concentration" tooltipDescription="Bolsters your defense for several seconds through careful concentration." feature="Colosseum01" />
+	<key id="49289071" level="1" name="Empowered" tooltipDescription="Holstatt&apos;s abilities increase while inside the electric wave." feature="Colosseum02" />
+	<key id="49289072" level="1" name="Slowed" tooltipDescription="You touched the electric wave. Movement speed is greatly reduced." feature="Colosseum02" />
+	<key id="49289094" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="Colosseum02" />
 	<key id="49907031" level="1" name="Bleeding" tooltipDescription="Bleeding from a powerful attack. Decreases health by 3% every second." />
 	<key id="49908001" level="1" name="Speed Down" tooltipDescription="Decreases movement speed and attack speed by 20%. Stacks up to 2 times." />
 	<key id="49908211" level="1" name="Confusion" tooltipDescription="Confused! Inverts up and down, left and right." />
@@ -188,14 +192,17 @@
 	<key id="50000024" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="50000024" level="2" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="50000025" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
+	<key id="50000026" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="Kritias_Turka03" />
 	<key id="50000030" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="50000046" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="50000052" level="1" name="Movement Speed Down" tooltipDescription="Decreases movement speed." />
 	<key id="50000060" level="1" name="Griffin&apos;s Curse" tooltipDescription="Cursed by Griffin! Decreases physical attack and magic attack by 25%. Decreases movement speed by 30%." />
 	<key id="50000060" level="2" name="Griffina&apos;s Curse" tooltipDescription="Cursed by Griffina! Decreases physical attack and magic attack by 25%. Decreases movement speed by 30%." />
 	<key id="50000060" level="3" name="Horus&apos;s Curse" tooltipDescription="Cursed by Horus! Decreases physical attack and magic attack by 25%. Decreases movement speed by 30%." />
+	<key id="50000061" level="1" name="Movement Speed Reduced" tooltipDescription="Movement speed is reduced." feature="DungeonOpen70CH5" />
 	<key id="50000080" level="1" name="Burning" tooltipDescription="Inflicts continuous fire damage." />
 	<key id="50000081" level="1" name="Burning" tooltipDescription="Inflicts continuous fire damage." />
+	<key id="50000081" level="2" name="Burn" tooltipDescription="Continuously takes fire damage." feature="DungeonOpen70AH3" />
 	<key id="50000082" level="1" name="Shadow Burn" tooltipDescription="Inflicts continuous fire damage. Decreases max spirit by 50%." />
 	<key id="50000083" level="1" name="Burning" tooltipDescription="Inflicts continuous fire damage. Stacks up to 10 times. The damage increases with each stack." />
 	<key id="50000084" level="1" name="Burning" tooltipDescription="Inflicts continuous fire damage. Stacks up to 5 times. The damage increases with each stack." />
@@ -203,6 +210,7 @@
 	<key id="50000086" level="1" name="Burning" tooltipDescription="Inflicts continuous fire damage. Removes ice shield." />
 	<key id="50000087" level="1" name="Shadow Burn" tooltipDescription="Inflicts continuous fire damage. Decreases accuracy by 18%. Stacks up to 5 times." />
 	<key id="50000088" level="1" name="Burning" tooltipDescription="Inflicts continuous fire damage. Stacks up to 7 times. The damage increases with each stack." />
+	<key id="50000089" level="1" name="Turka&apos;s Threat" tooltipDescription="Continuously takes curse damage.&#xA;Takes damage while near Turka." feature="Kritias_Turka03" />
 	<key id="50000100" level="1" name="Deep Cuts" tooltipDescription="Inflicts continuous physical damage." />
 	<key id="50000101" level="1" name="Deep Cuts" tooltipDescription="Inflicts continuous physical damage." />
 	<key id="50000102" level="1" name="Deep Wounds" tooltipDescription="Inflicts continuous physical damage. Stacks up to 5 times" />
@@ -238,7 +246,11 @@
 	<key id="50000152" level="1" name="Attack Down" tooltipDescription="Decreases attack by 20%. Stacks up to 5 times." />
 	<key id="50000153" level="1" name="Attack Down" tooltipDescription="Reduces attack by 10%. Stacks up to 5 times." />
 	<key id="50000154" level="1" name="Attack Down" tooltipDescription="Reduces attack by 20%. Stacks up to 3 times." feature="LapentaDungeon" />
+	<key id="50000155" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 99%." feature="Kritias_Turka03" />
+	<key id="50000156" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 33%.&#xA;Stacks up to 3 times." feature="Kritias_Turka03" />
+	<key id="50000157" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 99%." feature="DungeonOpen70CH5" />
 	<key id="50000158" level="1" name="Movement Speed Down" tooltipDescription="Decreases movement speed by 30%." />
+	<key id="50000159" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 20%.&#xA;Stacks up to 5 times." feature="DungeonOpen70CH5" />
 	<key id="50000170" level="1" name="Water Prison" tooltipDescription="Trapped and unable to move." />
 	<key id="50000171" level="1" name="Water Prison" tooltipDescription="Trapped and unable to move." />
 	<key id="50000172" level="1" name="Water Prison" tooltipDescription="Trapped and unable to move." />
@@ -355,6 +367,8 @@
 	<key id="50000344" level="2" name="Defense Up" tooltipDescription="Decreases damage taken by 80%." />
 	<key id="50000345" level="1" name="Defense Up" tooltipDescription="Increases defense by 100%." />
 	<key id="50000346" level="1" name="Defense Up" tooltipDescription="Increases defense by 50%. Affected by Ishura&apos;s Shadow." feature="LapentaDungeon" />
+	<key id="50000348" level="1" name="Defense Increased" tooltipDescription="Defense increases by 18%.&#xA;Stacks up to 5 times." feature="Kritias_Turka03" />
+	<key id="50000348" level="2" name="Defense Increased" tooltipDescription="Defense increases by 18%.&#xA;Stacks up to 5 times." feature="Kritias_Turka03" />
 	<key id="50000349" level="1" name="Defense Up" tooltipDescription="Reduces damage taken by 80%." />
 	<key id="50000350" level="1" name="Health Regen" tooltipDescription="Continuously regenerates health." />
 	<key id="50000351" level="1" name="Health Regen" tooltipDescription="Continuously regenerates health." />
@@ -374,6 +388,8 @@
 	<key id="50000367" level="1" name="Health Regen" tooltipDescription="Regenerates health over time. Restores up to 75% health. Invincible." feature="LapentaDungeon" />
 	<key id="50000368" level="1" name="Health Regen" tooltipDescription="Regenerates health over time. Affected by Eupheria." feature="LapentaDungeon" />
 	<key id="50000369" level="1" name="Health Regen" tooltipDescription="Regenerates health over time. Affected by Eupheria." feature="LapentaDungeon" />
+	<key id="50000370" level="1" name="Physical Defense Increased" tooltipDescription="Physical defense increases by 80%." feature="Kritias_Turka03" />
+	<key id="50000371" level="1" name="Magic Defense Increased" tooltipDescription="Magic defense increases by 80%." feature="Kritias_Turka03" />
 	<key id="50000402" level="1" name="Decreases movement speed." tooltipDescription="Decreases movement speed by 30%." />
 	<key id="50000403" level="1" name="Attack Down" tooltipDescription="Decreases physical attack and magic attack by 60%." />
 	<key id="50000404" level="1" name="Fatal Wound" tooltipDescription="Inflicts continuous physical damage." />
@@ -409,6 +425,7 @@
 	<key id="50000510" level="1" name="Spirit Seal" tooltipDescription="Unable to use spirit." />
 	<key id="50000511" level="1" name="Health Down" tooltipDescription="Increases spirit cost by 80%." />
 	<key id="50000512" level="1" name="Spirit Seal" tooltipDescription="Unable to use spirit." />
+	<key id="50000513" level="1" name="SP Sealed" tooltipDescription="Unable to use SP." feature="DungeonOpen70CH5" />
 	<key id="50000550" level="1" name="Shining Blessing" tooltipDescription="Boosts morale! Periodically restores vitality. Decreases spirit costs by 50%." />
 	<key id="50000550" level="2" name="Shining Blessing" tooltipDescription="Boosts morale! Periodically restores vitality. Decreases spirit costs by 50%." />
 	<key id="50000552" level="1" name="Shining Blessing" tooltipDescription="Boosts morale! Periodically restores vitality. Decreases spirit costs by 50%." />
@@ -437,6 +454,7 @@
 	<key id="50000915" level="1" name="Dance" tooltipDescription="Forced to dance! Unable to do anything else." />
 	<key id="50000916" level="1" name="Dance" tooltipDescription="Forced to dance! Unable to do anything else." />
 	<key id="50000916" level="2" name="Dance" tooltipDescription="Forced to dance! Unable to do anything else." />
+	<key id="50000917" level="1" name="Black Bean&apos;s Curse Bomb" tooltipDescription="Continuously takes curse damage.&#xA;Inflicts curse damage on nearby allies." feature="DungeonOpen70CH5" />
 	<key id="50000930" level="1" name="Shadow Toxin" tooltipDescription="Inflicts continuous poison damage." />
 	<key id="50000931" level="1" name="Black Shadow Curse" tooltipDescription="Inflicts continuous poison damage." />
 	<key id="50000951" level="1" name="Fiery Protection" tooltipDescription="Non-stop explosions of flame! Melts allies trapped in ice. Cling to the boss to attack." />
@@ -507,6 +525,7 @@
 	<key id="50001506" level="1" name="Defense Up" tooltipDescription="Decreases damage taken by 99%." />
 	<key id="50001550" level="1" name="Pint-sized" tooltipDescription="Reduces body size by 50%. Decreases physical attack and magic attack by 80%. Decreases defense by 50%." />
 	<key id="50001553" level="1" name="Pint-Sized" tooltipDescription="Reduces body size by 50%. Decreases physical attack and magic attack by 80%. Decreases defense by 50%." feature="LapentaDungeon" />
+	<key id="50001555" level="1" name="Absorbed" tooltipDescription="Unable to act after being sucked into the vacuum cleaner." feature="DungeonOpen70CH5" />
 	<key id="50001650" level="1" name="Accuracy Down" tooltipDescription="Decreases accuracy by 60%." />
 	<key id="50001651" level="1" name="Accuracy Down" tooltipDescription="Decreases accuracy by 75%." />
 	<key id="50001652" level="1" name="Accuracy Down" tooltipDescription="Decreases accuracy by 30%. Stacks up to 3 times." />
@@ -516,6 +535,11 @@
 	<key id="50001655" level="1" name="Accuracy Down" tooltipDescription="Reduces accuracy by 85%." feature="LapentaDungeon" />
 	<key id="50001656" level="1" name="Accuracy Down" tooltipDescription="Reduces accuracy by 70%." feature="CrimsonBalrog01" />
 	<key id="50001657" level="1" name="Accuracy Down" tooltipDescription="Reduces accuracy by 25%. Stacks up to 3 times." feature="Kritias_Inferno01" />
+	<key id="50001658" level="1" name="Reception Dance" tooltipDescription="Forced to dance and unable to act." feature="Wedding" />
+	<key id="50001659" level="1" name="Reception Dance" tooltipDescription="Forced to dance and unable to act." feature="Wedding" />
+	<key id="50001660" level="1" name="Reception Dance" tooltipDescription="Forced to dance and unable to act." feature="Wedding" />
+	<key id="50001661" level="1" name="Miniaturized" tooltipDescription="Body size is reduced by 50%." feature="Wedding" />
+	<key id="50001662" level="1" name="Accuracy Reduced" tooltipDescription="Accuracy is reduced by 90%." feature="DungeonOpen70CH5" />
 	<key id="50002000" level="1" name="Health Down" tooltipDescription="Decreases max health by 10%. Stacks up to 5 times." />
 	<key id="50002100" level="1" name="Silence" tooltipDescription="Unable to use skills. Normal attacks can still be used." />
 	<key id="50002101" level="1" name="Confusion" tooltipDescription="The laws of physics grow muddled in your head. Inverses up and down, left and right." />
@@ -578,14 +602,19 @@
 	<key id="50003130" level="1" name="Explosive Count Down" tooltipDescription="After a short delay, an explosion decreases health by half." feature="LapentaDungeon" />
 	<key id="50003132" level="1" name="Explosive Count Down" tooltipDescription="Stunning explosion is imminent." feature="Fieldwar01" />
 	<key id="50003133" level="1" name="Pre-Cursed Explosion" tooltipDescription="Creates a cursed area when you stand still." feature="Kritias_Inferno01" />
+	<key id="50003134" level="1" name="About to Explode" tooltipDescription="Explodes after a few seconds, reducing HP by half." feature="Kritias_Turka03" />
 	<key id="50003135" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="50003300" level="1" name="Attack Reflection" tooltipDescription="Reflects damage to attackers. Increases defense by 99%. Disappears when all statues have been destroyed." />
 	<key id="50003300" level="2" name="Attack Reflection" tooltipDescription="Reflects damage to attackers. Increases defense by 99%. Effect granted by the Ariel statue." />
 	<key id="50003302" level="1" name="Attack Reflection" tooltipDescription="Reflects damage to attackers. Increases defense by 99%." />
+	<key id="50003307" level="1" tooltipDescription="Deals damage to attackers.&#xA;Defense increases by 99%.&#xA;Effect granted by Mini Black Bean." name="Attack Reflection" feature="DungeonOpen70CH5" />
+	<key id="50003307" level="2" name="Attack Reflection" tooltipDescription="Deals damage to attackers.&#xA;Defense increases by 99%.&#xA;Disappears when the accompanying enemies are defeated." feature="DungeonOpen70CH5" />
 	<key id="50004401" level="2" name="Aftermath" tooltipDescription="Unable to generate a mirror image after being attacked by a mirror image." />
 	<key id="50004406" level="1" name="Tunnel Vision" tooltipDescription="Focuses on a single target. Triggered by crossbow attacks." />
 	<key id="50004407" level="1" name="Tunnel Vision" tooltipDescription="Focuses on a single target. Triggered by crossbow attacks." />
 	<key id="50004414" level="1" name="Tunnel Vision" tooltipDescription="Infernog casts his gaze on you due to the crystal." feature="Kritias_Inferno01" />
+	<key id="50004418" level="1" name="Single-Target Focus" tooltipDescription="Targeted by the Turka on the right.&#xA;Continuously targeted by meteor attacks." feature="Kritias_Turka03" />
+	<key id="50004420" level="1" name="Single-Target Focus" tooltipDescription="Continuously attacks only one target." feature="Kritias_Turka03" />
 	<key id="50004513" level="1" name="Inferno Vigor" tooltipDescription="Unleashes the power of the inferno to inflict deadly damage to a weakened target." />
 	<key id="50004517" level="1" name="Inferno Vigor" tooltipDescription="Succumbed to Infernog&apos;s power." />
 	<key id="50004518" level="1" name="Inferno Vigor" tooltipDescription="Succumbed to Infernog&apos;s power." />
@@ -596,6 +625,13 @@
 	<key id="50004548" level="1" name="Infernog Eye Curse" tooltipDescription="Receiving curse damage from Infernog&apos;s evil eye. Stacks infinitely." feature="Kritias_Inferno01" />
 	<key id="50004557" level="1" name="Vitality Down" tooltipDescription="Stunned after getting hit once more by the same attack." feature="Kritias_Inferno01" />
 	<key id="50004558" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="Kritias_Inferno01" />
+	<key id="50004563" level="1" name="HP Recovery" tooltipDescription="Continuously recovers HP." feature="Kritias_Turka03" />
+	<key id="50004564" level="1" name="HP Recovery" tooltipDescription="Continuously recovers HP." feature="Kritias_Turka03" />
+	<key id="50004565" level="1" name="HP Recovery" tooltipDescription="Continuously recovers HP." feature="Kritias_Turka03" />
+	<key id="50004566" level="1" name="HP Recovery" tooltipDescription="Continuously recovers HP." feature="Kritias_Turka03" />
+	<key id="50004570" level="1" name="Turka&apos;s Rage" tooltipDescription="Continuously inflicts curse damage on nearby targets." feature="Kritias_Turka03" />
+	<key id="50004570" level="2" name="Turka&apos;s Rage" tooltipDescription="Continuously inflicts curse damage on nearby targets." feature="Kritias_Turka03" />
+	<key id="50004573" level="1" name="Terror of the Magic Orb" tooltipDescription="Continuously takes stagger damage while near the magic orb." feature="Kritias_Turka03" />
 	<key id="50004800" level="1" name="Item Healing Reduction" tooltipDescription="Reduces the effects of healing items by 80%. Inflicts continuous curse damage." />
 	<key id="50004800" level="2" name="Item Healing Reduction" tooltipDescription="Reduces the effects of healing items by 90%. Inflicts continuous curse damage." />
 	<key id="50004800" level="3" name="Item Healing Reduction" tooltipDescription="Reduces the effects of healing items by 95%. Inflicts continuous curse damage." />
@@ -616,6 +652,7 @@
 	<key id="50005100" level="1" name="Attack Up" tooltipDescription="Increases attack by 50%. Granted by the snowbeens." />
 	<key id="50005101" level="1" name="Defense Up" tooltipDescription="Increases defense by 50%. Granted by the snowbeens." />
 	<key id="50005102" level="1" name="Movement Speed Up" tooltipDescription="Increases movement speed by 50%. Granted by the snowbeens." />
+	<key id="50005103" level="1" name="Attack Increased" tooltipDescription="Attack increases by 10%.&#xA;Effect gained by holding onto the car until the end." feature="DungeonOpen70CH5" />
 	<key id="50005300" level="1" name="Totem&apos;s Protection" tooltipDescription="Attacking Zakum decreases attack and accuracy. Dispels once all covenant totems are destroyed." feature="Kritias_Zakum01" />
 	<key id="50005301" level="1" name="Zakum&apos;s Protection" tooltipDescription="Attacking the covenant totems decreases attack and accuracy. Dispels once all covenant totems are destroyed." feature="Kritias_Zakum01" />
 	<key id="50005306" level="1" name="Zakum&apos;s Fury" tooltipDescription="Zakum unleashes a palm attack at regular intervals." />
@@ -624,6 +661,16 @@
 	<key id="50005310" level="1" name="Sunlight Curse Damage" tooltipDescription="Take increased damage and reduced attack and accuracy with each stack." feature="LapentaDungeon" />
 	<key id="50005312" level="1" name="Moonlight Curse Damage" tooltipDescription="Take increased damage and reduced attack and accuracy with each stack." feature="LapentaDungeon" />
 	<key id="50005314" level="1" name="Red Lapenta Shield" tooltipDescription="Shielded from the effects of Sunlight and Moonlight Curse." feature="LapentaDungeon" />
+	<key id="50005319" level="1" name="Black Paint Damage" tooltipDescription="Continuously takes curse damage." feature="DungeonOpen70CH5" />
+	<key id="50005320" level="1" name="Red Paint" tooltipDescription="Stay in the red area to remain safe." feature="DungeonOpen70CH5" />
+	<key id="50005321" level="1" name="Yellow Paint" tooltipDescription="Stay in the yellow area to remain safe." feature="DungeonOpen70CH5" />
+	<key id="50005322" level="1" name="Blue Paint" tooltipDescription="Stay in the blue area to remain safe." feature="DungeonOpen70CH5" />
+	<key id="50005323" level="1" name="Yellow Paint Damage I" tooltipDescription="Attack is reduced by 20%.&#xA;Accuracy is reduced by 30%." feature="DungeonOpen70CH5" />
+	<key id="50005324" level="1" name="Yellow Paint Damage II" tooltipDescription="Attack is reduced by 40%.&#xA;Accuracy is reduced by 50%." feature="DungeonOpen70CH5" />
+	<key id="50005325" level="1" name="Yellow Paint Damage III" tooltipDescription="Attack is reduced by 60%.&#xA;Accuracy is reduced by 70%." feature="DungeonOpen70CH5" />
+	<key id="50005329" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 90%." feature="DungeonOpen70CH5" />
+	<key id="50005330" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 90%." feature="DungeonOpen70CH5" />
+	<key id="50005331" level="1" name="Attack Reduced" tooltipDescription="Attack is reduced by 90%." feature="DungeonOpen70CH5" />
 	<key id="50005500" level="1" name="Soul Restraint" tooltipDescription="A strange power weighs on the soul, preventing tombstones from being removed and stopping any attempts to use instant revive." />
 	<key id="50006000" level="1" name="Flame-Weakened Defense" tooltipDescription="Reduces most damage by 99%, but greatly increases damage taken from fire attacks." feature="Kritias_Zakum01" />
 	<key id="50006001" level="1" name="Ice-Weakened Defense" tooltipDescription="Reduces most damage by 99%, but greatly increases damage taken from ice attacks." feature="Kritias_Zakum01" />
@@ -631,6 +678,18 @@
 	<key id="50006003" level="1" name="Holy-Weakened Defense" tooltipDescription="Reduces most damage by 99%, but greatly increases damage taken from holy attacks." feature="Kritias_Zakum01" />
 	<key id="50006004" level="1" name="Dark-Weakened Defense" tooltipDescription="Reduces most damage by 99%, but greatly increases damage taken from dark attacks." feature="Kritias_Zakum01" />
 	<key id="50006005" level="1" name="Poison-Weakened Defense" tooltipDescription="Reduces most damage by 99%, but greatly increases damage taken from poison attacks." feature="Kritias_Zakum01" />
+	<key id="50006007" level="1" name="Extreme Damage Reduction: Fire Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to fire attacks." feature="Kritias_Turka03" />
+	<key id="50006008" level="1" name="Extreme Damage Reduction: Ice Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to ice attacks." feature="Kritias_Turka03" />
+	<key id="50006009" level="1" name="Extreme Damage Reduction: Electric Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to electric attacks." feature="Kritias_Turka03" />
+	<key id="50006010" level="1" name="Extreme Damage Reduction: Holy Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to holy attacks." feature="Kritias_Turka03" />
+	<key id="50006011" level="1" name="Extreme Damage Reduction: Dark Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to dark attacks." feature="Kritias_Turka03" />
+	<key id="50006012" level="1" name="Extreme Damage Reduction: Poison Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to poison attacks." feature="Kritias_Turka03" />
+	<key id="50006014" level="1" name="Extreme Damage Reduction: Fire Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to fire attacks." feature="Kritias_Turka03" />
+	<key id="50006015" level="1" name="Extreme Damage Reduction: Ice Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to ice attacks." feature="Kritias_Turka03" />
+	<key id="50006016" level="1" name="Extreme Damage Reduction: Electric Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to electric attacks." feature="Kritias_Turka03" />
+	<key id="50006017" level="1" name="Extreme Damage Reduction: Holy Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to holy attacks." feature="Kritias_Turka03" />
+	<key id="50006018" level="1" name="Extreme Damage Reduction: Dark Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to dark attacks." feature="Kritias_Turka03" />
+	<key id="50006019" level="1" name="Extreme Damage Reduction: Poison Weakness" tooltipDescription="Protection reduces damage taken by 99%, but grants extreme weakness to poison attacks." feature="Kritias_Turka03" />
 	<key id="50160005" level="1" name="Deep Cuts" tooltipDescription="Inflicts continuous physical damage." />
 	<key id="50170001" level="1" name="Attack Down" tooltipDescription="Attack reduced by 99%. Taking damage from Bjorn&apos;s shield." feature="SnowKingdom" />
 	<key id="50170002" level="1" name="Ice Block" tooltipDescription="Trapped in ice and unable to act. Defense reduced." feature="SnowKingdom" />
@@ -879,6 +938,19 @@
 	<key id="62100022" level="1" name="Devouring Sacrifice" tooltipDescription="The sacrifice is being devoured. Defeat the Death Flower to save them." feature="LapentaDungeon" />
 	<key id="62100027" level="1" name="Backlash Stun" tooltipDescription="Stunned by successful skill break." feature="LapentaDungeon" />
 	<key id="62100028" level="1" name="Pattern Shift" tooltipDescription="Landevian will soon change to a new attack pattern." feature="LapentaDungeon" />
+	<key id="62100102" level="1" name="Overpower Form 1" tooltipDescription="Archeon gains defense over time." feature="Kritias_Turka01" />
+	<key id="62100103" level="1" name="Overpower Form 1" tooltipDescription="Defense increases over time.&#xA;Stacks up to 20 times and loses stacks when attacked by an Archeon mount." feature="Kritias_Turka01" />
+	<key id="62100104" level="1" name="Remove Overpower Form 1" tooltipDescription="Removes Overpower Form 1." feature="Kritias_Turka01" />
+	<key id="62100104" level="2" name="Remove Overpower Form 1" tooltipDescription="Removes Overpower Form 1." feature="Kritias_Turka01" />
+	<key id="62100104" level="3" name="Remove Overpower Form 1" tooltipDescription="Removes Overpower Form 1." feature="Kritias_Turka01" />
+	<key id="62100105" level="1" name="Overpower Form 2" tooltipDescription="Archeon gains defense over time." feature="Kritias_Turka01" />
+	<key id="62100106" level="1" name="Overpower Form 2" tooltipDescription="Defense increases over time.&#xA;Stacks up to 20 times and loses stacks when attacked by nearby turrets." feature="Kritias_Turka01" />
+	<key id="62100107" level="1" name="Remove Overpower Form 2" tooltipDescription="Removes Overpower Form 2." feature="Kritias_Turka01" />
+	<key id="62100107" level="2" name="Remove Overpower Form 2" tooltipDescription="Removes Overpower Form 2." feature="Kritias_Turka01" />
+	<key id="62100108" level="1" name="Overpower Form 3" tooltipDescription="Archeon gains defense over time." feature="Kritias_Turka01" />
+	<key id="62100109" level="1" name="Overpower Form 3" tooltipDescription="Defense increases over time.&#xA;At 20 stacks, Archeon Night activates and annihilates all players.&#xA;Taking damage from nearby explosives reduces the stack count." feature="Kritias_Turka01" />
+	<key id="62100110" level="1" name="Archeon Night Ready" tooltipDescription="Archeon Night is ready.&#xA;It will soon annihilate all players." feature="Kritias_Turka01" />
+	<key id="62100111" level="1" name="Remove Overpower Form 3" feature="Kritias_Turka01" />
 	<key id="65000000" level="1" name="Lv. 1 Pet Learning Material Skill for Testing" tooltipDescription="Lv. 1 Pet Learning Material Skill for Testing description" />
 	<key id="65000001" level="1" name="Lv. 2 Pet Learning Material Skill for Testing" tooltipDescription="Lv. 2 Pet Learning Material Skill for Testing description" />
 	<key id="65000002" level="1" name="Lv. 3 Pet Learning Material Skill for Testing" tooltipDescription="Lv. 3 Pet Learning Material Skill for Testing description" />
@@ -2069,8 +2141,8 @@
 	<key id="90000940" level="1" name="Pink Paint" tooltipDescription="Drenched in paint!" feature="Event" />
 	<key id="90000942" level="1" name="Green Paint" tooltipDescription="Drenched in paint!" feature="Event" />
 	<key id="90001001" level="1" name="Increases movement speed by 5% in Tria." tooltipDescription="Increases movement speed by 5% in Tria." />
-	<key id="90001002" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun. \nRebalances enchants for PvP.\nAttributes set to level 99 values." />
 	<key id="90001002" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun.\nRebalances enchants for PvP.\nAttributes set to level 99 values.\nDecreases recovery speed." feature="NAEquipmentBalance_01" />
+	<key id="90001002" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun. \nRebalances enchants for PvP.\nAttributes set to level 99 values." />
 	<key id="90001005" level="1" name="Number 1" tooltipDescription="Number 1" />
 	<key id="90001006" level="1" name="Number 2" tooltipDescription="Number 2" />
 	<key id="90001007" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun. \nRebalances enchants for PvP." />
@@ -2350,23 +2422,23 @@
 	<key id="90050860" level="1" name="Adds 4.5% piercing to the triggered effect of Explosive Extreme Cannon." />
 	<key id="90050865" level="1" name="Explosive Panic/Fervor Cannon" tooltipDescription="Increases weapon attack when still for at least 1.5 sec." />
 	<key id="90050866" level="1" name="Extreme Holy Scepter" tooltipDescription="Increases magic damage." />
-	<key id="90050867" name="Chance to increase ice damage by 8.1% for 13 sec on hit." />
+	<key id="90050867" name="Chance on hit to increase ice damage by 8.1% for 13 sec." />
 	<key id="90050868" name="Sorcerous Panic/Fervor Blade" tooltipDescription="Increases ice damage." />
-	<key id="90050869" name="Adds 4.5% ice damage to Sorcerous Frenzied or Sorcerous Fervor blades." />
-	<key id="90050870" name="Chance to increase electric damage by 4.5% for 12 sec on hit." />
+	<key id="90050869" name="Adds 8.1% to the ice damage increase from the triggered effect of Sorcerous Panic/Fervor Blade." />
+	<key id="90050870" name="Chance on hit to increase electric damage by 4.5% for 12 sec." />
 	<key id="90050871" name="Extreme Sorcery Blade" tooltipDescription="Increases electric damage." />
-	<key id="90050872" name="Adds 4.5% electric damage to the triggered effect of the Sorcerous Extreme Blade." />
-	<key id="90050873" name="Chance to increase fire  damage by 8.5% for 9 sec on hit." />
+	<key id="90050872" name="Adds 4.5% to the electric damage increase from the triggered effect of Extreme Sorcery Blade." />
+	<key id="90050873" name="Chance on hit to increase fire damage by 8.5% for 9 sec." />
 	<key id="90050874" name="Brawling Panic/Fervor Knuckles" tooltipDescription="Increases fire damage." />
-	<key id="90050875" name="Adds 8.5% fire damage to the triggered effect of Brawling Panic or Brawling Fervor knuckles." />
+	<key id="90050875" name="Adds 8.5% to the fire damage increase from the triggered effect of Brawling Panic/Fervor Knuckles." />
 	<key id="90050876" name="Chance on hit to increase physical attack by 7.5% for 4 sec and gain Knockback Immunity." />
-	<key id="90050877" name="Brawling Extreme Knuckles" tooltipDescription="Increases physical damage, grants Knockback Immunity." />
-	<key id="90050878" name="Adds 7.5% physical damage to the triggered effect of the Brawling Extreme Knuckles." />
-	<key id="90050879" name="Inflicts 4% additional damage on all successful hits" />
-	<key id="90050881" name="Increases damage dealt by Ritualistic Panic/Fervor Orbs by 26%." />
-	<key id="90050882" name="Chance to increase bonus attack by 95 for 18 sec on hit." />
-	<key id="90050883" name="Extreme Ritual Orb" tooltipDescription="Increases bonus attack" />
-	<key id="90050884" name="Adds 95 bonus attack to the triggered effect of the Ritualistic Extreme Orb." />
+	<key id="90050877" name="Extreme Brawling Knuckles" tooltipDescription="Increases physical attack and grants Knockback Immunity." />
+	<key id="90050878" name="Adds 7.5% to the physical attack increase from the triggered effect of Extreme Brawling Knuckles." />
+	<key id="90050879" name="Inflicts 4% additional non-elemental damage on all successful hits." />
+	<key id="90050881" name="Increases non-elemental damage dealt by Ritual Panic/Fervor Orbs by 26%." />
+	<key id="90050882" name="Chance on hit to increase Bonus Attack by 95 for 18 sec." />
+	<key id="90050883" name="Extreme Ritual Orb" tooltipDescription="Increases Bonus Attack." />
+	<key id="90050884" name="Adds 95 to the Bonus Attack increase from the triggered effect of Extreme Ritual Orb." />
 	<key id="90050885" level="1" name="Increases movement speed by 20% on ground mounts. \nNot active in battlegrounds or arenas." />
 	<key id="90050886" level="1" name="Increases bonus attack by 520 when there are more than 4 targets within 9 m.\nNot active in battlegrounds or arenas." tooltipDescription="Increases bonus attack by 520 when there are more than 4 targets within 9 m.\nNot active in battlegrounds or arenas." />
 	<key id="90050887" level="1" name="Decreases accuracy by 4." />
@@ -2606,13 +2678,14 @@
 	<key id="90051248" level="1" name="Incantation" tooltipDescription="Increases bonus attack by 220." />
 	<key id="90051259" level="1" name="Fervor" tooltipDescription="Increases attack speed by 10%." />
 	<key id="90051270" level="1" name="Precision" tooltipDescription="Increases accuracy by 9." />
-	<key id="90051281" name="Beastly Rage" tooltipDescription="Increases physical and magic attack by 48" />
+	<key id="90051281" name="Beastly Rage" tooltipDescription="Increases physical and magic attack by 48." />
 	<key id="90051286" name="Empowered Beastly Rage" />
-	<key id="90051292" name="Power Surge" tooltipDescription="Increases bonus attack by 400." />
+	<key id="90051292" name="Energy Mutation" tooltipDescription="Increases Bonus Attack by 400." />
 	<key id="90051292" name="Power Surge" tooltipDescription="Increases bonus attack by 520." feature="NAEquipmentBalance_01" locale="NA" />
-	<key id="90051297" name="Enhanced Power Surge" />
-	<key id="90051304" name="Ravaging Strikes" tooltipDescription="Increases accuracy by 9. Increases attack speed by 9%." />
-	<key id="90051309" name="Empowered Ravaging Strikes" />
+	<key id="90051292" name="Energy Mutation" tooltipDescription="Increases Bonus Attack by 520." feature="NAEquipmentBalance_01" locale="JP" />
+	<key id="90051297" name="Enhanced Energy Mutation" />
+	<key id="90051304" name="Acceleration" tooltipDescription="Increases Accuracy by 9 and Attack Speed by 9%." />
+	<key id="90051309" name="Enhanced Acceleration" />
 	<key id="90051310" level="1" name="Increases piercing by 2.0%." />
 	<key id="90051311" level="1" name="Increases physical and magic attack by 2%." />
 	<key id="90051320" name="Green Lapenshard Resonance" feature="LapentaDungeon" />
@@ -2623,11 +2696,11 @@
 	<key id="90051328" name="Eupheria&apos;s Protection" feature="LapentaDungeon" />
 	<key id="90051337" level="1" name="Chaotic Energies - Space" tooltipDescription="Increases accuracy by 3 and piercing by 3%." feature="Level60Item" />
 	<key id="90051339" level="1" name="Chaotic Energies - Time" tooltipDescription="Increases attack speed and movement speed by 3%." feature="Level60Item" />
-	<key id="90051440" name="Power Rebirth" feature="LapentaDungeon" />
+	<key id="90051440" name="Energy Stabilization" feature="LapentaDungeon" />
 	<key id="90051441" level="1" name="Energy Stabilization" tooltipDescription="Increases all damage by 3%." feature="Level60Item" />
-	<key id="90051442" name="Exalted Sword of Time" feature="LapentaDungeon" />
-	<key id="90051443" name="Exalted Space Rift" feature="LapentaDungeon" />
-	<key id="90051444" name="Exalted Eupheria&apos;s Protection" feature="LapentaDungeon" />
+	<key id="90051442" name="Enhanced Sword of Time" feature="LapentaDungeon" />
+	<key id="90051443" name="Enhanced Space Rift" feature="LapentaDungeon" />
+	<key id="90051444" name="Enhanced Eupheria&apos;s Protection" feature="LapentaDungeon" />
 	<key id="90051447" name="Lapenshard Resonance" feature="LapentaDungeon" />
 	<key id="90051470" level="1" name="Shadow Hunter" tooltipDescription="Increases physical attack and magic attack." feature="Season3" />
 	<key id="90051494" level="1" name="Pirate Hunter" tooltipDescription="Increases attack speed." feature="Season3" />
@@ -2644,8 +2717,8 @@
 	<key id="90051604" level="1" name="Doubles Extreme effects." feature="Season3" />
 	<key id="90051605" level="1" name="Increases recovery skill effects by 10% (not active in battlegrounds)" feature="Season3" />
 	<key id="90051606" level="1" name="Increases spirit by 10 (not active in battlegrounds)" feature="Season3" />
-	<key id="90051616" name="Increases health by 1,000 and piercing by 8% in battlegrounds and arenas." feature="PvPRankingDuelMode" />
-	<key id="90051617" name="Increases health by 2500 and accuracy by 10 in battlegrounds and arenas" feature="PvPRankingDuelMode" />
+	<key id="90051616" name="Increases HP by 1,000 and Piercing by 8% in battlegrounds and arenas." feature="PvPRankingDuelMode" />
+	<key id="90051617" name="Increases HP by 2,500 and Accuracy by 10 in battlegrounds and arenas." feature="PvPRankingDuelMode" />
 	<key id="90051620" level="1" name="Intense Blue Glow" feature="Level70Item" />
 	<key id="90051621" level="1" name="Weak Blue Glow" tooltipDescription="The power of the blue lapenta is gathering." feature="Level70Item" />
 	<key id="90051622" level="1" name="Extreme Brightness" tooltipDescription="Taking damage from the brilliance of the Blue Lapenta." feature="Level70Item" />
@@ -2690,10 +2763,10 @@
 	<key id="90051704" level="1" name="Increases health by 2000, piercing by 15%, luck by 200, and critical evasion by 100 in battlegrounds and arenas." feature="PvPRankingDuelMode" />
 	<key id="90051705" level="1" name="Increases health by 4500, attack speed by 15%, accuracy by 25, and stun duration reduction by 50% in battlegrounds and arenas." feature="PvPRankingDuelMode" />
 	<key id="90051744" name="Continuous Bombardment" feature="Level70Item" />
-	<key id="90051746" name="Continuous Bombardment" tooltipDescription="Increases accuracy by 8." feature="Level70Item" />
+	<key id="90051746" name="Continuous Bombardment" tooltipDescription="Increases Accuracy by 8." feature="Level70Item" />
 	<key id="90051806" level="1" name="Maddening Space-time Power" tooltipDescription="Increases bonus attack, attack speed, and accuracy" feature="NAEquipmentBalance_01" locale="NA" />
-	<key id="90051812" name="Increases bonus attack by 1,200 (not active in battlegrounds)" />
-	<key id="90051813" name="Increases the damage dealt to boss monsters by 4%" />
+	<key id="90051812" name="Increases Bonus Attack by 1,200. (Does not apply in battlegrounds.)" />
+	<key id="90051813" name="Increases damage dealt to boss monsters by 4%." />
 	<key id="90060002" level="1" name="Sly Knowledge" />
 	<key id="90060005" level="1" name="Sly Knowledge 1" tooltipDescription="Increases attack by n%." />
 	<key id="90060006" level="1" name="Sly Knowledge 2" tooltipDescription="Increases attack by n%." />
@@ -2894,24 +2967,24 @@
 	<key id="100000003" level="1" name="Tombshocked" tooltipDescription="Your brush with death has left you weakened. If you are defeated again before you&apos;ve recovered, you&apos;ll be crushed beneath the weight of a metal tombstone." />
 	<key id="100000004" level="1" name="Close Call" tooltipDescription="Immune to damage for a short time." />
 	<key id="100000005" level="1" name="Pocket Realm Departure" tooltipDescription="You&apos;re leaving the Pocket Realm. You will not take any damage until your body and mind are completely free." />
-	<key id="100000006" name="PC Cafe Connection Effect" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 20% additional experience and mesos when hunting, 3% extra physical attack and magic attack, and 100 extra health. Does not apply to battlegrounds." />
-	<key id="100000007" name="Call of the Battleground" tooltipDescription="A recruit to the battleground, you can not request another battleground." />
+	<key id="100000006" name="PC Cafe Connection Effect" tooltipDescription="Instantly summon a Bank Safe anywhere, anytime.\nGain 20% additional EXP and mesos when hunting monsters.\nPhysical and magic attack increase by 3%, and HP increases by 100.\nStat bonuses do not apply in battlegrounds." />
+	<key id="100000007" name="Call of the Battleground" tooltipDescription="You answered the Call of the Battleground and became a recruit.\nRecruits cannot apply for another battleground." />
 	<key id="100000008" level="1" name="Citation" tooltipDescription="You have been given a Citation. You&apos;ll be temporarily restricted from the following community activities:\n- Reserving displays\n- Creating UGC items\n- Applying UGC items\n- Placing and exchanging furnishings\n- Listing items in the Designer Shop\n- Changing character portraits\n- Changing guild emblems\n- Changing character names\n- Sending mail\n- Creating and requesting to join parties\n- Creating musical scores\n- All other community activities\n&lt;font color=&apos;#00aaef&apos;&gt;If you spend time reflecting and pulling weeds at Alikar, perhaps your sentence can be shortened.&lt;/font&gt;" />
-	<key id="100000009" name="Fast Growth Buff" tooltipDescription="Grants an extra 10% experience when hunting monsters and completing quests." />
-	<key id="100000011" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000012" name="Safe Riding" tooltipDescription="You won&apos;t fall off your mount, even when attacked by monsters." />
-	<key id="100000013" name="Amphibious Riding" tooltipDescription="You won&apos;t fall off your mount, even when in water." />
+	<key id="100000009" name="Fast Growth Buff" tooltipDescription="Gain 10% additional EXP from hunting monsters and completing quests." />
+	<key id="100000011" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000012" name="Safe Riding" tooltipDescription="Prevents you from falling off your mount when attacked by monsters." />
+	<key id="100000013" name="Amphibious Riding" tooltipDescription="Prevents you from falling off your mount when entering water." />
 	<key id="100000014" name="Premium Club Benefits" tooltipDescription="- Increases movement by 5% (excluding PvP areas)\n- Grants 20% extra experience and mesos when hunting \n- Reduces Ophelia enchant catalyst costs by 20% \n- Reduces meso handling fees for trade by 50% \n- Reduces merat revival costs by 50%\n- Can summon the Bank Safe instantly at any place \n- Grants access to premium dungeons &amp; insignia \n- Grants daily premium items" />
-	<key id="100000016" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000017" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000018" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000019" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000020" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000021" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000022" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000023" name="Comradery" tooltipDescription="You found allies to play through a random adventure dungeon with you, and a special bond has blossomed!\n\n&lt;b&gt;While this effect is active, you cannot search for another random adventure dungeon. This status effect will disappear once your party has cleared the random adventure dungeon.&lt;/b&gt;" />
-	<key id="100000024" name="((China Only)) PC Cafe Buff (Bronze)" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 15% additional experience and 10% additional mesos when hunting, 2% extra physical attack and magic attack, 100 extra health, and 2% additional experience for performing and fishing. Does not apply to battlegrounds." />
-	<key id="100000026" name="((China Only)) PC Cafe Buff (Gold)" tooltipDescription="Allows you to immediately summon a Bank Safe anywhere, anytime.\nYou gain 20% additional experience and 15% additional mesos when hunting, 3% extra physical attack and magic attack, 150 extra health, and 3% additional experience for performing and fishing. Does not apply to battlegrounds." />
+	<key id="100000016" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000017" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000018" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000019" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000020" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000021" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000022" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000023" name="Comradery" tooltipDescription="You formed a strong bond with the allies you met for a random Adventure Dungeon.\n\n&lt;b&gt;While this effect is active, you cannot apply for another random Adventure Dungeon. This effect disappears after clearing the random Adventure Dungeon.&lt;/b&gt;" />
+	<key id="100000024" name="((China Only)) PC Cafe Buff (Bronze)" tooltipDescription="Instantly summon a Bank Safe anywhere, anytime.\nGain 15% additional EXP and 10% additional mesos when hunting monsters.\nPhysical and magic attack increase by 2%, and HP increases by 100.\nPerformance and fishing EXP increase by 2%.\nStat bonuses do not apply in battlegrounds." />
+	<key id="100000026" name="((China Only)) PC Cafe Buff (Gold)" tooltipDescription="Instantly summon a Bank Safe anywhere, anytime.\nGain 20% additional EXP and 15% additional mesos when hunting monsters.\nPhysical and magic attack increase by 3%, and HP increases by 150.\nPerformance and fishing EXP increase by 3%.\nStat bonuses do not apply in battlegrounds." />
 	<key id="100000028" level="1" name="Revive Discount" tooltipDescription="Unlocked at rank 5.\nGrants a &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt; reduction to revival fees, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;50&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;." />
 	<key id="100000028" level="2" name="Revive Discount" tooltipDescription="Unlocked at rank 5.\nGrants a &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt; reduction to revival fees, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;50&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;." />
 	<key id="100000028" level="3" name="Revive Discount" tooltipDescription="Unlocked at rank 5.\nGrants a &lt;font color=&apos;#ffde00&apos;&gt;4%&lt;/font&gt; reduction to revival fees, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;2%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;50&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;42%&lt;/font&gt;." />
@@ -3167,12 +3240,13 @@
 	<key id="100000043" name="Premium Club Benefits" tooltipDescription="- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20%\n- Can summon the Bank Safe instantly at any place\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons &amp; insignia\n- Grants daily premium items" locale="NA" />
 	<key id="100000043" name="Premium Club Benefits" tooltipDescription="- Increases movement and ground mount speeds by 5% (excluding PvP areas; applies to party)\n- Grants 20% extra experience and mesos when hunting\n- Reduces Ophelia enchant catalyst costs by 10%\n- Reduces meso handling fees for trade by 50%\n- Reduces item trade fees in the Black Market by 20% (excluding the Meso Market)\n- Can summon the Bank Safe instantly anywhere\n- Grants unlimited use of Rotors Air Taxi\n- Grants access to premium dungeons &amp; insignia\n- Grants daily premium items" feature="MesoMarket" locale="NA" />
 	<key id="100000046" name="Premium Club Benefits (Party Bonus)" tooltipDescription="Increases movement and ground mount speeds by 5% for being in a party with a Premium Club member (excluding PvP areas; applies to party)" locale="NA" />
-	<key id="100000047" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000048" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000049" name="Auto-Fishing" tooltipDescription="Automatically catches fish. The timer only counts down while you&apos;re online." />
-	<key id="100000050" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000051" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
-	<key id="100000052" name="Auto-Perform" tooltipDescription="Continuously performs the selected music scores for the duration specified without reducing their play counts. The time for this effect only counts down while you are online." />
+	<key id="100000047" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000048" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000049" name="Auto-Fishing" tooltipDescription="Automatically catches fish while you wait. The effect duration only counts down while you are online." />
+	<key id="100000050" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000051" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000052" name="Auto-Perform" tooltipDescription="Automatically performs the selected sheet music for the specified duration without consuming its performance count. The effect duration only counts down while you are online, and only solo performances are available." />
+	<key id="100000053" name="PC Cafe Buff" tooltipDescription="Instantly summon a Bank Safe anywhere, anytime.&#xA;Gain 15% additional EXP and 10% additional mesos when hunting monsters.&#xA;Physical and magic attack increase by 2%, and HP increases by 100.&#xA;Stat bonuses do not apply in battlegrounds." locale="JP" />
 	<key id="100000055" level="1" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
 	<key id="100000055" level="2" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />
 	<key id="100000055" level="3" name="Socket Efficiency" tooltipDescription="Unlocked at rank 60.\nReduces the number of crystal fragments required to unlock sockets by &lt;font color=&apos;#ffde00&apos;&gt;5.0%&lt;/font&gt;, plus an additional &lt;font color=&apos;#ffde00&apos;&gt;1.5%&lt;/font&gt; every &lt;font color=&apos;#ffde00&apos;&gt;30&lt;/font&gt; ranks thereafter, up to a maximum discount of &lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;." feature="ItemSocketSystem" />

@@ -1646,11 +1646,11 @@
 	<key id="$s_guild_championship_title" value="Guild Championship" />
 	<key id="$s_guild_championship_period" value="TKTKTK" />
 	<key id="$s_guild_championship_view_rank" value="View Rankings" />
-	<key id="$s_guild_championship_notify_matching" value="Mail" />
+	<key id="$s_guild_championship_notify_matching" value="Notify" />
 	<key id="$s_guild_championship_regist_pvp_button" value="Register" />
 	<key id="$s_guild_championship_unregist_pvp_button" value="Cancel Registration" />
 	<key id="$s_guild_championship_join_pvp_button" value="Enter" />
-	<key id="$s_guild_championship_grade_tooltip" value="Rankings and Reward Info" />
+	<key id="$s_guild_championship_grade_tooltip" value="Rankings Info" />
 	<key id="$s_guild_championship_matching_check_tooltip" value="When guild battle matchmaking is complete, you will receive a notification." />
 	<key id="$s_guild_championship_regist_guild_tooltip" value="Register for Guild Battle" />
 	<key id="$s_guild_championship_history_current" value="Recent Entries" />
@@ -3488,18 +3488,18 @@
 	<key id="$s_weddinghall_reservation_price" value="Reservation cost" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_schedule_am" value="AM" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_schedule_pm" value="PM" feature="Wedding" />
-	<key id="$s_weddinghall_reservation_schedule_tooltip" value="You can only reserve the wedding hall 7 days after engagement." feature="Wedding" />
+	<key id="$s_weddinghall_reservation_schedule_tooltip" value="You can only reserve the wedding hall within 7 days of engagement." feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_hall" value="Wedding Hall" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_date" value="Wedding Date" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_publicable" value="Make public" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_public" value="Post as an announcement on the wedding notice board" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_price" value="Payment amount" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_tooltip" value="※Changes to the weddng reservation venue can only be made by the person who made the reservation. This can only occur if there is at least 3 hours until the time of the reservation.\n※Cancellation of wedding all reservations can only be made by the person who made the reservation. The other party must agree to the cancellation.\nA 30-day free reservation coupon will be given to reserve a wedding hall of the same class. If the other party does not agree to the cancellation, then a free reservation coupon will not be issued.\n※Characters who are engaged, married, or divorcing cannot use the Gender Change Voucher." feature="Wedding" />
-	<key id="$s_weddinghall_reservation_confirm_private" value="Wedding invitation, only by chat invites" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_private" value="Wedding invitation, only by mail invites" feature="Wedding" />
 	<key id="$s_weddinghall_enter_button_type1" value="Enter" feature="Wedding" />
 	<key id="$s_weddinghall_enter_button_type2" value="Check out available weddings" feature="Wedding" />
 	<key id="$s_weddinghall_enter_message_type1" value="It&apos;s time for the wedding. Please enter the wedding ceremony." feature="Wedding" />
-	<key id="$s_weddinghall_enter_message_type2" value="It&apos; time for a wedding. Please check the list of available weddings and enter the wedding ceremony." feature="Wedding" />
+	<key id="$s_weddinghall_enter_message_type2" value="It&apos;s time for a wedding. Please check the list of available weddings and enter the wedding ceremony." feature="Wedding" />
 	<key id="$s_wedding_dialog_title" value="Marriage" feature="Wedding" />
 	<key id="$s_wedding_dialog_picture_change" value="Change Photo" feature="Wedding" />
 	<key id="$s_wedding_dialog_level" value="Intimacy" feature="Wedding" />
@@ -3513,10 +3513,10 @@
 	<key id="$s_wedding_dialog_default_message" value="Enter a message" feature="Wedding" />
 	<key id="$s_wedding_dialog_skill_receive" value="Receive" feature="Wedding" />
 	<key id="$s_wedding_affinity_title" value="Intimacy" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_title" value="How to increase intimacy" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_desc1" value="Intimacy is accumulated daily. You can accumulate by the following." feature="Wedding" />
-	<key id="$s_wedding_affinity_info_desc2" value="Marriage Period Passed\nEvery day after marriage, 5 points will be accumulated daily. \n\nCouple&apos;s Attendance\nEvery time the couple accesses the game, 5 points are accumulated. \n\nCouple Message\nEvery time the couple writes a couple message, \n5 points are earned." feature="Wedding" />
-	<key id="$s_wedding_affinity_info_desc3" value="* If one person in the couple does not log into the game on the first day from 00:00 to 24:00, 5 points will be deducted from intimacy." feature="Wedding" />
+	<key id="$s_wedding_affinity_info_title" value="Increasing Intimacy" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc1" value="Intimacy is accumulated daily. \nYou can accumulate by the following." feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc2" value="Marriage Period Passed\nEvery day after marriage, 5 points will be accumulated daily. \n\nCouple&apos;s Attendance\nEvery time the couple accesses the game, \n5 points are accumulated. \n\nCouple Message\nEvery time the couple writes a couple message, \n5 points are earned." feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc3" value="* If one person in the couple does not log into the game on the \nfirst day from 00:00 to 24:00, 5 points will be deducted from intimacy." feature="Wedding" />
 	<key id="$s_wedding_affinity_info_tab" value="How to increase initmacy" feature="Wedding" />
 	<key id="$s_wedding_affinity_info_history" value="Intimacy Info" feature="Wedding" />
 	<key id="$s_wedding_invitation_title" value="Send a Wedding Invitation" feature="Wedding" />
