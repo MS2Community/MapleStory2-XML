@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ms2>
+	<option id="1010007" multipleID="1010008" groupType="1" name="finalAdditionalDamage" levelGroupID="1" highStat="12" isRateType="1">
+		<v stat="10" />
+		<v stat="11" weight="2" />
+		<v stat="12" weight="2" />
+		<v stat="13" weight="3" />
+	</option>
+	<option id="1010008" groupType="1" name="finalAdditionalDamage" levelGroupID="1" highStat="24" isRateType="1">
+		<v stat="20" />
+		<v stat="22" weight="2" />
+		<v stat="24" weight="2" />
+		<v stat="26" weight="3" />
+	</option>
+	<option id="1010012" multipleID="1010013" groupType="1" name="sgi_Boss" levelGroupID="1" highStat="14" isRateType="1">
+		<v stat="11" />
+		<v stat="12" />
+		<v stat="13" weight="2" />
+		<v stat="14" weight="4" />
+	</option>
+	<option id="1010013" groupType="1" name="sgi_Boss" levelGroupID="1" highStat="28" isRateType="1">
+		<v stat="22" />
+		<v stat="24" />
+		<v stat="26" weight="2" />
+		<v stat="28" weight="4" />
+	</option>
+	<option id="1010016" groupType="1" name="heal" levelGroupID="1" highStat="24" isRateType="1">
+		<v stat="20" />
+		<v stat="21" />
+		<v stat="22" />
+		<v stat="23" />
+		<v stat="24" weight="4" />
+	</option>
+	<option id="1010018" multipleID="1010019" groupType="1" name="icedamage" levelGroupID="1" highStat="24" isRateType="1">
+		<v stat="22" weight="2" />
+		<v stat="23" />
+		<v stat="24" weight="5" />
+	</option>
+	<option id="1010019" groupType="1" name="icedamage" levelGroupID="1" highStat="48" isRateType="1">
+		<v stat="44" weight="2" />
+		<v stat="46" />
+		<v stat="48" weight="5" />
+	</option>
+	<option id="1010024" multipleID="1010025" groupType="1" name="nddIncrease" levelGroupID="1" highStat="28" isRateType="1">
+		<v stat="24" />
+		<v stat="25" />
+		<v stat="26" />
+		<v stat="27" />
+		<v stat="28" weight="4" />
+	</option>
+	<option id="1010025" groupType="1" name="nddIncrease" levelGroupID="1" highStat="56" isRateType="1">
+		<v stat="48" />
+		<v stat="50" />
+		<v stat="52" />
+		<v stat="54" />
+		<v stat="56" weight="4" />
+	</option>
+	<option id="1010026" multipleID="1010027" groupType="1" name="parpen" levelGroupID="1" highStat="44" isRateType="1">
+		<v stat="38" />
+		<v stat="40" />
+		<v stat="42" />
+		<v stat="44" weight="2" />
+		<v stat="46" weight="3" />
+	</option>
+	<option id="1010027" groupType="1" name="parpen" levelGroupID="1" highStat="88" isRateType="1">
+		<v stat="76" />
+		<v stat="80" />
+		<v stat="84" />
+		<v stat="88" weight="2" />
+		<v stat="92" weight="3" />
+	</option>
+	<option id="1010038" groupType="1" name="longDistanceDamageReduce" levelGroupID="1" highStat="12" isRateType="1">
+		<v stat="2" />
+		<v stat="4" />
+		<v stat="6" />
+		<v stat="9" />
+		<v stat="12" weight="4" />
+	</option>
+	<option id="1010152" multipleID="1010153" groupType="1" name="str" levelGroupID="1" highStat="8">
+		<v stat="4" />
+		<v stat="6" weight="2" />
+		<v stat="8" weight="2" />
+		<v stat="9" weight="3" />
+	</option>
+	<option id="1010153" groupType="1" name="str" levelGroupID="1" highStat="16">
+		<v stat="8" />
+		<v stat="12" weight="2" />
+		<v stat="16" weight="2" />
+		<v stat="18" weight="3" />
+	</option>
+	<option id="1010180" groupType="1" name="hp" levelGroupID="1" highStat="25">
+		<v stat="5" />
+		<v stat="10" />
+		<v stat="15" />
+		<v stat="20" />
+		<v stat="25" />
+		<v stat="30" weight="3" />
+	</option>
+	<option id="1010186" multipleID="1010187" groupType="1" name="asp" levelGroupID="1" highStat="3">
+		<v stat="1" />
+		<v stat="2" weight="2" />
+		<v stat="3" weight="5" />
+	</option>
+	<option id="1010187" groupType="1" name="asp" levelGroupID="1" highStat="6">
+		<v stat="2" />
+		<v stat="4" weight="2" />
+		<v stat="6" weight="5" />
+	</option>
+	<option id="1010188" multipleID="1010189" groupType="1" name="atp" levelGroupID="1" highStat="4">
+		<v stat="1" />
+		<v stat="2" weight="2" />
+		<v stat="4" weight="5" />
+	</option>
+	<option id="1010189" groupType="1" name="atp" levelGroupID="1" highStat="8">
+		<v stat="2" />
+		<v stat="4" weight="2" />
+		<v stat="8" weight="5" />
+	</option>
+	<option id="1010191" multipleID="1010192" groupType="1" name="cad" levelGroupID="1" highStat="32">
+		<v stat="10" />
+		<v stat="20" />
+		<v stat="30" />
+		<v stat="32" weight="2" />
+		<v stat="34" weight="3" />
+	</option>
+	<option id="1010192" groupType="1" name="cad" levelGroupID="1" highStat="64">
+		<v stat="20" />
+		<v stat="40" />
+		<v stat="60" />
+		<v stat="64" weight="2" />
+		<v stat="68" weight="3" />
+	</option>
+	<option id="1010195" multipleID="1010196" groupType="1" name="pap" levelGroupID="1" highStat="5">
+		<v stat="2" />
+		<v stat="3" />
+		<v stat="4" />
+		<v stat="5" weight="5" />
+	</option>
+	<option id="1010196" groupType="1" name="pap" levelGroupID="1" highStat="10">
+		<v stat="4" />
+		<v stat="6" />
+		<v stat="8" />
+		<v stat="10" weight="5" />
+	</option>
+	<option id="1020007" multipleID="1020008" groupType="1" name="finalAdditionalDamage" levelGroupID="2" highStat="14" isRateType="1">
+		<v stat="12" />
+		<v stat="13" />
+		<v stat="14" />
+		<v stat="15" />
+	</option>
+	<option id="1020008" groupType="1" name="finalAdditionalDamage" levelGroupID="2" highStat="28" isRateType="1">
+		<v stat="24" />
+		<v stat="26" />
+		<v stat="28" />
+		<v stat="30" />
+	</option>
+	<option id="1020012" multipleID="1020013" groupType="1" name="sgi_Boss" levelGroupID="2" highStat="15" isRateType="1">
+		<v stat="13" />
+		<v stat="14" />
+		<v stat="15" />
+		<v stat="16" />
+	</option>
+	<option id="1020013" groupType="1" name="sgi_Boss" levelGroupID="2" highStat="30" isRateType="1">
+		<v stat="26" />
+		<v stat="28" />
+		<v stat="30" />
+		<v stat="32" />
+	</option>
+	<option id="1020016" groupType="1" name="heal" levelGroupID="2" highStat="26" isRateType="1">
+		<v stat="22" />
+		<v stat="23" />
+		<v stat="24" />
+		<v stat="25" />
+		<v stat="26" />
+		<v stat="27" />
+		<v stat="28" />
+		<v stat="29" />
+	</option>
+	<option id="1020018" multipleID="1020019" groupType="1" name="icedamage" levelGroupID="2" highStat="27" isRateType="1">
+		<v stat="23" />
+		<v stat="24" />
+		<v stat="25" />
+		<v stat="26" />
+		<v stat="27" />
+		<v stat="28" />
+		<v stat="29" />
+		<v stat="30" />
+	</option>
+	<option id="1020019" groupType="1" name="icedamage" levelGroupID="2" highStat="54" isRateType="1">
+		<v stat="46" />
+		<v stat="48" />
+		<v stat="50" />
+		<v stat="52" />
+		<v stat="54" />
+		<v stat="56" />
+		<v stat="58" />
+		<v stat="60" />
+	</option>
+	<option id="1020024" multipleID="1020025" groupType="1" name="nddIncrease" levelGroupID="2" highStat="30" isRateType="1">
+		<v stat="26" />
+		<v stat="27" />
+		<v stat="28" />
+		<v stat="29" />
+		<v stat="30" />
+		<v stat="31" />
+		<v stat="32" />
+		<v stat="33" />
+	</option>
+	<option id="1020025" groupType="1" name="nddIncrease" levelGroupID="2" highStat="60" isRateType="1">
+		<v stat="52" />
+		<v stat="54" />
+		<v stat="56" />
+		<v stat="58" />
+		<v stat="60" />
+		<v stat="62" />
+		<v stat="64" />
+		<v stat="66" />
+	</option>
+	<option id="1020026" multipleID="1020027" groupType="1" name="parpen" levelGroupID="2" highStat="50" isRateType="1">
+		<v stat="42" />
+		<v stat="44" />
+		<v stat="46" />
+		<v stat="48" />
+		<v stat="50" />
+		<v stat="52" />
+		<v stat="54" />
+		<v stat="56" />
+	</option>
+	<option id="1020027" groupType="1" name="parpen" levelGroupID="2" highStat="100" isRateType="1">
+		<v stat="84" />
+		<v stat="88" />
+		<v stat="92" />
+		<v stat="96" />
+		<v stat="100" />
+		<v stat="104" />
+		<v stat="108" />
+		<v stat="112" />
+	</option>
+	<option id="1020152" multipleID="1020153" groupType="1" name="str" levelGroupID="2" highStat="8">
+		<v stat="6" />
+		<v stat="7" />
+		<v stat="8" />
+		<v stat="9" />
+	</option>
+	<option id="1020153" groupType="1" name="str" levelGroupID="2" highStat="16">
+		<v stat="12" />
+		<v stat="14" />
+		<v stat="16" />
+		<v stat="18" />
+	</option>
+	<option id="1020180" groupType="1" name="hp" levelGroupID="2" highStat="40">
+		<v stat="15" />
+		<v stat="20" />
+		<v stat="25" />
+		<v stat="30" />
+		<v stat="40" />
+		<v stat="45" />
+		<v stat="50" />
+		<v stat="55" />
+	</option>
+	<option id="1020186" multipleID="1020187" groupType="1" name="asp" levelGroupID="2" highStat="4">
+		<v stat="3" weight="3" />
+		<v stat="4" weight="3" />
+		<v stat="5" weight="2" />
+	</option>
+	<option id="1020187" groupType="1" name="asp" levelGroupID="2" highStat="8">
+		<v stat="6" weight="3" />
+		<v stat="8" weight="3" />
+		<v stat="10" weight="2" />
+	</option>
+	<option id="1020188" multipleID="1020189" groupType="1" name="atp" levelGroupID="2" highStat="5">
+		<v stat="4" weight="3" />
+		<v stat="5" weight="3" />
+		<v stat="6" weight="2" />
+	</option>
+	<option id="1020189" groupType="1" name="atp" levelGroupID="2" highStat="10">
+		<v stat="8" weight="3" />
+		<v stat="10" weight="3" />
+		<v stat="12" weight="2" />
+	</option>
+	<option id="1020190" multipleID="1020192" groupType="1" name="cap" levelGroupID="2" highStat="10">
+		<v stat="8" />
+		<v stat="9" />
+		<v stat="10" />
+		<v stat="11" />
+	</option>
+	<option id="1020191" multipleID="1020193" groupType="1" name="cad" levelGroupID="2" highStat="38">
+		<v stat="30" />
+		<v stat="32" />
+		<v stat="34" />
+		<v stat="36" />
+		<v stat="38" />
+		<v stat="40" />
+		<v stat="42" />
+		<v stat="44" />
+	</option>
+	<option id="1020192" groupType="1" name="cap" levelGroupID="2" highStat="20">
+		<v stat="16" />
+		<v stat="18" />
+		<v stat="20" />
+		<v stat="22" />
+	</option>
+	<option id="1020193" groupType="1" name="cad" levelGroupID="2" highStat="76">
+		<v stat="60" />
+		<v stat="64" />
+		<v stat="68" />
+		<v stat="72" />
+		<v stat="76" />
+		<v stat="80" />
+		<v stat="84" />
+		<v stat="88" />
+	</option>
+	<option id="1020195" multipleID="1020196" groupType="1" name="pap" levelGroupID="2" highStat="6">
+		<v stat="4" />
+		<v stat="5" />
+		<v stat="6" />
+		<v stat="7" />
+	</option>
+	<option id="1020196" groupType="1" name="pap" levelGroupID="2" highStat="12">
+		<v stat="8" />
+		<v stat="10" />
+		<v stat="12" />
+		<v stat="14" />
+	</option>
+	<option id="1020197" groupType="1" name="par" levelGroupID="2" highStat="15">
+		<v stat="3" />
+		<v stat="6" />
+		<v stat="9" />
+		<v stat="12" />
+		<v stat="15" />
+		<v stat="17" />
+		<v stat="20" />
+		<v stat="22" />
+	</option>
+	<option id="2010012" multipleID="2010015" groupType="2" name="sgi_Boss" levelGroupID="1" highStat="15" isRateType="1">
+		<v stat="5" weight="200" />
+		<v stat="7" weight="250" />
+		<v stat="10" weight="300" />
+		<v stat="15" weight="220" />
+		<v stat="20" weight="20" />
+		<v stat="30" weight="10" />
+	</option>
+	<option id="2010013" multipleID="2010014" groupType="2" name="killHPRestore" levelGroupID="1" highStat="4">
+		<v stat="1" weight="200" />
+		<v stat="2" weight="250" />
+		<v stat="3" weight="300" />
+		<v stat="4" weight="220" />
+		<v stat="5" weight="30" />
+	</option>
+	<option id="2010014" groupType="2" name="killHPRestore" levelGroupID="1" highStat="8">
+		<v stat="2" weight="200" />
+		<v stat="4" weight="250" />
+		<v stat="6" weight="300" />
+		<v stat="8" weight="220" />
+		<v stat="10" weight="30" />
+	</option>
+	<option id="2010015" groupType="2" name="sgi_Boss" levelGroupID="1" highStat="30" isRateType="1">
+		<v stat="10" weight="200" />
+		<v stat="14" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="30" weight="220" />
+		<v stat="40" weight="20" />
+		<v stat="60" weight="10" />
+	</option>
+	<option id="2010019" multipleID="2010020" groupType="2" name="firedamage" levelGroupID="1" highStat="15" isRateType="1">
+		<v stat="5" weight="200" />
+		<v stat="7" weight="250" />
+		<v stat="10" weight="300" />
+		<v stat="15" weight="220" />
+		<v stat="20" weight="28" />
+		<v stat="25" weight="2" />
+	</option>
+	<option id="2010020" groupType="2" name="firedamage" levelGroupID="1" highStat="30" isRateType="1">
+		<v stat="10" weight="200" />
+		<v stat="14" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="30" weight="220" />
+		<v stat="40" weight="28" />
+		<v stat="50" weight="2" />
+	</option>
+	<option id="2010026" groupType="2" name="parpen" levelGroupID="1" highStat="17" isRateType="1">
+		<v stat="10" weight="200" />
+		<v stat="12" weight="250" />
+		<v stat="15" weight="300" />
+		<v stat="17" weight="220" />
+		<v stat="20" weight="20" />
+		<v stat="25" weight="8" />
+		<v stat="30" weight="2" />
+	</option>
+	<option id="2010034" multipleID="2010035" groupType="2" name="stunReduce" levelGroupID="1" highStat="11" isRateType="1">
+		<v stat="3" weight="200" />
+		<v stat="5" weight="250" />
+		<v stat="7" weight="300" />
+		<v stat="9" weight="150" />
+		<v stat="11" weight="70" />
+		<v stat="13" weight="28" />
+		<v stat="14" weight="2" />
+	</option>
+	<option id="2010035" groupType="2" name="stunReduce" levelGroupID="1" highStat="22" isRateType="1">
+		<v stat="6" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="14" weight="300" />
+		<v stat="18" weight="150" />
+		<v stat="22" weight="70" />
+		<v stat="26" weight="28" />
+		<v stat="28" weight="2" />
+	</option>
+	<option id="2010037" multipleID="2010038" groupType="2" name="nearDistanceDamageReduce" levelGroupID="1" highStat="12" isRateType="1">
+		<v stat="2" weight="200" />
+		<v stat="4" weight="250" />
+		<v stat="6" weight="300" />
+		<v stat="9" weight="150" />
+		<v stat="12" weight="100" />
+	</option>
+	<option id="2010038" groupType="2" name="nearDistanceDamageReduce" levelGroupID="1" highStat="24" isRateType="1">
+		<v stat="4" weight="200" />
+		<v stat="8" weight="250" />
+		<v stat="12" weight="300" />
+		<v stat="18" weight="150" />
+		<v stat="24" weight="100" />
+	</option>
+	<option id="2010039" multipleID="2010040" groupType="2" name="KnockBackReduce" levelGroupID="1" highStat="1">
+		<v stat="1" weight="970" />
+		<v stat="2" weight="30" />
+	</option>
+	<option id="2010040" groupType="2" name="KnockBackReduce" levelGroupID="1" highStat="2">
+		<v stat="2" weight="970" />
+		<v stat="4" weight="30" />
+	</option>
+	<option id="2010152" multipleID="2010153" groupType="2" name="str" levelGroupID="1" highStat="5">
+		<v stat="2" weight="200" />
+		<v stat="3" weight="250" />
+		<v stat="4" weight="300" />
+		<v stat="5" weight="220" />
+		<v stat="6" weight="30" />
+	</option>
+	<option id="2010153" groupType="2" name="str" levelGroupID="1" highStat="10">
+		<v stat="4" weight="200" />
+		<v stat="6" weight="250" />
+		<v stat="8" weight="300" />
+		<v stat="10" weight="220" />
+		<v stat="12" weight="30" />
+	</option>
+	<option id="2010180" multipleID="2010181" groupType="2" name="hp" levelGroupID="1" highStat="25">
+		<v stat="5" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="15" weight="300" />
+		<v stat="20" weight="150" />
+		<v stat="25" weight="70" />
+		<v stat="30" weight="30" />
+	</option>
+	<option id="2010181" groupType="2" name="hp" levelGroupID="1" highStat="40">
+		<v stat="10" weight="200" />
+		<v stat="20" weight="250" />
+		<v stat="30" weight="300" />
+		<v stat="40" weight="150" />
+		<v stat="50" weight="70" />
+		<v stat="60" weight="30" />
+	</option>
+	<option id="2010187" multipleID="2010188" groupType="2" name="msp" levelGroupID="1" highStat="2">
+		<v stat="1" weight="450" />
+		<v stat="2" weight="550" />
+	</option>
+	<option id="2010188" groupType="2" name="msp" levelGroupID="1" highStat="4">
+		<v stat="2" weight="450" />
+		<v stat="4" weight="550" />
+	</option>
+	<option id="2020012" multipleID="2020015" groupType="2" name="sgi_Boss" levelGroupID="2" highStat="40" isRateType="1">
+		<v stat="10" weight="200" />
+		<v stat="15" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="30" weight="150" />
+		<v stat="40" weight="70" />
+		<v stat="43" weight="20" />
+		<v stat="46" weight="8" />
+		<v stat="50" weight="2" />
+	</option>
+	<option id="2020013" multipleID="2020014" groupType="2" name="killHPRestore" levelGroupID="2" highStat="7">
+		<v stat="3" weight="200" />
+		<v stat="4" weight="250" />
+		<v stat="5" weight="300" />
+		<v stat="6" weight="150" />
+		<v stat="7" weight="70" />
+		<v stat="8" weight="20" />
+		<v stat="9" weight="8" />
+		<v stat="10" weight="2" />
+	</option>
+	<option id="2020014" groupType="2" name="killHPRestore" levelGroupID="2" highStat="14">
+		<v stat="6" weight="200" />
+		<v stat="8" weight="250" />
+		<v stat="10" weight="300" />
+		<v stat="12" weight="150" />
+		<v stat="14" weight="70" />
+		<v stat="16" weight="20" />
+		<v stat="18" weight="8" />
+		<v stat="20" weight="2" />
+	</option>
+	<option id="2020015" groupType="2" name="sgi_Boss" levelGroupID="2" highStat="80" isRateType="1">
+		<v stat="20" weight="200" />
+		<v stat="30" weight="250" />
+		<v stat="40" weight="300" />
+		<v stat="60" weight="150" />
+		<v stat="80" weight="70" />
+		<v stat="86" weight="20" />
+		<v stat="92" weight="8" />
+		<v stat="100" weight="2" />
+	</option>
+	<option id="2020017" multipleID="2020018" groupType="2" name="receivedhealincrease" levelGroupID="2" highStat="25" isRateType="1">
+		<v stat="5" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="15" weight="300" />
+		<v stat="20" weight="150" />
+		<v stat="25" weight="70" />
+		<v stat="26" weight="20" />
+		<v stat="28" weight="8" />
+		<v stat="29" weight="2" />
+	</option>
+	<option id="2020018" groupType="2" name="receivedhealincrease" levelGroupID="2" highStat="50" isRateType="1">
+		<v stat="10" weight="200" />
+		<v stat="20" weight="250" />
+		<v stat="30" weight="300" />
+		<v stat="40" weight="150" />
+		<v stat="50" weight="70" />
+		<v stat="52" weight="20" />
+		<v stat="56" weight="8" />
+		<v stat="58" weight="2" />
+	</option>
+	<option id="2020026" groupType="2" name="parpen" levelGroupID="2" highStat="54" isRateType="1">
+		<v stat="15" weight="200" />
+		<v stat="22" weight="250" />
+		<v stat="30" weight="300" />
+		<v stat="42" weight="150" />
+		<v stat="54" weight="70" />
+		<v stat="60" weight="20" />
+		<v stat="70" weight="8" />
+		<v stat="74" weight="2" />
+	</option>
+	<option id="2020034" multipleID="2020035" groupType="2" name="stunReduce" levelGroupID="2" highStat="21" isRateType="1">
+		<v stat="6" weight="200" />
+		<v stat="9" weight="250" />
+		<v stat="13" weight="300" />
+		<v stat="17" weight="150" />
+		<v stat="21" weight="70" />
+		<v stat="24" weight="20" />
+		<v stat="28" weight="8" />
+		<v stat="31" weight="2" />
+	</option>
+	<option id="2020035" groupType="2" name="stunReduce" levelGroupID="2" highStat="42" isRateType="1">
+		<v stat="12" weight="200" />
+		<v stat="18" weight="250" />
+		<v stat="26" weight="300" />
+		<v stat="34" weight="150" />
+		<v stat="42" weight="70" />
+		<v stat="48" weight="20" />
+		<v stat="56" weight="8" />
+		<v stat="62" weight="2" />
+	</option>
+	<option id="2020036" groupType="2" name="conditionReduce" levelGroupID="2" highStat="40" isRateType="1">
+		<v stat="15" weight="200" />
+		<v stat="22" weight="250" />
+		<v stat="28" weight="300" />
+		<v stat="34" weight="150" />
+		<v stat="40" weight="70" />
+		<v stat="45" weight="20" />
+		<v stat="50" weight="8" />
+		<v stat="59" weight="2" />
+	</option>
+	<option id="2020037" multipleID="2020038" groupType="2" name="nearDistanceDamageReduce" levelGroupID="2" highStat="20" isRateType="1">
+		<v stat="6" weight="200" />
+		<v stat="9" weight="250" />
+		<v stat="12" weight="300" />
+		<v stat="16" weight="150" />
+		<v stat="20" weight="70" />
+		<v stat="22" weight="20" />
+		<v stat="24" weight="8" />
+		<v stat="26" weight="2" />
+	</option>
+	<option id="2020038" groupType="2" name="nearDistanceDamageReduce" levelGroupID="2" highStat="40" isRateType="1">
+		<v stat="12" weight="200" />
+		<v stat="18" weight="250" />
+		<v stat="24" weight="300" />
+		<v stat="32" weight="150" />
+		<v stat="40" weight="70" />
+		<v stat="44" weight="20" />
+		<v stat="48" weight="8" />
+		<v stat="52" weight="2" />
+	</option>
+	<option id="2020039" groupType="2" name="KnockBackReduce" levelGroupID="2" highStat="3">
+		<v stat="1" weight="200" />
+		<v stat="2" weight="700" />
+		<v stat="3" weight="90" />
+		<v stat="4" weight="10" />
+	</option>
+	<option id="2020152" multipleID="2020153" groupType="2" name="str" levelGroupID="2" highStat="14">
+		<v stat="4" weight="200" />
+		<v stat="6" weight="250" />
+		<v stat="8" weight="300" />
+		<v stat="11" weight="150" />
+		<v stat="14" weight="70" />
+		<v stat="15" weight="20" />
+		<v stat="17" weight="8" />
+		<v stat="18" weight="2" />
+	</option>
+	<option id="2020153" groupType="2" name="str" levelGroupID="2" highStat="28">
+		<v stat="8" weight="200" />
+		<v stat="12" weight="250" />
+		<v stat="16" weight="300" />
+		<v stat="22" weight="150" />
+		<v stat="28" weight="70" />
+		<v stat="30" weight="20" />
+		<v stat="34" weight="8" />
+		<v stat="36" weight="2" />
+	</option>
+	<option id="2020180" multipleID="2020181" groupType="2" name="hp" levelGroupID="2" highStat="40">
+		<v stat="15" weight="200" />
+		<v stat="20" weight="250" />
+		<v stat="25" weight="300" />
+		<v stat="30" weight="150" />
+		<v stat="40" weight="70" />
+		<v stat="45" weight="20" />
+		<v stat="50" weight="8" />
+		<v stat="55" weight="2" />
+	</option>
+	<option id="2020181" groupType="2" name="hp" levelGroupID="2" highStat="80">
+		<v stat="30" weight="200" />
+		<v stat="40" weight="250" />
+		<v stat="50" weight="300" />
+		<v stat="60" weight="150" />
+		<v stat="80" weight="70" />
+		<v stat="90" weight="20" />
+		<v stat="100" weight="8" />
+		<v stat="110" weight="2" />
+	</option>
+	<option id="2020186" groupType="2" name="asp" levelGroupID="2" highStat="4">
+		<v stat="2" weight="450" />
+		<v stat="3" weight="450" />
+		<v stat="4" weight="90" />
+		<v stat="5" weight="10" />
+	</option>
+	<option id="2020187" groupType="2" name="msp" levelGroupID="2" highStat="4">
+		<v stat="2" weight="450" />
+		<v stat="3" weight="450" />
+		<v stat="4" weight="70" />
+		<v stat="5" weight="20" />
+		<v stat="6" weight="8" />
+		<v stat="7" weight="2" />
+	</option>
+	<option id="2020188" multipleID="2020191" groupType="2" name="atp" levelGroupID="2" highStat="4">
+		<v stat="1" weight="200" />
+		<v stat="2" weight="550" />
+		<v stat="3" weight="150" />
+		<v stat="4" weight="90" />
+		<v stat="5" weight="8" />
+		<v stat="6" weight="2" />
+	</option>
+	<option id="2020189" multipleID="2020190" groupType="2" name="evp" levelGroupID="2" highStat="4">
+		<v stat="2" weight="450" />
+		<v stat="3" weight="450" />
+		<v stat="4" weight="90" />
+		<v stat="5" weight="8" />
+		<v stat="6" weight="2" />
+	</option>
+	<option id="2020190" groupType="2" name="evp" levelGroupID="2" highStat="8">
+		<v stat="4" weight="450" />
+		<v stat="6" weight="450" />
+		<v stat="8" weight="90" />
+		<v stat="10" weight="8" />
+		<v stat="12" weight="2" />
+	</option>
+	<option id="2020191" groupType="2" name="atp" levelGroupID="2" highStat="8">
+		<v stat="2" weight="200" />
+		<v stat="4" weight="550" />
+		<v stat="6" weight="150" />
+		<v stat="8" weight="90" />
+		<v stat="10" weight="8" />
+		<v stat="12" weight="2" />
+	</option>
+	<option id="2020192" multipleID="2020193" groupType="2" name="car" levelGroupID="2" highStat="8">
+		<v stat="4" weight="200" />
+		<v stat="5" weight="250" />
+		<v stat="6" weight="300" />
+		<v stat="7" weight="150" />
+		<v stat="8" weight="70" />
+		<v stat="9" weight="20" />
+		<v stat="10" weight="8" />
+		<v stat="11" weight="2" />
+	</option>
+	<option id="2020193" groupType="2" name="car" levelGroupID="2" highStat="16">
+		<v stat="8" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="12" weight="300" />
+		<v stat="14" weight="150" />
+		<v stat="16" weight="70" />
+		<v stat="18" weight="20" />
+		<v stat="20" weight="8" />
+		<v stat="22" weight="2" />
+	</option>
+	<option id="2020195" multipleID="2020196" groupType="2" name="pap" levelGroupID="2" highStat="9">
+		<v stat="2" weight="200" />
+		<v stat="4" weight="250" />
+		<v stat="5" weight="300" />
+		<v stat="7" weight="150" />
+		<v stat="9" weight="70" />
+		<v stat="10" weight="20" />
+		<v stat="11" weight="8" />
+		<v stat="12" weight="2" />
+	</option>
+	<option id="2020196" groupType="2" name="pap" levelGroupID="2" highStat="18">
+		<v stat="4" weight="200" />
+		<v stat="8" weight="250" />
+		<v stat="10" weight="300" />
+		<v stat="14" weight="150" />
+		<v stat="18" weight="70" />
+		<v stat="20" weight="20" />
+		<v stat="22" weight="8" />
+		<v stat="24" weight="2" />
+	</option>
+	<option id="2020197" multipleID="2020198" groupType="2" name="par" levelGroupID="2" highStat="15">
+		<v stat="3" weight="200" />
+		<v stat="6" weight="250" />
+		<v stat="9" weight="300" />
+		<v stat="12" weight="150" />
+		<v stat="15" weight="70" />
+		<v stat="17" weight="20" />
+		<v stat="20" weight="8" />
+		<v stat="22" weight="2" />
+	</option>
+	<option id="2020198" groupType="2" name="par" levelGroupID="2" highStat="30">
+		<v stat="6" weight="200" />
+		<v stat="12" weight="250" />
+		<v stat="18" weight="300" />
+		<v stat="24" weight="150" />
+		<v stat="30" weight="70" />
+		<v stat="34" weight="20" />
+		<v stat="40" weight="8" />
+		<v stat="44" weight="2" />
+	</option>
+	<option id="2030028" groupType="2" name="icedamagereduce" levelGroupID="3" highStat="44" isRateType="1">
+		<v stat="16" weight="200" />
+		<v stat="22" weight="250" />
+		<v stat="27" weight="300" />
+		<v stat="33" weight="150" />
+		<v stat="44" weight="70" />
+		<v stat="49" weight="20" />
+		<v stat="55" weight="8" />
+		<v stat="60" weight="2" />
+	</option>
+	<option id="2030037" groupType="2" name="nearDistanceDamageReduce" levelGroupID="3" highStat="29" isRateType="1">
+		<v stat="11" weight="200" />
+		<v stat="15" weight="250" />
+		<v stat="18" weight="300" />
+		<v stat="22" weight="150" />
+		<v stat="29" weight="70" />
+		<v stat="33" weight="20" />
+		<v stat="36" weight="8" />
+		<v stat="40" weight="2" />
+	</option>
+	<option id="2030180" groupType="2" name="hp" levelGroupID="3" highStat="277">
+		<v stat="104" weight="200" />
+		<v stat="139" weight="250" />
+		<v stat="173" weight="300" />
+		<v stat="208" weight="150" />
+		<v stat="277" weight="70" />
+		<v stat="312" weight="20" />
+		<v stat="347" weight="8" />
+		<v stat="382" weight="2" />
+	</option>
+	<option id="2030189" groupType="2" name="evp" levelGroupID="3" highStat="4">
+		<v stat="2" weight="450" />
+		<v stat="3" weight="300" />
+		<v stat="4" weight="220" />
+		<v stat="5" weight="20" />
+		<v stat="6" weight="8" />
+		<v stat="7" weight="2" />
+	</option>
+	<option id="2030192" groupType="2" name="car" levelGroupID="3" highStat="21">
+		<v stat="8" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="13" weight="300" />
+		<v stat="16" weight="150" />
+		<v stat="21" weight="70" />
+		<v stat="24" weight="20" />
+		<v stat="27" weight="8" />
+		<v stat="30" weight="2" />
+	</option>
+	<option id="2030197" groupType="2" name="par" levelGroupID="3" highStat="32">
+		<v stat="12" weight="200" />
+		<v stat="16" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="24" weight="150" />
+		<v stat="32" weight="70" />
+		<v stat="36" weight="20" />
+		<v stat="40" weight="8" />
+		<v stat="45" weight="2" />
+	</option>
+	<option id="3010035" groupType="3" name="skillCooldown" levelGroupID="1" highStat="9" isRateType="1">
+		<v stat="1" weight="200" />
+		<v stat="3" weight="250" />
+		<v stat="6" weight="300" />
+		<v stat="9" weight="220" />
+		<v stat="13" weight="30" />
+	</option>
+	<option id="3010036" groupType="3" name="conditionReduce" levelGroupID="1" highStat="20" isRateType="1">
+		<v stat="5" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="15" weight="300" />
+		<v stat="17" weight="150" />
+		<v stat="20" weight="70" />
+		<v stat="22" weight="30" />
+	</option>
+	<option id="3010091" groupType="3" name="improve_massive_ox_exp" levelGroupID="1" highStat="64" isRateType="1">
+		<v stat="32" weight="200" />
+		<v stat="48" weight="550" />
+		<v stat="64" weight="250" />
+	</option>
+	<option id="3010098" groupType="3" name="improve_massive_ox_msp" levelGroupID="1" highStat="6">
+		<v stat="2" weight="200" />
+		<v stat="4" weight="550" />
+		<v stat="6" weight="250" />
+	</option>
+	<option id="3010101" groupType="3" name="improve_massive_crazyrunner_msp" levelGroupID="1" highStat="3">
+		<v stat="1" weight="200" />
+		<v stat="2" weight="550" />
+		<v stat="3" weight="250" />
+	</option>
+	<option id="3010105" groupType="3" name="npc_hit_reward_sp_ball" levelGroupID="1" highStat="10" isRateType="1">
+		<v stat="4" weight="200" />
+		<v stat="7" weight="550" />
+		<v stat="10" weight="250" />
+	</option>
+	<option id="3010139" groupType="3" name="mining_double_mastery" levelGroupID="1" highStat="18" isRateType="1">
+		<v stat="6" weight="200" />
+		<v stat="10" weight="250" />
+		<v stat="14" weight="300" />
+		<v stat="18" weight="250" />
+	</option>
+	<option id="3010190" groupType="3" name="cap" levelGroupID="1" highStat="10">
+		<v stat="6" weight="200" />
+		<v stat="7" weight="250" />
+		<v stat="8" weight="300" />
+		<v stat="9" weight="150" />
+		<v stat="10" weight="70" />
+		<v stat="11" weight="20" />
+		<v stat="12" weight="8" />
+		<v stat="13" weight="2" />
+	</option>
+	<option id="3010191" groupType="3" name="cad" levelGroupID="1" highStat="35">
+		<v stat="10" weight="200" />
+		<v stat="15" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="30" weight="150" />
+		<v stat="35" weight="70" />
+		<v stat="40" weight="20" />
+		<v stat="45" weight="8" />
+		<v stat="50" weight="2" />
+	</option>
+	<option id="3010199" groupType="3" name="pen" levelGroupID="1" highStat="11" isRateType="1">
+		<v stat="1" weight="200" />
+		<v stat="3" weight="250" />
+		<v stat="5" weight="300" />
+		<v stat="8" weight="150" />
+		<v stat="11" weight="70" />
+		<v stat="13" weight="20" />
+		<v stat="15" weight="8" />
+		<v stat="18" weight="2" />
+	</option>
+	<option id="3020002" groupType="3" name="smd" levelGroupID="2" highStat="28" isRateType="1">
+		<v stat="12" weight="200" />
+		<v stat="16" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="24" weight="150" />
+		<v stat="28" weight="70" />
+		<v stat="32" weight="20" />
+		<v stat="36" weight="8" />
+		<v stat="40" weight="2" />
+	</option>
+	<option id="3020007" groupType="3" name="finalAdditionalDamage" levelGroupID="2" highStat="8" isRateType="1">
+		<v stat="3" weight="200" />
+		<v stat="4" weight="250" />
+		<v stat="5" weight="300" />
+		<v stat="6" weight="150" />
+		<v stat="8" weight="70" />
+		<v stat="10" weight="20" />
+		<v stat="12" weight="8" />
+		<v stat="14" weight="2" />
+	</option>
+	<option id="3020012" groupType="3" name="sgi_Boss" levelGroupID="2" highStat="40" isRateType="1">
+		<v stat="10" weight="200" />
+		<v stat="15" weight="250" />
+		<v stat="20" weight="300" />
+		<v stat="30" weight="150" />
+		<v stat="40" weight="70" />
+		<v stat="45" weight="20" />
+		<v stat="50" weight="8" />
+		<v stat="60" weight="2" />
+	</option>
+	<option id="3020026" groupType="3" name="parpen" levelGroupID="2" highStat="50" isRateType="1">
+		<v stat="15" weight="200" />
+		<v stat="20" weight="250" />
+		<v stat="30" weight="300" />
+		<v stat="40" weight="150" />
+		<v stat="50" weight="70" />
+		<v stat="54" weight="20" />
+		<v stat="60" weight="8" />
+		<v stat="64" weight="2" />
+	</option>
+	<option id="3020048" groupType="3" name="npckilldropitemincrate" levelGroupID="2" highStat="14" isRateType="1">
+		<v stat="6" weight="200" />
+		<v stat="8" weight="250" />
+		<v stat="10" weight="300" />
+		<v stat="12" weight="150" />
+		<v stat="14" weight="70" />
+		<v stat="16" weight="20" />
+		<v stat="18" weight="8" />
+		<v stat="20" weight="2" />
+	</option>
+	<option id="3020059" groupType="3" name="seg_fishingreward" levelGroupID="2" highStat="31" isRateType="1">
+		<v stat="19" weight="200" />
+		<v stat="22" weight="250" />
+		<v stat="25" weight="300" />
+		<v stat="28" weight="150" />
+		<v stat="31" weight="70" />
+		<v stat="34" weight="20" />
+		<v stat="37" weight="8" />
+		<v stat="40" weight="2" />
+	</option>
+	<option id="3020115" groupType="3" name="improve_glide_vertical_velocity" levelGroupID="2" highStat="70" isRateType="1">
+		<v stat="30" weight="200" />
+		<v stat="40" weight="250" />
+		<v stat="50" weight="300" />
+		<v stat="60" weight="150" />
+		<v stat="70" weight="70" />
+		<v stat="80" weight="20" />
+		<v stat="90" weight="8" />
+		<v stat="100" weight="2" />
+	</option>
+	<option id="3020188" groupType="3" name="atp" levelGroupID="2" highStat="4">
+		<v stat="1" weight="200" />
+		<v stat="2" weight="550" />
+		<v stat="3" weight="150" />
+		<v stat="4" weight="70" />
+		<v stat="5" weight="20" />
+		<v stat="6" weight="8" />
+		<v stat="7" weight="2" />
+	</option>
+	<option id="3020190" groupType="3" name="cap" levelGroupID="2" highStat="50">
+		<v stat="10" weight="200" />
+		<v stat="20" weight="250" />
+		<v stat="30" weight="300" />
+		<v stat="40" weight="150" />
+		<v stat="50" weight="70" />
+		<v stat="55" weight="20" />
+		<v stat="65" weight="8" />
+		<v stat="70" weight="2" />
+	</option>
+	<option id="3020191" groupType="3" name="cad" levelGroupID="2" highStat="160">
+		<v stat="40" weight="200" />
+		<v stat="70" weight="250" />
+		<v stat="100" weight="300" />
+		<v stat="130" weight="150" />
+		<v stat="160" weight="70" />
+		<v stat="170" weight="20" />
+		<v stat="190" weight="8" />
+		<v stat="210" weight="2" />
+	</option>
+	<option id="3020199" groupType="3" name="pen" levelGroupID="2" highStat="25" isRateType="1">
+		<v stat="3" weight="200" />
+		<v stat="8" weight="250" />
+		<v stat="13" weight="300" />
+		<v stat="19" weight="150" />
+		<v stat="25" weight="70" />
+		<v stat="30" weight="20" />
+		<v stat="35" weight="8" />
+		<v stat="40" weight="2" />
+	</option>
+	<option id="4010007" groupType="4" name="finalAdditionalDamage" levelGroupID="1" highStat="20" isRateType="1">
+		<v stat="4" />
+		<v stat="8" />
+		<v stat="12" />
+		<v stat="16" />
+		<v stat="20" />
+	</option>
+	<option id="4010024" groupType="4" name="nddIncrease" levelGroupID="1" highStat="22" isRateType="1">
+		<v stat="6" />
+		<v stat="10" />
+		<v stat="14" />
+		<v stat="18" />
+		<v stat="22" />
+	</option>
+	<option id="4010026" groupType="4" name="parpen" levelGroupID="1" highStat="25" isRateType="1">
+		<v stat="5" />
+		<v stat="10" />
+		<v stat="15" />
+		<v stat="20" />
+		<v stat="25" />
+	</option>
+	<option id="4010180" groupType="4" name="hp" levelGroupID="1" highStat="85">
+		<v stat="17" />
+		<v stat="34" />
+		<v stat="51" />
+		<v stat="68" />
+		<v stat="85" />
+	</option>
+	<option id="4010186" groupType="4" name="asp" levelGroupID="1" highStat="2">
+		<v stat="1" weight="3" />
+		<v stat="2" weight="2" />
+	</option>
+	<option id="4010190" groupType="4" name="cap" levelGroupID="1" highStat="30">
+		<v stat="6" />
+		<v stat="12" />
+		<v stat="18" />
+		<v stat="24" />
+		<v stat="30" />
+	</option>
+	<option id="4010191" groupType="4" name="cad" levelGroupID="1" highStat="90">
+		<v stat="18" />
+		<v stat="36" />
+		<v stat="54" />
+		<v stat="72" />
+		<v stat="90" />
+	</option>
+	<option id="4010195" groupType="4" name="pap" levelGroupID="1" highStat="8">
+		<v stat="1" />
+		<v stat="2" />
+		<v stat="4" />
+		<v stat="6" />
+		<v stat="8" />
+	</option>
+	<option id="4020007" groupType="4" name="finalAdditionalDamage" levelGroupID="2" highStat="28" isRateType="1">
+		<v stat="4" weight="50" />
+		<v stat="8" weight="100" />
+		<v stat="12" weight="150" />
+		<v stat="16" weight="200" />
+		<v stat="20" weight="250" />
+		<v stat="24" weight="150" />
+		<v stat="28" weight="70" />
+		<v stat="32" weight="20" />
+		<v stat="36" weight="8" />
+		<v stat="40" weight="2" />
+	</option>
+	<option id="4020024" groupType="4" name="nddIncrease" levelGroupID="2" highStat="30" isRateType="1">
+		<v stat="6" weight="50" />
+		<v stat="10" weight="100" />
+		<v stat="14" weight="150" />
+		<v stat="18" weight="200" />
+		<v stat="22" weight="250" />
+		<v stat="26" weight="150" />
+		<v stat="30" weight="70" />
+		<v stat="34" weight="20" />
+		<v stat="38" weight="8" />
+		<v stat="42" weight="2" />
+	</option>
+	<option id="4020026" groupType="4" name="parpen" levelGroupID="2" highStat="35" isRateType="1">
+		<v stat="5" weight="50" />
+		<v stat="10" weight="100" />
+		<v stat="15" weight="150" />
+		<v stat="20" weight="200" />
+		<v stat="25" weight="250" />
+		<v stat="30" weight="150" />
+		<v stat="35" weight="70" />
+		<v stat="40" weight="20" />
+		<v stat="45" weight="8" />
+		<v stat="50" weight="2" />
+	</option>
+	<option id="4020180" groupType="4" name="hp" levelGroupID="2" highStat="119">
+		<v stat="17" weight="50" />
+		<v stat="34" weight="100" />
+		<v stat="51" weight="150" />
+		<v stat="68" weight="200" />
+		<v stat="85" weight="250" />
+		<v stat="102" weight="150" />
+		<v stat="119" weight="70" />
+		<v stat="136" weight="20" />
+		<v stat="153" weight="8" />
+		<v stat="170" weight="2" />
+	</option>
+	<option id="4020186" groupType="4" name="asp" levelGroupID="2" highStat="3">
+		<v stat="1" weight="300" />
+		<v stat="2" weight="450" />
+		<v stat="3" weight="220" />
+		<v stat="4" weight="28" />
+		<v stat="5" weight="2" />
+	</option>
+	<option id="4020190" groupType="4" name="cap" levelGroupID="2" highStat="42">
+		<v stat="6" weight="50" />
+		<v stat="12" weight="100" />
+		<v stat="18" weight="150" />
+		<v stat="24" weight="200" />
+		<v stat="30" weight="250" />
+		<v stat="36" weight="150" />
+		<v stat="42" weight="70" />
+		<v stat="48" weight="20" />
+		<v stat="54" weight="8" />
+		<v stat="60" weight="2" />
+	</option>
+	<option id="4020191" groupType="4" name="cad" levelGroupID="2" highStat="126">
+		<v stat="18" weight="50" />
+		<v stat="36" weight="100" />
+		<v stat="54" weight="150" />
+		<v stat="72" weight="200" />
+		<v stat="90" weight="250" />
+		<v stat="108" weight="150" />
+		<v stat="126" weight="70" />
+		<v stat="144" weight="20" />
+		<v stat="162" weight="8" />
+		<v stat="180" weight="2" />
+	</option>
+	<option id="4020195" groupType="4" name="pap" levelGroupID="2" highStat="10">
+		<v stat="1" weight="50" />
+		<v stat="2" weight="100" />
+		<v stat="4" weight="150" />
+		<v stat="6" weight="200" />
+		<v stat="8" weight="250" />
+		<v stat="9" weight="150" />
+		<v stat="10" weight="70" />
+		<v stat="12" weight="20" />
+		<v stat="14" weight="8" />
+		<v stat="16" weight="2" />
+	</option>
+</ms2>
