@@ -575,9 +575,16 @@ public class Converter {
     // preserved automatically (they simply aren't rewritten). The one thing that needs cleaning
     // is the individual quest/script source files, which are replaced by the combined outputs
     // (questdescription_final.xml / scriptquest.xml) — remove them so they don't co-exist.
-    private void RemoveAbsorbedSourceFiles(string locale) {
+    private void RemoveAbsorbedSourceFiles(string locale, bool questWritten, bool scriptWritten) {
         string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
+            return;
+        }
+
+        // Only drop a family's fragments when its combined output was actually WRITTEN this run
+        // (not merely when the JSON exists). A partially translated locale, an empty combined JSON,
+        // or a failed conversion writes nothing — deleting the fragments then would lose data.
+        if (!questWritten && !scriptWritten) {
             return;
         }
 
@@ -589,7 +596,7 @@ public class Converter {
 
         int removed = 0;
         foreach (string file in Directory.GetFiles(dir, "*.xml")) {
-            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file))) {
+            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file), questWritten, scriptWritten)) {
                 File.Delete(file);
                 removed++;
             }
@@ -600,9 +607,19 @@ public class Converter {
         }
     }
 
-    private static bool IsAbsorbedByCombinedOutput(string fileName) {
-        return fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)
-            || fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase);
+    private static bool IsAbsorbedByCombinedOutput(string fileName, bool questWritten, bool scriptWritten) {
+        // Never delete the combined outputs themselves, even though they share the fragment prefix.
+        if (fileName.Equals("questdescription_final.xml", StringComparison.OrdinalIgnoreCase)
+            || fileName.Equals("scriptquest.xml", StringComparison.OrdinalIgnoreCase)) {
+            return false;
+        }
+        if (fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)) {
+            return questWritten;
+        }
+        if (fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase)) {
+            return scriptWritten;
+        }
+        return false;
     }
 
     private bool ProcessJsonToXml(string locale) {
@@ -613,11 +630,9 @@ public class Converter {
             return false;
         }
 
-        // Generation writes in place; drop the individual quest/script files that the combined
-        // outputs replace so they don't co-exist.
-        RemoveAbsorbedSourceFiles(locale);
-
         bool anyFailure = false;
+        bool questFinalWritten = false;
+        bool scriptFinalWritten = false;
         foreach (FileInfo jsonFile in jsonFiles) {
             Console.WriteLine($"Converting {jsonFile.Name} to XML...");
 
@@ -633,7 +648,7 @@ public class Converter {
 
                 // Handle questdescription_final.json specially - convert with sorted questIDs
                 if (jsonFile.Name == "questdescription_final.json") {
-                    ConvertQuestDescriptionFinalWithSorting(jsonContent, locale);
+                    questFinalWritten = ConvertQuestDescriptionFinalWithSorting(jsonContent, locale);
                 } else if (jsonFile.Name == "skillname.json") {
                     // Handle skillname.json specially - split into multiple XML files based on skill ID ranges
                     ConvertSkillNameWithSplitting(jsonContent, locale);
@@ -652,11 +667,21 @@ public class Converter {
 
                     Console.WriteLine($"Successfully converted {jsonFile.Name} to {xmlFileName}");
                 }
+
+                // scriptquest uses the generic path, which writes all entries of a non-empty JSON;
+                // questdescription_final reports whether it actually wrote content (assigned above).
+                if (jsonFile.Name == "scriptquest.json") {
+                    scriptFinalWritten = true;
+                }
             } catch (Exception ex) {
                 Console.WriteLine($"Error converting {jsonFile.Name}: {ex.Message}");
                 anyFailure = true;
             }
         }
+
+        // Cleanup runs AFTER generation: drop the individual quest/script fragments only for a
+        // family whose combined output was actually written this run (never the combined itself).
+        RemoveAbsorbedSourceFiles(locale, questFinalWritten, scriptFinalWritten);
 
         return !anyFailure;
     }
@@ -1470,7 +1495,9 @@ public class Converter {
 
     private string GetXmlElementName(string fileName) {
         // Remove .json extension if present
-        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "");
+        // Trim: "questdescription_famefield .xml" ships with a trailing space in its
+        // name, which otherwise misses the lookup and silently drops every entry.
+        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "").Trim();
 
         // Create lookup dictionary for filename to XML element name mapping
         var elementNameLookup = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
@@ -1520,7 +1547,11 @@ public class Converter {
             }, {
                 "pvpmode", "PVPMessage"
             }, {
+                "questdescription_daily", "quest"
+            }, {
                 "questdescription_dailymission", "quest"
+            }, {
+                "questdescription_eventjp", "quest"
             }, {
                 "questdescription_epic", "quest"
             }, {
@@ -1595,7 +1626,9 @@ public class Converter {
 
     private string GetKeyAttributeName(string fileName) {
         // Remove .json extension if present
-        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "");
+        // Trim: "questdescription_famefield .xml" ships with a trailing space in its
+        // name, which otherwise misses the lookup and silently drops every entry.
+        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "").Trim();
 
         // Create lookup dictionary for filename to key attribute name mapping
         var keyAttributeLookup = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
@@ -1613,7 +1646,11 @@ public class Converter {
             }, {
                 "pvpmode", "key"
             }, {
+                "questdescription_daily", "questID"
+            }, {
                 "questdescription_dailymission", "questID"
+            }, {
+                "questdescription_eventjp", "questID"
             }, {
                 "questdescription_epic", "questID"
             }, {
@@ -1667,7 +1704,9 @@ public class Converter {
 
     private string? GetSecondaryKeyAttributeName(string fileName) {
         // Remove .json extension if present
-        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "");
+        // Trim: "questdescription_famefield .xml" ships with a trailing space in its
+        // name, which otherwise misses the lookup and silently drops every entry.
+        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "").Trim();
 
         // Create lookup dictionary for filename to secondary key attribute name mapping
         var secondaryKeyLookup = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
@@ -2155,7 +2194,9 @@ public class Converter {
         return xmlContent.Replace("'", "&apos;");
     }
 
-    private void ConvertQuestDescriptionFinalWithSorting(string jsonContent, string locale) {
+    // Returns true only if a non-empty questdescription_final.xml was written, so the caller can
+    // decide whether the source fragments it absorbs are safe to remove.
+    private bool ConvertQuestDescriptionFinalWithSorting(string jsonContent, string locale) {
         JObject jsonObject = JObject.Parse(jsonContent);
 
         // Create a list to store quest entries with their parsed quest IDs for sorting
@@ -2179,6 +2220,13 @@ public class Converter {
             }
         }
 
+        // No parseable quests: don't overwrite the existing questdescription_final.xml with an empty
+        // file, and report failure so its absorbed source fragments are NOT removed.
+        if (questEntries.Count == 0) {
+            Console.WriteLine("No valid quest entries in questdescription_final.json — leaving questdescription_final.xml untouched.");
+            return false;
+        }
+
         // Sort by quest ID in ascending order
         questEntries.Sort((a, b) => a.questId.CompareTo(b.questId));
 
@@ -2195,5 +2243,6 @@ public class Converter {
         SaveXmlFile("questdescription_final.xml", xmlContent, locale);
 
         Console.WriteLine($"Successfully converted questdescription_final.json to questdescription_final.xml with {questEntries.Count} quests sorted by questID");
+        return true;
     }
 }
