@@ -575,9 +575,27 @@ public class Converter {
     // preserved automatically (they simply aren't rewritten). The one thing that needs cleaning
     // is the individual quest/script source files, which are replaced by the combined outputs
     // (questdescription_final.xml / scriptquest.xml) — remove them so they don't co-exist.
-    private void RemoveAbsorbedSourceFiles(string locale) {
+    private void RemoveAbsorbedSourceFiles(string locale, FileInfo[] jsonFiles) {
         string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
+            return;
+        }
+
+        // Only drop a split file when the combined output that absorbs it is actually going to be
+        // written for this locale. A partially translated locale (e.g. pt, which only has
+        // itemname.json and korflash.json) has no questdescription_final.json / scriptquest.json,
+        // so removing its quest files deletes translations and puts nothing back.
+        bool hasQuestOutput = false;
+        bool hasScriptOutput = false;
+        foreach (FileInfo jsonFile in jsonFiles) {
+            if (string.Equals(jsonFile.Name, "questdescription_final.json", StringComparison.OrdinalIgnoreCase)) {
+                hasQuestOutput = true;
+            } else if (string.Equals(jsonFile.Name, "scriptquest.json", StringComparison.OrdinalIgnoreCase)) {
+                hasScriptOutput = true;
+            }
+        }
+
+        if (!hasQuestOutput && !hasScriptOutput) {
             return;
         }
 
@@ -589,7 +607,7 @@ public class Converter {
 
         int removed = 0;
         foreach (string file in Directory.GetFiles(dir, "*.xml")) {
-            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file))) {
+            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file), hasQuestOutput, hasScriptOutput)) {
                 File.Delete(file);
                 removed++;
             }
@@ -600,9 +618,14 @@ public class Converter {
         }
     }
 
-    private static bool IsAbsorbedByCombinedOutput(string fileName) {
-        return fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)
-            || fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase);
+    private static bool IsAbsorbedByCombinedOutput(string fileName, bool hasQuestOutput, bool hasScriptOutput) {
+        if (fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)) {
+            return hasQuestOutput;
+        }
+        if (fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase)) {
+            return hasScriptOutput;
+        }
+        return false;
     }
 
     private bool ProcessJsonToXml(string locale) {
@@ -615,7 +638,7 @@ public class Converter {
 
         // Generation writes in place; drop the individual quest/script files that the combined
         // outputs replace so they don't co-exist.
-        RemoveAbsorbedSourceFiles(locale);
+        RemoveAbsorbedSourceFiles(locale, jsonFiles);
 
         bool anyFailure = false;
         foreach (FileInfo jsonFile in jsonFiles) {
@@ -1470,7 +1493,9 @@ public class Converter {
 
     private string GetXmlElementName(string fileName) {
         // Remove .json extension if present
-        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "");
+        // Trim: "questdescription_famefield .xml" ships with a trailing space in its
+        // name, which otherwise misses the lookup and silently drops every entry.
+        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "").Trim();
 
         // Create lookup dictionary for filename to XML element name mapping
         var elementNameLookup = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
@@ -1520,7 +1545,11 @@ public class Converter {
             }, {
                 "pvpmode", "PVPMessage"
             }, {
+                "questdescription_daily", "quest"
+            }, {
                 "questdescription_dailymission", "quest"
+            }, {
+                "questdescription_eventjp", "quest"
             }, {
                 "questdescription_epic", "quest"
             }, {
@@ -1595,7 +1624,9 @@ public class Converter {
 
     private string GetKeyAttributeName(string fileName) {
         // Remove .json extension if present
-        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "");
+        // Trim: "questdescription_famefield .xml" ships with a trailing space in its
+        // name, which otherwise misses the lookup and silently drops every entry.
+        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "").Trim();
 
         // Create lookup dictionary for filename to key attribute name mapping
         var keyAttributeLookup = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
@@ -1613,7 +1644,11 @@ public class Converter {
             }, {
                 "pvpmode", "key"
             }, {
+                "questdescription_daily", "questID"
+            }, {
                 "questdescription_dailymission", "questID"
+            }, {
+                "questdescription_eventjp", "questID"
             }, {
                 "questdescription_epic", "questID"
             }, {
@@ -1667,7 +1702,9 @@ public class Converter {
 
     private string? GetSecondaryKeyAttributeName(string fileName) {
         // Remove .json extension if present
-        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "");
+        // Trim: "questdescription_famefield .xml" ships with a trailing space in its
+        // name, which otherwise misses the lookup and silently drops every entry.
+        string baseFileName = fileName.Replace(".json", "").Replace(".xml", "").Trim();
 
         // Create lookup dictionary for filename to secondary key attribute name mapping
         var secondaryKeyLookup = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase) {
