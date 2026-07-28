@@ -575,27 +575,16 @@ public class Converter {
     // preserved automatically (they simply aren't rewritten). The one thing that needs cleaning
     // is the individual quest/script source files, which are replaced by the combined outputs
     // (questdescription_final.xml / scriptquest.xml) — remove them so they don't co-exist.
-    private void RemoveAbsorbedSourceFiles(string locale, FileInfo[] jsonFiles) {
+    private void RemoveAbsorbedSourceFiles(string locale, bool questWritten, bool scriptWritten) {
         string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
             return;
         }
 
-        // Only drop a split file when the combined output that absorbs it is actually going to be
-        // written for this locale. A partially translated locale (e.g. pt, which only has
-        // itemname.json and korflash.json) has no questdescription_final.json / scriptquest.json,
-        // so removing its quest files deletes translations and puts nothing back.
-        bool hasQuestOutput = false;
-        bool hasScriptOutput = false;
-        foreach (FileInfo jsonFile in jsonFiles) {
-            if (string.Equals(jsonFile.Name, "questdescription_final.json", StringComparison.OrdinalIgnoreCase)) {
-                hasQuestOutput = true;
-            } else if (string.Equals(jsonFile.Name, "scriptquest.json", StringComparison.OrdinalIgnoreCase)) {
-                hasScriptOutput = true;
-            }
-        }
-
-        if (!hasQuestOutput && !hasScriptOutput) {
+        // Only drop a family's fragments when its combined output was actually WRITTEN this run
+        // (not merely when the JSON exists). A partially translated locale, an empty combined JSON,
+        // or a failed conversion writes nothing — deleting the fragments then would lose data.
+        if (!questWritten && !scriptWritten) {
             return;
         }
 
@@ -607,7 +596,7 @@ public class Converter {
 
         int removed = 0;
         foreach (string file in Directory.GetFiles(dir, "*.xml")) {
-            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file), hasQuestOutput, hasScriptOutput)) {
+            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file), questWritten, scriptWritten)) {
                 File.Delete(file);
                 removed++;
             }
@@ -618,12 +607,17 @@ public class Converter {
         }
     }
 
-    private static bool IsAbsorbedByCombinedOutput(string fileName, bool hasQuestOutput, bool hasScriptOutput) {
+    private static bool IsAbsorbedByCombinedOutput(string fileName, bool questWritten, bool scriptWritten) {
+        // Never delete the combined outputs themselves, even though they share the fragment prefix.
+        if (fileName.Equals("questdescription_final.xml", StringComparison.OrdinalIgnoreCase)
+            || fileName.Equals("scriptquest.xml", StringComparison.OrdinalIgnoreCase)) {
+            return false;
+        }
         if (fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)) {
-            return hasQuestOutput;
+            return questWritten;
         }
         if (fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase)) {
-            return hasScriptOutput;
+            return scriptWritten;
         }
         return false;
     }
@@ -636,11 +630,9 @@ public class Converter {
             return false;
         }
 
-        // Generation writes in place; drop the individual quest/script files that the combined
-        // outputs replace so they don't co-exist.
-        RemoveAbsorbedSourceFiles(locale, jsonFiles);
-
         bool anyFailure = false;
+        bool questFinalWritten = false;
+        bool scriptFinalWritten = false;
         foreach (FileInfo jsonFile in jsonFiles) {
             Console.WriteLine($"Converting {jsonFile.Name} to XML...");
 
@@ -675,11 +667,23 @@ public class Converter {
 
                     Console.WriteLine($"Successfully converted {jsonFile.Name} to {xmlFileName}");
                 }
+
+                // Reaching here means the file was written (non-empty, no exception). Record the
+                // combined outputs so their fragments are only removed after a real write.
+                if (jsonFile.Name == "questdescription_final.json") {
+                    questFinalWritten = true;
+                } else if (jsonFile.Name == "scriptquest.json") {
+                    scriptFinalWritten = true;
+                }
             } catch (Exception ex) {
                 Console.WriteLine($"Error converting {jsonFile.Name}: {ex.Message}");
                 anyFailure = true;
             }
         }
+
+        // Cleanup runs AFTER generation: drop the individual quest/script fragments only for a
+        // family whose combined output was actually written this run (never the combined itself).
+        RemoveAbsorbedSourceFiles(locale, questFinalWritten, scriptFinalWritten);
 
         return !anyFailure;
     }
