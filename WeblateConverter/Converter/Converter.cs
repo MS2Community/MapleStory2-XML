@@ -648,7 +648,7 @@ public class Converter {
 
                 // Handle questdescription_final.json specially - convert with sorted questIDs
                 if (jsonFile.Name == "questdescription_final.json") {
-                    ConvertQuestDescriptionFinalWithSorting(jsonContent, locale);
+                    questFinalWritten = ConvertQuestDescriptionFinalWithSorting(jsonContent, locale);
                 } else if (jsonFile.Name == "skillname.json") {
                     // Handle skillname.json specially - split into multiple XML files based on skill ID ranges
                     ConvertSkillNameWithSplitting(jsonContent, locale);
@@ -668,11 +668,9 @@ public class Converter {
                     Console.WriteLine($"Successfully converted {jsonFile.Name} to {xmlFileName}");
                 }
 
-                // Reaching here means the file was written (non-empty, no exception). Record the
-                // combined outputs so their fragments are only removed after a real write.
-                if (jsonFile.Name == "questdescription_final.json") {
-                    questFinalWritten = true;
-                } else if (jsonFile.Name == "scriptquest.json") {
+                // scriptquest uses the generic path, which writes all entries of a non-empty JSON;
+                // questdescription_final reports whether it actually wrote content (assigned above).
+                if (jsonFile.Name == "scriptquest.json") {
                     scriptFinalWritten = true;
                 }
             } catch (Exception ex) {
@@ -2196,7 +2194,9 @@ public class Converter {
         return xmlContent.Replace("'", "&apos;");
     }
 
-    private void ConvertQuestDescriptionFinalWithSorting(string jsonContent, string locale) {
+    // Returns true only if a non-empty questdescription_final.xml was written, so the caller can
+    // decide whether the source fragments it absorbs are safe to remove.
+    private bool ConvertQuestDescriptionFinalWithSorting(string jsonContent, string locale) {
         JObject jsonObject = JObject.Parse(jsonContent);
 
         // Create a list to store quest entries with their parsed quest IDs for sorting
@@ -2220,6 +2220,13 @@ public class Converter {
             }
         }
 
+        // No parseable quests: don't overwrite the existing questdescription_final.xml with an empty
+        // file, and report failure so its absorbed source fragments are NOT removed.
+        if (questEntries.Count == 0) {
+            Console.WriteLine("No valid quest entries in questdescription_final.json — leaving questdescription_final.xml untouched.");
+            return false;
+        }
+
         // Sort by quest ID in ascending order
         questEntries.Sort((a, b) => a.questId.CompareTo(b.questId));
 
@@ -2236,5 +2243,6 @@ public class Converter {
         SaveXmlFile("questdescription_final.xml", xmlContent, locale);
 
         Console.WriteLine($"Successfully converted questdescription_final.json to questdescription_final.xml with {questEntries.Count} quests sorted by questID");
+        return true;
     }
 }
