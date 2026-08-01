@@ -17,3 +17,7 @@
 *.m2h
 /rebaseline/
 /additionaldescription-*.csv
+
+# Regenerate with: python3 Tools/glossary/mine_glossary.py
+# Derived from the Json/ corpus, 120 KB, and noisy in diffs.
+/Tools/glossary/proposal.json

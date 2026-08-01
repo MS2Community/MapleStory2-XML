@@ -1,0 +1,13 @@
+# Mined terms that must NOT become glossary entries, with the reason.
+# One Korean term per line; everything after # is a comment.
+# Honoured by push_glossary.py.
+
+달콤한        # adjective "sweet"; en side is "Sweetheart" in one title and "Sweet" in another
+따뜻한        # adjective "warm"; only "Warm-hearted" inside one title
+무서운        # adjective "scary"; only "Fearsome" inside one title
+반짝반짝      # onomatopoeia "twinkling"; title-specific
+어둠의 기운    # literally "aura of darkness"; "Dark Shadow" is one NPC's name, not the phrase
+오늘의 친구    # "today's friend"; en "Seeker Extraordinaire" is event-title-specific
+오늘의 짝꿍    # "today's partner"; en "Master Seeker" is event-title-specific
+레인보우      # "Rainbow"; en side "Rainbow Slime" adds a word the source does not have
+이슈라의      # possessive of 이슈라 (Ishura), already covered by the base term
