@@ -47000,12 +47000,17 @@
   },
   "89010146--": {
     "count": "1",
-    "locking": "0"
+    "locking": "0",
+    "name": "Complete a round of $map:51000001$",
+    "manual": "Complete a round of $map:51000001$",
+    "complete": "Complete a round of $map:51000001$"
   },
   "89010147--": {
     "name": "Create a UGC item",
     "manual": "Create UGC at least 1 time",
-    "complete": "Create UGC at least 1 time"
+    "complete": "Create UGC at least 1 time",
+    "count": "1",
+    "locking": "0"
   },
   "30000351-Event-JP": {
     "manual": "Go to $map:63000066$ and find the cause of the ghost rumors",
@@ -51935,135 +51940,212 @@
   "89010124--": {
     "manual": "* $item:20301082$ can be obtained by clearing a dungeon with an adventurer who needs help.\n\nObtain 5 $item:20301082$",
     "complete": "* $item:20301082$ can be obtained by clearing a dungeon with an adventurer who needs help.\n\nObtain 5 $item:20301082$",
-    "name": "Obtain 5 $item:20301082$"
+    "name": "Obtain 5 $item:20301082$",
+    "count": "5",
+    "locking": "0"
   },
   "89010129--": {
     "manual": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 10 times",
-    "complete": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 10 times"
+    "complete": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 10 times",
+    "count": "10",
+    "locking": "0",
+    "name": "Defeat Adventure Dungeon Bosses 10 Times"
   },
   "89010123--": {
     "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
     "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
-    "name": "Obtain 5 each of $item:30000869$ and $item:30000610$"
+    "name": "Obtain 5 each of $item:30000869$ and $item:30000610$",
+    "count": "5|5",
+    "locking": "0"
   },
   "89010135--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Lavender Herb 30 times",
     "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Lavender Herb 30 times",
-    "name": "Gather Lavender Herbs 30 Times"
+    "name": "Gather Lavender Herbs 30 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010131--": {
     "manual": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 5 times",
     "complete": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 5 times",
-    "name": "Participate in MC Kay Events 5 Times"
+    "name": "Participate in MC Kay Events 5 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010138--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Pumpkin Field in your house 30 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Pumpkin Field in your house 30 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Pumpkin Field in your house 30 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest from Pumpkin Patch 30 Times at Home"
   },
   "89010137--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest from Mysterious Meteorite Tree 10 Times at Home"
   },
   "89010136--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Tin Veins 30 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Tin Veins 30 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Tin Veins 30 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Mine Tin Veins"
   },
   "89010141--": {
     "manual": "* This can be completed more easily by using the Dungeon Help Request feature.\n\nClear dungeons with novice adventurers 2 times",
     "complete": "* This can be completed more easily by using the Dungeon Help Request feature.\n\nClear dungeons with novice adventurers 2 times",
-    "name": "Clear Dungeons 2 Times with a Beginner Adventurer"
+    "name": "Clear Dungeons 2 Times with a Beginner Adventurer",
+    "count": "1",
+    "locking": "0"
   },
   "89010153--": {
     "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
     "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
-    "name": "Obtain 2 each of $item:30000869$ and $item:30000610$"
+    "name": "Obtain 2 each of $item:30000869$ and $item:30000610$",
+    "count": "1|1",
+    "locking": "0"
   },
   "89010161--": {
     "manual": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 3 times",
     "complete": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 3 times",
-    "name": "Participate in MC Kay Events 3 Times"
+    "name": "Participate in MC Kay Events 3 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010159--": {
     "manual": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 8 times",
-    "complete": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 8 times"
+    "complete": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 8 times",
+    "count": "1",
+    "name": "Defeat the Adventure Dungeon Boss 8 times",
+    "locking": "0"
   },
   "89010162--": {
     "manual": "* Pets count as collected only after being summoned and registered in the collection.\n\nCollect 2 pets",
     "complete": "* Pets count as collected only after being summoned and registered in the collection.\n\nCollect 2 pets",
-    "name": "Collect 2 Pets"
+    "name": "Collect 2 Pets",
+    "count": "1",
+    "locking": "0"
   },
   "89010166--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Copper Veins 30 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Copper Veins 30 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Copper Veins 30 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Mine the copper ore vein 30 times"
   },
   "89010165--": {
     "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Marjoram Herb 30 times",
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Marjoram Herb 30 times",
-    "name": "Gather Marjoram Herbs 30 Times"
+    "name": "Gather Marjoram Herbs 30 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010168--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Pumpkin Field in your house 30 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Pumpkin Field in your house 30 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Pumpkin Field in your house 30 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest from Pumpkin Patch 30 Times at Home"
   },
   "89010167--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest from Mysterious Meteorite Tree 10 Times at Home"
   },
   "89010171--": {
     "manual": "* This can be completed more easily by using the Dungeon Help Request feature.\n\nClear dungeons with a novice and an expert 2 times",
     "complete": "* This can be completed more easily by using the Dungeon Help Request feature.\n\nClear dungeons with a novice and an expert 2 times",
-    "name": "Request Help or Clear Dungeons 2 Times with a Beginner Adventurer"
+    "name": "Request Help or Clear Dungeons 2 Times with a Beginner Adventurer",
+    "count": "1",
+    "locking": "0"
   },
   "89010176--": {
     "manual": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$",
-    "complete": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$"
+    "complete": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$",
+    "count": "1|1",
+    "locking": "0",
+    "name": "Participate in Maple Arcade"
   },
   "89010183--": {
     "manual": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
-    "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$"
+    "complete": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
+    "count": "1|1",
+    "locking": "0",
+    "name": "Obtain 1 each of $item:30000869$ and $item:30000610$"
   },
   "89010189--": {
     "manual": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 5 times",
-    "complete": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 5 times"
+    "complete": "Dungeon bosses to defeat:\n$npc:24000409$, $npc:22000047$, $npc:23100007$, $npc:23100025$,\n$npc:23100055$, $npc:23100077$, $npc:24001601$, $npc:23100006$, etc.\n\n* The Gap of Life dungeon is excluded.\n* The Hall of Valor dungeon is excluded.\n\nDefeat Adventure Dungeon bosses 5 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat Adventure Dungeon Bosses 5 Times"
   },
   "89010192--": {
     "manual": "* Pets count as collected only after being summoned and registered in the collection.\n\nCollect 1 pet",
     "complete": "* Pets count as collected only after being summoned and registered in the collection.\n\nCollect 1 pet",
-    "name": "Collect 1 Pet"
+    "name": "Collect 1 Pet",
+    "count": "1",
+    "locking": "0"
   },
   "89010191--": {
     "manual": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 2 times",
-    "complete": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 2 times"
+    "complete": "* You can participate in the MC Kay event at 5 and 35 minutes past every hour.\n\nParticipate in the MC Kay event 2 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Play MC Kay's minigames"
   },
   "89010196--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Copper Veins 30 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Copper Veins 30 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nMine Copper Veins 30 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Mine the copper ore vein 30 times"
   },
   "89010195--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Marjoram Herb 30 times",
     "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nGather Marjoram Herb 30 times",
-    "name": "Gather Marjoram Herbs 30 Times"
+    "name": "Gather Marjoram Herbs 30 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010198--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Rice Paddy in your house 30 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Rice Paddy in your house 30 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Rice Paddy in your house 30 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest from Rice Paddy 30 Times at Home"
   },
   "89010197--": {
     "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times",
-    "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times"
+    "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest from the Mysterious Meteorite Tree in your house 10 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest from Mysterious Meteorite Tree 10 Times at Home"
   },
   "89010201--": {
     "manual": "* This can be completed more easily by using the Dungeon Help Request feature.\n\nClear a dungeon through a help request 1 time",
     "complete": "* This can be completed more easily by using the Dungeon Help Request feature.\n\nClear a dungeon through a help request 1 time",
-    "name": "Clear a Dungeon 1 Time Through a Help Request"
+    "name": "Clear a Dungeon 1 Time Through a Help Request",
+    "count": "1",
+    "locking": "0"
   },
   "89010320--": {
     "manual": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest pumpkins from the Pumpkin Field in your house 10 times",
-    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest pumpkins from the Pumpkin Field in your house 10 times"
+    "complete": "* Excludes items obtained by using Magic Production Coupons.\n\nHarvest pumpkins from the Pumpkin Field in your house 10 times",
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest pumpkins from the pumpkin patch at your house 10 times"
   },
   "89010206--": {
     "manual": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$",
-    "complete": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$"
+    "complete": "* Maple Arcade can be entered through Adventure > Arcade in the bottom menu.\n\nJoin the main game in $map:51000001$|Join $map:51000003$",
+    "count": "1|1",
+    "locking": "0",
+    "name": "Participate in Maple Arcade"
   },
   "72000084--JP": {
     "manual": "Defeat $npcName:21000078$, who is threatening adventurers in $map:02000043$",
@@ -52237,25 +52319,37 @@
   "89010142--": {
     "name": "Join 1 Club",
     "manual": "Join 1 Club",
-    "complete": "Join 1 Club"
+    "complete": "Join 1 Club",
+    "count": "1",
+    "locking": "0"
   },
   "89010172--": {
     "manual": "Join 1 Club",
     "name": "Join 1 Club",
-    "complete": "Join 1 Club"
+    "complete": "Join 1 Club",
+    "count": "1",
+    "locking": "0"
   },
   "89010202--": {
     "manual": "Join 1 Club",
     "complete": "Join 1 Club",
-    "name": "Join 1 Club"
+    "name": "Join 1 Club",
+    "count": "1",
+    "locking": "0"
   },
   "89010179--": {
-    "name": "Harvest Livestock Products at Someone Else's House 5 Times"
+    "name": "Harvest Livestock Products at Someone Else's House 5 Times",
+    "count": "1",
+    "locking": "0",
+    "manual": "Ranch in someone else's home",
+    "complete": "Ranch in someone else's home"
   },
   "89010355--": {
     "manual": "Enjoy a cold bath in cold water for 300 seconds",
     "complete": "Enjoy a cold bath in cold water for 300 seconds",
-    "name": "Enjoy a Cold Bath in Cold Water for 300 Seconds"
+    "name": "Enjoy a Cold Bath in Cold Water for 300 Seconds",
+    "count": "1",
+    "locking": "0"
   },
   "10003041-DoubleImpactStory-": {
     "desc": "Blackstar Society members burst in while you are talking with $npcName:11001733$ in $map:52000044$!\nCan you shake them off and reach the garage safely?",
@@ -52506,17 +52600,23 @@
   "89010122--": {
     "manual": "Obtain Adventure [Normal/Raid] rewards",
     "name": "Obtain 15 Adventure [Normal/Raid] Bonus Boxes",
-    "complete": "Obtain Adventure [Normal/Raid] rewards"
+    "complete": "Obtain Adventure [Normal/Raid] rewards",
+    "count": "15",
+    "locking": "0"
   },
   "89010152--": {
     "manual": "Obtain Adventure [Normal/Raid] bonuses",
     "name": "Obtain 3 Adventure [Normal/Raid] Bonus Boxes",
-    "complete": "Obtain Adventure [Normal/Raid] bonuses"
+    "complete": "Obtain Adventure [Normal/Raid] bonuses",
+    "count": "1",
+    "locking": "0"
   },
   "89010182--": {
     "manual": "Obtain Adventure [Normal/Raid] bonuses",
     "complete": "Obtain Adventure [Normal/Raid] bonuses",
-    "name": "Obtain 1 Adventure [Normal/Raid] Bonus Box"
+    "name": "Obtain 1 Adventure [Normal/Raid] Bonus Box",
+    "count": "1",
+    "locking": "0"
   },
   "89010390-Event-CN": {
     "complete": "Complete raising your Adventure Level by 10 levels",
@@ -52661,32 +52761,44 @@
   "89010120--": {
     "name": "Complete 10 Ship Faction Quests",
     "manual": "Complete 10 Ship Faction Quests",
-    "complete": "Complete 10 Ship Faction Quests"
+    "complete": "Complete 10 Ship Faction Quests",
+    "count": "10",
+    "locking": "0"
   },
   "89010140--": {
     "manual": "Clear $dungeonTitle:29002001$ 1 time",
     "name": "Clear $dungeonTitle:29002001$ 1 Time",
-    "complete": "Clear $dungeonTitle:29002001$ 1 time"
+    "complete": "Clear $dungeonTitle:29002001$ 1 time",
+    "count": "1",
+    "locking": "0"
   },
   "89010170--": {
     "manual": "Clear $dungeonTitle:29002001$ 1 time",
     "complete": "Clear $dungeonTitle:29002001$ 1 time",
-    "name": "Clear $dungeonTitle:29002001$ 1 Time"
+    "name": "Clear $dungeonTitle:29002001$ 1 Time",
+    "count": "1",
+    "locking": "0"
   },
   "89010174--": {
     "name": "Clear $dungeonTitle:25004001$ 1 Time",
     "manual": "Clear $dungeonTitle:25004001$ 1 time",
-    "complete": "Clear $dungeonTitle:25004001$ 1 time"
+    "complete": "Clear $dungeonTitle:25004001$ 1 time",
+    "count": "1",
+    "locking": "0"
   },
   "89010200--": {
     "manual": "Clear $dungeonTitle:29002001$ 1 time",
     "complete": "Clear $dungeonTitle:29002001$ 1 time",
-    "name": "Clear $dungeonTitle:29002001$ 1 Time"
+    "name": "Clear $dungeonTitle:29002001$ 1 Time",
+    "count": "1",
+    "locking": "0"
   },
   "89010204--": {
     "manual": "Clear $dungeonTitle:21001001$ 1 time",
     "complete": "Clear $dungeonTitle:21001001$ 1 time",
-    "name": "Clear $dungeonTitle:21001001$ 1 Time"
+    "name": "Clear $dungeonTitle:21001001$ 1 Time",
+    "count": "1",
+    "locking": "0"
   },
   "20001261--JP": {
     "manual": "Receive $item:30000029$ from $npc:11000542$",
@@ -52698,7 +52810,9 @@
   "89010357--": {
     "name": "Receive an Adventure [Normal/Hard] Bonus Box (Stage 1) 1 Time",
     "manual": "Receive an Adventure [Normal/Hard] Bonus Box (Stage 1) 1 time",
-    "complete": "Receive an Adventure [Normal/Hard] Bonus Box (Stage 1) 1 time"
+    "complete": "Receive an Adventure [Normal/Hard] Bonus Box (Stage 1) 1 time",
+    "count": "1",
+    "locking": "0"
   },
   "72000812-Kritias02-": {
     "manual": "Find $npc:11004655$ in $map:02020067$",
@@ -52721,42 +52835,58 @@
   "89010346--": {
     "manual": "Play 'Happy Winter', the reward from the quest [Dangerous Garden], 10 times",
     "complete": "Play 'Happy Winter', the reward from the quest [Dangerous Garden], 10 times",
-    "name": "Play 'Happy Winter', the reward from the quest [Dangerous Garden], 10 Times"
+    "name": "Play 'Happy Winter', the reward from the quest [Dangerous Garden], 10 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010150--": {
     "complete": "Complete the Quest Tria Invasion, Aftermath",
     "manual": "Complete the Quest Tria Invasion, Aftermath",
-    "name": "Complete the Quest Tria Invasion, Aftermath"
+    "name": "Complete the Quest Tria Invasion, Aftermath",
+    "count": "1",
+    "locking": "0"
   },
   "89010324--": {
     "manual": "Complete the quest Invitation to the Halloween Party",
     "complete": "Complete the quest Invitation to the Halloween Party",
-    "name": "Complete the Quest Invitation to the Halloween Party"
+    "name": "Complete the Quest Invitation to the Halloween Party",
+    "count": "1",
+    "locking": "0"
   },
   "89010331--": {
     "manual": "Complete the quest Spirit of Count Monshu",
     "name": "Complete the Quest Spirit of Count Monshu",
-    "complete": "Complete the quest Spirit of Count Monshu"
+    "complete": "Complete the quest Spirit of Count Monshu",
+    "count": "1",
+    "locking": "0"
   },
   "89010344--": {
     "manual": "Complete the quest [A Very Big Cake]",
     "complete": "Complete the quest [A Very Big Cake]",
-    "name": "Complete the Quest [A Very Big Cake]"
+    "name": "Complete the Quest [A Very Big Cake]",
+    "count": "1",
+    "locking": "0"
   },
   "89010345--": {
     "name": "Complete the Quest [A Party All Together]",
     "complete": "Complete the quest [A Party All Together]",
-    "manual": "Complete the quest [A Party All Together]"
+    "manual": "Complete the quest [A Party All Together]",
+    "count": "1",
+    "locking": "0"
   },
   "89010362--": {
     "manual": "Complete the [Weekly] Christmas Dance quest 1 time",
     "complete": "Complete the [Weekly] Christmas Dance quest 1 time",
-    "name": "Complete the [Weekly] Christmas Dance Quest 1 Time"
+    "name": "Complete the [Weekly] Christmas Dance Quest 1 Time",
+    "count": "1",
+    "locking": "0"
   },
   "89010363--": {
     "manual": "Complete the [Weekly] Christmas Dance quest 2 times",
     "complete": "Complete the [Weekly] Christmas Dance quest 2 times",
-    "name": "Complete the [Weekly] Christmas Dance Quest 2 Times"
+    "name": "Complete the [Weekly] Christmas Dance Quest 2 Times",
+    "count": "1",
+    "locking": "0"
   },
   "89010371-Event-CN": {
     "manual": "Catch 100 fish by fishing",
@@ -52789,22 +52919,30 @@
   "89010134--": {
     "name": "Catch 200 Fish by Fishing",
     "manual": "Catch 200 fish by fishing",
-    "complete": "Catch 200 fish by fishing"
+    "complete": "Catch 200 fish by fishing",
+    "count": "1",
+    "locking": "0"
   },
   "89010164--": {
     "manual": "Catch 100 fish by fishing",
     "complete": "Catch 100 fish by fishing",
-    "name": "Catch 100 Fish by Fishing"
+    "name": "Catch 100 Fish by Fishing",
+    "count": "1",
+    "locking": "0"
   },
   "89010343--": {
     "manual": "Catch Bobosmas in Happy Village",
     "name": "Catch Bobosmas in Happy Village",
-    "complete": "Catch Bobosmas in Happy Village"
+    "complete": "Catch Bobosmas in Happy Village",
+    "count": "1",
+    "locking": "0"
   },
   "89010194--": {
     "manual": "Catch 50 fish by fishing",
     "complete": "Catch 50 fish by fishing",
-    "name": "Catch 50 Fish by Fishing"
+    "name": "Catch 50 Fish by Fishing",
+    "count": "1",
+    "locking": "0"
   },
   "89010372-Event-CN": {
     "manual": "Play an instrument for 100 minutes",
@@ -52830,12 +52968,16 @@
   "89010177--": {
     "manual": "Create UGC 1 time",
     "name": "Create UGC 1 Time",
-    "complete": "Create UGC 1 time"
+    "complete": "Create UGC 1 time",
+    "count": "1",
+    "locking": "0"
   },
   "89010207--": {
     "manual": "Create UGC 1 time",
     "complete": "Create UGC 1 time",
-    "name": "Create UGC 1 Time"
+    "name": "Create UGC 1 Time",
+    "count": "1",
+    "locking": "0"
   },
   "89080033-Event-JP": {
     "desc": "* $item:30000869$ can be obtained by clearing $dungeonTitle:29003001$.\n* You can participate in MC Kay's event at 5 and 35 minutes past every hour.\n\nObtain $item:30000869$|Obtain $item:30000610$",
@@ -57074,5 +57216,646 @@
     "desc": "Raise the adorable pumpkin devil Pumky and get some neat gifts!",
     "manual": "Learn how to raise Pumky.",
     "complete": "Learn how to raise Pumky."
+  },
+  "89010121--": {
+    "count": "2",
+    "locking": "0",
+    "name": "Reach Adventure Rank 3",
+    "manual": "Reach Adventure Rank 3",
+    "complete": "Reach Adventure Rank 3"
+  },
+  "89010125--": {
+    "count": "10",
+    "locking": "0",
+    "name": "Defeat Field Bosses 10 Times",
+    "manual": "Field Bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat Field Bosses 10 times",
+    "complete": "Field Bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat Field Bosses 10 times"
+  },
+  "89010126--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Complete 1 day of APP attendance",
+    "manual": "Complete 1 day of APP attendance",
+    "complete": "Complete 1 day of APP attendance"
+  },
+  "89010127--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Achieve the 'View Adventure Bar' achievement",
+    "manual": "Achieve the 'View Adventure Bar' achievement",
+    "complete": "Achieve the 'View Adventure Bar' achievement"
+  },
+  "89010128--": {
+    "count": "40",
+    "locking": "0",
+    "name": "Complete Today's Mission 40 times",
+    "manual": "Complete Today's Mission 40 times",
+    "complete": "Complete Today's Mission 40 times"
+  },
+  "89010130--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Watch a live stream for 5 minutes",
+    "manual": "Watch a live stream for 5 minutes",
+    "complete": "Watch a live stream for 5 minutes"
+  },
+  "89010132--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Pet Fusion 3 times",
+    "manual": "Pet Fusion 3 times",
+    "complete": "Pet Fusion 3 times"
+  },
+  "89010133--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat 8,888 monsters",
+    "manual": "Defeat 8,888 monsters",
+    "complete": "Defeat 8,888 monsters"
+  },
+  "89010139--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Perform with friends 1 time",
+    "manual": "Perform with friends 1 time",
+    "complete": "Perform with friends 1 time"
+  },
+  "89010143--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Raise Decoration Score",
+    "manual": "Reach 700 my house decoration points",
+    "complete": "Reach 700 my house decoration points"
+  },
+  "89010144--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Clear round 5 in $dungeonTitle:25008001$",
+    "manual": "Clear round 5 in $dungeonTitle:25008001$",
+    "complete": "Clear round 5 in $dungeonTitle:25008001$"
+  },
+  "89010145--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Open 10 golden treasure chests",
+    "manual": "Open 10 golden treasure chests",
+    "complete": "Open 10 golden treasure chests"
+  },
+  "89010148--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Attempt a gemstone upgrade 1 time",
+    "manual": "Attempt a gemstone upgrade 1 time",
+    "complete": "Attempt a gemstone upgrade 1 time"
+  },
+  "89010149--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Harvest crops 5 times at another person's house",
+    "manual": "Harvest crops 5 times at another person's house",
+    "complete": "Harvest crops 5 times at another person's house"
+  },
+  "89010151--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Reach Adventure Rank 2",
+    "manual": "Reach Adventure Rank 2",
+    "complete": "Reach Adventure Rank 2"
+  },
+  "89010154--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Complete Today's Mission 20 times",
+    "manual": "Complete Today's Mission 20 times",
+    "complete": "Complete Today's Mission 20 times"
+  },
+  "89010155--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat Field Bosses 5 Times",
+    "manual": "Field Bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat Field Bosses 5 times",
+    "complete": "Field Bosses to defeat:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat Field Bosses 5 times"
+  },
+  "89010156--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Complete 1 day of APP attendance",
+    "manual": "Complete 1 day of APP attendance",
+    "complete": "Complete 1 day of APP attendance"
+  },
+  "89010157--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Achieve the 'View Adventure Bar' achievement",
+    "manual": "Achieve the 'View Adventure Bar' achievement",
+    "complete": "Achieve the 'View Adventure Bar' achievement"
+  },
+  "89010158--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Complete Today's Missions 15 times",
+    "manual": "Complete Today's Missions 15 times",
+    "complete": "Complete Today's Missions 15 times"
+  },
+  "89010160--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Watch a live stream for 5 minutes",
+    "manual": "Watch a live stream for 5 minutes",
+    "complete": "Watch a live stream for 5 minutes"
+  },
+  "89010163--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat 888 monsters",
+    "manual": "Defeat 888 monsters",
+    "complete": "Defeat 888 monsters"
+  },
+  "89010169--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Perform with friends 1 time",
+    "manual": "Perform with friends 1 time",
+    "complete": "Perform with friends 1 time"
+  },
+  "89010173--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Raise Decoration Score",
+    "manual": "Raise Decoration Score",
+    "complete": "Raise Decoration Score"
+  },
+  "89010175--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Find Golden Treasure Chests",
+    "manual": "Find Golden Treasure Chests",
+    "complete": "Find Golden Treasure Chests"
+  },
+  "89010178--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Enter the Twisted Pocket Realm",
+    "manual": "Enter the Twisted Space Gap in the Shadow World",
+    "complete": "Enter the Twisted Space Gap in the Shadow World"
+  },
+  "89010180--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Capture 1 pet",
+    "manual": "Capture 1 pet",
+    "complete": "Capture 1 pet"
+  },
+  "89010181--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Reach Adventure Rank 2",
+    "manual": "Reach Adventure Rank 2",
+    "complete": "Reach Adventure Rank 2"
+  },
+  "89010184--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Achieve 20 exploration objectives",
+    "manual": "Achieve 20 exploration objectives",
+    "complete": "Achieve 20 exploration objectives"
+  },
+  "89010185--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat 1 world boss",
+    "manual": "Field bosses that need to be defeated:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat a field boss once",
+    "complete": "Field bosses that need to be defeated:\n$npc:23000013$, $npc:23000018$, $npc:23000001$, $npc:23000019$, $npc:23000054$,\n$npc:23000020$, $npc:23000035$, $npc:23000099$, $npc:23000017$, \n$npc:23000047$, $npc:23000024$, $npc:23000034$, $npc:23000045$, \n$npc:23000026$, $npc:23000012$, $npc:23000057$, $npc:23000009$, $npc:23000029$ \n\nDefeat a field boss once"
+  },
+  "89010186--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Complete 1 day of APP attendance",
+    "manual": "Complete 1 day of APP attendance",
+    "complete": "Complete 1 day of APP attendance"
+  },
+  "89010187--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Achieve the 'View Adventure Bar' achievement",
+    "manual": "Achieve the 'View Adventure Bar' achievement",
+    "complete": "Achieve the 'View Adventure Bar' achievement"
+  },
+  "89010188--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Complete Today's Mission 10 times",
+    "manual": "Complete Today's Mission 10 times",
+    "complete": "Complete Today's Mission 10 times"
+  },
+  "89010190--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Watch a live stream for 5 minutes",
+    "manual": "Watch a live stream for 5 minutes",
+    "complete": "Watch a live stream for 5 minutes"
+  },
+  "89010193--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat 88 monsters",
+    "manual": "Defeat 88 monsters",
+    "complete": "Defeat 88 monsters"
+  },
+  "89010199--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Perform with friends 1 time",
+    "manual": "Perform with friends 1 time",
+    "complete": "Perform with friends 1 time"
+  },
+  "89010203--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Raise Decoration Score",
+    "manual": "Raise Decoration Score",
+    "complete": "Raise Decoration Score"
+  },
+  "89010205--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Find 2 golden treasure chests",
+    "manual": "Find 2 golden treasure chests",
+    "complete": "Find 2 golden treasure chests"
+  },
+  "89010208--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Visit the Land of Darkness",
+    "manual": "Visit the Land of Darkness",
+    "complete": "Visit the Land of Darkness"
+  },
+  "89010209--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Visit another player's house",
+    "manual": "Visit another player's house",
+    "complete": "Visit another player's house"
+  },
+  "89010300--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Use Fragrant Mugwort Mooncakes 10 times",
+    "manual": "Use Fragrant Mugwort Mooncakes 10 times",
+    "complete": "Use Fragrant Mugwort Mooncakes 10 times"
+  },
+  "89010301--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Use Fragrant Mugwort Mooncakes 30 times",
+    "manual": "Use Fragrant Mugwort Mooncakes 30 times",
+    "complete": "Use Fragrant Mugwort Mooncakes 30 times"
+  },
+  "89010302--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Use Fragrant Mugwort Mooncakes 80 times",
+    "manual": "Use Fragrant Mugwort Mooncakes 80 times",
+    "complete": "Use Fragrant Mugwort Mooncakes 80 times"
+  },
+  "89010303--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Use Sweet Honey Mooncakes 10 times",
+    "manual": "Use Sweet Honey Mooncakes 10 times",
+    "complete": "Use Sweet Honey Mooncakes 10 times"
+  },
+  "89010304--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Use Sweet Honey Mooncakes 20 times",
+    "manual": "Use Sweet Honey Mooncakes 20 times",
+    "complete": "Use Sweet Honey Mooncakes 20 times"
+  },
+  "89010305--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Use Sweet Honey Mooncakes 30 times",
+    "manual": "Use Sweet Honey Mooncakes 30 times",
+    "complete": "Use Sweet Honey Mooncakes 30 times"
+  },
+  "89010306--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat the Escaped Moon Rabbit 4 times",
+    "manual": "Defeat the Escaped Moon Rabbit 4 times",
+    "complete": "Defeat the Escaped Moon Rabbit 4 times"
+  },
+  "89010307--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat the Escaped Moon Rabbit 12 times",
+    "manual": "Defeat the Escaped Moon Rabbit 12 times",
+    "complete": "Defeat the Escaped Moon Rabbit 12 times"
+  },
+  "89010308--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat the runaway moon rabbit 20 times",
+    "manual": "Defeat the runaway moon rabbit 20 times",
+    "complete": "Defeat the runaway moon rabbit 20 times"
+  },
+  "89010309--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Participate in Moonlight Bungee Jump 10 times",
+    "manual": "Participate in Moonlight Bungee Jump 10 times",
+    "complete": "Participate in Moonlight Bungee Jump 10 times"
+  },
+  "89010310--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Participate in Moonlight Bungee Jump 20 times",
+    "manual": "Participate in Moonlight Bungee Jump 20 times",
+    "complete": "Participate in Moonlight Bungee Jump 20 times"
+  },
+  "89010311--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Participate in Moonlight Bungee Jump 50 times",
+    "manual": "Participate in Moonlight Bungee Jump 50 times",
+    "complete": "Participate in Moonlight Bungee Jump 50 times"
+  },
+  "89010312--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Investigate flower balloons 30 times",
+    "manual": "Investigate flower balloons 30 times",
+    "complete": "Investigate flower balloons 30 times"
+  },
+  "89010313--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Investigate flower balloons 100 times",
+    "manual": "Investigate flower balloons 100 times",
+    "complete": "Investigate flower balloons 100 times"
+  },
+  "89010314--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Investigate flower balloons 150 times",
+    "manual": "Investigate flower balloons 150 times",
+    "complete": "Investigate flower balloons 150 times"
+  },
+  "89010321--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Remove 4 cobwebs from the $map:63000067$",
+    "manual": "Remove 4 cobwebs from the $map:63000067$",
+    "complete": "Remove 4 cobwebs from the $map:63000067$"
+  },
+  "89010322--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat $npcPlural:27000043$",
+    "manual": "Defeat 6 $npcPlural:27000043$ in the $map:63000067$",
+    "complete": "Defeat 6 $npcPlural:27000043$ in the $map:63000067$"
+  },
+  "89010323--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Enter the $map:63000068$",
+    "manual": "Enter the $map:63000068$ 5 times",
+    "complete": "Enter the $map:63000068$ 5 times"
+  },
+  "89010325--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Send 5 friend requests",
+    "manual": "Send 5 friend requests",
+    "complete": "Send 5 friend requests"
+  },
+  "89010326--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat Field Bosses 10 Times",
+    "manual": "Defeat 10 world bosses",
+    "complete": "Defeat 10 world bosses"
+  },
+  "89010327--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Trick or Treat II",
+    "manual": "Complete the daily quest \"Trick or Treat!\" 3 times",
+    "complete": "Complete the daily quest \"Trick or Treat!\" 3 times"
+  },
+  "89010328--": {
+    "count": "1",
+    "locking": "0",
+    "name": "[Daily] Complete Trick or Treat 6 times",
+    "manual": "[Daily] Complete Trick or Treat 6 times",
+    "complete": "[Daily] Complete Trick or Treat 6 times"
+  },
+  "89010329--": {
+    "name": "[Daily] Complete Trick or Treat 10 Times",
+    "manual": "[Daily] Complete Trick or Treat 10 Times",
+    "count": "1",
+    "locking": "0",
+    "complete": "[Daily] Complete Trick or Treat 10 Times"
+  },
+  "89010330--": {
+    "count": "1",
+    "locking": "0",
+    "name": "[Daily] Complete Trick or Treat 12 times",
+    "manual": "[Daily] Complete Trick or Treat 12 times",
+    "complete": "[Daily] Complete Trick or Treat 12 times"
+  },
+  "89010332--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Visit $map:63000069$ 5 times",
+    "manual": "Visit $map:63000069$ 5 times",
+    "complete": "Visit $map:63000069$ 5 times"
+  },
+  "89010333--": {
+    "count": "1",
+    "locking": "0",
+    "name": "[Daily] Complete Bloody Monsour Halloween Trouble 5 times",
+    "manual": "[Daily] Complete Bloody Monsour Halloween Trouble 5 times",
+    "complete": "[Daily] Complete Bloody Monsour Halloween Trouble 5 times"
+  },
+  "89010334--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Mon Bloody Chouchou Uproar III",
+    "manual": "Complete the daily quest \"Mon Bloody Chouchou Uproar\" 7 times",
+    "complete": "Complete the daily quest \"Mon Bloody Chouchou Uproar\" 7 times"
+  },
+  "89010335--": {
+    "count": "1",
+    "locking": "0",
+    "name": "[Daily] Complete Bloody Monsour Halloween Trouble 10 times",
+    "manual": "[Daily] Complete Bloody Monsour Halloween Trouble 10 times",
+    "complete": "[Daily] Complete Bloody Monsour Halloween Trouble 10 times"
+  },
+  "89010336--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Say /hello and greet the ghosts 30 times at $map:63000065$",
+    "manual": "Say /hello and greet the ghosts 30 times at $map:63000065$",
+    "complete": "Say /hello and greet the ghosts 30 times at $map:63000065$"
+  },
+  "89010340--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Sit and relax in Merry Village for 300 seconds",
+    "manual": "Sit and relax in Merry Village for 300 seconds",
+    "complete": "Sit and relax in Merry Village for 300 seconds"
+  },
+  "89010341--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Perform with an ensemble 3 times in Merry Village",
+    "manual": "Perform with an ensemble 3 times in Merry Village",
+    "complete": "Perform with an ensemble 3 times in Merry Village"
+  },
+  "89010342--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Try the fairies' cake in Happy Village",
+    "manual": "Try the fairies' cake in Happy Village",
+    "complete": "Try the fairies' cake in Happy Village"
+  },
+  "89010347--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Visit the Warm Living Room 5 times",
+    "manual": "Visit the Warm Living Room 5 times",
+    "complete": "Visit the Warm Living Room 5 times"
+  },
+  "89010348--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Visit the Festive Dining Room 5 times",
+    "manual": "Visit the Festive Dining Room 5 times",
+    "complete": "Visit the Festive Dining Room 5 times"
+  },
+  "89010349--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Enjoy the scenery of Igloo Hill through binoculars",
+    "manual": "Enjoy the scenery of Igloo Hill through binoculars",
+    "complete": "Enjoy the scenery of Igloo Hill through binoculars"
+  },
+  "89010350--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Meet Papa Santa in Snowscarf Haven",
+    "manual": "Meet Papa Santa in Snowscarf Haven",
+    "complete": "Meet Papa Santa in Snowscarf Haven"
+  },
+  "89010351--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Examine the island snowman in Frostbunny Park",
+    "manual": "Examine the island snowman in Frostbunny Park",
+    "complete": "Examine the island snowman in Frostbunny Park"
+  },
+  "89010352--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Walk on snow at the holiday festival for 300 seconds",
+    "manual": "Walk on snow at the holiday festival for 300 seconds",
+    "complete": "Walk on snow at the holiday festival for 300 seconds"
+  },
+  "89010353--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Attack with an igloo 10 times",
+    "manual": "Attack with an igloo 10 times",
+    "complete": "Attack with an igloo 10 times"
+  },
+  "89010354--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Hit a tree 50 times",
+    "manual": "Hit a tree 50 times",
+    "complete": "Hit a tree 50 times"
+  },
+  "89010356--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Shake the Carol Bell Tree in your or another's house",
+    "manual": "Shake the Carol Bell Tree in your or another's house",
+    "complete": "Shake the Carol Bell Tree in your or another's house"
+  },
+  "89010358--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Defeat a world boss 20 times",
+    "manual": "Defeat a world boss 20 times",
+    "complete": "Defeat a world boss 20 times"
+  },
+  "89010359--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Greet 10 times in Holiday Dance, Dance, Stop",
+    "manual": "Greet 10 times in Holiday Dance, Dance, Stop",
+    "complete": "Greet 10 times in Holiday Dance, Dance, Stop"
+  },
+  "89010360--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Shake the Carol Bell Tree in Holiday Dance, Dance, Stop",
+    "manual": "Shake the Carol Bell Tree in Holiday Dance, Dance, Stop",
+    "complete": "Shake the Carol Bell Tree in Holiday Dance, Dance, Stop"
+  },
+  "89010361--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Turn on the star lamp in Holiday Dance, Dance, Stop",
+    "manual": "Turn on the star lamp in Holiday Dance, Dance, Stop",
+    "complete": "Turn on the star lamp in Holiday Dance, Dance, Stop"
+  },
+  "89010364--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Finish the \"Fraidy Reindeer\" daily quest 5 times",
+    "manual": "Finish the \"Fraidy Reindeer\" daily quest 5 times",
+    "complete": "Finish the \"Fraidy Reindeer\" daily quest 5 times"
+  },
+  "89010365--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Finish the \"Fraidy Reindeer\" daily quest 10 times",
+    "manual": "Finish the \"Fraidy Reindeer\" daily quest 10 times",
+    "complete": "Finish the \"Fraidy Reindeer\" daily quest 10 times"
+  },
+  "89010366--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Finish the \"Fraidy Reindeer\" daily quest 15 times",
+    "manual": "Finish the \"Fraidy Reindeer\" daily quest 15 times",
+    "complete": "Finish the \"Fraidy Reindeer\" daily quest 15 times"
+  },
+  "89010367--": {
+    "name": "Finish the \"Reindeer Trimming\" daily quest 3 times",
+    "count": "1",
+    "locking": "0",
+    "manual": "Finish the \"Reindeer Trimming\" daily quest 3 times",
+    "complete": "Finish the \"Reindeer Trimming\" daily quest 3 times"
+  },
+  "89010368--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Finish the \"Reindeer Trimming\" daily quest 7 times",
+    "manual": "Finish the \"Reindeer Trimming\" daily quest 7 times",
+    "complete": "Finish the \"Reindeer Trimming\" daily quest 7 times"
+  },
+  "89010369--": {
+    "count": "1",
+    "locking": "0",
+    "name": "Finish the \"Reindeer Trimming\" daily quest 12 times",
+    "manual": "Finish the \"Reindeer Trimming\" daily quest 12 times",
+    "complete": "Finish the \"Reindeer Trimming\" daily quest 12 times"
+  },
+  "70000025--": {
+    "locking": "0",
+    "name": "Reach Level 70"
   }
 }
