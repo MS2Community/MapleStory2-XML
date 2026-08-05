@@ -269,6 +269,7 @@
 	<key id="10200264" class="hair" name="Charming Fairy Hair" />
 	<key id="10200264" class="hair" name="Charming Fairy Hair" feature="Develop" />
 	<key id="10200265" class="hair" name="Volume Curling Ponytail" />
+	<key id="10200265" class="hair" feature="Develop" />
 	<key id="10300001" class="face" name="Brave and Bold" />
 	<key id="10300002" class="face" name="Bookworm" />
 	<key id="10300003" class="face" name="Cutie Pie Face" />
@@ -436,6 +437,10 @@
 	<key id="10300165" class="face" name="Sharp Eyes" />
 	<key id="10300166" class="face" name="Red-Ringed Eyes" />
 	<key id="10300167" class="face" name="Red-Ringed Eyes" />
+	<key id="10300168" class="face" feature="Develop" />
+	<key id="10300169" class="face" feature="Develop" />
+	<key id="10300170" class="face" feature="Develop" />
+	<key id="10300171" class="face" feature="Develop" />
 	<key id="10300172" class="face" name="Bright Face" />
 	<key id="10300173" class="face" name="Bright Face" />
 	<key id="10300174" class="face" name="Exhausted" />
@@ -451,7 +456,9 @@
 	<key id="10300184" class="face" name="Thick Eyeliner Face" />
 	<key id="10300185" class="face" name="Thick Eyeliner Face" />
 	<key id="10300186" name="Steadfast Face (Male)" class="face" />
+	<key id="10300186" class="face" feature="Develop" />
 	<key id="10300187" class="face" name="Steadfast Face (Female)" />
+	<key id="10300187" class="face" feature="Develop" />
 	<key id="10300188" class="face" name="Sinful Face" />
 	<key id="10300189" class="face" name="Sinful Face" />
 	<key id="10300190" class="face" name="Indifference" />
@@ -628,43 +635,45 @@
 	<key id="10400161" class="face mark" name="Sailboat Face Paint" />
 	<key id="10400162" class="face mark" name="Sailboat Face Paint" />
 	<key id="10400163" class="face mark" name="Karkar Snake Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400163" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400163" class="face mark" name="Kalkal Snake Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400164" class="face mark" name="Karkar Snake Face Paint" feature="KarkarIsland" locale="NA" />
+	<key id="10400164" class="face mark" name="Kalkal Snake Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400165" class="face mark" name="Hiss Flower Face Paint" feature="KarkarIsland" locale="NA" />
+	<key id="10400165" class="face mark" name="Nelmi Flower Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400166" class="face mark" name="Hiss Flower Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400166" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400166" class="face mark" name="Nelmi Flower Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400167" class="face mark" name="Nihal Prince Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400167" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400167" class="face mark" name="Nihar Dynasty Prince Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400168" class="face mark" name="Nihal Prince Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400168" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400168" class="face mark" name="Nihar Dynasty Prince Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400169" class="face mark" name="Scion of Light Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400169" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400169" class="face mark" name="Child of Light Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400170" class="face mark" name="Scion of Light Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400170" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400170" class="face mark" name="Child of Light Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400171" class="face mark" name="Ludari Monorail Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400171" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400171" class="face mark" name="Ludari Monorail Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400172" class="face mark" name="Ludari Monorail Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400172" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400172" class="face mark" name="Ludari Monorail Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400173" class="face mark" name="Luxury Handbag Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400173" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400173" class="face mark" name="Luxury Handbag Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400174" class="face mark" name="Luxury Handbag Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400174" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400174" class="face mark" name="Luxury Handbag Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400175" class="face mark" name="Meerkat Scout Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400175" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400175" class="face mark" name="Meerkat Scout Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400176" class="face mark" name="Meerkat Scout Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400176" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400176" class="face mark" name="Meerkat Scout Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400177" class="face mark" name="Blaknov Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400177" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400177" class="face mark" name="Black Noff Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400178" class="face mark" name="Blaknov Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400178" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400178" class="face mark" name="Black Noff Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400179" class="face mark" name="Splashy Springer Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400179" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400179" class="face mark" name="Spinger Playing in Water Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400180" class="face mark" name="Splashy Springer Face Paint" feature="KarkarIsland" locale="NA" />
-	<key id="10400180" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400180" class="face mark" name="Spinger Playing in Water Painting" feature="KarkarIsland" locale="JP" />
 	<key id="10400181" class="face mark" name="Lightless Lumarigon Tattoo" feature="KarkarIsland" locale="NA" />
-	<key id="10400181" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400181" class="face mark" name="Lightless Lumelagon" feature="KarkarIsland" locale="JP" />
 	<key id="10400182" class="face mark" name="Lightless Lumarigon Tattoo" feature="KarkarIsland" locale="NA" />
-	<key id="10400182" class="face mark" feature="KarkarIsland" locale="JP" />
+	<key id="10400182" class="face mark" name="Lightless Lumelagon" feature="KarkarIsland" locale="JP" />
 	<key id="10400183" class="face mark" name="Exploding Fireworks Face Paint" />
 	<key id="10400184" class="face mark" name="Baby Cupid Face Paint" />
 	<key id="10400185" class="face mark" name="Penguin Face Paint" />
@@ -700,9 +709,9 @@
 	<key id="10400215" class="face mark" name="Holiday Stocking Face Paint" />
 	<key id="10400216" class="face mark" name="Holiday Stocking Face Paint" />
 	<key id="10400217" class="face mark" name="Sparkle Star painting" />
-	<key id="10400217" class="face mark" feature="Develop" />
+	<key id="10400217" class="face mark" name="Cracker Painting" feature="Develop" />
 	<key id="10400218" class="face mark" name="Sparkle Star painting" />
-	<key id="10400218" class="face mark" feature="Develop" />
+	<key id="10400218" class="face mark" name="Cracker Painting" feature="Develop" />
 	<key id="10400219" class="face mark" feature="Develop" />
 	<key id="10400220" class="face mark" feature="Develop" />
 	<key id="10400221" class="face mark" name="Finger Heart Face Paint" />
@@ -740,10 +749,44 @@
 	<key id="10500001" class="ear" name="Ear" />
 	<key id="11020005" class="mouth" name="Techwear Scout Mask (M)" />
 	<key id="11020006" class="mouth" name="Techwear Scout Mask (F)" />
+	<key id="11020011" class="mouth" name="12/15 Skin Entrance (Male)" feature="Develop" />
+	<key id="11020012" class="mouth" name="12/15 Skin Entrance (Female)" feature="Develop" />
+	<key id="11020015" class="mouth" name="Save SF Dress Entrance (Male)" feature="Develop" />
+	<key id="11020016" class="mouth" name="Save SF Dress Entrance (Female)" feature="Develop" />
+	<key id="11020027" class="mouth" name="02/15 Skin Entrance (Male)" feature="Develop" />
+	<key id="11020028" class="mouth" name="02/15 Skin Entrance (Female)" feature="Develop" />
+	<key id="11020031" class="mouth" name="Vocaloid Concept Intro Entrance (Male)" feature="Develop" />
+	<key id="11020032" class="mouth" name="Vocaloid Concept Intro Entrance (Female)" feature="Develop" />
 	<key id="11020039" class="mouth" name="Woodcutter&apos;s Cookie (M)" />
 	<key id="11020040" class="mouth" name="Red Riding Hood&apos;s Cookie (F)" />
 	<key id="11020041" name="Red Hood Choco Chip Cookie (M)" />
 	<key id="11020042" name="Red Hood Choco Chip Cookie (F)" />
+	<key id="11020043" class="mouth" name="04/15 Skin Entrance (Male)" feature="Develop" />
+	<key id="11020044" class="mouth" name="04/15 Skin Entrance (Female)" feature="Develop" />
+	<key id="11020047" class="mouth" name="05/01 Skin Fame (M)" feature="Develop" />
+	<key id="11020048" class="mouth" name="05/01 Skin Fame (F)" feature="Develop" />
+	<key id="11020051" class="mouth" name="05/15 Skin Fame (M)" feature="Develop" />
+	<key id="11020052" class="mouth" name="05/15 Skin Fame (F)" feature="Develop" />
+	<key id="11020055" class="mouth" name="06/01 Skin Fame (M)" feature="Develop" />
+	<key id="11020056" class="mouth" name="06/01 Skin Fame (F)" feature="Develop" />
+	<key id="11020059" class="mouth" name="Street Rapper Fame (M)" feature="Develop" />
+	<key id="11020060" class="mouth" name="Street Rapper Fame (F)" feature="Develop" />
+	<key id="11020063" class="mouth" name="07/01 Skin Fame (M)" feature="Develop" />
+	<key id="11020064" class="mouth" name="07/01 Skin Fame (F)" feature="Develop" />
+	<key id="11020067" class="mouth" name="07/15 Skin Entry (Male)" feature="Develop" />
+	<key id="11020068" class="mouth" name="07/15 Skin Entry (Female)" feature="Develop" />
+	<key id="11020071" class="mouth" name="08/01 Skin Entry (Male)" feature="Develop" />
+	<key id="11020072" class="mouth" name="08/01 Skin Entry (Female)" feature="Develop" />
+	<key id="11020075" class="mouth" feature="Develop" />
+	<key id="11020076" class="mouth" feature="Develop" />
+	<key id="11020079" class="mouth" name="09/01 Skin Entry (Male)" feature="Develop" />
+	<key id="11020080" class="mouth" name="09/01 Skin Entry (Female)" feature="Develop" />
+	<key id="11020083" class="mouth" name="09/15 Skin Entry (Male)" feature="Develop" />
+	<key id="11020084" class="mouth" name="09/15 Skin Entry (Female)" feature="Develop" />
+	<key id="11020087" class="mouth" name="10/01 Skin Entry (Male)" feature="Develop" />
+	<key id="11020088" class="mouth" name="10/01 Skin Entry (Female)" feature="Develop" />
+	<key id="11020091" class="mouth" name="10/15 Skin Entrance (M)" feature="Develop" />
+	<key id="11020092" class="mouth" name="10/15 Skin Entrance (F)" feature="Develop" />
 	<key id="11020111" class="mouth" name="Student&apos;s Pencil (M)" />
 	<key id="11020112" class="mouth" name="Student&apos;s Pencil (F)" />
 	<key id="11020113" name="Blow Up Bubble Gum (M)" />
@@ -751,25 +794,39 @@
 	<key id="11020193" class="mouth" name="Sweet Chocolate (M)" />
 	<key id="11020194" class="mouth" name="Sweet Chocolate (F)" />
 	<key id="11020195" name="Toot Toot Tube (M)" class="mouth" />
+	<key id="11020195" class="mouth" feature="Develop" />
 	<key id="11020196" class="mouth" name="Toot Toot Tube (F)" />
+	<key id="11020196" class="mouth" feature="Develop" />
 	<key id="11020197" class="mouth" name="Sweet Lollipop (M)" />
 	<key id="11020198" class="mouth" name="Sweet Lollipop (F)" />
 	<key id="11020201" class="mouth" name="Passionate Rose (M)" />
 	<key id="11020202" class="mouth" name="Passionate Rose (F)" />
 	<key id="11020231" class="mouth" name="Rubber Pacifier (M)" />
+	<key id="11020231" class="mouth" feature="Develop" />
 	<key id="11020232" class="mouth" name="Rubber Pacifier (F)" />
+	<key id="11020232" class="mouth" feature="Develop" />
 	<key id="11020237" class="mouth" name="Carrot Nose (M)" />
+	<key id="11020237" class="mouth" feature="Develop" />
 	<key id="11020238" class="mouth" name="Carrot Nose (F)" />
+	<key id="11020238" class="mouth" feature="Develop" />
 	<key id="11020241" class="mouth" name="Elephant Mask (M)" />
 	<key id="11020242" class="mouth" name="Elephant Mask (F)" />
+	<key id="11020287" class="mouth" name="Cat Mask (M)" feature="Develop" />
+	<key id="11020288" class="mouth" name="Cat Mask (F)" feature="Develop" />
 	<key id="11020297" name="Gas Mask (M)" class="mouth" />
+	<key id="11020297" class="mouth" feature="Develop" />
 	<key id="11020298" name="Gas Mask (F)" class="mouth" />
+	<key id="11020298" class="mouth" feature="Develop" />
 	<key id="11020309" name="Warm Roasted Sweet Potato (M)" />
+	<key id="11020309" class="mouth" feature="Develop" />
 	<key id="11020310" name="Warm Roasted Sweet Potato (F)" />
+	<key id="11020310" class="mouth" feature="Develop" />
 	<key id="11020311" name="Warm Roasted Sweet Potato (M)" />
 	<key id="11020312" name="Warm Roasted Sweet Potato (F)" />
 	<key id="11020313" class="mouth" name="Clown Lips (M)" />
 	<key id="11020314" class="mouth" name="Clown Lips (F)" />
+	<key id="11020315" class="mouth" name="Cat Whiskers (M)" feature="Develop" />
+	<key id="11020316" class="mouth" name="Cat Whiskers (F)" feature="Develop" />
 	<key id="11020395" name="Cozy Cotton Puff Breath (M)" />
 	<key id="11020396" name="Cozy Cotton Puff Breath (F)" />
 	<key id="11020401" class="" name="Black Face Mask (M)" />
@@ -785,6 +842,7 @@
 	<key id="11020411" name="Red Celestial Mask" />
 	<key id="11020412" name="Professional Pencil (M)" />
 	<key id="11020413" name="Professional Pencil (F)" />
+	<key id="11029990" name="Sample Face Decoration (Capsule Gacha Skin)" feature="Develop" />
 	<key id="11050001" class="mouth" name="Sweet Lollipop" />
 	<key id="11050002" class="mouth" name="Dandy Mustache" />
 	<key id="11050003" class="mouth" name="Big Bubble Gum" />
@@ -838,6 +896,7 @@
 	<key id="11050050" class="mouth" name="White Under Chin Mask" />
 	<key id="11050051" class="mouth" name="Sweet Chocolate" />
 	<key id="11050052" name="Sweet Chocolate" />
+	<key id="11050052" class="mouth" feature="Develop" />
 	<key id="11050053" class="mouth" name="Floral Wedding Face Accessory (M)" />
 	<key id="11050054" class="mouth" name="Floral Wedding Face Accessory (F)" />
 	<key id="11050055" class="mouth" name="Long Pinocchio Nose" />
@@ -850,6 +909,7 @@
 	<key id="11050064" class="mouth" name="Fluttering Flower Petal" />
 	<key id="11050065" class="mouth" name="Clown Lips" />
 	<key id="11050066" name="Wedding Day Flower Face Accessory (M)" />
+	<key id="11050066" class="mouth" feature="Develop" />
 	<key id="11050067" class="mouth" name="Special Wedding Pink Rose (M)" feature="Wedding" />
 	<key id="11050068" class="mouth" name="Special Wedding Pink Rose (F)" feature="Wedding" />
 	<key id="11050069" name="Wedding Day Flower Face Accessory (F)" />
@@ -865,8 +925,12 @@
 	<key id="11120008" name="Bodyguard Sunglasses (M)" />
 	<key id="11120009" name="Half-rim Glasses (M)" />
 	<key id="11120010" name="Half-rim Glasses (F)" />
+	<key id="11120011" class="eye" name="12/15 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120012" class="eye" name="12/15 Skin Face Decoration (F)" feature="Develop" />
 	<key id="11120013" name="Bodyguard Sunglasses (F)" />
 	<key id="11120014" name="(PC Bang) Black Medical Eyepatch" feature="ItemKR" />
+	<key id="11120015" class="eye" name="Save SF Dress Face Ornament (M)" feature="Develop" />
+	<key id="11120016" class="eye" name="Save SF Dress Face Ornament (F)" feature="Develop" />
 	<key id="11120017" name="Striped Bunny Sunglasses (M)" />
 	<key id="11120018" name="Striped Bunny Sunglasses (F)" />
 	<key id="11120019" name="Striped Bunny Sunglasses (M)" />
@@ -875,17 +939,49 @@
 	<key id="11120024" name="(PC Bang) Automatic Goggles" feature="ItemKR" />
 	<key id="11120025" class="eye" name="Scarlet Heart Eye Patch (M)" />
 	<key id="11120026" class="eye" name="Scarlet Heart Eye Patch (F)" />
+	<key id="11120027" class="eye" name="02/15 Skin Face Ornament (M)" feature="Develop" />
+	<key id="11120028" class="eye" name="02/15 Skin Face Ornament (F)" feature="Develop" />
+	<key id="11120031" class="eye" name="Vocaloid Concept Face Ornament (M)" feature="Develop" />
+	<key id="11120032" class="eye" name="Vocaloid Concept Face Ornament (F)" feature="Develop" />
 	<key id="11120038" name="(PC Bang) Neat Horn-rimmed Glasses" feature="ItemKR" />
+	<key id="11120039" class="eye" name="04/01 Skin Face Ornament (M)" feature="Develop" />
+	<key id="11120040" class="eye" name="04/01 Skin Face Ornament (F)" feature="Develop" />
+	<key id="11120043" class="eye" name="04/15 Skin Face Ornament (M)" feature="Develop" />
+	<key id="11120044" class="eye" name="04/15 Skin Face Ornament (F)" feature="Develop" />
 	<key id="11120045" class="eye" name="Shiny Star Decoration (M)" />
 	<key id="11120046" class="eye" name="Shiny Star Decoration (F)" />
+	<key id="11120047" class="eye" name="05/01 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120048" class="eye" name="05/01 Skin Face Decoration (F)" feature="Develop" />
 	<key id="11120049" name="Cat Jelly Eyepatch (M)" />
 	<key id="11120050" name="Shining Star Deco (M)" />
+	<key id="11120051" class="eye" name="05/15 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120052" class="eye" name="05/15 Skin Face Decoration (F)" feature="Develop" />
 	<key id="11120053" name="Pumpkin Eyepatch (M)" />
 	<key id="11120054" name="Cat Jelly Eyepatch (F)" />
+	<key id="11120055" class="eye" name="06/01 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120056" class="eye" name="06/01 Skin Face Decoration (F)" feature="Develop" />
 	<key id="11120057" name="Pumpkin Eyepatch (F)" />
 	<key id="11120058" name="Pumpkin Eyepatch (M)" />
+	<key id="11120059" class="eye" name="Street Rapper Face Decoration (M)" feature="Develop" />
+	<key id="11120060" class="eye" name="Street Rapper Face Decoration (F)" feature="Develop" />
 	<key id="11120061" name="Pumpkin Eyepatch (F)" />
 	<key id="11120062" name="Shining Star Deco (F)" />
+	<key id="11120063" class="eye" name="07/01 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120064" class="eye" name="07/01 Skin Face Decoration (F)" feature="Develop" />
+	<key id="11120067" class="eye" name="07/15 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120068" class="eye" name="07/15 Skin Face Decoration (F)" feature="Develop" />
+	<key id="11120071" class="eye" name="08/01 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120072" class="eye" name="08/01 Skin Face Decoration (F)" feature="Develop" />
+	<key id="11120075" class="eye" feature="Develop" />
+	<key id="11120076" class="eye" feature="Develop" />
+	<key id="11120079" class="eye" name="09/01 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120080" class="eye" name="09/01 Skin Face Decoration (F)" feature="Develop" />
+	<key id="11120083" class="eye" name="09/15 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120084" class="eye" name="09/15 Skin Face Decoration (F)" feature="Develop" />
+	<key id="11120087" class="eye" name="10/01 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120088" class="eye" name="10/01 Skin Face Decoration (F)" feature="Develop" />
+	<key id="11120091" class="eye" name="10/15 Skin Face Decoration (M)" feature="Develop" />
+	<key id="11120092" class="eye" name="10/15 Skin Face Decoration (F)" feature="Develop" />
 	<key id="11120099" class="eye" name="Chilly Round Chain Glasses (M)" />
 	<key id="11120100" class="eye" name="Chilly Round Chain Glasses (F)" />
 	<key id="11120111" class="eye" name="Hipster Glasses (M)" />
@@ -896,18 +992,36 @@
 	<key id="11120160" class="eye" name="Tear-shaped Horn-rimmed Glasses (F)" />
 	<key id="11120207" class="eye" name="Cat-Ear Eye Patch (M)" />
 	<key id="11120208" class="eye" name="Cat-Ear Eye Patch (F)" />
+	<key id="11120229" class="eye" name="Resistance Sigmund Eye Patch (M)" feature="Develop" />
+	<key id="11120230" class="eye" name="Resistance Sigmund Eye Patch (F)" feature="Develop" />
 	<key id="11120231" class="eye" name="3D Glasses (M)" />
+	<key id="11120231" class="eye" feature="Develop" />
 	<key id="11120232" class="eye" name="3D Glasses (F)" />
+	<key id="11120232" class="eye" feature="Develop" />
 	<key id="11120237" class="eye" name="Lucky Clover Glasses (M)" />
+	<key id="11120237" class="eye" feature="Develop" />
 	<key id="11120238" name="Lucky Clover Glasses (F)" class="eye" />
+	<key id="11120238" class="eye" feature="Develop" />
 	<key id="11120243" name="Small Round Glasses (M)" class="eye" />
+	<key id="11120243" class="eye" feature="Develop" />
 	<key id="11120244" name="Small Round Glasses (F)" class="eye" />
+	<key id="11120244" class="eye" feature="Develop" />
 	<key id="11120247" name="Polka Dot Sunglasses (M)" class="eye" />
+	<key id="11120247" class="eye" feature="Develop" />
 	<key id="11120248" name="Polka Dot Sunglasses (F)" class="eye" />
+	<key id="11120248" class="eye" feature="Develop" />
+	<key id="11120287" class="eye" name="Nose Glasses (M)" feature="Develop" />
+	<key id="11120288" class="eye" name="Nose Glasses (F)" feature="Develop" />
+	<key id="11120301" class="eye" name="Skull Eyepatch (M)" feature="Develop" />
+	<key id="11120302" class="eye" name="Skull Eyepatch (F)" feature="Develop" />
+	<key id="11120313" class="eye" name="Pineapple Sunglasses (M)" feature="Develop" />
+	<key id="11120314" class="eye" name="Pineapple Sunglasses (F)" feature="Develop" />
 	<key id="11120351" class="eye" name="Earthly Model Student Eyes (M)" />
 	<key id="11120352" class="eye" name="Earthly Model Student Eyes (F)" />
 	<key id="11120353" name="Merini Honor Student Eyes (M)" />
 	<key id="11120354" name="Merini Honor Student Eyes (F)" />
+	<key id="11120379" class="eye" feature="Develop" />
+	<key id="11120380" class="eye" feature="Develop" />
 	<key id="11120401" class="" name="Thin-Framed Glasses (M)" />
 	<key id="11120402" class="" name="Thin-Framed Glasses (F)" />
 	<key id="11120403" class="" name="Snorkel (M)" />
@@ -933,6 +1047,7 @@
 	<key id="11120648" name="Striped Bunny Sunglasses" />
 	<key id="11120649" name="Big Frame Horn-Rimmed Glasses (M)" />
 	<key id="11120650" name="Big Frame Horn-Rimmed Glasses (F)" />
+	<key id="11129990" name="Sample Eye Decoration (Capsule Gacha Skin)" feature="Develop" />
 	<key id="11150001" class="eye" name="Neat Hard-Rimmed Glasses" />
 	<key id="11150002" class="eye" name="Stylish Tiger Print Glasses" />
 	<key id="11150003" class="eye" name="Security Shades" />
@@ -999,6 +1114,7 @@
 	<key id="11150076" class="eye" name="Tear-shaped Horn-rimmed Glasses" />
 	<key id="11150077" class="eye" name="Silver Cross Glasses" />
 	<key id="11150078" name="Monocle (M)" />
+	<key id="11150078" class="eye" feature="Develop" />
 	<key id="11150079" name="Monocle (F)" />
 	<key id="11150080" name="Resistance Sigmund Eye Patch (F)" />
 	<key id="11150081" name="Resistance Sigmund Eye Patch (M)" />
@@ -1123,8 +1239,12 @@
 	<key id="11220008" class="earring" name="Unicorn Champion Earrings (F)" />
 	<key id="11220009" class="earring" name="Snow Tale Earrings (M)" />
 	<key id="11220010" class="earring" name="Snow Tale Earrings (F)" />
+	<key id="11220011" class="earring" name="12/15 Skin Earrings (M)" feature="Develop" />
+	<key id="11220012" class="earring" name="12/15 Skin Earrings (F)" feature="Develop" />
 	<key id="11220013" class="earring" name="Merry Holiday Earrings (M)" />
 	<key id="11220014" class="earring" name="Merry Holiday Earrings (F)" />
+	<key id="11220015" class="earring" name="Save SF Dress Earrings (M)" feature="Develop" />
+	<key id="11220016" class="earring" name="Save SF Dress Earrings (F)" feature="Develop" />
 	<key id="11220017" class="earring" name="Frozen Crystal Earrings (M)" />
 	<key id="11220018" class="earring" name="Frozen Crystal Earrings (F)" />
 	<key id="11220019" class="earring" name="Modern Hanbok Earrings (M)" />
@@ -1147,10 +1267,14 @@
 	<key id="11220036" class="earring" name="Fluttering Butterfly Earrings (F)" />
 	<key id="11220037" class="earring" name="Flower Bunny Earrings (M)" />
 	<key id="11220038" class="earring" name="Flower Bunny Earrings (F)" />
+	<key id="11220039" class="earring" name="04/01 Skin Earrings (M)" feature="Develop" />
+	<key id="11220040" class="earring" name="04/01 Skin Earrings (F)" feature="Develop" />
 	<key id="11220041" class="earring" name="Wedding Rose Earrings (M)" />
 	<key id="11220042" class="earring" name="Wedding Rose Earrings (F)" />
 	<key id="11220043" class="earring" name="Heart Metallic Earring (M)" />
+	<key id="11220043" class="earring" feature="Develop" />
 	<key id="11220044" class="earring" name="Heart Metallic Earring (F)" />
+	<key id="11220044" class="earring" feature="Develop" />
 	<key id="11220045" name="Cotton Candy Star Earring (M)" />
 	<key id="11220046" name="Cotton Candy Star Earring (F)" />
 	<key id="11220047" class="earring" name="Ivory Jester Earrings (M)" />
@@ -1166,31 +1290,47 @@
 	<key id="11220057" class="earring" name="Funky Cowboy Star Earrings (M)" />
 	<key id="11220058" class="earring" name="Funky Cowboy Star Earrings (F)" />
 	<key id="11220059" class="earring" name="Street Rapper Earring (M)" />
+	<key id="11220059" class="earring" feature="Develop" />
 	<key id="11220060" class="earring" name="Street Rapper Earring (F)" />
+	<key id="11220060" class="earring" feature="Develop" />
 	<key id="11220061" class="earring" name="Astronaut Planet Earrings (M)" />
 	<key id="11220062" class="earring" name="Astronaut Planet Earrings (F)" />
 	<key id="11220063" name="Blue Ocean Boy Earring (M)" />
+	<key id="11220063" class="earring" feature="Develop" />
 	<key id="11220064" name="Blue Ocean Girl Earring (F)" />
+	<key id="11220064" class="earring" feature="Develop" />
 	<key id="11220065" class="earring" name="Tropical Cherry Earrings (M)" />
 	<key id="11220066" class="earring" name="Tropical Cherry Earrings (F)" />
 	<key id="11220067" class="earring" name="Fresh Summer Earring (M)" />
+	<key id="11220067" class="earring" feature="Develop" />
 	<key id="11220068" class="earring" name="Fresh Summer Earring (F)" />
+	<key id="11220068" class="earring" feature="Develop" />
 	<key id="11220069" class="earring" name="Sailor&apos;s Chill Earrings (M)" />
 	<key id="11220070" class="earring" name="Sailor&apos;s Chill Earrings (F)" />
+	<key id="11220071" class="earring" name="08/01 Skin Earrings (M)" feature="Develop" />
+	<key id="11220072" class="earring" name="08/01 Skin Earrings (F)" feature="Develop" />
 	<key id="11220073" class="earring" name="Ifrit Crystal Earrings (M)" />
 	<key id="11220074" class="earring" name="Ifrit Crystal Earrings (F)" />
+	<key id="11220075" class="earring" name="Shine Fairy Earrings (M)" feature="Develop" />
+	<key id="11220076" class="earring" name="Shine Fairy Earrings (F)" feature="Develop" />
 	<key id="11220077" class="earring" name="Magic Academy Freshman Earrings (M)" />
 	<key id="11220078" class="earring" name="Magic Academy Freshman Earrings (F)" />
+	<key id="11220079" class="earring" name="09/01 Skin Earrings (M)" feature="Develop" />
+	<key id="11220080" class="earring" name="09/01 Skin Earrings (F)" feature="Develop" />
 	<key id="11220081" class="earring" name="Crystal Drop Earrings (M)" />
 	<key id="11220082" class="earring" name="Crystal Flower Earrings (F)" />
 	<key id="11220083" class="earring" name="Cupcake Puff Earrings (M)" />
 	<key id="11220084" class="earring" name="Cupcake Puff Earrings (F)" />
 	<key id="11220085" class="earring" name="Tria Royal Chef Earrings (M)" />
 	<key id="11220086" class="earring" name="Tria Royal Chef Earrings (F)" />
+	<key id="11220087" class="earring" name="10/01 Skin Earrings (M)" feature="Develop" />
+	<key id="11220088" class="earring" name="10/01 Skin Earrings (F)" feature="Develop" />
 	<key id="11220089" class="earring" name="Gothic Bejeweled Earrings (M)" />
 	<key id="11220090" class="earring" name="Gothic Bejeweled Earrings (F)" />
 	<key id="11220091" class="earring" name="Pumpkin Hallow Candy Earring (M)" />
+	<key id="11220091" class="earring" feature="Develop" />
 	<key id="11220092" class="earring" name="Pumpkin Hallow Candy Earring (F)" />
+	<key id="11220092" class="earring" feature="Develop" />
 	<key id="11220093" class="earring" name="Devil&apos;s Cross Ear Cuffs (M)" />
 	<key id="11220094" class="earring" name="Devil&apos;s Cross Ear Cuffs (F)" />
 	<key id="11220095" name="Astronaut Planet Earring (M)" />
@@ -1212,7 +1352,9 @@
 	<key id="11220111" name="Happy Christmas Gift Box Earring (M)" />
 	<key id="11220112" name="Happy Christmas Gift Box Earring (F)" />
 	<key id="11220113" class="Earring" name="Charming Star Earring (M)" />
+	<key id="11220113" class="earring" feature="Develop" />
 	<key id="11220114" name="Charming Star Earring (F)" class="Earring" />
+	<key id="11220114" class="earring" feature="Develop" />
 	<key id="11220115" class="earring" name="Tria Royal Painter Earrings (M)" />
 	<key id="11220116" class="earring" name="Tria Royal Painter Earrings (F)" />
 	<key id="11220117" class="earring" name="Passionate Starlight Earrings (M)" />
@@ -1224,9 +1366,13 @@
 	<key id="11220123" name="Snow Tail Earring (M)" />
 	<key id="11220124" name="Snow Tail Earring (F)" />
 	<key id="11220125" class="Earring" name="Sunflower Earring (M)" />
+	<key id="11220125" class="earring" feature="Develop" />
 	<key id="11220126" class="Earring" name="Sunflower Earring (F)" />
+	<key id="11220126" class="earring" feature="Develop" />
 	<key id="11220127" name="Gothic Bijou Earring (M)" />
 	<key id="11220128" name="Gothic Bijou Earring (F)" />
+	<key id="11220129" class="earring" name="Romantic Beach Pineapple Earrings (M)" feature="Develop" />
+	<key id="11220130" class="earring" name="Romantic Beach Pineapple Earring (F)" feature="Develop" />
 	<key id="11220131" name="Valentine Heart Earring (M)" />
 	<key id="11220132" name="Valentine Heart Earring (F)" />
 	<key id="11220133" class="earring" name="Street Hoop Earrings (M)" />
@@ -1248,11 +1394,15 @@
 	<key id="11220199" class="earring" name="Lovely Heart Earrings (M)" />
 	<key id="11220200" class="earring" name="Lovely Heart Earrings (F)" />
 	<key id="11220219" class="earring" name="Breezy Cherry Blossom Earring (M)" />
+	<key id="11220219" class="earring" feature="Develop" />
 	<key id="11220220" name="Breezy Cherry Blossom Earring (F)" class="earring" />
+	<key id="11220220" class="earring" feature="Develop" />
 	<key id="11220221" name="Breezy Cherry Blossom Earring (M)" />
 	<key id="11220222" name="Breezy Cherry Blossom Earring (F)" />
 	<key id="11220231" class="earring" name="Fairy Metal Earring (M)" />
+	<key id="11220231" class="earring" feature="Develop" />
 	<key id="11220232" class="earring" name="Fairy Metal Earring (F)" />
+	<key id="11220232" class="earring" feature="Develop" />
 	<key id="11220271" class="earring" name="Jeweled Clam Earrings (M)" />
 	<key id="11220272" class="earring" name="Jeweled Clam Earrings (F)" />
 	<key id="11220273" name="Gem Shell Earring (M)" />
@@ -1264,7 +1414,9 @@
 	<key id="11220319" name="Royal Winter Earring (M)" />
 	<key id="11220320" name="Royal Winter Earring (F)" />
 	<key id="11220349" class="earring" name="Shining Marching Band Earring (M)" />
+	<key id="11220349" class="earring" feature="Develop" />
 	<key id="11220350" class="earring" name="Shining Marching Band Earring (F)" />
+	<key id="11220350" class="earring" feature="Develop" />
 	<key id="11220353" class="earring" name="Winter Fairy Tale Snowflake Earrings (M)" />
 	<key id="11220354" class="earring" name="Winter Fairy Tale Snowflake Earrings (F)" />
 	<key id="11220355" class="earring" name="Amie Tutu Jewel Earrings (M)" />
@@ -1272,7 +1424,9 @@
 	<key id="11220357" class="earring" name="Olympus Earrings (M)" />
 	<key id="11220358" class="earring" name="Olympus Earrings (F)" />
 	<key id="11220359" class="earring" name="Romantic Wedding Pearl Earring (M)" />
+	<key id="11220359" class="earring" feature="Develop" />
 	<key id="11220360" class="earring" name="Romantic Wedding Pearl Earring (F)" />
+	<key id="11220360" class="earring" feature="Develop" />
 	<key id="11220361" class="earring" name="Illusionist Tassel Earrings (M)" />
 	<key id="11220362" class="earring" name="Illusionist Tassel Earrings (F)" />
 	<key id="11220363" name="Romantic Wedding Pearl Earring (M)" />
@@ -1282,39 +1436,59 @@
 	<key id="11220367" class="earring" name="Ice Dancer&apos;s Earrings (M)" />
 	<key id="11220368" class="earring" name="Ice Dancer&apos;s Earrings (F)" />
 	<key id="11220369" name="Seirenes Earring (M)" />
+	<key id="11220369" class="earring" feature="Develop" />
 	<key id="11220370" name="Seirenes Earring (F)" />
+	<key id="11220370" class="earring" feature="Develop" />
 	<key id="11220371" name="Naughty Little Devil Earring (M)" />
+	<key id="11220371" class="earring" feature="Develop" />
 	<key id="11220372" name="Naughty Little Devil Earring (F)" />
+	<key id="11220372" class="earring" feature="Develop" />
 	<key id="11220373" name="Kerning City Station Attendant Earring (M)" />
+	<key id="11220373" class="earring" feature="Develop" />
 	<key id="11220374" name="Kerning City Station Attendant Earring (F)" />
+	<key id="11220374" class="earring" feature="Develop" />
 	<key id="11220375" name="Naughty Little Devil Earring (M)" />
+	<key id="11220375" class="earring" feature="Develop" />
 	<key id="11220376" name="Naughty Little Devil Earring (F)" />
+	<key id="11220376" class="earring" feature="Develop" />
 	<key id="11220377" class="earring" name="Playful Fairy Earring (M)" />
 	<key id="11220378" class="earring" name="Playful Fairy Earring (F)" />
 	<key id="11220381" class="earring" name="Forest Spirit Berry Earring (M)" />
+	<key id="11220381" class="earring" feature="Develop" />
 	<key id="11220382" class="earring" name="Forest Spirit Berry Earring (F)" />
+	<key id="11220382" class="earring" feature="Develop" />
 	<key id="11220387" class="earring" name="Glowing Star Earrings (M)" />
 	<key id="11220388" class="earring" name="Glowing Star Earrings (F)" />
 	<key id="11220389" class="earring" name="Lively Alice Heart Earring (M)" />
+	<key id="11220389" class="earring" feature="Develop" />
 	<key id="11220390" class="earring" name="Lively Alice Heart Earring (F)" />
+	<key id="11220390" class="earring" feature="Develop" />
 	<key id="11220391" class="earring" name="Fallen Angel Earrings (M)" />
 	<key id="11220392" class="earring" name="Fallen Angel Earrings (F)" />
 	<key id="11220393" class="earring" name="Spring Outing Mobile Earring (M)" />
+	<key id="11220393" class="earring" feature="Develop" />
 	<key id="11220394" class="earring" name="Spring Outing Mobile Earring (F)" />
+	<key id="11220394" class="earring" feature="Develop" />
 	<key id="11220395" name="Fallen Angel Earring (M)" />
 	<key id="11220396" name="Fallen Angel Earring (F)" />
 	<key id="11220397" name="Kerning Police Earring (M)" />
 	<key id="11220398" name="Kerning Police Earring (F)" />
 	<key id="11220399" name="Tick-Tock Clockwork Earring (M)" />
+	<key id="11220399" class="earring" feature="Develop" />
 	<key id="11220400" name="Tick-Tock Clockwork Earring (F)" />
+	<key id="11220400" class="earring" feature="Develop" />
 	<key id="11220401" name="Spring Outing Mobile Earring (M)" />
 	<key id="11220402" name="Spring Outing Mobile Earring (F)" />
 	<key id="11220403" name="Kerning Police Earring (M)" />
 	<key id="11220404" name="Kerning Police Earring (F)" />
 	<key id="11220415" name="Autumn Picnic Acorn Earring (M)" />
+	<key id="11220415" class="earring" feature="Develop" />
 	<key id="11220416" name="Autumn Picnic Acorn Earring (F)" />
+	<key id="11220416" class="earring" feature="Develop" />
 	<key id="11220417" name="Freestyle Metal Point Earring (M)" />
+	<key id="11220417" class="earring" feature="Develop" />
 	<key id="11220418" name="Freestyle Metal Point Earring (F)" />
+	<key id="11220418" class="earring" feature="Develop" />
 	<key id="11220423" name="Shining Snowflake Earring (M)" />
 	<key id="11220424" name="Shining Snowflake Earring (F)" />
 	<key id="11220427" name="Maple Road Equestrian Earring (M)" />
@@ -1449,6 +1623,7 @@
 	<key id="11220711" name="Butterfly Lord Earring (F)" />
 	<key id="11220712" name="Flutter Butterfly Earring (M)" />
 	<key id="11220713" name="Flutter Butterfly Earring (F)" />
+	<key id="11229990" name="Sample Earrings (Capsule Gacha Skin)" feature="Develop" />
 	<key id="11230031" class="earring" name="Absolute Earrings" />
 	<key id="11230044" class="earring" name="Savagery Earrings" />
 	<key id="11230061" class="earring" name="Shadowfire Earrings" />
@@ -1585,7 +1760,9 @@
 	<key id="11250125" class="earring" name="Flower Bunny Earrings (M)" />
 	<key id="11250126" class="earring" name="Flower Bunny Earrings (F)" />
 	<key id="11250127" name="Wedding Day Heart Earring (M)" />
+	<key id="11250127" class="earring" feature="Develop" />
 	<key id="11250128" name="Wedding Day Heart Earring (F)" />
+	<key id="11250128" class="earring" feature="Develop" />
 	<key id="11250129" class="earring" name="Cutie Bear Paw Earrings (M)" />
 	<key id="11250130" class="earring" name="Cutie Bear Paw Earrings (F)" />
 	<key id="11250131" class="earring" name="Astronaut Planet Earrings (M)" />
@@ -1600,11 +1777,15 @@
 	<key id="11250173" class="earring" name="Romantic Beach Pineapple Earrings" />
 	<key id="11250174" class="earring" name="Summer Dharma Earrings" />
 	<key id="11250175" name="Cutie Little Bear Jelly Earring (M)" />
+	<key id="11250175" class="earring" feature="Develop" />
 	<key id="11250176" name="Cutie Little Bear Jelly Earring (F)" />
+	<key id="11250176" class="earring" feature="Develop" />
 	<key id="11250177" class="earring" name="Jeweled Clam Earrings (M)" />
 	<key id="11250178" class="earring" name="Jeweled Clam Earrings (F)" />
 	<key id="11250179" name="Magic Academy Apprentice Earring (M)" />
+	<key id="11250179" class="earring" feature="Develop" />
 	<key id="11250180" name="Magic Academy Apprentice Earring (F)" />
+	<key id="11250180" class="earring" feature="Develop" />
 	<key id="11250181" class="earring" name="Tria Royal Chef Earrings (M)" />
 	<key id="11250182" class="earring" name="Tria Royal Chef Earrings (F)" />
 	<key id="11250183" class="earring" name="Royal Darkness Earrings (M)" />
@@ -1625,13 +1806,22 @@
 	<key id="11250197" name="Diligent Adventurer&apos;s Fashion Earring (30 Days)" />
 	<key id="11250199" class="earring" name="Winter Fairy Tale Snowflake Earrings (M)" />
 	<key id="11250200" class="earring" name="Winter Fairy Tale Snowflake Earrings (F)" />
+	<key id="11250202" class="earring" feature="Develop" />
+	<key id="11250203" class="earring" feature="Develop" />
+	<key id="11250204" class="earring" feature="Develop" />
+	<key id="11250205" class="earring" feature="Develop" />
+	<key id="11250206" class="earring" feature="Develop" />
+	<key id="11250207" class="earring" feature="Develop" />
 	<key id="11250208" class="earring" name="Cotton Candy Star Earrings (M)" />
 	<key id="11250209" class="earring" name="Cotton Candy Star Earrings (F)" />
 	<key id="11250210" name="Special Wedding Stone Earring (M)" class="earring" feature="Wedding" />
 	<key id="11250211" class="earring" name="Special Wedding Stone Earring (F)" feature="Wedding" />
+	<key id="11250212" class="earring" feature="Develop" />
+	<key id="11250213" class="earring" feature="Develop" />
 	<key id="11250214" class="earring" name="Valentine Heart Earrings (M)" />
 	<key id="11250215" class="earring" name="Valentine Heart Earrings (F)" />
 	<key id="11260044" class="earring" name="Replica Ferocity Earrings" />
+	<key id="11260045" class="earring" name="Cute Duckie Ball Earrings" feature="Event" locale="JP" />
 	<key id="11260089" class="earring" name="Soulrend Earrings" feature="Level60Item" />
 	<key id="11260090" class="earring" name="Fractured Earrings" feature="Level60Item" />
 	<key id="11260091" class="earring" name="Antique Earrings of the Wayward Soul" feature="Level60Item" />
@@ -2982,6 +3172,17 @@
 	<key id="11301302" class="hat" name="Runeblade&apos;s Tairen Combat Circlet" feature="Level70Item" />
 	<key id="11301303" class="hat" name="Striker&apos;s Tairen Combat Circlet" feature="Level70Item" />
 	<key id="11301304" class="hat" name="Soul Binder&apos;s Tairen Combat Circlet" feature="Level70Item" />
+	<key id="11301305" class="hat" name="Level 70 Epic 3 Hat Knight" feature="Develop" />
+	<key id="11301306" class="hat" name="Level 70 Epic 3 Hat Berserker" feature="Develop" />
+	<key id="11301307" class="hat" name="Level 70 Epic 3 Hat Wizard" feature="Develop" />
+	<key id="11301308" class="hat" name="Level 70 Epic 3 Hat Priest" feature="Develop" />
+	<key id="11301309" class="hat" name="Level 70 Epic 3 Hat Archer" feature="Develop" />
+	<key id="11301310" class="hat" name="Level 70 Epic 3 Hat Heavy Gunner" feature="Develop" />
+	<key id="11301311" class="hat" name="Level 70 Epic 3 Hat Thief" feature="Develop" />
+	<key id="11301312" class="hat" name="Level 70 Epic 3 Hat Assassin" feature="Develop" />
+	<key id="11301313" class="hat" name="Level 70 Epic 3 Hat Rune Blader" feature="Develop" />
+	<key id="11301314" class="hat" name="Level 70 Epic 3 Hat, Striker" feature="Develop" />
+	<key id="11301315" class="hat" name="Level 70 Epic 3 Hat, Soul Binder" feature="Develop" />
 	<key id="11301316" class="hat" name="Knight&apos;s Tairen Officer Circlet" feature="Level70Item" />
 	<key id="11301317" class="hat" name="Berserker&apos;s Tairen Officer Circlet" feature="Level70Item" />
 	<key id="11301318" class="hat" name="Wizard&apos;s Tairen Officer Circlet" feature="Level70Item" />
@@ -3046,7 +3247,9 @@
 	<key id="11301377" class="hat" name="Flower Bunny Ears Hairband (M)" />
 	<key id="11301378" class="hat" name="Flower Bunny Ears Hairband (F)" />
 	<key id="11301379" name="Wedding Day Heart Pop Hat (M)" />
+	<key id="11301379" class="hat" feature="Develop" />
 	<key id="11301380" name="Wedding Day Heart Pop Tiara (F)" />
+	<key id="11301380" class="hat" feature="Develop" />
 	<key id="11301381" class="hat" name="Cutie Bear Beret (M)" />
 	<key id="11301382" class="hat" name="Cutie Bear Beret (F)" />
 	<key id="11301383" class="hat" name="Astronaut Helmet (M)" />
@@ -3095,8 +3298,12 @@
 	<key id="11301488" class="hat" name="Horned Mushroom Mask" />
 	<key id="11301489" class="hat" name="Slime Mask" />
 	<key id="11301490" class="hat" name="Dark Fantasy Hat" />
+	<key id="11301491" class="hat" feature="Develop" />
+	<key id="11301492" class="hat" feature="Develop" />
 	<key id="11301493" class="hat" name="Maple Quarterback Helmet (M)" />
 	<key id="11301494" class="hat" name="Maple Quarterback Helmet (F)" />
+	<key id="11301495" class="hat" feature="Develop" />
+	<key id="11301496" class="hat" feature="Develop" />
 	<key id="11301497" class="hat" name="Tria Royal Chef Hat (M)" />
 	<key id="11301498" class="hat" name="Tria Royal Chef Hat (F)" />
 	<key id="11301499" class="hat" name="Techwear Scout Hat (M)" />
@@ -3144,6 +3351,12 @@
 	<key id="11301531" class="hat" name="Funky Cat Uniform Hat (F)" />
 	<key id="11301534" class="hat" name="Winter Fairy Tale Snowflake Crown (M)" />
 	<key id="11301535" class="hat" name="Winter Fairy Tale Snowflake Crown (F)" />
+	<key id="11301536" class="hat" feature="Develop" />
+	<key id="11301537" class="hat" feature="Develop" />
+	<key id="11301540" class="hat" feature="Develop" />
+	<key id="11301541" class="hat" feature="Develop" />
+	<key id="11301542" class="hat" feature="Develop" />
+	<key id="11301543" class="hat" feature="Develop" />
 	<key id="11301544" class="hat" name="Hipster Cat Baseball Cap" />
 	<key id="11301545" class="hat" name="Horus Helm" feature="Event" />
 	<key id="11301545" class="hat" name="Horus Helm" />
@@ -3153,9 +3366,30 @@
 	<key id="11301547" class="hat" name="Devourak&apos;s Horns" />
 	<key id="11301548" class="hat" name="Chaos Horns" feature="Event" />
 	<key id="11301548" class="hat" name="Horns of Chaos" />
+	<key id="11301549" class="hat" feature="Develop" />
+	<key id="11301550" class="hat" feature="Develop" />
 	<key id="11301551" class="hat" name="Gentle Hamster Hat" />
 	<key id="11301552" name="Sweet Hamster Hat" />
+	<key id="11301552" class="hat" feature="Develop" />
+	<key id="11301553" class="hat" feature="Develop" />
+	<key id="11301554" class="hat" feature="Develop" />
+	<key id="11301555" class="hat" feature="Develop" />
+	<key id="11301556" class="hat" feature="Develop" />
+	<key id="11301557" class="hat" feature="Develop" />
+	<key id="11301558" class="hat" feature="Develop" />
+	<key id="11301559" class="hat" feature="Develop" />
+	<key id="11301560" class="hat" feature="Develop" />
+	<key id="11301561" class="hat" feature="Develop" />
 	<key id="11301562" name="Spinning Pinwheel" />
+	<key id="11301562" class="hat" feature="Develop" />
+	<key id="11301563" class="hat" feature="Develop" />
+	<key id="11301564" class="hat" feature="Develop" />
+	<key id="11301565" class="hat" feature="Develop" />
+	<key id="11301566" class="hat" feature="Develop" />
+	<key id="11301567" class="hat" feature="Develop" />
+	<key id="11301568" class="hat" feature="Develop" />
+	<key id="11301569" class="hat" feature="Develop" />
+	<key id="11301570" class="hat" feature="Develop" />
 	<key id="11301571" class="hat" name="Hyuk Is an Alien" feature="ItemKR" />
 	<key id="11301572" class="hat" name="(PC Cafe) Elite Adventurer Battle Helmet (Knight)" feature="Level70Item" />
 	<key id="11301573" class="hat" name="(PC Cafe) Elite Adventurer Battle Helmet (Berserker)" feature="Level70Item" />
@@ -3170,6 +3404,8 @@
 	<key id="11301582" class="hat" name="(PC Cafe) Elite Adventurer Marshall Circlet (Soul Binder)" feature="Level70Item" />
 	<key id="11301583" class="hat" name="Cotton Candy Bunny Sleep Mask (M)" />
 	<key id="11301584" class="hat" name="Cotton Candy Bunny Sleep Mask (F)" />
+	<key id="11301585" class="hat" feature="Develop" />
+	<key id="11301586" class="hat" feature="Develop" />
 	<key id="11301587" class="hat" name="Valentine Octagonal Beret (M)" />
 	<key id="11301588" class="hat" name="Valentine Octagonal Beret (F)" />
 	<key id="11301589" class="hat" name="Mysterious Zakum Helmet" feature="ItemKR" />
@@ -3284,6 +3520,8 @@
 	<key id="11304830" class="hat" name="Pink Bean Hat" feature="Event" />
 	<key id="11304830" class="hat" name="Pink Bean Hat" />
 	<key id="11304831" name="Pink Bean Hat" />
+	<key id="11304831" class="hat" feature="Develop" />
+	<key id="11304832" class="hat" feature="Develop" />
 	<key id="11304833" class="hat" name="Floral Ribbon Ornament" />
 	<key id="11304834" class="hat" name="Soft Rice Cake Hat" />
 	<key id="11304835" class="hat" name="Dokkaebi Hat" feature="Event" />
@@ -3295,6 +3533,10 @@
 	<key id="11304839" class="hat" name="Droplets of Love" feature="ItemKR" />
 	<key id="11304840" class="hat" name="ITEMNAME_11304840_NAME:[F]Event" feature="Event" />
 	<key id="11304840" class="hat" name="Diligent Adventurer&apos;s Bucket Hat" />
+	<key id="11304841" class="hat" feature="Develop" />
+	<key id="11304842" class="hat" feature="Develop" />
+	<key id="11304843" class="hat" feature="Develop" />
+	<key id="11304844" class="hat" feature="Develop" />
 	<key id="11304845" class="hat" name="Whipped Cream Cherry Hat" />
 	<key id="11304853" class="hat" name="Wedding Cake Hat" feature="Event" locale="NA" />
 	<key id="11304855" class="hat" name="Zakum&apos;s Helmet" />
@@ -3315,6 +3557,7 @@
 	<key id="11309997" class="hat" name="Blood Requiem Helm" />
 	<key id="11309998" class="hat" name="Phoenix Helm" />
 	<key id="11309999" class="hat" name="Snowy&apos;s Helmet" />
+	<key id="11310000" class="hat" name="Languid Duckie Ball" feature="Event" locale="JP" />
 	<key id="11310001" class="hat" name="(PC Bang) White Cat Ears" feature="PCBang" />
 	<key id="11320001" class="hat" name="Fancy Gothic Crown (M)" />
 	<key id="11320002" class="hat" name="Fancy Gothic Crown (F)" />
@@ -3326,8 +3569,12 @@
 	<key id="11320008" class="hat" name="Unicorn Champion Horn (F)" />
 	<key id="11320009" class="hat" name="Snow Tale Hat (M)" />
 	<key id="11320010" class="hat" name="Snow Tale Hat (F)" />
+	<key id="11320011" class="hat" name="12/15 Skin Hat (M)" feature="Develop" />
+	<key id="11320012" class="hat" name="12/15 Skin Hat (F)" feature="Develop" />
 	<key id="11320013" class="hat" name="Merry Santa Crown (M)" />
 	<key id="11320014" class="hat" name="Merry Santa Crown (F)" />
+	<key id="11320015" class="hat" name="Save SF Dress Hat (M)" feature="Develop" />
+	<key id="11320016" class="hat" name="Save SF Dress Hat (F)" feature="Develop" />
 	<key id="11320017" class="hat" name="Frozen Rose Leaf (M)" />
 	<key id="11320018" class="hat" name="Frozen Rose Leaf (F)" />
 	<key id="11320019" class="hat" name="Modern Hanbok Black Hat (M)" />
@@ -3355,7 +3602,9 @@
 	<key id="11320041" class="hat" name="Wedding Ribbon Hat (M)" />
 	<key id="11320042" class="hat" name="Pretty Rose Ribbon" />
 	<key id="11320043" class="hat" name="Heart Bunny Beret (M)" />
+	<key id="11320043" class="hat" feature="Develop" />
 	<key id="11320044" class="hat" name="Heart Bunny Headband (F)" />
+	<key id="11320044" class="hat" feature="Develop" />
 	<key id="11320045" class="hat" name="Shiny Star Beret (M)" />
 	<key id="11320046" class="hat" name="Shiny Star Beret (F)" />
 	<key id="11320047" class="hat" name="Ivory Jester Hat (M)" />
@@ -3371,31 +3620,47 @@
 	<key id="11320057" class="hat" name="Funky Cowboy Hat (M)" />
 	<key id="11320058" class="hat" name="Funky Cowboy Hat (F)" />
 	<key id="11320059" class="hat" name="Street Rapper Hat (M)" />
+	<key id="11320059" class="hat" feature="Develop" />
 	<key id="11320060" class="hat" name="Street Rapper Hat (F)" />
+	<key id="11320060" class="hat" feature="Develop" />
 	<key id="11320061" class="hat" name="Astronaut Helmet (M)" />
 	<key id="11320062" class="hat" name="Astronaut Helmet (F)" />
 	<key id="11320063" name="Blue Sea Boy Hat (M)" />
+	<key id="11320063" class="hat" feature="Develop" />
 	<key id="11320064" name="Blue Sea Girl Hat (F)" />
+	<key id="11320064" class="hat" feature="Develop" />
 	<key id="11320065" class="hat" name="Tropical Straw Hat (M)" />
 	<key id="11320066" class="hat" name="Tropical Straw Hat (F)" />
 	<key id="11320067" class="hat" name="Summer Sandcastle Hat (M)" />
+	<key id="11320067" class="hat" feature="Develop" />
 	<key id="11320068" class="hat" name="Summer Sandcastle Hat (F)" />
+	<key id="11320068" class="hat" feature="Develop" />
 	<key id="11320069" class="hat" name="Sailor&apos;s Chill Hat (M)" />
 	<key id="11320070" class="hat" name="Sailor&apos;s Chill Hat (F)" />
+	<key id="11320071" class="hat" name="08/01 Skin Hat (M)" feature="Develop" />
+	<key id="11320072" class="hat" name="08/01 Skin Hat (F)" feature="Develop" />
 	<key id="11320073" class="hat" name="Ifrit Tiara (M)" />
 	<key id="11320074" class="hat" name="Ifrit Tiara (F)" />
+	<key id="11320075" class="hat" name="Shine Fairy Tiara (M)" feature="Develop" />
+	<key id="11320076" class="hat" name="Shine Fairy Tiara (F)" feature="Develop" />
 	<key id="11320077" class="hat" name="Magic Academy Freshman Hat (M)" />
 	<key id="11320078" class="hat" name="Magic Academy Freshman Hat (F)" />
+	<key id="11320079" class="hat" name="09/01 Skin Hat (M)" feature="Develop" />
+	<key id="11320080" class="hat" name="09/01 Skin Hat (F)" feature="Develop" />
 	<key id="11320081" class="hat" name="Feather Hat (M)" />
 	<key id="11320082" class="hat" name="Feather Hairpin (F)" />
 	<key id="11320083" class="hat" name="Cupcake Puff Hat (M)" />
 	<key id="11320084" class="hat" name="Cupcake Puff Hat (F)" />
 	<key id="11320085" class="hat" name="Tria Royal Chef Hat (M)" />
 	<key id="11320086" class="hat" name="Tria Royal Chef Hat (F)" />
+	<key id="11320087" class="hat" name="10/01 Skin Hat (M)" feature="Develop" />
+	<key id="11320088" class="hat" name="10/01 Skin Hat (F)" feature="Develop" />
 	<key id="11320089" class="hat" name="Gothic Lace Hat (M)" />
 	<key id="11320090" class="hat" name="Gothic Lace Hat (F)" />
 	<key id="11320091" class="hat" name="Pumpkin Hallow Witch Hat (M)" />
+	<key id="11320091" class="hat" feature="Develop" />
 	<key id="11320092" class="hat" name="Pumpkin Hallow Witch Hat (F)" />
+	<key id="11320092" class="hat" feature="Develop" />
 	<key id="11320093" class="hat" name="Bloody Wing Hairband (M)" />
 	<key id="11320094" class="hat" name="Bloody Rose Hairband (F)" />
 	<key id="11320095" class="hat" name="Kissy Cat Ears (M)" />
@@ -3408,6 +3673,8 @@
 	<key id="11320102" class="hat" name="Cheery Holiday Tree Hat (F)" />
 	<key id="11320103" class="hat" name="Sly Mouse Hat (M)" />
 	<key id="11320104" class="hat" name="Sly Mouse Hat (F)" />
+	<key id="11320105" class="hat" name="Fluffy Bunny Ears (M)" feature="Develop" />
+	<key id="11320106" class="hat" name="Fluffy Bunny Ears (F)" feature="Develop" />
 	<key id="11320107" class="hat" name="Doctor Heart Hat (M)" />
 	<key id="11320108" class="hat" name="Doctor Heart Hat (F)" />
 	<key id="11320109" class="hat" name="Fuzzy Friend Ears (M)" />
@@ -3415,29 +3682,51 @@
 	<key id="11320111" class="hat" name="Twinkle Star Beret (M)" />
 	<key id="11320112" class="hat" name="Twinkle Star Beret (F)" />
 	<key id="11320113" class="hat" name="Charming Cat Ears (M)" />
+	<key id="11320113" class="hat" feature="Develop" />
 	<key id="11320114" class="hat" name="Charming Cat Ears (F)" />
+	<key id="11320114" class="hat" feature="Develop" />
 	<key id="11320115" class="hat" name="Tria Royal Painter Hat (M)" />
 	<key id="11320116" class="hat" name="Tria Royal Painter Hat (F)" />
 	<key id="11320117" class="hat" name="Passionate Sombrero (M)" />
 	<key id="11320118" class="hat" name="Passionate Rose Hairpin (F)" />
 	<key id="11320119" class="hat" name="Chubby Bunny Headband (M)" />
+	<key id="11320119" class="hat" feature="Develop" />
 	<key id="11320120" class="hat" name="Chubby Bunny Headband (F)" />
+	<key id="11320120" class="hat" feature="Develop" />
+	<key id="11320121" class="hat" name="Chubby Pink Bean Hat (M)" feature="Develop" />
+	<key id="11320122" class="hat" name="Chubby Pink Bean Hat (F)" feature="Develop" />
 	<key id="11320123" class="hat" name="Tree Frog Hat (M)" />
+	<key id="11320123" class="hat" feature="Develop" />
 	<key id="11320124" class="hat" name="Tree Frog Hat (F)" />
+	<key id="11320124" class="hat" feature="Develop" />
 	<key id="11320125" class="hat" name="Sunflower Beach Fedora (M)" />
+	<key id="11320125" class="hat" feature="Develop" />
 	<key id="11320126" class="hat" name="Sunflower Beach Fedora (F)" />
+	<key id="11320126" class="hat" feature="Develop" />
 	<key id="11320127" name="Aqua Summer Seahorse Headpiece (M)" class="hat" />
+	<key id="11320127" class="hat" feature="Develop" />
 	<key id="11320128" class="hat" name="Aqua Summer Seahorse Headpiece (F)" />
+	<key id="11320128" class="hat" feature="Develop" />
+	<key id="11320129" class="hat" name="Romantic Beach Whale Hairpin (M)" feature="Develop" />
+	<key id="11320130" class="hat" name="Romantic Beach Whale Hairpin (F)" feature="Develop" />
+	<key id="11320131" class="hat" name="Baby Dinosaur Hat (M)" feature="Develop" />
+	<key id="11320132" class="hat" name="Baby Dinosaur Hat (F)" feature="Develop" />
 	<key id="11320133" class="hat" name="Street Hoop Bucket Hat (M)" />
 	<key id="11320134" class="hat" name="Street Hoop Bucket Hat (F)" />
 	<key id="11320135" class="hat" name="Metunald French Fry Hat (M)" />
+	<key id="11320135" class="hat" feature="Develop" />
 	<key id="11320136" class="hat" name="Metunald French Fry Hat (F)" />
+	<key id="11320136" class="hat" feature="Develop" />
 	<key id="11320137" class="hat" name="Apprentice Patissier Cupcake Hat (M)" />
+	<key id="11320137" class="hat" feature="Develop" />
 	<key id="11320138" class="hat" name="Apprentice Patissier Cupcake Hat (F)" />
+	<key id="11320138" class="hat" feature="Develop" />
 	<key id="11320139" class="hat" name="Maple Quarterback Helmet (M)" />
 	<key id="11320140" class="hat" name="Maple Quarterback Helmet (F)" />
 	<key id="11320141" class="hat" name="Brave Ducky Firefighter Helmet (M)" />
+	<key id="11320141" class="hat" feature="Develop" />
 	<key id="11320142" class="hat" name="Brave Ducky Firefighter Helmet (F)" />
+	<key id="11320142" class="hat" feature="Develop" />
 	<key id="11320143" name="Astronaut Helmet (M)" />
 	<key id="11320144" name="Astronaut Helmet (F)" />
 	<key id="11320145" class="hat" name="Devil Horns (M)" />
@@ -3450,12 +3739,18 @@
 	<key id="11320152" class="hat" name="Devil Horns (F)" />
 	<key id="11320153" name="Cotton Candy Bunny Sleep Mask (M)" />
 	<key id="11320154" name="Cotton Candy Bunny Sleep Mask (F)" />
+	<key id="11320155" class="hat" name="Bubble Duck Hat (M)" feature="Develop" />
+	<key id="11320156" class="hat" name="Bubble Duck Hat (F)" feature="Develop" />
+	<key id="11320157" class="hat" name="Sleek Standard Shower (M)" feature="Develop" />
+	<key id="11320158" class="hat" name="Sleek Standard Shower (F)" feature="Develop" />
 	<key id="11320159" name="Cutie Bear Beret (M)" />
 	<key id="11320160" name="Cutie Bear Beret (F)" />
 	<key id="11320161" class="hat" name="Fox Ears (M)" />
 	<key id="11320162" class="hat" name="Fox Ears (F)" />
 	<key id="11320163" name="Mischievous Mouse Hat (M)" />
 	<key id="11320164" name="Cheeky Mouse Hat (F)" />
+	<key id="11320165" class="hat" name="Studded Leather Cap (M)" feature="Develop" />
+	<key id="11320166" class="hat" name="Studded Leather Cap (F)" feature="Develop" />
 	<key id="11320167" class="hat" name="Sheep Towel Hat (M)" />
 	<key id="11320168" class="hat" name="Sheep Towel Hat (F)" />
 	<key id="11320169" class="hat" name="Rollicking Reindeer Orbiter (M)" />
@@ -3502,70 +3797,160 @@
 	<key id="11320210" class="hat" name="Fancy Ribbon Beret (F)" />
 	<key id="11320211" class="hat" name="Kitty Paw Headphones (M)" />
 	<key id="11320212" class="hat" name="Kitty Paw Headphones (F)" />
+	<key id="11320213" class="hat" name="Headgear (M)" feature="Develop" />
+	<key id="11320214" class="hat" name="Headgear (F)" feature="Develop" />
+	<key id="11320215" class="hat" name="Lovely Big Beret (M)" feature="Develop" />
+	<key id="11320216" class="hat" name="Lovely Big Beret (F)" feature="Develop" />
+	<key id="11320217" class="hat" name="Pure Ribbon Hair Band (M)" feature="Develop" />
+	<key id="11320218" class="hat" name="Pure Ribbon Hair Band (F)" feature="Develop" />
 	<key id="11320219" class="hat" name="Heart Halo (M)" />
 	<key id="11320220" class="hat" name="Heart Halo (F)" />
 	<key id="11320221" class="hat" name="Tell&apos;s Apple Hat (M)" />
 	<key id="11320222" class="hat" name="Tell&apos;s Apple Hat (F)" />
 	<key id="11320223" class="hat" name="Colorful Flower Crown (M)" />
+	<key id="11320223" class="hat" feature="Develop" />
 	<key id="11320224" class="hat" name="Colorful Flower Crown (F)" />
+	<key id="11320224" class="hat" feature="Develop" />
 	<key id="11320225" name="Blooming Cherry Blossoms (M)" class="hat" />
+	<key id="11320225" class="hat" feature="Develop" />
 	<key id="11320226" name="Blooming Cherry Blossoms (F)" class="hat" />
+	<key id="11320226" class="hat" feature="Develop" />
+	<key id="11320227" class="hat" name="Claudine Resistance Hat (M)" feature="Develop" />
+	<key id="11320228" class="hat" name="Claudine Resistance Hat (F)" feature="Develop" />
+	<key id="11320229" class="hat" name="Claudine Resistance Mini Hat (M)" feature="Develop" />
+	<key id="11320230" class="hat" name="Claudine Resistance Mini Hat (F)" feature="Develop" />
 	<key id="11320231" class="hat" name="Glowing Antennae (M)" />
+	<key id="11320231" class="hat" feature="Develop" />
 	<key id="11320232" class="hat" name="Glowing Antennae (F)" />
+	<key id="11320232" class="hat" feature="Develop" />
 	<key id="11320233" class="hat" name="Chubby Mary (M)" />
+	<key id="11320233" class="hat" feature="Develop" />
 	<key id="11320234" class="hat" name="Chubby Mary (F)" />
+	<key id="11320234" class="hat" feature="Develop" />
 	<key id="11320235" class="hat" name="Yellow Kindergarten Hat (M)" />
+	<key id="11320235" class="hat" feature="Develop" />
 	<key id="11320236" class="hat" name="Yellow Kindergarten Hat (F)" />
+	<key id="11320236" class="hat" feature="Develop" />
 	<key id="11320237" class="hat" name="Drowsy Chick (M)" />
+	<key id="11320237" class="hat" feature="Develop" />
 	<key id="11320238" class="hat" name="Drowsy Chick (F)" />
+	<key id="11320238" class="hat" feature="Develop" />
 	<key id="11320239" class="hat" name="Lovely Bunny Hat (M)" />
+	<key id="11320239" class="hat" feature="Develop" />
 	<key id="11320240" class="hat" name="Lovely Bunny Hat (F)" />
+	<key id="11320240" class="hat" feature="Develop" />
 	<key id="11320241" class="hat" name="Bouncy Kangaroo Hat (M)" />
+	<key id="11320241" class="hat" feature="Develop" />
 	<key id="11320242" class="hat" name="Bouncy Kangaroo Hat (F)" />
+	<key id="11320242" class="hat" feature="Develop" />
 	<key id="11320243" class="hat" name="Lotus Frog Hat (M)" />
+	<key id="11320243" class="hat" feature="Develop" />
 	<key id="11320244" class="hat" name="Lotus Frog Hat (F)" />
+	<key id="11320244" class="hat" feature="Develop" />
 	<key id="11320245" class="hat" name="Marine Lace Swim Cap (M)" />
+	<key id="11320245" class="hat" feature="Develop" />
 	<key id="11320246" class="hat" name="Marine Lace Swim Cap (F)" />
+	<key id="11320246" class="hat" feature="Develop" />
 	<key id="11320247" class="hat" name="Ribbit Swim Cap (M)" />
+	<key id="11320247" class="hat" feature="Develop" />
 	<key id="11320248" class="hat" name="Ribbit Swim Cap (F)" />
+	<key id="11320248" class="hat" feature="Develop" />
 	<key id="11320249" name="Shark Hat (M)" class="hat" />
+	<key id="11320249" class="hat" feature="Develop" />
 	<key id="11320250" name="Shark Hat (F)" class="hat" />
+	<key id="11320250" class="hat" feature="Develop" />
 	<key id="11320251" class="hat" name="Energetic Star Bow Hair Tie (M)" />
+	<key id="11320251" class="hat" feature="Develop" />
 	<key id="11320252" class="hat" name="Energetic Star Bow Hair Tie (F)" />
+	<key id="11320252" class="hat" feature="Develop" />
 	<key id="11320253" class="hat" name="Fluffy Peach Hat (M)" />
+	<key id="11320253" class="hat" feature="Develop" />
 	<key id="11320254" class="hat" name="Fluffy Peach Hat (F)" />
+	<key id="11320254" class="hat" feature="Develop" />
 	<key id="11320255" class="hat" name="Fresh Strawberry Hat (M)" />
+	<key id="11320255" class="hat" feature="Develop" />
 	<key id="11320256" class="hat" name="Fresh Strawberry Hat (F)" />
+	<key id="11320256" class="hat" feature="Develop" />
 	<key id="11320257" class="hat" name="Apple Hat (M)" />
+	<key id="11320257" class="hat" feature="Develop" />
 	<key id="11320258" class="hat" name="Apple Hat (F)" />
+	<key id="11320258" class="hat" feature="Develop" />
 	<key id="11320259" class="hat" name="Pitter-Patter Rain Cloud (M)" />
+	<key id="11320259" class="hat" feature="Develop" />
 	<key id="11320260" class="hat" name="Pitter-Patter Rain Cloud (F)" />
+	<key id="11320260" class="hat" feature="Develop" />
 	<key id="11320261" class="hat" name="Vivid Summer Sun (M)" />
+	<key id="11320261" class="hat" feature="Develop" />
 	<key id="11320262" class="hat" name="Vivid Summer Sun (F)" />
+	<key id="11320262" class="hat" feature="Develop" />
 	<key id="11320263" class="hat" name="Wavy Wave Hair Pin (M)" />
+	<key id="11320263" class="hat" feature="Develop" />
 	<key id="11320264" class="hat" name="Wavy Wave Hair Pin (F)" />
+	<key id="11320264" class="hat" feature="Develop" />
 	<key id="11320265" class="hat" name="Squishy Jellyfish Hat (M)" />
+	<key id="11320265" class="hat" feature="Develop" />
 	<key id="11320266" class="hat" name="Squishy Jellyfish Hat (F)" />
+	<key id="11320266" class="hat" feature="Develop" />
+	<key id="11320267" class="hat" name="Soft Cone Head Ornament (M)" feature="Develop" />
+	<key id="11320268" class="hat" name="Soft Cone Head Ornament (F)" feature="Develop" />
 	<key id="11320269" name="Yummy Watermelon Hat (M)" class="hat" />
+	<key id="11320269" class="hat" feature="Develop" />
 	<key id="11320270" class="hat" name="Yummy Watermelon Hat (F)" />
+	<key id="11320270" class="hat" feature="Develop" />
+	<key id="11320271" class="hat" name="Tropical Bird Nest (M)" feature="Develop" />
+	<key id="11320272" class="hat" name="Tropical Bird Nest (F)" feature="Develop" />
 	<key id="11320273" class="hat" name="Colorful Shell Hair Pin (M)" />
+	<key id="11320273" class="hat" feature="Develop" />
 	<key id="11320274" class="hat" name="Colorful Shell Hair Pin (F)" />
+	<key id="11320274" class="hat" feature="Develop" />
+	<key id="11320275" class="hat" name="Dancing Ylang Snake (M)" feature="Develop" />
+	<key id="11320276" class="hat" name="Dancing Ylang Snake (F)" feature="Develop" />
+	<key id="11320277" class="hat" name="Aqua Hat (M)" feature="Develop" />
+	<key id="11320278" class="hat" name="Aqua Hat (F)" feature="Develop" />
+	<key id="11320279" class="hat" name="Round Marine Hat (M)" feature="Develop" />
+	<key id="11320280" class="hat" name="Round Marine Hat (F)" feature="Develop" />
+	<key id="11320281" class="hat" name="Sepia Feather (M)" feature="Develop" />
+	<key id="11320282" class="hat" name="Sepia Feather (F)" feature="Develop" />
+	<key id="11320283" class="hat" name="Angel&apos;s Feather (M)" feature="Develop" />
+	<key id="11320284" class="hat" name="Angel&apos;s Feather (F)" feature="Develop" />
 	<key id="11320285" class="hat" name="Chick Float Hat (M)" />
+	<key id="11320285" class="hat" feature="Develop" />
 	<key id="11320286" class="hat" name="Chick Float Hat (F)" />
+	<key id="11320286" class="hat" feature="Develop" />
+	<key id="11320287" class="hat" name="Kiwi Hat (M)" feature="Develop" />
+	<key id="11320288" class="hat" name="Kiwi Hat (F)" feature="Develop" />
 	<key id="11320289" class="hat" name="Black Cat Hat (M)" />
+	<key id="11320289" class="hat" feature="Develop" />
 	<key id="11320290" class="hat" name="Black Cat Hat (F)" />
+	<key id="11320290" class="hat" feature="Develop" />
+	<key id="11320291" class="hat" name="Splendid Knot Hat (M)" feature="Develop" />
+	<key id="11320292" class="hat" name="Splendid Knot Ribbon (F)" feature="Develop" />
 	<key id="11320293" class="hat" name="Officer&apos;s Cap (M)" />
+	<key id="11320293" class="hat" feature="Develop" />
 	<key id="11320294" class="hat" name="Officer&apos;s Cap (F)" />
+	<key id="11320294" class="hat" feature="Develop" />
 	<key id="11320295" class="hat" name="Military Helmet (M)" />
+	<key id="11320295" class="hat" feature="Develop" />
 	<key id="11320296" class="hat" name="Military Helmet (F)" />
+	<key id="11320296" class="hat" feature="Develop" />
+	<key id="11320297" class="hat" name="Throbbing Bump (Male)" feature="Develop" />
+	<key id="11320298" class="hat" name="Throbbing Bump (Female)" feature="Develop" />
+	<key id="11320299" class="hat" name="Desert Helmet (Male)" feature="Develop" />
+	<key id="11320300" class="hat" name="Desert Helmet (Female)" feature="Develop" />
+	<key id="11320301" class="hat" name="Cross Helmet (Male)" feature="Develop" />
+	<key id="11320302" class="hat" name="Cross Helmet (Female)" feature="Develop" />
 	<key id="11320303" class="hat" name="Halo-Halo Hat (M)" />
+	<key id="11320303" class="hat" feature="Develop" />
 	<key id="11320304" class="hat" name="Halo-Halo Hat (F)" />
+	<key id="11320304" class="hat" feature="Develop" />
 	<key id="11320305" name="Angel Heart Ring (M)" />
 	<key id="11320306" name="Angel Heart Ring (F)" />
 	<key id="11320307" name="Blooming Cherry Blossoms (M)" />
 	<key id="11320308" name="Blooming Cherry Blossoms (F)" />
 	<key id="11320309" name="Cozy Hand-Knit Hat (M)" />
+	<key id="11320309" class="hat" feature="Develop" />
 	<key id="11320310" name="Cozy Hand-Knit Hat (F)" />
+	<key id="11320310" class="hat" feature="Develop" />
 	<key id="11320311" class="hat" name="Royal Darkness Halo (M)" />
 	<key id="11320312" class="hat" name="Royal Darkness Halo (F)" />
 	<key id="11320313" class="hat" name="Hipster Cat Baseball Cap (M)" />
@@ -3583,21 +3968,41 @@
 	<key id="11320325" class="hat" name="Double Dot Ribbon (M)" />
 	<key id="11320326" class="hat" name="Double Dot Ribbon (F)" />
 	<key id="11320329" class="hat" name="Pearl Oyster Hat (M)" />
+	<key id="11320329" class="hat" feature="Develop" />
 	<key id="11320330" class="hat" name="Pearl Oyster Hat (F)" />
+	<key id="11320330" class="hat" feature="Develop" />
 	<key id="11320331" class="hat" name="Watermelon Slice Hat (M)" />
+	<key id="11320331" class="hat" feature="Develop" />
 	<key id="11320332" class="hat" name="Watermelon Slice Hat (F)" />
+	<key id="11320332" class="hat" feature="Develop" />
 	<key id="11320333" name="Spinning Rainbow Pinwheel (M)" />
+	<key id="11320333" class="hat" feature="Develop" />
 	<key id="11320334" name="Spinning Rainbow Pinwheel (F)" />
+	<key id="11320334" class="hat" feature="Develop" />
 	<key id="11320335" class="hat" name="Palm Print Headband (M)" />
+	<key id="11320335" class="hat" feature="Develop" />
 	<key id="11320336" class="hat" name="Palm Print Headband (F)" />
+	<key id="11320336" class="hat" feature="Develop" />
 	<key id="11320337" class="hat" name="Shy Cheering Cactus Hat (M)" />
+	<key id="11320337" class="hat" feature="Develop" />
 	<key id="11320338" class="hat" name="Shy Cheering Cactus Hat (F)" />
+	<key id="11320338" class="hat" feature="Develop" />
+	<key id="11320339" class="hat" name="Colorful Rainbow Umbrella Hat (Male)" feature="Develop" />
+	<key id="11320340" class="hat" name="Colorful Rainbow Umbrella Hat (Female)" feature="Develop" />
+	<key id="11320341" class="hat" name="Chubby Pufferfish Hat (Male)" feature="Develop" />
+	<key id="11320342" class="hat" name="Chubby Pufferfish Hat (Female)" feature="Develop" />
 	<key id="11320343" class="hat" name="Wise Kitty&apos;s Sunfish Hair Pin (M)" />
+	<key id="11320343" class="hat" feature="Develop" />
 	<key id="11320344" class="hat" name="Wise Kitty&apos;s Sunfish Hair Pin (F)" />
+	<key id="11320344" class="hat" feature="Develop" />
+	<key id="11320345" class="hat" name="Angel Wing Headband (M)" feature="Develop" />
+	<key id="11320346" class="hat" name="Angel Wing Headband (F)" feature="Develop" />
 	<key id="11320347" class="hat" name="Calico Cat (M)" />
 	<key id="11320348" class="hat" name="Calico Cat (F)" />
 	<key id="11320349" class="hat" name="Shining Marching Band Hat (M)" />
+	<key id="11320349" class="hat" feature="Develop" />
 	<key id="11320350" class="hat" name="Shining Marching Band Hat (F)" />
+	<key id="11320350" class="hat" feature="Develop" />
 	<key id="11320351" class="hat" name="Earthly Textbook Hat (M)" />
 	<key id="11320352" class="hat" name="Earthly Textbook Hat (F)" />
 	<key id="11320353" class="hat" name="Winter Fairy Tale Snowflake Crown (M)" />
@@ -3607,27 +4012,45 @@
 	<key id="11320357" class="hat" name="Olympus Laurel Wreath (M)" />
 	<key id="11320358" class="hat" name="Olympus Laurel Wreath (F)" />
 	<key id="11320359" class="hat" name="Romantic Wedding Fedora (M)" />
+	<key id="11320359" class="hat" feature="Develop" />
 	<key id="11320360" class="hat" name="Romantic Wedding Tiara (F)" />
+	<key id="11320360" class="hat" feature="Develop" />
 	<key id="11320361" class="hat" name="Illusionist Feather Hat (M)" />
 	<key id="11320362" class="hat" name="Illusionist Feather Hat (F)" />
 	<key id="11320363" name="Choco-Filled Spiral Bread (M)" />
+	<key id="11320363" class="hat" feature="Develop" />
 	<key id="11320364" name="Choco-Filled Spiral Bread (F)" />
+	<key id="11320364" class="hat" feature="Develop" />
 	<key id="11320365" class="hat" name="Special Wedding Lovely Hat (M)" feature="Wedding" />
 	<key id="11320366" class="hat" name="Special Wedding Lovely Tiara (F)" feature="Wedding" />
 	<key id="11320367" class="hat" name="Ice Dancer&apos;s Flower Hair Ornament (M)" />
 	<key id="11320368" class="hat" name="Ice Dancer&apos;s Flower Hair Ornament (F)" />
 	<key id="11320369" name="Seirenes Tiara (M)" />
+	<key id="11320369" class="hat" feature="Develop" />
 	<key id="11320370" name="Seirenes Tiara (F)" />
+	<key id="11320370" class="hat" feature="Develop" />
 	<key id="11320371" name="Mischievous Little Devil Horns (M)" />
+	<key id="11320371" class="hat" feature="Develop" />
 	<key id="11320372" name="Mischievous Little Devil Horns (F)" />
+	<key id="11320372" class="hat" feature="Develop" />
 	<key id="11320373" name="Kerning City Station Attendant Hat (M)" />
+	<key id="11320373" class="hat" feature="Develop" />
 	<key id="11320374" name="Kerning City Station Attendant Hat (F)" />
+	<key id="11320374" class="hat" feature="Develop" />
+	<key id="11320375" name="Kumbawangka Style Horn (M)" feature="Develop" />
+	<key id="11320376" name="Kumbawangka Style Horn (F)" feature="Develop" />
 	<key id="11320377" class="hat" name="Mischievous Fairy Hat (M)" />
+	<key id="11320377" class="hat" feature="Develop" />
 	<key id="11320378" class="hat" name="Mischievous Fairy Hat (F)" />
+	<key id="11320378" class="hat" feature="Develop" />
 	<key id="11320379" name="Black Cat Hat (M)" />
+	<key id="11320379" class="hat" feature="Develop" />
 	<key id="11320380" name="Black Cat Hat (F)" />
+	<key id="11320380" class="hat" feature="Develop" />
 	<key id="11320381" class="hat" name="Forest Spirit Horn Ornament (M)" />
+	<key id="11320381" class="hat" feature="Develop" />
 	<key id="11320382" name="Forest Spirit Horn Ornament (F)" class="hat" />
+	<key id="11320382" class="hat" feature="Develop" />
 	<key id="11320383" class="hat" name="Lovely Heart Ribbon" feature="ItemKR" />
 	<key id="11320384" class="hat" name="Bubbling Love" feature="ItemKR" />
 	<key id="11320385" name="Dancing Flower" class="hat" feature="ItemKR" />
@@ -3635,17 +4058,25 @@
 	<key id="11320387" class="hat" name="Tiny Glowing Star Hat (M)" />
 	<key id="11320388" class="hat" name="Glowing Star Ribbon (F)" />
 	<key id="11320389" name="Lively Alice Teacup Hat (M)" class="hat" />
+	<key id="11320389" class="hat" feature="Develop" />
 	<key id="11320390" name="Lively Alice Teacup Hat (F)" class="hat" />
+	<key id="11320390" class="hat" feature="Develop" />
 	<key id="11320391" class="hat" name="Fallen Angel Circlet (M)" />
 	<key id="11320392" class="hat" name="Fallen Angel Circlet (F)" />
 	<key id="11320393" name="Spring Outing Straw Hat (M)" class="hat" />
+	<key id="11320393" class="hat" feature="Develop" />
 	<key id="11320394" name="Spring Outing Straw Hat (F)" class="hat" />
+	<key id="11320394" class="hat" feature="Develop" />
 	<key id="11320395" name="Cozy Cotton Bear Hat (M)" />
+	<key id="11320395" class="hat" feature="Develop" />
 	<key id="11320396" name="Cozy Cotton Bear Hat (F)" />
+	<key id="11320396" class="hat" feature="Develop" />
 	<key id="11320397" name="Kerning Police Hat (M)" />
 	<key id="11320398" name="Kerning Police Hat (F)" />
 	<key id="11320399" name="Tick-Tock Clockwork Hat (M)" />
+	<key id="11320399" class="hat" feature="Develop" />
 	<key id="11320400" name="Tick-Tock Clockwork Hat (F)" />
+	<key id="11320400" class="hat" feature="Develop" />
 	<key id="11320401" class="" name="Imp Horns (M)" />
 	<key id="11320402" class="" name="Imp Horns (F)" />
 	<key id="11320403" class="" name="Hip Hop Beanie (M)" />
@@ -3655,19 +4086,31 @@
 	<key id="11320407" name="Little Dokkaebi Horns (M)" />
 	<key id="11320408" name="Little Dokkaebi Horns (F)" />
 	<key id="11320409" name="Hip-Hop Beanie (M)" />
+	<key id="11320409" class="hat" feature="Develop" />
 	<key id="11320410" name="Hip-Hop Beanie (F)" />
+	<key id="11320410" class="hat" feature="Develop" />
 	<key id="11320411" name="Gentle Hamster Hat (M)" />
+	<key id="11320411" class="hat" feature="Develop" />
 	<key id="11320412" name="Gentle Hamster Hat (F)" />
+	<key id="11320412" class="hat" feature="Develop" />
 	<key id="11320413" name="Lotus Frog Hat (M)" />
+	<key id="11320413" class="hat" feature="Develop" />
 	<key id="11320414" name="Lotus Frog Hat (F)" />
+	<key id="11320414" class="hat" feature="Develop" />
 	<key id="11320415" name="Autumn Picnic Acorn Hat (M)" />
+	<key id="11320415" class="hat" feature="Develop" />
 	<key id="11320416" name="Autumn Picnic Acorn Hat (F)" />
+	<key id="11320416" class="hat" feature="Develop" />
 	<key id="11320417" name="Freestyle Bowler Hat (M)" />
+	<key id="11320417" class="hat" feature="Develop" />
 	<key id="11320418" name="Freestyle Bowler Hat (F)" />
+	<key id="11320418" class="hat" feature="Develop" />
 	<key id="11320419" class="hat" name="Floria Fairy Circlet (M) " />
 	<key id="11320420" class="hat" name="Floria Fairy Circlet (F) " />
 	<key id="11320421" name="Vivid Summer Sun (M)" />
+	<key id="11320421" class="hat" feature="Develop" />
 	<key id="11320422" name="Vivid Summer Sun (F)" />
+	<key id="11320422" class="hat" feature="Develop" />
 	<key id="11320423" name="Glowing Snowflake Hat (M)" />
 	<key id="11320424" name="Glowing Snowflake Hat (F)" />
 	<key id="11320425" name="Colorful Shell Hairpin (M)" />
@@ -3986,6 +4429,7 @@
 	<key id="11320746" name="Fluttering Butterfly Hairpin (F)" />
 	<key id="11320747" name="Twinkle Star Beret (M)" />
 	<key id="11320748" name="Twinkle Star Beret (F)" />
+	<key id="11329990" name="Sample Hat (Capsule Gacha Skin)" feature="Develop" />
 	<key id="11330073" class="hat" name="Swift Shadow Burglar Hat" />
 	<key id="11330077" class="hat" name="Shining Conjurer Hat" />
 	<key id="11330078" class="hat" name="Knighthood Burgonet" />
@@ -4113,6 +4557,17 @@
 	<key id="11350607" class="hat" name="Brawling Rune Headgear" />
 	<key id="11350646" class="hat" name="Ritualistic Panic Winglets" />
 	<key id="11350650" class="hat" name="Ritualistic Rune Winglets" />
+	<key id="11350673" class="hat" name="Glorious Battle Hat" feature="DungeonOpenCN1802" />
+	<key id="11350674" class="hat" name="Glorious Wrath Hat" feature="DungeonOpenCN1802" />
+	<key id="11350675" class="hat" name="Glorious Spirit Hat" feature="DungeonOpenCN1802" />
+	<key id="11350676" class="hat" name="Sacred Helm of Glory" feature="DungeonOpenCN1802" />
+	<key id="11350677" class="hat" name="Focused Helm of Glory" feature="DungeonOpenCN1802" />
+	<key id="11350678" class="hat" name="Artillery Helm of Glory" feature="DungeonOpenCN1802" />
+	<key id="11350679" class="hat" name="Chaos Helm of Glory" feature="DungeonOpenCN1802" />
+	<key id="11350680" class="hat" name="Assassination Helm of Glory" feature="DungeonOpenCN1802" />
+	<key id="11350681" class="hat" name="Glory of the Spell Peak" feature="DungeonOpenCN1802" />
+	<key id="11350682" class="hat" name="Glory Brawl Hat" feature="DungeonOpenCN1802" />
+	<key id="11350683" class="hat" name="Glory Will Hat" feature="DungeonOpenCN1802" />
 	<key id="11350684" class="hat" name="Barbaric Extreme Headgear" feature="Season3" />
 	<key id="11350685" class="hat" name="Frenzied Extreme Headgear" feature="Season3" />
 	<key id="11350686" class="hat" name="Magical Extreme Headgear" feature="Season3" />
@@ -4211,6 +4666,7 @@
 	<key id="11351123" class="hat" name="Crimson Balrog&apos;s Chaotic Hat" feature="WorldBossDungeon" />
 	<key id="11351124" class="hat" name="Crimson Balrog&apos;s Lethal Hat" feature="WorldBossDungeon" />
 	<key id="11351125" class="hat" name="Crimson Balrog&apos;s Sorcerous Hat" feature="WorldBossDungeon" />
+	<key id="11351126" class="hat" name="Crimson Balrog Brawl Hat" feature="WorldBossDungeon" />
 	<key id="11351127" class="hat" name="Crimson Balrog&apos;s Ritualistic Hat" feature="WorldBossDungeon" />
 	<key id="11351128" class="hat" name="Barbaric Refinement Headgear" feature="PvPRankingDuelMode" />
 	<key id="11351129" class="hat" name="Frenzied Refinement Headgear" feature="PvPRankingDuelMode" />
@@ -5915,6 +6371,10 @@
 	<key id="11400932" class="" name="(Navigator) Black Skald Armor" />
 	<key id="11400933" class="" name="(Navigator) Black Knight Armor" />
 	<key id="11400934" class="" name="(Navigator) Golden Knight Armor" />
+	<key id="11400935" class="coat" name="Glory Phantom Top" feature="DungeonOpenCN1802" />
+	<key id="11400936" class="coat" name="Glory Divine Top" feature="DungeonOpenCN1802" />
+	<key id="11400937" class="coat" name="Glory Focus Top" feature="DungeonOpenCN1802" />
+	<key id="11400938" class="coat" name="Glory Bombardment Top" feature="DungeonOpenCN1802" />
 	<key id="11400939" class="" name="Crimson Trial Top" />
 	<key id="11400940" class="" />
 	<key id="11400941" class="" />
@@ -6073,6 +6533,12 @@
 	<key id="11401105" class="coat" name="Runeblade&apos;s Tairen Combat Vest" feature="Level70Item" />
 	<key id="11401106" class="coat" name="Striker&apos;s Tairen Combat Vest" feature="Level70Item" />
 	<key id="11401107" class="coat" name="Soul Binder&apos;s Tairen Combat Vest" feature="Level70Item" />
+	<key id="11401108" class="coat" name="70lv_Epic3_Top_Knight" feature="Develop" />
+	<key id="11401109" class="coat" name="Level 70 Epic 3 Top Berserker" feature="Develop" />
+	<key id="11401110" class="coat" name="Level 70 Epic 3 Top Wizard" feature="Develop" />
+	<key id="11401111" class="coat" name="Level 70 Epic 3 Top Priest" feature="Develop" />
+	<key id="11401112" class="coat" name="Level 70 Epic 3 Top Archer" feature="Develop" />
+	<key id="11401113" class="coat" feature="Develop" />
 	<key id="11401119" class="coat" name="Knight&apos;s Tairen Officer Vest" feature="Level70Item" />
 	<key id="11401120" class="coat" name="Berserker&apos;s Tairen Officer Vest" feature="Level70Item" />
 	<key id="11401121" class="coat" name="Wizard&apos;s Tairen Officer Vest" feature="Level70Item" />
