@@ -38787,7 +38787,7 @@
 	<key id="504174817003287" name="Oh! You went to &lt;font color=&quot;#ffd200&quot;&gt;$map:02000423$&lt;/font&gt;?&#xA;I knew right away because you smell like mushroom spores, $MyPCName$.&#xA;You must have completed the mission well, so I&apos;ll give you this as a gift! " />
 	<key id="525183103004965" name="Mission complete.&#xA;Everyone, prepare to withdraw." />
 	<key id="421124303004062" name="Master! Final inspection preparations are complete!" npc="Aisha" />
-	<key id="421142405001483" name="Analyzing encrypted directive contents...&#xA;......&#xA;Analysis complete! Detailed contents can now be viewed." />
+	<key id="421142405001483" name="Analyzing encrypted directive contents...&#xA;......&#xA;Analysis complete! Detailed contents can now be viewed." npc="해방군 지령서" />
 	<key id="625204011010985" name="As soon as preparations for the siege are complete, we will begin the all-out attack." feature="LapentaFrontierQuest" />
 	<key id="713172114003697" name="This week&apos;s task is...&#xA;&lt;font color=&quot;#ffd200&quot;&gt;Complete Love Dance Party 10 times&lt;/font&gt;.&#xA;You know how to do it... right? " locale="KR" />
 	<key id="726145417004146" name="This week&apos;s task is...&#xA;&lt;font color=&quot;#ffd200&quot;&gt;Complete Love Dance Party 10 times&lt;/font&gt;.&#xA;You know how to do it... right? " />
@@ -40027,7 +40027,7 @@
 	<key id="415175222003440" name="(Say that you are from &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt; and are currently helping Georg.)" npc="PC" feature="Kritias_Epic02" />
 	<key id="417105222003448" name="(Say that you are from &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt; and came to explore this place at Georg&apos;s request.)" npc="PC" feature="Kritias_Epic02" />
 	<key id="416153812003119" name="All the mining materials found in Maple World grow on this island.&#xA;In other words, you can obtain every mining material without having to wander around Maple World." npc="Donald" feature="Mastery05" />
-	<key id="421124303004176" name="Hah... well, well.&#xA;It seems news of the scientific genius who will already be responsible for the future of Talisker and Maple World has spread widely." />
+	<key id="421124303004176" name="Hah... well, well.&#xA;It seems news of the scientific genius who will already be responsible for the future of Talisker and Maple World has spread widely." npc="PC" />
 	<key id="421124303004125" name="I am different from you, who try to rule Maple World with science!" npc="PC" />
 	<key id="429151822003694" name="I have heard your resolve.&#xA;But my plan to make &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt; into a utopia is already prepared.&#xA;You cannot stop anything." feature="Kritias_Epic03" />
 	<key id="417105222003465" name="I am $MyPCName$, from &lt;font color=&quot;#ffd200&quot;&gt;Maple World&lt;/font&gt;." npc="PC" feature="Kritias_Epic02" />
@@ -41961,4 +41961,56 @@
 	<key id="0621020511003050" npc="pc" name="You ask how to obtain $item:30000447$." feature="CharacterAbility" />
 	<key id="0621024711003076" npc="pc" name="You thank her for the information." feature="CharacterAbility" />
 	<key id="0621020511003051" npc="Monar" name="Here, see if there&apos;s anything among these items that you want.&#xA;I&apos;ll give you some &lt;font color=&quot;#ffd200&quot;&gt;$item:30000447$&lt;/font&gt;. If you need anything, you can trade them with me.&#xA;Don&apos;t mention it. I&apos;m giving these to you because I hope you&apos;ll visit me often from now on!" feature="CharacterAbility" />
+	<key id="421124303004160" npc="PC" name="&lt;font size=&apos;40&apos;&gt;Oh, Mayor!! &#xA;Do you remember my friends who were exiled before? Well, those guys-&lt;/font&gt;" />
+	<key id="421124303004163" npc="PC" name="Who are you…?" />
+	<key id="421124303004169" npc="PC" name="&lt;font size=&apos;40&apos;&gt;(W-what on earth is going on?)&lt;/font&gt;" />
+	<key id="421124303004170" npc="PC" name="&lt;font size=&apos;40&apos;&gt;(This person... could it be...)&lt;/font&gt;" />
+	<key id="421124303004171" npc="PC" name="&lt;font size=&apos;40&apos;&gt;(...a huge fan of mine??!)&lt;/font&gt;" />
+	<key id="421124303004177" npc="PC" name="Otherwise there&apos;s no way the greatest alchemist of Taliscar, $npcName:11000264[gender:0]$, would have come all this way to cover the accident costs in an instant." />
+	<key id="421124303004178" npc="PC" name="I&apos;ll repay this kindness down the road with even greater scientific technology, but if it&apos;s already this fine now, how would it get even finer... heh heh." />
+	<key id="421124303004180" npc="PC" name="&lt;font size=&apos;40&apos;&gt;What...?&lt;/font&gt;" />
+	<key id="421124303004161" npc="에델슈타인 시장" name="&lt;font size=&apos;40&apos;&gt;What a bunch of excuses!&lt;/font&gt;" />
+	<key id="421124303004162" npc="에델슈타인 시장" name="Entrusting the future of $map:52000107$ to you and that dangerous fusion core,&#xA;is something I can no longer tolerate as mayor." />
+	<key id="421124303004164" npc="에델슈타인 시장" name="$npcName:11000264[gender:0]$ teacher, what did you just say?" />
+	<key id="421124303004166" npc="에델슈타인 시장" name="Are you really serious?!" />
+	<key id="421124303004165" npc="Radin" name="As you say.&#xA;I&apos;ll pay Edelstein&apos;s 1.5 billion meso repair bill on your behalf." />
+	<key id="421124303004167" npc="Radin" name="Of course.&#xA;You could even say it&apos;s rather cheap… hehe." />
+	<key id="421124303004172" npc="Radin" name="Well, it looks like Edelsteinn&apos;s repair costs are now taken care of." />
+	<key id="421124303004173" npc="Radin" name="How about you and I talk someplace a bit quiet?" />
+	<key id="421124303004174" npc="Radin" name="How about you and I talk someplace a bit quiet?" />
+	<key id="421124303004175" npc="Radin" name="This spot should be fine.&#xA;Now then, let&apos;s get around to talking about what happened this time." />
+	<key id="421124303004179" npc="Radin" name="Sorry to disappoint, but I&apos;m not here on your account." />
+	<key id="421124303004181" npc="Radin" name="That crude energy reaction device you built has rather piqued my interest." />
+	<key id="421124303004168" npc="Aisha" name="Yay~! Master! We&apos;re going to live now!&#xA;Thank you, $npcName:11000264[gender:0]$!" />
+	<key id="421124303004182" npc="Radin" name="I&apos;ve never seen you or heard of you before.&#xA;But your accidental &apos;successful work&apos;, frankly,&#xA;I see great potential in it." />
+	<key id="421124303004183" npc="Radin" name="Of course, it&apos;s only potential for now.&#xA;I plan to bring that accidental discovery to completion&#xA;with Taliskar&apos;s superior capital and scientific prowess." />
+	<key id="421124303004184" npc="Radin" name="You need only hand over, &#xA;the blueprint and information on the energy reaction device in full." />
+	<key id="421124303004188" npc="Radin" name="Is that so? Then there&apos;s no helping it.&#xA;&lt;font size=&apos;40&apos;&gt;Then I suppose we&apos;ll have to call off the compensation payment.&lt;/font&gt;" />
+	<key id="421124303004192" npc="Radin" name="x" />
+	<key id="421124303004195" npc="Radin" />
+	<key id="421124303004197" npc="Radin" />
+	<key id="421124303004198" npc="Radin" />
+	<key id="421124303004200" npc="Radin" />
+	<key id="421124303004201" npc="Radin" name="Work under me for now,&#xA;and restore the Fusion Core as quickly as you can!" />
+	<key id="421124303004203" npc="Radin" name="Work under me for now,&#xA;and restore the Fusion Core as quickly as you can!" />
+	<key id="421124303004185" npc="PC" name="…Mark my words.&#xA;The name of my invention is Fu.sion.Co.re." />
+	<key id="421124303004186" npc="PC" name="And it wasn&apos;t made by accident.&#xA;It&apos;s the fruit of research and development I toiled on day and night for Edelstein." />
+	<key id="421124303004187" npc="PC" name="It&apos;s not the kind of thing you can buy your way out of." />
+	<key id="421124303004189" npc="PC" name="…Ah, a-hem! &#xA;You ought to at least hear me out to the end!!" />
+	<key id="421124303004190" npc="PC" name="…I don&apos;t need any designs.&#xA;For I am a living blueprint, the fusion core itself." />
+	<key id="421124303004191" npc="PC" name="You might as well take me too, Radin.&#xA;Think of it as a free gift." />
+	<key id="421124303004193" npc="PC" name="……" />
+	<key id="421124303004194" npc="PC" name="&lt;font size=&apos;40&apos;&gt;Everything blew up along with the self-destruction...&lt;/font&gt;" />
+	<key id="421124303004196" npc="PC" />
+	<key id="421124303004199" npc="PC" />
+	<key id="421124303004204" npc="PC" name="(...So this became Radin&apos;s first errand. &#xA;Safely transport the congratulatory gifts for Talisker&apos;s audience ceremony to Tria.) " />
+	<key id="421124303004205" npc="PC" name="(He&apos;s completely using me... And on top of that, how am I supposed to&#xA;rebuild the Fusion Core while doing this?)" />
+	<key id="421124303004202" npc="Aisha" name="&lt;font size=&apos;40&apos;&gt;Master... it seems there&apos;s no other choice now...?&lt;/font&gt;" />
+	<key id="421142405001478" npc="모니카" name="I can&apos;t sit still, wondering why there&apos;s no word yet.&#xA;Is there anyone who can check for me?" />
+	<key id="421142405001479" npc="모니카" name="Should I just keep waiting here?" />
+	<key id="421142405001480" npc="모니카" name="Ah, it&apos;s $MyPCName$!&#xA;You&apos;ve come to help me, right?" />
+	<key id="421142405001481" npc="해방군 지령서" name="&lt;font color=&quot;#ffd200&quot;&gt;Request to View Order Letter&lt;/font&gt;&#xA;Identified as eligible to view the order letter; access is requested." />
+	<key id="421142405001482" npc="해방군 지령서" name="Identified as eligible to view the order letter; access is requested." />
+	<key id="421142405001484" npc="랜지" />
+	<key id="421142405001485" npc="랜지" name="Find $npcName:11000614[gender:0]$ in $map:03000135$." />
 </ms2>
