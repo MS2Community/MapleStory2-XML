@@ -1,14 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ms2>
   <dropBox dropBoxID="1" comment="하급 몬스터">
-    <!-- <v dropGroupIDs="1" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9500,500" isOwnerDrop="1" reference1="글로벌 장비 드롭" /> -->
-    <!-- <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9550,450" isOwnerDrop="1" reference1="글로벌 장비 드롭" /> -->
-    <!-- <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9700,300" isOwnerDrop="1" reference1="글로벌 장비 드롭" /> -->
-    <!-- <v dropGroupIDs="1" minLevel="41" dropCount="0,1" dropCountProbability="9950,50" isOwnerDrop="1" reference1="글로벌 장비 드롭" /> -->
-     <!-- 新增 add -->
-  	<v dropGroupIDs="1" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9900,100" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
-    <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9900,100" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
-    <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9950,50" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="1" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9500,500" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9550,450" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9700,300" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="1" minLevel="41" dropCount="0,1" dropCountProbability="9950,50" isOwnerDrop="1" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" isOwnerDrop="1" reference1="메소 드롭" />
     <v dropGroupIDs="60000001" dropCount="0,1" dropCountProbability="6500,3500" reference1="퀘스트 드롭" />
@@ -51,7 +46,7 @@
     <v dropGroupIDs="60000043" dropCount="0,1" dropCountProbability="9500,500" reference1="퀘스트 드롭" />
     <v dropGroupIDs="60000044" dropCount="0,1" dropCountProbability="7000,3000" reference1="퀘스트 드롭" />
     <v dropGroupIDs="200001" dropCount="0,1" dropCountProbability="2500,7500" reference1="SP구슬 드롭" />
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
     <v dropGroupIDs="212" minLevel="70" dropCount="0,1" dropCountProbability="9029,971" continentCondition="105" mapTypeCondition="4" reference1="크리티아스 대륙 전용 드롭_에네르 코어" />
     <v dropGroupIDs="40" minLevel="51" dropCount="0,1" dropCountProbability="6000000,1" reference1="쉐도우스켈리온: 폐기된 A시리즈" />
     <v dropGroupIDs="107" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9972,28" reference1="크리스탈 파편 드롭" />
@@ -63,11 +58,9 @@
     <v dropGroupIDs="41" minLevel="50" maxLevel="50" dropCount="0,1" dropCountProbability="6000000,1" reference1="베벨트의 벨트" />
   </dropBox>
   <dropBox dropBoxID="3" comment="엘리트 몬스터">
-    <!-- <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" /> -->
-	  <!-- 新增 add -->
-   	<v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="레드, 블루, 그린 크리스탈 드롭" /> -->
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
+    <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="레드, 블루, 그린 크리스탈 드롭" />
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
     <v dropGroupIDs="2" dropCount="0,1" dropCountProbability="9500,500" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="107" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9960,40" reference1="크리스탈 파편 드롭" />
     <v dropGroupIDs="107" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9932,64" reference1="크리스탈 파편 드롭" />
@@ -78,9 +71,9 @@
   </dropBox>
   <dropBox dropBoxID="4" comment="필드 보스 몬스터">
     <v dropGroupIDs="103" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="칠흑의 정수" /> -->
-    <!-- <v dropGroupIDs="214" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="레드, 블루, 그린 크리스탈 드롭" /> -->
-    <!-- <v dropGroupIDs="203" dropCount="0,1" dropCountProbability="99998,2" reference1="액세서리" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="칠흑의 정수" />
+    <v dropGroupIDs="214" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="레드, 블루, 그린 크리스탈 드롭" />
+    <v dropGroupIDs="203" dropCount="0,1" dropCountProbability="99998,2" reference1="액세서리" />
     <v dropGroupIDs="205" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="레드, 블루, 그린 크리스탈 드롭" />
     <v dropGroupIDs="206" dropCount="1" dropCountProbability="10000" reference1="크리스탈 파편(캐릭터 귀속)" />
     <v dropGroupIDs="107" minLevel="1" maxLevel="20" dropCount="0,1" dropCountProbability="9600,400" reference1="크리스탈 파편 드롭" />
@@ -88,10 +81,7 @@
     <v dropGroupIDs="107" minLevel="31" maxLevel="40" dropCount="0,1" dropCountProbability="6400,3600" reference1="크리스탈 파편 드롭" />
     <v dropGroupIDs="107" minLevel="41" maxLevel="49" dropCount="0,1" dropCountProbability="3600,6400" reference1="크리스탈 파편 드롭" />
     <v dropGroupIDs="107" minLevel="50" dropCount="0,1" dropCountProbability="0,10000" reference1="크리스탈 파편 드롭" />
-    <!-- <v dropGroupIDs="2" dropCount="1" dropCountProbability="10000" locale="KR" reference1="글로벌 장비 드롭" /> -->
-    <!-- 新增 add -->
-  	<v dropGroupIDs="2" dropCount="0,1" dropCountProbability="7500,2500" locale="KR" reference1="글로벌 장비 드롭" />
-    <v dropGroupIDs="2" dropCount="0,1" dropCountProbability="7500,2500" locale="CN" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="2" dropCount="1" dropCountProbability="10000" locale="KR" reference1="글로벌 장비 드롭" />
   </dropBox>
   <dropBox dropBoxID="5" comment="쉐도우월드 필드 몬스터">
     <v dropGroupIDs="31" minLevel="25" dropCount="0,1" dropCountProbability="9980,20" reference1="미니 엘릭서 드롭" />
@@ -101,57 +91,44 @@
     <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9550,450" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9700,300" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="1" minLevel="41" dropCount="0,1" dropCountProbability="9950,50" reference1="글로벌 장비 드롭" />
-    <!-- <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" /> -->
-	  <!-- 新增 add -->
-  	<v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
   </dropBox>
   <dropBox dropBoxID="6" comment="던전 보스 몬스터">
     <v dropGroupIDs="103" dropCount="1,2,3" dropCountProbability="1000,4000,5000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
   </dropBox>
   <dropBox dropBoxID="7" comment="던전 엘리트 몬스터칠흑의 정수">
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" /> -->
-  	<!-- 新增 add -->
-	  <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" />
   </dropBox>
   <dropBox dropBoxID="10" comment="48미만 던전 드롭장비">
     <v dropGroupIDs="3" dropCount="1" dropCountProbability="10000" />
     <v dropGroupIDs="4" dropCount="0,1" dropCountProbability="7000,3000" />
   </dropBox>
   <dropBox dropBoxID="14" comment="10레벨 미만 떨이 엘리트 몬스터메소 드롭">
-    <!-- <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" /> -->
-  	<!-- 新增、add -->
-	  <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" />
+    <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" />
   </dropBox>
   <dropBox dropBoxID="15" comment="10레벨 이상 떨이 엘리트 몬스터메소 드롭">
-    <!-- <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" /> -->
-  	<!-- 新增、add -->
-  	<v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" />
+    <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" />
   </dropBox>
   <dropBox dropBoxID="16" comment="쉐도우월드(안전지대) 필드 몬스터">
-    <!-- <v dropGroupIDs="60000026" minLevel="25" maxLevel="29" dropCount="0,1" dropCountProbability="7500,2500" reference1="카르마 파편" /> -->
+    <v dropGroupIDs="60000026" minLevel="25" maxLevel="29" dropCount="0,1" dropCountProbability="7500,2500" reference1="카르마 파편" />
     <v dropGroupIDs="60000033" dropCount="0,1" dropCountProbability="5000,5000" reference1="퀘스트 드롭" />
-    <!-- <v dropGroupIDs="1" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9500,500" reference1="글로벌 장비 드롭" /> -->
-    <!-- <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9550,450" reference1="글로벌 장비 드롭" /> -->
-    <!-- <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9700,300" reference1="글로벌 장비 드롭" /> -->
-    <!-- <v dropGroupIDs="1" minLevel="41" dropCount="0,1" dropCountProbability="9750,250" reference1="글로벌 장비 드롭" /> -->
-    <!-- 新增 add -->
-	<v dropGroupIDs="1" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9900,100" reference1="글로벌 장비 드롭" />
-    <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9900,100" reference1="글로벌 장비 드롭" />
-    <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9950,50" reference1="글로벌 장비 드롭" />
-    <v dropGroupIDs="1" minLevel="41" dropCount="0,1" dropCountProbability="9950,50" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="1" minLevel="1" maxLevel="10" dropCount="0,1" dropCountProbability="9500,500" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="1" minLevel="11" maxLevel="20" dropCount="0,1" dropCountProbability="9550,450" reference1="글로벌 장비 드롭" /> 
+    <v dropGroupIDs="1" minLevel="21" maxLevel="40" dropCount="0,1" dropCountProbability="9700,300" reference1="글로벌 장비 드롭" />
+    <v dropGroupIDs="1" minLevel="41" dropCount="0,1" dropCountProbability="9750,250" reference1="글로벌 장비 드롭" />
     <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
   </dropBox>
   <dropBox dropBoxID="20" comment="파티 던전 몬스터(엘리트-장비제거)">
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
     <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
   </dropBox>
   <dropBox dropBoxID="29" comment="필드 보스 몬스터">
     <v dropGroupIDs="103" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="칠흑의 정수" /> -->
-    <!-- <v dropGroupIDs="214" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="레드, 블루, 그린 크리스탈 드롭" /> -->
+    <v dropGroupIDs="211" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="칠흑의 정수" />
+    <v dropGroupIDs="214" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="레드, 블루, 그린 크리스탈 드롭" />
     <v dropGroupIDs="205" minLevel="50" dropCount="1" dropCountProbability="10000" reference1="레드, 블루, 그린 크리스탈 드롭" />
     <v dropGroupIDs="206" dropCount="1" dropCountProbability="10000" reference1="크리스탈 파편(캐릭터 귀속)" />
     <v dropGroupIDs="107" minLevel="1" maxLevel="20" dropCount="0,1" dropCountProbability="9600,400" reference1="크리스탈 파편 드롭" />
@@ -180,15 +157,11 @@
   </dropBox>
   <dropBox dropBoxID="74" comment="던전 몬스터 공통칠흑의 정수">
     <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
-	  <!-- 新增、add -->
-  	<!-- <v dropGroupIDs="104" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" /> --> <!-- CN-only addition disabled: vanilla dungeon mobs drop no meso (issue #396) -->
   </dropBox>
   <dropBox dropBoxID="75" comment="엘리트 몬스터_50초과">
-    <!-- <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" /> -->
-  	<!-- 新增、add -->
-	  <v dropGroupIDs="101" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
-    <!-- <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="레드, 블루, 그린 크리스탈 드롭" /> -->
-    <!-- <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" /> -->
+    <v dropGroupIDs="102" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
+    <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="레드, 블루, 그린 크리스탈 드롭" />
+    <v dropGroupIDs="211" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="칠흑의 정수" />
     <v dropGroupIDs="212" minLevel="70" dropCount="0,1" dropCountProbability="9029,971" continentCondition="105" mapTypeCondition="4" reference1="크리티아스 대륙 전용 드롭_에네르 코어" />
     <v dropGroupIDs="107" minLevel="50" dropCount="0,1" dropCountProbability="9464,536" reference1="크리스탈 파편 드롭" />
   </dropBox>
@@ -295,46 +268,34 @@
     <v dropGroupIDs="200006" minLevel="14" dropCount="1" dropCountProbability="10000" />
   </dropBox>
   <dropBox dropBoxID="40000006" comment="메이플월드 레어 보물상자 드롭">
-    <!-- <v dropGroupIDs="101" dropCount="5" dropCountProbability="10000" reference1="보물상자 (레어): 메소" /> -->
-	  <!-- 新增/add -->
-	  <v dropGroupIDs="102" dropCount="5" dropCountProbability="10000" reference1="보물상자 (레어): 메소" />
-	  <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="보물상자 (레어): RBG크리스탈" />
-    <!-- <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="보물상자 (레어): RBG크리스탈" /> -->
-    <!-- <v dropGroupIDs="213" minLevel="50" dropCount="1" dropCountProbability="10000" continentCondition="105" mapTypeCondition="4" reference1="보물상자 (레어): 에네르 코어" /> -->
-  	<!-- 新增/add -->
-	  <v dropGroupIDs="207" minLevel="50" dropCount="0,1" dropCountProbability="9000,1000" reference1="보물상자 (레어): 보물 열쇠" />
-    <!-- <v dropGroupIDs="207" minLevel="50" dropCount="0,1" dropCountProbability="8000,2000" reference1="보물상자 (레어): 보물 열쇠" /> -->
+    <v dropGroupIDs="101" dropCount="5" dropCountProbability="10000" reference1="보물상자 (레어): 메소" />
+	<v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9900,100" reference1="보물상자 (레어): RBG크리스탈" />
+    <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="보물상자 (레어): RBG크리스탈" />
+    <v dropGroupIDs="213" minLevel="50" dropCount="1" dropCountProbability="10000" continentCondition="105" mapTypeCondition="4" reference1="보물상자 (레어): 에네르 코어" />
+    <v dropGroupIDs="207" minLevel="50" dropCount="0,1" dropCountProbability="8000,2000" reference1="보물상자 (레어): 보물 열쇠" />
   </dropBox>
   <dropBox dropBoxID="40000007" comment="메이플월드 일반 보물상자 드롭">
-    <!-- <v dropGroupIDs="101" dropCount="3" dropCountProbability="10000" reference1="보물상자 (일반): 메소" /> -->
-	  <!-- 新增/add -->
-	  <v dropGroupIDs="102" dropCount="3" dropCountProbability="10000" reference1="보물상자 (레어): 메소" />
-    <!-- <v dropGroupIDs="207" minLevel="50" dropCount="0,1" dropCountProbability="8000,2000" reference1="보물상자 (일반): 보물 열쇠" /> -->
+    <v dropGroupIDs="101" dropCount="3" dropCountProbability="10000" reference1="보물상자 (일반): 메소" />
+    <v dropGroupIDs="207" minLevel="50" dropCount="0,1" dropCountProbability="8000,2000" reference1="보물상자 (일반): 보물 열쇠" />
   </dropBox>
   <dropBox dropBoxID="40000031" comment="쉐도우월드 일반 보물상자 드롭보물상자 (일반): 메소">
-    <!-- <v dropGroupIDs="101" dropCount="3" dropCountProbability="10000" /> -->
-	  <!-- 新增/add -->
-	  <v dropGroupIDs="102" dropCount="3" dropCountProbability="10000" reference1="보물상자 (레어): 메소" />
+    <v dropGroupIDs="101" dropCount="3" dropCountProbability="10000" />
   </dropBox>
   <dropBox dropBoxID="40000032" comment="쉐도우월드 레어 보물상자 드롭">
-    <!-- <v dropGroupIDs="101" dropCount="5" dropCountProbability="10000" reference1="보물상자 (레어): 메소" /> -->
-	  <!-- 新增/add -->
-	  <v dropGroupIDs="102" dropCount="5" dropCountProbability="10000" reference1="보물상자 (레어): 메소" />
-    <!-- 新增/add -->
-    <v dropGroupIDs="207" minLevel="50" dropCount="0,1" dropCountProbability="9000,1000" reference1="보물상자 (일반): 보물 열쇠" />
+    <v dropGroupIDs="101" dropCount="5" dropCountProbability="10000" reference1="보물상자 (레어): 메소" />
     <v dropGroupIDs="202" minLevel="50" dropCount="0,1" dropCountProbability="9500,500" reference1="보물상자 (레어): RBG크리스탈" />
   </dropBox>
   <dropBox dropBoxID="40000033" comment="쉐도우월드 투르카 보석함: 일반">
     <v dropGroupIDs="315" dropCount="1" dropCountProbability="10000" reference1="메소 드롭" />
     <v dropGroupIDs="316" dropCount="1" dropCountProbability="10000" reference1="오닉스 드롭" />
     <v dropGroupIDs="313" dropCount="1" dropCountProbability="10000" reference1="트레바" />
-    <!-- <v dropGroupIDs="319" dropCount="0,1" dropCountProbability="9000,1000" reference1="젬 관련 드롭" /> -->
+    <v dropGroupIDs="319" dropCount="0,1" dropCountProbability="9000,1000" reference1="젬 관련 드롭" />
   </dropBox>
   <dropBox dropBoxID="40000034" comment="쉐도우월드 투르카 보석함: 레어">
     <v dropGroupIDs="317" dropCount="1" dropCountProbability="10000" reference1="오닉스 드롭" />
     <v dropGroupIDs="314" dropCount="1" dropCountProbability="10000" reference1="트레바" />
     <v dropGroupIDs="308" dropCount="0,1" dropCountProbability="9000,1000" reference1="쉐도우월드 투르카보석함 전리품: 스킨" />
-    <!-- <v dropGroupIDs="318" dropCount="1" dropCountProbability="10000" reference1="젬 관련 드롭" /> -->
+    <v dropGroupIDs="318" dropCount="1" dropCountProbability="10000" reference1="젬 관련 드롭" />
   </dropBox>
   <dropBox dropBoxID="41000001" comment="낚시 초보 1-4(맵 레벨 1-16)낚시 초보 1-4(맵 레벨 1-16)">
     <v dropGroupIDs="41000001" dropCount="0,1" dropCountProbability="9700,300" />
