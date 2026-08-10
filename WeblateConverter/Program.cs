@@ -7,8 +7,14 @@ if (args.Length > 0) {
         case "xml-to-json" when args.Length == 2:
             Environment.ExitCode = converter.ConvertXmlToJson(args[1]) ? 0 : 1;
             return;
+        case "xml-to-json-client-scripts" when args.Length == 2:
+            Environment.ExitCode = converter.ConvertClientScriptsXmlToJson(args[1]) ? 0 : 1;
+            return;
         case "json-to-xml" when args.Length == 2:
             Environment.ExitCode = converter.ConvertJsonToXml(args[1]) ? 0 : 1;
+            return;
+        case "json-to-xml-client-scripts" when args.Length == 2:
+            Environment.ExitCode = converter.ConvertClientScriptsJsonToXml(args[1]) ? 0 : 1;
             return;
         case "json-to-xml-all":
             Environment.ExitCode = converter.ConvertJsonToXmlAll() ? 0 : 1;
@@ -25,7 +31,9 @@ if (args.Length > 0) {
         default:
             Console.WriteLine("Usage:");
             Console.WriteLine("  WeblateConverter xml-to-json <locale>");
+            Console.WriteLine("  WeblateConverter xml-to-json-client-scripts <locale>");
             Console.WriteLine("  WeblateConverter json-to-xml <locale>");
+            Console.WriteLine("  WeblateConverter json-to-xml-client-scripts <locale>");
             Console.WriteLine("  WeblateConverter json-to-xml-all");
             Console.WriteLine("  WeblateConverter ko-with-missing");
             Console.WriteLine("  WeblateConverter verify <locale>");

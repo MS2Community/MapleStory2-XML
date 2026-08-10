@@ -1,4 +1,5 @@
 ﻿using System.Xml;
+using System.Globalization;
 using Newtonsoft.Json.Linq;
 using WeblateConverter.Enum;
 
@@ -6,6 +7,36 @@ namespace WeblateConverter.Converter;
 
 public class Converter {
     private string? _cachedProjectRoot;
+
+    // Ghidra: FUN_1408cf0f0 parses every ScriptQuest/ScriptNPC <key id> as a uint64 and stores
+    // all of them in the same numeric hashmap. FUN_140bfc640 does the same conversion for
+    // $script:<id>$ lookups. Leading zeroes therefore do not make a distinct client key.
+    private static bool IsClientUInt64KeyedFile(string fileName) {
+        string baseFileName = Path.GetFileNameWithoutExtension(fileName).Trim();
+        return baseFileName.StartsWith("scriptquest", StringComparison.OrdinalIgnoreCase)
+            || baseFileName.StartsWith("scriptnpc", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static string CanonicalizeClientPrimaryKey(string primaryKey, string fileName) {
+        if (!IsClientUInt64KeyedFile(fileName)
+            || !ulong.TryParse(primaryKey, NumberStyles.None, CultureInfo.InvariantCulture, out ulong numericId)) {
+            return primaryKey;
+        }
+
+        return numericId.ToString(CultureInfo.InvariantCulture);
+    }
+
+    private static bool IsUnresolvedClientScriptPlaceholder(JObject row) {
+        string value = row["name"]?.ToString().Trim() ?? "";
+        return value.StartsWith("SCRIPTQUEST_", StringComparison.OrdinalIgnoreCase)
+            || value.StartsWith("SCRIPTNPC", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static bool ShouldReplaceMissingKeyFallback(string targetFileName, JObject existing, JObject candidate) {
+        return IsClientUInt64KeyedFile(targetFileName)
+            && IsUnresolvedClientScriptPlaceholder(existing)
+            && !IsUnresolvedClientScriptPlaceholder(candidate);
+    }
 
     /// <summary>
     /// Resolves the repository root robustly, regardless of where the executable lives
@@ -54,6 +85,68 @@ public class Converter {
         return false;
     }
 
+    /// <summary>
+    /// Regenerates only ScriptQuest and ScriptNPC Weblate JSON for a locale. This is also the
+    /// migration path for legacy leading-zero aliases, without rewriting unrelated components.
+    /// </summary>
+    public bool ConvertClientScriptsXmlToJson(string locale) {
+        bool isKoreanSource = locale.Equals("ko", StringComparison.OrdinalIgnoreCase);
+        string sourceLocale = isKoreanSource
+            ? "kr_latest"
+            : locale;
+        FileInfo[] files = GetFiles(sourceLocale)
+            .Where(file => IsClientUInt64KeyedFile(file.Name))
+            .ToArray();
+        if (files.Length == 0) {
+            Console.WriteLine($"No ScriptQuest/ScriptNPC XML files found for {sourceLocale}");
+            return false;
+        }
+
+        var scriptQuestJsons = new List<string>();
+        Dictionary<string, HashSet<string>>? missingKeysByFile = null;
+        Dictionary<string, Dictionary<string, JObject>>? sourceKeyData = null;
+        if (isKoreanSource) {
+            (missingKeysByFile, sourceKeyData) = GetMissingKeysFromOtherLanguages(
+                sourceLocale, ["en", "jp", "cn"]);
+        }
+
+        bool ok = true;
+        foreach (FileInfo file in files) {
+            try {
+                var xml = new XmlDocument();
+                xml.Load(file.FullName);
+                string? json = Parse(xml, file.Name);
+                if (json == null) {
+                    ok = false;
+                    continue;
+                }
+
+                if (isKoreanSource && missingKeysByFile != null && sourceKeyData != null) {
+                    json = AddMissingKeysToJsonString(json, file.Name, missingKeysByFile, sourceKeyData);
+                }
+
+                if (file.Name.StartsWith("scriptquest", StringComparison.OrdinalIgnoreCase)
+                    && !isKoreanSource) {
+                    scriptQuestJsons.Add(json);
+                } else {
+                    SaveToJson(file.Name, json, locale);
+                }
+            } catch (Exception ex) {
+                Console.WriteLine($"Error processing {file.Name}: {ex.Message}");
+                ok = false;
+            }
+        }
+
+        if (scriptQuestJsons.Count > 0) {
+            SaveToJson("scriptquest.xml", CombineJsons(scriptQuestJsons, keepFirst: true), locale);
+        }
+
+        Console.WriteLine(ok
+            ? $"Regenerated client script JSON for {locale}"
+            : $"Client script JSON regeneration completed with errors for {locale}");
+        return ok;
+    }
+
     public bool ConvertKoreanWithMissingKeys() {
         if (ProcessKoreanWithMissingKeys()) {
             Console.WriteLine("Conversion successful");
@@ -72,6 +165,43 @@ public class Converter {
 
         Console.WriteLine("Conversion failed");
         return false;
+    }
+
+    /// <summary>
+    /// Regenerates only ScriptQuest and ScriptNPC XML for a locale. When KO's combined
+    /// scriptnpc.json is written, stale split ScriptNPC XML files are removed because the client
+    /// loads both forms into one shared map.
+    /// </summary>
+    public bool ConvertClientScriptsJsonToXml(string locale) {
+        FileInfo[] files = GetJsonFiles(locale)
+            .Where(file => IsClientUInt64KeyedFile(file.Name))
+            .ToArray();
+        if (files.Length == 0) {
+            Console.WriteLine($"No ScriptQuest/ScriptNPC JSON files found for {locale}");
+            return false;
+        }
+
+        bool ok = true;
+        bool combinedNpcWritten = false;
+        foreach (FileInfo file in files) {
+            try {
+                string json = File.ReadAllText(file.FullName);
+                if (JObject.Parse(json).Count == 0) {
+                    continue;
+                }
+                string xml = ConvertJsonToXml(json, file.Name);
+                SaveXmlFile(file.Name.Replace(".json", ".xml"), xml, locale);
+                if (file.Name.Equals("scriptnpc.json", StringComparison.OrdinalIgnoreCase)) {
+                    combinedNpcWritten = true;
+                }
+            } catch (Exception ex) {
+                Console.WriteLine($"Error processing {file.Name}: {ex.Message}");
+                ok = false;
+            }
+        }
+
+        RemoveAbsorbedSourceFiles(locale, questWritten: false, scriptWritten: false, npcWritten: combinedNpcWritten);
+        return ok;
     }
 
     public bool ConvertJsonToXmlAll() {
@@ -160,6 +290,7 @@ public class Converter {
         string[] schemaLocales = { GetOutputLocale(locale), "en", "kr" };
 
         int checkedFiles = 0, skipped = 0, structuralIssues = 0, keyIssues = 0;
+        var clientScriptKeys = new Dictionary<string, (string FileName, string CombinedKey)>(StringComparer.Ordinal);
 
         foreach (FileInfo jsonFile in jsonFiles) {
             JObject json;
@@ -178,14 +309,41 @@ public class Converter {
                 if (!KeyIsWellFormed(prop.Name, jsonFile.Name)) {
                     Console.WriteLine($"  [KEY] {jsonFile.Name}: '{prop.Name}' is not well-formed (delimiter collision?)");
                     keyIssues++;
+                    continue;
+                }
+
+                if (IsClientUInt64KeyedFile(jsonFile.Name)) {
+                    var (primary, secondary, feature, keyLocale) = ParseCombinedKey(prop.Name, jsonFile.Name);
+                    string canonical = CanonicalizeClientPrimaryKey(primary, jsonFile.Name);
+                    if (!string.Equals(primary, canonical, StringComparison.Ordinal)) {
+                        Console.WriteLine($"  [KEY] {jsonFile.Name}: '{prop.Name}' is not a canonical uint64 client id (use '{canonical}')");
+                        keyIssues++;
+                    }
+
+                    // All ScriptQuest/ScriptNPC files feed one client hashmap. Catch aliases that
+                    // are individually unique in their JSON file but collide across file families.
+                    string clientIdentity = $"{canonical}|{secondary}|{feature}|{keyLocale}";
+                    if (clientScriptKeys.TryGetValue(clientIdentity, out var existing)
+                        && !existing.FileName.Equals(jsonFile.Name, StringComparison.OrdinalIgnoreCase)) {
+                        Console.WriteLine(
+                            $"  [KEY] {jsonFile.Name}: '{prop.Name}' collides with {existing.FileName} '{existing.CombinedKey}' in the shared client script map");
+                        keyIssues++;
+                    } else if (!clientScriptKeys.ContainsKey(clientIdentity)) {
+                        clientScriptKeys[clientIdentity] = (jsonFile.Name, prop.Name);
+                    }
                 }
             }
 
             // 1b. Numeric id collisions — keys differing only by leading zeros collide in-game;
-            //     the converter drops the non-canonical ones, but surface them as a data warning.
+            //     script aliases are a hard failure because they can select the wrong language.
             HashSet<string> collisions = CollectNumericCollisionKeysToDrop(json, jsonFile.Name);
             if (collisions.Count > 0) {
-                Console.WriteLine($"  [DATA]   {jsonFile.Name}: {collisions.Count} leading-zero id collision(s) dropped (keeping the padded form)");
+                if (IsClientUInt64KeyedFile(jsonFile.Name)) {
+                    Console.WriteLine($"  [KEY] {jsonFile.Name}: {collisions.Count} uint64 id alias(es) collide in the client");
+                    keyIssues += collisions.Count;
+                } else {
+                    Console.WriteLine($"  [DATA]   {jsonFile.Name}: {collisions.Count} leading-zero id collision(s) dropped");
+                }
             }
 
             // 2. Structural comparison against the source XML (skip fan-out/synthetic files
@@ -484,7 +642,7 @@ public class Converter {
             SaveToJson("skillname.xml", CombineJsons(skillJsons), locale);
             SaveToJson("stringskilldescription.xml", CombineJsons(skillDescriptions), locale);
             SaveToJson("stringadditionaldescription.xml", CombineJsons(skillAdditionalDescriptions), locale);
-            SaveToJson("scriptquest.xml", CombineJsons(scriptQuestJsons), locale);
+            SaveToJson("scriptquest.xml", CombineJsons(scriptQuestJsons, keepFirst: true), locale);
         }
         return true;
     }
@@ -572,10 +730,10 @@ public class Converter {
     }
 
     // Generation writes in place into Xml/string/<locale>, so untranslated files and entries are
-    // preserved automatically (they simply aren't rewritten). The one thing that needs cleaning
-    // is the individual quest/script source files, which are replaced by the combined outputs
-    // (questdescription_final.xml / scriptquest.xml) — remove them so they don't co-exist.
-    private void RemoveAbsorbedSourceFiles(string locale, bool questWritten, bool scriptWritten) {
+    // preserved automatically (they simply aren't rewritten). Absorbed quest/script fragments are
+    // replaced by combined outputs (questdescription_final.xml / scriptquest.xml / scriptnpc.xml),
+    // so remove the fragments after their replacement was successfully written.
+    private void RemoveAbsorbedSourceFiles(string locale, bool questWritten, bool scriptWritten, bool npcWritten) {
         string? projectRoot = GetProjectRoot();
         if (projectRoot == null) {
             return;
@@ -584,7 +742,7 @@ public class Converter {
         // Only drop a family's fragments when its combined output was actually WRITTEN this run
         // (not merely when the JSON exists). A partially translated locale, an empty combined JSON,
         // or a failed conversion writes nothing — deleting the fragments then would lose data.
-        if (!questWritten && !scriptWritten) {
+        if (!questWritten && !scriptWritten && !npcWritten) {
             return;
         }
 
@@ -596,21 +754,22 @@ public class Converter {
 
         int removed = 0;
         foreach (string file in Directory.GetFiles(dir, "*.xml")) {
-            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file), questWritten, scriptWritten)) {
+            if (IsAbsorbedByCombinedOutput(Path.GetFileName(file), questWritten, scriptWritten, npcWritten)) {
                 File.Delete(file);
                 removed++;
             }
         }
 
         if (removed > 0) {
-            Console.WriteLine($"Removed {removed} individual quest/script file(s) from {outputLocale} (replaced by combined outputs)");
+            Console.WriteLine($"Removed {removed} absorbed quest/script fragment(s) from {outputLocale} (replaced by combined outputs)");
         }
     }
 
-    private static bool IsAbsorbedByCombinedOutput(string fileName, bool questWritten, bool scriptWritten) {
+    private static bool IsAbsorbedByCombinedOutput(string fileName, bool questWritten, bool scriptWritten, bool npcWritten) {
         // Never delete the combined outputs themselves, even though they share the fragment prefix.
         if (fileName.Equals("questdescription_final.xml", StringComparison.OrdinalIgnoreCase)
-            || fileName.Equals("scriptquest.xml", StringComparison.OrdinalIgnoreCase)) {
+            || fileName.Equals("scriptquest.xml", StringComparison.OrdinalIgnoreCase)
+            || fileName.Equals("scriptnpc.xml", StringComparison.OrdinalIgnoreCase)) {
             return false;
         }
         if (fileName.StartsWith("questdescription_", StringComparison.OrdinalIgnoreCase)) {
@@ -618,6 +777,9 @@ public class Converter {
         }
         if (fileName.StartsWith("scriptquest_", StringComparison.OrdinalIgnoreCase)) {
             return scriptWritten;
+        }
+        if (fileName.StartsWith("scriptnpc", StringComparison.OrdinalIgnoreCase)) {
+            return npcWritten;
         }
         return false;
     }
@@ -633,6 +795,7 @@ public class Converter {
         bool anyFailure = false;
         bool questFinalWritten = false;
         bool scriptFinalWritten = false;
+        bool npcFinalWritten = false;
         foreach (FileInfo jsonFile in jsonFiles) {
             Console.WriteLine($"Converting {jsonFile.Name} to XML...");
 
@@ -672,6 +835,8 @@ public class Converter {
                 // questdescription_final reports whether it actually wrote content (assigned above).
                 if (jsonFile.Name == "scriptquest.json") {
                     scriptFinalWritten = true;
+                } else if (jsonFile.Name == "scriptnpc.json") {
+                    npcFinalWritten = true;
                 }
             } catch (Exception ex) {
                 Console.WriteLine($"Error converting {jsonFile.Name}: {ex.Message}");
@@ -679,9 +844,9 @@ public class Converter {
             }
         }
 
-        // Cleanup runs AFTER generation: drop the individual quest/script fragments only for a
+        // Cleanup runs AFTER generation: drop the absorbed quest/script fragments only for a
         // family whose combined output was actually written this run (never the combined itself).
-        RemoveAbsorbedSourceFiles(locale, questFinalWritten, scriptFinalWritten);
+        RemoveAbsorbedSourceFiles(locale, questFinalWritten, scriptFinalWritten, npcFinalWritten);
 
         return !anyFailure;
     }
@@ -765,11 +930,15 @@ public class Converter {
         }
         return combinedObject.ToString();
     }
-    private string CombineJsons(List<string> jsons) {
+    private string CombineJsons(List<string> jsons, bool keepFirst = false) {
         var jsonObject = new JObject();
         foreach (string json in jsons) {
             JObject jObject = JObject.Parse(json);
             foreach (var (key, value) in jObject) {
+                if (keepFirst && jsonObject.ContainsKey(key)) {
+                    Console.WriteLine($"  [CLIENT ID] Combined script files: keeping first occurrence of '{key}'");
+                    continue;
+                }
                 jsonObject[key] = value;
             }
         }
@@ -850,6 +1019,10 @@ public class Converter {
         string? secondaryKeyAttr = GetSecondaryKeyAttributeName(fileName);
 
         var jsonObject = new JObject();
+        var originalNumericKeys = new Dictionary<string, string>(StringComparer.Ordinal);
+        int numericAliasCount = 0;
+        int conflictingNumericAliasCount = 0;
+        var numericAliasSamples = new List<string>();
         foreach (XmlNode childNode in node.ChildNodes) {
             // Skip comment nodes
             if (childNode.NodeType == XmlNodeType.Comment) {
@@ -868,7 +1041,8 @@ public class Converter {
                 Console.WriteLine($"Primary key attribute '{primaryKeyAttr}' not found in {document.BaseURI}");
                 continue;
             }
-            string primaryKey = primaryKeyAttribute.Value;
+            string originalPrimaryKey = primaryKeyAttribute.Value;
+            string primaryKey = CanonicalizeClientPrimaryKey(originalPrimaryKey, fileName);
 
             // Get secondary key value if needed
             string secondaryKey = "";
@@ -917,7 +1091,32 @@ public class Converter {
                 combinedKey = $"{primaryKey}-{feature}-{locale}";
             }
 
+            if (IsClientUInt64KeyedFile(fileName) && jsonObject.ContainsKey(combinedKey)) {
+                string retainedKey = originalNumericKeys[combinedKey];
+                bool conflicts = !JToken.DeepEquals(jsonObject[combinedKey], attributesObject);
+                numericAliasCount++;
+                if (conflicts) {
+                    conflictingNumericAliasCount++;
+                }
+                if (numericAliasSamples.Count < 10) {
+                    numericAliasSamples.Add(
+                        $"keeping first id '{retainedKey}', dropping {(conflicts ? "conflicting" : "duplicate")} id '{originalPrimaryKey}' (numeric id {primaryKey})");
+                }
+                continue;
+            }
+
             jsonObject[combinedKey] = attributesObject;
+            if (IsClientUInt64KeyedFile(fileName)) {
+                originalNumericKeys[combinedKey] = originalPrimaryKey;
+            }
+        }
+
+        if (numericAliasCount > 0) {
+            Console.WriteLine(
+                $"  [CLIENT ID] {fileName}: removed {numericAliasCount} uint64 alias row(s), {conflictingNumericAliasCount} with conflicting data; first XML row wins");
+            foreach (string sample in numericAliasSamples) {
+                Console.WriteLine($"    {sample}");
+            }
         }
 
         return jsonObject.ToString();
@@ -951,17 +1150,30 @@ public class Converter {
                     if (masterKeys.ContainsKey(fileName)) {
                         foreach (var (key, data) in keyData) {
                             if (!masterKeys[fileName].Contains(key)) {
-                                missingKeysByFile[targetFileName].Add(key);
-                                sourceKeyData[targetFileName][key] = data;
-                                Console.WriteLine($"Found missing key in {fileName} -> {targetFileName}: {key} (from {locale})");
+                                // otherLocales is ordered by fallback preference (EN, JP, CN).
+                                // Keep the first source so a later scan cannot replace English
+                                // fallback text with Japanese or Chinese for the same client id.
+                                if (missingKeysByFile[targetFileName].Add(key)) {
+                                    sourceKeyData[targetFileName][key] = data;
+                                    Console.WriteLine($"Found missing key in {fileName} -> {targetFileName}: {key} (from {locale})");
+                                } else if (ShouldReplaceMissingKeyFallback(
+                                               targetFileName, sourceKeyData[targetFileName][key], data)) {
+                                    sourceKeyData[targetFileName][key] = data;
+                                    Console.WriteLine($"Upgraded placeholder fallback in {fileName} -> {targetFileName}: {key} (using real text from {locale})");
+                                }
                             }
                         }
                     } else {
                         // If the file doesn't exist in master at all, add all keys
                         foreach (var (key, data) in keyData) {
-                            missingKeysByFile[targetFileName].Add(key);
-                            sourceKeyData[targetFileName][key] = data;
-                            Console.WriteLine($"Found missing key in {fileName} -> {targetFileName} (file not in master): {key} (from {locale})");
+                            if (missingKeysByFile[targetFileName].Add(key)) {
+                                sourceKeyData[targetFileName][key] = data;
+                                Console.WriteLine($"Found missing key in {fileName} -> {targetFileName} (file not in master): {key} (from {locale})");
+                            } else if (ShouldReplaceMissingKeyFallback(
+                                           targetFileName, sourceKeyData[targetFileName][key], data)) {
+                                sourceKeyData[targetFileName][key] = data;
+                                Console.WriteLine($"Upgraded placeholder fallback in {fileName} -> {targetFileName}: {key} (using real text from {locale})");
+                            }
                         }
                     }
                 }
@@ -985,7 +1197,7 @@ public class Converter {
                 XmlDocument xml = new XmlDocument();
                 xml.Load(file.FullName);
 
-                var keys = ExtractKeysFromXml(xml);
+                var keys = ExtractKeysFromXml(xml, file.Name);
                 if (keys.Count > 0) {
                     keysByFile[file.Name] = keys;
                 }
@@ -1011,7 +1223,7 @@ public class Converter {
                 XmlDocument xml = new XmlDocument();
                 xml.Load(file.FullName);
 
-                var keyData = ExtractKeysAndDataFromXml(xml);
+                var keyData = ExtractKeysAndDataFromXml(xml, file.Name);
                 if (keyData.Count > 0) {
                     keyDataByFile[file.Name] = keyData;
                 }
@@ -1023,7 +1235,7 @@ public class Converter {
         return keyDataByFile;
     }
 
-    private HashSet<string> ExtractKeysFromXml(XmlDocument document) {
+    private HashSet<string> ExtractKeysFromXml(XmlDocument document, string fileName) {
         var keys = new HashSet<string>();
 
         XmlNode? node = document.SelectSingleNode("ms2");
@@ -1043,7 +1255,7 @@ public class Converter {
 
             // Get first attribute (the key)
             XmlAttribute keyAttribute = childNode.Attributes![0];
-            string key = keyAttribute.Value;
+            string key = CanonicalizeClientPrimaryKey(keyAttribute.Value, fileName);
 
             // Build the full key with feature and locale (same logic as Parse method)
             string feature = "";
@@ -1065,7 +1277,7 @@ public class Converter {
         return keys;
     }
 
-    private Dictionary<string, JObject> ExtractKeysAndDataFromXml(XmlDocument document) {
+    private Dictionary<string, JObject> ExtractKeysAndDataFromXml(XmlDocument document, string fileName) {
         var keyData = new Dictionary<string, JObject>();
 
         XmlNode? node = document.SelectSingleNode("ms2");
@@ -1085,7 +1297,7 @@ public class Converter {
 
             // Get first attribute (the key)
             XmlAttribute keyAttribute = childNode.Attributes![0];
-            string key = keyAttribute.Value;
+            string key = CanonicalizeClientPrimaryKey(keyAttribute.Value, fileName);
 
             // Build the full key and data object (same logic as Parse method)
             string feature = "";
@@ -1104,6 +1316,11 @@ public class Converter {
             }
 
             string fullKey = key + "-" + feature + "-" + locale;
+            // The client keeps the first matching uint64 script id and rejects later aliases.
+            // Preserve that same language/value precedence while gathering fallback source data.
+            if (IsClientUInt64KeyedFile(fileName) && keyData.ContainsKey(fullKey)) {
+                continue;
+            }
             keyData[fullKey] = attributesObject;
         }
 
@@ -1194,6 +1411,17 @@ public class Converter {
             ];
         }
 
+        // Korean ships one combined ScriptNPC table while the other locales split it by role.
+        // Feed split-locale keys into both their own component and the Korean combined fallback;
+        // normalized ids already present in Korean are ignored by AddMissingKeysToJsonObject.
+        if (fileName.StartsWith("scriptnpc", StringComparison.OrdinalIgnoreCase)
+            && !fileName.Equals("scriptnpc.xml", StringComparison.OrdinalIgnoreCase)) {
+            return [
+                fileName,
+                "scriptnpc.xml"
+            ];
+        }
+
         // For non-grouped files, just return the original filename.
         return [fileName];
     }
@@ -1220,34 +1448,48 @@ public class Converter {
         return files;
     }
 
-    // Files CONFIRMED (in the client binary) to look up their table by integer id, so keys that
-    // differ only by leading zeros ("2040998" vs "02040998") collide to one entry. Only these are
-    // deduped. Do NOT add a file here without verifying it: many all-numeric tables are actually
-    // string-keyed (e.g. scriptquest, whose 16-20 digit ids overflow an int and whose "0123"/"123"
-    // are DISTINCT quest lines), and deduping those would drop real, distinct strings.
+    // Other files confirmed to use numeric keys. ScriptQuest/ScriptNPC are handled by
+    // IsClientUInt64KeyedFile because their ids require the full unsigned 64-bit range.
     private static readonly HashSet<string> IntegerKeyedFiles = new(StringComparer.OrdinalIgnoreCase) {
         "npcname.json", "npcnameplural.json"
     };
 
-    // Returns the keys to drop for a confirmed integer-keyed file, keeping the zero-padded canonical
-    // form (longest key string, which matches the source of truth) so the intended entry survives.
+    // Returns aliases to drop for a confirmed numeric-keyed file. Script rows keep their first JSON
+    // occurrence, matching the client's first-loaded-row behavior and preserving the language that
+    // was actually visible in game. Older numeric tables retain their established padded-key rule.
     private HashSet<string> CollectNumericCollisionKeysToDrop(JObject jsonObject, string fileName) {
-        if (!IntegerKeyedFiles.Contains(fileName)) {
+        bool isClientUInt64Table = IsClientUInt64KeyedFile(fileName);
+        if (!isClientUInt64Table && !IntegerKeyedFiles.Contains(fileName)) {
             return new HashSet<string>();
         }
 
         var groups = new Dictionary<string, List<string>>();
         foreach (JProperty prop in jsonObject.Properties()) {
             var (primary, secondary, feature, locale) = ParseCombinedKey(prop.Name, fileName);
-            if (!primary.All(char.IsDigit)) {
-                continue;
+            string normalizedPrimary;
+            if (isClientUInt64Table) {
+                if (!ulong.TryParse(primary, NumberStyles.None, CultureInfo.InvariantCulture, out ulong numericId)) {
+                    continue;
+                }
+                normalizedPrimary = numericId.ToString(CultureInfo.InvariantCulture);
+            } else {
+                if (!primary.All(char.IsDigit)) {
+                    continue;
+                }
+                normalizedPrimary = primary.TrimStart('0');
+                if (normalizedPrimary.Length == 0) {
+                    normalizedPrimary = "0";
+                }
             }
             string normalizedSecondary = secondary;
             if (!string.IsNullOrEmpty(secondary) && secondary.All(char.IsDigit)) {
                 normalizedSecondary = secondary.TrimStart('0');
+                if (normalizedSecondary.Length == 0) {
+                    normalizedSecondary = "0";
+                }
             }
 
-            string identity = $"{primary.TrimStart('0')}|{normalizedSecondary}|{feature}|{locale}";
+            string identity = $"{normalizedPrimary}|{normalizedSecondary}|{feature}|{locale}";
             if (!groups.TryGetValue(identity, out List<string>? list)) {
                 list = new List<string>();
                 groups[identity] = list;
@@ -1260,8 +1502,9 @@ public class Converter {
             if (collision.Count < 2) {
                 continue;
             }
-            // Keep the longest key string (most zero-padding = canonical); drop the rest.
-            string keep = collision.OrderByDescending(k => k.Length).ThenBy(k => k, StringComparer.Ordinal).First();
+            string keep = isClientUInt64Table
+                ? collision[0]
+                : collision.OrderByDescending(k => k.Length).ThenBy(k => k, StringComparer.Ordinal).First();
             foreach (string key in collision) {
                 if (key != keep) {
                     drop.Add(key);
@@ -1274,8 +1517,8 @@ public class Converter {
     private string ConvertJsonToXml(string jsonContent, string fileName) {
         JObject jsonObject = JObject.Parse(jsonContent);
 
-        // Drop keys that collide with another under the client's integer id parsing (leading-zero
-        // variants like "2040998" vs "02040998") so only the canonical padded entry is emitted.
+        // Drop aliases that collide under the client's numeric parsing. Script tables keep the
+        // first row so a later foreign-language alias cannot replace the client-visible value.
         HashSet<string> collisionDrops = CollectNumericCollisionKeysToDrop(jsonObject, fileName);
 
         var xmlDoc = new XmlDocument();
@@ -1298,6 +1541,7 @@ public class Converter {
 
             // Parse the combined key to extract primary key, secondary key, feature, and locale
             var (primaryKey, secondaryKey, feature, locale) = ParseCombinedKey(combinedKey, fileName);
+            primaryKey = CanonicalizeClientPrimaryKey(primaryKey, fileName);
 
             // Get the correct element name based on the filename
             string elementName = GetXmlElementName(fileName);
