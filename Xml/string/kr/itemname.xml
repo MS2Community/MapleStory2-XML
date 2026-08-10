@@ -36269,6 +36269,480 @@
 	<key id="33030059" class="consume" name="레시피용 염료" feature="TradingMasteryRecipe" />
 	<key id="33030060" class="consume" name="레시피용 판자" feature="TradingMasteryRecipe" />
 	<key id="33030061" class="consume" name="레시피용 나사" feature="TradingMasteryRecipe" />
+	<key id="33040000" class="material" name="붕어" />
+	<key id="33040001" class="material" name="(경품) 붕어" />
+	<key id="33040002" class="material" name="떡붕어" />
+	<key id="33040003" class="material" name="(경품) 떡붕어" />
+	<key id="33040004" class="material" name="피라니아" />
+	<key id="33040005" class="material" name="(경품) 피라니아" />
+	<key id="33040006" class="material" name="달납줄개" />
+	<key id="33040007" class="material" name="(경품) 달납줄개" />
+	<key id="33040008" class="material" name="중고기" />
+	<key id="33040009" class="material" name="(경품) 중고기" />
+	<key id="33040010" class="material" name="얼룩 동사리" />
+	<key id="33040011" class="material" name="(경품) 얼룩 동사리" />
+	<key id="33040012" class="material" name="산천어" />
+	<key id="33040013" class="material" name="(경품) 산천어" />
+	<key id="33040014" class="material" name="송사리" />
+	<key id="33040015" class="material" name="(경품) 송사리" />
+	<key id="33040016" class="material" name="피라미" />
+	<key id="33040017" class="material" name="(경품) 피라미" />
+	<key id="33040018" class="material" name="메기" />
+	<key id="33040019" class="material" name="(경품) 메기" />
+	<key id="33040020" class="material" name="블루길" />
+	<key id="33040021" class="material" name="(경품) 블루길" />
+	<key id="33040022" class="material" name="연어" />
+	<key id="33040023" class="material" name="(경품) 연어" />
+	<key id="33040024" class="material" name="하천 연어" />
+	<key id="33040025" class="material" name="(경품) 하천 연어" />
+	<key id="33040026" class="material" name="우파루파" />
+	<key id="33040027" class="material" name="(경품) 우파루파" />
+	<key id="33040028" class="material" name="얼룩 우파루파" />
+	<key id="33040029" class="material" name="(경품) 얼룩 우파루파" />
+	<key id="33040030" class="material" name="갯가재" />
+	<key id="33040031" class="material" name="(경품) 갯가재" />
+	<key id="33040032" class="material" name="줄무늬 갯가재" />
+	<key id="33040033" class="material" name="(경품) 줄무늬 갯가재" />
+	<key id="33040034" class="material" name="큰입배스" />
+	<key id="33040035" class="material" name="(경품) 큰입배스" />
+	<key id="33040036" class="material" name="가물치" />
+	<key id="33040037" class="material" name="(경품) 가물치" />
+	<key id="33040038" class="material" name="쏘가리" />
+	<key id="33040039" class="material" name="(경품) 쏘가리" />
+	<key id="33040040" class="material" name="미꾸라지" />
+	<key id="33040041" class="material" name="(경품) 미꾸라지" />
+	<key id="33040042" class="material" name="얼룩새꼬미꾸리" />
+	<key id="33040043" class="material" name="(경품) 얼룩새꼬미꾸리" />
+	<key id="33040044" class="material" name="어름치" />
+	<key id="33040045" class="material" name="(경품) 어름치" />
+	<key id="33040046" class="material" name="버들치" />
+	<key id="33040047" class="material" name="(경품) 버들치" />
+	<key id="33040048" class="material" name="리프피쉬" />
+	<key id="33040049" class="material" name="(경품) 리프피쉬" />
+	<key id="33040050" class="material" name="참붕어" />
+	<key id="33040051" class="material" name="(경품) 참붕어" />
+	<key id="33040052" class="material" name="비단잉어" />
+	<key id="33040053" class="material" name="(경품) 비단잉어" />
+	<key id="33040054" class="material" name="백삼색 비단잉어" />
+	<key id="33040055" class="material" name="(경품) 백삼색 비단잉어" />
+	<key id="33040056" class="material" name="백별광 비단잉어" />
+	<key id="33040057" class="material" name="(경품) 백별광 비단잉어" />
+	<key id="33040058" class="material" name="금빛 비단잉어" />
+	<key id="33040059" class="material" name="(경품) 금빛 비단잉어" />
+	<key id="33040060" class="material" name="모토로담수가오리" />
+	<key id="33040061" class="material" name="(경품) 모토로담수가오리" />
+	<key id="33040062" class="material" name="철갑상어" />
+	<key id="33040063" class="material" name="(경품) 철갑상어" />
+	<key id="33040064" class="material" name="뱀장어" />
+	<key id="33040065" class="material" name="(경품) 뱀장어" />
+	<key id="33040066" class="material" name="능글돔" />
+	<key id="33040067" class="material" name="(경품) 능글돔" />
+	<key id="33040068" class="material" name="스타 새침이" />
+	<key id="33040069" class="material" name="(경품) 스타 새침이" />
+	<key id="33040070" class="material" name="플라이아이돔" />
+	<key id="33040071" class="material" name="(경품) 플라이아이돔" />
+	<key id="33040072" class="material" name="근위어" />
+	<key id="33040073" class="material" name="(경품) 근위어" />
+	<key id="33040074" class="material" name="브로콜터틀" />
+	<key id="33040075" class="material" name="(경품) 브로콜터틀" />
+	<key id="33040076" class="material" name="앤트실러캔스" />
+	<key id="33040077" class="material" name="(경품) 앤트실러캔스" />
+	<key id="33040078" class="material" name="기계 상어" />
+	<key id="33040079" class="material" name="(경품) 기계 상어" />
+	<key id="33040080" class="material" name="블루 젤리 새우" />
+	<key id="33040081" class="material" name="(경품) 블루 젤리 새우" />
+	<key id="33040082" class="material" name="울어" />
+	<key id="33040083" class="material" name="(경품) 울어" />
+	<key id="33040084" class="material" name="개구리밥" />
+	<key id="33040085" class="material" name="(경품) 개구리밥" />
+	<key id="33040086" class="material" name="황쏘가리" />
+	<key id="33040087" class="material" name="(경품) 황쏘가리" />
+	<key id="33040088" class="material" name="부레옥잠" />
+	<key id="33040089" class="material" name="(경품) 부레옥잠" />
+	<key id="33040090" class="material" name="프레쉬 리프 밍" />
+	<key id="33040091" class="material" name="(경품) 프레쉬 리프 밍" />
+	<key id="33040092" class="material" name="블루밍 플라워 망" />
+	<key id="33040093" class="material" name="(경품) 블루밍 플라워 망" />
+	<key id="33040094" class="material" name="블루밍 플라워 몽" />
+	<key id="33040095" class="material" name="(경품) 블루밍 플라워 몽" />
+	<key id="33040096" class="material" name="블루 리프 젤리피쉬" />
+	<key id="33040097" class="material" name="(경품) 블루 리프 젤리피쉬" />
+	<key id="33040098" class="material" name="핑크 리프 젤리피쉬" />
+	<key id="33040099" class="material" name="(경품) 핑크 리프 젤리피쉬" />
+	<key id="33040100" class="material" name="활어" />
+	<key id="33040101" class="material" name="(경품) 활어" />
+	<key id="33040102" class="material" name="블루 엔젤 피쉬" />
+	<key id="33040103" class="material" name="(경품) 블루 엔젤 피쉬" />
+	<key id="33040104" class="material" name="분홍 점박이 해파리" />
+	<key id="33040105" class="material" name="(경품) 분홍 점박이 해파리" />
+	<key id="33040106" class="material" name="은행잎 가오리" />
+	<key id="33040107" class="material" name="(경품) 은행잎 가오리" />
+	<key id="33040108" class="material" name="슬라임 피쉬" />
+	<key id="33040109" class="material" name="(경품) 슬라임 피쉬" />
+	<key id="33040110" class="material" name="보석 물고기" />
+	<key id="33040111" class="material" name="(경품) 보석 물고기" />
+	<key id="33040112" class="material" name="보보스마스" />
+	<key id="33040113" class="material" name="(경품) 보보스마스" />
+	<key id="33040114" class="material" name="블랙 나비고기" />
+	<key id="33040115" class="material" name="(경품) 블랙 나비고기" />
+	<key id="33040116" class="material" name="새들버터플라이피쉬" />
+	<key id="33040117" class="material" name="(경품) 새들버터플라이피쉬" />
+	<key id="33040118" class="material" name="나비돔" />
+	<key id="33040119" class="material" name="(경품) 나비돔" />
+	<key id="33040120" class="material" name="돌돔" />
+	<key id="33040121" class="material" name="(경품) 돌돔" />
+	<key id="33040122" class="material" name="감성돔" />
+	<key id="33040123" class="material" name="(경품) 감성돔" />
+	<key id="33040124" class="material" name="황돔" />
+	<key id="33040125" class="material" name="(경품) 황돔" />
+	<key id="33040126" class="material" name="둥글돔" />
+	<key id="33040127" class="material" name="(경품) 둥글돔" />
+	<key id="33040128" class="material" name="가시복" />
+	<key id="33040129" class="material" name="(경품) 가시복" />
+	<key id="33040130" class="material" name="까치복" />
+	<key id="33040131" class="material" name="(경품) 까치복" />
+	<key id="33040132" class="material" name="복어" />
+	<key id="33040133" class="material" name="(경품) 복어" />
+	<key id="33040134" class="material" name="돌고래" />
+	<key id="33040135" class="material" name="(경품) 돌고래" />
+	<key id="33040136" class="material" name="범고래" />
+	<key id="33040137" class="material" name="(경품) 범고래" />
+	<key id="33040138" class="material" name="혹등고래" />
+	<key id="33040139" class="material" name="(경품) 혹등고래" />
+	<key id="33040140" class="material" name="가오리" />
+	<key id="33040141" class="material" name="(경품) 가오리" />
+	<key id="33040142" class="material" name="백상아리" />
+	<key id="33040143" class="material" name="(경품) 백상아리" />
+	<key id="33040144" class="material" name="청상아리" />
+	<key id="33040145" class="material" name="(경품) 청상아리" />
+	<key id="33040146" class="material" name="고래상어" />
+	<key id="33040147" class="material" name="(경품) 고래상어" />
+	<key id="33040148" class="material" name="귀상어" />
+	<key id="33040149" class="material" name="(경품) 귀상어" />
+	<key id="33040150" class="material" name="고등어" />
+	<key id="33040151" class="material" name="(경품) 고등어" />
+	<key id="33040152" class="material" name="날치" />
+	<key id="33040153" class="material" name="(경품) 날치" />
+	<key id="33040154" class="material" name="갈치" />
+	<key id="33040155" class="material" name="(경품) 갈치" />
+	<key id="33040156" class="material" name="가다랑어" />
+	<key id="33040157" class="material" name="(경품) 가다랑어" />
+	<key id="33040158" class="material" name="동갈민어" />
+	<key id="33040159" class="material" name="(경품) 동갈민어" />
+	<key id="33040160" class="material" name="숭어" />
+	<key id="33040161" class="material" name="(경품) 숭어" />
+	<key id="33040162" class="material" name="청새치" />
+	<key id="33040163" class="material" name="(경품) 청새치" />
+	<key id="33040164" class="material" name="멸치" />
+	<key id="33040165" class="material" name="(경품) 멸치" />
+	<key id="33040166" class="material" name="도루묵" />
+	<key id="33040167" class="material" name="(경품) 도루묵" />
+	<key id="33040168" class="material" name="갑오징어" />
+	<key id="33040169" class="material" name="(경품) 갑오징어" />
+	<key id="33040170" class="material" name="오징어" />
+	<key id="33040171" class="material" name="(경품) 오징어" />
+	<key id="33040172" class="material" name="문어" />
+	<key id="33040173" class="material" name="(경품) 문어" />
+	<key id="33040174" class="material" name="전갱이" />
+	<key id="33040175" class="material" name="(경품) 전갱이" />
+	<key id="33040176" class="material" name="정어리" />
+	<key id="33040177" class="material" name="(경품) 정어리" />
+	<key id="33040178" class="material" name="방어" />
+	<key id="33040179" class="material" name="(경품) 방어" />
+	<key id="33040180" class="material" name="눈퉁바리" />
+	<key id="33040181" class="material" name="(경품) 눈퉁바리" />
+	<key id="33040182" class="material" name="다금바리" />
+	<key id="33040183" class="material" name="(경품) 다금바리" />
+	<key id="33040184" class="material" name="가자미" />
+	<key id="33040185" class="material" name="(경품) 가자미" />
+	<key id="33040186" class="material" name="쥐치" />
+	<key id="33040187" class="material" name="(경품) 쥐치" />
+	<key id="33040188" class="material" name="소라게" />
+	<key id="33040189" class="material" name="(경품) 소라게" />
+	<key id="33040190" class="material" name="바닷가재" />
+	<key id="33040191" class="material" name="(경품) 바닷가재" />
+	<key id="33040192" class="material" name="보리새우" />
+	<key id="33040193" class="material" name="(경품) 보리새우" />
+	<key id="33040194" class="material" name="꽃게" />
+	<key id="33040195" class="material" name="(경품) 꽃게" />
+	<key id="33040196" class="material" name="해마" />
+	<key id="33040197" class="material" name="(경품) 해마" />
+	<key id="33040198" class="material" name="바다거북" />
+	<key id="33040199" class="material" name="(경품) 바다거북" />
+	<key id="33040200" class="material" name="팬더그루퍼" />
+	<key id="33040201" class="material" name="(경품) 팬더그루퍼" />
+	<key id="33040202" class="material" name="짱뚱어" />
+	<key id="33040203" class="material" name="(경품) 짱뚱어" />
+	<key id="33040204" class="material" name="노래미" />
+	<key id="33040205" class="material" name="(경품) 노래미" />
+	<key id="33040206" class="material" name="우럭" />
+	<key id="33040207" class="material" name="(경품) 우럭" />
+	<key id="33040208" class="material" name="해삼" />
+	<key id="33040209" class="material" name="(경품) 해삼" />
+	<key id="33040210" class="material" name="성게" />
+	<key id="33040211" class="material" name="(경품) 성게" />
+	<key id="33040212" class="material" name="푸른 불가사리" />
+	<key id="33040213" class="material" name="(경품) 푸른 불가사리" />
+	<key id="33040214" class="material" name="불가사리" />
+	<key id="33040215" class="material" name="(경품) 불가사리" />
+	<key id="33040216" class="material" name="해파리" />
+	<key id="33040217" class="material" name="(경품) 해파리" />
+	<key id="33040218" class="material" name="개불" />
+	<key id="33040219" class="material" name="(경품) 개불" />
+	<key id="33040220" class="material" name="나팔고둥" />
+	<key id="33040221" class="material" name="(경품) 나팔고둥" />
+	<key id="33040222" class="material" name="미역" />
+	<key id="33040223" class="material" name="(경품) 미역" />
+	<key id="33040224" class="material" name="볼락" />
+	<key id="33040225" class="material" name="(경품) 볼락" />
+	<key id="33040226" class="material" name="전복" />
+	<key id="33040227" class="material" name="(경품) 전복" />
+	<key id="33040228" class="material" name="멍게" />
+	<key id="33040229" class="material" name="(경품) 멍게" />
+	<key id="33040230" class="material" name="가리비" />
+	<key id="33040231" class="material" name="(경품) 가리비" />
+	<key id="33040232" class="material" name="바지락" />
+	<key id="33040233" class="material" name="(경품) 바지락" />
+	<key id="33040234" class="material" name="홍합" />
+	<key id="33040235" class="material" name="(경품) 홍합" />
+	<key id="33040236" class="material" name="진주조개" />
+	<key id="33040237" class="material" name="(경품) 진주조개" />
+	<key id="33040238" class="material" name="뱅코다일" />
+	<key id="33040239" class="material" name="(경품) 뱅코다일" />
+	<key id="33040240" class="material" name="마스카스" />
+	<key id="33040241" class="material" name="(경품) 마스카스" />
+	<key id="33040242" class="material" name="핑크 옥토퍼스" />
+	<key id="33040243" class="material" name="(경품) 핑크 옥토퍼스" />
+	<key id="33040244" class="material" name="프리즈너스" />
+	<key id="33040245" class="material" name="(경품) 프리즈너스" />
+	<key id="33040246" class="material" name="초롱 아귀" />
+	<key id="33040247" class="material" name="(경품) 초롱 아귀" />
+	<key id="33040248" class="material" name="초랑어" />
+	<key id="33040249" class="material" name="(경품) 초랑어" />
+	<key id="33040250" class="material" name="별사탕 꽃게" />
+	<key id="33040251" class="material" name="(경품) 별사탕 꽃게" />
+	<key id="33040252" class="material" name="찌리릿 하트가오리" />
+	<key id="33040253" class="material" name="(경품) 찌리릿 하트가오리" />
+	<key id="33040254" class="material" name="꽃길 우파루파" />
+	<key id="33040255" class="material" name="(경품) 꽃길 우파루파" />
+	<key id="33040256" class="material" name="성난 피라니아" />
+	<key id="33040257" class="material" name="(경품) 성난 피라니아" />
+	<key id="33040258" class="material" name="핫뜨가오리" />
+	<key id="33040259" class="material" name="(경품) 핫뜨가오리" />
+	<key id="33040260" class="material" name="불고래상어" />
+	<key id="33040261" class="material" name="(경품) 불고래상어" />
+	<key id="33040262" class="material" name="용암배스" />
+	<key id="33040263" class="material" name="(경품) 용암배스" />
+	<key id="33040264" class="material" name="타오르는 진주" />
+	<key id="33040265" class="material" name="(경품) 타오르는 진주" />
+	<key id="33040266" class="material" name="홍미역" />
+	<key id="33040267" class="material" name="(경품) 홍미역" />
+	<key id="33040268" class="material" name="핫복어" />
+	<key id="33040269" class="material" name="(경품) 핫복어" />
+	<key id="33040270" class="material" name="쥐치미" />
+	<key id="33040271" class="material" name="(경품) 쥐치미" />
+	<key id="33040272" class="material" name="플레임그루퍼" />
+	<key id="33040273" class="material" name="(경품) 플레임그루퍼" />
+	<key id="33040274" class="material" name="홍도루묵" />
+	<key id="33040275" class="material" name="(경품) 홍도루묵" />
+	<key id="33040276" class="material" name="따끈하게" />
+	<key id="33040277" class="material" name="(경품) 따끈하게" />
+	<key id="33040278" class="material" name="홍납줄개" />
+	<key id="33040279" class="material" name="(경품) 홍납줄개" />
+	<key id="33040280" class="material" name="파이어리" />
+	<key id="33040281" class="material" name="(경품) 파이어리" />
+	<key id="33040282" class="material" name="톱상아리" />
+	<key id="33040283" class="material" name="(경품) 톱상아리" />
+	<key id="33040284" class="material" name="홍새치" />
+	<key id="33040285" class="material" name="(경품) 홍새치" />
+	<key id="33040286" class="material" name="데빌 해마" />
+	<key id="33040287" class="material" name="(경품) 데빌 해마" />
+	<key id="33040288" class="material" name="발리아" />
+	<key id="33040289" class="material" name="(경품) 발리아" />
+	<key id="33040290" class="material" name="피라트" />
+	<key id="33040291" class="material" name="(경품) 피라트" />
+	<key id="33040292" class="material" name="파라오 해마" />
+	<key id="33040293" class="material" name="(경품) 파라오 해마" />
+	<key id="33040294" class="material" name="마그마 하태어" />
+	<key id="33040295" class="material" name="(경품) 마그마 하태어" />
+	<key id="33040296" class="material" name="이그리밥" />
+	<key id="33040297" class="material" name="(경품) 이그리밥" />
+	<key id="33040298" class="material" name="라바 돔" />
+	<key id="33040299" class="material" name="(경품) 라바 돔" />
+	<key id="33040300" class="material" name="블러디 핀붐" />
+	<key id="33040301" class="material" name="(경품) 블러디 핀붐" />
+	<key id="33040302" class="material" name="핫 아이" />
+	<key id="33040303" class="material" name="(경품) 핫 아이" />
+	<key id="33040304" class="material" name="퍼플 크랩" />
+	<key id="33040305" class="material" name="(경품) 퍼플 크랩" />
+	<key id="33040306" class="material" name="" />
+	<key id="33040307" class="material" name="" />
+	<key id="33040308" class="material" name="데빌 우파루파" />
+	<key id="33040309" class="material" name="(경품) 데빌 우파루파" />
+	<key id="33040310" class="material" name="푸른등고래" />
+	<key id="33040311" class="material" name="(경품) 푸른등고래" />
+	<key id="33040312" class="material" name="" />
+	<key id="33040313" class="material" name="" />
+	<key id="33040314" class="material" name="엔젤 해마" />
+	<key id="33040315" class="material" name="(경품) 엔젤 해마" />
+	<key id="33040316" class="material" name="서전 아이" />
+	<key id="33040317" class="material" name="(경품) 서전 아이" />
+	<key id="33040318" class="material" name="데빌 슬라임 피쉬" />
+	<key id="33040319" class="material" name="(경품) 데빌 슬라임 피쉬" />
+	<key id="33040320" class="material" name="고스트 피쉬" />
+	<key id="33040321" class="material" name="(경품) 고스트 피쉬" />
+	<key id="33040322" class="material" name="블랙 블로브 피쉬" />
+	<key id="33040323" class="material" name="(경품) 블랙 블로브 피쉬" />
+	<key id="33040324" class="material" name="블랙 타이거 새우" />
+	<key id="33040325" class="material" name="(경품) 블랙 타이거 새우" />
+	<key id="33040326" class="material" name="침식된 에네르 쉘" />
+	<key id="33040327" class="material" name="(경품) 침식된 에네르 쉘" />
+	<key id="33040328" class="material" name="침식된 에네르 콘치" />
+	<key id="33040329" class="material" name="(경품) 침식된 에네르 콘치" />
+	<key id="33040330" class="material" name="침식된 에네르 스팅레이" />
+	<key id="33040331" class="material" name="(경품) 침식된 에네르 스팅레이" />
+	<key id="33040332" class="material" name="둥글독" />
+	<key id="33040333" class="material" name="(경품) 둥글독" />
+	<key id="33040334" class="material" name="가물가물치" />
+	<key id="33040335" class="material" name="(경품) 가물가물치" />
+	<key id="33040336" class="material" name="늪지 가재" />
+	<key id="33040337" class="material" name="(경품) 늪지 가재" />
+	<key id="33040338" class="material" name="갯바지락" />
+	<key id="33040339" class="material" name="(경품) 갯바지락" />
+	<key id="33040340" class="material" name="독가사리" />
+	<key id="33040341" class="material" name="(경품) 독가사리" />
+	<key id="33040342" class="material" name="녹민어" />
+	<key id="33040343" class="material" name="(경품) 녹민어" />
+	<key id="33040344" class="material" name="퉁퉁바리" />
+	<key id="33040345" class="material" name="(경품) 퉁퉁바리" />
+	<key id="33040346" class="material" name="어리바리" />
+	<key id="33040347" class="material" name="(경품) 어리바리" />
+	<key id="33040348" class="material" name="독나비돔" />
+	<key id="33040349" class="material" name="(경품) 독나비돔" />
+	<key id="33040350" class="material" name="초록 오징어" />
+	<key id="33040351" class="material" name="(경품) 초록 오징어" />
+	<key id="33040352" class="material" name="톡자미" />
+	<key id="33040353" class="material" name="(경품) 톡자미" />
+	<key id="33040354" class="material" name="뭉게멍게" />
+	<key id="33040355" class="material" name="(경품) 뭉게멍게" />
+	<key id="33040356" class="material" name="황고둥" />
+	<key id="33040357" class="material" name="(경품) 황고둥" />
+	<key id="33040358" class="material" name="녹합" />
+	<key id="33040359" class="material" name="(경품) 녹합" />
+	<key id="33040360" class="material" name="포이즌 리프" />
+	<key id="33040361" class="material" name="(경품) 포이즌 리프" />
+	<key id="33040362" class="material" name="새드리틀피쉬" />
+	<key id="33040363" class="material" name="(경품) 새드리틀피쉬" />
+	<key id="33040364" class="material" name="맹독 문어" />
+	<key id="33040365" class="material" name="(경품) 맹독 문어" />
+	<key id="33040366" class="material" name="싱숭생숭어" />
+	<key id="33040367" class="material" name="(경품) 싱숭생숭어" />
+	<key id="33040368" class="material" name="오묘한 짱뚱어" />
+	<key id="33040369" class="material" name="(경품) 오묘한 짱뚱어" />
+	<key id="33040370" class="material" name="울그락 볼락" />
+	<key id="33040371" class="material" name="(경품) 울그락 볼락" />
+	<key id="33040372" class="material" name="플로리 퐁퐁" />
+	<key id="33040373" class="material" name="(경품) 플로리 퐁퐁" />
+	<key id="33040374" class="material" name="독 청새치" />
+	<key id="33040375" class="material" name="(경품) 독 청새치" />
+	<key id="33040376" class="material" name="독 전복" />
+	<key id="33040377" class="material" name="(경품) 독 전복" />
+	<key id="33040378" class="material" name="독 메기" />
+	<key id="33040379" class="material" name="(경품) 독 메기" />
+	<key id="33040380" class="material" name="포이즌 아이" />
+	<key id="33040381" class="material" name="(경품) 포이즌 아이" />
+	<key id="33040382" class="material" name="독 거북손" />
+	<key id="33040383" class="material" name="(경품) 독 거북손" />
+	<key id="33040384" class="material" name="핀붐" />
+	<key id="33040385" class="material" name="(경품) 핀붐" />
+	<key id="33040386" class="material" name="쏘우 헤드" />
+	<key id="33040387" class="material" name="(경품) 쏘우 헤드" />
+	<key id="33040388" class="material" name="테일 헤드" />
+	<key id="33040389" class="material" name="(경품) 테일 헤드" />
+	<key id="33040390" class="material" name="나프타 소라게" />
+	<key id="33040391" class="material" name="(경품) 나프타 소라게" />
+	<key id="33040392" class="material" name="피크리치" />
+	<key id="33040393" class="material" name="(경품) 피크리치" />
+	<key id="33040394" class="material" name="기름 가리비" />
+	<key id="33040395" class="material" name="(경품) 기름 가리비" />
+	<key id="33040396" class="material" name="오일 쉬림프" />
+	<key id="33040397" class="material" name="(경품) 오일 쉬림프" />
+	<key id="33040398" class="material" name="오일젤리피쉬" />
+	<key id="33040399" class="material" name="(경품) 오일젤리피쉬" />
+	<key id="33040400" class="material" name="에네르 쉘" />
+	<key id="33040401" class="material" name="(경품) 에네르 쉘" />
+	<key id="33040402" class="material" name="에네르 콘치" />
+	<key id="33040403" class="material" name="(경품) 에네르 콘치" />
+	<key id="33040404" class="material" name="에네르 스팅레이" />
+	<key id="33040405" class="material" name="(경품) 에네르 스팅레이" />
+	<key id="33040406" class="material" name="프릴리아" />
+	<key id="33040407" class="material" name="(경품) 프릴리아" />
+	<key id="33040408" class="material" name="피콕 프릴리아" />
+	<key id="33040409" class="material" name="(경품) 피콕 프릴리아" />
+	<key id="33040410" class="material" name="그리니" />
+	<key id="33040411" class="material" name="(경품) 그리니" />
+	<key id="33040412" class="material" name="부끄러어" />
+	<key id="33040413" class="material" name="(경품) 부끄러어" />
+	<key id="33040414" class="material" name="우아해어" />
+	<key id="33040415" class="material" name="(경품) 우아해어" />
+	<key id="33040416" class="material" name="무지개 해마" />
+	<key id="33040417" class="material" name="(경품) 무지개 해마" />
+	<key id="33040418" class="material" name="캐슬 피쉬" />
+	<key id="33040419" class="material" name="(경품) 캐슬 피쉬" />
+	<key id="33040420" class="material" name="황금 송사리" />
+	<key id="33040421" class="material" name="(경품) 황금 송사리" />
+	<key id="33040422" class="material" name="황금 미역" />
+	<key id="33040423" class="material" name="(경품) 황금 미역" />
+	<key id="33040424" class="material" name="황금 문어" />
+	<key id="33040425" class="material" name="(경품) 황금 문어" />
+	<key id="33040426" class="material" name="황금 돔" />
+	<key id="33040427" class="material" name="(경품) 황금 돔" />
+	<key id="33040428" class="material" name="황금 소라" />
+	<key id="33040429" class="material" name="(경품) 황금 소라" />
+	<key id="33040430" class="material" name="황금 불가사리" />
+	<key id="33040431" class="material" name="(경품) 황금 불가사리" />
+	<key id="33040432" class="material" name="황금 가재" />
+	<key id="33040433" class="material" name="(경품) 황금 가재" />
+	<key id="33040434" class="material" name="황금 전복" />
+	<key id="33040435" class="material" name="(경품) 황금 전복" />
+	<key id="33040436" class="material" name="황금 거북이" />
+	<key id="33040437" class="material" name="(경품) 황금 거북이" />
+	<key id="33040438" class="material" name="황금 해마" />
+	<key id="33040439" class="material" name="(경품) 황금 해마" />
+	<key id="33040440" class="material" name="황금 조개" />
+	<key id="33040441" class="material" name="(경품) 황금 조개" />
+	<key id="33040442" class="material" name="황금 고래" />
+	<key id="33040443" class="material" name="(경품) 황금 고래" />
+	<key id="33040444" class="material" name="빛나는 황금 송사리" />
+	<key id="33040445" class="material" name="(경품) 빛나는 황금 송사리" />
+	<key id="33040446" class="material" name="빛나는 황금 미역" />
+	<key id="33040447" class="material" name="(경품) 빛나는 황금 미역" />
+	<key id="33040448" class="material" name="빛나는 황금 문어" />
+	<key id="33040449" class="material" name="(경품) 빛나는 황금 문어" />
+	<key id="33040450" class="material" name="빛나는 황금 돔" />
+	<key id="33040451" class="material" name="(경품) 빛나는 황금 돔" />
+	<key id="33040452" class="material" name="빛나는 황금 소라" />
+	<key id="33040453" class="material" name="(경품) 빛나는 황금 소라" />
+	<key id="33040454" class="material" name="빛나는 황금 불가사리" />
+	<key id="33040455" class="material" name="(경품) 빛나는 황금 불가사리" />
+	<key id="33040456" class="material" name="빛나는 황금 가재" />
+	<key id="33040457" class="material" name="(경품) 빛나는 황금 가재" />
+	<key id="33040458" class="material" name="빛나는 황금 전복" />
+	<key id="33040459" class="material" name="(경품) 빛나는 황금 전복" />
+	<key id="33040460" class="material" name="빛나는 황금 거북이" />
+	<key id="33040461" class="material" name="(경품) 빛나는 황금 거북이" />
+	<key id="33040462" class="material" name="빛나는 황금 해마" />
+	<key id="33040463" class="material" name="(경품) 빛나는 황금 해마" />
+	<key id="33040464" class="material" name="빛나는 황금 조개" />
+	<key id="33040465" class="material" name="(경품) 빛나는 황금 조개" />
+	<key id="33040466" class="material" name="빛나는 황금 고래" />
+	<key id="33040467" class="material" name="(경품) 빛나는 황금 고래" />
+	<key id="33040468" class="material" name="에네르 쉘" />
+	<key id="33040469" class="material" name="(경품) 에네르 쉘" />
+	<key id="33040470" class="material" name="에네르 콘치" />
+	<key id="33040471" class="material" name="(경품) 에네르 콘치" />
+	<key id="33040472" class="material" name="에네르 스팅레이" />
+	<key id="33040473" class="material" name="(경품) 에네르 스팅레이" />
 	<key id="34000001" class="instrument" name="연습용 디지털 피아노" />
 	<key id="34000002" class="instrument" name="연습용 어쿠스틱 기타" />
 	<key id="34000003" class="instrument" name="연습용 디지털 피아노" />

@@ -504,7 +504,7 @@
 	<key id="10000507" name="Supreme Package Buyer" locale="CN" />
 	<key id="10000508" name="Survivor" feature="SurvivalContents03" />
 	<key id="10000509" name="Ultimate Survivor" feature="SurvivalContents03" />
-	<key id="10000510" name="TITLENAME_10000510_NAME" />
+	<key id="10000510" name="Messenger of Love" />
 	<key id="10000511" name="Honorary Mushtopian" feature="SurvivalContents01" />
 	<key id="10000512" name="Ishura Vanquisher" />
 	<key id="10000513" name="Landevian Vanquisher" />
@@ -749,7 +749,7 @@
 	<key id="10000759" name="Visited the Museum" feature="Event" locale="KR" />
 	<key id="10000760" name="Bright Sunshine" feature="Event" locale="CN" />
 	<key id="10000761" name="Time-Warped" feature="Event" />
-	<key id="10000762" name="Shared the 4th Anniversary" feature="Event" locale="KR" />
+	<key id="10000762" name="4th Anniversary Reveler" feature="Event" locale="KR" />
 	<key id="10000763" name="Ducky&apos;s Soulmate" feature="Event" />
 	<key id="10000765" name="Ultimate Weapon" feature="Kritias_Turka01" />
 	<key id="10000766" name="Giant Destroyer" feature="Kritias_Turka02" />
@@ -769,7 +769,7 @@
 	<key id="10000781" name="Marlene&apos;s Will" feature="Fame_Geo01" />
 	<key id="10000784" name="Matos VIP Customer" locale="CN" />
 	<key id="10000785" name="Shared the 2nd Anniversary" feature="Event" locale="CN" />
-	<key id="10000786" name="TITLENAME_10000786_NAME:[F]Event" feature="Event" />
+	<key id="10000786" name="A.I" feature="Event" />
 	<key id="10000787" name="Royal Darkness" locale="CN" />
 	<key id="10000788" name="More Startled Than Meow" feature="Event" />
 	<key id="10000788" name="Wampus Wrangler" feature="Event" locale="NA" />
@@ -830,17 +830,59 @@
 	<key id="10000840" name="Cupid of Love" feature="Event" locale="CN" />
 	<key id="10000841" name="Wants to Know the Truth" feature="EpicApocalypse01" />
 	<key id="10000842" name="Worried" feature="EpicApocalypse01" />
-	<key id="10000843" name="Wanderer in Illusions" feature="EpicApocalypse01" />
-	<key id="10000844" name="Crossing the Line" feature="EpicApocalypse01" />
+	<key id="10000843" name="Illusion Wanderer" feature="EpicApocalypse01" />
+	<key id="10000844" name="Line Crosser" feature="EpicApocalypse01" />
 	<key id="10000847" name="Master of Wits" feature="Event" locale="CN" />
 	<key id="10000848" name="Ace Adventurer" />
 	<key id="10000851" name="Crown Guard" feature="Event" locale="NA" />
 	<key id="10000852" name="Crown Gladiator" feature="Event" locale="NA" />
 	<key id="10000853" name="Crown Champion" feature="Event" locale="NA" />
 	<key id="10000854" name="Best Challenger" />
-	<key id="10000855" name="Shared the 5th Anniversary" feature="Event" locale="KR" />
-	<key id="10000856" name="Diligent Duckyball" feature="Event" />
-	<key id="10000857" name="Filled with Starlight" />
+	<key id="10000855" name="5th Anniversary Reveler" feature="Event" locale="KR" />
+	<key id="10000856" name="Faithful Ducky Ball" feature="Event" />
+	<key id="10000857" name="Full of Starlight" />
 	<key id="10000858" name="Nao&apos;s Friend" locale="KR" />
-	<key id="10000859" name="Caught Nao in One Shot" locale="KR" />
+	<key id="10000859" name="Nao Wrangler" locale="KR" />
+	<key id="10000860" name="Famous Dancer from Erin" locale="KR" />
+	<key id="10000861" name="6th Anniversary Well Wisher" feature="Event" />
+	<key id="10000862" name="Ding Dong" />
+	<key id="10000863" name="Marimbeast" />
+	<key id="10000864" name="Clear" />
+	<key id="10000865" name="Flutist" />
+	<key id="10000866" name="Doll Whisperer" />
+	<key id="10000867" name="Doll&apos;s Guest" />
+	<key id="10000868" name="Doll Pursuer" />
+	<key id="10000869" name="4주년을 함께한" feature="Event" locale="CN" />
+	<key id="10000870" name="Baki&apos;s Soulmate" feature="Event" />
+	<key id="10000871" name="Cozy Cotton Ball" feature="Event" />
+	<key id="10000872" name="Blue Flame Apprentice" feature="Event" />
+	<key id="10000873" name="Blue Flame Master" feature="Event" />
+	<key id="10000874" name="Fire Suppression Expert" feature="Event" />
+	<key id="10000875" name="Hotter Than Blue Fire" feature="DungeonOS01" />
+	<key id="10000876" name="Blue Furnace" feature="DungeonOS01" />
+	<key id="10000877" name="Blue Rook Expert" feature="DungeonOS01" />
+	<key id="10000878" name="Shaved Ice Mania" feature="DungeonOS01" />
+	<key id="10000879" name="Chosen Winner" feature="Event" />
+	<key id="10000880" name="Heart Piercer" feature="Event" />
+	<key id="10000881" name="Competitive" feature="Event" />
+	<key id="10000882" name="Black Tiger Spirit" />
+	<key id="10000883" name="2022.2.22" />
+	<key id="10000884" name="Mansion Predator" />
+	<key id="10000885" name="Stage Star" feature="DungeonOS04" />
+	<key id="10000886" name="Stage Dominator" feature="DungeonOS04" />
+	<key id="10000887" name="Protagonist" feature="DungeonOS04" />
+	<key id="10000888" name="Groovy" feature="DungeonOS04" />
+	<key id="10000889" name="Simple" feature="DungeonOS04" />
+	<key id="10000890" name="Vocally Challenged" feature="DungeonOS04" />
+	<key id="10000891" name="777th Anniversary!" feature="Event" locale="KR" />
+	<key id="10000892" name="Ducky FireFighter" feature="Event" />
+	<key id="10000893" name="Mind Reader" feature="Event" />
+	<key id="10000894" name="Harmonious Partner" feature="Event" />
+	<key id="10000895" name="Unafraid of Defeat" feature="Event" />
+	<key id="10000896" name="Christmas Dancing Machine" feature="Event" />
+	<key id="10000897" name="Merry Merry" />
+	<key id="10000898" name="Me in 23 years" />
+	<key id="10000899" name="Forseer of the Future" feature="Event" />
+	<key id="10000900" name="Matching Pair" feature="Event" />
+	<key id="10000901" name="True Enjoyer" feature="Event" />
 </ms2>

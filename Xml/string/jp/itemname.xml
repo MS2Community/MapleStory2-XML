@@ -248,6 +248,7 @@
 	<key id="10200250" class="hair" name="プチテールカーリングヘア" />
 	<key id="10200251" class="hair" name="ITEMNAME_10200251_NAME:[F]Develop" feature="Develop" />
 	<key id="10200252" class="hair" name="自由コンセプトヘア4(男)" feature="Develop" />
+	<key id="10200252" name="ウィンドシャギーロングヘア" />
 	<key id="10200253" class="hair" name="モンキーボーイッシュヘア" />
 	<key id="10200254" class="hair" name="モンキーボーイッシュヘア" />
 	<key id="10200255" class="hair" name="アーバンピュアボーイヘア" />
@@ -29714,6 +29715,476 @@
 	<key id="33030059" class="consume" name="レシピ用染料" feature="TradingMasteryRecipe" />
 	<key id="33030060" class="consume" name="レシピ用板" feature="TradingMasteryRecipe" />
 	<key id="33030061" class="consume" name="レシピ用ネジ" feature="TradingMasteryRecipe" />
+	<key id="33040000" class="material" name="フナ" />
+	<key id="33040001" class="material" name="(景品) フナ" />
+	<key id="33040002" class="material" name="ゲンゴロウブナ" />
+	<key id="33040003" class="material" name="(景品) ゲンゴロウブナ" />
+	<key id="33040004" class="material" name="ピラニア" />
+	<key id="33040005" class="material" name="(景品) ピラニア" />
+	<key id="33040006" class="material" name="カゼトゲタナゴ" />
+	<key id="33040007" class="material" name="(景品) カゼトゲタナゴ" />
+	<key id="33040008" class="material" name="コウライヒガイ" />
+	<key id="33040009" class="material" name="(景品) コウライヒガイ" />
+	<key id="33040010" class="material" name="セマダラドンコ" />
+	<key id="33040011" class="material" name="(景品) セマダラドンコ" />
+	<key id="33040012" class="material" name="ヤマメ" />
+	<key id="33040013" class="material" name="(景品) ヤマメ" />
+	<key id="33040014" class="material" name="メダカ" />
+	<key id="33040015" class="material" name="(景品) メダカ" />
+	<key id="33040016" class="material" name="オイカワ" />
+	<key id="33040017" class="material" name="(景品) オイカワ" />
+	<key id="33040018" class="material" name="ナマズ" />
+	<key id="33040019" class="material" name="(景品) ナマズ" />
+	<key id="33040020" class="material" name="ブルーギル" />
+	<key id="33040021" class="material" name="(景品) ブルーギル" />
+	<key id="33040022" class="material" name="サケ" />
+	<key id="33040023" class="material" name="(景品) サケ" />
+	<key id="33040024" class="material" name="川サケ" />
+	<key id="33040025" class="material" name="(景品) 川サケ" />
+	<key id="33040026" class="material" name="ウーパールーパー" />
+	<key id="33040027" class="material" name="(景品) ウーパールーパー" />
+	<key id="33040028" class="material" name="まだらウーパールーパー" />
+	<key id="33040029" class="material" name="(景品) まだらウーパールーパー" />
+	<key id="33040030" class="material" name="シャコ" />
+	<key id="33040031" class="material" name="(景品) シャコ" />
+	<key id="33040032" class="material" name="縞シャコ" />
+	<key id="33040033" class="material" name="(景品) 縞シャコ" />
+	<key id="33040034" class="material" name="大口バス" />
+	<key id="33040035" class="material" name="(景品) 大口バス" />
+	<key id="33040036" class="material" name="雷魚" />
+	<key id="33040037" class="material" name="(景品) 雷魚" />
+	<key id="33040038" class="material" name="コウライケツギョ" />
+	<key id="33040039" class="material" name="(景品) コウライケツギョ" />
+	<key id="33040040" class="material" name="ドジョウ" />
+	<key id="33040041" class="material" name="(景品) ドジョウ" />
+	<key id="33040042" class="material" name="アジメドジョウ" />
+	<key id="33040043" class="material" name="(景品) アジメドジョウ" />
+	<key id="33040044" class="material" name="ヤガタニゴイ" />
+	<key id="33040045" class="material" name="(景品) ヤガタニゴイ" />
+	<key id="33040046" class="material" name="タカハヤ" />
+	<key id="33040047" class="material" name="(景品) タカハヤ" />
+	<key id="33040048" class="material" name="リーフフィッシュ" />
+	<key id="33040049" class="material" name="(景品) リーフフィッシュ" />
+	<key id="33040050" class="material" name="マフナ" />
+	<key id="33040051" class="material" name="(景品) マフナ" />
+	<key id="33040052" class="material" name="ニシキゴイ" />
+	<key id="33040053" class="material" name="(景品) ニシキゴイ" />
+	<key id="33040054" class="material" name="白三色ニシキゴイ" />
+	<key id="33040055" class="material" name="(景品) 白三色ニシキゴイ" />
+	<key id="33040056" class="material" name="白星光ニシキゴイ" />
+	<key id="33040057" class="material" name="(景品) 白星光ニシキゴイ" />
+	<key id="33040058" class="material" name="金色のニシキゴイ" />
+	<key id="33040059" class="material" name="(景品) 金色のニシキゴイ" />
+	<key id="33040060" class="material" name="ポタモトリゴン・モトロ" />
+	<key id="33040061" class="material" name="(景品) ポタモトリゴン・モトロ" />
+	<key id="33040062" class="material" name="チョウザメ" />
+	<key id="33040063" class="material" name="(景品) チョウザメ" />
+	<key id="33040064" class="material" name="ウナギ" />
+	<key id="33040065" class="material" name="(景品) ウナギ" />
+	<key id="33040066" class="material" name="メデタイ" />
+	<key id="33040067" class="material" name="(景品) メデタイ" />
+	<key id="33040068" class="material" name="スターツンツン" />
+	<key id="33040069" class="material" name="(景品) スターツンツン" />
+	<key id="33040070" class="material" name="アイライアイダイ" />
+	<key id="33040071" class="material" name="(景品) アイライアイダイ" />
+	<key id="33040072" class="material" name="近衛魚" />
+	<key id="33040073" class="material" name="(景品) 近衛魚" />
+	<key id="33040074" class="material" name="ブロコルタートル" />
+	<key id="33040075" class="material" name="(景品) ブロコルタートル" />
+	<key id="33040076" class="material" name="アントシラカンス" />
+	<key id="33040077" class="material" name="(景品) アントシラカンス" />
+	<key id="33040078" class="material" name="機械サメ" />
+	<key id="33040079" class="material" name="(景品) 機械サメ" />
+	<key id="33040080" class="material" name="STRINGFISHNAME_10000041_NAME:[F]Fishing02" />
+	<key id="33040081" class="material" name="(景品) STRINGFISHNAME_10000041_NAME:[F]Fishing02" />
+	<key id="33040082" class="material" name="STRINGFISHNAME_10000042_NAME:[F]Fishing02" />
+	<key id="33040083" class="material" name="(景品) STRINGFISHNAME_10000042_NAME:[F]Fishing02" />
+	<key id="33040084" class="material" name="STRINGFISHNAME_10000043_NAME:[F]Fishing02" />
+	<key id="33040085" class="material" name="(景品) STRINGFISHNAME_10000043_NAME:[F]Fishing02" />
+	<key id="33040086" class="material" name="STRINGFISHNAME_10000044_NAME:[F]Fishing02" />
+	<key id="33040087" class="material" name="(景品) STRINGFISHNAME_10000044_NAME:[F]Fishing02" />
+	<key id="33040088" class="material" name="STRINGFISHNAME_10000045_NAME:[F]Fishing02" />
+	<key id="33040089" class="material" name="(景品) STRINGFISHNAME_10000045_NAME:[F]Fishing02" />
+	<key id="33040090" class="material" name="STRINGFISHNAME_10000046_NAME:[F]Fishing02" />
+	<key id="33040091" class="material" name="(景品) STRINGFISHNAME_10000046_NAME:[F]Fishing02" />
+	<key id="33040092" class="material" name="STRINGFISHNAME_10000047_NAME:[F]Fishing02" />
+	<key id="33040093" class="material" name="(景品) STRINGFISHNAME_10000047_NAME:[F]Fishing02" />
+	<key id="33040094" class="material" name="STRINGFISHNAME_10000048_NAME:[F]Fishing02" />
+	<key id="33040095" class="material" name="(景品) STRINGFISHNAME_10000048_NAME:[F]Fishing02" />
+	<key id="33040096" class="material" name="STRINGFISHNAME_10000049_NAME:[F]Fishing02" />
+	<key id="33040097" class="material" name="(景品) STRINGFISHNAME_10000049_NAME:[F]Fishing02" />
+	<key id="33040098" class="material" name="STRINGFISHNAME_10000050_NAME:[F]Fishing02" />
+	<key id="33040099" class="material" name="(景品) STRINGFISHNAME_10000050_NAME:[F]Fishing02" />
+	<key id="33040100" class="material" name="STRINGFISHNAME_10000051_NAME:[F]Fishing02" />
+	<key id="33040101" class="material" name="(景品) STRINGFISHNAME_10000051_NAME:[F]Fishing02" />
+	<key id="33040102" class="material" name="STRINGFISHNAME_10000052_NAME:[F]Fishing02" />
+	<key id="33040103" class="material" name="(景品) STRINGFISHNAME_10000052_NAME:[F]Fishing02" />
+	<key id="33040104" class="material" name="STRINGFISHNAME_10000053_NAME:[F]Fishing02" />
+	<key id="33040105" class="material" name="(景品) STRINGFISHNAME_10000053_NAME:[F]Fishing02" />
+	<key id="33040106" class="material" name="STRINGFISHNAME_10000054_NAME:[F]Fishing02" />
+	<key id="33040107" class="material" name="(景品) STRINGFISHNAME_10000054_NAME:[F]Fishing02" />
+	<key id="33040108" class="material" name="STRINGFISHNAME_10000055_NAME:[F]Fishing02" />
+	<key id="33040109" class="material" name="(景品) STRINGFISHNAME_10000055_NAME:[F]Fishing02" />
+	<key id="33040110" class="material" name="STRINGFISHNAME_10000056_NAME:[F]Fishing02" />
+	<key id="33040111" class="material" name="(景品) STRINGFISHNAME_10000056_NAME:[F]Fishing02" />
+	<key id="33040112" class="material" name="ボボスマス" />
+	<key id="33040113" class="material" name="(景品) ボボスマス" />
+	<key id="33040114" class="material" name="ブラックチョウチョウウオ" />
+	<key id="33040115" class="material" name="(景品) ブラックチョウチョウウオ" />
+	<key id="33040116" class="material" name="セグロチョウチョウウオ" />
+	<key id="33040117" class="material" name="(景品) セグロチョウチョウウオ" />
+	<key id="33040118" class="material" name="シラコダイ" />
+	<key id="33040119" class="material" name="(景品) シラコダイ" />
+	<key id="33040120" class="material" name="イシダイ" />
+	<key id="33040121" class="material" name="(景品) イシダイ" />
+	<key id="33040122" class="material" name="クロダイ" />
+	<key id="33040123" class="material" name="(景品) クロダイ" />
+	<key id="33040124" class="material" name="キダイ" />
+	<key id="33040125" class="material" name="(景品) キダイ" />
+	<key id="33040126" class="material" name="マルダイ" />
+	<key id="33040127" class="material" name="(景品) マルダイ" />
+	<key id="33040128" class="material" name="ハリセンボン" />
+	<key id="33040129" class="material" name="(景品) ハリセンボン" />
+	<key id="33040130" class="material" name="シマフグ" />
+	<key id="33040131" class="material" name="(景品) シマフグ" />
+	<key id="33040132" class="material" name="フグ" />
+	<key id="33040133" class="material" name="(景品) フグ" />
+	<key id="33040134" class="material" name="イルカ" />
+	<key id="33040135" class="material" name="(景品) イルカ" />
+	<key id="33040136" class="material" name="シャチ" />
+	<key id="33040137" class="material" name="(景品) シャチ" />
+	<key id="33040138" class="material" name="ザトウクジラ" />
+	<key id="33040139" class="material" name="(景品) ザトウクジラ" />
+	<key id="33040140" class="material" name="エイ" />
+	<key id="33040141" class="material" name="(景品) エイ" />
+	<key id="33040142" class="material" name="ホホジロザメ" />
+	<key id="33040143" class="material" name="(景品) ホホジロザメ" />
+	<key id="33040144" class="material" name="アオザメ" />
+	<key id="33040145" class="material" name="(景品) アオザメ" />
+	<key id="33040146" class="material" name="ジンベイザメ" />
+	<key id="33040147" class="material" name="(景品) ジンベイザメ" />
+	<key id="33040148" class="material" name="シュモクザメ" />
+	<key id="33040149" class="material" name="(景品) シュモクザメ" />
+	<key id="33040150" class="material" name="サバ" />
+	<key id="33040151" class="material" name="(景品) サバ" />
+	<key id="33040152" class="material" name="トビウオ" />
+	<key id="33040153" class="material" name="(景品) トビウオ" />
+	<key id="33040154" class="material" name="タチウオ" />
+	<key id="33040155" class="material" name="(景品) タチウオ" />
+	<key id="33040156" class="material" name="カツオ" />
+	<key id="33040157" class="material" name="(景品) カツオ" />
+	<key id="33040158" class="material" name="ニベ" />
+	<key id="33040159" class="material" name="(景品) ニベ" />
+	<key id="33040160" class="material" name="ボラ" />
+	<key id="33040161" class="material" name="(景品) ボラ" />
+	<key id="33040162" class="material" name="マカジキ" />
+	<key id="33040163" class="material" name="(景品) マカジキ" />
+	<key id="33040164" class="material" name="イワシ" />
+	<key id="33040165" class="material" name="(景品) イワシ" />
+	<key id="33040166" class="material" name="ハタハタ" />
+	<key id="33040167" class="material" name="(景品) ハタハタ" />
+	<key id="33040168" class="material" name="甲イカ" />
+	<key id="33040169" class="material" name="(景品) 甲イカ" />
+	<key id="33040170" class="material" name="イカ" />
+	<key id="33040171" class="material" name="(景品) イカ" />
+	<key id="33040172" class="material" name="タコ" />
+	<key id="33040173" class="material" name="(景品) タコ" />
+	<key id="33040174" class="material" name="マアジ" />
+	<key id="33040175" class="material" name="(景品) マアジ" />
+	<key id="33040176" class="material" name="イワシ" />
+	<key id="33040177" class="material" name="(景品) イワシ" />
+	<key id="33040178" class="material" name="ブリ" />
+	<key id="33040179" class="material" name="(景品) ブリ" />
+	<key id="33040180" class="material" name="オオメハタ" />
+	<key id="33040181" class="material" name="(景品) オオメハタ" />
+	<key id="33040182" class="material" name="アラ" />
+	<key id="33040183" class="material" name="(景品) アラ" />
+	<key id="33040184" class="material" name="カレイ" />
+	<key id="33040185" class="material" name="(景品) カレイ" />
+	<key id="33040186" class="material" name="カワハギ" />
+	<key id="33040187" class="material" name="(景品) カワハギ" />
+	<key id="33040188" class="material" name="ヤドカリ" />
+	<key id="33040189" class="material" name="(景品) ヤドカリ" />
+	<key id="33040190" class="material" name="ロブスター" />
+	<key id="33040191" class="material" name="(景品) ロブスター" />
+	<key id="33040192" class="material" name="クルマエビ" />
+	<key id="33040193" class="material" name="(景品) クルマエビ" />
+	<key id="33040194" class="material" name="カニ" />
+	<key id="33040195" class="material" name="(景品) カニ" />
+	<key id="33040196" class="material" name="タツノオトシゴ" />
+	<key id="33040197" class="material" name="(景品) タツノオトシゴ" />
+	<key id="33040198" class="material" name="ウミガメ" />
+	<key id="33040199" class="material" name="(景品) ウミガメ" />
+	<key id="33040200" class="material" name="サラサハタ" />
+	<key id="33040201" class="material" name="(景品) サラサハタ" />
+	<key id="33040202" class="material" name="ムツゴロウ" />
+	<key id="33040203" class="material" name="(景品) ムツゴロウ" />
+	<key id="33040204" class="material" name="クジメ" />
+	<key id="33040205" class="material" name="(景品) クジメ" />
+	<key id="33040206" class="material" name="クロソイ" />
+	<key id="33040207" class="material" name="(景品) クロソイ" />
+	<key id="33040208" class="material" name="ナマコ" />
+	<key id="33040209" class="material" name="(景品) ナマコ" />
+	<key id="33040210" class="material" name="ウニ" />
+	<key id="33040211" class="material" name="(景品) ウニ" />
+	<key id="33040212" class="material" name="アオヒトデ" />
+	<key id="33040213" class="material" name="(景品) アオヒトデ" />
+	<key id="33040214" class="material" name="ヒトデ" />
+	<key id="33040215" class="material" name="(景品) ヒトデ" />
+	<key id="33040216" class="material" name="クラゲ" />
+	<key id="33040217" class="material" name="(景品) クラゲ" />
+	<key id="33040218" class="material" name="ユムシ" />
+	<key id="33040219" class="material" name="(景品) ユムシ" />
+	<key id="33040220" class="material" name="サザエ" />
+	<key id="33040221" class="material" name="(景品) サザエ" />
+	<key id="33040222" class="material" name="ワカメ" />
+	<key id="33040223" class="material" name="(景品) ワカメ" />
+	<key id="33040224" class="material" name="メバル" />
+	<key id="33040225" class="material" name="(景品) メバル" />
+	<key id="33040226" class="material" name="アワビ" />
+	<key id="33040227" class="material" name="(景品) アワビ" />
+	<key id="33040228" class="material" name="ホヤ" />
+	<key id="33040229" class="material" name="(景品) ホヤ" />
+	<key id="33040230" class="material" name="ホタテガイ" />
+	<key id="33040231" class="material" name="(景品) ホタテガイ" />
+	<key id="33040232" class="material" name="アサリ" />
+	<key id="33040233" class="material" name="(景品) アサリ" />
+	<key id="33040234" class="material" name="ムール貝" />
+	<key id="33040235" class="material" name="(景品) ムール貝" />
+	<key id="33040236" class="material" name="真珠貝" />
+	<key id="33040237" class="material" name="(景品) 真珠貝" />
+	<key id="33040238" class="material" name="バンコダイル" />
+	<key id="33040239" class="material" name="(景品) バンコダイル" />
+	<key id="33040240" class="material" name="マスカス" />
+	<key id="33040241" class="material" name="(景品) マスカス" />
+	<key id="33040242" class="material" name="ピンクオクトパス" />
+	<key id="33040243" class="material" name="(景品) ピンクオクトパス" />
+	<key id="33040244" class="material" name="フリーズナス" />
+	<key id="33040245" class="material" name="(景品) フリーズナス" />
+	<key id="33040246" class="material" name="チョウチンアンコウ" />
+	<key id="33040247" class="material" name="(景品) チョウチンアンコウ" />
+	<key id="33040248" class="material" name="チョランギョ" />
+	<key id="33040249" class="material" name="(景品) チョランギョ" />
+	<key id="33040250" class="material" name="金平糖カニ" />
+	<key id="33040251" class="material" name="(景品) 金平糖カニ" />
+	<key id="33040252" class="material" name="ピリピリハートエイ" />
+	<key id="33040253" class="material" name="(景品) ピリピリハートエイ" />
+	<key id="33040254" class="material" name="花道のウーパールーパー" />
+	<key id="33040255" class="material" name="(景品) 花道のウーパールーパー" />
+	<key id="33040256" class="material" name="怒れるピラニア" />
+	<key id="33040257" class="material" name="(景品) 怒れるピラニア" />
+	<key id="33040258" class="material" name="アツアツエイ" />
+	<key id="33040259" class="material" name="(景品) アツアツエイ" />
+	<key id="33040260" class="material" name="ホノオジンベエザメ" />
+	<key id="33040261" class="material" name="(景品) ホノオジンベエザメ" />
+	<key id="33040262" class="material" name="溶岩バス" />
+	<key id="33040263" class="material" name="(景品) 溶岩バス" />
+	<key id="33040264" class="material" name="燃え上がる真珠" />
+	<key id="33040265" class="material" name="(景品) 燃え上がる真珠" />
+	<key id="33040266" class="material" name="ベニワカメ" />
+	<key id="33040267" class="material" name="(景品) ベニワカメ" />
+	<key id="33040268" class="material" name="ホットフグ" />
+	<key id="33040269" class="material" name="(景品) ホットフグ" />
+	<key id="33040270" class="material" name="カワハギミ" />
+	<key id="33040271" class="material" name="(景品) カワハギミ" />
+	<key id="33040272" class="material" name="フレイムハタ" />
+	<key id="33040273" class="material" name="(景品) フレイムハタ" />
+	<key id="33040274" class="material" name="ベニハタハタ" />
+	<key id="33040275" class="material" name="(景品) ベニハタハタ" />
+	<key id="33040276" class="material" name="アツアツガニ" />
+	<key id="33040277" class="material" name="(景品) アツアツガニ" />
+	<key id="33040278" class="material" name="ベニバラタナゴ" />
+	<key id="33040279" class="material" name="(景品) ベニバラタナゴ" />
+	<key id="33040280" class="material" name="ファイアリー" />
+	<key id="33040281" class="material" name="(景品) ファイアリー" />
+	<key id="33040282" class="material" name="ノコギリザメ" />
+	<key id="33040283" class="material" name="(景品) ノコギリザメ" />
+	<key id="33040284" class="material" name="ベニカジキ" />
+	<key id="33040285" class="material" name="(景品) ベニカジキ" />
+	<key id="33040286" class="material" name="デビルタツノオトシゴ" />
+	<key id="33040287" class="material" name="(景品) デビルタツノオトシゴ" />
+	<key id="33040288" class="material" name="バリア" />
+	<key id="33040289" class="material" name="(景品) バリア" />
+	<key id="33040290" class="material" name="フィラット" />
+	<key id="33040291" class="material" name="(景品) フィラット" />
+	<key id="33040292" class="material" name="ファラオタツノオトシゴ" />
+	<key id="33040293" class="material" name="(景品) ファラオタツノオトシゴ" />
+	<key id="33040294" class="material" name="マグマアツギョ" />
+	<key id="33040295" class="material" name="(景品) マグマアツギョ" />
+	<key id="33040296" class="material" name="STRINGFISHNAME_12000021_NAME:[F]Fishing02" />
+	<key id="33040297" class="material" name="(景品) STRINGFISHNAME_12000021_NAME:[F]Fishing02" />
+	<key id="33040298" class="material" name="STRINGFISHNAME_12000023_NAME:[F]Fishing02" />
+	<key id="33040299" class="material" name="(景品) STRINGFISHNAME_12000023_NAME:[F]Fishing02" />
+	<key id="33040300" class="material" name="STRINGFISHNAME_12000024_NAME:[F]Fishing02" />
+	<key id="33040301" class="material" name="(景品) STRINGFISHNAME_12000024_NAME:[F]Fishing02" />
+	<key id="33040302" class="material" name="STRINGFISHNAME_12000025_NAME:[F]Fishing02" />
+	<key id="33040303" class="material" name="(景品) STRINGFISHNAME_12000025_NAME:[F]Fishing02" />
+	<key id="33040304" class="material" name="パープルクラブ" />
+	<key id="33040305" class="material" name="(景品) パープルクラブ" />
+	<key id="33040308" class="material" name="デビルウーパールーパー" />
+	<key id="33040309" class="material" name="(景品) デビルウーパールーパー" />
+	<key id="33040310" class="material" name="アオクジラ" />
+	<key id="33040311" class="material" name="(景品) アオクジラ" />
+	<key id="33040314" class="material" name="エンジェルタツノオトシゴ" />
+	<key id="33040315" class="material" name="(景品) エンジェルタツノオトシゴ" />
+	<key id="33040316" class="material" name="STRINGFISHNAME_13000010_NAME:[F]Fishing02" />
+	<key id="33040317" class="material" name="(景品) STRINGFISHNAME_13000010_NAME:[F]Fishing02" />
+	<key id="33040318" class="material" name="STRINGFISHNAME_13000011_NAME:[F]Fishing02" />
+	<key id="33040319" class="material" name="(景品) STRINGFISHNAME_13000011_NAME:[F]Fishing02" />
+	<key id="33040320" class="material" name="STRINGFISHNAME_13000012_NAME:[F]Fishing02" />
+	<key id="33040321" class="material" name="(景品) STRINGFISHNAME_13000012_NAME:[F]Fishing02" />
+	<key id="33040322" class="material" name="STRINGFISHNAME_13000013_NAME:[F]Fishing02" />
+	<key id="33040323" class="material" name="(景品) STRINGFISHNAME_13000013_NAME:[F]Fishing02" />
+	<key id="33040324" class="material" name="STRINGFISHNAME_13000014_NAME:[F]Fishing02" />
+	<key id="33040325" class="material" name="(景品) STRINGFISHNAME_13000014_NAME:[F]Fishing02" />
+	<key id="33040326" class="material" name="STRINGFISHNAME_13000015_NAME:[F]Fishing02" />
+	<key id="33040327" class="material" name="(景品) STRINGFISHNAME_13000015_NAME:[F]Fishing02" />
+	<key id="33040328" class="material" name="STRINGFISHNAME_13000016_NAME:[F]Fishing02" />
+	<key id="33040329" class="material" name="(景品) STRINGFISHNAME_13000016_NAME:[F]Fishing02" />
+	<key id="33040330" class="material" name="STRINGFISHNAME_13000017_NAME:[F]Fishing02" />
+	<key id="33040331" class="material" name="(景品) STRINGFISHNAME_13000017_NAME:[F]Fishing02" />
+	<key id="33040332" class="material" name="マルドク" />
+	<key id="33040333" class="material" name="(景品) マルドク" />
+	<key id="33040334" class="material" name="ライライライギョ" />
+	<key id="33040335" class="material" name="(景品) ライライライギョ" />
+	<key id="33040336" class="material" name="湿地ザリガニ" />
+	<key id="33040337" class="material" name="(景品) 湿地ザリガニ" />
+	<key id="33040338" class="material" name="アサリ" />
+	<key id="33040339" class="material" name="(景品) アサリ" />
+	<key id="33040340" class="material" name="ドクヒトデ" />
+	<key id="33040341" class="material" name="(景品) ドクヒトデ" />
+	<key id="33040342" class="material" name="ミドリニベ" />
+	<key id="33040343" class="material" name="(景品) ミドリニベ" />
+	<key id="33040344" class="material" name="アラ" />
+	<key id="33040345" class="material" name="(景品) アラ" />
+	<key id="33040346" class="material" name="ボケボケ" />
+	<key id="33040347" class="material" name="(景品) ボケボケ" />
+	<key id="33040348" class="material" name="ドクシラコダイ" />
+	<key id="33040349" class="material" name="(景品) ドクシラコダイ" />
+	<key id="33040350" class="material" name="ミドリイカ" />
+	<key id="33040351" class="material" name="(景品) ミドリイカ" />
+	<key id="33040352" class="material" name="キレイ" />
+	<key id="33040353" class="material" name="(景品) キレイ" />
+	<key id="33040354" class="material" name="ホヤボヤ" />
+	<key id="33040355" class="material" name="(景品) ホヤボヤ" />
+	<key id="33040356" class="material" name="ベニサザエ" />
+	<key id="33040357" class="material" name="(景品) ベニサザエ" />
+	<key id="33040358" class="material" name="ミドリガイ" />
+	<key id="33040359" class="material" name="(景品) ミドリガイ" />
+	<key id="33040360" class="material" name="ポイズンリーフ" />
+	<key id="33040361" class="material" name="(景品) ポイズンリーフ" />
+	<key id="33040362" class="material" name="サッドリトルフィッシュ" />
+	<key id="33040363" class="material" name="(景品) サッドリトルフィッシュ" />
+	<key id="33040364" class="material" name="猛毒タコ" />
+	<key id="33040365" class="material" name="(景品) 猛毒タコ" />
+	<key id="33040366" class="material" name="ホラボラギョ" />
+	<key id="33040367" class="material" name="(景品) ホラボラギョ" />
+	<key id="33040368" class="material" name="妙なムツゴロウ" />
+	<key id="33040369" class="material" name="(景品) 妙なムツゴロウ" />
+	<key id="33040370" class="material" name="ハルバルメバル" />
+	<key id="33040371" class="material" name="(景品) ハルバルメバル" />
+	<key id="33040372" class="material" name="フロリーポンポン" />
+	<key id="33040373" class="material" name="(景品) フロリーポンポン" />
+	<key id="33040374" class="material" name="STRINGFISHNAME_14000022_NAME:[F]Fishing02" />
+	<key id="33040375" class="material" name="(景品) STRINGFISHNAME_14000022_NAME:[F]Fishing02" />
+	<key id="33040376" class="material" name="STRINGFISHNAME_14000023_NAME:[F]Fishing02" />
+	<key id="33040377" class="material" name="(景品) STRINGFISHNAME_14000023_NAME:[F]Fishing02" />
+	<key id="33040378" class="material" name="STRINGFISHNAME_14000024_NAME:[F]Fishing02" />
+	<key id="33040379" class="material" name="(景品) STRINGFISHNAME_14000024_NAME:[F]Fishing02" />
+	<key id="33040380" class="material" name="STRINGFISHNAME_14000025_NAME:[F]Fishing02" />
+	<key id="33040381" class="material" name="(景品) STRINGFISHNAME_14000025_NAME:[F]Fishing02" />
+	<key id="33040382" class="material" name="STRINGFISHNAME_14000026_NAME:[F]Fishing02" />
+	<key id="33040383" class="material" name="(景品) STRINGFISHNAME_14000026_NAME:[F]Fishing02" />
+	<key id="33040384" class="material" name="STRINGFISHNAME_14000027_NAME:[F]Fishing02" />
+	<key id="33040385" class="material" name="(景品) STRINGFISHNAME_14000027_NAME:[F]Fishing02" />
+	<key id="33040386" class="material" name="STRINGFISHNAME_14000028_NAME:[F]Fishing02" />
+	<key id="33040387" class="material" name="(景品) STRINGFISHNAME_14000028_NAME:[F]Fishing02" />
+	<key id="33040388" class="material" name="STRINGFISHNAME_14000029_NAME:[F]Fishing02" />
+	<key id="33040389" class="material" name="(景品) STRINGFISHNAME_14000029_NAME:[F]Fishing02" />
+	<key id="33040390" class="material" name="ナフサヤドカリ" />
+	<key id="33040391" class="material" name="(景品) ナフサヤドカリ" />
+	<key id="33040392" class="material" name="ピクリーチ" />
+	<key id="33040393" class="material" name="(景品) ピクリーチ" />
+	<key id="33040394" class="material" name="アブラホタテガイ" />
+	<key id="33040395" class="material" name="(景品) アブラホタテガイ" />
+	<key id="33040396" class="material" name="オイルシュリンプ" />
+	<key id="33040397" class="material" name="(景品) オイルシュリンプ" />
+	<key id="33040398" class="material" name="オイルジェリーフィッシュ" />
+	<key id="33040399" class="material" name="(景品) オイルジェリーフィッシュ" />
+	<key id="33040400" class="material" name="STRINGFISHNAME_16000001_NAME:[F]Fishing02" />
+	<key id="33040401" class="material" name="(景品) STRINGFISHNAME_16000001_NAME:[F]Fishing02" />
+	<key id="33040402" class="material" name="STRINGFISHNAME_16000002_NAME:[F]Fishing02" />
+	<key id="33040403" class="material" name="(景品) STRINGFISHNAME_16000002_NAME:[F]Fishing02" />
+	<key id="33040404" class="material" name="STRINGFISHNAME_16000003_NAME:[F]Fishing02" />
+	<key id="33040405" class="material" name="(景品) STRINGFISHNAME_16000003_NAME:[F]Fishing02" />
+	<key id="33040406" class="material" name="STRINGFISHNAME_16000004_NAME:[F]Fishing02" />
+	<key id="33040407" class="material" name="(景品) STRINGFISHNAME_16000004_NAME:[F]Fishing02" />
+	<key id="33040408" class="material" name="STRINGFISHNAME_16000005_NAME:[F]Fishing02" />
+	<key id="33040409" class="material" name="(景品) STRINGFISHNAME_16000005_NAME:[F]Fishing02" />
+	<key id="33040410" class="material" name="STRINGFISHNAME_16000006_NAME:[F]Fishing02" />
+	<key id="33040411" class="material" name="(景品) STRINGFISHNAME_16000006_NAME:[F]Fishing02" />
+	<key id="33040412" class="material" name="STRINGFISHNAME_16000007_NAME:[F]Fishing02" />
+	<key id="33040413" class="material" name="(景品) STRINGFISHNAME_16000007_NAME:[F]Fishing02" />
+	<key id="33040414" class="material" name="STRINGFISHNAME_16000008_NAME:[F]Fishing02" />
+	<key id="33040415" class="material" name="(景品) STRINGFISHNAME_16000008_NAME:[F]Fishing02" />
+	<key id="33040416" class="material" name="STRINGFISHNAME_16000009_NAME:[F]Fishing02" />
+	<key id="33040417" class="material" name="(景品) STRINGFISHNAME_16000009_NAME:[F]Fishing02" />
+	<key id="33040418" class="material" name="STRINGFISHNAME_16000010_NAME:[F]Fishing02" />
+	<key id="33040419" class="material" name="(景品) STRINGFISHNAME_16000010_NAME:[F]Fishing02" />
+	<key id="33040420" class="material" name="黄金メダカ" />
+	<key id="33040421" class="material" name="(景品) 黄金メダカ" />
+	<key id="33040422" class="material" name="黄金ワカメ" />
+	<key id="33040423" class="material" name="(景品) 黄金ワカメ" />
+	<key id="33040424" class="material" name="黄金タコ" />
+	<key id="33040425" class="material" name="(景品) 黄金タコ" />
+	<key id="33040426" class="material" name="黄金タイ" />
+	<key id="33040427" class="material" name="(景品) 黄金タイ" />
+	<key id="33040428" class="material" name="黄金マキガイ" />
+	<key id="33040429" class="material" name="(景品) 黄金マキガイ" />
+	<key id="33040430" class="material" name="黄金ヒトデ" />
+	<key id="33040431" class="material" name="(景品) 黄金ヒトデ" />
+	<key id="33040432" class="material" name="黄金ザリガニ" />
+	<key id="33040433" class="material" name="(景品) 黄金ザリガニ" />
+	<key id="33040434" class="material" name="黄金アワビ" />
+	<key id="33040435" class="material" name="(景品) 黄金アワビ" />
+	<key id="33040436" class="material" name="黄金亀" />
+	<key id="33040437" class="material" name="(景品) 黄金亀" />
+	<key id="33040438" class="material" name="黄金タツノオトシゴ" />
+	<key id="33040439" class="material" name="(景品) 黄金タツノオトシゴ" />
+	<key id="33040440" class="material" name="黄金貝" />
+	<key id="33040441" class="material" name="(景品) 黄金貝" />
+	<key id="33040442" class="material" name="黄金イルカ" />
+	<key id="33040443" class="material" name="(景品) 黄金イルカ" />
+	<key id="33040444" class="material" name="光る黄金メダカ" />
+	<key id="33040445" class="material" name="(景品) 光る黄金メダカ" />
+	<key id="33040446" class="material" name="光る黄金ワカメ" />
+	<key id="33040447" class="material" name="(景品) 光る黄金ワカメ" />
+	<key id="33040448" class="material" name="光る黄金タコ" />
+	<key id="33040449" class="material" name="(景品) 光る黄金タコ" />
+	<key id="33040450" class="material" name="光る黄金タイ" />
+	<key id="33040451" class="material" name="(景品) 光る黄金タイ" />
+	<key id="33040452" class="material" name="光る黄金マキガイ" />
+	<key id="33040453" class="material" name="(景品) 光る黄金マキガイ" />
+	<key id="33040454" class="material" name="光る黄金ヒトデ" />
+	<key id="33040455" class="material" name="(景品) 光る黄金ヒトデ" />
+	<key id="33040456" class="material" name="光る黄金ザリガニ" />
+	<key id="33040457" class="material" name="(景品) 光る黄金ザリガニ" />
+	<key id="33040458" class="material" name="光る黄金アワビ" />
+	<key id="33040459" class="material" name="(景品) 光る黄金アワビ" />
+	<key id="33040460" class="material" name="光る黄金亀" />
+	<key id="33040461" class="material" name="(景品) 光る黄金亀" />
+	<key id="33040462" class="material" name="光る黄金タツノオトシゴ" />
+	<key id="33040463" class="material" name="(景品) 光る黄金タツノオトシゴ" />
+	<key id="33040464" class="material" name="光る黄金貝" />
+	<key id="33040465" class="material" name="(景品) 光る黄金貝" />
+	<key id="33040466" class="material" name="光る黄金イルカ" />
+	<key id="33040467" class="material" name="(景品) 光る黄金イルカ" />
+	<key id="33040468" class="material" name="STRINGFISHNAME_16000001_NAME:[F]Fishing02" />
+	<key id="33040469" class="material" name="(景品) STRINGFISHNAME_16000001_NAME:[F]Fishing02" />
+	<key id="33040470" class="material" name="STRINGFISHNAME_16000002_NAME:[F]Fishing02" />
+	<key id="33040471" class="material" name="(景品) STRINGFISHNAME_16000002_NAME:[F]Fishing02" />
+	<key id="33040472" class="material" name="STRINGFISHNAME_16000003_NAME:[F]Fishing02" />
+	<key id="33040473" class="material" name="(景品) STRINGFISHNAME_16000003_NAME:[F]Fishing02" />
 	<key id="34000001" class="instrument" name="練習用デジタルピアノ" />
 	<key id="34000002" class="instrument" name="練習用アコースティックギター" />
 	<key id="34000003" class="instrument" name="練習用デジタルピアノ" />
