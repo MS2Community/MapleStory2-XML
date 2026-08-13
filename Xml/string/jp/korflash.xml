@@ -137,7 +137,7 @@
 	<key id="$s_inventory_slot_count" value="現在タブのスロット情報を表示します。\n利用中のマス/全体のマス" />
 	<key id="$s_inventory_item_enchant" value="エンチャント" />
 	<key id="$s_inventory_item_enchant_transform" value="エンチャント移転" feature="EnchantTransform01" />
-	<key id="$s_inventory_unlimited_enchant" value="KORFLASH_$S_INVENTORY_UNLIMITED_ENCHANT_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant" value="限界突破" feature="UnlimitedEnchant" />
 	<key id="$s_inventory_item_remakeoption" value="追加オプション変更" />
 	<key id="$s_inventory_slot_expand" value="{0}枠を拡張" />
 	<key id="$s_inventory_search" value="検索ワードを入力してください。" />
@@ -147,8 +147,8 @@
 	<key id="$s_inventory_item_enchant_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;エンチャント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n20レベル以上の服(上/下)、全身服、武器をエンチャントします。" />
 	<key id="$s_inventory_item_enchant_transform_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;エンチャント移転&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nエンチャントされた装備をエンチャント呪文書に変換します。\nエリアナ・シュアブリーチェを呼び出します。" feature="EnchantTransform01" />
 	<key id="$s_inventory_item_enchant_transform_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;エンチャント移転&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nエンチャントされた装備をエンチャント呪文書に変換します。" feature="EnchantTransform01" />
-	<key id="$s_inventory_unlimited_enchant_tooltip" value="KORFLASH_$S_INVENTORY_UNLIMITED_ENCHANT_TOOLTIP_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="$s_inventory_unlimited_enchant_disable_tooltip" value="KORFLASH_$S_INVENTORY_UNLIMITED_ENCHANT_DISABLE_TOOLTIP_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;限界突破&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n装備に秘められた力を引き出し、\n既存の限界を超える装備へ転換します。\nラネモネを呼び出します。" feature="UnlimitedEnchant" />
+	<key id="$s_inventory_unlimited_enchant_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;限界突破&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n装備に秘められた力を引き出し、\n既存の限界を超える装備へ転換します。" feature="UnlimitedEnchant" />
 	<key id="$s_inventory_item_remakeoption_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;追加オプション変更&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n50レベル以上かつエクセレント等級以上の防具やアクセサリの追加オプションを変更します。\nエンチャントマスターのオフィリアを呼び出します。" />
 	<key id="$s_inventory_item_remakeoption_disable_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;追加オプション変更&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n50レベル以上かつエクセレント等級以上の防具やアクセサリの追加オプションを変更します。" />
 	<key id="$s_inventory_range_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;自動整列&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nインベントリのアイテムを自動で並べ替えます。" />
@@ -523,7 +523,7 @@
 	<key id="$s_gamemenu_btn_pssbshop" value="アバターコインショップ" locale="JP" />
 	<key id="$s_gamemenu_btn_collectitemgroupevent" value="メタバッジアップグレード" feature="GemMeta" locale="JP" />
 	<key id="$s_gamemenu_btn_bingoevent" value="ビンゴ" />
-	<key id="$s_gamemenu_btn_wedding" value="KORFLASH_$S_GAMEMENU_BTN_WEDDING_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_gamemenu_btn_wedding" value="結婚" feature="Wedding" />
 	<key id="$s_gamemenu_btn_demolish" value="室内を空ける" />
 	<key id="$s_gamemenu_btn_construct" value="建設開始" />
 	<key id="$s_gamemenu_btn_normal" value="建設終了" />
@@ -1066,7 +1066,7 @@
 	<key id="$s_tooltip_ugcitemedit_check_hide_ui" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;UI非表示&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nマウス説明および左側のUIを非表示にします。" />
 	<key id="$s_tooltip_ugcupload_btn_showcomment" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;内容表示&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n利用規約を確認することができます。" />
 	<key id="$s_tooltip_ugcupload_profile_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;登録する&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n選択した画像をプロフィールに登録します。" />
-	<key id="$s_tooltip_ugcupload_wedding_profile_apply" value="KORFLASH_$S_TOOLTIP_UGCUPLOAD_WEDDING_PROFILE_APPLY_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_tooltip_ugcupload_wedding_profile_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;登録する&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n選択したイメージを結婚写真として登録します。" feature="Wedding" />
 	<key id="$s_tooltip_ugcupload_banner_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;登録する&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n選択した画像をバナーに登録します。" />
 	<key id="$s_tooltip_ugcupload_guild_mark_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;登録する&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n選択した画像をギルドマークに登録します。" />
 	<key id="$s_tooltip_ugcupload_guild_poster_apply" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;登録する&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n選択した画像をギルドの張り紙に登録します。" />
@@ -1264,7 +1264,7 @@
 	<key id="$s_achieve_reward_filter_etc" value="その他" />
 	<key id="$s_achieve_reward_filter_ok" value="確認" />
 	<key id="$s_achieve_reward_filter_cancel" value="キャンセル" />
-	<key id="$s_achieve_disabled" value="KORFLASH_$S_ACHIEVE_DISABLED_VALUE:[F]FoundersPackMode" feature="FoundersPackMode" />
+	<key id="$s_achieve_disabled" value="ファウンダーズパックを購入すると利用できます。" feature="FoundersPackMode" />
 	<key id="$s_apartment_empty" value="空室" />
 	<key id="$s_apartment_broker" value="契約のことなら\n私にご相談ください。" />
 	<key id="$s_apartment_contract" value="契約する" />
@@ -1842,7 +1842,7 @@
 	<key id="$s_mesoMarket_myToken" value="所持金額" feature="MesoMarketNA" />
 	<key id="$s_mesoMarket_myMerat_tooltip" value="メルを購入できるブルーメロットの所持金です。\n「ゲームブルーメロット」を除いたブルーメロットの合計です。" />
 	<key id="$s_mesoMarket_after_tax_price" value="販売後に獲得するブルーメロット" />
-	<key id="$s_mesoMarket_btn_detail" value="KORFLASH_$S_MESOMARKET_BTN_DETAIL_VALUE:[F]MesoMarketNA" feature="MesoMarketNA" />
+	<key id="$s_mesoMarket_btn_detail" value="メルマーケットヘルプ" feature="MesoMarketNA" />
 	<key id="$s_blackmarket_period" value="" />
 	<key id="$s_blackmarket_remind_time" value="残りの時間：" />
 	<key id="$s_blackmarket_notice_close" value="準備期間は利用することができません。" />
@@ -1951,7 +1951,7 @@
 	<key id="$s_dungeonSearch_submenu_worldBoss" value="ワールドインベージョン" feature="WorldBossDungeon" />
 	<key id="$s_dungeonSearch_submenu_fameChallenge" value="フォートレスランブル" feature="FameChallengeDungeon" />
 	<key id="$s_dungeonSearch_submenu_lapenta" value="アイオブラペンタ" feature="LapentaDungeon" />
-	<key id="$s_dungeonSearch_submenu_colosseum" value="KORFLASH_$S_DUNGEONSEARCH_SUBMENU_COLOSSEUM_VALUE:[F]ColosseumDungeon" feature="ColosseumDungeon" />
+	<key id="$s_dungeonSearch_submenu_colosseum" value="クイーンビーンランブル" feature="ColosseumDungeon" />
 	<key id="$s_dungeonSearch_reward_count" value="報酬獲得回数" />
 	<key id="$s_dungeonSearch_united_reward_tooltip" value="冒険[ノーマル/ハード] ダンジョンの報酬獲得回数はダンジョン別に決まっているわけではなく、\n1つの統合された回数になっています。\n\nデイリー報酬の獲得回数、ウィークリー報酬の獲得回数のうち1つでも\n超過した場合は報酬を獲得することができません。\n\nボーナスボックスはダンジョンをクリアしたとき\nウィークリー報酬回数が1、3、5、10、15、20、25、30のどれかの場合に\nクリア報酬と一緒に獲得でき、1週間単位で初期化されます。\n(キャラクターレベルが50になったときは別途初期化されます。)\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;報酬獲得回数&lt;/FONT&gt;\nウィークリー：30回&lt;FONT color=&apos;#C0C0C0&apos;&gt;(毎週金曜日の深夜0時に初期化)&lt;/FONT&gt;\nデイリー：10回&lt;FONT color=&apos;#C0C0C0&apos;&gt;(毎日深夜0時に初期化)&lt;/FONT&gt;" />
 	<key id="$s_dungeonSearch_united_reward_reset" value="リセットBeta" />
@@ -1967,7 +1967,7 @@
 	<key id="$s_dungeonSearch_submenu_worldBoss_tooltip" value="ワールドインベージョンを阻止してください。" feature="WorldBossDungeon" />
 	<key id="$s_dungeonSearch_submenu_fameChallenge_tooltip" value="様々な相手との1：1対決にチャレンジしてください。" feature="FameChallengeDungeon" />
 	<key id="$s_dungeonSearch_submenu_lapenta_tooltip" value="アイオブラペンタに移動します。" feature="LapentaDungeon" />
-	<key id="$s_dungeonSearch_submenu_colosseum_tooltip" value="KORFLASH_$S_DUNGEONSEARCH_SUBMENU_COLOSSEUM_TOOLTIP_VALUE:[F]ColosseumDungeon" feature="ColosseumDungeon" />
+	<key id="$s_dungeonSearch_submenu_colosseum_tooltip" value="女王の応接室へ移動します。" feature="ColosseumDungeon" />
 	<key id="$s_dungeonSearch_settting_normal" value="冒険[ノーマル] ダンジョン設定" />
 	<key id="$s_dungeonSearch_settting_raid" value="冒険[ハード] ダンジョン設定" />
 	<key id="$s_dungeonSearch_comming_soon" value="COMING SOON" />
@@ -2057,7 +2057,7 @@
 	<key id="$s_meratmarket_text_register_total_fee" value="登録総額" />
 	<key id="$s_meratmarket_text_register_notice" value="右側のスロットウィンドウから登録するデザインを選んでください。" />
 	<key id="$s_meratmarket_text_register_notice_already" value="すでに登録されているアイテムです。" />
-	<key id="$s_meratmarket_text_register_notice_warning_music_score" value="KORFLASH_$S_MERATMARKET_TEXT_REGISTER_NOTICE_WARNING_MUSIC_SCORE_VALUE:[F]UGCMarketMusicScore" feature="UGCMarketMusicScore" />
+	<key id="$s_meratmarket_text_register_notice_warning_music_score" value="&lt;FONT size=&apos;12&apos; &gt;楽譜は「20回演奏可能」の状態で販売されます。\n楽譜は登録費用および販売手数料が免除され、楽譜の販売金額は当月の累計販売金額に含まれません。" feature="UGCMarketMusicScore" />
 	<key id="$s_meratmarket_text_register_notice2" value=" " />
 	<key id="$s_meratmarket_text_register_agree" value="&lt;FONT color=&apos;#FF0000&apos;&gt;上記内容に同意します。&lt;/FONT&gt;" />
 	<key id="$s_meratmarket_text_ban_msg" value="ブロックされている商品です。" />
@@ -2240,7 +2240,7 @@
 	<key id="$s_token_pocket_mentor_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;先生ポイント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n教え子と一緒にダンジョンを完了すると先生ポイントを獲得することができます。\n教え子ではない復帰キャラクターとダンジョンをクリアしても少量の先生ポイントを獲得できます。\nNPC「先生ポイント商人ワイズ」より特別なアイテムと交換するときに使用できます。" />
 	<key id="$s_token_pocket_mentee_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;教え子ポイント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n毎日ログイン、教え子ミッションクリア、ダンジョンクリアで教え子ポイントを獲得することができます。\n教え子ショップで特別なアイテムと交換するときに使用できます。" />
 	<key id="$s_token_pocket_star_point_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;星ポイント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n星ショップで利用することができます。" />
-	<key id="$s_token_pocket_meso_market_token_tooltip" value="KORFLASH_$S_TOKEN_POCKET_MESO_MARKET_TOKEN_TOOLTIP_VALUE:[F]MesoMarketToken" feature="MesoMarketToken" />
+	<key id="$s_token_pocket_meso_market_token_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;メルトークン&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nメルマーケットでメルを購入する際に使用する通貨です。メルトークンの購入方法は、メルマーケットのヘルプボタンをクリックして確認してください。" feature="MesoMarketToken" />
 	<key id="$s_nametag_symbol_title" value="マーク設定" />
 	<key id="$s_msgbox_ugc_turms_title" value="ゲーム内でUGC(ユーザー生成コンテンツ)を利用する際の規約をご確認ください。" />
 	<key id="$s_msgbox_ugc_turms_content" value="&lt;FONT color=&apos;#FFD200&apos; &gt;下記内容を含め、UGC利用規約に反する行為をした場合、ゲーム利用が制限されることがあります。\nUGC利用規約に同意いただきコンテンツを利用いただきますようお願いいたします。&lt;/FONT&gt;\n● デザイン、名前、タグ、説明などに特定のキャラクター、作品、ロゴ、商標を含めないでください。\n● 特定のブランドや著作物の独創的なデザインを真似しないでください。\n● 他人に不快感を与えるデザインや内容を含めないでください。\n● わいせつな内容を含めないでください。" />
@@ -2569,7 +2569,7 @@
 	<key id="$s_itemremake_scroll_btn_apply" value="オプション適用" />
 	<key id="$s_itemremake_scroll_btn_restart" value="もう一回" />
 	<key id="$s_itemremake_scroll_btn_ok" value="確認" />
-	<key id="$s_itemremake_scroll_notice_pet_ingredient_item" value="KORFLASH_$S_ITEMREMAKE_SCROLL_NOTICE_PET_INGREDIENT_ITEM_VALUE:[F]PetRemakeBlock02" feature="PetRemakeBlock02" />
+	<key id="$s_itemremake_scroll_notice_pet_ingredient_item" value="使用するペット追加能力固定材料をセットしてください。" feature="PetRemakeBlock02" />
 	<key id="$s_itemremake_scroll_notice_top_show_option" value="" />
 	<key id="$s_itemremake_scroll_notice_bottom_show_option" value="" />
 	<key id="$s_itemremake_scroll_notice_top_select_option" value="&lt;font color=&apos;#FF5F5F&apos;&gt;適用するオプションを選択してください。&lt;/font&gt;" />
@@ -2652,9 +2652,9 @@
 	<key id="$s_apartmentpreview_contract" value="すぐに契約" feature="UGCMapRenewal" />
 	<key id="$s_apartmentpreview_location" value="位置表示" feature="UGCMapRenewal" />
 	<key id="$s_characterability_title" value="特性" feature="CharacterAbility" />
-	<key id="$s_characterability_bottom_desc" value="KORFLASH_$S_CHARACTERABILITY_BOTTOM_DESC_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
+	<key id="$s_characterability_bottom_desc" value="ポイントを投資して特性を習得できます。" feature="CharacterAbility" />
 	<key id="$s_characterability_reset_button" value="初期化" feature="CharacterAbility" />
-	<key id="$s_characterability_point_info" value="KORFLASH_$S_CHARACTERABILITY_POINT_INFO_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
+	<key id="$s_characterability_point_info" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;特性ポイント&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n特性を習得できるポイントです。\n50レベルから1レベル上がるごとに1ポイントずつ獲得でき、\n特性を習得するたびにポイントが1ずつ差し引かれます。\n持っているポイントを好きな特性に投資して習得してみましょう。\n&lt;FONT color=&apos;#909090&apos;&gt;選択した特性は[初期化]ボタンで初期化できます。\nただし、特性の初期化後は一定時間が経過しないと再度初期化できません。&lt;/font&gt;" feature="CharacterAbility" />
 	<key id="$s_characterability_level" value="LV{0}" />
 	<key id="$s_party_recall_button" value="パーティ召喚する" />
 	<key id="$s_party_enterDungeon_button" value="ダンジョン入場" />
@@ -3375,9 +3375,9 @@
 	<key id="$s_adventure_level_weekly_mission_desc" value="冒険レベルを上げるたびに特別な報酬を獲得できます。\nウィークリーミッションは毎週金曜日の深夜0時に初期化されます。" feature="AdventureLevelMission" />
 	<key id="$s_world_champion_title" value="ワールドレイドマッシュキング" feature="WorldChampionMushroom" />
 	<key id="$s_world_champion_explain1" value="マッシュキングは同じ時間に&lt;FONT color=&apos;#00a2ed&apos;&gt;全チャンネル&lt;/FONT&gt;に出現し、&lt;FONT color=&apos;#00a2ed&apos;&gt;同じHP&lt;/FONT&gt;を共有します。\n冒険者のみなさんが力を合わせてマッシュキングを倒すほど、より強力なマッシュキングが出現します。\nマッシュキングは&lt;FONT color=&apos;#00a2ed&apos;&gt;胞子ブロッククリーム&lt;/FONT&gt;を使用したときのみ攻撃することができます。" feature="WorldChampionMushroom" />
-	<key id="$s_world_champion_explain2" value="KORFLASH_$S_WORLD_CHAMPION_EXPLAIN2_VALUE:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="$s_world_champion_explain2" value="&lt;FONT color=&apos;#ffd200&apos;&gt;胞子ブロッククリーム入手先&lt;/FONT&gt;：出席報酬(郵便)" feature="WorldChampionMushroom" />
 	<key id="$s_world_champion_explain3" value="&lt;FONT color=&apos;#ffd200&apos;&gt;累積レベル報酬&lt;/FONT&gt;：翌週の月曜日～日曜日に郵便で受け取り" feature="WorldChampionMushroom" />
-	<key id="$s_world_champion_explain4" value="KORFLASH_$S_WORLD_CHAMPION_EXPLAIN4_VALUE:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="$s_world_champion_explain4" value="&lt;FONT color=&apos;#ffd200&apos;&gt;ランキング報酬&lt;/FONT&gt;：次回メンテナンス後に郵便で受け取り" feature="WorldChampionMushroom" />
 	<key id="$s_world_champion_move_field" value="出現場所に移動" />
 	<key id="$s_burning_levelup_event_desc_btn" value="ジャンピングバーニングイベント" feature="Event" />
 	<key id="$s_burning_levelup_event_desc_btn" value="バーニングイベント" feature="Event" locale="JP" />
@@ -3394,14 +3394,14 @@
 	<key id="$s_lapenshardsystemdialog_upgrade_btn_success" value="成功" feature="Lapenshard01" />
 	<key id="$s_lapenshardsystemdialog_upgrade_btn_success_limit" value="&lt;FONT color=&apos;#707070&apos; size=&apos;16&apos; &gt;謎の力がより高い段階に成長することを妨害しています。&lt;/FONT&gt;" feature="Lapenshard01" />
 	<key id="$s_lapenshardsystemdialog_upgrade_btn_fail" value="失敗" feature="Lapenshard01" />
-	<key id="$s_gamemode_select_title" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title" value="プレイするモードを選択してください。" feature="MushKingRoyaleModeSelect" />
 	<key id="$s_gamemode_select_title_rpg" value="MapleStory2" feature="MushKingRoyaleModeSelect" />
-	<key id="$s_gamemode_select_title_royale" value="KORFLASH_$S_GAMEMODE_SELECT_TITLE_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
-	<key id="$s_gamemode_select_sub_title_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_SUB_TITLE_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
-	<key id="$s_gamemode_select_sub_title_royale" value="KORFLASH_$S_GAMEMODE_SELECT_SUB_TITLE_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
-	<key id="$s_gamemode_select_desc_rpg" value="KORFLASH_$S_GAMEMODE_SELECT_DESC_RPG_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
-	<key id="$s_gamemode_select_desc_royale" value="KORFLASH_$S_GAMEMODE_SELECT_DESC_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
-	<key id="$s_gamemode_select_tooltip_royale" value="KORFLASH_$S_GAMEMODE_SELECT_TOOLTIP_ROYALE_VALUE:[F]MushKingRoyaleModeSelect" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_title_royale" value="マッシュキングロイヤル" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_rpg" value="自分だけの物語を紡ごう" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_sub_title_royale" value="最後まで生き残る英雄になれ" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_rpg" value="メイプルワールドの全てが目の前に広がっています。壮大なダンジョンで凶悪なモンスターを退治する？数々のミニゲームで友達と競い合う？自分だけのファッションをデザインする？可能性は無限大、自分だけの遊び方で楽しみましょう！" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_desc_royale" value="レベル？職業？装備？マッシュキングロイヤルでは何の意味もありません！頼れるのは自分の腕とチームメイトだけ。マッシュトピアの大乱戦で生き残ることができるでしょうか？" feature="MushKingRoyaleModeSelect" />
+	<key id="$s_gamemode_select_tooltip_royale" value="&amp;lt;p align=&apos;center&apos;&amp;gt;&amp;lt;font size=&apos;30&apos;&amp;gt;正式サービスに向けて今すぐ名前を予約しよう！&amp;lt;/font&amp;gt;&amp;lt;/p&amp;gt;" feature="MushKingRoyaleModeSelect" />
 	<key id="$s_banner_couple_dance" value="一緒に踊りましょう！" />
 	<key id="$s_couple_dance_event_dialog_title" value="心を通わす愛のダンスパーティ" />
 	<key id="$s_couple_dance_event_dialog_reward_btn" value="報酬受取" />
@@ -3510,7 +3510,7 @@
 	<key id="$s_wedding_billboard_attend" value="出席する" feature="Wedding" />
 	<key id="$s_wedding_billboard_refresh" value="更新" feature="Wedding" />
 	<key id="$s_wedding_billboard_date" value="時間" feature="Wedding" />
-	<key id="$s_wedding_billboard_couple" value="KORFLASH_$S_WEDDING_BILLBOARD_COUPLE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_billboard_couple" value="新郎新婦の名前" feature="Wedding" />
 	<key id="$s_wedding_billboard_hall" value="結婚式場" feature="Wedding" />
 	<key id="$s_weddinghall_grade_1" value="ハウス" feature="Wedding" />
 	<key id="$s_weddinghall_grade_2" value="パーティ" feature="Wedding" />
@@ -3543,46 +3543,46 @@
 	<key id="$s_weddinghall_reservation_confirm_publicable" value="公開可否" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_public" value="結婚式掲示板で公開" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_price" value="決済金額" feature="Wedding" />
-	<key id="$s_weddinghall_reservation_confirm_tooltip" value="KORFLASH_$S_WEDDINGHALL_RESERVATION_CONFIRM_TOOLTIP_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_weddinghall_reservation_confirm_tooltip" value="※結婚式場の予約変更は最初に予約したキャラクターのみ可能で、予約する時間まで最低3時間以上の余裕がある場合のみ可能です。\n※結婚式場の予約キャンセルは最初に予約したキャラクターのみ可能で、相手がキャンセルに同意すると、30日以内に同じ等級の結婚式場を予約できる\n無料予約クーポンをお贈りします。相手が結婚式場の予約キャンセルに同意しない場合、無料予約クーポンは支給されません。\n※婚約、結婚、離婚調整中のキャラクターは性別変更券を使用できません。" feature="Wedding" />
 	<key id="$s_weddinghall_reservation_confirm_private" value="招待状、チャットでのみ招待" feature="Wedding" />
 	<key id="$s_weddinghall_enter_button_type1" value="入場する" feature="Wedding" />
-	<key id="$s_weddinghall_enter_button_type2" value="KORFLASH_$S_WEDDINGHALL_ENTER_BUTTON_TYPE2_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_weddinghall_enter_message_type1" value="KORFLASH_$S_WEDDINGHALL_ENTER_MESSAGE_TYPE1_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_weddinghall_enter_message_type2" value="KORFLASH_$S_WEDDINGHALL_ENTER_MESSAGE_TYPE2_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_dialog_title" value="KORFLASH_$S_WEDDING_DIALOG_TITLE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_dialog_picture_change" value="KORFLASH_$S_WEDDING_DIALOG_PICTURE_CHANGE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_weddinghall_enter_button_type2" value="入場可能な結婚式を確認する" feature="Wedding" />
+	<key id="$s_weddinghall_enter_message_type1" value="結婚式の予約時間になりました。結婚式に入場してください。" feature="Wedding" />
+	<key id="$s_weddinghall_enter_message_type2" value="結婚式の予約時間になりました。参加可能な結婚式のリストを確認して、結婚式に入場してください。" feature="Wedding" />
+	<key id="$s_wedding_dialog_title" value="結婚" feature="Wedding" />
+	<key id="$s_wedding_dialog_picture_change" value="写真変更" feature="Wedding" />
 	<key id="$s_wedding_dialog_level" value="親密度" feature="Wedding" />
-	<key id="$s_wedding_dialog_partner_message" value="KORFLASH_$S_WEDDING_DIALOG_PARTNER_MESSAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_dialog_my_message" value="KORFLASH_$S_WEDDING_DIALOG_MY_MESSAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_dialog_divorce" value="KORFLASH_$S_WEDDING_DIALOG_DIVORCE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_dialog_partner_message" value="配偶者が残したメッセージ" feature="Wedding" />
+	<key id="$s_wedding_dialog_my_message" value="自分が残したメッセージ" feature="Wedding" />
+	<key id="$s_wedding_dialog_divorce" value="確認する" feature="Wedding" />
 	<key id="$s_wedding_dialog_divorce_request_" value="KORFLASH_$S_WEDDING_DIALOG_DIVORCE_REQUEST__VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_dialog_info_tooltip" value="KORFLASH_$S_WEDDING_DIALOG_INFO_TOOLTIP_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_dialog_info_tooltip" value="クリックして説明および累計親密度を照会できます。" feature="Wedding" />
 	<key id="$s_wedding_dialog_message_save" value="保存" feature="Wedding" />
 	<key id="$s_wedding_dialog_message_cancel" value="キャンセル" feature="Wedding" />
-	<key id="$s_wedding_dialog_default_message" value="KORFLASH_$S_WEDDING_DIALOG_DEFAULT_MESSAGE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_dialog_default_message" value="メッセージを入力してください" feature="Wedding" />
 	<key id="$s_wedding_dialog_skill_receive" value="受け取る" feature="Wedding" />
 	<key id="$s_wedding_affinity_title" value="親密度" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_title" value="KORFLASH_$S_WEDDING_AFFINITY_INFO_TITLE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_desc1" value="KORFLASH_$S_WEDDING_AFFINITY_INFO_DESC1_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_desc2" value="KORFLASH_$S_WEDDING_AFFINITY_INFO_DESC2_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_desc3" value="KORFLASH_$S_WEDDING_AFFINITY_INFO_DESC3_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_tab" value="KORFLASH_$S_WEDDING_AFFINITY_INFO_TAB_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_affinity_info_history" value="KORFLASH_$S_WEDDING_AFFINITY_INFO_HISTORY_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_invitation_title" value="KORFLASH_$S_WEDDING_INVITATION_TITLE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_invitation_add" value="KORFLASH_$S_WEDDING_INVITATION_ADD_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_title" value="親密度の獲得方法" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc1" value="親密度は毎日\n以下の基準で累積されます。" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc2" value="婚姻期間の経過\n婚姻から1日経過するごとに毎日5点が積み立てられます。 \n\n夫婦の出席\n夫婦がそれぞれゲームに接続するたびに各5点ずつ積み立てられます。 \n\nカップルメッセージ\n夫婦2人がカップルメッセージを作成するたびに各5点ずつ \n積み立てられます。" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_desc3" value="* 夫婦のどちらかが0時から24時を基準に1日ゲームに接続しなかった場合、翌日に親密度から5点が差し引かれます。" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_tab" value="親密度の獲得方法" feature="Wedding" />
+	<key id="$s_wedding_affinity_info_history" value="累計親密度照会" feature="Wedding" />
+	<key id="$s_wedding_invitation_title" value="招待状を送る" feature="Wedding" />
+	<key id="$s_wedding_invitation_add" value="追加する" feature="Wedding" />
 	<key id="$s_wedding_invitation_send" value="送信" feature="Wedding" />
 	<key id="$s_wedding_invitation_hall" value="結婚式場" feature="Wedding" />
-	<key id="$s_wedding_invitation_date" value="KORFLASH_$S_WEDDING_INVITATION_DATE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_guest_title" value="KORFLASH_$S_WEDDING_GUEST_TITLE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_guest_add" value="KORFLASH_$S_WEDDING_GUEST_ADD_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_invitation_date" value="日時" feature="Wedding" />
+	<key id="$s_wedding_guest_title" value="招待状の受取人を追加" feature="Wedding" />
+	<key id="$s_wedding_guest_add" value="追加する" feature="Wedding" />
 	<key id="$s_wedding_guest_tab_select_all" value="全体選択" feature="Wedding" />
-	<key id="$s_wedding_guest_tab_stranger" value="KORFLASH_$S_WEDDING_GUEST_TAB_STRANGER_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_guest_tab_stranger" value="招待するキャラクターの名前を直接入力してください。" feature="Wedding" />
 	<key id="$s_wedding_guest_tab_stranger_find" value="探す" feature="Wedding" />
-	<key id="$s_wedding_hall_list_title" value="KORFLASH_$S_WEDDING_HALL_LIST_TITLE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_hall_list_open" value="KORFLASH_$S_WEDDING_HALL_LIST_OPEN_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_hall_list_progress" value="KORFLASH_$S_WEDDING_HALL_LIST_PROGRESS_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_hall_list_desc" value="KORFLASH_$S_WEDDING_HALL_LIST_DESC_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="$s_wedding_hall_list_enter" value="KORFLASH_$S_WEDDING_HALL_LIST_ENTER_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="$s_wedding_hall_list_title" value="結婚式リスト" feature="Wedding" />
+	<key id="$s_wedding_hall_list_open" value="開始予定の結婚式" feature="Wedding" />
+	<key id="$s_wedding_hall_list_progress" value="進行中の結婚式" feature="Wedding" />
+	<key id="$s_wedding_hall_list_desc" value="結婚式を選択すると入場できます。" feature="Wedding" />
+	<key id="$s_wedding_hall_list_enter" value="入場" feature="Wedding" />
 	<key id="$s_watchagame_title" value="観戦カメラ" />
 	<key id="$s_watchagame_button1_tooltip" value="アングルを変えることができます。" />
 	<key id="$s_watchagame_button2_tooltip" value="観戦モードを終了します。" />
@@ -3593,25 +3593,25 @@
 	<key id="$s_hideandseek_msg_exp" value="経験値" />
 	<key id="$s_hideandseek_msg_reward" value="報酬" />
 	<key id="$s_hideandseek_reward_text" value="報酬としてアイテム{0}個を獲得しました。" />
-	<key id="$s_payback_dialog_title" value="KORFLASH_$S_PAYBACK_DIALOG_TITLE_VALUE:[F]Payback" feature="Payback" />
-	<key id="$s_payback_dialog_banner_chatballoon" value="KORFLASH_$S_PAYBACK_DIALOG_BANNER_CHATBALLOON_VALUE:[F]Payback" feature="Payback" />
-	<key id="$s_payback_dialog_banner_title" value="KORFLASH_$S_PAYBACK_DIALOG_BANNER_TITLE_VALUE:[F]Payback" feature="Payback" />
-	<key id="$s_payback_dialog_banner_subtitle" value="KORFLASH_$S_PAYBACK_DIALOG_BANNER_SUBTITLE_VALUE:[F]Payback" feature="Payback" />
-	<key id="$s_payback_dialog_banner_desc" value="KORFLASH_$S_PAYBACK_DIALOG_BANNER_DESC_VALUE:[F]Payback" feature="Payback" />
-	<key id="$s_payback_dialog_predict_title" value="KORFLASH_$S_PAYBACK_DIALOG_PREDICT_TITLE_VALUE:[F]Payback" feature="Payback" />
+	<key id="$s_payback_dialog_title" value="ペイバック達成状況" feature="Payback" />
+	<key id="$s_payback_dialog_banner_chatballoon" value="冒険レベルを上げるだけで誰でもペイバック！今すぐ参加しましょう！" feature="Payback" />
+	<key id="$s_payback_dialog_banner_title" value="メイプルキノコのパワーアップカプセル" feature="Payback" />
+	<key id="$s_payback_dialog_banner_subtitle" value="最大&lt;font color=&apos;#ec686e&apos;&gt;100%&lt;/font&gt;ペイバックイベント" feature="Payback" />
+	<key id="$s_payback_dialog_banner_desc" value="** ペイバック金額は使用期限のない一般メロットで支給され、イベント終了後、翌月1日0時を基準に郵便で発送されます。\n** 最大1万メロットまでペイバックを受けられ、ゲームメロット、イベントメロットで購入した金額は除外されます。" feature="Payback" />
+	<key id="$s_payback_dialog_predict_title" value="現在のペイバック予定メロット" feature="Payback" />
 	<key id="$s_payback_dialog_buy_product_btn" value="購入する" feature="Payback" />
-	<key id="$s_payback_dialog_status_title" value="KORFLASH_$S_PAYBACK_DIALOG_STATUS_TITLE_VALUE:[F]Payback" feature="Payback" />
-	<key id="$s_gamemenu_btn_payback" value="KORFLASH_$S_GAMEMENU_BTN_PAYBACK_VALUE:[F]Payback" feature="Payback" />
+	<key id="$s_payback_dialog_status_title" value="ペイバック達成状況" feature="Payback" />
+	<key id="$s_gamemenu_btn_payback" value="ペイバック" feature="Payback" />
 	<key id="$s_itemgacha_dialog_single_open" value="1回開ける" />
 	<key id="$s_itemgacha_dialog_multi_open" value="10回開ける" />
 	<key id="$s_itemgacha_dialog_probability" value="確率" />
 	<key id="$s_itemgacha_dialog_coinshop_open" value="コインショップ" />
 	<key id="$s_itemgacha_dialog_show_effect" value="演出非表示" />
-	<key id="$s_unlimited_enchant_dialog_title" value="KORFLASH_$S_UNLIMITED_ENCHANT_DIALOG_TITLE_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="$s_unlimited_enchant_dialog_notice" value="KORFLASH_$S_UNLIMITED_ENCHANT_DIALOG_NOTICE_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="$s_unlimited_enchant_dialog_desc" value="KORFLASH_$S_UNLIMITED_ENCHANT_DIALOG_DESC_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="$s_unlimited_enchant_dialog_enchant" value="KORFLASH_$S_UNLIMITED_ENCHANT_DIALOG_ENCHANT_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="$s_unlimited_enchant_dialog_retry" value="KORFLASH_$S_UNLIMITED_ENCHANT_DIALOG_RETRY_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_title" value="限界突破可能な装備" feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_notice" value="限界突破する装備アイテムを選択してください" feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_desc" value="装備に秘められた力を引き出し、\n既存の限界を超える装備へ転換します。\n&lt;font color=&apos;#ec686e&apos;&gt;限界を突破する装備アイテムを選択してください&lt;/font&gt;\n\n限界突破はエンチャント15段階のファイアプリズム武器のみ可能です。\n限界突破時、ランダムオプションは維持されます。\n限界突破10段階ごとに強力な力が追加されます。" feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_enchant" value="限界突破" feature="UnlimitedEnchant" />
+	<key id="$s_unlimited_enchant_dialog_retry" value="やり直す" feature="UnlimitedEnchant" />
 	<key id="$s_gameoption_charSoundStep" value="キャラクターボイス" />
 	<key id="$s_dungeon_room_probability_notice" value="確率型アイテムを含む" />
 	<key id="$s_meratmarket_text_changeable_comming_soon" value="もうすぐ..." />
@@ -3624,7 +3624,7 @@
 	<key id="$s_bluemarble_warning" value="サイコロを振るとエネルジュエルが2個消費されます。" locale="NA" />
 	<key id="$s_gallery_desc_1" value="2019年1月10日点検前まで！" locale="CN" />
 	<key id="$s_mesoMarket_search_sale_meso" value="メソ価格" feature="MesoMarketNA" locale="NA" />
-	<key id="$s_common_copyright" value="著作権。NEXON Korea Corporation。全著作権所有。" locale="KR" />
+	<key id="$s_common_copyright" value="Copyright. NEXON Korea Corporation. All Right Reserved." locale="KR" />
 	<key id="$s_talkpanelsetting_notice_friend" value="友達通知" />
 	<key id="$s_talkpanelsetting_notice_guild" value="ギルド通知" />
 	<key id="$s_talkpanelsetting_notice_party" value="パーティ通知" />

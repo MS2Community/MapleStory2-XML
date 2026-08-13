@@ -15,10 +15,11 @@
 	<key id="00000013" name="# キャラクター選択 - マドリア" feature="LobbyMap01" />
 	<key id="00000014" name="# キャラクター選択 - さくら" feature="LobbyMap01" />
 	<key id="00000015" name="# キャラクター選択 - 夏" feature="LobbyMap01" />
+	<key id="00000016" name="# 中国キャラクター選択画面 - 9月" feature="LobbyMap01" locale="CN" />
 	<key id="00000017" name="# キャラクター選択 - お盆" feature="LobbyMap01" />
 	<key id="00000018" name="# キャラクター選択 - 2017ハロウィン" feature="LobbyMap01" />
-	<key id="00000019" name="MAPNAME_00000019_NAME:[F]HappyBirthday" feature="HappyBirthday" />
-	<key id="00000020" name="MAPNAME_00000020_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="00000019" name="# キャラクター選択画面 - 誕生日村" feature="HappyBirthday" />
+	<key id="00000020" name="# キャラクター選択画面 - クリティアス" feature="Kritias_2018_12" />
 	<key id="00000021" name="# キャラクター選択 - 2018旧正月/春節" feature="LobbyMap01" />
 	<key id="00000022" name="# キャラクター選択 - 2018春" feature="LobbyMap01" />
 	<key id="00000023" name="# キャラクター選択 - マッシュキング" feature="LobbyMap01" />
@@ -27,13 +28,13 @@
 	<key id="00000026" name="# キャラクター選択 - 2019 新年" feature="LobbyMap01" />
 	<key id="00000027" name="# キャラクター選択 - 2019春" feature="LobbyMap01" />
 	<key id="00001001" name="# ゲームモード選択" feature="LobbyMap01" />
-	<key id="00009051" name="MAPNAME_00009051_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="00009052" name="MAPNAME_00009052_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="00009053" name="MAPNAME_00009053_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="00009054" name="MAPNAME_00009054_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="00009071" name="MAPNAME_00009071_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="00009072" name="MAPNAME_00009072_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="00009073" name="MAPNAME_00009073_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
+	<key id="00009051" name="クリティアス雲01" feature="Kritias_Epic01" />
+	<key id="00009052" name="クリティアス雲02" feature="Kritias_Epic01" />
+	<key id="00009053" name="クリティアス雲03" feature="Kritias_Epic01" />
+	<key id="00009054" name="クリティアス雲04" feature="Kritias_Epic01" />
+	<key id="00009071" name="クリティアス飾りタイル01" feature="Kritias_Epic01" />
+	<key id="00009072" name="クリティアス飾りタイル02" feature="Kritias_Epic01" />
+	<key id="00009073" name="クリティアス飾りタイル03" feature="Kritias_Epic01" />
 	<key id="02000001" name="トライア" feature="CBT" />
 	<key id="02000002" name="エバンズビル" feature="CBT" />
 	<key id="02000003" name="グリノの分かれ道" feature="Season2" />
@@ -366,17 +367,17 @@
 	<key id="02000330" name="廃倉庫" feature="Season1" />
 	<key id="02000331" name="花雨の森道" feature="Season1" />
 	<key id="02000332" name="ルディブリアム時計塔" feature="ChaosPapulatus" />
-	<key id="02000333" name="MAPNAME_02000333_NAME:[F]Develop" feature="Develop" />
+	<key id="02000333" name="ハロウィンハウス" feature="Develop" />
 	<key id="02000334" name="監視塔城壁" feature="Season3" />
 	<key id="02000335" name="ブラックノフ1号：貨物部" feature="KarkarIsland" />
 	<key id="02000336" name="ブラックノフ1号：客室部" feature="KarkarIsland" />
 	<key id="02000337" name="ブラックノフ1号：機関室" feature="KarkarIsland" />
 	<key id="02000338" name="寒風洞窟" feature="KarkarIsland" />
-	<key id="02000339" name="MAPNAME_02000339_NAME:[F]Develop" feature="Develop" />
-	<key id="02000340" name="MAPNAME_02000340_NAME:[F]Develop" feature="Develop" />
-	<key id="02000341" name="MAPNAME_02000341_NAME:[F]Develop" feature="Develop" />
-	<key id="02000342" name="MAPNAME_02000342_NAME:[F]Develop" feature="Develop" />
-	<key id="02000343" name="MAPNAME_02000343_NAME:[F]Develop" feature="Develop" />
+	<key id="02000339" name="ハロウィンハウス" feature="Develop" />
+	<key id="02000340" name="ハロウィンハウス" feature="Develop" />
+	<key id="02000341" name="ハロウィンハウス" feature="Develop" />
+	<key id="02000342" name="ハロウィンハウス" feature="Develop" />
+	<key id="02000343" name="ハロウィンハウス" feature="Develop" />
 	<key id="02000344" name="びっくりボックス" feature="Season3" />
 	<key id="02000345" name="シマリングマーブルホール" feature="Season3" />
 	<key id="02000346" name="固まってしまった水路" feature="Season3" />
@@ -408,6 +409,7 @@
 	<key id="02000372" name="生命の森" feature="NutaNuta" />
 	<key id="02000373" name="生命の森" feature="NutaNuta" />
 	<key id="02000374" name="Dr.マッドの研究所" feature="EventBossRush" />
+	<key id="02000374" name="マッドドクターの研究所" feature="MadDoctor01" />
 	<key id="02000375" name="ビヨンドリンクトリス" feature="Kandura" />
 	<key id="02000376" name="巡礼者の庭" feature="ShrineOfGuidance" />
 	<key id="02000377" name="ココ島" feature="Fishing" />
@@ -437,11 +439,11 @@
 	<key id="02000401" name="マドラカン城壁" feature="DarkCastle" />
 	<key id="02000402" name="姿を現したマドリアの城" feature="DarkCastle" />
 	<key id="02000403" name="怨念の大豪邸" feature="DarkCastle" />
-	<key id="02000404" name="MAPNAME_02000404_NAME:[F]HousingTogether" feature="HousingTogether" />
+	<key id="02000404" name="ペリバニカ" feature="HousingTogether" />
 	<key id="02000405" name="ヘレバニカ" feature="Season1" />
-	<key id="02000406" name="MAPNAME_02000406_NAME:[F]HousingTogether" feature="HousingTogether" />
-	<key id="02000407" name="MAPNAME_02000407_NAME:[F]HousingTogether" feature="HousingTogether" />
-	<key id="02000408" name="MAPNAME_02000408_NAME:[F]HousingTogether" feature="HousingTogether" />
+	<key id="02000406" name="エルロバニカ" feature="HousingTogether" />
+	<key id="02000407" name="クラバニカ" feature="HousingTogether" />
+	<key id="02000408" name="リグバニカ" feature="HousingTogether" />
 	<key id="02000409" name="時間の神殿" feature="PinkBean01" />
 	<key id="02000410" name="オルビス級空中艦船" feature="CrimsonBalrog01" />
 	<key id="02000411" name="スコーフェル基地" feature="BattleField56to60" />
@@ -456,10 +458,10 @@
 	<key id="02000420" name="ルディブリアム時計塔" feature="EventPapulatus" />
 	<key id="02000421" name="スカイフォートレス甲板" feature="FameContents" />
 	<key id="02000422" name="スカイフォートレス艦橋" feature="FameContents" />
-	<key id="02000423" name="MAPNAME_02000423_NAME:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="02000423" name="ファニーファニーアイランド" feature="WorldChampionMushroom" />
 	<key id="02000424" name="ベルク島" feature="Mastery05" />
 	<key id="02000425" name="アルキミーガーデン" feature="Mastery05" />
-	<key id="02000426" name="契約の祭壇" feature="Kritias_Zakum01" />
+	<key id="02000426" name="古代エネル鉱山" feature="Kritias_Zakum01" />
 	<key id="02000427" name="ルディブリアム時計塔" feature="EventPapulatus" />
 	<key id="02000428" name="オルビス級空中艦船" feature="CrimsonBalrog01" />
 	<key id="02000429" name="オルビス級空中艦船" feature="CrimsonBalrog01" />
@@ -490,36 +492,41 @@
 	<key id="02000495" name="ルーンの聖殿 3階" feature="NutaNuta" />
 	<key id="02000496" name="アイオブラペンタ" feature="LapentaFrontierQuest" />
 	<key id="02000497" name="霜柱の神殿" feature="LapentaFrontierQuest" />
-	<key id="02000498" name="MAPNAME_02000498_NAME:[F]Develop" feature="Develop" />
+	<key id="02000498" name="ダークスクリーム_2" feature="Develop" />
 	<key id="02000499" name="マッシュキングランド" feature="SurvivalContents03" />
 	<key id="02000500" name="影軍団の祭壇" feature="Season3" />
 	<key id="02000501" name="月明かり船長の要塞" feature="Season3" />
 	<key id="02000511" name="霜柱の神殿" feature="SnowKingdom" />
 	<key id="02000521" name="マドラカン尖塔" feature="DarkCastle" />
-	<key id="02000522" name="MAPNAME_02000522_NAME:[F]DungeonOpen70AH3" feature="DungeonOpen70AH3" />
-	<key id="02000523" name="MAPNAME_02000523_NAME:[F]DungeonOpen70AH4" feature="DungeonOpen70AH4" />
-	<key id="02000524" name="MAPNAME_02000524_NAME:[F]DungeonOpen70CH3" feature="DungeonOpen70CH3" />
-	<key id="02000525" name="MAPNAME_02000525_NAME:[F]DungeonOpen70CH4" feature="DungeonOpen70CH4" />
+	<key id="02000522" name="幻影のトロニックスバンカー" feature="DungeonOpen70AH3" />
+	<key id="02000523" name="幻影のバラスカ氷の洞窟" feature="DungeonOpen70AH4" />
+	<key id="02000524" name="幻影の青い影洞窟" feature="DungeonOpen70CH3" />
+	<key id="02000525" name="幻影のホルスの巣" feature="DungeonOpen70CH4" />
+	<key id="02000526" name="幻影の不滅の神殿" feature="DungeonOpen70AH5" />
+	<key id="02000527" name="幻影の影の祭壇(ハード)" feature="DungeonOpen70CH6" />
+	<key id="02000528" name="幻影の影の祭壇(ノーマル)" feature="DungeonOpen70CH6" />
+	<key id="02000529" name="異界のコロシアム" feature="DungeonOS02" />
 	<key id="02000531" name="時間の神殿" feature="PinkBean01" />
-	<key id="02000532" name="MAPNAME_02000532_NAME:[F]Develop" feature="Develop" />
-	<key id="02000533" name="MAPNAME_02000533_NAME:[F]Develop" feature="Develop" />
-	<key id="02000534" name="MAPNAME_02000534_NAME:[F]Develop" feature="Develop" />
-	<key id="02000535" name="MAPNAME_02000535_NAME:[F]Develop" feature="Develop" />
-	<key id="02000536" name="MAPNAME_02000536_NAME:[F]BlackOnyx" feature="BlackOnyx" />
-	<key id="02000537" name="MAPNAME_02000537_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000538" name="MAPNAME_02000538_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000539" name="MAPNAME_02000539_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000540" name="MAPNAME_02000540_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000541" name="MAPNAME_02000541_NAME:[F]Develop" feature="Develop" />
-	<key id="02000542" name="MAPNAME_02000542_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000543" name="MAPNAME_02000543_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000544" name="MAPNAME_02000544_NAME:[F]Develop" feature="Develop" />
-	<key id="02000545" name="MAPNAME_02000545_NAME:[F]DarkTear" feature="DarkTear" />
-	<key id="02000551" name="MAPNAME_02000551_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="02000552" name="MAPNAME_02000552_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="02000553" name="MAPNAME_02000553_NAME:[F]Develop" feature="Develop" />
-	<key id="02000554" name="MAPNAME_02000554_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="02000555" name="MAPNAME_02000555_NAME:[F]BlackOnyx" feature="BlackOnyx" />
+	<key id="02000532" name="ブラックオニキスタワー1階 - ロビー" feature="Develop" />
+	<key id="02000533" name="ブラックオニキスタワー2階 - 事務室" feature="Develop" />
+	<key id="02000534" name="ブラックオニキスタワー3階 - データ保管・企画戦略室" feature="Develop" />
+	<key id="02000535" name="ブラックオニキスタワー4階 - 幹部会議室" feature="Develop" />
+	<key id="02000536" name="1級機密金庫" feature="BlackOnyx" />
+	<key id="02000537" name="深淵の城塞" feature="DarkTear" />
+	<key id="02000538" name="はるかな進入路" feature="DarkTear" />
+	<key id="02000539" name="沈黙の橋" feature="DarkTear" />
+	<key id="02000540" name="光を失った寺院" feature="DarkTear" />
+	<key id="02000541" name="闇が流れる道" feature="Develop" />
+	<key id="02000542" name="魂の監獄" feature="DarkTear" />
+	<key id="02000543" name="貪欲の祭壇" feature="DarkTear" />
+	<key id="02000544" name="地下迷宮" feature="Develop" />
+	<key id="02000545" name="闇のゆりかご" feature="DarkTear" />
+	<key id="02000551" name="走れ走れサーキット" feature="DungeonOpen70CH5" />
+	<key id="02000552" name="ゴシゴシアトリエ" feature="DungeonOpen70CH5" />
+	<key id="02000553" name="ブラックダンジョン03" feature="Develop" />
+	<key id="02000554" name="時空の亀裂" feature="EpicApocalypse01" />
+	<key id="02000555" name="ブラックオニキスタワー" feature="BlackOnyx" />
+	<key id="02000559" name="幻影のビヨンドリンクトリス" feature="DungeonOpen70CH7" />
 	<key id="02010001" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02010002" name="ルデリーシティ" feature="KarkarIsland" />
 	<key id="02010003" name="空きマップ(製作予定)" feature="Develop" />
@@ -620,24 +627,24 @@
 	<key id="02010098" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02010099" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02010100" name="空きマップ(製作予定)" feature="Develop" />
-	<key id="02020001" name="MAPNAME_02020001_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020002" name="未定" feature="Timaion01" />
-	<key id="02020003" name="MAPNAME_02020003_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020004" name="MAPNAME_02020004_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020005" name="未定" feature="Timaion01" />
-	<key id="02020006" name="MAPNAME_02020006_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020007" name="未定" feature="Timaion01" />
-	<key id="02020008" name="MAPNAME_02020008_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020009" name="MAPNAME_02020009_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020010" name="MAPNAME_02020010_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020011" name="未定" feature="Timaion01" />
-	<key id="02020012" name="未定" feature="Timaion01" />
-	<key id="02020013" name="MAPNAME_02020013_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020014" name="MAPNAME_02020014_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020015" name="未定" feature="Timaion01" />
-	<key id="02020016" name="MAPNAME_02020016_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020017" name="MAPNAME_02020017_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020018" name="MAPNAME_02020018_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="02020001" name="オーロラレイク" feature="Kritias_2018_12" />
+	<key id="02020002" name="ストーム戦場" feature="Timaion01" />
+	<key id="02020003" name="プルカウ平原" feature="Kritias_2018_12" />
+	<key id="02020004" name="バニビル" feature="Kritias_2018_12" />
+	<key id="02020005" name="忘れられた村の北側" feature="Timaion01" />
+	<key id="02020006" name="キデルグランドブリッジ" feature="Kritias_2018_12" />
+	<key id="02020007" name="時間のジャングル" feature="Timaion01" />
+	<key id="02020008" name="モランフォレスト" feature="Kritias_2018_12" />
+	<key id="02020009" name="生態実験区域" feature="Kritias_2018_12" />
+	<key id="02020010" name="キデルタイレン司令部" feature="Kritias_2018_12" />
+	<key id="02020011" name="子守唄の森" feature="Timaion01" />
+	<key id="02020012" name="ティマイオス" feature="Timaion01" />
+	<key id="02020013" name="ジークベンルート" feature="Kritias_2018_12" />
+	<key id="02020014" name="生態研究団地" feature="Kritias_2018_12" />
+	<key id="02020015" name="地下迷路" feature="Timaion01" />
+	<key id="02020016" name="アルケイナ高原" feature="Kritias_2018_12" />
+	<key id="02020017" name="捨てられた庁舎" feature="Kritias_2018_12" />
+	<key id="02020018" name="ティアマン" feature="Kritias_2018_12" />
 	<key id="02020019" name="ネイリンの戦闘シミュレーター" feature="FameChallengeDungeon" />
 	<key id="02020020" name="グリーンフッド自警団の訓練所(ハード)" feature="FameChallengeDungeon" />
 	<key id="02020021" name="シャドウウィンドの秘密訓練施設" feature="FameChallengeDungeon" />
@@ -648,33 +655,33 @@
 	<key id="02020026" name="トライア近衛隊の体力鍛錬場(ハード)" feature="FameChallengeDungeon" />
 	<key id="02020027" name="騎士団の高等指揮部接見区域" feature="FameChallengeDungeon" />
 	<key id="02020028" name="騎士団の高等指揮部接見区域(ハード)" feature="FameChallengeDungeon" />
-	<key id="02020029" name="MAPNAME_02020029_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020030" name="MAPNAME_02020030_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020031" name="MAPNAME_02020031_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020032" name="MAPNAME_02020032_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020033" name="MAPNAME_02020033_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020034" name="MAPNAME_02020034_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020035" name="MAPNAME_02020035_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020036" name="MAPNAME_02020036_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020037" name="MAPNAME_02020037_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="02020029" name="フォレインの森" feature="Kritias_2018_12" />
+	<key id="02020030" name="リッチモンド" feature="Kritias_2018_12" />
+	<key id="02020031" name="ランメル" feature="Kritias_2018_12" />
+	<key id="02020032" name="バベニ前哨基地" feature="Kritias_2018_12" />
+	<key id="02020033" name="マンシュタ要塞" feature="Kritias_2018_12" />
+	<key id="02020034" name="キデルエネル融合炉" feature="Kritias_2018_12" />
+	<key id="02020035" name="タイレン王国ロボット工場" feature="Kritias_2018_12" />
+	<key id="02020036" name="闇の軍団占領地" feature="Kritias_2018_12" />
+	<key id="02020037" name="ジュピアロード" feature="Kritias_2018_12" />
 	<key id="02020038" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02020039" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02020040" name="空きマップ(製作予定)" feature="Develop" />
-	<key id="02020041" name="MAPNAME_02020041_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020051" name="MAPNAME_02020051_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="02020061" name="MAPNAME_02020061_NAME:[F]Fieldwar01" feature="Fieldwar01" />
-	<key id="02020062" name="MAPNAME_02020062_NAME:[F]Fieldwar01" feature="Fieldwar01" />
-	<key id="02020063" name="MAPNAME_02020063_NAME:[F]Fieldwar02" feature="Fieldwar02" />
-	<key id="02020064" name="MAPNAME_02020064_NAME:[F]Fieldwar02" feature="Fieldwar02" />
-	<key id="02020065" name="MAPNAME_02020065_NAME:[F]Fieldwar02" feature="Fieldwar02" />
-	<key id="02020066" name="MAPNAME_02020066_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="02020067" name="MAPNAME_02020067_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="02020068" name="MAPNAME_02020068_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="02020069" name="MAPNAME_02020069_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="02020070" name="MAPNAME_02020070_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="02020071" name="MAPNAME_02020071_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="02020097" name="MAPNAME_02020097_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="02020098" name="MAPNAME_02020098_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
+	<key id="02020041" name="バベニ" feature="Kritias_2018_12" />
+	<key id="02020051" name="廃棄物埋立地" feature="Kritias_2018_12" />
+	<key id="02020061" name="プルカウ平原" feature="Fieldwar01" />
+	<key id="02020062" name="バベニ前哨基地" feature="Fieldwar01" />
+	<key id="02020063" name="生態実験区域" feature="Fieldwar02" />
+	<key id="02020064" name="闇の軍団占領地" feature="Fieldwar02" />
+	<key id="02020065" name="ジークベンルート" feature="Fieldwar02" />
+	<key id="02020066" name="難民避難所ガラン" feature="Kritias02" />
+	<key id="02020067" name="捨てられた荒れ地" feature="Kritias02" />
+	<key id="02020068" name="汚染されたモランの森" feature="Kritias02" />
+	<key id="02020069" name="チョロロクの巣" feature="Kritias02" />
+	<key id="02020070" name="漆黒の城塞" feature="Kritias02" />
+	<key id="02020071" name="空中要塞トゥルカリオン" feature="Kritias02" />
+	<key id="02020097" name="エネルキャッスル" feature="Kritias_Balrog01" />
+	<key id="02020098" name="ティアマン時間の回廊" feature="Kritias_Inferno01" />
 	<key id="02020100" name="悲痛の森" feature="LapentaDungeon" />
 	<key id="02020101" name="エメラルドプリズン" feature="LapentaDungeon" />
 	<key id="02020110" name="混ざり合った世界" feature="LapentaDungeon" />
@@ -682,20 +689,20 @@
 	<key id="02020112" name="歪んだ空間" feature="LapentaDungeon" />
 	<key id="02020120" name="ターミナスエンズ" feature="LapentaDungeon" />
 	<key id="02020130" name="ブラックシャードチェンバー" feature="LapentaDungeon" />
-	<key id="02020140" name="MAPNAME_02020140_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="02020141" name="MAPNAME_02020141_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="02020142" name="MAPNAME_02020142_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="02020143" name="MAPNAME_02020143_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
+	<key id="02020140" name="陰謀の殿堂" feature="Kritias_Turka03" />
+	<key id="02020141" name="墜落の砂漠" feature="Kritias_Turka03" />
+	<key id="02020142" name="陰謀の殿堂" feature="Kritias_Turka03" />
+	<key id="02020143" name="墜落の砂漠" feature="Kritias_Turka03" />
 	<key id="02020144" name="エメラルドプリズン" feature="LapentaDungeon" />
 	<key id="02020145" name="グレイブブルー" feature="LapentaDungeon" />
 	<key id="02020146" name="ターミナスエンズ" feature="LapentaDungeon" />
 	<key id="02020147" name="ブラックシャードチェンバー" feature="LapentaDungeon" />
-	<key id="02020200" name="MAPNAME_02020200_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
-	<key id="02020201" name="MAPNAME_02020201_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
-	<key id="02020300" name="MAPNAME_02020300_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="02020301" name="MAPNAME_02020301_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="02020310" name="MAPNAME_02020310_NAME:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-	<key id="02020311" name="MAPNAME_02020311_NAME:[F]Kritias_Turka02" feature="Kritias_Turka02" />
+	<key id="02020200" name="アルケイナデルファイオン" feature="Kritias_Paika01" />
+	<key id="02020201" name="アルケイナデルファイオン" feature="Kritias_Paika01" />
+	<key id="02020300" name="隠された格納庫" feature="Kritias_Turka01" />
+	<key id="02020301" name="隠された格納庫" feature="Kritias_Turka01" />
+	<key id="02020310" name="ティマイオン回廊" feature="Kritias_Turka02" />
+	<key id="02020311" name="裏切り者ティマイオン" feature="Kritias_Turka02" />
 	<key id="02100000" name="リンク4：氷壁の怪物" feature="GuildRaid01" />
 	<key id="02100001" name="リンク1：アフレラ僻地" feature="GuildRaid01" />
 	<key id="02100002" name="リンク2：レインボースライム工場" feature="GuildRaid01" />
@@ -706,6 +713,124 @@
 	<key id="02100007" name="リンク？：火と氷の間" feature="GuildRaid02" />
 	<key id="02100008" name="リンク？：ホルスの神殿" feature="GuildRaid02" />
 	<key id="02100009" name="リンク5：不死の決闘場" feature="GuildRaid01" />
+	<key id="02200001" name="青い炎の混沌" feature="DungeonOS01" />
+	<key id="02200002" name="赤いバラの劇場" feature="DungeonOS04" />
+	<key id="02900001" name="メイプルオフィステル" />
+	<key id="02900002" name="ブラウンマンションA棟" />
+	<key id="02900003" name="ブラウンマンションB棟" />
+	<key id="02900004" name="空きマップ(製作予定)" />
+	<key id="02900005" name="空きマップ(製作予定)" />
+	<key id="02900006" name="空きマップ(製作予定)" />
+	<key id="02900007" name="アーケインハウス1番地" />
+	<key id="02900008" name="アーケインハウス2番地" />
+	<key id="02900009" name="バーンウッドヴィラA棟" />
+	<key id="02900010" name="バーンウッドヴィラB棟" />
+	<key id="02900011" name="バーンウッドヴィラC棟" />
+	<key id="02900012" name="バーンウッドヴィラD棟" />
+	<key id="02900013" name="エディントンヴィラA棟" />
+	<key id="02900014" name="エディントンヴィラB棟" />
+	<key id="02900015" name="エディントンヴィラC棟" />
+	<key id="02900016" name="オーシャンビューコンド1棟" />
+	<key id="02900017" name="オーシャンビューコンド2棟" />
+	<key id="02900018" name="レッドクラビコンド" />
+	<key id="02900019" name="グリーンタートルコンド1棟" />
+	<key id="02900020" name="グリーンタートルコンド2棟" />
+	<key id="02900021" name="花のせせらぎペンション" />
+	<key id="02900022" name="グリーンビルスパペンション" />
+	<key id="02900023" name="アンドレアコンド" />
+	<key id="02900024" name="ロイヤルマンション第1団地1棟" />
+	<key id="02900025" name="ロイヤルマンション第1団地2棟" />
+	<key id="02900026" name="ロイヤルマンション第2団地1棟" />
+	<key id="02900027" name="ロイヤルマンション第2団地2棟" />
+	<key id="02900028" name="ロイヤルマンション第2団地3棟" />
+	<key id="02900029" name="ロイヤルマンション第2団地4棟" />
+	<key id="02900030" name="ロイヤルマンション第3団地1棟" />
+	<key id="02900031" name="ロイヤルマンション第3団地2棟" />
+	<key id="02900032" name="ロイヤルマンション第3団地3棟" />
+	<key id="02900033" name="ノルマンション1棟" />
+	<key id="02900034" name="ノルマンション2棟" />
+	<key id="02900035" name="ノルマンション3棟" />
+	<key id="02900036" name="スウィートホームドミトリー1号店" />
+	<key id="02900037" name="スウィートホームドミトリー2号店" />
+	<key id="02900038" name="イーストサイドハッピーヴィラ1棟" />
+	<key id="02900039" name="イーストサイドハッピーヴィラ2棟" />
+	<key id="02900040" name="イーストサイドマルコヴィラ" />
+	<key id="02900041" name="ラグジュアリースイミングプールマンション1棟" />
+	<key id="02900042" name="ラグジュアリースイミングプールマンション2棟" />
+	<key id="02900043" name="マリナオフィステル" />
+	<key id="02900044" name="バロタヴィラ" />
+	<key id="02900045" name="空きマップ(製作予定)" />
+	<key id="02900046" name="空きマップ(製作予定)" />
+	<key id="02900047" name="空きマップ(製作予定)" />
+	<key id="02900048" name="空きマップ(製作予定)" />
+	<key id="02900049" name="ピグミング集合住宅" />
+	<key id="02900050" name="ナメドタウンハウスA棟" />
+	<key id="02900051" name="ナメドタウンハウスB棟" />
+	<key id="02900052" name="ムルパゴスタウンハウスA棟" />
+	<key id="02900053" name="ムルパゴスタウンハウスB棟" />
+	<key id="02900054" name="カラス集合住宅A棟" />
+	<key id="02900055" name="カラス集合住宅B棟" />
+	<key id="02900056" name="カラス集合住宅C棟" />
+	<key id="02900057" name="カラス集合住宅D棟" />
+	<key id="02900058" name="オルネマンション1棟" />
+	<key id="02900059" name="オルネマンション2棟" />
+	<key id="02900060" name="フェアリーコンド" />
+	<key id="02900061" name="トゥインクルマンション1棟" />
+	<key id="02900062" name="トゥインクルマンション2棟" />
+	<key id="02900063" name="トゥインクルマンション3棟" />
+	<key id="02900064" name="青い妖精の集合住宅A棟" />
+	<key id="02900065" name="青い妖精の集合住宅B棟" />
+	<key id="02900066" name="アネスヴィラ1棟" />
+	<key id="02900067" name="アネスヴィラ2棟" />
+	<key id="02900068" name="グリーンハントヴィラ" />
+	<key id="02900069" name="スプリングブリーズヴィラ1番地" />
+	<key id="02900070" name="スプリングブリーズヴィラ2番地" />
+	<key id="02900071" name="スプリングブリーズヴィラ3番地" />
+	<key id="02900072" name="アネスヴィラ3棟" />
+	<key id="02900073" name="ティンバールックヴィラ1棟" />
+	<key id="02900074" name="ティンバールックヴィラ2棟" />
+	<key id="02900075" name="ティンバールックヴィラ3棟" />
+	<key id="02900076" name="エリンヴィラA棟" />
+	<key id="02900077" name="エリンヴィラB棟" />
+	<key id="02900078" name="エリンヴィラC棟" />
+	<key id="02900079" name="ツリーライフA棟" />
+	<key id="02900080" name="ツリーライフB棟" />
+	<key id="02900081" name="シャインクロスヴィラ1棟" />
+	<key id="02900082" name="シャインクロスヴィラ2棟" />
+	<key id="02900083" name="シャインクロスヴィラ3棟" />
+	<key id="02900084" name="ウィンディヒルヴィラ1棟" />
+	<key id="02900085" name="ウィンディヒルヴィラ2棟" />
+	<key id="02900086" name="ミスリルヴィラ1棟" />
+	<key id="02900087" name="ミスリルヴィラ2棟" />
+	<key id="02900088" name="ジェムストーンヴィラ1棟" />
+	<key id="02900089" name="ジェムストーンヴィラ2棟" />
+	<key id="02900090" name="ジェムストーンヴィラ3棟" />
+	<key id="02900091" name="池の香りコンド1棟" />
+	<key id="02900092" name="池の香りコンド2棟" />
+	<key id="02900093" name="オアシスマンションA棟" />
+	<key id="02900094" name="オアシスマンションB棟" />
+	<key id="02900095" name="オアシスマンションC棟" />
+	<key id="02900096" name="ラグジュアリーリゾートヴィラA棟" />
+	<key id="02900097" name="ラグジュアリーリゾートヴィラB棟" />
+	<key id="02900098" name="ラグジュアリーリゾートヴィラC棟" />
+	<key id="02900099" name="ラグジュアリーリゾートヴィラD棟" />
+	<key id="02900100" name="ラグジュアリーリゾートヴィラE棟" />
+	<key id="02900101" name="ラグジュアリーリゾートヴィラF棟" />
+	<key id="02900102" name="ラグジュアリーリゾートヴィラG棟" />
+	<key id="02900103" name="ヘルミナペンション1棟" />
+	<key id="02900104" name="ヘルミナペンション2棟" />
+	<key id="02900105" name="アイリスペンション" />
+	<key id="02900106" name="アクロペンション1棟" />
+	<key id="02900107" name="アクロペンション2棟" />
+	<key id="02900108" name="アクロペンション3棟" />
+	<key id="02900109" name="アクロペンション4棟" />
+	<key id="02900110" name="サンストーンヴィラ" />
+	<key id="02900111" name="トパーズヴィラ" />
+	<key id="02900112" name="トルマリンヴィラ" />
+	<key id="02900113" name="ガーネットヴィラ" />
+	<key id="02900114" name="ライムヴィラ" />
+	<key id="02900115" name="ヒヤシンスヴィラ" />
+	<key id="02900116" name="モリオンヴィラ" />
 	<key id="02990001" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02990002" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="02990003" name="空きマップ(製作予定)" feature="Develop" />
@@ -858,7 +983,7 @@
 	<key id="03000278" name="すすり泣く船着き場" feature="Develop" />
 	<key id="03000279" name="スケリックダークレール" feature="Develop" />
 	<key id="03000280" name="暗月ウサギの丘" feature="Develop" />
-	<key id="03000281" name="MAPNAME_03000281_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="03000281" name="不安定な廃墟" feature="Timaion01" />
 	<key id="03009001" name="カブリアム盆地避難所" feature="CBT" />
 	<key id="03009002" name="マジョーレ沼地避難所" feature="Develop" />
 	<key id="03009003" name="腐った心臓避難所" feature="Develop" />
@@ -903,7 +1028,7 @@
 	<key id="50000001" name="共用ダンジョンロビー" feature="CBT" />
 	<key id="50000002" name="冒険[ハード] ダンジョンロビー" feature="CBT" />
 	<key id="50000003" name="カオスレイドダンジョンロビー" feature="CBT" />
-	<key id="50000004" name="MAPNAME_50000004_NAME:[F]Zakum01" feature="Zakum01" />
+	<key id="50000004" name="リバースレイドダンジョンロビー" feature="Zakum01" />
 	<key id="50000005" name="リバースレイドダンジョンロビー" feature="PinkBean01" />
 	<key id="50000006" name="ゼノンシステム研究所" feature="GuildRaid01" />
 	<key id="50000007" name="ワールドインベージョンダンジョンロビー" feature="CrimsonBalrog01" />
@@ -912,10 +1037,10 @@
 	<key id="50000010" name="グレイブブルーロビー" feature="LapentaDungeon" />
 	<key id="50000011" name="ターミナスエンズロビー" feature="LapentaDungeon" />
 	<key id="50000012" name="ブラックシャードチェンバーロビー" feature="LapentaDungeon" />
-	<key id="50000013" name="MAPNAME_50000013_NAME:[F]Colosseum01" feature="Colosseum01" />
+	<key id="50000013" name="クイーンビーンランブルロビー" feature="Colosseum01" />
 	<key id="50000014" name="カオスレイドダンジョンロビー" feature="Kritias_Zakum01" />
-	<key id="50000015" name="MAPNAME_50000015_NAME:[F]Kritias02" feature="Kritias02" />
-	<key id="50000016" name="MAPNAME_50000016_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
+	<key id="50000015" name="トゥルカダンジョンロビー" feature="Kritias02" />
+	<key id="50000016" name="幻影のダンジョンロビー" feature="EpicApocalypse01" />
 	<key id="51000001" name="スプリングファーム" feature="ArcadeSpringFarm" />
 	<key id="51000002" name="一般ダンジョン02" feature="Develop" />
 	<key id="51000003" name="クレイジーモンキーバトル" feature="ArcadeCrazyMonkeyOcean" />
@@ -939,7 +1064,7 @@
 	<key id="52000011" name="時間の結界" feature="Season3" />
 	<key id="52000012" name="呪術師の墓" feature="Season3" />
 	<key id="52000013" name="魂の玉" feature="Season3" />
-	<key id="52000014" name="MAPNAME_52000014_NAME:[F]Balrogitem3rd" feature="Balrogitem3rd" />
+	<key id="52000014" name="バルログの思念" feature="Balrogitem3rd" />
 	<key id="52000015" name="地下洞窟" feature="RuneBlader" />
 	<key id="52000016" name="先祖たちの墓" feature="RuneBlader" />
 	<key id="52000017" name="異空間" feature="SoulBinder" />
@@ -1002,7 +1127,7 @@
 	<key id="52000074" name="守護軍連合本部特別対策室" feature="Season1" />
 	<key id="52000075" name="王宮地下監獄" feature="Season1" />
 	<key id="52000076" name="闇の根" feature="Season1" />
-	<key id="52000077" name="MAPNAME_52000077_NAME:[F]Develop" feature="Develop" />
+	<key id="52000077" name="時空の彼方" feature="Develop" />
 	<key id="52000078" name="月明かりの砂漠" feature="Develop" />
 	<key id="52000079" name="封鎖された宿の小さな部屋" feature="Season1" />
 	<key id="52000080" name="雪原探査前哨基地" feature="SnowKingdom" />
@@ -1113,21 +1238,22 @@
 	<key id="52000185" name="闇の回廊" feature="LapentaFrontierQuest" />
 	<key id="52000186" name="フロンティア財団邸宅" feature="LapentaFrontierQuest" />
 	<key id="52000187" name="マッシュキングランド入口" feature="SurvivalContents03" />
-	<key id="52000188" name="MAPNAME_52000188_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="52000189" name="MAPNAME_52000189_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000190" name="MAPNAME_52000190_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000191" name="MAPNAME_52000191_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000192" name="MAPNAME_52000192_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000193" name="MAPNAME_52000193_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000194" name="MAPNAME_52000194_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000195" name="MAPNAME_52000195_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000196" name="MAPNAME_52000196_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000197" name="MAPNAME_52000197_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000198" name="MAPNAME_52000198_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000199" name="MAPNAME_52000199_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000200" name="MAPNAME_52000200_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000201" name="MAPNAME_52000201_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
-	<key id="52000202" name="MAPNAME_52000202_NAME:[F]EpicApocalypse01" feature="EpicApocalypse01" />
+	<key id="52000187" name="マッシュキングランド入口" feature="SurvivalTutorial" />
+	<key id="52000188" name="神秘的な洞窟" feature="JobChange_02" />
+	<key id="52000189" name="監獄の塔" feature="EpicApocalypse01" />
+	<key id="52000190" name="監獄の塔の独房" feature="EpicApocalypse01" />
+	<key id="52000191" name="バロンの監獄" feature="EpicApocalypse01" />
+	<key id="52000192" name="秘密の通路" feature="EpicApocalypse01" />
+	<key id="52000193" name="女帝の寝室" feature="EpicApocalypse01" />
+	<key id="52000194" name="亀裂が生じた女帝の寝室" feature="EpicApocalypse01" />
+	<key id="52000195" name="エレブの夢の中" feature="EpicApocalypse01" />
+	<key id="52000196" name="プリズム研究所" feature="EpicApocalypse01" />
+	<key id="52000197" name="女帝の寝室" feature="EpicApocalypse01" />
+	<key id="52000198" name="監獄の塔" feature="EpicApocalypse01" />
+	<key id="52000199" name="黒い月の深淵" feature="EpicApocalypse01" />
+	<key id="52000200" name="女帝謁見室" feature="EpicApocalypse01" />
+	<key id="52000201" name="亀裂が生じた女帝の寝室" feature="EpicApocalypse01" />
+	<key id="52000202" name="時空の亀裂" feature="EpicApocalypse01" />
 	<key id="52010001" name="村長ターバンの家" feature="KarkarIsland" />
 	<key id="52010002" name="ルデリー治安本部" feature="KarkarIsland" />
 	<key id="52010003" name="エレヴの部屋" feature="KarkarIsland" />
@@ -1200,45 +1326,45 @@
 	<key id="52010070" name="臨時治療室" feature="EyeOfLapentaQuest" />
 	<key id="52010071" name="闇の回廊" feature="EyeOfLapentaQuest" />
 	<key id="52010072" name="フロンティア財団会議室" feature="EyeOfLapentaQuest" />
-	<key id="52020001" name="MAPNAME_52020001_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020001" name="霧の中の浮遊島" feature="Timaion01" />
 	<key id="52020002" name="ラージンの兵舎" feature="Timaion01" />
-	<key id="52020003" name="MAPNAME_52020003_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020004" name="MAPNAME_52020004_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020005" name="MAPNAME_52020005_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020006" name="MAPNAME_52020006_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020007" name="MAPNAME_52020007_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020008" name="MAPNAME_52020008_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020009" name="MAPNAME_52020009_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020010" name="MAPNAME_52020010_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020003" name="壊れた作業室" feature="Timaion01" />
+	<key id="52020004" name="地下避難所" feature="Timaion01" />
+	<key id="52020005" name="捨てられたトラック" feature="Timaion01" />
+	<key id="52020006" name="城壁の下の通路" feature="Timaion01" />
+	<key id="52020007" name="螺旋の部屋" feature="Timaion01" />
+	<key id="52020008" name="螺旋の部屋1階" feature="Timaion01" />
+	<key id="52020009" name="名もなき家" feature="Timaion01" />
+	<key id="52020010" name="巻き戻した時間の家" feature="Timaion01" />
 	<key id="52020011" name="夢幻の家" feature="Timaion01" />
-	<key id="52020012" name="MAPNAME_52020012_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020013" name="MAPNAME_52020013_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020012" name="木の中の空間" feature="Timaion01" />
+	<key id="52020013" name="時空の破片" feature="Timaion01" />
 	<key id="52020014" name="地下通路" feature="Timaion01" />
 	<key id="52020015" name="夢幻の通路" feature="Timaion01" />
 	<key id="52020016" name="夢幻の劇場" feature="Timaion01" />
-	<key id="52020017" name="MAPNAME_52020017_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020018" name="MAPNAME_52020018_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020019" name="MAPNAME_52020019_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020017" name="劇場 永遠の彷徨" feature="Timaion01" />
+	<key id="52020018" name="悪夢のトロイ旅館" feature="Timaion01" />
+	<key id="52020019" name="フォーガトンロード外郭" feature="Timaion01" />
 	<key id="52020020" name="トロイ旅館216号室" feature="Timaion01" />
 	<key id="52020021" name="トロイ旅館" feature="Timaion01" />
 	<key id="52020022" name="果樹園管理人室" feature="Timaion01" />
-	<key id="52020023" name="MAPNAME_52020023_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020024" name="MAPNAME_52020024_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020025" name="MAPNAME_52020025_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020026" name="MAPNAME_52020026_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020027" name="MAPNAME_52020027_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020028" name="MAPNAME_52020028_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020023" name="機械統制室" feature="Timaion01" />
+	<key id="52020024" name="地下鍛冶場" feature="Timaion01" />
+	<key id="52020025" name="地下脱出路" feature="Timaion01" />
+	<key id="52020026" name="螺旋の部屋中心部" feature="Timaion01" />
+	<key id="52020027" name="螺旋の部屋頂上" feature="Timaion01" />
+	<key id="52020028" name="アクロポリス" feature="Timaion01" />
 	<key id="52020029" name="真理の扉" feature="Timaion01" />
-	<key id="52020030" name="MAPNAME_52020030_NAME:[F]Timaion01" feature="Timaion01" />
-	<key id="52020031" name="MAPNAME_52020031_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020030" name="天空の塔" feature="Timaion01" />
+	<key id="52020031" name="天空の祭壇" feature="Timaion01" />
 	<key id="52020032" name="夢幻の劇場" feature="Timaion01" />
-	<key id="52020033" name="MAPNAME_52020033_NAME:[F]Timaion01" feature="Timaion01" />
+	<key id="52020033" name="スカイフォートレス、危機状況" feature="Timaion01" />
 	<key id="52020034" name="静かな部屋" feature="Timaion01" />
 	<key id="52020035" name="ラージンの兵舎" feature="Timaion01" />
 	<key id="52020036" name="ピグミング部族の祭壇" feature="FameContents" />
 	<key id="52020037" name="メイプル連合指揮本部" feature="Kritias_Epic01" />
 	<key id="52020038" name="スカイフォートレス艦橋" feature="Kritias_Epic01" />
-	<key id="52020039" name="MAPNAME_52020039_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="52020039" name="マンシュタ要塞" feature="Kritias_2018_12" />
 	<key id="52020040" name="スカイフォートレス艦橋" feature="Kritias_Epic01" />
 	<key id="52100001" name="神秘的なサンゴ島" feature="ChronicleDungeon60_01" />
 	<key id="52100002" name="仙女の洞窟" feature="ChronicleDungeon60_01" />
@@ -1260,37 +1386,42 @@
 	<key id="52100056" name="マドラカン位相制御連結体" feature="ChronicleDungeon60_01" />
 	<key id="52100060" name="死の分かれ道" feature="ChronicleDungeon60_01" />
 	<key id="52100070" name="アイオブラペンタ" feature="LapentaFrontierQuest" />
-	<key id="52100101" name="MAPNAME_52100101_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="52100102" name="MAPNAME_52100102_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="52100103" name="MAPNAME_52100103_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="52100104" name="MAPNAME_52100104_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="52100105" name="MAPNAME_52100105_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
+	<key id="52100101" name="煙る丘陵" feature="Kritias_Epic01" />
+	<key id="52100102" name="フォレインの森外郭" feature="Kritias_Epic01" />
+	<key id="52100103" name="マルレーネ執務室" feature="Kritias_Epic01" />
+	<key id="52100104" name="資源融合炉" feature="Kritias_Epic01" />
+	<key id="52100105" name="資源融合炉" feature="Kritias_Epic01" />
 	<key id="52100106" name="地下通路" feature="Kritias_2018_12" />
-	<key id="52100107" name="MAPNAME_52100107_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="52100108" name="MAPNAME_52100108_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="52100109" name="MAPNAME_52100109_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="52100110" name="MAPNAME_52100110_NAME:[F]Kritias_Epic01" feature="Kritias_Epic01" />
-	<key id="52100111" name="MAPNAME_52100111_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="52100112" name="MAPNAME_52100112_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="52100113" name="MAPNAME_52100113_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="52100114" name="MAPNAME_52100114_NAME:[F]Fame_Geo01" feature="Fame_Geo01" />
-	<key id="52100115" name="MAPNAME_52100115_NAME:[F]Fame_Geo01" feature="Fame_Geo01" />
-	<key id="52100116" name="MAPNAME_52100116_NAME:[F]Fame_Geo01" feature="Fame_Geo01" />
-	<key id="52100117" name="MAPNAME_52100117_NAME:[F]Fame_Geo01" feature="Fame_Geo01" />
-	<key id="52100118" name="MAPNAME_52100118_NAME:[F]Fame_Geo01" feature="Fame_Geo01" />
-	<key id="52100201" name="MAPNAME_52100201_NAME:[F]Kritias_Epic02" feature="Kritias_Epic02" />
-	<key id="52100202" name="MAPNAME_52100202_NAME:[F]Kritias_Epic02" feature="Kritias_Epic02" />
-	<key id="52100203" name="MAPNAME_52100203_NAME:[F]Kritias_Epic03" feature="Kritias_Epic03" />
-	<key id="52100204" name="MAPNAME_52100204_NAME:[F]Kritias_Epic03" feature="Kritias_Epic03" />
-	<key id="52100205" name="MAPNAME_52100205_NAME:[F]Kritias_Epic03" feature="Kritias_Epic03" />
+	<key id="52100107" name="遺跡地下" feature="Kritias_2018_12" />
+	<key id="52100108" name="地下統制室" feature="Kritias_2018_12" />
+	<key id="52100109" name="マルレーネ執務室" feature="Kritias_Epic01" />
+	<key id="52100110" name="資源融合炉" feature="Kritias_Epic01" />
+	<key id="52100111" name="フォレイン洞窟" feature="Kritias_2018_12" />
+	<key id="52100112" name="ソルジャーレト研究室" feature="Kritias_2018_12" />
+	<key id="52100113" name="なめらかなクゥーク生息地" feature="Kritias_2018_12" />
+	<key id="52100114" name="ケルベス拠点テキン" feature="Fame_Geo01" />
+	<key id="52100115" name="ハイウェイ建設現場" feature="Fame_Geo01" />
+	<key id="52100116" name="ケルベス秘密倉庫" feature="Fame_Geo01" />
+	<key id="52100117" name="堕落の洞窟" feature="Fame_Geo01" />
+	<key id="52100118" name="違法武器工場" feature="Fame_Geo01" />
+	<key id="52100201" name="工場内部" feature="Kritias_Epic02" />
+	<key id="52100202" name="漆黒の城塞" feature="Kritias_Epic02" />
+	<key id="52100203" name="トゥルカボスルーム" feature="Kritias_Epic03" />
+	<key id="52100204" name="臨時司令部" feature="Kritias_Epic03" />
+	<key id="52100205" name="ジェシカの執務室" feature="Kritias_Epic03" />
 	<key id="52100206" name="黒月の深淵" feature="Kritias_Epic03" />
-	<key id="52100207" name="MAPNAME_52100207_NAME:[F]Kritias_Epic02" feature="Kritias_Epic02" />
-	<key id="52100208" name="MAPNAME_52100208_NAME:[F]Kritias_Epic02" feature="Kritias_Epic02" />
-	<key id="52100300" name="MAPNAME_52100300_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="52100301" name="MAPNAME_52100301_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="52100302" name="MAPNAME_52100302_NAME:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-	<key id="52100303" name="MAPNAME_52100303_NAME:[F]Kritias_Turka02" feature="Kritias_Turka02" />
-	<key id="52100304" name="MAPNAME_52100304_NAME:[F]Kritias_Epic03" feature="Kritias_Epic03" />
+	<key id="52100207" name="情報商人の部屋" feature="Kritias_Epic02" />
+	<key id="52100208" name="空中要塞トゥルカリオン" feature="Kritias_Epic02" />
+	<key id="52100300" name="隠された格納庫" feature="Kritias_Turka01" />
+	<key id="52100301" name="隠された格納庫" feature="Kritias_Turka01" />
+	<key id="52100302" name="ティマイオン回廊" feature="Kritias_Turka02" />
+	<key id="52100303" name="裏切り者ティマイオン" feature="Kritias_Turka02" />
+	<key id="52100304" name="墜落の砂漠" feature="Kritias_Epic03" />
+	<key id="52100305" name="怪しい空間" feature="EpicApocalypse03" />
+	<key id="52100400" name="フロンティア財団会議室" feature="EpicApocalypse04" />
+	<key id="52100401" name="アリアの空間" feature="EpicApocalypse04" />
+	<key id="52100402" name="長老の家" feature="EpicApocalypse04" />
+	<key id="52100404" name="クイーンズホール" feature="EpicApocalypse04" />
 	<key id="61000001" name="トラップマスター" feature="CBT" />
 	<key id="61000002" name="ファイナルサバイバー" feature="CBT" />
 	<key id="61000003" name="メイプルOXクイズショー" feature="MassiveOxQuiz" />
@@ -1325,8 +1456,22 @@
 	<key id="61000032" name="かくれんぼ" feature="MassiveHideAndSeek" />
 	<key id="61000033" name="かくれんぼ" feature="MassiveHideAndSeek" />
 	<key id="61000034" name="かくれんぼ" feature="MassiveHideAndSeek" />
+	<key id="61000035" name="人形の邸宅" />
+	<key id="61000123" name="かくれんぼM" feature="22_06" />
+	<key id="61000124" name="かくれんぼM" feature="22_06" />
+	<key id="61000125" name="かくれんぼM" feature="22_06" />
+	<key id="61000126" name="かくれんぼM" feature="22_06" />
+	<key id="61000127" name="かくれんぼM" feature="22_06" />
+	<key id="61000128" name="かくれんぼM" feature="22_06" />
+	<key id="61000129" name="かくれんぼM" feature="22_06" />
+	<key id="61000130" name="かくれんぼM" feature="22_06" />
+	<key id="61000131" name="かくれんぼM" feature="22_06" />
+	<key id="61000132" name="かくれんぼM" feature="22_06" />
+	<key id="61000133" name="かくれんぼM" feature="22_06" />
+	<key id="61000134" name="かくれんぼM" feature="22_06" />
+	<key id="61000135" name="人形の邸宅M" feature="22_06" />
 	<key id="62000000" name="住宅" feature="CBT" />
-	<key id="62900000" name="MAPNAME_62900000_NAME:[F]UserGeneratedDungeon_01" feature="UserGeneratedDungeon_01" />
+	<key id="62900000" name="Game Maker (開発用)" feature="UserGeneratedDungeon_01" />
 	<key id="63000001" name="アムホスト" feature="CBT" />
 	<key id="63000002" name="ブギコリ海岸" feature="CBT" />
 	<key id="63000003" name="村長の家" feature="CBT" />
@@ -1357,7 +1502,7 @@
 	<key id="63000028" name="蓮の花休憩所北部" feature="SoulBinder" />
 	<key id="63000029" name="三日月洞窟" feature="SoulBinder" />
 	<key id="63000030" name="波色の雲跡" feature="SoulBinder" />
-	<key id="63000031" name="MAPNAME_63000031_NAME:[F]EventDuckyCardGame" feature="EventDuckyCardGame" />
+	<key id="63000031" name="オーキーダッキーハウス" feature="EventDuckyCardGame" />
 	<key id="63000032" name="フェスティバルハウス" feature="EventSlimeCardGame" />
 	<key id="63000033" name="ペンギンナイトバー室内" feature="CBT" />
 	<key id="63000034" name="記念写真の撮影室内" feature="CBT" />
@@ -1369,7 +1514,7 @@
 	<key id="63000040" name="ビヨンドリンク資料室" feature="DoubleImpactStory" />
 	<key id="63000041" name="封鎖された山道" feature="Season1" />
 	<key id="63000042" name="ヘンリス総合病院入院室" feature="Season1" />
-	<key id="63000043" name="MAPNAME_63000043_NAME:[F]EventDuckyCardGame" feature="EventDuckyCardGame" />
+	<key id="63000043" name="メイプルフェスティバル会場" feature="EventDuckyCardGame" />
 	<key id="63000044" name="ハラン湖島" feature="ContentsGuide01" />
 	<key id="63000045" name="ネルマン製作工房" feature="ContentsGuide01" />
 	<key id="63000046" name="ネルマン鉱山" feature="ContentsGuide01" />
@@ -1379,8 +1524,8 @@
 	<key id="63000050" name="トライア城壁" feature="Season1" />
 	<key id="63000051" name="お花見の場所" feature="MustBeModified" />
 	<key id="63000052" name="風草の花園" feature="MasterySecond" />
-	<key id="63000053" name="MAPNAME_63000053_NAME:[F]ChinaRaid" feature="ChinaRaid" />
-	<key id="63000054" name="MAPNAME_63000054_NAME:[F]ReverseRaid01" feature="ReverseRaid01" />
+	<key id="63000053" name="ジャクムの殿堂" feature="ChinaRaid" />
+	<key id="63000054" name="リバースゲート" feature="ReverseRaid01" />
 	<key id="63000055" name="2周年フェスティバルハウス" feature="Season1" />
 	<key id="63000056" name="夏色の丘" feature="ContentsGuide03" />
 	<key id="63000057" name="レイイベントマップ" feature="Season1" />
@@ -1484,10 +1629,10 @@
 	<key id="80000014" name="捨てられた廃坑地下1階" feature="TreasureMap01" />
 	<key id="80000015" name="捨てられた廃坑地下4階" feature="TreasureMap01" />
 	<key id="80000016" name="ムーンライトバンジージャンプ" feature="Season1" />
-	<key id="80000017" name="MAPNAME_80000017_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="80000018" name="MAPNAME_80000018_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="80000019" name="MAPNAME_80000019_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="80000020" name="MAPNAME_80000020_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="80000017" name="地下エネル鉱石洞窟" feature="Kritias_2018_12" />
+	<key id="80000018" name="ルミナス花群生地" feature="Kritias_2018_12" />
+	<key id="80000019" name="エネル幼虫生息地" feature="Kritias_2018_12" />
+	<key id="80000020" name="神秘的なハーブ洞窟" feature="Kritias_2018_12" />
 	<key id="80000021" name="怪しいビーンビーン丘" feature="Event" />
 	<key id="80000022" name="青い月のどこか" feature="Event" />
 	<key id="80000023" name="怪しいビーンビーン丘" feature="Event" />
@@ -1507,60 +1652,60 @@
 	<key id="82000010" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="82000011" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="82000012" name="太初のキノコ島" feature="SurvivalContents01" />
-	<key id="83000001" name="MAPNAME_83000001_NAME:[F]Colosseum01" feature="Colosseum01" />
-	<key id="83000002" name="MAPNAME_83000002_NAME:[F]Colosseum01" feature="Colosseum01" />
-	<key id="83000003" name="MAPNAME_83000003_NAME:[F]Colosseum02" feature="Colosseum02" />
+	<key id="83000001" name="女王の応接室" feature="Colosseum01" />
+	<key id="83000002" name="クイーンビーンアリーナ" feature="Colosseum01" />
+	<key id="83000003" name="クイーンビーンアリーナ" feature="Colosseum02" />
 	<key id="84000000" name="空きマップ(製作予定)" feature="Develop" />
-	<key id="84000001" name="MAPNAME_84000001_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000002" name="MAPNAME_84000002_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000003" name="MAPNAME_84000003_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000004" name="MAPNAME_84000004_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000005" name="MAPNAME_84000005_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000006" name="MAPNAME_84000006_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000007" name="MAPNAME_84000007_NAME:[F]Wedding" feature="Wedding" />
+	<key id="84000001" name="ウェディングビレッジ" feature="Wedding" />
+	<key id="84000002" name="離婚法律事務所ハッピーエンディング" feature="Wedding" />
+	<key id="84000003" name="ドキドキスタジオ" feature="Wedding" />
+	<key id="84000004" name="ファンタジーランド" feature="Wedding" />
+	<key id="84000005" name="神秘の宝島" feature="Wedding" />
+	<key id="84000006" name="ウェディングピニャータ" feature="Wedding" />
+	<key id="84000007" name="ウェディングダンスダンスストップ" feature="Wedding" />
 	<key id="84000008" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000009" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000010" name="空きマップ(製作予定)" feature="Develop" />
-	<key id="84000011" name="MAPNAME_84000011_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000012" name="MAPNAME_84000012_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000013" name="MAPNAME_84000013_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000014" name="MAPNAME_84000014_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000015" name="MAPNAME_84000015_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000016" name="MAPNAME_84000016_NAME:[F]Wedding" feature="Wedding" />
+	<key id="84000011" name="トライアアモランウェディングホール" feature="Wedding" />
+	<key id="84000012" name="ヘネシスハーモニーウェディングチャペル" feature="Wedding" />
+	<key id="84000013" name="エリニアラブフォレスト" feature="Wedding" />
+	<key id="84000014" name="ペリオン誓約の谷" feature="Wedding" />
+	<key id="84000015" name="ルデリースカイキャッスル" feature="Wedding" />
+	<key id="84000016" name="ラグジュアリーウェディングクルーズ" feature="Wedding" />
 	<key id="84000017" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000018" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000019" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000020" name="空きマップ(製作予定)" feature="Develop" />
-	<key id="84000021" name="MAPNAME_84000021_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000022" name="MAPNAME_84000022_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000023" name="MAPNAME_84000023_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000024" name="MAPNAME_84000024_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000025" name="MAPNAME_84000025_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000026" name="MAPNAME_84000026_NAME:[F]Wedding" feature="Wedding" />
+	<key id="84000021" name="トライアアモランウェディングホール" feature="Wedding" />
+	<key id="84000022" name="ヘネシスハーモニーウェディングチャペル" feature="Wedding" />
+	<key id="84000023" name="エリニアラブフォレスト" feature="Wedding" />
+	<key id="84000024" name="ペリオン誓約の谷" feature="Wedding" />
+	<key id="84000025" name="ルデリースカイキャッスル" feature="Wedding" />
+	<key id="84000026" name="ラグジュアリーウェディングクルーズ" feature="Wedding" />
 	<key id="84000027" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000028" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000029" name="空きマップ(製作予定)" feature="Develop" />
 	<key id="84000030" name="空きマップ(製作予定)" feature="Develop" />
-	<key id="84000031" name="MAPNAME_84000031_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000032" name="MAPNAME_84000032_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000033" name="MAPNAME_84000033_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000034" name="MAPNAME_84000034_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000035" name="MAPNAME_84000035_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000036" name="MAPNAME_84000036_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000037" name="MAPNAME_84000037_NAME:[F]Develop" feature="Develop" />
-	<key id="84000038" name="MAPNAME_84000038_NAME:[F]Develop" feature="Develop" />
-	<key id="84000039" name="MAPNAME_84000039_NAME:[F]Develop" feature="Develop" />
-	<key id="84000040" name="MAPNAME_84000040_NAME:[F]Develop" feature="Develop" />
-	<key id="84000041" name="MAPNAME_84000041_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000042" name="MAPNAME_84000042_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000043" name="MAPNAME_84000043_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000044" name="MAPNAME_84000044_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000045" name="MAPNAME_84000045_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000046" name="MAPNAME_84000046_NAME:[F]Wedding" feature="Wedding" />
-	<key id="84000047" name="MAPNAME_84000047_NAME:[F]Develop" feature="Develop" />
-	<key id="84000048" name="MAPNAME_84000048_NAME:[F]Develop" feature="Develop" />
-	<key id="84000049" name="MAPNAME_84000049_NAME:[F]Develop" feature="Develop" />
-	<key id="84000050" name="MAPNAME_84000050_NAME:[F]Develop" feature="Develop" />
+	<key id="84000031" name="トライアアモランウェディングホール" feature="Wedding" />
+	<key id="84000032" name="ヘネシスハーモニーウェディングチャペル" feature="Wedding" />
+	<key id="84000033" name="エリニアラブフォレスト" feature="Wedding" />
+	<key id="84000034" name="ペリオン誓約の谷" feature="Wedding" />
+	<key id="84000035" name="ルデリースカイキャッスル" feature="Wedding" />
+	<key id="84000036" name="ラグジュアリーウェディングクルーズ" feature="Wedding" />
+	<key id="84000037" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000038" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000039" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000040" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000041" name="トライアアモランウェディングホール" feature="Wedding" />
+	<key id="84000042" name="ヘネシスハーモニーウェディングチャペル" feature="Wedding" />
+	<key id="84000043" name="エリニアラブフォレスト" feature="Wedding" />
+	<key id="84000044" name="ペリオン誓約の谷" feature="Wedding" />
+	<key id="84000045" name="ルデリースカイキャッスル" feature="Wedding" />
+	<key id="84000046" name="ラグジュアリーウェディングクルーズ" feature="Wedding" />
+	<key id="84000047" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000048" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000049" name="空マップ(製作予定)" feature="Develop" />
+	<key id="84000050" name="空マップ(製作予定)" feature="Develop" />
 	<key id="99999840" name="# Test_840" feature="Develop" />
 	<key id="99999841" name="# Test_841" feature="Develop" />
 	<key id="99999842" name="# Test_842" feature="Develop" />
@@ -1591,14 +1736,14 @@
 	<key id="99999867" name="# Test_867" feature="Develop" />
 	<key id="99999868" name="# Test_868" feature="Develop" />
 	<key id="99999869" name="# Test_869" feature="Develop" />
-	<key id="99999870" name="MAPNAME_99999870_NAME:[F]Develop" feature="Develop" />
-	<key id="99999871" name="MAPNAME_99999871_NAME:[F]Develop" feature="Develop" />
-	<key id="99999872" name="MAPNAME_99999872_NAME:[F]Develop" feature="Develop" />
-	<key id="99999873" name="MAPNAME_99999873_NAME:[F]Develop" feature="Develop" />
-	<key id="99999874" name="MAPNAME_99999874_NAME:[F]Develop" feature="Develop" />
-	<key id="99999875" name="MAPNAME_99999875_NAME:[F]Develop" feature="Develop" />
-	<key id="99999876" name="MAPNAME_99999876_NAME:[F]Develop" feature="Develop" />
-	<key id="99999877" name="MAPNAME_99999877_NAME:[F]Develop" feature="Develop" />
+	<key id="99999870" name="宝箱ギミック01" feature="Develop" />
+	<key id="99999871" name="宝箱ギミック02" feature="Develop" />
+	<key id="99999872" name="宝箱ギミック03" feature="Develop" />
+	<key id="99999873" name="宝箱ギミック04" feature="Develop" />
+	<key id="99999874" name="宝箱ギミック05" feature="Develop" />
+	<key id="99999875" name="宝箱ギミック06" feature="Develop" />
+	<key id="99999876" name="宝箱ギミック07" feature="Develop" />
+	<key id="99999877" name="宝箱ギミック08" feature="Develop" />
 	<key id="99999878" name="# Test_878" feature="Develop" />
 	<key id="99999879" name="# Test_879" feature="Develop" />
 	<key id="99999881" name="# Test_881" feature="Develop" />
@@ -1670,8 +1815,8 @@
 	<key id="99999947" name="# BGTest 947" feature="Develop" />
 	<key id="99999948" name="# BGTest 948" feature="Develop" />
 	<key id="99999949" name="トリガーテストマップ" feature="Develop" />
-	<key id="99999950" name="MAPNAME_99999950_NAME:[F]Develop" feature="Develop" />
-	<key id="99999951" name="MAPNAME_99999951_NAME:[F]Develop" feature="Develop" />
+	<key id="99999950" name="PvPロビー" feature="Develop" />
+	<key id="99999951" name="1vs1テストマップB" feature="Develop" />
 	<key id="99999952" name="# BGTest 952" feature="Develop" />
 	<key id="99999953" name="# BGTest 953" feature="Develop" />
 	<key id="99999954" name="# BGTest 954 #" feature="Develop" />
@@ -1715,5 +1860,5 @@
 	<key id="99999992" name="# テストフィールド(部屋) #" feature="Develop" />
 	<key id="99999993" name="# テストフィールド(野外) #" feature="Develop" />
 	<key id="99999997" name="# Map Generation #" feature="Develop" />
-	<key id="99999999" name="MAPNAME_99999999_NAME:[F]Develop" feature="Develop" />
+	<key id="99999999" name="闇の泉ローディングイメージ撮影マップ" feature="Develop" />
 </ms2>

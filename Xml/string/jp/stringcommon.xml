@@ -132,13 +132,13 @@
 	<key id="s_msg_item_open_massive_error_another_portal" value="他のポータルがある場所には作成できません。" />
 	<key id="s_msg_item_open_massive_error_too_many_portal" value="これ以上設置できません。他のチャンネルやマップで設置してください。" />
 	<key id="s_msg_item_open_massive_open" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[ミニゲーム作成]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n&lt;p align=&apos;left&apos;&gt;{0}アイテムを使用します。\n&lt;FONT color=&apos;#5CD1E5&apos; &gt;アイテムを使用すると現在地にミニゲームのポータルが作られ、キャラクターが自動的にミニゲームマップへ入場します。&lt;/FONT&gt;\n\n• ゲーム名：&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{0}&lt;/FONT&gt;\n• 最大人数：&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{1}人&lt;/FONT&gt;&lt;/FONT&gt;\n• 入場ポータルの維持時間：&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{2}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n• パスワード設定：&lt;FONT color=&apos;#C9C9C9&apos; &gt;(入力しなければ誰でも入場可能)&lt;/FONT&gt;&lt;/p&gt;" />
-	<key id="s_msg_item_open_massive_open_wedding" value="STRINGCOMMON_S_MSG_ITEM_OPEN_MASSIVE_OPEN_WEDDING_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_msg_item_open_massive_open_wedding" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[結婚式の式後イベント]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;p align=&apos;left&apos;&gt;{0}アイテムを使用します。\n&lt;FONT color=&apos;#5CD1E5&apos; &gt;アイテム使用時、現在の位置にポータルが生成され、キャラクターが自動的に式後イベントが行われるマップに入場します。&lt;/FONT&gt;\n\n • 式後イベントマップ名：&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{0}&lt;/FONT&gt;\n • 最大人数：&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{1}名&lt;/FONT&gt;&lt;/FONT&gt; \n • 入場ポータル維持時間：&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;{2}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n • パスワード設定&lt;FONT color=&apos;#C9C9C9&apos; &gt;(未入力の場合は誰でも入場)&lt;/FONT&gt;&lt;/p&gt;" feature="Wedding" />
 	<key id="s_msg_item_open_massive_portal_tooltip" value="\n[ミニゲーム]{1}\n主催：{0}" />
 	<key id="s_msg_item_open_massive_open_message" value="{0}さんの{1}ミニゲームが作成されました。" />
 	<key id="s_msg_item_open_massive_extra_reward_start" value="ミニゲームMを完了すると追加報酬を獲得できます。(1日{0}回、残り{1}回)" />
 	<key id="s_msg_item_open_massive_extra_reward_clear" value="ミニゲームMの追加報酬を獲得しました。(1日{0}回、残り{1}回)" />
 	<key id="s_msg_item_open_massive_cant_open" value="ここでは使用できません。" />
-	<key id="s_msg_item_open_massive_only_wedding_user" value="STRINGCOMMON_S_MSG_ITEM_OPEN_MASSIVE_ONLY_WEDDING_USER_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_msg_item_open_massive_only_wedding_user" value="撮影チケット、アフターパーティーチケットは結婚式場で新郎、新婦のみ使用できます。" feature="Wedding" />
 	<key id="s_msg_item_open_massive_invalid_state" value="現在は使用できません。" />
 	<key id="s_msg_item_active_codi_tab_already_limitless" value="すでにコーデアイテムタブが活性化されています。" feature="Skin2tab" />
 	<key id="s_msg_item_active_codi_tab_already_period_use_limitless" value="コーデアイテムの使用期間が残っています。それでも使用しますか？" feature="Skin2tab" />
@@ -1070,7 +1070,7 @@
 	<key id="s_change_gender_err_equip_items" value="性別制限されている装備を解除してください。" />
 	<key id="s_change_gender_result_success" value="性別を変更しました。" />
 	<key id="s_change_gender_result_failed" value="性別の変更中にエラーが発生しました。" />
-	<key id="s_change_gender_err_wedding" value="STRINGCOMMON_S_CHANGE_GENDER_ERR_WEDDING_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_change_gender_err_wedding" value="婚約、結婚、離婚調整中のキャラクターは性別変更券を使用できません。" feature="Wedding" />
 	<key id="s_ugc_camera_profile_upload" value="撮影した写真をプロフィール画像に登録しますか？" />
 	<key id="s_msg_ugc_fail_file_exist" value="同じ名前のファイルが存在します。追加できません。" />
 	<key id="s_msg_ugc_fail_file_size" value="大きすぎる画像は登録できません。\n&lt;FONT color=&apos;#C92800&apos;&gt;{0}×{1}以下&lt;/FONT&gt;の画像のみ登録できます。" />
@@ -1211,8 +1211,8 @@
 	<key id="s_char_err_cannot_select_destroy_wait" value="削除待機中のキャラクターはゲームに接続できません。" />
 	<key id="s_char_err_meso_market_count" value="ブラックマーケットに登録しているメルがあるためキャラクターを削除することができません。" />
 	<key id="s_char_err_next_delete_char_date" value="キャラクターを削除できません。\n{0}にキャラクターを削除できます。" comment="{0}: 2018-01-00 00:00:00 시간 포맷" />
-	<key id="s_char_err_founderspack" value="STRINGCOMMON_S_CHAR_ERR_FOUNDERSPACK_VALUE:[F]FoundersPackMode" feature="FoundersPackMode" />
-	<key id="s_char_err_wedding" value="STRINGCOMMON_S_CHAR_ERR_WEDDING_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_char_err_founderspack" value="ファウンダーズパックを持っていないため、現在キャラクターを作成できません。" feature="FoundersPackMode" />
+	<key id="s_char_err_wedding" value="婚約、結婚、離婚調整中のキャラクターは削除できません。" feature="Wedding" />
 	<key id="s_msg_admin_input_accountsn" value="接続するaccountsnを入力してください。" />
 	<key id="s_beauty_skin_name" value="肌を変更" />
 	<key id="s_beauty_notice_hide_cap_by_transp_badge" value="透明バッジで帽子を隠しています。" />
@@ -2149,7 +2149,7 @@
 	<key id="s_word_item_limit_moveDisable" value="アカウント内での移動不可" feature="EnchantReformation01" />
 	<key id="s_word_item_limit_moveDisable_store_in" value="アカウント内での移動不可(保管：{0})" feature="EnchantReformation01" />
 	<key id="s_word_item_limit_socket_transfer" value="ソケット移動不可" />
-	<key id="s_word_item_unlimited_enchant" value="STRINGCOMMON_S_WORD_ITEM_UNLIMITED_ENCHANT_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
+	<key id="s_word_item_unlimited_enchant" value="*{0} {1}" feature="UnlimitedEnchant" />
 	<key id="s_word_skill" value="スキル" />
 	<key id="s_word_skill_active" value="アクティブ" />
 	<key id="s_word_skill_passive" value="パッシブ" />
@@ -2795,7 +2795,7 @@
 	<key id="s_quest_alliance_accept_all_mapleunion_kritiasexped" value="未知の大陸だからといって手を抜くわけにはいかない。いつも通りに真面目に遂行するように。" feature="FameContents" />
 	<key id="s_quest_alliance_accept_all_lumiknight_kritiasexped" value="全ての任務はすでにあなたにテレパシーで転送済みです。いってらっしゃいませ。" feature="FameContents" />
 	<key id="s_quest_alliance_accept_all_greenhood_kritiasexped" value="クリティアス探査のための任務を伝達しました。ご報告、お待ちしてます！" feature="FameContents" />
-	<key id="s_quest_alliance_accept_all_georg" value="STRINGCOMMON_S_QUEST_ALLIANCE_ACCEPT_ALL_GEORG_VALUE:[F]Fame_Geo01" feature="Fame_Geo01" />
+	<key id="s_quest_alliance_accept_all_georg" value="準備はいいですか？今回も完璧にやり遂げてくれると信じています。" feature="Fame_Geo01" />
 	<key id="s_quest_alliance_complete_all_darkwind" value="さっすが、あたしのかわい子ちゃん！" feature="FameContents" />
 	<key id="s_quest_alliance_complete_all_mapleunion" value="任務完了を確認した。ご苦労様。" feature="FameContents" />
 	<key id="s_quest_alliance_complete_all_lumiknight" value="あなたが任務を完了しているということくらい、気づいていますよ。" feature="FameContents" />
@@ -2804,7 +2804,7 @@
 	<key id="s_quest_alliance_complete_all_mapleunion_kritiasexped" value="さすがだ。ご苦労様。" feature="FameContents" />
 	<key id="s_quest_alliance_complete_all_lumiknight_kritiasexped" value="僕がすでに結果を知っているということくらい、もう言わなくても分かりますよね？" feature="FameContents" />
 	<key id="s_quest_alliance_complete_all_greenhood_kritiasexped" value="すごいです！次回もよろしくお願いします！" feature="FameContents" />
-	<key id="s_quest_alliance_complete_all_georg" value="STRINGCOMMON_S_QUEST_ALLIANCE_COMPLETE_ALL_GEORG_VALUE:[F]Fame_Geo01" feature="Fame_Geo01" />
+	<key id="s_quest_alliance_complete_all_georg" value="あなたのおかげで、ゲオルクは勝利に一歩近づきました。本当にありがとうございます。" feature="Fame_Geo01" />
 	<key id="s_realestate_expire_data" value="{0}日" />
 	<key id="s_realestate_building_type_0" value="大地型" />
 	<key id="s_realestate_area" value="床{0}マス、高さ{1}マス" />
@@ -3111,7 +3111,7 @@
 	<key id="s_move_err_InsideSurvivalSquad" value="マッシュキングチャンピオンシップにパーティメンバーがいます。\nパーティメンバーが全員退場してから再度お試しください。" feature="SurvivalContentsTeam" />
 	<key id="s_move_err_ExpireEnterTime" value="入場可能な時間を過ぎています。これ以上入場できません。" />
 	<key id="s_move_err_default" value="サーバー移動中に不明エラーが発生しました。Code = {0}" />
-	<key id="s_move_err_wedding_complete" value="STRINGCOMMON_S_MOVE_ERR_WEDDING_COMPLETE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_move_err_wedding_complete" value="結婚式が終了したため入場できません" feature="Wedding" />
 	<key id="s_quest_standard_level" value="{0}レベル" />
 	<key id="s_skill_err_male" value="男性のみ使用できるスキルです。" />
 	<key id="s_skill_err_female" value="女性のみ使用できるスキルです。" />
@@ -3441,7 +3441,7 @@
 	<key id="s_tooltip_gamemenu_pssbshop" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;アバターコインショップ {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nアバターコインでアイテムを購入することができます。\nアバターコインはアバターランダムボックスで獲得したアイテムを分解すると獲得できます。" locale="JP" />
 	<key id="s_tooltip_gamemenu_collectitemgroupevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;アップグレードイベント{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nアイテムを集めて報酬を獲得できます。" />
 	<key id="s_tooltip_gamemenu_bingoevent" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;ミラクル！魔法のビンゴ{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nビンゴを完成すると報酬を獲得できます。" feature="Event" />
-	<key id="s_tooltip_gamemenu_wedding" value="STRINGCOMMON_S_TOOLTIP_GAMEMENU_WEDDING_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_tooltip_gamemenu_wedding" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;結婚 {0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n自分の結婚情報を確認できます。" feature="Wedding" />
 	<key id="s_eventtag_gamemenu_mushking_royal" value="申請中" />
 	<key id="s_eventtag_gamemenu_mushking_royal_buff" value="&lt;FONT color=&apos;#FFD200&apos;&gt;EXP Bonus!&lt;/FONT&gt;" feature="SurvivalContents03" />
 	<key id="s_chat_restrict_samechat" value="同じチャットを繰り返し入力したため{0}秒間地域/チャンネル/ワールド/ささやきチャットを使用することができません。(荒らし警告：1回)" />
@@ -3841,7 +3841,7 @@
 	<key id="s_room_dungeon_canEnterDayOfWeeks" value="入場可能な曜日ではありません。\nダンジョン情報で入場条件を確認してください。" />
 	<key id="s_room_dungeon_AlreadyChaosHall" value="すでに殿堂に到着しています。" />
 	<key id="s_room_dungeon_AlreadyLapentaHall" value="すでにアイオブラペンタに来ています。" feature="LapentaDungeon" />
-	<key id="s_room_dungeon_AlreadyColosseumHall" value="STRINGCOMMON_S_ROOM_DUNGEON_ALREADYCOLOSSEUMHALL_VALUE:[F]ColosseumDungeon" feature="ColosseumDungeon" />
+	<key id="s_room_dungeon_AlreadyColosseumHall" value="すでに女王の応接室に到着しています。" feature="ColosseumDungeon" />
 	<key id="s_room_dungeon_CantEnterInDungeon" value="ダンジョン内では移動できません。" />
 	<key id="s_room_dungeon_OverMaxUserCount" value="最大{0}人まで可能です。" />
 	<key id="s_room_dungeon_UnderMinUserCount" value="少なくとも{0}人のパーティメンバーが必要です。" />
@@ -3857,9 +3857,9 @@
 	<key id="s_room_dungeon_require_guild_join_date" value="新規ギルドメンバーはギルドレイド点数が初期化されるまで参加できません。" />
 	<key id="s_room_dungeon_shutdown_find_dungeon_helper" value="一時的に制限されている機能です。" feature="FindDungeonHelp" />
 	<key id="s_room_dungeon_cant_enter_in_partymember" value="入場できないパーティメンバーがいます。" />
-	<key id="s_room_dungeon_error_used_reset_united_reward" value="STRINGCOMMON_S_ROOM_DUNGEON_ERROR_USED_RESET_UNITED_REWARD_VALUE:[F]DungeonRewardCountJoin02" feature="DungeonRewardCountJoin02" />
-	<key id="s_room_dungeon_error_still_have_united_reawrd" value="STRINGCOMMON_S_ROOM_DUNGEON_ERROR_STILL_HAVE_UNITED_REAWRD_VALUE:[F]DungeonRewardCountJoin02" feature="DungeonRewardCountJoin02" />
-	<key id="s_room_dungeon_error_shutdown_united_reawrd_reset" value="STRINGCOMMON_S_ROOM_DUNGEON_ERROR_SHUTDOWN_UNITED_REAWRD_RESET_VALUE:[F]DungeonRewardCountJoin02" feature="DungeonRewardCountJoin02" />
+	<key id="s_room_dungeon_error_used_reset_united_reward" value="今週はすでに報酬回数をリセットしました。\n金曜日の夜12時以降に再度お試しください。" feature="DungeonRewardCountJoin02" />
+	<key id="s_room_dungeon_error_still_have_united_reawrd" value="週間報酬回数がまだ残っています。\n週間報酬回数を使い切ってから、再度お試しください。" feature="DungeonRewardCountJoin02" />
+	<key id="s_room_dungeon_error_shutdown_united_reawrd_reset" value="(Beta)現在、週間報酬回数リセットの外部テスト期間中のため、使用を一時停止しています。" feature="DungeonRewardCountJoin02" />
 	<key id="s_room_dungeon_is_not_open_period" value="イベント期間ではありません。" />
 	<key id="s_room_dungeon_is_not_open_period_date" value="このダンジョンはオープン前です。\nダンジョン情報で入場条件をもう一度ご確認ください。" />
 	<key id="s_room_dungeon_clear" value="ダンジョンクリア" />
@@ -3990,8 +3990,8 @@
 	<key id="s_dungeonSearch_united_reward_tooltip" value="一緒に支給される報酬" />
 	<key id="s_dungeonSearch_united_reward_tooltip_meso" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" />
 	<key id="s_dungeonSearch_united_reward_tooltip_exp" value="&lt;FONT color=&apos;#92d050&apos;&gt;{0} EXP&lt;/FONT&gt;" />
-	<key id="s_dungeonSearch_confirm_united_reward_reset" value="STRINGCOMMON_S_DUNGEONSEARCH_CONFIRM_UNITED_REWARD_RESET_VALUE:[F]DungeonRewardCountJoin02" feature="DungeonRewardCountJoin02" />
-	<key id="s_dungeonSearch_success_united_reward_reset" value="STRINGCOMMON_S_DUNGEONSEARCH_SUCCESS_UNITED_REWARD_RESET_VALUE:[F]DungeonRewardCountJoin02" feature="DungeonRewardCountJoin02" />
+	<key id="s_dungeonSearch_confirm_united_reward_reset" value="週間報酬回数を使い切った後、週に1回リセットできます(アカウント内の1キャラクターのみ)。\n\n&lt;FONT color=&apos;#00A2ED&apos;&gt;一度リセットすると、金曜日の夜12時以降にならないと再度リセットできません。&lt;/FONT&gt;\n\n現在のキャラクターの週間報酬回数をリセットしますか？" feature="DungeonRewardCountJoin02" />
+	<key id="s_dungeonSearch_success_united_reward_reset" value="週間報酬回数をリセットしました。" feature="DungeonRewardCountJoin02" />
 	<key id="s_dungeonMatch_error_notFoundDungeon" value="入場できるダンジョンがありません。\n自分またはパーティメンバーのキャラクターレベルやアイテムスコアを高めてから再度お試しください。" />
 	<key id="s_dungeonMatch_error_overMaxRegisterUser" value="最大{0}人まで可能です。" />
 	<key id="s_dungeonMatch_error_containCouldNotEnter" value="入場できないダンジョンが含まれています。\nプレイヤー指定ダンジョンを再設定してください。" />
@@ -4097,7 +4097,7 @@
 	<key id="s_meratmarket_buy_success_all" value="アイテムを購入しました。\n詳細をご確認ください。" />
 	<key id="s_meratmarket_buy_success_with_fail" value="一部のアイテムのみ購入しました。\n購入失敗のアイテムは詳細をご確認ください。" />
 	<key id="s_meratmarket_buy_fail_all" value="アイテムを購入できませんでした。\n詳細をご確認ください。" />
-	<key id="s_meratmarket_buy_fail_music_score_by_merat_grade" value="STRINGCOMMON_S_MERATMARKET_BUY_FAIL_MUSIC_SCORE_BY_MERAT_GRADE_VALUE:[F]UGCMarketMusicScore" feature="UGCMarketMusicScore" />
+	<key id="s_meratmarket_buy_fail_music_score_by_merat_grade" value="メロットで楽譜を購入することはできません。" feature="UGCMarketMusicScore" />
 	<key id="s_meratmarket_buy_notice_blueprint" value="ブループリントの購入費用はデザイン費用のみです。ブループリント使用時、不足している建設資材は別途購入する必要があります。" feature="Blueprint" />
 	<key id="s_meratmarket_gift_title" value="プレゼント結果" />
 	<key id="s_meratmarket_gift_success_row" value="&lt;FONT color=&apos;#8dd502&apos;&gt;[プレゼント完了]&lt;/font&gt;{0} | {1}" />
@@ -4141,7 +4141,7 @@
 	<key id="s_meratmarket_error_buy_limit_job" value="職業制限により購入できませんでした。" />
 	<key id="s_meratmarket_error_buy_limit_job_detail" value="{0}職業のみ購入できます。" />
 	<key id="s_meratmarket_error_add_basket_by_buylimit" value="特別販売の商品は即時購入のみできます。" />
-	<key id="s_meratmarket_error_add_basket_by_music_score" value="STRINGCOMMON_S_MERATMARKET_ERROR_ADD_BASKET_BY_MUSIC_SCORE_VALUE:[F]UGCMarketMusicScore" feature="UGCMarketMusicScore" />
+	<key id="s_meratmarket_error_add_basket_by_music_score" value="楽譜は直接購入のみ可能です。" feature="UGCMarketMusicScore" />
 	<key id="s_meratmarket_error_no_buy_able_item" value="購入できるアイテムがありません。" />
 	<key id="s_meratmarket_error_buy_shutdown" value="一時的に購入できないアイテムです。" />
 	<key id="s_meratmarket_error_buy_equipall_limited" value="この商品は特別販売タブでのみ購入できます。" />
@@ -4482,7 +4482,7 @@
 	<key id="s_enum_dungeon_group_worldBoss" value="ワールドインベージョン" feature="WorldBossDungeon" />
 	<key id="s_enum_dungeon_group_fameChallenge" value="フォートレスランブル" feature="FameChallengeDungeon" />
 	<key id="s_enum_dungeon_group_lapenta" value="アイオブラペンタ" feature="LapentaDungeon" />
-	<key id="s_enum_dungeon_group_colosseum" value="STRINGCOMMON_S_ENUM_DUNGEON_GROUP_COLOSSEUM_VALUE:[F]ColosseumDungeon" feature="ColosseumDungeon" />
+	<key id="s_enum_dungeon_group_colosseum" value="クイーンビーンランブル" feature="ColosseumDungeon" />
 	<key id="s_enum_dungeon_group_turka" value="トゥルカ" feature="TurkaDungeon" />
 	<key id="s_partysearch_sort_party_create_hi" value="新規登録順" />
 	<key id="s_partysearch_sort_party_create_low" value="登録順" />
@@ -4549,7 +4549,7 @@
 	<key id="s_enchantscroll_desc_enchant" value="{0}を使用します。\nエンチャントに成功するとエンチャント段階が{1}に変更されます。\n使用するとエンチャント経験値が初期化され、アイテムの使用後はキャンセルできません。" />
 	<key id="s_enchantscroll_desc_random_enchant" value="{0}を使用します。\nアイテムを使用するとエンチャント段階は{1}に変更され、エンチャントできる状態になります。\nアイテムの使用後はキャンセルできません。" />
 	<key id="s_enchantscroll_desc_restore" value="{0}を使用します。\nアイテムを使用するとエンチャント段階は{1}に変更され、エンチャントできる状態になります。\nアイテムの使用後はキャンセルできません。" />
-	<key id="s_enchantscroll_desc_disable_break" value="STRINGCOMMON_S_ENCHANTSCROLL_DESC_DISABLE_BREAK_VALUE:[F]EnchantDisableBreak01" feature="EnchantDisableBreak01" />
+	<key id="s_enchantscroll_desc_disable_break" value="\n\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;エンチャントされたアイテムは分解できないのでご注意ください。" feature="EnchantDisableBreak01" />
 	<key id="s_enchantscroll_limit" value="&lt;p align=&apos;center&apos;&gt;&lt;FONT color=&apos;#c909090&apos;&gt;&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;レベル\n{1}等級\n{2}に使用可能&lt;/font&gt;&lt;/p&gt;" />
 	<key id="s_enchantscroll_itemname" value="&lt;font color=&apos;{0}&apos;&gt;+{1} {2}&lt;/font&gt;" />
 	<key id="s_enchantscroll_breaking" value="&lt;font color=&apos;#ffd200&apos;&gt;(不安定)&lt;/font&gt;" />
@@ -4582,7 +4582,7 @@
 	<key id="s_massive_event_name_red_arena" value="赤い決闘場(PvP)" />
 	<key id="s_massive_event_name_blood_mine" value="血の涙鉱山(PvP)" />
 	<key id="s_massive_event_name_treasure_island" value="バルボサの宝島(PvP)" />
-	<key id="s_massive_event_name_event_dungeon" value="STRINGCOMMON_S_MASSIVE_EVENT_NAME_EVENT_DUNGEON_VALUE:[F]EventMassiveDungeon" feature="EventMassiveDungeon" />
+	<key id="s_massive_event_name_event_dungeon" value="マッドドクターの研究所(レベル50以上)" feature="EventMassiveDungeon" />
 	<key id="s_massive_event_name_christmas_dancedance_stop" value="クリスマス・ダンス・ストップ！" />
 	<key id="s_massive_event_enter_button" value="{0}" />
 	<key id="s_massive_event_message_start" value="{0}段階開始" />
@@ -4606,14 +4606,14 @@
 	<key id="s_fishing_grade_Lv11" value="上級3段階" />
 	<key id="s_fishing_grade_Lv12" value="上級4段階" />
 	<key id="s_fishing_grade_Lv13" value="プロ釣り師" />
-	<key id="s_fishing_grade_Lv14" value="STRINGCOMMON_S_FISHING_GRADE_LV14_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv15" value="STRINGCOMMON_S_FISHING_GRADE_LV15_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv16" value="STRINGCOMMON_S_FISHING_GRADE_LV16_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv17" value="STRINGCOMMON_S_FISHING_GRADE_LV17_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv18" value="STRINGCOMMON_S_FISHING_GRADE_LV18_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv19" value="STRINGCOMMON_S_FISHING_GRADE_LV19_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv20" value="STRINGCOMMON_S_FISHING_GRADE_LV20_VALUE:[F]Fishing02" feature="Fishing02" />
-	<key id="s_fishing_grade_Lv21" value="STRINGCOMMON_S_FISHING_GRADE_LV21_VALUE:[F]Fishing02" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv14" value="2級プロ釣り師" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv15" value="3級プロ釣り師" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv16" value="プロ釣り人" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv17" value="2級プロ釣り人" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv18" value="3級プロ釣り人" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv19" value="チャンピオン釣り人" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv20" value="2級チャンピオン釣り人" feature="Fishing02" />
+	<key id="s_fishing_grade_Lv21" value="3級チャンピオン釣り人" feature="Fishing02" />
 	<key id="s_fishing_grade_up" value="{0}釣り師になりました。" />
 	<key id="s_fishing_grade_up_max" value="{0}になりました。" />
 	<key id="s_fishing_habitat_water" value="川" />
@@ -4622,7 +4622,7 @@
 	<key id="s_fishing_habitat_lava" value="溶岩" />
 	<key id="s_fishing_habitat_oil" value="オイル" />
 	<key id="s_fishing_habitat_devilwater" value="汚染された水" />
-	<key id="s_fishing_habitat_emeraldwater" value="STRINGCOMMON_S_FISHING_HABITAT_EMERALDWATER_VALUE:[F]Fishing02" feature="Fishing02" />
+	<key id="s_fishing_habitat_emeraldwater" value="エメラルドの水" feature="Fishing02" />
 	<key id="s_fishing_habitat_all" value="スペシャル" />
 	<key id="s_fishing_all_spot" value="全ての釣り堀" />
 	<key id="s_system_shop_title_fishing" value="釣り師ショップ" />
@@ -4820,7 +4820,7 @@
 	<key id="s_tooltip_itemoption_kinds_random_pet" value="&lt;font color=&apos;#91a8ff&apos;&gt;追加能力\n{0}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_kinds_space" value="&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_enchant" value="&lt;font color=&apos;#ffd200&apos;&gt;エンチャント効果\n{0}&lt;/font&gt;" />
-	<key id="s_tooltip_itemoption_unlimited" value="STRINGCOMMON_S_TOOLTIP_ITEMOPTION_UNLIMITED_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
+	<key id="s_tooltip_itemoption_unlimited" value="&lt;font color=&apos;#ffd200&apos;&gt;限界突破{0}段階\n{1}&lt;/font&gt;" feature="UnlimitedEnchant" />
 	<key id="s_tooltip_itemoption_enchant_broken" value="&lt;font color=&apos;#ffd200&apos;&gt;エンチャント効果&lt;font color=&apos;#ff4040&apos;&gt;({0}年{1}月{2}日{3}時{4}分まで)&lt;/font&gt;\n{5}&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_enchant_exp" value="&lt;font color=&apos;#ffd200&apos;&gt;エンチャント経験値\n&lt;/font&gt;" />
 	<key id="s_tooltip_itemoption_enchant_exp_refund" value="&lt;font color=&apos;#ffd200&apos;&gt;エンチャント経験値初期化および材料返還可能\n&lt;/font&gt;" feature="Peachy02" />
@@ -4851,7 +4851,7 @@
 	<key id="s_tooltip_itemremake_enable" value="&lt;font color=&apos;#ffd200&apos;&gt;追加オプション変更可能&lt;/font&gt;" />
 	<key id="s_tooltip_itemmerge_option_range_v" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}～{2}&lt;/font&gt;" />
 	<key id="s_tooltip_itemmerge_option_range_f" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}～{2}&lt;/font&gt;" />
-	<key id="s_tooltip_petremake_count" value="이&lt;font color=&apos;#ffd200&apos;&gt;追加能力変更可能(累積変更回数：{0}回)&lt;/font&gt;" feature="PetRemake01" />
+	<key id="s_tooltip_petremake_count" value="&lt;font color=&apos;#ffd200&apos;&gt;追加能力変更可能(累計変更回数：{0}回)&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_tooltip_petremake_enable" value="&lt;font color=&apos;#ffd200&apos;&gt;追加能力変更可能&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_tooltip_fmt_in_package_money" value="{0} ({1})" comment="{0}:재화이름, {1}:수량" />
 	<key id="s_play_instrument_grade_Lv1" value="初級演奏家" />
@@ -5204,36 +5204,36 @@
 	<key id="s_character_ability_play_and_feature_category_name" value="冒険" feature="CharacterAbility" />
 	<key id="s_character_ability_quest_and_grow_category_name" value="クエスト" feature="CharacterAbility" />
 	<key id="s_character_ability_content_category_name" value="生活" feature="CharacterAbility" />
-	<key id="s_character_ability_character_category_tooltip" value="STRINGCOMMON_S_CHARACTER_ABILITY_CHARACTER_CATEGORY_TOOLTIP_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_monster_and_dungeon_category_tooltip" value="STRINGCOMMON_S_CHARACTER_ABILITY_MONSTER_AND_DUNGEON_CATEGORY_TOOLTIP_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_play_and_feature_category_tooltip" value="STRINGCOMMON_S_CHARACTER_ABILITY_PLAY_AND_FEATURE_CATEGORY_TOOLTIP_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_quest_and_grow_category_tooltip" value="STRINGCOMMON_S_CHARACTER_ABILITY_QUEST_AND_GROW_CATEGORY_TOOLTIP_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_content_category_tooltip" value="STRINGCOMMON_S_CHARACTER_ABILITY_CONTENT_CATEGORY_TOOLTIP_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_err_no_abilitypoint" value="STRINGCOMMON_S_CHARACTER_ABILITY_ERR_NO_ABILITYPOINT_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
+	<key id="s_character_ability_character_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;キャラクター&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nキャラクターの固有能力を強化できます。" feature="CharacterAbility" />
+	<key id="s_character_ability_monster_and_dungeon_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;戦闘&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nダンジョンプレイやモンスターとの戦闘で役立つ技術を習得できます。" feature="CharacterAbility" />
+	<key id="s_character_ability_play_and_feature_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;冒険&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n冒険や各種活動に対するボーナスを得られます。" feature="CharacterAbility" />
+	<key id="s_character_ability_quest_and_grow_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;クエスト&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nクエスト遂行時に追加ボーナスを得られます。" feature="CharacterAbility" />
+	<key id="s_character_ability_content_category_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;生活&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n生活コンテンツ利用時にボーナスを得られます。" feature="CharacterAbility" />
+	<key id="s_character_ability_err_no_abilitypoint" value="特性ポイントが足りません。" feature="CharacterAbility" />
 	<key id="s_character_ability_err_no_meso" value="メルが足りません。" feature="CharacterAbility" />
 	<key id="s_character_ability_err_no_merat" value="ブルーメロットが足りません。" feature="CharacterAbility" />
-	<key id="s_character_ability_point_info_text" value="STRINGCOMMON_S_CHARACTER_ABILITY_POINT_INFO_TEXT_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_meso_reset_desc" value="STRINGCOMMON_S_CHARACTER_ABILITY_MESO_RESET_DESC_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
+	<key id="s_character_ability_point_info_text" value="特性ポイント {0}/{1}" feature="CharacterAbility" />
+	<key id="s_character_ability_meso_reset_desc" value="費用を支払って特性を初期化します。\n&lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;/&gt;\n特性を初期化しますか？\n&lt;FONT color=&apos;#C0C0C0&apos;&gt;(ただし、特性の初期化後に再度メルで特性を初期化\nするには{0}日経過する必要があります。)&lt;/font&gt;" feature="CharacterAbility" />
 	<key id="s_character_ability_meso_reset_button" value="初期化" feature="CharacterAbility" />
-	<key id="s_character_ability_merat_reset_desc" value="STRINGCOMMON_S_CHARACTER_ABILITY_MERAT_RESET_DESC_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
+	<key id="s_character_ability_merat_reset_desc" value="&lt;font color=&apos;#FF5F5F&apos;&gt;特性初期化のクールタイムが経過していないため、\n特性を初期化できません。&lt;/FONT&gt;\nクールタイムが経過した後、再度お試しください。" feature="CharacterAbility" />
 	<key id="s_character_ability_merat_reset_button" value=" 初期化" feature="CharacterAbility" />
-	<key id="s_character_ability_err_reset_cooltime" value="STRINGCOMMON_S_CHARACTER_ABILITY_ERR_RESET_COOLTIME_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_disabled_quest_desc" value="STRINGCOMMON_S_CHARACTER_ABILITY_DISABLED_QUEST_DESC_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_reset_cooltime" value="STRINGCOMMON_S_CHARACTER_ABILITY_RESET_COOLTIME_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_reset_cooltime_request" value="STRINGCOMMON_S_CHARACTER_ABILITY_RESET_COOLTIME_REQUEST_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_character_ability_err_level_reset_cooltime" value="STRINGCOMMON_S_CHARACTER_ABILITY_ERR_LEVEL_RESET_COOLTIME_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001014" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001014_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001015" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001015_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001019" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001019_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001020" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001020_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001021" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001021_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001022" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001022_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001023" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001023_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001024" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001024_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001025" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001025_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001027" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001027_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001028" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001028_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
-	<key id="s_additionalEffect_Special_110001029" value="STRINGCOMMON_S_ADDITIONALEFFECT_SPECIAL_110001029_VALUE:[F]CharacterAbility" feature="CharacterAbility" />
+	<key id="s_character_ability_err_reset_cooltime" value="すでに特性初期化の再チャージが完了しています。" feature="CharacterAbility" />
+	<key id="s_character_ability_disabled_quest_desc" value="&lt;font color=&apos;#FFD200&apos;&gt;[{2}] {3}&lt;/FONT&gt;の&lt;font color=&apos;#FFD200&apos;&gt;{0} ({1}レベル) クエスト&lt;/FONT&gt;を完了すると特性を使用できます。" feature="CharacterAbility" />
+	<key id="s_character_ability_reset_cooltime" value="特性初期化の再チャージが完了しました。" feature="CharacterAbility" />
+	<key id="s_character_ability_reset_cooltime_request" value="特性初期化の再チャージを行いますか？" feature="CharacterAbility" />
+	<key id="s_character_ability_err_level_reset_cooltime" value="まだ使用できません" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001014" value="特性効果でモンスターから追加報酬を獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001015" value="特性効果で勇猛の証を追加で獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001019" value="特性効果で黄金の宝箱からオニキスの結晶を追加で発見しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001020" value="特性効果で木の宝箱からメルを追加で発見しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001021" value="特性効果で追加経験値を獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001022" value="特性効果で追加メルを獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001023" value="特性効果で追加ルーを獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001024" value="特性効果で冒険レベルアップボックスをもう一度開けました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001025" value="特性効果で追加経験値を獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001027" value="特性効果で追加経験値および熟練度を獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001028" value="特性効果でフラクターの結晶を追加で獲得しました。" feature="CharacterAbility" />
+	<key id="s_additionalEffect_Special_110001029" value="特性効果で製作結果物をもう1つ獲得しました。" feature="CharacterAbility" />
 	<key id="s_party_recall_scroll_buy" value="パーティ召喚スクロールは{0}&lt;Img Src=&apos;export_common_icon_merat&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;です。\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;召喚可能時間は3分です。&lt;/FONT&gt;\n購入するとゲートが開き、パーティーメンバーの移動が\n可能になります。\n3分が経過すると\nゲートが閉じて移動は不可になります。\n購入しますか？" />
 	<key id="s_shadowBuff_upgrade" value="レベル{0}アップグレード" />
 	<key id="s_shadowBuff_learn" value="獲得する" />
@@ -5712,7 +5712,7 @@
 	<key id="s_pet_remake_ask_lock_item_option" value="&lt;p align=&apos;left&apos;&gt;ペット追加能力をロックした状態で能力を変更します。\nロックされた能力は能力を変更しても種類と数値は変わりません。\n\n[固定済みオプション：&lt;font color=&apos;#ff4040&apos;&gt;{0}&lt;/font&gt;/{1}]\n{2}\n[オプション固定に必要なアイテム]\n- {3}\n\n{3}アイテムでは追加能力を最大{4}個まで固定することができます。\n\n追加能力を変更しますか？&lt;/p&gt;" feature="PetRemake01" />
 	<key id="s_pet_remake_ask_have_not_lock" value="固定するペット追加能力を選択していません。\nペット追加能力を固定せず能力変更を進行しますか？\n([はい]を押して追加能力を変更しても選択した{0}は消費されません。) " feature="PetRemake01" />
 	<key id="s_pet_remake_notice_disable_lock_item_option" value="&lt;p align=&apos;left&apos;&gt;選択したペット追加能力固定材料がないため、追加能力ロック機能を使用できません。\n\n- $item:30000923$&lt;/p&gt;" feature="PetRemake01" />
-	<key id="s_pet_remake_notice_disable_lock_item_option" value="STRINGCOMMON_S_PET_REMAKE_NOTICE_DISABLE_LOCK_ITEM_OPTION_VALUE:[F]PetRemakeBlock02" feature="PetRemakeBlock02" />
+	<key id="s_pet_remake_notice_disable_lock_item_option" value="&lt;p align=&apos;left&apos;&gt;選択されたペット追加能力固定材料がないため、追加能力ロック機能を使用できません。\n\n- $item:30000923$\n- $item:30001345$&lt;/p&gt;" feature="PetRemakeBlock02" />
 	<key id="s_pet_remake_notice_lock_item_option_limit" value="{0}アイテムでは最大{1}個までオプションを固定できます。\n新しいオプションを固定したい場合、固定済みオプションを解除してください。" feature="PetRemake01" />
 	<key id="s_pet_remake_notice_lock_item_option_max_count" value="全てのオプションを固定できません。\n新しいオプションを固定したい場合、固定済みオプションを解除してください。" feature="PetRemake01" />
 	<key id="s_pet_remake_notice_disable_lock_item_option_when_click_remake" value="{0}アイテムを所持していないため、追加能力ロック機能は使用できません。追加能力ロックを解除して再度お試しください。" feature="PetRemake01" />
@@ -5886,7 +5886,7 @@
 	<key id="s_quest_alliance_mapleunion_kritiasexped" value="[クリティアス遠征隊]メイプル連合" />
 	<key id="s_quest_alliance_lumiknight_kritiasexped" value="[クリティアス遠征隊]ルミナイツ" />
 	<key id="s_quest_alliance_greenhood_kritiasexped" value="[クリティアス遠征隊]グリーンフッド" />
-	<key id="s_quest_alliance_georg" value="STRINGCOMMON_S_QUEST_ALLIANCE_GEORG_VALUE:[F]Fame_Geo01" feature="Fame_Geo01" />
+	<key id="s_quest_alliance_georg" value="ゲオルク" feature="Fame_Geo01" />
 	<key id="s_alliance_quest_daily_mission" value="{0}任務" comment="{0} : 세력명" />
 	<key id="s_alliance_quest_reward_split" value="   " />
 	<key id="s_alliance_quest_reward_exp" value="&lt;FONT color=&apos;#33FF00&apos;&gt;+{0} EXP&lt;/FONT&gt;" />
@@ -5903,10 +5903,10 @@
 	<key id="s_alliance_quest_limit_alliance_condition" value="{0}以上になると評判クエストが進行できます。" />
 	<key id="s_alliance_quest_require_condition" value="レベル{0}以上で、{1}クエストを完了しなければなりません。" />
 	<key id="s_alliance_quest_unreq_group_warn" value="この任務は1週間に1つの勢力でのみ進行できます。進行しますか？" />
-	<key id="s_alliance_quest_completion_ticket_count" value="X{0}即時完了" comment="{0} : 즉시 완료 아이템 필요 갯수" feature="FameCompletionTicket" />
-	<key id="s_alliance_quest_completion_ticket_lack" value="{0}が足りません。アイテムショップでアイテムを購入しますか？" commend="{0} : 즉시완료권 아이템" feature="FameCompletionTicket" />
-	<key id="s_alliance_quest_completion_ticket_use" value="{0}({1}個)が消費されます。使用しますか？" commend="{0} : 즉시완료권 아이템, {1}: 아이템 필요 갯수" feature="FameCompletionTicket" />
-	<key id="s_alliance_quest_completion_ticket_error" value="{0}を使用できませんでした。" commend="{0} : 즉시완료권 아이템" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_count" value="X{0}即時完了" comment="{0}: 即時完了アイテムの必要数" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_lack" value="{0}が足りません。アイテムショップでアイテムを購入しますか？" commend="{0}: 即時完了チケットアイテム" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_use" value="{0}({1}個)が消費されます。使用しますか？" commend="{0}: 即時完了チケットアイテム、{1}: 必要アイテム数" feature="FameCompletionTicket" />
+	<key id="s_alliance_quest_completion_ticket_error" value="{0}を使用できませんでした。" commend="{0}: 即時完了チケットアイテム" feature="FameCompletionTicket" />
 	<key id="s_fame_point_board_time1" value="{0}分前" />
 	<key id="s_fame_point_board_time2" value="{0:02d}時{1:02d}分" />
 	<key id="s_fame_point_board_time3" value="{0:04d}/{1:02d}/{2:02d}" />
@@ -6098,7 +6098,7 @@
 	<key id="s_world_champion_step_button" value="{0}レベル" feature="WorldChampionMushroom" />
 	<key id="s_world_champion_reward_title" value="{0}レベルまでマッシュキング退治累積報酬" feature="WorldChampionMushroom" />
 	<key id="s_world_champion_clear_title" value="全レベルのマッシュキング退治完了" feature="WorldChampionMushroom" />
-	<key id="s_world_champion_season_info" value="STRINGCOMMON_S_WORLD_CHAMPION_SEASON_INFO_VALUE:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="s_world_champion_season_info" value="&lt;FONT color=&apos;#ffd200&apos;&gt;現在のシーズン&lt;/FONT&gt;：{0}シーズン ({1} ~ {2})" feature="WorldChampionMushroom" />
 	<key id="s_world_champion_msg_current_field" value="すでにマッシュキング出現場所にいます。" feature="WorldChampionMushroom" />
 	<key id="s_world_champion_msg_move_field" value="[{0}]に移動しますか？" feature="WorldChampionMushroom" />
 	<key id="s_world_champion_msg_not_found_season" value="現在、進行中のワールドレイドがありません。\n新しいワールドレイドをお楽しみに！" feature="WorldChampionMushroom" />
@@ -6123,9 +6123,9 @@
 	<key id="s_msg_nurturing_eat_success_nocount" value="{0}にエサを与えました。" />
 	<key id="s_msg_nurturing_play_success" value="{0}と遊んであげました。({1}/{2})" />
 	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[ジャンピング+バーニングキャラクター指定]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;{0} キャラクターでジャンピング+バーニングイベントに参加しますか？&lt;/FONT&gt;\n\n・60レベルまでジャンピングできるポーションが支給されます。\n・60レベルから81レベルまで1レベルアップごとに+2の追加レベルを獲得します。\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\n・レベルアップポーションを使用した場合、バーニングキャラクターを削除してもバーニングキャラクターを指定することができません。\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[ジャンピングポーション案内]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[バーニングキャラクター指定]&lt;/FONT&gt;\n&lt;FONTsize=&apos;3&apos;&gt;&lt;/FONT&gt;\n&lt;font color=&apos;#FF5F5F&apos;&gt;{0}キャラクターでバーニングイベントに参加しますか？&lt;/FONT&gt;\n\n・1回レベルアップするたびに+2レベルを追加獲得します。\n・レベル9から60まで効果が適用されます。\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\n\n・バーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\n・バーニングイベントは12月11日メンテナンス前まで開催されます。\n\n&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[バーニング最終報酬]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="JP" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[バーニングキャラクター指定]&lt;/FONT&gt;\n&lt;FONTsize=&apos;3&apos;&gt;&lt;/FONT&gt;\n&lt;font color=&apos;#FF5F5F&apos;&gt;{0}キャラクターでバーニングイベントに参加しますか？&lt;/FONT&gt;\n\n・1回レベルアップするたびに+2レベルを追加獲得します。\n・レベル9から60まで効果が適用されます。\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\n\n・バーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\n・バーニングイベントは12月11日メンテナンス前まで開催されます。\n\n&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[バーニング最終報酬]&lt;/FONT&gt;\n" comment="{0}: キャラクター名" locale="JP" />
 	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\nジャンピング+バーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;｢確認｣&lt;/FONT&gt;を押してください。" comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\nバーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;｢確認｣&lt;/FONT&gt;を押してください。" comment="{0}:캐릭터 이름" locale="JP" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\nバーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;｢確認｣&lt;/FONT&gt;を押してください。" comment="{0}: キャラクター名" locale="JP" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[ジャンピング+バーニングとは？]&lt;/FONT&gt;\n\n・60レベルまでジャンピングできるポーションが支給されます。\n・60レベルから81レベルまで1レベルアップごとに+2の追加レベルを獲得します。\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\n・レベルアップポーションを使用した場合、バーニングキャラクターを削除してもバーニングキャラクターを指定することができません。\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[ジャンピングポーション案内]&lt;/FONT&gt;\n\n" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;font color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[バーニングとは？]&lt;/FONT&gt;\n\n・1回レベルアップするたびに+2レベルを追加獲得します。\n・レベル9から60まで効果が適用されます。\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\n\n・バーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\n・バーニングイベントは12月11日メンテナンス前まで開催されます。" locale="JP" />
 	<key id="s_burning_levelup_event_reward_ui_title" value="バーニング達成" />
@@ -6217,18 +6217,18 @@
 	<key id="s_closet_msg_item_failed" value="着用条件を満たしていないため装着できなかったアイテムがあります。" feature="Closet" />
 	<key id="s_closet_tooltip_msg_for_remove" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;現在、アイテムを所持していません。&lt;/FONT&gt;" feature="Closet" />
 	<key id="s_word_commingSoon" value="準備中です。" />
-	<key id="s_fieldwar_sidepopup_script" value="STRINGCOMMON_S_FIELDWAR_SIDEPOPUP_SCRIPT_VALUE:[F]Fieldwar01" comment="{0} : 필드맵" feature="Fieldwar01" />
+	<key id="s_fieldwar_sidepopup_script" value="軍団侵入警報発令！\n&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt;\nすぐに支援が必要です。" comment="{0} : 필드맵" feature="Fieldwar01" />
 	<key id="s_arcade_game_preparing" value="準備中" />
 	<key id="s_arcade_text_effect_consecutive_win" value="{0}連勝中！" feature="Event" />
 	<key id="s_item_multi_open_box_count" value="{0} / {1}" />
 	<key id="s_character_skill_charging" value="1段階" />
 	<key id="s_character_skill_charging2" value="2段階" />
 	<key id="s_character_skill_chargingmax" value="Max" />
-	<key id="s_discord_msg_party" value="STRINGCOMMON_S_DISCORD_MSG_PARTY_VALUE:[F]Discord" feature="Discord" />
-	<key id="s_discord_msg_solo" value="STRINGCOMMON_S_DISCORD_MSG_SOLO_VALUE:[F]Discord" feature="Discord" />
-	<key id="s_discord_msg_details" value="STRINGCOMMON_S_DISCORD_MSG_DETAILS_VALUE:[F]Discord" feature="Discord" />
-	<key id="s_discord_msg_standby" value="STRINGCOMMON_S_DISCORD_MSG_STANDBY_VALUE:[F]Discord" feature="Discord" />
-	<key id="s_discord_msg_move_field" value="STRINGCOMMON_S_DISCORD_MSG_MOVE_FIELD_VALUE:[F]Discord" feature="Discord" />
+	<key id="s_discord_msg_party" value="パーティープレイ" feature="Discord" />
+	<key id="s_discord_msg_solo" value="ソロプレイ" feature="Discord" />
+	<key id="s_discord_msg_details" value="{0} | {1}" feature="Discord" />
+	<key id="s_discord_msg_standby" value="待機中" feature="Discord" />
+	<key id="s_discord_msg_move_field" value="移動中" feature="Discord" />
 	<key id="s_dungeon_control_center_reward_weekly" value="{0} / {1}" />
 	<key id="s_dungeon_control_center_reward_daily" value="{0} / {1}" />
 	<key id="s_dungeon_control_center_dungeon_title" value="Lv {0}. {1}" />
@@ -6238,185 +6238,185 @@
 	<key id="s_dungeon_search_setting_group_none" value="全体ダンジョン" />
 	<key id="s_lms_checknetcafe_user_count_limit_exceeded" value="ネットカフェ接続制限数を超えたためログインすることができません。" locale="JP" />
 	<key id="s_err_cash_recall_not_marriage" value="結婚をすると召喚することができます。" />
-	<key id="s_wedding_propose_ok" value="STRINGCOMMON_S_WEDDING_PROPOSE_OK_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reserve_ok" value="STRINGCOMMON_S_WEDDING_HALL_RESERVE_OK_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reserve_cancel_ok" value="STRINGCOMMON_S_WEDDING_HALL_RESERVE_CANCEL_OK_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reserve_change_ok" value="STRINGCOMMON_S_WEDDING_HALL_RESERVE_CHANGE_OK_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_enter_notify_popup" value="STRINGCOMMON_S_WEDDING_HALL_ENTER_NOTIFY_POPUP_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_function_item_error" value="STRINGCOMMON_S_WEDDING_FUNCTION_ITEM_ERROR_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_system" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_SYSTEM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_same_field" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_SAME_FIELD_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_already_propose_request" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_ALREADY_PROPOSE_REQUEST_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_only_promise_user" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_ONLY_PROMISE_USER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_invalid_wedding_hall" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_INVALID_WEDDING_HALL_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_propose_ok" value="{0}さんと婚約しました。" feature="Wedding" />
+	<key id="s_wedding_hall_reserve_ok" value="{0}の予約に成功しました。 \n{1}[{2}メロット]" feature="Wedding" />
+	<key id="s_wedding_hall_reserve_cancel_ok" value="結婚式場の予約をキャンセルしました。" feature="Wedding" />
+	<key id="s_wedding_hall_reserve_change_ok" value="結婚式場の予約変更に成功しました。\n{1} {0} [{2}メロット]" feature="Wedding" />
+	<key id="s_wedding_hall_enter_notify_popup" value="{0} ♥ {1} 結婚式場の予約時間になりました。結婚式に入場してください。\n予約時間 {2}" feature="Wedding" />
+	<key id="s_wedding_function_item_error" value="使用できません。" feature="Wedding" />
+	<key id="s_wedding_result_err_system" value="システムエラーです。[{0}]" feature="Wedding" />
+	<key id="s_wedding_result_err_same_field" value="婚約、結婚式場の予約、予約変更、合意離婚を行うには、相手と同じマップにいる必要があります。" feature="Wedding" />
+	<key id="s_wedding_result_err_already_propose_request" value="すでにプロポーズを受けています。" feature="Wedding" />
+	<key id="s_wedding_result_err_only_promise_user" value="婚約状態でのみ可能です。" feature="Wedding" />
+	<key id="s_wedding_result_err_invalid_wedding_hall" value="不明なウェディングホールです。" feature="Wedding" />
 	<key id="s_wedding_result_err_lack_merat" value="ブルーメロットが足りません。" feature="Wedding" />
-	<key id="s_wedding_result_err_maintenance_time" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_MAINTENANCE_TIME_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_result_err_maintenance_time" value="結婚式場のメンテナンス時間です。別の時間で予約してください。" feature="Wedding" />
 	<key id="s_wedding_result_err_not_find_character" value="存在しないキャラクターです。" feature="Wedding" />
-	<key id="s_wedding_result_err_wedding_block_age_to" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_WEDDING_BLOCK_AGE_TO_VALUE:[F]WeddingBlockAge" feature="WeddingBlockAge" />
-	<key id="s_wedding_result_err_wedding_block_age_from" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_WEDDING_BLOCK_AGE_FROM_VALUE:[F]WeddingBlockAge" feature="WeddingBlockAge" />
-	<key id="s_wedding_result_err_wedding_block_gender" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_WEDDING_BLOCK_GENDER_VALUE:[F]WeddingBlockSex" feature="WeddingBlockSex" />
-	<key id="s_wedding_result_err_not_buddy" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_NOT_BUDDY_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_propose_state_to" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_PROPOSE_STATE_TO_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_marriage_state_to" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_MARRIAGE_STATE_TO_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_coolingoff_state_to" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_COOLINGOFF_STATE_TO_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_prpose_cooltime_state_to" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_PRPOSE_COOLTIME_STATE_TO_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_propose_state_from" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_PROPOSE_STATE_FROM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_mareriage_state_from" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_MARERIAGE_STATE_FROM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_coolingoff_state_from" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_COOLINGOFF_STATE_FROM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_propose_cooltime_state_from" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_PROPOSE_COOLTIME_STATE_FROM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_not_find_propose_item" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_NOT_FIND_PROPOSE_ITEM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_err_propose_distance" value="STRINGCOMMON_S_WEDDING_RESULT_ERR_PROPOSE_DISTANCE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_decline_propose" value="STRINGCOMMON_S_WEDDING_RESULT_DECLINE_PROPOSE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_cancel_propose_from" value="STRINGCOMMON_S_WEDDING_RESULT_CANCEL_PROPOSE_FROM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_cancel_propose_expire" value="STRINGCOMMON_S_WEDDING_RESULT_CANCEL_PROPOSE_EXPIRE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_cancel_propose_to" value="STRINGCOMMON_S_WEDDING_RESULT_CANCEL_PROPOSE_TO_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_send_wedding_hall_reservation" value="STRINGCOMMON_S_WEDDING_RESULT_SEND_WEDDING_HALL_RESERVATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_send_wedding_hall_reservation_change" value="STRINGCOMMON_S_WEDDING_RESULT_SEND_WEDDING_HALL_RESERVATION_CHANGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_send_wedding_hall_reservation_cancel" value="STRINGCOMMON_S_WEDDING_RESULT_SEND_WEDDING_HALL_RESERVATION_CANCEL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_not_find_weddinghall" value="STRINGCOMMON_S_WEDDING_RESULT_NOT_FIND_WEDDINGHALL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_already_send_invitation" value="STRINGCOMMON_S_WEDDING_RESULT_ALREADY_SEND_INVITATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_late_promise_time" value="STRINGCOMMON_S_WEDDING_RESULT_LATE_PROMISE_TIME_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_late_wedding_reserve_modify" value="STRINGCOMMON_S_WEDDING_RESULT_LATE_WEDDING_RESERVE_MODIFY_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_already_reservation" value="STRINGCOMMON_S_WEDDING_RESULT_ALREADY_RESERVATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_already_same_reservation" value="STRINGCOMMON_S_WEDDING_RESULT_ALREADY_SAME_RESERVATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_invaild_state_divorce" value="STRINGCOMMON_S_WEDDING_RESULT_INVAILD_STATE_DIVORCE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_lack_marriage_date" value="STRINGCOMMON_S_WEDDING_RESULT_LACK_MARRIAGE_DATE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_lack_meso_divorce" value="STRINGCOMMON_S_WEDDING_RESULT_LACK_MESO_DIVORCE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_late_divorce_agree" value="STRINGCOMMON_S_WEDDING_RESULT_LATE_DIVORCE_AGREE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_invalid_divorce_agree_user" value="STRINGCOMMON_S_WEDDING_RESULT_INVALID_DIVORCE_AGREE_USER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_only_marriage_user" value="STRINGCOMMON_S_WEDDING_RESULT_ONLY_MARRIAGE_USER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_wedding_invitation_count" value="STRINGCOMMON_S_WEDDING_RESULT_WEDDING_INVITATION_COUNT_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_lack_meso_invitation" value="STRINGCOMMON_S_WEDDING_RESULT_LACK_MESO_INVITATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_early_remind_wedding" value="STRINGCOMMON_S_WEDDING_RESULT_EARLY_REMIND_WEDDING_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_early_wedding_reserve" value="STRINGCOMMON_S_WEDDING_RESULT_EARLY_WEDDING_RESERVE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_divorcecancel" value="STRINGCOMMON_S_WEDDING_RESULT_DIVORCECANCEL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_only_booking_character" value="STRINGCOMMON_S_WEDDING_RESULT_ONLY_BOOKING_CHARACTER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_already_weddinghall_reserve" value="STRINGCOMMON_S_WEDDING_RESULT_ALREADY_WEDDINGHALL_RESERVE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_result_invitation_send_late" value="STRINGCOMMON_S_WEDDING_RESULT_INVITATION_SEND_LATE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_result_err_wedding_block_age_to" value="成人アカウントのキャラクターのみ結婚システムを使用できます" feature="WeddingBlockAge" />
+	<key id="s_wedding_result_err_wedding_block_age_from" value="結婚システムは成人アカウントのキャラクター同士でのみ使用できます。" feature="WeddingBlockAge" />
+	<key id="s_wedding_result_err_wedding_block_gender" value="同じ性別のキャラクターにプロポーズすることはできません。" feature="WeddingBlockSex" />
+	<key id="s_wedding_result_err_not_buddy" value="{0}さんと友達ではないため、プロポーズできません。\nプロポーズするには友達になりましょう。" feature="Wedding" />
+	<key id="s_wedding_result_err_propose_state_to" value="現在婚約中のため、{0}さんにプロポーズできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_marriage_state_to" value="現在結婚中のため、{0}さんにプロポーズできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_coolingoff_state_to" value="離婚手続き中のため、他のキャラクターにプロポーズできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_prpose_cooltime_state_to" value="離婚後48時間は再婚できません。" feature="Wedding" />
+	<key id="s_wedding_result_err_propose_state_from" value="婚約中のキャラクターにプロポーズすることはできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_mareriage_state_from" value="結婚中のキャラクターにプロポーズすることはできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_coolingoff_state_from" value="離婚手続き中のキャラクターにプロポーズすることはできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_propose_cooltime_state_from" value="離婚後48時間経過していないキャラクターにプロポーズすることはできません。" feature="Wedding" />
+	<key id="s_wedding_result_err_not_find_propose_item" value="プロポーズするには、2人のキャラクターが両方とも{0}を持っている必要があります。 " feature="Wedding" />
+	<key id="s_wedding_result_err_propose_distance" value="距離が遠いためプロポーズできません。" feature="Wedding" />
+	<key id="s_wedding_result_decline_propose" value="{0}さんがプロポーズを断りました。" feature="Wedding" />
+	<key id="s_wedding_result_cancel_propose_from" value="{0}さんがプロポーズをキャンセルしました。" feature="Wedding" />
+	<key id="s_wedding_result_cancel_propose_expire" value="待機時間が満了したため、プロポーズがキャンセルされました。" feature="Wedding" />
+	<key id="s_wedding_result_cancel_propose_to" value="プロポーズをキャンセルしました。" feature="Wedding" />
+	<key id="s_wedding_result_send_wedding_hall_reservation" value="相手に結婚式場の予約確認リクエストを送りました。相手が確認すると予約が完了します。" feature="Wedding" />
+	<key id="s_wedding_result_send_wedding_hall_reservation_change" value="相手に結婚式場の予約変更確認リクエストを送りました。 \n相手が確認すると予約変更が完了します。" feature="Wedding" />
+	<key id="s_wedding_result_send_wedding_hall_reservation_cancel" value="相手に結婚式場の予約キャンセル確認リクエストを送りました。 \n相手が同意しない場合、後日同じ等級の結婚式場を予約できる無料予約クーポンは支給されません。" feature="Wedding" />
+	<key id="s_wedding_result_not_find_weddinghall" value="無効な結婚式場です。" feature="Wedding" />
+	<key id="s_wedding_result_already_send_invitation" value="すでに発送された招待状です。" feature="Wedding" />
+	<key id="s_wedding_result_late_promise_time" value="婚約関係が満了しました。" feature="Wedding" />
+	<key id="s_wedding_result_late_wedding_reserve_modify" value="結婚式の時間が迫っているため、予約の変更やキャンセルはできません。" feature="Wedding" />
+	<key id="s_wedding_result_already_reservation" value="すでに予約した結婚式があります。" feature="Wedding" />
+	<key id="s_wedding_result_already_same_reservation" value="すでに同じ情報で予約した結婚式があります。" feature="Wedding" />
+	<key id="s_wedding_result_invaild_state_divorce" value="結婚していないと離婚できません。" feature="Wedding" />
+	<key id="s_wedding_result_lack_marriage_date" value="結婚生活が短いため、離婚申請ができません。" feature="Wedding" />
+	<key id="s_wedding_result_lack_meso_divorce" value="離婚手数料が足りません。" feature="Wedding" />
+	<key id="s_wedding_result_late_divorce_agree" value="熟慮期間が過ぎ、すでに離婚が完了しています。" feature="Wedding" />
+	<key id="s_wedding_result_invalid_divorce_agree_user" value="離婚の同意は、離婚リクエストを受けた相手のみ可能です。" feature="Wedding" />
+	<key id="s_wedding_result_only_marriage_user" value="結婚したキャラクターのみ使用できます。" feature="Wedding" />
+	<key id="s_wedding_result_wedding_invitation_count" value="一度に送れる招待状の数を超えました。" feature="Wedding" />
+	<key id="s_wedding_result_lack_meso_invitation" value="メルが足りないため、招待状を送れません。" feature="Wedding" />
+	<key id="s_wedding_result_early_remind_wedding" value="結婚式からあまり時間が経っていないため、リマインドウェディングを行うことができません。" feature="Wedding" />
+	<key id="s_wedding_result_early_wedding_reserve" value="結婚の予約時間が近すぎます。" feature="Wedding" />
+	<key id="s_wedding_result_divorcecancel" value="離婚熟慮期間が過ぎたため、強制離婚申請をキャンセルできません。" feature="Wedding" />
+	<key id="s_wedding_result_only_booking_character" value="結婚式場の予約変更・キャンセルは、結婚式場を予約したキャラクターのみ可能です。" feature="Wedding" />
+	<key id="s_wedding_result_already_weddinghall_reserve" value="すでに予約中の結婚式場があります。" feature="Wedding" />
+	<key id="s_wedding_result_invitation_send_late" value="招待状は結婚式開始10分前まで送ることができます。" feature="Wedding" />
 	<key id="s_wedding_result_lack_coupon" value="クーポンが足りません。" feature="Wedding" />
-	<key id="s_wedding_msg_box_propose_confirm" value="STRINGCOMMON_S_WEDDING_MSG_BOX_PROPOSE_CONFIRM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_msg_box_propose_to" value="STRINGCOMMON_S_WEDDING_MSG_BOX_PROPOSE_TO_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_msg_box_propose_from" value="STRINGCOMMON_S_WEDDING_MSG_BOX_PROPOSE_FROM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_state_promise" value="STRINGCOMMON_S_WEDDING_STATE_PROMISE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_state_marriage" value="STRINGCOMMON_S_WEDDING_STATE_MARRIAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_state_coolingoff" value="STRINGCOMMON_S_WEDDING_STATE_COOLINGOFF_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_select_page" value="STRINGCOMMON_S_WEDDING_RESERVATION_SELECT_PAGE_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_msg_box_propose_confirm" value="相手にプロポーズしますか？" feature="Wedding" />
+	<key id="s_wedding_msg_box_propose_to" value="{0}さんにプロポーズしました。 \n相手が同意すると婚約が成立します。" feature="Wedding" />
+	<key id="s_wedding_msg_box_propose_from" value="{0}さんがプロポーズしました。 \n受け入れると婚約が成立します。受け入れますか？" feature="Wedding" />
+	<key id="s_wedding_state_promise" value="{0}さんと婚約\n{1}まで" feature="Wedding" />
+	<key id="s_wedding_state_marriage" value="{0}さんと結婚\n{1}日目" feature="Wedding" />
+	<key id="s_wedding_state_coolingoff" value="{0}さんと離婚手続き中" feature="Wedding" />
+	<key id="s_wedding_reservation_select_page" value="結婚式場選択" feature="Wedding" />
 	<key id="s_wedding_reservation_unknown" value="キャンセル" feature="Wedding" />
-	<key id="s_wedding_reservation_prev" value="STRINGCOMMON_S_WEDDING_RESERVATION_PREV_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_reservation_prev" value="前へ" feature="Wedding" />
 	<key id="s_wedding_reservation_next" value="次" feature="Wedding" />
-	<key id="s_wedding_reservation_reservation" value="STRINGCOMMON_S_WEDDING_RESERVATION_RESERVATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_cancel_page" value="STRINGCOMMON_S_WEDDING_RESERVATION_CANCEL_PAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_cancel" value="STRINGCOMMON_S_WEDDING_RESERVATION_CANCEL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_cancel_end" value="STRINGCOMMON_S_WEDDING_RESERVATION_CANCEL_END_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_change_page" value="STRINGCOMMON_S_WEDDING_RESERVATION_CHANGE_PAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_change_start" value="STRINGCOMMON_S_WEDDING_RESERVATION_CHANGE_START_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_change" value="STRINGCOMMON_S_WEDDING_RESERVATION_CHANGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_change_end" value="STRINGCOMMON_S_WEDDING_RESERVATION_CHANGE_END_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_schedule_page" value="STRINGCOMMON_S_WEDDING_RESERVATION_SCHEDULE_PAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_confirm_page" value="STRINGCOMMON_S_WEDDING_RESERVATION_CONFIRM_PAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_request_messagebox" value="STRINGCOMMON_S_WEDDING_RESERVATION_REQUEST_MESSAGEBOX_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_change_request_messagebox" value="STRINGCOMMON_S_WEDDING_RESERVATION_CHANGE_REQUEST_MESSAGEBOX_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_coupon_warn" value="STRINGCOMMON_S_WEDDING_RESERVATION_COUPON_WARN_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_coupon_checkbox" value="STRINGCOMMON_S_WEDDING_RESERVATION_COUPON_CHECKBOX_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_hall_bill_category_grade_1" value="STRINGCOMMON_S_WEDDING_RESERVATION_HALL_BILL_CATEGORY_GRADE_1_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_hall_bill_category_grade_2" value="STRINGCOMMON_S_WEDDING_RESERVATION_HALL_BILL_CATEGORY_GRADE_2_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_reservation_hall_bill_category_grade_3" value="STRINGCOMMON_S_WEDDING_RESERVATION_HALL_BILL_CATEGORY_GRADE_3_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_field_desc_tria" value="STRINGCOMMON_S_WEDDING_HALL_FIELD_DESC_TRIA_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_field_desc_henesis" value="STRINGCOMMON_S_WEDDING_HALL_FIELD_DESC_HENESIS_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_field_desc_elinia" value="STRINGCOMMON_S_WEDDING_HALL_FIELD_DESC_ELINIA_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_field_desc_perion" value="STRINGCOMMON_S_WEDDING_HALL_FIELD_DESC_PERION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_field_desc_skycastle" value="STRINGCOMMON_S_WEDDING_HALL_FIELD_DESC_SKYCASTLE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_field_desc_cruise" value="STRINGCOMMON_S_WEDDING_HALL_FIELD_DESC_CRUISE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mail_title_receiver" value="STRINGCOMMON_S_WEDDING_MAIL_TITLE_RECEIVER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mail_contents_receiver" value="STRINGCOMMON_S_WEDDING_MAIL_CONTENTS_RECEIVER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mail_change_title_receiver" value="STRINGCOMMON_S_WEDDING_MAIL_CHANGE_TITLE_RECEIVER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mail_change_contents_receiver" value="STRINGCOMMON_S_WEDDING_MAIL_CHANGE_CONTENTS_RECEIVER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mail_cancel_title_receiver" value="STRINGCOMMON_S_WEDDING_MAIL_CANCEL_TITLE_RECEIVER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mail_cancel_contents_receiver" value="STRINGCOMMON_S_WEDDING_MAIL_CANCEL_CONTENTS_RECEIVER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_divorce_mail_sender" value="STRINGCOMMON_S_WEDDING_DIVORCE_MAIL_SENDER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_divorce_mutual_msgbox" value="STRINGCOMMON_S_WEDDING_DIVORCE_MUTUAL_MSGBOX_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_divorce_confirm" value="STRINGCOMMON_S_WEDDING_DIVORCE_CONFIRM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_divorce_warn" value="STRINGCOMMON_S_WEDDING_DIVORCE_WARN_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reservation_cancel_request" value="STRINGCOMMON_S_WEDDING_HALL_RESERVATION_CANCEL_REQUEST_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reservation_cancel_no_refund_not_find_partner" value="STRINGCOMMON_S_WEDDING_HALL_RESERVATION_CANCEL_NO_REFUND_NOT_FIND_PARTNER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reservation_cancel_no_refund_decline" value="STRINGCOMMON_S_WEDDING_HALL_RESERVATION_CANCEL_NO_REFUND_DECLINE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reservation_select_hall" value="STRINGCOMMON_S_WEDDING_HALL_RESERVATION_SELECT_HALL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reservation_select_time" value="STRINGCOMMON_S_WEDDING_HALL_RESERVATION_SELECT_TIME_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_reservation_paclkage_err" value="STRINGCOMMON_S_WEDDING_HALL_RESERVATION_PACLKAGE_ERR_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_confirm" value="STRINGCOMMON_S_WEDDING_VISIT_CONFIRM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_common" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_COMMON_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_dead" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_DEAD_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_invalid_time" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_INVALID_TIME_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_user_count_limit_exceeded" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_USER_COUNT_LIMIT_EXCEEDED_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_user_self_link" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_USER_SELF_LINK_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_disablemap" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_DISABLEMAP_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_solo_instance" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_SOLO_INSTANCE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_visit_failed_same_place" value="STRINGCOMMON_S_WEDDING_VISIT_FAILED_SAME_PLACE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_err_wedding_chat_cannot_use_common" value="STRINGCOMMON_S_ERR_WEDDING_CHAT_CANNOT_USE_COMMON_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_err_wedding_chat_cannot_use_no_reservation" value="STRINGCOMMON_S_ERR_WEDDING_CHAT_CANNOT_USE_NO_RESERVATION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_err_wedding_chat_cannot_use_complete" value="STRINGCOMMON_S_ERR_WEDDING_CHAT_CANNOT_USE_COMPLETE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mutual_agree_start_acting" value="STRINGCOMMON_S_WEDDING_MUTUAL_AGREE_START_ACTING_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_mutual_agree_end_acting" value="STRINGCOMMON_S_WEDDING_MUTUAL_AGREE_END_ACTING_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_enter_nickname" value="STRINGCOMMON_S_WEDDING_ENTER_NICKNAME_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_enter_nickname_confirm_checkbox" value="STRINGCOMMON_S_WEDDING_ENTER_NICKNAME_CONFIRM_CHECKBOX_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_enter_nickname_error" value="STRINGCOMMON_S_WEDDING_ENTER_NICKNAME_ERROR_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_enter_nickname_confirm_final" value="STRINGCOMMON_S_WEDDING_ENTER_NICKNAME_CONFIRM_FINAL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_couple_name" value="STRINGCOMMON_S_WEDDING_DIALOG_COUPLE_NAME_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_anniversary" value="STRINGCOMMON_S_WEDDING_DIALOG_ANNIVERSARY_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_counter" value="STRINGCOMMON_S_WEDDING_DIALOG_COUNTER_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_reservation_reservation" value="このまま予約する" feature="Wedding" />
+	<key id="s_wedding_reservation_cancel_page" value="予約キャンセル" feature="Wedding" />
+	<key id="s_wedding_reservation_cancel" value="予約をキャンセルする" feature="Wedding" />
+	<key id="s_wedding_reservation_cancel_end" value="キャンセルせずに進む" feature="Wedding" />
+	<key id="s_wedding_reservation_change_page" value="予約変更" feature="Wedding" />
+	<key id="s_wedding_reservation_change_start" value="予約を変更する" feature="Wedding" />
+	<key id="s_wedding_reservation_change" value="このまま変更する" feature="Wedding" />
+	<key id="s_wedding_reservation_change_end" value="変更せずに進む" feature="Wedding" />
+	<key id="s_wedding_reservation_schedule_page" value="時間/公開設定選択" feature="Wedding" />
+	<key id="s_wedding_reservation_confirm_page" value="予約確認" feature="Wedding" />
+	<key id="s_wedding_reservation_request_messagebox" value="予約確認\n新郎 {0} ♥ 新婦 {1}\n結婚式場：{2}\n時間：{3}" feature="Wedding" />
+	<key id="s_wedding_reservation_change_request_messagebox" value="予約変更確認\n新郎 {0} ♥ 新婦 {1}\n結婚式場：{2}\n時間：{3}" feature="Wedding" />
+	<key id="s_wedding_reservation_coupon_warn" value="無料予約クーポンで結婚式場を予約できます。\n結婚式場と同じ等級のクーポンのみ使用可能です。" feature="Wedding" />
+	<key id="s_wedding_reservation_coupon_checkbox" value="無料予約クーポンで決済する" feature="Wedding" />
+	<key id="s_wedding_reservation_hall_bill_category_grade_1" value="ハウスウェディング" feature="Wedding" />
+	<key id="s_wedding_reservation_hall_bill_category_grade_2" value="パーティーウェディング" feature="Wedding" />
+	<key id="s_wedding_reservation_hall_bill_category_grade_3" value="ラグジュアリーウェディング" feature="Wedding" />
+	<key id="s_wedding_hall_field_desc_tria" value="参加可能な招待客：10名\nトライアの活気を詰め込んだ大衆的なウェディングホール" feature="Wedding" />
+	<key id="s_wedding_hall_field_desc_henesis" value="参加可能な招待客：10名\n端正で素朴なヘネシスの結婚チャペル" feature="Wedding" />
+	<key id="s_wedding_hall_field_desc_elinia" value="参加可能な招待客：40名\nエリニアの美しい自然を詰め込んだ愛の森" feature="Wedding" />
+	<key id="s_wedding_hall_field_desc_perion" value="参加可能な招待客：40名\n勇猛な戦士の名において永遠を誓う谷" feature="Wedding" />
+	<key id="s_wedding_hall_field_desc_skycastle" value="参加可能な招待客：70名\n華やかな都市の中の優雅で高級感あふれる結婚の城" feature="Wedding" />
+	<key id="s_wedding_hall_field_desc_cruise" value="参加可能な招待客：70名\n特別に自由に！豪華な船上結婚クルーズ" feature="Wedding" />
+	<key id="s_wedding_mail_title_receiver" value="結婚式にご招待します。" feature="Wedding" />
+	<key id="s_wedding_mail_contents_receiver" value="私たちの結婚式にご招待します。 \nぜひご参加いただき、お祝いに華を添えてください。" feature="Wedding" />
+	<key id="s_wedding_mail_change_title_receiver" value="[結婚式日程変更のお知らせ] 変更された招待状をご確認ください。" feature="Wedding" />
+	<key id="s_wedding_mail_change_contents_receiver" value="結婚式の日程が変更されたためお知らせします。\n変更された時間と場所をご確認ください。" feature="Wedding" />
+	<key id="s_wedding_mail_cancel_title_receiver" value="[結婚式キャンセルのお知らせ] 結婚式がキャンセルされました。" feature="Wedding" />
+	<key id="s_wedding_mail_cancel_contents_receiver" value="結婚式がキャンセルされました。\nキャンセルされた結婚式の情報は以下の通りで、 \n参加する必要はありません。" feature="Wedding" />
+	<key id="s_wedding_divorce_mail_sender" value="離婚弁護士" feature="Wedding" />
+	<key id="s_wedding_divorce_mutual_msgbox" value="{0}さんが離婚を申請しました。離婚に合意して、結婚関係を終了しますか？離婚が完了すると、現在の結婚に関連するすべてのアイテムが初期化されます。" feature="Wedding" />
+	<key id="s_wedding_divorce_confirm" value="{0}さんが離婚を申請しました。離婚に合意すると直ちに離婚が完了し、離婚手数料は発生しません。弁護士のところへ移動して離婚に合意しますか？" feature="Wedding" />
+	<key id="s_wedding_divorce_warn" value="離婚熟慮期間である{0}まで結婚関係が維持され、離婚を申請した{1}さんが支払った離婚手数料は返金されません。\n\n離婚熟慮期間中は、弁護士を通じて離婚に合意することができます。" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_cancel_request" value="{0}さんが結婚式の予約をキャンセルしようとしています。\nキャンセルに同意すると、後日同じ等級の結婚式場を予約できる無料予約クーポンを支給します。\n予約キャンセルに同意しますか？" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_cancel_no_refund_not_find_partner" value="{0}さんが同じマップに接続していないため、結婚予約キャンセルの同意を得られません。この場合、後日同じ等級の結婚式場を予約できる無料予約クーポンは支給されません。\nそれでも結婚式の予約をキャンセルしますか？" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_cancel_no_refund_decline" value="{0}さんが結婚式の予約キャンセルに同意しませんでした。この場合、後日同じ等級の結婚式場を予約できる無料予約クーポンは支給されません。 \nそれでも結婚式の予約をキャンセルしますか？" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_select_hall" value="結婚式場を選択してください。" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_select_time" value="結婚式の時間を選択してください。" feature="Wedding" />
+	<key id="s_wedding_hall_reservation_paclkage_err" value="予約変更ができる結婚式場がありません。他のウェディングプランナーに会うか、結婚式を予約した時間を再度確認してください。" feature="Wedding" />
+	<key id="s_wedding_visit_confirm" value="&lt;P&gt;&lt;FONT color=&apos;#FFA200&apos; size=&apos;20&apos; &gt;[{0}-{1}]&lt;/FONT&gt;&lt;/P&gt;&lt;P&gt;結婚式に参加しますか？&lt;/P&gt;" feature="Wedding" />
+	<key id="s_wedding_visit_failed_common" value="今は結婚式に入場できません。" feature="Wedding" />
+	<key id="s_wedding_visit_failed_dead" value="碑石状態では結婚式に入場できません。" feature="Wedding" />
+	<key id="s_wedding_visit_failed_invalid_time" value="結婚式に入場可能な時間ではありません。" feature="Wedding" />
+	<key id="s_wedding_visit_failed_user_count_limit_exceeded" value="結婚式の最大入場可能人数を超えているため、結婚式場に入場できません。 " feature="Wedding" />
+	<key id="s_wedding_visit_failed_user_self_link" value="スペシャルワールドチャット：ウェディングアイテムの招待リンクから自分自身の結婚式に入場することはできません。" feature="Wedding" />
+	<key id="s_wedding_visit_failed_disablemap" value="ここでは他の人の結婚式に入場できません。" feature="Wedding" />
+	<key id="s_wedding_visit_failed_solo_instance" value="ダンジョン内では結婚式に入場できません" feature="Wedding" />
+	<key id="s_wedding_visit_failed_same_place" value="すでにその結婚式に入場しています" feature="Wedding" />
+	<key id="s_err_wedding_chat_cannot_use_common" value="スペシャルワールドチャット：ウェディングアイテムを利用できません。" feature="Wedding" />
+	<key id="s_err_wedding_chat_cannot_use_no_reservation" value="スペシャルワールドチャット：ウェディングアイテムは結婚式の予約なしでは利用できません。" feature="Wedding" />
+	<key id="s_err_wedding_chat_cannot_use_complete" value="スペシャルワールドチャット：ウェディングアイテムは結婚式終了後には利用できません。" feature="Wedding" />
+	<key id="s_wedding_mutual_agree_start_acting" value="結婚式を始めますか？" feature="Wedding" />
+	<key id="s_wedding_mutual_agree_end_acting" value="結婚式を終了しますか？" feature="Wedding" />
+	<key id="s_wedding_enter_nickname" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0} &lt;/FONT&gt;さんと結婚しますか？\n結婚するには、下の&lt;FONT color=&apos;#FFD200&apos;&gt;同意にチェック&lt;/FONT&gt;し、&lt;FONT color=&apos;#FFD200&apos;&gt;相手のキャラクター名&lt;/FONT&gt;を入力して結婚の誓約をしてください。\n結婚が完了すると、2人は夫婦になります。" feature="Wedding" />
+	<key id="s_wedding_enter_nickname_confirm_checkbox" value="結婚に同意します。" feature="Wedding" />
+	<key id="s_wedding_enter_nickname_error" value="キャラクター名の入力が間違っています。結婚する相手のキャラクター名を正確に入力してください。" feature="Wedding" />
+	<key id="s_wedding_enter_nickname_confirm_final" value="本当に{0}さんと結婚しますか？結婚すると30日間は離婚できないため、慎重に決めてください。" feature="Wedding" />
+	<key id="s_wedding_dialog_couple_name" value="{0} ♥ {1}の結婚" feature="Wedding" />
+	<key id="s_wedding_dialog_anniversary" value="結婚記念日：{0}" feature="Wedding" />
+	<key id="s_wedding_dialog_counter" value="結婚して{0}日" feature="Wedding" />
 	<key id="s_wedding_dialog_level" value="{0}段階" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_1" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_1_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_2" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_2_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_3" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_3_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_4" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_4_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_5" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_5_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_6" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_6_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_7" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_7_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_8" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_8_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_9" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_9_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_10" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_10_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_11" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_11_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_12" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_12_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_exp_13" value="STRINGCOMMON_S_WEDDING_DIALOG_EXP_13_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_hall_list_name" value="STRINGCOMMON_S_WEDDING_HALL_LIST_NAME_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_wedding_exp" value="STRINGCOMMON_S_WEDDING_DIALOG_WEDDING_EXP_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_1" value="[+{0}点]結婚状態の{1}日継続" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_2" value="[+{0}点]新郎の夫婦メッセージ作成" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_3" value="[+{0}点]新婦の夫婦メッセージ作成" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_4" value="[+{0}点]新郎のゲーム接続" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_5" value="[+{0}点]新婦のゲーム接続" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_6" value="[{0}点]新郎のゲーム未接続" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_7" value="[{0}点]新婦のゲーム未接続" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_8" value="[+{0}点]結婚式" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_9" value="[+{0}点]新郎の祝福のお守り使用" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_10" value="[+{0}点]新婦の祝福のお守り使用" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_11" value="[+{0}点]新郎のウェディングミッション完了" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_12" value="[+{0}点]新婦のウェディングミッション完了" feature="Wedding" />
+	<key id="s_wedding_dialog_exp_13" value="[+{0}点]debug" feature="Wedding" />
+	<key id="s_wedding_hall_list_name" value="{0} ♥ {1}" feature="Wedding" />
+	<key id="s_wedding_dialog_wedding_exp" value="親密度 ({0}/{1})" feature="Wedding" />
 	<key id="s_wedding_dialog_wedding_grade" value="{0}段階" feature="Wedding" />
-	<key id="s_wedding_dialog_page_message" value="STRINGCOMMON_S_WEDDING_DIALOG_PAGE_MESSAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_page_skill" value="STRINGCOMMON_S_WEDDING_DIALOG_PAGE_SKILL_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_page_mission" value="STRINGCOMMON_S_WEDDING_DIALOG_PAGE_MISSION_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_page_skill_exist" value="STRINGCOMMON_S_WEDDING_DIALOG_PAGE_SKILL_EXIST_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_page_wedding_exp_tooltip" value="STRINGCOMMON_S_WEDDING_DIALOG_PAGE_WEDDING_EXP_TOOLTIP_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_dialog_couple_message_confirm" value="STRINGCOMMON_S_WEDDING_DIALOG_COUPLE_MESSAGE_CONFIRM_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_invitation_message" value="STRINGCOMMON_S_WEDDING_INVITATION_MESSAGE_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_invitation_ok" value="STRINGCOMMON_S_WEDDING_INVITATION_OK_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_invitation_error_user" value="STRINGCOMMON_S_WEDDING_INVITATION_ERROR_USER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_invitation_error_max_user" value="STRINGCOMMON_S_WEDDING_INVITATION_ERROR_MAX_USER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_invitation_send" value="STRINGCOMMON_S_WEDDING_INVITATION_SEND_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_dialog_page_message" value="メッセージ" feature="Wedding" />
+	<key id="s_wedding_dialog_page_skill" value="夫婦スキル" feature="Wedding" />
+	<key id="s_wedding_dialog_page_mission" value="夫婦ミッション" feature="Wedding" />
+	<key id="s_wedding_dialog_page_skill_exist" value="すでに存在します。" feature="Wedding" />
+	<key id="s_wedding_dialog_page_wedding_exp_tooltip" value="{0} 親密度" feature="Wedding" />
+	<key id="s_wedding_dialog_couple_message_confirm" value="メッセージは何度でも修正できますが、夫婦メッセージ作成の親密度は一度しか獲得できません。修正しますか？" feature="Wedding" />
+	<key id="s_wedding_invitation_message" value="私たちの結婚式にご招待します。 \nぜひご参加いただき、お祝いに華を添えてください。" feature="Wedding" />
+	<key id="s_wedding_invitation_ok" value="招待状を発送しました。" feature="Wedding" />
+	<key id="s_wedding_invitation_error_user" value="招待状を送れないキャラクターです。" feature="Wedding" />
+	<key id="s_wedding_invitation_error_max_user" value="一度に送れる人数を超えました。" feature="Wedding" />
+	<key id="s_wedding_invitation_send" value="{0}名に招待状を送ります。{1}メルが差し引かれます。" feature="Wedding" />
 	<key id="s_wedding_guest_user" value="レベル{0}{1}" feature="Wedding" />
 	<key id="s_wedding_guest_tab_friend" value="コミュニティ" feature="Wedding" />
 	<key id="s_wedding_guest_tab_guild" value="ギルド" feature="Wedding" />
-	<key id="s_wedding_guest_tab_stranger" value="STRINGCOMMON_S_WEDDING_GUEST_TAB_STRANGER_VALUE:[F]Wedding" feature="Wedding" />
-	<key id="s_wedding_guest_counter" value="STRINGCOMMON_S_WEDDING_GUEST_COUNTER_VALUE:[F]Wedding" feature="Wedding" />
+	<key id="s_wedding_guest_tab_stranger" value="直接入力" feature="Wedding" />
+	<key id="s_wedding_guest_counter" value="選択した人数: {0} / {1}名" feature="Wedding" />
 	<key id="s_watchagame_change_camera" value="カメラ転換" />
 	<key id="s_watchagame_reset_camera" value="観戦終了" />
 	<key id="s_watchagame_msg_cant_change_camera" value="ここではアングルを変えることができません。" />
 	<key id="s_hideandseek_winner_reward" value="報酬として{0}を{1}個獲得しました。" />
 	<key id="s_hideandseek_remain_user" value="現在、鬼チーム{0}人、隠れチーム{1}人が生存しています。" />
-	<key id="s_unlimited_enchant_fee" value="STRINGCOMMON_S_UNLIMITED_ENCHANT_FEE_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="s_unlimited_enchant_err_invalid_item" value="STRINGCOMMON_S_UNLIMITED_ENCHANT_ERR_INVALID_ITEM_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="s_unlimited_enchant_err_lack_ingredient" value="STRINGCOMMON_S_UNLIMITED_ENCHANT_ERR_LACK_INGREDIENT_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="s_unlimited_enchant_err_lack_meso" value="STRINGCOMMON_S_UNLIMITED_ENCHANT_ERR_LACK_MESO_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="s_unlimited_enchant_err_max_unlimited_grade" value="STRINGCOMMON_S_UNLIMITED_ENCHANT_ERR_MAX_UNLIMITED_GRADE_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="s_unlimited_enchant_err_system" value="STRINGCOMMON_S_UNLIMITED_ENCHANT_ERR_SYSTEM_VALUE:[F]UnlimitedEnchant" feature="UnlimitedEnchant" />
-	<key id="s_payback_dialog_period" value="STRINGCOMMON_S_PAYBACK_DIALOG_PERIOD_VALUE:[F]Payback" feature="Payback" />
-	<key id="s_payback_dialog_status_percent" value="STRINGCOMMON_S_PAYBACK_DIALOG_STATUS_PERCENT_VALUE:[F]Payback" feature="Payback" />
+	<key id="s_unlimited_enchant_fee" value="費用 {0}&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_err_invalid_item" value="限界突破できないアイテムです。" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_err_lack_ingredient" value="材料が足りません。" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_err_lack_meso" value="メルが足りません。" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_err_max_unlimited_grade" value="限界突破の最大段階に到達した装備です。" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_err_system" value="システムエラー {0}" feature="UnlimitedEnchant" />
+	<key id="s_payback_dialog_period" value="期間: {0}年{1}月{2}日 ~ {3}年{4}月{5}日" feature="Payback" />
+	<key id="s_payback_dialog_status_percent" value="{0}% ペイバック" feature="Payback" />
 	<key id="s_payback_dialog_status_level" value="{0}レベル" feature="Payback" />
-	<key id="s_payback_dialog_maret" value="STRINGCOMMON_S_PAYBACK_DIALOG_MARET_VALUE:[F]Payback" feature="Payback" />
-	<key id="s_payback_dialog_merat_text_red_merat" value="STRINGCOMMON_S_PAYBACK_DIALOG_MERAT_TEXT_RED_MERAT_VALUE:[F]Payback" feature="Payback" />
-	<key id="s_payback_bill_bottom_detail_text" value="STRINGCOMMON_S_PAYBACK_BILL_BOTTOM_DETAIL_TEXT_VALUE:[F]Payback" feature="Payback" />
+	<key id="s_payback_dialog_maret" value="{0} &lt;Img Src=&apos;export_common_icon_bluemerat_large&apos; vspace=&apos;-5&apos;/&gt;&lt;font size=&apos;20&apos; color=&apos;#a0a0a0&apos;&gt; / {1}&lt;/font&gt;" feature="Payback" />
+	<key id="s_payback_dialog_merat_text_red_merat" value="&lt;font color=&apos;#ED442A&apos;&gt;{0} &lt;/font&gt;&lt;Img Src=&apos;export_common_icon_redmerat_large&apos; vspace=&apos;-5&apos;/&gt;&lt;font size=&apos;20&apos; color=&apos;#a0a0a0&apos;&gt; / {1}&lt;/font&gt;" feature="Payback" />
+	<key id="s_payback_bill_bottom_detail_text" value="※ ペイバックイベント進行中！" feature="Payback" />
 	<key id="s_payback_bill_bottom_button_text" value="詳細" feature="Payback" />
-	<key id="s_tooltip_gamemenu_payback" value="STRINGCOMMON_S_TOOLTIP_GAMEMENU_PAYBACK_VALUE:[F]Payback" feature="Payback" />
-	<key id="s_payback_error_reward_time" value="STRINGCOMMON_S_PAYBACK_ERROR_REWARD_TIME_VALUE:[F]Payback" feature="Payback" />
+	<key id="s_tooltip_gamemenu_payback" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;ペイバック{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nメイプルキノコのパワーアップガチャに消費したメロットの一部を\nペイバックとして受け取れます。" feature="Payback" />
+	<key id="s_payback_error_reward_time" value="ペイバック精算作業中です。\n\n[精算作業時間] 00:00 ~ 00:05 " feature="Payback" />
 	<key id="s_itemgacha_dialog_title" value="{0}" />
 	<key id="s_itemgacha_dialog_gacha_type_skin" value="アバター" />
 	<key id="s_itemgacha_dialog_gacha_type_look" value="外見" />
@@ -6426,4 +6426,65 @@
 	<key id="s_itemgacha_dialog_err_unknown" value="問題が発生しました。再度お試しください。" />
 	<key id="s_itemgacha_dialog_not_enough_item_shop_link" value="{0}アイテムが足りません。\n購入しますか？" />
 	<key id="s_itemgacha_dialog_not_enough_capsulemachine" value="{0}が足りません。" />
+	<key id="s_admin_block_transfer_msgbox_title_kr" value="取引制限のご案内" locale="KR" />
+	<key id="s_buddy_confirm_del_somebody_from_homeblocklist" value="{0}さんをブロックリストから削除しますか？" />
+	<key id="s_home_block_memo_complete" value="{0}さんに対するブロックメモを編集しました。" />
+	<key id="s_home_block_err_no_user" value="対象が間違っています。" />
+	<key id="s_minimap_tooltip_quest_target_80000422" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000423" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000424" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000425" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000426" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000427" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000428" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000429" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000430" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000431" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000432" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000433" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000434" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000435" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000436" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_minimap_tooltip_quest_target_80000437" value="&lt;FONT color=&apos;#8aff00&apos;&gt;今日のフレンド&lt;/FONT&gt;" locale="KR" />
+	<key id="s_action_questUserFind_80000422" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000423" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000424" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000425" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000426" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000427" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000428" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000429" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000430" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000431" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000432" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000433" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000434" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000435" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000436" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_action_questUserFind_80000437" value="今日のフレンド - {0}" locale="KR" />
+	<key id="s_cashshop_gift_comfirm" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;さんにプレゼントしますか？" locale="KR" />
+	<key id="s_itemsocketsystem_socket_swap_price" value="{0}{1}個" feature="ItemSocketSystem" />
+	<key id="s_lullu_key_showwindow_title_codi_box" value="以下のアイテムのうち1つを獲得できます。" locale="CN" />
+	<key id="s_treewatering_watering" value="釜にカボチャを投げ入れる" feature="Event" locale="NA" />
+	<key id="s_treewatering_emotion" value="釜を鑑賞する" feature="Event" locale="NA" />
+	<key id="s_treewatering_watering_casting" value="釜沸騰中" feature="Event" locale="NA" />
+	<key id="s_treewatering_emotion_casting" value="釜鑑賞中" feature="Event" locale="NA" />
+	<key id="s_treewatering_wateringreward" value="釜にカボチャを入れました。({0}/{1})" feature="Event" locale="NA" />
+	<key id="s_treewatering_emotionreward" value="釜を鑑賞しました。({0}/{1})" feature="Event" locale="NA" />
+	<key id="s_treewatering_no_waterpot" value="腐ったカボチャがありません。" feature="Event" locale="NA" />
+	<key id="s_treewatering_nomore_watering_reward" value="デイリー報酬を全て受け取りました。" feature="Event" locale="NA" />
+	<key id="s_treewatering_nomore_emotion_reward" value="デイリー報酬を全て受け取りました。" feature="Event" locale="NA" />
+	<key id="s_treewatering_no_waterpot" value="ダッキーエアーポンプがありません。" feature="Event" locale="CN" />
+	<key id="s_treewatering_nomore_watering_reward" value="デイリー報酬を全て受け取りました。" feature="Event" locale="CN" />
+	<key id="s_treewatering_nomore_emotion_reward" value="デイリー報酬を全て受け取りました。" feature="Event" locale="CN" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\nジャンピング+バーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;｢確認｣&lt;/FONT&gt;を押してください。" locale="KR" />
+	<key id="s_longtermattendgift_dialog_invalid_event" value="進行できないイベントです。" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_allowed" value="許可" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_deny" value="拒否" />
+	<key id="s_personal_infomaion_agreement_sendlog_btn_detail" value="詳細" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_public" value="公開" />
+	<key id="s_personal_infomaion_agreement_visit_myhome_btn_private" value="非公開" />
+	<key id="s_tooltip_gamemenu_gallery" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;シュヴァンダのクリスマスギャラリー{0}&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;\nシュヴァンダのクリスマスギャラリーイベントのメニューを確認することができます。" locale="NA" />
+	<key id="s_mesoMarket_sale_per_price" value="価格" feature="MesoMarket" locale="NA" />
+	<key id="s_delete_account_terms_step_end_game_button" value="ゲーム終了" />
 </ms2>

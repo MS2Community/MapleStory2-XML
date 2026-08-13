@@ -107,10 +107,10 @@
 	<key id="Balrog_BurstWarnning" name="もうすぐ地獄を味わわせてやる。" />
 	<key id="Balrog_FinalBroken01" name="グオオォ！何もかもぶっ潰してやる！" />
 	<key id="Balrog_FinalBroken02" name="もはや逃げ場はない。ここがお前の墓場だ。" />
-	<key id="Balrog_CannonBroken01" name="STRINGNPCAI_BALROG_CANNONBROKEN01_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="Balrog_CannonBroken02" name="STRINGNPCAI_BALROG_CANNONBROKEN02_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="Balrog_CannonBroken03" name="STRINGNPCAI_BALROG_CANNONBROKEN03_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="Balrog_Kritias_Dead" name="STRINGNPCAI_BALROG_KRITIAS_DEAD_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
+	<key id="Balrog_CannonBroken01" name="あの大砲が目障りだ…" feature="Kritias_Balrog01" />
+	<key id="Balrog_CannonBroken02" name="実に鬱陶しいおもちゃだな" feature="Kritias_Balrog01" />
+	<key id="Balrog_CannonBroken03" name="すべてを壊してやる!!" feature="Kritias_Balrog01" />
+	<key id="Balrog_Kritias_Dead" name="新たな力が目前だったのに…!!" feature="Kritias_Balrog01" />
 	<key id="Balrog_Test01" name="三角キューブチェック_test" />
 	<key id="Balrog_Test02" name="ランダムターゲット_test" />
 	<key id="Tristan_TargetAppearance" name="おっと、深刻な状況だな…。" />
@@ -131,24 +131,24 @@
 	<key id="BalrogMagicBurster_CannonTargetChange02" name="あの大砲が邪魔だな。" />
 	<key id="BalrogMagicBursterEventLeave01" name="何だ、あれは…！" />
 	<key id="BalrogMagicBursterEventLeave02" name="うっ！…しまった、やられたか…！" />
-	<key id="BalrogMagicBurster_Kritias_TargetWarining01" name="STRINGNPCAI_BALROGMAGICBURSTER_KRITIAS_TARGETWARINING01_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="BalrogMagicBurster_Kritias_TargetWarining02" name="STRINGNPCAI_BALROGMAGICBURSTER_KRITIAS_TARGETWARINING02_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="BalrogMagicBurster_Kritias_TargetWarining03" name="STRINGNPCAI_BALROGMAGICBURSTER_KRITIAS_TARGETWARINING03_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_Start" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_START_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_Warning" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_WARNING_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_Go2Stage" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_GO2STAGE_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_Go3Stage" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_GO3STAGE_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_ProtectCircle" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_PROTECTCIRCLE_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_ProtectThrow0401" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_PROTECTTHROW0401_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_ProtectThrow0402" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_PROTECTTHROW0402_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_ProtectThrow0301" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_PROTECTTHROW0301_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_ProtectThrow0302" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_PROTECTTHROW0302_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_StunWarning01" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_STUNWARNING01_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_StunWarning02" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_STUNWARNING02_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_1PhaseStartMove" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_1PHASESTARTMOVE_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_2PhaseStartMove" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_2PHASESTARTMOVE_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_3PhaseStartMove" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_3PHASESTARTMOVE_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Tristan_BalrogMagicBurster_BattleEnd" name="STRINGNPCAI_TRISTAN_BALROGMAGICBURSTER_BATTLEEND_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
+	<key id="BalrogMagicBurster_Kritias_TargetWarining01" name="貴様か~!" feature="Kritias_Inferno01" />
+	<key id="BalrogMagicBurster_Kritias_TargetWarining02" name="本当に鬱陶しい奴だな" feature="Kritias_Inferno01" />
+	<key id="BalrogMagicBurster_Kritias_TargetWarining03" name="貴様は私が特別に相手をしてやろう" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Start" name="あそこにインフェルノックがいるぞ、早く行こう!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Warning" name="インフェルノックの眼光の呪いは強烈だな…" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Go2Stage" name="さあ~早く移動しよう!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_Go3Stage" name="鬱陶しい敵が多すぎるな…" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectCircle" name="ここで呪いを浄化したまえ" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0401" name="4人まで浄化できるぞ!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0402" name="早く浄化を受けたまえ~" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0301" name="3人まで浄化できるぞ!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_ProtectThrow0302" name="早く浄化を受けたまえ~" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_StunWarning01" name="あのクリムゾンバルログは私だけを狙っているな" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_StunWarning02" name="まずい…呪いを浄化できない…" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_1PhaseStartMove" name="早くインフェルノックを追いかけよう~" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_2PhaseStartMove" name="ここはもうすぐ崩壊しそうだ!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_3PhaseStartMove" name="もうすぐ崩壊する、気をつけたまえ!" feature="Kritias_Inferno01" />
+	<key id="Tristan_BalrogMagicBurster_BattleEnd" name="ついにインフェルノックを倒したのか……" feature="Kritias_Inferno01" />
 	<key id="AirshipBalrogCrimson_Center" name="中央に移動" />
 	<key id="AirshipBalrogCrimson_Left" name="左に移動" />
 	<key id="AirshipBalrogCrimson_Right" name="右に移動" />
@@ -167,71 +167,71 @@
 	<key id="YuperiaRbladerDark_FinalChaos_EventLeave01" name="もうすぐ地獄を味わわせてやる。" feature="LapentaDungeon" />
 	<key id="YuperiaRbladerDark_TwoStage_LongCheck" name="私を1人にさせるの？痛い目に遭うわよ。" feature="LapentaDungeon" />
 	<key id="YuperiaRbladerDark_TwoStage_CloseCheck" name="離れて！私の邪魔をしないで！" feature="LapentaDungeon" />
-	<key id="MapleGuardSpearKritias_InstallInterruption01" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLINTERRUPTION01_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="MapleGuardSpearKritias_InstallInterruption02" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLINTERRUPTION02_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="MapleGuardSpearKritias_InstallInterruption03" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLINTERRUPTION03_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="MapleGuardSpearKritias_InstallBroken" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLBROKEN_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="MapleGuardSpearKritias_InstallStart" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLSTART_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="MapleGuardSpearKritias_InstallAction" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLACTION_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="MapleGuardSpearKritias_InstallComplete" name="STRINGNPCAI_MAPLEGUARDSPEARKRITIAS_INSTALLCOMPLETE_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="BalrogCrimsonKritias_BalrogBossGuard" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_BALROGBOSSGUARD_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="BalrogCrimsonKritias_BalrogBossGuard02" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_BALROGBOSSGUARD02_NAME:[F]Kritias_Balrog01" feature="Kritias_Balrog01" />
-	<key id="BalrogCrimsonKritias_InfernoSoilderGuard" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_INFERNOSOILDERGUARD_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="BalrogCrimsonKritias_InfernoGuard04" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_INFERNOGUARD04_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="BalrogCrimsonKritias_InfernoGuard03" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_INFERNOGUARD03_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="BalrogCrimsonKritias_InfernoGuard02" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_INFERNOGUARD02_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="BalrogCrimsonKritias_TristanAttack" name="STRINGNPCAI_BALROGCRIMSONKRITIAS_TRISTANATTACK_NAME:[F]Kritias_Inferno01" feature="Kritias_Inferno01" />
-	<key id="Paika_Phase03" name="STRINGNPCAI_PAIKA_PHASE03_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
-	<key id="Paika_Phase04" name="STRINGNPCAI_PAIKA_PHASE04_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
-	<key id="Paika_LastSkill" name="STRINGNPCAI_PAIKA_LASTSKILL_NAME:[F]Kritias_Paika01" feature="Kritias_Paika01" />
-	<key id="TurkaReaperCostume_BattelStart" name="STRINGNPCAI_TURKAREAPERCOSTUME_BATTELSTART_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_2PhaseStartGrab" name="STRINGNPCAI_TURKAHOODFORCE_2PHASESTARTGRAB_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_2PhaseSoldierZone01" name="STRINGNPCAI_TURKAHOODFORCE_2PHASESOLDIERZONE01_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_2PhaseSoldierZone02" name="STRINGNPCAI_TURKAHOODFORCE_2PHASESOLDIERZONE02_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_2PhaseStartMainBattle" name="STRINGNPCAI_TURKAHOODFORCE_2PHASESTARTMAINBATTLE_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_3PhaseStart" name="STRINGNPCAI_TURKAHOODFORCE_3PHASESTART_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_StunWarning01" name="STRINGNPCAI_TURKAHOODFORCE_STUNWARNING01_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="TurkaHoodForce_StunWarning02" name="STRINGNPCAI_TURKAHOODFORCE_STUNWARNING02_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="Miniblackbean_Buff01" name="STRINGNPCAI_MINIBLACKBEAN_BUFF01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Miniblackbean_Buff02" name="STRINGNPCAI_MINIBLACKBEAN_BUFF02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_1Phase_Dead" name="STRINGNPCAI_BLACKBEAN_1PHASE_DEAD_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_2Phase_Dead" name="STRINGNPCAI_BLACKBEAN_2PHASE_DEAD_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpringBridge" name="STRINGNPCAI_BLACKBEAN_SPRINGBRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SummerBridge" name="STRINGNPCAI_BLACKBEAN_SUMMERBRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_AutumnBridge" name="STRINGNPCAI_BLACKBEAN_AUTUMNBRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_WinterBridge" name="STRINGNPCAI_BLACKBEAN_WINTERBRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_12Bridge" name="STRINGNPCAI_BLACKBEAN_12BRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_3Bridge" name="STRINGNPCAI_BLACKBEAN_3BRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_6Bridge" name="STRINGNPCAI_BLACKBEAN_6BRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_9Bridge" name="STRINGNPCAI_BLACKBEAN_9BRIDGE_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_CenterMain" name="STRINGNPCAI_BLACKBEAN_CENTERMAIN_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_12Main" name="STRINGNPCAI_BLACKBEAN_12MAIN_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_3Main" name="STRINGNPCAI_BLACKBEAN_3MAIN_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_6Main" name="STRINGNPCAI_BLACKBEAN_6MAIN_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_9Main" name="STRINGNPCAI_BLACKBEAN_9MAIN_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpeedRacing_GrabAttack" name="STRINGNPCAI_BLACKBEAN_SPEEDRACING_GRABATTACK_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpeedRacing01" name="STRINGNPCAI_BLACKBEAN_SPEEDRACING01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpeedRacing02" name="STRINGNPCAI_BLACKBEAN_SPEEDRACING02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpeedRacing03" name="STRINGNPCAI_BLACKBEAN_SPEEDRACING03_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpeedRacing04" name="STRINGNPCAI_BLACKBEAN_SPEEDRACING04_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_SpeedRacing_Stun" name="STRINGNPCAI_BLACKBEAN_SPEEDRACING_STUN_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Jump01" name="STRINGNPCAI_BLACKBEAN_JUMP01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Jump02" name="STRINGNPCAI_BLACKBEAN_JUMP02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Summonner" name="STRINGNPCAI_BLACKBEAN_SUMMONNER_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_VacuumStart" name="STRINGNPCAI_BLACKBEAN_VACUUMSTART_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Vacuum01" name="STRINGNPCAI_BLACKBEAN_VACUUM01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Vacuum02" name="STRINGNPCAI_BLACKBEAN_VACUUM02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Vacuum03" name="STRINGNPCAI_BLACKBEAN_VACUUM03_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Vacuum_End01" name="STRINGNPCAI_BLACKBEAN_VACUUM_END01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Vacuum_End02" name="STRINGNPCAI_BLACKBEAN_VACUUM_END02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Rolling01" name="STRINGNPCAI_BLACKBEAN_ROLLING01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Rolling02" name="STRINGNPCAI_BLACKBEAN_ROLLING02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Rolling03" name="STRINGNPCAI_BLACKBEAN_ROLLING03_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Fart01" name="STRINGNPCAI_BLACKBEAN_FART01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Fart02" name="STRINGNPCAI_BLACKBEAN_FART02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Paint01" name="STRINGNPCAI_BLACKBEAN_PAINT01_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Paint02" name="STRINGNPCAI_BLACKBEAN_PAINT02_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
-	<key id="Blackbean_Spray" name="STRINGNPCAI_BLACKBEAN_SPRAY_NAME:[F]DungeonOpen70CH5" feature="DungeonOpen70CH5" />
+	<key id="MapleGuardSpearKritias_InstallInterruption01" name="こいつらを早く始末してください!" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallInterruption02" name="助けてください~粒子砲の設置を邪魔されています" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallInterruption03" name="早く設置しないといけないのに…助けてください!" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallBroken" name="ああ、また設置しないと…" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallStart" name="設置作業開始!" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallAction" name="設置作業進行中~" feature="Kritias_Balrog01" />
+	<key id="MapleGuardSpearKritias_InstallComplete" name="設置完了!早くこれを使ってください" feature="Kritias_Balrog01" />
+	<key id="BalrogCrimsonKritias_BalrogBossGuard" name="バルログ様の代わりに私が大砲を破壊してやる!" feature="Kritias_Balrog01" />
+	<key id="BalrogCrimsonKritias_BalrogBossGuard02" name="あの警備兵に大砲を設置させてはならない!" feature="Kritias_Balrog01" />
+	<key id="BalrogCrimsonKritias_InfernoSoilderGuard" name="私の保護を受けろ!" feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_InfernoGuard04" name="1人では足りん!4人まで相手にしてやろう。" feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_InfernoGuard03" name="1人では足りん!3人まで相手にしてやろう。" feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_InfernoGuard02" name="1人では足りん!2人まで相手にしてやろう。" feature="Kritias_Inferno01" />
+	<key id="BalrogCrimsonKritias_TristanAttack" name="トリスタンさえ止めれば貴様は終わりだ~!" feature="Kritias_Inferno01" />
+	<key id="Paika_Phase03" name="この生意気な…兵士たちよ、私を助けよ" feature="Kritias_Paika01" />
+	<key id="Paika_Phase04" name="くそっ…虫けらのような奴らめ!" feature="Kritias_Paika01" />
+	<key id="Paika_LastSkill" name="さあ死ね。グアアアアッ" feature="Kritias_Paika01" />
+	<key id="TurkaReaperCostume_BattelStart" name="とうとうここまで来たか、虫けらのような人間め。" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_2PhaseStartGrab" name="おもちゃには貴様がちょうど良さそうだな。" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_2PhaseSoldierZone01" name="退屈させてくれるな。" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_2PhaseSoldierZone02" name="どこを見ている?" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_2PhaseStartMainBattle" name="人間ごときに私の計画は止められん。貴様らはここまでだ!" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_3PhaseStart" name="貴様の最期にふさわしい場所だな。" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_StunWarning01" name="ちっ…予想外の変数だな…" feature="Kritias_Turka03" />
+	<key id="TurkaHoodForce_StunWarning02" name="くっ…取るに足らない人間ごときが…" feature="Kritias_Turka03" />
+	<key id="Miniblackbean_Buff01" name="…攻撃反射…" feature="DungeonOpen70CH5" />
+	<key id="Miniblackbean_Buff02" name="攻撃反射…" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_1Phase_Dead" name="ふん!もうつまんない~他の所で遊ぶよ" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_2Phase_Dead" name="ひどいよ…!もう君とは遊ばない…" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpringBridge" name="どう?ここにある僕の帽子、かわいいでしょ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SummerBridge" name="そんなに怖がらないでこっちにおいで~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_AutumnBridge" name="紅葉道~ドライブ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_WinterBridge" name="よそ見してたら轢かれちゃうかもよ!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_12Bridge" name="ねえ!もっと楽しく遊ぼうよ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_3Bridge" name="僕の車、超カッコよくない?" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_6Bridge" name="まずは安全運転~安全運転~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_9Bridge" name="君も僕の車に乗ってみたいんだね?" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_CenterMain" name="食らえ!ブラック~ビーム!!!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_12Main" name="足元に気をつけた方がいいよ?!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_3Main" name="チューブの上に乗らないとね~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_6Main" name="みんな、出ておいで~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_9Main" name="僕が下りて直接こらしめてやる!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpeedRacing_GrabAttack" name="僕の車から離れろ!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpeedRacing01" name="さあ~さあ~走れ!走れ!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpeedRacing02" name="思いっきり走れ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpeedRacing03" name="ここでは僕が一番速いんだ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpeedRacing04" name="さあ、どこへ行こうかな?~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_SpeedRacing_Stun" name="目が回る…走りすぎたかな…?" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Jump01" name="跳んで遊ぼう~跳んで遊ぼう~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Jump02" name="今、床を見たらびっくりしてひっくり返るよ?" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Summonner" name="退屈だ!みんな出てきて遊ぼう!!!" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_VacuumStart" name="さあ~掃除の時間だ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Vacuum01" name="そろそろゴミを片付けようかな" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Vacuum02" name="まだゴミがいっぱい残ってるじゃん~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Vacuum03" name="片付けても片付けてもキリがないね~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Vacuum_End01" name="ちょっとキレイになった気がするな~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Vacuum_End02" name="掃除をすると気分が良くなるよ~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Rolling01" name="ブルン~ブルン~さあ行くよ" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Rolling02" name="ブルン~さあ、覚悟してよね" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Rolling03" name="さあ、どこへ行こうかな?~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Fart01" name="さあ~準備して~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Fart02" name="僕のおならの音、どう?" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Paint01" name="今度はどんな風に塗ろうかな?" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Paint02" name="君はどんな色がいいかな~" feature="DungeonOpen70CH5" />
+	<key id="Blackbean_Spray" name="黄色に変われ!" feature="DungeonOpen70CH5" />
 	<key id="AI__AI_ALEX_ANCHORLIZARD__0" name="魚女は、私が捕まえる！" />
 	<key id="AI__AI_ALEX_ANCHORLIZARD__1" name="クロッグ…。" />
 	<key id="AI__AI_ALEX_ANCHORLIZARD__2" name="クロッグクロッグ…。" />
@@ -494,8 +494,8 @@
 	<key id="COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__4" name="STRINGNPCAI_COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__4_NAME:[F]Colosseum02" feature="Colosseum02" />
 	<key id="COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__5" name="STRINGNPCAI_COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__5_NAME:[F]Colosseum02" feature="Colosseum02" />
 	<key id="COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__6" name="STRINGNPCAI_COLOSSEUM__AI_ARCANEBLADER_COLOSSEUM__6_NAME:[F]Colosseum02" feature="Colosseum02" />
-	<key id="WEDDING_PINATA_IRON_0" name="STRINGNPCAI_WEDDING_PINATA_IRON_0_NAME:[F]Wedding" feature="Wedding" />
-	<key id="WEDDING_PINATA_IRON_1" name="STRINGNPCAI_WEDDING_PINATA_IRON_1_NAME:[F]Wedding" feature="Wedding" />
-	<key id="WEDDING_PINATA_IRON_2" name="STRINGNPCAI_WEDDING_PINATA_IRON_2_NAME:[F]Wedding" feature="Wedding" />
-	<key id="Test01" name="AI 버그 발생, AI 버그 발생, AI 버그 발생, AI 버그 발생" feature="Develop" />
+	<key id="WEDDING_PINATA_IRON_0" name="勇者たちの結婚式だと聞いたが\n大したことないな!" feature="Wedding" />
+	<key id="WEDDING_PINATA_IRON_1" name="甘いものは全部僕のだ!\n触るな!" feature="Wedding" />
+	<key id="WEDDING_PINATA_IRON_2" name="今度の結婚式もぶち壊してやる!" feature="Wedding" />
+	<key id="Test01" name="AIバグ発生、AIバグ発生、AIバグ発生、AIバグ発生" feature="Develop" />
 </ms2>

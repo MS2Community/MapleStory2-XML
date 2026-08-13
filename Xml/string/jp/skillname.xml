@@ -82,17 +82,17 @@
 	<key id="20000161" name="飛べ！スライム" />
 	<key id="20000171" name="飛べ！モミジ" />
 	<key id="30000000" name="冒険者登場モーション" feature="Develop" />
-	<key id="30000001" name="SKILLNAME_30000001_NAME:[F]Develop" feature="Develop" />
-	<key id="30000002" name="SKILLNAME_30000002_NAME:[F]Develop" feature="Develop" />
+	<key id="30000001" name="ナイト登場モーション" feature="Develop" />
+	<key id="30000002" name="バーサーカー登場モーション" feature="Develop" />
 	<key id="30000003" name="ウィザード登場モーション" feature="Develop" />
-	<key id="30000004" name="SKILLNAME_30000004_NAME:[F]Develop" feature="Develop" />
-	<key id="30000005" name="SKILLNAME_30000005_NAME:[F]Develop" feature="Develop" />
-	<key id="30000006" name="SKILLNAME_30000006_NAME:[F]Develop" feature="Develop" />
-	<key id="30000007" name="SKILLNAME_30000007_NAME:[F]Develop" feature="Develop" />
+	<key id="30000004" name="プリースト登場モーション" feature="Develop" />
+	<key id="30000005" name="レンジャー登場モーション" feature="Develop" />
+	<key id="30000006" name="ヘビーガンナー登場モーション" feature="Develop" />
+	<key id="30000007" name="シーフ登場モーション" feature="Develop" />
 	<key id="30000008" name="アサシン登場モーション" feature="Develop" />
-	<key id="30000009" name="SKILLNAME_30000009_NAME:[F]Develop" feature="Develop" />
-	<key id="30000010" name="SKILLNAME_30000010_NAME:[F]Develop" feature="Develop" />
-	<key id="30000011" name="SKILLNAME_30000011_NAME:[F]Develop" feature="Develop" />
+	<key id="30000009" name="ルーンブレイダー登場モーション" feature="Develop" />
+	<key id="30000010" name="ストライカー登場モーション" feature="Develop" />
+	<key id="30000011" name="ソウルバインダー登場モーション" feature="Develop" />
 	<key id="40000001" name="体当たり" />
 	<key id="40001001" name="ラッシュ体当たり" />
 	<key id="40002001" name="葉っぱ投擲" />
@@ -118,6 +118,9 @@
 	<key id="40011011" name="ツル監獄" />
 	<key id="40011012" name="ツル監獄スプラッシュ" />
 	<key id="40011021" name="毒雲投擲" />
+	<key id="44110004" name="バラの蔓" feature="DungeonOS04" />
+	<key id="44110122" name="グラウンドアタック" feature="DungeonOS04" />
+	<key id="44110155" name="スポットライト" feature="DungeonOS04" />
 	<key id="50000001" name="キノコ打ち下ろし" feature="Develop" />
 	<key id="50000002" name="ツル刺しキューブスキル" feature="Develop" />
 	<key id="50000003" name="突進準備(近接型)" feature="Develop" />
@@ -1579,19 +1582,19 @@
 	<key id="70000213" name="イバラの茂み" />
 	<key id="70000214" name="イバラの茂み" />
 	<key id="70000301" name="毒性沼" />
-	<key id="70003001" name="SKILLNAME_70003001_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003011" name="SKILLNAME_70003011_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003021" name="SKILLNAME_70003021_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003031" name="SKILLNAME_70003031_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003041" name="SKILLNAME_70003041_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003051" name="SKILLNAME_70003051_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003061" name="SKILLNAME_70003061_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
-	<key id="70003071" name="SKILLNAME_70003071_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="70003001" name="スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003011" name="スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003021" name="スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003031" name="スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003041" name="ボス用スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003051" name="ボス用スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003061" name="ボス用スーパー激つよスキル" feature="Kritias_2018_12" />
+	<key id="70003071" name="ボス用スーパー激つよスキル" feature="Kritias_2018_12" />
 	<key id="70003091" name="ジャブ" feature="Fieldwar02" />
-	<key id="70003101" name="SKILLNAME_70003101_NAME:[F]Fieldwar02" feature="Fieldwar02" />
-	<key id="70003121" name="SKILLNAME_70003121_NAME:[F]Fieldwar02" feature="Fieldwar02" />
-	<key id="70003122" name="SKILLNAME_70003122_NAME:[F]Fieldwar02" feature="Fieldwar02" />
-	<key id="70003123" name="SKILLNAME_70003123_NAME:[F]Fieldwar02" feature="Fieldwar02" />
+	<key id="70003101" name="衝撃波" feature="Fieldwar02" />
+	<key id="70003121" name="機関銃発射" feature="Fieldwar02" />
+	<key id="70003122" name="ドリルドライバー" feature="Fieldwar02" />
+	<key id="70003123" name="パワーキャノン" feature="Fieldwar02" />
 	<key id="70003131" name="特製白いポーション" feature="Fieldwar02" />
 	<key id="80000002" name="手懐けられたリカオ" />
 	<key id="80000003" name="手懐けられたライトニングウルフ" />
@@ -1855,6 +1858,8 @@
 	<key id="90000490" name="スペシャルオムオムオムレツ" />
 	<key id="90000491" name="経験値2倍クーポン" />
 	<key id="90000492" name="ハイパーマグネットエサ" />
+	<key id="90000493" name="甘い冒険者ポーション" />
+	<key id="90000493" name="甘い冒険者ポーション" locale="CN" />
 	<key id="90000494" name="経験値2倍クーポン" />
 	<key id="90000495" name="ピンクのお鍋" />
 	<key id="90000496" name="燦然とした輝きポーション" />
@@ -1865,6 +1870,7 @@
 	<key id="90000501" name="凝縮された強化ポーション" />
 	<key id="90000502" name="非凡な集中ポーション" />
 	<key id="90000503" name="鋼鉄の保護ポーション" />
+	<key id="90000504" name="経験値2倍クーポン" />
 	<key id="90000505" name="経験値3倍クーポン" />
 	<key id="90000506" name="強力なメル感知目薬" />
 	<key id="90000507" name="燦然とした輝きポーション" />
@@ -1876,6 +1882,18 @@
 	<key id="90000513" name="非凡な集中ポーション" />
 	<key id="90000514" name="鋼鉄の保護ポーション" />
 	<key id="90000595" name="バニーバニーるんるんエリクサー" />
+	<key id="90000596" name="自動釣り" />
+	<key id="90000596" name="自動釣り" locale="CN" />
+	<key id="90000597" name="自動釣り" />
+	<key id="90000597" name="自動釣り" locale="CN" />
+	<key id="90000598" name="自動釣り" />
+	<key id="90000598" name="自動釣り" locale="CN" />
+	<key id="90000599" name="自動演奏" />
+	<key id="90000599" name="自動演奏" locale="CN" />
+	<key id="90000600" name="自動演奏" />
+	<key id="90000600" name="自動演奏" locale="CN" />
+	<key id="90000601" name="自動演奏" />
+	<key id="90000601" name="自動演奏" locale="CN" />
 	<key id="90000606" name="燦然とした輝きポーション" />
 	<key id="90000607" name="純潔の結束ポーション" />
 	<key id="90000608" name="風の迅速ポーション" />
@@ -1905,9 +1923,13 @@
 	<key id="90000663" name="ミニエリクサー" />
 	<key id="90000664" name="ピンクの花びらクラッカー" />
 	<key id="90000665" name="ハートクラッカー" />
+	<key id="90000666" name="甘いカップケーキ" />
+	<key id="90000666" name="甘いカップケーキ" locale="CN" />
 	<key id="90000667" name="中国オープン記念クラッカー" />
 	<key id="90000668" name="エサ(スターマグネット)" />
 	<key id="90000669" name="カボチャキャンディ" />
+	<key id="90000670" name="パープルキャンディ" />
+	<key id="90000670" name="パープルキャンディ" locale="CN" />
 	<key id="90000672" name="優秀な経験値3倍クーポン" />
 	<key id="90000685" name="特製防御のポーション" />
 	<key id="90000686" name="優秀な経験値2倍クーポン" />
@@ -2011,6 +2033,7 @@
 	<key id="90000916" name="ネイリンの特製キャンディ" />
 	<key id="90000940" name="ピンクペイント" feature="Event" />
 	<key id="90000942" name="グリーンペイント" feature="Event" />
+	<key id="90000943" name="コウモリの足あと" feature="Event" />
 	<key id="90000949" name="祝福のクラッカー" feature="Wedding" />
 	<key id="90000950" name="ピンクの花びらクラッカー" feature="Wedding" />
 	<key id="90000951" name="ハートクラッカー" feature="Wedding" />
@@ -2018,12 +2041,14 @@
 	<key id="90000953" name="2020年記念クラッカー" feature="Event" />
 	<key id="90001148" name="甘いダッキー餅" feature="Event" locale="JP" />
 	<key id="90001149" name="ほろ苦いダッキー餅" feature="Event" locale="JP" />
+	<key id="90001150" name="エサ(レインボーマグネット)" feature="Event" />
 	<key id="90001151" name="経験値ポーション：13,500,000" feature="EventDungeon01" />
 	<key id="90001152" name="経験値ポーション：5,000,000" feature="EventDungeon02" />
 	<key id="90001153" name="穴開きの洋白鍋" feature="Event" />
 	<key id="90001154" name="穴開きの洋白鍋" feature="Event" locale="JP" />
 	<key id="90001155" name="経験値2倍クーポン" />
 	<key id="90001156" name="月ウサギのダッキーヨモギ餅" feature="Event" />
+	<key id="90001157" name="お誕生日ケーキのクラッカー" feature="Event" />
 	<key id="90001158" name="遠征隊ポーション" feature="Event" locale="JP" />
 	<key id="90001159" name="レインボーデンデン" feature="MassiveHideAndSeek" />
 	<key id="90001160" name="レインボーデンデンスプラッシュ" feature="MassiveHideAndSeek" />
@@ -2034,13 +2059,13 @@
 	<key id="90001167" name="レインボーデンデンスプラッシュ" feature="Wedding" />
 	<key id="90001168" name="ユペリアの加護：グリーンラペンシャード" feature="Wedding" />
 	<key id="90001169" name="パパの実の濃縮液" feature="Wedding" />
-	<key id="90001170" name="SKILLNAME_90001170_NAME:[F]Wedding" feature="Wedding" />
+	<key id="90001170" name="妖精変身呪文書" feature="Wedding" />
 	<key id="90001171" name="ミカのファンアート" feature="Wedding" />
-	<key id="90001172" name="SKILLNAME_90001172_NAME:[F]Wedding" feature="Wedding" />
-	<key id="90001173" name="SKILLNAME_90001173_NAME:[F]Wedding" feature="Wedding" />
-	<key id="90001174" name="SKILLNAME_90001174_NAME:[F]Wedding" feature="Wedding" />
+	<key id="90001172" name="流れる水の呪文書" feature="Wedding" />
+	<key id="90001173" name="メルの巨人" feature="Wedding" />
+	<key id="90001174" name="スポットライト！" feature="Wedding" />
 	<key id="90001175" name="今はパーティタイム" feature="Wedding" />
-	<key id="90001176" name="SKILLNAME_90001176_NAME:[F]Wedding" feature="Wedding" />
+	<key id="90001176" name="カッコよさの粉" feature="Wedding" />
 	<key id="90001177" name="寒いジョーク集" feature="Wedding" />
 	<key id="90001178" name="モモの失敗談" feature="Wedding" />
 	<key id="90001179" name="レインボーデンデン" feature="Wedding" />
@@ -2050,6 +2075,11 @@
 	<key id="90001199" name="クリームトマトスープ" feature="Event" />
 	<key id="90001200" name="ピンクビーンのピンクシェイク" feature="Event" />
 	<key id="90001201" name="カリッと焼き上がったジャクムクッキー" feature="Event" />
+	<key id="90001202" name="ブラックビーン" feature="Event" />
+	<key id="90001202" name="ブラックビーン" feature="Event" locale="CN" />
+	<key id="90001204" name="エサ(レインボーマグネット)" feature="Event" />
+	<key id="90001205" name="エサ(レインボースターマグネット)" feature="Event" />
+	<key id="90001206" name="エサ(レインボーマグネット)" feature="Event" />
 	<key id="90003003" name="時間の剣：レッドラペンシャード" feature="LapentaDungeon" />
 	<key id="90003004" name="空間の亀裂：ブルーラペンシャード" feature="LapentaDungeon" />
 	<key id="90003005" name="ユペリアの加護：グリーンラペンシャード" feature="LapentaDungeon" />
@@ -2155,22 +2185,22 @@
 	<key id="90200105" name="ブランコに乗って" />
 	<key id="90200107" name="力を合わせて頑張ろう" />
 	<key id="90200108" name="マッシュキングの黄金駕籠" feature="WorldChampionMushroom" />
-	<key id="90200109" name="SKILLNAME_90200109_NAME:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="90200109" name="マッシュキング駕籠かきダンス" feature="WorldChampionMushroom" />
 	<key id="90200110" name="今はキャンプ中" />
 	<key id="90200111" name="アイスカップからアロハ" />
 	<key id="90200112" name="ナマケキノコとダンス" />
 	<key id="90200113" name="冷たいスイカジュースから" />
-	<key id="90200114" name="SKILLNAME_90200114_NAME:[F]WorldChampionMushroom" feature="WorldChampionMushroom" />
+	<key id="90200114" name="パンダも1周年おめでとう！" feature="WorldChampionMushroom" />
 	<key id="90200115" name="しゅきしゅきダンス" feature="Event" />
 	<key id="90200116" name="見下す" feature="SurvivalContents03" />
 	<key id="90200117" name="キノコをまく" feature="SurvivalContents03" />
 	<key id="90200118" name="ふわふわナマケキノコ" feature="SurvivalContents03" />
 	<key id="90200119" name="人形劇" />
 	<key id="90200120" name="モミジ物語" />
-	<key id="90200121" name="SKILLNAME_90200121_NAME:[F]Fishing02" feature="Fishing02" />
+	<key id="90200121" name="サメ釣り成功！" feature="Fishing02" />
 	<key id="90200122" name="ピグの夢" />
 	<key id="90200123" name="身も心も温まる半身浴" />
-	<key id="90200124" name="SKILLNAME_90200124_NAME:[F]Kritias_2018_12" feature="Kritias_2018_12" />
+	<key id="90200124" name="メイソンのまねっ子" feature="Kritias_2018_12" />
 	<key id="90200125" name="ステップシャッフルダンス" />
 	<key id="90200126" name="ポインポインダンス" feature="Event" />
 	<key id="90200127" name="ポインとあそぼ！" feature="Event" />
@@ -2178,7 +2208,7 @@
 	<key id="90200129" name="ぐぅぐぅ" />
 	<key id="90200130" name="リア充ダンス" />
 	<key id="90200131" name="奇跡の一枚！" />
-	<key id="90200132" name="SKILLNAME_90200132_NAME:[F]Colosseum01" feature="Colosseum01" />
+	<key id="90200132" name="アルベルトビーンのトレーニング" feature="Colosseum01" />
 	<key id="90200133" name="変身！ヒーロー参上" />
 	<key id="90200134" name="変身！私の出番か" />
 	<key id="90200135" name="変身！自分、参上" />
@@ -2223,7 +2253,7 @@
 	<key id="90220029" name="Trick or Treat！" />
 	<key id="90220030" name="SKILLNAME_90220030_NAME:[F]Develop" feature="Develop" />
 	<key id="90220031" name="楽しいショッピング" />
-	<key id="90220032" name="SKILLNAME_90220032_NAME:[F]Wedding" feature="Wedding" />
+	<key id="90220032" name="私たち結婚しました" feature="Wedding" />
 	<key id="90220033" name="初雪" />
 	<key id="90220034" name="天灯飛ばし" />
 	<key id="90220035" name="テレビ視聴中" />
@@ -2260,6 +2290,9 @@
 	<key id="99910051" name="モグラ叩き" />
 	<key id="99910052" name="針刺し" />
 	<key id="99910053" name="ピクニック" />
+	<key id="99910056" name="モグラ叩き" />
+	<key id="99910057" name="針刺し" />
+	<key id="99910058" name="ピクニック" />
 	<key id="99910061" name="ぷぷい" />
 	<key id="99910062" name="シュシュッドーン！" />
 	<key id="99910071" name="エレクトリックショット(左)" />
@@ -2296,6 +2329,8 @@
 	<key id="99910191" name="迅速な射撃" feature="DarkCastle" />
 	<key id="99910192" name="一斉射撃" feature="DarkCastle" />
 	<key id="99910193" name="アローストームII" feature="DarkCastle" />
+	<key id="99910221" name="一撃でドカン！" />
+	<key id="99910224" name="一撃でドカン！" />
 	<key id="99910241" name="卵盗み " feature="GuildRaid01" />
 	<key id="99910301" name="振り回し" feature="FameContents_EP1_02" />
 	<key id="99910302" name="リーフカット" feature="FameContents_EP1_02" />
@@ -2309,35 +2344,38 @@
 	<key id="99910343" name="突撃" feature="SurvivalContents02" />
 	<key id="99910344" name="マークビーム!!!" feature="SurvivalContents02" />
 	<key id="99910351" name="怠ける" feature="SurvivalContentsTeam" />
-	<key id="99910371" name="SKILLNAME_99910371_NAME:[F]Fieldwar01" feature="Fieldwar01" />
-	<key id="99910372" name="SKILLNAME_99910372_NAME:[F]Fieldwar01" feature="Fieldwar01" />
-	<key id="99910401" name="SKILLNAME_99910401_NAME:[F]Gigantica01" feature="Gigantica01" />
-	<key id="99910402" name="SKILLNAME_99910402_NAME:[F]Gigantica01" feature="Gigantica01" />
-	<key id="99910403" name="SKILLNAME_99910403_NAME:[F]Gigantica01" feature="Gigantica01" />
-	<key id="99910501" name="SKILLNAME_99910501_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910502" name="SKILLNAME_99910502_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910503" name="SKILLNAME_99910503_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910504" name="SKILLNAME_99910504_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910510" name="SKILLNAME_99910510_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910511" name="SKILLNAME_99910511_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910512" name="SKILLNAME_99910512_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910513" name="SKILLNAME_99910513_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99910521" name="SKILLNAME_99910521_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910522" name="SKILLNAME_99910522_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910523" name="SKILLNAME_99910523_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910524" name="SKILLNAME_99910524_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910525" name="SKILLNAME_99910525_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910526" name="SKILLNAME_99910526_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910527" name="SKILLNAME_99910527_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99910528" name="SKILLNAME_99910528_NAME:[F]Kritias_Turka03" feature="Kritias_Turka03" />
-	<key id="99911501" name="SKILLNAME_99911501_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99911502" name="SKILLNAME_99911502_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99911503" name="SKILLNAME_99911503_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
-	<key id="99911504" name="SKILLNAME_99911504_NAME:[F]Kritias_Turka01" feature="Kritias_Turka01" />
+	<key id="99910371" name="連発射撃" feature="Fieldwar01" />
+	<key id="99910372" name="火炎放射" feature="Fieldwar01" />
+	<key id="99910401" name="ドリル攻撃" feature="Gigantica01" />
+	<key id="99910402" name="ドリル突進" feature="Gigantica01" />
+	<key id="99910403" name="地震波" feature="Gigantica01" />
+	<key id="99910501" name="アルケオンフック" feature="Kritias_Turka01" />
+	<key id="99910502" name="アルケオンパンチ" feature="Kritias_Turka01" />
+	<key id="99910503" name="アルケオンビーム" feature="Kritias_Turka01" />
+	<key id="99910504" name="超アルケオンアタック" feature="Kritias_Turka01" />
+	<key id="99910510" name="アルケオンフック" feature="Kritias_Turka01" />
+	<key id="99910511" name="アルケオンパンチ" feature="Kritias_Turka01" />
+	<key id="99910512" name="アルケオンビーム" feature="Kritias_Turka01" />
+	<key id="99910513" name="超アルケオンアタック" feature="Kritias_Turka01" />
+	<key id="99910521" name="アルケオンフック" feature="Kritias_Turka03" />
+	<key id="99910522" name="アルケオンパンチ" feature="Kritias_Turka03" />
+	<key id="99910523" name="アルケオンビーム" feature="Kritias_Turka03" />
+	<key id="99910524" name="超アルケオンアタック" feature="Kritias_Turka03" />
+	<key id="99910525" name="アルケオンフック" feature="Kritias_Turka03" />
+	<key id="99910526" name="アルケオンパンチ" feature="Kritias_Turka03" />
+	<key id="99910527" name="アルケオンビーム" feature="Kritias_Turka03" />
+	<key id="99910528" name="超アルケオンアタック" feature="Kritias_Turka03" />
+	<key id="99911501" name="アルケオンフック" feature="Kritias_Turka01" />
+	<key id="99911502" name="アルケオンパンチ" feature="Kritias_Turka01" />
+	<key id="99911503" name="アルケオンビーム" feature="Kritias_Turka01" />
+	<key id="99911504" name="超アルケオンアタック" feature="Kritias_Turka01" />
 	<key id="120010001" name="セリンの気持ち" feature="Lapenshard01" />
 	<key id="120010002" name="黒い兄弟のエネルギー" feature="Lapenshard01" />
 	<key id="120010003" name="ルミエラゴンの誇り" feature="Lapenshard01" />
 	<key id="120010004" name="時間の剣：レッドラペンシャード" feature="Lapenshard01" />
 	<key id="120010010" name="月光斬り：レッドラペンシャード" feature="Lapenshard01" />
+	<key id="120010011" name="月光斬り：レッドラペンシャード" />
+	<key id="120010012" name="月光斬り：レッドラペンシャード" />
 	<key id="120010020" name="ギガンティックレーザー：レッドラペンシャード" feature="Lapenshard01" />
+	<key id="120010021" name="ギガンティックレーザー：レッドラペンシャード" />
 </ms2>

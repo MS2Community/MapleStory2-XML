@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="11000001" name="マッハパンチ" feature="Striker" />
+	<key id="11000001" name="マッハパンチ" />
 	<key id="11000011" name="パンチコンビネーション" feature="Striker" />
 	<key id="11000012" name="パンチコンビネーションEX" feature="Striker" />
 	<key id="11000021" name="ビートダウン" feature="Striker" />
@@ -14,13 +15,21 @@
 	<key id="11000029" name="ビートダウンEX4打" feature="Develop" />
 	<key id="11000030" name="ビートダウンEX5打" feature="Develop" />
 	<key id="11000031" name="ライジングキック" feature="Striker" />
+	<key id="11000031" name="ライジングキック" />
 	<key id="11000032" name="ライジングキックEX" feature="Striker" />
+	<key id="11000032" name="ライジングキックEX" />
 	<key id="11000041" name="ギロチン" feature="Striker" />
+	<key id="11000041" name="ギロチン" />
 	<key id="11000042" name="ギロチンEX" feature="Striker" />
+	<key id="11000042" name="ギロチンEX" />
+	<key id="11000051" name="ガードダッシュ" />
 	<key id="11000051" name="ガードダッシュ" feature="Striker" />
+	<key id="11000053" name="ガードダッシュEX" />
 	<key id="11000053" name="ガードダッシュEX" feature="JobChange_01" />
+	<key id="11000055" name="ガードダッシュEX" />
 	<key id="11000055" name="ガードダッシュEX" feature="JobChange_01" />
 	<key id="11000061" name="ハリケーンカッター" feature="Striker" />
+	<key id="11000061" name="ハリケーンカッター" />
 	<key id="11000062" name="ハリケーンカッター2打" feature="Develop" />
 	<key id="11000063" name="ハリケーンカッター3打" feature="Develop" />
 	<key id="11000064" name="ハリケーンカッター4打" feature="Develop" />
@@ -31,55 +40,84 @@
 	<key id="11000082" name="連携機能" feature="Striker" />
 	<key id="11000091" name="ギガンティックバースト" feature="Striker" />
 	<key id="11000101" name="限界突破" feature="Striker" />
+	<key id="11000101" name="限界突破" />
+	<key id="11000111" name="キックテクニシャン" />
 	<key id="11000111" name="キックテクニシャン" feature="Striker" />
 	<key id="11000121" name="闘魂" feature="Striker" />
+	<key id="11000121" name="闘魂" />
 	<key id="11000131" name="ドラゴンキック" feature="Striker" />
+	<key id="11000131" name="ドラゴンキック" />
 	<key id="11000132" name="火龍爆裂脚" feature="JobChange_01" />
+	<key id="11000141" name="マグナムブロー" />
 	<key id="11000141" name="マグナムブロー" feature="Striker" />
 	<key id="11000142" name="マグナムブロー2段階" feature="Develop" />
 	<key id="11000143" name="マグナムブロー3段階" feature="Develop" />
 	<key id="11000144" name="ギガンティックブロー" feature="JobChange_01" />
 	<key id="11000145" name="ギガンティックブロー1チャージング" feature="Develop" />
 	<key id="11000146" name="ギガンティックブロースプラッシュ" feature="Develop" />
+	<key id="11000151" name="ペースコントロール" />
 	<key id="11000151" name="ペースコントロール" feature="Striker" />
 	<key id="11000161" name="パターンブレイク" feature="Striker" />
+	<key id="11000161" name="パターンブレイク" />
 	<key id="11000171" name="パンチプレッシャー" feature="JobChange_01" />
 	<key id="11000181" name="フォールダウンスマッシュ" feature="JobChange_01" />
 	<key id="11000182" name="フォールダウンスマッシュEX" feature="JobChange_01" />
 	<key id="11000183" name="火龍昇天撃" feature="JobChange_01" />
 	<key id="11000191" name="バルカンパンチ" feature="JobChange_01" />
+	<key id="11000191" name="バルカンパンチ" />
+	<key id="11000192" name="バルカンパンチEX" />
 	<key id="11000192" name="バルカンパンチEX" feature="JobChange_01" />
+	<key id="11000211" name="穴道開放1段階" />
 	<key id="11000211" name="穴道開放1段階" feature="JobChange_01" />
 	<key id="11000212" name="穴道開放2段階" feature="JobChange_01" />
+	<key id="11000212" name="穴道開放2段階" />
+	<key id="11000213" name="穴道開放3段階" />
 	<key id="11000213" name="穴道開放3段階" feature="JobChange_01" />
 	<key id="11000214" name="ワンインチパンチ" feature="JobChange_01" />
-	<key id="11000218" name="SKILLNAME_11000218_NAME:[F]Develop" feature="Develop" />
+	<key id="11000214" name="ワンインチパンチ" />
+	<key id="11000218" name="ねじれ1段階" feature="Develop" />
 	<key id="11000221" name="パンチプレッシャーギガンティックブロー関連パッシブ" feature="Develop" />
 	<key id="11000231" name="セットアップキック火龍爆裂脚関連パッシブ" feature="Develop" />
+	<key id="11000241" name="セットアップキック" />
 	<key id="11000241" name="セットアップキック" feature="JobChange_01" />
 	<key id="11000242" name="セットアップキック1チャージング" feature="Develop" />
+	<key id="11000261" name="スパイラルキャノン" />
 	<key id="11000261" name="スパイラルキャノン" feature="JobChange_01" />
+	<key id="11000262" name="スパイラルキャノンEX" />
 	<key id="11000262" name="スパイラルキャノンEX" feature="JobChange_01" />
 	<key id="11000263" name="スパイラルキャノンEX2打" feature="JobChange_01" />
 	<key id="11000264" name="スパイラルキャノンEX3打" feature="JobChange_01" />
-	<key id="11000265" name="SKILLNAME_11000265_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000266" name="SKILLNAME_11000266_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="11000265" name="トルネードカッター" />
+	<key id="11000265" name="トルネードカッター" feature="JobChange_02" />
+	<key id="11000266" name="トルネードカッターEX" />
+	<key id="11000266" name="トルネードカッターEX" feature="JobChange_02" />
+	<key id="11000271" name="スピンキック" />
 	<key id="11000271" name="スピンキック" feature="JobChange_01" />
+	<key id="11000272" name="スピンキックEX" />
 	<key id="11000272" name="スピンキックEX" feature="JobChange_01" />
 	<key id="11000281" name="縮退" feature="JobChange_01" />
 	<key id="11000282" name="縮退近距離反撃" feature="Develop" />
 	<key id="11000283" name="縮退遠距離反撃" feature="Develop" />
 	<key id="11000286" name="縮退コンフィデンスバフ" feature="JobChange_01" />
 	<key id="11000291" name="ヒートサイクリング" feature="JobChange_01" />
-	<key id="11000302" name="SKILLNAME_11000302_NAME:[F]Develop" feature="Develop" />
-	<key id="11000303" name="SKILLNAME_11000303_NAME:[F]Develop" feature="Develop" />
-	<key id="11000311" name="SKILLNAME_11000311_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000312" name="SKILLNAME_11000312_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000313" name="SKILLNAME_11000313_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000315" name="SKILLNAME_11000315_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000316" name="SKILLNAME_11000316_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000319" name="SKILLNAME_11000319_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000321" name="SKILLNAME_11000321_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000331" name="SKILLNAME_11000331_NAME:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11000341" name="SKILLNAME_11000341_NAME:[F]JobChange_02" feature="JobChange_02" />
+	<key id="11000291" name="ヒートサイクリング" />
+	<key id="11000302" name="ねじれ2段階" feature="Develop" />
+	<key id="11000303" name="ねじれ3段階" feature="Develop" />
+	<key id="11000311" name="あふれる闘志" feature="JobChange_02" />
+	<key id="11000312" name="穴道開放EX 1段階" feature="JobChange_02" />
+	<key id="11000312" name="穴道開放EX 1段階" />
+	<key id="11000313" name="穴道開放EX 2段階" />
+	<key id="11000313" name="穴道開放EX 2段階" feature="JobChange_02" />
+	<key id="11000315" name="ねじれ1段階" feature="JobChange_02" />
+	<key id="11000316" name="ワンインチパンチEX" feature="JobChange_02" />
+	<key id="11000316" name="ワンインチパンチEX" />
+	<key id="11000317" name="ワンインチパンチEX" />
+	<key id="11000319" name="ねじれ2段階" feature="JobChange_02" />
+	<key id="11000321" name="アルティメットラッシュ" feature="JobChange_02" />
+	<key id="11000321" name="アルティメットラッシュ" />
+	<key id="11000322" name="アルティメットラッシュ" />
+	<key id="11000323" name="アルティメットラッシュ" />
+	<key id="11000331" name="レイジングフレイム" feature="JobChange_02" />
+	<key id="11000331" name="レイジングフレイム" />
+	<key id="11000341" name="アルティメットデストロイキック" feature="JobChange_02" />
 </ms2>
