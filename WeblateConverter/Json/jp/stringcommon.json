@@ -14617,7 +14617,7 @@
     "value": "<font color='#ffffff'>{0} {1}～{2}</font>"
   },
   "s_tooltip_petremake_count-PetRemake01-": {
-    "value": "이<font color='#ffd200'>追加能力変更可能(累積変更回数：{0}回)</font>"
+    "value": "<font color='#ffd200'>追加能力変更可能(累計変更回数：{0}回)</font>"
   },
   "s_tooltip_petremake_enable-PetRemake01-": {
     "value": "<font color='#ffd200'>追加能力変更可能</font>"
@@ -17780,19 +17780,19 @@
   },
   "s_alliance_quest_completion_ticket_count-FameCompletionTicket-": {
     "value": "X{0}即時完了",
-    "comment": "{0} : 즉시 완료 아이템 필요 갯수"
+    "comment": "{0}: 即時完了アイテムの必要数"
   },
   "s_alliance_quest_completion_ticket_lack-FameCompletionTicket-": {
     "value": "{0}が足りません。アイテムショップでアイテムを購入しますか？",
-    "commend": "{0} : 즉시완료권 아이템"
+    "commend": "{0}: 即時完了チケットアイテム"
   },
   "s_alliance_quest_completion_ticket_use-FameCompletionTicket-": {
     "value": "{0}({1}個)が消費されます。使用しますか？",
-    "commend": "{0} : 즉시완료권 아이템, {1}: 아이템 필요 갯수"
+    "commend": "{0}: 即時完了チケットアイテム、{1}: 必要アイテム数"
   },
   "s_alliance_quest_completion_ticket_error-FameCompletionTicket-": {
     "value": "{0}を使用できませんでした。",
-    "commend": "{0} : 즉시완료권 아이템"
+    "commend": "{0}: 即時完了チケットアイテム"
   },
   "s_fame_point_board_time1--": {
     "value": "{0}分前"
@@ -18448,7 +18448,7 @@
   },
   "s_burning_levelup_event_set_character_popup--JP": {
     "value": "<font color='#FFD200' size='18' >[バーニングキャラクター指定]</FONT>\\n<FONTsize='3'></FONT>\\n<font color='#FF5F5F'>{0}キャラクターでバーニングイベントに参加しますか？</FONT>\\n\\n・1回レベルアップするたびに+2レベルを追加獲得します。\\n・レベル9から60まで効果が適用されます。\\n・バーニングキャラクターはアカウントあたり1体のみ指定できます。\\n・指定されたバーニングキャラクターはキャラクターを削除するまで変更できません。\\n\\n・バーニングキャラクターを60レベルまで育成してからはバーニングキャラクターを削除しても追加でバーニングキャラクターを指定できません。\\n・バーニングイベントは12月11日メンテナンス前まで開催されます。\\n\\n<font color='#FFD200' size='18' >[バーニング最終報酬]</FONT>\\n",
-    "comment": "{0}:캐릭터 이름"
+    "comment": "{0}: キャラクター名"
   },
   "s_burning_levelup_event_set_character_popup_bottom--": {
     "value": "\\nジャンピング+バーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには<FONT size='3'></FONT>\\n<FONT color='#FFD200'>｢確認｣</FONT>を押してください。",
@@ -18456,7 +18456,7 @@
   },
   "s_burning_levelup_event_set_character_popup_bottom--JP": {
     "value": "\\nバーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには<FONT size='3'> </FONT>\\n<FONT color='#FFD200'>｢確認｣</FONT>を押してください。",
-    "comment": "{0}:캐릭터 이름"
+    "comment": "{0}: キャラクター名"
   },
   "s_buring_levelup_envent_desc_popup--": {
     "value": "<FONT color='#FFD200' size='18' >[ジャンピング+バーニングとは？]</FONT>\\n\\n・60レベルまでジャンピングできるポーションが支給されます。\\n・60レベルから81レベルまで1レベルアップごとに+2の追加レベルを獲得します。\\n・バーニングキャラクターはアカウントごとに1つのみ指定可能です。\\n・指定されたバーニングキャラクターはキャラクターを削除するまでは変更できません。\\n・レベルアップポーションを使用した場合、バーニングキャラクターを削除してもバーニングキャラクターを指定することができません。\\n\\n<FONT color='#FFD200' size='18' >[ジャンピングポーション案内]</FONT>\\n\\n"
@@ -19366,34 +19366,187 @@
   "s_itemgacha_dialog_not_enough_capsulemachine--": {
     "value": "{0}が足りません。"
   },
-  "s_err_lack_guild_event_fund--": {
-    "value": "イベントギルド基金が不足しています。"
+  "s_admin_block_transfer_msgbox_title_kr--KR": {
+    "value": "取引制限のご案内"
   },
-  "s_err_not_allow_pvpField--": {
-    "value": "戦場では転職スキルを使用できません。"
+  "s_buddy_confirm_del_somebody_from_homeblocklist--": {
+    "value": "{0}さんをブロックリストから削除しますか？"
   },
-  "s_err_shop_expired--": {
-    "value": "ショップが期限切れです。"
+  "s_home_block_memo_complete--": {
+    "value": "{0}さんに対するブロックメモを編集しました。"
   },
-  "s_notify_currency_overflow_period--": {
-    "value": "{0}の週間獲得上限個数を超えたため、超過した{0} {1}個は獲得されずに消えます。"
+  "s_home_block_err_no_user--": {
+    "value": "対象が間違っています。"
   },
-  "s_msg_chatting_welcome_pubtest1--CN": {
-    "value": "テストサーバーへようこそ。\\nテストサーバーはサービスがやや不安定な場合があり、\\n本サーバーの内容は後に正式サーバーに適用される内容と異なる場合があります。"
+  "s_minimap_tooltip_quest_target_80000422--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
   },
-  "s_msg_chatting_welcome_pubtest2--CN": {
-    "value": "テストサーバーへようこそ。\\nテストサーバーはサービスがやや不安定な場合があり、\\n本サーバーの内容は後に正式サーバーに適用される内容と異なる場合があります。"
+  "s_minimap_tooltip_quest_target_80000423--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
   },
-  "s_guild_ui_info_guild_exp_event--": {
-    "value": "獲得時経験値 <FONT color='#FF4040'>x{0}倍</FONT>\\nギルド経験値 {1} / {2}"
+  "s_minimap_tooltip_quest_target_80000424--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
   },
-  "s_guild_ui_event_skill_upgrade_popup--": {
-    "value": "<FONT color='#FFA200'>{0}</FONT><Img Src='export_common_icon_item_90000026' vspace='-4'></Img>を使用して\\n<FONT color='#FFA200'>{1}</FONT>スキルを<FONT color='#FFA200'>レベル{2}</FONT>スキルに\\nアップグレードを進めますか？"
+  "s_minimap_tooltip_quest_target_80000425--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
   },
-  "s_guild_ui_vsGame_description-GuildMinigame01-NA": {
-    "value": "5ラウンド3勝制の勝負で、各ラウンドでより多くのメンバーが通過したギルドが得点を獲得するゲームです。\\n勝敗に応じてギルド経験値とギルド基金を獲得できます。"
+  "s_minimap_tooltip_quest_target_80000426--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
   },
-  "s_guild_err_not_enough_guild_event_fund--": {
-    "value": "ギルドイベント基金が不足しています。"
+  "s_minimap_tooltip_quest_target_80000427--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000428--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000429--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000430--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000431--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000432--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000433--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000434--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000435--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000436--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_minimap_tooltip_quest_target_80000437--KR": {
+    "value": "<FONT color='#8aff00'>今日のフレンド</FONT>"
+  },
+  "s_action_questUserFind_80000422--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000423--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000424--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000425--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000426--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000427--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000428--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000429--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000430--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000431--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000432--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000433--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000434--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000435--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000436--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_action_questUserFind_80000437--KR": {
+    "value": "今日のフレンド - {0}"
+  },
+  "s_cashshop_gift_comfirm--KR": {
+    "value": "<FONT color='#FFD200'>{0}</FONT>さんにプレゼントしますか？"
+  },
+  "s_itemsocketsystem_socket_swap_price-ItemSocketSystem-": {
+    "value": "{0}{1}個"
+  },
+  "s_lullu_key_showwindow_title_codi_box--CN": {
+    "value": "以下のアイテムのうち1つを獲得できます。"
+  },
+  "s_treewatering_watering-Event-NA": {
+    "value": "釜にカボチャを投げ入れる"
+  },
+  "s_treewatering_emotion-Event-NA": {
+    "value": "釜を鑑賞する"
+  },
+  "s_treewatering_watering_casting-Event-NA": {
+    "value": "釜沸騰中"
+  },
+  "s_treewatering_emotion_casting-Event-NA": {
+    "value": "釜鑑賞中"
+  },
+  "s_treewatering_wateringreward-Event-NA": {
+    "value": "釜にカボチャを入れました。({0}/{1})"
+  },
+  "s_treewatering_emotionreward-Event-NA": {
+    "value": "釜を鑑賞しました。({0}/{1})"
+  },
+  "s_treewatering_no_waterpot-Event-NA": {
+    "value": "腐ったカボチャがありません。"
+  },
+  "s_treewatering_nomore_watering_reward-Event-NA": {
+    "value": "デイリー報酬を全て受け取りました。"
+  },
+  "s_treewatering_nomore_emotion_reward-Event-NA": {
+    "value": "デイリー報酬を全て受け取りました。"
+  },
+  "s_treewatering_no_waterpot-Event-CN": {
+    "value": "ダッキーエアーポンプがありません。"
+  },
+  "s_treewatering_nomore_watering_reward-Event-CN": {
+    "value": "デイリー報酬を全て受け取りました。"
+  },
+  "s_treewatering_nomore_emotion_reward-Event-CN": {
+    "value": "デイリー報酬を全て受け取りました。"
+  },
+  "s_burning_levelup_event_set_character_popup_bottom--KR": {
+    "value": "\\nジャンピング+バーニングイベントの内容を熟知して{0}キャラクターをバーニングキャラクターに指定するには<FONT size='3'></FONT>\\n<FONT color='#FFD200'>｢確認｣</FONT>を押してください。"
+  },
+  "s_longtermattendgift_dialog_invalid_event--": {
+    "value": "進行できないイベントです。"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_allowed--": {
+    "value": "許可"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_deny--": {
+    "value": "拒否"
+  },
+  "s_personal_infomaion_agreement_sendlog_btn_detail--": {
+    "value": "詳細"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_public--": {
+    "value": "公開"
+  },
+  "s_personal_infomaion_agreement_visit_myhome_btn_private--": {
+    "value": "非公開"
+  },
+  "s_tooltip_gamemenu_gallery--NA": {
+    "value": "<FONT color='#FFD200' size='15' >シュヴァンダのクリスマスギャラリー{0}</FONT>\\n<FONT size='3'></FONT>\\nシュヴァンダのクリスマスギャラリーイベントのメニューを確認することができます。"
+  },
+  "s_mesoMarket_sale_per_price-MesoMarket-NA": {
+    "value": "価格"
+  },
+  "s_delete_account_terms_step_end_game_button--": {
+    "value": "ゲーム終了"
   }
 }
