@@ -17,6 +17,15 @@ public class Converter {
             || baseFileName.StartsWith("scriptnpc", StringComparison.OrdinalIgnoreCase);
     }
 
+    // Ghidra (GMS2): the client reads "locking" only from quest/<id>.xml <basic>
+    // (CQuestBase_ParseRequireXml), never from the questdescription string tables, and the server
+    // ingest reads the quest file too. The string-table copy is dead data, and as a Weblate unit
+    // its ~7000 identical "0"/"1" sources made every save hang, so it is kept out of the JSON.
+    private static bool IsDroppedAttribute(string fileName, string attributeName) {
+        return attributeName == "locking"
+            && Path.GetFileName(fileName).Trim().StartsWith("questdescription", StringComparison.OrdinalIgnoreCase);
+    }
+
     private static string CanonicalizeClientPrimaryKey(string primaryKey, string fileName) {
         if (!IsClientUInt64KeyedFile(fileName)
             || !ulong.TryParse(primaryKey, NumberStyles.None, CultureInfo.InvariantCulture, out ulong numericId)) {
@@ -1077,6 +1086,9 @@ public class Converter {
                     locale = string.IsNullOrEmpty(attribute.Value) ? "" : attribute.Value;
                     continue;
                 }
+                if (IsDroppedAttribute(fileName, attribute.Name)) {
+                    continue;
+                }
 
                 attributesObject[attribute.Name] = attribute.Value;
             }
@@ -1310,7 +1322,7 @@ public class Converter {
                     feature = string.IsNullOrEmpty(attribute.Value) ? "" : attribute.Value;
                 } else if (attribute.Name == "locale") {
                     locale = string.IsNullOrEmpty(attribute.Value) ? "" : attribute.Value;
-                } else {
+                } else if (!IsDroppedAttribute(fileName, attribute.Name)) {
                     attributesObject[attribute.Name] = attribute.Value;
                 }
             }
