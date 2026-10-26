@@ -191,18 +191,24 @@ public static class SkillDescriptionTemplates {
                 }
             }
 
+            // Two source placeholders can carry the same number on every level (10700284: weapon attack
+            // and evasion both 3, 4, 5...). Either expands identically, but prefer one not used yet, so
+            // the translation keeps the source's placeholder set and Weblate's format check passes.
             bool unmapped = false;
+            var used = new HashSet<int>();
             string text = ReplaceNumbers(texts[0], index => {
                 string[] sequence = tokens.Select(levelTokens => levelTokens[index]).ToArray();
                 if (sequence.Distinct().Count() == 1) {
                     return null;
                 }
-                int slot = slots.FindIndex(candidate => candidate.SequenceEqual(sequence));
-                if (slot < 0) {
+                var matches = Enumerable.Range(0, slots.Count).Where(slot => slots[slot].SequenceEqual(sequence)).ToList();
+                if (matches.Count == 0) {
                     unmapped = true;
                     return null;
                 }
-                return $"{{{slot}}}";
+                int chosen = matches.FirstOrDefault(slot => !used.Contains(slot), matches[0]);
+                used.Add(chosen);
+                return $"{{{chosen}}}";
             });
             if (unmapped) {
                 return null;

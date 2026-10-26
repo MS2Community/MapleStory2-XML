@@ -672,7 +672,7 @@
     "uiDescription": "毫不留情地攻击体力降低的敌人。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n攻击体力不足50%的敌人时，<font color='#f06d45'>血之狂乱</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>血之狂乱</font>：物理攻击力提高<font color='#00aaef'>{0}% </font>使用<font color='#f06d45'>血之渴望</font>时，伤害提高 <font color='#00aaef'>{1}% </font>有30%的概率造成<font color='#f06d45'>无慈悲</font>效果\\n<font color='#f06d45'>无慈悲</font>：初始化<font color='#f06d45'>血之渴望</font>的冷却时间，可以立即施展<font color='#f06d45'>劈裂头骨</font>第3阶段"
   },
   "10200221|*-JobChange_01-": {
-    "uiDescription": "黑暗融入全身，强化自己。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n<font color='#f06d45'>狂战士之魂</font>效果\\n<font color='#f06d45'>地震</font>冷却时间初始化，伤害领域内发动<font color='#f06d45'>黑暗缝隙</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>狂战士之魂</font> : 不死，攻击速度提高30%，物理攻击力提高<font color='#00aaef'>{0}%</font>，暗黑攻击力提高<font color='#00aaef'>{0}%</font>，效果结束时体力恢复<font color='#00aaef'>{2}%</font>，<font color='#f06d45'>威胁强化型</font>的伤害3倍\\n<font color='#f06d45'>黑暗缝隙</font> : 额外获得<font color='#f06d45'>黑暗气息</font>，移动速度增加100"
+    "uiDescription": "黑暗融入全身，强化自己。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n<font color='#f06d45'>狂战士之魂</font>效果\\n<font color='#f06d45'>地震</font>冷却时间初始化，伤害领域内发动<font color='#f06d45'>黑暗缝隙</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>狂战士之魂</font> : 不死，攻击速度提高30%，物理攻击力提高<font color='#00aaef'>{0}%</font>，暗黑攻击力提高<font color='#00aaef'>{1}%</font>，效果结束时体力恢复<font color='#00aaef'>{2}%</font>，<font color='#f06d45'>威胁强化型</font>的伤害3倍\\n<font color='#f06d45'>黑暗缝隙</font> : 额外获得<font color='#f06d45'>黑暗气息</font>，移动速度增加100"
   },
   "10200231|*-JobChange_01-": {
     "uiDescription": "快速旋转，在掀起狂风的同时发动攻击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n旋转时，每击造成<font color='#00aaef'>{0}%</font>的伤害\\n原地攻击时，发动<font color='#f06d45'>狂风</font>效果\\n<font color='#f06d45'>狂风</font>叠加3层时，可使用<font color='#f06d45'>飓风</font>\\n<font color='#f06d45'>黑暗支配者</font>状态下，可使用<font color='#f06d45'>强化飓风</font>\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>狂风</font> : 每叠加1层，攻击速度提高4%\\n<font color='#f06d45'>飓风</font> : 持续录入按键时，可使用，旋转速度及攻击次数增加，移动速度减少至30，伤害减少至<font color='#00aaef'>{1}%</font>，<font color='#f06d45'>超级盔甲</font>效果, 攻击<font color='#f06d45'>出血过量</font>状态的敌人时，造成<font color='#00aaef'>{2}%</font>附加伤害\\n<font color='#f06d45'>强化飓风</font> : 使用<font color='#f06d45'>飓风</font>时移动速度不减少"
@@ -918,16 +918,16 @@
     "uiDescription": "融合闪电和寒冰能量发动攻击，并强化自身。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n闪电、寒冰能量命中时，分别造成<font color='#00aaef'>{0}%</font>的伤害\\n持续录入按键时，尝试进行能量融合攻击\\n能量融合攻击命中时，造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>麻酥酥</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>麻酥酥</font>：命中时，闪电及寒冰攻击力提高<font color='#00aaef'>{2}%</font>，<font color='#f06d45'>雷霆</font>及<font color='#f06d45'>落冰</font>冷却时间初始化"
   },
   "10300221|*-JobChange_01-": {
-    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{3}%</font>附加伤害"
+    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{5}%</font>附加伤害"
   },
   "10300222|*-JobChange_01-": {
-    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{3}%</font>附加伤害"
+    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{5}%</font>附加伤害"
   },
   "10300225|*-JobChange_01-": {
-    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{3}%</font>附加伤害"
+    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{5}%</font>附加伤害"
   },
   "10300226|*-JobChange_01-": {
-    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{3}%</font>附加伤害"
+    "uiDescription": "生成小火球掷出。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>火种</font>效果\\n优先攻击<font color='#f06d45'>火种</font>或<font color='#f06d45'>易燃物</font>状态的敌人\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>火种</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>火种</font> 叠加时，造成<font color='#00aaef'>{2}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果, <font color='#f06d45'>易燃物</font>效果\\n<font color='#f06d45'>易燃物</font> : 每秒造成<font color='#00aaef'>{3}%</font>的伤害, 获得<font color='#f06d45'>火种</font>时，造成<font color='#00aaef'>{4}%</font>范围伤害, <font color='#f06d45'>火种扩散</font>效果\\n<font color='#f06d45'>火种扩散</font> : <font color='#f06d45'>火焰波</font>状态下，造成<font color='#00aaef'>{5}%</font>附加伤害"
   },
   "10300231|*-JobChange_01-": {
     "uiDescription": "从地面释放滚烫的热气，烤炙敌人。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>的伤害, <font color='#f06d45'>焦热</font>效果\\n最多爆炸3次\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>焦热</font> : 每秒造成<font color='#00aaef'>{1}%</font>的伤害, <font color='#f06d45'>能量爆炸</font> 命中时，造成<font color='#00aaef'>{2}%</font>范围伤害"
@@ -1083,7 +1083,7 @@
     "uiDescription": "使宇宙中漂浮的小陨石坠落。有时还会召唤出奇怪的东西落下来。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>3376%</font>的伤害, <font color='#f06d45'>领悟</font>效果\\n命中正受到<font color='#f06d45'>火龙卷</font>攻击的敌人时，造成<font color='#00aaef'>335%</font>附加伤害\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>领悟</font> : 可代替<font color='#f06d45'>火种</font>，使用<font color='#f06d45'>强化火种</font>\\n<font color='#f06d45'>强化火种</font> : 即时施展2连击，能量消耗删除，1段命中时，造成<font color='#00aaef'>572%</font>的伤害, 2段命中时，造成<font color='#00aaef'>590%</font>的伤害"
   },
   "10300261|*-JobChange_02-": {
-    "uiDescription": "召唤冰精灵比弗帮助战斗。比弗会强化部分冰系魔法。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n<font color='#f06d45'>双重猎杀</font>的<font color='#f06d45'>寒冰飞射</font>命中时，召唤比弗。\\n可以将<font color='#f06d45'>寒冰矛</font>强化为<font color='#f06d45'>冰爆</font> ，需要1只比弗。\\n可以将<font color='#f06d45'>麻酥酥</font>强化为<font color='#f06d45'>极限滑冰</font>，需要5只比弗。\\n\\n<font color='#ffd400'>[附加效果]</font>\\n<font color='#f06d45'>冰爆</font>：命中时，造成比<font color='#f06d45'>寒冰矛</font>增加<font color='#00aaef'>{0}%</font>的伤害。\\n<font color='#f06d45'>极限滑冰</font>：生成冰面，减少敌人移动速度。命中时，造成比<font color='#f06d45'>麻酥酥</font>增加<font color='#00aaef'>{0}%</font>的伤害，并使敌人<font color='#f06d45'>冰冻</font>；若敌人对<font color='#f06d45'>冰冻</font>免疫，则造成<font color='#00aaef'>{2}%</font>的额外伤害。\\n<font color='#f06d45'>超级盔甲</font>效果"
+    "uiDescription": "召唤冰精灵比弗帮助战斗。比弗会强化部分冰系魔法。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n<font color='#f06d45'>双重猎杀</font>的<font color='#f06d45'>寒冰飞射</font>命中时，召唤比弗。\\n可以将<font color='#f06d45'>寒冰矛</font>强化为<font color='#f06d45'>冰爆</font> ，需要1只比弗。\\n可以将<font color='#f06d45'>麻酥酥</font>强化为<font color='#f06d45'>极限滑冰</font>，需要5只比弗。\\n\\n<font color='#ffd400'>[附加效果]</font>\\n<font color='#f06d45'>冰爆</font>：命中时，造成比<font color='#f06d45'>寒冰矛</font>增加<font color='#00aaef'>{0}%</font>的伤害。\\n<font color='#f06d45'>极限滑冰</font>：生成冰面，减少敌人移动速度。命中时，造成比<font color='#f06d45'>麻酥酥</font>增加<font color='#00aaef'>{1}%</font>的伤害，并使敌人<font color='#f06d45'>冰冻</font>；若敌人对<font color='#f06d45'>冰冻</font>免疫，则造成<font color='#00aaef'>{2}%</font>的额外伤害。\\n<font color='#f06d45'>超级盔甲</font>效果"
   },
   "10300262|1-JobChange_02-": {
     "uiDescription": "放出1只冰精灵比弗，引发爆炸。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>174%</font>的范围伤害。\\n<font color='#f06d45'>比弗</font>伤害随等级提升而增加。"
@@ -1182,7 +1182,7 @@
     "uiDescription": "在自己身上附加审判之盾，增加物理/魔法抵抗力，并给敌人造成持续的伤害。\n\n<font color='#ffd400'>[详细说明]</font>\n5秒内物理/魔法抵抗力增加<font color='#00aaef'>{0}</font>\n给周围对象造成<font color='#00aaef'>{1}%</font>神圣伤害"
   },
   "10400051|*--": {
-    "uiDescription": "生成神圣魔法阵，净化施展者和队员的精神。\n\n<font color='#ffd400'>[详细说明]</font>\n每秒能量恢复<font color='#00aaef'>{0}</font>\n10秒内物理/魔法伤害，攻击速度提高<font color='#00aaef'>{0}%</font>，命中增加<font color='#00aaef'>{0}</font>\n通过精神净化获得的能力值提升效果在3分钟内无法重复"
+    "uiDescription": "生成神圣魔法阵，净化施展者和队员的精神。\n\n<font color='#ffd400'>[详细说明]</font>\n每秒能量恢复<font color='#00aaef'>{0}</font>\n10秒内物理/魔法伤害，攻击速度提高<font color='#00aaef'>{1}%</font>，命中增加<font color='#00aaef'>{2}</font>\n通过精神净化获得的能力值提升效果在3分钟内无法重复"
   },
   "10400061|*--": {
     "uiDescription": "往地面注入神圣气息，生成十字架形的圣域。\n\n<font color='#ffd400'>[详细说明]</font>\n敌军：10秒内<font color='#00aaef'>{0}格</font>十字架领域 <font color='#00aaef'>{1}%</font>持续伤害\n队员：10秒内持续恢复魔法攻击力的<font color='#00aaef'>{2}%</font>"
@@ -1329,7 +1329,7 @@
     "uiDescription": "在前方指定正方形区域，发生与<font color='#f06d45'>治愈之环</font>相同的效果。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n生成数量上限：2个\\n区域持续时间：<font color='#00aaef'>{0}秒\\n</font>神圣伤害增加<font color='#00aaef'>{1}%</font>\\n在生成的区域内，对10名队员适用<font color='#f06d45'>治愈之环</font>50%的治愈量。\\n\\n<font color='#aaaaaa'><i>“光明之神永远与你同在。”</i></font><font color='#aaaaaa'><i><p align='right'>\n——守护祭司萝娜</p></i></font>"
   },
   "10400301|*-JobChange_02-": {
-    "uiDescription": "增加<font color='#f06d45'>神圣波</font>和<font color='#f06d45'>超强治愈</font>立即恢复的治疗量，增加<font color='#f06d45'>神圣波</font>造成的伤害。\\n\\n<font color='#ffd400'>[详细信息]</font>\\n立即恢复的治疗量，增加<font color='#00aaef'>{0}%</font>\\n<font color='#f06d45'>神圣波</font>的伤害增加<font color='#00aaef'>{0}%</font>\\n\\n<font color='#ffd400'>[追加效果]</font>\\n立即恢复的对象5秒内移动速度增加<font color='#00aaef'>{2}%</font>，攻击速度增加<font color='#00aaef'>{3}%</font>，物理及魔法抵抗力增加<font color='#00aaef'>{4}</font>"
+    "uiDescription": "增加<font color='#f06d45'>神圣波</font>和<font color='#f06d45'>超强治愈</font>立即恢复的治疗量，增加<font color='#f06d45'>神圣波</font>造成的伤害。\\n\\n<font color='#ffd400'>[详细信息]</font>\\n立即恢复的治疗量，增加<font color='#00aaef'>{0}%</font>\\n<font color='#f06d45'>神圣波</font>的伤害增加<font color='#00aaef'>{1}%</font>\\n\\n<font color='#ffd400'>[追加效果]</font>\\n立即恢复的对象5秒内移动速度增加<font color='#00aaef'>{2}%</font>，攻击速度增加<font color='#00aaef'>{3}%</font>，物理及魔法抵抗力增加<font color='#00aaef'>{4}</font>"
   },
   "10500001|*--": {
     "uiDescription": "快速拉弓，连续攻击敌人。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>伤害{1}次\\n连续按键时，可连续使用"
@@ -1965,7 +1965,7 @@
     "uiDescription": "发射搭载尖端跟踪功能的导弹。\n\n<font color='#ffd400'>[详细说明]</font>\n命中时，造成<font color='#00aaef'>{0}%</font>伤害\n导弹最多可同时发射<font color='#00aaef'>{1}发</font>"
   },
   "10600041|*--": {
-    "uiDescription": "利用火炮上的小型粒子加速器，凝聚强大电能后向前方发射。\n\n<font color='#ffd400'>[详细说明]</font>\n1阶段：命中时，造成<font color='#00aaef'>{0}%</font>伤害\n2阶段：命中时，造成<font color='#00aaef'>{0}%</font>伤害2次\n3阶段：命中时，造成<font color='#00aaef'>{0}%</font>伤害3次\n<font color='#f06d45'>超级盔甲</font>效果\n\n<font color='#aaaaaa'><i>\"电~~脉~~冲~~击~~\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- 小型粒子加速器运作指令</font></i></p>"
+    "uiDescription": "利用火炮上的小型粒子加速器，凝聚强大电能后向前方发射。\n\n<font color='#ffd400'>[详细说明]</font>\n1阶段：命中时，造成<font color='#00aaef'>{0}%</font>伤害\n2阶段：命中时，造成<font color='#00aaef'>{1}%</font>伤害2次\n3阶段：命中时，造成<font color='#00aaef'>{2}%</font>伤害3次\n<font color='#f06d45'>超级盔甲</font>效果\n\n<font color='#aaaaaa'><i>\"电~~脉~~冲~~击~~\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- 小型粒子加速器运作指令</font></i></p>"
   },
   "10600044|*--": {
     "uiDescription": "以最大功率运转火炮上的小型粒子加速器，高速凝聚强大电能后，向前方发射。\n\n<font color='#ffd400'>[详细说明]</font>\n命中时，第1击造成<font color='#00aaef'>{0}%</font>伤害，2~4击造成<font color='#00aaef'>{1}%</font>伤害\n\n<font color='#aaaaaa'><i>\"电～脉～冲～击～！\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- 小型粒子加速器运作指令</font></i></p>"
@@ -2163,10 +2163,10 @@
     "uiDescription": "以极快的速度，将双手的短刀连续向敌人要害交错刺击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>伤害5次（受左/右手武器攻击力影响）\\n解除<font color='#f06d45'>卑鄙</font>效果"
   },
   "10700031|*--": {
-    "uiDescription": "身体与双手短刀一道快速旋转，发动攻击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%，{0}%，{2}%</font>伤害\\n<font color='#f06d45'>卑鄙</font>状态下，发动强化形态\\n使用强化形态时，发动<font color='#f06d45'>刀刃之舞</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>刀刃之舞</font>：无视敌人命中力，有<font color='#00aaef'>{3}%</font>概率回避敌人的攻击，<font color='#f06d45'>复仇</font>发动时，持续时间增加<font color='#00aaef'>{4}%</font>"
+    "uiDescription": "身体与双手短刀一道快速旋转，发动攻击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%，{1}%，{2}%</font>伤害\\n<font color='#f06d45'>卑鄙</font>状态下，发动强化形态\\n使用强化形态时，发动<font color='#f06d45'>刀刃之舞</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>刀刃之舞</font>：无视敌人命中力，有<font color='#00aaef'>{3}%</font>概率回避敌人的攻击，<font color='#f06d45'>复仇</font>发动时，持续时间增加<font color='#00aaef'>{4}%</font>"
   },
   "10700032|*--": {
-    "uiDescription": "身体与双手短刀一道快速旋转，发动攻击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%，{0}%，{2}%</font>伤害，<font color='#f06d45'>刀刃之舞</font>效果\\n<font color='#f06d45'>卑鄙</font>解除\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>刀刃之舞</font>：无视敌人命中力，有<font color='#00aaef'>{3}%</font>概率回避敌人的攻击，<font color='#f06d45'>复仇</font>发动时，持续时间增加<font color='#00aaef'>{4}%</font>"
+    "uiDescription": "身体与双手短刀一道快速旋转，发动攻击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%，{1}%，{2}%</font>伤害，<font color='#f06d45'>刀刃之舞</font>效果\\n<font color='#f06d45'>卑鄙</font>解除\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>刀刃之舞</font>：无视敌人命中力，有<font color='#00aaef'>{3}%</font>概率回避敌人的攻击，<font color='#f06d45'>复仇</font>发动时，持续时间增加<font color='#00aaef'>{4}%</font>"
   },
   "10700041|*--": {
     "uiDescription": "快速移动造成伤害，并吸收能量。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>40%</font>伤害\\n每命中1个敌人，吸收10能量"
@@ -2175,7 +2175,7 @@
     "uiDescription": "快速移动造成伤害，并吸收能量。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>40%</font>伤害\\n每命中1个敌人，吸收10能量"
   },
   "10700051|*--": {
-    "uiDescription": "进行空翻，施以踢击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>伤害，<font color='#f06d45'>飞燕脚</font>效果\\n<font color='#f06d45'>卑鄙</font>状态期间，发动强化型\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>飞燕脚</font>：移动速度降低<font color='#00aaef'>{1}%</font>，跳跃力降低<font color='#00aaef'>{1}%</font>"
+    "uiDescription": "进行空翻，施以踢击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>伤害，<font color='#f06d45'>飞燕脚</font>效果\\n<font color='#f06d45'>卑鄙</font>状态期间，发动强化型\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>飞燕脚</font>：移动速度降低<font color='#00aaef'>{1}%</font>，跳跃力降低<font color='#00aaef'>{2}%</font>"
   },
   "10700052|*--": {
     "uiDescription": "进行空翻，施以踢击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>伤害，眩晕1秒\\n<font color='#f06d45'>卑鄙</font>解除\\n<font color='#f06d45'>超级盔甲</font>效果"
@@ -2400,7 +2400,7 @@
     "uiDescription": "向前方移动4米，攻击路径范围内的敌人。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成2次<font color='#00aaef'>{0}%</font>的伤害，第2击发动暴击。\\n最多自动填充8次。\\n\\n<font color='#ffd400'>[附加效果]</font>\\n在牵制模式状态下，转换为<font color='#f06d45'>追踪投掷</font>。"
   },
   "10700281|*-JobChange_02-": {
-    "uiDescription": "藏在影子里重新整备后，根据情况发挥出需要的能力。\\n\\n<font color='#ffd400'>[详细信息]</font>\\n技能使用过程中，回避增加<font color='#00aaef'>{0}</font>，<font color='#f06d45'>超级盔甲</font>效果\\n根据状态效果而增加能力值\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>牵制模式</font>：45秒内，移动速度增加<font color='#00aaef'>{1}%</font>，攻击速度增加<font color='#00aaef'>{2}%</font>\\n<font color='#f06d45'>战斗模式</font>：30秒内，物理/魔法攻击力增加<font color='#00aaef'>{3}%</font>，物理/魔法抵抗力增加<font color='#00aaef'>{4}</font>\\n<font color='#f06d45'>卑鄙状态</font>：60秒内，复仇状态武器攻击力增加<font color='#00aaef'>{1}%</font>，回避增加<font color='#00aaef'>{1}</font>"
+    "uiDescription": "藏在影子里重新整备后，根据情况发挥出需要的能力。\\n\\n<font color='#ffd400'>[详细信息]</font>\\n技能使用过程中，回避增加<font color='#00aaef'>{0}</font>，<font color='#f06d45'>超级盔甲</font>效果\\n根据状态效果而增加能力值\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>牵制模式</font>：45秒内，移动速度增加<font color='#00aaef'>{1}%</font>，攻击速度增加<font color='#00aaef'>{2}%</font>\\n<font color='#f06d45'>战斗模式</font>：30秒内，物理/魔法攻击力增加<font color='#00aaef'>{3}%</font>，物理/魔法抵抗力增加<font color='#00aaef'>{4}</font>\\n<font color='#f06d45'>卑鄙状态</font>：60秒内，复仇状态武器攻击力增加<font color='#00aaef'>{5}%</font>，回避增加<font color='#00aaef'>{6}</font>"
   },
   "10700291|*-JobChange_02-": {
     "uiDescription": "以攻击速度为重点锻炼战斗能力。\\n\\n<font color='#ffd400'>[详细信息]</font>\\n每超出16%的基础攻击速度，物理攻击力增加<font color='#00aaef'>{0}</font>，回避增加<font color='#00aaef'>{1}</font>（最多增加3次）"
@@ -2418,7 +2418,7 @@
     "uiDescription": "向前方投掷扩散型飞镖。飞镖碰到敌人后，会向周围散布碎片型飞镖，给周围敌人造成伤害。飞镖造成的伤害，受到右手装备的武器攻击力的影响。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成<font color='#00aaef'>{0}%</font>伤害"
   },
   "10800031|*--": {
-    "uiDescription": "将施有黑暗异术的飞镖朝5方向掷出，给前方敌人造成2次伤害，引爆死亡标记，造成额外伤害。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n攻击2次，命中时各造成<font color='#00aaef'>{0}%</font>伤害\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>死亡标记</font>状态的敌人被命中时，造成<font color='#00aaef'>{0}%</font>附加伤害，之后去除<font color='#f06d45'>死亡标记</font>"
+    "uiDescription": "将施有黑暗异术的飞镖朝5方向掷出，给前方敌人造成2次伤害，引爆死亡标记，造成额外伤害。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n攻击2次，命中时各造成<font color='#00aaef'>{0}%</font>伤害\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>死亡标记</font>状态的敌人被命中时，造成<font color='#00aaef'>{1}%</font>附加伤害，之后去除<font color='#f06d45'>死亡标记</font>"
   },
   "10800041|*--": {
     "uiDescription": "利用黑暗异术将暗杀者的本能提升到极致，能够洞悉敌人的弱点。一定时间内，所有攻击均作为暴击命中。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n所有攻击均作为暴击命中\\n持续时间 <font color='#00aaef'>{0}秒</font>"
@@ -2496,7 +2496,7 @@
     "uiDescription": "在地面生成黑暗领悟。领悟持续时间内，若敌人进入领域则会在身上生成刀刃标记，减少其命中，被击时受到额外的攻击。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n持续时间10秒\\n命中时造成<font color='#00aaef'>{0}%</font>的伤害\\n<font color='#f06d45'>刀刃标记</font>状态持续10秒\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>刀刃标记</font> : 命中减少<font color='#00aaef'>{1}</font>，被击时有一定几率受到4次<font color='#00aaef'>{2}%</font>的追加伤害"
   },
   "10800171|*-JobChange_01-": {
-    "uiDescription": "用左手掷出飞出去后会返回的飞镖，施以暗毒。连续使用时，用右手掷出追加飞镖。追加飞镖引爆暗毒，造成附加伤害。飞镖伤害分别受到装备于双手的武器攻击力影响。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，各造成<font color='#00aaef'>{0}%</font>的伤害，10秒内赋予<font color='#f06d45'>暗毒</font>\\n连续使用技能命中时，各造成<font color='#00aaef'>{0}%</font>的伤害\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>暗毒</font> : 每秒<font color='#00aaef'>{2}%</font>的伤害\\n连续使用技能命中时，对存在<font color='#f06d45'>暗毒</font>的敌人造成<font color='#00aaef'>{3}%</font>附加伤害"
+    "uiDescription": "用左手掷出飞出去后会返回的飞镖，施以暗毒。连续使用时，用右手掷出追加飞镖。追加飞镖引爆暗毒，造成附加伤害。飞镖伤害分别受到装备于双手的武器攻击力影响。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，各造成<font color='#00aaef'>{0}%</font>的伤害，10秒内赋予<font color='#f06d45'>暗毒</font>\\n连续使用技能命中时，各造成<font color='#00aaef'>{1}%</font>的伤害\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>暗毒</font> : 每秒<font color='#00aaef'>{2}%</font>的伤害\\n连续使用技能命中时，对存在<font color='#f06d45'>暗毒</font>的敌人造成<font color='#00aaef'>{3}%</font>附加伤害"
   },
   "10800181|*-JobChange_01-": {
     "uiDescription": "向敌人投掷锁链镖。锁链镖缠绕敌人，给对象与周围敌人造成伤害。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n持续时间10秒\\n周期性造成<font color='#00aaef'>{0}%</font>的伤害"
@@ -2790,7 +2790,7 @@
     "uiDescription": "使用符文魔法，召唤5支符文剑，向周围敌人飞去。\n\n<font color='#ffd400'>[详细说明]</font>\n命中时，造成<font color='#00aaef'>{0}%</font>伤害"
   },
   "10900121|*--": {
-    "uiDescription": "利用符文气息激发出潜在的能力。\n\n<font color='#ffd400'>[详细说明]</font>\n烈焰驱动激活时，最大生命增加<font color='#00aaef'>{0}%</font>，火焰属性伤害增加<font color='#00aaef'>{1}%</font>\n寒冰驱动激活时，防御力增加<font color='#00aaef'>{0}%</font>，寒冰属性伤害增加<font color='#00aaef'>{1}%</font>\n雷电驱动激活时，回避增加<font color='#00aaef'>{4}%</font>，移动速度提高<font color='#00aaef'>{5}%</font>，闪电属性伤害增加<font color='#00aaef'>{1}%</font>"
+    "uiDescription": "利用符文气息激发出潜在的能力。\n\n<font color='#ffd400'>[详细说明]</font>\n烈焰驱动激活时，最大生命增加<font color='#00aaef'>{0}%</font>，火焰属性伤害增加<font color='#00aaef'>{1}%</font>\n寒冰驱动激活时，防御力增加<font color='#00aaef'>{2}%</font>，寒冰属性伤害增加<font color='#00aaef'>{3}%</font>\n雷电驱动激活时，回避增加<font color='#00aaef'>{4}%</font>，移动速度提高<font color='#00aaef'>{5}%</font>，闪电属性伤害增加<font color='#00aaef'>{6}%</font>"
   },
   "10900131|*--": {
     "uiDescription": "瞬间增幅体内的符文能量。\n\n<font color='#ffd400'>[详细说明]</font>\n火焰、寒冰、闪电伤害提高<font color='#00aaef'>{0}%</font>\n增幅效果持续<font color='#00aaef'>{1}秒</font>"
@@ -4020,7 +4020,7 @@
     "uiDescription": "幻象强化启灵师的精神力，解放系列能力得到部分强化。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n<font color='#f06d45'>精神束缚，精神崩溃，幻象波动</font>技能的伤害提高 <font color='#00aaef'>36%</font>\\n\\n<font color='#ffd400'>[追加效果]</font>\\n使用<font color='#f06d45'>幻象波动</font>时，移动速度提高<font color='#00aaef'>60%</font>"
   },
   "11100221|*-JobChange_01-": {
-    "uiDescription": "发射飞鸟形态的灵魂能量，攻击敌人。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成3次<font color='#00aaef'>{0}%</font>的伤害\\n命中的敌人受到<font color='#f06d45'>无力</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>无力</font> : 20秒内防御力降低<font color='#00aaef'>{1}%</font>，移动速度降低<font color='#00aaef'>{1}%</font>，最多叠加5层\\n<font color='#f06d45'>无力</font> , <font color='#f06d45'>元气电流</font>不可同时应用"
+    "uiDescription": "发射飞鸟形态的灵魂能量，攻击敌人。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，造成3次<font color='#00aaef'>{0}%</font>的伤害\\n命中的敌人受到<font color='#f06d45'>无力</font>效果\\n\\n<font color='#ffd400'>[追加效果]</font>\\n<font color='#f06d45'>无力</font> : 20秒内防御力降低<font color='#00aaef'>{1}%</font>，移动速度降低<font color='#00aaef'>{2}%</font>，最多叠加5层\\n<font color='#f06d45'>无力</font> , <font color='#f06d45'>元气电流</font>不可同时应用"
   },
   "11100231|1-JobChange_01-": {
     "uiDescription": "发射正六面体形态的灵魂能量，给敌人造成伤害，并在队员身上生成保护罩。\\n\\n<font color='#ffd400'>[详细说明]</font>\\n命中时，每次攻击造成<font color='#00aaef'>80%</font>的伤害\\n命中队员时，在30秒内生成最大生命<font color='#00aaef'>8%</font>的保护罩\\n\\n<font color='#ffd400'>[追加效果]</font>\\n使用<font color='#f06d45'>觉醒灵力核心</font>时，可使用<font color='#f06d45'>强化灵魂方阵</font>\\n\\n保护罩在竞技场中无效"
@@ -5217,7 +5217,7 @@
     "uiDescription": "向前方12米处沿3个方向发射凝聚着塞琳心意的歌。被歌曲击中的目标受到<font color='#00aaef'>{0}%</font>的伤害，并陷入1秒眩晕状态。"
   },
   "120010002|*-Lapenshard01-": {
-    "uiDescription": "向前方9米处发射1发强力电流。被击中的目标受到<font color='#00aaef'>{0}%</font>的伤害，并在20秒内陷入触电状态，每1秒产生<font color='#00aaef'>{0}%</font>的额外伤害。"
+    "uiDescription": "向前方9米处发射1发强力电流。被击中的目标受到<font color='#00aaef'>{0}%</font>的伤害，并在20秒内陷入触电状态，每1秒产生<font color='#00aaef'>{1}%</font>的额外伤害。"
   },
   "120010003|*-Lapenshard01-": {
     "uiDescription": "10秒内物理/魔法攻击力提高<font color='#00aaef'>{0}</font>，防御力降低50%。"
