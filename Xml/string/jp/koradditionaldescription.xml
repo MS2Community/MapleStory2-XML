@@ -1210,18 +1210,10 @@
 	<key id="70002503" level="1" name="保有リソース9" tooltipDescription="保有リソースが7個のときに付与されるバフ、開封時使用" feature="Develop" />
 	<key id="70002504" level="1" name="累積リソース" tooltipDescription="保有リソース累積用" feature="Develop" />
 	<key id="70002511" level="1" name="総リソース" tooltipDescription="総リソース計算用 最大20" feature="Develop" />
-	<key id="70002512" level="1" name="KORADDITIONALDESCRIPTION_70002512_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002512_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
-	<key id="70002521" level="1" name="KORADDITIONALDESCRIPTION_70002521_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002521_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
-	<key id="70002522" level="1" name="KORADDITIONALDESCRIPTION_70002522_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002522_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
-	<key id="70002523" level="1" name="KORADDITIONALDESCRIPTION_70002523_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002523_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
 	<key id="70002524" level="1" name="累積リソース" tooltipDescription="保有リソース累積用" feature="Develop" />
 	<key id="70002531" level="1" name="総リソース" tooltipDescription="総リソース計算用 最大20" feature="Develop" />
-	<key id="70002532" level="1" name="KORADDITIONALDESCRIPTION_70002532_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002532_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
 	<key id="70002541" level="1" name="潜入組バフ" tooltipDescription="潜入後に付与するバフ" feature="Develop" />
 	<key id="70002551" level="1" name="潜入組バフ削除" tooltipDescription="潜入対象のバフを削除" feature="Develop" />
-	<key id="70002581" level="1" name="移動速度減少" tooltipDescription="KORADDITIONALDESCRIPTION_70002581_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
-	<key id="70002591" level="1" name="攻撃力減少" tooltipDescription="KORADDITIONALDESCRIPTION_70002591_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
-	<key id="70002601" level="1" name="KORADDITIONALDESCRIPTION_70002601_1_NAME:[F]Develop" tooltipDescription="KORADDITIONALDESCRIPTION_70002601_1_TOOLTIPDESCRIPTION:[F]Develop" feature="Develop" />
 	<key id="71000007" level="1" name="オルデのマジックバリア" tooltipDescription="魔法のオーラが全身を包み込みます。\n受けるダメージ量が25%減少" />
 	<key id="71000008" level="1" name="オルデの集中の魔法陣" tooltipDescription="魔法陣から魔力を吸収しました。\n物理攻撃力と魔法攻撃力が30%増加" />
 	<key id="71000012" level="1" name="熱い勇気" tooltipDescription="体を包むオーラが感じられます。" feature="GuildRaid01" />
@@ -2175,7 +2167,6 @@
 	<key id="90000826" level="1" name="プロ向け光る黄金エサ(3時間)" tooltipDescription="輝く黄金の魚種をおびき寄せます。\n12種類の光る黄金の魚種を釣ることができる" />
 	<key id="90000827" level="1" name="美味しいチェダーチーズホットドッグ" tooltipDescription="最大HP250増加" />
 	<key id="90000836" level="1" name="エサ(レインボーマグネット)" tooltipDescription="$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001153$を獲得することができる。" />
-	<key id="90000837" level="1" name="KORADDITIONALDESCRIPTION_90000837_1_NAME:[F]Develop" tooltipDescription="攻撃力が250%増加" feature="Develop" />
 	<key id="90000838" level="1" name="ジャンピングバーニング効果" tooltipDescription="60レベルから81レベルまで1レベルアップごとに\nボーナス+2レベルを適用" />
 	<key id="90000838" level="1" name="バーニング効果" tooltipDescription="9レベルから60レベルまで1レベルアップごとに\nボーナス+2レベルを適用" feature="Event" locale="JP" />
 	<key id="90000840" level="1" name="ミスリルチェーンメイルグローブ" tooltipDescription="畜産生産量が100%増加" feature="Mastery06" />
@@ -2215,8 +2206,8 @@
 	<key id="90000942" level="1" name="グリーンペイント" tooltipDescription="ペンキまみれになりました。" feature="Event" />
 	<key id="90001001" level="1" name="トライアで移動速度が5%増加" tooltipDescription="トライアで移動速度が5%増加" />
 	<key id="90001002" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正\n99レベルのステータスで補正" />
-	<key id="90001002" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正\n回復量が減少" feature="KREquipmentBalance_01" />
 	<key id="90001002" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正\n回復量が減少" feature="NAEquipmentBalance_01" />
+	<key id="90001002" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正\n回復量が減少" feature="KREquipmentBalance_01" />
 	<key id="90001005" level="1" name="1番です。" tooltipDescription="1番です。" />
 	<key id="90001006" level="1" name="2番です。" tooltipDescription="2番です。" />
 	<key id="90001007" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正" />

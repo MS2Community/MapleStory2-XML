@@ -99,7 +99,6 @@
 	<key id="11100051" level="1" uiDescription="体から神秘的なオーラを放出して残像を描き、前方に飛んでいく。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n即時使用可能\n移動中は回避が50増加する。&#xA;" feature="SoulBinder" />
 	<key id="11100061" level="1" uiDescription="体内の神秘的な力を凝縮させた球体エネルギー、マントラコアを生成してSPを回復する。生成されたマントラコアを使用すると一部のスキルを強化できる。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\nSPが12回復する。\nマントラコアを1個生成する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\nマントラコアは最大4個まで生成できる。\nキーを押している間、連続使用できる。" feature="SoulBinder" />
 	<key id="11100062" level="1" uiDescription="マントラコアを扱う能力が上昇し、より強力で純粋なマントラコアを生成する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\nINTが40増加する。\n最大2個まで生成できる。\n使用すると&lt;font color=&apos;#f06d45&apos;&gt;覚醒マントラコア&lt;/font&gt;効果が発動する。SPが50回復する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;覚醒マントラコア&lt;/font&gt;：使用すると&lt;font color=&apos;#f06d45&apos;&gt;エクスパンションボール、スピリットクラッシュ、ソウルスクエア、ハーモニーオブソウル&lt;/font&gt;が強化される。" feature="JobChange_01" />
-	<key id="11100062" level="1" uiDescription="KORSKILLDESCRIPTION_11100062_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
 	<key id="11100071" level="1" uiDescription="体からエニマルのオーラを放出し、周りの味方のダメージを吸収するバリアを生成する。マントラコアを使用すると強化型で発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n4秒間、最大HPの&lt;font color=&apos;#00aaef&apos;&gt;10%&lt;/font&gt;のバリアを生成する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n1段階：1体適用\n2段階：2体適用\n3段階：3体適用\n4段階：4体適用\n5段階：6体適用" feature="SoulBinder" />
 	<key id="11100071" level="2" uiDescription="体からエニマルのオーラを放出し、周りの味方のダメージを吸収するバリアを生成する。マントラコアを使用すると強化型で発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n4秒間、最大HPの&lt;font color=&apos;#00aaef&apos;&gt;13%&lt;/font&gt;のバリアを生成する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n1段階：1体適用\n2段階：2体適用\n3段階：3体適用\n4段階：4体適用\n5段階：6体適用" feature="SoulBinder" />
 	<key id="11100071" level="3" uiDescription="体からエニマルのオーラを放出し、周りの味方のダメージを吸収するバリアを生成する。マントラコアを使用すると強化型で発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n4秒間、最大HPの&lt;font color=&apos;#00aaef&apos;&gt;16%&lt;/font&gt;のバリアを生成する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n1段階：1体適用\n2段階：2体適用\n3段階：3体適用\n4段階：4体適用\n5段階：6体適用" feature="SoulBinder" />
@@ -568,30 +567,6 @@
 	<key id="11100201" level="10" uiDescription="ヴィジョンとの結束力を引き上げてスピリットエネルギーに実体化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n25秒間、魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;44%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;スピリットクラッシュ&lt;/font&gt;が&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョンスピリットクラッシュ&lt;/font&gt;に強化される。\n&lt;font color=&apos;#f06d45&apos;&gt;フラッシュストライク&lt;/font&gt;が&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョン波動&lt;/font&gt;に強化される。" feature="JobChange_01" />
 	<key id="11100201" level="11" uiDescription="ヴィジョンとの結束力を引き上げてスピリットエネルギーに実体化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n25秒間、魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;48%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;スピリットクラッシュ&lt;/font&gt;が&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョンスピリットクラッシュ&lt;/font&gt;に強化される。\n&lt;font color=&apos;#f06d45&apos;&gt;フラッシュストライク&lt;/font&gt;が&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョン波動&lt;/font&gt;に強化される。" feature="JobChange_01" />
 	<key id="11100201" level="12" uiDescription="ヴィジョンとの結束力を引き上げてスピリットエネルギーに実体化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n25秒間、魔法攻撃力が&lt;font color=&apos;#00aaef&apos;&gt;52%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;スピリットクラッシュ&lt;/font&gt;が&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョンスピリットクラッシュ&lt;/font&gt;に強化される。\n&lt;font color=&apos;#f06d45&apos;&gt;フラッシュストライク&lt;/font&gt;が&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョン波動&lt;/font&gt;に強化される。" feature="JobChange_01" />
-	<key id="11100202" level="1" uiDescription="KORSKILLDESCRIPTION_11100202_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="2" uiDescription="KORSKILLDESCRIPTION_11100202_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="3" uiDescription="KORSKILLDESCRIPTION_11100202_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="4" uiDescription="KORSKILLDESCRIPTION_11100202_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="5" uiDescription="KORSKILLDESCRIPTION_11100202_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="6" uiDescription="KORSKILLDESCRIPTION_11100202_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="7" uiDescription="KORSKILLDESCRIPTION_11100202_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="8" uiDescription="KORSKILLDESCRIPTION_11100202_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="9" uiDescription="KORSKILLDESCRIPTION_11100202_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="10" uiDescription="KORSKILLDESCRIPTION_11100202_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="11" uiDescription="KORSKILLDESCRIPTION_11100202_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100202" level="12" uiDescription="KORSKILLDESCRIPTION_11100202_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="1" uiDescription="KORSKILLDESCRIPTION_11100204_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="2" uiDescription="KORSKILLDESCRIPTION_11100204_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="3" uiDescription="KORSKILLDESCRIPTION_11100204_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="4" uiDescription="KORSKILLDESCRIPTION_11100204_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="5" uiDescription="KORSKILLDESCRIPTION_11100204_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="6" uiDescription="KORSKILLDESCRIPTION_11100204_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="7" uiDescription="KORSKILLDESCRIPTION_11100204_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="8" uiDescription="KORSKILLDESCRIPTION_11100204_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="9" uiDescription="KORSKILLDESCRIPTION_11100204_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="10" uiDescription="KORSKILLDESCRIPTION_11100204_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="11" uiDescription="KORSKILLDESCRIPTION_11100204_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100204" level="12" uiDescription="KORSKILLDESCRIPTION_11100204_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
 	<key id="11100211" level="1" uiDescription="ヴィジョンがソウルバインダーの精神力を強化し、解放系能力が一部強化される。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;スピリットバウンド、スピリットクラッシュ、ヴィジョン波動&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;3%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョン波動&lt;/font&gt;を使用すると移動速度が&lt;font color=&apos;#00aaef&apos;&gt;5%&lt;/font&gt;増加する。" feature="JobChange_01" />
 	<key id="11100211" level="2" uiDescription="ヴィジョンがソウルバインダーの精神力を強化し、解放系能力が一部強化される。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;スピリットバウンド、スピリットクラッシュ、ヴィジョン波動&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;6%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョン波動&lt;/font&gt;を使用すると移動速度が&lt;font color=&apos;#00aaef&apos;&gt;10%&lt;/font&gt;増加する。" feature="JobChange_01" />
 	<key id="11100211" level="3" uiDescription="ヴィジョンがソウルバインダーの精神力を強化し、解放系能力が一部強化される。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;スピリットバウンド、スピリットクラッシュ、ヴィジョン波動&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;9%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ヴィジョン波動&lt;/font&gt;を使用すると移動速度が&lt;font color=&apos;#00aaef&apos;&gt;15%&lt;/font&gt;増加する。" feature="JobChange_01" />
@@ -664,18 +639,6 @@
 	<key id="11100242" level="10" uiDescription="体内の魂エネルギーを陰の生命エネルギーに切り替え、周辺にいる敵のHPを破壊する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n10秒間持続\n使用中に移動可能\n攻撃が命中すると攻撃あたり&lt;font color=&apos;#00aaef&apos;&gt;1076%&lt;/font&gt;のダメージを与える。&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避が&lt;font color=&apos;#00aaef&apos;&gt;200&lt;/font&gt;、回避が&lt;font color=&apos;#00aaef&apos;&gt;30&lt;/font&gt;減少する。" feature="JobChange_01" />
 	<key id="11100242" level="11" uiDescription="体内の魂エネルギーを陰の生命エネルギーに切り替え、周辺にいる敵のHPを破壊する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n10秒間持続\n使用中に移動可能\n攻撃が命中すると攻撃あたり&lt;font color=&apos;#00aaef&apos;&gt;1137%&lt;/font&gt;のダメージを与える。&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避が&lt;font color=&apos;#00aaef&apos;&gt;220&lt;/font&gt;、回避が&lt;font color=&apos;#00aaef&apos;&gt;33&lt;/font&gt;減少する。" feature="JobChange_01" />
 	<key id="11100242" level="12" uiDescription="体内の魂エネルギーを陰の生命エネルギーに切り替え、周辺にいる敵のHPを破壊する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n10秒間持続\n使用中に移動可能\n攻撃が命中すると攻撃あたり&lt;font color=&apos;#00aaef&apos;&gt;1198%&lt;/font&gt;のダメージを与える。&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;効果が発動する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避が&lt;font color=&apos;#00aaef&apos;&gt;240&lt;/font&gt;、回避が&lt;font color=&apos;#00aaef&apos;&gt;36&lt;/font&gt;減少する。" feature="JobChange_01" />
-	<key id="11100244" level="1" uiDescription="KORSKILLDESCRIPTION_11100244_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="2" uiDescription="KORSKILLDESCRIPTION_11100244_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="3" uiDescription="KORSKILLDESCRIPTION_11100244_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="4" uiDescription="KORSKILLDESCRIPTION_11100244_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="5" uiDescription="KORSKILLDESCRIPTION_11100244_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="6" uiDescription="KORSKILLDESCRIPTION_11100244_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="7" uiDescription="KORSKILLDESCRIPTION_11100244_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="8" uiDescription="KORSKILLDESCRIPTION_11100244_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="9" uiDescription="KORSKILLDESCRIPTION_11100244_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="10" uiDescription="KORSKILLDESCRIPTION_11100244_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="11" uiDescription="KORSKILLDESCRIPTION_11100244_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100244" level="12" uiDescription="KORSKILLDESCRIPTION_11100244_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
 	<key id="11100251" level="1" uiDescription="ソウルバインダー、ヴィジョン、ナルバシャンの融合能力を向上させ、結束能力を強化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルバード、ソウルスクエア、ディソナンスオブソウル&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;3%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ハーモニーオブソウル&lt;/font&gt;：HP回復量が&lt;font color=&apos;#00aaef&apos;&gt;5%&lt;/font&gt;増加する。\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避減少が&lt;font color=&apos;#00aaef&apos;&gt;10&lt;/font&gt;増加する。回避減少が&lt;font color=&apos;#00aaef&apos;&gt;1&lt;/font&gt;増加する。" feature="JobChange_01" />
 	<key id="11100251" level="2" uiDescription="ソウルバインダー、ヴィジョン、ナルバシャンの融合能力を向上させ、結束能力を強化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルバード、ソウルスクエア、ディソナンスオブソウル&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;6%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ハーモニーオブソウル&lt;/font&gt;：HP回復量が&lt;font color=&apos;#00aaef&apos;&gt;10%&lt;/font&gt;増加する。\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避減少が&lt;font color=&apos;#00aaef&apos;&gt;20&lt;/font&gt;増加する。回避減少が&lt;font color=&apos;#00aaef&apos;&gt;2&lt;/font&gt;増加する。" feature="JobChange_01" />
 	<key id="11100251" level="3" uiDescription="ソウルバインダー、ヴィジョン、ナルバシャンの融合能力を向上させ、結束能力を強化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルバード、ソウルスクエア、ディソナンスオブソウル&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;9%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ハーモニーオブソウル&lt;/font&gt;：HP回復量が&lt;font color=&apos;#00aaef&apos;&gt;15%&lt;/font&gt;増加する。\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避減少が&lt;font color=&apos;#00aaef&apos;&gt;30&lt;/font&gt;増加する。回避減少が&lt;font color=&apos;#00aaef&apos;&gt;3&lt;/font&gt;増加する。" feature="JobChange_01" />
@@ -688,100 +651,4 @@
 	<key id="11100251" level="10" uiDescription="ソウルバインダー、ヴィジョン、ナルバシャンの融合能力を向上させ、結束能力を強化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルバード、ソウルスクエア、ディソナンスオブソウル&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;30%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ハーモニーオブソウル&lt;/font&gt;：HP回復量が&lt;font color=&apos;#00aaef&apos;&gt;50%&lt;/font&gt;増加する。\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避減少が&lt;font color=&apos;#00aaef&apos;&gt;100&lt;/font&gt;増加する。回避減少が&lt;font color=&apos;#00aaef&apos;&gt;10&lt;/font&gt;増加する。" feature="JobChange_01" />
 	<key id="11100251" level="11" uiDescription="ソウルバインダー、ヴィジョン、ナルバシャンの融合能力を向上させ、結束能力を強化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルバード、ソウルスクエア、ディソナンスオブソウル&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;33%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ハーモニーオブソウル&lt;/font&gt;：HP回復量が&lt;font color=&apos;#00aaef&apos;&gt;55%&lt;/font&gt;増加する。\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避減少が&lt;font color=&apos;#00aaef&apos;&gt;110&lt;/font&gt;増加する。回避減少が&lt;font color=&apos;#00aaef&apos;&gt;11&lt;/font&gt;増加する。" feature="JobChange_01" />
 	<key id="11100251" level="12" uiDescription="ソウルバインダー、ヴィジョン、ナルバシャンの融合能力を向上させ、結束能力を強化する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[詳細]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルバード、ソウルスクエア、ディソナンスオブソウル&lt;/font&gt;スキルのダメージが&lt;font color=&apos;#00aaef&apos;&gt;36%&lt;/font&gt;増加する。\n\n&lt;font color=&apos;#ffd400&apos;&gt;[追加効果]&lt;/font&gt;\n&lt;font color=&apos;#f06d45&apos;&gt;ハーモニーオブソウル&lt;/font&gt;：HP回復量が&lt;font color=&apos;#00aaef&apos;&gt;60%&lt;/font&gt;増加する。\n&lt;font color=&apos;#f06d45&apos;&gt;ソウルクラッシュ&lt;/font&gt;：クリティカル回避減少が&lt;font color=&apos;#00aaef&apos;&gt;120&lt;/font&gt;増加する。回避減少が&lt;font color=&apos;#00aaef&apos;&gt;12&lt;/font&gt;増加する。" feature="JobChange_01" />
-	<key id="11100261" level="1" uiDescription="KORSKILLDESCRIPTION_11100261_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="2" uiDescription="KORSKILLDESCRIPTION_11100261_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="3" uiDescription="KORSKILLDESCRIPTION_11100261_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="4" uiDescription="KORSKILLDESCRIPTION_11100261_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="5" uiDescription="KORSKILLDESCRIPTION_11100261_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="6" uiDescription="KORSKILLDESCRIPTION_11100261_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="7" uiDescription="KORSKILLDESCRIPTION_11100261_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="8" uiDescription="KORSKILLDESCRIPTION_11100261_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="9" uiDescription="KORSKILLDESCRIPTION_11100261_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="10" uiDescription="KORSKILLDESCRIPTION_11100261_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="11" uiDescription="KORSKILLDESCRIPTION_11100261_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100261" level="12" uiDescription="KORSKILLDESCRIPTION_11100261_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="1" uiDescription="KORSKILLDESCRIPTION_11100271_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="2" uiDescription="KORSKILLDESCRIPTION_11100271_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="3" uiDescription="KORSKILLDESCRIPTION_11100271_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="4" uiDescription="KORSKILLDESCRIPTION_11100271_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="5" uiDescription="KORSKILLDESCRIPTION_11100271_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="6" uiDescription="KORSKILLDESCRIPTION_11100271_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="7" uiDescription="KORSKILLDESCRIPTION_11100271_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="8" uiDescription="KORSKILLDESCRIPTION_11100271_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="9" uiDescription="KORSKILLDESCRIPTION_11100271_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="10" uiDescription="KORSKILLDESCRIPTION_11100271_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="11" uiDescription="KORSKILLDESCRIPTION_11100271_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100271" level="12" uiDescription="KORSKILLDESCRIPTION_11100271_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="1" uiDescription="KORSKILLDESCRIPTION_11100281_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="2" uiDescription="KORSKILLDESCRIPTION_11100281_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="3" uiDescription="KORSKILLDESCRIPTION_11100281_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="4" uiDescription="KORSKILLDESCRIPTION_11100281_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="5" uiDescription="KORSKILLDESCRIPTION_11100281_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="6" uiDescription="KORSKILLDESCRIPTION_11100281_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="7" uiDescription="KORSKILLDESCRIPTION_11100281_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="8" uiDescription="KORSKILLDESCRIPTION_11100281_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="9" uiDescription="KORSKILLDESCRIPTION_11100281_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="10" uiDescription="KORSKILLDESCRIPTION_11100281_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="11" uiDescription="KORSKILLDESCRIPTION_11100281_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100281" level="12" uiDescription="KORSKILLDESCRIPTION_11100281_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="1" uiDescription="KORSKILLDESCRIPTION_11100292_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="2" uiDescription="KORSKILLDESCRIPTION_11100292_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="3" uiDescription="KORSKILLDESCRIPTION_11100292_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="4" uiDescription="KORSKILLDESCRIPTION_11100292_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="5" uiDescription="KORSKILLDESCRIPTION_11100292_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="6" uiDescription="KORSKILLDESCRIPTION_11100292_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="7" uiDescription="KORSKILLDESCRIPTION_11100292_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="8" uiDescription="KORSKILLDESCRIPTION_11100292_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="9" uiDescription="KORSKILLDESCRIPTION_11100292_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="10" uiDescription="KORSKILLDESCRIPTION_11100292_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="11" uiDescription="KORSKILLDESCRIPTION_11100292_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100292" level="12" uiDescription="KORSKILLDESCRIPTION_11100292_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="1" uiDescription="KORSKILLDESCRIPTION_11100301_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="2" uiDescription="KORSKILLDESCRIPTION_11100301_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="3" uiDescription="KORSKILLDESCRIPTION_11100301_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="4" uiDescription="KORSKILLDESCRIPTION_11100301_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="5" uiDescription="KORSKILLDESCRIPTION_11100301_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="6" uiDescription="KORSKILLDESCRIPTION_11100301_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="7" uiDescription="KORSKILLDESCRIPTION_11100301_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="8" uiDescription="KORSKILLDESCRIPTION_11100301_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="9" uiDescription="KORSKILLDESCRIPTION_11100301_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="10" uiDescription="KORSKILLDESCRIPTION_11100301_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="11" uiDescription="KORSKILLDESCRIPTION_11100301_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100301" level="12" uiDescription="KORSKILLDESCRIPTION_11100301_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="1" uiDescription="KORSKILLDESCRIPTION_11100311_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="2" uiDescription="KORSKILLDESCRIPTION_11100311_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="3" uiDescription="KORSKILLDESCRIPTION_11100311_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="4" uiDescription="KORSKILLDESCRIPTION_11100311_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="5" uiDescription="KORSKILLDESCRIPTION_11100311_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="6" uiDescription="KORSKILLDESCRIPTION_11100311_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="7" uiDescription="KORSKILLDESCRIPTION_11100311_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="8" uiDescription="KORSKILLDESCRIPTION_11100311_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="9" uiDescription="KORSKILLDESCRIPTION_11100311_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="10" uiDescription="KORSKILLDESCRIPTION_11100311_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="11" uiDescription="KORSKILLDESCRIPTION_11100311_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100311" level="12" uiDescription="KORSKILLDESCRIPTION_11100311_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="1" uiDescription="KORSKILLDESCRIPTION_11100315_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="2" uiDescription="KORSKILLDESCRIPTION_11100315_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="3" uiDescription="KORSKILLDESCRIPTION_11100315_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="4" uiDescription="KORSKILLDESCRIPTION_11100315_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="5" uiDescription="KORSKILLDESCRIPTION_11100315_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="6" uiDescription="KORSKILLDESCRIPTION_11100315_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="7" uiDescription="KORSKILLDESCRIPTION_11100315_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="8" uiDescription="KORSKILLDESCRIPTION_11100315_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="9" uiDescription="KORSKILLDESCRIPTION_11100315_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="10" uiDescription="KORSKILLDESCRIPTION_11100315_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="11" uiDescription="KORSKILLDESCRIPTION_11100315_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100315" level="12" uiDescription="KORSKILLDESCRIPTION_11100315_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="1" uiDescription="KORSKILLDESCRIPTION_11100321_1_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="2" uiDescription="KORSKILLDESCRIPTION_11100321_2_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="3" uiDescription="KORSKILLDESCRIPTION_11100321_3_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="4" uiDescription="KORSKILLDESCRIPTION_11100321_4_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="5" uiDescription="KORSKILLDESCRIPTION_11100321_5_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="6" uiDescription="KORSKILLDESCRIPTION_11100321_6_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="7" uiDescription="KORSKILLDESCRIPTION_11100321_7_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="8" uiDescription="KORSKILLDESCRIPTION_11100321_8_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="9" uiDescription="KORSKILLDESCRIPTION_11100321_9_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="10" uiDescription="KORSKILLDESCRIPTION_11100321_10_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="11" uiDescription="KORSKILLDESCRIPTION_11100321_11_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
-	<key id="11100321" level="12" uiDescription="KORSKILLDESCRIPTION_11100321_12_UIDESCRIPTION:[F]JobChange_02" feature="JobChange_02" />
 </ms2>

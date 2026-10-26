@@ -105,7 +105,10 @@ count as the source:
 - **Newline representation is per-unit.** If the unit's source uses a real line break,
   the target uses a real line break; if it uses a literal `\n` escape, the target keeps
   the literal escape. Do not convert between the two in either direction.
-- Numbered format args: `{0}`, `{1}`, and format specs like `{0:08X}`
+- Numbered format args: `{0}`, `{1}`, and format specs like `{0:08X}`. In the skill
+  description components (keys ending `|*-...`) each `{n}` stands for a number that changes
+  with skill level; the converter fills it in for every level, so never write a number in
+  its place. The numbers that stay the same on every level are plain text.
 - Markup: `<font color='#00aaef'>`, `<font color=\"#ffd200\">`, `</font>`, `<i>`, `<b>`,
   `<p>`, `<br>`, including the exact quoting style (single quotes vs escaped double
   quotes) and letter case of the tag as it appears in the source

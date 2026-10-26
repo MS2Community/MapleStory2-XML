@@ -10,6 +10,9 @@ if (args.Length > 0) {
         case "xml-to-json-client-scripts" when args.Length == 2:
             Environment.ExitCode = converter.ConvertClientScriptsXmlToJson(args[1]) ? 0 : 1;
             return;
+        case "xml-to-json-skill-descriptions" when args.Length == 1:
+            Environment.ExitCode = converter.ConvertSkillDescriptionsXmlToJson() ? 0 : 1;
+            return;
         case "json-to-xml" when args.Length == 2:
             Environment.ExitCode = converter.ConvertJsonToXml(args[1]) ? 0 : 1;
             return;
@@ -32,6 +35,7 @@ if (args.Length > 0) {
             Console.WriteLine("Usage:");
             Console.WriteLine("  WeblateConverter xml-to-json <locale>");
             Console.WriteLine("  WeblateConverter xml-to-json-client-scripts <locale>");
+            Console.WriteLine("  WeblateConverter xml-to-json-skill-descriptions");
             Console.WriteLine("  WeblateConverter json-to-xml <locale>");
             Console.WriteLine("  WeblateConverter json-to-xml-client-scripts <locale>");
             Console.WriteLine("  WeblateConverter json-to-xml-all");

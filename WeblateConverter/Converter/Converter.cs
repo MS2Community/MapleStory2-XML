@@ -355,6 +355,12 @@ public class Converter {
                 }
             }
 
+            // 1c. Skill description templates must expand: placeholders in range, LevelValues present.
+            SkillDescriptionTemplates.Table? skillTable = SkillDescriptionTemplates.Find(jsonFile.Name);
+            if (skillTable != null) {
+                keyIssues += VerifySkillTemplates(skillTable, json, locale);
+            }
+
             // 2. Structural comparison against the source XML (skip fan-out/synthetic files
             //    and empty translation files, which have nothing to compare).
             if (SplitOrCombinedJson.Contains(jsonFile.Name) || json.Count == 0) {
@@ -411,6 +417,33 @@ public class Converter {
         Console.WriteLine($"  {locale}: verified {checkedFiles} file(s), {skipped} skipped, " +
                           $"{structuralIssues} structural issue(s), {keyIssues} key issue(s)");
         return structuralIssues == 0 && keyIssues == 0;
+    }
+
+    private int VerifySkillTemplates(SkillDescriptionTemplates.Table table, JObject json, string locale) {
+        if (!json.Properties().Any(prop => SkillDescriptionTemplates.IsTemplateKey(prop.Name))) {
+            return 0;
+        }
+        JObject? values = LoadLevelValues(table);
+        if (values == null) {
+            Console.WriteLine($"  [KEY] {table.JsonName}: has templates but LevelValues/{table.JsonName} is missing");
+            return 1;
+        }
+
+        JObject? source = null;
+        if (locale != "ko") {
+            string? projectRoot = GetProjectRoot();
+            string sourcePath = Path.Combine(projectRoot!, "WeblateConverter", "Json", "ko", table.JsonName);
+            source = File.Exists(sourcePath) ? JObject.Parse(File.ReadAllText(sourcePath)) : new JObject();
+        }
+
+        List<string> issues = SkillDescriptionTemplates.Validate(json, values, source);
+        foreach (string issue in issues.Take(20)) {
+            Console.WriteLine($"  [KEY] {table.JsonName}: {issue}");
+        }
+        if (issues.Count > 20) {
+            Console.WriteLine($"  [KEY] {table.JsonName}: ... {issues.Count - 20} more");
+        }
+        return issues.Count;
     }
 
     // Returns the structural signature of the first source XML (across the candidate locales)
@@ -605,8 +638,6 @@ public class Converter {
         var questJsons = new List<string>();
         var scriptQuestJsons = new List<string>();
         var skillJsons = new List<string>();
-        var skillDescriptions = new List<string>();
-        var skillAdditionalDescriptions = new List<string>();
         foreach ((string name, XmlDocument xml) in xmls) {
             if (name == null) {
                 continue;
@@ -630,11 +661,9 @@ public class Converter {
                     case not null when name.StartsWith("skillname"):
                         skillJsons.Add(json);
                         continue;
+                    // Templated together with the Korean source by ConvertSkillDescriptionsXmlToJson.
                     case not null when name.StartsWith("korskilldescription"):
-                        skillDescriptions.Add(json);
-                        continue;
                     case not null when name.StartsWith("koradditionaldescription"):
-                        skillAdditionalDescriptions.Add(json);
                         continue;
                     case not null when name.StartsWith("scriptquest"):
                         scriptQuestJsons.Add(json);
@@ -649,9 +678,8 @@ public class Converter {
         if (locale is not "kr" and not "ko") {
             SaveToJson("questdescription_final.xml", CombineJsons(questJsons), locale);
             SaveToJson("skillname.xml", CombineJsons(skillJsons), locale);
-            SaveToJson("stringskilldescription.xml", CombineJsons(skillDescriptions), locale);
-            SaveToJson("stringadditionaldescription.xml", CombineJsons(skillAdditionalDescriptions), locale);
             SaveToJson("scriptquest.xml", CombineJsons(scriptQuestJsons, keepFirst: true), locale);
+            return ConvertSkillDescriptionsXmlToJson(locale);
         }
         return true;
     }
@@ -690,8 +718,6 @@ public class Converter {
         // Process Korean files and add missing keys
         var questJsons = new List<JObject>();
         var skillJsons = new List<JObject>();
-        var skillDescriptions = new List<JObject>();
-        var skillAdditionalDescriptions = new List<JObject>();
 
         foreach ((string fileName, XmlDocument xml) in koreanXmls) {
             if (fileName == null) {
@@ -718,11 +744,11 @@ public class Converter {
                 case not null when fileName.StartsWith("skillname"):
                     skillJsons.Add(enhancedJsonObject);
                     continue;
-                case not null when fileName.StartsWith("korskilldescription"):
-                    skillDescriptions.Add(enhancedJsonObject);
-                    continue;
-                case not null when fileName.StartsWith("koradditionaldescription"):
-                    skillAdditionalDescriptions.Add(enhancedJsonObject);
+                // kr_latest's stringskilldescription/stringadditionaldescription.xml are a later KMS2
+                // layout (one row per skill, "name" attribute, {0} placeholders) that the GMS2 client
+                // never reads; the Korean source comes from the GMS2 rows in Xml/string/kr instead.
+                case "stringskilldescription.xml":
+                case "stringadditionaldescription.xml":
                     continue;
             }
 
@@ -732,10 +758,8 @@ public class Converter {
         // Save combined files with missing keys from other languages
         SaveToJson("questdescription_final.xml", AddMissingKeysToJsonString(CombineJsons(questJsons), "questdescription_final.xml", missingKeysByFile, sourceKeyData), outputLocale);
         SaveToJson("skillname.xml", AddMissingKeysToJsonString(CombineJsons(skillJsons), "skillname.xml", missingKeysByFile, sourceKeyData), outputLocale);
-        SaveToJson("stringskilldescription.xml", AddMissingKeysToJsonString(CombineJsons(skillDescriptions), "stringskilldescription.xml", missingKeysByFile, sourceKeyData), outputLocale);
-        SaveToJson("stringadditionaldescription.xml", AddMissingKeysToJsonString(CombineJsons(skillAdditionalDescriptions), "stringadditionaldescription.xml", missingKeysByFile, sourceKeyData), outputLocale);
 
-        return true;
+        return ConvertSkillDescriptionsXmlToJson();
     }
 
     // Generation writes in place into Xml/string/<locale>, so untranslated files and entries are
@@ -2180,8 +2204,171 @@ public class Converter {
         return stale;
     }
 
+    private string? LevelValuesPath(SkillDescriptionTemplates.Table table) {
+        string? projectRoot = GetProjectRoot();
+        return projectRoot == null
+            ? null
+            : Path.Combine(projectRoot, "WeblateConverter", "LevelValues", table.JsonName);
+    }
+
+    private JObject? LoadLevelValues(SkillDescriptionTemplates.Table table) {
+        string? path = LevelValuesPath(table);
+        return path != null && File.Exists(path) ? JObject.Parse(File.ReadAllText(path)) : null;
+    }
+
+    private JObject ExpandSkillTemplates(JObject jsonObject, string jsonName) {
+        SkillDescriptionTemplates.Table? table = SkillDescriptionTemplates.Find(jsonName);
+        if (table == null || !jsonObject.Properties().Any(prop => SkillDescriptionTemplates.IsTemplateKey(prop.Name))) {
+            return jsonObject;
+        }
+        JObject values = LoadLevelValues(table)
+            ?? throw new InvalidDataException($"{jsonName} has templates but LevelValues/{table.JsonName} is missing");
+        return SkillDescriptionTemplates.Expand(jsonObject, values);
+    }
+
+    // Regenerates both skill description tables for every locale from the per-level XML: the Korean
+    // GMS2 rows (Xml/string/kr, not kr_latest, whose stringskilldescription.xml is a later KMS2 layout
+    // the GMS2 client cannot read) define the templates and LevelValues; en/jp/cn, and any other locale
+    // that already has the JSON, are folded into them. extraLocale adds a locale without one.
+    public bool ConvertSkillDescriptionsXmlToJson(string? extraLocale = null) {
+        string? projectRoot = GetProjectRoot();
+        if (projectRoot == null) {
+            return false;
+        }
+
+        foreach (SkillDescriptionTemplates.Table table in SkillDescriptionTemplates.Tables) {
+            JObject? source = ReadPerLevelRows("ko", table);
+            if (source == null || source.Count == 0) {
+                Console.WriteLine($"[SKILL] No Korean {table.XmlPrefix}*.xml rows; {table.JsonName} left unchanged");
+                return false;
+            }
+
+            var translations = new Dictionary<string, JObject>(StringComparer.Ordinal);
+            foreach (string language in GetAvailableLanguages()) {
+                bool hasJson = File.Exists(Path.Combine(projectRoot, "WeblateConverter", "Json", language, table.JsonName));
+                if (language == "ko" || (!hasJson && language != extraLocale)) {
+                    continue;
+                }
+                JObject? rows = ReadPerLevelRows(language, table);
+                if (rows != null && rows.Count > 0) {
+                    translations[language] = rows;
+                }
+            }
+
+            SkillDescriptionTemplates.BuildResult result = SkillDescriptionTemplates.Build(source, translations);
+            SaveToJson(table.JsonName, result.Source.ToString(), "ko");
+            foreach ((string language, JObject rows) in result.Translations) {
+                SaveToJson(table.JsonName, rows.ToString(), language);
+            }
+            string valuesPath = LevelValuesPath(table)!;
+            Directory.CreateDirectory(Path.GetDirectoryName(valuesPath)!);
+            File.WriteAllText(valuesPath, result.Values.ToString());
+
+            Console.WriteLine($"[SKILL] {table.JsonName}: {source.Count} Korean rows -> {result.Source.Count} keys " +
+                              $"({result.Templates} templates covering {result.TemplatedRows} rows, " +
+                              $"{result.PerLevelGroups} groups kept per level with {result.PerLevelRows} rows)");
+            foreach (string language in result.Translations.Keys) {
+                Console.WriteLine($"  {language}: {result.Translations[language].Count} keys, " +
+                                  $"{result.DroppedPlaceholderRows[language]} untranslated client-placeholder row(s) dropped, " +
+                                  $"{result.KeysWithoutSource[language]} row(s) without a Korean source kept");
+            }
+        }
+        return true;
+    }
+
+    // korAdditionalDescription_Dev.xml is loaded by the client but never part of the JSON: JSON -> XML
+    // only writes the base and per-job files, and its 39 Korean rows duplicate rows in those files.
+    private JObject? ReadPerLevelRows(string language, SkillDescriptionTemplates.Table table) {
+        FileInfo[] files = GetFiles(GetOutputLocale(language))
+            .Where(file => file.Name.StartsWith(table.XmlPrefix, StringComparison.OrdinalIgnoreCase)
+                           && file.Extension.Equals(".xml", StringComparison.OrdinalIgnoreCase)
+                           && !Path.GetFileNameWithoutExtension(file.Name).EndsWith("_dev", StringComparison.OrdinalIgnoreCase))
+            .OrderBy(file => file.Name, StringComparer.OrdinalIgnoreCase)
+            .ToArray();
+        if (files.Length == 0) {
+            return null;
+        }
+
+        var rows = new JObject();
+        foreach (FileInfo file in files) {
+            var xml = new XmlDocument();
+            xml.Load(file.FullName);
+            string? json = Parse(xml, file.Name);
+            if (json == null) {
+                continue;
+            }
+            foreach ((string key, JToken? value) in JObject.Parse(json)) {
+                rows[key] = value;
+            }
+        }
+        return rows;
+    }
+
+    // Rows sharing an id and level differ only by feature/locale, and the client keeps the last one
+    // that passes XmlNode_CheckLocaleAndFeature (GMS2 0x1402468d0: plain pass/fail, no ranking), so
+    // their order decides the text. Order: locale rows last (as OrderJsonProperties does), base row
+    // before feature rows, then features by patch version for this locale's region (feature.xml), so a
+    // newer patch's row wins - the order every multi-row group in the retail files already has. It must
+    // not depend on JSON key order: Weblate rewrites translation files in the template's key order.
+    private List<(int skillId, int level, string key, JToken value)> OrderLeveledRows(
+        List<(int skillId, int level, string key, JToken value)> entries, string jsonName, string locale) {
+        string region = GetOutputLocale(locale) switch {
+            "kr" => "KR",
+            "jp" => "JP",
+            "cn" => "CN",
+            _ => "NA"
+        };
+        Dictionary<string, Dictionary<string, int>> versions = GetFeatureVersions();
+        return entries
+            .OrderBy(entry => entry.skillId)
+            .ThenBy(entry => entry.level)
+            .ThenBy(entry => {
+                var (_, _, feature, rowLocale) = ParseCombinedKey(entry.key, jsonName);
+                int version = 0;
+                if (!string.IsNullOrEmpty(feature)) {
+                    version = versions.TryGetValue(feature, out Dictionary<string, int>? byRegion)
+                              && byRegion.TryGetValue(region, out int patch)
+                        ? patch
+                        : int.MaxValue;
+                }
+                return (string.IsNullOrEmpty(rowLocale) ? 0 : 1, string.IsNullOrEmpty(feature) ? 0 : 1, version);
+            })
+            .ToList();
+    }
+
+    private Dictionary<string, Dictionary<string, int>>? _featureVersions;
+
+    private Dictionary<string, Dictionary<string, int>> GetFeatureVersions() {
+        if (_featureVersions != null) {
+            return _featureVersions;
+        }
+        _featureVersions = new Dictionary<string, Dictionary<string, int>>(StringComparer.Ordinal);
+        string? projectRoot = GetProjectRoot();
+        string path = Path.Combine(projectRoot ?? "", "Xml", "table", "feature.xml");
+        if (projectRoot == null || !File.Exists(path)) {
+            Console.WriteLine("  [WARN] Xml/table/feature.xml not found; feature rows keep JSON order");
+            return _featureVersions;
+        }
+        var xml = new XmlDocument();
+        xml.Load(path);
+        foreach (XmlNode node in xml.SelectNodes("/ms2/feature")!) {
+            string? name = node.Attributes?["name"]?.Value;
+            if (string.IsNullOrEmpty(name)) {
+                continue;
+            }
+            var byRegion = new Dictionary<string, int>(StringComparer.Ordinal);
+            foreach (XmlAttribute attribute in node.Attributes!) {
+                if (attribute.Name != "name" && int.TryParse(attribute.Value, out int patch)) {
+                    byRegion[attribute.Name] = patch;
+                }
+            }
+            _featureVersions[name] = byRegion;
+        }
+        return _featureVersions;
+    }
+
     private void ConvertStringAdditionalDescriptionWithSplitting(string jsonContent, string locale) {
-        JObject jsonObject = JObject.Parse(jsonContent);
+        JObject jsonObject = ExpandSkillTemplates(JObject.Parse(jsonContent), "stringadditionaldescription.json");
         HashSet<string> staleBareKeys = CollectStaleBareLevelKeys(jsonObject, "stringadditionaldescription.json");
         if (staleBareKeys.Count > 0) {
             Console.WriteLine($"  Dropping {staleBareKeys.Count} stale bare level key(s) (superseded by compound id|level keys)");
@@ -2281,20 +2468,12 @@ public class Converter {
                 continue;
             }
 
-            // Sort entries by skill ID first, then by level (secondary key) in ascending order
-            entries.Sort((a, b) => {
-                int primaryComparison = a.skillId.CompareTo(b.skillId);
-                if (primaryComparison != 0) {
-                    return primaryComparison;
-                }
-                // Both skillId and level are already integers, so this should work correctly
-                return a.level.CompareTo(b.level);
-            });
+            var sorted = OrderLeveledRows(entries, "stringadditionaldescription.json", locale);
 
 
             // Create a new sorted JSON object for this file
             var sortedJsonObject = new JObject();
-            foreach (var (skillId, level, key, value) in entries) {
+            foreach (var (skillId, level, key, value) in sorted) {
                 sortedJsonObject[key] = value;
             }
 
@@ -2311,7 +2490,7 @@ public class Converter {
     }
 
     private void ConvertStringSkillDescriptionWithSplitting(string jsonContent, string locale) {
-        JObject jsonObject = JObject.Parse(jsonContent);
+        JObject jsonObject = ExpandSkillTemplates(JObject.Parse(jsonContent), "stringskilldescription.json");
         HashSet<string> staleBareKeys = CollectStaleBareLevelKeys(jsonObject, "stringskilldescription.json");
         if (staleBareKeys.Count > 0) {
             Console.WriteLine($"  Dropping {staleBareKeys.Count} stale bare level key(s) (superseded by compound id|level keys)");
@@ -2410,19 +2589,11 @@ public class Converter {
                 continue;
             }
 
-            // Sort entries by skill ID first, then by level (secondary key) in ascending order
-            entries.Sort((a, b) => {
-                int primaryComparison = a.skillId.CompareTo(b.skillId);
-                if (primaryComparison != 0) {
-                    return primaryComparison;
-                }
-                // Both skillId and level are already integers, so this should work correctly
-                return a.level.CompareTo(b.level);
-            });
+            var sorted = OrderLeveledRows(entries, "stringskilldescription.json", locale);
 
             // Create a new sorted JSON object for this file
             var sortedJsonObject = new JObject();
-            foreach (var (skillId, level, key, value) in entries) {
+            foreach (var (skillId, level, key, value) in sorted) {
                 sortedJsonObject[key] = value;
             }
 
