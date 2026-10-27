@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
 	<key id="10500031" level="1" name="Ice Arrow" tooltipDescription="Decreases movement speed by 4%." />
+	<key id="10500031" level="1" name="Ice Arrow" tooltipDescription="Decreases movement speed by 4%." feature="CharacterBalance_01" locale="KR" />
 	<key id="10500032" level="1" name="Frozen" tooltipDescription="Frozen and unable to move." />
+	<key id="10500032" level="1" name="Frozen" tooltipDescription="Frozen and unable to move." feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="1" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 13. Increases accuracy by 1." />
+	<key id="10500061" level="1" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 13. Increases accuracy by 1." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="2" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 20. Increases accuracy by 1." />
+	<key id="10500061" level="2" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 20. Increases accuracy by 1." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="3" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 27. Increases accuracy by 2." />
+	<key id="10500061" level="3" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 27. Increases accuracy by 2." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="4" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 34. Increases accuracy by 2." />
+	<key id="10500061" level="4" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 34. Increases accuracy by 2." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="5" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 41. Increases accuracy by 3." />
+	<key id="10500061" level="5" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 41. Increases accuracy by 3." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="6" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 48. Increases accuracy by 3." />
+	<key id="10500061" level="6" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 48. Increases accuracy by 3." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="7" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 55. Increases accuracy by 4." />
+	<key id="10500061" level="7" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 55. Increases accuracy by 4." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="8" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 62. Increases accuracy by 4." />
+	<key id="10500061" level="8" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 62. Increases accuracy by 4." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="9" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 69. Increases accuracy by 4." />
+	<key id="10500061" level="9" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 69. Increases accuracy by 4." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="10" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 76. Increases accuracy by 5." />
+	<key id="10500061" level="10" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 76. Increases accuracy by 5." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="11" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 83. Increases accuracy by 5." />
+	<key id="10500061" level="11" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 83. Increases accuracy by 5." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500061" level="12" name="Sharp Eyes" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 90. Increases accuracy by 5." />
+	<key id="10500061" level="12" tooltipDescription="You&apos;ve honed in on the enemy&apos;s weaknesses. Increases critical rate by 90. Increases accuracy by 5." name="Sharp Eyes" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500066" level="1" name="Enhanced Sharp Eyes" tooltipDescription="Pinpoint the enemy&apos;s weaknesses. Increases accuracy by 1. Increases critical rate by 17." feature="JobChange_01" />
 	<key id="10500066" level="2" name="Enhanced Sharp Eyes" tooltipDescription="Pinpoint the enemy&apos;s weaknesses. Increases accuracy by 1. Increases critical rate by 28." feature="JobChange_01" />
 	<key id="10500066" level="3" name="Enhanced Sharp Eyes" tooltipDescription="Pinpoint the enemy&apos;s weaknesses. Increases accuracy by 2. Increases critical rate by 39." feature="JobChange_01" />
@@ -27,41 +41,77 @@
 	<key id="10500066" level="11" name="Enhanced Sharp Eyes" tooltipDescription="Pinpoint the enemy&apos;s weaknesses. Increases accuracy by 5. Increases critical rate by 127." feature="JobChange_01" />
 	<key id="10500066" level="12" name="Enhanced Sharp Eyes" tooltipDescription="Pinpoint the enemy&apos;s weaknesses. Increases accuracy by 5. Increases critical rate by 138." feature="JobChange_01" />
 	<key id="10500072" level="1" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 4.4%." />
+	<key id="10500072" level="1" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="2" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 4.7%." />
+	<key id="10500072" level="2" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="3" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 5%." />
+	<key id="10500072" level="3" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="4" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 5.3%." />
+	<key id="10500072" level="4" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="5" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 5.6%." />
+	<key id="10500072" level="5" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="6" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 5.9%." />
+	<key id="10500072" level="6" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="7" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 6.2%." />
+	<key id="10500072" level="7" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="8" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 6.5%." />
+	<key id="10500072" level="8" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="9" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 6.8%." />
+	<key id="10500072" level="9" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="10" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 7.1%." />
+	<key id="10500072" level="10" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="11" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 7.4%." />
+	<key id="10500072" level="11" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500072" level="12" name="Bronze Eagle" tooltipDescription="Your aerial friend flies at your side. Increases dexterity by 7.7%." />
+	<key id="10500072" level="12" name="Bronze Eagle" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="1" name="Eagle Claw" tooltipDescription="Inflicts 60% damage every sec. Decreases movement speed by 30%. Decreases jump power by 30%." />
+	<key id="10500081" level="1" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="2" name="Eagle Claw" tooltipDescription="Inflicts 64% damage every sec. Decreases movement speed by 30%. Decreases jump power by 30%." />
+	<key id="10500081" level="2" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="3" name="Eagle Claw" tooltipDescription="Inflicts 68% damage every sec. Decreases movement speed by 30%. Decreases jump power by 30%." />
+	<key id="10500081" level="3" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="4" name="Eagle Claw" tooltipDescription="Inflicts 72% damage every sec. Decreases movement speed by 35%. Decreases jump power by 35%." />
+	<key id="10500081" level="4" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="5" name="Eagle Claw" tooltipDescription="Inflicts 76% damage every sec. Decreases movement speed by 35%. Decreases jump power by 35%." />
+	<key id="10500081" level="5" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="6" name="Eagle Claw" tooltipDescription="Inflicts 80% damage every sec. Decreases movement speed by 35%. Decreases jump power by 35%." />
+	<key id="10500081" level="6" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="7" name="Eagle Claw" tooltipDescription="Inflicts 84% damage every sec. Decreases movement speed by 40%. Decreases jump power by 40%." />
+	<key id="10500081" level="7" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="8" name="Eagle Claw" tooltipDescription="Inflicts 88% damage every sec. Decreases movement speed by 40%. Decreases jump power by 40%." />
+	<key id="10500081" level="8" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="9" name="Eagle Claw" tooltipDescription="Inflicts 92% damage every sec. Decreases movement speed by 40%. Decreases jump power by 40%." />
+	<key id="10500081" level="9" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="10" name="Eagle Claw" tooltipDescription="Inflicts 96% damage every sec. Decreases movement speed by 45%. Decreases jump power by 45%." />
+	<key id="10500081" level="10" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="11" name="Eagle Claw" tooltipDescription="Inflicts 100% damage every sec. Decreases movement speed by 45%. Decreases jump power by 45%." />
+	<key id="10500081" level="11" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500081" level="12" name="Eagle Claw" tooltipDescription="Inflicts 104% damage every sec. Decreases movement speed by 45%. Decreases jump power by 45%." />
+	<key id="10500081" level="12" name="Eagle Claw" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="1" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 1 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="1" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="2" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 2 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="2" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="3" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 3 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="3" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="4" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 4 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="4" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="5" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 5 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="5" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="6" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 6 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="6" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="7" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 7 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="7" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="8" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 8 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="8" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="9" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 9 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="9" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="10" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 10 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="10" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="11" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 11 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="11" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500091" level="12" name="Eagle&apos;s Majesty" tooltipDescription="The eagle&apos;s majesty inspires. Restores 12 spirit every sec. The eagle also attacks on hit." />
+	<key id="10500091" level="12" name="Eagle&apos;s Majesty" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500093" level="1" name="Phoenix Spirit" tooltipDescription="The mysterious phoenix&apos;s majesty inspires. Restores 3 spirit every sec. The phoenix also attacks on hit." feature="JobChange_02" />
 	<key id="10500093" level="2" name="Phoenix Spirit" tooltipDescription="The mysterious phoenix&apos;s majesty inspires. Restores 4 spirit every sec. The phoenix also attacks on hit." feature="JobChange_02" />
 	<key id="10500093" level="3" name="Phoenix Spirit" tooltipDescription="The mysterious phoenix&apos;s majesty inspires. Restores 5 spirit every sec. The phoenix also attacks on hit." feature="JobChange_02" />
@@ -75,6 +125,7 @@
 	<key id="10500093" level="11" name="Phoenix Spirit" tooltipDescription="The mysterious phoenix&apos;s majesty inspires. Restores 13 spirit every sec. The phoenix also attacks on hit." feature="JobChange_02" />
 	<key id="10500093" level="12" name="Phoenix Spirit" tooltipDescription="The mysterious phoenix&apos;s majesty inspires. Restores 14 spirit every sec. The phoenix also attacks on hit." feature="JobChange_02" />
 	<key id="10500111" level="1" name="Snipe" tooltipDescription="Your aim is unwavering. Increase spirit recovery by 1." />
+	<key id="10500111" level="1" tooltipDescription="Your aim is unwavering. Increase spirit recovery by 1." name="Snipe" feature="CharacterBalance_01" locale="KR" />
 	<key id="10500171" level="1" name="Burning Arrow" tooltipDescription="Your arrows are aflame! Gain stacks to enhance Flame Arrow and Multi-Drive Shot. " feature="JobChange_01" />
 	<key id="10500171" level="2" name="Burning Arrow" tooltipDescription="Your arrows are aflame! Gain stacks to enhance Flame Arrow and Multi-Drive Shot. " feature="JobChange_01" />
 	<key id="10500171" level="3" name="Burning Arrow" tooltipDescription="Your arrows are aflame! Gain stacks to enhance Flame Arrow and Multi-Drive Shot. " feature="JobChange_01" />

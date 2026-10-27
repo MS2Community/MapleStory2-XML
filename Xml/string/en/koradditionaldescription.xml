@@ -1275,6 +1275,9 @@
 	<key id="73000100" level="1" name="Red Core Energy" tooltipDescription="The red core&apos;s power increases attack." feature="Kritias_Turka02" />
 	<key id="73000101" level="1" name="Green Core Energy" tooltipDescription="The green core&apos;s power increases HP." feature="Kritias_Turka02" />
 	<key id="73000102" level="1" name="Blue Core Energy" tooltipDescription="The blue core&apos;s power increases defense." feature="Kritias_Turka02" />
+	<key id="73000105" level="1" name="Red Core Energy" feature="Kritias_Turka02" />
+	<key id="73000107" level="1" name="Green Core Energy" feature="Kritias_Turka02" />
+	<key id="73000109" level="1" name="Blue Core Energy" feature="Kritias_Turka02" />
 	<key id="79000001" level="1" name="Revival Curse: Increased Vitality" tooltipDescription="Increases the power of an ability due to the revival curse. \nIncreases attack by 10%.\nStacks up to 9 times." />
 	<key id="79000002" level="1" name="Revival Curse: Decreased Vitality" tooltipDescription="Decreases the power of an ability due to the revival curse.\nDecreases attack by 10%.\nStacks up to 9 times." />
 	<key id="79010010" level="1" name="Souvenir" tooltipDescription="Increases piercing by 4%." />
@@ -1739,6 +1742,7 @@
 	<key id="90000679" level="1" name="Mugwort Rice Cake" tooltipDescription="Increases piercing by 3%." />
 	<key id="90000680" level="1" name="Lotus Leaf Sticky Rice" tooltipDescription="Increases max health by 5%." />
 	<key id="90000685" level="1" name="Merin&apos;s Hero" tooltipDescription="Increases experience obtained from slaying monsters by 15%. Increases mesos obtained from slaying monsters by 30%. Increases the chance of hauling in a prize fish by 7%. Decreases meret revival costs by 50%." />
+	<key id="90000685" level="1" name="Merin&apos;s Hero" locale="JP" />
 	<key id="90000687" level="1" name="Special Defense Tonic" tooltipDescription="Increases defense by 3%." />
 	<key id="90000688" level="1" name="Superb Experience Booster +100%" tooltipDescription="Increases experience from hunting monsters, fishing, and performing by 100%." />
 	<key id="90000689" level="1" name="Multigrain Bread" tooltipDescription="Physical &amp; Magic Attack 1%" />
@@ -2155,6 +2159,7 @@
 	<key id="90000836" level="1" name="Rainbow Magnetic Lure" tooltipDescription="A special magnetic lure that can only be used at the $map:63000060$. You may obtain a $item:30001344$ while fishing at the $map:63000060$." locale="NA" />
 	<key id="90000838" level="1" name="Winter Burning Time" tooltipDescription="Gain 2 extra levels for every level you gain from Lv. 10 until Lv. 70." />
 	<key id="90000838" level="1" name="Burning Time" tooltipDescription="Gain 2 extra levels for every level you gain from Lv. 9 until Lv. 60." feature="Event" locale="NA" />
+	<key id="90000838" level="1" tooltipDescription="Gain 2 extra levels for every level you gain from Lv. 9 until Lv. 60." feature="Event" locale="JP" />
 	<key id="90000840" level="1" name="Mythryl Chain Mail Gloves" tooltipDescription="Increases ranching production by 100%" feature="Mastery06" />
 	<key id="90000841" level="1" name="Rainbow Fabric Pouch" tooltipDescription="Increases mining production by 100%" feature="Mastery06" />
 	<key id="90000842" level="1" name="Spartium Crystal" tooltipDescription="Increases alchemy mastery gain by 100%" feature="Mastery06" />
@@ -2169,11 +2174,15 @@
 	<key id="90000851" level="1" name="Pineapple Pizza" tooltipDescription="Increases attack speed by 5%" feature="Mastery06" />
 	<key id="90000852" level="1" name="Heavenly Crepe Cake" tooltipDescription="Increases health by 300 for 15 min. \nIncreases defense by 6%." feature="Mastery06" />
 	<key id="90000857" level="1" name="Enhanced Special Warrior Tonic" tooltipDescription="Increases physical attack by 4%" feature="Mastery06" />
+	<key id="90000859" level="1" name="Piping Hot Pizza" locale="KR" />
 	<key id="90000865" level="1" name="Piping Hot Pizza" tooltipDescription="Increases bonus attack by 200." />
 	<key id="90000867" level="1" name="Health Recovery" tooltipDescription="Restores 8 health every sec." />
 	<key id="90000868" level="1" name="Health Recovery" tooltipDescription="Restores 20 health every sec." />
 	<key id="90000873" level="1" name="Full Moon&apos;s Power" tooltipDescription="Increases accuracy by 5.\nIncreases physical and magic damage by 3%.\n&lt;font color=&apos;#00aaef&apos;&gt;Not active in battlegrounds or arenas.&lt;/font&gt;" />
+	<key id="90000873" level="1" tooltipDescription="Increases accuracy by 5.\nIncreases physical and magic damage by 3%.\n&lt;font color=&apos;#00aaef&apos;&gt;Not active in battlegrounds or arenas.&lt;/font&gt;" locale="CN" />
+	<key id="90000874" level="1" name="Sporeblock" tooltipDescription="Neutralizes Mushking&apos;s spores, and allows you to damage him." feature="WorldChampionMushroom" />
 	<key id="90000886" level="1" name="Soft Star Jelly" tooltipDescription="Restores 122 health every sec." />
+	<key id="90000890" level="1" tooltipDescription="Increases physical and magic attack by 3%, max health by 5%, and movement speed by 5%." feature="WorldChampionMushroom" />
 	<key id="90000901" level="1" name="Papulatus&apos;s Clock" tooltipDescription="Increases physical and magic attack by 3%. Increases bonus attack by 250\n&lt;font color=&apos;#00aaef&apos;&gt;Not active in battlegrounds or arenas.&lt;/font&gt;" />
 	<key id="90000913" level="1" name="Health Recovery" tooltipDescription="Restores 80 health every sec." />
 	<key id="90000914" level="1" name="Health Recovery" tooltipDescription="Restores 60 health every sec." />
@@ -2187,9 +2196,12 @@
 	<key id="90000935" level="1" name="Attribute Insignia 3" tooltipDescription="Increases damage against bosses by 4%. Increases attack speed by 5%. &lt;font color=&apos;#00aaef&apos;&gt;Not active in battlegrounds or arenas.&lt;/font&gt;" />
 	<key id="90000940" level="1" name="Pink Paint" tooltipDescription="Drenched in paint!" feature="Event" />
 	<key id="90000942" level="1" name="Green Paint" tooltipDescription="Drenched in paint!" feature="Event" />
+	<key id="90000946" level="1" name="Attribute Insignia 3" locale="CN" />
+	<key id="90000947" level="1" name="Attribute Insignia 3" locale="CN" />
 	<key id="90001001" level="1" name="Increases movement speed by 5% in Tria." tooltipDescription="Increases movement speed by 5% in Tria." />
 	<key id="90001002" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun. \nRebalances enchants for PvP.\nAttributes set to level 99 values." />
 	<key id="90001002" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun.\nRebalances enchants for PvP.\nAttributes set to level 99 values.\nDecreases recovery speed." feature="NAEquipmentBalance_01" />
+	<key id="90001002" level="1" name="Will to Fight" feature="KREquipmentBalance_01" />
 	<key id="90001005" level="1" name="Number 1" tooltipDescription="Number 1" />
 	<key id="90001006" level="1" name="Number 2" tooltipDescription="Number 2" />
 	<key id="90001007" level="1" name="Will to Fight" tooltipDescription="Increases health, grants immunity to stun. \nRebalances enchants for PvP." />
@@ -2201,7 +2213,10 @@
 	<key id="90001144" level="1" name="Aetherine Bar" tooltipDescription="Increases damage by 6% " feature="Kritias_2018_12" />
 	<key id="90001145" level="1" name="Aetherine Drink" tooltipDescription="Increases health by 300. Increases defense by 6%." feature="Kritias_2018_12" />
 	<key id="90001147" level="1" name="Lonely Black Bean Noodles" tooltipDescription="Suddenly giant-ified!" feature="Event" />
+	<key id="90001150" level="1" name="Rainbow Magnetic Lure" feature="Event" locale="JP" />
+	<key id="90001150" level="1" name="Rainbow Magnetic Lure" feature="Event" locale="CN" />
 	<key id="90001153" level="1" name="Metal Strainer" tooltipDescription="Chance to fish various items, including outfits." feature="Event" />
+	<key id="90001154" level="1" name="Metal Strainer" tooltipDescription="Chance to fish various items, including outfits." feature="Event" locale="JP" />
 	<key id="90001155" level="1" name="Experience Booster +100%" tooltipDescription="Increases the experience earned from hunting, performing, and fishing by 100%." />
 	<key id="90001156" level="1" name="Moon Bunny&apos;s Ducky Cake" tooltipDescription="Restores 122 health every sec." feature="Event" />
 	<key id="90001161" level="1" name="Enhanced Special Warrior Tonic" tooltipDescription="Increases physical attack by 4%" feature="Mastery06" />
@@ -2214,6 +2229,8 @@
 	<key id="90001199" level="1" name="Creamy Tomato Soup" tooltipDescription="Increases physical and magic attack by 3%, max health by 5%, and movement speed by 5%." feature="Event" />
 	<key id="90001200" level="1" name="Drink Effect" tooltipDescription="Restores 221 health every sec." feature="Event" />
 	<key id="90001201" level="1" name="Crispy Zakum Cookie" tooltipDescription="Increases physical and magic attack by 5% and max health by 5%." feature="Event" />
+	<key id="90001202" level="1" tooltipDescription="Restores 221 health every sec." feature="Event" locale="CN" />
+	<key id="90001204" level="1" name="Rainbow Magnetic Lure" feature="Event" locale="CN" />
 	<key id="90002101" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;Has the chance to infect targets upon hit.&lt;/FONT&gt;" />
 	<key id="90002201" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;Chance to decrease enemy movement speed and attack power on hit&lt;/FONT&gt;" />
 	<key id="90002202" level="1" name="Balrog&apos;s Horns" tooltipDescription="Decreases movement speed by 10% and physical attack and magic attack by 5%." />
@@ -2723,6 +2740,7 @@
 	<key id="90051239" level="1" name="Lodestar - Recovery" tooltipDescription="Restores 150 health every second." />
 	<key id="90051241" level="1" name="Lodestar - Bonus Attack" tooltipDescription="Increases bonus attack by 220." />
 	<key id="90051248" level="1" name="Incantation" tooltipDescription="Increases bonus attack by 220." />
+	<key id="90051248" level="1" name="Incantation" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051259" level="1" name="Fervor" tooltipDescription="Increases attack speed by 10%." />
 	<key id="90051270" level="1" name="Precision" tooltipDescription="Increases accuracy by 9." />
 	<key id="90051281" name="Beastly Rage" tooltipDescription="Increases physical and magic attack by 48." />
@@ -2730,6 +2748,7 @@
 	<key id="90051292" name="Energy Mutation" tooltipDescription="Increases Bonus Attack by 400." />
 	<key id="90051292" name="Energy Mutation" tooltipDescription="Increases Bonus Attack by 520." feature="NAEquipmentBalance_01" locale="JP" />
 	<key id="90051292" name="Power Surge" tooltipDescription="Increases bonus attack by 520." feature="NAEquipmentBalance_01" locale="NA" />
+	<key id="90051292" tooltipDescription="Combat Power +1,300" name="Energy Mutation" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051297" name="Enhanced Energy Mutation" />
 	<key id="90051304" name="Acceleration" tooltipDescription="Increases Accuracy by 9 and Attack Speed by 9%." />
 	<key id="90051309" name="Enhanced Acceleration" />
@@ -2767,6 +2786,7 @@
 	<key id="90051616" name="Increases HP by 1,000 and Piercing by 8% in battlegrounds and arenas." feature="PvPRankingDuelMode" />
 	<key id="90051617" name="Increases HP by 2,500 and Accuracy by 10 in battlegrounds and arenas." feature="PvPRankingDuelMode" />
 	<key id="90051620" level="1" name="Intense Blue Glow" feature="Level70Item" />
+	<key id="90051620" level="1" name="Intense Blue Glow" feature="KREquipmentBalance_01" />
 	<key id="90051621" level="1" name="Weak Blue Glow" tooltipDescription="The power of the blue lapenta is gathering." feature="Level70Item" />
 	<key id="90051622" level="1" name="Extreme Brightness" tooltipDescription="Taking damage from the brilliance of the Blue Lapenta." feature="Level70Item" />
 	<key id="90051634" level="1" name="Increases health by 2,000, piercing by 15%, strength by 200, and critical evasion by 100 in battlegrounds and arenas." feature="PvPRankingDuelMode" />
@@ -2848,6 +2868,77 @@
 	<key id="91000071" level="1" name="Stuns booby trapped victims for 1.5 sec." />
 	<key id="91000072" name="Stunned" tooltipDescription="Stunned and unable to act." />
 	<key id="91000091" level="1" name="Mirror Image: Decrease the accuracy and evasion of Shadow Web targets by 6." />
+	<key id="92001024" level="1" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="2" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="3" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="4" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="5" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="6" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="7" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="8" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="9" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="10" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="11" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="12" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="13" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="14" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="15" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="16" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="17" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="18" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="19" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001024" level="20" tooltipDescription="Gather energy to increase maximum HP.\nStacks up to 10 times.\nAt 10 stacks, Giant activates." feature="ShadowExpedition" />
+	<key id="92001026" level="1" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="2" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="3" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="4" tooltipDescription="You feel full of energy.\nMaximum HP increased" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="5" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="6" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="7" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="8" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="9" tooltipDescription="You feel full of energy.\nMaximum HP increased" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="10" tooltipDescription="You feel full of energy.\nMaximum HP increased" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="11" tooltipDescription="You feel full of energy.\nMaximum HP increased" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="12" tooltipDescription="You feel full of energy.\nMaximum HP increased" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="13" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased" feature="ShadowExpedition" />
+	<key id="92001026" level="14" tooltipDescription="You feel full of energy.\nMaximum HP increased" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="15" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased\nPhysical and magical damage taken reduced" feature="ShadowExpedition" />
+	<key id="92001026" level="16" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased\nPhysical and magical damage taken reduced" feature="ShadowExpedition" />
+	<key id="92001026" level="17" tooltipDescription="You feel full of energy.\nMaximum HP increased\nPhysical and magical damage taken reduced" name="Giant" feature="ShadowExpedition" />
+	<key id="92001026" level="18" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased\nPhysical and magical damage taken reduced" feature="ShadowExpedition" />
+	<key id="92001026" level="19" name="Giant" tooltipDescription="You feel full of energy.\nMaximum HP increased\nPhysical and magical damage taken reduced" feature="ShadowExpedition" />
+	<key id="92001026" level="20" tooltipDescription="You feel full of energy.\nMaximum HP increased\nPhysical and magical damage taken reduced" name="Giant" feature="ShadowExpedition" />
+	<key id="92002019" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="ShadowExpedition" />
+	<key id="92003022" level="1" name="Frozen" feature="ShadowExpedition" />
+	<key id="92003026" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="ShadowExpedition" />
+	<key id="92005024" level="1" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="2" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="3" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="4" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="5" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="6" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="7" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="8" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="9" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="10" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="11" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="12" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="13" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="14" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="15" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="16" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="17" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="18" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="19" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92005024" level="20" tooltipDescription="Increases attack speed." feature="ShadowExpedition" />
+	<key id="92007017" level="1" name="Lethargy" feature="ShadowExpedition" />
+	<key id="92008005" level="1" tooltipDescription="Stunned and unable to act." name="Stunned" feature="ShadowExpedition" />
+	<key id="92008008" level="1" name="Ruthless" feature="ShadowExpedition" />
+	<key id="92008028" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="ShadowExpedition" />
+	<key id="92010022" level="1" name="Stunned" tooltipDescription="Stunned and unable to act." feature="ShadowExpedition" />
+	<key id="92010033" level="1" tooltipDescription="Stunned and unable to act." name="Stunned" feature="ShadowExpedition" />
+	<key id="92900996" level="1" tooltipDescription="Increases movement speed." feature="ShadowExpedition" />
+	<key id="92900997" level="1" tooltipDescription="Increases health." feature="ShadowExpedition" />
 	<key id="95000012" level="1" name="Weaken Defense (Level 1)" tooltipDescription="95000012 (Level 1)" />
 	<key id="95000012" level="2" name="Weaken Defense (Level 2)" tooltipDescription="95000012 (Level 2)" />
 	<key id="95000012" level="3" name="Weaken Defense (Level 3)" tooltipDescription="95000012 (Level 3)" />
@@ -2950,6 +3041,7 @@
 	<key id="95000018" level="20" name="95000018 (Level 20)" tooltipDescription="95000018 (Level 20)" />
 	<key id="97000001" level="1" name="Experience Up" tooltipDescription="Increases experience earned from hunting monsters by 20%." />
 	<key id="97000011" level="1" name="Attack Up" tooltipDescription="Increases physical and magic attack by 10%." />
+	<key id="97000021" level="1" tooltipDescription="Increases physical and magic attack by 10%." />
 	<key id="98000001" level="1" name="Mighty Bond" tooltipDescription="Brimming with trust and good faith. \nIncreases physical and magic attack by 5. \nNot active on battlegrounds or arenas." />
 	<key id="98000011" level="1" name="Fleet Footed" tooltipDescription="Your steps feel lighter, thanks to your companion. \nIncreases movement speed by 5%.\nNot active on battlegrounds or arenas." />
 	<key id="98000021" level="1" name="Unerring Trust" tooltipDescription="The trust you see in the eyes of your companion motivates you. \nIncreases accuracy by 3.\nNot active on battlegrounds or arenas." />
@@ -3446,6 +3538,7 @@
 	<key id="110001027" level="1" name="Increased EXP and Mastery from Prize Catches" tooltipDescription="Catching a prize fish &lt;FONT color=&apos;#FFD200&apos;&gt;doubles&lt;/FONT&gt; the EXP and Mastery gained." feature="CharacterAbility" />
 	<key id="110001028" level="1" name="Bonus Fracta Crystals on Enchant Failure" tooltipDescription="When an attempt to enchant an item from +10 or higher\nto +11 or higher fails, there is a chance to receive\n&lt;FONT color=&apos;#FFD200&apos;&gt;double&lt;/FONT&gt; Fracta Crystals.\n&lt;FONT color=&apos;#909090&apos;&gt;The reward is placed in your inventory automatically.\nIf your inventory is full, it will be sent by mail.&lt;/FONT&gt;" feature="CharacterAbility" />
 	<key id="110001029" level="1" name="Bonus Items from Great Success in Ring Crafting" tooltipDescription="Achieving a Great Success while crafting a ring has a chance to grant\n&lt;FONT color=&apos;#FFD200&apos;&gt;one additional&lt;/FONT&gt; crafted item.\n&lt;FONT color=&apos;#909090&apos;&gt;The bonus reward is placed in your inventory automatically.\nIf your inventory is full, it will be sent by mail.&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001100" level="1" name="Increases attack speed by 3%." feature="CharacterAbility" />
 	<key id="110002001" level="1" name="Movement Speed Up" tooltipDescription="Increases movement speed by 5% while in a party with club members. Disabled in battlegrounds and the arena." feature="Club" />
 	<key id="110002002" level="1" name="Fishing Experience Up" tooltipDescription="Increases fishing experience gained by 3% while in a party with club members." feature="Club" />
 	<key id="110002003" level="1" name="Performance Experience Up" tooltipDescription="Increases performance experience gained by 3% while in a party with club members." feature="Club" />
