@@ -13581,7 +13581,8 @@
     "name": "Giant"
   },
   "92001024|*-ShadowExpedition-": {
-    "tooltipDescription": "Gather energy to increase maximum HP.\\nStacks up to 10 times.\\nAt 10 stacks, Giant activates."
+    "tooltipDescription": "Gather energy to increase maximum HP.\\nStacks up to 10 times.\\nAt 10 stacks, Giant activates.",
+    "name": "Vitality Charge"
   },
   "90051292-KREquipmentBalance_01-KR": {
     "tooltipDescription": "Combat Power +1,300",
@@ -13596,7 +13597,8 @@
     "name": "Iron Defense"
   },
   "10100041|*-CharacterBalance_01-KR": {
-    "name": "Warhorn"
+    "name": "Warhorn",
+    "tooltipDescription": "The rallying cry raises your morale!\\nPhysical and magic attack increased by {0}%."
   },
   "10100081|*-CharacterBalance_01-KR": {
     "name": "Bulwark",
@@ -13615,21 +13617,24 @@
     "tooltipDescription": "You've gained a strategic advantage. Increases all damage."
   },
   "10100151|*-CharacterBalance_01-KR": {
-    "name": "Iron Shield"
+    "name": "Iron Shield",
+    "tooltipDescription": "You take a defensive stance with your shield.\\nDamage taken from enemies reduced by {0}%."
   },
   "10200032|*-CharacterBalance_01-KR": {
     "name": "Dark Aura",
     "tooltipDescription": "Restores 1 additional spirit per sec."
   },
   "10200061|*-CharacterBalance_01-KR": {
-    "name": "Intimidation"
+    "name": "Intimidation",
+    "tooltipDescription": "Your fighting spirit fades, leaving you weak...\\nAttack reduced by {0}%\\nJump and Movement Speed reduced by {1}%."
   },
   "10200063|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Lost the will to fight. Unable to act.",
     "name": "Intimidation Stun"
   },
   "10200064|*-CharacterBalance_01-KR": {
-    "name": "Intimidation"
+    "name": "Intimidation",
+    "tooltipDescription": "Your fighting spirit fades, leaving you weak...\\nAttack reduced by {0}%."
   },
   "10200082|*-CharacterBalance_01-KR": {
     "name": "Adrenaline Rush 2",
@@ -13644,14 +13649,16 @@
     "tooltipDescription": "Increases natural spirit recovery by {0} per sec."
   },
   "10200101|*-CharacterBalance_01-KR": {
-    "name": "Inhuman Endurance"
+    "name": "Inhuman Endurance",
+    "tooltipDescription": "Indomitable will helps you endure extreme conditions.\\nPhysical and magic resistance increased by {0}."
   },
   "10200141|*-CharacterBalance_01-KR": {
     "name": "Blood Price",
     "tooltipDescription": "Increases damage by {0}% and decreases health by 1% on hit."
   },
   "10200131|*-CharacterBalance_01-KR": {
-    "name": "Dark Might"
+    "name": "Dark Might",
+    "tooltipDescription": "Attack Speed, physical attack, and magic attack increased by {0}%.\\nRestore 1 SP on every hit."
   },
   "10300031|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Inflicts {0}% electric damage at 5 stacks.",
@@ -13662,7 +13669,8 @@
     "tooltipDescription": "Movement speed reduced by 15%. Stacks up to 6 times."
   },
   "10300021|*-CharacterBalance_01-KR": {
-    "name": "Flame Wave"
+    "name": "Flame Wave",
+    "tooltipDescription": "Intense flames engulf your body!\\nTake {0}% fire damage every second."
   },
   "10300071|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Electrocuted and unable to act.",
@@ -13677,29 +13685,36 @@
     "tooltipDescription": "Increases physical attack and magic attack by {0}%. The caster gains an additional {1}% bonus."
   },
   "10400041|*-CharacterBalance_01-KR": {
-    "name": "Shield of the Archon"
+    "name": "Shield of the Archon",
+    "tooltipDescription": "A shield of judgment surrounds you.\\nPhysical and magic resistance increased by {0}.\\nDeal {1}% holy damage to nearby enemies."
   },
   "10400051|*-CharacterBalance_01-KR": {
-    "name": "Holy Symbol"
+    "name": "Holy Symbol",
+    "tooltipDescription": "Holy purification clears your mind.\\nPhysical and magic damage increased by {0}%.\\nAttack Speed increased by {1}%.\\nAccuracy increased by {2}."
   },
   "10400001|*-CharacterBalance_01-KR": {
-    "name": "Celestial Light"
+    "name": "Celestial Light",
+    "tooltipDescription": "Holy light purifies you!\\nTake {0}% holy damage every second."
   },
   "10300131|*-CharacterBalance_01-KR": {
-    "name": "Magic Armor"
+    "name": "Magic Armor",
+    "tooltipDescription": "Magic energy surrounds you.\\nAbsorbs damage equal to {0}% of your maximum HP."
   },
   "10400081|*-CharacterBalance_01-KR": {
-    "name": "Celestial Guardian"
+    "name": "Celestial Guardian",
+    "tooltipDescription": "An angel grants you sacred power.\\nMagic attack increased by {0}%."
   },
   "10400091|*-CharacterBalance_01-KR": {
-    "name": "Celestial Blessings"
+    "name": "Celestial Blessings",
+    "tooltipDescription": "You have received an angel's blessing.\\nPhysical and magic attack increased by {0}%.\\nPhysical and magic resistance increased by {1}."
   },
   "10400053|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Can't receive the Holy Symbol effect while the purification aura remains.",
     "name": "Holy Symbol"
   },
   "10400122|*-CharacterBalance_01-KR": {
-    "name": "Smiting Aura"
+    "name": "Smiting Aura",
+    "tooltipDescription": "You are exposed to intense light!\\nAll damage taken increased by {0}%."
   },
   "10400151|*-CharacterBalance_01-KR": {
     "name": "Heavenly Wings",
@@ -13718,10 +13733,12 @@
     "name": "Sharp Eyes"
   },
   "10500072|*-CharacterBalance_01-KR": {
-    "name": "Bronze Eagle"
+    "name": "Bronze Eagle",
+    "tooltipDescription": "Golden Eagle supports you.\\nDEX increased by {0}%."
   },
   "10500081|*-CharacterBalance_01-KR": {
-    "name": "Eagle Claw"
+    "name": "Eagle Claw",
+    "tooltipDescription": "An eagle's talons have scratched you!\\nTake {0}% damage every second.\\nMovement Speed reduced by {1}%.\\nJump reduced by {2}%."
   },
   "10500111|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Your aim is unwavering. Increase spirit recovery by 1.",
@@ -13732,7 +13749,8 @@
     "tooltipDescription": "Hit by a grenade! Stunned and cannot act."
   },
   "10500091|*-CharacterBalance_01-KR": {
-    "name": "Eagle's Majesty"
+    "name": "Eagle's Majesty",
+    "tooltipDescription": "The eagle's spirit flows through you.\\nRestore {0} SP every second.\\nThe eagle makes a support attack when you hit an enemy."
   },
   "10600131|*-CharacterBalance_01-KR": {
     "name": "Suborbital Bombardment",
@@ -13751,10 +13769,12 @@
     "tooltipDescription": "Struck with deadly poisons! Deals {0}% poison damage per sec."
   },
   "10700031|*-CharacterBalance_01-KR": {
-    "name": "Blade Dance"
+    "name": "Blade Dance",
+    "tooltipDescription": "Your agile movements help you avoid attacks.\\n{0}% chance to evade enemy attacks."
   },
   "10700051|*-CharacterBalance_01-KR": {
-    "name": "Somersault Kick"
+    "name": "Somersault Kick",
+    "tooltipDescription": "A powerful kick leaves you unsteady!\\nMovement Speed reduced by {0}%.\\nJump reduced by {1}%."
   },
   "10700052|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Knocked unconscious by a powerful kick. Stunned and unable to act.",
@@ -13793,37 +13813,44 @@
     "tooltipDescription": "Ambushed! Stunned and unable to act."
   },
   "10800062|*-CharacterBalance_01-KR": {
-    "name": "Shadow Web"
+    "name": "Shadow Web",
+    "tooltipDescription": "Webs wrap around your body!\\nTake {0}% dark damage every second.\\nMovement Speed reduced by {1}%.\\nJump reduced by {2}%."
   },
   "10800081|*-CharacterBalance_01-KR": {
     "name": "Assassin's Mark",
     "tooltipDescription": "Branded with Assassin's Mark!\\nRestores spirit to caster."
   },
   "10800092|*-CharacterBalance_01-KR": {
-    "name": "Shadow Mark"
+    "name": "Shadow Mark",
+    "tooltipDescription": "You have been marked for death!\\nDamage taken from enemies increased by {0}%."
   },
   "10800131|*-CharacterBalance_01-KR": {
-    "name": "Shadow Brand"
+    "name": "Shadow Brand",
+    "tooltipDescription": "You have been marked for death!\\nDamage taken from enemies increased by {0}%."
   },
   "10800161|*-CharacterBalance_01-KR": {
-    "name": "Blade Mark"
+    "name": "Blade Mark",
+    "tooltipDescription": "You have been branded!\\nAccuracy reduced by {0}."
   },
   "10900001|*-CharacterBalance_01-KR": {
-    "name": "Flame Sigil"
+    "name": "Flame Sigil",
+    "tooltipDescription": "Your blade gains the fire element.\\nSome skills become fire skills.\\nFire skill damage increased by {0}%."
   },
   "10900063|*-CharacterBalance_01-KR": {
     "name": "Chill",
     "tooltipDescription": "Chilled by the blade! Decreases movement speed and jump power by 15."
   },
   "10900021|*-CharacterBalance_01-KR": {
-    "name": "Storm Sigil"
+    "name": "Storm Sigil",
+    "tooltipDescription": "Your blade gains the lightning element.\\nSome skills become lightning skills.\\nLightning skill damage increased by {0}%."
   },
   "10900091|*-CharacterBalance_01-KR": {
     "name": "Warding Rune",
     "tooltipDescription": "Protected by rune magic. Increases physical resistance and magic resistance by {0}."
   },
   "10900011|*-CharacterBalance_01-KR": {
-    "name": "Frost Sigil"
+    "name": "Frost Sigil",
+    "tooltipDescription": "Your blade gains the ice element.\\nSome skills become ice skills.\\nIce skill damage increased by {0}%."
   },
   "10900092|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Protected by flame. Increases physical resistance and magic resistance by {0}. Decreases fire damage taken by {1}%. Deals {2}% fire damage to nearby enemies.",
@@ -13838,7 +13865,8 @@
     "tooltipDescription": "Protected by lightning. Increases physical resistance and magic resistance by {0}. Decreases electric damage taken by {1}%. Lightning strikes deal {2}% electric damage."
   },
   "10900131|*-CharacterBalance_01-KR": {
-    "name": "Elemental Potency"
+    "name": "Elemental Potency",
+    "tooltipDescription": "Draw out the full power of the runes!\\nFire, ice, and lightning damage increased by {0}%."
   },
   "10900155|*-CharacterBalance_01-KR": {
     "tooltipDescription": "Chilled by the blade! Decreases movement speed and jump power by 30%.",
@@ -13857,7 +13885,8 @@
     "tooltipDescription": "Keep your guard up while weaving between enemies! Increases punch skill damage by 5%."
   },
   "11000101|*-CharacterBalance_Striker_01-KR": {
-    "name": "Overcome"
+    "name": "Overcome",
+    "tooltipDescription": "Push beyond your physical limits!\\nAttack Speed and Movement Speed increased by 30%.\\nPhysical and magic damage increased by {0}%.\\nCooldown of enhanced skills used in Change Stance reduced by {1}%."
   },
   "11000121|*-CharacterBalance_Striker_01-KR": {
     "name": "Fighting Spirit",
@@ -13876,7 +13905,8 @@
     "tooltipDescription": "The stronger your mind, the stronger your body. Increases attack damage by {0}% and movement speed by 6%."
   },
   "11000123|*-CharacterBalance_Striker_01-KR": {
-    "tooltipDescription": "Strike back with a vengeance!\\nIncreases attack damage by 4%\\nStacks up to {0} times"
+    "tooltipDescription": "Strike back with a vengeance!\\nIncreases attack damage by 4%\\nStacks up to {0} times",
+    "name": "Vengeance"
   },
   "11000161|*-CharacterBalance_Striker_01-KR": {
     "tooltipDescription": "Your strikes disrupt your enemy's stance! Increases accuracy by {0}. Successful attacks reduce target's evasion by 4.",
@@ -13951,69 +13981,88 @@
     "tooltipDescription": "Drain vitality from your enemies.\\nReduces defense by {0}%.\\nReduces movement speed by {1}%."
   },
   "11100141|*-CharacterBalance_SoulBinder_01-KR": {
-    "name": "Raging Tempest"
+    "name": "Raging Tempest",
+    "tooltipDescription": "Your energy flow is disrupted!\\nAccuracy and Evasion reduced by {0}."
   },
   "11100151|*-CharacterBalance_SoulBinder_01-KR": {
-    "name": "Stunned"
+    "name": "Stunned",
+    "tooltipDescription": "0"
   },
   "11100171|*-CharacterBalance_SoulBinder_01-KR": {
-    "name": "Fount of Renewal"
+    "name": "Fount of Renewal",
+    "tooltipDescription": "You receive life energy from nature!\\nRestore HP periodically.\\nPhysical and magic resistance increased by {0}.\\nYou cannot be knocked back when hit."
   },
   "90000685|*--JP": {
-    "name": "Merin's Hero"
+    "name": "Merin's Hero",
+    "tooltipDescription": "Experience gained from defeating monsters increased by 15%.\\nMesos gained from defeating monsters increased by 30%.\\nChance of catching a big fish increased by 7%."
   },
   "90000838|*-Event-JP": {
-    "tooltipDescription": "Gain 2 extra levels for every level you gain from Lv. 9 until Lv. 60."
+    "tooltipDescription": "Gain 2 extra levels for every level you gain from Lv. 9 until Lv. 60.",
+    "name": "Burning Effect"
   },
   "73000109|*-Kritias_Turka02-": {
-    "name": "Blue Core Energy"
+    "name": "Blue Core Energy",
+    "tooltipDescription": "Gain the blue core's power to increase defense by 4% per stack. (Maximum 5 stacks)"
   },
   "73000107|*-Kritias_Turka02-": {
-    "name": "Green Core Energy"
+    "name": "Green Core Energy",
+    "tooltipDescription": "Gain the green core's power to increase HP by 6% per stack. (Maximum 5 stacks)"
   },
   "73000105|*-Kritias_Turka02-": {
-    "name": "Red Core Energy"
+    "name": "Red Core Energy",
+    "tooltipDescription": "Gain the red core's power to increase attack by 2% per stack. (Maximum 5 stacks)"
   },
   "90000859|*--KR": {
-    "name": "Piping Hot Pizza"
+    "name": "Piping Hot Pizza",
+    "tooltipDescription": "Combat Power +650"
   },
   "90000874|*-WorldChampionMushroom-": {
     "name": "Sporeblock",
     "tooltipDescription": "Neutralizes Mushking's spores, and allows you to damage him."
   },
   "90000890|*-WorldChampionMushroom-": {
-    "tooltipDescription": "Increases physical and magic attack by 3%, max health by 5%, and movement speed by 5%."
+    "tooltipDescription": "Increases physical and magic attack by 3%, max health by 5%, and movement speed by 5%.",
+    "name": "Sweet 1st Anniversary Cake"
   },
   "90000873|*--CN": {
-    "tooltipDescription": "Increases accuracy by 5.\\nIncreases physical and magic damage by 3%.\\n<font color='#00aaef'>Not active in battlegrounds or arenas.</font>"
+    "tooltipDescription": "Increases accuracy by 5.\\nIncreases physical and magic damage by 3%.\\n<font color='#00aaef'>Not active in battlegrounds or arenas.</font>",
+    "name": "Fierce Beast"
   },
   "90001002|*-KREquipmentBalance_01-": {
-    "name": "Will to Fight"
+    "name": "Will to Fight",
+    "tooltipDescription": "HP increased; immune to stagger in PvP.\\nEquipment enchant effects adjusted in PvP.\\nStats adjusted to level 99.\\nHealing reduced."
   },
   "90000947|*--CN": {
-    "name": "Attribute Insignia 3"
+    "name": "Attribute Insignia 3",
+    "tooltipDescription": "Attack Speed +5%\\nPhysical and magic damage +5%\\n<font color='#00aaef'>Does not apply in battlegrounds or arenas.</font>"
   },
   "90001150|*-Event-JP": {
-    "name": "Rainbow Magnetic Lure"
+    "name": "Rainbow Magnetic Lure",
+    "tooltipDescription": "Fishing in $map:63000060$ gives you a chance to obtain $item:30001153$."
   },
   "90001150|*-Event-CN": {
-    "name": "Rainbow Magnetic Lure"
+    "name": "Rainbow Magnetic Lure",
+    "tooltipDescription": "Special magnetic bait usable only in $map:63000060$. Fishing in $map:63000060$ gives you a chance to obtain $item:30001385$."
   },
   "90000946|*--CN": {
-    "name": "Attribute Insignia 3"
+    "name": "Attribute Insignia 3",
+    "tooltipDescription": "Critical Damage +120\\nDefense Penetration +4%\\n<font color='#00aaef'>Does not apply in battlegrounds or arenas.</font>"
   },
   "90051248|*-KREquipmentBalance_01-KR": {
-    "name": "Incantation"
+    "name": "Incantation",
+    "tooltipDescription": "Combat Power +372"
   },
   "90001154|*-Event-JP": {
     "name": "Metal Strainer",
     "tooltipDescription": "Chance to fish various items, including outfits."
   },
   "90001204|*-Event-CN": {
-    "name": "Rainbow Magnetic Lure"
+    "name": "Rainbow Magnetic Lure",
+    "tooltipDescription": "Special magnetic bait usable only in $map:63000060$. Fishing in $map:63000060$ gives you a chance to obtain $item:30001513$."
   },
   "90001202|*-Event-CN": {
-    "tooltipDescription": "Restores 221 health every sec."
+    "tooltipDescription": "Restores 221 health every sec.",
+    "name": "Black Bean"
   },
   "90051620|*-KREquipmentBalance_01-": {
     "name": "Intense Blue Glow"
@@ -14023,21 +14072,24 @@
     "tooltipDescription": "Stunned and unable to act."
   },
   "92003022|*-ShadowExpedition-": {
-    "name": "Frozen"
+    "name": "Frozen",
+    "tooltipDescription": "Frozen and unable to act"
   },
   "92003026|*-ShadowExpedition-": {
     "name": "Stunned",
     "tooltipDescription": "Stunned and unable to act."
   },
   "92005024|*-ShadowExpedition-": {
-    "tooltipDescription": "Increases attack speed."
+    "tooltipDescription": "Increases attack speed.",
+    "name": "Swift Stance"
   },
   "92008005|*-ShadowExpedition-": {
     "tooltipDescription": "Stunned and unable to act.",
     "name": "Stunned"
   },
   "92007017|*-ShadowExpedition-": {
-    "name": "Lethargy"
+    "name": "Lethargy",
+    "tooltipDescription": "Attack and Movement Speed decreased"
   },
   "92010022|*-ShadowExpedition-": {
     "name": "Stunned",
@@ -14048,22 +14100,610 @@
     "tooltipDescription": "Stunned and unable to act."
   },
   "92008008|*-ShadowExpedition-": {
-    "name": "Ruthless"
+    "name": "Ruthless",
+    "tooltipDescription": "At 3 stacks, Star Burst has a 100% critical hit chance"
   },
   "92010033|*-ShadowExpedition-": {
     "tooltipDescription": "Stunned and unable to act.",
     "name": "Stunned"
   },
   "97000021|*--": {
-    "tooltipDescription": "Increases physical and magic attack by 10%."
+    "tooltipDescription": "Increases physical and magic attack by 10%.",
+    "name": "2nd Anniversary Blessing"
   },
   "92900997|*-ShadowExpedition-": {
-    "tooltipDescription": "Increases health."
+    "tooltipDescription": "Increases health.",
+    "name": "Superiority"
   },
   "92900996|*-ShadowExpedition-": {
-    "tooltipDescription": "Increases movement speed."
+    "tooltipDescription": "Increases movement speed.",
+    "name": "Quickness"
   },
   "110001100|*-CharacterAbility-": {
-    "name": "Increases attack speed by 3%."
+    "name": "Increases attack speed by 3%.",
+    "tooltipDescription": "Attack Speed increased by 3% from a trait effect."
+  },
+  "89000004|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Lapenshard: 36%"
+  },
+  "89000003|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 49%"
+  },
+  "89000002|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Lapenshard: 25.2%"
+  },
+  "89000005|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 2040\\n(Actual: 804)\\nNA Lv. 60 Epic"
+  },
+  "89000001|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 36.7%"
+  },
+  "89000010|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Options: 18%"
+  },
+  "89000009|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 4750\\nPet-CN Lv. 70 Legendary\\nEquipment-Legendary\\nActual Combat Power: 11227"
+  },
+  "89000007|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 4100\\nPet-KR Lv. 70 Legendary\\nEquipment-Legendary\\nActual Combat Power: 9691"
+  },
+  "89000006|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 2750\\nPet-KR Lv. 70 Epic\\nEquipment-Legendary\\nActual Combat Power: 6500"
+  },
+  "89000008|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 3150\\nPet-CN Lv. 70 Epic\\nEquipment-Legendary\\nActual Combat Power: 7445"
+  },
+  "89000012|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 4100\\n(Actual: 1615)\\nPet-KR Lv. 70 Legendary"
+  },
+  "90000747|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet: 34%"
+  },
+  "90000748|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 35%"
+  },
+  "89000011|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 1994\\n(Actual: 785)\\nNA Lv. 60 Epic"
+  },
+  "89000013|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 4750\\n(Actual: 1871)\\nPet-CN Lv. 70 Legendary"
+  },
+  "90000869|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Replaces Special Warrior and Wizard Potions"
+  },
+  "90000855|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 15.7%"
+  },
+  "90000870|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 42%"
+  },
+  "90000856|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 21.4%"
+  },
+  "90000858|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Lapenshard: 14.4%"
+  },
+  "90000872|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Options: 12%"
+  },
+  "90000909|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 1700\\n(Actual: 670)\\nLv. 50 Epic"
+  },
+  "90000920|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 70: \\nAttack 0%, Defense 0%"
+  },
+  "90000871|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 1994"
+  },
+  "90000908|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 1050\\n(Actual: 414)\\nLv. 50 Exceptional"
+  },
+  "90000922|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 72: \\nAttack 12.4%, Defense 12.4%"
+  },
+  "90000921|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 71: \\nAttack 6%, Defense 6%"
+  },
+  "90000923|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 73: \\nAttack 19.1%, Defense 19.1%"
+  },
+  "90000925|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 75: \\nAttack 33.8%, Defense 33.8%"
+  },
+  "90000924|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 74: \\nAttack 26.2%, Defense 26.2%"
+  },
+  "90000928|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 78: \\nAttack 59.4%, Defense 59.4%"
+  },
+  "90000926|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 76: \\nAttack 41.9%, Defense 41.9%"
+  },
+  "90000929|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 79: \\nAttack 68.9%, Defense 68.9%"
+  },
+  "90000927|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 77: \\nAttack 50.4%, Defense 50.4%"
+  },
+  "90000930|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Kritias Field Level 80: \\nAttack 79.1%, Defense 79.1%"
+  },
+  "90000937|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 3150\\n(Actual: 1241)\\nPet-CN Lv. 70 Epic"
+  },
+  "90000939|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Transcendence: 24.4%"
+  },
+  "90000938|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Lapenshard: 06.0%"
+  },
+  "90000936|*--": {
+    "name": "Dungeon Balance Test",
+    "tooltipDescription": "Pet Combat Power: 2750\\n(Actual: 1084)\\nKR Lv. 70 Epic"
+  },
+  "90051670|*-Level70Item-CN": {
+    "tooltipDescription": "Combat Power +830",
+    "name": "Ener Trigger"
+  },
+  "73000103|*-Kritias_Turka02-": {
+    "name": "Yellow Core Energy",
+    "tooltipDescription": "Gain the yellow core's power to increase critical hit chance."
+  },
+  "70002504|*-Develop-": {
+    "tooltipDescription": "Used to accumulate owned resources",
+    "name": "Accumulated Resources"
+  },
+  "90051670|*-KREquipmentBalance_01-KR": {
+    "tooltipDescription": "Combat Power +2,700",
+    "name": "Ener Trigger"
+  },
+  "70002511|*-Develop-": {
+    "name": "Total Resources",
+    "tooltipDescription": "Used to calculate total resources. Maximum 20."
+  },
+  "90051688|*-KREquipmentBalance_01-KR": {
+    "name": "Ancient Power",
+    "tooltipDescription": "Combat Power +2700"
+  },
+  "92001008|*-ShadowExpedition-": {
+    "name": "Hurricane",
+    "tooltipDescription": "Attack Speed and Critical Hit increased\\nTornado Slash damage increased\\nAt 5 stacks, Tornado activates."
+  },
+  "90051806|*-KREquipmentBalance_01-KR": {
+    "tooltipDescription": "Combat Power, Attack Speed, and Accuracy increased",
+    "name": "Power of Illusory Space-Time"
+  },
+  "92003019|*-ShadowExpedition-": {
+    "tooltipDescription": "Movement Speed decreased",
+    "name": "Cold Snap"
+  },
+  "10200112|*-CharacterBalance_01-KR": {
+    "name": "Deep Cuts",
+    "tooltipDescription": "A deep wound causes bleeding.\\nTake {0}% damage every second."
+  },
+  "70002512|*-Develop-": {
+    "name": "KORADDITIONALDESCRIPTION_70002512_1_NAME:[F]In Development",
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002512_1_TOOLTIPDESCRIPTION:[F]In Development"
+  },
+  "70002521|*-Develop-": {
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002521_1_TOOLTIPDESCRIPTION:[F]In Development",
+    "name": "KORADDITIONALDESCRIPTION_70002521_1_NAME:[F]In Development"
+  },
+  "70002522|*-Develop-": {
+    "name": "KORADDITIONALDESCRIPTION_70002522_1_NAME:[F]In Development",
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002522_1_TOOLTIPDESCRIPTION:[F]In Development"
+  },
+  "70002523|*-Develop-": {
+    "name": "KORADDITIONALDESCRIPTION_70002523_1_NAME:[F]In Development",
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002523_1_TOOLTIPDESCRIPTION:[F]In Development"
+  },
+  "70002532|*-Develop-": {
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002532_1_TOOLTIPDESCRIPTION:[F]In Development",
+    "name": "KORADDITIONALDESCRIPTION_70002532_1_NAME:[F]In Development"
+  },
+  "70002581|*-Develop-": {
+    "name": "KORADDITIONALDESCRIPTION_70002581_1_NAME:[F]In Development",
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002581_1_TOOLTIPDESCRIPTION:[F]In Development"
+  },
+  "70002601|*-Develop-": {
+    "name": "KORADDITIONALDESCRIPTION_70002601_1_NAME:[F]In Development",
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002601_1_TOOLTIPDESCRIPTION:[F]In Development"
+  },
+  "70002591|*-Develop-": {
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_70002591_1_TOOLTIPDESCRIPTION:[F]In Development",
+    "name": "KORADDITIONALDESCRIPTION_70002591_1_NAME:[F]In Development"
+  },
+  "90000837|*-Develop-": {
+    "name": "KORADDITIONALDESCRIPTION_90000837_1_NAME:[F]In Development",
+    "tooltipDescription": "KORADDITIONALDESCRIPTION_90000837_1_TOOLTIPDESCRIPTION:[F]In Development"
+  },
+  "10900062|*-CharacterBalance_01-KR": {
+    "name": "Burn",
+    "tooltipDescription": "Hot flames engulf your body!\\nTake {0}% fire damage every second."
+  },
+  "70002502|*-Develop-": {
+    "name": "Resources Held: 6",
+    "tooltipDescription": "Buff applied when you hold 5 resources. Used when opening a box."
+  },
+  "70002501|*-Develop-": {
+    "name": "Resources Held: 3",
+    "tooltipDescription": "Buff applied when you hold 3 resources. Used when opening a box."
+  },
+  "70002503|*-Develop-": {
+    "name": "Resources Held: 9",
+    "tooltipDescription": "Buff applied when you hold 7 resources. Used when opening a box."
+  },
+  "70002524|*-Develop-": {
+    "tooltipDescription": "Used to accumulate owned resources",
+    "name": "Accumulated Resources"
+  },
+  "70002551|*-Develop-": {
+    "name": "Remove Infiltration Group Buff",
+    "tooltipDescription": "Removes the infiltrated target's buff."
+  },
+  "70002541|*-Develop-": {
+    "name": "Infiltration Group Buff",
+    "tooltipDescription": "Grants a buff after infiltration."
+  },
+  "70002531|*-Develop-": {
+    "tooltipDescription": "Used to calculate total resources. Maximum 20.",
+    "name": "Total Resources"
+  },
+  "73000111|*-Kritias_Turka02-": {
+    "tooltipDescription": "Gain the yellow core's power to increase Critical Hit by 100.",
+    "name": "Yellow Core Energy"
+  },
+  "90051688|*-Level70Item-CN": {
+    "tooltipDescription": "Combat Power +830",
+    "name": "Ancient Power"
+  },
+  "90000838|*-Event-CN": {
+    "name": "Jumping Burning Effect",
+    "tooltipDescription": "From level 60 to 80, each level gained grants 2 bonus levels."
+  },
+  "90000888|*-WorldChampionMushroom-": {
+    "tooltipDescription": "The poison mushroom's power overwhelms you.",
+    "name": "Mushking's Poison Mushroom"
+  },
+  "90051653|*-KREquipmentBalance_01-KR": {
+    "name": "Combat Power +1,700 (not applied in battlegrounds)"
+  },
+  "90051654|*-KREquipmentBalance_01-KR": {
+    "name": "Combat Power +1,050 (not applied in battlegrounds)"
+  },
+  "90051653|*-Level70Item-CN": {
+    "name": "Combat Power +530 (not applied in battlegrounds)"
+  },
+  "90051654|*-Level70Item-CN": {
+    "name": "Combat Power +330 (not applied in battlegrounds)"
+  },
+  "90051806|*-Level70Item-CN": {
+    "name": "Power of Illusory Space-Time",
+    "tooltipDescription": "Combat Power, Attack Speed, and Accuracy increased"
+  },
+  "90001165|*-Event-CN": {
+    "tooltipDescription": "Max HP increased by 50%\\nRestores 100 SP",
+    "name": "Lonely Pepero"
+  },
+  "90051826|*-PvPRankingDuelMode02-": {
+    "name": "In battlegrounds and arenas: HP +48,000, Defense Penetration +15%, LUK +200, Critical Evasion +100"
+  },
+  "90051823|*-PvPRankingDuelMode02-": {
+    "name": "In battlegrounds and arenas: HP +48,000, Defense Penetration +15%, STR +200, Critical Evasion +100"
+  },
+  "90051824|*-PvPRankingDuelMode02-": {
+    "name": "In battlegrounds and arenas: HP +48,000, Defense Penetration +15%, DEX +200, Critical Evasion +100"
+  },
+  "90051825|*-PvPRankingDuelMode02-": {
+    "name": "In battlegrounds and arenas: HP +48,000, Defense Penetration +15%, INT +200, Critical Evasion +100"
+  },
+  "92000028|*-ShadowExpedition-": {
+    "name": "Assassination",
+    "tooltipDescription": "Critical Damage increased."
+  },
+  "90051827|*-PvPRankingDuelMode02-": {
+    "name": "In battlegrounds and arenas: HP +92,000, Attack Speed +15%, Accuracy +25, reduced incapacitation duration +50%"
+  },
+  "92000026|*-ShadowExpedition-": {
+    "tooltipDescription": "Defense Penetration increased.",
+    "name": "Sharpness"
+  },
+  "92001002|*-ShadowExpedition-": {
+    "name": "Wound Stab",
+    "tooltipDescription": "Attack Speed increased\\nMillion Sting damage increased\\nStacks up to 10 times"
+  },
+  "92001016|*-ShadowExpedition-": {
+    "tooltipDescription": "Attack Speed and Critical Hit increased\\nTornado Slash damage increased\\nAt 5 stacks, Tornado activates.",
+    "name": "Hurricane"
+  },
+  "92001035|*-ShadowExpedition-": {
+    "name": "Weakened",
+    "tooltipDescription": "Takes damage every second; Defense decreased\\nStacks up to 5 times"
+  },
+  "92002011|*-ShadowExpedition-": {
+    "name": "Fierce Assault",
+    "tooltipDescription": "Critical Hit increased\\nCritical Damage increased"
+  },
+  "92001038|*-ShadowExpedition-": {
+    "tooltipDescription": "Critical Damage increased\\nReleases a shockwave when using a skill",
+    "name": "Strong Will"
+  },
+  "92002016|*-ShadowExpedition-": {
+    "tooltipDescription": "Attack and Defense decreased",
+    "name": "Bloodbath"
+  },
+  "92002013|*-ShadowExpedition-": {
+    "name": "Excitement",
+    "tooltipDescription": "Berserker's Strike Attack Speed increased\\nBerserker's Strike damage increased\\nAll damage taken reduced\\nStacks up to 5 times"
+  },
+  "92002031|*-ShadowExpedition-": {
+    "name": "Blood Pact",
+    "tooltipDescription": "Max HP increased by 20%\\nAll damage taken reduced\\nRestores HP when hitting an enemy"
+  },
+  "92003005|*-ShadowExpedition-": {
+    "name": "Overload Charge",
+    "tooltipDescription": "Enters Overload state at {0} stacks"
+  },
+  "92002029|*-ShadowExpedition-": {
+    "name": "Blood Echo",
+    "tooltipDescription": "Restores HP every 0.25 seconds"
+  },
+  "92003010|*-ShadowExpedition-": {
+    "name": "Flame Collision",
+    "tooltipDescription": "At 3 stacks, deals fire damage to 8 targets within 3 m\\nStuns targets hit"
+  },
+  "92003007|*-ShadowExpedition-": {
+    "name": "Overload",
+    "tooltipDescription": "Movement Speed increased\\nLightning Whip cooldown removed\\nLightning Whip damage increased\\nImmune to knockback from enemy attacks"
+  },
+  "92003012|*-ShadowExpedition-": {
+    "tooltipDescription": "Movement Speed increased\\nAll damage taken reduced\\nDeals fire damage to 8 targets within 3 m every 0.2 seconds\\nRestores SP every 0.2 seconds",
+    "name": "Fireball"
+  },
+  "92004004|*-ShadowExpedition-": {
+    "name": "Amplified Faith",
+    "tooltipDescription": "Faith is amplified.\\Holy Cross skill damage increased\\nStacks up to 5 times"
+  },
+  "92004010|*-ShadowExpedition-": {
+    "name": "Light of Judgment",
+    "tooltipDescription": "Attack Speed increased; HP restored\\nShield of Archon damage increased\\nStacks up to 5 times"
+  },
+  "92004017|*-ShadowExpedition-": {
+    "name": "Holy Explosion",
+    "tooltipDescription": "Holy Explosion effect applied.\\nNo SP cost\\nAngel Ray casts instantly\\nAngel Ray Attack Speed increased"
+  },
+  "92004015|*-ShadowExpedition-": {
+    "tooltipDescription": "Purifying Wave grows stronger.\\nAttack Speed increased\\nStacks up to 10 times\\nAt 10 stacks, Holy Explosion activates.",
+    "name": "Surging Purification"
+  },
+  "92004023|*-ShadowExpedition-": {
+    "name": "Shield of Light",
+    "tooltipDescription": "Shield of Light effect applied.\\nAll damage taken reduced\\n50% chance to gain Sanctuary effect when hit"
+  },
+  "92004019|*-ShadowExpedition-": {
+    "tooltipDescription": "Holy Symbol enhanced.\\nAll attacks are critical hits.\\nCritical Damage increased.",
+    "name": "Enhanced Holy Symbol"
+  },
+  "92004029|*-ShadowExpedition-": {
+    "name": "Loss of Will",
+    "tooltipDescription": "All attack damage reduced\\nTakes damage periodically."
+  },
+  "92005004|*-ShadowExpedition-": {
+    "name": "Extreme Cold",
+    "tooltipDescription": "Afflicted with Extreme Cold.\\nPhysical Resistance and Magic Resistance decreased"
+  },
+  "92005002|*-ShadowExpedition-": {
+    "name": "Bleeding",
+    "tooltipDescription": "Defense decreased due to bleeding\\nTakes damage periodically."
+  },
+  "92005012|*-ShadowExpedition-": {
+    "tooltipDescription": "Takes periodic damage from ignition.",
+    "name": "Ignition"
+  },
+  "92005020|*-ShadowExpedition-": {
+    "name": "Target Adjustment",
+    "tooltipDescription": "Aims more precisely\\nRapid Shot skill damage increased\\nStacks up to 20 times"
+  },
+  "92005026|*-ShadowExpedition-": {
+    "name": "Cold Wave",
+    "tooltipDescription": "Attack Speed increased\\nStacks up to 5 times\\nAt 5 stacks, creates an Ice Orb"
+  },
+  "92005030|*-ShadowExpedition-": {
+    "name": "Evasive Maneuver  ",
+    "tooltipDescription": "Immune to knockback from enemy attacks\\nPhysical and magic damage taken reduced"
+  },
+  "92006014|*-ShadowExpedition-": {
+    "name": " Ready to Bombard   ",
+    "tooltipDescription": "SP recovery rate increased\\nCritical Damage increased\\nFires an artillery shell when certain skills are used."
+  },
+  "92006006|*-ShadowExpedition-": {
+    "name": "Jump Reload",
+    "tooltipDescription": "Critical Hit increased\\nAttack Speed increased."
+  },
+  "92006023|*-ShadowExpedition-": {
+    "name": "Bomb Jump",
+    "tooltipDescription": "Creates an explosion around you every 5 uses of Grenade."
+  },
+  "92006036|*-ShadowExpedition-": {
+    "name": "Magnetic Charge",
+    "tooltipDescription": "Defense increased\\nStacks up to 50 times"
+  },
+  "92006031|*-ShadowExpedition-": {
+    "name": "Deploy Smoke Screen",
+    "tooltipDescription": "Accuracy decreased by smoke"
+  },
+  "92007004|*-ShadowExpedition-": {
+    "name": "Wild Rush",
+    "tooltipDescription": "Mind Stealer cooldown removed"
+  },
+  "92007006|*-ShadowExpedition-": {
+    "name": "Deadly Poison Pouch",
+    "tooltipDescription": "At 5 stacks, Deadly Poison Pouch explodes"
+  },
+  "92007034|*-ShadowExpedition-": {
+    "name": "Superior Reflexes",
+    "tooltipDescription": "All damage taken reduced\\nEvasion increased\\nStacks up to 3 times"
+  },
+  "92007031|*-ShadowExpedition-": {
+    "tooltipDescription": "Evasion increased",
+    "name": "Ambush"
+  },
+  "92007032|*-ShadowExpedition-": {
+    "name": "Slow",
+    "tooltipDescription": "Movement Speed decreased"
+  },
+  "92008019|*-ShadowExpedition-": {
+    "name": "Separatist Charge",
+    "tooltipDescription": "At 5 stacks, Enhanced Grind Star activates"
+  },
+  "92008021|*-ShadowExpedition-": {
+    "name": "Separatist",
+    "tooltipDescription": "Grind Star consumes no SP\\nGrind Star damage increased"
+  },
+  "92008026|*-ShadowExpedition-": {
+    "name": "Agility",
+    "tooltipDescription": "All damage taken reduced\\nMovement Speed increased\\nEvasion increased"
+  },
+  "92009023|*-ShadowExpedition-": {
+    "name": "Rune Magic Amplification",
+    "tooltipDescription": "Rune Magic Amplification applied.\\nIllusion Blade skill damage increased\\nIllusion Blade skill critical hit chance: 100%"
+  },
+  "92009027|*-ShadowExpedition-": {
+    "name": "Overdrive",
+    "tooltipDescription": "SP regeneration decreased.\\nCombat Power and Critical Hit increased.\\nStacks up to 15 times"
+  },
+  "92009039|*-ShadowExpedition-": {
+    "name": "Sword Energy Charge",
+    "tooltipDescription": "Attack Speed increased\\nCombat Power increased\\nStacks up to 5 times"
+  },
+  "92009041|*-ShadowExpedition-": {
+    "name": "State of Nothingness",
+    "tooltipDescription": "Attack Speed and Combat Power increased\\nAll attacks are critical hits"
+  },
+  "92009050|*-ShadowExpedition-": {
+    "tooltipDescription": "Critical Damage increased\\nRestores SP when Ground Divide hits",
+    "name": "Consecutive Ground Divide"
+  },
+  "92009047|*-ShadowExpedition-": {
+    "name": "Rune Magic Regeneration",
+    "tooltipDescription": "Restores HP when hitting an enemy\\nPhysical and magic damage taken reduced"
+  },
+  "92010002|*-ShadowExpedition-": {
+    "name": "Dempsey Roll",
+    "tooltipDescription": "Evasion increased\\nMagnum Blow damage increased\\nImmune to knockback from enemy attacks"
+  },
+  "92010009|*-ShadowExpedition-": {
+    "tooltipDescription": "Guillotine damage increased",
+    "name": "Kick Combo I"
+  },
+  "92010007|*-ShadowExpedition-": {
+    "tooltipDescription": "Attack Speed increased\\nMovement Speed increased\\nCritical Hit increased\\nMagnum Blow damage increased\\nStacks up to 5 times",
+    "name": "Footwork"
+  },
+  "92010013|*-ShadowExpedition-": {
+    "name": "Kick Combo III",
+    "tooltipDescription": "Rising Kick damage increased"
+  },
+  "92010011|*-ShadowExpedition-": {
+    "tooltipDescription": "Dragon Kick damage increased",
+    "name": "Kick Combo II"
+  },
+  "92010020|*-ShadowExpedition-": {
+    "name": "Immovable",
+    "tooltipDescription": "Defense increased\\nCombat Power increased\\nStacks up to 10 times"
+  },
+  "92010021|*-ShadowExpedition-": {
+    "name": "Invincible Body",
+    "tooltipDescription": "All damage taken reduced\\nImmune to knockback from enemy attacks"
+  },
+  "92010016|*-ShadowExpedition-": {
+    "tooltipDescription": "Beatdown damage increased\\nStacks up to 10 times",
+    "name": "Flurry"
+  },
+  "92011004|*-ShadowExpedition2nd-": {
+    "tooltipDescription": "Attack Speed increased\\nRay Storm skill damage increased\\nStacks up to 10 times",
+    "name": "Animar Focus"
+  },
+  "92010029|*-ShadowExpedition-": {
+    "name": "Toughness Training",
+    "tooltipDescription": "Defense increased\\nStacks up to 5 times"
+  },
+  "92011006|*-ShadowExpedition2nd-": {
+    "tooltipDescription": "Consumes no SP\\nFires an additional energy orb when using Ray Storm",
+    "name": "Animar Burst"
+  },
+  "92011014|*-ShadowExpedition2nd-": {
+    "name": "Afterimage of Focus",
+    "tooltipDescription": "Attack Speed and Movement Speed increased."
+  },
+  "92011022|*-ShadowExpedition2nd-": {
+    "name": "Incarnation",
+    "tooltipDescription": "Consumes no SP\\nEnergy Stream skill damage increased\\nHitting with Flash Strike triggers Energy Stream effect"
+  },
+  "92011027|*-ShadowExpedition2nd-": {
+    "tooltipDescription": "Movement Speed increased; restores HP every second\\nStacks up to 20 times",
+    "name": "Endless Cycle"
+  },
+  "92011025|*-ShadowExpedition2nd-": {
+    "tooltipDescription": "Target's Movement Speed and Attack Speed decreased\\nTakes damage every second\\nStacks up to 5 times",
+    "name": "Exhaustion"
+  },
+  "92900002|*-ShadowExpedition-": {
+    "name": "Red Wolf's Power",
+    "tooltipDescription": "Critical Hit chance increased\\nCritical Damage increased"
+  },
+  "92900000|*-ShadowExpedition-": {
+    "name": "Expedition Power",
+    "tooltipDescription": "Immune to stagger from enemy attacks"
+  },
+  "92900001|*-ShadowExpedition-": {
+    "name": "Empress's Salvation",
+    "tooltipDescription": "Immune to all damage"
+  },
+  "92900003|*-ShadowExpedition-": {
+    "name": "Speed of Life",
+    "tooltipDescription": "Attack Speed increased\\nMovement Speed increased"
+  },
+  "92900998|*-ShadowExpedition-": {
+    "name": "Ferocity",
+    "tooltipDescription": "Attack increased."
   }
 }
