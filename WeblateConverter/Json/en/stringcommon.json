@@ -805,7 +805,7 @@
   },
   "s_skill_require_achieve--": {
     "value": "<font size='3'>\\n</font>Requires Trophy: {0}\\n   • <i>{1}</i>",
-    "comment": "{0}:[분류]트로피 제목 ex)[생활 트로피]Ⅶ.티끌모아태산, {1}:트로피 목표 ex)5,000메소 주워서 획득하기"
+    "comment": "{0}: [category] trophy title, e.g. [Life Trophy] VII. Every Little Bit Counts; {1}: trophy objective, e.g. collect 5,000 mesos"
   },
   "s_portal_invincible_effect_name--": {
     "value": "Pocket Realm Departure"
@@ -1142,7 +1142,7 @@
   },
   "s_construct_require_trophy--": {
     "value": "<FONT color='#FF0000'>{0}</FONT>",
-    "comment": "{0}:미달성 트로피 제목+내용"
+    "comment": "{0}: unearned trophy title and description"
   },
   "s_construct_usecount_and_hascount--": {
     "value": "In use / Owned"
@@ -1572,11 +1572,11 @@
   },
   "s_party_create_club-Club-": {
     "value": "Enter club name.\\n(Maximum {1} letters.)",
-    "comment": "{0}:한글 최대글자수 {1}:최대글자수"
+    "comment": "{0}: maximum Korean character count; {1}: maximum character count"
   },
   "s_party_change_name-Club-": {
     "value": "Enter a new club name. (Maximum {1} letters.)\\n\\n<FONT color='#FF5F5F' >Clubs can be renamed once every hour.</FONT>",
-    "comment": "{0}:한글 최대글자수 {1}:최대글자수"
+    "comment": "{0}: maximum Korean character count; {1}: maximum character count"
   },
   "s_party_dungeon_giveup--": {
     "value": "Abandoning the dungeon will fail the challenge for all party members.\\nProceed?"
@@ -2168,11 +2168,11 @@
   },
   "s_guild_ui_create--": {
     "value": "Enter a name for your new guild. You must pay a fee of <Img Src='export_common_icon_meso' vspace='-4'></Img><FONT color='#FFA200'>{0}</FONT> to create your guild.\\n\\nGuild names may be from {1} to {2} letters.",
-    "comment": "{0}:메소 {1}:최소글자수 {2}:최대글자수"
+    "comment": "{0}: mesos; {1}: minimum character count; {2}: maximum character count"
   },
   "s_guild_ui_change_name--": {
     "value": "Enter your new guild name. Only the guild leader can rename the guild.\\n\\n<FONT color='#FFA200'>Other players will need to log in again to see the new name.</FONT>\\n(Maximum {0} letters.)",
-    "comment": "{0}:최대글자수"
+    "comment": "{0}: maximum character count"
   },
   "s_guild_ui_change_notify--": {
     "value": "Please write a guild notice."
@@ -3613,7 +3613,7 @@
   },
   "s_char_err_next_delete_char_date--": {
     "value": "You cannot delete this character until {0}.",
-    "comment": "{0}: 2018-01-00 00:00:00 시간 포맷"
+    "comment": "{0}: date and time in 2018-01-00 00:00:00 format"
   },
   "s_char_err_founderspack-FoundersPackMode-": {
     "value": "You cannot create a character right now because you don't have a Founder's Pack."
@@ -3638,11 +3638,11 @@
   },
   "s_beauty_tooltip_price_with_requirelevel--": {
     "value": "{0}\\nRequires Level {1}+\\n{2}",
-    "comment": "{0}:아이템 이름, {1}:레벨 제한, {2}:가격"
+    "comment": "{0}: item name; {1}: level requirement; {2}: price"
   },
   "s_beauty_tooltip_price_with_achieve--": {
     "value": "{0}\\n<FONT color='#FF0000'>{1} </FONT>\\n{2}",
-    "comment": "{0}:아이템 이름, {1}:트로피제한, {2}:가격"
+    "comment": "{0}: item name; {1}: trophy requirement; {2}: price"
   },
   "s_beauty_tooltip_style--": {
     "value": "{0}\\n{1}\\n{2}"
@@ -3661,7 +3661,7 @@
   },
   "s_beauty_tooltip_color_with_achieve--": {
     "value": "{0}<font size='3'>\\n</font><FONT color='#FF0000'>{1}</FONT>",
-    "comment": "{0}:s_beauty_tooltip_color_desc, {1}:트로피제한"
+    "comment": "{0}: s_beauty_tooltip_color_desc; {1}: trophy requirement"
   },
   "s_beauty_msg_random--": {
     "value": "This was <FONT color='#FFD200'>randomly selected</FONT> from the list.\\nIt cannot be undone if the change is made.\\nDo you still want to change?"
@@ -3782,15 +3782,15 @@
   },
   "s_beauty_fmt_return_coupon--": {
     "value": "{0} {1} x{2}",
-    "comment": "{0}: 쿠폰 아이콘, {1}: 쿠폰 이름, {2}: 쿠폰 개수"
+    "comment": "{0}: coupon icon; {1}: coupon name; {2}: coupon quantity"
   },
   "s_beauty_fmt_style_select_cur_hair--": {
     "value": "<font color='#FFD200'>Old Hairstyle</font>\\n{0}",
-    "comment": "{0}: 헤어 이름 + 케어 쿠폰 지급 개수(s_beauty_fmt_return_coupon)"
+    "comment": "{0}: hair name + number of care coupons awarded (s_beauty_fmt_return_coupon)"
   },
   "s_beauty_fmt_style_select_new_hair--": {
     "value": "<font color='#FFD200'>New Hairstyle</font>\\n{0}",
-    "comment": "{0}: 헤어 이름"
+    "comment": "{0}: hair name"
   },
   "s_content_shutdown_notice--": {
     "value": "This function has been temporarily restricted."
@@ -4187,7 +4187,7 @@
   },
   "s_word_exp_value--": {
     "value": "{0}/{1} Experience",
-    "comment": "{0}: 획득 경험치 {1}:필요 경험치"
+    "comment": "{0}: experience gained; {1}: experience required"
   },
   "s_word_stat_hp--": {
     "value": "Health"
@@ -7372,7 +7372,7 @@
   },
   "s_achieve_title--": {
     "value": "{0}. {1}",
-    "comment": "{0}:트로피 획득 알림 {1}:트로피 종류"
+    "comment": "{0}: trophy acquisition notice; {1}: trophy type"
   },
   "s_achieve_adventure--": {
     "value": "Adventuring"
@@ -7436,15 +7436,15 @@
   },
   "s_achieve_renderer_count--": {
     "value": "{0} / {1}",
-    "comment": "{0} : 업적 카운트 현재 {1} : 업적 카운트 최대"
+    "comment": "{0}: current achievement count; {1}: maximum achievement count"
   },
   "s_achieve_renderer_count_time--": {
     "value": "{0} / {1}",
-    "comment": "{0} : 업적 카운트 현재 시간(분, 시간) {1} : 업적 카운트 최대 시간 (분, 시간)"
+    "comment": "{0}: current achievement time (minutes, hours); {1}: maximum achievement time (minutes, hours)"
   },
   "s_achieve_renderer_count_distance--": {
     "value": "{0} / {1}",
-    "comment": "{0} : 업적 카운트 현재 거리(m, km) {1} : 업적 카운트 최대 거리 (m, km)"
+    "comment": "{0}: current achievement distance (m, km); {1}: maximum achievement distance (m, km)"
   },
   "s_achieve_renderer_hour--": {
     "value": "{0} hr"
@@ -7496,27 +7496,27 @@
   },
   "s_achieve_collectiong_fish_collect--": {
     "value": "Fish 1 {0}",
-    "comment": "{0} : 물고기 이름"
+    "comment": "{0}: fish name"
   },
   "s_achieve_collectiong_pet_collect--": {
     "value": "Add 1 {0} to your Pet Album",
-    "comment": "{0} : 펫 이름"
+    "comment": "{0}: pet name"
   },
   "s_achieve_collectiong_dungeon_clear--": {
     "value": "Clear {1} ({0}) once",
-    "comment": "{0}: 던전 타입 {1}:던전 이름"
+    "comment": "{0}: dungeon type; {1}: dungeon name"
   },
   "s_achieve_category_reward_count--": {
     "value": " ({0})",
-    "comment": "{0} : 보상 획득 가능 카운트(ex. 모험({0}))"
+    "comment": "{0}: number of claimable rewards (e.g. Adventure ({0}))"
   },
   "s_achieve_progress_notify_integer--": {
     "value": " {0} [{1}%]",
-    "comment": "{0} : 트로피 이름 {1} : 진행상황 (1% 단위씩 나옴)"
+    "comment": "{0}: trophy name; {1}: progress (in 1% increments)"
   },
   "s_achieve_progress_notify_float--": {
     "value": " {0} [{1:0.1f}%]",
-    "comment": "{0} : 트로피 이름 {1} : 진행상황 (99퍼센트 이상일 경우 0.1% 단위씩 나옴)"
+    "comment": "{0}: trophy name; {1}: progress (in 0.1% increments above 99%)"
   },
   "s_maid_change_maid_name--": {
     "value": "Please name the assistant.\\n(You can enter up to 12 letters.)"
@@ -7925,7 +7925,7 @@
   },
   "s_ugc_itemedit_input_name--": {
     "value": "Enter item name ({0} - {1} characters)",
-    "comment": "{0}:최소글자수 {1}:최대글자수"
+    "comment": "{0}: minimum character count; {1}: maximum character count"
   },
   "s_ugc_itemedit_error_check_register_fee--": {
     "value": "Please check the registration fee again."
@@ -8025,15 +8025,15 @@
   },
   "s_shop_tooltip_notice_reset_by_account--": {
     "value": "\\n<font color='#FF5F5F'>This shop's stock is the same across all of your characters.</font>",
-    "comment": "s_shop_reset_time_xxx 아래에 추가로 표시되는 툴팁"
+    "comment": "Tooltip additionally shown below s_shop_reset_time_xxx"
   },
   "s_shop_tooltip_require_achieve--": {
     "value": "<FONT color='#FF0000'>{0}</FONT>",
-    "comment": "{0}:트로피 제한"
+    "comment": "{0}: trophy requirement"
   },
   "s_shop_remain_count--": {
     "value": "Stock: {0}",
-    "comment": "{0}: 상점 구매 가능 횟수"
+    "comment": "{0}: remaining shop purchases"
   },
   "s_shop_npc_talk_welcome--": {
     "value": "We sell only the finest goods. Take your time and have a look around!"
@@ -8178,7 +8178,7 @@
   },
   "s_quest_desc_with_count--": {
     "value": "{0} ({1}/{2})",
-    "comment": "{0}:탐험목표, {1}:수행횟수, {2}:필요수행횟수"
+    "comment": "{0}: exploration objective; {1}: current count; {2}: required count"
   },
   "s_quest_chapter--": {
     "value": "Chapter {0}"
@@ -9595,39 +9595,39 @@
   },
   "s_system_achieve_reward_shop_unlock--": {
     "value": "<FONT color='#'FFB400>Unlocked {0} for purchase.</FONT>",
-    "comment": "{0} : 트로피 제한이 걸려 있는 아이템 아이디"
+    "comment": "{0}: item ID with a trophy requirement"
   },
   "s_system_achieve_reward_dynamicaction--": {
     "value": "<FONT color='#'FFB400>Unlocked {0}</FONT>",
-    "comment": "{0} : 트로피 제한이 걸려 있는 다이나믹 액션"
+    "comment": "{0}: dynamic action with a trophy requirement"
   },
   "s_system_achieve_reward_beauty--": {
     "value": "<FONT color='#'FFB400>Unlocked {0}</FONT>",
-    "comment": "{0} : 트로피 제한이 걸려 있는 뷰티 아이템 아이디"
+    "comment": "{0}: beauty item ID with a trophy requirement"
   },
   "s_system_achieve_reward_coloring--": {
     "value": "<FONT color='#'FFB400>Unlocked {0} Dye</FONT>",
-    "comment": "{0} : 트로피 제한이 걸려있는 염색 팔레트"
+    "comment": "{0}: dye palette with a trophy requirement"
   },
   "s_system_achieve_reward_shop_auth_notify--": {
     "value": "{0} purchase rights unlocked.",
-    "comment": "{0} : 트로피 제한이 걸려 있는 아이템 아이디"
+    "comment": "{0}: item ID with a trophy requirement"
   },
   "s_system_achieve_reward_coloring_auth_notify--": {
     "value": "{0} dye unlocked.",
-    "comment": "{0} : 트로피 제한이 걸려있는 염색 팔레트"
+    "comment": "{0}: dye palette with a trophy requirement"
   },
   "s_system_achieve_reward_beauty_auth_notify--": {
     "value": "{0} purchase rights unlocked.",
-    "comment": "{0} : 트로피 제한이 걸려 있는 뷰티 아이템 아이디"
+    "comment": "{0}: beauty item ID with a trophy requirement"
   },
   "s_system_achieve_reward_dynamicaction_auth_notify--": {
     "value": "{0} emote unlocked.",
-    "comment": "{0} : 트로피 제한이 걸려 있는 다이나믹 액션"
+    "comment": "{0}: dynamic action with a trophy requirement"
   },
   "s_system_achieve_reward_auth_notify_manual--": {
     "value": "Obtained {0}.",
-    "comment": "{0} : 트로피 매뉴얼 리워드에 적힌 텍스트"
+    "comment": "{0}: text in the trophy manual reward"
   },
   "s_system_quest_condition--": {
     "value": "{0}"
@@ -10051,7 +10051,7 @@
   },
   "s_interact_result_mastery--": {
     "value": "Requires rank {1} {0}.",
-    "comment": "{0} 생활 기술 타입, {1} 생활기술 등급"
+    "comment": "{0}: life skill type; {1}: life skill rank"
   },
   "s_interact_find_new_telescope--": {
     "value": "You get a good look at the area."
@@ -10415,15 +10415,15 @@
   },
   "s_itembreak_preview_static--": {
     "value": "{0} x{1}",
-    "comment": "{0} : 아이템 이름, {1} : 나올 갯수"
+    "comment": "{0}: item name; {1}: quantity received"
   },
   "s_itembreak_preview_static_fail--": {
     "value": "Failed to get {0}",
-    "comment": "{0} : 아이템 이름"
+    "comment": "{0}: item name"
   },
   "s_itembreak_preview_random--": {
     "value": "{0} x{1} - {2}",
-    "comment": "{0} : 아이템 이름, {1} - {2}: 나올 갯수(min-max)"
+    "comment": "{0}: item name; {1}–{2}: quantity received (min–max)"
   },
   "s_recall_user_notify_recall--": {
     "value": "You summoned {0}."
@@ -10904,7 +10904,7 @@
   },
   "s_itemenchant_transform_valid_item--": {
     "value": "<FONT color='#FFD200'>Enchantment can be transferred (+{0} or higher)</FONT>",
-    "comment": "{0}:인챈트 단계"
+    "comment": "{0}: enchantment level"
   },
   "s_itemenchant_fail_stack_count-EnchantReformation01-": {
     "value": "<FONT color='#FFD200'>Enchantment Charge: {0}</FONT>"
@@ -11736,7 +11736,7 @@
   },
   "s_dungeonRoom_use_extra_count_item_week--": {
     "value": "Do you want to use <FONT color='#FFA200'>{0} x{1}</FONT> to increase the weekly reward collection limit for the dungeon \"{2}\" by <FONT color='#FFA200'>1</FONT>?",
-    "comment": "{0}:아이템 이름, {1}:개수(숫자), {2}:던전 이름"
+    "comment": "{0}: item name; {1}: quantity (number); {2}: dungeon name"
   },
   "s_dungeonRoom_use_extra_count_item_enter--": {
     "value": "Do you want to use <FONT color='#FFA200'>{0} x{1}</font> to increase the daily reward collection limit for the dungeon \"{2}\" by <FONT color='#FFA200'>1</FONT>, and enter the dungeon?"
@@ -11797,7 +11797,7 @@
   },
   "s_dungeonRoom_reward_round--": {
     "value": "Rounds Cleared: {0} / {1}",
-    "comment": "{0}:라운드 수, {1}:라운드 수"
+    "comment": "{0}: round number; {1}: round number"
   },
   "s_dungeonRoom_seasonRankBar_tooltip--": {
     "value": "<FONT color='#FFD200' size='15' >Rank Reward</FONT>\\n<FONT size='3'> </FONT>\\nThe weekly rank reward is distributed through the mail and resets weekly, on {0} at midnight.\\nFor the weekly rank reward, all rank rewards within the period can be earned.\\nAfter reaching a rank, rewards for all ranks below it are awarded.\\nEach rank reward can only be earned once."
@@ -11870,7 +11870,7 @@
   },
   "s_dungeonRoom_unionRewardInfo--": {
     "value": "- The dungeon reward limit for <FONT color='#00A2ED'>{0}</FONT> is shared by all characters on your account.",
-    "comment": "{0}:던전 이름"
+    "comment": "{0}: dungeon name"
   },
   "s_dungeonLobby_title--": {
     "value": "{1} ({0})"
@@ -12562,7 +12562,7 @@
   },
   "s_meratmarket_limited_date--": {
     "value": "{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}",
-    "comment": "{0}:년, {1}:월, {2}:일, {3}:시 {4}:분"
+    "comment": "{0}: year; {1}: month; {2}: day; {3}: hour; {4}: minute"
   },
   "s_meratmarket_limited_buylimit_noreset_account--": {
     "value": "Purchase Limit: {0} per Account"
@@ -12998,7 +12998,7 @@
   },
   "s_room_exit_name_17--": {
     "value": "Exit Legion Battle",
-    "desc": "mapType:17(군단전) 나갈때 메시지"
+    "desc": "mapType:17 (Legion Battle) exit message"
   },
   "s_room_exit_msg_design--": {
     "value": "Exit Decor Planner"
@@ -13038,7 +13038,7 @@
   },
   "s_room_exit_msg_17--": {
     "value": "Forfeiting and exiting the {0} legion battle.",
-    "desc": "mapType:17(군단전) 나갈때 메시지 {0}:맵이름"
+    "desc": "mapType:17 (Legion Battle) exit message; {0}: map name"
   },
   "s_itemlink_meratmarket--": {
     "value": "[Meret Market: {0}]"
@@ -13228,7 +13228,7 @@
   },
   "s_cashAttend_day_index--": {
     "value": "Day {0}",
-    "desc": "보상 일자"
+    "desc": "Reward date"
   },
   "s_fieldboss_reward_assistbonus_notify--": {
     "value": "You helped defeat {0}."
@@ -13271,15 +13271,15 @@
   },
   "s_user_trigger_label_install_object--": {
     "value": "{0} ({1})",
-    "comment": "{0}:건설 아이템 이름, {1}:hash code(숫자)"
+    "comment": "{0}: construction item name; {1}: hash code (number)"
   },
   "s_user_trigger_label_action--": {
     "value": "{0} (Action)",
-    "comment": "{0}:액션 이름"
+    "comment": "{0}: action name"
   },
   "s_user_trigger_label_condition--": {
     "value": "{0} (Condition)",
-    "comment": "{0}:조건 이름"
+    "comment": "{0}: condition name"
   },
   "s_user_trigger_ask_msg_clear_contents--": {
     "value": "<FONT color='#FF5F5F'>All triggers associated with this controller will be deleted.</FONT>\\nDo you want to delete the triggers?"
@@ -14546,7 +14546,7 @@
   },
   "s_tooltip_fmt_in_package_money--": {
     "value": "{0} ({1})",
-    "comment": "{0}:재화이름, {1}:수량"
+    "comment": "{0}: currency name; {1}: quantity"
   },
   "s_play_instrument_grade_Lv1--": {
     "value": "Beginner"
@@ -14910,7 +14910,7 @@
   },
   "s_pet_input_name--": {
     "value": "Please name your pet. (Maximum {1} letters.)",
-    "comment": "{0}:한글글자길이 {1}:글자길이"
+    "comment": "{0}: Korean character length; {1}: character length"
   },
   "s_pet_tamingnpc_default_perfix_name-PetBattle-": {
     "value": "Hungry"
@@ -16380,7 +16380,7 @@
   },
   "s_mastery_subtab_mastery_name_and_reward-Mastery-": {
     "value": "{0} ({1})",
-    "comment": "{0}:생활기술 이름, {1}:보상갯수"
+    "comment": "{0}: life skill name; {1}: reward count"
   },
   "s_mastery_grade_1-Mastery-": {
     "value": "Rank 1"
@@ -17356,7 +17356,7 @@
   },
   "s_alliance_quest_daily_mission--": {
     "value": "{0} Missions",
-    "comment": "{0} : 세력명"
+    "comment": "{0}: faction name"
   },
   "s_alliance_quest_reward_split--": {
     "value": "   "
@@ -18035,15 +18035,15 @@
   },
   "s_burning_levelup_event_set_character_popup--": {
     "value": "<FONT color='#FFD200' size='18' >[Burning Event]</FONT>\\n<FONT size='3'> </FONT>\\n<FONT color='#FF5F5F'>Burning characters are subject to the following effects: {0}?</FONT>\\n\\n• Gain 2 extra levels for every level you earn. \\n• Effects lasts from level 10 until 70. \\n• Only 1 burning character can be designated per account. \\n• The designated burning character cannot be changed unless the previous is deleted.\\n\\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>\\n",
-    "comment": "{0}:캐릭터 이름"
+    "comment": "{0}: character name"
   },
   "s_burning_levelup_event_set_character_popup--NA": {
     "value": "<FONT color='#FF5F5F'>Will you participate in the Winter Burning Event with {0}?</FONT>\\n\\n<FONT size='3'> </FONT>\\n<FONT color='#FFD200' size='18' >[Burning Event]</FONT>\\n• Gain 2 extra levels for every level you earn. \\n• Effects lasts from level 9 until 60. \\n• Only 1 burning character can be designated per account. \\n• Once designated, you cannot designate a new burning character unless you delete the character you originally designated first.\\n\\n• After leveling a designated burning character to 60, you can no longer designate another burning character, even if you delete the previous burning character.\\n• The Winter Burning Event runs from 11/13/2019 after maintenance to 12/11/2019 before maintenance.\\n\\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>\\n",
-    "comment": "{0}:캐릭터 이름"
+    "comment": "{0}: character name"
   },
   "s_burning_levelup_event_set_character_popup_bottom--": {
     "value": "\\nWould you like to designate <FONT color='#FFD200'>{0}</font> as your burning character?",
-    "comment": "{0}:캐릭터 이름"
+    "comment": "{0}: character name"
   },
   "s_buring_levelup_envent_desc_popup--": {
     "value": "<FONT color='#FFD200' size='18' >[Winter Burning Event]</FONT>\\n\\n• Gain 2 extra levels for every level you earn.\\n• This effect lasts from level 10 until 70. \\n• Only 1 burning character can be designated per account. \\n• Once designated, you cannot designate a new burning character unless you delete the original character.\\n\\nAfter leveling a designated burning character to 70, you can no longer designate another burning character, even if you delete the previous burning character.\\n• The Winter Burning Event runs from 12/13/2018 after maintenance to 2/14/2019 before maintenance.\\n\\n<FONT color='#FFD200' size='18' >[Final Reward]</FONT>\\n\\n"
@@ -18290,22 +18290,22 @@
   },
   "s_mouse_interact_talk-MouseInteract-": {
     "value": "{0} - <FONT color='#FFD200' size='16' >{1}</FONT>",
-    "comment": "{0}: 액션명 {1} : NPC 이름"
+    "comment": "{0}: action name; {1}: NPC name"
   },
   "s_mouse_interact_hold-MouseInteract-": {
     "value": "Hold - <FONT color='#FFD200' size='16' >{0}</FONT>",
-    "comment": "{0} : NPC 이름"
+    "comment": "{0}: NPC name"
   },
   "s_mouse_interact_talk_end-MouseInteract-": {
     "value": "End Conversation"
   },
   "s_mouse_interact_portal-MouseInteract-": {
     "value": "Move - <FONT color='#FFD200' size='16' >{0}</FONT>",
-    "comment": "{0} : MAP 이름"
+    "comment": "{0}: map name"
   },
   "s_mouse_interact_object-MouseInteract-": {
     "value": "Action - <FONT color='#FFD200' size='16' >{0}</FONT>",
-    "comment": "{0} : object 이름"
+    "comment": "{0}: object name"
   },
   "s_mouse_interact_taxi-MouseInteract-": {
     "value": "Action - <FONT color='#FFD200' size='16' >Call Taxi</FONT>"
@@ -18334,14 +18334,14 @@
   },
   "s_closet_msg_empty_items_when_click_save-Closet-": {
     "value": "Equip the items in the {0} tab of your Character window.",
-    "comment": "{0} : 탭이름"
+    "comment": "{0}: tab name"
   },
   "s_closet_msg_cant_use_when_battle_state-Closet-": {
     "value": "Cannot be used in combat."
   },
   "s_closet_tooltip_tab-Closet-": {
     "value": "{0}",
-    "commnet": "{0} : 탭이름"
+    "commnet": "{0}: tab name"
   },
   "s_closet_msg_success-Closet-": {
     "value": "You equipped a set from your wardrobe."
@@ -18360,7 +18360,7 @@
   },
   "s_fieldwar_sidepopup_script-Fieldwar01-": {
     "value": "Enemy forces incoming!\\n<FONT color='#ffd200'>{0}</FONT> needs reinforcements right away!",
-    "comment": "{0} : 필드맵"
+    "comment": "{0}: field map"
   },
   "s_arcade_game_preparing--": {
     "value": "Preparing"
@@ -19068,7 +19068,7 @@
     "value": "Number of people selected: {0} / {1}"
   },
   "s_unlimited_enchant_fee-UnlimitedEnchant-": {
-    "value": "비용 {0}<Img Src='export_common_icon_meso' vspace='-4'></Img>"
+    "value": "Cost {0}<Img Src='export_common_icon_meso' vspace='-4'></Img>"
   },
   "s_unlimited_enchant_err_invalid_item-UnlimitedEnchant-": {
     "value": "This item cannot used for limit break."
@@ -19092,7 +19092,7 @@
     "value": "<font color='#ffd200'>Limit Break {0}*\\n{1}</font>"
   },
   "s_msg_item_open_item_box_mergeLV60item-ItemMergeLV60-": {
-    "value": "Consumes <FONT color='#FFA200'>1개</FONT> item when used.\\nExchanged for 2 Transcendence Crystals that can be used on armor except for suit.\\n\\nWould you like to continue?\\nIf your inventory is full, the contents will be mailed."
+    "value": "Consumes <FONT color='#FFA200'>1 item</FONT> when used.\\nExchanges it for 2 Transcendence Crystals usable on armor except full-body outfits.\\n\\nUse this item?\\nIf your inventory is full, the contents will be sent by mail."
   },
   "s_err_lack_guild_event_fund--": {
     "value": "Insufficient guild funds."
