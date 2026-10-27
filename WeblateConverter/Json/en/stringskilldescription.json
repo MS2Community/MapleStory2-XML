@@ -5227,5 +5227,977 @@
   },
   "90220032|*-Wedding-": {
     "uiDescription": "Use the We Got Married! action with your spouse.\\n<font color='#7A7A7A'>The animation may vary depending on the other character's gender.</font>"
+  },
+  "10100021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Gather the surrounding light into your longsword, then unleash a powerful wave of light that deals damage and pushes the target back 2 m.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>Holy damage.\nGrants <font color='#f06d45'>Super Armor</font>."
+  },
+  "10100001|*-CharacterBalance_01-KR": {
+    "uiDescription": "A knightly sword technique that rapidly swings a longsword from side to side to deal damage.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage twice."
+  },
+  "10100011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform a powerful spinning slash to deal damage and pull targets toward you.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage 3 times."
+  },
+  "10100031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Thrust your longsword forward to create a whirlwind, moving forward and piercing all targets in your path to deal damage.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage."
+  },
+  "10100041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Let out a rallying shout that increases the Physical and Magic Attack of yourself and nearby allies.\n\n<font color='#ffd400'>[Details]</font>\nIncreases the Physical and Magic Attack of <font color='#00aaef'>{0} allies </font>by <font color='#00aaef'>{1}% </font>for 10 seconds."
+  },
+  "10100051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release holy energy from your shield to increase the Physical and Magic Resistance of yourself and nearby allies.\n\n<font color='#ffd400'>[Details]</font>\nIncreases the Physical and Magic Resistance of 10 allies by <font color='#00aaef'>{0}</font> for 10 seconds."
+  },
+  "10100062|*-CharacterBalance_01-KR": {
+    "uiDescription": "Enter a defensive combat stance unique to the knights.\n\n<font color='#ffd400'>[Details]</font>\nRecover 4 SP every 0.3 seconds.\nTake 10% less damage from enemies.\nPhysical and Magic Attack decrease by 25%.\nCast again to leave this stance."
+  },
+  "10100061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Enter a defensive combat stance unique to the knights.\n\n<font color='#ffd400'>[Details]</font>\nRecover 4 SP every 0.3 seconds.\nTake 10% less damage from enemies.\nPhysical and Magic Attack decrease by 25%.\nCast again to leave this stance."
+  },
+  "10100091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward with your shield, dealing damage and pushing targets back.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals 70% damage.\nGrants <font color='#f06d45'>Super Armor</font>."
+  },
+  "10100081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Slam your shield into the ground and release holy energy, creating a barrier that protects you and your allies.\n\n<font color='#ffd400'>[Details]</font>\nProtects <font color='#00aaef'>{0} allies </font>for 3 seconds.\nThe barrier protects them only while you maintain the stance.\nSome powerful attacks cannot be blocked."
+  },
+  "10100101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Rush to the nearest ally, slam your shield into the ground, and release holy energy to create a barrier that protects you and your allies.\n\n<font color='#ffd400'>[Details]</font>\nProtects <font color='#00aaef'>{0} allies </font>for 3 seconds.\nThe barrier protects them only while you maintain the stance.\nSome powerful attacks cannot be blocked."
+  },
+  "10100071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw your shield forward, dealing damage as it flies out and returns.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage.\n\n<font color='#ffd400'>[Additional Effect]</font>\nReduces the target's Defense by <font color='#00aaef'>{1}% </font>for 12 seconds."
+  },
+  "10100111|*-CharacterBalance_01-KR": {
+    "uiDescription": "Training from Knight Commander Allon improves your longsword technique, increasing Weapon Attack while a longsword is equipped.\n\n<font color='#ffd400'>[Details]</font>\nIncreases Weapon Attack by <font color='#00aaef'>{0}% </font>."
+  },
+  "10100121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Improve your shield mastery.\n\n<font color='#ffd400'>[Details]</font>\nWhile a shield is equipped, increases Critical Evasion by <font color='#00aaef'>{0}</font>.\nWhen using <font color='#f06d45'>Iron Shield</font>, increases the chance to completely block enemy attacks by <font color='#00aaef'>{1}% </font>.\n\n<font color='#ffd400'>[Additional Effect]</font>\nOn a successful complete block, has a <font color='#00aaef'>{2}% </font>chance to grant <font color='#f06d45'>Counterattack Opportunity</font>.\n<font color='#f06d45'>Counterattack Opportunity:</font> Increases all damage by <font color='#00aaef'>{3}% </font>for 18 seconds."
+  },
+  "10100131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Spin with your longsword to deal damage.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage 5 times.\nCan be used while moving.\n\n<font color='#ffd400'>[Additional Effect]</font>\nPulls targets toward you with each hit."
+  },
+  "10100141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use Knight Commander Allon's signature technique to deliver a lightning-fast series of thrusts.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage 3 times.\nRepeats while the key is held."
+  },
+  "10100151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Raise your shield to take a defensive stance. You cannot be pushed back by enemy attacks, and all damage taken is reduced.\n\n<font color='#ffd400'>[Details]</font>\nReduces all damage taken by <font color='#00aaef'>{0}% </font>.\nMaintain the stance while holding the key.\nSome powerful attacks cannot be blocked.\nDamage reduction is halved in PvP areas."
+  },
+  "10100161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your shield upward to launch the target and deal damage, while increasing your Physical and Magic Resistance.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deals <font color='#00aaef'>{0}% </font>damage.\nPhysical and Magic Resistance increase by 450 while casting.\n\n<font color='#ffd400'>[Additional Effect]</font>\nWhen attacked, grants <font color='#f06d45'>Counterattack Opportunity</font> for 18 seconds.\nIncreases <font color='#f06d45'>Counterattack Opportunity</font> damage by an additional <font color='#00aaef'>{1}% </font>."
+  },
+  "10200001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your greatsword to deal Dark damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage.\\nRepeated use of the skill continues the attack.\\nUse directional keys to attack while moving."
+  },
+  "10200011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Spin like a top with your greatsword to deal Dark damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage.\\nUse directional keys to attack while moving.<font color='#ff5f5f'></font>"
+  },
+  "10200031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Draw on the power of darkness.\\n\\n<font color='#ffd400'>[Details]</font>\\nRecover 10 SP per second.\\nOn hit, gain <font color='#f06d45'>Dark Aura</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Dark Aura</font>: Increases SP regeneration by 1 per stack. Triggers once per second and stacks up to 10 times."
+  },
+  "10200041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward and swing your greatsword upward to deal Dark damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage.\\nRepeated use continues the attack and reduces the SP cost to 11.\\nEach repeated hit deals <font color='#00aaef'>{1}%</font> damage twice.\\nGrants <font color='#f06d45'>Super Armor</font>.<font color='#ff5f5f'><font color='#ff5f5f'>"
+  },
+  "10200051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Infuse your greatsword with darkness to deal damage and drain life.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage twice.\\nThe first hit is guaranteed to be a critical hit.\\nThe second hit restores <font color='#00aaef'>{1}%</font> HP. This effect is halved in battlegrounds and arenas."
+  },
+  "10200061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release a powerful fighting spirit to sap the target's will to fight.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage and inflicts <font color='#f06d45'>Threat</font>.\\nWith 10 stacks of <font color='#f06d45'>Dark Aura</font>, can be used as <font color='#f06d45'>Enhanced Threat</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Threat</font>: Reduces Physical Attack, Magic Attack, movement speed, and jump power by <font color='#00aaef'>{1}%</font>. Does not affect some powerful enemies."
+  },
+  "10200062|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release a powerful fighting spirit infused with darkness to weaken the target.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage and inflicts <font color='#f06d45'>Threat</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Threat</font>: Reduces Attack by <font color='#00aaef'>{1}%</font> and stuns for <font color='#00aaef'>{2} seconds</font>. Does not affect some powerful enemies."
+  },
+  "10200071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Concentrate dark power in your greatsword, then slam it down to deal damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nRequires 10 stacks of <font color='#f06d45'>Dark Aura</font>.\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage, then <font color='#00aaef'>{1}%</font> damage 5 times within the area.\\nGrants <font color='#f06d45'>Super Armor</font>."
+  },
+  "10200081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Your hidden dark power grows stronger as you are driven into a corner.\\n\\n<font color='#ffd400'>[Details]</font>\\nAt 60% HP or less, gain <font color='#f06d45'>Adrenaline Stage 1</font>.\\nAt 45% HP or less, gain <font color='#f06d45'>Adrenaline Stage 2</font>.\\nAt 30% HP or less, gain <font color='#f06d45'>Adrenaline Stage 3</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Adrenaline Stage 1</font>: Increases SP regeneration by <font color='#00aaef'>{0}</font>.\\n<font color='#f06d45'>Adrenaline Stage 2</font>: Increases SP regeneration by <font color='#00aaef'>{1}</font>.\\n<font color='#f06d45'>Adrenaline Stage 3</font>: Increases SP regeneration by <font color='#00aaef'>{2}</font>."
+  },
+  "10200091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward while swinging your greatsword, attacking and evading at the same time.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>75%</font> damage twice.\\nGrants <font color='#f06d45'>Super Armor</font>.\n<font color='#ff5f5f'>"
+  },
+  "10200101|*-CharacterBalance_01-KR": {
+    "uiDescription": "In a moment of danger, unleash your fighting spirit to push your defenses to their limit.\\n\\n<font color='#ffd400'>[Details]</font>\\nAt 30% HP or less, gain <font color='#f06d45'>Endure</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Endure</font>: Increases Physical and Magic Resistance by <font color='#00aaef'>{0}</font>."
+  },
+  "10200111|*-CharacterBalance_01-KR": {
+    "uiDescription": "Critical weapon attacks cause bleeding and deal additional damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn a critical hit with a weapon, inflict <font color='#f06d45'>Bleeding</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Bleeding</font>: Deals <font color='#00aaef'>{0}%</font> damage every second for 10 seconds."
+  },
+  "10200121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Grandfather Ten's teachings improved your greatsword mastery.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile a greatsword is equipped, Weapon Attack increases by <font color='#00aaef'>{0}%</font>."
+  },
+  "10200151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Unleash your suppressed fighting instinct.\\n\\n<font color='#ffd400'>[Details]</font>\\nIncreases Physical Resistance by <font color='#00aaef'>{0}</font> and Defense Penetration by <font color='#00aaef'>{1}%</font>."
+  },
+  "10200161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Drive your greatsword into the ground to cause an earthquake.\\n\\n<font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>{1}%</font> damage 5 times within <font color='#00aaef'>{0} tiles</font> of the caster."
+  },
+  "10300001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Swing sharp magical claws created with magic power.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage twice."
+  },
+  "10300011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Gather fire energy from the surrounding area to create a huge flame tornado.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage 5 times and grants a <font color='#f06d45'>Pull</font> effect."
+  },
+  "10300021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Focus fire energy in your staff and release it in a wave.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage and applies <font color='#f06d45'>Flame Wave</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Flame Wave</font>: Deals <font color='#00aaef'>{1}%</font> damage every second."
+  },
+  "10300031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release powerful electricity to strike multiple targets at once.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage and applies <font color='#f06d45'>Chain Lightning</font>.\\nRepeated use of the skill continues the attack.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Chain Lightning</font>: At 5 stacks, deals <font color='#00aaef'>{1}%</font> damage."
+  },
+  "10200021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Slam your greatsword down to deal damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage.\\nDamage increases by 16% per stack of <font color='#f06d45'>Dark Aura</font>.\\nGrants <font color='#f06d45'>Super Armor</font>.\\n\\n<i><font color='#c8c8c8'>\"If you're going to do it, do it properly. Don't imitate me halfheartedly. Find your own way.\"\\n<p align=\"right\">- Ten</p></font></i><font color='#ff5f5f'>"
+  },
+  "10200131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Temporarily amplify Dark Aura to strengthen yourself.\\n\\n<font color='#ffd400'>[Details]</font>\\nRequires 10 stacks of <font color='#f06d45'>Dark Aura</font>.\\nUsing the skill grants <font color='#f06d45'>Ruler of Darkness</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Ruler of Darkness</font>: Increases Attack Speed, Physical Attack, and Magic Attack by <font color='#00aaef'>{0}%</font> for 12 seconds, and restores 1 SP on hit."
+  },
+  "10200141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Infuse your body with dark power, sacrificing health to increase your attack power.\\n\\n<font color='#ffd400'>[Details]</font>\\nUsing the skill grants <font color='#f06d45'>Blood Sacrifice</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blood Sacrifice</font>: Increases damage by <font color='#00aaef'>{0}%</font> and decreases HP by <font color='#00aaef'>1%</font>, but only while HP is above 25%."
+  },
+  "10300041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Concentrate magical energy to cause an explosion.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage."
+  },
+  "10300051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Create and throw a sharp ice spear from freezing air.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> area damage and applies <font color='#f06d45'>Chill</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Chill</font>: Reduces movement speed by 15%. At 6 stacks, applies <font color='#f06d45'>Freeze</font>.\\n<font color='#f06d45'>Freeze</font>: Prevents movement and actions. Does not affect some powerful enemies."
+  },
+  "10300061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Control magical power freely.\\n\\n<font color='#ffd400'>[Details]</font>\\nRecover 1 SP every 0.1 seconds."
+  },
+  "10300071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Gather electricity in your hand and throw it.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deals <font color='#00aaef'>{0}%</font> damage and applies <font color='#f06d45'>Chain</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Chain</font>: Bounces to nearby enemies, dealing the same damage."
+  },
+  "10300081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use magic to move your body forward.\\n\\n<font color='#ffd400'>[Details]</font>\\nGrants <font color='#f06d45'>Super Armor</font>.\n"
+  },
+  "10300091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Infuse the earth with magic to empower yourself and allies.\\n\\n<font color='#ffd400'>[Details]</font>\\nGrants nearby allies within 5 tiles of the caster <font color='#f06d45'>Focus Magic Circle</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Focus Magic Circle</font>: Increases Physical Attack and Magic Attack by <font color='#00aaef'>{0}%</font>, with an additional <font color='#00aaef'>{1}%</font> increase for the caster."
+  },
+  "10300101|*-CharacterBalance_01-KR": {
+    "uiDescription": "An advanced spell taught at Ellinel Magic Academy that improves control over the fire element.\\n\\n<font color='#ffd400'>[Details]</font>\\nIncreases Fire damage by <font color='#00aaef'>{0}%</font>."
+  },
+  "10300111|*-CharacterBalance_01-KR": {
+    "uiDescription": "An advanced spell taught at Ellinel Magic Academy that improves control over the ice element.\\n\\n<font color='#ffd400'>[Details]</font>\\nIncreases Ice damage by <font color='#00aaef'>{0}%</font>."
+  },
+  "10300121|*-CharacterBalance_01-KR": {
+    "uiDescription": "An advanced spell taught at Ellinel Magic Academy. Improves control over the lightning element.\\n\\n<font color='#ffd400'>[Details]</font>\\nLightning damage increases by <font color='#00aaef'>{0}%</font>."
+  },
+  "10300131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Surround yourself with magical energy for protection.\\n\\n<font color='#ffd400'>[Details]</font>\\nUsing the skill grants <font color='#f06d45'>Magic Armor</font>.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Magic Armor</font>: Absorbs damage equal to <font color='#00aaef'>{0}%</font> of the caster's Max HP."
+  },
+  "10300141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Launch an ice crystal that creates a massive chunk of ice.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach ice chunk deals <font color='#00aaef'>{0}%</font> damage on hit."
+  },
+  "10300151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Handle the three elements of fire, ice, and lightning in harmony.\\n\\n<font color='#ffd400'>[Details]</font>\\nFire, ice, and lightning damage increases by <font color='#00aaef'>{0}%</font>.\\n\\n<i><font color='#c8c8c8'>\"Ha, how arrogant. Good. Keep learning, again and again. Vast knowledge humbles everyone.\"\\n<p align=\"right\">- Headmaster Asimov</p></font></i>"
+  },
+  "10300161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire an orb of concentrated magical energy.\\n\\n<font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>{0}%</font> damage on hit.\\nConsecutive uses trigger consecutive attacks.\\nThe third consecutive attack deals <font color='#00aaef'>{1}%</font> damage and is guaranteed to critically hit."
+  },
+  "10400001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Call down holy light to damage a target.\n\n<font color='#ffd400'>[Details]</font>\nDeals <font color='#00aaef'>{0}%</font> damage on hit.\nApplies <font color='#f06d45'>Celestial Light</font>.\n\n<font color='#ffd400'>[Additional Effect]</font>\n<font color='#f06d45'>Celestial Light:</font> Deals <font color='#00aaef'>{1}%</font> holy damage every second for 8 seconds."
+  },
+  "10400021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Your improved mastery of scepters increases Weapon Attack while one is equipped.\n\n<font color='#ffd400'>[Details]</font>\nWeapon Attack increases by <font color='#00aaef'>{0}%</font>."
+  },
+  "10400031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Summon a cross radiating holy energy to deal damage.\n\n<font color='#ffd400'>[Details]</font>\nDeals <font color='#00aaef'>{0}% </font>holy damage to nearby targets.\n\n<font color='#ffd400'>[Additional Effect]</font>\nPushes targets hit back 1 m and reduces their EP to 0."
+  },
+  "10400041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Surround yourself with a shield of judgment, increasing Physical and Magic Resistance and dealing damage over time.\n\n<font color='#ffd400'>[Details]</font>\nPhysical and Magic Resistance increase by <font color='#00aaef'>{0}</font> for 5 seconds.\nDeals <font color='#00aaef'>{1}% </font>holy damage to nearby targets."
+  },
+  "10400051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Create a holy magic circle that purifies the minds of the caster and allies.\n\n<font color='#ffd400'>[Details]</font>\nRestores <font color='#00aaef'>{0}</font> SP every second.\nPhysical and Magic Damage, Attack Speed increase by <font color='#00aaef'>{1}%</font>, and Accuracy by <font color='#00aaef'>{2}</font> for 10 seconds.\nThe stat boost from mental purification cannot stack for 3 minutes."
+  },
+  "10400011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release holy energy to damage the target and push it back 0.5 m.\n\n<font color='#ffd400'>[Details]</font>\nWithin a radius of <font color='#00aaef'>{0}m </font>, targets take <font color='#00aaef'>{1}%</font> holy damage.\n\n<font color='#ffd400'>[Additional Effect]</font>\nTargets affected by <font color='#f06d45'>Celestial Light</font> take an additional <font color='#00aaef'>{2}%</font> holy damage nearby."
+  },
+  "10400061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Infuse the ground with holy energy to create a cross-shaped sanctuary.\n\n<font color='#ffd400'>[Details]</font>\nEnemies: Take <font color='#00aaef'>{1}% </font>damage over time for 10 seconds in a <font color='#00aaef'>{0}-tile </font>cross-shaped area.\nAllies: Recover <font color='#00aaef'>{2}% </font>of Magic Attack over time for 10 seconds."
+  },
+  "10400071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Heal allies, including the caster, through a prayer of healing.\n\n<font color='#ffd400'>[Details]</font>\nRestores <font color='#00aaef'>{0}% </font>of Magic Attack as HP."
+  },
+  "10400072|*-CharacterBalance_01-KR": {
+    "uiDescription": "Heal allies, including the caster, through a prayer of healing.\n\n<font color='#ffd400'>[Details]</font>\nRestores <font color='#00aaef'>{0}% </font>of Magic Attack as HP."
+  },
+  "10400081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Summon Angel, a divine messenger, through the power of holy prayer.\n\n<font color='#ffd400'>[Details]</font>\nSummoning Angel increases Magic Attack by <font color='#00aaef'>{0}% </font>for 30 seconds.\nThe Magic Attack boost only applies while a codex is equipped."
+  },
+  "10400091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Borrow Angel's power to bless allies.\n\n<font color='#ffd400'>[Details]</font>\nPhysical and Magic Resistance increase by <font color='#00aaef'>{0}</font>, and Physical and Magic Attack by <font color='#00aaef'>{1}% </font>for 10 seconds.\nRestores <font color='#00aaef'>{2}% </font>of Magic Attack as HP.\nCan only be used while Angel is summoned."
+  },
+  "10400101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Channel holy energy to damage the target.\n\n<font color='#ffd400'>[Details]</font>\nDeals <font color='#00aaef'>{0}% </font>holy damage on hit.\nActivates repeatedly while the key is held."
+  },
+  "10400111|*-CharacterBalance_01-KR": {
+    "uiDescription": "A blessing granted through deep faith increases SP recovery.\n\n<font color='#ffd400'>[Details]</font>\nRestores 8 SP every 0.5 seconds.\nRestores an additional 4 SP while <font color='#f06d45'>Celestial Light</font> is purifying a target."
+  },
+  "10400121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Generate holy energy to deal damage and increase all damage taken by the target.\n\n<font color='#ffd400'>[Details]</font>\nDeals <font color='#00aaef'>{0}% </font>damage on hit.\n\n<font color='#ffd400'>[Additional Effect]</font>\nAll damage taken by the target increases by <font color='#00aaef'>{1}% </font>."
+  },
+  "10400131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Holy energy permeates the body, increasing the duration of stat boosts from certain skills.\n\n<font color='#ffd400'>[Details]</font>\nStat boosts from <font color='#f06d45'>Celestial Guardian, </font><font color='#f06d45'>Celestial Blessings, </font><font color='#f06d45'>Holy Symbol</font> last <font color='#00aaef'>{0}% </font>longer."
+  },
+  "10400141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Diligent practice improves the HP and SP restoration of healing skills.\n\n<font color='#ffd400'>[Details]</font>\nHP/SP restored by healing skills increases by <font color='#00aaef'>{0}% </font>.\nDoes not apply to natural recovery."
+  },
+  "10400151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Spread wings of light bestowed by the divine and fly forward.\nAt the landing point, increase Movement Speed and heal the caster and one nearby ally.\n\n<font color='#ffd400'>[Details]</font>\nMovement Speed increases by 20% for 5 seconds.\nRestores HP equal to 90% of Magic Attack.\nGrants <font color='#f06d45'>Super Armor</font>."
+  },
+  "10400161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire an intense beam of light filled with holy power, damaging enemies and healing allies ahead.\n\n<font color='#ffd400'>[Details]</font>\nEnemies: Take <font color='#00aaef'>{0}% </font>holy damage on hit.\nAllies: Recover <font color='#00aaef'>{1}% </font>of Magic Attack as HP."
+  },
+  "10500051|1-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>260%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy with 10 stacks of <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>199%</font> cold damage, then the effect is removed."
+  },
+  "10500051|2-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>279%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>213%</font> cold damage, then the effect is removed."
+  },
+  "10500051|3-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>298%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>227%</font> cold damage, then the effect is removed."
+  },
+  "10500051|4-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>317%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>241%</font> cold damage, then the effect is removed."
+  },
+  "10500051|5-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>336%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>255%</font> cold damage, then the effect is removed."
+  },
+  "10500051|6-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>355%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>269%</font> cold damage, then the effect is removed."
+  },
+  "10500051|7-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>374%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>283%</font> cold damage, then the effect is removed."
+  },
+  "10500051|8-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>393%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>297%</font> cold damage, then the effect is removed."
+  },
+  "10500051|9-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>412%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>311%</font> cold damage, then the effect is removed."
+  },
+  "10500051|10-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>431%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>325%</font> cold damage, then the effect is removed."
+  },
+  "10500051|11-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>450%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>339%</font> cold damage, then the effect is removed."
+  },
+  "10500051|12-CharacterBalance_01-KR": {
+    "uiDescription": "Swing your bow to strike nearby enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>469%</font> damage on hit.\\nHitting an enemy affected by <font color='#f06d45'>Freeze</font> triggers <font color='#f06d45'>Breaking</font>.\\nStuns the target.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Breaking</font>: An enemy affected by <font color='#f06d45'>Freeze</font> takes an additional <font color='#00aaef'>353%</font> cold damage, then the effect is removed."
+  },
+  "10500001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Draw your bow quickly to attack the enemy repeatedly.\\n\\n<font color='#ffd400'>[Details]</font>\\nDeals {1} hits of <font color='#00aaef'>{0}%</font> damage on hit.\\nPress the key again for consecutive uses."
+  },
+  "10500011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire multiple arrows at once to suppress enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nPress the key again to use up to three times in succession.\\nDeals <font color='#00aaef'>{0}%</font> damage on hit. The third attack deals three hits of <font color='#00aaef'>{1}%</font> damage."
+  },
+  "10500011|*-CharacterBalance_03-JP": {
+    "uiDescription": "Fire multiple arrows at once to suppress enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nPress the key again to use up to three times in succession.\\nDeals <font color='#00aaef'>{0}%</font> damage on hit. The third attack deals three hits of <font color='#00aaef'>{1}%</font> damage."
+  },
+  "10500021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Rapidly fire flaming arrows at enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nDeals three hits of <font color='#00aaef'>{0}%</font> damage on hit.\\nPierces targets.\\nPress the key again for consecutive uses."
+  },
+  "10500031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire three ice arrows simultaneously at enemies ahead.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach arrow deals <font color='#00aaef'>{0}%</font> damage on hit and applies <font color='#f06d45'>Freeze</font>.\\nPierces targets.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Freeze</font>: Stacks up to 10 times, reducing Movement Speed by 4% per stack."
+  },
+  "10500041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Quickly leap backward and fire several arrows at enemies.\\n\\n <font color='#ffd400'>[Details]</font>\\nDeals three hits of <font color='#00aaef'>{0}%</font> damage on hit.\\nHas a 40% chance to critically hit regardless of the caster's Critical Rate.\\nCan cancel another skill.\\nGrants <font color='#f06d45'>Super Armor</font>."
+  },
+  "10500061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Create a magic circle that reveals nearby enemies and improves combat ability.\\n\\n <font color='#ffd400'>[Details]</font>\\nThe caster and affected allies gain <font color='#00aaef'>{0}</font> Critical Rate and <font color='#00aaef'>{1}</font> Accuracy for 180 seconds.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\nThe caster gains an additional <font color='#00aaef'>{2}</font> Critical Rate."
+  },
+  "10500071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Bronze Eagle, your training partner from the Green Hood vigilantes, appears to help in battle.\\n\\n<font color='#ffd400'>[Details]</font>\\nCritical hits against enemies increase DEX by <font color='#00aaef'>{0}%</font> for 15 seconds.\\nCannot trigger again for 3 seconds after the effect ends."
+  },
+  "10500081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Command Bronze Eagle to attack enemies at fierce speed.\\n\\n<font color='#ffd400'>[Details]</font>\\nCan be used while <font color='#f06d45'>Bronze Eagle</font> is active.\\nDeals <font color='#00aaef'>{0}%</font> damage on hit.\\nFor 6 seconds, affected enemies take an additional <font color='#00aaef'>{1}%</font> damage every second and have Movement Speed and Jump Height reduced by <font color='#00aaef'>{2}%</font>.\\nThe <font color='#f06d45'>Bronze Eagle</font> effect ends immediately on use."
+  },
+  "10500091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Draw on the eagle's spirit to improve combat ability temporarily.\\n\\n<font color='#ffd400'>[Details]</font>\\nRestores <font color='#00aaef'>{0}</font> SP every second for 30 seconds.\\nWhile active, hits periodically deal an additional <font color='#00aaef'>{1}%</font> damage."
+  },
+  "10500101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Attack enemies with a rain of arrows from the sky.\\n\\n<font color='#ffd400'>[Details]</font>\\nDeals 20 hits of <font color='#00aaef'>{0}%</font> damage within the area.\\nHold the key to attack forward.\\nGrants <font color='#f06d45'>Super Armor</font>."
+  },
+  "10500111|*-CharacterBalance_01-KR": {
+    "uiDescription": "Increase your concentration in battle to improve aim.\\n\\n<font color='#ffd400'>[Details]</font>\\nRestores 7 SP every 0.5 seconds.\\nRestores 1 additional SP if no enemies are within 4 m."
+  },
+  "10500121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Special training with the Green Hood vigilantes improves your physical abilities.\\n\\n<font color='#ffd400'>[Details]</font>\\nPermanently increases Physical Attack by <font color='#00aaef'>{0}%</font> and Movement Speed by <font color='#00aaef'>{1}%</font>."
+  },
+  "10500131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Training under Oskar improves your agility and the power of your arrows.\\n\\n<font color='#ffd400'>[Details]</font>\\nPermanently increases Defense Penetration by <font color='#00aaef'>{0}%</font> and Evasion by <font color='#00aaef'>{1}</font>."
+  },
+  "10500141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Add powerful spin to an arrow and sweep away enemies ahead.\\n\\n<font color='#ffd400'>[Details]</font>\\nHold the key to charge up to three stages.\\nCan only be used while <font color='#f06d45'>Snipe</font> is active.\\nGrants <font color='#f06d45'>Super Armor</font>.\\nPierces targets.\\nStage 1: Deals <font color='#00aaef'>{0}%</font> damage on hit.\\nStage 2: Deals <font color='#00aaef'>{1}%</font> damage on hit.\\nStage 3: Deals <font color='#00aaef'>{2}%</font> damage on hit."
+  },
+  "10500144|*-CharacterBalance_01-KR": {
+    "uiDescription": "An improved version of Screwdriver Shot overwhelms enemies with greater power and ease of use.\\n\\n<font color='#ffd400'>[Details]</font>\\nDeals <font color='#00aaef'>{0}%</font> damage on hit.\\nPierces targets."
+  },
+  "10500151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Move quickly forward with Bronze Eagle's help.\\n\\n<font color='#ffd400'>[Details]</font>\\nMove in the direction of the key input.\\nCan cancel another skill."
+  },
+  "10500161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Streamlined aiming lets you draw your bow faster and use Improved Screwdriver Shot.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Screwdriver Shot</font> permanently becomes <font color='#f06d45'>Improved Screwdriver Shot</font>.\\nAttack Speed increases by <font color='#00aaef'>{0}%</font>.\\n<font color='#f06d45'>Improved Screwdriver Shot</font> damage increases by an additional <font color='#00aaef'>{1}%</font>."
+  },
+  "10600001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Switch the cannon to rapid-fire mode and spray bullets indiscriminately ahead.\n\n<font color='#ffd400'>[Details]</font>\nEach bullet hit deals <font color='#00aaef'>{0}%</font> damage\nCan be used continuously"
+  },
+  "10600011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire a state-of-the-art rocket missile with tremendous destructive power, causing an explosion ahead. A burning area remains at the blast site for a time.\n\n<font color='#ffd400'>[Details]</font>\nMissile hit deals <font color='#00aaef'>{0}%</font> damage\nExplosion hit deals <font color='#00aaef'>{1}%</font> damage\nEach hit in the burning area deals <font color='#00aaef'>{2}%</font> damage\nBurning area lasts <font color='#00aaef'>{3} sec.</font>"
+  },
+  "10600021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Switch the cannon to snipe mode and target a single enemy. \n\n<font color='#ffd400'>[Details]</font>\nHit deals <font color='#00aaef'>{0}%</font> damage\nPierces the target 8 times"
+  },
+  "10600031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire a missile equipped with advanced guidance technology.\n\n<font color='#ffd400'>[Details]</font>\nHit deals <font color='#00aaef'>{0}%</font> damage\nMaximum simultaneous missiles: <font color='#00aaef'>{1}</font>"
+  },
+  "10600051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw two high-performance grenades forward.\n\n<font color='#ffd400'>[Details]</font>\nExplosion hit deals <font color='#00aaef'>{0}%</font> damage, with a <font color='#00aaef'>{1}%</font> chance to <font color='#f06d45'>Stun</font>\nBlast radius: <font color='#00aaef'>{2} m</font>\n\n<font color='#ffd400'>[Additional Effect]</font>\n<font color='#f06d45'>Stun</font>: Unable to act for 1.5 sec."
+  },
+  "10600061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fire a special bomb that concentrates a magnetic field and pulls nearby targets together.\n\n<font color='#ffd400'>[Details]</font>\nEach exposure to the magnetic field deals <font color='#00aaef'>{0}%</font> damage and causes <font color='#f06d45'>Reduced Movement Speed</font>\n\n<font color='#ffd400'>[Additional Effect]</font>\n<font color='#f06d45'>Reduced Movement Speed</font>: Movement Speed decreases by <font color='#00aaef'>{1}%</font>"
+  },
+  "10600071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Replace the cannon's magazine.\n\n<font color='#ffd400'>[Details]</font>\nRestore 50 SP twice\nRestore 20 EP"
+  },
+  "10600081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use the jet engine in your boots to release gas and create a shockwave, then fly rapidly forward.\n\n<font color='#ffd400'>[Details]</font>\nShockwave hit deals 124% damage"
+  },
+  "10600101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Run the cannon's rapid-fire mode at full output, focusing fire on targets ahead.\n\n<font color='#ffd400'>[Details]</font>\nEach bullet hit deals <font color='#00aaef'>{0}%</font> damage\nCan be used continuously"
+  },
+  "10600161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Attach a Blast Charge Kit to the cannon to adjust Electric Blast's output and efficiency for rapid fire.\n\n<font color='#ffd400'>[Details]</font>\nElectric Blast changes to a rapid-fire skill\nRapid-fire Electric Blast damage increases by <font color='#00aaef'>{0}%</font>"
+  },
+  "10600041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use the cannon's miniature particle accelerator to condense powerful electrical energy and fire it forward.\n\n<font color='#ffd400'>[Details]</font>\nStage 1: Hit deals <font color='#00aaef'>{0}%</font> damage\nStage 2: Hit deals <font color='#00aaef'>{1}%</font> damage twice\nStage 3: Hit deals <font color='#00aaef'>{2}%</font> damage three times\n<font color='#f06d45'>Super Armor</font> effect\n\n<font color='#aaaaaa'><i>\"E-E-E-Electric E-E-E-Electric Shock\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Miniature particle accelerator command</font></i></p>"
+  },
+  "10600044|*-CharacterBalance_01-KR": {
+    "uiDescription": "Run the cannon's miniature particle accelerator at full output, rapidly condensing powerful electrical energy and firing it forward.\n\n<font color='#ffd400'>[Details]</font>\nFirst hit deals <font color='#00aaef'>{0}%</font> damage; hits 2–4 deal <font color='#00aaef'>{1}%</font> damage\n\n<font color='#aaaaaa'><i>\"E-E-E-Electric E-E-E-Electric Shock\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Miniature particle accelerator command</font></i></p>"
+  },
+  "10600091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Place a first-aid kit filled with medicines carefully prepared by Aisha. It activates 1 second after placement.\n\n<font color='#ffd400'>[Details]</font>\nPicking it up restores <font color='#00aaef'>{0}</font> HP\n\n<font color='#aaaaaa'><i>\"A special first-aid kit made by Aisha using a recipe from Gordon Memji, master of healing potions!\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Aisha</font></i></p>"
+  },
+  "10600111|*-CharacterBalance_01-KR": {
+    "uiDescription": "Upgrade the cannon's bullets.\n\n<font color='#00aaef'>[Details]</font>\nBullet Shower, Gatling Fire, and Bull's Eye damage increases by <font color='#00aaef'>{0}%</font>\n\n<font color='#aaaaaa'><i>\"I'll provide high-performance bullets using the latest R&D Corporation technology. Naturally, I'll add the cost to what you owe me.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Radin</font></i></p>"
+  },
+  "10600121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Contact Aisha by radio to drop a specially made large bomb ahead, causing two explosions in succession.\n\n<font color='#ffd400'>[Details]</font>\nFirst explosion deals <font color='#00aaef'>{0}%</font> damage\nSecond explosion deals <font color='#00aaef'>{1}%</font> damage\n\n<font color='#aaaaaa'><i>\"After a magnificent explosion comes only silence, like a call with a former lover.\"</font></i>\n- From the 'Sentimental Weapons' section of Monthly Newtype Science<font color='#aaaaaa'><i><p align='right'></font></i></p>"
+  },
+  "10600131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Call in a small R&D Corporation satellite waiting overhead to bombard nearby targets with lasers.\n\n<font color='#ffd400'>[Details]</font>\nHit deals <font color='#00aaef'>{0}%</font> damage\nAir support lasts <font color='#00aaef'>{1} sec.</font>\nLearning Pulse Energy Upgrade grants <font color='#f06d45'>Laser Amplification</font>\n\n<font color='#ffd400'>[Additional Effect]</font>\n<font color='#f06d45'>Laser Amplification</font>: Releases an electrical current around a target hit by the laser, dealing <font color='#00aaef'>{2}%</font> electric damage to targets in the area"
+  },
+  "10600141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Upgrade the cannon's missiles.\n\n<font color='#ffd400'>[Details]</font>\nRocket Launcher, Homing Missile, and M-BOMB damage increases by <font color='#00aaef'>{0}%</font>\n\n<font color='#aaaaaa'><i>\"I'll also provide high-performance missiles using the latest R&D Corporation technology. You already know how you'll be charged, don't you?\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Radin</font></i></p>"
+  },
+  "10600151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Upgrade the cannon's magnetic engine.\n\n<font color='#ffd400'>[Details]</font>\nMagnetic Bomb and Electric Blast damage increases by <font color='#00aaef'>{0}%</font>\n\n<font color='#aaaaaa'><i>\"The cannon's laser output looks better, so I see you've managed to repair that useless scrap of a magnetic engine.\"</font></i>\n- Radin<font color='#aaaaaa'><i><p align='right'></font></i></p>"
+  },
+  "10700001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Quickly thrust the daggers in both hands in a crossing motion.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage twice, with a <font color='#00aaef'>{1}%</font> chance to gain <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Cunning</font>: Movement Speed increases by 30%; some skills are enhanced"
+  },
+  "10700001|*-CharacterBalance_04-KR": {
+    "uiDescription": "Quickly thrust the daggers in both hands in a crossing motion.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage twice, with a <font color='#00aaef'>{1}%</font> chance to gain <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Cunning</font>: Movement Speed increases by 30%; some skills are enhanced"
+  },
+  "10700001|*-JobChange_02-KR": {
+    "uiDescription": "Quickly thrust the daggers in both hands in a crossing motion.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage twice, with a <font color='#00aaef'>{1}%</font> chance to gain <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Cunning</font>: Movement Speed increases by 30%; some skills are enhanced"
+  },
+  "10700011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Coat the daggers in both hands with poison and swing them.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage\\nHold the key to attack continuously\\nThe fifth continuous attack deals <font color='#00aaef'>{1}%</font> damage; press a direction key to attack while moving\\nActivates an enhanced form while <font color='#f06d45'>Cunning</font>"
+  },
+  "10700016|*-CharacterBalance_01-KR": {
+    "uiDescription": "Coat the daggers in both hands with a special deadly poison and swing them.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage and applies <font color='#f06d45'>Poison Blow</font>\\nHold the key for continuous attacks; the fifth attack deals <font color='#00aaef'>{1}%</font> damage, and a direction key allows moving attacks\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Poison Blow</font>: Deals <font color='#00aaef'>{2}%</font> damage each second, stacking up to 5 times"
+  },
+  "10700021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Rapidly thrust the daggers in both hands in a crossing motion.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage 5 times\\nActivates an enhanced form while <font color='#f06d45'>Cunning</font>"
+  },
+  "10700022|*-CharacterBalance_01-KR": {
+    "uiDescription": "Rapidly thrust the daggers in both hands at the target's weak points.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage 5 times (left and right weapon attack power applies separately)\\nRemoves <font color='#f06d45'>Cunning</font>"
+  },
+  "10700031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%, {1}%, {2}%</font> damage\\nActivates an enhanced form while <font color='#f06d45'>Cunning</font>\\nThe enhanced form grants <font color='#f06d45'>Blade Dance</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>{3}%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>{4}%</font>"
+  },
+  "10700032|1-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>41%, 41%, 56%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>81%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>5%</font>\n"
+  },
+  "10700032|2-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>44%, 44%, 59%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>83%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>10%</font>\n"
+  },
+  "10700032|3-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>47%, 47%, 62%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>85%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>15%</font>\n"
+  },
+  "10700032|4-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>50%, 50%, 65%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>87%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>20%</font>\n"
+  },
+  "10700032|5-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>53%, 53%, 68%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>89%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>25%</font>\n"
+  },
+  "10700032|6-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>56%, 56%, 71%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>91%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>30%</font>\n"
+  },
+  "10700032|7-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>59%, 59%, 74%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>93%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>35%</font>\n"
+  },
+  "10700032|8-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>62%, 62%, 77%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>95%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>40%</font>\n"
+  },
+  "10700032|9-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>65%, 65%, 80%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>97%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>45%</font>\n"
+  },
+  "10700032|10-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>68%, 68%, 83%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>99%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>50%</font>\n"
+  },
+  "10700032|11-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>71%, 71%, 86%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>99%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>55%</font>\n"
+  },
+  "10700032|12-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>74%, 74%, 89%</font> damage and grants <font color='#f06d45'>Blade Dance</font>\\nRemoves <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Blade Dance</font>: Ignores enemy Accuracy; has a <font color='#00aaef'>99%</font> chance to evade enemy attacks; <font color='#f06d45'>Retaliation</font> increases the duration by <font color='#00aaef'>60%</font>"
+  },
+  "10700041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Move quickly to deal damage and absorb energy.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>40%</font> damage\\nAbsorb 10 SP from each enemy hit"
+  },
+  "10700042|*-CharacterBalance_01-KR": {
+    "uiDescription": "Move quickly to deal damage and absorb energy.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>40%</font> damage\\nAbsorb 10 SP from each enemy hit"
+  },
+  "10700051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform a somersault kick.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage and applies <font color='#f06d45'>Somersault Kick</font>\\nActivates an enhanced form while <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Somersault Kick</font>: Movement Speed decreases by <font color='#00aaef'>{1}%</font> and Jump Height by <font color='#00aaef'>{2}%</font>"
+  },
+  "10700052|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform a somersault kick.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage and stuns for 1 sec.\\nRemoves <font color='#f06d45'>Cunning</font>\\nGrants <font color='#f06d45'>Super Armor</font>"
+  },
+  "10700061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Steal anything from the target.\\n\\n<font color='#ffd400'>[Details]</font>\\nRestore 4 SP whenever an attack hits"
+  },
+  "10700071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Train your body to use certain skills more powerfully.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Vulcan Edge and Somersault Kick</font> damage increases by <font color='#00aaef'>{0}%</font>"
+  },
+  "10700081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Push your physical abilities to their limits and move as swiftly as the wind. \\n\\n<font color='#ffd400'>[Details]</font>\\nUsing the skill grants <font color='#f06d45'>Haste</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Haste</font>: Consume 4 SP every 0.5 sec.; Attack Speed and Movement Speed increase by <font color='#00aaef'>{0}%</font>, and Physical Attack increases by <font color='#00aaef'>{1}%</font>"
+  },
+  "10700091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Drive the daggers in both hands downward with force.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage\\nIf the target is poisoned by <font color='#f06d45'>Poison Blow</font>, <font color='#f06d45'>Deadly Poison Bottle</font>, or a similar effect, triggers <font color='#f06d45'>Poison Burst</font>\\nActivates an enhanced form while <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Poison Burst</font>: Deals <font color='#00aaef'>{1}%</font> damage per poison effect and removes the poison effects"
+  },
+  "10700092|*-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage\\nIf the target is poisoned by <font color='#f06d45'>Poison Blow</font>, <font color='#f06d45'>Deadly Poison Bottle</font>, or a similar effect, triggers <font color='#f06d45'>Poison Burst</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Poison Burst</font>: Deals <font color='#00aaef'>{1}%</font> damage per poison effect and removes the poison effects"
+  },
+  "10700093|*-CharacterBalance_01-KR": {
+    "uiDescription": "Spin rapidly with the daggers in both hands to attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage\\nIf the target is poisoned by <font color='#f06d45'>Poison Blow</font>, <font color='#f06d45'>Deadly Poison Bottle</font>, or a similar effect, triggers <font color='#f06d45'>Poison Burst</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Poison Burst</font>: Deals <font color='#00aaef'>{1}%</font> damage per poison effect and removes the poison effects"
+  },
+  "10700101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Quickly evade an enemy attack and seize the perfect moment to counterattack.\\n\\n<font color='#ffd400'>[Details]</font>\\nEvading an attack grants <font color='#f06d45'>Retaliation</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Retaliation</font>: Restore <font color='#00aaef'>{0}</font> SP; Physical Attack and Magic Attack increase by <font color='#00aaef'>{1}%</font>; Evasion increases by <font color='#00aaef'>{2}</font>; activates once per second"
+  },
+  "10700111|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw a bottle filled with deadly poison.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> area damage and applies <font color='#f06d45'>Deadly Poison Bottle</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Deadly Poison Bottle</font>: Deals <font color='#00aaef'>{1}%</font> damage each second"
+  },
+  "10700121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use <font color='#f06d45'>Mind Stealer</font> more skillfully.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Mind Stealer</font> damage increases by <font color='#00aaef'>{0}%</font>"
+  },
+  "10700131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Move swiftly backward and prepare your next move.\\n\\n<font color='#ffd400'>[Details]</font>\\nRestore <font color='#00aaef'>{0}</font> SP"
+  },
+  "10700141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Fight cunningly by any means necessary.\\n\\n<font color='#ffd400'>[Details]</font>\\nUsing the skill restores <font color='#00aaef'>{0}</font> SP and grants <font color='#f06d45'>Cunning</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Cunning</font>: Movement Speed increases by 30%; some skills are enhanced"
+  },
+  "10700151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Deal even more brutal blows to weakened enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nEnemies poisoned by <font color='#f06d45'>Poison Blow</font>, <font color='#f06d45'>Deadly Poison Bottle</font>, or a similar effect take <font color='#00aaef'>{0}%</font> additional damage"
+  },
+  "10700161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use mesos to block an attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nConsume 777 mesos to gain <font color='#f06d45'>Meso Guard Plus</font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Meso Guard Plus</font>: Lasts 4 sec.; reduces damage taken by <font color='#00aaef'>{0}%</font>; cannot be used without enough mesos; while <font color='#f06d45'>Cunning</font>, activates an enhanced form without consuming mesos"
+  },
+  "10800001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw the stars in each hand alternately. Damage from each star is affected separately by the Attack Power of the weapon in that hand.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\nBounces to another enemy up to twice on hit"
+  },
+  "10800011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw a star imbued with dark magic to strike enemies along its path. It returns after reaching its limit, damaging enemies on the way back. Damage is affected by the Attack Power of the weapon in your right hand.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10800021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw a scattering star forward. On impact, it releases fragment stars that damage nearby enemies. Damage is affected by the Attack Power of the weapon in your right hand.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10800031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw dark-magic stars from both hands in five directions, striking enemies ahead twice and detonating their Death Mark for extra damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nAttack twice; each hit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\nHitting an enemy with <font color='#f06d45'>Death Mark</font> deals <font color='#00aaef'>{1}%</font> extra damage and removes <font color='#f06d45'>Death Mark</font>"
+  },
+  "10800041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use dark magic to heighten your assassin's instincts and expose enemy weaknesses. All attacks are critical hits for a time.\\n\\n<font color='#ffd400'>[Details]</font>\\nAll attacks are critical hits\\nDuration: <font color='#00aaef'>{0} sec.</font>"
+  },
+  "10800051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Blend into the shadows to become hidden. While hidden, SP recovery and Movement Speed increase.\\n\\n<font color='#ffd400'>[Details]</font>\\nHidden for 12 sec.\\n\\nMovement Speed increases by <font color='#00aaef'>{0}%</font> while hidden\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\nSP recovery increases by 2 while hidden\\nAttacking while hidden stuns the target for 1.5 sec.\\nUsing a skill or item, or taking damage, immediately ends hiding"
+  },
+  "10800061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use dark magic to create a shadow clone while evading backward. The clone explodes shortly afterward, damaging nearby enemies and reducing their Movement Speed.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals <font color='#00aaef'>{0}%</font> damage\\nDeals <font color='#00aaef'>{1}%</font> extra damage at intervals for 4 sec.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\nTarget Movement Speed <font color='#00aaef'>{2}%</font> for 4 sec.\\nCan be used instantly"
+  },
+  "10800071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Leap quickly forward.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\nCan be used instantly"
+  },
+  "10800081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw dark magic to deal damage and leave the Assassin's Brand on the enemy.\\n\\n<font color='#ffd400'>[Details]</font>\\nHit deals 92% damage\\nHit applies <font color='#f06d45'>Assassin's Brand</font> for 30 sec.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Assassin's Brand</font>: Restores 1 SP to the caster every 0.1 sec."
+  },
+  "10800091|*-CharacterBalance_01-KR": {
+    "uiDescription": "When attacking an enemy with low HP, dark magic has a chance to place a Death Mark. Marked enemies take more damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nAttacks against enemies below 30% HP have a 25% chance to apply <font color='#f06d45'>Death Mark</font> for 6 sec.\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Death Mark</font>: All damage taken increases by <font color='#00aaef'>{0}%</font> while marked"
+  },
+  "10700162|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use mesos to block attacks and strengthen your weapon.\\n\\n<font color='#ffd400'>[Details]</font>\\nUsing the skill grants <font color='#f06d45'>Meso Guard Plus EX</font>\nRemoves <font color='#f06d45'>Cunning </font>\\n\\n<font color='#ffd400'>[Additional Effect]</font>\\n<font color='#f06d45'>Meso Guard Plus EX</font>: Lasts 12 sec.; Physical Attack increases by <font color='#00aaef'>{0}%</font> and damage taken decreases by <font color='#00aaef'>{1}%</font>"
+  },
+  "10800101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Equip three throwing stars in each hand and throw them repeatedly at the nearest enemy ahead, dealing damage six times. Damage from each throwing star is affected separately by the weapon attack of the equipped weapon in its hand.\\n\\n<font color='#ffd400'>[Details]</font>\\nSix hits, each dealing <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10800111|*-CharacterBalance_01-KR": {
+    "uiDescription": "One of Logus's basic training methods makes you more proficient with throwing stars. Weapon attack increases while throwing stars are equipped.\\n\\n<font color='#ffd400'>[Details]</font>\\nWeapon attack increases by <font color='#00aaef'>{0}%</font> when throwing stars are equipped"
+  },
+  "10800121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Equip four homing throwing stars in each hand and send them at the enemy, dealing damage eight times. Damage from each throwing star is affected separately by the weapon attack of the equipped weapon in its hand.\\n\\n<font color='#ffd400'>[Details]</font>\\nEight hits, each dealing <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10800141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Throw a large throwing star infused with dark magic forward. It spins rapidly at the point of impact, damaging enemies. Its damage is affected by the weapon attack of the weapon equipped in your right hand.\\n\\n<font color='#ffd400'>[Details]</font>\\nFive hits, each dealing <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10800151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Having mastered the assassin's secret arts, you can use dark magic more powerfully. \\n\\n<font color='#ffd400'>[Details]</font>\\nSkill damage of <font color='#f06d45'>Shadow Burst, Darkness Cutter, Soul Grind, Shadow Web, and Death Sentence</font> increases by <font color='#00aaef'>{0}%</font>"
+  },
+  "11000012|1-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>105%</font> damage once, <font color='#00aaef'>109%</font> additional damage"
+  },
+  "11000012|2-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>113%</font> damage once, <font color='#00aaef'>117%</font> damage once"
+  },
+  "11000012|3-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>121%</font> damage once, <font color='#00aaef'>125%</font> damage once"
+  },
+  "11000012|4-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>129%</font> damage once, <font color='#00aaef'>133%</font> damage once"
+  },
+  "11000012|5-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>137%</font> damage once, <font color='#00aaef'>141%</font> damage once"
+  },
+  "11000012|6-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>145%</font> damage once, <font color='#00aaef'>149%</font> damage once"
+  },
+  "11000012|7-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>153%</font> damage once, <font color='#00aaef'>157%</font> damage once"
+  },
+  "11000012|8-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>161%</font> damage once, <font color='#00aaef'>165%</font> damage once"
+  },
+  "11000012|9-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>169%</font> damage once, <font color='#00aaef'>173%</font> damage once"
+  },
+  "11000012|10-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>177%</font> damage once, <font color='#00aaef'>181%</font> damage once"
+  },
+  "11000012|11-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and strike enemies with a punch.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile using this skill, maintain <font color='#f06d45'>Stance Change</font>\\nYou can move with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>185%</font> damage once, <font color='#00aaef'>189%</font> damage once"
+  },
+  "10900001|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to imbue your blade with fire.\n\n<font color='#ffd400'>[Details]</font>\nFire damage increases by <font color='#00aaef'>{0}%</font>\nElemental conversion skills activate with fire"
+  },
+  "10900011|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to imbue your blade with ice.\n\n<font color='#ffd400'>[Details]</font>\nIce damage increases by <font color='#00aaef'>{0}%</font>\nElemental conversion skills activate with ice"
+  },
+  "10900021|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to imbue your blade with lightning.\n\n<font color='#ffd400'>[Details]</font>\nLightning damage increases by <font color='#00aaef'>{0}%</font>\nElemental conversion skills activate with lightning"
+  },
+  "10900041|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to absorb energy from nature into your body.\n\n<font color='#ffd400'>[Details]</font>\nRecover 1 SP every 0.1 seconds\nINT increases by 70% of STR"
+  },
+  "10900051|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to teleport in front of an enemy ahead.\n\n<font color='#ffd400'>[Details]</font>\n<font color='#f06d45'>Super Armor</font> effect"
+  },
+  "10900061|*-CharacterBalance_01-KR": {
+    "uiDescription": "Send three sharp sword waves forward.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nWhen a Drive skill is active, activate in the corresponding elemental form"
+  },
+  "10900065|*-CharacterBalance_01-KR": {
+    "uiDescription": "Send three sharp lightning sword waves forward.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nCan chain to up to four enemies within 7.5 m"
+  },
+  "10900081|*-CharacterBalance_01-KR": {
+    "uiDescription": "Create a rune magic circle that pulls targets in the area toward its center.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage "
+  },
+  "90000949|*-Wedding-": {
+    "uiDescription": "Blessed fireworks to celebrate the wedding. Use them freely during the afterparty."
+  },
+  "90000950|*-Wedding-": {
+    "uiDescription": "Pink petal fireworks to celebrate the wedding. Use them freely during the afterparty."
+  },
+  "90000951|*-Wedding-": {
+    "uiDescription": "Heart fireworks to celebrate the wedding. Use them freely during the afterparty."
+  },
+  "90000952|*-Wedding-": {
+    "uiDescription": "Sparkling fireworks to celebrate the wedding. Use them freely during the afterparty."
+  },
+  "90001166|*-Wedding-": {
+    "uiDescription": "Throw a rainbow snail to drive away evil spirits."
+  },
+  "90001179|*-Wedding-": {
+    "uiDescription": "Throw a rainbow snail to drive away evil spirits."
+  },
+  "90001181|*-Wedding-": {
+    "uiDescription": "Throw a rainbow snail to drive away evil spirits."
+  },
+  "99910501|*-Kritias_Turka01-": {
+    "uiDescription": "Throw a powerful punch with your right hand.\\nHold the forward movement key while using it to attack while moving.\\nReduces Archeon’s Overpower buff by 1."
+  },
+  "99910502|*-Kritias_Turka01-": {
+    "uiDescription": "Throw a powerful punch with your left hand.\\nHold the forward movement key while using it to attack while moving.\\nReduces Archeon’s Overpower buff by 1."
+  },
+  "99910503|*-Kritias_Turka01-": {
+    "uiDescription": "Fire a powerful energy beam forward.\\nReduces Archeon’s Overpower buff by 2 per hit."
+  },
+  "99910504|*-Kritias_Turka01-": {
+    "uiDescription": "Gather energy and charge forward.\\nReduces Archeon’s Overpower buff by 2 per hit."
+  },
+  "99910510|*-Kritias_Turka02-": {
+    "uiDescription": "Throw a powerful punch with your right hand.\\nHold the forward movement key while using it to attack while moving."
+  },
+  "99910511|*-Kritias_Turka02-": {
+    "uiDescription": "Throw a powerful punch with your left hand.\\nHold the forward movement key while using it to attack while moving."
+  },
+  "99910512|*-Kritias_Turka02-": {
+    "uiDescription": "Fire a powerful energy beam forward."
+  },
+  "99910513|*-Kritias_Turka02-": {
+    "uiDescription": "Gather energy and charge forward."
+  },
+  "99911501|*-Kritias_Turka01-": {
+    "uiDescription": "Throw a powerful punch with your right hand.\\nHold the forward movement key while using it to attack while moving."
+  },
+  "99911502|*-Kritias_Turka01-": {
+    "uiDescription": "Throw a powerful punch with your left hand.\\nHold the forward movement key while using it to attack while moving."
+  },
+  "99911503|*-Kritias_Turka01-": {
+    "uiDescription": "Fire a powerful energy beam forward."
+  },
+  "99911504|*-Kritias_Turka01-": {
+    "uiDescription": "Gather energy and charge forward."
+  },
+  "11000012|12-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Spin and punch enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nMaintain <font color='#f06d45'>Stance Change</font> while using this skill\\nMove with the directional keys during the second hit\\nOn hit, <font color='#00aaef'>193%</font> damage once, <font color='#00aaef'>197%</font> damage once"
+  },
+  "11000031|1-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>71%</font> damage 3 times"
+  },
+  "11000031|2-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>76%</font> damage 7 times"
+  },
+  "11000031|3-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>81%</font> damage 7 times\\n"
+  },
+  "11000031|4-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>86%</font> damage 7 times\\n"
+  },
+  "11000031|5-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>91%</font> damage 7 times\\n"
+  },
+  "11000031|6-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>96%</font> damage 7 times\\n"
+  },
+  "11000031|7-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>101%</font> damage 7 times\\n"
+  },
+  "11000031|8-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>106%</font> damage 7 times\\n"
+  },
+  "11000031|9-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>111%</font> damage 7 times\\n"
+  },
+  "11000031|10-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>116%</font> damage 7 times\\n"
+  },
+  "11000031|11-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>121%</font> damage 7 times\\n"
+  },
+  "11000031|12-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of low, high, and middle kicks.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Rising Kick EX</font> available\\nOn hit, <font color='#00aaef'>126%</font> damage 7 times"
+  },
+  "11000041|1-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with consecutive left and right kicks in midair.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>90%</font> damage twice, <font color='#00aaef'>123%</font> damage once"
+  },
+  "11000041|2-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>97%</font> damage twice, <font color='#00aaef'>132%</font> damage once"
+  },
+  "11000041|3-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>104%</font> damage twice, <font color='#00aaef'>141%</font> damage once"
+  },
+  "11000041|4-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>111%</font> damage twice, <font color='#00aaef'>150%</font> damage once"
+  },
+  "11000041|5-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>118%</font> damage twice, <font color='#00aaef'>159%</font> damage once"
+  },
+  "11000041|6-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>125%</font> damage twice, <font color='#00aaef'>168%</font> damage once"
+  },
+  "11000041|7-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>132%</font> damage twice, <font color='#00aaef'>177%</font> damage once"
+  },
+  "11000041|8-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>139%</font> damage twice, <font color='#00aaef'>186%</font> damage once"
+  },
+  "11000041|9-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>146%</font> damage twice, <font color='#00aaef'>195%</font> damage once"
+  },
+  "11000041|10-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>153%</font> damage twice, <font color='#00aaef'>204%</font> damage once"
+  },
+  "11000041|11-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>160%</font> damage twice, <font color='#00aaef'>213%</font> damage once"
+  },
+  "11000041|12-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Stance Change</font> active: <font color='#f06d45'>Guillotine EX</font> available\\nOn hit, <font color='#00aaef'>167%</font> damage twice, <font color='#00aaef'>222%</font> damage once"
+  },
+  "10900111|*-CharacterBalance_01-KR": {
+    "uiDescription": "Summon five rune swords with rune magic and send them at nearby enemies.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10900121|*-CharacterBalance_01-KR": {
+    "uiDescription": "Draw out your latent abilities with rune energy.\n\n<font color='#ffd400'>[Details]</font>\nWhile Flame Drive is active, Max HP increases by <font color='#00aaef'>{0}%</font> and fire damage by <font color='#00aaef'>{1}%</font>\nWhile Ice Drive is active, defense increases by <font color='#00aaef'>{2}%</font> and ice damage by <font color='#00aaef'>{3}%</font>\nWhile Thunder Drive is active, evasion increases by <font color='#00aaef'>{4}%</font>, movement speed by <font color='#00aaef'>{5}%</font>, and lightning damage by <font color='#00aaef'>{6}%</font>"
+  },
+  "10900131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Instantly amplify the rune energy within your body.\n\n<font color='#ffd400'>[Details]</font>\nFire, ice, and lightning damage increase by <font color='#00aaef'>{0}%</font>\nThe amplification lasts <font color='#00aaef'>{1} sec</font>"
+  },
+  "10900141|*-CharacterBalance_01-KR": {
+    "uiDescription": "Improve your mastery of the blade.\n\n<font color='#ffd400'>[Details]</font>\nWeapon attack increases by <font color='#00aaef'>{0}%</font> while a blade is equipped"
+  },
+  "10900151|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release the rune energy in your blade to create countless sword waves ahead.\n\n<font color='#ffd400'>[Details]</font>\nEach hit deals <font color='#00aaef'>{0}%</font> damage\nWhen a Drive skill is active, activate in the corresponding elemental form"
+  },
+  "10900153|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release the rune energy in your blade to create countless fiery sword waves ahead.\n\n<font color='#ffd400'>[Details]</font>\nEach hit deals <font color='#00aaef'>{0}%</font> damage"
+  },
+  "10900155|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release the rune energy in your blade to create countless icy sword waves ahead.\n\n<font color='#ffd400'>[Details]</font>\nEach hit deals <font color='#00aaef'>{0}%</font> damage and inflicts <font color='#f06d45'>Chill</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Chill </font>: Movement speed and jump power decrease by 30%"
+  },
+  "10900157|*-CharacterBalance_01-KR": {
+    "uiDescription": "Release the rune energy in your blade to create countless lightning sword waves ahead.\n\n<font color='#ffd400'>[Details]</font>\nEach hit deals <font color='#00aaef'>{0}%</font> damage and inflicts <font color='#f06d45'>Shock</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Shock </font>: On shock, deal <font color='#00aaef'>{1}%</font> lightning damage"
+  },
+  "10900161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Create a rune magic circle that releases rune energy in the surrounding area.\n\n<font color='#ffd400'>[Details]</font>\nAbsorbing rune power increases Critical Damage by <font color='#00aaef'>{0}%</font> (the caster gains an additional <font color='#00aaef'>{1}%</font>)"
+  },
+  "10800131|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use a secret technique taught by Shadow Claw to summon three shadow clones with dark magic and send them at enemies ahead. The shadows cling to enemies, inflicting Shadow Brand.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nInflict <font color='#f06d45'>Shadow Brand</font> for 6 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\n<font color='#f06d45'>Shadow Brand</font>: All damage taken increases by <font color='#00aaef'>{1}%</font>"
+  },
+  "10800161|*-CharacterBalance_01-KR": {
+    "uiDescription": "Leave a field of darkness on the ground. Enemies entering it receive a Blade Mark that reduces Accuracy and deals extra damage when they are hit.\\n\\n<font color='#ffd400'>[Details]</font>\\nDuration: 10 seconds\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nInflict <font color='#f06d45'>Blade Mark</font> for 10 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\n<font color='#f06d45'>Blade Mark</font>: Accuracy decreases by <font color='#00aaef'>{1}</font>; a hit has a chance to deal <font color='#00aaef'>{2}%</font> additional damage four times"
+  },
+  "10900062|*-CharacterBalance_01-KR": {
+    "uiDescription": "Send three sharp fiery sword waves forward.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage and inflict <font color='#f06d45'>Burn</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Burn </font>: Deal <font color='#00aaef'>{1}%</font> fire damage per second for 12 seconds"
+  },
+  "10900063|*-CharacterBalance_01-KR": {
+    "uiDescription": "Send three sharp icy sword waves forward.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage and trigger <font color='#f06d45'>Cold Release</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Cold Release </font>: On hit, deal <font color='#00aaef'>{1}%</font> ice damage and inflict <font color='#f06d45'>Chill</font>\n<font color='#f06d45'>Chill </font>: Movement speed and jump power decrease by 15%"
+  },
+  "10900101|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward and cleave the ground with your blade. Rune energy enters the split earth and explodes.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nLeave a <font color='#f06d45'>Rune Explosion</font> along your path\nWhen a Drive skill is active, activate in the corresponding elemental form\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Rune Explosion </font>: Deal <font color='#00aaef'>{1}%</font> damage to targets in the area"
+  },
+  "10900103|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward and cleave the ground with your blade. Fire rune energy enters the split earth and explodes.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nLeave <font color='#f06d45'>Fire Release</font> along your path\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Fire Release </font>: Each hit deals <font color='#00aaef'>{1}%</font> fire damage"
+  },
+  "10900105|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward and cleave the ground with your blade. Ice rune energy enters the split earth and explodes.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nCreate <font color='#f06d45'>Ice Pillars</font> along your path\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Ice Pillars </font>: On hit, deal <font color='#00aaef'>{1}%</font> ice damage"
+  },
+  "10900107|*-CharacterBalance_01-KR": {
+    "uiDescription": "Charge forward and cleave the ground with your blade. Lightning rune energy enters the split earth and explodes.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nLeave <font color='#f06d45'>Lightning Strike</font> along your path\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Lightning Strike </font>: On hit, deal <font color='#00aaef'>{1}%</font> lightning damage"
+  },
+  "11100021|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to create several star-infused energy orbs and send them forward. The orbs explode on impact, damaging nearby enemies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Fire 3 orbs\\nStage 2: Fire 4 orbs\\nStage 3: Fire 5 orbs\\nStage 4: Fire 6 orbs\\nStage 5: Fire 7 orbs"
+  },
+  "11100022|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to create several star-infused energy orbs and send them forward. The orbs explode on impact, damaging nearby enemies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Fire 3 orbs\\nStage 2: Fire 4 orbs\\nStage 3: Fire 5 orbs\\nStage 4: Fire 6 orbs\\nStage 5: Fire 7 orbs"
+  },
+  "11100023|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to create several star-infused energy orbs and send them forward. The orbs explode on impact, damaging nearby enemies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Fire 3 orbs\\nStage 2: Fire 4 orbs\\nStage 3: Fire 5 orbs\\nStage 4: Fire 6 orbs\\nStage 5: Fire 7 orbs"
+  },
+  "11100024|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to create several star-infused energy orbs and send them forward. The orbs explode on impact, damaging nearby enemies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Fire 3 orbs\\nStage 2: Fire 4 orbs\\nStage 3: Fire 5 orbs\\nStage 4: Fire 6 orbs\\nStage 5: Fire 7 orbs"
+  },
+  "11100025|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to create several star-infused energy orbs and send them forward. The orbs explode on impact, damaging nearby enemies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Fire 3 orbs\\nStage 2: Fire 4 orbs\\nStage 3: Fire 5 orbs\\nStage 4: Fire 6 orbs\\nStage 5: Fire 7 orbs"
+  },
+  "11100071|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release Animar energy around you to create a shield that absorbs damage for nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nCreate a shield equal to <font color='#00aaef'>{0}%</font> of Max HP for 4 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Applies to 1 ally\\nStage 2: Applies to 2 allies\\nStage 3: Applies to 3 allies\\nStage 4: Applies to 4 allies\\nStage 5: Applies to 6 allies"
+  },
+  "11100072|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release Animar energy around you to create a shield that absorbs damage for nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nCreate a shield equal to <font color='#00aaef'>{0}%</font> of Max HP for 4 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Applies to 1 ally\\nStage 2: Applies to 2 allies\\nStage 3: Applies to 3 allies\\nStage 4: Applies to 4 allies\\nStage 5: Applies to 6 allies"
+  },
+  "11100073|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release Animar energy around you to create a shield that absorbs damage for nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nCreate a shield equal to <font color='#00aaef'>{0}%</font> of Max HP for 4 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Applies to 1 ally\\nStage 2: Applies to 2 allies\\nStage 3: Applies to 3 allies\\nStage 4: Applies to 4 allies\\nStage 5: Applies to 6 allies"
+  },
+  "11100074|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release Animar energy around you to create a shield that absorbs damage for nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nCreate a shield equal to <font color='#00aaef'>{0}%</font> of Max HP for 4 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Applies to 1 ally\\nStage 2: Applies to 2 allies\\nStage 3: Applies to 3 allies\\nStage 4: Applies to 4 allies\\nStage 5: Applies to 6 allies"
+  },
+  "11100075|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release Animar energy around you to create a shield that absorbs damage for nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nCreate a shield equal to <font color='#00aaef'>{0}%</font> of Max HP for 4 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Applies to 1 ally\\nStage 2: Applies to 2 allies\\nStage 3: Applies to 3 allies\\nStage 4: Applies to 4 allies\\nStage 5: Applies to 6 allies"
+  },
+  "11100081|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Condense Narvashan energy into a powerful electric orb and send it forward to damage enemies in its path. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, periodically deal 20% lightning damage for 3 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: On hit, deal <font color='#00aaef'>{0}%</font> damage\\nStage 2: On hit, deal <font color='#00aaef'>{1}%</font> damage\\nStage 3: On hit, deal <font color='#00aaef'>{2}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{3}%</font> additional lightning damage and stun for 1 second\\nStage 4: On hit, deal <font color='#00aaef'>{4}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{5}%</font> additional lightning damage and stun for 1 second\\nStage 5: On hit, deal <font color='#00aaef'>{6}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{7}%</font> additional lightning damage and stun for 1 second"
+  },
+  "11100082|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Condense Narvashan energy into a powerful electric orb and send it forward to damage enemies in its path. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, periodically deal 20% lightning damage for 3 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: On hit, deal <font color='#00aaef'>{0}%</font> damage\\nStage 2: On hit, deal <font color='#00aaef'>{1}%</font> damage\\nStage 3: On hit, deal <font color='#00aaef'>{2}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{3}%</font> additional lightning damage and stun for 1 second\\nStage 4: On hit, deal <font color='#00aaef'>{4}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{5}%</font> additional lightning damage and stun for 1 second\\nStage 5: On hit, deal <font color='#00aaef'>{6}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{7}%</font> additional lightning damage and stun for 1 second"
+  },
+  "11100083|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Condense Narvashan energy into a powerful electric orb and send it forward to damage enemies in its path. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, periodically deal 20% lightning damage for 3 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: On hit, deal <font color='#00aaef'>{0}%</font> damage\\nStage 2: On hit, deal <font color='#00aaef'>{1}%</font> damage\\nStage 3: On hit, deal <font color='#00aaef'>{2}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{3}%</font> additional lightning damage and stun for 1 second\\nStage 4: On hit, deal <font color='#00aaef'>{4}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{5}%</font> additional lightning damage and stun for 1 second\\nStage 5: On hit, deal <font color='#00aaef'>{6}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{7}%</font> additional lightning damage and stun for 1 second"
+  },
+  "11100084|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Condense Narvashan energy into a powerful electric orb and send it forward to damage enemies in its path. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, periodically deal 20% lightning damage for 3 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: On hit, deal <font color='#00aaef'>{0}%</font> damage\\nStage 2: On hit, deal <font color='#00aaef'>{1}%</font> damage\\nStage 3: On hit, deal <font color='#00aaef'>{2}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{3}%</font> additional lightning damage and stun for 1 second\\nStage 4: On hit, deal <font color='#00aaef'>{4}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{5}%</font> additional lightning damage and stun for 1 second\\nStage 5: On hit, deal <font color='#00aaef'>{6}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{7}%</font> additional lightning damage and stun for 1 second"
+  },
+  "11100085|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Condense Narvashan energy into a powerful electric orb and send it forward to damage enemies in its path. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, periodically deal 20% lightning damage for 3 seconds\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: On hit, deal <font color='#00aaef'>{0}%</font> damage\\nStage 2: On hit, deal <font color='#00aaef'>{1}%</font> damage\\nStage 3: On hit, deal <font color='#00aaef'>{2}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{3}%</font> additional lightning damage and stun for 1 second\\nStage 4: On hit, deal <font color='#00aaef'>{4}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{5}%</font> additional lightning damage and stun for 1 second\\nStage 5: On hit, deal <font color='#00aaef'>{6}%</font> damage; explode on disappearance to deal <font color='#00aaef'>{7}%</font> additional lightning damage and stun for 1 second"
+  },
+  "11100101|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Draw life energy from nature and spread it to restore the HP of nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nStage 1: Heal 4 allies for <font color='#00aaef'>{0}%</font> of attack\\nStage 2: Heal 5 allies for <font color='#00aaef'>{1}%</font> of attack\\nStage 3: Heal 6 allies for <font color='#00aaef'>{2}%</font> of attack\\nStage 4: Heal 8 allies for <font color='#00aaef'>{3}%</font> of attack\\nStage 5: Heal 10 allies for <font color='#00aaef'>{4}%</font> of attack"
+  },
+  "11100102|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Draw life energy from nature and spread it to restore the HP of nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nStage 1: Heal 4 allies for <font color='#00aaef'>{0}%</font> of attack\\nStage 2: Heal 5 allies for <font color='#00aaef'>{1}%</font> of attack\\nStage 3: Heal 6 allies for <font color='#00aaef'>{2}%</font> of attack\\nStage 4: Heal 8 allies for <font color='#00aaef'>{3}%</font> of attack\\nStage 5: Heal 10 allies for <font color='#00aaef'>{4}%</font> of attack"
+  },
+  "11100103|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Draw life energy from nature and spread it to restore the HP of nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nStage 1: Heal 4 allies for <font color='#00aaef'>{0}%</font> of attack\\nStage 2: Heal 5 allies for <font color='#00aaef'>{1}%</font> of attack\\nStage 3: Heal 6 allies for <font color='#00aaef'>{2}%</font> of attack\\nStage 4: Heal 8 allies for <font color='#00aaef'>{3}%</font> of attack\\nStage 5: Heal 10 allies for <font color='#00aaef'>{4}%</font> of attack"
+  },
+  "11100104|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Draw life energy from nature and spread it to restore the HP of nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nStage 1: Heal 4 allies for <font color='#00aaef'>{0}%</font> of attack\\nStage 2: Heal 5 allies for <font color='#00aaef'>{1}%</font> of attack\\nStage 3: Heal 6 allies for <font color='#00aaef'>{2}%</font> of attack\\nStage 4: Heal 8 allies for <font color='#00aaef'>{3}%</font> of attack\\nStage 5: Heal 10 allies for <font color='#00aaef'>{4}%</font> of attack"
+  },
+  "11100105|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Draw life energy from nature and spread it to restore the HP of nearby allies. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nStage 1: Heal 4 allies for <font color='#00aaef'>{0}%</font> of attack\\nStage 2: Heal 5 allies for <font color='#00aaef'>{1}%</font> of attack\\nStage 3: Heal 6 allies for <font color='#00aaef'>{2}%</font> of attack\\nStage 4: Heal 8 allies for <font color='#00aaef'>{3}%</font> of attack\\nStage 5: Heal 10 allies for <font color='#00aaef'>{4}%</font> of attack"
+  },
+  "11100131|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to release exhausting energy forward, damaging enemies and reducing their movement speed and defense for a time. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nDefense and movement speed decrease by <font color='#00aaef'>{1}%</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Duration 10 seconds\\nStage 2: Duration 15 seconds\\nStage 3: Duration 20 seconds\\nStage 4: Duration 25 seconds\\nStage 5: Duration 30 seconds"
+  },
+  "11100132|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to release exhausting energy forward, damaging enemies and reducing their movement speed and defense for a time. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nDefense and movement speed decrease by <font color='#00aaef'>{1}%</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Duration 10 seconds\\nStage 2: Duration 15 seconds\\nStage 3: Duration 20 seconds\\nStage 4: Duration 25 seconds\\nStage 5: Duration 30 seconds"
+  },
+  "11100133|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to release exhausting energy forward, damaging enemies and reducing their movement speed and defense for a time. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nDefense and movement speed decrease by <font color='#00aaef'>{1}%</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Duration 10 seconds\\nStage 2: Duration 15 seconds\\nStage 3: Duration 20 seconds\\nStage 4: Duration 25 seconds\\nStage 5: Duration 30 seconds"
+  },
+  "11100134|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to release exhausting energy forward, damaging enemies and reducing their movement speed and defense for a time. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nDefense and movement speed decrease by <font color='#00aaef'>{1}%</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Duration 10 seconds\\nStage 2: Duration 15 seconds\\nStage 3: Duration 20 seconds\\nStage 4: Duration 25 seconds\\nStage 5: Duration 30 seconds"
+  },
+  "11100135|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Use Animar's power to release exhausting energy forward, damaging enemies and reducing their movement speed and defense for a time. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nDefense and movement speed decrease by <font color='#00aaef'>{1}%</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Duration 10 seconds\\nStage 2: Duration 15 seconds\\nStage 3: Duration 20 seconds\\nStage 4: Duration 25 seconds\\nStage 5: Duration 30 seconds"
+  },
+  "11100151|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Control earth energy and launch it forward. It explodes on impact, damaging enemies and briefly stunning them. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\nOn hit, stun for <font color='#00aaef'>{1} sec</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Attack once\\nStage 2: Attack twice\\nStage 3: Attack three times\\nStage 4: Attack four times\\nStage 5: Attack five times"
+  },
+  "11100153|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Control earth energy and launch it forward. It explodes on impact, damaging enemies and briefly stunning them. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\nOn hit, stun for <font color='#00aaef'>{1} sec</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Attack once\\nStage 2: Attack twice\\nStage 3: Attack three times\\nStage 4: Attack four times\\nStage 5: Attack five times"
+  },
+  "11100154|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Control earth energy and launch it forward. It explodes on impact, damaging enemies and briefly stunning them. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\nOn hit, stun for <font color='#00aaef'>{1} sec</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Attack once\\nStage 2: Attack twice\\nStage 3: Attack three times\\nStage 4: Attack four times\\nStage 5: Attack five times"
+  },
+  "11100155|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Control earth energy and launch it forward. It explodes on impact, damaging enemies and briefly stunning them. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\nOn hit, stun for <font color='#00aaef'>{1} sec</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Attack once\\nStage 2: Attack twice\\nStage 3: Attack three times\\nStage 4: Attack four times\\nStage 5: Attack five times"
+  },
+  "11100156|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Control earth energy and launch it forward. It explodes on impact, damaging enemies and briefly stunning them. Spend Mantra Cores to use an enhanced form.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit deals <font color='#00aaef'>{0}%</font> damage\\nOn hit, stun for <font color='#00aaef'>{1} sec</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nStage 1: Attack once\\nStage 2: Attack twice\\nStage 3: Attack three times\\nStage 4: Attack four times\\nStage 5: Attack five times"
+  },
+  "11000001|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies with a series of supersonic jabs.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage twice"
+  },
+  "11000011|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies ahead with consecutive left and right punches.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile <font color='#f06d45'>Stance Change</font> is active, <font color='#f06d45'>Punch Combination EX</font> is available\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage twice, then <font color='#00aaef'>{1}%</font> additional damage"
+  },
+  "11000021|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Unleash a rapid barrage of punches with both hands.\\n\\n<font color='#ffd400'>[Details]</font>\\nWhile <font color='#f06d45'>Stance Change</font> is active, <font color='#f06d45'>Beatdown EX</font> is available\\nAdditional key presses allow up to three uses\\nCast speed increases by 10% with each input\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage four times "
+  },
+  "11000026|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Overwhelm enemies ahead with a flurry of attacks.\\n\\n<font color='#ffd400'>[Details]</font>\\nEach hit in a sustained attack increases attack by 3%\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage seven times\\n<font color='#f06d45'>Super Armor</font> effect"
+  },
+  "11000032|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Attack enemies in midair with a spinning kick infused with fire.\\n\\n<font color='#ffd400'>[Details]</font>\\nMaintain <font color='#f06d45'>Stance Change</font> while using this skill\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage three times"
+  },
+  "11000042|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Dive from midair to strike enemies with powerful flames.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage once, then <font color='#00aaef'>{1}%</font> damage once\\nAffected enemies lose 30% movement speed and jump power"
+  },
+  "11000051|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Take a guarding stance with both arms and advance twice.\\n\\n<font color='#ffd400'>[Details]</font>\\n<font color='#f06d45'>Super Armor</font> effect\\nCan cancel another skill\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nPunch skill damage increases by 5% after casting\\n"
+  },
+  "11000061|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Lift one foot, rise into the air, and spin fiercely to attack nearby enemies\\n\\n<font color='#ffd400'>[Details]</font>\\nMove freely while casting\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage five times, then <font color='#00aaef'>{1}%</font> damage once"
+  },
+  "11000071|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Train your punch skills to improve them.\\n\\n<font color='#ffd400'>[Details]</font>\\nDamage from <font color='#f06d45'>Punch Combination</font>, <font color='#f06d45'>Beatdown</font>, <font color='#f06d45'>Gigantic Burst</font>, and <font color='#f06d45'>Magnum Blow</font> increases by <font color='#00aaef'>{0}%</font>\\nEX skills receive the same damage increase"
+  },
+  "11000081|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Charge forward and punch the nearest enemy.\\n\\n<font color='#ffd400'>[Details]</font>\\nIf there are no enemies within 6 m ahead, move 3 m\\nOn hit, deal <font color='#00aaef'>250%</font> damage\\n<font color='#f06d45'>Stance Change</font> effect while casting"
+  },
+  "11000091|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Leap into the air, then slam your fist into the ground, creating a chain of shockwaves that attack nearby enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage"
+  },
+  "11000101|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Release the energy in your body to surpass your physical limits for a moment.\\n\\n<font color='#ffd400'>[Details]</font>\\nAttack speed and movement speed increase by 30%\\nPhysical damage increases by <font color='#00aaef'>{0}%</font>\\nBasic EX skill cooldowns decrease by <font color='#00aaef'>{1}%</font>"
+  },
+  "11000111|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Train your kick skills to improve them.\\n\\n<font color='#ffd400'>[Details]</font>\\nDamage from <font color='#f06d45'>Rising Kick</font>, <font color='#f06d45'>Guillotine</font>, <font color='#f06d45'>Hurricane Cutter</font>, and <font color='#f06d45'>Dragon Kick</font> increases by <font color='#00aaef'>{0}%</font>\\nEX skills receive the same damage increase"
+  },
+  "11000121|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Awaken your combat instincts and release fighting spirit throughout your body.\\n\\n<font color='#ffd400'>[Details]</font>\\nPhysical and magic resistance increase by <font color='#00aaef'>{0}</font>\\nMovement speed decreases by 60%\\nDamage increases by 4% when hit by an enemy, stacking up to {1} times"
+  },
+  "11000131|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Leap forward with the force of a charging dragon and deliver a flying kick.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nPierces enemies"
+  },
+  "11000141|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Gather all your strength in your right fist and swing it powerfully at enemies ahead\\n\\n<font color='#ffd400'>[Details]</font>\\nHold the key to charge up to three stages\\nStage 1: On hit, deal <font color='#00aaef'>{0}%</font> damage\\nStage 2: On hit, deal <font color='#00aaef'>{1}%</font> damage\\nStage 3: On hit, deal <font color='#00aaef'>{2}%</font> damage"
+  },
+  "11000151|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Strengthen your mind to wield greater power.\\n\\n<font color='#ffd400'>[Details]</font>\\nAt 100% SP, all damage increases by <font color='#00aaef'>{0}%</font> and movement speed by 10%\\nAt 80–99% SP, all damage increases by <font color='#00aaef'>{1}%</font> and movement speed by 6%\\nAt 50–79% SP, all damage increases by <font color='#00aaef'>{2}%</font> and movement speed by 2%\\nDoes not activate below 50% SP"
+  },
+  "11000161|*-CharacterBalance_Striker_01-KR": {
+    "uiDescription": "Focus your mind to read your enemy's movements.\\n\\n<font color='#ffd400'>[Details]</font>\\nAccuracy increases by <font color='#00aaef'>{1}</font> for <font color='#00aaef'>{0}</font> seconds\\nOn hit, reduce the enemy's evasion by 4 for 3 seconds."
+  },
+  "11100011|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Gather energy in your hands and fire an orb forward to deal damage. Consecutive uses fire a refined orb that deals additional damage.\\n\\n<font color='#ffd400'>[Details]</font>\\nCan be used up to three times in succession\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nOn hit with the final attack, deal <font color='#00aaef'>{1}%</font> damage"
+  },
+  "11100031|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Focus the Animar within you to amplify the maximum energy of your Mantra Cores. At maximum cores, Expansion Ball, Energy Stream, Shooting Star, and Life String become stronger.\\n\\n<font color='#ffd400'>[Details]</font>\\nAt maximum Mantra Cores, the damage and healing of <font color='#f06d45'>Expansion Ball, Energy Stream, Shooting Star, and Life String</font> increase by <font color='#00aaef'>{0}%</font>"
+  },
+  "11100041|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Gather energy to form an orb and launch it forward. On hit, it ricochets to other enemies without striking the same target twice.\\n\\n<font color='#ffd400'>[Details]</font>\\nFour hits, each dealing <font color='#00aaef'>{0}%</font> damage\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nOn hit, ricochets to other enemies up to four times"
+  },
+  "11100051|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release mysterious energy and dash forward, leaving an afterimage behind.\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nCan be used instantly\\nEvasion increases by 50 while moving\n"
+  },
+  "11100061|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Condense your mysterious inner power into a Mantra Core to recover SP. Spend the cores to enhance certain skills.\\n\\n<font color='#ffd400'>[Details]</font>\\nRecover 12 SP\\nCreate one Mantra Core\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nYou can create up to four Mantra Cores\\nHold the key to use repeatedly"
+  },
+  "11100091|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Release latent Narvashan power, surging the energy within you to generate Mantra Cores for a time. \\n\\n<font color='#ffd400'>[Details]</font>\\nGenerate a Mantra Core every <font color='#00aaef'>{1} sec</font> for <font color='#00aaef'>{0} sec</font>"
+  },
+  "11100111|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Gather light energy in both hands and release it forward to damage enemies.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage"
+  },
+  "11100121|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Gather nearby energy into an explosive orb and launch it forward to deal damage. Consecutive uses fire two orbs.\\n\\n<font color='#ffd400'>[Details]</font>\\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\\nOn consecutive use, fire two orbs"
+  },
+  "11100141|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Manipulate the air to create a whirlwind ahead. It damages enemies, pulls them toward its center, and reduces their Accuracy and Evasion.\\n\\n<font color='#ffd400'>[Details]</font>\\nFour hits, each dealing <font color='#00aaef'>{0}%</font> damage and pulling enemies to the center\\nWhen the whirlwind explodes, deal <font color='#00aaef'>{1}%</font> damage and reduce Accuracy and Evasion by <font color='#00aaef'>{2}</font> for 15 seconds"
+  },
+  "11100161|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Guidance's teachings bring your energy and orb into greater harmony, increasing weapon attack.\\n\\n<font color='#ffd400'>[Details]</font>\\nWeapon attack increases by <font color='#00aaef'>{0}%</font> while an orb is equipped"
+  },
+  "11100171|*-CharacterBalance_SoulBinder_01-KR": {
+    "uiDescription": "Create an area ahead that radiates restorative energy. Allies within it recover HP and gain physical and magic resistance.\\n\\n<font color='#ffd400'>[Details]</font>\\nThe restorative area lasts 3 seconds\\nWhile it persists, recover HP equal to <font color='#00aaef'>{0}%</font> of attack\\nPhysical and magic resistance increase by <font color='#00aaef'>{1}</font>\\n\\n<font color='#ffd400'>[Additional Effects]</font>\\nLife String healing increases by <font color='#00aaef'>{2}%</font>\\nCannot be knocked back while in the area (except by some powerful attacks)"
+  },
+  "10900031|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform three dazzling attacks with your blade.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nWhen a Drive skill is active, activate in the corresponding elemental form\n\n<font color='#aaaaaa'><i>\"Without solid fundamentals, you can never threaten an enemy.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Ishura</font></i></p>"
+  },
+  "10900032|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform three dazzling attacks with a fire-imbued blade.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage and trigger <font color='#f06d45'>Fire Explosion</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Fire Explosion </font>: Deal <font color='#00aaef'>{1}%</font> fire damage to the target\n\n<font color='#aaaaaa'><i>\"Without solid fundamentals, you can never threaten an enemy.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Ishura</font></i></p>"
+  },
+  "10900033|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform three dazzling attacks with an ice-imbued blade.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\n\n<font color='#aaaaaa'><i>\"Without solid fundamentals, you can never threaten an enemy.\"</font></i><font color='#ffd400'></font>\n<font color='#aaaaaa'><i><p align='right'>- Ishura</font></i></p>"
+  },
+  "10900034|*-CharacterBalance_01-KR": {
+    "uiDescription": "Perform three dazzling attacks with a lightning-imbued blade.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage and inflict <font color='#f06d45'>Shock</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Shock </font>: Staggers the target<font color='#00aaef'></font>\n\n<font color='#aaaaaa'><i>\"Without solid fundamentals, you can never threaten an enemy.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Ishura</font></i></p>"
+  },
+  "10900071|*-CharacterBalance_01-KR": {
+    "uiDescription": "Focus energy in your blade and drive it into the ground to unleash a powerful shockwave.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nWhen a Drive skill is active, activate in the corresponding elemental form\n<font color='#f06d45'>Super Armor</font> effect\n\n<font color='#aaaaaa'><i>\"The power of rune magic released in a single controlled burst is beyond imagination.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Arazaad</font></i></p>"
+  },
+  "10900072|*-CharacterBalance_01-KR": {
+    "uiDescription": "Focus fire energy in your blade and drive it into the ground to unleash a powerful shockwave.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage\nCreate a <font color='#f06d45'>Pillar of Fire</font> at the shockwave\n<font color='#f06d45'>Super Armor</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Pillar of Fire </font>: Each hit deals <font color='#00aaef'>{1}%</font> fire damage\n\n<font color='#aaaaaa'><i>\"The power of rune magic released in a single controlled burst is beyond imagination.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Arazaad</font></i></p>"
+  },
+  "10900074|*-CharacterBalance_01-KR": {
+    "uiDescription": "Focus ice energy in your blade and drive it into the ground to unleash a powerful shockwave.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage and trigger <font color='#f06d45'>Cold Release</font>\n<font color='#f06d45'>Super Armor</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Cold Release </font>: Deal <font color='#00aaef'>{1}%</font> ice damage to targets in the area\n\n<font color='#aaaaaa'><i>\"The power of rune magic released in a single controlled burst is beyond imagination.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Arazaad</font></i></p>"
+  },
+  "10900076|*-CharacterBalance_01-KR": {
+    "uiDescription": "Focus lightning energy in your blade and drive it into the ground to unleash a powerful shockwave.\n\n<font color='#ffd400'>[Details]</font>\nOn hit, deal <font color='#00aaef'>{0}%</font> damage \nCreate an <font color='#f06d45'>Electric Current</font> at the shockwave\n<font color='#f06d45'>Super Armor</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Electric Current </font>: Each hit deals <font color='#00aaef'>{1}%</font> lightning damage; after four hits, trigger <font color='#f06d45'>Lightning Strike</font>\n<font color='#f06d45'>Lightning Strike </font>: Deal <font color='#00aaef'>{2}%</font> lightning damage to targets in the area\n\n<font color='#aaaaaa'><i>\"The power of rune magic released in a single controlled burst is beyond imagination.\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Arazaad</font></i></p>"
+  },
+  "10900091|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to create a rune-powered magic circle around yourself.\n\n<font color='#ffd400'>[Details]</font>\nPhysical and magic resistance increase by <font color='#00aaef'>{0}</font>\nWhen a Drive skill is active, activate in the corresponding elemental form\n\n<font color='#aaaaaa'><i>\"What good is anything if I cannot protect these stunning looks?\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Landevian</font></i></p>"
+  },
+  "10900092|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to create a rune-powered fire circle around yourself.\n\n<font color='#ffd400'>[Details]</font>\nPhysical and magic resistance increase by <font color='#00aaef'>{0}</font>\nFire damage taken decreases by <font color='#00aaef'>{1}%</font>\nCreate a <font color='#f06d45'>Ring of Fire</font> around yourself\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Ring of Fire </font>: Each collision deals <font color='#00aaef'>{2}%</font> fire damage\n\n<font color='#aaaaaa'><i>\"What good is anything if I cannot protect these stunning looks?\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Landevian</font></i></p>"
+  },
+  "10900094|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to create a rune-powered ice circle around yourself.\n\n<font color='#ffd400'>[Details]</font>\nPhysical and magic resistance increase by <font color='#00aaef'>{0}</font>\nIce damage taken decreases by <font color='#00aaef'>{1}%</font>\nCreate an <font color='#f06d45'>Ice Wall</font>\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Ice Wall </font>: Absorb damage equal to <font color='#00aaef'>{2}%</font> of Max HP\n\n<font color='#aaaaaa'><i>\"What good is anything if I cannot protect these stunning looks?\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Landevian</font></i></p>"
+  },
+  "10900095|*-CharacterBalance_01-KR": {
+    "uiDescription": "Use rune magic to create a rune-powered lightning circle around yourself.\n\n<font color='#ffd400'>[Details]</font>\nPhysical and magic resistance increase by <font color='#00aaef'>{0}</font>\nLightning damage taken decreases by <font color='#00aaef'>{1}%</font>\nCall down <font color='#f06d45'>Lightning Strike</font> on the nearest enemy within 6 m\n\n<font color='#ffd400'>[Additional Effects]</font>\n<font color='#f06d45'>Lightning Strike </font>: Deal <font color='#00aaef'>{2}%</font> lightning damage to targets in the area\n\n<font color='#aaaaaa'><i>\"What good is anything if I cannot protect these stunning looks?\"</font></i>\n<font color='#aaaaaa'><i><p align='right'>- Landevian</font></i></p>"
+  },
+  "90220030|*-Develop-": {
+    "uiDescription": "Skill description under development (KORSKILLDESCRIPTION_90220030_1_UIDESCRIPTION)"
   }
 }
