@@ -345,6 +345,8 @@
 	<key id="10000339" name="Late Knight" />
 	<key id="10000341" name="The Next Merin" />
 	<key id="10000342" name="Monster Catcher" feature="PetBattle" />
+	<key id="10000343" name="Intermediate Beast Tamer" feature="Develop" />
+	<key id="10000344" name="Expert Beast Tamer" feature="Develop" />
 	<key id="10000345" name="Monster Tamer" feature="PetBattle" />
 	<key id="10000350" name="Pink Protein" feature="PinkBean01" />
 	<key id="10000351" name="Ding-donger" />
@@ -399,6 +401,8 @@
 	<key id="10000400" name="Respected" feature="FameContents" />
 	<key id="10000401" name="Beloved" feature="FameContents" />
 	<key id="10000402" name="Revered" feature="FameContents" />
+	<key id="10000403" name="Legendary" feature="FameContents02" />
+	<key id="10000404" name="Untouchable" feature="FameContents02" />
 	<key id="10000405" name="Alliance Lieutenant" feature="FameContents" />
 	<key id="10000406" name="Guard Sergeant" feature="FameContents" />
 	<key id="10000407" name="Spy Master" feature="FameContents" />
@@ -464,11 +468,17 @@
 	<key id="10000467" name="Rainbow Rancher" />
 	<key id="10000468" name="Slightly Rank" feature="JobChange_01" />
 	<key id="10000469" name="Tree Hugger" locale="NA" />
+	<key id="10000469" name="Flum&apos;s Friend" locale="JP" />
 	<key id="10000470" name="Kitty Whisperer" locale="NA" />
+	<key id="10000470" name="Cat Counselor" locale="JP" />
 	<key id="10000471" name="New Hire" locale="NA" />
+	<key id="10000471" name="New Hire Who Sang Gordos&apos;s Praises" locale="JP" />
 	<key id="10000472" name="Street Food Vendor" locale="NA" />
+	<key id="10000472" name="Hot Dog Promoter" locale="JP" />
 	<key id="10000473" name="Delivery Person" locale="NA" />
+	<key id="10000473" name="Delivered Piping Hot Pizza" locale="JP" />
 	<key id="10000474" name="Footwear Enthusiast" locale="NA" />
+	<key id="10000474" name="Found Arwen&apos;s Glass Slipper" locale="JP" />
 	<key id="10000475" name="3-Year-Old Mapler" locale="KR" />
 	<key id="10000476" name="Shared the 3rd Anniversary" locale="KR" />
 	<key id="10000477" name="Artist Who Shined on the 3rd Anniversary" locale="KR" />
@@ -476,9 +486,13 @@
 	<key id="10000479" name="Corrupted" feature="ChronicleDungeon60_01" />
 	<key id="10000480" name="Breaker of Beans" feature="ChronicleDungeon60_01" />
 	<key id="10000481" name="Field Biologist" feature="Fishing" locale="NA" />
+	<key id="10000481" name="Axolotl&apos;s Friend" feature="Fishing" locale="JP" />
 	<key id="10000482" name="Mad Fisher" feature="Fishing" locale="NA" />
+	<key id="10000482" name="Sold Their Soul to Fishing" feature="Fishing" locale="JP" />
 	<key id="10000483" name="Violet Conjuror" feature="PetBattle" locale="NA" />
+	<key id="10000483" name="Shadow Mage&apos;s Friend" feature="PetBattle" locale="JP" />
 	<key id="10000484" name="Sleepy" feature="PetBattle" locale="NA" />
+	<key id="10000484" name="Lazy" feature="PetBattle" locale="JP" />
 	<key id="10000485" name="Ocean Master" feature="ChronicleDungeon60_01" />
 	<key id="10000486" name="Ice Climber" feature="ChronicleDungeon60_01" />
 	<key id="10000487" name="Creepy" feature="ChronicleDungeon60_01" />
@@ -498,6 +512,7 @@
 	<key id="10000501" name="TITLENAME_10000501_NAME" />
 	<key id="10000502" name="TITLENAME_10000502_NAME" />
 	<key id="10000503" name="Founder" locale="NA" />
+	<key id="10000503" name="Founder&apos;s Mark" locale="JP" />
 	<key id="10000504" name="Luxury Package Buyer" locale="CN" />
 	<key id="10000505" name="Premium Package Buyer" locale="CN" />
 	<key id="10000506" name="Noble Package Buyer" locale="CN" />
@@ -535,9 +550,12 @@
 	<key id="10000538" name="Royale Commando" feature="SurvivalContents03" />
 	<key id="10000539" name="Squad Ace" feature="SurvivalContents03" />
 	<key id="10000540" name="Moonlight" />
+	<key id="10000540" name="Full Moonlight" locale="CN" />
 	<key id="10000541" name="Gained Fierce Power" locale="CN" />
 	<key id="10000542" name="Revenant Reaper" feature="Season1" locale="NA" />
+	<key id="10000542" name="Defeated a Revenant Zombie" feature="Season1" locale="JP" />
 	<key id="10000543" name="Alien Ambassador" feature="Season1" locale="NA" />
+	<key id="10000543" name="Wants to Meet an Alien" feature="Season1" locale="JP" />
 	<key id="10000544" name="Dazzlingly Sparkling" feature="WorldChampionMushroom" />
 	<key id="10000545" name="Born to Eat" feature="WorldChampionMushroom" />
 	<key id="10000546" name="On a Diet" feature="WorldChampionMushroom" />
@@ -562,8 +580,11 @@
 	<key id="10000565" name="1st Anniversary Reveler" locale="NA" />
 	<key id="10000565" name="Shared the 1st Anniversary" locale="CN" />
 	<key id="10000566" name="Mika&apos;s Friend" feature="KarkarIsland" locale="NA" />
+	<key id="10000566" name="Met a Child of Light" feature="KarkarIsland" locale="JP" />
 	<key id="10000567" name="Groupie" feature="KarkarIsland" locale="NA" />
+	<key id="10000567" name="Listened to a Musician&apos;s Troubles" feature="KarkarIsland" locale="JP" />
 	<key id="10000568" name="Master Photographer" feature="KarkarIsland" locale="NA" />
+	<key id="10000568" name="Master Photographer" feature="KarkarIsland" locale="JP" />
 	<key id="10000569" name="Top Designer" locale="NA" />
 	<key id="10000570" name="Star Architect" locale="NA" />
 	<key id="10000571" name="Maple Fanatic" locale="NA" />
@@ -632,9 +653,11 @@
 	<key id="10000638" name="Risk and Reward" feature="Lapenshard01" />
 	<key id="10000639" name="Santa of the Day" />
 	<key id="10000640" name="Alliance Elite" feature="FameContents" locale="NA" />
+	<key id="10000640" name="Carries the Alliance&apos;s Hopes" feature="FameContents" locale="JP" />
 	<key id="10000641" name="Rock Paper Scissors Master" locale="CN" />
 	<key id="10000642" name="Excellent Security Awareness" locale="KR" />
 	<key id="10000643" name="Fortress Rumble Master" feature="FameChallengeDungeon" locale="NA" />
+	<key id="10000643" name="Fortress Rumble Master" feature="FameChallengeDungeon" locale="JP" />
 	<key id="10000644" name="Mysteriously Powerful" />
 	<key id="10000645" name="Pork Dumpling Chef" />
 	<key id="10000646" name="Lucky Pig" />
@@ -723,6 +746,8 @@
 	<key id="10000729" name="Tireless" feature="PetEvolution01" />
 	<key id="10000730" name="Legend Collector" feature="Pet_70Lv" />
 	<key id="10000731" name="Song of Cherry Blossoms" />
+	<key id="10000731" name="Dancing Cherry Blossoms" locale="JP" />
+	<key id="10000731" name="Song of Cherry Blossoms" locale="CN" />
 	<key id="10000732" name="Real" feature="Event" locale="KR" />
 	<key id="10000733" name="Rock-Paper-Scissors Champ" feature="Event" />
 	<key id="10000734" name="Rock-Paper-Scissors Tactician" feature="Event" />
@@ -739,10 +764,14 @@
 	<key id="10000745" name="Rainbow Roller" feature="Event" />
 	<key id="10000746" name="Countdown Conquerer" feature="Event" />
 	<key id="10000747" name="Height of Splendor" locale="CN" />
+	<key id="10000748" name="2019 Star Architect" locale="JP" />
+	<key id="10000749" name="2019 Top Designer" locale="JP" />
 	<key id="10000750" name="Prime Cherry Blossom Spot" feature="Event" locale="CN" />
+	<key id="10000751" name="Head Start" feature="Event" locale="JP" />
 	<key id="10000752" name="Special-Class Resistance" feature="Fame_Geo01" />
 	<key id="10000753" name="Hero of $npcName:11004395$" feature="Fame_Geo01" />
 	<key id="10000754" name="Genius Hacker" feature="Fame_Geo01" />
+	<key id="10000755" name="Guardian of Maple" feature="Event" locale="JP" />
 	<key id="10000756" name="Old Soul" feature="Kritias02" />
 	<key id="10000757" name="Casanova" feature="Kritias02" />
 	<key id="10000758" name="Unrequited Lover" feature="Kritias02" />
@@ -751,12 +780,14 @@
 	<key id="10000761" name="Time-Warped" feature="Event" />
 	<key id="10000762" name="4th Anniversary Reveler" feature="Event" locale="KR" />
 	<key id="10000763" name="Ducky&apos;s Soulmate" feature="Event" />
+	<key id="10000764" name="Summer Adventurer" feature="Event" locale="JP" />
 	<key id="10000765" name="Ultimate Weapon" feature="Kritias_Turka01" />
 	<key id="10000766" name="Giant Destroyer" feature="Kritias_Turka02" />
 	<key id="10000767" name="Hope of Humanity" feature="Kritias_Turka03" />
 	<key id="10000768" name="Humanity&apos;s Strongest" feature="Kritias_Turka01" />
 	<key id="10000769" name="Mountain-Crushing" feature="Kritias_Turka02" />
 	<key id="10000770" name="Cleaving the Darkness" feature="Kritias_Turka03" />
+	<key id="10000771" name="Learned Rune Magic" feature="Event" locale="JP" />
 	<key id="10000772" name="Strumming" feature="JPInstrument" />
 	<key id="10000773" name="Shamisenist" feature="JPInstrument" />
 	<key id="10000774" name="Elegant" feature="JPInstrument" />
@@ -767,16 +798,25 @@
 	<key id="10000779" name="Taiko Drummer" feature="JPInstrument" />
 	<key id="10000780" name="Bling Bling" feature="Event" />
 	<key id="10000781" name="Marlene&apos;s Will" feature="Fame_Geo01" />
+	<key id="10000782" name="Cool Guildmate" feature="Event" locale="JP" />
+	<key id="10000783" name="True Shield of Tria" feature="Event" locale="JP" />
 	<key id="10000784" name="Matos VIP Customer" locale="CN" />
 	<key id="10000785" name="Shared the 2nd Anniversary" feature="Event" locale="CN" />
 	<key id="10000786" name="A.I" feature="Event" />
 	<key id="10000787" name="Royal Darkness" locale="CN" />
 	<key id="10000788" name="More Startled Than Meow" feature="Event" />
 	<key id="10000788" name="Wampus Wrangler" feature="Event" locale="NA" />
+	<key id="10000788" name="Possessed" feature="Event" locale="JP" />
+	<key id="10000788" name="More of a Scaredy-Cat Than Me" feature="Event" locale="CN" />
 	<key id="10000789" name="Startled While Eating, Meow" feature="Event" />
 	<key id="10000789" name="Kittywamped" feature="Event" locale="NA" />
+	<key id="10000789" name="Unsatisfied" feature="Event" locale="JP" />
+	<key id="10000789" name="A Scaredy-Cat at Mealtime" feature="Event" locale="CN" />
 	<key id="10000790" name="Jack-o&apos;-Lantern" feature="Event" />
 	<key id="10000790" name="Jack-o&apos;-Lantern" feature="Event" locale="NA" />
+	<key id="10000790" name="Jack-o&apos;-Lantern" feature="Event" locale="JP" />
+	<key id="10000790" name="Jack-o&apos;-Lantern" feature="Event" locale="CN" />
+	<key id="10000791" name="Spirit Medium" feature="Event" locale="JP" />
 	<key id="10000792" name="Writer" feature="Event" locale="KR" />
 	<key id="10000793" name="Simple Groom" feature="Wedding" />
 	<key id="10000794" name="Simple Bride" feature="Wedding" />
@@ -803,11 +843,15 @@
 	<key id="10000815" name="Fancy Groom" feature="Wedding" />
 	<key id="10000816" name="Fancy Bride" feature="Wedding" />
 	<key id="10000817" name="Hide-and-Seek Master" feature="Event" locale="CN" />
+	<key id="10000819" name="Vicious Plant Fan" feature="Event" locale="JP" />
 	<key id="10000820" name="Camouflaged" feature="MassiveHideAndSeek" locale="NA" />
 	<key id="10000820" name="Hide Well" feature="MassiveHideAndSeek" locale="KR" />
+	<key id="10000820" name="Ready or Not?" feature="MassiveHideAndSeek" locale="JP" />
 	<key id="10000821" name="Hide-and-Seek Master" feature="MassiveHideAndSeek" locale="NA" />
 	<key id="10000821" name="Hide-and-Seek Legend" feature="MassiveHideAndSeek" locale="KR" />
+	<key id="10000821" name="Hide-and-Seek King" feature="MassiveHideAndSeek" locale="JP" />
 	<key id="10000822" name="Lucky 2020" feature="Event" locale="CN" />
+	<key id="10000822" name="Lucky 2020" feature="Event" locale="JP" />
 	<key id="10000823" name="Someone Else&apos;s" feature="Wedding" />
 	<key id="10000824" name="Chasing Love" feature="Wedding" />
 	<key id="10000825" name="Love-proof" feature="Wedding" />
@@ -832,8 +876,12 @@
 	<key id="10000842" name="Worried" feature="EpicApocalypse01" />
 	<key id="10000843" name="Illusion Wanderer" feature="EpicApocalypse01" />
 	<key id="10000844" name="Line Crosser" feature="EpicApocalypse01" />
+	<key id="10000845" name="Wants Lilin to Spoil Them" feature="Event" locale="JP" />
+	<key id="10000846" name="Getting Stronger" feature="Event" locale="JP" />
 	<key id="10000847" name="Master of Wits" feature="Event" locale="CN" />
 	<key id="10000848" name="Ace Adventurer" />
+	<key id="10000849" name="2020 Star Architect" feature="Event" locale="JP" />
+	<key id="10000850" name="2020 Top Designer" feature="Event" locale="JP" />
 	<key id="10000851" name="Crown Guard" feature="Event" locale="NA" />
 	<key id="10000852" name="Crown Gladiator" feature="Event" locale="NA" />
 	<key id="10000853" name="Crown Champion" feature="Event" locale="NA" />
@@ -852,7 +900,7 @@
 	<key id="10000866" name="Doll Whisperer" />
 	<key id="10000867" name="Doll&apos;s Guest" />
 	<key id="10000868" name="Doll Pursuer" />
-	<key id="10000869" name="4주년을 함께한" feature="Event" locale="CN" />
+	<key id="10000869" name="Together for the 4th Anniversary" feature="Event" locale="CN" />
 	<key id="10000870" name="Baki&apos;s Soulmate" feature="Event" />
 	<key id="10000871" name="Cozy Cotton Ball" feature="Event" />
 	<key id="10000872" name="Blue Flame Apprentice" feature="Event" />
@@ -885,4 +933,7 @@
 	<key id="10000899" name="Forseer of the Future" feature="Event" />
 	<key id="10000900" name="Matching Pair" feature="Event" />
 	<key id="10000901" name="True Enjoyer" feature="Event" />
+	<key id="10000902" name="Saw the Future" feature="Event" />
+	<key id="10000903" name="Sharp-Eyed" feature="Event" />
+	<key id="10000904" name="Loves Losing" feature="Event" />
 </ms2>

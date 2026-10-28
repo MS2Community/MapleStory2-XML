@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
+	<key id="10000101" name="[In Development] Time-Limited Challenge" feature="Develop" />
+	<key id="10000201" name="[In Development] Do Not Die" feature="Develop" />
+	<key id="10000301" name="[In Development] Defeat the Boss" feature="Develop" />
+	<key id="10000401" name="[In Development] Recovery Potion Limit" feature="Develop" />
+	<key id="10000501" name="[In Development] Avoid Boss Skills" feature="Develop" />
+	<key id="10000601" name="[In Development] Do Not Use Stamina" feature="Develop" />
+	<key id="10000701" name="[In Development] Do Not Use Energy" feature="Develop" />
+	<key id="10000801" name="[In Development] Do Not Use Magic Shield" feature="Develop" />
+	<key id="10000901" name="[In Development] Gain a Specific Buff" feature="Develop" />
+	<key id="10001001" name="[In Development] Deliver the Final Blow to the Boss " feature="Develop" />
+	<key id="10001101" name="[In Development] Activate an Interactive Object" feature="Develop" />
+	<key id="10001201" name="[In Development] Do Not Get Hit" feature="Develop" />
+	<key id="10001301" name="[In Development] Deal Damage in the Dungeon" feature="Develop" />
+	<key id="10001401" name="[In Development] Destroy the Chicken Coop" feature="Develop" />
+	<key id="10001501" name="DUNGEONMISSIONNAME_10001501_NAME:[F]In Development" feature="Develop" />
 	<key id="20004000" name="(Party) Defeat $npc:23090005$" feature="DungeonRank01" />
 	<key id="20004001" name="(Party) Defeat $npc:23090005$ within 10 Min" feature="DungeonRank01" />
 	<key id="20004002" name="Don&apos;t fall into the lava" feature="DungeonRank01" />
@@ -11,6 +26,7 @@
 	<key id="20007003" name="(Party) Destroy $npc:23000071$" feature="Zakum01" />
 	<key id="20007004" name="(Party) Destroy Zakum&apos;s Arm" feature="Zakum01" />
 	<key id="20007005" name="Don&apos;t get tombstoned" feature="Zakum01" />
+	<key id="20007006" name="(Party) Destroy $npc:23000071$ within 5 minutes" feature="Zakum02" />
 	<key id="20014000" name="(Party) Defeat $npc:23000011$" feature="DungeonRank01" />
 	<key id="20014001" name="(Party) Defeat $npc:23000011$ within 13 Min" feature="DungeonRank01" />
 	<key id="20014002" name="Don&apos;t get tombstoned" feature="DungeonRank01" />
@@ -74,15 +90,25 @@
 	<key id="23006004" name="Don&apos;t get spirit sealed" feature="DungeonRank01" />
 	<key id="23006005" name="Don&apos;t get hit by shadow lasers" feature="DungeonRank01" />
 	<key id="23006006" name="(Party) Defeat $npc:23000007$" feature="DungeonOpenNA1808" />
+	<key id="23006006" name="(Party) Defeat $npc:23000007$" feature="DungeonRank01" locale="JP" />
 	<key id="23006007" name="Don&apos;t get tombstoned" feature="DungeonOpenNA1808" />
+	<key id="23006007" name="Lose points if crushed by a tombstone" feature="DungeonRank01" locale="JP" />
 	<key id="23006008" name="(Party) Clear in a party 7 or fewer" feature="DungeonOpenNA1808" />
+	<key id="23006008" name="(Party) Clear with 7 or fewer players" feature="DungeonRank01" locale="JP" />
 	<key id="23006009" name="(Party) Clear in a party 4 or fewer" feature="DungeonOpenNA1808" />
+	<key id="23006009" name="(Party) Clear with 4 or fewer players" feature="DungeonRank01" locale="JP" />
 	<key id="23007000" name="(Party) Defeat $npc:23200016$" feature="DungeonOpenNA1808" />
+	<key id="23007000" name="(Party) Defeat $npc:23200016$" feature="DungeonRank01" locale="JP" />
 	<key id="23007001" name="(Party) Defeat $npc:23200016$ within 5 minutes" feature="DungeonOpenNA1808" />
+	<key id="23007001" name="(Party) Defeat $npc:23200016$ within 5 minutes" feature="DungeonRank01" locale="JP" />
 	<key id="23007002" name="(Party) Defeat $npc:23200016$ within 10 minutes" feature="DungeonOpenNA1808" />
+	<key id="23007002" name="(Party) Defeat $npc:23200016$ within 10 minutes" feature="DungeonRank01" locale="JP" />
 	<key id="23008000" name="(Party) Defeat $npc:23200017$" feature="DungeonOpenNA1808" />
+	<key id="23008000" name="(Party) Defeat $npc:23200017$" feature="DungeonRank01" locale="JP" />
 	<key id="23008001" name="(Party) Defeat $npc:23200017$ within 5 minutes" feature="DungeonOpenNA1808" />
+	<key id="23008001" name="(Party) Defeat $npc:23200017$ within 5 minutes" feature="DungeonRank01" locale="JP" />
 	<key id="23008002" name="(Party) Defeat $npc:23200017$ within 10 minutes" feature="DungeonOpenNA1808" />
+	<key id="23008002" name="(Party) Defeat $npc:23200017$ within 10 minutes" feature="DungeonRank01" locale="JP" />
 	<key id="23010000" name="(Party) Defeat $npc:23000015$" feature="DungeonRank01" />
 	<key id="23010001" name="(Party) Defeat $npc:23000015$ within 5 Min" feature="DungeonRank01" />
 	<key id="23010002" name="(Party) Defeat $npc:23000015$ within 10 Min" feature="DungeonRank01" />
@@ -90,18 +116,29 @@
 	<key id="23010004" name="Don&apos;t get hit by the belly slam" feature="DungeonRank01" />
 	<key id="23010005" name="Don&apos;t get hit by the super hook cannon" feature="DungeonRank01" />
 	<key id="23010006" name="(Party) Defeat $npc:23000015$" feature="DungeonOpenNA1808" />
+	<key id="23010006" name="(Party) Defeat $npc:23000015$" feature="DungeonRank01" locale="JP" />
 	<key id="23010007" name="Don&apos;t get tombstoned" feature="DungeonOpenNA1808" />
+	<key id="23010007" name="Lose points if crushed by a tombstone" feature="DungeonRank01" locale="JP" />
 	<key id="23010008" name="(Party) Clear in a party 7 or fewer" feature="DungeonOpenNA1808" />
+	<key id="23010008" name="(Party) Clear with 7 or fewer players" feature="DungeonRank01" locale="JP" />
 	<key id="23010009" name="(Party) Clear in a party 4 or fewer" feature="DungeonOpenNA1808" />
+	<key id="23010009" name="(Party) Clear with 4 or fewer players" feature="DungeonRank01" locale="JP" />
 	<key id="23011001" name="(Party) Defeat $npc:23000077$ within 5 Min" feature="DungeonRank01" />
 	<key id="23011002" name="(Party) Defeat $npc:23000077$ within 10 Min" feature="DungeonRank01" />
 	<key id="23011003" name="Don&apos;t get tombstoned" feature="DungeonRank01" />
 	<key id="23011004" name="Don&apos;t get hit by hand slams" feature="DungeonRank01" />
 	<key id="23011005" name="Don&apos;t get hit by the dimensional laser" feature="DungeonRank01" />
 	<key id="23011006" name="(Party) Defeat $npc:23200077$" feature="DungeonOpenNA1808" />
+	<key id="23011006" name="(Party) Defeat $npc:23200077$" feature="DungeonRank01" locale="JP" />
 	<key id="23011007" name="Don&apos;t get tombstoned" feature="DungeonOpenNA1808" />
+	<key id="23011007" name="Lose points if crushed by a tombstone" feature="DungeonRank01" locale="JP" />
 	<key id="23011008" name="(Party) Clear in a party 8 or fewer" feature="DungeonOpenNA1808" />
+	<key id="23011008" name="(Party) Clear with 8 or fewer players" feature="DungeonRank01" locale="JP" />
 	<key id="23011009" name="(Party) Clear in a party 5 or fewer" feature="DungeonOpenNA1808" />
+	<key id="23011009" name="(Party) Clear with 5 or fewer players" feature="DungeonRank01" locale="JP" />
+	<key id="23011010" name="(Party) Defeat $npc:23200076$" feature="DungeonRank01" locale="JP" />
+	<key id="23011011" name="(Party) Defeat $npc:23200076$ within 5 minutes" feature="DungeonRank01" locale="JP" />
+	<key id="23011012" name="(Party) Defeat $npc:23200076$ within 10 minutes" feature="DungeonRank01" locale="JP" />
 	<key id="23018000" name="(Party) Defeat $npc:23000068$" feature="DungeonRank01" />
 	<key id="23018001" name="(Party) Defeat $npc:23000068$ within 5 Min" feature="DungeonRank01" />
 	<key id="23018002" name="(Party) Defeat $npc:23000068$ within 10 Min" feature="DungeonRank01" />
@@ -126,162 +163,249 @@
 	<key id="23021005" name="Don&apos;t get hit by ice shock wave" feature="DungeonRank01" />
 	<key id="23021006" name="Don&apos;t get hit by crystal laser" feature="DungeonRank01" />
 	<key id="23021007" name="(Party) Defeat $npc:23000114$" feature="DungeonRank01" locale="NA" />
+	<key id="23021007" name="(Party) Defeat $npc:23000114$" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23021008" name="(Party) Clear in a party 7 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23021008" name="(Party) Clear with 7 or fewer players" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23021009" name="(Party) Clear in a party 4 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23021009" name="(Party) Clear with 4 or fewer players" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23021010" name="Don&apos;t get tombstoned" feature="DungeonRank01" locale="NA" />
+	<key id="23021010" name="Lose points if crushed by a tombstone" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23022000" name="(Party) Defeat $npc:23000064$" feature="DungeonRank01" />
 	<key id="23022001" name="(Party) Defeat $npc:23000064$ within 7 Min" feature="DungeonRank01" />
 	<key id="23022003" name="Don&apos;t get tombstoned" feature="DungeonRank01" />
 	<key id="23022004" name="Don&apos;t step on shadow flame" feature="DungeonRank01" />
 	<key id="23022005" name="Don&apos;t get hit by shadow breath" feature="DungeonRank01" />
 	<key id="23022006" name="(Party) Defeat $npc:23200067$" feature="DungeonRank01" locale="NA" />
+	<key id="23022006" name="(Party) Defeat $npc:23200067$" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23022007" name="(Party) Clear in a party 7 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23022007" name="(Party) Clear with 7 or fewer players" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23022008" name="(Party) Clear in a party 4 or fewer" feature="DungeonRank01" locale="NA" />
+	<key id="23022008" name="(Party) Clear with 4 or fewer players" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23022009" name="Don&apos;t get tombstoned" feature="DungeonRank01" locale="NA" />
+	<key id="23022009" name="Lose points if crushed by a tombstone" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23023000" name="(Party) Defeat $npc:23000088$" feature="PinkBean01" />
 	<key id="23023001" name="(Party) Defeat $npc:23000088$ within 7 Min" feature="PinkBean01" />
 	<key id="23023003" name="Don&apos;t get hit by tombstones" feature="PinkBean01" />
 	<key id="23023004" name="Don&apos;t step on music blocks and dance" feature="PinkBean01" />
 	<key id="23023005" name="Don&apos;t get hit by lightning pillars" feature="PinkBean01" />
 	<key id="23023006" name="(Party) Defeat $npc:23000115$" feature="PinkBean01" locale="NA" />
+	<key id="23023006" name="(Party) Defeat $npc:23000115$" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23023007" name="(Party) Clear in a party 7 or fewer" feature="PinkBean01" locale="NA" />
+	<key id="23023007" name="(Party) Clear with 7 or fewer players" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23023008" name="(Party) Clear in a party 4 or fewer" feature="PinkBean01" locale="NA" />
+	<key id="23023008" name="(Party) Clear with 4 or fewer players" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23023009" name="Don&apos;t get tombstoned" feature="PinkBean01" locale="NA" />
+	<key id="23023009" name="Lose points if crushed by a tombstone" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23024000" name="(Party) Defeat $npc:23000072$" feature="Kritias_Zakum01" />
+	<key id="23024000" name="(Party) Defeat $npc:23000072$" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024001" name="(Party) Defeat $npc:23000072$ within 5 min" feature="Kritias_Zakum01" />
+	<key id="23024001" name="(Party) Defeat $npc:23000072$ within 6 minutes" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024002" name="(Party) Defeat $npc:23000072$ within 10 min" feature="Kritias_Zakum01" />
+	<key id="23024002" name="(Party) Defeat $npc:23000072$ within 12 minutes" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024003" name="Don&apos;t get tombstoned" feature="Kritias_Zakum01" />
+	<key id="23024003" name="Lose points when you become a tombstone" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024004" name="(Party) Defeat $npc:23000073$" feature="Kritias_Zakum01" />
+	<key id="23024004" name="(Party) Defeat $npc:23000073$" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024005" name="(Party) Defeat $npc:23000073$ within 5 min" feature="Kritias_Zakum01" />
+	<key id="23024005" name="(Party) Defeat $npc:23000073$ within 5 minutes" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23024006" name="(Party) Defeat $npc:23000073$ within 10 min" feature="Kritias_Zakum01" />
+	<key id="23024006" name="(Party) Defeat $npc:23000073$ within 10 minutes" feature="Kritias_Zakum01" locale="CN" />
 	<key id="23025000" name="(Party) Defeat $npc:23000150$" feature="Kritias_Inferno01" />
+	<key id="23025000" name="(Party) Defeat $npc:23000150$" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025001" name="(Party) Defeat $npc:23000150$ within 5 min" feature="Kritias_Inferno01" />
+	<key id="23025001" name="(Party) Defeat $npc:23000150$ within 6 minutes" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025002" name="(Party) Defeat $npc:23000150$ within 10 min" feature="Kritias_Inferno01" />
+	<key id="23025002" name="(Party) Defeat $npc:23000150$ within 12 minutes" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025003" name="Don&apos;t get tombstoned" feature="Kritias_Inferno01" />
+	<key id="23025003" name="Lose points when you become a tombstone" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025004" name="(Party) Defeat $npc:23000151$" feature="Kritias_Inferno01" />
+	<key id="23025004" name="(Party) Defeat $npc:23000151$" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025005" name="(Party) Defeat $npc:23000151$ within 5 min" feature="Kritias_Inferno01" />
+	<key id="23025005" name="(Party) Defeat $npc:23000151$ within 5 minutes" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23025006" name="(Party) Defeat $npc:23000151$ within 10 min" feature="Kritias_Inferno01" />
+	<key id="23025006" name="(Party) Defeat $npc:23000151$ within 10 minutes" feature="Kritias_Inferno01" locale="CN" />
 	<key id="23026000" name="(Party) Defeat $npc:23502011$" feature="DungeonRank01" locale="NA" />
+	<key id="23026000" name="(Party) Defeat $npc:23502011$" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23026001" name="(Party) Defeat $npc:23502011$ within 5 min" feature="DungeonRank01" locale="NA" />
+	<key id="23026001" name="(Party) Defeat $npc:23502011$ within 5 minutes" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23026002" name="(Party) Defeat $npc:23502011$ within 10 min" feature="DungeonRank01" locale="NA" />
+	<key id="23026002" name="(Party) Defeat $npc:23502011$ within 10 minutes" feature="DungeonOpen60CH1" locale="JP" />
 	<key id="23027000" name="(Party) Defeat $npc:23502003$" feature="DungeonRank01" locale="NA" />
+	<key id="23027000" name="(Party) Defeat $npc:23502003$" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23027001" name="(Party) Defeat $npc:23502003$ within 5 min" feature="DungeonRank01" locale="NA" />
+	<key id="23027001" name="(Party) Defeat $npc:23502003$ within 5 minutes" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23027002" name="(Party) Defeat $npc:23502003$ within 10 min" feature="DungeonRank01" locale="NA" />
+	<key id="23027002" name="(Party) Defeat $npc:23502003$ within 10 minutes" feature="DungeonOpen60CH2" locale="JP" />
 	<key id="23028000" name="(Party) Defeat $npc:23502021$" feature="PinkBean01" locale="NA" />
+	<key id="23028000" name="(Party) Defeat $npc:23502021$" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23028001" name="(Party) Defeat $npc:23502021$ within 5 min" feature="PinkBean01" locale="NA" />
+	<key id="23028001" name="(Party) Defeat $npc:23502021$ within 5 minutes" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23028002" name="(Party) Defeat $npc:23502021$ within 10 min" feature="PinkBean01" locale="NA" />
+	<key id="23028002" name="(Party) Defeat $npc:23502021$ within 10 minutes" feature="DungeonOpen60CH3" locale="JP" />
 	<key id="23031000" name="(Party) Defeat $npc:21420101$" feature="ChronicleDungeon60_01" />
 	<key id="23031000" name="(Party) Defeat $npc:21420101$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031000" name="(Party) Defeat $npc:21420101$" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031001" name="(Party) Defeat $npc:21420102$" feature="ChronicleDungeon60_01" />
 	<key id="23031001" name="(Party) Defeat $npc:21420102$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031001" name="(Party) Defeat $npc:21420102$" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031002" name="(Party) Defeat $npc:21420101$ and $npc:21420102$ within 5 minutes" feature="ChronicleDungeon60_01" />
 	<key id="23031002" name="(Party) Defeat $npc:21420101$ &amp; $npc:21420102$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031002" name="(Party) Defeat $npc:21420101$ and $npc:21420102$ within 5 minutes" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031004" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" />
 	<key id="23031004" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031004" name="Lose points if crushed by a tombstone" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031005" name="Don&apos;t get hit by a wave attack" feature="ChronicleDungeon60_01" />
 	<key id="23031005" name="Don&apos;t get hit by a wave attack" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031005" name="Lose points when hit by the wave attack" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23031006" name="Don&apos;t get hit by $npc:21420101$&apos;s charging stab" feature="ChronicleDungeon60_01" />
 	<key id="23031006" name="Don&apos;t get hit by $npc:21420101$&apos;s charging stab" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23031006" name="Lose points when hit by $npc:21420101$&apos;s charge" feature="DungeonOpen60AH1" locale="JP" />
 	<key id="23032000" name="(Party) Defeat $npc:21420207$" feature="ChronicleDungeon60_01" />
 	<key id="23032000" name="(Party) Defeat $npc:21420207$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032000" name="(Party) Defeat $npc:21420207$" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032001" name="(Party) Defeat $npc:21420207$ within 5 minutes" feature="ChronicleDungeon60_01" />
 	<key id="23032001" name="(Party) Defeat $npc:21420207$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032001" name="(Party) Defeat $npc:21420207$ within 5 minutes" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" />
 	<key id="23032003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032004" name="Don&apos;t get hit by $npc:21420207$&apos;s cresting shockwave" feature="ChronicleDungeon60_01" />
 	<key id="23032004" name="Don&apos;t get hit by $npc:21420207$&apos;s cresting shockwave" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032004" name="Lose points when hit by $npc:21420207$&apos;s wave shockwave" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23032005" name="Don&apos;t get hit by $npc:21420207$&apos;s water cannon" feature="ChronicleDungeon60_01" />
 	<key id="23032005" name="Don&apos;t get hit by $npc:21420207$&apos;s water cannon" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23032005" name="Lose points when hit by $npc:21420207$&apos;s water cannon" feature="DungeonOpen60AH2" locale="JP" />
 	<key id="23033000" name="(Party) Defeat $npc:21420329$" feature="ChronicleDungeon60_01" />
 	<key id="23033000" name="(Party) Defeat $npc:21420329$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033000" name="(Party) Defeat $npc:21420329$" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23033001" name="(Party) Defeat $npc:21420329$ within 6 minutes" feature="ChronicleDungeon60_01" />
 	<key id="23033001" name="(Party) Defeat $npc:21420329$ within 6 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033001" name="(Party) Defeat $npc:21420329$ within 6 minutes" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23033003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" />
 	<key id="23033003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23033004" name="Don&apos;t get hit by $npc:21420329$&apos;s icy ground blast" feature="ChronicleDungeon60_01" />
 	<key id="23033004" name="Don&apos;t get hit by $npc:21420329$&apos;s icy ground blast" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23033004" name="Lose points when hit by $npc:21420329$&apos;s ground frost explosion" feature="DungeonOpen60AH3" locale="JP" />
 	<key id="23034000" name="(Party) Defeat $npc:21420514$" feature="ChronicleDungeon60_01" />
 	<key id="23034000" name="(Party) Defeat $npc:21420514$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034000" name="(Party) Defeat $npc:21420514$" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23034001" name="(Party) Defeat $npc:21421514$ within 5 minutes" feature="ChronicleDungeon60_01" />
 	<key id="23034001" name="(Party) Defeat $npc:21421514$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034001" name="(Party) Defeat $npc:21421514$ within 5 minutes" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23034003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" />
 	<key id="23034003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23034004" name="Don&apos;t get hit by $npc:21420514$&apos;s laser attack" feature="ChronicleDungeon60_01" />
 	<key id="23034004" name="Don&apos;t get hit by $npc:21420514$&apos;s laser attack" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23034004" name="Lose points when hit by $npc:21420514$&apos;s laser attack" feature="DungeonOpen60AH4" locale="JP" />
 	<key id="23035000" name="(Party) Defeat $npc:21420401$" feature="ChronicleDungeon60_01" />
 	<key id="23035000" name="(Party) Defeat $npc:21420401$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035000" name="(Party) Defeat $npc:21420401$" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23035001" name="(Party) Defeat $npc:21420401$ within 5 minutes" feature="ChronicleDungeon60_01" />
 	<key id="23035001" name="(Party) Defeat $npc:21420401$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035001" name="(Party) Defeat $npc:21420401$ within 5 minutes" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23035003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" />
 	<key id="23035003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23035004" name="Don&apos;t get hit by $npc:21420401$&apos;s shockwave" feature="ChronicleDungeon60_01" />
 	<key id="23035004" name="Don&apos;t get hit by $npc:21420401$&apos;s shockwave" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23035004" name="Lose points when hit by $npc:21420401$&apos;s shockwave" feature="DungeonOpen60AH5" locale="JP" />
 	<key id="23036000" name="(Party) Defeat $npc:21420626$ and $npc:21420627$" feature="ChronicleDungeon60_01" />
 	<key id="23036000" name="(Party) Defeat $npc:21420626$ &amp; $npc:21420627$" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036000" name="(Party) Defeat $npc:21420626$ and $npc:21420627$" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036001" name="(Party) Defeat $npc:21420626$ and $npc:21420627$ within 5 minutes" feature="ChronicleDungeon60_01" />
 	<key id="23036001" name="(Party) Defeat $npc:21420626$ &amp; $npc:21420627$ within 5 min" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036001" name="(Party) Defeat $npc:21420626$ and $npc:21420627$ within 5 minutes" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" />
 	<key id="23036003" name="Don&apos;t get tombstoned" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036004" name="Don&apos;t touch electrified ground" feature="ChronicleDungeon60_01" />
 	<key id="23036004" name="Don&apos;t touch electrified ground" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036004" name="Lose points when hit by the electrified ground" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23036005" name="Don&apos;t get hit by a shockwave when the boss lands" feature="ChronicleDungeon60_01" />
 	<key id="23036005" name="Don&apos;t get hit by shockwave when boss lands" feature="ChronicleDungeon60_01" locale="NA" />
+	<key id="23036005" name="Lose points when hit by the landing shockwave after it flies around" feature="DungeonOpen60AH6" locale="JP" />
 	<key id="23037000" name="(Party) Defeat $npc:23000113$" feature="LapentaDungeon" />
 	<key id="23037000" name="(Party) Defeat $npc:23000113$" feature="LapentaDungeon" locale="NA" />
+	<key id="23037000" name="(Party) Defeat $npc:23000113$" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037001" name="(Party) Defeat $npc:23000113$ within 10 minutes and 15 seconds" feature="LapentaDungeon" />
 	<key id="23037002" name="(Party) Defeat $npc:23000113$ within 4 minutes and 15 seconds" feature="LapentaDungeon" />
 	<key id="23037003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" />
 	<key id="23037003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23037003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" />
 	<key id="23037004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23037004" name="(Party) Successfully break the skill within 6 seconds" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037005" name="(Party) Skill break" feature="LapentaDungeon" />
 	<key id="23037005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23037005" name="(Party) Successfully break the skill" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037006" name="(Party) Defeat $npc:23000113$ within 10 minutes and 45 seconds" feature="LapentaDungeon" />
 	<key id="23037006" name="(Party) Defeat $npc:23000113$ within 10 min and 45 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23037006" name="(Party) Defeat $npc:23000113$ within 10 minutes 45 seconds" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23037007" name="(Party) Defeat $npc:23000113$ within 5 minutes and 45 seconds" feature="LapentaDungeon" />
 	<key id="23037007" name="(Party) Defeat $npc:23000113$ within 5 min and 45 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23037007" name="(Party) Defeat $npc:23000113$ within 5 minutes 45 seconds" feature="DungeonOpen60EL3" locale="JP" />
 	<key id="23038000" name="(Party) Defeat $npc:23501001$" feature="LapentaDungeon" />
 	<key id="23038000" name="(Party) Defeat $npc:23501001$" feature="LapentaDungeon" locale="NA" />
+	<key id="23038000" name="(Party) Defeat $npc:23501001$" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038001" name="(Party) Defeat $npc:23501001$ within 6 minutes" feature="LapentaDungeon" />
 	<key id="23038002" name="(Party) Defeat $npc:23501001$ within 2 minutes and 15 seconds" feature="LapentaDungeon" />
 	<key id="23038003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" />
 	<key id="23038003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23038003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" />
 	<key id="23038004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23038004" name="(Party) Successfully break the skill within 6 seconds" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038005" name="(Party) Skill break" feature="LapentaDungeon" />
 	<key id="23038005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23038005" name="(Party) Successfully break the skill" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038006" name="(Party) Defeat $npc:23501001$ within 6 minutes and 15 seconds" feature="LapentaDungeon" />
 	<key id="23038006" name="(Party) Defeat $npc:23501001$ within 6 min and 15 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23038006" name="(Party) Defeat $npc:23501001$ within 6 minutes 15 seconds" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23038007" name="(Party) Defeat $npc:23501001$ within 3 minutes and 30 seconds" feature="LapentaDungeon" />
 	<key id="23038007" name="(Party) Defeat $npc:23501001$ within 3 min and 30 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23038007" name="(Party) Defeat $npc:23501001$ within 3 minutes 30 seconds" feature="DungeonOpen60EL1" locale="JP" />
 	<key id="23039000" name="(Party) Defeat $npc:23501011$" feature="LapentaDungeon" />
 	<key id="23039000" name="(Party) Defeat $npc:23501011$" feature="LapentaDungeon" locale="NA" />
+	<key id="23039000" name="(Party) Defeat $npc:23501011$" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039001" name="(Party) Defeat $npc:23501011$ within 6 minutes" feature="LapentaDungeon" />
 	<key id="23039002" name="(Party) Defeat $npc:23501011$ within 5 min and 30 sec" feature="LapentaDungeon" />
 	<key id="23039003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" />
 	<key id="23039003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23039003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" />
 	<key id="23039004" name="(Party) Skill break within 6 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23039004" name="(Party) Successfully break the skill within 6 seconds" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039005" name="(Party) Skill break" feature="LapentaDungeon" />
 	<key id="23039005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23039005" name="(Party) Successfully break the skill" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039006" name="(Party) Defeat $npc:23501011$ within 6 minutes and 15 seconds" feature="LapentaDungeon" />
 	<key id="23039006" name="(Party) Defeat $npc:23501011$ within 6 min and 15 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23039006" name="(Party) Defeat $npc:23501011$ within 6 minutes 15 seconds" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23039007" name="(Party) Defeat $npc:23501011$ within 5 min and 30 sec" feature="LapentaDungeon" />
 	<key id="23039007" name="(Party) Defeat $npc:23501011$ within 5 min and 30 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23039007" name="(Party) Defeat $npc:23501011$ within 5 minutes 30 seconds" feature="DungeonOpen60EL2" locale="JP" />
 	<key id="23040000" name="(Party) Clear $map:02020130$" feature="LapentaDungeon" />
 	<key id="23040000" name="(Party) Clear $map:02020130$" feature="LapentaDungeon" locale="NA" />
+	<key id="23040000" name="DUNGEONMISSIONNAME_23040000_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040001" name="(Party) Clear $map:02020130$ within 13 min" feature="LapentaDungeon" />
 	<key id="23040002" name="Clear within 6 min 30 sec" feature="LapentaDungeon" />
 	<key id="23040003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" />
 	<key id="23040003" name="Don&apos;t get tombstoned" feature="LapentaDungeon" locale="NA" />
+	<key id="23040003" name="Lose points if crushed by a tombstone" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040004" name="(Party) Skill break all areas within 8 sec" feature="LapentaDungeon" />
 	<key id="23040004" name="(Party) Skill break each boss within 8 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23040004" name="DUNGEONMISSIONNAME_23040004_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040005" name="(Party) Skill break" feature="LapentaDungeon" />
 	<key id="23040005" name="(Party) Skill break" feature="LapentaDungeon" locale="NA" />
+	<key id="23040005" name="DUNGEONMISSIONNAME_23040005_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040006" name="Clear within 11 min 45 sec" feature="LapentaDungeon" />
 	<key id="23040006" name="Clear within 11 min 45 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23040006" name="DUNGEONMISSIONNAME_23040006_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23040007" name="Clear within 7 min 30 sec" feature="LapentaDungeon" />
 	<key id="23040007" name="Clear within 7 min 30 sec" feature="LapentaDungeon" locale="NA" />
+	<key id="23040007" name="DUNGEONMISSIONNAME_23040007_NAME:[F]DungeonOpen60EL4:[L]JP" feature="DungeonOpen60EL4" locale="JP" />
 	<key id="23050000" name="(Party) Defeat $npc:23090006$" feature="Kritias_Balrog01" />
 	<key id="23050001" name="(Party) Defeat $npc:23090006$ within 8 min" feature="Kritias_Balrog01" />
 	<key id="23050002" name="(Party) Defeat $npc:23090006$ within 4 min" feature="Kritias_Balrog01" />
@@ -304,6 +428,89 @@
 	<key id="23090001" name="(Party) Defeat $npc:23000122$ within 12 minutes" feature="Kritias_Turka03" />
 	<key id="23090002" name="(Party) Defeat $npc:23000122$ within 8 minutes" feature="Kritias_Turka03" />
 	<key id="23090003" name="Don&apos;t get tombstoned" feature="Kritias_Turka03" />
+	<key id="23100000" name="(Party) Defeat $npc:23500001$" feature="DungeonOpen70AH3" />
+	<key id="23100001" name="(Party) Defeat $npc:23500001$ within 7 minutes" feature="DungeonOpen70AH3" />
+	<key id="23100002" name="(Party) Defeat $npc:23500001$ within 4 minutes" feature="DungeonOpen70AH3" />
+	<key id="23100003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70AH3" />
+	<key id="23100004" name="Lose points if damaged by a land mine" feature="DungeonOpen70AH3" />
+	<key id="23110000" name="(Party) Defeat $npc:23500002$" feature="DungeonOpen70AH4" />
+	<key id="23110001" name="(Party) Defeat $npc:23500002$ within 7 minutes" feature="DungeonOpen70AH4" />
+	<key id="23110002" name="(Party) Defeat $npc:23500002$ within 4 minutes" feature="DungeonOpen70AH4" />
+	<key id="23110003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70AH4" />
+	<key id="23110004" name="Lose points if hit by a two-handed slam" feature="DungeonOpen70AH4" />
+	<key id="23120000" name="(Party) Defeat $npc:23500004$" feature="DungeonOpen70CH3" />
+	<key id="23120001" name="(Party) Defeat $npc:23500004$ within 5 minutes" feature="DungeonOpen70CH3" />
+	<key id="23120002" name="(Party) Defeat $npc:23500004$ within 10 minutes" feature="DungeonOpen70CH3" />
+	<key id="23120003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70CH3" />
+	<key id="23120004" name="(Party) Defeat $npc:23500003$" feature="DungeonOpen70CH3" />
+	<key id="23120005" name="(Party) Defeat $npc:23500003$ within 5 minutes" feature="DungeonOpen70CH3" />
+	<key id="23120006" name="(Party) Defeat $npc:23500003$ within 10 minutes" feature="DungeonOpen70CH3" />
+	<key id="23130000" name="(Party) Defeat $npc:23500006$" feature="DungeonOpen70CH4" />
+	<key id="23130001" name="(Party) Defeat $npc:23500006$ within 5 minutes" feature="DungeonOpen70CH4" />
+	<key id="23130002" name="(Party) Defeat $npc:23500006$ within 10 minutes" feature="DungeonOpen70CH4" />
+	<key id="23130003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70CH4" />
+	<key id="23130004" name="(Party) Defeat $npc:23500005$" feature="DungeonOpen70CH4" />
+	<key id="23130005" name="(Party) Defeat $npc:23500005$ within 5 minutes" feature="DungeonOpen70CH4" />
+	<key id="23130006" name="(Party) Defeat $npc:23500005$ within 10 minutes" feature="DungeonOpen70CH4" />
+	<key id="23140000" name="(Party) Defeat $npc:23000102$" feature="DungeonOpen70CH5" />
+	<key id="23140001" name="(Party) Defeat $npc:23000102$ within 5 minutes" feature="DungeonOpen70CH5" />
+	<key id="23140002" name="(Party) Defeat $npc:23000102$ within 10 minutes" feature="DungeonOpen70CH5" />
+	<key id="23140003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70CH5" />
+	<key id="23140004" name="(Party) Defeat $npc:23000108$" feature="DungeonOpen70CH5" />
+	<key id="23140005" name="(Party) Defeat $npc:23000108$ within 5 minutes" feature="DungeonOpen70CH5" />
+	<key id="23140006" name="(Party) Defeat $npc:23000108$ within 10 minutes" feature="DungeonOpen70CH5" />
+	<key id="23150000" name="(Party) Clear $map:02000374$" feature="MadDoctor01" />
+	<key id="23150001" name="(Party) Clear $map:02000374$ within 5 minutes" feature="MadDoctor01" />
+	<key id="23150002" name="(Party) Clear $map:02000374$ within 10 minutes" feature="MadDoctor01" />
+	<key id="23150003" name="Lose points if crushed by a tombstone" feature="MadDoctor01" />
+	<key id="23160000" name="(Party) Defeat $npc:23090007$" feature="DungeonOpen70AH5" />
+	<key id="23160001" name="(Party) Defeat $npc:23090007$ within 8 minutes" feature="DungeonOpen70AH5" />
+	<key id="23160002" name="(Party) Defeat $npc:23090007$ within 4 minutes" feature="DungeonOpen70AH5" />
+	<key id="23160003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70AH5" />
+	<key id="23160004" name="Lose points if hit by a ground fire explosion" feature="DungeonOpen70AH5" />
+	<key id="23170000" name="(Party) Defeat $npc:23200009$" feature="DungeonOpen70CH6" />
+	<key id="23170001" name="(Party) Defeat $npc:23200009$ within 5 minutes" feature="DungeonOpen70CH6" />
+	<key id="23170002" name="(Party) Defeat $npc:23200009$ within 10 minutes" feature="DungeonOpen70CH6" />
+	<key id="23170003" name="Lose points if crushed by a tombstone" feature="DungeonOpen70CH6" />
+	<key id="23170004" name="Lose points if affected by SP Seal" feature="DungeonOpen70CH6" />
+	<key id="23170005" name="(Party) Defeat $npc:23200008$" feature="DungeonOpen70CH6" />
+	<key id="23170006" name="(Party) Defeat $npc:23200008$ within 5 minutes" feature="DungeonOpen70CH6" />
+	<key id="23170007" name="(Party) Defeat $npc:23200008$ within 10 minutes" feature="DungeonOpen70CH6" />
+	<key id="23170008" name="Lose points if crushed by a tombstone" feature="DungeonOpen70CH6" />
+	<key id="23170009" name="Lose points if affected by SP Seal" feature="DungeonOpen70CH6" />
+	<key id="23170010" name="Lose points when hit by the shadow laser" feature="DungeonOpen70CH6" />
+	<key id="23180000" name="(Party) Defeat $npc:23000160$ or $npc:23000161$" feature="DungeonOS02" />
+	<key id="23180001" name="(Party) Defeat $npc:23000160$ or $npc:23000161$ within 5 minutes" feature="DungeonOS02" />
+	<key id="23180002" name="(Party) Defeat $npc:23000160$ or $npc:23000161$ within 10 minutes" feature="DungeonOS02" />
+	<key id="23180003" name="Lose points if crushed by a tombstone" feature="DungeonOS02" />
+	<key id="23180004" name="Lose points when hit by $npc:23000160$&apos;s megaphone attack" feature="DungeonOS02" />
+	<key id="23180005" name="(Party) Defeat $npc:23000160$ or $npc:23000161$" feature="DungeonOS02" />
+	<key id="23180006" name="(Party) Defeat $npc:23000160$ or $npc:23000161$ within 5 minutes" feature="DungeonOS02" />
+	<key id="23180007" name="(Party) Defeat $npc:23000160$ or $npc:23000161$ within 10 minutes" feature="DungeonOS02" />
+	<key id="23180008" name="Lose points if crushed by a tombstone" feature="DungeonOS02" />
+	<key id="23180009" name="Lose points when hit by $npc:23000160$&apos;s megaphone attack" feature="DungeonOS02" />
+	<key id="23180010" name="Lose points when hit by $npc:23000160$&apos;s pillar of light attack" feature="DungeonOS02" />
+	<key id="23190000" name="(Party) Defeat $npc:23000400$" feature="DungeonOS01" />
+	<key id="23190001" name="(Party) Defeat $npc:23000400$ within 5 minutes" feature="DungeonOS01" />
+	<key id="23190002" name="(Party) Defeat $npc:23000400$ within 10 minutes" feature="DungeonOS01" />
+	<key id="23190003" name="Lose points if crushed by a tombstone" feature="DungeonOS01" />
+	<key id="23190004" name="Lose points when hit by $npc:23000400$&apos;s flamethrower" feature="DungeonOS01" />
+	<key id="23190005" name="Lose points when $npc:23000400$ casts Flame Shockwave" feature="DungeonOS01" />
+	<key id="23190006" name="Gain $npc:23000430$&apos;s Attack buff" feature="DungeonOS01" />
+	<key id="23190007" name="(Party) Defeat $npc:23000401$" feature="DungeonOS01" />
+	<key id="23190008" name="(Party) Defeat $npc:23000401$ within 5 minutes" feature="DungeonOS01" />
+	<key id="23190009" name="(Party) Defeat $npc:23000401$ within 10 minutes" feature="DungeonOS01" />
+	<key id="23190010" name="Lose points if crushed by a tombstone" feature="DungeonOS01" />
+	<key id="23190011" name="Lose points when hit by $npc:23000401$&apos;s flamethrower" feature="DungeonOS01" />
+	<key id="23190012" name="Lose points when $npc:23000401$ casts Flame Shockwave" feature="DungeonOS01" />
+	<key id="23190013" name="Gain $npc:23000431$&apos;s Attack buff" feature="DungeonOS01" />
+	<key id="23200001" name="(Party) Defeat $npc:44100001$" feature="DungeonOS04" />
+	<key id="23200002" name="(Party) Defeat $npc:44100001$ within 5 minutes" feature="DungeonOS04" />
+	<key id="23200003" name="(Party) Defeat $npc:44100001$ within 10 minutes" feature="DungeonOS04" />
+	<key id="23200004" name="Lose points if crushed by a tombstone" feature="DungeonOS04" />
+	<key id="23200005" name="Lose points when hit by $npc:44100001$&apos;s vocal practice" feature="DungeonOS04" />
+	<key id="23200006" name="Lose points when bound by $npc:44100001$&apos;s vines" feature="DungeonOS04" />
+	<key id="23200007" name="Use a dynamic action under $npc:44100001$&apos;s spotlight" feature="DungeonOS04" />
 	<key id="24090001" name="(Party) Deal 2,400,000,000 damage to Infernog" feature="CrimsonBalrog01" />
 	<key id="24090002" name="(Party) Deal 2,000,000,000 damage to Infernog" feature="CrimsonBalrog01" />
 	<key id="24090003" name="(Party) Survive for 15 minutes" feature="CrimsonBalrog01" />
@@ -321,9 +528,13 @@
 	<key id="24090017" name="(Party) Destroy the battleship&apos;s flank" feature="CrimsonBalrog01" />
 	<key id="24090018" name="Don&apos;t get tombstoned" feature="CrimsonBalrog01" />
 	<key id="24090019" name="(Party) Defeat $npc:23000140$" feature="DungeonOpenNA1901" />
+	<key id="24090019" name="(Party) Defeat $npc:23000140$" feature="CrimsonBalrog01" locale="JP" />
 	<key id="24090020" name="Don&apos;t get tombstoned" feature="DungeonOpenNA1901" />
+	<key id="24090020" name="Lose points if crushed by a tombstone" feature="CrimsonBalrog01" locale="JP" />
 	<key id="24090021" name="(Party) Clear in a party 8 or fewer" feature="DungeonOpenNA1901" />
+	<key id="24090021" name="(Party) Clear with 8 or fewer players" feature="CrimsonBalrog01" locale="JP" />
 	<key id="24090022" name="(Party) Clear in a party 5 or fewer" feature="DungeonOpenNA1901" />
+	<key id="24090022" name="(Party) Clear with 5 or fewer players" feature="CrimsonBalrog01" locale="JP" />
 	<key id="24091001" name="Reduce Veliche&apos;s Health by 5%" feature="FameChallengeDungeon" />
 	<key id="24091002" name="Reduce Veliche&apos;s Health by 20%" feature="FameChallengeDungeon" />
 	<key id="24091003" name="Reduce Veliche&apos;s Health by 60%" feature="FameChallengeDungeon" />
@@ -331,9 +542,13 @@
 	<key id="24091005" name="Defeat Veliche within 3 min" feature="FameChallengeDungeon" />
 	<key id="24091006" name="Defeat Veliche within 70 sec" feature="FameChallengeDungeon" />
 	<key id="24091007" name="Reduce Veliche&apos;s Health by 25%" feature="DungeonOpenNA1901" />
+	<key id="24091007" name="Reduce Veliche&apos;s HP by 25%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24091008" name="Reduce Veliche&apos;s Health by 50%" feature="DungeonOpenNA1901" />
+	<key id="24091008" name="Reduce Veliche&apos;s HP by 50%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24091009" name="Reduce Veliche&apos;s Health by 75%" feature="DungeonOpenNA1901" />
+	<key id="24091009" name="Reduce Veliche&apos;s HP by 75%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24091010" name="Defeat Veliche within 4 min 30 sec" feature="DungeonOpenNA1901" />
+	<key id="24091010" name="Defeat Veliche within 4 minutes 30 seconds" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24092001" name="Reduce Condor&apos;s Health by 5%" feature="FameChallengeDungeon" />
 	<key id="24092002" name="Reduce Condor&apos;s Health by 20%" feature="FameChallengeDungeon" />
 	<key id="24092003" name="Reduce Condor&apos;s Health by 60%" feature="FameChallengeDungeon" />
@@ -341,9 +556,13 @@
 	<key id="24092005" name="Defeat Condor within 3 min" feature="FameChallengeDungeon" />
 	<key id="24092006" name="Defeat Condor within 70 sec" feature="FameChallengeDungeon" />
 	<key id="24092007" name="Reduce Condor&apos;s Health by 25%" feature="DungeonOpenNA1901" />
+	<key id="24092007" name="Reduce Condor&apos;s HP by 25%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24092008" name="Reduce Condor&apos;s Health by 50%" feature="DungeonOpenNA1901" />
+	<key id="24092008" name="Reduce Condor&apos;s HP by 50%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24092009" name="Reduce Condor&apos;s Health by 75%" feature="DungeonOpenNA1901" />
+	<key id="24092009" name="Reduce Condor&apos;s HP by 75%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24092010" name="Defeat Condor within 4 min 30 sec" feature="DungeonOpenNA1901" />
+	<key id="24092010" name="Defeat Condor within 4 minutes 30 seconds" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24093001" name="Clear Round 1" feature="FameChallengeDungeon" />
 	<key id="24093002" name="Clear Round 2" feature="FameChallengeDungeon" />
 	<key id="24093003" name="Clear Round 4" feature="FameChallengeDungeon" />
@@ -351,6 +570,7 @@
 	<key id="24093005" name="Clear Round 5 within 3 min" feature="FameChallengeDungeon" />
 	<key id="24093006" name="Clear Round 5 within 70 sec" feature="FameChallengeDungeon" />
 	<key id="24093007" name="Clear Round 5 within 4 min 30 sec" feature="DungeonOpenNA1901" />
+	<key id="24093007" name="Clear round 5 within 4 minutes 30 seconds" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24094001" name="Reduce Mason&apos;s Health by 5%" feature="FameChallengeDungeon" />
 	<key id="24094002" name="Reduce Mason&apos;s Health by 20%" feature="FameChallengeDungeon" />
 	<key id="24094003" name="Reduce Mason&apos;s Health by 60%" feature="FameChallengeDungeon" />
@@ -358,9 +578,13 @@
 	<key id="24094005" name="Defeat Mason within 3 min" feature="FameChallengeDungeon" />
 	<key id="24094006" name="Defeat Mason within 70 sec" feature="FameChallengeDungeon" />
 	<key id="24094007" name="Reduce Mason&apos;s Health by 25%" feature="DungeonOpenNA1901" />
+	<key id="24094007" name="Reduce Mason&apos;s HP by 25%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24094008" name="Reduce Mason&apos;s Health by 50%" feature="DungeonOpenNA1901" />
+	<key id="24094008" name="Reduce Mason&apos;s HP by 50%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24094009" name="Reduce Mason&apos;s Health by 75%" feature="DungeonOpenNA1901" />
+	<key id="24094009" name="Reduce Mason&apos;s HP by 75%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24094010" name="Defeat Mason within 4 min 30 sec" feature="DungeonOpenNA1901" />
+	<key id="24094010" name="Defeat Mason within 4 minutes 30 seconds" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24095001" name="Reduce Schatten&apos;s Health by 5%" feature="FameChallengeDungeon" />
 	<key id="24095002" name="Reduce Schatten&apos;s Health by 20%" feature="FameChallengeDungeon" />
 	<key id="24095003" name="Reduce Schatten&apos;s Health by 60%" feature="FameChallengeDungeon" />
@@ -368,9 +592,13 @@
 	<key id="24095005" name="Defeat Schatten within 3 min" feature="FameChallengeDungeon" />
 	<key id="24095006" name="Defeat Schatten within 70 sec" feature="FameChallengeDungeon" />
 	<key id="24095007" name="Reduce Schatten&apos;s Health by 25%" feature="DungeonOpenNA1901" />
+	<key id="24095007" name="Reduce Schatten&apos;s HP by 25%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24095008" name="Reduce Schatten&apos;s Health by 50%" feature="DungeonOpenNA1901" />
+	<key id="24095008" name="Reduce Schatten&apos;s HP by 50%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24095009" name="Reduce Schatten&apos;s Health by 75%" feature="DungeonOpenNA1901" />
+	<key id="24095009" name="Reduce Schatten&apos;s HP by 75%" feature="FameChallengeDungeon" locale="JP" />
 	<key id="24095010" name="Defeat Schatten within 4 min 30 sec" feature="DungeonOpenNA1901" />
+	<key id="24095010" name="Defeat Schatten within 4 minutes 30 seconds" feature="FameChallengeDungeon" locale="JP" />
 	<key id="29006001" name="(Party) Defeat $npc:23000076$" feature="EventPapulatus" />
 	<key id="29006002" name="(Party) Defeat $npc:23000076$ within 8 min and 30 sec" feature="EventPapulatus" />
 	<key id="29006003" name="(Party) Defeat $npc:23000076$ within 6 min" feature="EventPapulatus" />

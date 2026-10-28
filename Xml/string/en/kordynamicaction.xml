@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ms2>
+	<key skillID="90200001" reserved="angry|anger|furious|rage|irritated" default="1" />
 	<key skillID="90200001" default="1" reserved="angry|fume|rage|mad|tantrum" locale="NA" />
+	<key skillID="90200001" reserved="angry|furious|upset|enraged|irritated" default="1" locale="JP" />
+	<key skillID="90200001" reserved="angry" default="1" locale="CN" />
 	<key skillID="90200002" default="0" reserved="power|martialshout|chi" />
+	<key skillID="90200003" reserved="pout|displeased" default="1" />
 	<key skillID="90200003" default="1" reserved="pout|upset" locale="NA" />
+	<key skillID="90200003" reserved="angry|short tempered" default="1" locale="JP" />
+	<key skillID="90200003" reserved="pout" default="1" locale="CN" />
+	<key skillID="90200004" reserved="mischievous|sly|heehee" default="1" />
 	<key skillID="90200004" default="1" reserved="sly|sneaky|scheme" locale="NA" />
+	<key skillID="90200004" reserved="lecherous|hehehe|heehee" default="1" locale="JP" />
+	<key skillID="90200004" reserved="sly" default="1" locale="CN" />
+	<key skillID="90200005" reserved="disappointed|sigh|headache" default="1" />
 	<key skillID="90200005" default="1" reserved="dejected|sigh|smh" locale="NA" />
+	<key skillID="90200005" reserved="disappointed|sigh|stressed" default="1" locale="JP" />
+	<key skillID="90200005" reserved="disappointed" default="1" locale="CN" />
+	<key skillID="90200006" reserved="like|excited|happy" default="1" />
 	<key skillID="90200006" default="1" reserved="like|excited|happy|thumbsup" locale="NA" />
+	<key skillID="90200006" reserved="like|fun|happy" default="1" locale="JP" />
+	<key skillID="90200006" reserved="thumbs up" default="1" locale="CN" />
 	<key skillID="90200007" default="0" reserved="uhh|dunno|idk" />
 	<key skillID="90200008" default="0" reserved="pose|tada" />
 	<key skillID="90200009" default="0" reserved="despair|no|defeated" />
 	<key skillID="90200010" default="0" reserved="daydream|dreamy|cute" />
+	<key skillID="90200011" reserved="hi|hello|hey|hiya" default="1" />
 	<key skillID="90200011" default="1" reserved="hi|hello|greet|wave" locale="NA" />
+	<key skillID="90200011" reserved="hello|good day|hi|hey there" default="1" locale="JP" />
+	<key skillID="90200011" reserved="hello" default="1" locale="CN" />
 	<key skillID="90200012" default="0" reserved="lol|mock|grin|tease" />
 	<key skillID="90200013" default="0" reserved="dance|crazy|party" />
 	<key skillID="90200014" default="0" reserved="timeout|knees" />
@@ -20,24 +38,46 @@
 	<key skillID="90200018" default="0" reserved="tantrum|temper|why|nofair" />
 	<key skillID="90200019" default="0" reserved="scissors" />
 	<key skillID="90200019" default="1" reserved="scissors" locale="NA" />
+	<key skillID="90200019" reserved="scissors" default="1" locale="JP" />
 	<key skillID="90200020" default="0" reserved="rock" />
 	<key skillID="90200020" default="1" reserved="rock" locale="NA" />
+	<key skillID="90200020" reserved="rock" default="1" locale="JP" />
 	<key skillID="90200021" default="0" reserved="paper" />
 	<key skillID="90200021" default="1" reserved="paper" locale="NA" />
+	<key skillID="90200021" reserved="paper" default="1" locale="JP" />
+	<key skillID="90200022" reserved="polite|polite greeting|bow" default="1" />
 	<key skillID="90200022" default="1" reserved="respect|bow|salute" locale="NA" />
+	<key skillID="90200022" reserved="polite|polite greeting|bow" default="1" locale="JP" />
+	<key skillID="90200022" default="1" locale="CN" />
+	<key skillID="90200023" reserved="surprised|gasp|wow" default="1" />
 	<key skillID="90200023" default="1" reserved="surprised|gasp|shocked" locale="NA" />
+	<key skillID="90200023" reserved="surprised|huh|shocked" default="1" locale="JP" />
+	<key skillID="90200023" reserved="surprised" default="1" locale="CN" />
+	<key skillID="90200024" reserved="refuse|no thanks|no" default="1" />
 	<key skillID="90200024" default="1" reserved="nope|donotwant|holdon" locale="NA" />
+	<key skillID="90200024" reserved="refuse|no thanks|no" default="1" locale="JP" />
+	<key skillID="90200024" reserved="refuse" default="1" locale="CN" />
 	<key skillID="90200025" default="0" reserved="provoke|bringit|come" />
 	<key skillID="90200026" default="0" reserved="hmph|sulk|sullen" />
 	<key skillID="90200027" default="0" reserved="blowkiss|airkiss|bk" />
 	<key skillID="90200028" default="0" reserved="mwah|kiss|kissy|smooch" />
 	<key skillID="90200029" default="0" reserved="tap|swing|tapdance" />
 	<key skillID="90200030" default="0" reserved="shimmy|shimmy dance" />
+	<key skillID="90200031" reserved="sob|cry|wail|sniffle" default="1" />
 	<key skillID="90200031" default="1" reserved="sob|cry|bawl|sad" locale="NA" />
+	<key skillID="90200031" reserved="sob|cry|wail|sniffle" default="1" locale="JP" />
+	<key skillID="90200031" reserved="cry" default="1" locale="CN" />
+	<key skillID="90200041" reserved="sit" default="1" />
 	<key skillID="90200041" default="1" reserved="sit" locale="NA" />
+	<key skillID="90200041" reserved="sit" default="1" locale="JP" />
+	<key skillID="90200041" reserved="sit" default="1" locale="CN" />
+	<key skillID="90200042" reserved="sit in chair" default="1" />
 	<key skillID="90200042" default="1" reserved="chair|sitchair|sitledge|ledge" locale="NA" />
+	<key skillID="90200042" reserved="sit in chair" default="1" locale="JP" />
+	<key skillID="90200042" reserved="sit in chair" default="1" locale="CN" />
 	<key skillID="90200043" default="0" reserved="aha|epiphany|right" />
 	<key skillID="90200043" default="1" reserved="aha|epiphany|right" locale="NA" />
+	<key skillID="90200043" reserved="I see|realization|is that so" default="1" locale="JP" />
 	<key skillID="90200044" default="0" reserved="mm|dilemma|thinking|problem" />
 	<key skillID="90200045" default="0" reserved="meanie|jerk" />
 	<key skillID="90200046" default="0" reserved="wave|wavy|wavedance" />
@@ -53,6 +93,7 @@
 	<key skillID="90200056" default="0" reserved="lean|leandance" />
 	<key skillID="90200057" default="0" reserved="fan|fandance" />
 	<key skillID="90200057" default="1" reserved="fan|fandance" locale="NA" />
+	<key skillID="90200057" reserved="fan|fan dance|divine fan dance" default="1" locale="JP" />
 	<key skillID="90200058" default="0" reserved="rolling|rolldance" />
 	<key skillID="90200059" default="0" reserved="gmmannequin" />
 	<key skillID="90200060" default="0" reserved="windmill|windmilldance" />
@@ -70,11 +111,13 @@
 	<key skillID="90200072" default="0" reserved="phoenixthrone" />
 	<key skillID="90200073" default="0" reserved="rich|makeitrain" />
 	<key skillID="90200073" default="1" reserved="rich|makeitrain" locale="NA" />
+	<key skillID="90200073" reserved="rich|become rich" default="1" locale="JP" />
 	<key skillID="90200074" default="0" reserved="bobby|bobkiss" />
 	<key skillID="90200075" default="0" reserved="ruby|rkiss" />
 	<key skillID="90200076" default="0" reserved="confess|rose" />
 	<key skillID="90200077" default="0" reserved="prizefish|largefish|fish" />
 	<key skillID="90200077" default="1" reserved="prizefish|largefish|fish" locale="NA" />
+	<key skillID="90200077" reserved="big catch|big fish|catch a big fish" default="1" locale="JP" />
 	<key skillID="90200078" default="0" reserved="goldus|principal" />
 	<key skillID="90200079" default="0" reserved="miel|studentteacher" />
 	<key skillID="90200080" default="0" reserved="belma|moralteacher" />
@@ -91,6 +134,7 @@
 	<key skillID="90200091" default="0" reserved="ambitiousthrone" />
 	<key skillID="90200092" default="0" reserved="highfive|hifive|hf" />
 	<key skillID="90200092" default="1" reserved="highfive|hifive|hf" locale="NA" />
+	<key skillID="90200092" reserved="high five" default="1" locale="JP" />
 	<key skillID="90200093" default="0" reserved="hsb|hopboogie|hop" />
 	<key skillID="90200094" default="0" reserved="ray|ray dance" />
 	<key skillID="90200095" default="0" reserved="ricecake|ricecakepound|pound" />
@@ -112,10 +156,13 @@
 	<key skillID="90200111" default="0" reserved="penguincup|pcup|iceup" />
 	<key skillID="90200112" default="0" reserved="sleepyshroomdance|sleepydance" />
 	<key skillID="90200113" default="0" reserved="watermelonpunch|wapu" />
+	<key skillID="90200114" reserved="panda celebration|panda first anniversary celebration" default="0" feature="WorldChampionMushroom" />
 	<key skillID="90200115" default="0" reserved="monkeydance|themonkey" feature="Event" />
 	<key skillID="90200116" default="0" reserved="gloat|wag" />
 	<key skillID="90200117" default="0" reserved="mushroompowder" feature="SurvivalContents03" />
+	<key skillID="90200117" reserved="scatter mushrooms" default="0" />
 	<key skillID="90200118" default="0" reserved="sleepymushroom|sleepynap" feature="SurvivalContents03" />
+	<key skillID="90200118" reserved="fluffy lazy mushroom" default="0" />
 	<key skillID="90200119" default="0" reserved="puppetshow|puppet" />
 	<key skillID="90200120" default="0" reserved="maple|maplebliss" />
 	<key skillID="90200121" default="0" reserved="sharkfishing|sharkfishingsuccess" />
@@ -138,10 +185,67 @@
 	<key skillID="90200138" default="0" reserved="joyoustwirl" />
 	<key skillID="90200139" default="0" reserved="facingtwirl" />
 	<key skillID="90200140" default="0" reserved="spacewalk" />
+	<key skillID="90200141" reserved="OBT|OBT celebration|celebrate OBT" default="0" feature="Event" />
+	<key skillID="90200141" reserved="OBT|OBT congrats|congratulate OBT" default="0" feature="Event" locale="JP" />
 	<key skillID="90200142" default="0" reserved="styling|pamperself" />
 	<key skillID="90200143" default="0" reserved="dj" />
 	<key skillID="90200144" default="0" reserved="buriedbeach" />
 	<key skillID="90200145" default="0" reserved="warmup|onetwothree" />
+	<key skillID="90200146" reserved="meditate" default="0" />
+	<key skillID="90200147" reserved="Black Bean|soft Black Bean" default="0" />
+	<key skillID="90200148" reserved="flutter|flutter dance" default="0" />
+	<key skillID="90200149" reserved="not dead|play dead|Mabinogi play dead|Mabinogi death" default="0" />
+	<key skillID="90200150" reserved="Mabinogi dance 1|nod dance" default="0" />
+	<key skillID="90200151" reserved="Mabinogi dance 2|hands up dance" default="0" />
+	<key skillID="90200152" reserved="Mabinogi dance 3|back and forth dance" default="0" />
+	<key skillID="90200153" reserved="OK dance" default="0" />
+	<key skillID="90200154" reserved="V V|viva|fourth anniversary dance" default="0" />
+	<key skillID="90200155" reserved="salute" default="0" />
+	<key skillID="90200156" reserved="arrogant gesture|arrogant greeting" default="0" />
+	<key skillID="90200157" reserved="smooth" default="0" />
+	<key skillID="90200158" reserved="swim on land" default="0" />
+	<key skillID="90200159" reserved="catch fish" default="0" />
+	<key skillID="90200160" reserved="pointing dance|point and point" default="0" />
+	<key skillID="90200161" reserved="lie on side" default="0" />
+	<key skillID="90200162" reserved="grow grow" default="0" />
+	<key skillID="90200163" reserved="perform" default="0" />
+	<key skillID="90200164" reserved="hoi|hoi hoi" default="0" />
+	<key skillID="90200165" reserved="yar|yar yar" default="0" />
+	<key skillID="90200166" reserved="sit and ticktock|ticktock 1" default="0" />
+	<key skillID="90200167" reserved="stand and ticktock|ticktock 2" default="0" />
+	<key skillID="90200168" reserved="deep bow|prostrate" default="0" />
+	<key skillID="90200169" reserved="plead|beg" default="0" />
+	<key skillID="90200170" reserved="igloo|igloo crash" default="0" />
+	<key skillID="90200171" reserved="stare into fire|campfire gaze" default="0" />
+	<key skillID="90200172" reserved="lamp genie" default="0" />
+	<key skillID="90200173" reserved="lamp sheep" default="0" />
+	<key skillID="90200174" reserved="sob loudly" default="0" />
+	<key skillID="90200175" reserved="popping|popping dance" default="0" />
+	<key skillID="90200176" reserved="Blue Rook" default="0" />
+	<key skillID="90200177" reserved="hopscotch|play hopscotch" default="0" />
+	<key skillID="90200178" reserved="jegi|jegi kicking" default="0" />
+	<key skillID="90200179" reserved="spinning top|spin a top" default="0" />
+	<key skillID="90200180" reserved="Red Rose Theater|star of the theater" default="0" feature="22_04" />
+	<key skillID="90200181" reserved="bounce dance|bounce" default="0" />
+	<key skillID="90200182" reserved="magnifying glass" default="0" />
+	<key skillID="90200183" reserved="lonely camping" default="0" feature="22_04" />
+	<key skillID="90200184" reserved="relaxing camping" default="0" feature="22_04" />
+	<key skillID="90200185" reserved="figure skating jump" default="0" feature="22_02" />
+	<key skillID="90200186" reserved="let us fly" default="0" feature="22_02" />
+	<key skillID="90200187" reserved="pizza|make pizza" default="0" feature="22_03" />
+	<key skillID="90200188" reserved="hamburger|make hamburger" default="0" feature="22_03" />
+	<key skillID="90200189" reserved="toddle|toddle dance" default="0" feature="22_04" />
+	<key skillID="90200190" reserved="wave large blue flag" default="0" />
+	<key skillID="90200191" reserved="wave large white flag" default="0" />
+	<key skillID="90200192" reserved="wave small blue flag" default="0" />
+	<key skillID="90200193" reserved="wave small white flag" default="0" />
+	<key skillID="90200194" reserved="raise white flag" default="0" />
+	<key skillID="90200195" reserved="raise blue flag" default="0" />
+	<key skillID="90200196" reserved="raise blue and white flags" default="0" />
+	<key skillID="90200197" reserved="pecking dance" default="0" />
+	<key skillID="90200198" reserved="turn and clap" default="0" />
+	<key skillID="90200199" reserved="serving dance" default="0" />
+	<key skillID="90200200" reserved="awkward pose" default="0" />
 	<key skillID="90220001" default="0" reserved="" />
 	<key skillID="90220002" default="0" reserved="" />
 	<key skillID="90220003" default="0" reserved="" />
@@ -177,4 +281,7 @@
 	<key skillID="90220033" default="0" reserved="" />
 	<key skillID="90220034" default="0" reserved="" />
 	<key skillID="90220035" default="0" reserved="" />
+	<key skillID="90220036" default="0" />
+	<key skillID="90220037" default="0" />
+	<key skillID="90220038" default="0" />
 </ms2>

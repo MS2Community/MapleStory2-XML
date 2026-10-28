@@ -268,7 +268,7 @@
 	<key id="s_err_skill_maximum_Height" value="You can&apos;t fly any higher." />
 	<key id="s_err_cannot_use_here_pet_trap" value="You cannot do that while enemies are nearby." />
 	<key id="s_err_taming_attack_other_user" value="Another player is already capturing that pet." />
-	<key id="s_skill_require_achieve" value="&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;Requires Trophy: {0}\n   • &lt;i&gt;{1}&lt;/i&gt;" comment="{0}:[분류]트로피 제목 ex)[생활 트로피]Ⅶ.티끌모아태산, {1}:트로피 목표 ex)5,000메소 주워서 획득하기" />
+	<key id="s_skill_require_achieve" value="&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;Requires Trophy: {0}\n   • &lt;i&gt;{1}&lt;/i&gt;" comment="{0}: [category] trophy title, e.g. [Life Trophy] VII. Every Little Bit Counts; {1}: trophy objective, e.g. collect 5,000 mesos" />
 	<key id="s_portal_invincible_effect_name" value="Pocket Realm Departure" />
 	<key id="s_portal_invincible_effect_description" value="You are leaving the Pocket Realm.\nYou will not take damage until your body and mind\ncompletely escape." />
 	<key id="s_revival_effect_name" value="Tombshocked" />
@@ -380,7 +380,7 @@
 	<key id="s_construct_category" value="Category: {0}" />
 	<key id="s_construct_buy_price" value="Price" />
 	<key id="s_construct_require_interior_level" value="&lt;FONT color=&apos;#FF0000&apos;&gt;Requires Trophy for Interior Design Rank {0}&lt;/FONT&gt;" />
-	<key id="s_construct_require_trophy" value="&lt;FONT color=&apos;#FF0000&apos;&gt;{0}&lt;/FONT&gt;" comment="{0}:미달성 트로피 제목+내용" />
+	<key id="s_construct_require_trophy" value="&lt;FONT color=&apos;#FF0000&apos;&gt;{0}&lt;/FONT&gt;" comment="{0}: unearned trophy title and description" />
 	<key id="s_construct_usecount_and_hascount" value="In use / Owned" />
 	<key id="s_construct_usecount_and_hascount_arg" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0} In Use&lt;/FONT&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;/{1} Owned&lt;/FONT&gt;" />
 	<key id="s_construct_edit_design_install_empty_ugc" value="Please retrieve all Block Templates and try again." />
@@ -523,8 +523,8 @@
 	<key id="s_party_match_dungeon_register" value="Searching for {0} dungeon party." />
 	<key id="s_party_match_dungeon_unregister" value="The {0} dungeon party search has been canceled." />
 	<key id="s_party_create_dungeon" value="A new dungeon lobby has been created." />
-	<key id="s_party_create_club" value="Enter club name.\n(Maximum {1} letters.)" comment="{0}:한글 최대글자수 {1}:최대글자수" feature="Club" />
-	<key id="s_party_change_name" value="Enter a new club name. (Maximum {1} letters.)\n\n&lt;FONT color=&apos;#FF5F5F&apos; &gt;Clubs can be renamed once every hour.&lt;/FONT&gt;" comment="{0}:한글 최대글자수 {1}:최대글자수" feature="Club" />
+	<key id="s_party_create_club" value="Enter club name.\n(Maximum {1} letters.)" comment="{0}: maximum Korean character count; {1}: maximum character count" feature="Club" />
+	<key id="s_party_change_name" value="Enter a new club name. (Maximum {1} letters.)\n\n&lt;FONT color=&apos;#FF5F5F&apos; &gt;Clubs can be renamed once every hour.&lt;/FONT&gt;" comment="{0}: maximum Korean character count; {1}: maximum character count" feature="Club" />
 	<key id="s_party_dungeon_giveup" value="Abandoning the dungeon will fail the challenge for all party members.\nProceed?" />
 	<key id="s_party_notify_dungeon_giveup" value="The party leader has abandoned the dungeon." />
 	<key id="s_party_join_dungeon_helper_msg" value="&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt; has asked for help with &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt;. Will you join their party?" feature="FindDungeonHelp" />
@@ -721,8 +721,8 @@
 	<key id="s_guild_ui_member_location" value="Ch. {0} | {1}" />
 	<key id="s_guild_ui_member_detail" value="Lv. {0} {1} | {2}" />
 	<key id="s_guild_ui_invite_member" value="Please enter the name of the character you wish to invite to the guild." />
-	<key id="s_guild_ui_create" value="Enter a name for your new guild. You must pay a fee of &lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt; to create your guild.\n\nGuild names may be from {1} to {2} letters." comment="{0}:메소 {1}:최소글자수 {2}:최대글자수" />
-	<key id="s_guild_ui_change_name" value="Enter your new guild name. Only the guild leader can rename the guild.\n\n&lt;FONT color=&apos;#FFA200&apos;&gt;Other players will need to log in again to see the new name.&lt;/FONT&gt;\n(Maximum {0} letters.)" comment="{0}:최대글자수" />
+	<key id="s_guild_ui_create" value="Enter a name for your new guild. You must pay a fee of &lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;&lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt; to create your guild.\n\nGuild names may be from {1} to {2} letters." comment="{0}: mesos; {1}: minimum character count; {2}: maximum character count" />
+	<key id="s_guild_ui_change_name" value="Enter your new guild name. Only the guild leader can rename the guild.\n\n&lt;FONT color=&apos;#FFA200&apos;&gt;Other players will need to log in again to see the new name.&lt;/FONT&gt;\n(Maximum {0} letters.)" comment="{0}: maximum character count" />
 	<key id="s_guild_ui_change_notify" value="Please write a guild notice." />
 	<key id="s_guild_ui_extend_member" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0}&lt;/FONT&gt;&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;\nand expand the maximum amount of guild members to &lt;FONT color=&apos;#FFA200&apos;&gt;{1}&lt;/FONT&gt; people?" />
 	<key id="s_guild_ui_extend_max" value="You can no longer increase the number of members." />
@@ -1202,7 +1202,7 @@
 	<key id="s_char_err_no_destroy_wait" value="This character is not waiting to be deleted." />
 	<key id="s_char_err_cannot_select_destroy_wait" value="A character waiting to be deleted cannot connect to the game." />
 	<key id="s_char_err_meso_market_count" value="The character cannot be deleted because they have mesos listed on the Black Market." />
-	<key id="s_char_err_next_delete_char_date" value="You cannot delete this character until {0}." comment="{0}: 2018-01-00 00:00:00 시간 포맷" />
+	<key id="s_char_err_next_delete_char_date" value="You cannot delete this character until {0}." comment="{0}: date and time in 2018-01-00 00:00:00 format" />
 	<key id="s_char_err_founderspack" value="You cannot create a character right now because you don&apos;t have a Founder&apos;s Pack." feature="FoundersPackMode" />
 	<key id="s_msg_admin_input_accountsn" value="Please enter the accountsn to connect." />
 	<key id="s_beauty_skin_name" value="Change skin" />
@@ -1210,14 +1210,14 @@
 	<key id="s_beauty_msg_back_game_no_save" value="You&apos;re about to exit &lt;FONT color=&apos;#FF5F5F&apos;&gt;without saving any changes&lt;/FONT&gt;." />
 	<key id="s_beauty_msg_error_code" value="System Error. Code = {0}\nWill return to the game." />
 	<key id="s_beauty_tooltip_price" value="{0}\n{1}" />
-	<key id="s_beauty_tooltip_price_with_requirelevel" value="{0}\nRequires Level {1}+\n{2}" comment="{0}:아이템 이름, {1}:레벨 제한, {2}:가격" />
-	<key id="s_beauty_tooltip_price_with_achieve" value="{0}\n&lt;FONT color=&apos;#FF0000&apos;&gt;{1} &lt;/FONT&gt;\n{2}" comment="{0}:아이템 이름, {1}:트로피제한, {2}:가격" />
+	<key id="s_beauty_tooltip_price_with_requirelevel" value="{0}\nRequires Level {1}+\n{2}" comment="{0}: item name; {1}: level requirement; {2}: price" />
+	<key id="s_beauty_tooltip_price_with_achieve" value="{0}\n&lt;FONT color=&apos;#FF0000&apos;&gt;{1} &lt;/FONT&gt;\n{2}" comment="{0}: item name; {1}: trophy requirement; {2}: price" />
 	<key id="s_beauty_tooltip_style" value="{0}\n{1}\n{2}" />
 	<key id="s_beauty_tooltip_style_save_date" value="Saved on {0}" />
 	<key id="s_beauty_tooltip_recommand_save_style" value="Save the current style." />
 	<key id="s_beauty_tooltip_color" value="R {0} G {1} B {2}" />
 	<key id="s_beauty_tooltip_color_desc" value="&lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/FONT&gt;\n&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;&lt;FONT color=&apos;#FFFFFF&apos;&gt;{1}&lt;/FONT&gt;" />
-	<key id="s_beauty_tooltip_color_with_achieve" value="{0}&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;&lt;FONT color=&apos;#FF0000&apos;&gt;{1}&lt;/FONT&gt;" comment="{0}:s_beauty_tooltip_color_desc, {1}:트로피제한" />
+	<key id="s_beauty_tooltip_color_with_achieve" value="{0}&lt;font size=&apos;3&apos;&gt;\n&lt;/font&gt;&lt;FONT color=&apos;#FF0000&apos;&gt;{1}&lt;/FONT&gt;" comment="{0}: s_beauty_tooltip_color_desc; {1}: trophy requirement" />
 	<key id="s_beauty_msg_random" value="This was &lt;FONT color=&apos;#FFD200&apos;&gt;randomly selected&lt;/FONT&gt; from the list.\nIt cannot be undone if the change is made.\nDo you still want to change?" />
 	<key id="s_beauty_msg_coloring_confirm" value="Do you want to place {0} in the shopping cart? &lt;FONT size=&apos;3&apos;&gt;&lt;/FONT&gt;&lt;FONT color=&apos;#FF5F5F&apos;&gt;If you don&apos;t place the dyed item in the shopping cart, its color will return to normal.&lt;/FONT&gt;" />
 	<key id="s_beauty_msg_complete_apply_special_hair" value="You have received a special hairstyle." />
@@ -1257,9 +1257,9 @@
 	<key id="s_beauty_goto_map_beauty_3" value="Move to the &lt;FONT color=&apos;#FFD200&apos; &gt;Plastic Surgery Office&lt;/FONT&gt;?" />
 	<key id="s_beauty_goto_map_beauty_5" value="Move to the &lt;FONT color=&apos;#FFD200&apos; &gt;Dye Workshop&lt;/FONT&gt;?" />
 	<key id="s_beauty_fee_default" value=" - " />
-	<key id="s_beauty_fmt_return_coupon" value="{0} {1} x{2}" comment="{0}: 쿠폰 아이콘, {1}: 쿠폰 이름, {2}: 쿠폰 개수" />
-	<key id="s_beauty_fmt_style_select_cur_hair" value="&lt;font color=&apos;#FFD200&apos;&gt;Old Hairstyle&lt;/font&gt;\n{0}" comment="{0}: 헤어 이름 + 케어 쿠폰 지급 개수(s_beauty_fmt_return_coupon)" />
-	<key id="s_beauty_fmt_style_select_new_hair" value="&lt;font color=&apos;#FFD200&apos;&gt;New Hairstyle&lt;/font&gt;\n{0}" comment="{0}: 헤어 이름" />
+	<key id="s_beauty_fmt_return_coupon" value="{0} {1} x{2}" comment="{0}: coupon icon; {1}: coupon name; {2}: coupon quantity" />
+	<key id="s_beauty_fmt_style_select_cur_hair" value="&lt;font color=&apos;#FFD200&apos;&gt;Old Hairstyle&lt;/font&gt;\n{0}" comment="{0}: hair name + number of care coupons awarded (s_beauty_fmt_return_coupon)" />
+	<key id="s_beauty_fmt_style_select_new_hair" value="&lt;font color=&apos;#FFD200&apos;&gt;New Hairstyle&lt;/font&gt;\n{0}" comment="{0}: hair name" />
 	<key id="s_content_shutdown_notice" value="This function has been temporarily restricted." />
 	<key id="s_warehouse_send_to_mail_sender" value="Golden Estates Realty" />
 	<key id="s_warehouse_send_to_mail_title" value="The recalled item has arrived." />
@@ -1391,7 +1391,7 @@
 	<key id="s_word_stat_max" value="{0} (Max)" />
 	<key id="s_word_stat_max_color" value="&lt;font color=&apos;#d659ff&apos;&gt;{0}&lt;/font&gt;" />
 	<key id="s_word_exp" value="Experience" />
-	<key id="s_word_exp_value" value="{0}/{1} Experience" comment="{0}: 획득 경험치 {1}:필요 경험치" />
+	<key id="s_word_exp_value" value="{0}/{1} Experience" comment="{0}: experience gained; {1}: experience required" />
 	<key id="s_word_stat_hp" value="Health" />
 	<key id="s_word_stat_sp" value="Spirit" />
 	<key id="s_word_stat_ep" value="Stamina" />
@@ -2451,7 +2451,7 @@
 	<key id="s_skillbook_auto_distribute_soulbinder_type_c_guide" value="&lt;FONT color=&apos;#FFD400&apos;&gt;Stun &amp; Debuff Focus&lt;/FONT&gt;\nUse accuracy, evasion, and defense-reducing debuffs to aid allies in battle. " />
 	<key id="s_skillbook_auto_distribute_soulbinder_type_a_jobChange01" value="Discord Focus" feature="JobChange_01" />
 	<key id="s_skillbook_auto_distribute_soulbinder_type_b_jobChange01" value="Bonding Focus" feature="JobChange_01" />
-	<key id="s_achieve_title" value="{0}. {1}" comment="{0}:트로피 획득 알림 {1}:트로피 종류" />
+	<key id="s_achieve_title" value="{0}. {1}" comment="{0}: trophy acquisition notice; {1}: trophy type" />
 	<key id="s_achieve_adventure" value="Adventuring" />
 	<key id="s_achieve_combat" value="Challenges" />
 	<key id="s_achieve_life" value="Lifestyle" />
@@ -2472,9 +2472,9 @@
 	<key id="s_achieve_reward_dynamicaction" value="&quot;{0}&quot; Emote Unlocked" />
 	<key id="s_achieve_reward_tab" value="Reward" />
 	<key id="s_achieve_reward_tab_great" value="Emblem" />
-	<key id="s_achieve_renderer_count" value="{0} / {1}" comment="{0} : 업적 카운트 현재 {1} : 업적 카운트 최대" />
-	<key id="s_achieve_renderer_count_time" value="{0} / {1}" comment="{0} : 업적 카운트 현재 시간(분, 시간) {1} : 업적 카운트 최대 시간 (분, 시간)" />
-	<key id="s_achieve_renderer_count_distance" value="{0} / {1}" comment="{0} : 업적 카운트 현재 거리(m, km) {1} : 업적 카운트 최대 거리 (m, km)" />
+	<key id="s_achieve_renderer_count" value="{0} / {1}" comment="{0}: current achievement count; {1}: maximum achievement count" />
+	<key id="s_achieve_renderer_count_time" value="{0} / {1}" comment="{0}: current achievement time (minutes, hours); {1}: maximum achievement time (minutes, hours)" />
+	<key id="s_achieve_renderer_count_distance" value="{0} / {1}" comment="{0}: current achievement distance (m, km); {1}: maximum achievement distance (m, km)" />
 	<key id="s_achieve_renderer_hour" value="{0} hr" />
 	<key id="s_achieve_renderer_min" value="{0} min" />
 	<key id="s_achieve_meter" value="{0} m" />
@@ -2491,12 +2491,12 @@
 	<key id="s_achieve_reset_char" value="Character trophies have been reset. The connection will soon close." />
 	<key id="s_achieve_reset_account" value="Account trophies have been reset. The connection will soon close." />
 	<key id="s_achieve_tooltip_user_info" value="{0} - {1}" />
-	<key id="s_achieve_collectiong_fish_collect" value="Fish 1 {0}" comment="{0} : 물고기 이름" />
-	<key id="s_achieve_collectiong_pet_collect" value="Add 1 {0} to your Pet Album" comment="{0} : 펫 이름" />
-	<key id="s_achieve_collectiong_dungeon_clear" value="Clear {1} ({0}) once" comment="{0}: 던전 타입 {1}:던전 이름" />
-	<key id="s_achieve_category_reward_count" value=" ({0})" comment="{0} : 보상 획득 가능 카운트(ex. 모험({0}))" />
-	<key id="s_achieve_progress_notify_integer" value=" {0} [{1}%]" comment="{0} : 트로피 이름 {1} : 진행상황 (1% 단위씩 나옴)" />
-	<key id="s_achieve_progress_notify_float" value=" {0} [{1:0.1f}%]" comment="{0} : 트로피 이름 {1} : 진행상황 (99퍼센트 이상일 경우 0.1% 단위씩 나옴)" />
+	<key id="s_achieve_collectiong_fish_collect" value="Fish 1 {0}" comment="{0}: fish name" />
+	<key id="s_achieve_collectiong_pet_collect" value="Add 1 {0} to your Pet Album" comment="{0}: pet name" />
+	<key id="s_achieve_collectiong_dungeon_clear" value="Clear {1} ({0}) once" comment="{0}: dungeon type; {1}: dungeon name" />
+	<key id="s_achieve_category_reward_count" value=" ({0})" comment="{0}: number of claimable rewards (e.g. Adventure ({0}))" />
+	<key id="s_achieve_progress_notify_integer" value=" {0} [{1}%]" comment="{0}: trophy name; {1}: progress (in 1% increments)" />
+	<key id="s_achieve_progress_notify_float" value=" {0} [{1:0.1f}%]" comment="{0}: trophy name; {1}: progress (in 0.1% increments above 99%)" />
 	<key id="s_maid_change_maid_name" value="Please name the assistant.\n(You can enter up to 12 letters.)" />
 	<key id="s_maid_change_owner_name" value="Please enter the name you want to be addressed by.\n(You can enter up to 12 letters.)" />
 	<key id="s_maid_default_owner_name" value="Homeowner" />
@@ -2632,7 +2632,7 @@
 	<key id="s_msg_ugc_item_edit_thumbnail_tooltip" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Double-click&lt;/FONT&gt; to begin editing the image {0}&lt;FONT color=&apos;#FFD200&apos;&gt;.&lt;/FONT&gt;" />
 	<key id="s_msg_ugc_item_edit_text_title" value="Warning and Legal Notice" />
 	<key id="s_msg_ugc_expired_item" value="This item has expired." />
-	<key id="s_ugc_itemedit_input_name" value="Enter item name ({0} - {1} characters)" comment="{0}:최소글자수 {1}:최대글자수" />
+	<key id="s_ugc_itemedit_input_name" value="Enter item name ({0} - {1} characters)" comment="{0}: minimum character count; {1}: maximum character count" />
 	<key id="s_ugc_itemedit_error_check_register_fee" value="Please check the registration fee again." />
 	<key id="s_ugc_itemedit_error_check_make_count" value="Confirm the amount you want to make." />
 	<key id="s_ugc_itemedit_error_invalid_design" value="Incorrect designer item." />
@@ -2665,9 +2665,9 @@
 	<key id="s_shop_require_championship_grade" value="Guild ranking above &lt;Img Src=&apos;export_icon_guild_icon_pvp{0}&apos; vspace=&apos;-5&apos; /&gt;\nParticipated at least {1} time(s)" />
 	<key id="s_shop_tooltip_reset" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Instant Restock&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nInstantly restock the shop inventory to skip the wait. When the items selection is refreshed, their attributes may change as well." />
 	<key id="s_shop_tooltip_lua_reset" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Instant Restock&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nInstantly restock the shop inventory to skip the wait. When the items selection is refreshed, their attributes may change as well.\n\nThe prices at the roaming merchant&apos;s shop depend on the number of times you&apos;ve restocked. Your instant restocks reset every day at midnight.\n&lt;FONT color=&apos;#8dd502&apos; size=&apos;14&apos; &gt;Instant Restocks: {0}&lt;/FONT&gt;\n\nInstant Restock 1 - 5 times: 50,000&lt;Img Src=&apos;export_common_icon_meso_h21&apos; vspace=&apos;-6&apos;&gt;&lt;/Img&gt;\nInstant Restock 6 times: 10 {1}\nInstant Restock 7 times: 20 {1}\nInstant Restock 8 times: 40 {1}\nInstant Restock 9 times: 60 {1}\nInstant Restock 10 times: 80 {1}\nInstant Restock 11 - 15 times: 100 {1}\nInstant Restock more than 16 times: 150 {1}\n\n" />
-	<key id="s_shop_tooltip_notice_reset_by_account" value="\n&lt;font color=&apos;#FF5F5F&apos;&gt;This shop&apos;s stock is the same across all of your characters.&lt;/font&gt;" comment="s_shop_reset_time_xxx 아래에 추가로 표시되는 툴팁" />
-	<key id="s_shop_tooltip_require_achieve" value="&lt;FONT color=&apos;#FF0000&apos;&gt;{0}&lt;/FONT&gt;" comment="{0}:트로피 제한" />
-	<key id="s_shop_remain_count" value="Stock: {0}" comment="{0}: 상점 구매 가능 횟수" />
+	<key id="s_shop_tooltip_notice_reset_by_account" value="\n&lt;font color=&apos;#FF5F5F&apos;&gt;This shop&apos;s stock is the same across all of your characters.&lt;/font&gt;" comment="Tooltip additionally shown below s_shop_reset_time_xxx" />
+	<key id="s_shop_tooltip_require_achieve" value="&lt;FONT color=&apos;#FF0000&apos;&gt;{0}&lt;/FONT&gt;" comment="{0}: trophy requirement" />
+	<key id="s_shop_remain_count" value="Stock: {0}" comment="{0}: remaining shop purchases" />
 	<key id="s_shop_npc_talk_welcome" value="We sell only the finest goods. Take your time and have a look around!" />
 	<key id="s_shop_no_star_point_event" value="Can only be used during the event period." />
 	<key id="s_shop_err_item_restricted" value="This item is temporarily unable to be sold." />
@@ -2715,7 +2715,7 @@
 	<key id="s_word_remain" value="{0} left" />
 	<key id="s_word_group" value="Group" />
 	<key id="s_word_newgroup" value="New Group" />
-	<key id="s_quest_desc_with_count" value="{0} ({1}/{2})" comment="{0}:탐험목표, {1}:수행횟수, {2}:필요수행횟수" />
+	<key id="s_quest_desc_with_count" value="{0} ({1}/{2})" comment="{0}: exploration objective; {1}: current count; {2}: required count" />
 	<key id="s_quest_chapter" value="Chapter {0}" />
 	<key id="s_quest_talk_accept" value="Accept\n$key:57$|Decline\n$key:1$" />
 	<key id="s_quest_talk_complete" value="Complete\n$key:57$|Close\n$key:1$" />
@@ -3187,15 +3187,15 @@
 	<key id="s_system_achieve_reward_mentee_token" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Mentee Point x{0}&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_star_point" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Obtained Star Point x{0}&lt;/FONT&gt;" />
 	<key id="s_system_achieve_reward_meso_market_token" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Got Meso Token x{0}&lt;/FONT&gt;" />
-	<key id="s_system_achieve_reward_shop_unlock" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0} for purchase.&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려 있는 아이템 아이디" />
-	<key id="s_system_achieve_reward_dynamicaction" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0}&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려 있는 다이나믹 액션" />
-	<key id="s_system_achieve_reward_beauty" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0}&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려 있는 뷰티 아이템 아이디" />
-	<key id="s_system_achieve_reward_coloring" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0} Dye&lt;/FONT&gt;" comment="{0} : 트로피 제한이 걸려있는 염색 팔레트" />
-	<key id="s_system_achieve_reward_shop_auth_notify" value="{0} purchase rights unlocked." comment="{0} : 트로피 제한이 걸려 있는 아이템 아이디" />
-	<key id="s_system_achieve_reward_coloring_auth_notify" value="{0} dye unlocked." comment="{0} : 트로피 제한이 걸려있는 염색 팔레트" />
-	<key id="s_system_achieve_reward_beauty_auth_notify" value="{0} purchase rights unlocked." comment="{0} : 트로피 제한이 걸려 있는 뷰티 아이템 아이디" />
-	<key id="s_system_achieve_reward_dynamicaction_auth_notify" value="{0} emote unlocked." comment="{0} : 트로피 제한이 걸려 있는 다이나믹 액션" />
-	<key id="s_system_achieve_reward_auth_notify_manual" value="Obtained {0}." comment="{0} : 트로피 매뉴얼 리워드에 적힌 텍스트" />
+	<key id="s_system_achieve_reward_shop_unlock" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0} for purchase.&lt;/FONT&gt;" comment="{0}: item ID with a trophy requirement" />
+	<key id="s_system_achieve_reward_dynamicaction" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0}&lt;/FONT&gt;" comment="{0}: dynamic action with a trophy requirement" />
+	<key id="s_system_achieve_reward_beauty" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0}&lt;/FONT&gt;" comment="{0}: beauty item ID with a trophy requirement" />
+	<key id="s_system_achieve_reward_coloring" value="&lt;FONT color=&apos;#&apos;FFB400&gt;Unlocked {0} Dye&lt;/FONT&gt;" comment="{0}: dye palette with a trophy requirement" />
+	<key id="s_system_achieve_reward_shop_auth_notify" value="{0} purchase rights unlocked." comment="{0}: item ID with a trophy requirement" />
+	<key id="s_system_achieve_reward_coloring_auth_notify" value="{0} dye unlocked." comment="{0}: dye palette with a trophy requirement" />
+	<key id="s_system_achieve_reward_beauty_auth_notify" value="{0} purchase rights unlocked." comment="{0}: beauty item ID with a trophy requirement" />
+	<key id="s_system_achieve_reward_dynamicaction_auth_notify" value="{0} emote unlocked." comment="{0}: dynamic action with a trophy requirement" />
+	<key id="s_system_achieve_reward_auth_notify_manual" value="Obtained {0}." comment="{0}: text in the trophy manual reward" />
 	<key id="s_system_quest_condition" value="{0}" />
 	<key id="s_html_quest_reward" value="\t&lt;FONT color=&apos;#{1:x}&apos; size=&apos;14&apos;&gt;{2}&lt;/FONT&gt;&lt;Img Src=&apos;{0}&apos; vspace=&apos;-3&apos;&gt;&lt;/Img&gt;\n" />
 	<key id="s_system_get_item" value="&lt;FONT color=&apos;#{0:x}&apos;&gt;Got {1}&lt;/FONT&gt;" />
@@ -3336,7 +3336,7 @@
 	<key id="s_interact_result_party" value="Only the party leader has the power to do that." />
 	<key id="s_interact_result_privilege" value="You don&apos;t have permission to do that." />
 	<key id="s_interact_result_unknown" value="System Error: interact. {0}" />
-	<key id="s_interact_result_mastery" value="Requires rank {1} {0}." comment="{0} 생활 기술 타입, {1} 생활기술 등급" />
+	<key id="s_interact_result_mastery" value="Requires rank {1} {0}." comment="{0}: life skill type; {1}: life skill rank" />
 	<key id="s_interact_find_new_telescope" value="You get a good look at the area." />
 	<key id="s_hunting_kill_boss" value="{0} dealt the final blow against {1}." />
 	<key id="s_hunting_npc_kill_boss" value="{0} defeated {1}." />
@@ -3457,9 +3457,9 @@
 	<key id="s_itembreak_donation_legendary_item_checkbox" value="Donate Legendary Items" />
 	<key id="s_itembreak_donation_artifact_item" value="Your donation includes &lt;FONT color=&apos;#ff8c37&apos;&gt;Ascendant&lt;/FONT&gt; or better gear. Are you sure you want to donate these items?" feature="EpicItem" />
 	<key id="s_itembreak_donation_artifact_item_checkbox" value="Ascendant items will also be donated." feature="EpicItem" />
-	<key id="s_itembreak_preview_static" value="{0} x{1}" comment="{0} : 아이템 이름, {1} : 나올 갯수" />
-	<key id="s_itembreak_preview_static_fail" value="Failed to get {0}" comment="{0} : 아이템 이름" />
-	<key id="s_itembreak_preview_random" value="{0} x{1} - {2}" comment="{0} : 아이템 이름, {1} - {2}: 나올 갯수(min-max)" />
+	<key id="s_itembreak_preview_static" value="{0} x{1}" comment="{0}: item name; {1}: quantity received" />
+	<key id="s_itembreak_preview_static_fail" value="Failed to get {0}" comment="{0}: item name" />
+	<key id="s_itembreak_preview_random" value="{0} x{1} - {2}" comment="{0}: item name; {1}–{2}: quantity received (min–max)" />
 	<key id="s_recall_user_notify_recall" value="You summoned {0}." />
 	<key id="s_recall_user_notify_confirm_recall" value="You sent a summon request to {0}." />
 	<key id="s_recall_user_notify_recalled" value="You are being summoned by {0}." />
@@ -3619,7 +3619,7 @@
 	<key id="s_itemenchant_invalid_item" value="This item cannot be enchanted." />
 	<key id="s_itemenchant_except_item" value="&lt;FONT color=&apos;#FF4040&apos;&gt;Cannot be Enchanted&lt;/FONT&gt;" />
 	<key id="s_itemenchant_valid_item" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Can Be Enchanted&lt;/FONT&gt;" />
-	<key id="s_itemenchant_transform_valid_item" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Enchantment can be transferred (+{0} or higher)&lt;/FONT&gt;" comment="{0}:인챈트 단계" />
+	<key id="s_itemenchant_transform_valid_item" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Enchantment can be transferred (+{0} or higher)&lt;/FONT&gt;" comment="{0}: enchantment level" />
 	<key id="s_itemenchant_fail_stack_count" value="&lt;FONT color=&apos;#FFD200&apos;&gt;Enchantment Charge: {0}&lt;/FONT&gt;" feature="EnchantReformation01" />
 	<key id="s_itemenchant_damaged_item_tooltip" value="&lt;FONT color=&apos;#FF4040&apos;&gt;Unstable (Cannot be Enchanted)&lt;/FONT&gt;" />
 	<key id="s_itemenchant_damaged_item" value="The item is unstable." />
@@ -3894,7 +3894,7 @@
 	<key id="s_dungeonRoom_enterButton_party_enter" value="Enter with Party" />
 	<key id="s_dungeonRoom_enterButton_already_enter" value="Enter Open Dungeon" />
 	<key id="s_dungeonRoom_use_extra_count_item" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/font&gt; to increase the daily reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?" />
-	<key id="s_dungeonRoom_use_extra_count_item_week" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/FONT&gt; to increase the weekly reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?" comment="{0}:아이템 이름, {1}:개수(숫자), {2}:던전 이름" />
+	<key id="s_dungeonRoom_use_extra_count_item_week" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/FONT&gt; to increase the weekly reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;?" comment="{0}: item name; {1}: quantity (number); {2}: dungeon name" />
 	<key id="s_dungeonRoom_use_extra_count_item_enter" value="Do you want to use &lt;FONT color=&apos;#FFA200&apos;&gt;{0} x{1}&lt;/font&gt; to increase the daily reward collection limit for the dungeon &quot;{2}&quot; by &lt;FONT color=&apos;#FFA200&apos;&gt;1&lt;/FONT&gt;, and enter the dungeon?" />
 	<key id="s_dungeonRoom_expense_reward_common" value="&lt;FONT color=&apos;#FFD400&apos;&gt; Current Reward Count {0}/{1}&lt;/FONT&gt;\n" />
 	<key id="s_dungeonRoom_expense_reward_with_maxcount" value="&lt;FONT color=&apos;#FFD400&apos;&gt;Clears Used: {0}/{1}&lt;/FONT&gt;\n" />
@@ -3914,7 +3914,7 @@
 	<key id="s_dungeonRoom_reward_daily" value="Daily Clear Count" />
 	<key id="s_dungeonRoom_reward_weekly" value="Weekly Clear Count" />
 	<key id="s_dungeonRoom_reward_account" value="(Account)" />
-	<key id="s_dungeonRoom_reward_round" value="Rounds Cleared: {0} / {1}" comment="{0}:라운드 수, {1}:라운드 수" />
+	<key id="s_dungeonRoom_reward_round" value="Rounds Cleared: {0} / {1}" comment="{0}: round number; {1}: round number" />
 	<key id="s_dungeonRoom_seasonRankBar_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Rank Reward&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nThe weekly rank reward is distributed through the mail and resets weekly, on {0} at midnight.\nFor the weekly rank reward, all rank rewards within the period can be earned.\nAfter reaching a rank, rewards for all ranks below it are awarded.\nEach rank reward can only be earned once." />
 	<key id="s_dungeonRoom_seasonSummary_tooltip1" value="Your weekly rewards rank resets every {0} at midnight. &lt;FONT color=&apos;#00AEEF&apos;&gt;Chaos raid (Lv. {1} or higher)&lt;/FONT&gt; rewards are distributed via mail based on your total Dungeon Points.\n" />
 	<key id="s_dungeonRoom_seasonSummary_tooltip2" value="&lt;FONT color=&apos;#FFD200&apos;&gt;\nReward Info\n&lt;/FONT&gt;" />
@@ -3938,7 +3938,7 @@
 	<key id="s_dungeonRoom_findMember_button_tooltip" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Request Party Member&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\nClick the button to recruit a party member to go through the dungeon with." feature="FindDungeonHelp" />
 	<key id="s_dungeonRoom_party_status_tooltip" value="{0} {1}\n" />
 	<key id="s_dungeonRoom_addExtraRewardCount" value="Add Rewards\n({0}/{1})" />
-	<key id="s_dungeonRoom_unionRewardInfo" value="- The dungeon reward limit for &lt;FONT color=&apos;#00A2ED&apos;&gt;{0}&lt;/FONT&gt; is shared by all characters on your account." comment="{0}:던전 이름" />
+	<key id="s_dungeonRoom_unionRewardInfo" value="- The dungeon reward limit for &lt;FONT color=&apos;#00A2ED&apos;&gt;{0}&lt;/FONT&gt; is shared by all characters on your account." comment="{0}: dungeon name" />
 	<key id="s_dungeonLobby_title" value="{1} ({0})" />
 	<key id="s_dungeonLobby_subTitle" value="Dungeon Created for {0}" />
 	<key id="s_dungeon_record_accum_damage" value="Total Damage: {0}" />
@@ -4168,7 +4168,7 @@
 	<key id="s_meratmarket_limited_buylimit_level_max" value="Can only be purchased by level {0} or lower." />
 	<key id="s_meratmarket_limited_buylimit_level_range" value="Can only be purchased by level {0} to {1}." />
 	<key id="s_meratmarket_limited_buylimit_level_only" value="Can only be purchased by level {0}." />
-	<key id="s_meratmarket_limited_date" value="{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}" comment="{0}:년, {1}:월, {2}:일, {3}:시 {4}:분" />
+	<key id="s_meratmarket_limited_date" value="{0:04d}/{1:02d}/{2:02d} {3:02d}:{4:02d}" comment="{0}: year; {1}: month; {2}: day; {3}: hour; {4}: minute" />
 	<key id="s_meratmarket_limited_buylimit_noreset_account" value="Purchase Limit: {0} per Account" />
 	<key id="s_meratmarket_limited_buylimit_noreset_character" value="Purchase Limit: {0} per Character" />
 	<key id="s_meratmarket_limited_buylimit_day_account" value="Purchase Limit: {0} per Day (Resets at Midnight)" />
@@ -4313,7 +4313,7 @@
 	<key id="s_room_exit_pvp_zone" value="Exit Battleground" />
 	<key id="s_room_exit_arcade" value="Leave the Arcade" />
 	<key id="s_room_exit_maple_survival" value="Exit Mushking Royale" feature="SurvivalContents01" />
-	<key id="s_room_exit_name_17" value="Exit Legion Battle" desc="mapType:17(군단전) 나갈때 메시지" />
+	<key id="s_room_exit_name_17" value="Exit Legion Battle" desc="mapType:17 (Legion Battle) exit message" />
 	<key id="s_room_exit_msg_design" value="Exit Decor Planner" />
 	<key id="s_room_exit_msg_blueprint" value="Exit Blueprint Designer" feature="Blueprint" />
 	<key id="s_room_exit_msg_blueprint_preview" value="Exit Model Home" feature="Blueprint" />
@@ -4326,7 +4326,7 @@
 	<key id="s_room_exit_msg_pvp_field" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;Automatically moving to Maple World in 10 seconds.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_arcade" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;Leaving the Arcade.&lt;/font&gt;" />
 	<key id="s_room_exit_msg_maple_survival" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;Forfeiting Mushking Royale.&lt;/font&gt;&lt;FONT color=&apos;#FFD200&apos;&gt;\nIf you leave while the match is still ongoing, you will not get any rewards. Your ranking will be updated based on your current place in the match.&lt;/font&gt;" feature="SurvivalContents01" />
-	<key id="s_room_exit_msg_17" value="Forfeiting and exiting the {0} legion battle." desc="mapType:17(군단전) 나갈때 메시지 {0}:맵이름" />
+	<key id="s_room_exit_msg_17" value="Forfeiting and exiting the {0} legion battle." desc="mapType:17 (Legion Battle) exit message; {0}: map name" />
 	<key id="s_itemlink_meratmarket" value="[Meret Market: {0}]" />
 	<key id="s_itemlink_cashshop" value="[Cash Shop: {0}]" />
 	<key id="s_waitingticket_message" value="The garden is full.\n Standby: {0}" />
@@ -4389,7 +4389,7 @@
 	<key id="s_attendGift_payAttend_result_hasNotCoupon" value="No vouchers." />
 	<key id="s_attendGift_not_found_event" value="It&apos;s not event time!" />
 	<key id="s_attend_gift_item_require" value="Claim your reward by purchasing and using {0}." />
-	<key id="s_cashAttend_day_index" value="Day {0}" desc="보상 일자" />
+	<key id="s_cashAttend_day_index" value="Day {0}" desc="Reward date" />
 	<key id="s_fieldboss_reward_assistbonus_notify" value="You helped defeat {0}." />
 	<key id="s_macro_penalty_reward_notify" value="Experience and rewards have been restricted due to repeated hunting in the same region." />
 	<key id="s_user_trigger_item_tooltip_enable_trigger_control" value="{0}\nCan be operated by a Trigger Controller." />
@@ -4403,9 +4403,9 @@
 	<key id="s_user_trigger_error_msg_system_error" value="System Error code: {0}" />
 	<key id="s_user_trigger_error_msg_cube_position" value="No Target Object" />
 	<key id="s_user_trigger_state" value="NewState{0}" />
-	<key id="s_user_trigger_label_install_object" value="{0} ({1})" comment="{0}:건설 아이템 이름, {1}:hash code(숫자)" />
-	<key id="s_user_trigger_label_action" value="{0} (Action)" comment="{0}:액션 이름" />
-	<key id="s_user_trigger_label_condition" value="{0} (Condition)" comment="{0}:조건 이름" />
+	<key id="s_user_trigger_label_install_object" value="{0} ({1})" comment="{0}: construction item name; {1}: hash code (number)" />
+	<key id="s_user_trigger_label_action" value="{0} (Action)" comment="{0}: action name" />
+	<key id="s_user_trigger_label_condition" value="{0} (Condition)" comment="{0}: condition name" />
 	<key id="s_user_trigger_ask_msg_clear_contents" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;All triggers associated with this controller will be deleted.&lt;/FONT&gt;\nDo you want to delete the triggers?" />
 	<key id="s_user_trigger_ask_msg_rollback" value="All furnishing items placed in the indoor space will return to their default states. Any triggers that you&apos;ve applied will be initialized.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;Do you want to proceed?&lt;/FONT&gt;" />
 	<key id="s_user_trigger_ask_msg_save" value="Upon saving, your triggers will reset to the &lt;FONT color=&apos;#FF5F5F&apos;&gt;Default&lt;/FONT&gt; state that you have designated.\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos;&gt;Do you want to save your changes?&lt;/FONT&gt;" />
@@ -4827,7 +4827,7 @@
 	<key id="s_tooltip_itemmerge_option_range_f" value="&lt;font color=&apos;#ffffff&apos;&gt;{0} {1}-{2}&lt;/font&gt;" />
 	<key id="s_tooltip_petremake_count" value="&lt;font color=&apos;#ffd200&apos;&gt;Can Change Bonus Talents (Times Changed: {0})&lt;/font&gt;" feature="PetRemake01" />
 	<key id="s_tooltip_petremake_enable" value="&lt;font color=&apos;#ffd200&apos;&gt;Can Change Bonus Talents&lt;/font&gt;" feature="PetRemake01" />
-	<key id="s_tooltip_fmt_in_package_money" value="{0} ({1})" comment="{0}:재화이름, {1}:수량" />
+	<key id="s_tooltip_fmt_in_package_money" value="{0} ({1})" comment="{0}: currency name; {1}: quantity" />
 	<key id="s_play_instrument_grade_Lv1" value="Beginner" />
 	<key id="s_play_instrument_grade_Lv2" value="Intermediate" />
 	<key id="s_play_instrument_grade_Lv3" value="Expert" />
@@ -4948,7 +4948,7 @@
 	<key id="s_anti_addiction_cannot_receive" value="The game will not run due to fatigue time." />
 	<key id="s_auto_itemuse_default" value="Place a consumable item here." />
 	<key id="s_auto_itemuse_condition" value="Use when health is &lt; {0}%" />
-	<key id="s_pet_input_name" value="Please name your pet. (Maximum {1} letters.)" comment="{0}:한글글자길이 {1}:글자길이" />
+	<key id="s_pet_input_name" value="Please name your pet. (Maximum {1} letters.)" comment="{0}: Korean character length; {1}: character length" />
 	<key id="s_pet_tamingnpc_default_perfix_name" value="Hungry" feature="PetBattle" />
 	<key id="s_pet_tamingnpc_max_perfix_name" value="Docile" feature="PetBattle" />
 	<key id="s_pet_tamingnpc_name" value="{0} {1}" comment="{0}:prefix {1}:monstername" feature="PetBattle" />
@@ -5437,7 +5437,7 @@
 	<key id="s_mastery_need_mastery" value="Available at {0}" feature="Mastery" />
 	<key id="s_mastery_manufacture_progress" value="Crafting {0}/{1}" feature="Mastery" />
 	<key id="s_mastery_need_level" value="Level {0}+" feature="Mastery" />
-	<key id="s_mastery_subtab_mastery_name_and_reward" value="{0} ({1})" comment="{0}:생활기술 이름, {1}:보상갯수" feature="Mastery" />
+	<key id="s_mastery_subtab_mastery_name_and_reward" value="{0} ({1})" comment="{0}: life skill name; {1}: reward count" feature="Mastery" />
 	<key id="s_mastery_grade_1" value="Rank 1" feature="Mastery" />
 	<key id="s_mastery_grade_2" value="Rank 2" feature="Mastery" />
 	<key id="s_mastery_grade_3" value="Rank 3" feature="Mastery" />
@@ -5762,7 +5762,7 @@
 	<key id="s_quest_alliance_mapleunion_kritiasexped" value="Kritias Maple Alliance" />
 	<key id="s_quest_alliance_lumiknight_kritiasexped" value="Kritias Lumiknights" />
 	<key id="s_quest_alliance_greenhood_kritiasexped" value="Kritias Green Hoods" />
-	<key id="s_alliance_quest_daily_mission" value="{0} Missions" comment="{0} : 세력명" />
+	<key id="s_alliance_quest_daily_mission" value="{0} Missions" comment="{0}: faction name" />
 	<key id="s_alliance_quest_reward_split" value="   " />
 	<key id="s_alliance_quest_reward_exp" value="&lt;FONT color=&apos;#33FF00&apos;&gt;+{0} Experience&lt;/FONT&gt;" />
 	<key id="s_alliance_quest_reward_fame_point" value="&lt;FONT color=&apos;#5DE6FF&apos;&gt;+{0} Reputation&lt;/FONT&gt;" />
@@ -5987,9 +5987,9 @@
 	<key id="s_msg_nurturing_eat_success" value="The {0} has been fed. ({1}/{2})" />
 	<key id="s_msg_nurturing_eat_success_nocount" value="You fed {0}." />
 	<key id="s_msg_nurturing_play_success" value="You played with {0}. ({1}/{2})" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Event]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Burning characters are subject to the following effects: {0}?&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn. \n• Effects lasts from level 10 until 70. \n• Only 1 burning character can be designated per account. \n• The designated burning character cannot be changed unless the previous is deleted.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" />
-	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;Will you participate in the Winter Burning Event with {0}?&lt;/FONT&gt;\n\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Event]&lt;/FONT&gt;\n• Gain 2 extra levels for every level you earn. \n• Effects lasts from level 9 until 60. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the character you originally designated first.\n\n• After leveling a designated burning character to 60, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 11/13/2019 after maintenance to 12/11/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" comment="{0}:캐릭터 이름" locale="NA" />
-	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\nWould you like to designate &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/font&gt; as your burning character?" comment="{0}:캐릭터 이름" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Event]&lt;/FONT&gt;\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FF5F5F&apos;&gt;Burning characters are subject to the following effects: {0}?&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn. \n• Effects lasts from level 10 until 70. \n• Only 1 burning character can be designated per account. \n• The designated burning character cannot be changed unless the previous is deleted.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" comment="{0}: character name" />
+	<key id="s_burning_levelup_event_set_character_popup" value="&lt;FONT color=&apos;#FF5F5F&apos;&gt;Will you participate in the Winter Burning Event with {0}?&lt;/FONT&gt;\n\n&lt;FONT size=&apos;3&apos;&gt; &lt;/FONT&gt;\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Burning Event]&lt;/FONT&gt;\n• Gain 2 extra levels for every level you earn. \n• Effects lasts from level 9 until 60. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the character you originally designated first.\n\n• After leveling a designated burning character to 60, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 11/13/2019 after maintenance to 12/11/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" comment="{0}: character name" locale="NA" />
+	<key id="s_burning_levelup_event_set_character_popup_bottom" value="\nWould you like to designate &lt;FONT color=&apos;#FFD200&apos;&gt;{0}&lt;/font&gt; as your burning character?" comment="{0}: character name" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Winter Burning Event]&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn.\n• This effect lasts from level 10 until 70. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the original character.\n\nAfter leveling a designated burning character to 70, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 12/13/2018 after maintenance to 2/14/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n\n" />
 	<key id="s_buring_levelup_envent_desc_popup" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Winter Burning Event]&lt;/FONT&gt;\n\n• Gain 2 extra levels for every level you earn.\n• This effect lasts from level 9 until 60. \n• Only 1 burning character can be designated per account. \n• Once designated, you cannot designate a new burning character unless you delete the character you originally designated first.\n\n•After leveling a designated burning character to 60, you can no longer designate another burning character, even if you delete the previous burning character.\n• The Winter Burning Event runs from 11/13/2019 after maintenance to 12/11/2019 before maintenance.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;18&apos; &gt;[Final Reward]&lt;/FONT&gt;\n" locale="NA" />
 	<key id="s_burning_levelup_event_reward_ui_title" value="Burning" />
@@ -6071,11 +6071,11 @@
 	<key id="s_steam_purchase_restriction_adventure_level" value="To spend more than {1} {2} per month, your Prestige Rank must be above {0}." locale="NA" />
 	<key id="s_steam_purchase_restriction_character_level" value="To spend more than {1} {2} per month, you must have a character above level {0}." locale="NA" />
 	<key id="s_steam_purchase_restriction_account_create_days" value="To spend more than {1} {2} per month, your account must be at least {0} days old." locale="NA" />
-	<key id="s_mouse_interact_talk" value="{0} - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{1}&lt;/FONT&gt;" comment="{0}: 액션명 {1} : NPC 이름" feature="MouseInteract" />
-	<key id="s_mouse_interact_hold" value="Hold - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{0}&lt;/FONT&gt;" comment="{0} : NPC 이름" feature="MouseInteract" />
+	<key id="s_mouse_interact_talk" value="{0} - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{1}&lt;/FONT&gt;" comment="{0}: action name; {1}: NPC name" feature="MouseInteract" />
+	<key id="s_mouse_interact_hold" value="Hold - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{0}&lt;/FONT&gt;" comment="{0}: NPC name" feature="MouseInteract" />
 	<key id="s_mouse_interact_talk_end" value="End Conversation" feature="MouseInteract" />
-	<key id="s_mouse_interact_portal" value="Move - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{0}&lt;/FONT&gt;" comment="{0} : MAP 이름" feature="MouseInteract" />
-	<key id="s_mouse_interact_object" value="Action - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{0}&lt;/FONT&gt;" comment="{0} : object 이름" feature="MouseInteract" />
+	<key id="s_mouse_interact_portal" value="Move - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{0}&lt;/FONT&gt;" comment="{0}: map name" feature="MouseInteract" />
+	<key id="s_mouse_interact_object" value="Action - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;{0}&lt;/FONT&gt;" comment="{0}: object name" feature="MouseInteract" />
 	<key id="s_mouse_interact_taxi" value="Action - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;Call Taxi&lt;/FONT&gt;" feature="MouseInteract" />
 	<key id="s_mouse_interact_ugcbanner" value="Action - &lt;FONT color=&apos;#FFD200&apos; size=&apos;16&apos; &gt;List Ad&lt;/FONT&gt;" feature="MouseInteract" />
 	<key id="s_closet_ask_add_tab" value="Please enter a name for your new gear or outfit set." feature="Closet" />
@@ -6084,15 +6084,15 @@
 	<key id="s_closet_ask_clear_tab_not_empty" value="Remove all items from this set? " feature="Closet" />
 	<key id="s_closet_default_tab_name" value="Set {0}" comment="{0} : index" feature="Closet" />
 	<key id="s_closet_msg_empty_items_when_click_puton" value="You must assign items to this set first. Use the Save button to assign your currently equipped items to this set." feature="Closet" />
-	<key id="s_closet_msg_empty_items_when_click_save" value="Equip the items in the {0} tab of your Character window." comment="{0} : 탭이름" feature="Closet" />
+	<key id="s_closet_msg_empty_items_when_click_save" value="Equip the items in the {0} tab of your Character window." comment="{0}: tab name" feature="Closet" />
 	<key id="s_closet_msg_cant_use_when_battle_state" value="Cannot be used in combat." feature="Closet" />
-	<key id="s_closet_tooltip_tab" value="{0}" commnet="{0} : 탭이름" feature="Closet" />
+	<key id="s_closet_tooltip_tab" value="{0}" commnet="{0}: tab name" feature="Closet" />
 	<key id="s_closet_msg_success" value="You equipped a set from your wardrobe." feature="Closet" />
 	<key id="s_closet_msg_item_not_exist" value="All eligible items have been equipped." feature="Closet" />
 	<key id="s_closet_msg_item_failed" value="You do not meet the requirements to equip one or more items." feature="Closet" />
 	<key id="s_closet_tooltip_msg_for_remove" value="&lt;FONT color=&apos;#FF5f5f&apos;&gt;You don&apos;t have the item with you right now.&lt;/FONT&gt;" feature="Closet" />
 	<key id="s_word_commingSoon" value="This feature is currently unavailable." />
-	<key id="s_fieldwar_sidepopup_script" value="Enemy forces incoming!\n&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt; needs reinforcements right away!" comment="{0} : 필드맵" feature="Fieldwar01" />
+	<key id="s_fieldwar_sidepopup_script" value="Enemy forces incoming!\n&lt;FONT color=&apos;#ffd200&apos;&gt;{0}&lt;/FONT&gt; needs reinforcements right away!" comment="{0}: field map" feature="Fieldwar01" />
 	<key id="s_arcade_game_preparing" value="Preparing" />
 	<key id="s_arcade_text_effect_consecutive_win" value="{0} wins in a row!" feature="Event" />
 	<key id="s_item_multi_open_box_count" value="{0} / {1}" />
@@ -6328,7 +6328,7 @@
 	<key id="s_wedding_guest_tab_guild" value="Guild" feature="Wedding" />
 	<key id="s_wedding_guest_tab_stranger" value="Direct" feature="Wedding" />
 	<key id="s_wedding_guest_counter" value="Number of people selected: {0} / {1}" feature="Wedding" />
-	<key id="s_unlimited_enchant_fee" value="비용 {0}&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" feature="UnlimitedEnchant" />
+	<key id="s_unlimited_enchant_fee" value="Cost {0}&lt;Img Src=&apos;export_common_icon_meso&apos; vspace=&apos;-4&apos;&gt;&lt;/Img&gt;" feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_invalid_item" value="This item cannot used for limit break." feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_lack_ingredient" value="Insufficient ingredients." feature="UnlimitedEnchant" />
 	<key id="s_unlimited_enchant_err_lack_meso" value="Insufficient mesos." feature="UnlimitedEnchant" />
@@ -6336,7 +6336,7 @@
 	<key id="s_unlimited_enchant_err_system" value="System Error {0}" feature="UnlimitedEnchant" />
 	<key id="s_word_item_unlimited_enchant" value="*{0} {1}" feature="UnlimitedEnchant" />
 	<key id="s_tooltip_itemoption_unlimited" value="&lt;font color=&apos;#ffd200&apos;&gt;Limit Break {0}*\n{1}&lt;/font&gt;" feature="UnlimitedEnchant" />
-	<key id="s_msg_item_open_item_box_mergeLV60item" value="Consumes &lt;FONT color=&apos;#FFA200&apos;&gt;1개&lt;/FONT&gt; item when used.\nExchanged for 2 Transcendence Crystals that can be used on armor except for suit.\n\nWould you like to continue?\nIf your inventory is full, the contents will be mailed." feature="ItemMergeLV60" />
+	<key id="s_msg_item_open_item_box_mergeLV60item" value="Consumes &lt;FONT color=&apos;#FFA200&apos;&gt;1 item&lt;/FONT&gt; when used.\nExchanges it for 2 Transcendence Crystals usable on armor except full-body outfits.\n\nUse this item?\nIf your inventory is full, the contents will be sent by mail." feature="ItemMergeLV60" />
 	<key id="s_err_lack_guild_event_fund" value="Insufficient guild funds." />
 	<key id="s_err_shop_expired" value="The shop has expired." />
 	<key id="s_msg_item_open_massive_only_wedding_user" value="Photo shoot and after-party tickets are only available for the bride and groom at the wedding venue." feature="Wedding" />
