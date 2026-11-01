@@ -96,6 +96,7 @@
 	<v key="StoreExpandMaxSlotCount" value="168" />
 	<v key="StoreExpandPrice1Row" value="100" locale="KR" />
 	<v key="StoreExpandPrice1Row" value="1500" locale="CN" />
+	<v key="StoreExpandPrice1Row" value="330" locale="NA" />
 	<v key="StoreDepositMax" value="2000000000" />
 	<v key="StoreWithdrawMax" value="2000000000" />
 	<v key="CameraExtraMoveScaleByMonster" value="3" />
@@ -220,11 +221,14 @@
 	<v key="UGCShopSellMinPrice" value="150" />
 	<v key="UGCShopSellMaxPrice" value="3000" />
 	<v key="UGCShopSaleDay" value="30" />
+	<v key="UGCShopSaleDay" value="90" locale="NA" />
 	<v key="UGCShopAdFeeMerat" value="30" locale="KR" />
 	<v key="UGCShopAdFeeMerat" value="120" locale="CN" />
+	<v key="UGCShopAdFeeMerat" value="30" locale="NA" />
 	<v key="UGCShopAdHour" value="72" />
 	<v key="UGCShopSellingRestrictAmount" value="200000" locale="KR" />
 	<v key="UGCShopSellingRestrictAmount" value="1000000" locale="CN" />
+	<v key="UGCShopSellingRestrictAmount" value="200000" locale="NA" />
 	<v key="MeratMarketHomeBannerShowTick" value="6000" />
 	<v key="BlackMarketSellMinPrice" value="100" />
 	<v key="BlackMarketSellMaxPrice" value="10000000000" />
@@ -241,12 +245,14 @@
 	<v key="AccumWarning_AddRestrictTime" value="60000" />
 	<v key="RestrictWarning_ReleaseTime" value="10000" />
 	<v key="MaxChatLength" value="50" />
+	<v key="MaxChatLength" value="100" locale="NA" />
 	<v key="EmotionBoreAnimProbability" value="100" />
 	<v key="FallMoveSpeed" value="1.0" />
 	<v key="GuildCreatePrice" value="2000" />
 	<v key="GuildCreateMinLevel" value="0" />
 	<v key="GuildNameLengthMin" value="2" />
 	<v key="GuildNameLengthMax" value="10" />
+	<v key="GuildNameLengthMax" value="25" locale="NA" />
 	<v key="guildFundRate" value="0.1" />
 	<v key="guildExpMaxCountForPlayTime" value="2" />
 	<v key="guildDonateMeso" value="10000" />
@@ -378,8 +384,10 @@
 	<v key="MeratRevivalFeeReduceLimit" value="0.5" />
 	<v key="MeratConsumeWorldChat" value="10" locale="KR" />
 	<v key="MeratConsumeWorldChat" value="100" locale="CN" />
+	<v key="MeratConsumeWorldChat" value="30" locale="NA" />
 	<v key="MeratConsumeChannelChat" value="1" locale="KR" />
 	<v key="MeratConsumeChannelChat" value="10" locale="CN" />
+	<v key="MeratConsumeChannelChat" value="3" locale="NA" />
 	<v key="MeratConsumeSuperChat" value="200" />
 	<v key="guildPVPMatchingTime" value="3" />
 	<v key="guildPVPWinPoint" value="10" />
@@ -432,7 +440,9 @@
 	<v key="RoomExitWaitSecond" value="10" />
 	<v key="AdditionalMesoMaxRate" value="7" />
 	<v key="AdditionalExpMaxRate" value="7" />
+	<v key="AdditionalExpMaxRate" value="9" locale="NA" />
 	<v key="HonorTokenMax" value="5000" />
+	<v key="HonorTokenMax" value="30000" locale="NA" />
 	<v key="KarmaTokenMax" value="75000" />
 	<v key="LuTokenMax" value="2000" />
 	<v key="HabiTokenMax" value="35000" />
@@ -456,6 +466,7 @@
 	<v key="ShadowWorldAutoReviveDeadAction" value="1" />
 	<v key="GoodIteriorRecommendUICloseTime" value="15" />
 	<v key="UGCInfoDetailViewPage" value="maview:/GuideUGC/Main/" />
+	<v key="UGCInfoDetailViewPage" value="http://www.nexon.net/en/legal/user-generated-content-policy" locale="NA" />
 	<v key="UGCInfoStoryBookID" value="39000038" />
 	<v key="HomePasswordUsersKickDelay" value="10" />
 	<v key="TriggerEditorHelpURL" value="maview:/News/DetailView?tp=notice&amp;s=535795" locale="KR" />
@@ -472,6 +483,7 @@
 	<v key="RecallWeddingPortalNif" value="Eff_Com_Portal_E_Wedding" />
 	<v key="PartyRecallMerat" value="30" locale="KR" />
 	<v key="PartyRecallMerat" value="150" locale="CN" />
+	<v key="PartyRecallMerat" value="30" locale="NA" />
 	<v key="RecallPortalKeepTime" value="60" />
 	<v key="RecallPartyPortalKeepTime" value="180" />
 	<v key="CashCallMedicLeaveDelay" value="0.5" />
@@ -547,27 +559,34 @@
 	<v key="DungeonRoomMaxRewardCount" value="99" />
 	<v key="DungeonMatchRecommendPickCount" value="6" locale="KR" />
 	<v key="DungeonMatchRecommendPickCount" value="10" locale="CN" />
+	<v key="DungeonMatchRecommendPickCount" value="6" locale="NA" />
 	<v key="DungeonExpenseRewardMinLevel" value="10" />
 	<v key="DungeonSeasonRankMinLevel" value="60" />
+	<v key="DungeonSeasonRankMinLevel" value="99" locale="NA" />
 	<v key="ChaosDungeonReviveBossBuff" value="79000001" />
 	<v key="ChaosDungeonReviveUserDebuff" value="79000002" />
 	<v key="LimitMeratRevival" value="0" />
+	<v key="LimitMeratRevival" value="1" locale="NA" />
 	<v key="MinimapScaleSkipDuration" value="5000" />
 	<v key="MinimapScaleSkipSplitPixel" value="20" />
 	<v key="TradeMinMeso" value="100" />
 	<v key="TradeMaxMeso" value="500000000" />
 	<v key="TradeFeePercent" value="10" />
+	<v key="TradeFeePercent" value="20" locale="NA" />
 	<v key="GuideQuestDailyPickCountCommon" value="2" />
 	<v key="GuideQuestDailyPickCountDungeon" value="2" />
 	<v key="GuideQuestDailyPickCountBoss" value="1" />
 	<v key="DailyMissionPickCount" value="3" />
 	<v key="DailyMissionRequireLevel" value="1" />
+	<v key="DailyMissionRequireLevel" value="50" locale="NA" />
 	<v key="NearDropDistance" value="450.0" />
 	<v key="FarDropDistance" value="900.0" />
 	<v key="MesoMarketBasePrice" value="1000000" locale="KR" />
 	<v key="MesoMarketBasePrice" value="1000000" locale="CN" />
+	<v key="MesoMarketBasePrice" value="5000000" locale="NA" />
 	<v key="MesoMarketProductUnit0" value="10000000" locale="KR" />
 	<v key="MesoMarketProductUnit0" value="1000000" locale="CN" />
+	<v key="MesoMarketProductUnit0" value="5000000" locale="NA" />
 	<v key="MesoMarketProductUnit1" value="20000000" locale="KR" />
 	<v key="MesoMarketProductUnit1" value="5000000" locale="CN" />
 	<v key="MesoMarketProductUnit2" value="30000000" locale="KR" />
@@ -585,8 +604,10 @@
 	<v key="MesoMarketProductUnit9" value="100000000" locale="KR" />
 	<v key="MesoMarketBuyPayType" value="3" locale="KR" />
 	<v key="MesoMarketBuyPayType" value="3" locale="CN" />
+	<v key="MesoMarketBuyPayType" value="16" locale="NA" />
 	<v key="MesoMarketIconType" value="0" locale="KR" />
 	<v key="MesoMarketIconType" value="2" locale="CN" />
+	<v key="MesoMarketIconType" value="0" locale="NA" />
 	<v key="BeautyHairShopGotoFieldID" value="52000008" />
 	<v key="BeautyHairShopGotoPortalID" value="1" />
 	<v key="BeautyColorShopGotoFieldID" value="52000009" />
@@ -596,6 +617,7 @@
 	<v key="DropItemSendMail" value="52000001" />
 	<v key="BeautyStyleExpandSlotPrice" value="330" locale="KR" />
 	<v key="BeautyStyleExpandSlotPrice" value="188" locale="CN" />
+	<v key="BeautyStyleExpandSlotPrice" value="980" locale="NA" />
 	<v key="BeautyStyleMaxSlotCount" value="5" />
 	<v key="BeautyStyleDefaultSlotCount" value="30" />
 	<v key="BeautyStyleExpandSlotCount1time" value="1" />
@@ -620,6 +642,7 @@
 	<v key="HomeDoctorScriptID1" value="10" />
 	<v key="EnchantMasterScriptID" value="31" />
 	<v key="RestExpAcquireRate" value="20000" />
+	<v key="RestExpAcquireRate" value="10000" locale="NA" />
 	<v key="RestExpMaxAcquireRate" value="100000" />
 	<v key="ApartmentPreviewRequireLevel" value="50" />
 	<v key="ApartmentPreviewRequireQuestID" value="90000060" />
@@ -634,6 +657,7 @@
 	<v key="ResetShadowBuffMerat" value="100" />
 	<v key="InventoryExpandPrice1Row" value="100" locale="KR" />
 	<v key="InventoryExpandPrice1Row" value="1888" locale="CN" />
+	<v key="InventoryExpandPrice1Row" value="390" locale="NA" />
 	<v key="VIPServicePeriodLimitDay" value="60" />
 	<v key="VIPMarketCommitionSale" value="20" locale="NA" />
 	<v key="DungeonMatchNormalTimeOutTick" value="120000" />
@@ -657,6 +681,7 @@
 	<v key="QuestPortalDistanceFromNpc" value="200" />
 	<v key="PetChangeNameMerat" value="100" locale="KR" />
 	<v key="PetChangeNameMerat" value="500" locale="CN" />
+	<v key="PetChangeNameMerat" value="100" locale="NA" />
 	<v key="ConstructAuthorityMax" value="30" />
 	<v key="HonorTokenResetDayOfWeek" value="5" />
 	<v key="HonorTokenResetDayOfWeek" value="6" locale="CN" />
@@ -692,6 +717,7 @@
 	<v key="TamingPetValidDistance" value="3000" />
 	<v key="PetNameLengthMin" value="2" />
 	<v key="PetNameLengthMax" value="12" />
+	<v key="PetNameLengthMax" value="25" locale="NA" />
 	<v key="PetTrapDropVisibleDelay" value="2000" />
 	<v key="PetMaxLevel" value="50" />
 	<v key="VisitorBookURL" value="maview:/Guestbook?s={0}" locale="KR" />
@@ -718,8 +744,10 @@
 	<v key="BreedingObjectMarkOffsetY" value="0.0" />
 	<v key="UGCAttention" value="1" locale="KR" />
 	<v key="UGCAttention" value="0" locale="CN" />
+	<v key="UGCAttention" value="0" locale="NA" />
 	<v key="UGCInfringementCenter" value="1" locale="KR" />
 	<v key="UGCInfringementCenter" value="0" locale="CN" />
+	<v key="UGCInfringementCenter" value="1" locale="NA" />
 	<v key="GuildVsGameMinUserCount" value="5" />
 	<v key="CharacterSelectBoreIdleEffect_Ranger" value="" />
 	<v key="CharacterSelectBoreIdleEffect_SoulBinder" value="" />
@@ -750,6 +778,7 @@
 	<v key="userMassiveExtraRewardMax" value="5" />
 	<v key="SkillBookTreeAddTabFeeMerat" value="0" locale="KR" />
 	<v key="SkillBookTreeAddTabFeeMerat" value="5888" locale="CN" />
+	<v key="SkillBookTreeAddTabFeeMerat" value="990" locale="NA" />
 	<v key="MentorRequireLevel" value="50" />
 	<v key="MenteeRequireLevel" value="30" />
 	<v key="MentorMaxWaitingCount" value="100" />
@@ -838,17 +867,23 @@
 	<v key="RegionServerUrl_en" value="http://ugc.maplestory2.nexon.net/region/region_EN.xml" />
 	<v key="RegionServerUrl_bpo" value="http://ugc.maplestory2.nexon.net/region/region_BPO.xml" />
 	<v key="TooltipLabelMaxWidth" value="0" />
+	<v key="TooltipLabelMaxWidth" value="408" locale="NA" />
 	<v key="ClubNameLengthMin" value="2" />
 	<v key="ClubNameLengthMax" value="12" />
+	<v key="ClubNameLengthMax" value="25" locale="NA" />
 	<v key="UgcNameLengthMin" value="3" />
 	<v key="UgcNameLengthMax" value="14" />
+	<v key="UgcNameLengthMax" value="25" locale="NA" />
 	<v key="UgcTagLengthMax" value="6" />
+	<v key="UgcTagLengthMax" value="12" locale="NA" />
 	<v key="ChangeJobLevel" value="60" />
 	<v key="LapenShardOpenQuestID" value="20002391,10002003" feature="Lapenshard01" />
 	<v key="MaidNameLengthMin" value="1" />
 	<v key="MaidNameLengthMax" value="12" />
+	<v key="MaidNameLengthMax" value="35" locale="NA" />
 	<v key="MaidDescLengthMin" value="1" />
 	<v key="MaidDescLengthMax" value="16" />
+	<v key="MaidDescLengthMax" value="35" locale="NA" />
 	<v key="GamePadStickMoveValue" value="50" />
 	<v key="HighlightMenuUsingLevel" value="5" feature="HighlightGameMenu" />
 	<v key="PartyVoteReadyDurationSeconds" value="20" />
