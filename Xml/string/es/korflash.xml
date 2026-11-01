@@ -2952,11 +2952,11 @@
 	<key id="$s_bingo_event_dialog_reward_condition_last" value="X TODO" feature="Event" />
 	<key id="$s_bingo_event_dialog_infomation" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Información de bingo completo\nPuedes obtener diversas recompensas según la cantidad de líneas de bingo completadas al completar el tablero de bingo.\nUsando el ítem Lápiz Mágico, puedes marcar los números de bingo de hoy,\ny usando el ítem Lápiz Mágico Plus, puedes marcar los números que desees.\n\n&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Notas importantes&lt;/FONT&gt;\n- Los números de bingo de hoy se anunciarán a la medianoche todos los días.\n- El tablero de bingo funciona por cuenta.\n- Las recompensas se pueden obtener una vez por cuenta." feature="Event" />
 	<key id="$s_bingo_event_click_normal" value="Por favor, selecciona uno de los números de bingo de hoy." feature="Event" />
-	<key id="$s_bingo_event_click_rare" value="Por favor, selecciona el número a marcar usando {0}$pp: para, por$." feature="Event" />
+	<key id="$s_bingo_event_click_rare" value="Por favor, selecciona el número a marcar usando {0}." feature="Event" />
 	<key id="$s_bingo_event_description" value="Presiona el botón [Usar] de {0} y {1} para marcar el número de bingo.\nLos números de bingo de hoy se anunciarán a la medianoche todos los días." feature="Event" />
 	<key id="$s_bingo_event_complete_bingo" value="Bingo de {0} líneas completado" feature="Event" />
 	<key id="$s_bingo_event_complete_all_bingo" value="Bingo COMPLETO" feature="Event" />
-	<key id="$s_bingo_event_check" value="¿Deseas marcar el número {1}$pp: para, por$ usando {0}?" feature="Event" />
+	<key id="$s_bingo_event_check" value="¿Deseas marcar el número {1} usando {0}?" feature="Event" />
 	<key id="$s_bingo_event_change_day" value="Se han anunciado nuevos números de bingo para hoy. \nPor favor, vuelve a ejecutar el evento de bingo." feature="Event" />
 	<key id="$s_dungeon_control_center_title" value="Buscar mazmorras" />
 	<key id="$s_dungeon_control_center_find" value="Reclutamiento de aventureros" />
@@ -3084,8 +3084,8 @@
 	<key id="$s_random_coupon_sale_text" value="¡Descuentos de hoy!" />
 	<key id="$s_lead_skill_title" value="Habilidad de líder" />
 	<key id="$s_lead_skill_dialog_lefttop_skill_level" value="LV.{0}" />
-	<key id="$s_lead_skill_dialog_from_char" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:de$ está recibiendo efectos de" />
-	<key id="$s_lead_skill_dialog_from_char_fail" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;$pp2:de$ no está recibiendo efectos de" />
+	<key id="$s_lead_skill_dialog_from_char" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;de está recibiendo efectos de" />
+	<key id="$s_lead_skill_dialog_from_char_fail" value="&lt;font color=&apos;#ffd200&apos;&gt;{0}&lt;/font&gt;de no está recibiendo efectos de" />
 	<key id="$s_lead_skill_dialog_char_unlimited_level" value="Superación de límite {0} etapas" />
 	<key id="$s_quest_guide_tooltip_party_search" value="&lt;FONT color=&apos;#FFD200&apos; size=&apos;15&apos; &gt;Buscar equipo&lt;/FONT&gt;\n\nDespués de reclutar a los miembros del equipo para entrar en la mazmorras, puedes ir de inmediato.\nSi ya tienes un equipo pero deseas seguir buscando miembros,\npor favor haz clic en &lt;FONT color=&apos;#45D1FF&apos;&gt;[Buscar equipo]&lt;/FONT&gt;.\n\nSi deseas entrar en la mazmorras con el equipo actual,\npuedes hacer clic en el botón &lt;FONT color=&apos;#45D1FF&apos;&gt;[Entrar con el equipo actual]&lt;/FONT&gt; en la información de la mazmorras." feature="DirectQuestFindParty" />
 	<key id="$s_gamemenu_popup_survival" value="Campeonato de Mash King" feature="SurvivalContents01" />
