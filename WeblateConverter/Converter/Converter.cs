@@ -361,6 +361,12 @@ public class Converter {
                 keyIssues += VerifySkillTemplates(skillTable, json, locale);
             }
 
+            // 1d. $pp:A,B$ picks a Korean particle and the English client prints it verbatim.
+            //     Reported, not failed, so one stray token can't hold back the nightly.
+            if (locale == "en") {
+                ReportParticleTokens(json, jsonFile.Name);
+            }
+
             // 2. Structural comparison against the source XML (skip fan-out/synthetic files
             //    and empty translation files, which have nothing to compare).
             if (SplitOrCombinedJson.Contains(jsonFile.Name) || json.Count == 0) {
@@ -417,6 +423,19 @@ public class Converter {
         Console.WriteLine($"  {locale}: verified {checkedFiles} file(s), {skipped} skipped, " +
                           $"{structuralIssues} structural issue(s), {keyIssues} key issue(s)");
         return structuralIssues == 0 && keyIssues == 0;
+    }
+
+    private static void ReportParticleTokens(JObject json, string fileName) {
+        List<string> keys = json.Properties()
+            .Where(prop => (prop.Value is JContainer container ? container.DescendantsAndSelf() : new[] { prop.Value })
+                .Any(token => token.Type == JTokenType.String && token.Value<string>()!.Contains("$pp")))
+            .Select(prop => prop.Name)
+            .ToList();
+        if (keys.Count == 0) {
+            return;
+        }
+        Console.WriteLine($"  [DATA]   {fileName}: Korean $pp particle token in {keys.Count} key(s): " +
+                          string.Join(", ", keys.Take(5)) + (keys.Count > 5 ? ", ..." : ""));
     }
 
     private int VerifySkillTemplates(SkillDescriptionTemplates.Table table, JObject json, string locale) {
