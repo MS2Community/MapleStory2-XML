@@ -7,7 +7,7 @@
 		<stat str="0" dex="0" int="0" luk="0" hp="589961" hp_rgp="0" hp_inv="0" sp="0" sp_rgp="0" sp_inv="0" ep="0" ep_rgp="0" ep_inv="0" asp="100" msp="100" atp="80" evp="82" cap="58" cad="500" car="50" ndd="393" abp="0" jmp="0" pap="11582" map="11586" par="0" mar="0" wapmin="0" wapmax="0" dmg="0" pen="0" rmsp="0" bap="0" bap_pet="0" />
 		<speed rotation="720" walk="155" run="310" />
 		<distance avoid="60" sight="9000" sightHeightUP="300" sightHeightDown="100" customLastSightRadius="9900" customLastSightHeightUp="9900" customLastSightHeightDown="9900" />
-		<skill ids="50100052" levels="1" priorities="1" probs="100" coolDown="0" />
+		<skill ids="50100052,50100052,50100052,50100052,50100052" levels="1,11,12,13,14" priorities="1,1,1,1,1" probs="20,20,20,20,20" coolDown="0" />
 		<additionalEffect codes="50001013" levels="1" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
@@ -32,7 +32,7 @@
 		<stat str="0" dex="0" int="0" luk="0" hp="589961" hp_rgp="0" hp_inv="0" sp="0" sp_rgp="0" sp_inv="0" ep="0" ep_rgp="0" ep_inv="0" asp="100" msp="100" atp="80" evp="82" cap="58" cad="500" car="50" ndd="393" abp="0" jmp="0" pap="11582" map="11586" par="0" mar="0" wapmin="0" wapmax="0" dmg="0" pen="0" rmsp="0" bap="0" bap_pet="0" />
 		<speed rotation="720" walk="155" run="310" />
 		<distance avoid="60" sight="9000" sightHeightUP="300" sightHeightDown="100" customLastSightRadius="9900" customLastSightHeightUp="9900" customLastSightHeightDown="9900" />
-		<skill ids="50100052" levels="1" priorities="1" probs="100" coolDown="0" />
+		<skill ids="50100052,50100052,50100052,50100052,50100052" levels="1,11,12,13,14" priorities="1,1,1,1,1" probs="20,20,20,20,20" coolDown="0" />
 		<additionalEffect codes="50001013" levels="1" group="" />
 		<interact interactFunction="" interactCastingAnimation="" interactCastingTime="0" interactCoolTime="0" interactIsShowCastingBar="true" />
 		<combat combatAbandonTick="0" impossibleCombatAbandonTick="0" ignoreExtendLifeTime="false" canShowHideTarget="false" />
