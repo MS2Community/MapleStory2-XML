@@ -13591,7 +13591,7 @@
   },
   "110001026|*-CharacterAbility-": {
     "name": "大都市で休息経験値獲得可能",
-    "tooltipDescription": "大都市に滞在しているときにも休息経験値を\\n得ることができます。\\n<FONT color='#909090'>大都市：トライア、エリニア、ペリオン、リス港、\\nヘネシス、カーニングシティ、タリスカー、ルデリーシティ、バベニ</FONT>"
+    "tooltipDescription": "大都市に滞在しているときにも休息経験値を\\n得ることができます。\\n<FONT color='#909090'>大都市：トライア、エリニア、ペリオン、リス港、\\nヘネシス、カーニングシティ、タリスカー、ルデリーシティ、バーベニー</FONT>"
   },
   "110001027|*-CharacterAbility-": {
     "name": "大物釣り時、経験値および熟練度獲得量増加",
@@ -13952,5 +13952,699 @@
   "120030043|*-Lapenshard01-": {
     "name": "ネイリンの補給",
     "tooltipDescription": "物理/魔法ダメージが増加"
+  },
+  "10100041|*-CharacterBalance_01-KR": {
+    "name": "勝利の歓声",
+    "tooltipDescription": "歓声により士気が上がりました！\\n物理攻撃力と魔法攻撃力が{0}%増加"
+  },
+  "10100051|*-CharacterBalance_01-KR": {
+    "name": "シールドウォール",
+    "tooltipDescription": "盾から出た神聖なオーラが体を包み込みます。\\n物理抵抗力と魔法抵抗力が{0}増加"
+  },
+  "10100061|*-CharacterBalance_01-KR": {
+    "name": "アイアンディフェンス",
+    "tooltipDescription": "防御態勢に入りました！\\n0.3秒ごとにSPを4回復\\n物理攻撃力と魔法攻撃力が25%減少\\n受けるダメージ量が10%減少"
+  },
+  "10100071|*-CharacterBalance_01-KR": {
+    "name": "スローイングシールド",
+    "tooltipDescription": "強力な衝撃により戦闘態勢が崩れました！\\n防御力が{0}%減少"
+  },
+  "10100081|*-CharacterBalance_01-KR": {
+    "name": "騎士の意志",
+    "tooltipDescription": "聖なるバリアに守られています。\\n敵の攻撃防御\\n一部強力な攻撃は防御不可"
+  },
+  "10100101|*-CharacterBalance_01-KR": {
+    "name": "信念の守護者",
+    "tooltipDescription": "聖なるバリアに守られています。\\n敵の攻撃防御\\n一部強力な攻撃は防御不可"
+  },
+  "10100124|*-CharacterBalance_01-KR": {
+    "name": "反撃のチャンス",
+    "tooltipDescription": "敵に反撃するチャンスです！\\n全てのダメージが増加"
+  },
+  "10100151|*-CharacterBalance_01-KR": {
+    "name": "アイアンシールド",
+    "tooltipDescription": "盾で防御態勢を整えます。\\n敵から受ける全てのダメージが{0}%減少"
+  },
+  "10200032|*-CharacterBalance_01-KR": {
+    "name": "闇のオーラ",
+    "tooltipDescription": "1秒ごとにSP1追加回復"
+  },
+  "10200061|*-CharacterBalance_01-KR": {
+    "name": "威嚇",
+    "tooltipDescription": "戦意喪失で全身から力が抜けます…。\\n攻撃力が{0}%減少\\nジャンプ力、移動速度が{1}%減少"
+  },
+  "10200063|*-CharacterBalance_01-KR": {
+    "name": "威嚇スタン効果",
+    "tooltipDescription": "強力な闘気に露出され行動不能"
+  },
+  "10200064|*-CharacterBalance_01-KR": {
+    "name": "威嚇",
+    "tooltipDescription": "戦意喪失で全身から力が抜けます…。\\n攻撃力が{0}%減少"
+  },
+  "10200081|*-CharacterBalance_01-KR": {
+    "name": "アドレナリン",
+    "tooltipDescription": "闇のオーラをコントロールすることができません！\\n1秒ごとにSP自然回復量が{0}増加"
+  },
+  "10200082|*-CharacterBalance_01-KR": {
+    "name": "アドレナリン2段階",
+    "tooltipDescription": "闇のオーラをコントロールすることができません！\\n1秒ごとにSP自然回復量が{0}増加"
+  },
+  "10200083|*-CharacterBalance_01-KR": {
+    "name": "アドレナリン3段階",
+    "tooltipDescription": "闇のオーラをコントロールすることができません！\\n1秒ごとにSP自然回復量が{0}増加"
+  },
+  "10200101|*-CharacterBalance_01-KR": {
+    "name": "エンデュア",
+    "tooltipDescription": "不屈の意志で極限の状況に耐えます。\\n物理抵抗力と魔法抵抗力が{0}増加"
+  },
+  "10200112|*-CharacterBalance_01-KR": {
+    "name": "出血",
+    "tooltipDescription": "深い傷を負って血を流します。\\n1秒ごとに{0}%のダメージ"
+  },
+  "10200131|*-CharacterBalance_01-KR": {
+    "name": "闇の支配者",
+    "tooltipDescription": "攻撃速度、物理攻撃力、魔法攻撃力が{0}%増加\\n全ての攻撃が命中するとSPを1回復"
+  },
+  "10200141|*-CharacterBalance_01-KR": {
+    "name": "血の祭物",
+    "tooltipDescription": "闇の力を追加で受けます。\\n攻撃が成功するとダメージが{0}%増加\\n攻撃が成功するとHPが1%減少"
+  },
+  "10300021|*-CharacterBalance_01-KR": {
+    "name": "フレイムウェーブ",
+    "tooltipDescription": "強力な火炎が体を包んでいます！\\n1秒ごとに{0}%の火炎ダメージ"
+  },
+  "10300031|*-CharacterBalance_01-KR": {
+    "name": "チェーンライトニング",
+    "tooltipDescription": "体の周りで電気エネルギーが凝縮されています！\\n5回重複すると{0}%の電撃ダメージ"
+  },
+  "10300051|*-CharacterBalance_01-KR": {
+    "name": "寒気",
+    "tooltipDescription": "冷気で体が凍ってしまいました！\\n移動速度が15%減少\\n最大6回まで重複"
+  },
+  "10300052|*-CharacterBalance_01-KR": {
+    "name": "氷結",
+    "tooltipDescription": "体が凍りつきました！\\n氷結状態になって行動不能"
+  },
+  "10300071|*-CharacterBalance_01-KR": {
+    "name": "サンダーボルト",
+    "tooltipDescription": "強力な電気が全身に走っています！\\n感電して行動不能"
+  },
+  "10300091|*-CharacterBalance_01-KR": {
+    "name": "集中の魔法陣",
+    "tooltipDescription": "魔法陣から魔力を吸収しました。\\n物理攻撃力と魔法攻撃力が{0}%増加\\n発動者は追加で{1}%増加"
+  },
+  "10300131|*-CharacterBalance_01-KR": {
+    "name": "マジックアーマー",
+    "tooltipDescription": "魔法のオーラが全身を包み込みます。\\n自分の最大HPの{0}%分、ダメージを吸収"
+  },
+  "10400001|*-CharacterBalance_01-KR": {
+    "name": "天上の光",
+    "tooltipDescription": "神聖な力によって浄化されています！\\n1秒ごとに{0}%の神聖ダメージ"
+  },
+  "10400041|*-CharacterBalance_01-KR": {
+    "name": "シールドオブアルコン",
+    "tooltipDescription": "審判の盾が体を包み込みました。\\n物理抵抗力、魔法抵抗力が{0}増加\\n近くの敵に{1}%の神聖ダメージ"
+  },
+  "10400051|*-CharacterBalance_01-KR": {
+    "name": "ホーリーシンボル",
+    "tooltipDescription": "神聖な浄化でスッキリしました。\\n物理ダメージと魔法ダメージが{0}%増加\\n攻撃速度が{1}%増加\\n命中が{2}増加"
+  },
+  "10400053|*-CharacterBalance_01-KR": {
+    "name": "ホーリーシンボル",
+    "tooltipDescription": "浄化のオーラが残っているため、ホーリーシンボル効果を受けられません。"
+  },
+  "10400081|*-CharacterBalance_01-KR": {
+    "name": "天上の守護者",
+    "tooltipDescription": "エンジェルから聖なる力を受けます。\\n魔法攻撃力が{0}%増加"
+  },
+  "10400091|*-CharacterBalance_01-KR": {
+    "name": "天上の祝福",
+    "tooltipDescription": "エンジェルの祝福を受けました。\\n物理攻撃力と魔法攻撃力が{0}%増加\\n物理抵抗力と魔法抵抗力が{1}増加"
+  },
+  "10400122|*-CharacterBalance_01-KR": {
+    "name": "聖霊のオーラ",
+    "tooltipDescription": "強力な光に晒されました！\\n敵が受ける全てのダメージが{0}%増加"
+  },
+  "10400151|*-CharacterBalance_01-KR": {
+    "name": "天上の翼",
+    "tooltipDescription": "光の翼が体を軽くしてくれます。\\n移動速度が20%増加"
+  },
+  "10500031|*-CharacterBalance_01-KR": {
+    "name": "アイスアロー",
+    "tooltipDescription": "氷の矢に貫かれ、体が固くなりました。\\n移動速度が4%減少"
+  },
+  "10500032|*-CharacterBalance_01-KR": {
+    "name": "氷結",
+    "tooltipDescription": "体が凍りつきました！\\n氷結状態になって行動不能"
+  },
+  "10500061|*-CharacterBalance_01-KR": {
+    "name": "シャープアイズ",
+    "tooltipDescription": "敵の弱点を把握します。\\nクリティカルヒットが{0}増加\\n命中が{1}増加"
+  },
+  "10500072|*-CharacterBalance_01-KR": {
+    "name": "ゴールデンイーグル",
+    "tooltipDescription": "ゴールデンイーグルが援護しています。\\nDEXが{0}%増加"
+  },
+  "10500081|*-CharacterBalance_01-KR": {
+    "name": "イーグルストライク",
+    "tooltipDescription": "ワシの爪に引っ掛けられました！\\n1秒ごとに{0}%のダメージ\\n移動速度が{1}%減少\\nジャンプ力が{2}%減少"
+  },
+  "10500091|*-CharacterBalance_01-KR": {
+    "name": "イーグルスピリット",
+    "tooltipDescription": "ワシの気が全身に走ります。\\n1秒ごとにSPを{0}回復\\n攻撃が命中するとワシの支援攻撃が発動"
+  },
+  "10500111|*-CharacterBalance_01-KR": {
+    "name": "スナイプ",
+    "tooltipDescription": "正確に敵を照準しています。\\nSP回復量が1増加"
+  },
+  "10600052|*-CharacterBalance_01-KR": {
+    "name": "グレネード",
+    "tooltipDescription": "爆発の衝撃により気を失いました！\\n気絶して行動不能"
+  },
+  "10600062|*-CharacterBalance_01-KR": {
+    "name": "マグネチックボム",
+    "tooltipDescription": "強力な磁器が全身に走っています！\\n移動速度が{0}%減少"
+  },
+  "10600131|*-CharacterBalance_01-KR": {
+    "name": "サテライト",
+    "tooltipDescription": "小型衛星が敵を探しています。\\n標的となった敵にレーザー発射"
+  },
+  "10700001|*-CharacterBalance_01-KR": {
+    "name": "邪悪な",
+    "tooltipDescription": "手段と方法を選びません。\\n一部スキル強化\\n移動速度が30%増加"
+  },
+  "10700011|*-CharacterBalance_01-KR": {
+    "name": "ポイズンブロー",
+    "tooltipDescription": "猛毒に侵されました！\\n1秒ごとに{0}%の毒ダメージ"
+  },
+  "10700031|*-CharacterBalance_01-KR": {
+    "name": "ブレイドダンス",
+    "tooltipDescription": "しなやかな動きで敵の攻撃を回避します。\\n敵の攻撃を{0}%の確率で回避"
+  },
+  "10700051|*-CharacterBalance_01-KR": {
+    "name": "サマーソルトキック",
+    "tooltipDescription": "強力な蹴りにより体に力が入りません！\\n移動速度が{0}%減少\\nジャンプ力が{1}%減少"
+  },
+  "10700052|*-CharacterBalance_01-KR": {
+    "name": "サマーソルトキック",
+    "tooltipDescription": "強力な蹴りにより気を失いました！\\n気絶して行動不能"
+  },
+  "10700081|*-CharacterBalance_01-KR": {
+    "name": "ヘイスト",
+    "tooltipDescription": "風のごとく素早い動きになります。\\n攻撃速度と移動速度が{0}%増加\\n物理攻撃力が{1}%増加"
+  },
+  "10700102|*-CharacterBalance_01-KR": {
+    "name": "リプライザル",
+    "tooltipDescription": "反撃のチャンスです！\\n物理攻撃力と魔法攻撃力が{0}%、回避が{1}増加"
+  },
+  "10700111|*-CharacterBalance_01-KR": {
+    "name": "猛毒ガラス瓶",
+    "tooltipDescription": "猛毒に侵されました！\\n1秒ごとに{0}%の毒ダメージ"
+  },
+  "10700161|*-CharacterBalance_01-KR": {
+    "name": "メルガードプラス",
+    "tooltipDescription": "メルを使って攻撃を防ぎます。\\n敵から受けるダメージが{0}%減少"
+  },
+  "10700162|*-CharacterBalance_01-KR": {
+    "name": "メルガードプラスEX",
+    "tooltipDescription": "メルを使って攻撃を防ぎ、武器を強化します。\\n敵から受けるダメージが{0}%減少\\n物理攻撃力が{1}%増加"
+  },
+  "10800041|*-CharacterBalance_01-KR": {
+    "name": "フェイタルアタック",
+    "tooltipDescription": "敵の弱点を把握しました！\\n全ての攻撃がクリティカルで発動"
+  },
+  "10800051|*-CharacterBalance_01-KR": {
+    "name": "ダークサイト",
+    "tooltipDescription": "影の中に姿を消します。\\n移動速度が{0}%増加\\n隠れ身状態でSP自然回復量が増加"
+  },
+  "10800053|*-CharacterBalance_01-KR": {
+    "name": "気絶",
+    "tooltipDescription": "暗殺者に奇襲をかけられました！\\n気絶して行動不能"
+  },
+  "10800062|*-CharacterBalance_01-KR": {
+    "name": "シャドウウェブ",
+    "tooltipDescription": "全身がクモの糸に縛られました！\\n1秒ごとに{0}%の暗黒ダメージ\\n移動速度が{1}%減少\\nジャンプ力が{2}%減少"
+  },
+  "10800081|*-CharacterBalance_01-KR": {
+    "name": "暗殺者の焼印",
+    "tooltipDescription": "暗殺者の焼印が刻まれました！\\n発動者のSP回復"
+  },
+  "10800092|*-CharacterBalance_01-KR": {
+    "name": "死の標識",
+    "tooltipDescription": "死の標識が刻まれました！\\n敵から受ける全てのダメージが{0}%増加"
+  },
+  "10800131|*-CharacterBalance_01-KR": {
+    "name": "宣告",
+    "tooltipDescription": "死の標識が刻まれました！\\n敵から受ける全てのダメージが{0}%増加"
+  },
+  "10800161|*-CharacterBalance_01-KR": {
+    "name": "刃の印",
+    "tooltipDescription": "焼印が刻まれました！\\n命中が{0}減少"
+  },
+  "10900001|*-CharacterBalance_01-KR": {
+    "name": "フレイムドライブ",
+    "tooltipDescription": "ブレイドに火炎属性が宿ります。\\n一部のスキルを火炎属性の形で発動\\n火炎属性スキルダメージが{0}%増加"
+  },
+  "10900011|*-CharacterBalance_01-KR": {
+    "name": "アイスドライブ",
+    "tooltipDescription": "ブレイドに冷気属性が宿ります。\\n一部のスキルを冷気属性の形で発動\\n冷気属性スキルダメージが{0}%増加"
+  },
+  "10900021|*-CharacterBalance_01-KR": {
+    "name": "サンダードライブ",
+    "tooltipDescription": "ブレイドに電撃属性が宿ります。\\n一部のスキルを電撃属性の形で発動\\n電撃属性スキルダメージが{0}%増加"
+  },
+  "10900062|*-CharacterBalance_01-KR": {
+    "name": "火傷",
+    "tooltipDescription": "熱い炎の剣気が全身を包みます！\\n1秒ごとに{0}%の火炎ダメージ"
+  },
+  "10900063|*-CharacterBalance_01-KR": {
+    "name": "悪寒",
+    "tooltipDescription": "冷たい剣気が体に染みます！\\n移動速度とジャンプ力が15減少"
+  },
+  "10900091|*-CharacterBalance_01-KR": {
+    "name": "ルーンシールド",
+    "tooltipDescription": "ルーン魔法陣に守られています。\\n物理抵抗力と魔法抵抗力が{0}増加"
+  },
+  "10900092|*-CharacterBalance_01-KR": {
+    "name": "火炎ルーンシールド",
+    "tooltipDescription": "火炎魔法陣に守られています。\\n物理抵抗力と魔法抵抗力が{0}増加\\n敵から受ける火炎ダメージが{1}%減少\\n火炎の輪に衝突すると{2}%の火炎ダメージ"
+  },
+  "10900094|*-CharacterBalance_01-KR": {
+    "name": "冷気ルーンシールド",
+    "tooltipDescription": "冷気魔法陣に守られています。\\n物理抵抗力と魔法抵抗力が{0}増加\\n敵から受ける冷気ダメージが{1}%減少\\n最大HPの{2}%分、ダメージを吸収"
+  },
+  "10900095|*-CharacterBalance_01-KR": {
+    "name": "電撃ルーンシールド",
+    "tooltipDescription": "電撃魔法陣に守られています。\\n物理抵抗力と魔法抵抗力が{0}増加\\n敵から受ける電撃ダメージが{1}%減少\\n落雷が命中すると{2}%の電撃ダメージ"
+  },
+  "10900131|*-CharacterBalance_01-KR": {
+    "name": "ルナインストール",
+    "tooltipDescription": "ルーンの力を極限まで引き上げます！\\n火炎、冷気、電撃属性ダメージが{0}%増加"
+  },
+  "10900155|*-CharacterBalance_01-KR": {
+    "name": "悪寒",
+    "tooltipDescription": "冷たい剣気が体を貫きました！\\n移動速度とジャンプ力が30%減少"
+  },
+  "10900161|*-CharacterBalance_01-KR": {
+    "name": "ルーンスクエア",
+    "tooltipDescription": "不思議なルーンのオーラを受けました。\\nクリティカルダメージが{0}%増加"
+  },
+  "11000042|*-CharacterBalance_Striker_01-KR": {
+    "name": "ギロチン",
+    "tooltipDescription": "強烈な振動で動きにくいです！\\n移動速度とジャンプ力が30%減少"
+  },
+  "11000051|*-CharacterBalance_Striker_01-KR": {
+    "name": "ガードダッシュ",
+    "tooltipDescription": "ガードをしながら敵の隙を狙います！\\nパンチ系スキルの攻撃ダメージが5%増加"
+  },
+  "11000081|*-CharacterBalance_Striker_01-KR": {
+    "name": "スタンスチェンジ",
+    "tooltipDescription": "戦闘姿勢を変更しました。\\nパンチコンビネーション、ビートダウン、ライジングキック、ギロチン\\nスキルを変換型で発動"
+  },
+  "11000101|*-CharacterBalance_Striker_01-KR": {
+    "name": "限界突破",
+    "tooltipDescription": "身体の限界を超えた能力を発揮します！\\n攻撃速度と移動速度が30%増加\\n物理/魔法ダメージが{0}%増加\\nチェンジスタンスで強化型として発動するスキルのクールタイムが{1}%減少"
+  },
+  "11000121|*-CharacterBalance_Striker_01-KR": {
+    "name": "闘魂",
+    "tooltipDescription": "敵の攻撃に耐えます！\\n物理抵抗力、魔法抵抗力が{0}増加\\n移動速度が60%減少"
+  },
+  "11000123|*-CharacterBalance_Striker_01-KR": {
+    "name": "リベンジ",
+    "tooltipDescription": "復讐心が燃え上がっています！\\n攻撃ダメージが4%増加\\n最大{0}回まで重複"
+  },
+  "11000151|*-CharacterBalance_Striker_01-KR": {
+    "name": "ペースコントロール",
+    "tooltipDescription": "強い精神力でさらに強大な力を発揮します。\\n攻撃ダメージが{0}%増加\\n移動速度が10%増加"
+  },
+  "11000152|*-CharacterBalance_Striker_01-KR": {
+    "name": "ペースコントロール",
+    "tooltipDescription": "強い精神力でさらに強大な力を発揮します。\\n攻撃ダメージが{0}%増加\\n移動速度が6%増加"
+  },
+  "11000153|*-CharacterBalance_Striker_01-KR": {
+    "name": "ペースコントロール",
+    "tooltipDescription": "強い精神力でさらに強大な力を発揮します。\\n攻撃ダメージが{0}%増加\\n移動速度が2%増加"
+  },
+  "11000161|*-CharacterBalance_Striker_01-KR": {
+    "name": "パターンブレイク",
+    "tooltipDescription": "敵の動きを看破します！\\n命中が{0}増加\\n攻撃が成功すると対象の回避が4減少"
+  },
+  "11000162|*-CharacterBalance_Striker_01-KR": {
+    "name": "パターンブレイク",
+    "tooltipDescription": "回避が4減少"
+  },
+  "11100051|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "イリュージョン",
+    "tooltipDescription": "神秘的なオーラが全身を包んでいます。\\n回避が50増加"
+  },
+  "11100061|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "マントラ解放",
+    "tooltipDescription": "体内の神秘的な力でマントラコアを生成します。\\n最大4個まで生成"
+  },
+  "11100071|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スプリットバリア",
+    "tooltipDescription": "エニマルのオーラでバリアを作ります。\\n自分の最大HPの{0}%分、ダメージを吸収"
+  },
+  "11100072|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スプリットバリア2段階",
+    "tooltipDescription": "エニマルのオーラでバリアを作ります。\\n自分の最大HPの{0}%分、ダメージを吸収"
+  },
+  "11100073|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スプリットバリア3段階",
+    "tooltipDescription": "エニマルのオーラでバリアを作ります。\\n自分の最大HPの{0}%分、ダメージを吸収"
+  },
+  "11100074|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スプリットバリア4段階",
+    "tooltipDescription": "エニマルのオーラでバリアを作ります。\\n自分の最大HPの{0}%分、ダメージを吸収"
+  },
+  "11100075|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スプリットバリア5段階",
+    "tooltipDescription": "エニマルのオーラでバリアを作ります。\\n自分の最大HPの{0}%分、ダメージを吸収"
+  },
+  "11100081|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "エクスパンションボール",
+    "tooltipDescription": "強烈な電流が体を走ります！\\n1秒ごとに20%の電撃ダメージ"
+  },
+  "11100082|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "気絶",
+    "tooltipDescription": "強烈な電流が体を走ります！\\n1秒ごとに20%の電撃ダメージ"
+  },
+  "11100091|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "ナルバシャン解放",
+    "tooltipDescription": "体内のエネルギーが暴走しています！\\n{0}秒ごとにマントラコア自動生成"
+  },
+  "11100131|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スタティックフラッシュ",
+    "tooltipDescription": "気力が落ちます！\\n防御力が{0}%減少\\n移動速度が{1}%減少"
+  },
+  "11100132|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スタティックフラッシュ2段階",
+    "tooltipDescription": "気力が落ちます！\\n防御力が{0}%減少\\n移動速度が{1}%減少"
+  },
+  "11100133|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スタティックフラッシュ3段階",
+    "tooltipDescription": "気力が落ちます！\\n防御力が{0}%減少\\n移動速度が{1}%減少"
+  },
+  "11100134|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スタティックフラッシュ4段階",
+    "tooltipDescription": "気力が落ちます！\\n防御力が{0}%減少\\n移動速度が{1}%減少"
+  },
+  "11100135|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "スタティックフラッシュ5段階",
+    "tooltipDescription": "気力が落ちます！\\n防御力が{0}%減少\\n移動速度が{1}%減少"
+  },
+  "11100141|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "サイクロンボンバー",
+    "tooltipDescription": "オーラの流れが歪みました！\\n命中と回避が{0}減少"
+  },
+  "11100151|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "気絶"
+  },
+  "11100171|*-CharacterBalance_SoulBinder_01-KR": {
+    "name": "蘇生の空間",
+    "tooltipDescription": "自然から生命のオーラを受けています！\\n一定の周期でHP回復\\n物理抵抗力と魔法抵抗力が{0}増加\\n敵の攻撃でノックバックしない"
+  },
+  "89000001|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：36.7%"
+  },
+  "89000002|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：25.2%"
+  },
+  "89000003|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：49%"
+  },
+  "89000004|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：36%"
+  },
+  "89000005|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：2040\\n(実適用804)\\nNA 60 エクセレント"
+  },
+  "89000006|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：2750\\nペット-KR 70 エクセレント\\n装備-レジェンダリー\\n戦闘力 実適用6500"
+  },
+  "89000007|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4100\\nペット-KR 70 レジェンダリー\\n装備-レジェンダリー\\n戦闘力 実適用9691"
+  },
+  "89000008|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：3150\\nペット-CN 70 エクセレント\\n装備-レジェンダリー\\n戦闘力 実適用7445"
+  },
+  "89000009|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4750\\nペット-CN 70 レジェンダリー\\n装備-レジェンダリー\\n戦闘力 実適用11227"
+  },
+  "89000010|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペットオプション：18%"
+  },
+  "89000011|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1994\\n(実適用785)\\nNA 60 エクセレント"
+  },
+  "89000012|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4100\\n(実適用1615)\\nペット-KR 70 レジェンダリー"
+  },
+  "89000013|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：4750\\n(実適用1871)\\nペット-CN 70 レジェンダリー"
+  },
+  "90000747|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット：34%"
+  },
+  "90000748|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：35%"
+  },
+  "90000836|*--NA": {
+    "name": "エサ(レインボーマグネット)",
+    "tooltipDescription": "$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001344$を獲得することができる。"
+  },
+  "90000838|*-Event-CN": {
+    "name": "ジャンピングバーニング効果",
+    "tooltipDescription": "60レベルから80レベルまで1レベルアップ時に\\nボーナス+2レベルを適用"
+  },
+  "90000838|*-Event-NA": {
+    "name": "ジャンピングバーニング効果",
+    "tooltipDescription": "9レベルから60レベルまで1レベルアップごとに\\nボーナス+2レベルを適用"
+  },
+  "90000855|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：15.7%"
+  },
+  "90000856|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：21.4%"
+  },
+  "90000858|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：14.4%"
+  },
+  "90000859|*--KR": {
+    "name": "熱々メイプルピザ",
+    "tooltipDescription": "戦闘力が650増加"
+  },
+  "90000869|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "特製戦士+魔法使いポーション代替"
+  },
+  "90000870|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：42%"
+  },
+  "90000871|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1994"
+  },
+  "90000872|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペットオプション：12%"
+  },
+  "90000873|*--CN": {
+    "name": "凶暴な猛獣",
+    "tooltipDescription": "命中が5増加\\n物理/魔法ダメージが3%増加\\n<font color='#00aaef'>戦場および闘技場では未適用</font>"
+  },
+  "90000908|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1050\\n(実適用414)\\n50 エリート"
+  },
+  "90000909|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：1700\\n(実適用670)\\n50 エクセレント"
+  },
+  "90000920|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド70レベル：\\n攻撃力0%、防御力0%"
+  },
+  "90000921|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド71レベル：\\n攻撃力6%、防御力6%"
+  },
+  "90000922|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド72レベル：\\n攻撃力12.4%、防御力12.4%"
+  },
+  "90000923|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド73レベル：\\n攻撃力19.1%、防御力19.1%"
+  },
+  "90000924|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド74レベル：\\n攻撃力26.2%、防御力26.2%"
+  },
+  "90000925|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド75レベル：\\n攻撃力33.8%、防御力33.8%"
+  },
+  "90000926|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド76レベル：\\n攻撃力41.9%、防御力41.9%"
+  },
+  "90000927|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド77レベル：\\n攻撃力50.4%、防御力50.4%"
+  },
+  "90000928|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド78レベル：\\n攻撃力59.4%、防御力59.4%"
+  },
+  "90000929|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド79レベル：\\n攻撃力68.9%、防御力68.9%"
+  },
+  "90000930|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "クリティアスフィールド80レベル：\\n攻撃力79.1%、防御力79.1%"
+  },
+  "90000936|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：2750\\n(実適用1084)\\nKR 70 エクセレント"
+  },
+  "90000937|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ペット戦闘力：3150\\n(実適用1241)\\nペット-CN 70 エクセレント"
+  },
+  "90000938|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "ラペンシャード：06.0%"
+  },
+  "90000939|*--": {
+    "name": "ダンジョンバランステスト",
+    "tooltipDescription": "超越：24.4%"
+  },
+  "90000946|*--CN": {
+    "name": "能力値マーク3",
+    "tooltipDescription": "クリティカルダメージが120増加\\n防御力貫通が4%増加\\n<font color='#00aaef'>戦場および闘技場では適用されない</font>"
+  },
+  "90000947|*--CN": {
+    "name": "能力値マーク3",
+    "tooltipDescription": "攻撃速度が5%増加\\n物理/魔法ダメージが5%増加\\n<font color='#00aaef'>戦場および闘技場では適用されない</font>"
+  },
+  "90001150|*-Event-CN": {
+    "name": "エサ(レインボーマグネット)",
+    "tooltipDescription": "$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001385$を獲得することができる。"
+  },
+  "90001165|*-Event-CN": {
+    "name": "孤独なポッキー",
+    "tooltipDescription": "HPが50%増加\\nSP100回復"
+  },
+  "90001183|*-Event-NA": {
+    "name": "HP回復",
+    "tooltipDescription": "1秒ごとにHP280回復"
+  },
+  "90001193|*-Event-NA": {
+    "name": "HP回復",
+    "tooltipDescription": "1秒ごとにHP221回復"
+  },
+  "90001194|*-Event-NA": {
+    "name": "HP回復",
+    "tooltipDescription": "HP30%回復"
+  },
+  "90001202|*-Event-CN": {
+    "name": "ブラックビーン",
+    "tooltipDescription": "1秒ごとにHP221回復"
+  },
+  "90001204|*-Event-CN": {
+    "name": "エサ(レインボーマグネット)",
+    "tooltipDescription": "$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001513$を獲得することができる。"
+  },
+  "90051248|*-KREquipmentBalance_01-KR": {
+    "name": "呪術",
+    "tooltipDescription": "戦闘力が372増加"
+  },
+  "90051292-KREquipmentBalance_01-KR": {
+    "name": "エネルギー変異",
+    "tooltipDescription": "戦闘力が1300増加"
+  },
+  "90051653|*-KREquipmentBalance_01-KR": {
+    "name": "戦闘力が1700増加(戦場では未適用)"
+  },
+  "90051653|*-Level70Item-CN": {
+    "name": "戦闘力が530増加(戦場では未適用)"
+  },
+  "90051654|*-KREquipmentBalance_01-KR": {
+    "name": "戦闘力が1050増加(戦場では未適用)"
+  },
+  "90051654|*-Level70Item-CN": {
+    "name": "戦闘力が330増加(戦場では未適用)"
+  },
+  "90051670|*-KREquipmentBalance_01-KR": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051670|*-Level70Item-CN": {
+    "name": "エネルトリガー",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051688|*-KREquipmentBalance_01-KR": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が2700増加"
+  },
+  "90051688|*-Level70Item-CN": {
+    "name": "古代の力",
+    "tooltipDescription": "戦闘力が830増加"
+  },
+  "90051806|*-KREquipmentBalance_01-KR": {
+    "name": "幻影時空の力",
+    "tooltipDescription": "戦闘力、攻撃速度、命中増加"
+  },
+  "90051806|*-Level70Item-CN": {
+    "name": "幻影時空の力",
+    "tooltipDescription": "戦闘力、攻撃速度、命中増加"
+  },
+  "90051823|*-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、STRが200、クリティカル回避が100増加"
+  },
+  "90051824|*-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、DEXが200、クリティカル回避が100増加"
+  },
+  "90051825|*-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、INTが200、クリティカル回避が100増加"
+  },
+  "90051826|*-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが48000、防御力貫通が15%、LUKが200、クリティカル回避が100増加"
+  },
+  "90051827|*-PvPRankingDuelMode02-": {
+    "name": "戦場および闘技場でHPが92000、攻撃速度が15%、命中が25、行動不能時間減少が50%増加"
+  },
+  "100000043--NA": {
+    "name": "プレミアムクラブ特典",
+    "tooltipDescription": "- キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)\\n- モンスター狩り経験値およびメルが20%増加\\n- オフィリアエンチャント費用が10%割引\\n- 1：1メル取引手数料が50%割引\\n- ブラックマーケットのアイテム取引手数料が20%割引\\n- いつでも、どこでも金庫をすぐに召喚可能\\n- ロータスエアタクシー無制限利用可能\\n- プレミアム専用ダンジョンおよびマーク使用可能\\n- プレミアム専用アイテム毎日提供"
+  },
+  "100000043-MesoMarket-NA": {
+    "name": "プレミアムクラブ特典",
+    "tooltipDescription": "- キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)\\n- モンスター狩り経験値およびメルが20%増加\\n- オフィリアエンチャント費用が10%割引\\n- 1：1メル取引手数料が50%割引\\n- ブラックマーケットのアイテム取引手数料が20%割引(メル購入を除く)\\n- いつでも、どこでも金庫をすぐに召喚可能\\n- ロータスエアタクシー無制限利用可能\\n- プレミアム専用ダンジョンおよびマーク使用可能\\n- プレミアム専用アイテム毎日提供"
+  },
+  "100000046--NA": {
+    "name": "プレミアムクラブ特典(パーティボーナス)",
+    "tooltipDescription": "プレミアムクラブ特典を受けている仲間とパーティを組むと、キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)"
   }
 }
