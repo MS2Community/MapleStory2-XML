@@ -1318,6 +1318,19 @@
 	<key id="82000011" level="1" name="現在HPが20%以下なら頭上に矢印表示" />
 	<key id="82000021" level="1" name="周りのものを調査すると3秒間、移動速度が大幅に増加\n(室内の建設/生活技術の資材調査は適用されない)" />
 	<key id="82000022" level="1" name="調査隊員のペンダント" tooltipDescription="移動速度大幅増加" />
+	<key id="89000001" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：36.7%" />
+	<key id="89000002" level="1" name="ダンジョンバランステスト" tooltipDescription="ラペンシャード：25.2%" />
+	<key id="89000003" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：49%" />
+	<key id="89000004" level="1" name="ダンジョンバランステスト" tooltipDescription="ラペンシャード：36%" />
+	<key id="89000005" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：2040\n(実適用804)\nNA 60 エクセレント" />
+	<key id="89000006" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：2750\nペット-KR 70 エクセレント\n装備-レジェンダリー\n戦闘力 実適用6500" />
+	<key id="89000007" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：4100\nペット-KR 70 レジェンダリー\n装備-レジェンダリー\n戦闘力 実適用9691" />
+	<key id="89000008" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：3150\nペット-CN 70 エクセレント\n装備-レジェンダリー\n戦闘力 実適用7445" />
+	<key id="89000009" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：4750\nペット-CN 70 レジェンダリー\n装備-レジェンダリー\n戦闘力 実適用11227" />
+	<key id="89000010" level="1" name="ダンジョンバランステスト" tooltipDescription="ペットオプション：18%" />
+	<key id="89000011" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：1994\n(実適用785)\nNA 60 エクセレント" />
+	<key id="89000012" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：4100\n(実適用1615)\nペット-KR 70 レジェンダリー" />
+	<key id="89000013" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：4750\n(実適用1871)\nペット-CN 70 レジェンダリー" />
 	<key id="90000022" level="1" name="HP回復" tooltipDescription="1秒ごとにHP4回復" />
 	<key id="90000023" level="1" name="HP回復" tooltipDescription="1秒ごとにHP4回復" />
 	<key id="90000024" level="1" name="HP回復" tooltipDescription="1秒ごとにHP4回復" />
@@ -1782,6 +1795,8 @@
 	<key id="90000742" level="1" name="地獄の炎緩和用の魔法クリーム" tooltipDescription="インフェルノックの地獄の炎から保護" />
 	<key id="90000743" level="1" name="携帯用悪霊遮断装置" tooltipDescription="インフェルノックの地獄の悪霊から保護" />
 	<key id="90000746" level="1" name="星屑チョコレート" tooltipDescription="物理、魔法攻撃力が3%増加、最大HPが5%増加、移動速度が5%増加" />
+	<key id="90000747" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット：34%" />
+	<key id="90000748" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：35%" />
 	<key id="90000749" level="1" name="演奏経験値2倍クーポン(30分)" tooltipDescription="演奏経験値獲得量が2倍増加" />
 	<key id="90000750" level="1" name="黄金蝶々の祝福" tooltipDescription="ボスを攻撃するとダメージが3%増加\n防御力貫通が3%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" />
 	<key id="90000751" level="1" name="連合の守護" tooltipDescription="一般モンスターを攻撃するとダメージが3%増加\n攻撃速度が3%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" />
@@ -2167,8 +2182,11 @@
 	<key id="90000826" level="1" name="プロ向け光る黄金エサ(3時間)" tooltipDescription="輝く黄金の魚種をおびき寄せます。\n12種類の光る黄金の魚種を釣ることができる" />
 	<key id="90000827" level="1" name="美味しいチェダーチーズホットドッグ" tooltipDescription="最大HP250増加" />
 	<key id="90000836" level="1" name="エサ(レインボーマグネット)" tooltipDescription="$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001153$を獲得することができる。" />
+	<key id="90000836" level="1" name="エサ(レインボーマグネット)" tooltipDescription="$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001344$を獲得することができる。" locale="NA" />
 	<key id="90000838" level="1" name="ジャンピングバーニング効果" tooltipDescription="60レベルから81レベルまで1レベルアップごとに\nボーナス+2レベルを適用" />
 	<key id="90000838" level="1" name="バーニング効果" tooltipDescription="9レベルから60レベルまで1レベルアップごとに\nボーナス+2レベルを適用" feature="Event" locale="JP" />
+	<key id="90000838" level="1" name="ジャンピングバーニング効果" tooltipDescription="60レベルから80レベルまで1レベルアップ時に\nボーナス+2レベルを適用" feature="Event" locale="CN" />
+	<key id="90000838" level="1" name="ジャンピングバーニング効果" tooltipDescription="9レベルから60レベルまで1レベルアップごとに\nボーナス+2レベルを適用" feature="Event" locale="NA" />
 	<key id="90000840" level="1" name="ミスリルチェーンメイルグローブ" tooltipDescription="畜産生産量が100%増加" feature="Mastery06" />
 	<key id="90000841" level="1" name="虹色の袋" tooltipDescription="採鉱生産量が100%増加" feature="Mastery06" />
 	<key id="90000842" level="1" name="レダマの結晶" tooltipDescription="錬金熟練度上昇量が100%増加" feature="Mastery06" />
@@ -2182,16 +2200,27 @@
 	<key id="90000850" level="1" name="強化されたSP強化ポーション" tooltipDescription="最大SP30増加" feature="Mastery06" />
 	<key id="90000851" level="1" name="ハワイアンピザ" tooltipDescription="攻撃速度が5%増加" feature="Mastery06" />
 	<key id="90000852" level="1" name="天国のクレープケーキ" tooltipDescription="15分間、HPが300増加\n防御力が6%増加" feature="Mastery06" />
+	<key id="90000855" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：15.7%" />
+	<key id="90000856" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：21.4%" />
 	<key id="90000857" level="1" name="強化された特製戦士のポーション" tooltipDescription="物理攻撃力が4%増加" feature="Mastery06" />
+	<key id="90000858" level="1" name="ダンジョンバランステスト" tooltipDescription="ラペンシャード：14.4%" />
+	<key id="90000859" level="1" name="熱々メイプルピザ" tooltipDescription="戦闘力が650増加" locale="KR" />
 	<key id="90000865" level="1" name="熱々メイプルピザ" tooltipDescription="戦闘力が200増加" />
 	<key id="90000867" level="1" name="HP回復" tooltipDescription="1秒ごとにHP8回復" />
 	<key id="90000868" level="1" name="HP回復" tooltipDescription="1秒ごとにHP20回復" />
+	<key id="90000869" level="1" name="ダンジョンバランステスト" tooltipDescription="特製戦士+魔法使いポーション代替" />
+	<key id="90000870" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：42%" />
+	<key id="90000871" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：1994" />
+	<key id="90000872" level="1" name="ダンジョンバランステスト" tooltipDescription="ペットオプション：12%" />
 	<key id="90000873" level="1" name="満月のオーラ" tooltipDescription="命中が5増加\n物理/魔法ダメージが3%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では未適用&lt;/font&gt;" />
+	<key id="90000873" level="1" name="凶暴な猛獣" tooltipDescription="命中が5増加\n物理/魔法ダメージが3%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では未適用&lt;/font&gt;" locale="CN" />
 	<key id="90000874" level="1" name="胞子ブロッククリーム" tooltipDescription="マッシュキング胞子の緩和\nマッシュキング攻撃可能" feature="WorldChampionMushroom" />
 	<key id="90000886" level="1" name="ぷよぷよ星ゼリー" tooltipDescription="1秒ごとにHP122回復" />
 	<key id="90000888" level="1" name="マッシュキング印の毒キノコ" tooltipDescription="毒キノコの気に倒れます。" feature="WorldChampionMushroom" />
 	<key id="90000890" level="1" name="甘い1周年ケーキ" tooltipDescription="物理、魔法攻撃力が3%増加、最大HPが5%増加、移動速度が5%増加" feature="WorldChampionMushroom" />
 	<key id="90000901" level="1" name="ビシャスプラントの時計" tooltipDescription="物理、魔法攻撃力が3%増加\n戦闘力が250増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場には未適用&lt;/font&gt;" />
+	<key id="90000908" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：1050\n(実適用414)\n50 エリート" />
+	<key id="90000909" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：1700\n(実適用670)\n50 エクセレント" />
 	<key id="90000913" level="1" name="HP回復" tooltipDescription="1秒ごとにHP80回復" />
 	<key id="90000914" level="1" name="HP回復" tooltipDescription="1秒ごとにHP60回復" />
 	<key id="90000915" level="1" name="不思議なエネル" tooltipDescription="命中が3増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では未適用&lt;/font&gt;" />
@@ -2199,11 +2228,28 @@
 	<key id="90000917" level="1" name="撃破お祝いクラッカー" tooltipDescription="HP6%増加\n&lt;font color=&apos;#9FC93C&apos;&gt;隔壁撃破を祝うクラッカー効果。&lt;/font&gt;" />
 	<key id="90000918" level="1" name="撃破お祝いクラッカー" tooltipDescription="HP6%増加\n&lt;font color=&apos;#9FC93C&apos;&gt;隔壁撃破を祝うクラッカー効果。&lt;/font&gt;" />
 	<key id="90000919" level="1" name="美味しそうな実" tooltipDescription="狩り/演奏/釣り経験値1.5倍獲得\n&lt;font color=&apos;#9FC93C&apos;&gt;実の甘い香りが残っている。&lt;/font&gt;" />
+	<key id="90000920" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド70レベル：\n攻撃力0%、防御力0%" />
+	<key id="90000921" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド71レベル：\n攻撃力6%、防御力6%" />
+	<key id="90000922" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド72レベル：\n攻撃力12.4%、防御力12.4%" />
+	<key id="90000923" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド73レベル：\n攻撃力19.1%、防御力19.1%" />
+	<key id="90000924" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド74レベル：\n攻撃力26.2%、防御力26.2%" />
+	<key id="90000925" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド75レベル：\n攻撃力33.8%、防御力33.8%" />
+	<key id="90000926" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド76レベル：\n攻撃力41.9%、防御力41.9%" />
+	<key id="90000927" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド77レベル：\n攻撃力50.4%、防御力50.4%" />
+	<key id="90000928" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド78レベル：\n攻撃力59.4%、防御力59.4%" />
+	<key id="90000929" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド79レベル：\n攻撃力68.9%、防御力68.9%" />
+	<key id="90000930" level="1" name="ダンジョンバランステスト" tooltipDescription="クリティアスフィールド80レベル：\n攻撃力79.1%、防御力79.1%" />
 	<key id="90000933" level="1" name="能力値マーク1" tooltipDescription="クリティカルダメージが150増加\n攻撃速度が4%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" />
 	<key id="90000934" level="1" name="能力値マーク2" tooltipDescription="ボスを攻撃するとダメージが7%増加\nHPが500増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" />
 	<key id="90000935" level="1" name="能力値マーク3" tooltipDescription="ボスを攻撃するとダメージが4%増加\n攻撃速度が5%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" />
+	<key id="90000936" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：2750\n(実適用1084)\nKR 70 エクセレント" />
+	<key id="90000937" level="1" name="ダンジョンバランステスト" tooltipDescription="ペット戦闘力：3150\n(実適用1241)\nペット-CN 70 エクセレント" />
+	<key id="90000938" level="1" name="ダンジョンバランステスト" tooltipDescription="ラペンシャード：06.0%" />
+	<key id="90000939" level="1" name="ダンジョンバランステスト" tooltipDescription="超越：24.4%" />
 	<key id="90000940" level="1" name="ピンクペイント" tooltipDescription="ペンキまみれになりました。" feature="Event" />
 	<key id="90000942" level="1" name="グリーンペイント" tooltipDescription="ペンキまみれになりました。" feature="Event" />
+	<key id="90000946" level="1" name="能力値マーク3" tooltipDescription="クリティカルダメージが120増加\n防御力貫通が4%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" locale="CN" />
+	<key id="90000947" level="1" name="能力値マーク3" tooltipDescription="攻撃速度が5%増加\n物理/魔法ダメージが5%増加\n&lt;font color=&apos;#00aaef&apos;&gt;戦場および闘技場では適用されない&lt;/font&gt;" locale="CN" />
 	<key id="90001001" level="1" name="トライアで移動速度が5%増加" tooltipDescription="トライアで移動速度が5%増加" />
 	<key id="90001002" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正\n99レベルのステータスで補正" />
 	<key id="90001002" level="1" name="闘争の意志" tooltipDescription="HPが増加、プレイヤー間の戦闘で硬直に免疫\nPvPの場合、装備のエンチャント効果を補正\n回復量が減少" feature="NAEquipmentBalance_01" />
@@ -2220,6 +2266,7 @@
 	<key id="90001145" level="1" name="エネルドリンク" tooltipDescription="HP300増加\n防御力6%増加" feature="Kritias_2018_12" />
 	<key id="90001147" level="1" name="孤独なジャージャー麵" tooltipDescription="一時的に体が巨大化" feature="Event" />
 	<key id="90001150" level="1" name="エサ(レインボーマグネット)" tooltipDescription="$map:63000060$で釣りをすると一定確率で$item:30001153$を獲得することができる。" feature="Event" locale="JP" />
+	<key id="90001150" level="1" name="エサ(レインボーマグネット)" tooltipDescription="$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001385$を獲得することができる。" feature="Event" locale="CN" />
 	<key id="90001153" level="1" name="穴開きの洋白鍋" tooltipDescription="釣りをすると一定確率でアバターを始めとした様々なアイテムを獲得することができる。" feature="Event" />
 	<key id="90001154" level="1" name="穴開きの洋白鍋" tooltipDescription="釣りをすると一定確率でアバターを始めとした様々なアイテムを獲得することができる。" feature="Event" locale="JP" />
 	<key id="90001155" level="1" name="経験値2倍クーポン" tooltipDescription="狩り/演奏/釣り経験値2倍獲得" />
@@ -2227,10 +2274,16 @@
 	<key id="90001161" level="1" name="強化された特製戦士のポーション" tooltipDescription="物理攻撃力が4%増加" feature="Mastery06" />
 	<key id="90001162" level="1" name="強化された特製魔法使いのポーション" tooltipDescription="魔法攻撃力が4%増加" feature="Mastery06" />
 	<key id="90001163" level="1" name="強化された特製体力のポーション" tooltipDescription="最大HPが5%増加" />
+	<key id="90001165" level="1" name="孤独なポッキー" tooltipDescription="HPが50%増加\nSP100回復" feature="Event" locale="CN" />
+	<key id="90001183" level="1" name="HP回復" tooltipDescription="1秒ごとにHP280回復" feature="Event" locale="NA" />
+	<key id="90001193" level="1" name="HP回復" tooltipDescription="1秒ごとにHP221回復" feature="Event" locale="NA" />
+	<key id="90001194" level="1" name="HP回復" tooltipDescription="HP30%回復" feature="Event" locale="NA" />
 	<key id="90001198" level="1" name="ハイパーバイタル薬草" tooltipDescription="1分間、1秒ごとにHP384回復" />
 	<key id="90001199" level="1" name="クリームトマトスープ" tooltipDescription="物理、魔法攻撃力が3%増加、最大HPが5%増加、移動速度が5%増加" feature="Event" />
 	<key id="90001200" level="1" name="ドリンク効果" tooltipDescription="1秒ごとにHPを221回復" feature="Event" />
 	<key id="90001201" level="1" name="カリッと焼き上がったジャクムクッキー" tooltipDescription="物理攻撃力と魔法攻撃力が5%増加、最大HPが5%増加" feature="Event" />
+	<key id="90001202" level="1" name="ブラックビーン" tooltipDescription="1秒ごとにHP221回復" feature="Event" locale="CN" />
+	<key id="90001204" level="1" name="エサ(レインボーマグネット)" tooltipDescription="$map:63000060$でのみ使用できる特別なマグネットエサ。$map:63000060$で釣りをすると一定確率で$item:30001513$を獲得することができる。" feature="Event" locale="CN" />
 	<key id="90002101" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;攻撃すると一定確率で敵に伝染病が発病&lt;/FONT&gt;" />
 	<key id="90002201" level="1" name="&lt;FONT color=&apos;#ff8ae5&apos;&gt;攻撃すると一定確率で敵の移動速度、攻撃力が減少&lt;/FONT&gt;" />
 	<key id="90002202" level="1" name="バルログの角" tooltipDescription="移動速度が10%、物理/魔法攻撃力が5%減少" />
@@ -2740,12 +2793,14 @@
 	<key id="90051239" level="1" name="ブライトスター - 回復" tooltipDescription="1秒ごとにHP150回復" />
 	<key id="90051241" level="1" name="ブライトスター - 戦闘力" tooltipDescription="戦闘力が220増加" />
 	<key id="90051248" level="1" name="呪術" tooltipDescription="戦闘力が220増加" />
+	<key id="90051248" level="1" name="呪術" tooltipDescription="戦闘力が372増加" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051259" level="1" name="身体補強" tooltipDescription="攻撃速度が10%増加" />
 	<key id="90051270" level="1" name="精密化" tooltipDescription="命中が9増加" />
 	<key id="90051281" name="野獣の怒り" tooltipDescription="物理/魔法攻撃力が48増加" />
 	<key id="90051286" name="野獣の怒り強化" />
 	<key id="90051292" name="エネルギー変異" tooltipDescription="戦闘力が400増加" />
 	<key id="90051292" name="エネルギー変異" tooltipDescription="戦闘力が520増加" feature="NAEquipmentBalance_01" locale="JP" />
+	<key id="90051292" name="エネルギー変異" tooltipDescription="戦闘力が1300増加" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051297" name="エネルギー変異強化" />
 	<key id="90051304" name="加速化" tooltipDescription="命中が9、攻撃速度が9%増加" />
 	<key id="90051309" name="加速化強化" />
@@ -2797,6 +2852,54 @@
 	<key id="90051642" level="1" name="古代の力強化" feature="Level70Item" />
 	<key id="90051650" level="1" name="燃え上がるエネルギー" feature="Level70Item" />
 	<key id="90051651" level="1" name="エネルギーシールド" tooltipDescription="時空の力が体を包み、戦闘力が増加し、被撃時にダメージを吸収します。" feature="Level70Item" />
+	<key id="90051653" level="1" name="戦闘力が530増加(戦場では未適用)" feature="Level70Item" locale="CN" />
+	<key id="90051653" level="1" name="戦闘力が1700増加(戦場では未適用)" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051654" level="1" name="戦闘力が330増加(戦場では未適用)" feature="Level70Item" locale="CN" />
+	<key id="90051654" level="1" name="戦闘力が1050増加(戦場では未適用)" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="1" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="1" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="2" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="2" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="3" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="3" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="4" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="4" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="5" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="5" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="6" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="6" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="7" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="7" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="8" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="8" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="9" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="9" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="10" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="10" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051670" level="11" name="エネルトリガー" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051670" level="11" name="エネルトリガー" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="1" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="1" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="2" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="2" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="3" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="3" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="4" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="4" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="5" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="5" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="6" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="6" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="7" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="7" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="8" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="8" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="9" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="9" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="10" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="10" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
+	<key id="90051688" level="11" name="古代の力" tooltipDescription="戦闘力が830増加" feature="Level70Item" locale="CN" />
+	<key id="90051688" level="11" name="古代の力" tooltipDescription="戦闘力が2700増加" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051701" level="1" name="戦場および闘技場でHPが2000、防御力貫通が15%、STRが200、クリティカル回避が100増加" feature="PvPRankingDuelMode" />
 	<key id="90051702" level="1" name="戦場および闘技場でHPが2000、防御力貫通が15%、DEXが200、クリティカル回避が100増加" feature="PvPRankingDuelMode" />
 	<key id="90051703" level="1" name="戦場および闘技場でHPが2000、防御力貫通が15%、INTが200、クリティカル回避が100増加" feature="PvPRankingDuelMode" />
@@ -2804,8 +2907,15 @@
 	<key id="90051705" level="1" name="戦場および闘技場でHPが4500、攻撃速度が15%、命中が25、行動不能時間減少が50%増加" feature="PvPRankingDuelMode" />
 	<key id="90051744" name="連続砲撃" feature="Level70Item" />
 	<key id="90051746" name="連続砲撃" tooltipDescription="命中が8増加" feature="Level70Item" />
+	<key id="90051806" level="1" name="幻影時空の力" tooltipDescription="戦闘力、攻撃速度、命中増加" feature="Level70Item" locale="CN" />
+	<key id="90051806" level="1" name="幻影時空の力" tooltipDescription="戦闘力、攻撃速度、命中増加" feature="KREquipmentBalance_01" locale="KR" />
 	<key id="90051812" name="戦闘力が1200増加(戦場では未適用)" />
 	<key id="90051813" name="ボスを攻撃するとダメージが4%増加" />
+	<key id="90051823" level="1" name="戦場および闘技場でHPが48000、防御力貫通が15%、STRが200、クリティカル回避が100増加" feature="PvPRankingDuelMode02" />
+	<key id="90051824" level="1" name="戦場および闘技場でHPが48000、防御力貫通が15%、DEXが200、クリティカル回避が100増加" feature="PvPRankingDuelMode02" />
+	<key id="90051825" level="1" name="戦場および闘技場でHPが48000、防御力貫通が15%、INTが200、クリティカル回避が100増加" feature="PvPRankingDuelMode02" />
+	<key id="90051826" level="1" name="戦場および闘技場でHPが48000、防御力貫通が15%、LUKが200、クリティカル回避が100増加" feature="PvPRankingDuelMode02" />
+	<key id="90051827" level="1" name="戦場および闘技場でHPが92000、攻撃速度が15%、命中が25、行動不能時間減少が50%増加" feature="PvPRankingDuelMode02" />
 	<key id="90060002" level="1" name="卑劣なノウハウ" />
 	<key id="90060005" level="1" name="卑劣なノウハウ1段階" tooltipDescription="攻撃力がn増加" />
 	<key id="90060006" level="1" name="卑劣なノウハウ2段階" tooltipDescription="攻撃力がn増加" />
@@ -4442,6 +4552,9 @@
 	<key id="100000042" level="18" name="ペットの追加能力変更材料が減少" tooltipDescription="80レベルで初めて獲得できます。\nペットの追加能力を変更するときに消費される材料が、初めて獲得した際に&lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;減少し、以降&lt;font color=&apos;#ffde00&apos;&gt;30レベル&lt;/font&gt;ごとに&lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;ずつ、最大&lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;まで減少します。" feature="PetRemake01" />
 	<key id="100000042" level="19" name="ペットの追加能力変更材料が減少" tooltipDescription="80レベルで初めて獲得できます。\nペットの追加能力を変更するときに消費される材料が、初めて獲得した際に&lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;減少し、以降&lt;font color=&apos;#ffde00&apos;&gt;30レベル&lt;/font&gt;ごとに&lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;ずつ、最大&lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;まで減少します。" feature="PetRemake01" />
 	<key id="100000042" level="20" name="ペットの追加能力変更材料が減少" tooltipDescription="80レベルで初めて獲得できます。\nペットの追加能力を変更するときに消費される材料が、初めて獲得した際に&lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;減少し、以降&lt;font color=&apos;#ffde00&apos;&gt;30レベル&lt;/font&gt;ごとに&lt;font color=&apos;#ffde00&apos;&gt;1%&lt;/font&gt;ずつ、最大&lt;font color=&apos;#ffde00&apos;&gt;20%&lt;/font&gt;まで減少します。" feature="PetRemake01" />
+	<key id="100000043" name="プレミアムクラブ特典" tooltipDescription="- キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)\n- モンスター狩り経験値およびメルが20%増加\n- オフィリアエンチャント費用が10%割引\n- 1：1メル取引手数料が50%割引\n- ブラックマーケットのアイテム取引手数料が20%割引\n- いつでも、どこでも金庫をすぐに召喚可能\n- ロータスエアタクシー無制限利用可能\n- プレミアム専用ダンジョンおよびマーク使用可能\n- プレミアム専用アイテム毎日提供" locale="NA" />
+	<key id="100000043" name="プレミアムクラブ特典" tooltipDescription="- キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)\n- モンスター狩り経験値およびメルが20%増加\n- オフィリアエンチャント費用が10%割引\n- 1：1メル取引手数料が50%割引\n- ブラックマーケットのアイテム取引手数料が20%割引(メル購入を除く)\n- いつでも、どこでも金庫をすぐに召喚可能\n- ロータスエアタクシー無制限利用可能\n- プレミアム専用ダンジョンおよびマーク使用可能\n- プレミアム専用アイテム毎日提供" feature="MesoMarket" locale="NA" />
+	<key id="100000046" name="プレミアムクラブ特典(パーティボーナス)" tooltipDescription="プレミアムクラブ特典を受けている仲間とパーティを組むと、キャラクター移動速度および地上乗り物の移動速度が5%増加(PvP地域を除く / パーティ全体に適用)" locale="NA" />
 	<key id="100000047" name="自動釣り" tooltipDescription="じっと待っているだけで自動で魚が釣れます。ただし、接続している間のみバフの維持時間が進みます。" />
 	<key id="100000048" name="自動釣り" tooltipDescription="じっと待っているだけで自動で魚が釣れます。ただし、接続している間のみバフの維持時間が進みます。" />
 	<key id="100000049" name="自動釣り" tooltipDescription="じっと待っているだけで自動で魚が釣れます。ただし、接続している間のみバフの維持時間が進みます。" />
@@ -4598,7 +4711,7 @@
 	<key id="110001023" level="1" name="デイリークエストで追加ルー獲得" tooltipDescription="デイリークエスト完了時、一定確率で受け取るルーを&lt;FONT color=&apos;#FFD200&apos;&gt;5倍&lt;/FONT&gt;で受け取ります。" feature="CharacterAbility" />
 	<key id="110001024" level="1" name="$item:30001133$からボーナス報酬獲得" tooltipDescription="$item:30001133$を開けるとき、一定確率で&lt;FONT color=&apos;#FFD200&apos;&gt;もう一度&lt;/FONT&gt;箱を開けて報酬を受け取ります。\n&lt;FONT color=&apos;#909090&apos;&gt;追加で得た報酬は自動でインベントリに入り、\nインベントリがいっぱいの場合は郵便で発送されます。&lt;/FONT&gt;" feature="CharacterAbility" />
 	<key id="110001025" level="1" name="楽譜演奏時、追加経験値獲得" tooltipDescription="楽譜の演奏を完了したとき、一定確率で獲得経験値が&lt;FONT color=&apos;#FFD200&apos;&gt;3倍&lt;/FONT&gt;になります。" feature="CharacterAbility" />
-	<key id="110001026" level="1" name="大都市で休息経験値獲得可能" tooltipDescription="大都市に滞在しているときにも休息経験値を\n得ることができます。\n&lt;FONT color=&apos;#909090&apos;&gt;大都市：トライア、エリニア、ペリオン、リス港、\nヘネシス、カーニングシティ、タリスカー、ルデリーシティ、バベニ&lt;/FONT&gt;" feature="CharacterAbility" />
+	<key id="110001026" level="1" name="大都市で休息経験値獲得可能" tooltipDescription="大都市に滞在しているときにも休息経験値を\n得ることができます。\n&lt;FONT color=&apos;#909090&apos;&gt;大都市：トライア、エリニア、ペリオン、リス港、\nヘネシス、カーニングシティ、タリスカー、ルデリーシティ、バーベニー&lt;/FONT&gt;" feature="CharacterAbility" />
 	<key id="110001027" level="1" name="大物釣り時、経験値および熟練度獲得量増加" tooltipDescription="大物を釣った場合、経験値および熟練度の獲得量が&lt;FONT color=&apos;#FFD200&apos;&gt;2倍&lt;/FONT&gt;になります。" feature="CharacterAbility" />
 	<key id="110001028" level="1" name="エンチャント失敗時、フラクターの結晶追加獲得" tooltipDescription="10段階以上エンチャントされたアイテムを11段階以上に\nエンチャントを試みて失敗したとき、一定確率で\nフラクターの結晶を&lt;FONT color=&apos;#FFD200&apos;&gt;2倍&lt;/FONT&gt;獲得します。\n&lt;FONT color=&apos;#909090&apos;&gt;報酬は自動でインベントリに入り、\nインベントリがいっぱいの場合は郵便で発送されます。&lt;/FONT&gt;" feature="CharacterAbility" />
 	<key id="110001029" level="1" name="指輪製作大成功時、アイテム追加獲得" tooltipDescription="指輪製作時に大成功した場合、一定確率で製作\n結果物を&lt;FONT color=&apos;#FFD200&apos;&gt;もう一つ&lt;/FONT&gt;追加で獲得します。\n&lt;FONT color=&apos;#909090&apos;&gt;追加で得た報酬は自動でインベントリに入り、\nインベントリがいっぱいの場合は郵便で発送されます。&lt;/FONT&gt;" feature="CharacterAbility" />

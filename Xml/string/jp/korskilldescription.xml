@@ -27,6 +27,20 @@
 	<key id="50001354" level="1" uiDescription="$npcName:23000118$の究極技。\n$skill:90003004$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
 	<key id="60300016" level="1" uiDescription="$npcName:23000116$の究極技。\n$skill:90003003$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
 	<key id="60300114" level="1" uiDescription="$npcName:23000117$の究極技。\n$skill:90003005$を使用して食い止めなかった場合、取り返しのつかないことが起きる。" feature="LapentaDungeon" />
+	<key id="70003001" level="1" uiDescription="このスキルでのみオブジェクトを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003011" level="1" uiDescription="このスキルでのみオブジェクトを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003021" level="1" uiDescription="このスキルでのみオブジェクトを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003031" level="1" uiDescription="このスキルでのみオブジェクトを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003041" level="1" uiDescription="このスキルでのみボスのシールドを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003051" level="1" uiDescription="このスキルでのみボスのシールドを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003061" level="1" uiDescription="このスキルでのみボスのシールドを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003071" level="1" uiDescription="このスキルでのみボスのシールドを破壊できます。" feature="Kritias_2018_12" />
+	<key id="70003091" level="1" uiDescription="強力なパンチを繰り出します。" feature="Fieldwar02" />
+	<key id="70003101" level="1" uiDescription="周囲に衝撃波を放ちます。" feature="Fieldwar02" />
+	<key id="70003121" level="1" uiDescription="機関銃で敵を攻撃します。" feature="Fieldwar02" />
+	<key id="70003122" level="1" uiDescription="ドリルを起動して突進します。" feature="Fieldwar02" />
+	<key id="70003123" level="1" uiDescription="強力なキャノンを発射します。" feature="Fieldwar02" />
+	<key id="70003131" level="1" uiDescription="支給されたポーションです。\n即座にHPを1200回復させます。" feature="Fieldwar02" />
 	<key id="90000022" level="1" uiDescription="ブギコリの卵。\nなかなか手に入らない貴重な食材。味もよければ栄養にも富んでいる。" />
 	<key id="90000023" level="1" uiDescription="トライア周辺詰所の近衛隊員たちのための非常戦闘食糧。" />
 	<key id="90000024" level="1" uiDescription="弾力のあるゴムのゼリー。接着力に優れ、\nターゲットに投げるとくっついて絶対に落ちない。" />
@@ -100,7 +114,14 @@
 	<key id="90000397" level="1" uiDescription="キツネの尻尾の皮補強材" feature="Mastery" />
 	<key id="90000913" level="1" uiDescription="28秒後にHPが2240回復する。\n秒ごとにHPが80回復する。" />
 	<key id="90000914" level="1" uiDescription="28秒後にHPが1680回復する。\n秒ごとにHPが60回復する。" />
+	<key id="90000949" level="1" uiDescription="結婚式を祝うための祝福のクラッカーで、アフターパーティー中に思う存分使用できる。" feature="Wedding" />
+	<key id="90000950" level="1" uiDescription="結婚式を祝うためのピンクの花びらクラッカーで、アフターパーティー中に思う存分使用できる。" feature="Wedding" />
+	<key id="90000951" level="1" uiDescription="結婚式を祝うためのハートクラッカーで、アフターパーティー中に思う存分使用できる。" feature="Wedding" />
+	<key id="90000952" level="1" uiDescription="結婚式を祝うためのきらりクラッカーで、アフターパーティー中に思う存分使用できる。" feature="Wedding" />
 	<key id="90001159" level="1" uiDescription="虹色のデンデンを投げて物に変身しているプレイヤーを攻撃できます。" feature="MassiveHideAndSeek" />
+	<key id="90001166" level="1" uiDescription="虹色のデンデンを投げて悪霊を退治できます。" feature="Wedding" />
+	<key id="90001179" level="1" uiDescription="虹色のデンデンを投げて悪霊を退治できます。" feature="Wedding" />
+	<key id="90001181" level="1" uiDescription="虹色のデンデンを投げて悪霊を退治できます。" feature="Wedding" />
 	<key id="90200001" level="1" uiDescription="怒るようなアクションを取ります。" />
 	<key id="90200002" level="1" uiDescription="気合を入れるようなアクションを取ります。" />
 	<key id="90200003" level="1" uiDescription="不機嫌そうなアクションを取ります。" />
@@ -187,6 +208,9 @@
 	<key id="90200093" level="1" uiDescription="ぴょんぴょんダンスを踊ります。" />
 	<key id="90200094" level="1" uiDescription="レイダンスを踊ります。" />
 	<key id="90200095" level="1" uiDescription="餅をつくアクションを取ります。" />
+	<key id="90200096" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" locale="CN" />
+	<key id="90200096" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" locale="KR" />
+	<key id="90200096" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" locale="NA" />
 	<key id="90200097" level="1" uiDescription="セイントオナーチェアに座ります。" />
 	<key id="90200098" level="1" uiDescription="元気よく応援するアクションを取ります。" />
 	<key id="90200099" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" />
@@ -196,8 +220,10 @@
 	<key id="90200103" level="1" uiDescription="派手にクラッカーを打ち鳴らすアクションを取ります。" />
 	<key id="90200104" level="1" uiDescription="春花の凧を揚げます。" />
 	<key id="90200105" level="1" uiDescription="新鮮な草の匂いに満ちたツルのぶらんこに乗ります。" />
+	<key id="90200106" level="1" uiDescription="お祝いケーキの火を消すアクションを取ります。" locale="NA" />
 	<key id="90200107" level="1" uiDescription="元気づけるアクションを取ります。" />
 	<key id="90200108" level="1" uiDescription="マッシュキングの黄金窯に座るアクションを取ります。" />
+	<key id="90200109" level="1" uiDescription="マッシュキングの駕籠かきと一緒に踊ります。" feature="WorldChampionMushroom" />
 	<key id="90200110" level="1" uiDescription="キャンプ装備を設置して、キャンプ椅子でくつろぎます。" />
 	<key id="90200111" level="1" uiDescription="ひんやりアイスコップで、可愛いペンギンたちと休憩を取ります。" />
 	<key id="90200112" level="1" uiDescription="ナマケキノコと一緒に楽しく踊ります。" />
@@ -209,8 +235,10 @@
 	<key id="90200118" level="1" uiDescription="大きなナマケキノコの上に座ります。 " feature="SurvivalContents03" />
 	<key id="90200119" level="1" uiDescription="人形劇を演出するアクションを取ります。" />
 	<key id="90200120" level="1" uiDescription="カエデの木の下でゆっくり休みます。" />
+	<key id="90200121" level="1" uiDescription="大きなサメの前でポーズをとります。" feature="Fishing02" />
 	<key id="90200122" level="1" uiDescription="幸運のブタの夢を見ながら眠りにつきます。" />
 	<key id="90200123" level="1" uiDescription="温泉に浸かり、余裕を満喫します。" />
+	<key id="90200124" level="1" uiDescription="メイソンがよくとるポーズをまねします。" feature="Kritias_2018_12" />
 	<key id="90200125" level="1" uiDescription="リズミカルなステップダンスを披露します。" />
 	<key id="90200126" level="1" uiDescription="ポインと向かい合って楽しく踊ります。ポインポイン！" feature="Event" />
 	<key id="90200127" level="1" uiDescription="ポインと一緒に遊びます。愛情を注げば注ぐほど仲良くなれます。" feature="Event" />
@@ -232,6 +260,9 @@
 	<key id="90200143" level="1" uiDescription="楽しいビートに酔いしれます。" />
 	<key id="90200144" level="1" uiDescription="砂浜のロマンを感じます。" />
 	<key id="90200145" level="1" uiDescription="筋肉をほぐす準備運動をします。" />
+	<key id="90200146" level="1" uiDescription="精神を集中して瞑想します。" />
+	<key id="90210001" level="1" uiDescription="拍手をします。" locale="CN" />
+	<key id="90210002" level="1" uiDescription="ライトスティックを振ります。" locale="CN" />
 	<key id="90220001" level="1" uiDescription="相手と抱擁します。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
 	<key id="90220002" level="1" uiDescription="相手と拳で挨拶を交わします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
 	<key id="90220003" level="1" uiDescription="相手と雪の中で遊ぶアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
@@ -262,6 +293,7 @@
 	<key id="90220028" level="1" uiDescription="相手と一緒に秋のキャンプ場で楽しい一時を過ごします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
 	<key id="90220029" level="1" uiDescription="相手と一緒にキャンディのおねだりします。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
 	<key id="90220031" level="1" uiDescription="相手と一緒に楽しいショッピングアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
+	<key id="90220032" level="1" uiDescription="配偶者と一緒に「私たち結婚しました」アクションをとります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部の動作が異なる場合があります。&lt;/font&gt;" feature="Wedding" />
 	<key id="90220033" level="1" uiDescription="相手と一緒に初雪アクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
 	<key id="90220034" level="1" uiDescription="相手と一緒に天灯飛ばしアクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
 	<key id="90220035" level="1" uiDescription="相手と一緒にテレビ視聴中アクションを取ります。\n&lt;font color=&apos;#7A7A7A&apos;&gt;相手キャラクターの性別によって一部のアクションが異なる場合があります。&lt;/font&gt;" />
@@ -322,7 +354,23 @@
 	<key id="99910306" level="1" uiDescription="風を切るように対象に向かって突進します。" feature="FameContents_EP1_02" />
 	<key id="99910307" level="1" uiDescription="対象の足元に熱気を噴出する地震を起こします。" feature="FameContents_EP1_02" />
 	<key id="99910351" level="1" uiDescription="ナマケキノコになったあなたにできることは、怠けることだけです。" feature="SurvivalContentsTeam" />
+	<key id="99910371" level="1" uiDescription="魔力弾を連続で素早く発射します。" feature="Kritias_2018_12" />
 	<key id="99910372" level="1" uiDescription="前方に向かって熱い炎を噴き出します。" feature="Kritias_2018_12" />
+	<key id="99910401" level="1" uiDescription="前方の対象をドリルで攻撃します。" feature="Gigantica01" />
+	<key id="99910402" level="1" uiDescription="突進して貫きます。" feature="Gigantica01" />
+	<key id="99910403" level="1" uiDescription="高くジャンプして叩きつけ、地震波を放ちます。\nこの攻撃で強化されたギガンティカのバフを無力化できます。" feature="Gigantica01" />
+	<key id="99910501" level="1" uiDescription="右手で強力なパンチを繰り出します。\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。\nアルケオンのオーバーパワーバフの数値を1減少させます。" feature="Kritias_Turka01" />
+	<key id="99910502" level="1" uiDescription="左手で強力なパンチを繰り出します。\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。\nアルケオンのオーバーパワーバフの数値を1減少させます。" feature="Kritias_Turka01" />
+	<key id="99910503" level="1" uiDescription="前方に強力なエネルギービームを発射します。\nアルケオンのオーバーパワーバフの数値をダメージごとに2減少させます。" feature="Kritias_Turka01" />
+	<key id="99910504" level="1" uiDescription="気を集めて突進攻撃を繰り出します。\nアルケオンのオーバーパワーバフの数値をダメージごとに2減少させます。" feature="Kritias_Turka01" />
+	<key id="99910510" level="1" uiDescription="右手で強力なパンチを繰り出します。\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。" feature="Kritias_Turka02" />
+	<key id="99910511" level="1" uiDescription="左手で強力なパンチを繰り出します。\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。" feature="Kritias_Turka02" />
+	<key id="99910512" level="1" uiDescription="前方に強力なエネルギービームを発射します。" feature="Kritias_Turka02" />
+	<key id="99910513" level="1" uiDescription="気を集めて突進攻撃を繰り出します。" feature="Kritias_Turka02" />
+	<key id="99911501" level="1" uiDescription="右手で強力なパンチを繰り出します。\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。" feature="Kritias_Turka01" />
+	<key id="99911502" level="1" uiDescription="左手で強力なパンチを繰り出します。\n移動キーを前に入力しながら使用すると、移動しながら攻撃できます。" feature="Kritias_Turka01" />
+	<key id="99911503" level="1" uiDescription="前方に強力なエネルギービームを発射します。" feature="Kritias_Turka01" />
+	<key id="99911504" level="1" uiDescription="気を集めて突進攻撃を繰り出します。" feature="Kritias_Turka01" />
 	<key id="120010001" level="1" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;552%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
 	<key id="120010001" level="2" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;599%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
 	<key id="120010001" level="3" uiDescription="前方12mにセリンの気持ちが込められた歌を3方向に発射する。歌の攻撃を受けた対象は&lt;font color=&apos;#00aaef&apos;&gt;646%&lt;/font&gt;のダメージを受け、1秒間スタン状態になる。" feature="Lapenshard01" />
